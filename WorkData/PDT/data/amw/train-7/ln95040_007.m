@@ -186,8 +186,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-007-p2s2w2">
@@ -238,7 +238,7 @@
 <form>Kačena</form>
 <tag>
 <AM lemma="kačena" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kačena_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kačena_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-007-p2s2w8">
@@ -290,7 +290,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -345,7 +345,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-007-p2s4w2">
@@ -362,7 +362,7 @@
 <LM>w#w-ln95040-007-p2s4w3</LM>
 </w.rf>
 <form>Kačena</form>
-<tag lemma="Kačena_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kačena_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-007-p2s4w4">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

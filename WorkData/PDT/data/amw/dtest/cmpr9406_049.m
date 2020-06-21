@@ -131,7 +131,7 @@
 <LM>w#w-cmpr9406-049-p3s1w2</LM>
 </w.rf>
 <form>Hrnčířová</form>
-<tag lemma="Hrnčířová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hrnčířová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-049-p3s1w3">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-cmpr9406-049-p3s1w7</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-049-p3s1w8">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-cmpr9406-049-p3s3w8</LM>
 </w.rf>
 <form>Janákem</form>
-<tag lemma="Janák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Janák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9406-049-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-cmpr9406-049-p5s1w15</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-049-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1686,7 +1686,7 @@
 <LM>w#w-cmpr9406-049-p6s1w9</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-049-p6s1w10">
 <src.rf>manual</src.rf>
@@ -1913,8 +1913,8 @@
 </w.rf>
 <form>Kempe</form>
 <tag>
-<AM lemma="Kempe_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Kemp_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Kempe_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kemp_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="kemp" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -2005,13 +2005,13 @@
 </w.rf>
 <form>Forda</form>
 <tag>
-<AM lemma="Ford-1_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS2-----A---1</AM>
-<AM lemma="Ford-2_;K_;R" src="auto">NNIS4-----A---6</AM>
-<AM lemma="Ford-3_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ford-3_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="ford_;R" src="auto">NNIS2-----A---1</AM>
-<AM lemma="ford_;R" src="auto">NNIS4-----A---6</AM>
+<AM lemma="Ford-1_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Ford-2_;m" src="auto" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Ford-2_;m" src="auto">NNIS4-----A---6</AM>
+<AM lemma="Ford-3_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ford-3_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="ford_;m" src="auto">NNIS2-----A---1</AM>
+<AM lemma="ford_;m" src="auto">NNIS4-----A---6</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-049-p6s2w27">
@@ -2093,7 +2093,7 @@
 </w.rf>
 <form>Greenwald</form>
 <tag>
-<AM lemma="Greenwald-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Greenwald-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2421,7 +2421,7 @@
 <LM>w#w-cmpr9406-049-p8s1w6</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-049-p8s1w7">
 <src.rf>manual</src.rf>

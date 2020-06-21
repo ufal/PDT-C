@@ -81,8 +81,8 @@
 </w.rf>
 <form>vet</form>
 <tag>
-<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-60-p2s1Aw4">
@@ -189,7 +189,7 @@
 <LM>w#w-ln94211-60-p2s1Bw11</LM>
 </w.rf>
 <form>Čapka</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-60-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -787,8 +787,8 @@
 <form>Matka</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
@@ -839,7 +839,7 @@
 <LM>w#w-ln94211-60-p2s6w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94211-60-p2s6w8">
 <src.rf>manual</src.rf>

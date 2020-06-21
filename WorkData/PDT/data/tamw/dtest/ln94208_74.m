@@ -239,7 +239,7 @@
 <LM>w#w-ln94208-74-p2s1Bw21</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-74-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln94208-74-p2s1Bw23</LM>
 </w.rf>
 <form>Čchien</form>
-<tag lemma="Čchien_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čchien_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-74-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-ln94208-74-p2s2w37</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-74-p2s2w38">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94208-74-p2s2w39</LM>
 </w.rf>
 <form>Ťiang</form>
-<tag lemma="Ťiang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ťiang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-74-p2s2w40">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <form>Ce</form>
 <tag>
 <AM lemma="Ce-4_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ce-1_:B_;H_^(cerium,_cer)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Ce-1_:B_;U_^(cerium,_cer)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Ce-4_;Y" src="manual" selected="1">NNMXX-----A----</AM>

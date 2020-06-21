@@ -52,8 +52,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_;^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_;^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -72,7 +72,7 @@
 <LM>w#w-lnd94105-004-p1s1Bw2</LM>
 </w.rf>
 <form>Blažková</form>
-<tag lemma="Blažková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blažková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-004-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -1985,7 +1985,7 @@
 <LM>w#w-lnd94105-004-p1s12Bw29</LM>
 </w.rf>
 <form>Bourlanges</form>
-<tag lemma="Bourlanges_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bourlanges_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-004-p1s12Bw30">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-131-p1s1w4</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930703-131-p1s1w5">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-mf930703-131-p2s1w5</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930703-131-p2s1w6">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-mf930703-131-p2s2w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930703-131-p2s2w4">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-mf930703-131-p2s3w12</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf930703-131-p2s3w13">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf930703-131-p3s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930703-131-p3s1w4">
 <src.rf>manual</src.rf>
@@ -967,12 +967,12 @@
 <form>Zavidoviči</form>
 <tag>
 <AM lemma="Zavidoviči_;G" src="orig" selected="1">NNNXX-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-131-p4s1w18">

@@ -28,7 +28,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -130,7 +130,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-3_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-3_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94204-27-p2s1Bw2</LM>
 </w.rf>
 <form>Seifertová</form>
-<tag lemma="Seifertová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Seifertová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-27-p2s1C">
@@ -234,7 +234,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -509,7 +509,7 @@
 <form>Bernard</form>
 <tag>
 <AM lemma="Bernard_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bernard_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p2s3w5">
@@ -575,7 +575,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -854,7 +854,7 @@
 <form>Bernard</form>
 <tag>
 <AM lemma="Bernard_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bernard_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p3s1w16">
@@ -879,7 +879,7 @@
 <LM>w#w-ln94204-27-p3s1w18</LM>
 </w.rf>
 <form>Šmejkal</form>
-<tag lemma="Šmejkal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmejkal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-27-p3s1w19">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-ln94204-27-p3s1w21</LM>
 </w.rf>
 <form>Vávra</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-27-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p3s3w4">
@@ -1088,7 +1088,7 @@
 <form>Bernarda</form>
 <tag>
 <AM lemma="Bernard_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bernard_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p3s3w6">
@@ -1644,7 +1644,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-3_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-3_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
@@ -1750,7 +1750,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p5s2w4">
@@ -1769,8 +1769,8 @@
 <form>Bernarda</form>
 <tag>
 <AM lemma="Bernard_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Bernard_;S" src="manual">NNMS2-----A----</AM>
-<AM lemma="Bernard_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p5s2w6">
@@ -2015,8 +2015,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p5s4w5">
@@ -2027,7 +2027,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p5s4w6">
@@ -2046,7 +2046,7 @@
 <form>Bernard</form>
 <tag>
 <AM lemma="Bernard_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bernard_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p5s4w8">
@@ -2326,7 +2326,7 @@
 </w.rf>
 <form>Bernarda</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFS1-----A----</AM>
@@ -2649,7 +2649,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -2822,7 +2822,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p7s2w8">
@@ -2841,7 +2841,7 @@
 <form>Bernard</form>
 <tag>
 <AM lemma="Bernard_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bernard_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p7s2w10">
@@ -3198,7 +3198,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p7s4w16">
@@ -3217,7 +3217,7 @@
 <form>Bernard</form>
 <tag>
 <AM lemma="Bernard_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bernard_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p7s4w18">
@@ -3245,7 +3245,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -3817,7 +3817,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -3993,7 +3993,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-3_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-3_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -4100,7 +4100,7 @@
 <LM>w#w-ln94204-27-p10s1w15</LM>
 </w.rf>
 <form>Pivex</form>
-<tag lemma="Pivex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pivex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-27-p10s1w16">
 <src.rf>manual</src.rf>

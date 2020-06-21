@@ -774,7 +774,7 @@
 <LM>w#w-lnd94105-121-p1s5w2</LM>
 </w.rf>
 <form>črk</form>
-<tag lemma="črk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="črk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-121-p1s5w3">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-lnd94105-121-p1s5w6</LM>
 </w.rf>
 <form>Merta</form>
-<tag lemma="Merta-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merta-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-121-p1s5w7">
 <src.rf>manual</src.rf>
@@ -823,8 +823,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

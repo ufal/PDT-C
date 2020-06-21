@@ -118,8 +118,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-087-p2s1w13">
@@ -475,8 +475,8 @@
 </w.rf>
 <form>Audi</form>
 <tag>
-<AM lemma="Audi-2_;R_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Audi-2_;m_^(vozidlo)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Audi_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -526,7 +526,7 @@
 <LM>w#w-ln95049-087-p3s1w16</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-087-p3s1w17">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln95049-087-p3s1w17</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-087-p3s1w18">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln95049-087-p3s2w1</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95049-087-p3s2w2">
 <src.rf>manual</src.rf>

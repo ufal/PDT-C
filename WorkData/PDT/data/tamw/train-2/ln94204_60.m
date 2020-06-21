@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-60-p1s1w4</LM>
 </w.rf>
 <form>Klosea</form>
-<tag lemma="Klose_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-60-p1s1w5">
 <src.rf>manual</src.rf>
@@ -68,7 +68,7 @@
 </w.rf>
 <form>RFE</form>
 <tag>
-<AM lemma="RFE-1_:B_;K_,t_^(Radio_Free_Europe)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RFE-1_:B_;m_,t_^(Radio_Free_Europe)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RFE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -246,7 +246,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1071,7 +1071,7 @@
 <LM>w#w-ln94204-60-p3s7w2</LM>
 </w.rf>
 <form>ljď</form>
-<tag lemma="ljď-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ljď-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-60-p3s7w3">
 <src.rf>manual</src.rf>

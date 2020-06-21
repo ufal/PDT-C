@@ -64,7 +64,7 @@
 <LM>w#w-mf920925-092-p2s1Aw3</LM>
 </w.rf>
 <form>iků</form>
-<tag lemma="iků-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="iků-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920925-092-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-mf920925-092-p2s2w25</LM>
 </w.rf>
 <form>Dvořáková</form>
-<tag lemma="Dvořáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dvořáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-092-p2s2w26">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-mf920925-092-p2s3w4</LM>
 </w.rf>
 <form>Suchým</form>
-<tag lemma="Suchý_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Suchý_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-092-p2s3w5">
 <src.rf>manual</src.rf>

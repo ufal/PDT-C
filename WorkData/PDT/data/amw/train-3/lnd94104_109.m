@@ -44,7 +44,7 @@
 </w.rf>
 <form>Syč</form>
 <tag>
-<AM lemma="Syč_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Syč_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="syčet" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="syčet" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
@@ -66,7 +66,7 @@
 </w.rf>
 <form>IIHF</form>
 <tag>
-<AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IIHF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -140,7 +140,7 @@
 <LM>w#w-lnd94104-109-p1s2Aw10</LM>
 </w.rf>
 <form>Brežněvova</form>
-<tag lemma="Brežněvův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Brežněvův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd94104-109-p1s2Aw11">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <form>ČERVENKA</form>
 <tag>
 <AM lemma="červenka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Červenka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Červenka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s2Cw3">
@@ -204,7 +204,7 @@
 </w.rf>
 <form>Bolzano</form>
 <tag>
-<AM lemma="Bolzano-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bolzano-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Bolzano-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -330,8 +330,8 @@
 </w.rf>
 <form>Laurin</form>
 <tag>
-<AM lemma="Laurin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Laurin-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Laurin_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Laurin-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s2Dw15">
@@ -400,7 +400,7 @@
 </w.rf>
 <form>IIHF</form>
 <tag>
-<AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IIHF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -526,7 +526,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="orig">C}-------------</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s3w6">
@@ -545,7 +545,7 @@
 <form>Syče</form>
 <tag>
 <AM lemma="syčet" src="orig">VeYS------A-I--</AM>
-<AM lemma="Syč_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Syč_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-109-p1s3w8">
@@ -637,7 +637,7 @@
 </w.rf>
 <form>Syče</form>
 <tag>
-<AM lemma="Syč_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Syč_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="syčet" src="auto" recommended="1">VeYS------A-I--</AM>
 </tag>
 </m>
@@ -679,7 +679,7 @@
 <LM>w#w-lnd94104-109-p1s4w15</LM>
 </w.rf>
 <form>Samojlova</form>
-<tag lemma="Samojlov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Samojlov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s4w16">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-lnd94104-109-p1s4w22</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s4w23">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 </w.rf>
 <form>NOV</form>
 <tag>
-<AM lemma="Nova_;K_^(televize)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Nova_;m_^(televize)" src="orig">NNFP2-----A----</AM>
 <AM lemma="NOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -962,7 +962,7 @@
 <LM>w#w-lnd94104-109-p1s4w50</LM>
 </w.rf>
 <form>Smirnova</form>
-<tag lemma="Smirnov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smirnov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s4w51">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 </w.rf>
 <form>Syč</form>
 <tag>
-<AM lemma="Syč_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Syč_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="syčet" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="syčet" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
@@ -1144,7 +1144,7 @@
 <LM>w#w-lnd94104-109-p1s5w9</LM>
 </w.rf>
 <form>Petrovové</form>
-<tag lemma="Petrov_;S" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Petrov_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s5w10">
 <src.rf>manual</src.rf>
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>Vladimírovič</form>
 <tag>
-<AM lemma="Vladimírovič_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vladimírovič_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Vladimírovič_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1220,7 +1220,7 @@
 </w.rf>
 <form>Petrovič</form>
 <tag>
-<AM lemma="Petrovič_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Petrovič_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Petrovič_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1576,7 +1576,7 @@
 </w.rf>
 <form>IIHF</form>
 <tag>
-<AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IIHF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1674,7 +1674,7 @@
 <LM>w#w-lnd94104-109-p1s8w16</LM>
 </w.rf>
 <form>Andreas</form>
-<tag lemma="Andreas_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andreas_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s8w17">
 <src.rf>manual</src.rf>
@@ -1682,7 +1682,7 @@
 <LM>w#w-lnd94104-109-p1s8w17</LM>
 </w.rf>
 <form>Frysztacki</form>
-<tag lemma="Frysztacki_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frysztacki_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s8w18">
 <src.rf>manual</src.rf>
@@ -1770,7 +1770,7 @@
 <LM>w#w-lnd94104-109-p1s8w28</LM>
 </w.rf>
 <form>Mayová</form>
-<tag lemma="Mayová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mayová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s8w29">
 <src.rf>manual</src.rf>
@@ -2234,7 +2234,7 @@
 <LM>w#w-lnd94104-109-p1s10w26</LM>
 </w.rf>
 <form>Jelcinově</form>
-<tag lemma="Jelcinův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Jelcinův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd94104-109-p1s10w27">
 <src.rf>manual</src.rf>
@@ -2479,7 +2479,7 @@
 <LM>w#w-lnd94104-109-p1s11Aw24</LM>
 </w.rf>
 <form>Brežněvova</form>
-<tag lemma="Brežněvův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Brežněvův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd94104-109-p1s11Aw25">
 <src.rf>manual</src.rf>
@@ -2504,7 +2504,7 @@
 </w.rf>
 <form>Lukiče</form>
 <tag>
-<AM lemma="Lukič_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Lukič_;Y" src="orig">NNMS4-----A----</AM>
 <AM lemma="Lukič_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2515,7 +2515,7 @@
 </w.rf>
 <form>Syče</form>
 <tag>
-<AM lemma="Syč_;S" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Syč_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="syčet" src="auto" recommended="1">VeYS------A-I--</AM>
 </tag>
 </m>
@@ -2560,7 +2560,7 @@
 </w.rf>
 <form>IIHF</form>
 <tag>
-<AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IIHF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2586,7 +2586,7 @@
 <LM>w#w-lnd94104-109-p1s11Bw7</LM>
 </w.rf>
 <form>Sabetzki</form>
-<tag lemma="Sabetzki_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sabetzki_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s11Bw8">
 <src.rf>manual</src.rf>
@@ -2643,7 +2643,7 @@
 </w.rf>
 <form>Syč</form>
 <tag>
-<AM lemma="Syč_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Syč_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="syčet" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="syčet" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
@@ -2664,7 +2664,7 @@
 <LM>w#w-lnd94104-109-p1s12w1</LM>
 </w.rf>
 <form>Petrov</form>
-<tag lemma="Petrov_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s12w2">
 <src.rf>manual</src.rf>
@@ -2810,7 +2810,7 @@
 <LM>w#w-lnd94104-109-p1s13Aw6</LM>
 </w.rf>
 <form>Smirnova</form>
-<tag lemma="Smirnov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smirnov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s13Aw7">
 <src.rf>manual</src.rf>
@@ -2875,7 +2875,7 @@
 </w.rf>
 <form>Syč</form>
 <tag>
-<AM lemma="Syč_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Syč_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="syčet" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="syčet" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
@@ -2951,7 +2951,7 @@
 </w.rf>
 <form>IIHF</form>
 <tag>
-<AM lemma="IIHF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IIHF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IIHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2988,7 +2988,7 @@
 <LM>w#w-lnd94104-109-p1s13Bw10</LM>
 </w.rf>
 <form>Šubrt</form>
-<tag lemma="Šubrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s13Bw11">
 <src.rf>manual</src.rf>
@@ -3132,7 +3132,7 @@
 <LM>w#w-lnd94104-109-p1s13Bw27</LM>
 </w.rf>
 <form>Petrova</form>
-<tag lemma="Petrov_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s13Bw28">
 <src.rf>manual</src.rf>

@@ -60,7 +60,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -185,7 +185,7 @@
 </w.rf>
 <form>National</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -215,8 +215,8 @@
 </w.rf>
 <form>PowerGen</form>
 <tag>
-<AM lemma="PowerGen_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="PowerGen_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="PowerGen_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="PowerGen_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-008-p2s1w18">
@@ -482,7 +482,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -493,7 +493,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -251,7 +251,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -402,7 +402,7 @@
 <LM>w#w-lnd92256-057-p3s2w14</LM>
 </w.rf>
 <form>Mrázek</form>
-<tag lemma="Mrázek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mrázek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-057-p3s2w15">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 </w.rf>
 <form>ČSAV</form>
 <tag>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -536,8 +536,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p4s1w10">
@@ -784,8 +784,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p4s2w30">
@@ -909,7 +909,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1118,7 +1118,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1728,7 +1728,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1851,7 +1851,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2006,7 +2006,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2332,8 +2332,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p6s2w18">
@@ -2388,7 +2388,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2591,7 +2591,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2748,7 +2748,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2994,7 +2994,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3077,7 +3077,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3194,7 +3194,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3551,7 +3551,7 @@
 </w.rf>
 <form>MSD</form>
 <tag>
-<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-1_:B_;m_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4124,8 +4124,8 @@
 </w.rf>
 <form>nel</form>
 <tag>
-<AM lemma="nel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nel-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nel-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p9s1w3">

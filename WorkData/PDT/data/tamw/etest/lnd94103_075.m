@@ -70,8 +70,8 @@
 </w.rf>
 <form>ol</form>
 <tag>
-<AM lemma="ol-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ol-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ol-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ol-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-075-p1s2w4">

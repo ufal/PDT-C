@@ -27,7 +27,7 @@
 <LM>w#w-lnd92255-130-p1s1w2</LM>
 </w.rf>
 <form>Bondra</form>
-<tag lemma="Bondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-130-p1s1w3">
 <src.rf>manual</src.rf>
@@ -142,8 +142,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-130-p2s2w10">
@@ -184,7 +184,7 @@
 <LM>w#w-lnd92255-130-p2s2w14</LM>
 </w.rf>
 <form>Bondra</form>
-<tag lemma="Bondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-130-p2s2w15">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-lnd92255-130-p2s3w20</LM>
 </w.rf>
 <form>Miller</form>
-<tag lemma="Miller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-130-p2s3w21">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-lnd92255-130-p2s3w24</LM>
 </w.rf>
 <form>Lindena</form>
-<tag lemma="Linden-2_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Linden-2_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-130-p2s3w25">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-lnd92255-130-p2s3w26</LM>
 </w.rf>
 <form>Courtnalla</form>
-<tag lemma="Courtnall_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Courtnall_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-130-p2s3w27">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 </w.rf>
 <form>Sharks</form>
 <tag>
-<AM lemma="Sharks_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Sharks_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Sharks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -173,7 +173,7 @@
 <LM>w#w-mf930708-129-p2s1w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930708-129-p2s1w18">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-mf930708-129-p2s2w7</LM>
 </w.rf>
 <form>Pospíšilová</form>
-<tag lemma="Pospíšilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pospíšilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-129-p2s2w8">
 <src.rf>manual</src.rf>

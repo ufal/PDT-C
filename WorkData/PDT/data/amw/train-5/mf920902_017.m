@@ -647,7 +647,7 @@
 <form>Sporo</form>
 <tag>
 <AM lemma="sporo_^(úsporně)" src="auto">Db-------------</AM>
-<AM lemma="Sporo_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sporo_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-017-p2s4w21">
@@ -672,7 +672,7 @@
 <LM>w#w-mf920902-017-p2s4w23</LM>
 </w.rf>
 <form>Zaragy</form>
-<tag lemma="Zaraga_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zaraga_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-017-p2s4w24">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-mf920902-017-p2s4w32</LM>
 </w.rf>
 <form>Petra</form>
-<tag lemma="petra-1_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="petra-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-017-p2s4w33">
 <src.rf>manual</src.rf>
@@ -1468,7 +1468,7 @@
 <LM>w#w-mf920902-017-p2s8w37</LM>
 </w.rf>
 <form>Petra</form>
-<tag lemma="petra-1_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="petra-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-017-p2s8w38">
 <src.rf>manual</src.rf>
@@ -1594,7 +1594,7 @@
 <LM>w#w-mf920902-017-p2s9w8</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-017-p2s9w9">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-ln94205-71-p2s1Aw2</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-71-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -821,8 +821,8 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-71-p3s1w30">
@@ -2238,7 +2238,7 @@
 <LM>w#w-ln94205-71-p4s6w42</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-71-p4s6w43">
 <src.rf>manual</src.rf>
@@ -4058,7 +4058,7 @@
 <LM>w#w-ln94205-71-p8s1w19</LM>
 </w.rf>
 <form>Husák</form>
-<tag lemma="Husák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Husák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-71-p8s1w20">
 <src.rf>manual</src.rf>
@@ -4109,7 +4109,7 @@
 <LM>w#w-ln94205-71-p8s1w25</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-71-p8s1w26">
 <src.rf>manual</src.rf>
@@ -4149,7 +4149,7 @@
 <LM>w#w-ln94205-71-p8s1w30</LM>
 </w.rf>
 <form>Dubček</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-71-p8s1w31">
 <src.rf>manual</src.rf>
@@ -4181,7 +4181,7 @@
 <LM>w#w-ln94205-71-p8s1w34</LM>
 </w.rf>
 <form>Černík</form>
-<tag lemma="Černík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-71-p8s1w35">
 <src.rf>manual</src.rf>
@@ -4274,7 +4274,7 @@
 <LM>w#w-ln94205-71-p8s2w10</LM>
 </w.rf>
 <form>Dubček</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-71-p8s2w11">
 <src.rf>manual</src.rf>

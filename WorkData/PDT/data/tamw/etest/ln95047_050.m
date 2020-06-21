@@ -43,7 +43,7 @@
 <LM>w#w-ln95047-050-p1s1w4</LM>
 </w.rf>
 <form>Bolt</form>
-<tag lemma="Bolt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-050-p2s1">
@@ -93,7 +93,7 @@
 <LM>w#w-ln95047-050-p2s1w6</LM>
 </w.rf>
 <form>Bolt</form>
-<tag lemma="Bolt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s1w7">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln95047-050-p2s2w12</LM>
 </w.rf>
 <form>Thomase</form>
-<tag lemma="Thomas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Thomas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s2w13">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95047-050-p2s2w13</LM>
 </w.rf>
 <form>Moora</form>
-<tag lemma="Moor_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Moor_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s2w14">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln95047-050-p2s3w9</LM>
 </w.rf>
 <form>Bolt</form>
-<tag lemma="Bolt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s3w10">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln95047-050-p2s4w1</LM>
 </w.rf>
 <form>Bolt</form>
-<tag lemma="Bolt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s4w2">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln95047-050-p2s4w11</LM>
 </w.rf>
 <form>Leanem</form>
-<tag lemma="Lean_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lean_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s4w12">
 <src.rf>manual</src.rf>
@@ -692,8 +692,8 @@
 </w.rf>
 <form>Lawrence</form>
 <tag>
-<AM lemma="Lawrence_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lawrence_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-050-p2s4w21">
@@ -734,7 +734,7 @@
 <LM>w#w-ln95047-050-p2s4w25</LM>
 </w.rf>
 <form>Živago</form>
-<tag lemma="Živago_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Živago_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s4w26">
 <src.rf>manual</src.rf>
@@ -808,9 +808,9 @@
 </w.rf>
 <form>Bounty</form>
 <tag>
-<AM lemma="Bounty-1_;R_^(jméno_lodě)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Bounty_;R_;Y_^(čokol._tyčinka;;loď;;klisna)" src="manual">NNXXX-----A----</AM>
-<AM lemma="Bounty_;R_;Y_^(čokol._tyčinka;;loď;;klisna)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Bounty-1_;m_^(jméno_lodě)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bounty_;Y_;m_^(čokol._tyčinka;;loď;;klisna)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bounty_;Y_;m_^(čokol._tyčinka;;loď;;klisna)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-050-p2s4w35">
@@ -829,7 +829,7 @@
 <LM>w#w-ln95047-050-p2s5w1</LM>
 </w.rf>
 <form>Bolt</form>
-<tag lemma="Bolt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln95047-050-p2s5w23</LM>
 </w.rf>
 <form>Nixonovi</form>
-<tag lemma="Nixon_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Nixon_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s5w24">
 <src.rf>manual</src.rf>

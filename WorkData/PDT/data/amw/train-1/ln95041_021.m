@@ -175,7 +175,7 @@
 <form>La</form>
 <tag>
 <AM lemma="La_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
@@ -192,7 +192,7 @@
 <form>Manche</form>
 <tag>
 <AM lemma="Manche_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1" selected="1">NNISX-----A----</AM>
+<AM lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -632,7 +632,7 @@
 </w.rf>
 <form>rowdies</form>
 <tag>
-<AM lemma="rowdies" src="orig">NNMPX-----A----</AM>
+<AM lemma="rowdies" src="orig">NNMXX-----A----</AM>
 <AM lemma="rowdies-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1001,7 +1001,7 @@
 <LM>w#w-ln95041-021-p3s3w5</LM>
 </w.rf>
 <form>Platt</form>
-<tag lemma="Platt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Platt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-021-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1890,7 +1890,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1933,8 +1933,8 @@
 </w.rf>
 <form>Graham</form>
 <tag>
-<AM lemma="Graham_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Graham_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Graham_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Graham_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-021-p3s7w31">
@@ -1943,7 +1943,7 @@
 <LM>w#w-ln95041-021-p3s7w31</LM>
 </w.rf>
 <form>Kelly</form>
-<tag lemma="Kelly_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kelly_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-021-p3s7w32">
 <src.rf>manual</src.rf>
@@ -2041,7 +2041,7 @@
 <LM>w#w-ln95041-021-p3s8w5</LM>
 </w.rf>
 <form>Allen</form>
-<tag lemma="Allen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Allen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-021-p3s8w6">
 <src.rf>manual</src.rf>
@@ -2229,7 +2229,7 @@
 <LM>w#w-ln95041-021-p3s10w7</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-021-p3s10w8">
 <src.rf>manual</src.rf>
@@ -2237,7 +2237,7 @@
 <LM>w#w-ln95041-021-p3s10w8</LM>
 </w.rf>
 <form>Howard</form>
-<tag lemma="Howard_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Howard_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-021-p3s10w9">
 <src.rf>manual</src.rf>
@@ -2524,7 +2524,7 @@
 </w.rf>
 <form>Daily</form>
 <tag>
-<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-1_;m_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2535,7 +2535,7 @@
 </w.rf>
 <form>Telegraph</form>
 <tag>
-<AM lemma="Telegraph-1_;K_,t_^(souč._názvu_Daily_T.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Telegraph-1_;m_,t_^(souč._názvu_Daily_T.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Telegraph-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2692,7 +2692,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2871,7 +2871,7 @@
 </w.rf>
 <form>Daily</form>
 <tag>
-<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-1_;m_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2903,7 +2903,7 @@
 </w.rf>
 <form>Daily</form>
 <tag>
-<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-1_;m_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3127,7 +3127,7 @@
 </w.rf>
 <form>Today</form>
 <tag>
-<AM lemma="Today_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Today_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Today-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3845,7 +3845,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-021-p4s5w14">
@@ -3897,7 +3897,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4073,7 +4073,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4108,7 +4108,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -4220,7 +4220,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4328,7 +4328,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4421,7 +4421,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4476,7 +4476,7 @@
 <LM>w#w-ln95041-021-p5s5w4</LM>
 </w.rf>
 <form>Havelange</form>
-<tag lemma="Havelange_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havelange_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-021-p5s5w5">
 <src.rf>manual</src.rf>
@@ -4525,7 +4525,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

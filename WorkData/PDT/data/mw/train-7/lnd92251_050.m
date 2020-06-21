@@ -105,7 +105,7 @@
 <form>em</form>
 <tag>
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
-<AM lemma="em-99_:B_;S" src="auto" recommended="1" selected="1">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;Y" src="auto" recommended="1" selected="1">NNXXX-----A---8</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -422,7 +422,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-050-p3s4w19">
@@ -439,7 +439,7 @@
 <LM>w#w-lnd92251-050-p3s4w20</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-050-p3s4w21">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-050-p3s4w23">
@@ -474,7 +474,7 @@
 <LM>w#w-lnd92251-050-p3s4w24</LM>
 </w.rf>
 <form>Tigrida</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-050-p3s4w25">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-050-p3s4w27">
@@ -509,7 +509,7 @@
 <LM>w#w-lnd92251-050-p3s4w28</LM>
 </w.rf>
 <form>Schwarzenberka</form>
-<tag lemma="Schwarzenberk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schwarzenberk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-050-p3s4w29">
 <src.rf>manual</src.rf>

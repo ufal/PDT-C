@@ -197,7 +197,7 @@
 </w.rf>
 <form>Barnet</form>
 <tag>
-<AM lemma="Barnet_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Barnet_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Barnet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -629,7 +629,7 @@
 <LM>w#w-lnd92259-064-p3s4w26</LM>
 </w.rf>
 <form>Enache</form>
-<tag lemma="Enache_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Enache_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-064-p3s4w27">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-lnd92259-064-p3s5w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92259-064-p3s5w9">
 <src.rf>manual</src.rf>

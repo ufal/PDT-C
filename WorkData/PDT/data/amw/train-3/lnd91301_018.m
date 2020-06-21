@@ -54,8 +54,8 @@
 </w.rf>
 <form>mlp</form>
 <tag>
-<AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mlp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mlp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-018-p2s1w4">
@@ -311,7 +311,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-018-p3s1w30">

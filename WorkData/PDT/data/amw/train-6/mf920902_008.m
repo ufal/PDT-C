@@ -801,7 +801,7 @@
 <LM>w#w-mf920902-008-p4s1w8</LM>
 </w.rf>
 <form>Rózsa</form>
-<tag lemma="Rózsa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rózsa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-008-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1184,7 +1184,7 @@
 <LM>w#w-mf920902-008-p4s3w6</LM>
 </w.rf>
 <form>Neuwirth</form>
-<tag lemma="Neuwirth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neuwirth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-008-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1590,7 +1590,7 @@
 <LM>w#w-mf920902-008-p5s1w7</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-008-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <LM>w#w-mf920902-008-p5s2w4</LM>
 </w.rf>
 <form>Prokešovi</form>
-<tag lemma="Prokeš_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Prokeš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920902-008-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1829,7 +1829,7 @@
 <LM>w#w-mf920902-008-p5s3w2</LM>
 </w.rf>
 <form>Prokeš</form>
-<tag lemma="Prokeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-008-p5s3w3">
 <src.rf>manual</src.rf>
@@ -2035,7 +2035,7 @@
 <LM>w#w-mf920902-008-p5s3w27</LM>
 </w.rf>
 <form>Rózsa</form>
-<tag lemma="Rózsa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rózsa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-008-p5s3w28">
 <src.rf>manual</src.rf>
@@ -2051,7 +2051,7 @@
 <LM>w#w-mf920902-008-p5s3w29</LM>
 </w.rf>
 <form>Neuwirth</form>
-<tag lemma="Neuwirth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neuwirth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-008-p5s3w30">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-1_:B_;m_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2250,7 +2250,7 @@
 <LM>w#w-mf920902-008-p6s2w8</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-008-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2583,7 +2583,7 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3802,7 +3802,7 @@
 <LM>w#w-mf920902-008-p7s2w6</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-008-p7s2w7">
 <src.rf>manual</src.rf>

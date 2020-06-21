@@ -142,7 +142,7 @@
 <LM>w#w-ln94205-105-p2s1w7</LM>
 </w.rf>
 <form>Michaela</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s1w8">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-ln94205-105-p2s1w8</LM>
 </w.rf>
 <form>Radforda</form>
-<tag lemma="Radford_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Radford_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s1w9">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 </w.rf>
 <form>Lido</form>
 <tag>
-<AM lemma="Lido_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Lido_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Lido-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -589,7 +589,7 @@
 <LM>w#w-ln94205-105-p2s3w16</LM>
 </w.rf>
 <form>Čonkina</form>
-<tag lemma="Čonkin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čonkin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s3w17">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-ln94205-105-p2s3w20</LM>
 </w.rf>
 <form>Menzela</form>
-<tag lemma="Menzel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Menzel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s3w21">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln94205-105-p2s3w30</LM>
 </w.rf>
 <form>Svěrákův</form>
-<tag lemma="Svěrákův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Svěrákův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94205-105-p2s3w31">
 <src.rf>manual</src.rf>
@@ -962,8 +962,8 @@
 </w.rf>
 <form>Forrest</form>
 <tag>
-<AM lemma="Forrest_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Forrest_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Forrest_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Forrest_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-105-p2s5w8">
@@ -972,7 +972,7 @@
 <LM>w#w-ln94205-105-p2s5w8</LM>
 </w.rf>
 <form>Gump</form>
-<tag lemma="Gump_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gump_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1191,9 +1191,9 @@
 </w.rf>
 <form>Kingu</form>
 <tag>
-<AM lemma="King_;S" src="orig">NNMS3-----A---1</AM>
-<AM lemma="King_;S_;YY" src="manual">NNMS3-----A---1</AM>
-<AM lemma="King_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="King_;Y" src="orig">NNMS3-----A---1</AM>
+<AM lemma="King_;YY" src="manual">NNMS3-----A---1</AM>
+<AM lemma="King_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94205-105-p2s6w9">
@@ -1202,7 +1202,7 @@
 <LM>w#w-ln94205-105-p2s6w9</LM>
 </w.rf>
 <form>Vidorovi</form>
-<tag lemma="Vidor_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Vidor_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1349,8 +1349,8 @@
 </w.rf>
 <form>jaf</form>
 <tag>
-<AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jaf-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jaf-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-105-p2s7w3">

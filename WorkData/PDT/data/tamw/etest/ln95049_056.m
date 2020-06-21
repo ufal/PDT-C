@@ -256,13 +256,13 @@
 </w.rf>
 <form>Tálské</form>
 <tag>
-<AM lemma="Tálský_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFP1-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFP4-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Tálská_;S" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFS6-----A----</AM>
+<AM lemma="Tálský_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFP1-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFP4-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFP5-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-056-p2s2w11">
@@ -521,7 +521,7 @@
 <LM>w#w-ln95049-056-p3s1w19</LM>
 </w.rf>
 <form>Morgensterna</form>
-<tag lemma="Morgenstern_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Morgenstern_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-056-p3s1w20">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln95049-056-p3s2w10</LM>
 </w.rf>
 <form>Radokovu</form>
-<tag lemma="Radokův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Radokův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95049-056-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1112,8 +1112,8 @@
 </w.rf>
 <form>Lewise</form>
 <tag>
-<AM lemma="Lewis_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lewis_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Lewis_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Lewis_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-056-p4s1w23">
@@ -1122,7 +1122,7 @@
 <LM>w#w-ln95049-056-p4s1w23</LM>
 </w.rf>
 <form>Carrolla</form>
-<tag lemma="Carroll-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Carroll-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-056-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1394,8 +1394,8 @@
 </w.rf>
 <form>limericků</form>
 <tag>
-<AM lemma="limerick_;u_,t" src="auto">NNIP2-----A----</AM>
-<AM lemma="limerick_;u" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="limerick_,t" src="auto">NNIP2-----A----</AM>
+<AM lemma="limerick" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-056-p5s1w20">
@@ -1420,7 +1420,7 @@
 <LM>w#w-ln95049-056-p5s1w22</LM>
 </w.rf>
 <form>Leara</form>
-<tag lemma="Lear_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lear_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-056-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1552,7 +1552,7 @@
 <form>Odeonu</form>
 <tag>
 <AM lemma="Odeon_;Y" src="orig">NNIS6-----A----</AM>
-<AM lemma="Odeon-2_;K" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-056-p5s2w16">
@@ -1593,7 +1593,7 @@
 <LM>w#w-ln95049-056-p5s2w20</LM>
 </w.rf>
 <form>Learovy</form>
-<tag lemma="Learův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Learův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95049-056-p5s2w21">
 <src.rf>manual</src.rf>
@@ -1641,7 +1641,7 @@
 <LM>w#w-ln95049-056-p5s2w26</LM>
 </w.rf>
 <form>Přidala</form>
-<tag lemma="Přidal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Přidal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-056-p5s2w27">
 <src.rf>manual</src.rf>
@@ -1668,9 +1668,9 @@
 </w.rf>
 <form>mlk</form>
 <tag>
-<AM lemma="mlk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mlk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mlknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="mlk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mlk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-056-p5s3w3">

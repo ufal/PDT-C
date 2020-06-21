@@ -70,7 +70,7 @@
 </w.rf>
 <form>man</form>
 <tag>
-<AM lemma="man-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="man-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -244,7 +244,7 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -262,7 +262,7 @@
 <LM>w#w-mf930708-029-p2s2w10</LM>
 </w.rf>
 <form>Surga</form>
-<tag lemma="Surga_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Surga_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-029-p2s2w11">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1067,7 +1067,7 @@
 <LM>w#w-mf930708-029-p2s8w7</LM>
 </w.rf>
 <form>Surgy</form>
-<tag lemma="Surga_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Surga_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-029-p2s8w8">
 <src.rf>manual</src.rf>

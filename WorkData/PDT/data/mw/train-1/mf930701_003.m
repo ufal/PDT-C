@@ -102,9 +102,9 @@
 </w.rf>
 <form>rep</form>
 <tag>
-<AM lemma="rep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rep-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="rep-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rep-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-003-p2s1w4">
@@ -299,7 +299,7 @@
 <LM>w#w-mf930701-003-p2s2w7</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-003-p2s2w8">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-mf930701-003-p2s4w2</LM>
 </w.rf>
 <form>Kočárníkových</form>
-<tag lemma="Kočárníkův_;S_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Kočárníkův_;Y_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-mf930701-003-p2s4w3">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-mf930701-003-p2s5w25</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-003-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1547,7 +1547,7 @@
 <LM>w#w-mf930701-003-p2s10w7</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-003-p2s10w8">
 <src.rf>manual</src.rf>
@@ -1564,7 +1564,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1843,7 +1843,7 @@
 <LM>w#w-mf930701-003-p2s12w15</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-003-p2s12w16">
 <src.rf>manual</src.rf>
@@ -2074,7 +2074,7 @@
 <LM>w#w-mf930701-003-p2s14w6</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-003-p2s14w7">
 <src.rf>manual</src.rf>

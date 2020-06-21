@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-089-p1s1w1</LM>
 </w.rf>
 <form>Netscher</form>
-<tag lemma="Netscher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Netscher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-089-p1s1w2">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln95048-089-p2s1w9</LM>
 </w.rf>
 <form>Netscher</form>
-<tag lemma="Netscher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Netscher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-089-p2s1w10">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1001,7 +1001,7 @@
 <LM>w#w-ln95048-089-p3s3w30</LM>
 </w.rf>
 <form>Berana</form>
-<tag lemma="Beran_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beran_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-089-p3s3w31">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln95048-089-p4s1w2</LM>
 </w.rf>
 <form>Netscherovi</form>
-<tag lemma="Netscher_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Netscher_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-089-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1760,7 +1760,7 @@
 <LM>w#w-ln95048-089-p4s6w2</LM>
 </w.rf>
 <form>Netscherovo</form>
-<tag lemma="Netscherův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Netscherův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95048-089-p4s6w3">
 <src.rf>manual</src.rf>

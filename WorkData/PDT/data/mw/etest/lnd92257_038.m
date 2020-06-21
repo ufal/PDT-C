@@ -197,8 +197,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-038-p1s1w24">
@@ -233,7 +233,7 @@
 <LM>w#w-lnd92257-038-p1s2w3</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92257-038-p1s2w4">
 <src.rf>manual</src.rf>

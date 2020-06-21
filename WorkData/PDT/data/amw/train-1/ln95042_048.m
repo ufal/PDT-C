@@ -86,7 +86,7 @@
 <LM>w#w-ln95042-048-p1s1w9</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-048-p1s1w10">
 <src.rf>manual</src.rf>

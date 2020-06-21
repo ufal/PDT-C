@@ -44,8 +44,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -259,8 +259,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-037-p2s2w25">
@@ -583,8 +583,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-037-p2s5w7">
@@ -650,8 +650,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-037-p2s5w15">
@@ -670,7 +670,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-037-p2s5w17">
@@ -687,7 +687,7 @@
 <LM>w#w-lnd92254-037-p2s5w18</LM>
 </w.rf>
 <form>Horák</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-037-p2s5w19">
 <src.rf>manual</src.rf>

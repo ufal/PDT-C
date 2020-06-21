@@ -86,7 +86,7 @@
 <LM>w#w-ln95045-030-p2s1w8</LM>
 </w.rf>
 <form>Kretševem</form>
-<tag lemma="Kretšev_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kretšev_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95045-030-p2s1w9">
 <src.rf>manual</src.rf>
@@ -102,7 +102,7 @@
 <LM>w#w-ln95045-030-p2s1w10</LM>
 </w.rf>
 <form>Jangalovem</form>
-<tag lemma="Jangalov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jangalov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95045-030-p2s1w11">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 </w.rf>
 <form>Alfa</form>
 <tag>
-<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 <AM lemma="alfa" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -211,7 +211,7 @@
 <LM>w#w-ln95045-030-p3s1w7</LM>
 </w.rf>
 <form>Hendrych</form>
-<tag lemma="Hendrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hendrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-030-p3s1w8">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-ln95045-030-p3s2w9</LM>
 </w.rf>
 <form>Havlem</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95045-030-p3s2w10">
 <src.rf>manual</src.rf>
@@ -377,8 +377,8 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-030-p3s2w14">
@@ -981,7 +981,7 @@
 </w.rf>
 <form>ČSLH</form>
 <tag>
-<AM lemma="ČSLH-1_:B_;K_^(Český_svaz_ledního_hokeje)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSLH-1_:B_;m_^(Český_svaz_ledního_hokeje)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSLH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln95045-030-p5s1w13</LM>
 </w.rf>
 <form>Novotné</form>
-<tag lemma="Novotná_;S_^(*1ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-030-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-030-p5s2w4">
@@ -1250,7 +1250,7 @@
 <LM>w#w-ln95045-030-p5s2w5</LM>
 </w.rf>
 <form>Černoška</form>
-<tag lemma="Černošek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Černošek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-030-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-ln95045-030-p5s2w7</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;S_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-030-p5s2w8">
 <src.rf>manual</src.rf>

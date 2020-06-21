@@ -53,7 +53,7 @@
 <LM>w#w-cmpr9415-050-p3s1w1</LM>
 </w.rf>
 <form>Salzmann</form>
-<tag lemma="Salzmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Salzmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p3s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9415-050-p3s1w2</LM>
 </w.rf>
 <form>Stehlíka</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p3s1w3">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-cmpr9415-050-p4s1w2</LM>
 </w.rf>
 <form>Poldovka</form>
-<tag lemma="Poldovka_;K_,h" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poldovka_;m_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p4s1w3">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-cmpr9415-050-p4s1w7</LM>
 </w.rf>
 <form>Stehlík</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p4s1w14">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-cmpr9415-050-p4s4w4</LM>
 </w.rf>
 <form>Stehlíkovi</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p4s4w5">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-cmpr9415-050-p4s4w6</LM>
 </w.rf>
 <form>Salzmann</form>
-<tag lemma="Salzmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Salzmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p4s4w7">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-cmpr9415-050-p6s1w2</LM>
 </w.rf>
 <form>Šach</form>
-<tag lemma="Šach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-050-p8s1">
@@ -1076,8 +1076,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-050-p8s5w15">
@@ -1401,8 +1401,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-050-p9s2w7">
@@ -1427,7 +1427,7 @@
 <LM>w#w-cmpr9415-050-p9s2w9</LM>
 </w.rf>
 <form>Stehlík</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p9s2w10">
 <src.rf>manual</src.rf>
@@ -1460,8 +1460,8 @@
 </w.rf>
 <form>POLDI</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-050-p9s2w14">
@@ -1867,7 +1867,7 @@
 <LM>w#w-cmpr9415-050-p10s1w13</LM>
 </w.rf>
 <form>Salzmannovi</form>
-<tag lemma="Salzmann_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Salzmann_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p10s1w14">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-cmpr9415-050-p10s2w4</LM>
 </w.rf>
 <form>Stehlíkem</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p10s2w5">
 <src.rf>manual</src.rf>
@@ -2167,7 +2167,7 @@
 <LM>w#w-cmpr9415-050-p11s2w14</LM>
 </w.rf>
 <form>Stehlík</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-050-p11s2w15">
 <src.rf>manual</src.rf>

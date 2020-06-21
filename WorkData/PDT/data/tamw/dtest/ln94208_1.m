@@ -130,7 +130,7 @@
 <LM>w#w-ln94208-1-p1s2w4</LM>
 </w.rf>
 <form>Hondě</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-1-p1s2w5">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 <LM>w#w-ln94208-1-p1s2w5</LM>
 </w.rf>
 <form>Legend</form>
-<tag lemma="Legend_;R_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-1-p1s2w6">
 <src.rf>manual</src.rf>
@@ -195,8 +195,8 @@
 </w.rf>
 <form>i</form>
 <tag>
-<AM lemma="i-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="i-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="i-33" src="orig">Q3-------------</AM>
+<AM lemma="i-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-1-p1s2w13">
@@ -231,7 +231,7 @@
 <LM>w#w-ln94208-1-p1s3w3</LM>
 </w.rf>
 <form>Hondě</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94208-1-p1s3w4">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln94208-1-p1s4w3</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-1-p1s4w4">
 <src.rf>manual</src.rf>
@@ -418,8 +418,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

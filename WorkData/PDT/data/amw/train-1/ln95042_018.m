@@ -43,7 +43,7 @@
 <LM>w#w-ln95042-018-p1s1w4</LM>
 </w.rf>
 <form>Firkušném</form>
-<tag lemma="Firkušný_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Firkušný_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-018-p2s1A">
@@ -135,7 +135,7 @@
 <LM>w#w-ln95042-018-p2s1Bw10</LM>
 </w.rf>
 <form>Firkušném</form>
-<tag lemma="Firkušný_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Firkušný_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95042-018-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln95042-018-p2s1Bw17</LM>
 </w.rf>
 <form>Šafaříka</form>
-<tag lemma="Šafařík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šafařík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-018-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>Universitas</form>
 <tag>
-<AM lemma="Universitas_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Universitas_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Universitas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -254,7 +254,7 @@
 </w.rf>
 <form>Masarykiana</form>
 <tag>
-<AM lemma="Masarykiana_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Masarykiana_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Masarykiana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -551,7 +551,7 @@
 <LM>w#w-ln95042-018-p2s3w5</LM>
 </w.rf>
 <form>Šafaříkovo</form>
-<tag lemma="Šafaříkův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Šafaříkův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95042-018-p2s3w6">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-ln95042-018-p2s5w14</LM>
 </w.rf>
 <form>Firkušného</form>
-<tag lemma="Firkušný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Firkušný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-018-p2s5w15">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-ln95042-018-p3s1w3</LM>
 </w.rf>
 <form>Firkušném</form>
-<tag lemma="Firkušný_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Firkušný_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95042-018-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-ln95042-018-p3s2w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95042-018-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln95042-018-p3s2w15</LM>
 </w.rf>
 <form>Firkušného</form>
-<tag lemma="Firkušný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Firkušný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-018-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1740,7 +1740,7 @@
 <LM>w#w-ln95042-018-p3s5w20</LM>
 </w.rf>
 <form>Šafaříkovi</form>
-<tag lemma="Šafařík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Šafařík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95042-018-p3s5w21">
 <src.rf>manual</src.rf>
@@ -2074,7 +2074,7 @@
 <LM>w#w-ln95042-018-p4s3w2</LM>
 </w.rf>
 <form>Masarykova</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95042-018-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2288,7 +2288,7 @@
 <LM>w#w-ln95042-018-p4s4w6</LM>
 </w.rf>
 <form>Janáčkova</form>
-<tag lemma="Janáčkův_;S_^(*3ek)" src="orig" selected="1">AUMS4M---------</tag>
+<tag lemma="Janáčkův_;Y_^(*3ek)" src="orig" selected="1">AUMS4M---------</tag>
 </m>
 <m id="m-ln95042-018-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2304,7 +2304,7 @@
 <LM>w#w-ln95042-018-p4s4w8</LM>
 </w.rf>
 <form>Kurzova</form>
-<tag lemma="Kurzův-1_;S_^(*4-1)" src="orig" selected="1">AUMS4M---------</tag>
+<tag lemma="Kurzův-1_;Y_^(*4-1)" src="orig" selected="1">AUMS4M---------</tag>
 </m>
 <m id="m-ln95042-018-p4s4w9">
 <src.rf>manual</src.rf>
@@ -2320,7 +2320,7 @@
 <LM>w#w-ln95042-018-p4s4w10</LM>
 </w.rf>
 <form>Sukova</form>
-<tag lemma="Sukův_;S_^(*2)" src="orig" selected="1">AUMS4M---------</tag>
+<tag lemma="Sukův_;Y_^(*2)" src="orig" selected="1">AUMS4M---------</tag>
 </m>
 <m id="m-ln95042-018-p4s4w11">
 <src.rf>manual</src.rf>
@@ -2426,7 +2426,7 @@
 <LM>w#w-ln95042-018-p4s5w1</LM>
 </w.rf>
 <form>Firkušného</form>
-<tag lemma="Firkušný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Firkušný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-018-p4s5w2">
 <src.rf>manual</src.rf>

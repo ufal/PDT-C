@@ -143,7 +143,7 @@
 <LM>w#w-mf930701-099-p2s2w2</LM>
 </w.rf>
 <form>Němcovo</form>
-<tag lemma="Němcův_;E_;S_^(*3ec)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Němcův_;E_;Y_^(*3ec)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf930701-099-p2s2w3">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf930701-099-p2s2w8</LM>
 </w.rf>
 <form>Hussarův</form>
-<tag lemma="Hussarův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Hussarův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930701-099-p2s2w9">
 <src.rf>manual</src.rf>
@@ -677,10 +677,10 @@
 </w.rf>
 <form>NKÚ</form>
 <tag>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s6w20">
@@ -831,7 +831,7 @@
 <LM>w#w-mf930701-099-p2s7w8</LM>
 </w.rf>
 <form>Hussarova</form>
-<tag lemma="Hussarův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Hussarův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930701-099-p2s7w9">
 <src.rf>manual</src.rf>
@@ -840,10 +840,10 @@
 </w.rf>
 <form>NKÚ</form>
 <tag>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s7w10">
@@ -1057,7 +1057,7 @@
 <LM>w#w-mf930701-099-p2s8w17</LM>
 </w.rf>
 <form>Hussara</form>
-<tag lemma="Hussar_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hussar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-099-p2s8w18">
 <src.rf>manual</src.rf>
@@ -1362,10 +1362,10 @@
 </w.rf>
 <form>NKÚ</form>
 <tag>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s10w11">
@@ -1771,12 +1771,12 @@
 </w.rf>
 <form>NKÚ</form>
 <tag>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="NKÚ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s11w16">
@@ -2369,10 +2369,10 @@
 </w.rf>
 <form>NKÚ</form>
 <tag>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s14w23">

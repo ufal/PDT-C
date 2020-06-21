@@ -45,7 +45,7 @@
 <LM>w#w-lnd94104-116-p1s8w1</LM>
 </w.rf>
 <form>Burton</form>
-<tag lemma="Burton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-116-p1s8w2">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <LM>w#w-lnd94104-116-p1s9w1</LM>
 </w.rf>
 <form>Doyle</form>
-<tag lemma="Doyle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doyle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-116-p1s9w2">
 <src.rf>manual</src.rf>
@@ -113,7 +113,7 @@
 <LM>w#w-lnd94104-116-p1s10w3</LM>
 </w.rf>
 <form>Danko</form>
-<tag lemma="Danko_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Danko_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-116-p1s10w4">
 <src.rf>manual</src.rf>

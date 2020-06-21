@@ -3235,7 +3235,7 @@
 <LM>w#w-mf930709-119-p9s3w9</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-119-p9s3w10">
 <src.rf>manual</src.rf>
@@ -4740,7 +4740,7 @@
 <LM>w#w-mf930709-119-p14s4w4</LM>
 </w.rf>
 <form>Fortuně</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930709-119-p14s4w5">
 <src.rf>manual</src.rf>

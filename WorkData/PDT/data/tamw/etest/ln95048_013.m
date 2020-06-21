@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-013-p1s1w2</LM>
 </w.rf>
 <form>Štrasser</form>
-<tag lemma="Štrasser_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štrasser_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-013-p1s1w3">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <LM>w#w-ln95048-013-p1s1w20</LM>
 </w.rf>
 <form>pohľady</form>
-<tag lemma="pohľad_;R_,t" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="pohľad_;m_,t" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95048-013-p1s1w21">
 <src.rf>manual</src.rf>

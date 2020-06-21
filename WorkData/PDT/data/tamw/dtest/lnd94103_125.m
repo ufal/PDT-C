@@ -578,7 +578,7 @@
 <LM>w#w-lnd94103-125-p1s5w7</LM>
 </w.rf>
 <form>Sportky</form>
-<tag lemma="Sportka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sportka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-125-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-lnd94103-125-p1s6w7</LM>
 </w.rf>
 <form>Sportky</form>
-<tag lemma="Sportka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sportka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-125-p1s6w8">
 <src.rf>manual</src.rf>
@@ -2388,7 +2388,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

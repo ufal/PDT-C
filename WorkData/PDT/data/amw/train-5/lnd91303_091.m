@@ -61,7 +61,7 @@
 <form>Ga</form>
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
-<AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="galium_:B_;U" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ga-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -282,7 +282,7 @@
 </w.rf>
 <form>GARMISCH</form>
 <tag>
-<AM lemma="Garmisch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Garmisch_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Garmisch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -422,7 +422,7 @@
 <LM>w#w-lnd91303-091-p4s1Bw14</LM>
 </w.rf>
 <form>Intersportturné</form>
-<tag lemma="Intersportturné_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Intersportturné_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91303-091-p4s1Bw15">
 <src.rf>manual</src.rf>
@@ -439,8 +439,8 @@
 </w.rf>
 <form>Garmisch</form>
 <tag>
-<AM lemma="Garmisch-2_;G_,t" src="orig">NNISX-----A----</AM>
-<AM lemma="Garmisch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Garmisch-2_;G_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Garmisch_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Garmisch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -790,7 +790,7 @@
 <form>Ga</form>
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
-<AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="galium_:B_;U" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ga-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -999,7 +999,7 @@
 </w.rf>
 <form>Garmisch</form>
 <tag>
-<AM lemma="Garmisch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Garmisch_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Garmisch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1301,7 +1301,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1691,7 +1691,7 @@
 <LM>w#w-lnd91303-091-p6s1w12</LM>
 </w.rf>
 <form>Tombou</form>
-<tag lemma="Tomba_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Tomba_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-091-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1707,7 +1707,7 @@
 <LM>w#w-lnd91303-091-p6s1w14</LM>
 </w.rf>
 <form>Accolou</form>
-<tag lemma="Accola_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Accola_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-091-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1723,7 +1723,7 @@
 <LM>w#w-lnd91303-091-p6s1w16</LM>
 </w.rf>
 <form>Girardellim</form>
-<tag lemma="Girardelli_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Girardelli_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-091-p6s1w17">
 <src.rf>manual</src.rf>
@@ -1739,7 +1739,7 @@
 <LM>w#w-lnd91303-091-p6s1w18</LM>
 </w.rf>
 <form>Furusethem</form>
-<tag lemma="Furuseth_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Furuseth_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-091-p6s1w19">
 <src.rf>manual</src.rf>
@@ -2544,7 +2544,7 @@
 <LM>w#w-lnd91303-091-p7s1w6</LM>
 </w.rf>
 <form>Bittner</form>
-<tag lemma="Bittner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bittner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-091-p7s1w7">
 <src.rf>manual</src.rf>

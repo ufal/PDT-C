@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-056-p1s1w2</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-056-p1s1w3">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf920923-056-p1s1w3</LM>
 </w.rf>
 <form>Čapek</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-056-p1s1w4">
 <src.rf>manual</src.rf>

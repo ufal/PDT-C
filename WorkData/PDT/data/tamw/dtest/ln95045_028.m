@@ -95,7 +95,7 @@
 <LM>w#w-ln95045-028-p2s1Bw4</LM>
 </w.rf>
 <form>Dárnyi</form>
-<tag lemma="Dárnyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dárnyi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln95045-028-p2s1Bw8</LM>
 </w.rf>
 <form>Farkas</form>
-<tag lemma="Farkas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -348,8 +348,8 @@
 </w.rf>
 <form>Népszábadság</form>
 <tag>
-<AM lemma="Népszábadság_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Népszábadság_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Népszábadság_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Népszábadság_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-028-p2s3w5">
@@ -366,7 +366,7 @@
 <LM>w#w-ln95045-028-p2s3w6</LM>
 </w.rf>
 <form>Dárnyi</form>
-<tag lemma="Dárnyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dárnyi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s3w7">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-ln95045-028-p2s3w8</LM>
 </w.rf>
 <form>Farkas</form>
-<tag lemma="Farkas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s3w9">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln95045-028-p2s3w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95045-028-p2s3w17">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-ln95045-028-p3s2w1</LM>
 </w.rf>
 <form>Farkas</form>
-<tag lemma="Farkas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-ln95045-028-p3s3w1</LM>
 </w.rf>
 <form>Dárnyi</form>
-<tag lemma="Dárnyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dárnyi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-028-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1197,7 +1197,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

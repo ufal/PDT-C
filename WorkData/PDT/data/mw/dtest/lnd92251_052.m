@@ -62,8 +62,8 @@
 </w.rf>
 <form>rk</form>
 <tag>
-<AM lemma="rk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-052-p2s1w4">
@@ -482,7 +482,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -534,7 +534,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-052-p2s4w12">
@@ -551,7 +551,7 @@
 <LM>w#w-lnd92251-052-p2s4w13</LM>
 </w.rf>
 <form>Kroupa</form>
-<tag lemma="Kroupa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kroupa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-052-p2s4w14">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

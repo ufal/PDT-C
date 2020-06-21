@@ -508,7 +508,7 @@
 <LM>w#w-ln95049-141-p2s3w6</LM>
 </w.rf>
 <form>Havlíčkovo</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95049-141-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1393,7 +1393,7 @@
 <LM>w#w-ln95049-141-p3s5w18</LM>
 </w.rf>
 <form>Veleslavínova</form>
-<tag lemma="Veleslavínův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Veleslavínův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95049-141-p3s5w19">
 <src.rf>manual</src.rf>

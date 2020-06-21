@@ -71,7 +71,7 @@
 <LM>w#w-ln94204-147-p2s1Bw3</LM>
 </w.rf>
 <form>TABAN</form>
-<tag lemma="TABAN_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="TABAN_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-147-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -269,9 +269,9 @@
 <form>Grey</form>
 <tag>
 <AM lemma="Grey-2_,t_^(Earl_Grey)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Grey-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grey-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Grey-2_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Grey-1_;S_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Grey-1_;Y_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Grey-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

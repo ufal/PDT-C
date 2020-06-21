@@ -166,7 +166,7 @@
 </w.rf>
 <form>Sosna</form>
 <tag>
-<AM lemma="Sosna-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sosna-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="sosna" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -940,7 +940,7 @@
 <LM>w#w-mf920924-015-p2s7w17</LM>
 </w.rf>
 <form>Větěchová</form>
-<tag lemma="Větěchová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Větěchová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-015-p2s7w18">
 <src.rf>manual</src.rf>

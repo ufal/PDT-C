@@ -20,8 +20,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-036-p1s1w2">
@@ -30,7 +30,7 @@
 <LM>w#w-lnd92258-036-p1s1w2</LM>
 </w.rf>
 <form>Dubček</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-036-p2s1">
@@ -81,8 +81,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-036-p2s1w7">
@@ -91,7 +91,7 @@
 <LM>w#w-lnd92258-036-p2s1w7</LM>
 </w.rf>
 <form>Dubček</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-036-p2s1w8">
 <src.rf>manual</src.rf>
@@ -650,8 +650,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-036-p2s8w9">
@@ -660,7 +660,7 @@
 <LM>w#w-lnd92258-036-p2s8w9</LM>
 </w.rf>
 <form>Dubček</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-036-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-lnd92258-036-p3s2w26</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92258-036-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1434,8 +1434,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-036-p4s1w9">
@@ -1444,7 +1444,7 @@
 <LM>w#w-lnd92258-036-p4s1w9</LM>
 </w.rf>
 <form>Dubček</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-036-p4s1w10">
 <src.rf>manual</src.rf>
@@ -2024,8 +2024,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-036-p4s5w16">
@@ -2034,7 +2034,7 @@
 <LM>w#w-lnd92258-036-p4s5w16</LM>
 </w.rf>
 <form>Dubček</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-036-p4s5w17">
 <src.rf>manual</src.rf>
@@ -2198,7 +2198,7 @@
 <form>HANÁK</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

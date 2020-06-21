@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-001-p1s1w1</LM>
 </w.rf>
 <form>Nastase</form>
-<tag lemma="Nastase_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nastase_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-001-p1s2">
@@ -71,7 +71,7 @@
 <LM>w#w-mf930701-001-p2s1w4</LM>
 </w.rf>
 <form>Nastase</form>
-<tag lemma="Nastase_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nastase_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-001-p2s1w5">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-mf930701-001-p2s2w4</LM>
 </w.rf>
 <form>Piličem</form>
-<tag lemma="Pilič_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pilič_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930701-001-p2s2w5">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-mf930701-001-p2s2w7</LM>
 </w.rf>
 <form>Metreveli</form>
-<tag lemma="Metreveli_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Metreveli_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-001-p2s2w8">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-mf930701-001-p2s2w9</LM>
 </w.rf>
 <form>Taylor</form>
-<tag lemma="Taylor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Taylor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-001-p2s2w10">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-mf930701-001-p2s2w11</LM>
 </w.rf>
 <form>Nastase</form>
-<tag lemma="Nastase_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nastase_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-001-p2s2w12">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf930701-001-p2s4w3</LM>
 </w.rf>
 <form>Metreveliho</form>
-<tag lemma="Metreveli_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Metreveli_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-001-p2s4w4">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-mf930701-001-p4s1w3</LM>
 </w.rf>
 <form>čen</form>
-<tag lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="čen-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930701-001-p4s1w4">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-mf930701-001-p4s2w10</LM>
 </w.rf>
 <form>Couriera</form>
-<tag lemma="Courier_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Courier_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-001-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-mf930701-001-p4s3w8</LM>
 </w.rf>
 <form>Mills</form>
-<tag lemma="Mills_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mills_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-001-p4s3w9">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-ln95049-101-p1s1w5</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95049-101-p2s1A">
@@ -77,7 +77,7 @@
 <LM>w#w-ln95049-101-p2s1Aw3</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="haš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-101-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 </w.rf>
 <form>HTT</form>
 <tag>
-<AM lemma="HTT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HTT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HTT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -226,7 +226,7 @@
 <LM>w#w-ln95049-101-p2s1Bw17</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-101-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-ln95049-101-p2s1Bw28</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-101-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln95049-101-p2s1Bw35</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-101-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-ln95049-101-p2s1Bw41</LM>
 </w.rf>
 <form>Vorlíček</form>
-<tag lemma="Vorlíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vorlíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-101-p2s1Bw42">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 </w.rf>
 <form>LB</form>
 <tag>
-<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-1_:B_;m_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="LB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -626,7 +626,7 @@
 </w.rf>
 <form>HTT</form>
 <tag>
-<AM lemma="HTT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HTT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HTT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -644,7 +644,7 @@
 <LM>w#w-ln95049-101-p2s3w7</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-101-p2s3w8">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-ln95049-101-p2s4w4</LM>
 </w.rf>
 <form>Vorlíčka</form>
-<tag lemma="Vorlíček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vorlíček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-101-p2s4w5">
 <src.rf>manual</src.rf>

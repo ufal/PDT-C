@@ -3249,7 +3249,7 @@
 <LM>w#w-lnd91303-083-p13s1w4</LM>
 </w.rf>
 <form>POHL</form>
-<tag lemma="Pohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -139,7 +139,7 @@
 <LM>w#w-ln95048-032-p1s1w16</LM>
 </w.rf>
 <form>Kopeckého</form>
-<tag lemma="Kopecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kopecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 </mdata>

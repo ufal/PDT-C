@@ -43,7 +43,7 @@
 <LM>w#w-mf930709-105-p1s1w4</LM>
 </w.rf>
 <form>Ledvinka</form>
-<tag lemma="Ledvinka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ledvinka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-105-p1s1w5">
 <src.rf>manual</src.rf>
@@ -60,7 +60,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -110,7 +110,7 @@
 <LM>w#w-mf930709-105-p1s1w12</LM>
 </w.rf>
 <form>Lojdová</form>
-<tag lemma="Lojdová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lojdová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-105-p1s1w13">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

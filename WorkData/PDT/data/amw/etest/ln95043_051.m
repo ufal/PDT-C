@@ -103,7 +103,7 @@
 <LM>w#w-ln95043-051-p2s1Bw4</LM>
 </w.rf>
 <form>Miloševič</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-051-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95043-051-p2s1Bw13</LM>
 </w.rf>
 <form>Kozyrevem</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95043-051-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jovanovič</form>
-<tag lemma="Jovanovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jovanovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-051-p2s2w9">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jovanovič</form>
-<tag lemma="Jovanovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jovanovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-051-p2s3w34">
 <src.rf>manual</src.rf>

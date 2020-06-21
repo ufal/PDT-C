@@ -52,7 +52,7 @@
 </w.rf>
 <form>Dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -488,7 +488,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS2-----A----</AM>
 <AM lemma="dolar_" src="manual">NNIS2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
@@ -510,7 +510,7 @@
 </w.rf>
 <form>Dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -669,7 +669,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -719,7 +719,7 @@
 <LM>w#w-ln95043-039-p4s3w12</LM>
 </w.rf>
 <form>Clintonova</form>
-<tag lemma="Clintonův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Clintonův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95043-039-p4s3w13">
 <src.rf>manual</src.rf>

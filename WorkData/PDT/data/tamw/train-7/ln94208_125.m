@@ -27,7 +27,7 @@
 <LM>w#w-ln94208-125-p1s1w2</LM>
 </w.rf>
 <form>Riedle</form>
-<tag lemma="Riedle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Riedle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-125-p1s1w3">
 <src.rf>manual</src.rf>
@@ -68,7 +68,7 @@
 </w.rf>
 <form>Binz</form>
 <tag>
-<AM lemma="Binz_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Binz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Binz_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Binz_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -316,8 +316,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

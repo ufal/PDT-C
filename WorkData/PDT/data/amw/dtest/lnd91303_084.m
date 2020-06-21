@@ -28,11 +28,11 @@
 </w.rf>
 <form>Micubiši</form>
 <tag>
-<AM lemma="Micubiši-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Mitsubishi_;K_;R" src="auto" recommended="1">NNXXX-----A---6</AM>
-<AM lemma="mitsubishi_;R_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
-<AM lemma="Micubiši_;K_;R_,i_^(^DS**Mitsubishi)" src="manual">NNXXX-----A----</AM>
-<AM lemma="Micubiši_;K_;R_,i_^(^DS**Mitsubishi)" src="manual" selected="1">NNXXX-----A---6</AM>
+<AM lemma="Micubiši-2_;m_^(vozidlo)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mitsubishi_;m" src="auto" recommended="1">NNXXX-----A---6</AM>
+<AM lemma="mitsubishi_;m_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
+<AM lemma="Micubiši_;m_,i_^(^DS**Mitsubishi)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Micubiši_;m_,i_^(^DS**Mitsubishi)" src="manual" selected="1">NNXXX-----A---6</AM>
 </tag>
 </m>
 </s>
@@ -131,7 +131,7 @@
 <tag>
 <AM lemma="Tumu_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Tuma_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Tuma_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Tuma_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Tumu_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -254,11 +254,11 @@
 </w.rf>
 <form>Micubiši</form>
 <tag>
-<AM lemma="Micubiši-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Mitsubishi_;K_;R" src="auto" recommended="1">NNXXX-----A---6</AM>
-<AM lemma="mitsubishi_;R_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
-<AM lemma="Micubiši_;K_;R_,i_^(^DS**Mitsubishi)" src="manual">NNXXX-----A----</AM>
-<AM lemma="Micubiši_;K_;R_,i_^(^DS**Mitsubishi)" src="manual" selected="1">NNXXX-----A---6</AM>
+<AM lemma="Micubiši-2_;m_^(vozidlo)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mitsubishi_;m" src="auto" recommended="1">NNXXX-----A---6</AM>
+<AM lemma="mitsubishi_;m_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
+<AM lemma="Micubiši_;m_,i_^(^DS**Mitsubishi)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Micubiši_;m_,i_^(^DS**Mitsubishi)" src="manual" selected="1">NNXXX-----A---6</AM>
 </tag>
 </m>
 <m id="m-lnd91303-084-p3s1w25">
@@ -407,7 +407,7 @@
 <LM>w#w-lnd91303-084-p3s3w12</LM>
 </w.rf>
 <form>Laporte</form>
-<tag lemma="Laporte_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Laporte_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-084-p3s3w13">
 <src.rf>manual</src.rf>

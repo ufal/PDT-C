@@ -78,7 +78,7 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -392,7 +392,7 @@
 <LM>w#w-ln94207-67-p2s1Bw35</LM>
 </w.rf>
 <form>Avia</form>
-<tag lemma="Avia_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Avia_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-67-p2s1Bw36">
 <src.rf>manual</src.rf>

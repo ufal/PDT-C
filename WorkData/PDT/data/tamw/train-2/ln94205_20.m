@@ -121,7 +121,7 @@
 </w.rf>
 <form>ce</form>
 <tag>
-<AM lemma="ce-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ce-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -254,8 +254,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94205-20-p2s1Bw15">
@@ -330,7 +330,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-20-p2s1Bw24">
@@ -347,7 +347,7 @@
 <LM>w#w-ln94205-20-p2s1Bw25</LM>
 </w.rf>
 <form>Vaculík</form>
-<tag lemma="Vaculík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vaculík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-20-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-ln94205-20-p2s2w2</LM>
 </w.rf>
 <form>Lacmo</form>
-<tag lemma="Lacmo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Lacmo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-20-p2s2w3">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-20-p3s1w2">
@@ -580,7 +580,7 @@
 <LM>w#w-ln94205-20-p3s1w3</LM>
 </w.rf>
 <form>Ryppel</form>
-<tag lemma="Ryppel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ryppel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-20-p3s1w4">
 <src.rf>manual</src.rf>
@@ -608,13 +608,13 @@
 <AM lemma="o-8_:B_^(ost._zkratka)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="o-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="o-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
 <AM lemma="okresní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="omezený_:B" src="auto">AANS7----1A---8</AM>
-<AM lemma="o-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="o-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-20-p3s1w7">
@@ -634,9 +634,9 @@
 <tag>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-20-p3s1w9">
@@ -653,7 +653,7 @@
 <LM>w#w-ln94205-20-p3s1w10</LM>
 </w.rf>
 <form>Lacmo</form>
-<tag lemma="Lacmo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Lacmo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-20-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-20-p3s7w3">
@@ -1338,7 +1338,7 @@
 <LM>w#w-ln94205-20-p3s7w4</LM>
 </w.rf>
 <form>Ryppela</form>
-<tag lemma="Ryppel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ryppel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-20-p3s7w5">
 <src.rf>manual</src.rf>

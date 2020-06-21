@@ -77,7 +77,7 @@
 <LM>w#w-ln95048-067-p2s1Aw3</LM>
 </w.rf>
 <form>Sokola</form>
-<tag lemma="Sokol-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sokol-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-067-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -178,7 +178,7 @@
 <LM>w#w-ln95048-067-p2s1Bw7</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-067-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-ln95048-067-p2s1Bw26</LM>
 </w.rf>
 <form>Sokol</form>
-<tag lemma="Sokol-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sokol-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-067-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <LM>w#w-ln95048-067-p8s1w1</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-067-p8s1w2">
 <src.rf>manual</src.rf>
@@ -2643,8 +2643,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-067-p8s7w4">

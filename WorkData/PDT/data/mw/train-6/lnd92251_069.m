@@ -552,7 +552,7 @@
 <LM>w#w-lnd92251-069-p3s5w1</LM>
 </w.rf>
 <form>Gorbačovův</form>
-<tag lemma="Gorbačovův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Gorbačovův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-lnd92251-069-p3s5w2">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-lnd92251-069-p3s5w5</LM>
 </w.rf>
 <form>Jelcinovy</form>
-<tag lemma="Jelcinův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Jelcinův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92251-069-p3s5w6">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-069-p3s6w10">
@@ -837,7 +837,7 @@
 <LM>w#w-lnd92251-069-p3s6w11</LM>
 </w.rf>
 <form>Kuncevič</form>
-<tag lemma="Kuncevič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuncevič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-069-p3s6w12">
 <src.rf>manual</src.rf>

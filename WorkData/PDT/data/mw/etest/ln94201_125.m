@@ -49,7 +49,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Floyd_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -155,7 +155,7 @@
 <LM>w#w-ln94201-125-p2s1w16</LM>
 </w.rf>
 <form>Gilmour</form>
-<tag lemma="Gilmour_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gilmour_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s1w17">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-ln94201-125-p2s1w23</LM>
 </w.rf>
 <form>Mason</form>
-<tag lemma="Mason_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mason_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s1w24">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-ln94201-125-p2s1w28</LM>
 </w.rf>
 <form>Wright</form>
-<tag lemma="Wright_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wright_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s1w29">
 <src.rf>manual</src.rf>
@@ -353,8 +353,8 @@
 </w.rf>
 <form>Carin</form>
 <tag>
-<AM lemma="Carin_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Carina_;K_;R_^(vozidlo)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Carin_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Carina_;m_^(vozidlo)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="carina_^(vozidlo)" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -404,7 +404,7 @@
 <LM>w#w-ln94201-125-p2s2w13</LM>
 </w.rf>
 <form>Renwick</form>
-<tag lemma="Renwick_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Renwick_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s2w14">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-ln94201-125-p2s2w19</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s2w20">
 <src.rf>manual</src.rf>
@@ -477,8 +477,8 @@
 </w.rf>
 <form>Gary</form>
 <tag>
-<AM lemma="Gary_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gary_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gary_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gary_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-125-p2s2w23">
@@ -487,7 +487,7 @@
 <LM>w#w-ln94201-125-p2s2w23</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s2w24">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-ln94201-125-p2s2w27</LM>
 </w.rf>
 <form>Parry</form>
-<tag lemma="Parry_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Parry_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s2w28">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94201-125-p2s4w15</LM>
 </w.rf>
 <form>Modeně</form>
-<tag lemma="Modena_;G_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Modena_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s4w16">
 <src.rf>manual</src.rf>

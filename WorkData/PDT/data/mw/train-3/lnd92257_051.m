@@ -765,7 +765,7 @@
 <LM>w#w-lnd92257-051-p4s2w15</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-051-p4s2w16">
 <src.rf>manual</src.rf>
@@ -976,8 +976,8 @@
 </w.rf>
 <form>Zviada</form>
 <tag>
-<AM lemma="Zviad_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Zviad_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Zviad_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Zviad_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p4s3w18">
@@ -986,7 +986,7 @@
 <LM>w#w-lnd92257-051-p4s3w18</LM>
 </w.rf>
 <form>Gamsachurdii</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-051-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 <LM>w#w-lnd92257-051-p4s4w9</LM>
 </w.rf>
 <form>Gamsachurdiovým</form>
-<tag lemma="Gamsachurdiův_;S_^(*2a)" src="auto" selected="1">AUIS7M---------</tag>
+<tag lemma="Gamsachurdiův_;Y_^(*2a)" src="auto" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-lnd92257-051-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1204,7 +1204,7 @@
 <LM>w#w-lnd92257-051-p4s4w21</LM>
 </w.rf>
 <form>Gvencadze</form>
-<tag lemma="Gvencadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gvencadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-051-p4s4w22">
 <src.rf>manual</src.rf>
@@ -1260,7 +1260,7 @@
 <LM>w#w-lnd92257-051-p4s4w28</LM>
 </w.rf>
 <form>Chaindrava</form>
-<tag lemma="Chaindrava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chaindrava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-051-p4s4w29">
 <src.rf>manual</src.rf>
@@ -1519,7 +1519,7 @@
 </w.rf>
 <form>OMON</form>
 <tag>
-<AM lemma="OMON_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OMON_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="OMON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1722,7 +1722,7 @@
 </w.rf>
 <form>OMON</form>
 <tag>
-<AM lemma="OMON_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OMON_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="OMON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2085,7 +2085,7 @@
 <LM>w#w-lnd92257-051-p5s6w8</LM>
 </w.rf>
 <form>Galazov</form>
-<tag lemma="Galazov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Galazov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-051-p5s6w9">
 <src.rf>manual</src.rf>

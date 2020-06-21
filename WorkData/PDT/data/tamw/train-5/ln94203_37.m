@@ -43,7 +43,7 @@
 <LM>w#w-ln94203-37-p1s1w4</LM>
 </w.rf>
 <form>Kasala</form>
-<tag lemma="Kasal_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kasal_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-37-p1s1w5">
 <src.rf>manual</src.rf>
@@ -60,8 +60,8 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-37-p1s1w7">
@@ -79,8 +79,8 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-37-p1s1w9">
@@ -1101,7 +1101,7 @@
 <LM>w#w-ln94203-37-p3s4w29</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-37-p3s4w30">
 <src.rf>manual</src.rf>
@@ -1828,8 +1828,8 @@
 </w.rf>
 <form>haš</form>
 <tag>
-<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="haš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-37-p3s8w3">

@@ -94,9 +94,9 @@
 </w.rf>
 <form>pet</form>
 <tag>
-<AM lemma="pet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="pet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-043-p1s2w4">
@@ -357,7 +357,7 @@
 <LM>w#w-lnd94101-043-p1s4w10</LM>
 </w.rf>
 <form>Palackého</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-043-p1s4w11">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-lnd94101-043-p1s4w16</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-043-p1s4w17">
 <src.rf>manual</src.rf>

@@ -81,11 +81,11 @@
 </w.rf>
 <form>jet</form>
 <tag>
-<AM lemma="jet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
-<AM lemma="jet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-036-p2s1w4">
@@ -420,18 +420,18 @@
 </w.rf>
 <form>Stráský</form>
 <tag>
-<AM lemma="Stráský_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Stráský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Stráský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Stráská_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Stráský_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Stráský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFS6-----A---6</AM>
 </tag>
 </m>
 <m id="m-mf920924-036-p2s3w25">
@@ -782,7 +782,7 @@
 <LM>w#w-mf920924-036-p2s6w4</LM>
 </w.rf>
 <form>Filkus</form>
-<tag lemma="Filkus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Filkus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-036-p2s6w5">
 <src.rf>manual</src.rf>

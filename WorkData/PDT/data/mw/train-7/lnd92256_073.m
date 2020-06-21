@@ -152,7 +152,7 @@
 </w.rf>
 <form>di</form>
 <tag>
-<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di_;G_;Y_,t" src="auto">RR--X----------</AM>
 <AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

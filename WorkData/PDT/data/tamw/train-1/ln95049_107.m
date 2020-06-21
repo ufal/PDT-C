@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-107-p1s1w1</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-107-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln95049-107-p2s1Aw3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kva-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95049-107-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-ln95049-107-p2s2w6</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-107-p2s2w7">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -743,7 +743,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-107-p2s5w18">
@@ -760,7 +760,7 @@
 <LM>w#w-ln95049-107-p2s5w19</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-107-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-ln95049-107-p2s7w17</LM>
 </w.rf>
 <form>Vopěnka</form>
-<tag lemma="Vopěnka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vopěnka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-107-p2s7w18">
 <src.rf>manual</src.rf>

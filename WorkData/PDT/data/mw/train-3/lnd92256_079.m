@@ -395,7 +395,7 @@
 <LM>w#w-lnd92256-079-p3s3w17</LM>
 </w.rf>
 <form>Stern</form>
-<tag lemma="Stern_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stern_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-079-p3s3w18">
 <src.rf>manual</src.rf>

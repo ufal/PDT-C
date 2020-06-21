@@ -39,7 +39,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1458,8 +1458,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-26-p5s2w11">
@@ -1734,7 +1734,7 @@
 <LM>w#w-ln94208-26-p5s4w5</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-26-p5s4w6">
 <src.rf>manual</src.rf>
@@ -1758,7 +1758,7 @@
 <LM>w#w-ln94208-26-p5s4w8</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-26-p5s4w9">
 <src.rf>manual</src.rf>
@@ -1977,7 +1977,7 @@
 <LM>w#w-ln94208-26-p5s4w35</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-26-p5s4w36">
 <src.rf>manual</src.rf>
@@ -2382,8 +2382,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-26-p6s2w9">
@@ -2401,8 +2401,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-26-p6s2w11">
@@ -2517,7 +2517,7 @@
 <LM>w#w-ln94208-26-p6s3w3</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-26-p6s3w4">
 <src.rf>manual</src.rf>
@@ -2557,7 +2557,7 @@
 <LM>w#w-ln94208-26-p6s3w8</LM>
 </w.rf>
 <form>Klausovi</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln94208-26-p6s3w9">
 <src.rf>manual</src.rf>

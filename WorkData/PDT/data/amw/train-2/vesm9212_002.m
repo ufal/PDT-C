@@ -105,7 +105,7 @@
 <form>BROUČEK</form>
 <tag>
 <AM lemma="brouček" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brouček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Brouček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -205,7 +205,7 @@
 </w.rf>
 <form>Homo</form>
 <tag>
-<AM lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig">NNISX-----A----</AM>
+<AM lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1473,7 +1473,7 @@
 </w.rf>
 <form>Homo</form>
 <tag>
-<AM lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig">NNISX-----A----</AM>
+<AM lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2084,7 +2084,7 @@
 </w.rf>
 <form>Homo</form>
 <tag>
-<AM lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig">NNISX-----A----</AM>
+<AM lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2553,23 +2553,23 @@
 </w.rf>
 <form>deoxyribonukleové</form>
 <tag>
-<AM lemma="deoxyribonukleová_;H_^(*1ý)" src="orig">NNFS2-----A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAFP1----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAFP4----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAFP5----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAFS3----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAFS6----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAIP1----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAIP4----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAIP5----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAMP4----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AANP1----1A---6</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AANP4----1A---6</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AANP5----1A---6</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AANS1----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AANS4----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AANS5----1A----</AM>
+<AM lemma="deoxyribonukleová_;U_^(*1ý)" src="orig">NNFS2-----A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAFP1----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAFP4----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAFP5----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAFS3----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAFS6----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAIP1----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAIP4----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAIP5----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAMP4----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AANP1----1A---6</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AANP4----1A---6</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AANP5----1A---6</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AANS1----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AANS4----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p6s1w16">
@@ -2595,8 +2595,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p6s1w19">
@@ -2779,8 +2779,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p7s1w4">
@@ -3085,8 +3085,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p7s3w5">
@@ -3143,7 +3143,7 @@
 <LM>w#w-vesm9212-002-p7s3w11</LM>
 </w.rf>
 <form>Flegr</form>
-<tag lemma="Flegr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Flegr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-002-p7s3w12">
 <src.rf>manual</src.rf>
@@ -3327,7 +3327,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p8s1w5">
@@ -3346,7 +3346,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p8s1w7">
@@ -3363,7 +3363,7 @@
 <LM>w#w-vesm9212-002-p8s1w8</LM>
 </w.rf>
 <form>Wilsona</form>
-<tag lemma="Wilson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wilson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-002-p8s1w9">
 <src.rf>manual</src.rf>
@@ -3380,8 +3380,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p8s1w11">
@@ -3877,8 +3877,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p8s3w10">
@@ -3896,7 +3896,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3965,7 +3965,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4080,7 +4080,7 @@
 </w.rf>
 <form>PAUP</form>
 <tag>
-<AM lemma="PAUP_:B_;R_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PAUP_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PAUP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4523,7 +4523,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4622,8 +4622,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p10s1w22">
@@ -4969,7 +4969,7 @@
 <LM>w#w-vesm9212-002-p10s3w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-002-p10s3w14">
 <src.rf>manual</src.rf>
@@ -4978,7 +4978,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5225,7 +5225,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5341,8 +5341,8 @@
 <form_change>spell</form_change>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p10s5w24">
@@ -5649,7 +5649,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5834,7 +5834,7 @@
 <LM>w#w-vesm9212-002-p11s1w16</LM>
 </w.rf>
 <form>Homo</form>
-<tag lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig" selected="1">NNISX-----A----</tag>
+<tag lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-vesm9212-002-p11s1w17">
 <src.rf>manual</src.rf>
@@ -5944,7 +5944,7 @@
 </w.rf>
 <form>Homo</form>
 <tag>
-<AM lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig">NNISX-----A----</AM>
+<AM lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6107,7 +6107,7 @@
 </w.rf>
 <form>Homo</form>
 <tag>
-<AM lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig">NNISX-----A----</AM>
+<AM lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7926,7 +7926,7 @@
 </w.rf>
 <form>Homo</form>
 <tag>
-<AM lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig">NNISX-----A----</AM>
+<AM lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8651,7 +8651,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -8745,7 +8745,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -9716,7 +9716,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -9761,7 +9761,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -9916,7 +9916,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -9992,7 +9992,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -10586,7 +10586,7 @@
 </w.rf>
 <form>Homo</form>
 <tag>
-<AM lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig">NNISX-----A----</AM>
+<AM lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -10778,7 +10778,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -11152,7 +11152,7 @@
 </w.rf>
 <form>Homo</form>
 <tag>
-<AM lemma="Homo-1_;L_,t_^(např._Homo_sapiens)" src="orig">NNISX-----A----</AM>
+<AM lemma="Homo-1_;U_,t_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -12116,7 +12116,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -12805,8 +12805,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-002-p18s9w6">
@@ -12896,7 +12896,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -14252,7 +14252,7 @@
 </w.rf>
 <form>mtDNA</form>
 <tag>
-<AM lemma="mtDNA_:B_;L_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="mtDNA_:B_;U_^(spec._molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mtDNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

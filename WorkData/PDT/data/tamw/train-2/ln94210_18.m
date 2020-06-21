@@ -365,9 +365,9 @@
 </w.rf>
 <form>Mori</form>
 <tag>
-<AM lemma="Mori_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mori_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mori_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Mori_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mori_;m_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Mori-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -378,7 +378,7 @@
 </w.rf>
 <form>Building</form>
 <tag>
-<AM lemma="Building_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Building_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -389,7 +389,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -482,7 +482,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94210-18-p3s1w5</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94210-18-p3s1w6">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-ln94210-18-p4s1w10</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94210-18-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1133,8 +1133,8 @@
 <form>Mori</form>
 <tag>
 <AM lemma="Mori_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Mori_;K_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Mori_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mori_;m_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mori_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-18-p5s2w3">

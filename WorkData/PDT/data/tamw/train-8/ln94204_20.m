@@ -692,7 +692,7 @@
 <LM>w#w-ln94204-20-p4s2w6</LM>
 </w.rf>
 <form>Argmana</form>
-<tag lemma="Argman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Argman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-20-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-ln94204-20-p5s1w20</LM>
 </w.rf>
 <form>Prado</form>
-<tag lemma="Prado_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Prado_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-20-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1119,10 +1119,10 @@
 </w.rf>
 <form>Linden</form>
 <tag>
-<AM lemma="Linden-2_;K" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Linden-2_;m" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Linden-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Linden-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Linden-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Linden-2_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-20-p5s1w23">
@@ -1264,7 +1264,7 @@
 <LM>w#w-ln94204-20-p5s1w39</LM>
 </w.rf>
 <form>Zamrzlou</form>
-<tag lemma="Zamrzla_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zamrzla_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-20-p5s1w40">
 <src.rf>manual</src.rf>
@@ -1474,7 +1474,7 @@
 <LM>w#w-ln94204-20-p5s2w25</LM>
 </w.rf>
 <form>Dlouhým</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-20-p5s2w26">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-ln94204-20-p6s1w23</LM>
 </w.rf>
 <form>Pilný</form>
-<tag lemma="Pilný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pilný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-20-p6s1w24">
 <src.rf>manual</src.rf>

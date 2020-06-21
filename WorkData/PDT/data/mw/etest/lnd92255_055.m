@@ -225,7 +225,7 @@
 <LM>w#w-lnd92255-055-p3s2w19</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92255-055-p3s2w20">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-lnd92255-055-p3s3w9</LM>
 </w.rf>
 <form>Dimitrov</form>
-<tag lemma="Dimitrov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dimitrov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-055-p3s3w10">
 <src.rf>manual</src.rf>

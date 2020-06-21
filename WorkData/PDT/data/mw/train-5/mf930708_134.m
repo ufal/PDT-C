@@ -192,7 +192,7 @@
 </w.rf>
 <form>Daily</form>
 <tag>
-<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-1_;m_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -264,7 +264,7 @@
 <LM>w#w-mf930708-134-p2s2w13</LM>
 </w.rf>
 <form>Grafová</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-134-p2s2w14">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf930708-134-p2s3w2</LM>
 </w.rf>
 <form>Courier</form>
-<tag lemma="Courier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Courier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-134-p2s3w3">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-mf930708-134-p2s4w1</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-134-p2s4w2">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf930708-134-p2s4w2</LM>
 </w.rf>
 <form>Stich</form>
-<tag lemma="Stich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-134-p2s4w3">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-mf930708-134-p2s7w3</LM>
 </w.rf>
 <form>Sabatiniová</form>
-<tag lemma="Sabatiniová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sabatiniová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-134-p2s7w4">
 <src.rf>manual</src.rf>

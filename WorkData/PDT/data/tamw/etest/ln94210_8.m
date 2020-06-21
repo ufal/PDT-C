@@ -94,8 +94,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-8-p2s1w2">
@@ -594,7 +594,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -872,9 +872,9 @@
 </w.rf>
 <form>GAJA</form>
 <tag>
-<AM lemma="GAJA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GAJA_;K" src="manual">NNFS1-----A---8</AM>
-<AM lemma="GAJA_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="GAJA_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GAJA_;m" src="manual">NNFS1-----A---8</AM>
+<AM lemma="GAJA_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-8-p3s1Aw2">
@@ -958,7 +958,7 @@
 <LM>w#w-ln94210-8-p3s1Aw11</LM>
 </w.rf>
 <form>Zapletal</form>
-<tag lemma="Zapletal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zapletal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-8-p3s1B">
@@ -985,7 +985,7 @@
 </w.rf>
 <form>Kyjovska</form>
 <tag>
-<AM lemma="Kyjovsko_;S" src="orig">NNNS2-----A----</AM>
+<AM lemma="Kyjovsko_;Y" src="orig">NNNS2-----A----</AM>
 <AM lemma="Kyjovsko_;G" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
@@ -4086,7 +4086,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -4205,7 +4205,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -4630,7 +4630,7 @@
 <LM>w#w-ln94210-8-p10s3w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94210-8-p10s3w9">
 <src.rf>manual</src.rf>
@@ -4904,9 +4904,9 @@
 </w.rf>
 <form>GAJA</form>
 <tag>
-<AM lemma="GAJA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="GAJA_;K" src="manual">NNFS1-----A---8</AM>
-<AM lemma="GAJA_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="GAJA_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GAJA_;m" src="manual">NNFS1-----A---8</AM>
+<AM lemma="GAJA_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-8-p11s2w4">

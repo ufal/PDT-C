@@ -61,7 +61,7 @@
 <LM>w#w-mf920923-034-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="nak-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920923-034-p2s1w4">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-mf920923-034-p2s3w6</LM>
 </w.rf>
 <form>Corfin</form>
-<tag lemma="Corfin_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Corfin_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-034-p2s3w7">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 </w.rf>
 <form>Creative</form>
 <tag>
-<AM lemma="Creative_;K_,t_^(Creative_Labs)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Creative_;m_,t_^(Creative_Labs)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Creative-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -398,7 +398,7 @@
 <form_change>spell</form_change>
 <form>Communications</form>
 <tag>
-<AM lemma="Communication_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Communication_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Communications-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -416,7 +416,7 @@
 <LM>w#w-mf920923-034-p2s3w11</LM>
 </w.rf>
 <form>Hanyko</form>
-<tag lemma="Hanyko_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Hanyko_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920923-034-p2s3w12">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-mf920923-034-p2s3w13</LM>
 </w.rf>
 <form>Olympus</form>
-<tag lemma="Olympus_;G_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olympus_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-034-p2s3w14">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 </w.rf>
 <form>Czechoslovakia</form>
 <tag>
-<AM lemma="Czechoslovakia_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czechoslovakia_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Czechoslovakia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -452,7 +452,7 @@
 </w.rf>
 <form>Trading</form>
 <tag>
-<AM lemma="Trading_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Trading_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Trading-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -848,7 +848,7 @@
 <LM>w#w-mf920923-034-p2s5w9</LM>
 </w.rf>
 <form>Niederleho</form>
-<tag lemma="Niederle_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Niederle_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-034-p2s5w10">
 <src.rf>manual</src.rf>

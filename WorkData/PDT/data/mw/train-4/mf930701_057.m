@@ -70,7 +70,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -139,9 +139,9 @@
 <form>Marlboro</form>
 <tag>
 <AM lemma="Marlbora_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-057-p2s1w12">
@@ -268,7 +268,7 @@
 <LM>w#w-mf930701-057-p2s1w26</LM>
 </w.rf>
 <form>Priessnitz</form>
-<tag lemma="Priessnitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Priessnitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-057-p2s1w27">
 <src.rf>manual</src.rf>

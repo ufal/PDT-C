@@ -354,7 +354,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MF-2_:B_;m_^(min._financí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -516,7 +516,7 @@
 <LM>w#w-ln94204-4-p3s1w12</LM>
 </w.rf>
 <form>Havlíčkův</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94204-4-p3s1w13">
 <src.rf>manual</src.rf>

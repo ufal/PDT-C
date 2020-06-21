@@ -81,8 +81,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-103-p2s1Aw4">
@@ -117,7 +117,7 @@
 <LM>w#w-ln94203-103-p2s1Bw2</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-103-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -198,7 +198,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -208,7 +208,7 @@
 <LM>w#w-ln94203-103-p2s1Bw13</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-103-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-ln94203-103-p2s1Bw20</LM>
 </w.rf>
 <form>Macha</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-103-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln94203-103-p3s2w4</LM>
 </w.rf>
 <form>Macha</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-103-p3s2w5">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-ln94203-103-p3s2w26</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-103-p3s2w27">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-ln94203-103-p3s2w28</LM>
 </w.rf>
 <form>Kučera</form>
-<tag lemma="Kučera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kučera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-103-p3s2w29">
 <src.rf>manual</src.rf>

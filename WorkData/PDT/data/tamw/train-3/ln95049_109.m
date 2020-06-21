@@ -102,10 +102,10 @@
 </w.rf>
 <form>lab</form>
 <tag>
-<AM lemma="lab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lab-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="laboratorní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="laboratoř_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="lab-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lab-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-109-p2s1Aw4">
@@ -311,7 +311,7 @@
 </w.rf>
 <form>AISA</form>
 <tag>
-<AM lemma="AISA_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="AISA_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1029,7 +1029,7 @@
 </w.rf>
 <form>AISA</form>
 <tag>
-<AM lemma="AISA_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="AISA_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

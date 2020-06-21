@@ -27,7 +27,7 @@
 <LM>w#w-ln94211-110-p1s1Aw2</LM>
 </w.rf>
 <form>Nolte</form>
-<tag lemma="Nolte_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nolte_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-110-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -57,7 +57,7 @@
 <LM>w#w-ln94211-110-p1s1Aw5</LM>
 </w.rf>
 <form>Robertsová</form>
-<tag lemma="Robertsová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Robertsová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-110-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -126,8 +126,8 @@
 </w.rf>
 <form>Falcon</form>
 <tag>
-<AM lemma="Falcon_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Falcon-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Falcon_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-087-p1s1w3</LM>
 </w.rf>
 <form>Czerlinského</form>
-<tag lemma="Czerlinský_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Czerlinský_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920924-087-p1s1w4">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-mf920924-087-p1s1w6</LM>
 </w.rf>
 <form>Kubíček</form>
-<tag lemma="Kubíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-087-p1s1w7">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-mf920924-087-p1s2w1</LM>
 </w.rf>
 <form>Czerlinski</form>
-<tag lemma="Czerlinský_;S" src="orig" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Czerlinský_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-mf920924-087-p1s2w2">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-mf920924-087-p1s2w17</LM>
 </w.rf>
 <form>Uher</form>
-<tag lemma="Uher_;E_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uher_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-087-p1s2w18">
 <src.rf>manual</src.rf>

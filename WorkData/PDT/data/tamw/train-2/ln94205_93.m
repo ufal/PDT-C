@@ -107,7 +107,7 @@
 <LM>w#w-ln94205-93-p2s1Aw6</LM>
 </w.rf>
 <form>Nevoral</form>
-<tag lemma="Nevoral_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nevoral_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-93-p2s1Aw7">
 <src.rf>manual</src.rf>

@@ -88,8 +88,8 @@
 <form>FI</form>
 <tag>
 <AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-fi)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FI-1_:B_;K_^(fakulta_informatiky)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="FI-2_:B_;K_^(agentura_Factum_Invenio)" src="auto">NNISX-----A---8</AM>
+<AM lemma="FI-1_:B_;m_^(fakulta_informatiky)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FI-2_:B_;m_^(agentura_Factum_Invenio)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNXXX-----A----</AM>
@@ -724,7 +724,7 @@
 </w.rf>
 <form>Runner</form>
 <tag>
-<AM lemma="Runner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Runner_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="runner_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Runner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -872,8 +872,8 @@
 </w.rf>
 <form>Robocop</form>
 <tag>
-<AM lemma="Robocop_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Robocop_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Robocop_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Robocop_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-020-p2s5w31">
@@ -1047,7 +1047,7 @@
 <LM>w#w-mf920925-020-p3s1w2</LM>
 </w.rf>
 <form>Murphyho</form>
-<tag lemma="Murphy_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Murphy_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1380,7 +1380,7 @@
 <LM>w#w-mf920925-020-p3s4w10</LM>
 </w.rf>
 <form>Estevez</form>
-<tag lemma="Estevez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Estevez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 </w.rf>
 <form>nolands</form>
 <tag>
-<AM lemma="noland_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="noland_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="nolands-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1749,7 +1749,7 @@
 </w.rf>
 <form>Mike</form>
 <tag>
-<AM lemma="Mike_;Y_,t" src="orig">NNMSX-----A----</AM>
+<AM lemma="Mike_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Mike_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1759,7 +1759,7 @@
 <LM>w#w-mf920925-020-p3s6w9</LM>
 </w.rf>
 <form>Jagger</form>
-<tag lemma="Jagger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jagger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 <LM>w#w-mf920925-020-p3s6w16</LM>
 </w.rf>
 <form>Vacendaka</form>
-<tag lemma="Vacendak_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vacendak_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1842,7 +1842,7 @@
 <LM>w#w-mf920925-020-p3s6w19</LM>
 </w.rf>
 <form>Hopkins</form>
-<tag lemma="Hopkins_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hopkins_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-020-p3s6w20">
 <src.rf>manual</src.rf>
@@ -2637,7 +2637,7 @@
 <LM>w#w-mf920925-020-p4s3w27</LM>
 </w.rf>
 <form>Maylama</form>
-<tag lemma="Maylam_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maylam_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-020-p4s3w28">
 <src.rf>manual</src.rf>
@@ -2845,8 +2845,8 @@
 </w.rf>
 <form>Rutger</form>
 <tag>
-<AM lemma="Rutger_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rutger_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rutger_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rutger_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-020-p5s2w2">
@@ -2855,7 +2855,7 @@
 <LM>w#w-mf920925-020-p5s2w2</LM>
 </w.rf>
 <form>Hauer</form>
-<tag lemma="Hauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-020-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2919,7 +2919,7 @@
 <LM>w#w-mf920925-020-p5s2w10</LM>
 </w.rf>
 <form>Schwarzeneggera</form>
-<tag lemma="Schwarzenegger_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schwarzenegger_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-020-p5s2w11">
 <src.rf>manual</src.rf>
@@ -3505,13 +3505,13 @@
 </w.rf>
 <form>Psycho</form>
 <tag>
-<AM lemma="Psycho_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Psycho_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Psycho_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Psycho_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Psycho_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Psycho_;m" src="auto">NNNS1-----A----</AM>
+<AM lemma="Psycho_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Psycho_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto">NNFS5-----A----</AM>
-<AM lemma="psycho-2_;u" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Psycho_;R" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="psycho-2" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Psycho_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-020-p5s5w5">

@@ -164,11 +164,11 @@
 </w.rf>
 <form>VIKA</form>
 <tag>
-<AM lemma="VIKA_:B_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Vic_;S_;Y" src="auto">NNMS2-----A---1</AM>
-<AM lemma="Vic_;S_;Y" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Vik_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vik_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="VIKA_:B_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="Vic_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="Vic_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="Vik_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Vik_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Vika_;Y_,t" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="vika" src="auto">NNFS1-----A----</AM>
 <AM lemma="Vika-2_;G" src="manual">NNXXX-----A----</AM>
@@ -181,7 +181,7 @@
 <LM>w#w-mf920925-034-p1s1w20</LM>
 </w.rf>
 <form>Gastrocentrum</form>
-<tag lemma="Gastrocentrum_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Gastrocentrum_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920925-034-p1s1w21">
 <src.rf>manual</src.rf>
@@ -540,8 +540,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-034-p2s1w3">
@@ -576,7 +576,7 @@
 <LM>w#w-mf920925-034-p3s1w3</LM>
 </w.rf>
 <form>MAFA</form>
-<tag lemma="Mafa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mafa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-034-p3s1w4">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-mf920925-034-p3s2w2</LM>
 </w.rf>
 <form>NEFF</form>
-<tag lemma="Neff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

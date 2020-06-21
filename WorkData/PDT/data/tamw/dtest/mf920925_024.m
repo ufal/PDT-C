@@ -480,7 +480,7 @@
 <form>Agharta</form>
 <tag>
 <AM lemma="Agharta_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Agharta_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Agharta_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-024-p4s2w15">
@@ -490,7 +490,7 @@
 </w.rf>
 <form>Jazz</form>
 <tag>
-<AM lemma="Jazz_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Jazz_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="jazz-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
@@ -1955,7 +1955,7 @@
 </w.rf>
 <form>ex</form>
 <tag>
-<AM lemma="ex-2_;R_,t_^(lat.,_advokát_ex_offo)" src="orig">RR--X----------</AM>
+<AM lemma="ex-2_;m_,t_^(lat.,_advokát_ex_offo)" src="orig">RR--X----------</AM>
 <AM lemma="ex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

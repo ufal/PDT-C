@@ -616,7 +616,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -793,7 +793,7 @@
 <LM>w#w-lnd92255-002-p2s3w10</LM>
 </w.rf>
 <form>Bischoff</form>
-<tag lemma="Bischoff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bischoff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-002-p2s3w11">
 <src.rf>manual</src.rf>

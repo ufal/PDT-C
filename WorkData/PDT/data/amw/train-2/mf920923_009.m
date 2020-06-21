@@ -69,7 +69,7 @@
 <LM>w#w-mf920923-009-p1s1Bw2</LM>
 </w.rf>
 <form>ŠKODĚ</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-009-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -1228,7 +1228,7 @@
 <LM>w#w-mf920923-009-p3s3w29</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-009-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1278,7 +1278,7 @@
 <form>Vltavský</form>
 <tag>
 <AM lemma="vltavský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Vltavský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vltavský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-009-p3s3w36">
@@ -1391,7 +1391,7 @@
 <LM>w#w-mf920923-009-p4s1w13</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-009-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-mf920923-009-p4s3w31</LM>
 </w.rf>
 <form>Mádr</form>
-<tag lemma="Mádr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mádr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-009-p4s3w32">
 <src.rf>manual</src.rf>
@@ -2478,7 +2478,7 @@
 <form>Vltavský</form>
 <tag>
 <AM lemma="vltavský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Vltavský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vltavský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-009-p5s2w16">
@@ -2605,7 +2605,7 @@
 <form>Škodovce</form>
 <tag>
 <AM lemma="škodovka" src="orig">NNFS6-----A----</AM>
-<AM lemma="Škodovka_;K" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Škodovka_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-009-p5s4w3">

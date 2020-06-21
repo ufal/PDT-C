@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-113-p1s1w2</LM>
 </w.rf>
 <form>Grafová</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-113-p1s1w3">
 <src.rf>manual</src.rf>
@@ -80,13 +80,13 @@
 <AM lemma="M-0_:B_;Y" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="M-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="M-3`1000" src="auto">C}-------------</AM>
-<AM lemma="M-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="M-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="M-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="M-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="M-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -280,7 +280,7 @@
 <LM>w#w-mf930708-113-p2s3w3</LM>
 </w.rf>
 <form>Selešová</form>
-<tag lemma="Selešová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Selešová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-113-p2s3w4">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-mf930708-113-p2s3w27</LM>
 </w.rf>
 <form>Grafová</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-113-p2s3w28">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-mf930708-113-p2s4w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930708-113-p2s4w17">
 <src.rf>manual</src.rf>
@@ -759,9 +759,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-113-p2s4w23">

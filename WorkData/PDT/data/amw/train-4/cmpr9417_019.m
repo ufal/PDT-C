@@ -771,7 +771,7 @@
 <LM>w#w-cmpr9417-019-p5s2w6</LM>
 </w.rf>
 <form>Amalthea</form>
-<tag lemma="Amalthea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Amalthea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-019-p5s2w7">
 <src.rf>manual</src.rf>

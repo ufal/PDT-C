@@ -104,8 +104,8 @@
 </w.rf>
 <form>Sixto</form>
 <tag>
-<AM lemma="Sixto_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sixto_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sixto_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Sixto_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-064-p2s1Bw4">
@@ -114,7 +114,7 @@
 <LM>w#w-ln95041-064-p2s1Bw4</LM>
 </w.rf>
 <form>Durán</form>
-<tag lemma="Durán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Durán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-064-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-ln95041-064-p2s1Bw6</LM>
 </w.rf>
 <form>Ballén</form>
-<tag lemma="Ballén_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ballén_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-064-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-ln95041-064-p2s2w6</LM>
 </w.rf>
 <form>Fujimoriho</form>
-<tag lemma="Fujimori_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Fujimori_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-064-p2s2w7">
 <src.rf>manual</src.rf>

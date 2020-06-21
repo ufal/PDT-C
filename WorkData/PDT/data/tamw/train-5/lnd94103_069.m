@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-069-p1s1w1</LM>
 </w.rf>
 <form>Omegu</form>
-<tag lemma="Omega_;R_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Omega_;m_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s1w2">
 <src.rf>manual</src.rf>
@@ -70,9 +70,9 @@
 </w.rf>
 <form>tom</form>
 <tag>
-<AM lemma="tom-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tom-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
-<AM lemma="tom-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tom-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-069-p1s2w4">
@@ -115,7 +115,7 @@
 <LM>w#w-lnd94103-069-p1s3w3</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w4">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-lnd94103-069-p1s3w4</LM>
 </w.rf>
 <form>Omega</form>
-<tag lemma="Omega_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Omega_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w5">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -167,7 +167,7 @@
 </w.rf>
 <form>Motors</form>
 <tag>
-<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-1_;m_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -178,7 +178,7 @@
 </w.rf>
 <form>Czechoslovakia</form>
 <tag>
-<AM lemma="Czechoslovakia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Czechoslovakia_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Czechoslovakia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -376,7 +376,7 @@
 <LM>w#w-lnd94103-069-p1s4w2</LM>
 </w.rf>
 <form>Omega</form>
-<tag lemma="Omega_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Omega_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s4w3">
 <src.rf>manual</src.rf>
@@ -457,8 +457,8 @@
 </w.rf>
 <form>Audi</form>
 <tag>
-<AM lemma="Audi-2_;R_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Audi-2_;m_^(vozidlo)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Audi_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -484,7 +484,7 @@
 <LM>w#w-lnd94103-069-p1s4w15</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s4w16">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-lnd94103-069-p1s4w16</LM>
 </w.rf>
 <form>Scorpio</form>
-<tag lemma="Scorpio_;K_;R" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Scorpio_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s4w17">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 </w.rf>
 <form>GM</form>
 <tag>
-<AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
+<AM lemma="GM_:B_;m" src="auto">NNFXX-----A----</AM>
 <AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1057,7 +1057,7 @@
 </w.rf>
 <form>Czechoslovakia</form>
 <tag>
-<AM lemma="Czechoslovakia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Czechoslovakia_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Czechoslovakia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

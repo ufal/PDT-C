@@ -36,7 +36,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
@@ -232,7 +232,7 @@
 <LM>w#w-ln94204-26-p1s3w3</LM>
 </w.rf>
 <form>Kroupa</form>
-<tag lemma="Kroupa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kroupa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

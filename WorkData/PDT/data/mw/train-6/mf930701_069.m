@@ -98,8 +98,8 @@
 </w.rf>
 <form>wil</form>
 <tag>
-<AM lemma="wil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="wil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="wil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-069-p4s1w4">
@@ -250,12 +250,12 @@
 </w.rf>
 <form>formana</form>
 <tag>
-<AM lemma="Forman-2_;R_^(vozidlo)" src="orig">NNIS2-----A---1</AM>
+<AM lemma="Forman-2_;m_^(vozidlo)" src="orig">NNIS2-----A---1</AM>
 <AM lemma="forman" src="auto">NNMS2-----A----</AM>
 <AM lemma="forman" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="forman-2_;R_^(vozidlo)" src="manual">NNMS4-----A----</AM>
-<AM lemma="forman-2_;R_^(vozidlo)" src="manual">NNMS4-----A----</AM>
-<AM lemma="forman-2_;R_^(vozidlo)" src="manual" selected="1">NNIS4-----A---1</AM>
+<AM lemma="forman-2_;m_^(vozidlo)" src="manual">NNMS4-----A----</AM>
+<AM lemma="forman-2_;m_^(vozidlo)" src="manual">NNMS4-----A----</AM>
+<AM lemma="forman-2_;m_^(vozidlo)" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930701-069-p4s2w4">

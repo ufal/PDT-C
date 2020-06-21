@@ -237,7 +237,7 @@
 <LM>w#w-mf930703-144-p2s1w19</LM>
 </w.rf>
 <form>Rexrodt</form>
-<tag lemma="Rexrodt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rexrodt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-144-p2s1w20">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930703-144-p2s1w22</LM>
 </w.rf>
 <form>Wiesheu</form>
-<tag lemma="Wiesheu_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Wiesheu_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-mf930703-144-p2s1w23">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-mf930703-144-p3s2w6</LM>
 </w.rf>
 <form>Rexrodt</form>
-<tag lemma="Rexrodt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rexrodt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-144-p3s2w7">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-mf930703-144-p4s1w3</LM>
 </w.rf>
 <form>Wiesheu</form>
-<tag lemma="Wiesheu_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Wiesheu_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-mf930703-144-p4s1w4">
 <src.rf>manual</src.rf>

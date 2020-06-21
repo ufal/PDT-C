@@ -467,8 +467,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-020-p2s1Bw44">
@@ -592,8 +592,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-020-p2s2w15">
@@ -661,7 +661,7 @@
 <LM>w#w-ln95049-020-p2s2w22</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-020-p2s2w23">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln95049-020-p3s1w32</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95049-020-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1274,7 +1274,7 @@
 <LM>w#w-ln95049-020-p3s2w33</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-020-p3s2w34">
 <src.rf>manual</src.rf>
@@ -1531,7 +1531,7 @@
 <LM>w#w-ln95049-020-p4s1w8</LM>
 </w.rf>
 <form>Šedivý</form>
-<tag lemma="Šedivý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šedivý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-020-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1766,8 +1766,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-020-p4s2w21">

@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-103-p1s1w3</LM>
 </w.rf>
 <form>Parkinson</form>
-<tag lemma="Parkinson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Parkinson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-103-p2s1A">
@@ -53,7 +53,7 @@
 <LM>w#w-ln94200-103-p2s1Aw2</LM>
 </w.rf>
 <form>Jakl</form>
-<tag lemma="Jakl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jakl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-103-p2s1B">
@@ -643,7 +643,7 @@
 <LM>w#w-ln94200-103-p2s4w12</LM>
 </w.rf>
 <form>Parkinsonových</form>
-<tag lemma="Parkinsonův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Parkinsonův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln94200-103-p2s4w13">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln94200-103-p2s5w2</LM>
 </w.rf>
 <form>Parkinson</form>
-<tag lemma="Parkinson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Parkinson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-103-p2s5w3">
 <src.rf>manual</src.rf>

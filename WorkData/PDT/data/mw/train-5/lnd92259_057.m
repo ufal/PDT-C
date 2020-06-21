@@ -60,7 +60,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -122,7 +122,7 @@
 <LM>w#w-lnd92259-057-p3s1w3</LM>
 </w.rf>
 <form>nel</form>
-<tag lemma="nel-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="nel-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-057-p3s1w4">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -506,7 +506,7 @@
 </w.rf>
 <form>SL</form>
 <tag>
-<AM lemma="SL_:B_;K_^(Sněmovna_lidu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SL_:B_;m_^(Sněmovna_lidu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SL_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto">NNFXX-----A---8</AM>
@@ -529,9 +529,9 @@
 </w.rf>
 <form>SN</form>
 <tag>
-<AM lemma="SN_:B_;K_^(Sněmovna_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Sn-2_:B_;H_^(chem._prvek_cín)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="sn-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="SN_:B_;m_^(Sněmovna_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sn-2_:B_;U_^(chem._prvek_cín)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="sn-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="SN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2646,7 +2646,7 @@
 </w.rf>
 <form>SL</form>
 <tag>
-<AM lemma="SL_:B_;K_^(Sněmovna_lidu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SL_:B_;m_^(Sněmovna_lidu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SL_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
@@ -2717,9 +2717,9 @@
 </w.rf>
 <form>SN</form>
 <tag>
-<AM lemma="SN_:B_;K_^(Sněmovna_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Sn-2_:B_;H_^(chem._prvek_cín)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="sn-99_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SN_:B_;m_^(Sněmovna_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sn-2_:B_;U_^(chem._prvek_cín)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="sn-99_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

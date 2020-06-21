@@ -390,8 +390,8 @@
 </w.rf>
 <form>Golf</form>
 <tag>
-<AM lemma="Golf_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Golf_;K_;R_^(vozidlo)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Golf_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Golf_;m_^(vozidlo)" src="manual">NNIS1-----A----</AM>
 <AM lemma="golf-1_^(sport)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -1212,7 +1212,7 @@
 <LM>w#w-mf920902-020-p2s8w6</LM>
 </w.rf>
 <form>Čedokem</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920902-020-p2s8w7">
 <src.rf>manual</src.rf>
@@ -1292,7 +1292,7 @@
 <LM>w#w-mf920902-020-p2s8w16</LM>
 </w.rf>
 <form>Pinkra</form>
-<tag lemma="Pinkr_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pinkr_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-020-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 <LM>w#w-mf920902-020-p2s13w3</LM>
 </w.rf>
 <form>Navrátila</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-020-p2s13w4">
 <src.rf>manual</src.rf>
@@ -2085,7 +2085,7 @@
 <LM>w#w-mf920902-020-p3s1w1</LM>
 </w.rf>
 <form>Pramen</form>
-<tag lemma="Pramen_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pramen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-020-p3s1w2">
 <src.rf>manual</src.rf>
@@ -2403,7 +2403,7 @@
 <LM>w#w-mf920902-020-p3s4w5</LM>
 </w.rf>
 <form>Hlaváčka</form>
-<tag lemma="Hlaváček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hlaváček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-020-p3s4w6">
 <src.rf>manual</src.rf>

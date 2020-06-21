@@ -148,7 +148,7 @@
 <form>Christie</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Christie_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christie_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-058-p2s1w10">

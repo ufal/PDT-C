@@ -119,7 +119,7 @@
 <LM>w#w-ln95047-068-p2s1Bw6</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -243,20 +243,20 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-4_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Z-4_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Z-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Z-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Z-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Z-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="Z-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="Z-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Z-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Z-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Z-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Z-9_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Z-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Z-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Z-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="Z-9_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Z-33" src="auto">Q3-------------</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-068-p2s1Bw22">
@@ -441,7 +441,7 @@
 <LM>w#w-ln95047-068-p2s1Bw44</LM>
 </w.rf>
 <form>Srb</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p2s1Bw45">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -685,7 +685,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -899,7 +899,7 @@
 <LM>w#w-ln95047-068-p3s1w12</LM>
 </w.rf>
 <form>Tito</form>
-<tag lemma="Tito_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tito_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-ln95047-068-p3s2w1</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Perovičová</form>
-<tag lemma="Perovičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Perovičová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1289,9 +1289,9 @@
 <form_change>spell</form_change>
 <form>Perovičové</form>
 <tag>
-<AM lemma="Perovičová_;S" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Perovič_;S" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Perovič_;S" src="auto" recommended="1">NNMP5-----A---1</AM>
+<AM lemma="Perovičová_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Perovič_;Y" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Perovič_;Y" src="auto" recommended="1">NNMP5-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95047-068-p3s3w3">
@@ -1810,7 +1810,7 @@
 <LM>w#w-ln95047-068-p3s5Bw2</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p3s5Bw3">
 <src.rf>manual</src.rf>
@@ -2045,7 +2045,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2056,7 +2056,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2148,7 +2148,7 @@
 <LM>w#w-ln95047-068-p3s7w10</LM>
 </w.rf>
 <form>Tito</form>
-<tag lemma="Tito_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tito_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p3s7w11">
 <src.rf>manual</src.rf>
@@ -2272,7 +2272,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Perovičová</form>
-<tag lemma="Perovičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Perovičová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p3s7w26">
 <src.rf>manual</src.rf>
@@ -2369,7 +2369,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševičovo</form>
-<tag lemma="Miloševičův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Miloševičův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95047-068-p3s7w39">
 <src.rf>manual</src.rf>
@@ -2877,7 +2877,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševiče</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-068-p5s1w14">
 <src.rf>manual</src.rf>
@@ -2976,7 +2976,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžič</form>
-<tag lemma="Karadžič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karadžič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p5s2w6">
 <src.rf>manual</src.rf>
@@ -3001,7 +3001,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševičovi</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95047-068-p5s2w9">
 <src.rf>manual</src.rf>
@@ -3041,7 +3041,7 @@
 <LM>w#w-ln95047-068-p5s2w13</LM>
 </w.rf>
 <form>Karadjordje</form>
-<tag lemma="Karadjordje_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karadjordje_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p5s2w14">
 <src.rf>manual</src.rf>
@@ -3161,7 +3161,7 @@
 <LM>w#w-ln95047-068-p5s2w28</LM>
 </w.rf>
 <form>Karadjordjevičů</form>
-<tag lemma="Karadjordjevič_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Karadjordjevič_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95047-068-p5s2w29">
 <src.rf>manual</src.rf>
@@ -3188,7 +3188,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševič</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-068-p5s4w2">
 <src.rf>manual</src.rf>

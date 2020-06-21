@@ -45,7 +45,7 @@
 <LM>w#w-ln94206-62-p2s1w3</LM>
 </w.rf>
 <form>Olympia</form>
-<tag lemma="Olympia_;K_^(nakladatelství)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Olympia_;m_^(nakladatelství)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-62-p2s1w4">
 <src.rf>manual</src.rf>

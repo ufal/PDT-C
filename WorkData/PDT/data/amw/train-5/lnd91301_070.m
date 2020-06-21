@@ -272,8 +272,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-070-p2s1Bw25">
@@ -348,7 +348,7 @@
 <LM>w#w-lnd91301-070-p3s1w8</LM>
 </w.rf>
 <form>Zviada</form>
-<tag lemma="Zviada_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zviada_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p3s1w9">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-lnd91301-070-p3s1w9</LM>
 </w.rf>
 <form>Gamsachurdii</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p3s1w10">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-lnd91301-070-p3s1w11</LM>
 </w.rf>
 <form>Čanturija</form>
-<tag lemma="Čanturija_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čanturija_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p3s1w12">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-lnd91301-070-p3s3w18</LM>
 </w.rf>
 <form>Chaindrava</form>
-<tag lemma="Chaindrava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chaindrava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p3s3w19">
 <src.rf>manual</src.rf>
@@ -762,8 +762,8 @@
 </w.rf>
 <form>Džaba</form>
 <tag>
-<AM lemma="Džaba_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Džaba_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Džaba_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Džaba_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-070-p3s3w21">
@@ -772,7 +772,7 @@
 <LM>w#w-lnd91301-070-p3s3w21</LM>
 </w.rf>
 <form>Ioseliani</form>
-<tag lemma="Ioseliani_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ioseliani_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p3s3w22">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-lnd91301-070-p4s1w7</LM>
 </w.rf>
 <form>Gamsachurdii</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-lnd91301-070-p4s4w20</LM>
 </w.rf>
 <form>Gamsachurdia</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p4s4w21">
 <src.rf>manual</src.rf>
@@ -1427,8 +1427,8 @@
 </w.rf>
 <form>Rustaveliho</form>
 <tag>
-<AM lemma="Rustaveli_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rustaveliho_;S_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
+<AM lemma="Rustaveli_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rustaveliho_;Y_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-070-p5s1w14">

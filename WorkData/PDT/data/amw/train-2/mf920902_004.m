@@ -221,7 +221,7 @@
 <LM>w#w-mf920902-004-p3s1w13</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-004-p3s1w14">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-mf920902-004-p5s1w6</LM>
 </w.rf>
 <form>Chuvajdullajeva</form>
-<tag lemma="Chuvajdullajev_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Chuvajdullajev_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-004-p5s1w7">
 <src.rf>manual</src.rf>

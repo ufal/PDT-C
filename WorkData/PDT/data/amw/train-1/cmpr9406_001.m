@@ -322,7 +322,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p4s3w9">
@@ -496,7 +496,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p4s4w11">
@@ -1702,7 +1702,7 @@
 </w.rf>
 <form>CCITT</form>
 <tag>
-<AM lemma="CCITT_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="CCITT_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="CCITT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1746,7 +1746,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p6s1w21">
@@ -2738,7 +2738,7 @@
 <form>Mode</form>
 <tag>
 <AM lemma="mode_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Mode_;K_^(Depeche_Mode)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Mode_;m_^(Depeche_Mode)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="modus" src="auto">NNIS5-----A----</AM>
 <AM lemma="mód" src="auto">NNIS5-----A----</AM>
 <AM lemma="mode_,t" src="auto">XX-------------</AM>
@@ -4512,7 +4512,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p9s3w4">
@@ -4670,7 +4670,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -4996,7 +4996,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -5603,8 +5603,8 @@
 </w.rf>
 <form>BUBBLE</form>
 <tag>
-<AM lemma="bubble-1_;c_,t_^(bubble-jet)" src="orig">AAXXX----1A----</AM>
-<AM lemma="bubble_;c_,t_^(bubble-jet)" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="bubble-1_,t_^(bubble-jet)" src="orig">AAXXX----1A----</AM>
+<AM lemma="bubble_,t_^(bubble-jet)" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="BUBBLE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5623,7 +5623,7 @@
 </w.rf>
 <form>JET</form>
 <tag>
-<AM lemma="jet-2_,t_^(angl._trysk,_např._tisk_bubble-jet)" src="orig">NNISX-----A----</AM>
+<AM lemma="jet-2_,t_^(angl._trysk,_např._tisk_bubble-jet)" src="orig">NNIXX-----A----</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
@@ -5646,8 +5646,8 @@
 <form>INK</form>
 <tag>
 <AM lemma="ink_,t_^(ink_jet)" src="orig">AAXXX----1A----</AM>
-<AM lemma="INK-1_:B_;K_,t_^(Internationale_Nordseeschutzkonferenz)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ink_;c_,t_^(ink-jet,_inkoustová_tiskárna)" src="auto">A2--------A----</AM>
+<AM lemma="INK-1_:B_;m_,t_^(Internationale_Nordseeschutzkonferenz)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ink_,t_^(ink-jet,_inkoustová_tiskárna)" src="auto">A2--------A----</AM>
 <AM lemma="INK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5658,7 +5658,7 @@
 </w.rf>
 <form>JET</form>
 <tag>
-<AM lemma="jet-2_,t_^(angl._trysk,_např._tisk_bubble-jet)" src="orig">NNISX-----A----</AM>
+<AM lemma="jet-2_,t_^(angl._trysk,_např._tisk_bubble-jet)" src="orig">NNIXX-----A----</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
@@ -5910,8 +5910,8 @@
 <form>INK</form>
 <tag>
 <AM lemma="ink_,t_^(ink_jet)" src="orig">AAXXX----1A----</AM>
-<AM lemma="INK-1_:B_;K_,t_^(Internationale_Nordseeschutzkonferenz)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ink_;c_,t_^(ink-jet,_inkoustová_tiskárna)" src="auto">A2--------A----</AM>
+<AM lemma="INK-1_:B_;m_,t_^(Internationale_Nordseeschutzkonferenz)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ink_,t_^(ink-jet,_inkoustová_tiskárna)" src="auto">A2--------A----</AM>
 <AM lemma="INK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5922,7 +5922,7 @@
 </w.rf>
 <form>JET</form>
 <tag>
-<AM lemma="jet-2_,t_^(angl._trysk,_např._tisk_bubble-jet)" src="orig">NNISX-----A----</AM>
+<AM lemma="jet-2_,t_^(angl._trysk,_např._tisk_bubble-jet)" src="orig">NNIXX-----A----</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
@@ -13468,7 +13468,7 @@
 <LM>w#w-cmpr9406-001-p21s1w2</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-001-p23s1">
@@ -13658,7 +13658,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p24s1w16">
@@ -13692,7 +13692,7 @@
 </w.rf>
 <form>CCITT</form>
 <tag>
-<AM lemma="CCITT_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="CCITT_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="CCITT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -13960,7 +13960,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -14294,7 +14294,7 @@
 <form>Mode</form>
 <tag>
 <AM lemma="mode_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Mode_;K_^(Depeche_Mode)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Mode_;m_^(Depeche_Mode)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="modus" src="auto">NNIS5-----A----</AM>
 <AM lemma="mód" src="auto">NNIS5-----A----</AM>
 <AM lemma="mode_,t" src="auto">XX-------------</AM>
@@ -15054,7 +15054,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p42s1w9">
@@ -16044,7 +16044,7 @@
 <form>TZ</form>
 <tag>
 <AM lemma="TZ-2_:B_^(tepelný_záznam)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TZ-1_:B_;K_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="TZ-1_:B_;m_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="TZ-2_:B" src="manual">NNNXX-----A---8</AM>
 <AM lemma="TZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -16189,7 +16189,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p55s2w7">
@@ -16207,7 +16207,7 @@
 </w.rf>
 <form>CCITT</form>
 <tag>
-<AM lemma="CCITT_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="CCITT_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="CCITT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

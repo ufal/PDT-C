@@ -74,7 +74,7 @@
 <LM>w#w-ln94209-44-p2s1Bw2</LM>
 </w.rf>
 <form>Korecký</form>
-<tag lemma="Korecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-44-p2s1C">
@@ -855,7 +855,7 @@
 <LM>w#w-ln94209-44-p2s6w3</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-44-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <LM>w#w-ln94209-44-p3s3w7</LM>
 </w.rf>
 <form>Kalvody</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-44-p3s3w8">
 <src.rf>manual</src.rf>

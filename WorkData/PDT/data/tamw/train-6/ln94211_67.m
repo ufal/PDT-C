@@ -87,7 +87,7 @@
 <LM>w#w-ln94211-67-p2s1Bw2</LM>
 </w.rf>
 <form>Sirotek</form>
-<tag lemma="Sirotek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sirotek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-67-p2s1C">
@@ -593,8 +593,8 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-67-p3s1w6">
@@ -612,9 +612,9 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual">Q3-------------</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-67-p3s1w8">
@@ -1291,8 +1291,8 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-67-p4s2w2">
@@ -1310,9 +1310,9 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual">Q3-------------</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-67-p4s2w4">

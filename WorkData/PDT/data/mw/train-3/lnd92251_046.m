@@ -125,9 +125,9 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB_:B_;m_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-046-p3s2w7">
@@ -217,9 +217,9 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB_:B_;m_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-046-p3s2w18">
@@ -639,7 +639,7 @@
 <LM>w#w-lnd92251-046-p3s3w28</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-046-p3s3w29">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-lnd92251-046-p3s4w7</LM>
 </w.rf>
 <form>Cibulka</form>
-<tag lemma="Cibulka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cibulka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-046-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-lnd92251-046-p3s7w15</LM>
 </w.rf>
 <form>Cibulka</form>
-<tag lemma="Cibulka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cibulka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-046-p3s7w16">
 <src.rf>manual</src.rf>

@@ -164,7 +164,7 @@
 <LM>w#w-ln95040-138-p3s1Bw6</LM>
 </w.rf>
 <form>Koecherová</form>
-<tag lemma="Koecherová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koecherová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -301,8 +301,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p3s1Bw24">
@@ -389,8 +389,8 @@
 </w.rf>
 <form>Prognosis</form>
 <tag>
-<AM lemma="Prognosis_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Prognosis_;R" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Prognosis_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Prognosis_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p4s1w10">
@@ -441,7 +441,7 @@
 <LM>w#w-ln95040-138-p4s2w5</LM>
 </w.rf>
 <form>Koecher</form>
-<tag lemma="Koecher_;S_,s" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koecher_;Y_,s" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p4s2w6">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -629,7 +629,7 @@
 <LM>w#w-ln95040-138-p4s2w28</LM>
 </w.rf>
 <form>Ščaranského</form>
-<tag lemma="Ščaranský_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ščaranský_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95040-138-p4s2w29">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln95040-138-p5s1w1</LM>
 </w.rf>
 <form>Koecherová</form>
-<tag lemma="Koecherová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koecherová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p5s1w2">
 <src.rf>manual</src.rf>
@@ -720,8 +720,8 @@
 </w.rf>
 <form>Prognosis</form>
 <tag>
-<AM lemma="Prognosis_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Prognosis_;R" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Prognosis_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Prognosis_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p5s1w5">
@@ -851,8 +851,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p5s1w21">
@@ -894,9 +894,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p5s1w26">
@@ -940,7 +940,7 @@
 <LM>w#w-ln95040-138-p5s1w30</LM>
 </w.rf>
 <form>Ščaranského</form>
-<tag lemma="Ščaranský_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ščaranský_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95040-138-p5s1w31">
 <src.rf>manual</src.rf>
@@ -984,8 +984,8 @@
 <form>Lánského</form>
 <tag>
 <AM lemma="lánský" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lánský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Lánský_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Lánský_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Lánský_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="lánský" src="auto">AAIS2----1A----</AM>
 <AM lemma="lánský" src="auto">AAMS2----1A----</AM>
 <AM lemma="lánský" src="auto">AAMS4----1A----</AM>
@@ -1048,7 +1048,7 @@
 <LM>w#w-ln95040-138-p5s3w1</LM>
 </w.rf>
 <form>Koecherová</form>
-<tag lemma="Koecherová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koecherová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-ln95040-138-p5s5w1</LM>
 </w.rf>
 <form>Koecherová</form>
-<tag lemma="Koecherová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koecherová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p5s5w2">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1450,9 +1450,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p5s6w3">
@@ -1610,7 +1610,7 @@
 <LM>w#w-ln95040-138-p6s1w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95040-138-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2031,7 +2031,7 @@
 <LM>w#w-ln95040-138-p6s4w10</LM>
 </w.rf>
 <form>Koecherovi</form>
-<tag lemma="Koecherův_;S_,s_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Koecherův_;Y_,s_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln95040-138-p6s4w11">
 <src.rf>manual</src.rf>
@@ -2080,7 +2080,7 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2148,7 +2148,7 @@
 <LM>w#w-ln95040-138-p6s5w1</LM>
 </w.rf>
 <form>Koecherová</form>
-<tag lemma="Koecherová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koecherová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p6s5w2">
 <src.rf>manual</src.rf>
@@ -2223,7 +2223,7 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2250,8 +2250,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p6s6w8">
@@ -2364,7 +2364,7 @@
 <LM>w#w-ln95040-138-p6s7w12</LM>
 </w.rf>
 <form>Koecherová</form>
-<tag lemma="Koecherová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koecherová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p6s7w13">
 <src.rf>manual</src.rf>
@@ -2482,9 +2482,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p6s8w10">
@@ -2608,7 +2608,7 @@
 <LM>w#w-ln95040-138-p7s1w1</LM>
 </w.rf>
 <form>Koecherovi</form>
-<tag lemma="Koecherův_;S_,s_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Koecherův_;Y_,s_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln95040-138-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2641,9 +2641,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p7s1w6">
@@ -2750,7 +2750,7 @@
 <LM>w#w-ln95040-138-p7s2w1</LM>
 </w.rf>
 <form>Kocher</form>
-<tag lemma="Kocher-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kocher-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p7s2w2">
 <src.rf>manual</src.rf>
@@ -2895,7 +2895,7 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

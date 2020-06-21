@@ -19,7 +19,7 @@
 <LM>w#w-ln94202-111-p1s1w1</LM>
 </w.rf>
 <form>Moses</form>
-<tag lemma="Moses_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moses_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-111-p1s1w2">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln94202-111-p2s1Bw17</LM>
 </w.rf>
 <form>Moses</form>
-<tag lemma="Moses_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moses_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-111-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-ln94202-111-p2s4w26</LM>
 </w.rf>
 <form>Moses</form>
-<tag lemma="Moses_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moses_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-111-p2s4w27">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-ln94202-111-p2s5w30</LM>
 </w.rf>
 <form>Youngovi</form>
-<tag lemma="Young_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Young_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-111-p2s5w31">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-ln94202-111-p2s6w1</LM>
 </w.rf>
 <form>Moses</form>
-<tag lemma="Moses_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moses_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-111-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

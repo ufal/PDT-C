@@ -257,7 +257,7 @@
 <LM>w#w-mf930713-159-p3s1w3</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-159-p3s1w4">
 <src.rf>manual</src.rf>

@@ -54,8 +54,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-022-p2s1w4">
@@ -123,7 +123,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -229,7 +229,7 @@
 <LM>w#w-lnd92251-022-p2s2w19</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s2w20">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 </w.rf>
 <form>SPR</form>
 <tag>
-<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-1_:B_;m_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -549,7 +549,7 @@
 </w.rf>
 <form>RSČ</form>
 <tag>
-<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-1_:B_;m_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -568,7 +568,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

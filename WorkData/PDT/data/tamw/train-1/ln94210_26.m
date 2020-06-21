@@ -61,7 +61,7 @@
 <LM>w#w-ln94210-26-p2s1Aw4</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dan-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-26-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -277,8 +277,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-26-p2s2w10">
@@ -343,7 +343,7 @@
 <LM>w#w-ln94210-26-p2s2w17</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-26-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-ln94210-26-p2s7w9</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-26-p2s7w10">
 <src.rf>manual</src.rf>

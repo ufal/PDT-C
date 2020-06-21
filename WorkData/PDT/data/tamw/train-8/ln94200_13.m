@@ -69,7 +69,7 @@
 <LM>w#w-ln94200-13-p2s1w5</LM>
 </w.rf>
 <form>Foglara</form>
-<tag lemma="Foglar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Foglar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-13-p2s1w6">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-ln94200-13-p2s1w22</LM>
 </w.rf>
 <form>Bočana</form>
-<tag lemma="Bočan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bočan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-13-p2s1w23">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 </w.rf>
 <form>FAMU</form>
 <tag>
-<AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FAMU_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -370,7 +370,7 @@
 <LM>w#w-ln94200-13-p2s2w19</LM>
 </w.rf>
 <form>Kotka</form>
-<tag lemma="Kotek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-13-p2s2w20">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-ln94200-13-p2s3w4</LM>
 </w.rf>
 <form>Kotka</form>
-<tag lemma="Kotek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-13-p2s3w5">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-ln94200-13-p2s3w22</LM>
 </w.rf>
 <form>Foglara</form>
-<tag lemma="Foglar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Foglar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-13-p2s3w23">
 <src.rf>manual</src.rf>
@@ -583,8 +583,8 @@
 </w.rf>
 <form>ář</form>
 <tag>
-<AM lemma="ář-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ář-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ář-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ář-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-13-p2s4w3">
@@ -609,7 +609,7 @@
 <LM>w#w-ln94200-13-p2s4w5</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-13-p2s4w6">
 <src.rf>manual</src.rf>

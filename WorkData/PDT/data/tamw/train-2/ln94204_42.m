@@ -78,8 +78,8 @@
 </w.rf>
 <form>teb</form>
 <tag>
-<AM lemma="teb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="teb-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="teb-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="teb-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s1Aw4">
@@ -155,7 +155,7 @@
 </w.rf>
 <form>Wackenhut</form>
 <tag>
-<AM lemma="Wackenhut_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Wackenhut_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Wackenhut-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -166,8 +166,8 @@
 </w.rf>
 <form>Czech</form>
 <tag>
-<AM lemma="Czech-3_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Czech-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Czech-3_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Czech-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Czech-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -384,7 +384,7 @@
 </w.rf>
 <form>Wackenhut</form>
 <tag>
-<AM lemma="Wackenhut_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Wackenhut_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Wackenhut-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -395,8 +395,8 @@
 </w.rf>
 <form>Czech</form>
 <tag>
-<AM lemma="Czech-3_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Czech-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Czech-3_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Czech-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Czech-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1145,8 +1145,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s7w28">
@@ -1179,7 +1179,7 @@
 <LM>w#w-ln94204-42-p2s7w31</LM>
 </w.rf>
 <form>Povrazník</form>
-<tag lemma="Povrazník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Povrazník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-42-p2s7w32">
 <src.rf>manual</src.rf>

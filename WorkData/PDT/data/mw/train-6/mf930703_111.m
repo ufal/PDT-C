@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-111-p1s1w1</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-111-p1s1w2">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-mf930703-111-p2s1w11</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s1w12">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-mf930703-111-p2s1w13</LM>
 </w.rf>
 <form>Kováče</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s1w14">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-mf930703-111-p2s1w21</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s1w22">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-mf930703-111-p2s2w9</LM>
 </w.rf>
 <form>Tuchyni</form>
-<tag lemma="Tuchyňa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tuchyňa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s2w10">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf930703-111-p2s3w3</LM>
 </w.rf>
 <form>Zieleniece</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s3w4">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-mf930703-111-p2s4w14</LM>
 </w.rf>
 <form>Kováčem</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s4w15">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-mf930703-111-p2s4w22</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s4w23">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-mf930703-111-p2s5w7</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1138,7 +1138,7 @@
 <LM>w#w-mf930703-111-p2s6w9</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <LM>w#w-mf930703-111-p2s6w11</LM>
 </w.rf>
 <form>Tuchyni</form>
-<tag lemma="Tuchyňa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tuchyňa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1213,7 +1213,7 @@
 <LM>w#w-mf930703-111-p2s6w18</LM>
 </w.rf>
 <form>Čechům</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930703-111-p2s6w19">
 <src.rf>manual</src.rf>
@@ -1903,7 +1903,7 @@
 <LM>w#w-mf930703-111-p2s10w6</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-111-p2s11">
@@ -2102,7 +2102,7 @@
 <LM>w#w-mf930703-111-p2s12w11</LM>
 </w.rf>
 <form>Mečiarovy</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf930703-111-p2s12w12">
 <src.rf>manual</src.rf>
@@ -2347,7 +2347,7 @@
 <LM>w#w-mf930703-111-p2s13w23</LM>
 </w.rf>
 <form>Mečiarovým</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUNS7M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUNS7M---------</tag>
 </m>
 <m id="m-mf930703-111-p2s13w24">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-156-p1s1w1</LM>
 </w.rf>
 <form>Courier</form>
-<tag lemma="Courier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Courier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-156-p1s1w2">
 <src.rf>manual</src.rf>
@@ -92,8 +92,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-156-p2s1Aw5">
@@ -140,9 +140,9 @@
 </w.rf>
 <form>Meadows</form>
 <tag>
-<AM lemma="Meadows-2_;G_,t" src="orig">NNNSX-----A----</AM>
-<AM lemma="Meadows_;G_,t" src="auto" recommended="1">NNFPX-----A----</AM>
-<AM lemma="Meadows_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Meadows-2_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Meadows_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Meadows_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Meadows-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -200,7 +200,7 @@
 <LM>w#w-ln94200-156-p2s1Bw10</LM>
 </w.rf>
 <form>Courier</form>
-<tag lemma="Courier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Courier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-156-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -241,8 +241,8 @@
 </w.rf>
 <form>ATP</form>
 <tag>
-<AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ATP-1_:B_;K_^(Prof._sv._asociace_tenisových_hráčů)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="ATP-1_:B_;m_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ATP-1_:B_;m_^(Prof._sv._asociace_tenisových_hráčů)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="ATP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -353,7 +353,7 @@
 <LM>w#w-ln94200-156-p2s2w11</LM>
 </w.rf>
 <form>Corretjou</form>
-<tag lemma="Corretja_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Corretja_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-156-p2s2w12">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-ln94200-156-p2s4w17</LM>
 </w.rf>
 <form>Courier</form>
-<tag lemma="Courier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Courier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-156-p2s4w18">
 <src.rf>manual</src.rf>
@@ -1016,7 +1016,7 @@
 <LM>w#w-ln94200-156-p2s5w5</LM>
 </w.rf>
 <form>Stichem</form>
-<tag lemma="Stich_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Stich_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-156-p2s5w6">
 <src.rf>manual</src.rf>

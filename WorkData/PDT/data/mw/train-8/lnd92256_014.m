@@ -27,7 +27,7 @@
 <LM>w#w-lnd92256-014-p1s1w2</LM>
 </w.rf>
 <form>Bovis</form>
-<tag lemma="Bovis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bovis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-014-p1s1w3">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-lnd92256-014-p1s2w26</LM>
 </w.rf>
 <form>Frank</form>
-<tag lemma="Frank_;E_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frank_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-014-p1s2w27">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-lnd92256-014-p1s2w27</LM>
 </w.rf>
 <form>Lampl</form>
-<tag lemma="Lampl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lampl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-014-p1s2w28">
 <src.rf>manual</src.rf>

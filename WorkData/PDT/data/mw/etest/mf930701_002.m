@@ -86,8 +86,8 @@
 </w.rf>
 <form>jem</form>
 <tag>
-<AM lemma="jem-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jem-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jem-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jem-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-002-p2s1w4">
@@ -105,8 +105,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-002-p2s1w6">
@@ -155,7 +155,7 @@
 <LM>w#w-mf930701-002-p2s1w11</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-002-p2s1w12">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-mf930701-002-p2s1w21</LM>
 </w.rf>
 <form>Pezla</form>
-<tag lemma="Pezl_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pezl_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-002-p2s1w22">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-mf930701-002-p2s1w33</LM>
 </w.rf>
 <form>Nekvasila</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-002-p2s1w34">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-mf930701-002-p2s2w2</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-002-p2s2w3">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf930701-002-p2s3w2</LM>
 </w.rf>
 <form>Pezl</form>
-<tag lemma="Pezl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pezl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-002-p2s3w3">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-mf930701-002-p2s4w1</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-002-p2s4w2">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-mf930701-002-p2s5w2</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-002-p2s5w3">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 </w.rf>
 <form>ČSLA</form>
 <tag>
-<AM lemma="ČSLA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSLA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1241,7 +1241,7 @@
 <LM>w#w-mf930701-002-p2s9w9</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-002-p2s9w10">
 <src.rf>manual</src.rf>

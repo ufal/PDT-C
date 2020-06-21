@@ -101,7 +101,7 @@
 <LM>w#w-ln94201-92-p2s1w3</LM>
 </w.rf>
 <form>ljď</form>
-<tag lemma="ljď-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ljď-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94201-92-p2s1w4">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-ln94201-92-p2s1w5</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kva-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94201-92-p2s1w6">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-ln94201-92-p2s1w13</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-92-p2s1w14">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-ln94201-92-p3s1w2</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-92-p3s1w3">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-ln94201-92-p3s2w27</LM>
 </w.rf>
 <form>ČRo</form>
-<tag lemma="ČRo-1_:B_;K_^(Český_rozhlas)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="ČRo-1_:B_;m_^(Český_rozhlas)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94201-92-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1066,8 +1066,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-92-p4s1w24">
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln94201-92-p4s1w24</LM>
 </w.rf>
 <form>Ježek</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-92-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1747,7 +1747,7 @@
 <LM>w#w-ln94201-92-p6s1w6</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-92-p6s1w7">
 <src.rf>manual</src.rf>

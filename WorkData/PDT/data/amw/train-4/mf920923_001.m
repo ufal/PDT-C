@@ -63,8 +63,8 @@
 </w.rf>
 <form>wil</form>
 <tag>
-<AM lemma="wil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="wil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="wil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-001-p1s1Bw5">
@@ -374,8 +374,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-001-p1s2w11">

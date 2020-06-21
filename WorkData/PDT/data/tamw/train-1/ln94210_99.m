@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-99-p1s1Aw2</LM>
 </w.rf>
 <form>Gilmour</form>
-<tag lemma="Gilmour_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gilmour_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-99-p1s1B">
@@ -46,9 +46,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

@@ -251,7 +251,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-043-p3s2w25">
@@ -268,7 +268,7 @@
 <LM>w#w-lnd92257-043-p3s2w26</LM>
 </w.rf>
 <form>Rachmonem</form>
-<tag lemma="Rachmon_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rachmon_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92257-043-p3s2w27">
 <src.rf>manual</src.rf>
@@ -490,8 +490,8 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-043-p3s4w4">
@@ -509,7 +509,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-043-p3s4w6">
 <src.rf>manual</src.rf>

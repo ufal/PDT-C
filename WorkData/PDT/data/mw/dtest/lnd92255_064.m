@@ -27,7 +27,7 @@
 <LM>w#w-lnd92255-064-p1s1w2</LM>
 </w.rf>
 <form>JELCIN</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p1s1w3">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-lnd92255-064-p3s2w4</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p3s2w5">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-lnd92255-064-p4s2w31</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p4s2w32">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-lnd92255-064-p4s4w12</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-lnd92255-064-p4s5w1</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p4s5w2">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-lnd92255-064-p5s1w5</LM>
 </w.rf>
 <form>Chasbulatov</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1401,7 +1401,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1477,7 +1477,7 @@
 <LM>w#w-lnd92255-064-p5s3w1</LM>
 </w.rf>
 <form>Chasbulatov</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1557,7 +1557,7 @@
 <LM>w#w-lnd92255-064-p5s3w11</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1711,7 +1711,7 @@
 <LM>w#w-lnd92255-064-p5s4w11</LM>
 </w.rf>
 <form>Chasbulatov</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p5s4w12">
 <src.rf>manual</src.rf>
@@ -2055,8 +2055,8 @@
 </w.rf>
 <form>Haját</form>
 <tag>
-<AM lemma="Haját-2_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Haját_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haját-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haját_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Haját-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2204,7 +2204,7 @@
 <LM>w#w-lnd92255-064-p6s3w12</LM>
 </w.rf>
 <form>Gračov</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p6s3w13">
 <src.rf>manual</src.rf>
@@ -2690,7 +2690,7 @@
 <LM>w#w-lnd92255-064-p7s2w8</LM>
 </w.rf>
 <form>Kostikov</form>
-<tag lemma="Kostikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kostikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p7s2w9">
 <src.rf>manual</src.rf>
@@ -2960,7 +2960,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2979,7 +2979,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3561,9 +3561,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-064-p9s1w4">

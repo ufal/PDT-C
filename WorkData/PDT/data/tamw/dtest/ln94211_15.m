@@ -439,7 +439,7 @@
 <form>Štekl</form>
 <tag>
 <AM lemma="Štekl" src="auto">NNMS1-----A----</AM>
-<AM lemma="Štekl_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štekl_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-15-p2s3w12">
@@ -598,7 +598,7 @@
 <form>Štekl</form>
 <tag>
 <AM lemma="Štekl" src="auto">NNMS1-----A----</AM>
-<AM lemma="Štekl_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štekl_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-15-p3s2w2">

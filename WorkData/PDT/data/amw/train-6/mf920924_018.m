@@ -723,7 +723,7 @@
 <LM>w#w-mf920924-018-p2s3w34</LM>
 </w.rf>
 <form>Benešová</form>
-<tag lemma="Benešová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Benešová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-018-p2s3w35">
 <src.rf>manual</src.rf>
@@ -1231,7 +1231,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1632,7 +1632,7 @@
 <LM>w#w-mf920924-018-p2s7w12</LM>
 </w.rf>
 <form>Pilipa</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-018-p2s7w13">
 <src.rf>manual</src.rf>
@@ -6798,7 +6798,7 @@
 <LM>w#w-mf920924-018-p3s1w2</LM>
 </w.rf>
 <form>KUČEROVÁ</form>
-<tag lemma="Kučerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kučerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-018-p4s1">
@@ -6824,7 +6824,7 @@
 <LM>w#w-mf920924-018-p4s1w3</LM>
 </w.rf>
 <form>MAFA</form>
-<tag lemma="Mafa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mafa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-018-p4s1w4">
 <src.rf>manual</src.rf>
@@ -6850,7 +6850,7 @@
 <LM>w#w-mf920924-018-p4s2w2</LM>
 </w.rf>
 <form>NEFF</form>
-<tag lemma="Neff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

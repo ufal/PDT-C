@@ -95,7 +95,7 @@
 <LM>w#w-ln94204-141-p2s1Bw2</LM>
 </w.rf>
 <form>Szombath</form>
-<tag lemma="Szombath_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Szombath_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-141-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -1658,7 +1658,7 @@
 <LM>w#w-ln94204-141-p3s8w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94204-141-p3s8w2">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -5970,7 +5970,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -9334,7 +9334,7 @@
 <LM>w#w-ln94204-141-p10s12w5</LM>
 </w.rf>
 <form>Heima</form>
-<tag lemma="Heim_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Heim_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-141-p10s12w6">
 <src.rf>manual</src.rf>
@@ -9547,7 +9547,7 @@
 </w.rf>
 <form>UNICEF</form>
 <tag>
-<AM lemma="UNICEF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNICEF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="UNICEF_:B_^(United_Nations_Childern's_Fund)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -12650,7 +12650,7 @@
 <LM>w#w-ln94204-141-p13s1w2</LM>
 </w.rf>
 <form>Szikorová</form>
-<tag lemma="Szikorová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Szikorová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -916,8 +916,8 @@
 </w.rf>
 <form>Antar</form>
 <tag>
-<AM lemma="Antar_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Antar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Antar_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Antar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p3s1w15">
@@ -934,7 +934,7 @@
 <LM>w#w-mf930713-119-p3s1w16</LM>
 </w.rf>
 <form>Avia</form>
-<tag lemma="Avia_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Avia_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-119-p3s1w17">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <form>Shell</form>
 <tag>
 <AM lemma="shell" src="orig">NNIS1-----A----</AM>
-<AM lemma="Shell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Shell_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p3s1w24">
@@ -1009,7 +1009,7 @@
 <LM>w#w-mf930713-119-p3s1w25</LM>
 </w.rf>
 <form>Esso</form>
-<tag lemma="Esso_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Esso_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-119-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-mf930713-119-p3s1w27</LM>
 </w.rf>
 <form>Total</form>
-<tag lemma="Total_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Total_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-119-p3s1w28">
 <src.rf>manual</src.rf>

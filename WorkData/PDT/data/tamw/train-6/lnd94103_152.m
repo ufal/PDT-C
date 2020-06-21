@@ -593,7 +593,7 @@
 <LM>w#w-lnd94103-152-p1s5w5</LM>
 </w.rf>
 <form>Liška</form>
-<tag lemma="Liška_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Liška_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-152-p1s5w6">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-lnd94103-152-p1s6w8</LM>
 </w.rf>
 <form>Nováka</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-152-p1s6w9">
 <src.rf>manual</src.rf>

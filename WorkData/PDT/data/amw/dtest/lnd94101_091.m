@@ -52,8 +52,8 @@
 </w.rf>
 <form>IAAF</form>
 <tag>
-<AM lemma="IAAF_:B_;w_;K_^(Mez._atletická_federace)" src="orig">NNFXX-----A----</AM>
-<AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="IAAF_:B_;m_^(Mez._atletická_federace)" src="orig">NNFXX-----A----</AM>
+<AM lemma="IAAF_:B_;m_^(Mez._atletická_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="IAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -85,7 +85,7 @@
 <LM>w#w-lnd94101-091-p1s1w8</LM>
 </w.rf>
 <form>Slovnaft</form>
-<tag lemma="Slovnaft_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovnaft_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-091-p1s1w9">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-lnd94101-091-p1s1w15</LM>
 </w.rf>
 <form>Bubkovi</form>
-<tag lemma="Bubka_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Bubka_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd94101-091-p1s1w16">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-lnd94101-091-p1s1w17</LM>
 </w.rf>
 <form>Mitchelovi</form>
-<tag lemma="Mitchel_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Mitchel_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd94101-091-p1s1w18">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-lnd94101-091-p1s1w25</LM>
 </w.rf>
 <form>Gunnellová</form>
-<tag lemma="Gunnellová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gunnellová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-091-p1s1w26">
 <src.rf>manual</src.rf>

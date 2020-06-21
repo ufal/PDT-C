@@ -256,7 +256,7 @@
 <LM>w#w-mf930709-086-p1s2Bw23</LM>
 </w.rf>
 <form>Desiree</form>
-<tag lemma="Desiree_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Desiree_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw24">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-mf930709-086-p1s2Bw24</LM>
 </w.rf>
 <form>Washingtonové</form>
-<tag lemma="Washingtonová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Washingtonová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw25">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-mf930709-086-p1s3w6</LM>
 </w.rf>
 <form>Giffordové</form>
-<tag lemma="Giffordová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Giffordová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930709-086-p1s3w7">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-mf930709-086-p1s4w14</LM>
 </w.rf>
 <form>Washingtonovou</form>
-<tag lemma="Washingtonová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Washingtonová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-086-p1s4w15">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-mf930709-086-p2s2Bw3</LM>
 </w.rf>
 <form>Beffi</form>
-<tag lemma="Beffi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beffi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-086-p2s2Bw4">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 </w.rf>
 <form>Ol</form>
 <tag>
-<AM lemma="Olympique_:B_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Olympique_:B_;m_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Ola_;G_;Y_^(i_Joškar-Ola)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="olympique_:B_,t" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Ol-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1088,7 +1088,7 @@
 <LM>w#w-mf930709-086-p2s4w6</LM>
 </w.rf>
 <form>Tapie</form>
-<tag lemma="Tapie_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tapie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-086-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-mf930709-086-p2s4w10</LM>
 </w.rf>
 <form>Beffi</form>
-<tag lemma="Beffi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beffi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-086-p2s4w11">
 <src.rf>manual</src.rf>

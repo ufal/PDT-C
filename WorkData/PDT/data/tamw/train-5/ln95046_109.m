@@ -326,8 +326,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-109-p2s2w2">
@@ -378,7 +378,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-109-p2s2w8">
@@ -396,9 +396,9 @@
 </w.rf>
 <form>Potočná</form>
 <tag>
-<AM lemma="Potočný_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Potočný_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP5-----A----</AM>
@@ -811,13 +811,13 @@
 </w.rf>
 <form>Potočné</form>
 <tag>
-<AM lemma="Potočný_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFP1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFP4-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Potočná_;S" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFS3-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFS6-----A----</AM>
+<AM lemma="Potočný_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFP1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFP4-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFP5-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A---6</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A---6</AM>
 <AM lemma="Potočné_;G" src="auto">NNNS1-----A----</AM>
@@ -1773,9 +1773,9 @@
 </w.rf>
 <form>Potočná</form>
 <tag>
-<AM lemma="Potočný_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Potočný_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP5-----A----</AM>
@@ -2041,9 +2041,9 @@
 </w.rf>
 <form>Potočná</form>
 <tag>
-<AM lemma="Potočný_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Potočný_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP5-----A----</AM>
@@ -2526,9 +2526,9 @@
 </w.rf>
 <form>Potočná</form>
 <tag>
-<AM lemma="Potočný_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Potočná_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Potočný_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Potočná_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP5-----A----</AM>

@@ -46,8 +46,8 @@
 </w.rf>
 <form>Roš</form>
 <tag>
-<AM lemma="Roš_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Roš_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Roš_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Roš_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="roš_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Roš-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -59,7 +59,7 @@
 </w.rf>
 <form>chodeš</form>
 <tag>
-<AM lemma="chodeš_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="chodeš_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="chodeš_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="chodeš-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -540,7 +540,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-029-p2s2w27">
@@ -557,7 +557,7 @@
 <LM>w#w-ln95048-029-p2s2w28</LM>
 </w.rf>
 <form>Daníčka</form>
-<tag lemma="Daníček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Daníček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-029-p2s2w29">
 <src.rf>manual</src.rf>
@@ -574,8 +574,8 @@
 </w.rf>
 <form>Roš</form>
 <tag>
-<AM lemma="Roš_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Roš_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Roš_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Roš_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="roš_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Roš-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -587,7 +587,7 @@
 </w.rf>
 <form>chodeš</form>
 <tag>
-<AM lemma="chodeš_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="chodeš_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="chodeš_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="chodeš-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -767,7 +767,7 @@
 <form>Levim</form>
 <tag>
 <AM lemma="Levi_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Levi_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Levi_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-029-p2s3w13">
@@ -906,7 +906,7 @@
 <LM>w#w-ln95048-029-p2s4w12</LM>
 </w.rf>
 <form>Šmuela</form>
-<tag lemma="Šmuel_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šmuel_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-029-p2s4w13">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln95048-029-p2s4w14</LM>
 </w.rf>
 <form>Agnona</form>
-<tag lemma="Agnon_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Agnon_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-029-p2s4w15">
 <src.rf>manual</src.rf>

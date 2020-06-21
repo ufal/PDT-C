@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9415-010-p2s1w3</LM>
 </w.rf>
 <form>Fischer</form>
-<tag lemma="Fischer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fischer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-010-p2s1w4">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <form>Burgiba</form>
 <tag>
 <AM lemma="Burgiba_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Burgiba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Burgiba_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Burgiba-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -156,8 +156,8 @@
 </w.rf>
 <form>Burgiba</form>
 <tag>
-<AM lemma="Burgiba_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Burgiba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Burgiba_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Burgiba_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Burgiba-2_;G" src="manual">NNFS1-----A----</AM>
 <AM lemma="Burgiba-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -169,8 +169,8 @@
 </w.rf>
 <form>Holiday</form>
 <tag>
-<AM lemma="Holiday_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Holiday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Holiday_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Holiday_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="holiday_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="holiday_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Holiday-77" src="manual" selected="1">F%-------------</AM>
@@ -183,7 +183,7 @@
 </w.rf>
 <form>Complex</form>
 <tag>
-<AM lemma="Complex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Complex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="complex_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Complex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -539,9 +539,9 @@
 <form>Burgiby</form>
 <tag>
 <AM lemma="Burgiba_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Burgiba_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Burgiba_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Burgiba_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Burgiba_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Burgiba_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Burgiba_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Burgiba-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -803,7 +803,7 @@
 </w.rf>
 <form>Sienja</form>
 <tag>
-<AM lemma="Sienja_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Sienja_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sienja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

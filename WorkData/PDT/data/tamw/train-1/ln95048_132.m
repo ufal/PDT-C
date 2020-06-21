@@ -106,7 +106,7 @@
 <LM>w#w-ln95048-132-p2s1Bw3</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-132-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -213,7 +213,7 @@
 <LM>w#w-ln95048-132-p2s1Bw16</LM>
 </w.rf>
 <form>Metall</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metall_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-132-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln95048-132-p2s2w7</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-132-p2s2w8">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95048-132-p2s2w9</LM>
 </w.rf>
 <form>Uhlíř</form>
-<tag lemma="Uhlíř_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhlíř_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-132-p2s2w10">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-ln95048-132-p2s5w2</LM>
 </w.rf>
 <form>Uhlíře</form>
-<tag lemma="Uhlíř_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uhlíř_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-132-p2s5w3">
 <src.rf>manual</src.rf>

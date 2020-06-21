@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-102-p1s1w1</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-102-p1s1w2">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95044-102-p2s1Bw13</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95044-102-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95044-102-p2s1Bw20</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-102-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-ln95044-102-p2s2w27</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95044-102-p2s2w28">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-ln95044-102-p2s2w32</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95044-102-p2s2w33">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-ln95044-102-p2s2w43</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-102-p2s2w44">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln95044-102-p2s2w57</LM>
 </w.rf>
 <form>Horna</form>
-<tag lemma="Horn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Horn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-102-p2s2w58">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-ln95044-102-p2s3w1</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-102-p2s3w2">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-ln95044-102-p2s3w19</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95044-102-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-ln95044-102-p2s5w27</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-102-p2s5w28">
 <src.rf>manual</src.rf>

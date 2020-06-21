@@ -59,7 +59,7 @@
 <LM>w#w-ln95046-016-p1s1w6</LM>
 </w.rf>
 <form>Klinsmann</form>
-<tag lemma="Klinsmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klinsmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-016-p1s1w7">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 </w.rf>
 <form>HB</form>
 <tag>
-<AM lemma="HB_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HB_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Hb_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="HB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95046-016-p1s1w21</LM>
 </w.rf>
 <form>Waldmanna</form>
-<tag lemma="Waldmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Waldmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-016-p1s1w22">
 <src.rf>manual</src.rf>
@@ -200,8 +200,8 @@
 </w.rf>
 <form>Dirka</form>
 <tag>
-<AM lemma="Dirk_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Dirk_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Dirk_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Dirk_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-016-p1s1w24">
@@ -210,7 +210,7 @@
 <LM>w#w-ln95046-016-p1s1w24</LM>
 </w.rf>
 <form>Raudiese</form>
-<tag lemma="Raudies_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Raudies_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -69,7 +69,7 @@
 <LM>w#w-ln94203-82-p2s1Aw2</LM>
 </w.rf>
 <form>Veber</form>
-<tag lemma="Veber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-82-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-ln94203-82-p2s5w44</LM>
 </w.rf>
 <form>Zemlinského</form>
-<tag lemma="Zemlinský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zemlinský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-82-p2s5w45">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-ln94203-82-p2s5w46</LM>
 </w.rf>
 <form>Krásy</form>
-<tag lemma="Krása_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Krása_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-82-p2s5w47">
 <src.rf>manual</src.rf>
@@ -2012,7 +2012,7 @@
 <LM>w#w-ln94203-82-p3s2w27</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94203-82-p3s2w28">
 <src.rf>manual</src.rf>
@@ -2270,7 +2270,7 @@
 <LM>w#w-ln94203-82-p3s3w30</LM>
 </w.rf>
 <form>Smetanova</form>
-<tag lemma="Smetanův_;S_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94203-82-p3s3w31">
 <src.rf>manual</src.rf>

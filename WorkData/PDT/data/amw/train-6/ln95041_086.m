@@ -28,8 +28,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-086-p1s1w3">
@@ -383,7 +383,7 @@
 <LM>w#w-ln95041-086-p2s2w8</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-086-p2s2w9">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln95041-086-p3s1w8</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-086-p3s1w9">
 <src.rf>manual</src.rf>
@@ -705,8 +705,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-086-p3s3w8">
@@ -804,8 +804,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-086-p3s3w20">
@@ -1157,8 +1157,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-086-p4s1w4">
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln95041-086-p4s1w7</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-086-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1347,8 +1347,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-086-p4s1w27">
@@ -1801,8 +1801,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-086-p4s6w3">
@@ -1843,7 +1843,7 @@
 <LM>w#w-ln95041-086-p4s6w7</LM>
 </w.rf>
 <form>Kupka</form>
-<tag lemma="Kupka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kupka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-086-p4s6w8">
 <src.rf>manual</src.rf>
@@ -2405,7 +2405,7 @@
 <LM>w#w-ln95041-086-p5s1w10</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-086-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2574,8 +2574,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-086-p5s1w32">
@@ -2732,7 +2732,7 @@
 <LM>w#w-ln95041-086-p6s1w4</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-086-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2845,8 +2845,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-086-p6s1w19">

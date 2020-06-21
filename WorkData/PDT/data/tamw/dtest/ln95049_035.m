@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-035-p1s1w1</LM>
 </w.rf>
 <form>Nedvěd</form>
-<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nedvěd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-035-p1s1w2">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95049-035-p2s1w4</LM>
 </w.rf>
 <form>Nedvěd</form>
-<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nedvěd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-035-p2s1w5">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-ln95049-035-p2s1w17</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-035-p2s1w18">
 <src.rf>manual</src.rf>
@@ -360,9 +360,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-035-p2s2w19">
@@ -412,8 +412,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -482,9 +482,9 @@
 </w.rf>
 <form>Cincinnati</form>
 <tag>
-<AM lemma="Cincinnati_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Cincinnatus_;S" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Cincinnatus_;S" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Cincinnati_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Cincinnatus_;Y" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Cincinnatus_;Y" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Cincinnati_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -495,7 +495,7 @@
 </w.rf>
 <form>Cyclones</form>
 <tag>
-<AM lemma="Cyclone_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Cyclone_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cyclones-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -538,9 +538,9 @@
 </w.rf>
 <form>Panthers</form>
 <tag>
-<AM lemma="Panther_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Panthers_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Panthers_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Panther_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Panthers_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Panthers_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Panthers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -609,9 +609,9 @@
 </w.rf>
 <form>Cincinnati</form>
 <tag>
-<AM lemma="Cincinnati_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Cincinnatus_;S" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Cincinnatus_;S" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Cincinnati_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Cincinnatus_;Y" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Cincinnatus_;Y" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Cincinnati_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -646,8 +646,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-035-p2s3w12">
@@ -890,7 +890,7 @@
 <LM>w#w-ln95049-035-p2s4w23</LM>
 </w.rf>
 <form>Spartu</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95049-035-p2s4w24">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln95049-035-p2s4w27</LM>
 </w.rf>
 <form>Nedvěd</form>
-<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nedvěd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-035-p2s4w28">
 <src.rf>manual</src.rf>
@@ -1375,7 +1375,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1886,7 +1886,7 @@
 <LM>w#w-ln95049-035-p3s7w9</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-035-p3s7w10">
 <src.rf>manual</src.rf>
@@ -2094,7 +2094,7 @@
 <LM>w#w-ln95049-035-p3s7w35</LM>
 </w.rf>
 <form>Nedvěd</form>
-<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nedvěd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-035-p3s7w36">
 <src.rf>manual</src.rf>
@@ -2954,7 +2954,7 @@
 <LM>w#w-ln95049-035-p3s12w5</LM>
 </w.rf>
 <form>Nedvěda</form>
-<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Nedvěd_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-035-p3s12w6">
 <src.rf>manual</src.rf>
@@ -3571,7 +3571,7 @@
 <LM>w#w-ln95049-035-p3s16w17</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95049-035-p3s16w18">
 <src.rf>manual</src.rf>
@@ -3947,7 +3947,7 @@
 <LM>w#w-ln95049-035-p3s17w10</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-035-p3s17w11">
 <src.rf>manual</src.rf>

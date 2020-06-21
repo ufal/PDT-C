@@ -888,7 +888,7 @@
 <LM>w#w-ln95044-081-p2s5w16</LM>
 </w.rf>
 <form>Lester</form>
-<tag lemma="Lester_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lester_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-081-p2s5w17">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-ln95044-081-p2s5w17</LM>
 </w.rf>
 <form>Brown</form>
-<tag lemma="Brown_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brown_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-081-p2s5w18">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 </w.rf>
 <form>World</form>
 <tag>
-<AM lemma="World_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="World_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -924,7 +924,7 @@
 </w.rf>
 <form>Watch</form>
 <tag>
-<AM lemma="Watch_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Watch_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Watch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -935,9 +935,9 @@
 </w.rf>
 <form>Institute</form>
 <tag>
-<AM lemma="Institute_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Institute_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
-<AM lemma="institute_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="institute_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Institute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

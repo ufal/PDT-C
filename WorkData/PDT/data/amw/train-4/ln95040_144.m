@@ -112,7 +112,7 @@
 </w.rf>
 <form>APES</form>
 <tag>
-<AM lemma="APES_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="APES_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="APES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -364,7 +364,7 @@
 <LM>w#w-ln95040-144-p3s2w14</LM>
 </w.rf>
 <form>Látal</form>
-<tag lemma="Látal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Látal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-144-p3s2w15">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 </w.rf>
 <form>Terra</form>
 <tag>
-<AM lemma="Terra_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="Terra_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="Terra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -547,8 +547,8 @@
 <form>Tec</form>
 <tag>
 <AM lemma="Tec_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tec_;K" src="manual">NNIS1-----A----</AM>
-<AM lemma="Tec_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Tec_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Tec_;m" src="manual">NNIS1-----A----</AM>
 <AM lemma="Tec-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -686,7 +686,7 @@
 <LM>w#w-ln95040-144-p3s3w30</LM>
 </w.rf>
 <form>Látal</form>
-<tag lemma="Látal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Látal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-144-p3s3w31">
 <src.rf>manual</src.rf>
@@ -753,8 +753,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-144-p3s4w8">
@@ -885,7 +885,7 @@
 </w.rf>
 <form>APES</form>
 <tag>
-<AM lemma="APES_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="APES_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="APES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

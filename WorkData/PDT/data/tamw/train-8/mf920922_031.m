@@ -91,7 +91,7 @@
 <LM>w#w-mf920922-031-p1s1w10</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s1w11">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-mf920922-031-p1s1w12</LM>
 </w.rf>
 <form>Voskovcové</form>
-<tag lemma="Voskovcová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Voskovcová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s1w13">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-mf920922-031-p1s1w15</LM>
 </w.rf>
 <form>Síkory</form>
-<tag lemma="Síkora_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Síkora_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s1w16">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 </w.rf>
 <form>ABC</form>
 <tag>
-<AM lemma="ABC-2_:B_;K_^(divadlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ABC-2_:B_;m_^(divadlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -449,7 +449,7 @@
 <LM>w#w-mf920922-031-p1s4w3</LM>
 </w.rf>
 <form>Skořepová</form>
-<tag lemma="Skořepová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Skořepová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s4w4">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf920922-031-p1s4w18</LM>
 </w.rf>
 <form>Melantrich</form>
-<tag lemma="Melantrich-2_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Melantrich-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s4w19">
 <src.rf>manual</src.rf>

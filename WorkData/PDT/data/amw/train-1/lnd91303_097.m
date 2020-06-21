@@ -21,7 +21,7 @@
 <form>Oscar</form>
 <tag>
 <AM lemma="Oscar_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Oscar-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Oscar-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-097-p1s1w2">
@@ -56,7 +56,7 @@
 <LM>w#w-lnd91303-097-p2s1w2</LM>
 </w.rf>
 <form>Krabbeová</form>
-<tag lemma="Krabbeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krabbeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w3">
 <src.rf>manual</src.rf>
@@ -72,7 +72,7 @@
 <LM>w#w-lnd91303-097-p2s1w4</LM>
 </w.rf>
 <form>Lewis</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lewis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w5">
 <src.rf>manual</src.rf>
@@ -106,7 +106,7 @@
 <form>Oscara</form>
 <tag>
 <AM lemma="Oscar_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Oscar-2_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Oscar-2_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-097-p2s1w9">
@@ -244,7 +244,7 @@
 </w.rf>
 <form>Gazzetta</form>
 <tag>
-<AM lemma="Gazzetta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazzetta_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Gazzetta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

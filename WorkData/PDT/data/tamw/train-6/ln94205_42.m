@@ -70,7 +70,7 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -540,7 +540,7 @@
 <LM>w#w-ln94205-42-p2s3w15</LM>
 </w.rf>
 <form>Ekotes</form>
-<tag lemma="Ekotes_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ekotes_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-42-p2s3w16">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-ln94205-42-p2s3w23</LM>
 </w.rf>
 <form>Hlaváčka</form>
-<tag lemma="Hlaváček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hlaváček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-42-p2s3w24">
 <src.rf>manual</src.rf>

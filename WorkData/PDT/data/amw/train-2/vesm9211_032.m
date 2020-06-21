@@ -376,7 +376,7 @@
 <LM>w#w-vesm9211-032-p2s1w37</LM>
 </w.rf>
 <form>hlístice</form>
-<tag lemma="hlístice_;L" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="hlístice_;U" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-032-p2s1w38">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 </w.rf>
 <form>elegans</form>
 <tag>
-<AM lemma="elegans_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="elegans_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="elegans-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -553,8 +553,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s2w12">
@@ -1229,7 +1229,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s6w2">
@@ -1246,7 +1246,7 @@
 <LM>w#w-vesm9211-032-p2s6w3</LM>
 </w.rf>
 <form>Alberch</form>
-<tag lemma="Alberch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Alberch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-032-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1279,8 +1279,8 @@
 </w.rf>
 <form>Genetica</form>
 <tag>
-<AM lemma="Genetica_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Genetica_;R" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Genetica_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Genetica_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p2s6w8">
@@ -2516,7 +2516,7 @@
 <LM>w#w-vesm9211-032-p3s1w2</LM>
 </w.rf>
 <form>Sládeček</form>
-<tag lemma="Sládeček-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sládeček-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94210-59-p1s1w4</LM>
 </w.rf>
 <form>Baránka</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-59-p1s1w5">
 <src.rf>manual</src.rf>
@@ -177,7 +177,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -326,7 +326,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -419,7 +419,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -626,7 +626,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1036,7 +1036,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1129,7 +1129,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1189,7 +1189,7 @@
 <LM>w#w-ln94210-59-p3s7w2</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="em-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-59-p3s7w3">
 <src.rf>manual</src.rf>

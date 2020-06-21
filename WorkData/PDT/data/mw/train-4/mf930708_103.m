@@ -215,7 +215,7 @@
 <LM>w#w-mf930708-103-p8s1w1</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-103-p8s1w2">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-mf930708-103-p8s1w5</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-103-p8s1w6">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-mf930708-103-p11s1w1</LM>
 </w.rf>
 <form>Pollert</form>
-<tag lemma="Pollert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pollert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-103-p11s1w2">
 <src.rf>manual</src.rf>
@@ -329,8 +329,8 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;K_;p_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;m_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-103-p11s1w5">

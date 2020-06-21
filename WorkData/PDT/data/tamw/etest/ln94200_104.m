@@ -85,7 +85,7 @@
 <LM>w#w-ln94200-104-p2s1Aw2</LM>
 </w.rf>
 <form>Stoniš</form>
-<tag lemma="Stoniš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoniš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-104-p2s1B">
@@ -412,8 +412,8 @@
 </w.rf>
 <form>Kozel</form>
 <tag>
-<AM lemma="Kozel_;R_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kozel-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kozel-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-104-p2s3w6">
@@ -903,7 +903,7 @@
 <LM>w#w-ln94200-104-p3s1w3</LM>
 </w.rf>
 <form>Tigridem</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-104-p3s1w4">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-ln94200-104-p3s1w6</LM>
 </w.rf>
 <form>Kočárníkem</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-104-p3s1w7">
 <src.rf>manual</src.rf>

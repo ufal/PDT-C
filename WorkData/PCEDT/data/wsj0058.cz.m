@@ -160,9 +160,9 @@
 </w.rf>
 <form>G</form>
 <tag>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="G-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="G-33" src="auto">Q3-------------</AM>
+<AM lemma="G-33" src="auto" recommended="1" selected="1">Q3-------------</AM>
+<AM lemma="G-33" src="auto">Q3-------------</AM>
 <AM lemma="g-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="gram" src="auto">NNIXX-----A---8</AM>
 </tag>
@@ -183,7 +183,7 @@
 <form>Kuhns</form>
 <tag>
 <AM lemma="Kuhns" src="auto">X@-------------</AM>
-<AM lemma="Kuhns_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuhns_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0058-001-p1s1W5-Ta">
@@ -242,9 +242,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -311,10 +311,10 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="auto">AAXXX----1A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="auto">AAXXX----1A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="General_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -437,9 +437,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

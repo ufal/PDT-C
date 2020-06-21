@@ -70,8 +70,8 @@
 </w.rf>
 <form>ip</form>
 <tag>
-<AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ip-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ip-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ip-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p2s1Aw4">
@@ -277,7 +277,7 @@
 </w.rf>
 <form>Pomezný</form>
 <tag>
-<AM lemma="Pomezný_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pomezný_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP5-----A---6</AM>
@@ -593,7 +593,7 @@
 </w.rf>
 <form>Pomezného</form>
 <tag>
-<AM lemma="Pomezný_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Pomezný_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="pomezný_,s" src="auto">AAIS2----1A----</AM>
 <AM lemma="pomezný_,s" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="pomezný_,s" src="auto">AAMS4----1A----</AM>
@@ -777,7 +777,7 @@
 </w.rf>
 <form>Pomezný</form>
 <tag>
-<AM lemma="Pomezný_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pomezný_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP5-----A---6</AM>
@@ -888,7 +888,7 @@
 </w.rf>
 <form>ČEB</form>
 <tag>
-<AM lemma="ČEB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČEB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČEB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1029,7 +1029,7 @@
 </w.rf>
 <form>ČEB</form>
 <tag>
-<AM lemma="ČEB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČEB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČEB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1107,7 +1107,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1134,7 +1134,7 @@
 </w.rf>
 <form>PHARE</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1315,7 +1315,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1391,7 +1391,7 @@
 </w.rf>
 <form>PHARE</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1429,7 +1429,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1599,7 +1599,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1626,7 +1626,7 @@
 </w.rf>
 <form>PHARE</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1751,7 +1751,7 @@
 </w.rf>
 <form>Pomezného</form>
 <tag>
-<AM lemma="Pomezný_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Pomezný_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="pomezný_,s" src="auto">AAIS2----1A----</AM>
 <AM lemma="pomezný_,s" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="pomezný_,s" src="auto">AAMS4----1A----</AM>
@@ -1967,7 +1967,7 @@
 </w.rf>
 <form>Pomezný</form>
 <tag>
-<AM lemma="Pomezný_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pomezný_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Pomezná_;G_^(obec)" src="auto">NNFP5-----A---6</AM>

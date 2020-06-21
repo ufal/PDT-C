@@ -55,7 +55,7 @@
 <form>Buenos</form>
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

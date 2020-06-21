@@ -20,7 +20,7 @@
 </w.rf>
 <form>DSP</form>
 <tag>
-<AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -150,7 +150,7 @@
 <LM>w#w-lnd91301-021-p4s1w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd91301-021-p4s1w8">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <LM>w#w-lnd91301-021-p4s1w11</LM>
 </w.rf>
 <form>Přikryl</form>
-<tag lemma="Přikryl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přikryl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-021-p4s1w12">
 <src.rf>manual</src.rf>

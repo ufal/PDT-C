@@ -321,7 +321,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-57-p2s2w11">
@@ -338,7 +338,7 @@
 <LM>w#w-ln94200-57-p2s2w12</LM>
 </w.rf>
 <form>McBride</form>
-<tag lemma="McBride_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McBride_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-57-p2s2w13">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln94200-57-p2s5w2</LM>
 </w.rf>
 <form>McBrida</form>
-<tag lemma="McBrid_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="McBrid_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-57-p2s5w3">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -971,7 +971,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

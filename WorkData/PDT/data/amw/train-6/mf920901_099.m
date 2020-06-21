@@ -572,7 +572,7 @@
 <LM>w#w-mf920901-099-p2s3w11</LM>
 </w.rf>
 <form>Majorovi</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920901-099-p2s3w12">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1452,7 +1452,7 @@
 <LM>w#w-mf920901-099-p4s2Bw24</LM>
 </w.rf>
 <form>Gaulla</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-099-p4s2Bw25">
 <src.rf>manual</src.rf>
@@ -1484,7 +1484,7 @@
 <LM>w#w-mf920901-099-p4s2Bw28</LM>
 </w.rf>
 <form>Adenauera</form>
-<tag lemma="Adenauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Adenauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-099-p4s2Bw29">
 <src.rf>manual</src.rf>
@@ -4178,7 +4178,7 @@
 <LM>w#w-mf920901-099-p8s2w16</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920901-099-p8s2w17">
 <src.rf>manual</src.rf>
@@ -4956,7 +4956,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

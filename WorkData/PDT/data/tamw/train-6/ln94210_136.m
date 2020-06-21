@@ -79,8 +79,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -174,8 +174,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-136-p2s1Bw10">
@@ -248,7 +248,7 @@
 <LM>w#w-ln94210-136-p2s1Bw18</LM>
 </w.rf>
 <form>Pospíšila</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-136-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-ln94210-136-p2s2w1</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-136-p2s2w2">
 <src.rf>manual</src.rf>
@@ -608,8 +608,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-136-p3s1w13">
@@ -642,7 +642,7 @@
 <LM>w#w-ln94210-136-p3s1w16</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-136-p3s1w17">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-ln94210-136-p3s1w39</LM>
 </w.rf>
 <form>Baudyš</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-136-p3s1w40">
 <src.rf>manual</src.rf>
@@ -893,8 +893,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-136-p3s2w9">
@@ -919,7 +919,7 @@
 <LM>w#w-ln94210-136-p3s2w11</LM>
 </w.rf>
 <form>Pospíšila</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-136-p3s2w12">
 <src.rf>manual</src.rf>

@@ -234,7 +234,7 @@
 <LM>w#w-ln95041-119-p3s2w4</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-119-p3s2w5">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-ln95041-119-p3s2w17</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95041-119-p3s2w18">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-ln95041-119-p3s2w21</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-119-p3s2w22">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-ln95041-119-p3s3w20</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-119-p3s3w21">
 <src.rf>manual</src.rf>

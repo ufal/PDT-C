@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-111-p1s1w1</LM>
 </w.rf>
 <form>Rabušic</form>
-<tag lemma="Rabušic_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabušic_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-111-p1s1w2">
 <src.rf>manual</src.rf>
@@ -62,10 +62,10 @@
 </w.rf>
 <form>mn</form>
 <tag>
-<AM lemma="mn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mn-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
-<AM lemma="mn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mn-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-111-p2s1w4">
@@ -122,7 +122,7 @@
 <LM>w#w-mf930708-111-p2s1w10</LM>
 </w.rf>
 <form>Rabušic</form>
-<tag lemma="Rabušic_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabušic_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-111-p2s1w11">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf930708-111-p2s2w15</LM>
 </w.rf>
 <form>Hamřík</form>
-<tag lemma="Hamřík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hamřík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-111-p2s2w16">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf930708-111-p2s3w8</LM>
 </w.rf>
 <form>Barcucha</form>
-<tag lemma="Barcuch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Barcuch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-111-p2s3w9">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-mf930708-111-p2s3w12</LM>
 </w.rf>
 <form>Pelíšek</form>
-<tag lemma="Pelíšek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelíšek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-111-p2s3w13">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-mf930708-111-p2s3w28</LM>
 </w.rf>
 <form>Gábr</form>
-<tag lemma="Gábr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gábr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-111-p2s3w29">
 <src.rf>manual</src.rf>

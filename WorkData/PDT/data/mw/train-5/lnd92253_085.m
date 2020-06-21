@@ -36,8 +36,8 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -107,8 +107,8 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-085-p2s2w7">
@@ -400,8 +400,8 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-085-p2s3w15">
@@ -418,7 +418,7 @@
 <LM>w#w-lnd92253-085-p2s3w16</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-085-p2s3w17">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-lnd92253-085-p2s4w11</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-085-p2s4w12">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -802,8 +802,8 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-085-p2s5w3">
@@ -926,7 +926,7 @@
 <LM>w#w-lnd92253-085-p2s6w2</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-085-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1089,8 +1089,8 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-085-p2s7w4">

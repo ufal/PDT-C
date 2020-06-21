@@ -28,10 +28,10 @@
 </w.rf>
 <form>Liberty</form>
 <tag>
-<AM lemma="Liberta_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Liberta_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Liberta_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Liberta_;K" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Liberta_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Liberty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -42,7 +42,7 @@
 </w.rf>
 <form>National</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -91,7 +91,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFSXFS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -144,9 +144,9 @@
 <AM lemma="Florenc_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Florenc_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Florenc_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Florence_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Florence-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -171,8 +171,8 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Bank_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
@@ -188,8 +188,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s0W15-Ta">
@@ -203,9 +203,9 @@
 <AM lemma="Florenc_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Florenc_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Florenc_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Florence_;Y" src="auto">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -218,8 +218,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -273,8 +273,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -322,8 +322,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -348,9 +348,9 @@
 <tag>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
-<AM lemma="o-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
 </tag>
 </m>
@@ -423,10 +423,10 @@
 </w.rf>
 <form>Liberty</form>
 <tag>
-<AM lemma="Liberta_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Liberta_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Liberta_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Liberta_;K" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Liberta_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Liberty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -437,7 +437,7 @@
 </w.rf>
 <form>National</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -536,8 +536,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s1W13-Ta">
@@ -588,9 +588,9 @@
 <AM lemma="Florenc_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Florenc_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Florenc_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Florence_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Florence_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Florence_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Florence-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -617,8 +617,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -699,10 +699,10 @@
 </w.rf>
 <form>Liberty</form>
 <tag>
-<AM lemma="Liberta_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Liberta_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Liberta_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Liberta_;K" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Liberta_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Liberta_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Liberty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -713,7 +713,7 @@
 </w.rf>
 <form>National</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -78,8 +78,8 @@
 </w.rf>
 <form>zj</form>
 <tag>
-<AM lemma="zj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="zj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-002-p2s1w4">
@@ -97,8 +97,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-002-p2s1w6">
@@ -261,7 +261,7 @@
 <LM>w#w-mf930703-002-p2s2w6</LM>
 </w.rf>
 <form>Veverka</form>
-<tag lemma="Veverka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veverka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-002-p2s2w7">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-mf930703-002-p2s7w7</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-002-p2s7w8">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-mf930703-002-p2s7w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930703-002-p2s7w15">
 <src.rf>manual</src.rf>
@@ -1480,7 +1480,7 @@
 <LM>w#w-mf930703-002-p3s2w18</LM>
 </w.rf>
 <form>Veverka</form>
-<tag lemma="Veverka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veverka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-002-p3s2w19">
 <src.rf>manual</src.rf>

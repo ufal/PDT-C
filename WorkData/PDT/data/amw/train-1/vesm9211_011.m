@@ -519,7 +519,7 @@
 <LM>w#w-vesm9211-011-p7s1w4</LM>
 </w.rf>
 <form>Hésiodovy</form>
-<tag lemma="Hésiodův_;S_;Y_^(*2os)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Hésiodův_;Y_^(*2os)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-vesm9211-011-p7s1w5">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-vesm9211-011-p7s1w14</LM>
 </w.rf>
 <form>Novákové</form>
-<tag lemma="Nováková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nováková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p7s1w15">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-vesm9211-011-p7s2w27</LM>
 </w.rf>
 <form>Hérodotos</form>
-<tag lemma="Hérodotos_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hérodotos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p7s2w28">
 <src.rf>manual</src.rf>
@@ -1481,7 +1481,7 @@
 <LM>w#w-vesm9211-011-p8s2w8</LM>
 </w.rf>
 <form>Veselého</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p8s2w9">
 <src.rf>manual</src.rf>
@@ -2522,7 +2522,7 @@
 <LM>w#w-vesm9211-011-p8s9w8</LM>
 </w.rf>
 <form>Veselý</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p8s9w9">
 <src.rf>manual</src.rf>
@@ -2960,7 +2960,7 @@
 <LM>w#w-vesm9211-011-p9s1w5</LM>
 </w.rf>
 <form>Veselého</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p9s1w6">
 <src.rf>manual</src.rf>
@@ -3192,7 +3192,7 @@
 <LM>w#w-vesm9211-011-p10s1w5</LM>
 </w.rf>
 <form>Veselého</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p10s1w6">
 <src.rf>manual</src.rf>
@@ -3623,7 +3623,7 @@
 <LM>w#w-vesm9211-011-p11s1w1</LM>
 </w.rf>
 <form>Hésiodos</form>
-<tag lemma="Hésiodos_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hésiodos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-011-p11s1w2">
 <src.rf>manual</src.rf>
@@ -4093,7 +4093,7 @@
 <LM>w#w-vesm9211-011-p13s1w2</LM>
 </w.rf>
 <form>Fiala</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

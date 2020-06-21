@@ -35,7 +35,7 @@
 <LM>w#w-ln95044-111-p1s1w3</LM>
 </w.rf>
 <form>Zifčákovu</form>
-<tag lemma="Zifčákův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Zifčákův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95044-111-p1s1w4">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -162,7 +162,7 @@
 <LM>w#w-ln95044-111-p2s1Bw12</LM>
 </w.rf>
 <form>Zifčáka</form>
-<tag lemma="Zifčák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zifčák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-111-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-ln95044-111-p2s2w4</LM>
 </w.rf>
 <form>Veverky</form>
-<tag lemma="Veverka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Veverka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-111-p2s2w5">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-ln95044-111-p2s2w5</LM>
 </w.rf>
 <form>Zifčák</form>
-<tag lemma="Zifčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zifčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-111-p2s2w6">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln95044-111-p2s3w1</LM>
 </w.rf>
 <form>Zifčákovi</form>
-<tag lemma="Zifčákův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Zifčákův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln95044-111-p2s3w2">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-ln95044-111-p2s3w10</LM>
 </w.rf>
 <form>Zifčáka</form>
-<tag lemma="Zifčák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zifčák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-111-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-ln95044-111-p2s4w28</LM>
 </w.rf>
 <form>Zifčák</form>
-<tag lemma="Zifčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zifčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-111-p2s4w29">
 <src.rf>manual</src.rf>

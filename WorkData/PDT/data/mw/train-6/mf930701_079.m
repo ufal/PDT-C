@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-079-p1s1w4</LM>
 </w.rf>
 <form>Látal</form>
-<tag lemma="Látal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Látal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-079-p1s1w5">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-mf930701-079-p1s1w8</LM>
 </w.rf>
 <form>Interpoháru</form>
-<tag lemma="Interpohár_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Interpohár_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-079-p1s1w9">
 <src.rf>manual</src.rf>

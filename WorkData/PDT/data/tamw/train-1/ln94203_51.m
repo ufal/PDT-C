@@ -62,10 +62,10 @@
 </w.rf>
 <form>pet</form>
 <tag>
-<AM lemma="pet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="pet-99_:B_;S" src="manual">N%XXX-----A---8</AM>
-<AM lemma="pet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pet-99_:B_;Y" src="manual">N%XXX-----A---8</AM>
+<AM lemma="pet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-51-p2s1Aw4">
@@ -172,7 +172,7 @@
 <LM>w#w-ln94203-51-p2s1Bw11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94203-51-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln94203-51-p2s1Bw28</LM>
 </w.rf>
 <form>Skříčil</form>
-<tag lemma="Skříčil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skříčil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-51-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94203-51-p2s3w2</LM>
 </w.rf>
 <form>Skříčila</form>
-<tag lemma="Skříčil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Skříčil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-51-p2s3w3">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-51-p2s10w2">
@@ -995,7 +995,7 @@
 <LM>w#w-ln94203-51-p2s10w3</LM>
 </w.rf>
 <form>Skříčil</form>
-<tag lemma="Skříčil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skříčil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-51-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 <LM>w#w-ln94203-51-p2s12w4</LM>
 </w.rf>
 <form>Skříčil</form>
-<tag lemma="Skříčil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skříčil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-51-p2s12w5">
 <src.rf>manual</src.rf>

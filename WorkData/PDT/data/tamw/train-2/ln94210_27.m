@@ -86,8 +86,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-27-p2s1Aw4">
@@ -105,8 +105,8 @@
 </w.rf>
 <form>sn</form>
 <tag>
-<AM lemma="sn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="sn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sn-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sn-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-27-p2s1Aw6">
@@ -383,7 +383,7 @@
 <LM>w#w-ln94210-27-p2s2w7</LM>
 </w.rf>
 <form>Siegl</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-27-p2s2w8">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln94210-27-p2s3w3</LM>
 </w.rf>
 <form>Šmejkal</form>
-<tag lemma="Šmejkal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmejkal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-27-p2s3w4">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln94210-27-p2s3w7</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-27-p2s3w8">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln94210-27-p2s3w16</LM>
 </w.rf>
 <form>Berger</form>
-<tag lemma="Berger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-27-p2s3w17">
 <src.rf>manual</src.rf>

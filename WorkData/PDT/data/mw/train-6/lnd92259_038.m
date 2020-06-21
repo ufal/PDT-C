@@ -95,7 +95,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -138,7 +138,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -225,7 +225,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-038-p1s1w26">
@@ -243,7 +243,7 @@
 </w.rf>
 <form>Pírek</form>
 <tag>
-<AM lemma="Pírek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pírek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pírko" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>

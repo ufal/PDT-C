@@ -70,7 +70,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -88,7 +88,7 @@
 <LM>w#w-mf920902-030-p2s1w8</LM>
 </w.rf>
 <form>Mucha</form>
-<tag lemma="Mucha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mucha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-030-p2s1w9">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-030-p2s1w14">
@@ -147,7 +147,7 @@
 <LM>w#w-mf920902-030-p2s1w15</LM>
 </w.rf>
 <form>Kotase</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-030-p2s1w16">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -900,7 +900,7 @@
 <LM>w#w-mf920902-030-p2s4w17</LM>
 </w.rf>
 <form>Kotase</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-030-p2s4w18">
 <src.rf>manual</src.rf>

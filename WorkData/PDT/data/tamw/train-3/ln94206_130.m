@@ -70,8 +70,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-130-p2s1Aw4">
@@ -476,7 +476,7 @@
 <LM>w#w-ln94206-130-p2s2w28</LM>
 </w.rf>
 <form>Mičinec</form>
-<tag lemma="Mičinec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mičinec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p2s2w29">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln94206-130-p2s3w13</LM>
 </w.rf>
 <form>Hřebík</form>
-<tag lemma="Hřebík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hřebík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p2s3w14">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-ln94206-130-p2s4w16</LM>
 </w.rf>
 <form>Amler</form>
-<tag lemma="Amler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p2s4w17">
 <src.rf>manual</src.rf>
@@ -2169,7 +2169,7 @@
 <LM>w#w-ln94206-130-p2s14w20</LM>
 </w.rf>
 <form>Baník</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p2s14w21">
 <src.rf>manual</src.rf>
@@ -2285,7 +2285,7 @@
 <LM>w#w-ln94206-130-p3s2w3</LM>
 </w.rf>
 <form>Hyravý</form>
-<tag lemma="Hyravý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hyravý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s2w4">
 <src.rf>manual</src.rf>
@@ -2333,7 +2333,7 @@
 <LM>w#w-ln94206-130-p3s2w9</LM>
 </w.rf>
 <form>Sedlákem</form>
-<tag lemma="Sedlák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Sedlák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s2w10">
 <src.rf>manual</src.rf>
@@ -2429,7 +2429,7 @@
 <LM>w#w-ln94206-130-p3s2w21</LM>
 </w.rf>
 <form>Bernady</form>
-<tag lemma="Bernady_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bernady_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s2w22">
 <src.rf>manual</src.rf>
@@ -2455,7 +2455,7 @@
 <LM>w#w-ln94206-130-p3s3w2</LM>
 </w.rf>
 <form>Sedlák</form>
-<tag lemma="Sedlák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sedlák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s3w3">
 <src.rf>manual</src.rf>
@@ -2705,7 +2705,7 @@
 <LM>w#w-ln94206-130-p3s4w17</LM>
 </w.rf>
 <form>Schmucker</form>
-<tag lemma="Schmucker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schmucker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s4w18">
 <src.rf>manual</src.rf>
@@ -2721,7 +2721,7 @@
 <LM>w#w-ln94206-130-p3s4w19</LM>
 </w.rf>
 <form>Michalík</form>
-<tag lemma="Michalík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michalík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s4w20">
 <src.rf>manual</src.rf>
@@ -2737,7 +2737,7 @@
 <LM>w#w-ln94206-130-p3s4w21</LM>
 </w.rf>
 <form>Mikloško</form>
-<tag lemma="Mikloško_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloško_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s4w22">
 <src.rf>manual</src.rf>
@@ -2753,7 +2753,7 @@
 <LM>w#w-ln94206-130-p3s4w23</LM>
 </w.rf>
 <form>Srníček</form>
-<tag lemma="Srníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Srníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s4w24">
 <src.rf>manual</src.rf>
@@ -2795,7 +2795,7 @@
 <LM>w#w-ln94206-130-p3s5w4</LM>
 </w.rf>
 <form>Bernady</form>
-<tag lemma="Bernady_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bernady_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s5w5">
 <src.rf>manual</src.rf>
@@ -2899,7 +2899,7 @@
 <LM>w#w-ln94206-130-p3s5w17</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s5w18">
 <src.rf>manual</src.rf>
@@ -2907,7 +2907,7 @@
 <LM>w#w-ln94206-130-p3s5w18</LM>
 </w.rf>
 <form>Lička</form>
-<tag lemma="Lička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s5w19">
 <src.rf>manual</src.rf>
@@ -2925,7 +2925,7 @@
 <LM>w#w-ln94206-130-p3s6w1</LM>
 </w.rf>
 <form>Hyravého</form>
-<tag lemma="Hyravý_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hyravý_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s6w2">
 <src.rf>manual</src.rf>
@@ -3461,7 +3461,7 @@
 <LM>w#w-ln94206-130-p3s9w18</LM>
 </w.rf>
 <form>Lička</form>
-<tag lemma="Lička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p3s9w19">
 <src.rf>manual</src.rf>
@@ -3535,7 +3535,7 @@
 <LM>w#w-ln94206-130-p4s1w8</LM>
 </w.rf>
 <form>Hyravého</form>
-<tag lemma="Hyravý_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hyravý_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-130-p4s1w9">
 <src.rf>manual</src.rf>
@@ -3632,7 +3632,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -3703,7 +3703,7 @@
 <LM>w#w-ln94206-130-p4s2w1</LM>
 </w.rf>
 <form>Baník</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-130-p4s2w2">
 <src.rf>manual</src.rf>
@@ -3815,7 +3815,7 @@
 <LM>w#w-ln94206-130-p4s2w15</LM>
 </w.rf>
 <form>Hyravého</form>
-<tag lemma="Hyravý_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hyravý_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-130-p4s2w16">
 <src.rf>manual</src.rf>
@@ -3831,7 +3831,7 @@
 <LM>w#w-ln94206-130-p4s2w17</LM>
 </w.rf>
 <form>Duhana</form>
-<tag lemma="Duhan_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Duhan_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-130-p4s2w18">
 <src.rf>manual</src.rf>
@@ -3919,7 +3919,7 @@
 <LM>w#w-ln94206-130-p4s2w28</LM>
 </w.rf>
 <form>Slončíka</form>
-<tag lemma="Slončík_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Slončík_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-130-p4s2w29">
 <src.rf>manual</src.rf>

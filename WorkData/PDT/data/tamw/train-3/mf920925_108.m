@@ -264,8 +264,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-108-p2s2w18">
@@ -981,8 +981,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-108-p5s1w14">
@@ -1146,8 +1146,8 @@
 </w.rf>
 <form>Cyrus</form>
 <tag>
-<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cyrus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-108-p6s1w7">
@@ -1156,7 +1156,7 @@
 <LM>w#w-mf920925-108-p6s1w7</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-108-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <form>Owen</form>
 <tag>
 <AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Owen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-108-p6s1w11">
@@ -1239,7 +1239,7 @@
 <LM>w#w-mf920925-108-p6s1w17</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf920925-108-p6s1w18">
 <src.rf>manual</src.rf>

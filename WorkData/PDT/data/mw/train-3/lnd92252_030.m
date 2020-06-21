@@ -155,7 +155,7 @@
 <LM>w#w-lnd92252-030-p1s1w18</LM>
 </w.rf>
 <form>Ilieska</form>
-<tag lemma="Iliescu_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Iliescu_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-030-p1s1w19">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 </w.rf>
 <form>DFNS</form>
 <tag>
-<AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DFNS_:B_;m_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DFNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

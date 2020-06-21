@@ -36,8 +36,8 @@
 </w.rf>
 <form>Bastarda</form>
 <tag>
-<AM lemma="Bastard_;R" src="orig">NNMS4-----A----</AM>
-<AM lemma="Bastardo_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Bastard_;m" src="orig">NNMS4-----A----</AM>
+<AM lemma="Bastardo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="bastard" src="auto">NNMS2-----A----</AM>
 <AM lemma="bastard" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
@@ -67,8 +67,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s1Aw4">
@@ -199,7 +199,7 @@
 <LM>w#w-ln94206-134-p2s1Bw14</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-134-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -396,15 +396,15 @@
 </w.rf>
 <form>Petra</form>
 <tag>
-<AM lemma="Petra_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Petra_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petra-3_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Petra-3_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s3w10">
@@ -659,7 +659,7 @@
 </w.rf>
 <form>Bastard</form>
 <tag>
-<AM lemma="Bastard_;R" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bastard_;m" src="orig">NNMS1-----A----</AM>
 <AM lemma="bastard" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -847,10 +847,10 @@
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petra-3_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Petra-3_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s6w9">
@@ -924,7 +924,7 @@
 </w.rf>
 <form>Bastard</form>
 <tag>
-<AM lemma="Bastard_;R" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bastard_;m" src="orig">NNMS1-----A----</AM>
 <AM lemma="bastard" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -966,7 +966,7 @@
 <LM>w#w-ln94206-134-p2s6w22</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-134-p2s6w23">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-ln94206-134-p2s6w31</LM>
 </w.rf>
 <form>Chemapolu</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-134-p2s6w32">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-ln94206-134-p2s6w33</LM>
 </w.rf>
 <form>Bečvářová</form>
-<tag lemma="Bečvářová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bečvářová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-134-p2s6w34">
 <src.rf>manual</src.rf>

@@ -62,8 +62,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-060-p2s1w3">
@@ -697,7 +697,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
@@ -844,7 +844,7 @@
 <LM>w#w-lnd92252-060-p6s1w2</LM>
 </w.rf>
 <form>PACOVSKÉHO</form>
-<tag lemma="Pacovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pacovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-060-p6s1w3">
 <src.rf>manual</src.rf>

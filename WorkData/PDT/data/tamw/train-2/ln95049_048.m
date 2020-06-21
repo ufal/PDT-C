@@ -116,7 +116,7 @@
 </w.rf>
 <form>WBC</form>
 <tag>
-<AM lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WBC-1_:B_;m_,t_^(World_Box_Council)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -200,7 +200,7 @@
 <LM>w#w-ln95049-048-p1s2w6</LM>
 </w.rf>
 <form>Benn</form>
-<tag lemma="Benn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-048-p1s2w7">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <tag>
 <AM lemma="knocked_:B_,t" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
-<AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="k-33" src="auto">Q3-------------</AM>
 <AM lemma="k-4`kůň_:B_^(jednotka_výkonu)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="k-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
@@ -261,7 +261,7 @@
 <AM lemma="out_:B_,t" src="orig" selected="1">NNIXX-----A---8</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="o-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="o-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
@@ -333,7 +333,7 @@
 <LM>w#w-ln95049-048-p1s3w3</LM>
 </w.rf>
 <form>McClellan</form>
-<tag lemma="McClellan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McClellan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-048-p1s3w4">
 <src.rf>manual</src.rf>

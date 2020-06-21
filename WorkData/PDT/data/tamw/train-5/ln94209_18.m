@@ -53,7 +53,7 @@
 <LM>w#w-ln94209-18-p2s1Aw2</LM>
 </w.rf>
 <form>Martínková</form>
-<tag lemma="Martínková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Martínková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-18-p2s1B">
@@ -379,7 +379,7 @@
 <LM>w#w-ln94209-18-p2s4w17</LM>
 </w.rf>
 <form>Hiršovy</form>
-<tag lemma="Hiršův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Hiršův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94209-18-p2s4w18">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1880,8 +1880,8 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-18-p4s1w5">
@@ -1899,8 +1899,8 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-18-p4s1w7">
@@ -2103,7 +2103,7 @@
 <LM>w#w-ln94209-18-p4s3w6</LM>
 </w.rf>
 <form>Clintonův</form>
-<tag lemma="Clintonův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Clintonův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94209-18-p4s3w7">
 <src.rf>manual</src.rf>

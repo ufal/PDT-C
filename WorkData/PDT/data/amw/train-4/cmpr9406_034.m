@@ -201,7 +201,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-034-p4s1w20">
@@ -218,7 +218,7 @@
 <LM>w#w-cmpr9406-034-p4s1w21</LM>
 </w.rf>
 <form>Milkoviche</form>
-<tag lemma="Milkovich_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Milkovich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-034-p4s1w22">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-034-p4s1w25">
@@ -261,7 +261,7 @@
 <LM>w#w-cmpr9406-034-p4s1w26</LM>
 </w.rf>
 <form>Boudreaua</form>
-<tag lemma="Boudreau_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Boudreau_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-034-p4s1w27">
 <src.rf>manual</src.rf>

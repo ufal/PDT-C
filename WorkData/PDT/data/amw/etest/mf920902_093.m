@@ -20,8 +20,8 @@
 </w.rf>
 <form>Smena</form>
 <tag>
-<AM lemma="Smena_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Smena_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Smena_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Smena_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-093-p1s1w2">
@@ -185,8 +185,8 @@
 </w.rf>
 <form>Smena</form>
 <tag>
-<AM lemma="Smena_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Smena_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Smena_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Smena_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-093-p2s2w10">
@@ -372,8 +372,8 @@
 </w.rf>
 <form>Smena</form>
 <tag>
-<AM lemma="Smena_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Smena_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Smena_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Smena_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-093-p2s3w16">
@@ -681,7 +681,7 @@
 <LM>w#w-mf920902-093-p2s4w8</LM>
 </w.rf>
 <form>Slobodníkovi</form>
-<tag lemma="Slobodník_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Slobodník_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-093-p2s4w9">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 </w.rf>
 <form>MŠMŠ</form>
 <tag>
-<AM lemma="MŠMŠ_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŠMŠ_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MŠMŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

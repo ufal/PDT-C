@@ -576,7 +576,7 @@
 </w.rf>
 <form>Expansion</form>
 <tag>
-<AM lemma="Expansion_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Expansion_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Expansion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

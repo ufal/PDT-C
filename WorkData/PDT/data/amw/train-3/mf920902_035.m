@@ -109,7 +109,7 @@
 <LM>w#w-mf920902-035-p2s1w10</LM>
 </w.rf>
 <form>Frejku</form>
-<tag lemma="Frejka_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Frejka_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-035-p2s1w11">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-mf920902-035-p2s1w12</LM>
 </w.rf>
 <form>Hilara</form>
-<tag lemma="Hilar_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hilar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-035-p2s1w13">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-mf920902-035-p2s3w14</LM>
 </w.rf>
 <form>Valtrové</form>
-<tag lemma="Valtrová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Valtrová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-035-p2s3w15">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-mf920902-035-p2s3w30</LM>
 </w.rf>
 <form>Beneše</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-035-p2s3w31">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-mf920902-035-p2s4w16</LM>
 </w.rf>
 <form>Beneš</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-035-p2s4w17">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-mf920902-035-p2s4w25</LM>
 </w.rf>
 <form>Baarové</form>
-<tag lemma="Baarová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Baarová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-035-p2s4w26">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-mf920902-035-p2s4w33</LM>
 </w.rf>
 <form>Mandlové</form>
-<tag lemma="Mandlová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Mandlová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920902-035-p2s4w34">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 <LM>w#w-mf920902-035-p2s5w14</LM>
 </w.rf>
 <form>Benešových</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-mf920902-035-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-mf920902-035-p2s6w1</LM>
 </w.rf>
 <form>Benešova</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920902-035-p2s6w2">
 <src.rf>manual</src.rf>

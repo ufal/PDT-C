@@ -398,7 +398,7 @@
 <LM>w#w-mf920923-116-p2s4w16</LM>
 </w.rf>
 <form>Füzes</form>
-<tag lemma="Füzes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Füzes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-116-p2s4w17">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jeszenszkého</form>
-<tag lemma="Jeszenszký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jeszenszký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-116-p3s1w20">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-mf920923-116-p3s1w32</LM>
 </w.rf>
 <form>Moravčíkovi</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920923-116-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 </w.rf>
 <form>MDF</form>
 <tag>
-<AM lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDF-1_:B_;m_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MDF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1097,7 +1097,7 @@
 <form>Antall</form>
 <tag>
 <AM lemma="Antall_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Antall_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Antall_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-116-p4s1w26">
@@ -1195,7 +1195,7 @@
 </w.rf>
 <form>Newsweek</form>
 <tag>
-<AM lemma="Newsweek_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Newsweek_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Newsweek-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -355,7 +355,7 @@
 <LM>w#w-ln94202-70-p2s3w3</LM>
 </w.rf>
 <form>Husajn</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-70-p2s3w4">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 </w.rf>
 <form>Gamá</form>
 <tag>
-<AM lemma="Gamá_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Gamá_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Gamá_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Gamá_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gamá-77" src="manual" selected="1">F%-------------</AM>
@@ -731,7 +731,7 @@
 </w.rf>
 <form>islamíja</form>
 <tag>
-<AM lemma="islamíja_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="islamíja_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="islamíja_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="islamíja-77" src="manual" selected="1">F%-------------</AM>
 </tag>

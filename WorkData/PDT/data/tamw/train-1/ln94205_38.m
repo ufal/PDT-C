@@ -1038,7 +1038,7 @@
 <LM>w#w-ln94205-38-p2s6w45</LM>
 </w.rf>
 <form>NOVA</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-38-p2s6w46">
 <src.rf>manual</src.rf>
@@ -1161,8 +1161,8 @@
 </w.rf>
 <form>okř</form>
 <tag>
-<AM lemma="okř-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="okř-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="okř-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="okř-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-38-p2s7w3">

@@ -45,7 +45,7 @@
 <LM>w#w-cmpr9406-067-p3s1w2</LM>
 </w.rf>
 <form>Gintel</form>
-<tag lemma="Gintel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gintel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-067-p5s1">
@@ -461,7 +461,7 @@
 <LM>w#w-cmpr9406-067-p8s1w5</LM>
 </w.rf>
 <form>Amalthea</form>
-<tag lemma="Amalthea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Amalthea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-067-p8s1w6">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-cmpr9406-067-p9s3w6</LM>
 </w.rf>
 <form>Amalthea</form>
-<tag lemma="Amalthea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Amalthea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-067-p9s3w7">
 <src.rf>manual</src.rf>
@@ -1908,7 +1908,7 @@
 <LM>w#w-cmpr9406-067-p11s3w16</LM>
 </w.rf>
 <form>despocie</form>
-<tag lemma="despocie_;p" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="despocie" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-067-p11s3w17">
 <src.rf>manual</src.rf>
@@ -2008,7 +2008,7 @@
 <LM>w#w-cmpr9406-067-p11s5w2</LM>
 </w.rf>
 <form>Smithe</form>
-<tag lemma="Smith_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Smith_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-cmpr9406-067-p11s5w3">
 <src.rf>manual</src.rf>

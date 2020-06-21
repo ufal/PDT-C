@@ -109,7 +109,7 @@
 <LM>w#w-mf920925-064-p2s1w9</LM>
 </w.rf>
 <form>Blaufeldenu</form>
-<tag lemma="Blaufelden_;S" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Blaufelden_;Y" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920925-064-p2s1w10">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-mf920925-064-p2s7w12</LM>
 </w.rf>
 <form>Blaufeldenu</form>
-<tag lemma="Blaufelden_;S" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Blaufelden_;Y" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-064-p2s7w13">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-mf920925-064-p2s7w17</LM>
 </w.rf>
 <form>Bayernem</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920925-064-p2s7w18">
 <src.rf>manual</src.rf>

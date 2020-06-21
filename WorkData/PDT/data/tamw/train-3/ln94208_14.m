@@ -408,7 +408,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1125,7 +1125,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1515,7 +1515,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1640,7 +1640,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1714,7 +1714,7 @@
 <LM>w#w-ln94208-14-p5s3w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94208-14-p5s3w18">
 <src.rf>manual</src.rf>
@@ -2538,7 +2538,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3135,7 +3135,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3884,9 +3884,9 @@
 </w.rf>
 <form>pp</form>
 <tag>
-<AM lemma="pp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto" recommended="1">NNFPX-----A---8</AM>
-<AM lemma="pp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="pp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-14-p9s2Bw3">

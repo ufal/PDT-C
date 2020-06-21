@@ -19,7 +19,7 @@
 <LM>w#w-mf920924-034-p1s1w1</LM>
 </w.rf>
 <form>Westinghouse</form>
-<tag lemma="Westinghouse_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Westinghouse_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-034-p1s1w2">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-mf920924-034-p2s1w13</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-034-p2s1w14">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-mf920924-034-p2s1w32</LM>
 </w.rf>
 <form>Westinghouse</form>
-<tag lemma="Westinghouse_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Westinghouse_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-034-p2s1w33">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-mf920924-034-p2s1w42</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-034-p2s1w43">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-mf920924-034-p2s1w48</LM>
 </w.rf>
 <form>Říha</form>
-<tag lemma="Říha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Říha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-034-p2s1w49">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-mf920924-034-p3s1w14</LM>
 </w.rf>
 <form>Westinghouse</form>
-<tag lemma="Westinghouse_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Westinghouse_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-034-p3s1w15">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf920924-034-p3s3w6</LM>
 </w.rf>
 <form>Říhy</form>
-<tag lemma="Říha_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Říha_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-034-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1074,7 +1074,7 @@
 <LM>w#w-mf920924-034-p3s4w18</LM>
 </w.rf>
 <form>Říha</form>
-<tag lemma="Říha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Říha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-034-p3s4w19">
 <src.rf>manual</src.rf>

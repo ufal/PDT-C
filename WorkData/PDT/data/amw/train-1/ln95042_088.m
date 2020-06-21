@@ -118,7 +118,7 @@
 <LM>w#w-ln95042-088-p2s1w10</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-088-p2s1w11">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <form>Karolina</form>
 <tag>
 <AM lemma="Karolínum" src="orig">NNNS2-----A----</AM>
-<AM lemma="Karolinum_;G_;K" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="Karolinum_;G_;m" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-088-p2s1w15">
@@ -692,7 +692,7 @@
 <LM>w#w-ln95042-088-p4s1w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-088-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-ln95042-088-p4s3w4</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95042-088-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-ln95042-088-p4s3w13</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95042-088-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 <LM>w#w-ln95042-088-p4s4w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-088-p4s4w3">
 <src.rf>manual</src.rf>
@@ -2310,7 +2310,7 @@
 <LM>w#w-ln95042-088-p6s3w17</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-088-p6s3w18">
 <src.rf>manual</src.rf>
@@ -3537,7 +3537,7 @@
 <LM>w#w-ln95042-088-p8s2w21</LM>
 </w.rf>
 <form>Němcích</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP6-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-ln95042-088-p8s2w22">
 <src.rf>manual</src.rf>

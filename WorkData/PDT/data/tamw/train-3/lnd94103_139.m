@@ -93,7 +93,7 @@
 <LM>w#w-lnd94103-139-p1s12w6</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-139-p1s12w7">
 <src.rf>manual</src.rf>
@@ -182,8 +182,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-139-p1s12w18">
@@ -211,8 +211,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-139-p1s13w3">

@@ -27,7 +27,7 @@
 <LM>w#w-lnd92259-021-p1s1w2</LM>
 </w.rf>
 <form>Gott</form>
-<tag lemma="Gott_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-021-p1s1w3">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-lnd92259-021-p1s2w6</LM>
 </w.rf>
 <form>Gottova</form>
-<tag lemma="Gottův_;S_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
+<tag lemma="Gottův_;Y_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
 </m>
 <m id="m-lnd92259-021-p1s2w7">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-lnd92259-021-p1s3w14</LM>
 </w.rf>
 <form>Gott</form>
-<tag lemma="Gott_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-021-p1s3w15">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-lnd92259-021-p1s4w7</LM>
 </w.rf>
 <form>Gottova</form>
-<tag lemma="Gottův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Gottův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92259-021-p1s4w8">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <form_change>spell</form_change>
 <form>Dominika</form>
 <tag>
-<AM lemma="Dominika_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Dominika_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Dominik_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Dominik_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Dominika-1_;G" src="auto" recommended="1">NNFS1-----A----</AM>
@@ -732,7 +732,7 @@
 <LM>w#w-lnd92259-021-p1s6w2</LM>
 </w.rf>
 <form>Gottových</form>
-<tag lemma="Gottův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Gottův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-lnd92259-021-p1s6w3">
 <src.rf>manual</src.rf>

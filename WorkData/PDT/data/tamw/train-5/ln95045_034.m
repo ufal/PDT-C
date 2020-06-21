@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-034-p1s1w1</LM>
 </w.rf>
 <form>Cantona</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-034-p1s1w2">
 <src.rf>manual</src.rf>
@@ -80,7 +80,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -98,7 +98,7 @@
 <LM>w#w-ln95045-034-p2s1Bw6</LM>
 </w.rf>
 <form>Cantona</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-034-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -230,7 +230,7 @@
 </w.rf>
 <form>Crystal</form>
 <tag>
-<AM lemma="Crystal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Crystal_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Crystal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -241,7 +241,7 @@
 </w.rf>
 <form>Palace</form>
 <tag>
-<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-1_;m_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -286,9 +286,9 @@
 </w.rf>
 <form>Scotland</form>
 <tag>
-<AM lemma="Scotland_;G_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Scotland_;G_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Scotland_;G_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Scotland_;G_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Scotland_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Scotland_;G_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Scotland_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Scotland-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -360,7 +360,7 @@
 <LM>w#w-ln95045-034-p2s3w1</LM>
 </w.rf>
 <form>Cantona</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-034-p2s3w2">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

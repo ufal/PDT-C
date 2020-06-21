@@ -36,7 +36,7 @@
 </w.rf>
 <form>FSÚ</form>
 <tag>
-<AM lemma="FSÚ_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FSÚ_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -65,7 +65,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -507,8 +507,8 @@
 </w.rf>
 <form>jš</form>
 <tag>
-<AM lemma="jš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-007-p4s1w3">

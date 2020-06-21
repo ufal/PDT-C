@@ -155,8 +155,8 @@
 </w.rf>
 <form>SC</form>
 <tag>
-<AM lemma="SC-2_:B_;K_^(SC_Johnson)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SC-2_:B_;m_^(SC_Johnson)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="SC-1_:B_;m_,t_^(Sport_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="scilicet_:B_,t_^(totiž,_to_je,_to_znamená)" src="auto">Db------------8</AM>
 <AM lemma="SC-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SC-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -168,7 +168,7 @@
 <LM>w#w-mf920924-041-p1s2w9</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-041-p1s2w10">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-mf920924-041-p1s3w28</LM>
 </w.rf>
 <form>Suka</form>
-<tag lemma="Suk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Suk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-041-p1s3w29">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-mf920924-041-p1s3w31</LM>
 </w.rf>
 <form>Firkušného</form>
-<tag lemma="Firkušný_;S" src="orig" selected="1">AAMS2----1A----</tag>
+<tag lemma="Firkušný_;Y" src="orig" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-mf920924-041-p1s3w32">
 <src.rf>manual</src.rf>
@@ -688,8 +688,8 @@
 </w.rf>
 <form>SC</form>
 <tag>
-<AM lemma="SC-2_:B_;K_^(SC_Johnson)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SC-2_:B_;m_^(SC_Johnson)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="SC-1_:B_;m_,t_^(Sport_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="scilicet_:B_,t_^(totiž,_to_je,_to_znamená)" src="auto">Db------------8</AM>
 <AM lemma="SC-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SC-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -701,7 +701,7 @@
 <LM>w#w-mf920924-041-p1s4w10</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-041-p1s4w11">
 <src.rf>manual</src.rf>

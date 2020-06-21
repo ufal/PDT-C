@@ -787,8 +787,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-139-p4s2w30">
@@ -2084,7 +2084,7 @@
 <LM>w#w-ln95040-139-p5s1w33</LM>
 </w.rf>
 <form>Zelenka</form>
-<tag lemma="Zelenka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zelenka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-139-p5s1w34">
 <src.rf>manual</src.rf>
@@ -2126,7 +2126,7 @@
 <LM>w#w-ln95040-139-p5s2w4</LM>
 </w.rf>
 <form>Zelenky</form>
-<tag lemma="Zelenka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zelenka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-139-p5s2w5">
 <src.rf>manual</src.rf>
@@ -2818,7 +2818,7 @@
 <LM>w#w-ln95040-139-p6s1w16</LM>
 </w.rf>
 <form>Pýcha</form>
-<tag lemma="Pýcha-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pýcha-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-139-p6s1w17">
 <src.rf>manual</src.rf>
@@ -3640,7 +3640,7 @@
 </w.rf>
 <form>Kiss</form>
 <tag>
-<AM lemma="Kiss_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kiss_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kiss-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3844,7 +3844,7 @@
 <LM>w#w-ln95040-139-p6s7w14</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-139-p6s7w15">
 <src.rf>manual</src.rf>

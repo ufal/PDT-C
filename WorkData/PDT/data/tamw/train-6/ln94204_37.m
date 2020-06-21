@@ -70,7 +70,7 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -98,7 +98,7 @@
 <LM>w#w-ln94204-37-p2s1Bw1</LM>
 </w.rf>
 <form>Litotryptorem</form>
-<tag lemma="litotryptor_;R" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="litotryptor_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 </w.rf>
 <form>MEDIPO</form>
 <tag>
-<AM lemma="MEDIPO_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MEDIPO_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MEDIPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -298,7 +298,7 @@
 <LM>w#w-ln94204-37-p2s2w1</LM>
 </w.rf>
 <form>Litotryptor</form>
-<tag lemma="litotryptor_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="litotryptor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s2w2">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln94204-37-p2s2w2</LM>
 </w.rf>
 <form>Medilit</form>
-<tag lemma="Medilit_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Medilit_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s2w3">
 <src.rf>manual</src.rf>
@@ -320,20 +320,20 @@
 <AM lemma="M-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="M-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="M-3`1000" src="auto">C}-------------</AM>
-<AM lemma="M-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="M-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="M-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="M-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="M-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-37-p2s2w4">
@@ -665,8 +665,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94204-37-p2s4w4">
@@ -742,7 +742,7 @@
 <LM>w#w-ln94204-37-p2s4w12</LM>
 </w.rf>
 <form>Jiránek</form>
-<tag lemma="Jiránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jiránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s4w13">
 <src.rf>manual</src.rf>

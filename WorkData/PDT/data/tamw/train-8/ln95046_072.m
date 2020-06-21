@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-072-p1s1w1</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-072-p1s1w2">
 <src.rf>manual</src.rf>
@@ -176,8 +176,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw14">
@@ -310,7 +310,7 @@
 <LM>w#w-ln95046-072-p2s1Bw29</LM>
 </w.rf>
 <form>Collenettem</form>
-<tag lemma="Collenette_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Collenette_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-ln95046-072-p2s1Bw34</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -449,8 +449,8 @@
 </w.rf>
 <form>Royem</form>
 <tag>
-<AM lemma="Roy-1_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Roy-1_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Roy-1_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Roy-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-072-p2s2w12">
@@ -459,7 +459,7 @@
 <LM>w#w-ln95046-072-p2s2w12</LM>
 </w.rf>
 <form>MacLarenem</form>
-<tag lemma="MacLaren_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="MacLaren_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s2w13">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-ln95046-072-p2s3w37</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s3w38">
 <src.rf>manual</src.rf>

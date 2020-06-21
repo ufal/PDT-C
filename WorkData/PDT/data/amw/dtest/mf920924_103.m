@@ -43,7 +43,7 @@
 <LM>w#w-mf920924-103-p1s1w4</LM>
 </w.rf>
 <form>Knudsen</form>
-<tag lemma="Knudsen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knudsen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-103-p1s1w5">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-mf920924-103-p1s1w7</LM>
 </w.rf>
 <form>Kukou</form>
-<tag lemma="Kuka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kuka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920924-103-p1s1w8">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-mf920924-103-p1s1w12</LM>
 </w.rf>
 <form>Dubovským</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 </mdata>

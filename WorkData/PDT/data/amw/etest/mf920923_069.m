@@ -173,7 +173,7 @@
 <LM>w#w-mf920923-069-p1s2w4</LM>
 </w.rf>
 <form>Devátý</form>
-<tag lemma="Devátý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Devátý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-069-p1s2w5">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-mf920923-069-p1s2w7</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-069-p1s2w8">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-mf920923-069-p1s2w10</LM>
 </w.rf>
 <form>Hruška</form>
-<tag lemma="Hruška_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hruška_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-069-p1s2w11">
 <src.rf>manual</src.rf>
@@ -254,8 +254,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-069-p1s2w15">

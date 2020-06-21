@@ -53,7 +53,7 @@
 <LM>w#w-mf920925-044-p2s1w3</LM>
 </w.rf>
 <form>BARTOŠ</form>
-<tag lemma="Bartoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bartoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s1w4">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-mf920925-044-p2s2w8</LM>
 </w.rf>
 <form>Bartoš</form>
-<tag lemma="Bartoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bartoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s2w9">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-mf920925-044-p2s2w17</LM>
 </w.rf>
 <form>Fotofast</form>
-<tag lemma="Fotofast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fotofast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s2w18">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -524,18 +524,18 @@
 </w.rf>
 <form>Porsche</form>
 <tag>
-<AM lemma="Porsche-1_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto">NNXXX-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS2-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS1-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS2-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-044-p2s5w16">
@@ -576,7 +576,7 @@
 <LM>w#w-mf920925-044-p2s5w20</LM>
 </w.rf>
 <form>Bartoš</form>
-<tag lemma="Bartoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bartoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1998,7 +1998,7 @@
 <LM>w#w-mf920925-044-p2s17w7</LM>
 </w.rf>
 <form>buginu</form>
-<tag lemma="bugina_;R" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="bugina_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s17w8">
 <src.rf>manual</src.rf>
@@ -2536,7 +2536,7 @@
 <LM>w#w-mf920925-044-p2s22w16</LM>
 </w.rf>
 <form>Dubourgovi</form>
-<tag lemma="Dubourg_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Dubourg_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s22w17">
 <src.rf>manual</src.rf>
@@ -2814,7 +2814,7 @@
 <LM>w#w-mf920925-044-p2s24w3</LM>
 </w.rf>
 <form>porsche</form>
-<tag lemma="porsche_;R" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="porsche_;m" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s24w4">
 <src.rf>manual</src.rf>
@@ -2864,7 +2864,7 @@
 <LM>w#w-mf920925-044-p2s25w3</LM>
 </w.rf>
 <form>Fordovi</form>
-<tag lemma="Ford-3_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ford-3_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s25w4">
 <src.rf>manual</src.rf>
@@ -2930,7 +2930,7 @@
 <LM>w#w-mf920925-044-p2s26w3</LM>
 </w.rf>
 <form>Kačírkův</form>
-<tag lemma="Kačírkův_;S_^(*3ek)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Kačírkův_;Y_^(*3ek)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-mf920925-044-p2s26w4">
 <src.rf>manual</src.rf>
@@ -2939,9 +2939,9 @@
 </w.rf>
 <form>ford</form>
 <tag>
-<AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS4-----A----</AM>
-<AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIS4-----A----</AM>
+<AM lemma="ford_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-044-p2s26w5">
@@ -3000,7 +3000,7 @@
 <LM>w#w-mf920925-044-p2s27w2</LM>
 </w.rf>
 <form>buginy</form>
-<tag lemma="bugina_;R" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="bugina_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s27w3">
 <src.rf>manual</src.rf>
@@ -3101,7 +3101,7 @@
 <LM>w#w-mf920925-044-p2s28w9</LM>
 </w.rf>
 <form>porsche</form>
-<tag lemma="porsche_;R" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="porsche_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s28w10">
 <src.rf>manual</src.rf>
@@ -3679,7 +3679,7 @@
 <LM>w#w-mf920925-044-p2s34w5</LM>
 </w.rf>
 <form>buginy</form>
-<tag lemma="bugina_;R" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="bugina_;m" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s34w6">
 <src.rf>manual</src.rf>

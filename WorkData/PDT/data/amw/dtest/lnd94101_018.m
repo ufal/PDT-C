@@ -78,8 +78,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-018-p1s2w4">
@@ -131,8 +131,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-018-p1s3w5">
@@ -1784,8 +1784,8 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-018-p1s14w4">
@@ -1925,8 +1925,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-018-p1s15w12">

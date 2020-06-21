@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9410-039-p1s1w2</LM>
 </w.rf>
 <form>Resyl</form>
-<tag lemma="Resyl_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Resyl_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-039-p1s1w3">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-cmpr9410-039-p2s1w2</LM>
 </w.rf>
 <form>Resyl</form>
-<tag lemma="Resyl_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Resyl_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-039-p2s1w3">
 <src.rf>manual</src.rf>

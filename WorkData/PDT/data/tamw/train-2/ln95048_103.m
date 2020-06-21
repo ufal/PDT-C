@@ -269,7 +269,7 @@
 <LM>w#w-ln95048-103-p1s2w14</LM>
 </w.rf>
 <form>Maisonovi</form>
-<tag lemma="Maison_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Maison_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-103-p1s2w15">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-ln95048-103-p1s2w17</LM>
 </w.rf>
 <form>Chalupovi</form>
-<tag lemma="Chalupa_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Chalupa_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-103-p1s2w18">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln95048-103-p1s4w7</LM>
 </w.rf>
 <form>Chalupa</form>
-<tag lemma="Chalupa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chalupa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-103-p1s4w8">
 <src.rf>manual</src.rf>

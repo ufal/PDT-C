@@ -86,10 +86,10 @@
 </w.rf>
 <form>kar</form>
 <tag>
-<AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
-<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-018-p2s1Aw4">
@@ -1063,7 +1063,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-018-p2s8w12">
@@ -1080,7 +1080,7 @@
 <LM>w#w-mf930709-018-p2s8w13</LM>
 </w.rf>
 <form>Dobrovského</form>
-<tag lemma="Dobrovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dobrovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-018-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-mf930709-018-p2s10w6</LM>
 </w.rf>
 <form>Fialy</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-018-p2s10w7">
 <src.rf>manual</src.rf>

@@ -132,10 +132,10 @@
 <form>Felipe</form>
 <tag>
 <AM lemma="Felipe_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Felipe_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Felipe_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Felipe_;S_;Y_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Felipe_;S_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Felipe_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Felipe_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Felipe_;Y_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Felipe_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-042-p2s1w7">
@@ -144,7 +144,7 @@
 <LM>w#w-mf920925-042-p2s1w7</LM>
 </w.rf>
 <form>Gonzalese</form>
-<tag lemma="Gonzales_;S_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gonzales_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-042-p2s1w8">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 </w.rf>
 <form>Handelsblatt</form>
 <tag>
-<AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Handelsblatt_;m_^(časopis)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Handelsblatt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -411,7 +411,7 @@
 <LM>w#w-mf920925-042-p2s3w7</LM>
 </w.rf>
 <form>Solchaga</form>
-<tag lemma="Solchaga_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Solchaga_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-042-p2s3w8">
 <src.rf>manual</src.rf>

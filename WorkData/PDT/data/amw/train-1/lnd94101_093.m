@@ -75,7 +75,7 @@
 <LM>w#w-lnd94101-093-p1s1w8</LM>
 </w.rf>
 <form>Jágrem</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94101-093-p1s1w9">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-lnd94101-093-p1s1w11</LM>
 </w.rf>
 <form>Strakou</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94101-093-p1s1w12">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-lnd94101-093-p1s2w9</LM>
 </w.rf>
 <form>Smetáka</form>
-<tag lemma="Smeták-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smeták-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-093-p1s2w10">
 <src.rf>manual</src.rf>

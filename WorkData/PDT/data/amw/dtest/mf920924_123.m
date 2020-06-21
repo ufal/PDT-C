@@ -1079,7 +1079,7 @@
 <LM>w#w-mf920924-123-p2s14w4</LM>
 </w.rf>
 <form>Škuta</form>
-<tag lemma="Škuta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Škuta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-123-p2s14w5">
 <src.rf>manual</src.rf>
@@ -1273,7 +1273,7 @@
 <LM>w#w-mf920924-123-p2s15w3</LM>
 </w.rf>
 <form>Hopp</form>
-<tag lemma="Hopp_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hopp_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-123-p2s15w4">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 <LM>w#w-mf920924-123-p2s15w9</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-123-p2s15w10">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-mf920924-123-p2s18w19</LM>
 </w.rf>
 <form>Hopp</form>
-<tag lemma="Hopp_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hopp_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-123-p2s18w20">
 <src.rf>manual</src.rf>

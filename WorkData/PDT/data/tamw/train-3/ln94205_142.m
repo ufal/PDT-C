@@ -110,8 +110,8 @@
 </w.rf>
 <form>jpš</form>
 <tag>
-<AM lemma="jpš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jpš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jpš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jpš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-142-p2s1Aw4">
@@ -284,7 +284,7 @@
 <LM>w#w-ln94205-142-p2s2w4</LM>
 </w.rf>
 <form>Morávek</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-142-p2s2w5">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-ln94205-142-p3s3w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-142-p3s3w3">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 <LM>w#w-ln94205-142-p4s2w12</LM>
 </w.rf>
 <form>Morávek</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-142-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1228,7 +1228,7 @@
 <LM>w#w-ln94205-142-p4s5w2</LM>
 </w.rf>
 <form>Morávka</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-142-p4s5w3">
 <src.rf>manual</src.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-ln94205-142-p4s6w11</LM>
 </w.rf>
 <form>Morávek</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-142-p4s6w12">
 <src.rf>manual</src.rf>

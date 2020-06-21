@@ -162,7 +162,7 @@
 </w.rf>
 <form>ŽPSV</form>
 <tag>
-<AM lemma="ŽPSV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ŽPSV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ŽPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -541,7 +541,7 @@
 </w.rf>
 <form>ŽPSV</form>
 <tag>
-<AM lemma="ŽPSV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ŽPSV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ŽPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -559,7 +559,7 @@
 <LM>w#w-cmpr9417-035-p4s1w12</LM>
 </w.rf>
 <form>Hladišem</form>
-<tag lemma="Hladiš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hladiš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9417-035-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1491,8 +1491,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-035-p8s1w8">
@@ -1781,7 +1781,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1792,7 +1792,7 @@
 </w.rf>
 <form>Bundesbahn</form>
 <tag>
-<AM lemma="Bundesbahn_;K" src="orig">NNIS4-----A----</AM>
+<AM lemma="Bundesbahn_;m" src="orig">NNIS4-----A----</AM>
 <AM lemma="Bundesbahn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1960,8 +1960,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-035-p8s5w3">

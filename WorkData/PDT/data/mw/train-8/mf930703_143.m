@@ -173,7 +173,7 @@
 <LM>w#w-mf930703-143-p2s1w16</LM>
 </w.rf>
 <form>Lisničuka</form>
-<tag lemma="Lisničuk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lisničuk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-143-p2s1w17">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 </w.rf>
 <form>Komsomolskaja</form>
 <tag>
-<AM lemma="Komsomolskaja_;K_^(šachta)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Komsomolskaja_;m_^(šachta)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Komsomolskaja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -461,7 +461,7 @@
 <LM>w#w-mf930703-143-p2s2w34</LM>
 </w.rf>
 <form>Hooda</form>
-<tag lemma="Hood_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hood_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-143-p2s2w35">
 <src.rf>manual</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-mf930703-143-p2s7w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-143-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1448,11 +1448,11 @@
 </w.rf>
 <form>mercedesy</form>
 <tag>
-<AM lemma="Mercedes-2_;R_^(vozidlo)" src="orig">NNIP7-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP1-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP4-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP5-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
+<AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP7-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP1-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP4-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP5-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-143-p2s8w35">

@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-084-p1s1w1</LM>
 </w.rf>
 <form>Spring</form>
-<tag lemma="Spring_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Spring_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-084-p1s1w2">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-ln95040-084-p2s1Bw25</LM>
 </w.rf>
 <form>Spring</form>
-<tag lemma="Spring_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Spring_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-084-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95040-084-p2s1Bw36</LM>
 </w.rf>
 <form>Mayhewem</form>
-<tag lemma="Mayhew_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mayhew_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-084-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln95040-084-p2s2w3</LM>
 </w.rf>
 <form>Spring</form>
-<tag lemma="Spring_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Spring_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-084-p2s2w4">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="J-77" src="manual">F%-------------</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-084-p2s5w2">
@@ -939,7 +939,7 @@
 <LM>w#w-ln95040-084-p2s5w3</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-084-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-084-p2s6w7">
@@ -1192,7 +1192,7 @@
 <LM>w#w-ln95040-084-p2s6w8</LM>
 </w.rf>
 <form>Tremble</form>
-<tag lemma="Tremble_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tremble_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-084-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 </w.rf>
 <form>BBC</form>
 <tag>
-<AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -70,8 +70,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-072-p2s1w4">
@@ -123,10 +123,10 @@
 </w.rf>
 <form>MI</form>
 <tag>
-<AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MI_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
 <AM lemma="MI_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Mi_;R_^(vrtulník)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Mi_;m_^(vrtulník)" src="manual">NNIXX-----A----</AM>
 <AM lemma="MI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -794,7 +794,7 @@
 <LM>w#w-mf920924-072-p2s4w43</LM>
 </w.rf>
 <form>Thiele</form>
-<tag lemma="Thiele_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thiele_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-072-p2s4w44">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 <LM>w#w-mf920924-072-p2s5w7</LM>
 </w.rf>
 <form>Dušek</form>
-<tag lemma="Dušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-072-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1548,10 +1548,10 @@
 </w.rf>
 <form>Berkut</form>
 <tag>
-<AM lemma="Berkut_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Berkut_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Berkut-2_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Berkut-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Berkut_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="Berkut_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Berkut-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Berkut-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-072-p2s8w7">
@@ -1576,7 +1576,7 @@
 <LM>w#w-mf920924-072-p2s8w9</LM>
 </w.rf>
 <form>Duška</form>
-<tag lemma="Dušek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dušek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-072-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1664,7 +1664,7 @@
 <LM>w#w-mf920924-072-p2s8w20</LM>
 </w.rf>
 <form>Sorbog</form>
-<tag lemma="Sorbog_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sorbog_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-072-p2s8w21">
 <src.rf>manual</src.rf>

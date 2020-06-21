@@ -194,7 +194,7 @@
 <LM>w#w-mf920922-075-p2s1Bw15</LM>
 </w.rf>
 <form>Fox</form>
-<tag lemma="Fox-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fox-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-075-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf920922-075-p2s5w9</LM>
 </w.rf>
 <form>Suchomel</form>
-<tag lemma="Suchomel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suchomel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-075-p2s5w10">
 <src.rf>manual</src.rf>

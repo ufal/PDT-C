@@ -52,7 +52,7 @@
 </w.rf>
 <form>SSM</form>
 <tag>
-<AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SSM-1_:B_;m_^(Socialistický_svaz_mládeže)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SSM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -266,7 +266,7 @@
 <LM>w#w-ln95045-012-p2s1Bw21</LM>
 </w.rf>
 <form>Uhlíkovi</form>
-<tag lemma="Uhlík_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Uhlík_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95045-012-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -409,7 +409,7 @@
 <LM>w#w-ln95045-012-p3s1w2</LM>
 </w.rf>
 <form>Uhlík</form>
-<tag lemma="Uhlík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhlík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-012-p3s1w3">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -686,7 +686,7 @@
 <LM>w#w-ln95045-012-p3s2w7</LM>
 </w.rf>
 <form>Uhlíkovi</form>
-<tag lemma="Uhlík_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Uhlík_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95045-012-p3s2w8">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -978,7 +978,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p4s1w5">
@@ -995,7 +995,7 @@
 <LM>w#w-ln95045-012-p4s1w6</LM>
 </w.rf>
 <form>Uhlíka</form>
-<tag lemma="Uhlík_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Uhlík_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-012-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-ln95045-012-p4s1w9</LM>
 </w.rf>
 <form>Hubáček</form>
-<tag lemma="Hubáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hubáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-012-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1095,7 +1095,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1179,7 +1179,7 @@
 <LM>w#w-ln95045-012-p4s2w8</LM>
 </w.rf>
 <form>Uhlík</form>
-<tag lemma="Uhlík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhlík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-012-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 <LM>w#w-ln95045-012-p4s3w15</LM>
 </w.rf>
 <form>Uhlík</form>
-<tag lemma="Uhlík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhlík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-012-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1625,7 +1625,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1762,7 +1762,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1824,7 +1824,7 @@
 <LM>w#w-ln95045-012-p5s2w8</LM>
 </w.rf>
 <form>Kepler</form>
-<tag lemma="Kepler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kepler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-012-p5s2w9">
 <src.rf>manual</src.rf>
@@ -1880,7 +1880,7 @@
 <LM>w#w-ln95045-012-p5s2w15</LM>
 </w.rf>
 <form>Uhlík</form>
-<tag lemma="Uhlík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhlík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-012-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1899,7 +1899,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1949,7 +1949,7 @@
 <LM>w#w-ln95045-012-p5s3w7</LM>
 </w.rf>
 <form>Kepler</form>
-<tag lemma="Kepler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kepler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-012-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 </w.rf>
 <form>AGM</form>
 <tag>
-<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-2_:B_;m_^(firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2128,7 +2128,7 @@
 <LM>w#w-ln95045-012-p5s4w18</LM>
 </w.rf>
 <form>Uhlík</form>
-<tag lemma="Uhlík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhlík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-012-p5s4w19">
 <src.rf>manual</src.rf>

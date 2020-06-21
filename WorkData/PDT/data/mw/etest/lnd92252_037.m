@@ -20,7 +20,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -249,7 +249,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -350,7 +350,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -457,7 +457,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -755,7 +755,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

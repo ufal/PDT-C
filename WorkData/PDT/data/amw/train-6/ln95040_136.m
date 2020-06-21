@@ -372,7 +372,7 @@
 <LM>w#w-ln95040-136-p3s2w5</LM>
 </w.rf>
 <form>Vopálenské</form>
-<tag lemma="Vopálenská_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vopálenská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-136-p3s2w6">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-ln95040-136-p3s2w10</LM>
 </w.rf>
 <form>Kužela</form>
-<tag lemma="Kužela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kužela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-136-p3s2w11">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-ln95040-136-p3s2w21</LM>
 </w.rf>
 <form>Korbel</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-136-p3s2w22">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln95040-136-p3s3w3</LM>
 </w.rf>
 <form>Kužela</form>
-<tag lemma="Kužela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kužela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-136-p3s3w4">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-ln95040-136-p3s3w4</LM>
 </w.rf>
 <form>Vopálenskou</form>
-<tag lemma="Vopálenská_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Vopálenská_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95040-136-p3s3w5">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln95040-136-p3s4w1</LM>
 </w.rf>
 <form>Korbel</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-136-p3s4w2">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln95040-136-p4s1w3</LM>
 </w.rf>
 <form>Korbelem</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-136-p4s1w4">
 <src.rf>manual</src.rf>

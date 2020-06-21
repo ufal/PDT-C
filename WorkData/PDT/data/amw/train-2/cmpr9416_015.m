@@ -36,7 +36,7 @@
 </w.rf>
 <form>dolary</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
@@ -105,11 +105,11 @@
 </w.rf>
 <form>Gala</form>
 <tag>
-<AM lemma="Gala_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gala_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="gala-1" src="auto">NNNXX-----A----</AM>
 <AM lemma="gala-2" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
@@ -668,11 +668,11 @@
 </w.rf>
 <form>Gala</form>
 <tag>
-<AM lemma="Gala_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gala_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="gala-1" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="gala-2" src="auto">AAXXX----1A----</AM>
 </tag>
@@ -1486,11 +1486,11 @@
 </w.rf>
 <form>Gala</form>
 <tag>
-<AM lemma="Gala_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gala_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="gala-1" src="auto">NNNXX-----A----</AM>
 <AM lemma="gala-2" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
@@ -2026,13 +2026,13 @@
 </w.rf>
 <form>Gale</form>
 <tag>
-<AM lemma="Gala_;K" src="orig" selected="1">NNFS6-----A----</AM>
+<AM lemma="Gala_;m" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS5-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Gale-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gale-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Gale-2_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Gale-3_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Gale-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gale-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Gale-2_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Gale-3_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-015-p9s1w3">
@@ -2398,11 +2398,11 @@
 </w.rf>
 <form>Gala</form>
 <tag>
-<AM lemma="Gala_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gala_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="gala-1" src="auto">NNNXX-----A----</AM>
 <AM lemma="gala-2" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
@@ -2665,7 +2665,7 @@
 <LM>w#w-cmpr9416-015-p9s5w19</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-015-p9s5w20">
 <src.rf>manual</src.rf>
@@ -2934,7 +2934,7 @@
 </w.rf>
 <form>dolary</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
@@ -2979,13 +2979,13 @@
 </w.rf>
 <form>Gale</form>
 <tag>
-<AM lemma="Gala_;K" src="orig" selected="1">NNFS6-----A----</AM>
+<AM lemma="Gala_;m" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS5-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Gale-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gale-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Gale-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Gale-3_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Gale-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gale-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Gale-2_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Gale-3_;m" src="auto">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-015-p10s2w5">
@@ -3775,7 +3775,7 @@
 <LM>w#w-cmpr9416-015-p12s1w2</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-015-p12s1w3">
 <src.rf>manual</src.rf>
@@ -3816,11 +3816,11 @@
 </w.rf>
 <form>Gala</form>
 <tag>
-<AM lemma="Gala_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gala_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="gala-1" src="auto">NNNXX-----A----</AM>
 <AM lemma="gala-2" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
@@ -4870,11 +4870,11 @@
 </w.rf>
 <form>Gala</form>
 <tag>
-<AM lemma="Gala_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gala_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="gala-1" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="gala-2" src="auto">AAXXX----1A----</AM>
 </tag>

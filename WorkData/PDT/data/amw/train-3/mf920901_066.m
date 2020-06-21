@@ -309,7 +309,7 @@
 </w.rf>
 <form>Brit</form>
 <tag>
-<AM lemma="Brit-2_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Brit-2_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Brit_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="Brita_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
@@ -326,7 +326,7 @@
 </w.rf>
 <form>ivrit</form>
 <tag>
-<AM lemma="ivrit_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="ivrit_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="ivrit" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="ivrit" src="auto">NNIS4-----A----</AM>
 <AM lemma="ivrit_,t" src="manual">NNXXX-----A----</AM>
@@ -340,7 +340,7 @@
 </w.rf>
 <form>olamit</form>
 <tag>
-<AM lemma="olamit_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="olamit_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="olamit_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="olamit-77" src="manual" selected="1">F%-------------</AM>
 </tag>

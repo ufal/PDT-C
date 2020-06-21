@@ -329,7 +329,7 @@
 <LM>w#w-vesm9211-026-p2s3w5</LM>
 </w.rf>
 <form>Hammer</form>
-<tag lemma="Hammer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hammer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-026-p2s3w6">
 <src.rf>manual</src.rf>
@@ -2137,7 +2137,7 @@
 </w.rf>
 <form>Union</form>
 <tag>
-<AM lemma="Union_;K_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Union_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Union" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Union" src="auto">NNIS4-----A----</AM>
 <AM lemma="union" src="auto">NNIS1-----A----</AM>
@@ -2152,7 +2152,7 @@
 </w.rf>
 <form>Pharm</form>
 <tag>
-<AM lemma="Pharm_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Pharm_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Pharm-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2510,7 +2510,7 @@
 </w.rf>
 <form>croci</form>
 <tag>
-<AM lemma="crocus_;L_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="crocus_;U_,t" src="orig">NNIS2-----A----</AM>
 <AM lemma="croci-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2790,7 +2790,7 @@
 </w.rf>
 <form>Carthamus</form>
 <tag>
-<AM lemma="Carthamus_;L_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="Carthamus_;U_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="Carthamus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2801,7 +2801,7 @@
 </w.rf>
 <form>tinctorius</form>
 <tag>
-<AM lemma="tinctorius_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="tinctorius_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="tinctorius-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

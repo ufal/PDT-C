@@ -19,7 +19,7 @@
 <LM>w#w-ln95041-116-p1s1w1</LM>
 </w.rf>
 <form>Agrana</form>
-<tag lemma="Agrana_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Agrana_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-116-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln95041-116-p2s1Bw3</LM>
 </w.rf>
 <form>Agrana</form>
-<tag lemma="Agrana_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Agrana_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-116-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-ln95041-116-p3s1w2</LM>
 </w.rf>
 <form>Agrany</form>
-<tag lemma="Agrana_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Agrana_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-116-p3s1w3">
 <src.rf>manual</src.rf>

@@ -20,7 +20,7 @@
 </w.rf>
 <form>CEFTA</form>
 <tag>
-<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -113,8 +113,8 @@
 </w.rf>
 <form>dan</form>
 <tag>
-<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dan-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-3-p2s1w7">
@@ -132,8 +132,8 @@
 </w.rf>
 <form>jpš</form>
 <tag>
-<AM lemma="jpš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jpš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jpš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jpš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-3-p2s1w9">
@@ -313,7 +313,7 @@
 <LM>w#w-ln94201-3-p2s1w30</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-3-p2s1w31">
 <src.rf>manual</src.rf>
@@ -550,8 +550,8 @@
 </w.rf>
 <form>Czech</form>
 <tag>
-<AM lemma="Czech-2_;m_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Czech-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Czech-2_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Czech-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Czech-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -759,7 +759,7 @@
 </w.rf>
 <form>CEFTA</form>
 <tag>
-<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1154,7 +1154,7 @@
 </w.rf>
 <form>CEFTA</form>
 <tag>
-<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -121,7 +121,7 @@
 <form>PLAVEC</form>
 <tag>
 <AM lemma="plavec" src="orig">NNMS1-----A----</AM>
-<AM lemma="Plavec_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Plavec_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -537,7 +537,7 @@
 <LM>w#w-vesm9301-019-p4s4w4</LM>
 </w.rf>
 <form>Kepler</form>
-<tag lemma="Kepler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kepler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p4s4w5">
 <src.rf>manual</src.rf>
@@ -681,9 +681,9 @@
 <form>Marse</form>
 <tag>
 <AM lemma="Mars_;G" src="orig">NNIS2-----A---1</AM>
-<AM lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="auto" recommended="1">NNIS5-----A----</AM>
+<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="auto" recommended="1">NNIS5-----A----</AM>
 <AM lemma="mars" src="auto">NNIS5-----A----</AM>
-<AM lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A---2</AM>
+<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A---2</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p4s4w22">
@@ -942,7 +942,7 @@
 <LM>w#w-vesm9301-019-p4s5w3</LM>
 </w.rf>
 <form>Allen</form>
-<tag lemma="Allen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Allen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2270,7 +2270,7 @@
 <LM>w#w-vesm9301-019-p11s1w4</LM>
 </w.rf>
 <form>Orionu</form>
-<tag lemma="Orion-1_;K_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Orion-1_;m_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p11s1w5">
 <src.rf>manual</src.rf>
@@ -2633,8 +2633,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="orig">Q3-------------</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p11s2w9">
@@ -2651,7 +2651,7 @@
 <LM>w#w-vesm9301-019-p11s2w10</LM>
 </w.rf>
 <form>Messier</form>
-<tag lemma="Messier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Messier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p11s2w11">
 <src.rf>manual</src.rf>
@@ -3549,20 +3549,20 @@
 <AM lemma="M-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="M-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="M-3`1000" src="auto">C}-------------</AM>
-<AM lemma="M-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="M-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="M-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="M-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="M-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p11s8w14">
@@ -3587,7 +3587,7 @@
 <LM>w#w-vesm9301-019-p11s8w16</LM>
 </w.rf>
 <form>Orionu</form>
-<tag lemma="Orion-1_;K_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Orion-1_;m_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p11s8w17">
 <src.rf>manual</src.rf>
@@ -3804,7 +3804,7 @@
 <LM>w#w-vesm9301-019-p11s10w10</LM>
 </w.rf>
 <form>Orionu</form>
-<tag lemma="Orion-1_;K_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Orion-1_;m_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p11s10w11">
 <src.rf>manual</src.rf>
@@ -4468,8 +4468,8 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="O-33" src="orig">Q3-------------</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p11s14w19">
@@ -4487,8 +4487,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p11s14w21">
@@ -5587,7 +5587,7 @@
 <LM>w#w-vesm9301-019-p12s7w2</LM>
 </w.rf>
 <form>Lada</form>
-<tag lemma="Lada-4_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lada-4_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p12s7w3">
 <src.rf>manual</src.rf>
@@ -5611,7 +5611,7 @@
 <LM>w#w-vesm9301-019-p12s7w5</LM>
 </w.rf>
 <form>Elmegreen</form>
-<tag lemma="Elmegreen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Elmegreen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p12s7w6">
 <src.rf>manual</src.rf>
@@ -6257,7 +6257,7 @@
 <form>Rosette</form>
 <tag>
 <AM lemma="Rosette_;G_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rosette_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Rosette_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="rosette_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Rosette-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -6310,8 +6310,8 @@
 <form>Monoceros</form>
 <tag>
 <AM lemma="Monoceros_;G_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="monoceros_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="monoceros_;L" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="monoceros_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="monoceros_;U" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p13s2w19">
@@ -6655,7 +6655,7 @@
 <LM>w#w-vesm9301-019-p13s4w18</LM>
 </w.rf>
 <form>Orionu</form>
-<tag lemma="Orion-1_;K_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Orion-1_;m_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p13s4w19">
 <src.rf>manual</src.rf>
@@ -7318,8 +7318,8 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="O-33" src="orig">Q3-------------</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p13s8Aw10">
@@ -7361,8 +7361,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p13s8Aw15">
@@ -7481,7 +7481,7 @@
 <LM>w#w-vesm9301-019-p13s8Bw13</LM>
 </w.rf>
 <form>Orionu</form>
-<tag lemma="Orion-1_;K_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Orion-1_;m_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p13s8Bw14">
 <src.rf>manual</src.rf>
@@ -9039,7 +9039,7 @@
 <LM>w#w-vesm9301-019-p14s7w18</LM>
 </w.rf>
 <form>Ladovým</form>
-<tag lemma="Ladův-4_;S_^(*4a-4)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Ladův-4_;Y_^(*4a-4)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-vesm9301-019-p14s7w19">
 <src.rf>manual</src.rf>
@@ -9055,7 +9055,7 @@
 <LM>w#w-vesm9301-019-p14s7w20</LM>
 </w.rf>
 <form>Elmegreenovým</form>
-<tag lemma="Elmegreenův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Elmegreenův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-vesm9301-019-p14s7w21">
 <src.rf>manual</src.rf>
@@ -9467,7 +9467,7 @@
 <LM>w#w-vesm9301-019-p15s1w9</LM>
 </w.rf>
 <form>Orion</form>
-<tag lemma="Orion-1_;K_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Orion-1_;m_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p15s1w10">
 <src.rf>manual</src.rf>
@@ -9534,7 +9534,7 @@
 <LM>w#w-vesm9301-019-p15s1w17</LM>
 </w.rf>
 <form>Blaauw</form>
-<tag lemma="Blaauw_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blaauw_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-019-p15s1w18">
 <src.rf>manual</src.rf>
@@ -9670,7 +9670,7 @@
 <LM>w#w-vesm9301-019-p15s1w34</LM>
 </w.rf>
 <form>Orionovým</form>
-<tag lemma="Orionův-2_;S_^(*4-2)" src="auto" selected="1">AUIS7M---------</tag>
+<tag lemma="Orionův-2_;Y_^(*4-2)" src="auto" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-vesm9301-019-p15s1w35">
 <src.rf>manual</src.rf>
@@ -9947,20 +9947,20 @@
 <AM lemma="M-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="M-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="M-3`1000" src="auto">C}-------------</AM>
-<AM lemma="M-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="M-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="M-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="M-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="M-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p15s3w12">

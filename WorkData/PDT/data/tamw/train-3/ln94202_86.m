@@ -225,7 +225,7 @@
 <LM>w#w-ln94202-86-p2s1Aw20</LM>
 </w.rf>
 <form>Polanecký</form>
-<tag lemma="Polanecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polanecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-86-p2s1B">
@@ -253,7 +253,7 @@
 <LM>w#w-ln94202-86-p2s1Cw2</LM>
 </w.rf>
 <form>Kněžínková</form>
-<tag lemma="Kněžínková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kněžínková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-86-p2s1D">
@@ -2597,7 +2597,7 @@
 </w.rf>
 <form>PCB</form>
 <tag>
-<AM lemma="PCB-1_:B_;H_^(polychlorovaný_bifenyl)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PCB-1_:B_;U_^(polychlorovaný_bifenyl)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PCB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3471,7 +3471,7 @@
 <LM>w#w-ln94202-86-p7s2w19</LM>
 </w.rf>
 <form>Polanecký</form>
-<tag lemma="Polanecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polanecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-86-p7s2w20">
 <src.rf>manual</src.rf>
@@ -3651,7 +3651,7 @@
 <LM>w#w-ln94202-86-p7s4w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94202-86-p7s4w11">
 <src.rf>manual</src.rf>
@@ -5780,7 +5780,7 @@
 <LM>w#w-ln94202-86-p10s5w13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94202-86-p10s5w14">
 <src.rf>manual</src.rf>
@@ -6202,7 +6202,7 @@
 <LM>w#w-ln94202-86-p11s3w18</LM>
 </w.rf>
 <form>Brachtl</form>
-<tag lemma="Brachtl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brachtl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-86-p11s3w19">
 <src.rf>manual</src.rf>
@@ -6596,7 +6596,7 @@
 <LM>w#w-ln94202-86-p12s4w6</LM>
 </w.rf>
 <form>Havlíčkův</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS4M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94202-86-p12s4w7">
 <src.rf>manual</src.rf>
@@ -7637,7 +7637,7 @@
 <LM>w#w-ln94202-86-p14s2w16</LM>
 </w.rf>
 <form>Polanecký</form>
-<tag lemma="Polanecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polanecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-86-p14s2w17">
 <src.rf>manual</src.rf>
@@ -7923,7 +7923,7 @@
 <LM>w#w-ln94202-86-p15s2w7</LM>
 </w.rf>
 <form>Zuskové</form>
-<tag lemma="Zusková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Zusková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-86-p15s2w8">
 <src.rf>manual</src.rf>
@@ -8514,7 +8514,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-86-p15s8w11">
@@ -8531,7 +8531,7 @@
 <LM>w#w-ln94202-86-p15s8w12</LM>
 </w.rf>
 <form>Brachtl</form>
-<tag lemma="Brachtl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brachtl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-86-p15s8w13">
 <src.rf>manual</src.rf>
@@ -9441,7 +9441,7 @@
 <LM>w#w-ln94202-86-p16s7w25</LM>
 </w.rf>
 <form>Staněk</form>
-<tag lemma="Staněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Staněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-86-p16s7w26">
 <src.rf>manual</src.rf>
@@ -10361,7 +10361,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-86-p18s5w28">
@@ -10378,7 +10378,7 @@
 <LM>w#w-ln94202-86-p18s5w29</LM>
 </w.rf>
 <form>Staněk</form>
-<tag lemma="Staněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Staněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-86-p18s5w30">
 <src.rf>manual</src.rf>

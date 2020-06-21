@@ -28,7 +28,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -123,8 +123,8 @@
 </w.rf>
 <form>EHF</form>
 <tag>
-<AM lemma="EHF-1_:B_;K_^(Evropská_házenkářská_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EHF-1_:B_;K_^(Evropská_hokejová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EHF-1_:B_;m_^(Evropská_házenkářská_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EHF-1_:B_;m_^(Evropská_hokejová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EHF-2_:B_,t_^(extremly_high_frequency)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EHF-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="EHF-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -227,7 +227,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -512,7 +512,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -631,7 +631,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

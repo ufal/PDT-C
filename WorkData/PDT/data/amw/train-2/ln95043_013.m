@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-013-p1s1w1</LM>
 </w.rf>
 <form>Schmeichel</form>
-<tag lemma="Schmeichel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schmeichel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-013-p1s1w2">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -122,7 +122,7 @@
 <LM>w#w-ln95043-013-p2s1Bw7</LM>
 </w.rf>
 <form>Schmeichel</form>
-<tag lemma="Schmeichel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schmeichel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-013-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-ln95043-013-p2s4w14</LM>
 </w.rf>
 <form>Schmeichel</form>
-<tag lemma="Schmeichel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schmeichel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-013-p2s4w15">
 <src.rf>manual</src.rf>

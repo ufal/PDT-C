@@ -645,7 +645,7 @@
 <LM>w#w-mf920922-129-p3s1w11</LM>
 </w.rf>
 <form>Francois</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-129-p3s1w12">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-mf920922-129-p3s1w12</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-129-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1813,7 +1813,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2006,7 +2006,7 @@
 <LM>w#w-mf920922-129-p5s3w4</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-129-p5s3w5">
 <src.rf>manual</src.rf>
@@ -2201,7 +2201,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2409,7 +2409,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

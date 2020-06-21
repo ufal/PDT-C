@@ -139,7 +139,7 @@
 </w.rf>
 <form>Week</form>
 <tag>
-<AM lemma="Week_;K_^(tisk)" src="orig">NNIS4-----A----</AM>
+<AM lemma="Week_;m_^(tisk)" src="orig">NNIS4-----A----</AM>
 <AM lemma="week_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Week-77" src="manual" selected="1">F%-------------</AM>
 </tag>

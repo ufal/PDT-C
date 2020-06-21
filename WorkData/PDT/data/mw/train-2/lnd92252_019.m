@@ -21,7 +21,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-019-p1s1w2">
@@ -40,7 +40,7 @@
 <LM>w#w-lnd92252-019-p1s2w1</LM>
 </w.rf>
 <form>DURAY</form>
-<tag lemma="Duray_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Duray_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-019-p1s2w2">
 <src.rf>manual</src.rf>
@@ -234,8 +234,8 @@
 </w.rf>
 <form>Együttélés</form>
 <tag>
-<AM lemma="Együttélés_;K_;p_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Együttélés_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Együttélés_;m_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Együttélés_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-019-p3s2w12">
@@ -246,7 +246,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-019-p3s2w13">
@@ -263,7 +263,7 @@
 <LM>w#w-lnd92252-019-p3s2w14</LM>
 </w.rf>
 <form>Duray</form>
-<tag lemma="Duray_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Duray_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-019-p3s2w15">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-019-p3s3w6">
@@ -396,7 +396,7 @@
 <LM>w#w-lnd92252-019-p3s3w7</LM>
 </w.rf>
 <form>Duray</form>
-<tag lemma="Duray_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Duray_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-019-p3s3w8">
 <src.rf>manual</src.rf>

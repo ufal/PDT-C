@@ -19,7 +19,7 @@
 <LM>w#w-lnd94104-118-p1s1w1</LM>
 </w.rf>
 <form>Bayern</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-118-p1s1w2">
 <src.rf>manual</src.rf>
@@ -65,11 +65,11 @@
 </w.rf>
 <form>mel</form>
 <tag>
-<AM lemma="mel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mel-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mel-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-118-p1s2w4">
@@ -104,7 +104,7 @@
 <LM>w#w-lnd94104-118-p1s3w2</LM>
 </w.rf>
 <form>Bayernu</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-118-p1s3w3">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <form>Kaiserslauternem</form>
 <tag>
 <AM lemma="Kaiserslautern" src="orig">NNIS7-----A----</AM>
-<AM lemma="Kaiserslautern_;K" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Kaiserslautern_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-118-p1s3w27">
@@ -357,7 +357,7 @@
 <LM>w#w-lnd94104-118-p1s4w6</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-118-p1s4w7">
 <src.rf>manual</src.rf>

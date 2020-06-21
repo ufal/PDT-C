@@ -61,7 +61,7 @@
 <form>peepshow</form>
 <tag>
 <AM lemma="peepshow_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="peepshow" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="peepshow" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="peepshow" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -452,7 +452,7 @@
 </w.rf>
 <form>Kijevskije</form>
 <tag>
-<AM lemma="Kijevskije_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Kijevskije_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Kijevskije-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

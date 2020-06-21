@@ -43,7 +43,7 @@
 <LM>w#w-mf920925-118-p1s1w4</LM>
 </w.rf>
 <form>Mellora</form>
-<tag lemma="Mellor_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mellor_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-118-p1s1w5">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf920925-118-p2s2w11</LM>
 </w.rf>
 <form>Majora</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-118-p2s2w12">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-mf920925-118-p2s2w16</LM>
 </w.rf>
 <form>Mellor</form>
-<tag lemma="Mellor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mellor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-118-p2s2w17">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 </w.rf>
 <form>BBC</form>
 <tag>
-<AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1023,7 +1023,7 @@
 <LM>w#w-mf920925-118-p5s1w3</LM>
 </w.rf>
 <form>Mellora</form>
-<tag lemma="Mellor_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mellor_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-118-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1153,8 +1153,8 @@
 <form>Antoniou</form>
 <tag>
 <AM lemma="Antonia_;Y" src="orig" selected="1">NNFS7-----A----</AM>
-<AM lemma="Antoniou_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Antoniou_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Antoniou_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Antoniou_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-118-p5s1w20">
@@ -1176,7 +1176,7 @@
 </w.rf>
 <form>Sancha</form>
 <tag>
-<AM lemma="Sancha_;S" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Sancha_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Sancho_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Sancho_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -1205,7 +1205,7 @@
 <LM>w#w-mf920925-118-p5s2w2</LM>
 </w.rf>
 <form>Mellor</form>
-<tag lemma="Mellor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mellor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-118-p5s2w3">
 <src.rf>manual</src.rf>

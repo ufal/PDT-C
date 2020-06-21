@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-084-p1s1w1</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-084-p1s1w2">
 <src.rf>manual</src.rf>
@@ -325,8 +325,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-084-p2s2w8">
@@ -434,8 +434,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-084-p2s3w3">
@@ -452,7 +452,7 @@
 <LM>w#w-ln95046-084-p2s3w4</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-084-p2s3w5">
 <src.rf>manual</src.rf>
@@ -591,8 +591,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-084-p2s4w3">
@@ -715,7 +715,7 @@
 <LM>w#w-ln95046-084-p2s5w2</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-084-p2s5w3">
 <src.rf>manual</src.rf>

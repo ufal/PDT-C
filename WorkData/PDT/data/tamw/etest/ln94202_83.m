@@ -85,7 +85,7 @@
 <LM>w#w-ln94202-83-p2s1Aw2</LM>
 </w.rf>
 <form>Moudrý</form>
-<tag lemma="Moudrý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moudrý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-83-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -2033,7 +2033,7 @@
 <LM>w#w-ln94202-83-p8s1w14</LM>
 </w.rf>
 <form>Baudyše</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-83-p8s1w15">
 <src.rf>manual</src.rf>
@@ -4204,7 +4204,7 @@
 <LM>w#w-ln94202-83-p12s1w15</LM>
 </w.rf>
 <form>Baudyše</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-83-p12s1w16">
 <src.rf>manual</src.rf>
@@ -4239,7 +4239,7 @@
 <LM>w#w-ln94202-83-p12s1w19</LM>
 </w.rf>
 <form>Bárta</form>
-<tag lemma="Bárta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bárta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-83-p12s1w20">
 <src.rf>manual</src.rf>
@@ -4382,7 +4382,7 @@
 <LM>w#w-ln94202-83-p12s3w2</LM>
 </w.rf>
 <form>Bárta</form>
-<tag lemma="Bárta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bárta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-83-p12s3w3">
 <src.rf>manual</src.rf>
@@ -5036,7 +5036,7 @@
 <LM>w#w-ln94202-83-p13s1Bw6</LM>
 </w.rf>
 <form>Baudyšovi</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln94202-83-p13s1Bw7">
 <src.rf>manual</src.rf>

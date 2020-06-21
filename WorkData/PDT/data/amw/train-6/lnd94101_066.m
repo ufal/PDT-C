@@ -36,7 +36,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -154,7 +154,7 @@
 <LM>w#w-lnd94101-066-p1s3w5</LM>
 </w.rf>
 <form>Šohat</form>
-<tag lemma="Šohat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šohat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s3w6">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -213,7 +213,7 @@
 <LM>w#w-lnd94101-066-p1s3w12</LM>
 </w.rf>
 <form>Kuráí</form>
-<tag lemma="Kuráí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuráí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s3w13">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-lnd94101-066-p1s5w10</LM>
 </w.rf>
 <form>Juppé</form>
-<tag lemma="Juppé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juppé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s5w11">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-lnd94101-066-p1s7w1</LM>
 </w.rf>
 <form>Šohat</form>
-<tag lemma="Šohat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šohat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s7w2">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-lnd94101-066-p1s8w27</LM>
 </w.rf>
 <form>Kuráí</form>
-<tag lemma="Kuráí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuráí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s8w28">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1723,7 +1723,7 @@
 <LM>w#w-lnd94101-066-p1s11w8</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s11w9">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2084,7 +2084,7 @@
 <LM>w#w-lnd94101-066-p1s12w43</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s12w44">
 <src.rf>manual</src.rf>
@@ -2175,8 +2175,8 @@
 </w.rf>
 <form>Warren</form>
 <tag>
-<AM lemma="Warren_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Warren_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Warren_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Warren_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-066-p1s13w5">
@@ -2186,8 +2186,8 @@
 </w.rf>
 <form>Christopher</form>
 <tag>
-<AM lemma="Christopher_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Christopher_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christopher_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Christopher_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-066-p1s13w6">
@@ -2303,8 +2303,8 @@
 </w.rf>
 <form>Jicchakem</form>
 <tag>
-<AM lemma="Jicchak_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Jicchak_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Jicchak_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Jicchak_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-066-p1s14w7">
@@ -2313,7 +2313,7 @@
 <LM>w#w-lnd94101-066-p1s14w7</LM>
 </w.rf>
 <form>Rabinem</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s14w8">
 <src.rf>manual</src.rf>

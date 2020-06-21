@@ -87,7 +87,7 @@
 <form>Huga</form>
 <tag>
 <AM lemma="Hugo-2_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Hugo-1_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hugo-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-044-p2s1w9">
@@ -154,7 +154,7 @@
 <LM>w#w-mf930702-044-p3s1w1</LM>
 </w.rf>
 <form>Mozartovu</form>
-<tag lemma="Mozartův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Mozartův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf930702-044-p3s1w2">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-mf930702-044-p3s1w8</LM>
 </w.rf>
 <form>Mozart</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-044-p3s1w9">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 </w.rf>
 <form>Nostra</form>
 <tag>
-<AM lemma="nostrum_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="nostrum_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="nostra_,t_^(pouze_ve_spojení_&quot;cosa_nostra&quot;)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Nostra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -932,7 +932,7 @@
 <LM>w#w-mf930702-044-p6s1w19</LM>
 </w.rf>
 <form>Řečických</form>
-<tag lemma="Řečický_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Řečický_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930702-044-p6s1w20">
 <src.rf>manual</src.rf>

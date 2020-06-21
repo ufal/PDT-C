@@ -59,7 +59,7 @@
 <LM>w#w-mf930702-061-p1s1w6</LM>
 </w.rf>
 <form>sarin</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-061-p2s1">
@@ -255,7 +255,7 @@
 <LM>w#w-mf930702-061-p2s2w1</LM>
 </w.rf>
 <form>sarinem</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930702-061-p2s2w2">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf930702-061-p3s1w15</LM>
 </w.rf>
 <form>Želinský</form>
-<tag lemma="Želinský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Želinský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-061-p3s1w16">
 <src.rf>manual</src.rf>
@@ -766,9 +766,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-061-p4s1w17">
@@ -845,7 +845,7 @@
 <LM>w#w-mf930702-061-p5s1w2</LM>
 </w.rf>
 <form>Želinský</form>
-<tag lemma="Želinský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Želinský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-061-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-mf930702-061-p5s2w4</LM>
 </w.rf>
 <form>sarin</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-061-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <form>Mut</form>
 <tag>
 <AM lemma="Mutvana_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Muta_;S" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Muta_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Mut-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1488,7 +1488,7 @@
 <LM>w#w-mf930702-061-p6s1w3</LM>
 </w.rf>
 <form>Želinského</form>
-<tag lemma="Želinský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Želinský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-061-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1691,7 +1691,7 @@
 <LM>w#w-mf930702-061-p6s1w28</LM>
 </w.rf>
 <form>uraniem</form>
-<tag lemma="uranium_;H" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="uranium_;U" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930702-061-p6s1w29">
 <src.rf>manual</src.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-mf930702-061-p6s1w43</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-061-p6s1w44">
 <src.rf>manual</src.rf>

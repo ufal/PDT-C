@@ -93,7 +93,7 @@
 <LM>w#w-lnd92259-089-p2s2w4</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag lemma="Rangers_;m" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s2w5">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-lnd92259-089-p2s2w6</LM>
 </w.rf>
 <form>Buffalem</form>
-<tag lemma="Buffalo-2_;K_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s2w7">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-lnd92259-089-p2s3w25</LM>
 </w.rf>
 <form>Amonteho</form>
-<tag lemma="Amonte_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Amonte_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s3w26">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-lnd92259-089-p2s4w9</LM>
 </w.rf>
 <form>Turcotte</form>
-<tag lemma="Turcotte_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Turcotte_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s4w10">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-lnd92259-089-p2s7w2</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;K" src="orig" selected="1">NNISX-----A----</tag>
+<tag lemma="Rangers_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s7w3">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-lnd92259-089-p2s8w3</LM>
 </w.rf>
 <form>Nieuwendyk</form>
-<tag lemma="Nieuwendyk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nieuwendyk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s8w4">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-lnd92259-089-p2s8w8</LM>
 </w.rf>
 <form>Bure</form>
-<tag lemma="Bure_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bure_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s8w9">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-lnd92259-089-p2s9w9</LM>
 </w.rf>
 <form>Reichel</form>
-<tag lemma="Reichel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reichel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s9w10">
 <src.rf>manual</src.rf>
@@ -1413,8 +1413,8 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-089-p2s12w4">
@@ -1432,8 +1432,8 @@
 </w.rf>
 <form>Y</form>
 <tag>
-<AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Y-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Y-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Y-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-089-p2s12w6">
@@ -1450,7 +1450,7 @@
 <LM>w#w-lnd92259-089-p2s12w7</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;K" src="orig" selected="1">NNISX-----A----</tag>
+<tag lemma="Rangers_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s12w8">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <LM>w#w-lnd92259-089-p2s12w9</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-2_;K_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s12w10">
 <src.rf>manual</src.rf>

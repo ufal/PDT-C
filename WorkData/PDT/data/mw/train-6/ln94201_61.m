@@ -975,7 +975,7 @@
 <LM>w#w-ln94201-61-p3s1w27</LM>
 </w.rf>
 <form>Švehlovy</form>
-<tag lemma="Švehlův_;S_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Švehlův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94201-61-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 </w.rf>
 <form>OMI</form>
 <tag>
-<AM lemma="OMI_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OMI_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Omi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="OMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1890,7 +1890,7 @@
 <LM>w#w-ln94201-61-p4s2w2</LM>
 </w.rf>
 <form>Kasl</form>
-<tag lemma="Kasl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kasl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-61-p4s2w3">
 <src.rf>manual</src.rf>

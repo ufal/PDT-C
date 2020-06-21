@@ -79,7 +79,7 @@
 <LM>w#w-cmpr9416-032-p4s1w4</LM>
 </w.rf>
 <form>Stavoexpres</form>
-<tag lemma="Stavoexpres_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stavoexpres_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-032-p4s1w5">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -487,7 +487,7 @@
 <LM>w#w-cmpr9416-032-p5s1w3</LM>
 </w.rf>
 <form>Stavoexpres</form>
-<tag lemma="Stavoexpres_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stavoexpres_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-032-p5s1w4">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-cmpr9416-032-p5s1w6</LM>
 </w.rf>
 <form>Brindzák</form>
-<tag lemma="Brindzák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brindzák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-032-p5s1w7">
 <src.rf>manual</src.rf>

@@ -119,7 +119,7 @@
 <LM>w#w-lnd94104-054-p1s3w7</LM>
 </w.rf>
 <form>Roldan</form>
-<tag lemma="Roldan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roldan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-054-p1s3w8">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 </w.rf>
 <form>El</form>
 <tag>
-<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd94104-054-p1s5w1</LM>
 </w.rf>
 <form>Roldan</form>
-<tag lemma="Roldan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roldan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-054-p1s5w2">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-lnd94104-054-p1s7w8</LM>
 </w.rf>
 <form>González</form>
-<tag lemma="González_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="González_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-054-p1s7w9">
 <src.rf>manual</src.rf>

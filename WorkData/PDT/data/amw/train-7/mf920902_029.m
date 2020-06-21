@@ -141,7 +141,7 @@
 <LM>w#w-mf920902-029-p1s1Bw14</LM>
 </w.rf>
 <form>KOVO</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920902-029-p1s1Bw15">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-mf920902-029-p1s2w5</LM>
 </w.rf>
 <form>Mečiarovu</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf920902-029-p1s2w6">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-mf920902-029-p1s5w18</LM>
 </w.rf>
 <form>Mečiarova</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-mf920902-029-p1s5w19">
 <src.rf>manual</src.rf>
@@ -1456,7 +1456,7 @@
 <LM>w#w-mf920902-029-p1s9w10</LM>
 </w.rf>
 <form>KOVO</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920902-029-p1s9w11">
 <src.rf>manual</src.rf>

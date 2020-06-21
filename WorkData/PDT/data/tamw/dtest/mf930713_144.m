@@ -388,13 +388,13 @@
 </w.rf>
 <form>Zavidoviči</form>
 <tag>
-<AM lemma="Zavidoviči_;G" src="orig" selected="1">NNNSX-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Zavidovič_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Zavidoviči_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zavidovič_;Y" src="auto">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-144-p2s3w7">
@@ -1224,7 +1224,7 @@
 <LM>w#w-mf930713-144-p2s10w15</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-144-p2s10w16">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <LM>w#w-mf930713-144-p2s10w17</LM>
 </w.rf>
 <form>Karadžič</form>
-<tag lemma="Karadžič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karadžič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-144-p2s10w18">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-mf930713-144-p2s10w22</LM>
 </w.rf>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-144-p2s10w23">
 <src.rf>manual</src.rf>

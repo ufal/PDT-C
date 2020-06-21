@@ -20,7 +20,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
 <AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -38,7 +38,7 @@
 <LM>w#w-ln95049-052-p1s1w3</LM>
 </w.rf>
 <form>Neal</form>
-<tag lemma="Neal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-052-p1s1w4">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -233,7 +233,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
 <AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -251,7 +251,7 @@
 <LM>w#w-ln95049-052-p2s1Bw18</LM>
 </w.rf>
 <form>Neal</form>
-<tag lemma="Neal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-ln95049-052-p2s1Bw23</LM>
 </w.rf>
 <form>Montrosse</form>
-<tag lemma="Montross_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Montross_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-ln95049-052-p2s2w7</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-3_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ford-3_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s2w8">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
 <AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -632,7 +632,7 @@
 <LM>w#w-ln95049-052-p2s2w28</LM>
 </w.rf>
 <form>Neala</form>
-<tag lemma="Neal_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Neal_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s2w29">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-ln95049-052-p2s3w5</LM>
 </w.rf>
 <form>Shawa</form>
-<tag lemma="Shaw_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Shaw_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s3w6">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-ln95049-052-p2s3w7</LM>
 </w.rf>
 <form>Granta</form>
-<tag lemma="Grant-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Grant-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s3w8">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -860,8 +860,8 @@
 </w.rf>
 <form>Rod</form>
 <tag>
-<AM lemma="Rod_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rod_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rod_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rod_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-052-p2s4w4">
@@ -870,7 +870,7 @@
 <LM>w#w-ln95049-052-p2s4w4</LM>
 </w.rf>
 <form>Thorn</form>
-<tag lemma="Thorn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thorn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s4w5">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
 <AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -905,7 +905,7 @@
 <LM>w#w-ln95049-052-p2s4w8</LM>
 </w.rf>
 <form>Neala</form>
-<tag lemma="Neal_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Neal_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s4w9">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-ln95049-052-p2s4w17</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s4w18">
 <src.rf>manual</src.rf>

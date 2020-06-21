@@ -103,7 +103,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -318,7 +318,7 @@
 <LM>w#w-ln94207-77-p1s2w7</LM>
 </w.rf>
 <form>Daimler</form>
-<tag lemma="Daimler_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Daimler_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-77-p1s2w8">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-ln94207-77-p1s2w9</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94207-77-p1s2w10">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

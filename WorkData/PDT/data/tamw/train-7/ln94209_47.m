@@ -71,7 +71,7 @@
 <LM>w#w-ln94209-47-p2s1Bw2</LM>
 </w.rf>
 <form>Bělohradský</form>
-<tag lemma="Bělohradský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bělohradský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-47-p2s1C">
@@ -326,7 +326,7 @@
 <LM>w#w-ln94209-47-p2s2w11</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94209-47-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1909,7 +1909,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2228,8 +2228,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-47-p4s3w2">
@@ -3312,8 +3312,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-47-p4s8w17">
@@ -4701,8 +4701,8 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Wild_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Wild_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Wild_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wild_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -4714,7 +4714,7 @@
 </w.rf>
 <form>Duck</form>
 <tag>
-<AM lemma="Duck_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Duck_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Duck_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Duck_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="duck_,t" src="manual">NNXXX-----A----</AM>

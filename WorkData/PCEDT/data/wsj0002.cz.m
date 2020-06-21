@@ -59,7 +59,7 @@
 <tag>
 <AM lemma="Agnew_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Agnew_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Agnew_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Agnew_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0002-001-p1s0W4-Ta">
@@ -144,7 +144,7 @@
 </w.rf>
 <form>Gold</form>
 <tag>
-<AM lemma="Gold_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gold_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Golda_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Gold-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -156,7 +156,7 @@
 </w.rf>
 <form>Fields</form>
 <tag>
-<AM lemma="Fields_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fields_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Fields-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -51,7 +51,7 @@
 <LM>w#w-mf920923-049-p1s1w5</LM>
 </w.rf>
 <form>SCHARREREM</form>
-<tag lemma="Scharrer_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Scharrer_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920923-049-p1s1w6">
 <src.rf>manual</src.rf>
@@ -84,7 +84,7 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto" selected="1">A2--------A----</AM>
 <AM lemma="pro_,t" src="manual">NNXXX-----A----</AM>
@@ -97,7 +97,7 @@
 <LM>w#w-mf920923-049-p1s1w10</LM>
 </w.rf>
 <form>Kennex</form>
-<tag lemma="Kennex_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Kennex_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920923-049-p1s1w11">
 <src.rf>manual</src.rf>
@@ -308,8 +308,8 @@
 </w.rf>
 <form>Lo</form>
 <tag>
-<AM lemma="Lo_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lo_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Lo_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lo_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-049-p3s1w22">
@@ -532,7 +532,7 @@
 <LM>w#w-mf920923-049-p4s2w7</LM>
 </w.rf>
 <form>Huťky</form>
-<tag lemma="Huťka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Huťka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-049-p4s2w8">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto" selected="1">A2--------A----</AM>
 <AM lemma="pro_,t" src="manual">NNXXX-----A----</AM>
@@ -570,7 +570,7 @@
 <LM>w#w-mf920923-049-p4s2w11</LM>
 </w.rf>
 <form>Kennex</form>
-<tag lemma="Kennex_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Kennex_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920923-049-p4s2w12">
 <src.rf>manual</src.rf>
@@ -627,8 +627,8 @@
 </w.rf>
 <form>Destiny</form>
 <tag>
-<AM lemma="Destiny_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Destino_;K_^(týdeník)" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="Destiny_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Destino_;m_^(týdeník)" src="auto" recommended="1">NNNP7-----A----</AM>
 <AM lemma="destiny_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Destiny-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -640,7 +640,7 @@
 </w.rf>
 <form>Black</form>
 <tag>
-<AM lemma="Black_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Black_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="black_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Black-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -652,7 +652,7 @@
 </w.rf>
 <form>ACE</form>
 <tag>
-<AM lemma="ACE-2_:B_;K_,t_^(Allied_Command_Europe)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ACE-2_:B_;m_,t_^(Allied_Command_Europe)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ace_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="ACE-77" src="manual" selected="1">F%-------------</AM>
 </tag>

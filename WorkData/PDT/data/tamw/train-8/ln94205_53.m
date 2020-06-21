@@ -27,7 +27,7 @@
 <LM>w#w-ln94205-53-p1s1w2</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-53-p1s1w3">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-ln94205-53-p2s1Aw3</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="em-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-53-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -340,7 +340,7 @@
 <LM>w#w-ln94205-53-p2s2w13</LM>
 </w.rf>
 <form>Trnky</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-53-p2s2w14">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-ln94205-53-p2s4w1</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-53-p2s4w2">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94205-53-p2s4w6</LM>
 </w.rf>
 <form>Sýkorou</form>
-<tag lemma="Sýkora_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Sýkora_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-53-p2s4w7">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1125,7 +1125,7 @@
 <LM>w#w-ln94205-53-p3s4w1</LM>
 </w.rf>
 <form>Sýkora</form>
-<tag lemma="Sýkora_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sýkora_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-53-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1396,7 +1396,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-53-p3s5w20">
@@ -1413,7 +1413,7 @@
 <LM>w#w-ln94205-53-p3s5w21</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-53-p3s5w22">
 <src.rf>manual</src.rf>
@@ -1516,7 +1516,7 @@
 <LM>w#w-ln94205-53-p4s1w1</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-53-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1937,7 +1937,7 @@
 <LM>w#w-ln94205-53-p5s1w5</LM>
 </w.rf>
 <form>Trnky</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-53-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2020,7 +2020,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

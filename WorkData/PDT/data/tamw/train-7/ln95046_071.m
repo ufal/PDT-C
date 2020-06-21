@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-071-p1s1w1</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-071-p1s1w2">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln95046-071-p1s1w4</LM>
 </w.rf>
 <form>Havlovu</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUIS3M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUIS3M---------</tag>
 </m>
 <m id="m-ln95046-071-p1s1w5">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln95046-071-p2s1Bw4</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95046-071-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-ln95046-071-p2s1Bw12</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-071-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-ln95046-071-p2s1Bw18</LM>
 </w.rf>
 <form>Neubauera</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-071-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -333,7 +333,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -351,7 +351,7 @@
 <LM>w#w-ln95046-071-p2s2w9</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-071-p2s2w10">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln95046-071-p2s2w11</LM>
 </w.rf>
 <form>Havlův</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95046-071-p2s2w12">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-ln95046-071-p2s3w1</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-071-p2s3w2">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-ln95046-071-p2s3w7</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95046-071-p2s3w8">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-ln95046-071-p2s4w11</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-071-p2s4w12">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-ln95046-071-p2s4w21</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95046-071-p2s4w22">
 <src.rf>manual</src.rf>

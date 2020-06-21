@@ -829,7 +829,7 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1811,7 +1811,7 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="am-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="am-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
 </tag>
 </m>

@@ -64,7 +64,7 @@
 <LM>w#w-ln95040-122-p2s1w4</LM>
 </w.rf>
 <form>Komeda</form>
-<tag lemma="Komeda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komeda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-122-p2s1w5">
 <src.rf>manual</src.rf>

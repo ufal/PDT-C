@@ -27,7 +27,7 @@
 <LM>w#w-ln95046-020-p1s1w2</LM>
 </w.rf>
 <form>Keenan</form>
-<tag lemma="Keenan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keenan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-020-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln95046-020-p1s1w4</LM>
 </w.rf>
 <form>Tichého</form>
-<tag lemma="Tichý_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Tichý_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-020-p1s1w5">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 </w.rf>
 <form>Louis</form>
 <tag>
-<AM lemma="Louis-2_;G_^(př._St._Louis)" src="orig">NNISX-----A----</AM>
+<AM lemma="Louis-2_;G_^(př._St._Louis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto">NNMS1-----A----</AM>
@@ -144,8 +144,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-020-p2s1w8">
@@ -210,7 +210,7 @@
 <LM>w#w-ln95046-020-p2s1w15</LM>
 </w.rf>
 <form>Tichý</form>
-<tag lemma="Tichý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tichý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-020-p2s1w16">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 </w.rf>
 <form>Islanders</form>
 <tag>
-<AM lemma="Islanders_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="Islanders_;m" src="auto">NNXXX-----A----</AM>
 <AM lemma="Islanders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -667,7 +667,7 @@
 </w.rf>
 <form>Islanders</form>
 <tag>
-<AM lemma="Islanders_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="Islanders_;m" src="auto">NNXXX-----A----</AM>
 <AM lemma="Islanders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -762,8 +762,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-020-p2s4w3">
@@ -844,7 +844,7 @@
 <LM>w#w-ln95046-020-p2s4w12</LM>
 </w.rf>
 <form>Keenanem</form>
-<tag lemma="Keenan_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Keenan_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-020-p2s4w13">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 </w.rf>
 <form>Louis</form>
 <tag>
-<AM lemma="Louis-2_;G_^(př._St._Louis)" src="orig">NNISX-----A----</AM>
+<AM lemma="Louis-2_;G_^(př._St._Louis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto">NNMS1-----A----</AM>
@@ -1030,7 +1030,7 @@
 <LM>w#w-ln95046-020-p2s4w34</LM>
 </w.rf>
 <form>Tichého</form>
-<tag lemma="Tichý_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Tichý_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-020-p2s4w35">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-ln95046-020-p2s6w3</LM>
 </w.rf>
 <form>Winter</form>
-<tag lemma="Winter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Winter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-020-p2s6w4">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <LM>w#w-ln94211-107-p2s1w5</LM>
 </w.rf>
 <form>Koudelky</form>
-<tag lemma="Koudelka_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koudelka_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-107-p2s1w6">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94211-107-p3s1w6</LM>
 </w.rf>
 <form>Volkmana</form>
-<tag lemma="Volkman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Volkman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-107-p3s1w7">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94211-107-p3s1w14</LM>
 </w.rf>
 <form>Arbesově</form>
-<tag lemma="Arbesův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Arbesův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94211-107-p3s1w15">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 </w.rf>
 <form>Fontana</form>
 <tag>
-<AM lemma="Fontana_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fontana_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Fontana_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -689,7 +689,7 @@
 <LM>w#w-ln94211-107-p3s2w15</LM>
 </w.rf>
 <form>Seifert</form>
-<tag lemma="Seifert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seifert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-107-p3s2w16">
 <src.rf>manual</src.rf>

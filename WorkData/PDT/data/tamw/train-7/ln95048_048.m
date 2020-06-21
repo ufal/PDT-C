@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-048-p1s1w2</LM>
 </w.rf>
 <form>Nedorost</form>
-<tag lemma="Nedorost_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nedorost_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-048-p1s1w3">
 <src.rf>manual</src.rf>
@@ -76,7 +76,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vašut</form>
-<tag lemma="Vašut_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vašut_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-048-p1s1w15">
 <src.rf>manual</src.rf>

@@ -68,9 +68,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-053-p1s1w8">
@@ -81,7 +81,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-053-p1s1w9">
@@ -100,7 +100,7 @@
 <LM>w#w-lnd92256-053-p1s2w1</LM>
 </w.rf>
 <form>WEINBERGERA</form>
-<tag lemma="Weinberger_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Weinberger_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92256-053-p2s1">
@@ -112,7 +112,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="George_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual">NNMS1-----A----</AM>
 <AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -122,7 +122,7 @@
 <LM>w#w-lnd92256-053-p2s1w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p2s1w3">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-lnd92256-053-p3s2w3</LM>
 </w.rf>
 <form>Bushe</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p3s2w4">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-lnd92256-053-p3s3w7</LM>
 </w.rf>
 <form>Bushe</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p3s3w8">
 <src.rf>manual</src.rf>
@@ -415,9 +415,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-053-p3s3w17">
@@ -427,8 +427,8 @@
 </w.rf>
 <form>Caspara</form>
 <tag>
-<AM lemma="Caspar_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Caspar_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Caspar_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Caspar_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-053-p3s3w18">
@@ -437,7 +437,7 @@
 <LM>w#w-lnd92256-053-p3s3w18</LM>
 </w.rf>
 <form>Weinbergera</form>
-<tag lemma="Weinberger_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Weinberger_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p3s3w19">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-lnd92256-053-p4s1w6</LM>
 </w.rf>
 <form>Lawrencem</form>
-<tag lemma="Lawrence_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lawrence_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p4s1w7">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-lnd92256-053-p4s1w7</LM>
 </w.rf>
 <form>Walshem</form>
-<tag lemma="Walsh_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Walsh_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p4s1w8">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-lnd92256-053-p4s1w14</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p4s1w15">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-lnd92256-053-p4s1w26</LM>
 </w.rf>
 <form>Reagana</form>
-<tag lemma="Reagan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reagan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p4s1w27">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-lnd92256-053-p4s3w1</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-lnd92256-053-p4s4w1</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1297,9 +1297,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-053-p4s4w33">
@@ -1422,7 +1422,7 @@
 <LM>w#w-lnd92256-053-p5s1w8</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-lnd92256-053-p5s1w16</LM>
 </w.rf>
 <form>Weinberger</form>
-<tag lemma="Weinberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Weinberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1505,7 +1505,7 @@
 <LM>w#w-lnd92256-053-p5s1w18</LM>
 </w.rf>
 <form>Shultz</form>
-<tag lemma="Shultz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shultz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1563,7 +1563,7 @@
 <LM>w#w-lnd92256-053-p5s2w1</LM>
 </w.rf>
 <form>Weinbergerova</form>
-<tag lemma="Weinbergerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Weinbergerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92256-053-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-lnd92256-053-p5s2w4</LM>
 </w.rf>
 <form>Bushovo</form>
-<tag lemma="Bushův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Bushův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-lnd92256-053-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-lnd92256-053-p5s3w6</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s3w7">
 <src.rf>manual</src.rf>
@@ -1730,7 +1730,7 @@
 <LM>w#w-lnd92256-053-p5s4w2</LM>
 </w.rf>
 <form>Weinbergerově</form>
-<tag lemma="Weinbergerův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Weinbergerův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd92256-053-p5s4w3">
 <src.rf>manual</src.rf>
@@ -1800,7 +1800,7 @@
 <LM>w#w-lnd92256-053-p5s4w10</LM>
 </w.rf>
 <form>Shultz</form>
-<tag lemma="Shultz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shultz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s4w11">
 <src.rf>manual</src.rf>
@@ -1848,7 +1848,7 @@
 <LM>w#w-lnd92256-053-p5s4w16</LM>
 </w.rf>
 <form>Casey</form>
-<tag lemma="Casey_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Casey_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s4w17">
 <src.rf>manual</src.rf>
@@ -1875,7 +1875,7 @@
 <LM>w#w-lnd92256-053-p5s4w19</LM>
 </w.rf>
 <form>Meese</form>
-<tag lemma="Meese_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meese_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s4w20">
 <src.rf>manual</src.rf>
@@ -1938,7 +1938,7 @@
 <LM>w#w-lnd92256-053-p5s4w26</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s4w27">
 <src.rf>manual</src.rf>
@@ -1986,7 +1986,7 @@
 <LM>w#w-lnd92256-053-p5s4w32</LM>
 </w.rf>
 <form>Poindexter</form>
-<tag lemma="Poindexter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poindexter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p5s4w33">
 <src.rf>manual</src.rf>
@@ -2039,7 +2039,7 @@
 <LM>w#w-lnd92256-053-p6s1w4</LM>
 </w.rf>
 <form>Bushe</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2199,7 +2199,7 @@
 <LM>w#w-lnd92256-053-p6s1w24</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p6s1w25">
 <src.rf>manual</src.rf>
@@ -2273,7 +2273,7 @@
 <LM>w#w-lnd92256-053-p6s2w8</LM>
 </w.rf>
 <form>Bushovu</form>
-<tag lemma="Bushův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Bushův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd92256-053-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2372,7 +2372,7 @@
 </w.rf>
 <form>ABC</form>
 <tag>
-<AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ABC-4_:B_;m_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2417,7 +2417,7 @@
 <LM>w#w-lnd92256-053-p7s1w11</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p7s1w12">
 <src.rf>manual</src.rf>
@@ -2457,7 +2457,7 @@
 <LM>w#w-lnd92256-053-p7s1w16</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p7s1w17">
 <src.rf>manual</src.rf>
@@ -2497,7 +2497,7 @@
 <LM>w#w-lnd92256-053-p7s1w21</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p7s1w22">
 <src.rf>manual</src.rf>
@@ -2550,7 +2550,7 @@
 <LM>w#w-lnd92256-053-p8s1w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p8s1w3">
 <src.rf>manual</src.rf>
@@ -2681,7 +2681,7 @@
 <LM>w#w-lnd92256-053-p8s1w18</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p8s1w19">
 <src.rf>manual</src.rf>
@@ -2745,7 +2745,7 @@
 <LM>w#w-lnd92256-053-p8s1w26</LM>
 </w.rf>
 <form>Gorea</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS4-----A---1</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS4-----A---1</tag>
 </m>
 <m id="m-lnd92256-053-p8s1w27">
 <src.rf>manual</src.rf>
@@ -2802,7 +2802,7 @@
 </w.rf>
 <form>two</form>
 <tag>
-<AM lemma="two_,t" src="orig">ClXPX----------</AM>
+<AM lemma="two_,t" src="orig">ClXXX----------</AM>
 <AM lemma="two_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="two-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2814,7 +2814,7 @@
 </w.rf>
 <form>bozos</form>
 <tag>
-<AM lemma="bozo_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="bozo_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="bozos_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="bozos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2878,7 +2878,7 @@
 <LM>w#w-lnd92256-053-p8s2w4</LM>
 </w.rf>
 <form>Quayle</form>
-<tag lemma="Quayle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Quayle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p8s2w5">
 <src.rf>manual</src.rf>
@@ -2964,7 +2964,7 @@
 <LM>w#w-lnd92256-053-p8s2w14</LM>
 </w.rf>
 <form>Clintonovi</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p8s2w15">
 <src.rf>manual</src.rf>
@@ -3009,7 +3009,7 @@
 <LM>w#w-lnd92256-053-p8s3w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p8s3w3">
 <src.rf>manual</src.rf>

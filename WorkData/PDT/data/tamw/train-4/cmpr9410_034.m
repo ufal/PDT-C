@@ -373,8 +373,8 @@
 </w.rf>
 <form>Wacker</form>
 <tag>
-<AM lemma="Wacker_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wacker-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wacker_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wacker-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-034-p2s3w7">
@@ -474,7 +474,7 @@
 <LM>w#w-cmpr9410-034-p2s3w18</LM>
 </w.rf>
 <form>Goghů</form>
-<tag lemma="Gogh_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Gogh_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-034-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1006,9 +1006,9 @@
 </w.rf>
 <form>Wilt</form>
 <tag>
-<AM lemma="Wilt_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Wilt_;S" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Wilt_;S" src="auto">NNIS4-----A----</AM>
+<AM lemma="Wilt_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wilt_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Wilt_;Y" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-034-p4s1w7">
@@ -1678,7 +1678,7 @@
 <LM>w#w-cmpr9410-034-p4s5w17</LM>
 </w.rf>
 <form>Gogh</form>
-<tag lemma="Gogh_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gogh_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-034-p4s5w18">
 <src.rf>manual</src.rf>
@@ -1989,8 +1989,8 @@
 </w.rf>
 <form>Wacker</form>
 <tag>
-<AM lemma="Wacker_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wacker-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wacker_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wacker-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-034-p5s2w2">
@@ -2257,7 +2257,7 @@
 <LM>w#w-cmpr9410-034-p5s4w1</LM>
 </w.rf>
 <form>Wackerova</form>
-<tag lemma="Wackerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Wackerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9410-034-p5s4w2">
 <src.rf>manual</src.rf>
@@ -2489,7 +2489,7 @@
 <LM>w#w-cmpr9410-034-p6s1w16</LM>
 </w.rf>
 <form>Ráž</form>
-<tag lemma="Ráž_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ráž_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-034-p6s1w17">
 <src.rf>manual</src.rf>

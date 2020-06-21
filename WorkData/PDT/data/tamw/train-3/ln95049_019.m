@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-019-p1s1w1</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-019-p1s1w2">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-ln95049-019-p2s3w14</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-019-p2s3w15">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-ln95049-019-p3s1w3</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-019-p3s1w4">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-ln95049-019-p3s2w31</LM>
 </w.rf>
 <form>Uhdeho</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-019-p3s2w32">
 <src.rf>manual</src.rf>

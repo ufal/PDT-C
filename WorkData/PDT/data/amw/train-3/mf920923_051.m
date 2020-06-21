@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-051-p1s1w1</LM>
 </w.rf>
 <form>Rusnák</form>
-<tag lemma="Rusnák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rusnák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-051-p1s1w2">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-mf920923-051-p2s1w12</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf920923-051-p2s1w13">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-mf920923-051-p2s1w15</LM>
 </w.rf>
 <form>Rusnáka</form>
-<tag lemma="Rusnák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rusnák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920923-051-p2s1w16">
 <src.rf>manual</src.rf>
@@ -190,8 +190,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-051-p2s1w20">
@@ -365,8 +365,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-051-p2s3w9">
@@ -399,7 +399,7 @@
 <LM>w#w-mf920923-051-p2s3w12</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-051-p2s3w13">
 <src.rf>manual</src.rf>

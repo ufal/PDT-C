@@ -101,7 +101,7 @@
 <LM>w#w-lnd92256-058-p3s1w3</LM>
 </w.rf>
 <form>kp</form>
-<tag lemma="kp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kp-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92256-058-p3s1w4">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-lnd92256-058-p3s2w16</LM>
 </w.rf>
 <form>Jungmann</form>
-<tag lemma="Jungmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jungmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-058-p3s2w17">
 <src.rf>manual</src.rf>

@@ -151,7 +151,7 @@
 <LM>w#w-ln94211-91-p2s1Bw2</LM>
 </w.rf>
 <form>Slezák</form>
-<tag lemma="Slezák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slezák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-91-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 </w.rf>
 <form>Týden</form>
 <tag>
-<AM lemma="Týden_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Týden_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="týden_^(jednotka_času)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="týden_^(jednotka_času)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -591,7 +591,7 @@
 <LM>w#w-ln94211-91-p2s3w10</LM>
 </w.rf>
 <form>Ťiang</form>
-<tag lemma="Ťiang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ťiang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-91-p2s3w11">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <form>Ce</form>
 <tag>
 <AM lemma="Ce-4_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ce-1_:B_;H_^(cerium,_cer)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="Ce-1_:B_;U_^(cerium,_cer)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Ce-4_;Y" src="manual" selected="1">NNMXX-----A----</AM>
@@ -943,7 +943,7 @@
 <LM>w#w-ln94211-91-p3s1w4</LM>
 </w.rf>
 <form>Ťiangově</form>
-<tag lemma="Ťiangův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Ťiangův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94211-91-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <form>Mao</form>
 <tag>
 <AM lemma="Mao_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mao_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mao_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p3s2w2">
@@ -1030,7 +1030,7 @@
 <form>Ce</form>
 <tag>
 <AM lemma="Ce-4_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ce-1_:B_;H_^(cerium,_cer)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Ce-1_:B_;U_^(cerium,_cer)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Ce-4_;Y" src="manual" selected="1">NNMXX-----A----</AM>
@@ -1053,8 +1053,8 @@
 <tag>
 <AM lemma="tung_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="tunga" src="auto">NNFP2-----A----</AM>
-<AM lemma="tung_;L_^(rostlina)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="tung_;L_^(rostlina)" src="auto">NNIS4-----A----</AM>
+<AM lemma="tung_;U_^(rostlina)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="tung_;U_^(rostlina)" src="auto">NNIS4-----A----</AM>
 <AM lemma="tung_;Y_^(Mao_ce_tung)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>BBC</form>
 <tag>
-<AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1472,7 +1472,7 @@
 <LM>w#w-ln94211-91-p3s3w6</LM>
 </w.rf>
 <form>Ťiangovi</form>
-<tag lemma="Ťiang_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ťiang_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94211-91-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1892,7 +1892,7 @@
 <LM>w#w-ln94211-91-p4s2w8</LM>
 </w.rf>
 <form>Ťiangem</form>
-<tag lemma="Ťiang_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ťiang_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-91-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1924,7 +1924,7 @@
 <LM>w#w-ln94211-91-p4s2w12</LM>
 </w.rf>
 <form>Jelcinem</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-91-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2898,7 +2898,7 @@
 <LM>w#w-ln94211-91-p7s1w1</LM>
 </w.rf>
 <form>Ťiangův</form>
-<tag lemma="Ťiangův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Ťiangův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94211-91-p7s1w2">
 <src.rf>manual</src.rf>
@@ -3302,7 +3302,7 @@
 <LM>w#w-ln94211-91-p8s1w2</LM>
 </w.rf>
 <form>Ťianga</form>
-<tag lemma="Ťiang_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ťiang_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-91-p8s1w3">
 <src.rf>manual</src.rf>
@@ -3318,7 +3318,7 @@
 <LM>w#w-ln94211-91-p8s1w4</LM>
 </w.rf>
 <form>Jelcinem</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-91-p8s1w5">
 <src.rf>manual</src.rf>
@@ -4072,7 +4072,7 @@
 <LM>w#w-ln94211-91-p9s1w7</LM>
 </w.rf>
 <form>Gorbačova</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-91-p9s1w8">
 <src.rf>manual</src.rf>
@@ -4146,7 +4146,7 @@
 <LM>w#w-ln94211-91-p9s2w1</LM>
 </w.rf>
 <form>Ťiangův</form>
-<tag lemma="Ťiangův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Ťiangův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94211-91-p9s2w2">
 <src.rf>manual</src.rf>

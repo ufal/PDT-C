@@ -466,7 +466,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -519,7 +519,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -780,7 +780,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -960,7 +960,7 @@
 <LM>w#w-lnd94105-057-p1s7w11</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-057-p1s7w12">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-lnd94105-057-p1s7w12</LM>
 </w.rf>
 <form>Kinkel</form>
-<tag lemma="Kinkel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kinkel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-057-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1507,7 +1507,7 @@
 <LM>w#w-lnd94105-057-p1s10w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94105-057-p1s10w14">
 <src.rf>manual</src.rf>

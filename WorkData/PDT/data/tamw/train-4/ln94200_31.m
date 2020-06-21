@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-31-p1s1w1</LM>
 </w.rf>
 <form>Europartenariát</form>
-<tag lemma="Europartenariát_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Europartenariát_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-31-p1s1w2">
 <src.rf>manual</src.rf>
@@ -62,8 +62,8 @@
 </w.rf>
 <form>ev</form>
 <tag>
-<AM lemma="ev-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ev-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ev-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ev-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-31-p2s1Aw4">
@@ -219,7 +219,7 @@
 </w.rf>
 <form>EFTA</form>
 <tag>
-<AM lemma="EFTA-1_:B_;K_,t_^(European_Free_Trade_Association)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EFTA-1_:B_;m_,t_^(European_Free_Trade_Association)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="EFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -310,9 +310,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-31-p2s1Bw29">
@@ -377,7 +377,7 @@
 <LM>w#w-ln94200-31-p2s1Bw36</LM>
 </w.rf>
 <form>Europartenariát</form>
-<tag lemma="Europartenariát_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Europartenariát_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-31-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln94200-31-p3s1w1</LM>
 </w.rf>
 <form>Europartenariátu</form>
-<tag lemma="Europartenariát_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Europartenariát_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-31-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 </w.rf>
 <form>PHARE</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

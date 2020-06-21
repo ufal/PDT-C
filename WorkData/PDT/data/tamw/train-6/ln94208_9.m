@@ -35,7 +35,7 @@
 <LM>w#w-ln94208-9-p1s1w3</LM>
 </w.rf>
 <form>Schumpeter</form>
-<tag lemma="Schumpeter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schumpeter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-9-p1s1w4">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-ln94208-9-p1s1w20</LM>
 </w.rf>
 <form>Keynes</form>
-<tag lemma="Keynes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keynes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-9-p1s1w21">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln94208-9-p1s4w1</LM>
 </w.rf>
 <form>Samuelson</form>
-<tag lemma="Samuelson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Samuelson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-9-p1s4w2">
 <src.rf>manual</src.rf>

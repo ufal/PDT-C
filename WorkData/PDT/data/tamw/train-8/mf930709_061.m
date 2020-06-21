@@ -86,7 +86,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -302,7 +302,7 @@
 <LM>w#w-mf930709-061-p2s2w8</LM>
 </w.rf>
 <form>Scziranka</form>
-<tag lemma="Scziranka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scziranka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-061-p2s2w9">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-mf930709-061-p2s7w25</LM>
 </w.rf>
 <form>Raida</form>
-<tag lemma="Raida_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Raida_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-061-p2s7w26">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-mf930709-061-p2s8w4</LM>
 </w.rf>
 <form>Scziranka</form>
-<tag lemma="Scziranka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scziranka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-061-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1918,7 +1918,7 @@
 <LM>w#w-mf930709-061-p2s15w30</LM>
 </w.rf>
 <form>Scziranka</form>
-<tag lemma="Scziranka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scziranka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-061-p2s15w31">
 <src.rf>manual</src.rf>

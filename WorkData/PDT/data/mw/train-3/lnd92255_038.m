@@ -186,7 +186,7 @@
 <LM>w#w-lnd92255-038-p2s1w18</LM>
 </w.rf>
 <form>Semi</form>
-<tag lemma="Semi_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Semi_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w19">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-lnd92255-038-p2s1w23</LM>
 </w.rf>
 <form>Osram</form>
-<tag lemma="Osram_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Osram_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w24">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-lnd92255-038-p2s1w25</LM>
 </w.rf>
 <form>Selux</form>
-<tag lemma="Selux_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Selux_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w26">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-lnd92255-038-p2s1w27</LM>
 </w.rf>
 <form>Hustadt</form>
-<tag lemma="Hustadt_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hustadt_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w28">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd92255-038-p2s1w29</LM>
 </w.rf>
 <form>Lite</form>
-<tag lemma="Lite_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Lite_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w30">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-lnd92255-038-p2s1w31</LM>
 </w.rf>
 <form>licht</form>
-<tag lemma="licht_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="licht_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w32">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-lnd92255-038-p2s1w33</LM>
 </w.rf>
 <form>Hillbrand</form>
-<tag lemma="Hillbrand_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Hillbrand_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w34">
 <src.rf>manual</src.rf>

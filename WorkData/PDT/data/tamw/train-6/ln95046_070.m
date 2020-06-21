@@ -232,7 +232,7 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -251,7 +251,7 @@
 <LM>w#w-ln95046-070-p2s2w7</LM>
 </w.rf>
 <form>Findra</form>
-<tag lemma="Findra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Findra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-070-p2s2w8">
 <src.rf>manual</src.rf>
@@ -317,8 +317,8 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual">Q3-------------</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-070-p2s2w16">
@@ -335,7 +335,7 @@
 <LM>w#w-ln95046-070-p2s2w17</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-070-p2s2w18">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -501,7 +501,7 @@
 <LM>w#w-ln95046-070-p2s3w1</LM>
 </w.rf>
 <form>Findra</form>
-<tag lemma="Findra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Findra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-070-p2s3w2">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-ln95046-070-p3s1w1</LM>
 </w.rf>
 <form>Findra</form>
-<tag lemma="Findra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Findra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-070-p3s1w2">
 <src.rf>manual</src.rf>
@@ -776,9 +776,9 @@
 </w.rf>
 <form>SIS</form>
 <tag>
-<AM lemma="SIS-2_:B_;K_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SIS-1_:B_;K_^(Spořitelní_investiční_společnost)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SIS-1_:B_;m_^(Spořitelní_investiční_společnost)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
 <AM lemma="SIS-88" src="manual">BNXXX-----A----</AM>
@@ -800,7 +800,7 @@
 </w.rf>
 <form>Mitra</form>
 <tag>
-<AM lemma="Mitro_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mitro_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="mitra" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -959,7 +959,7 @@
 </w.rf>
 <form>Mitra</form>
 <tag>
-<AM lemma="Mitro_;S" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Mitro_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="mitra" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1137,7 +1137,7 @@
 <LM>w#w-ln95046-070-p3s3w26</LM>
 </w.rf>
 <form>Lexa</form>
-<tag lemma="Lexa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lexa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-070-p3s3w27">
 <src.rf>manual</src.rf>

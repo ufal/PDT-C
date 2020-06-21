@@ -86,7 +86,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -1575,7 +1575,7 @@
 <LM>w#w-mf930701-016-p2s11w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930701-016-p2s11w7">
 <src.rf>manual</src.rf>

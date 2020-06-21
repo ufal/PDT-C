@@ -18,12 +18,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
@@ -106,8 +106,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -138,7 +138,7 @@
 </w.rf>
 <form>Goodman</form>
 <tag>
-<AM lemma="Goodman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goodman_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Goodman-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -311,8 +311,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0200-001-p1s0W28-Ta">
@@ -406,7 +406,7 @@
 </w.rf>
 <form>Kim</form>
 <tag>
-<AM lemma="Kim-1_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kim-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Kim-2_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -417,8 +417,8 @@
 </w.rf>
 <form>Cattrallovou</form>
 <tag>
-<AM lemma="Cattrallová_;S" src="auto">NNFS4-----A----</AM>
-<AM lemma="Cattrallová_;S" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="Cattrallová_;Y" src="auto">NNFS4-----A----</AM>
+<AM lemma="Cattrallová_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0200-001-p1s0W38-Ta">
@@ -452,9 +452,9 @@
 </w.rf>
 <form>Christině</form>
 <tag>
-<AM lemma="Christina_;S_;Y_,t" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="Christina_;S_;Y_,t" src="auto">NNFS6-----A----</AM>
-<AM lemma="Christina_;S_;Y" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Christina_;Y_,t" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="Christina_;Y_,t" src="auto">NNFS6-----A----</AM>
+<AM lemma="Christina_;Y" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0200-001-p1s0W42-Ta">
@@ -465,7 +465,7 @@
 <form>Haagové</form>
 <tag>
 <AM lemma="Haagové" src="auto">X@-------------</AM>
-<AM lemma="Haagová_;S" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Haagová_;Y" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0200-001-p1s0W43-Ta">
@@ -486,7 +486,7 @@
 <form>Haagová</form>
 <tag>
 <AM lemma="Haagová" src="auto">X@-------------</AM>
-<AM lemma="Haagová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Haagová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0200-001-p1s1W2-Ta">
@@ -518,8 +518,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>

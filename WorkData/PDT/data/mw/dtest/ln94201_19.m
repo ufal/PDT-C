@@ -439,7 +439,7 @@
 <LM>w#w-ln94201-19-p3s1w7</LM>
 </w.rf>
 <form>Vraného</form>
-<tag lemma="Vraný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vraný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-19-p3s1w8">
 <src.rf>manual</src.rf>
@@ -876,8 +876,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-19-p3s3w21">
@@ -1292,7 +1292,7 @@
 <LM>w#w-ln94201-19-p3s6w10</LM>
 </w.rf>
 <form>Jetmarová</form>
-<tag lemma="Jetmarová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jetmarová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-19-p3s6w11">
 <src.rf>manual</src.rf>

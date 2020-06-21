@@ -21,7 +21,7 @@
 <form>Andre</form>
 <tag>
 <AM lemma="Andre_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Andr_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Andr_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Andre_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Andre_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -32,7 +32,7 @@
 <LM>w#w-mf930701-115-p1s1w2</LM>
 </w.rf>
 <form>Agassi</form>
-<tag lemma="Agassi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Agassi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-115-p1s1w3">
 <src.rf>manual</src.rf>
@@ -84,7 +84,7 @@
 <LM>w#w-mf930701-115-p1s1w8</LM>
 </w.rf>
 <form>Samprase</form>
-<tag lemma="Sampras_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Sampras_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-115-p1s1w9">
 <src.rf>manual</src.rf>

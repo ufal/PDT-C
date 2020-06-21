@@ -59,7 +59,7 @@
 <LM>w#w-ln94202-133-p1s1w6</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-133-p1s1A">
@@ -143,7 +143,7 @@
 <LM>w#w-ln94202-133-p2s1Bw2</LM>
 </w.rf>
 <form>Gazdík</form>
-<tag lemma="Gazdík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gazdík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-133-p2s1C">
@@ -1391,8 +1391,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-133-p4s1w4">

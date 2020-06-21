@@ -35,7 +35,7 @@
 <LM>w#w-ln95040-016-p1s1w3</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-016-p1s1w4">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-ln95040-016-p2s1Bw1</LM>
 </w.rf>
 <form>Benešovy</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln95040-016-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95040-016-p2s1Bw10</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-016-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -258,8 +258,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-016-p2s2w4">
@@ -340,7 +340,7 @@
 <LM>w#w-ln95040-016-p2s2w13</LM>
 </w.rf>
 <form>Nutilová</form>
-<tag lemma="Nutilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nutilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-016-p2s2w14">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-ln95040-016-p4s1w6</LM>
 </w.rf>
 <form>Benešovy</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln95040-016-p4s1w7">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-ln95040-016-p4s1w14</LM>
 </w.rf>
 <form>Nutilové</form>
-<tag lemma="Nutilová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nutilová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-016-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1192,7 +1192,7 @@
 <LM>w#w-ln95040-016-p5s1w14</LM>
 </w.rf>
 <form>Grof</form>
-<tag lemma="Grof_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grof_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-016-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1282,7 +1282,7 @@
 <LM>w#w-ln95040-016-p5s2w10</LM>
 </w.rf>
 <form>Benešovy</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln95040-016-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-ln95040-016-p5s2w18</LM>
 </w.rf>
 <form>Němcům</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95040-016-p5s2w19">
 <src.rf>manual</src.rf>
@@ -1450,7 +1450,7 @@
 <LM>w#w-ln95040-016-p5s2w31</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-016-p5s2w32">
 <src.rf>manual</src.rf>

@@ -67,7 +67,7 @@
 <LM>w#w-lnd91303-014-p1s1w7</LM>
 </w.rf>
 <form>Kitovani</form>
-<tag lemma="Kitovani_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kitovani_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-014-p1s1w8">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 </w.rf>
 <form>Zviada</form>
 <tag>
-<AM lemma="Zviada_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zviada_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Zviad_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
@@ -174,7 +174,7 @@
 <LM>w#w-lnd91303-014-p1s1w20</LM>
 </w.rf>
 <form>Gamsachurdii</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-014-p1s1w21">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -245,7 +245,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -152,7 +152,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -316,7 +316,7 @@
 <LM>w#w-mf930713-049-p2s2w10</LM>
 </w.rf>
 <form>Zenkl</form>
-<tag lemma="Zenkl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zenkl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-049-p2s2w11">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf930713-049-p2s6w4</LM>
 </w.rf>
 <form>Zenkl</form>
-<tag lemma="Zenkl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zenkl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-049-p2s6w5">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-mf930713-049-p2s6w13</LM>
 </w.rf>
 <form>Klausův</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930713-049-p2s6w14">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-mf930713-049-p2s6w25</LM>
 </w.rf>
 <form>Pithartovy</form>
-<tag lemma="Pithartův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Pithartův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf930713-049-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1537,7 +1537,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-049-p2s11w2">
@@ -1554,7 +1554,7 @@
 <LM>w#w-mf930713-049-p2s11w3</LM>
 </w.rf>
 <form>Zenkl</form>
-<tag lemma="Zenkl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zenkl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-049-p2s11w4">
 <src.rf>manual</src.rf>

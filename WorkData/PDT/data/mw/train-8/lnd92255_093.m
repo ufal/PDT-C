@@ -54,8 +54,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-093-p2s1w3">
@@ -419,7 +419,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-093-p4s1w13">
@@ -436,7 +436,7 @@
 <LM>w#w-lnd92255-093-p4s1w14</LM>
 </w.rf>
 <form>Indrucha</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-093-p4s1w15">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-lnd92255-093-p4s1w17</LM>
 </w.rf>
 <form>Havlovi</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd92255-093-p4s1w18">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-lnd92255-093-p5s1w3</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-093-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1524,7 +1524,7 @@
 </w.rf>
 <form>LŽIČKA</form>
 <tag>
-<AM lemma="Lžička_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lžička_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="lžička" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

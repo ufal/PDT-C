@@ -109,7 +109,7 @@
 <LM>w#w-ln94207-110-p2s1w9</LM>
 </w.rf>
 <form>Pechatý</form>
-<tag lemma="Pechatý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pechatý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-110-p2s1w10">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 </w.rf>
 <form>André</form>
 <tag>
-<AM lemma="André_;Y" src="orig" selected="1">NNMSX-----A----</AM>
+<AM lemma="André_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="André_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="André_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -413,7 +413,7 @@
 <LM>w#w-ln94207-110-p3s2w9</LM>
 </w.rf>
 <form>Kertésze</form>
-<tag lemma="Kertész_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kertész_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-110-p3s2w10">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-ln94207-110-p3s3w6</LM>
 </w.rf>
 <form>Kotek</form>
-<tag lemma="Kotek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-110-p3s3w7">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln94207-110-p3s4w3</LM>
 </w.rf>
 <form>Kyndrovou</form>
-<tag lemma="Kyndrová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Kyndrová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-110-p3s4w4">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln94207-110-p3s4w11</LM>
 </w.rf>
 <form>Oujezdský</form>
-<tag lemma="Oujezdský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oujezdský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-110-p3s4w12">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>

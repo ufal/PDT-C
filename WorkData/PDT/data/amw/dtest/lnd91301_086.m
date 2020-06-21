@@ -31,7 +31,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-3_:B_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd91301-086-p1s1w3">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-lnd91301-086-p3s1w5</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-3_:B_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd91301-086-p3s1w6">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-lnd91301-086-p4s2w11</LM>
 </w.rf>
 <form>Pálffy</form>
-<tag lemma="Pálffy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pálffy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p4s2w12">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-lnd91301-086-p4s2w13</LM>
 </w.rf>
 <form>Meluzínem</form>
-<tag lemma="Meluzín_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Meluzín_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p4s2w14">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-lnd91301-086-p4s3w7</LM>
 </w.rf>
 <form>Kapanen</form>
-<tag lemma="Kapanen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kapanen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p4s3w8">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <form>Hnilička</form>
 <tag>
 <AM lemma="hnilička" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hnilička_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hnilička_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-086-p4s3w10">
@@ -929,7 +929,7 @@
 <LM>w#w-lnd91301-086-p4s4w16</LM>
 </w.rf>
 <form>Pálffy</form>
-<tag lemma="Pálffy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pálffy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p4s4w17">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-lnd91301-086-p4s4w18</LM>
 </w.rf>
 <form>Meluzín</form>
-<tag lemma="Meluzín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meluzín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p4s4w19">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-lnd91301-086-p4s4w20</LM>
 </w.rf>
 <form>Droppa</form>
-<tag lemma="Droppa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Droppa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p4s4w21">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-lnd91301-086-p4s5w7</LM>
 </w.rf>
 <form>Tuomainen</form>
-<tag lemma="Tuomainen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tuomainen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p4s5w8">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <form>Hniličky</form>
 <tag>
 <AM lemma="hnilička" src="orig">NNFS2-----A----</AM>
-<AM lemma="Hnilička_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hnilička_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-086-p4s5w13">
@@ -1435,7 +1435,7 @@
 <LM>w#w-lnd91301-086-p5s1w6</LM>
 </w.rf>
 <form>Pálffy</form>
-<tag lemma="Pálffy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pálffy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1607,7 +1607,7 @@
 <form>Meluzína</form>
 <tag>
 <AM lemma="meluzína" src="orig">NNFS1-----A----</AM>
-<AM lemma="Meluzín_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Meluzín_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-086-p5s2w5">
@@ -1626,7 +1626,7 @@
 <form>Zadiny</form>
 <tag>
 <AM lemma="zadina" src="orig">NNFS2-----A----</AM>
-<AM lemma="Zadina_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Zadina_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-086-p5s2w7">
@@ -1643,7 +1643,7 @@
 <LM>w#w-lnd91301-086-p5s2w8</LM>
 </w.rf>
 <form>Pálffyho</form>
-<tag lemma="Pálffy_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pálffy_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p5s2w9">
 <src.rf>manual</src.rf>
@@ -1758,7 +1758,7 @@
 <LM>w#w-lnd91301-086-p5s2w22</LM>
 </w.rf>
 <form>Kujvalainenovi</form>
-<tag lemma="Kujvalainen_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kujvalainen_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p5s2w23">
 <src.rf>manual</src.rf>

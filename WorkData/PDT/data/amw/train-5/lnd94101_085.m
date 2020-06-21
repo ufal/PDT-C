@@ -19,7 +19,7 @@
 <LM>w#w-lnd94101-085-p1s1w1</LM>
 </w.rf>
 <form>Wasmeier</form>
-<tag lemma="Wasmeier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wasmeier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-085-p1s1w2">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-lnd94101-085-p1s3w7</LM>
 </w.rf>
 <form>Wasmeier</form>
-<tag lemma="Wasmeier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wasmeier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-085-p1s3w8">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 </w.rf>
 <form>ZOH</form>
 <tag>
-<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

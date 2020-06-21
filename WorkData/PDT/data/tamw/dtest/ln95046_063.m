@@ -60,8 +60,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -323,8 +323,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-063-p2s1Bw31">
@@ -389,7 +389,7 @@
 <LM>w#w-ln95046-063-p2s1Bw38</LM>
 </w.rf>
 <form>Arsenis</form>
-<tag lemma="Arsenis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arsenis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -537,8 +537,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-063-p2s2w17">
@@ -814,7 +814,7 @@
 <LM>w#w-ln95046-063-p2s2w50</LM>
 </w.rf>
 <form>Arsenis</form>
-<tag lemma="Arsenis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arsenis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s2w51">
 <src.rf>manual</src.rf>
@@ -936,7 +936,7 @@
 <LM>w#w-ln95046-063-p2s3w6</LM>
 </w.rf>
 <form>Arsenise</form>
-<tag lemma="Arsenis_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Arsenis_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s3w7">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-ln95046-063-p2s3w11</LM>
 </w.rf>
 <form>Želev</form>
-<tag lemma="Želev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Želev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-063-p2s3w12">
 <src.rf>manual</src.rf>

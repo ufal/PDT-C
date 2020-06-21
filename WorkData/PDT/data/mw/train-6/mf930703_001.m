@@ -20,7 +20,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -84,9 +84,9 @@
 </w.rf>
 <form>tk</form>
 <tag>
-<AM lemma="tk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="tk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-001-p2s1w4">
@@ -269,7 +269,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -287,7 +287,7 @@
 <LM>w#w-mf930703-001-p2s2w9</LM>
 </w.rf>
 <form>Kudláček</form>
-<tag lemma="Kudláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kudláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-001-p2s2w10">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-mf930703-001-p2s3w9</LM>
 </w.rf>
 <form>Dlouhého</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-001-p2s3w10">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-mf930703-001-p2s3w12</LM>
 </w.rf>
 <form>Skalického</form>
-<tag lemma="Skalický_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Skalický_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-001-p2s3w13">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-mf930703-001-p2s3w15</LM>
 </w.rf>
 <form>Kalvodu</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-001-p2s3w16">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-mf930703-001-p2s5w17</LM>
 </w.rf>
 <form>Kudláček</form>
-<tag lemma="Kudláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kudláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-001-p2s5w18">
 <src.rf>manual</src.rf>

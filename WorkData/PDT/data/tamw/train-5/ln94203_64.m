@@ -87,8 +87,8 @@
 </w.rf>
 <form>Hamasu</form>
 <tag>
-<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS2-----A----</AM>
-<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -486,7 +486,7 @@
 <LM>w#w-ln94203-64-p3s1w7</LM>
 </w.rf>
 <form>Gazit</form>
-<tag lemma="Gazit_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gazit_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-64-p3s1w8">
 <src.rf>manual</src.rf>
@@ -631,8 +631,8 @@
 </w.rf>
 <form>Zijádovi</form>
 <tag>
-<AM lemma="Zijád_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Zijád_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Zijád_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Zijád_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-64-p3s1w26">
@@ -641,7 +641,7 @@
 <LM>w#w-ln94203-64-p3s1w26</LM>
 </w.rf>
 <form>Atrašovi</form>
-<tag lemma="Atraš_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Atraš_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-64-p3s1w27">
 <src.rf>manual</src.rf>
@@ -716,8 +716,8 @@
 </w.rf>
 <form>Hamas</form>
 <tag>
-<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-64-p3s2w9">

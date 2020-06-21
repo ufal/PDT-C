@@ -101,7 +101,7 @@
 <LM>w#w-ln94208-83-p2s1Aw2</LM>
 </w.rf>
 <form>Jakeš</form>
-<tag lemma="Jakeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jakeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-83-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -158,8 +158,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -3003,7 +3003,7 @@
 <LM>w#w-ln94208-83-p5s7w6</LM>
 </w.rf>
 <form>schools</form>
-<tag lemma="schools_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag lemma="schools_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-83-p5s7w7">
 <src.rf>manual</src.rf>
@@ -3107,7 +3107,7 @@
 <LM>w#w-ln94208-83-p5s7w19</LM>
 </w.rf>
 <form>schools</form>
-<tag lemma="schools_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag lemma="schools_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-83-p5s7w20">
 <src.rf>manual</src.rf>
@@ -3197,7 +3197,7 @@
 <LM>w#w-ln94208-83-p5s8w3</LM>
 </w.rf>
 <form>schools</form>
-<tag lemma="schools_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag lemma="schools_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-83-p5s8w4">
 <src.rf>manual</src.rf>
@@ -4329,7 +4329,7 @@
 <LM>w#w-ln94208-83-p8s1w3</LM>
 </w.rf>
 <form>schools</form>
-<tag lemma="schools_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag lemma="schools_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-83-p8s1w4">
 <src.rf>manual</src.rf>

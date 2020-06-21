@@ -64,7 +64,7 @@
 <LM>w#w-lnd92256-003-p2s1w1</LM>
 </w.rf>
 <form>Bothovo</form>
-<tag lemma="Bothův_;S_;Y_^(*2a)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Bothův_;Y_^(*2a)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd92256-003-p2s1w2">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-lnd92256-003-p3s2w6</LM>
 </w.rf>
 <form>Botha</form>
-<tag lemma="Botha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Botha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-003-p3s2w7">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 </w.rf>
 <form>Nation</form>
 <tag>
-<AM lemma="Nation_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nation_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nation-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -456,7 +456,7 @@
 <LM>w#w-lnd92256-003-p3s3w21</LM>
 </w.rf>
 <form>Santose</form>
-<tag lemma="Santos_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Santos_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w22">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -770,7 +770,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -855,7 +855,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

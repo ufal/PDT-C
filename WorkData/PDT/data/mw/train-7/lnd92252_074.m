@@ -183,7 +183,7 @@
 <LM>w#w-lnd92252-074-p3s1w16</LM>
 </w.rf>
 <form>Patočky</form>
-<tag lemma="Patočka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Patočka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-074-p3s1w17">
 <src.rf>manual</src.rf>
@@ -4271,7 +4271,7 @@
 <LM>w#w-lnd92252-074-p11s1w2</LM>
 </w.rf>
 <form>PŘÍHODA</form>
-<tag lemma="Příhoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Příhoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

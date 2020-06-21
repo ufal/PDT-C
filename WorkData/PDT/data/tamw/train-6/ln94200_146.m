@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-146-p1s1w1</LM>
 </w.rf>
 <form>Lewis</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lewis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-146-p1s1w2">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln94200-146-p2s1Bw8</LM>
 </w.rf>
 <form>Lewis</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lewis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-146-p2s1Bw9">
 <src.rf>manual</src.rf>

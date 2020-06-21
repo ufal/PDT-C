@@ -125,7 +125,7 @@
 <LM>w#w-mf930701-085-p2s1w4</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="lík-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930701-085-p2s1w5">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-mf930701-085-p2s2w12</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930701-085-p2s2w13">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 </w.rf>
 <form>Frontier</form>
 <tag>
-<AM lemma="Frontier_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Frontier_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="frontier_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="frontier_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="Frontier-77" src="manual" selected="1">F%-------------</AM>
@@ -1166,9 +1166,9 @@
 </w.rf>
 <form>Bi</form>
 <tag>
-<AM lemma="Bi_:B_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Bi_:B_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Bi_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="bismut_:B_;H" src="auto">NNIXX-----A---8</AM>
+<AM lemma="bismut_:B_;U" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Bi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1395,7 +1395,7 @@
 <LM>w#w-mf930701-085-p3s6w22</LM>
 </w.rf>
 <form>Karya</form>
-<tag lemma="Karya_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Karya_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-085-p3s6w23">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 <LM>w#w-mf930701-085-p3s7w10</LM>
 </w.rf>
 <form>Murrain</form>
-<tag lemma="Murrain_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Murrain_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-085-p3s7w11">
 <src.rf>manual</src.rf>

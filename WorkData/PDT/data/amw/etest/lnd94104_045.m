@@ -54,7 +54,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -138,7 +138,7 @@
 <LM>w#w-lnd94104-045-p1s2w3</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="haš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-045-p1s2w4">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -337,7 +337,7 @@
 <LM>w#w-lnd94104-045-p1s4w7</LM>
 </w.rf>
 <form>Petrová</form>
-<tag lemma="Petrová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Petrová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-045-p1s4w8">
 <src.rf>manual</src.rf>
@@ -362,8 +362,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94104-045-p1s4w11">
@@ -388,7 +388,7 @@
 <LM>w#w-lnd94104-045-p1s4w13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd94104-045-p1s4w14">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -483,7 +483,7 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -502,7 +502,7 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -521,7 +521,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -907,7 +907,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1047,7 +1047,7 @@
 <LM>w#w-lnd94104-045-p1s6Bw5</LM>
 </w.rf>
 <form>Petrové</form>
-<tag lemma="Petrová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Petrová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-045-p1s6Bw6">
 <src.rf>manual</src.rf>
@@ -1275,7 +1275,7 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1286,7 +1286,7 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1304,7 +1304,7 @@
 <LM>w#w-lnd94104-045-p1s7w10</LM>
 </w.rf>
 <form>Kasala</form>
-<tag lemma="Kasal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kasal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-045-p1s7w11">
 <src.rf>manual</src.rf>
@@ -1444,7 +1444,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1769,7 +1769,7 @@
 <LM>w#w-lnd94104-045-p1s8w10</LM>
 </w.rf>
 <form>Petrové</form>
-<tag lemma="Petrová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Petrová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-045-p1s8w11">
 <src.rf>manual</src.rf>
@@ -2038,7 +2038,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

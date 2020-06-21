@@ -830,7 +830,7 @@
 </w.rf>
 <form>tubes</form>
 <tag>
-<AM lemma="tube_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="tube_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="tubes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -892,7 +892,7 @@
 </w.rf>
 <form>cylindres</form>
 <tag>
-<AM lemma="cylindre_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="cylindre_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="cylindres-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1391,7 +1391,7 @@
 </w.rf>
 <form>Dekostoffen</form>
 <tag>
-<AM lemma="Dekostoffe_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Dekostoffe_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Dekostoffen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1413,7 +1413,7 @@
 </w.rf>
 <form>Gardinen</form>
 <tag>
-<AM lemma="Gardine_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Gardine_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Gardinen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

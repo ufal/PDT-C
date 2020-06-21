@@ -165,7 +165,7 @@
 <LM>w#w-lnd92259-098-p2s1w15</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-098-p2s1w16">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-lnd92259-098-p2s1w17</LM>
 </w.rf>
 <form>Lacina</form>
-<tag lemma="Lacina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lacina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-098-p2s1w18">
 <src.rf>manual</src.rf>
@@ -633,11 +633,11 @@
 </w.rf>
 <form>mel</form>
 <tag>
-<AM lemma="mel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mel-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mel-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-098-p3s1w3">

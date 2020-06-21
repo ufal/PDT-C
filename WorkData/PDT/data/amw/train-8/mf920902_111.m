@@ -70,8 +70,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-111-p2s1w4">
@@ -315,7 +315,7 @@
 </w.rf>
 <form>Academy</form>
 <tag>
-<AM lemma="Academy_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Academy_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Academy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -337,7 +337,7 @@
 </w.rf>
 <form>cathering</form>
 <tag>
-<AM lemma="cathering_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="cathering_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="cathering-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -359,7 +359,7 @@
 </w.rf>
 <form>tourism</form>
 <tag>
-<AM lemma="tourism_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="tourism_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="tourism-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

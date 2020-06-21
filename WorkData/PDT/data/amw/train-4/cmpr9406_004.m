@@ -93,7 +93,7 @@
 <LM>w#w-cmpr9406-004-p3s1w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-004-p3s1w3">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-cmpr9406-004-p5s1w5</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-004-p5s1w6">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-cmpr9406-004-p6s1w24</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-004-p6s1w25">
 <src.rf>manual</src.rf>
@@ -1761,7 +1761,7 @@
 <form>Vlček</form>
 <tag>
 <AM lemma="vlček" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vlček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vlček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-004-p8s1w3">
@@ -3904,7 +3904,7 @@
 <LM>w#w-cmpr9406-004-p11s1w2</LM>
 </w.rf>
 <form>Zuda</form>
-<tag lemma="Zuda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zuda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-004-p11s1w3">
 <src.rf>manual</src.rf>

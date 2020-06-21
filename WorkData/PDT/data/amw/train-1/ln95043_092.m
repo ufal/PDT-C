@@ -203,7 +203,7 @@
 </w.rf>
 <form>Bermuda</form>
 <tag>
-<AM lemma="Bermuda_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Bermuda_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Bermuda_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Bermuda_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Bermuda-77" src="manual" selected="1">F%-------------</AM>
@@ -216,8 +216,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -229,7 +229,7 @@
 </w.rf>
 <form>Business</form>
 <tag>
-<AM lemma="Business_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Business_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="business_,t" src="manual">NNXXX-----A----</AM>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>Association</form>
 <tag>
-<AM lemma="Association_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Association_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="association_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Association-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -263,7 +263,7 @@
 </w.rf>
 <form>BIBA</form>
 <tag>
-<AM lemma="BIBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIBA_:B_;m_,t_^(Bermuda_International_Bussiness_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BIBA_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="BIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -766,7 +766,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

@@ -135,7 +135,7 @@
 <LM>w#w-ln95049-113-p2s1Bw5</LM>
 </w.rf>
 <form>Bursík</form>
-<tag lemma="Bursík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bursík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-113-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="orig">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -328,10 +328,10 @@
 </w.rf>
 <form>HYPO</form>
 <tag>
-<AM lemma="Hypo_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hypo_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Hypo_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Hypo_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto">A2--------A----</AM>
 </tag>
@@ -379,10 +379,10 @@
 </w.rf>
 <form>Hypo</form>
 <tag>
-<AM lemma="Hypo_;K_,t" src="orig">A2--------A----</AM>
-<AM lemma="Hypo_;K" src="auto" selected="1">NNNS1-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Hypo_;m_,t" src="orig">A2--------A----</AM>
+<AM lemma="Hypo_;m" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto" recommended="1">A2--------A----</AM>
 </tag>
@@ -721,10 +721,10 @@
 </w.rf>
 <form>Hypo</form>
 <tag>
-<AM lemma="Hypo_;K_,t" src="orig">A2--------A----</AM>
-<AM lemma="Hypo_;K" src="auto" selected="1">NNNS1-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Hypo_;m_,t" src="orig">A2--------A----</AM>
+<AM lemma="Hypo_;m" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto" recommended="1">A2--------A----</AM>
 </tag>
@@ -1479,10 +1479,10 @@
 </w.rf>
 <form>Hypo</form>
 <tag>
-<AM lemma="Hypo_;K_,t" src="orig">A2--------A----</AM>
-<AM lemma="Hypo_;K" src="auto" selected="1">NNNS1-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Hypo_;m_,t" src="orig">A2--------A----</AM>
+<AM lemma="Hypo_;m" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto" recommended="1">A2--------A----</AM>
 </tag>
@@ -1643,7 +1643,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-113-p4s4w2">
@@ -1660,7 +1660,7 @@
 <LM>w#w-ln95049-113-p4s4w3</LM>
 </w.rf>
 <form>Bursík</form>
-<tag lemma="Bursík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bursík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-113-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1749,7 +1749,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1760,7 +1760,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1813,7 +1813,7 @@
 <LM>w#w-ln95049-113-p4s4w21</LM>
 </w.rf>
 <form>Alšově</form>
-<tag lemma="Alšův-2_;S_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
+<tag lemma="Alšův-2_;Y_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95049-113-p4s4w22">
 <src.rf>manual</src.rf>

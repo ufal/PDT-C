@@ -656,10 +656,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd92255-082-p5s1w25</LM>
 </w.rf>
 <form>Kozák</form>
-<tag lemma="Kozák_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozák_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-082-p5s1w26">
 <src.rf>manual</src.rf>
@@ -2041,7 +2041,7 @@
 <LM>w#w-lnd92255-082-p6s6w18</LM>
 </w.rf>
 <form>Andresová</form>
-<tag lemma="Andresová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Andresová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-082-p6s6w19">
 <src.rf>manual</src.rf>
@@ -3517,7 +3517,7 @@
 <LM>w#w-lnd92255-082-p7s3w4</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd92255-082-p7s3w5">
 <src.rf>manual</src.rf>
@@ -6008,9 +6008,9 @@
 <form>Nicoláse</form>
 <tag>
 <AM lemma="Nicolás_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nicolás_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Nicolás_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Nicolás_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Nicolás_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Nicolás_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nicolás_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-082-p8s1w10">
@@ -6019,7 +6019,7 @@
 <LM>w#w-lnd92255-082-p8s1w10</LM>
 </w.rf>
 <form>Sáncheze</form>
-<tag lemma="Sánchez_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sánchez_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-082-p8s1w11">
 <src.rf>manual</src.rf>
@@ -6418,7 +6418,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-082-p9s1w2">
@@ -6435,7 +6435,7 @@
 <LM>w#w-lnd92255-082-p9s1w3</LM>
 </w.rf>
 <form>Andersová</form>
-<tag lemma="Andersová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Andersová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-082-p9s1w4">
 <src.rf>manual</src.rf>
@@ -7357,7 +7357,7 @@
 <LM>w#w-lnd92255-082-p11s1w2</LM>
 </w.rf>
 <form>KVAČKOVÁ</form>
-<tag lemma="Kvačková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kvačková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

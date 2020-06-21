@@ -54,7 +54,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -173,7 +173,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-041-p2s2w13">
@@ -190,7 +190,7 @@
 <LM>w#w-lnd92258-041-p2s2w14</LM>
 </w.rf>
 <form>Piťhovi</form>
-<tag lemma="Piťha_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Piťha_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92258-041-p2s2w15">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-041-p2s2w25">
@@ -289,7 +289,7 @@
 <LM>w#w-lnd92258-041-p2s2w26</LM>
 </w.rf>
 <form>Buriánka</form>
-<tag lemma="Buriánek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Buriánek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-041-p2s2w27">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-041-p2s4w13">
@@ -654,7 +654,7 @@
 <LM>w#w-lnd92258-041-p2s4w14</LM>
 </w.rf>
 <form>Sumcová</form>
-<tag lemma="Sumcová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sumcová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-041-p2s4w15">
 <src.rf>manual</src.rf>

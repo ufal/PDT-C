@@ -85,7 +85,7 @@
 <LM>w#w-ln95045-017-p1s1w9</LM>
 </w.rf>
 <form>Walderodeho</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95045-017-p2s1A">
@@ -121,7 +121,7 @@
 <LM>w#w-ln95045-017-p2s1Bw2</LM>
 </w.rf>
 <form>Walderode</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -170,7 +170,7 @@
 </w.rf>
 <form>SDP</form>
 <tag>
-<AM lemma="SDP-1_:B_;K_,t_^(Social_Democratic_Party)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDP-1_:B_;m_,t_^(Social_Democratic_Party)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -311,7 +311,7 @@
 <LM>w#w-ln95045-017-p2s1Bw25</LM>
 </w.rf>
 <form>Kunetka</form>
-<tag lemma="Kunetka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunetka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 </w.rf>
 <form>Des</form>
 <tag>
-<AM lemma="Des_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Des_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="Des-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -427,7 +427,7 @@
 <LM>w#w-ln95045-017-p2s1Bw39</LM>
 </w.rf>
 <form>Fours</form>
-<tag lemma="Fours_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag lemma="Fours_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
 </m>
 <m id="m-ln95045-017-p2s1Bw40">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln95045-017-p2s1Bw40</LM>
 </w.rf>
 <form>Walderodemu</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95045-017-p2s1Bw41">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-ln95045-017-p2s2w1</LM>
 </w.rf>
 <form>Kunetka</form>
-<tag lemma="Kunetka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunetka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p2s2w2">
 <src.rf>manual</src.rf>
@@ -494,8 +494,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-017-p2s2w7">
@@ -584,7 +584,7 @@
 <LM>w#w-ln95045-017-p2s2w17</LM>
 </w.rf>
 <form>Walderode</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p2s2w18">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-ln95045-017-p2s2w19</LM>
 </w.rf>
 <form>Čechům</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95045-017-p2s2w20">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-ln95045-017-p3s1w1</LM>
 </w.rf>
 <form>Kunetka</form>
-<tag lemma="Kunetka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunetka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p3s1w2">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln95045-017-p3s1w13</LM>
 </w.rf>
 <form>Walderode</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p3s1w14">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 </w.rf>
 <form>SDP</form>
 <tag>
-<AM lemma="SDP-1_:B_;K_,t_^(Social_Democratic_Party)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDP-1_:B_;m_,t_^(Social_Democratic_Party)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -847,7 +847,7 @@
 <LM>w#w-ln95045-017-p3s2w9</LM>
 </w.rf>
 <form>Kunetka</form>
-<tag lemma="Kunetka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunetka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p3s2w10">
 <src.rf>manual</src.rf>
@@ -922,8 +922,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-017-p3s3w5">
@@ -932,7 +932,7 @@
 <LM>w#w-ln95045-017-p3s3w5</LM>
 </w.rf>
 <form>Walderode</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-ln95045-017-p3s5w1</LM>
 </w.rf>
 <form>Kunetka</form>
-<tag lemma="Kunetka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunetka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1296,7 +1296,7 @@
 <LM>w#w-ln95045-017-p3s5w15</LM>
 </w.rf>
 <form>Walderodeho</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-017-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-ln95045-017-p3s5w17</LM>
 </w.rf>
 <form>Čechům</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95045-017-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1492,7 +1492,7 @@
 <LM>w#w-ln95045-017-p4s1w4</LM>
 </w.rf>
 <form>Walderodeho</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-017-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <LM>w#w-ln95045-017-p4s1w8</LM>
 </w.rf>
 <form>Kolářová</form>
-<tag lemma="Kolářová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kolářová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-017-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1536,8 +1536,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-017-p4s1w10">

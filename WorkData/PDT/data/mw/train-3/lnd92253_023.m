@@ -45,7 +45,7 @@
 <LM>w#w-lnd92253-023-p2s1w2</LM>
 </w.rf>
 <form>SCHWARZENBERGA</form>
-<tag lemma="Schwarzenberg_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Schwarzenberg_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-023-p3s1">
@@ -634,10 +634,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -2339,9 +2339,9 @@
 <form>em</form>
 <tag>
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
-<AM lemma="em-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
-<AM lemma="em-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="em-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-023-p6s1w3">

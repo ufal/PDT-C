@@ -35,7 +35,7 @@
 <LM>w#w-ln95045-043-p1s1w3</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p1s1w4">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-ln95045-043-p2s1w16</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p2s1w17">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <LM>w#w-ln95045-043-p2s2w11</LM>
 </w.rf>
 <form>Sibelia</form>
-<tag lemma="Sibelius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sibelius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-043-p2s2w12">
 <src.rf>manual</src.rf>
@@ -334,8 +334,8 @@
 </w.rf>
 <form>Finlandia</form>
 <tag>
-<AM lemma="Finlandia_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Finlandia_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Finlandia_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Finlandia_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-043-p2s2w16">
@@ -426,7 +426,7 @@
 <LM>w#w-ln95045-043-p3s1w1</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p3s1w2">
 <src.rf>manual</src.rf>
@@ -701,10 +701,10 @@
 </w.rf>
 <form>Nippon</form>
 <tag>
-<AM lemma="Nippon-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nippon-2_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Nippon_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Nippon_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="nippon_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="nippon_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Nippon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -715,7 +715,7 @@
 </w.rf>
 <form>Philharmonic</form>
 <tag>
-<AM lemma="Philharmonic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Philharmonic_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Philharmonic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -726,7 +726,7 @@
 </w.rf>
 <form>Orchestra</form>
 <tag>
-<AM lemma="Orchestra_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Orchestra_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="orchestra" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Orchestra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1064,7 +1064,7 @@
 <LM>w#w-ln95045-043-p4s1w1</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p4s1w2">
 <src.rf>manual</src.rf>

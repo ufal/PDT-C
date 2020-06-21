@@ -334,8 +334,8 @@
 </w.rf>
 <form>Engl</form>
 <tag>
-<AM lemma="English_:B_;R_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Engl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="English_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Engl_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Engl-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -354,8 +354,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-039-p2s2w23">
@@ -373,8 +373,8 @@
 </w.rf>
 <form>Med</form>
 <tag>
-<AM lemma="Medicine_:B_;R_,t" src="orig">NNFSX-----A---8</AM>
-<AM lemma="Med_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Medicine_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Med_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Meda_;G_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="med" src="auto">NNIS1-----A----</AM>
 <AM lemma="med" src="auto">NNIS4-----A----</AM>
@@ -518,7 +518,7 @@
 <LM>w#w-vesm9211-039-p3s1w2</LM>
 </w.rf>
 <form>Schreiber</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

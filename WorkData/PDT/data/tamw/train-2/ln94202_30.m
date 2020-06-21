@@ -36,7 +36,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -58,7 +58,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -392,7 +392,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -636,7 +636,7 @@
 <LM>w#w-ln94202-30-p3s2w25</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94202-30-p3s2w26">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln94202-30-p4s3w13</LM>
 </w.rf>
 <form>Klepáč</form>
-<tag lemma="Klepáč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klepáč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-30-p4s3w14">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2121,7 +2121,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2611,7 +2611,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

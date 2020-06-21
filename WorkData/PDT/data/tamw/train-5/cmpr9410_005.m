@@ -323,7 +323,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2691,7 +2691,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-005-p11s1w2">
@@ -2709,8 +2709,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-005-p11s1w4">

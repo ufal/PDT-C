@@ -190,8 +190,8 @@
 </w.rf>
 <form>dan</form>
 <tag>
-<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dan-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-20-p2s1w17">
@@ -872,7 +872,7 @@
 </w.rf>
 <form>ČOI</form>
 <tag>
-<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -940,7 +940,7 @@
 <LM>w#w-ln94201-20-p4s1w4</LM>
 </w.rf>
 <form>Benedy</form>
-<tag lemma="Beneda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-20-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-20-p4s2w20">
@@ -1261,7 +1261,7 @@
 <LM>w#w-ln94201-20-p4s2w21</LM>
 </w.rf>
 <form>Beneda</form>
-<tag lemma="Beneda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-20-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1625,7 +1625,7 @@
 <LM>w#w-ln94201-20-p4s4w12</LM>
 </w.rf>
 <form>Benedy</form>
-<tag lemma="Beneda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-20-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1802,7 +1802,7 @@
 </w.rf>
 <form>ČOI</form>
 <tag>
-<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -4732,7 +4732,7 @@
 <LM>w#w-lnd92258-076-p70s1w1</LM>
 </w.rf>
 <form>Schumpeterova</form>
-<tag lemma="Schumpeterův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Schumpeterův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92258-076-p70s1w2">
 <src.rf>manual</src.rf>
@@ -4989,9 +4989,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p74s1w2">
@@ -5029,7 +5029,7 @@
 </w.rf>
 <form>Small</form>
 <tag>
-<AM lemma="Small_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Small_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Small-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -386,7 +386,7 @@
 <LM>w#w-mf920923-103-p2s2w28</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-103-p2s2w29">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-mf920923-103-p3s3w17</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-103-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1670,7 +1670,7 @@
 <LM>w#w-mf920923-103-p4s2w29</LM>
 </w.rf>
 <form>Brumlík</form>
-<tag lemma="Brumlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brumlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-103-p4s2w30">
 <src.rf>manual</src.rf>

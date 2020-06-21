@@ -78,7 +78,7 @@
 </w.rf>
 <form>VfB</form>
 <tag>
-<AM lemma="VfB_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VfB_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="VfB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -137,16 +137,16 @@
 </w.rf>
 <form>Kunovi</form>
 <tag>
-<AM lemma="Kuna_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Kun_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Kun_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Kuno-2_;S_^(muž)" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Kuno-2_;S_^(muž)" src="auto">NNMS6-----A----</AM>
-<AM lemma="Kunův-2_;S_^(muž)_(*4o-2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Kunův-2_;S_^(muž)_(*4o-2)" src="auto">AUMP5M---------</AM>
-<AM lemma="Kunův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Kunův_;S_^(*2)" src="auto">AUMP5M---------</AM>
-<AM lemma="Kuna_;S" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Kuna_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Kun_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Kun_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Kuno-2_;Y_^(muž)" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Kuno-2_;Y_^(muž)" src="auto">NNMS6-----A----</AM>
+<AM lemma="Kunův-2_;Y_^(muž)_(*4o-2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Kunův-2_;Y_^(muž)_(*4o-2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Kunův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Kunův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Kuna_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-116-p2s1w13">
@@ -215,7 +215,7 @@
 <LM>w#w-ln94210-116-p3s1w2</LM>
 </w.rf>
 <form>Suarez</form>
-<tag lemma="Suarez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suarez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-116-p3s1w3">
 <src.rf>manual</src.rf>
@@ -265,9 +265,9 @@
 <form>Albacete</form>
 <tag>
 <AM lemma="Albacete_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Albacete-1_;G_^(město_ve_Španělsku)" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
-<AM lemma="Albacete-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Albacete-2_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Albacete-1_;G_^(město_ve_Španělsku)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Albacete-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Albacete-2_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-116-p3s1w9">
@@ -397,7 +397,7 @@
 </w.rf>
 <form>Celtou</form>
 <tag>
-<AM lemma="Celta_;K" src="orig" selected="1">NNFS7-----A----</AM>
+<AM lemma="Celta_;m" src="orig" selected="1">NNFS7-----A----</AM>
 <AM lemma="celta" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>

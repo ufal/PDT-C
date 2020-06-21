@@ -350,7 +350,7 @@
 <LM>w#w-cmpr9413-005-p2s3w22</LM>
 </w.rf>
 <form>Koněvova</form>
-<tag lemma="Koněvův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Koněvův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9413-005-p2s3w23">
 <src.rf>manual</src.rf>
@@ -529,8 +529,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-005-p2s4w16">
@@ -1036,7 +1036,7 @@
 <LM>w#w-cmpr9413-005-p2s8w5</LM>
 </w.rf>
 <form>Kubín</form>
-<tag lemma="Kubín-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubín-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-005-p2s8w6">
 <src.rf>manual</src.rf>

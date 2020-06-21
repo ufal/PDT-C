@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-091-p1s1w2</LM>
 </w.rf>
 <form>Jašina</form>
-<tag lemma="Jašin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jašin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-091-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln95048-091-p1s1w4</LM>
 </w.rf>
 <form>Lindrose</form>
-<tag lemma="Lindros_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lindros_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-091-p2s1A">
@@ -53,7 +53,7 @@
 <LM>w#w-ln95048-091-p2s1Aw1</LM>
 </w.rf>
 <form>Klíma</form>
-<tag lemma="Klíma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klíma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -227,8 +227,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-091-p2s1Cw10">
@@ -365,7 +365,7 @@
 <LM>w#w-ln95048-091-p2s1Cw26</LM>
 </w.rf>
 <form>Fjodorov</form>
-<tag lemma="Fjodorov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fjodorov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-ln95048-091-p3s1w12</LM>
 </w.rf>
 <form>Pivoňka</form>
-<tag lemma="Pivoňka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pivoňka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p3s1w13">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-ln95048-091-p3s1w26</LM>
 </w.rf>
 <form>Christič</form>
-<tag lemma="Christič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Christič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p3s1w27">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-ln95048-091-p3s2w17</LM>
 </w.rf>
 <form>Bondra</form>
-<tag lemma="Bondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p3s2w18">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-ln95048-091-p3s3w6</LM>
 </w.rf>
 <form>Jašin</form>
-<tag lemma="Jašin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jašin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 </w.rf>
 <form>Flyers</form>
 <tag>
-<AM lemma="Flyers_;K_,t_^(sport._klub)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Flyers_;m_,t_^(sport._klub)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Flyers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1119,7 +1119,7 @@
 <LM>w#w-ln95048-091-p3s5w6</LM>
 </w.rf>
 <form>Lindros</form>
-<tag lemma="Lindros_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lindros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1252,7 +1252,7 @@
 <LM>w#w-ln95048-091-p4s1w10</LM>
 </w.rf>
 <form>Islanders</form>
-<tag lemma="Islanders_;K" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Islanders_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95048-091-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1396,7 +1396,7 @@
 <LM>w#w-ln95048-091-p4s1w28</LM>
 </w.rf>
 <form>Klíma</form>
-<tag lemma="Klíma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klíma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p4s1w29">
 <src.rf>manual</src.rf>

@@ -484,7 +484,7 @@
 </w.rf>
 <form>MŽP</form>
 <tag>
-<AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŽP_:B_;m_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -515,7 +515,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-005-p2s1w54">
@@ -532,7 +532,7 @@
 <LM>w#w-vesm9303-005-p2s1w55</LM>
 </w.rf>
 <form>Míchal</form>
-<tag lemma="Míchal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Míchal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-005-p2s1w56">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-vesm9303-005-p3s1w36</LM>
 </w.rf>
 <form>Leninovy</form>
-<tag lemma="Leninův-2_;S_^(*4-2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Leninův-2_;Y_^(*4-2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-005-p3s1w37">
 <src.rf>manual</src.rf>
@@ -957,8 +957,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-005-p3s1w46">
@@ -1443,7 +1443,7 @@
 <LM>w#w-vesm9303-005-p4s4w19</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-005-p4s4w20">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-vesm9303-005-p4s4w21</LM>
 </w.rf>
 <form>Urbanová</form>
-<tag lemma="Urbanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Urbanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-005-p4s4w22">
 <src.rf>manual</src.rf>
@@ -1854,7 +1854,7 @@
 <LM>w#w-vesm9303-005-p5s3w12</LM>
 </w.rf>
 <form>Nováková</form>
-<tag lemma="Nováková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nováková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-005-p5s3w13">
 <src.rf>manual</src.rf>
@@ -2350,7 +2350,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-005-p5s4Bw17">
@@ -2367,7 +2367,7 @@
 <LM>w#w-vesm9303-005-p5s4Bw18</LM>
 </w.rf>
 <form>Pfadenhauera</form>
-<tag lemma="Pfadenhauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pfadenhauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-005-p5s4Bw19">
 <src.rf>manual</src.rf>
@@ -3869,7 +3869,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -3965,7 +3965,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

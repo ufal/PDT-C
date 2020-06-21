@@ -61,12 +61,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
@@ -79,9 +79,9 @@
 <form>YALE</form>
 <tag>
 <AM lemma="Yale_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Yale_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Yale_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Yale_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Yale_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Yale_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Yale_;Y" src="auto">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0608-001-p1s0W6-Ta">
@@ -344,10 +344,10 @@
 </w.rf>
 <form>Wrightovi</form>
 <tag>
-<AM lemma="Wright_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Wright_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Wrightův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Wrightův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Wright_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Wright_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Wrightův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Wrightův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0608-001-p1s1W19-Ta">

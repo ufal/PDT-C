@@ -491,7 +491,7 @@
 <LM>w#w-ln95040-057-p2s3w6</LM>
 </w.rf>
 <form>Hladíka</form>
-<tag lemma="Hladík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hladík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-057-p2s3w7">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln95040-057-p2s3w24</LM>
 </w.rf>
 <form>Sursum</form>
-<tag lemma="Sursum_;K_;u" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sursum_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-057-p2s3w25">
 <src.rf>manual</src.rf>
@@ -1796,7 +1796,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-057-p4s3w21">
@@ -1813,7 +1813,7 @@
 <LM>w#w-ln95040-057-p4s3w22</LM>
 </w.rf>
 <form>Oharek</form>
-<tag lemma="Oharek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oharek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-057-p4s3w23">
 <src.rf>manual</src.rf>
@@ -1953,7 +1953,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-057-p4s4w12">
@@ -1970,7 +1970,7 @@
 <LM>w#w-ln95040-057-p4s4w13</LM>
 </w.rf>
 <form>Belcrediho</form>
-<tag lemma="Belcredi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Belcredi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-057-p4s4w14">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 <LM>w#w-ln95040-057-p5s1w8</LM>
 </w.rf>
 <form>Hladík</form>
-<tag lemma="Hladík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hladík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-057-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2648,7 +2648,7 @@
 </w.rf>
 <form>Rejčka</form>
 <tag>
-<AM lemma="Rejčka_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Rejčka_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Rejčka_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2716,7 +2716,7 @@
 <LM>w#w-ln95040-057-p5s6w2</LM>
 </w.rf>
 <form>Hladíkovi</form>
-<tag lemma="Hladík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hladík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95040-057-p5s6w3">
 <src.rf>manual</src.rf>

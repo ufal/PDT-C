@@ -404,7 +404,7 @@
 <LM>w#w-lnd94104-004-p1s4w9</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-004-p1s4w10">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-lnd94104-004-p1s7Bw8</LM>
 </w.rf>
 <form>Vondrových</form>
-<tag lemma="Vondrová_;S" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Vondrová_;Y" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94104-004-p1s7Bw9">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-lnd94104-004-p1s8w19</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-004-p1s8w20">
 <src.rf>manual</src.rf>

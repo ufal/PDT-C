@@ -1751,7 +1751,7 @@
 <LM>w#w-lnd92255-096-p4s1w2</LM>
 </w.rf>
 <form>SVOBODA</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-096-p4s1w3">
 <src.rf>manual</src.rf>

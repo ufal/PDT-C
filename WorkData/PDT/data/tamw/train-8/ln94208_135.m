@@ -51,7 +51,7 @@
 <LM>w#w-ln94208-135-p1s1w5</LM>
 </w.rf>
 <form>Venclíka</form>
-<tag lemma="Venclík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Venclík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-135-p2s1A">
@@ -294,7 +294,7 @@
 <LM>w#w-ln94208-135-p2s1Cw15</LM>
 </w.rf>
 <form>Venclíka</form>
-<tag lemma="Venclík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Venclík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-135-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-135-p3s4w23">
@@ -978,7 +978,7 @@
 <LM>w#w-ln94208-135-p3s4w24</LM>
 </w.rf>
 <form>Venclíka</form>
-<tag lemma="Venclík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Venclík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-135-p3s4w25">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln94208-135-p3s4w33</LM>
 </w.rf>
 <form>Čepelu</form>
-<tag lemma="Čepela_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Čepela_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-135-p3s4w34">
 <src.rf>manual</src.rf>
@@ -1099,7 +1099,7 @@
 </w.rf>
 <form>skinheads</form>
 <tag>
-<AM lemma="skinheads" src="orig">NNMPX-----A----</AM>
+<AM lemma="skinheads" src="orig">NNMXX-----A----</AM>
 <AM lemma="skinheads_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="skinheads-77" src="manual" selected="1">F%-------------</AM>
 </tag>

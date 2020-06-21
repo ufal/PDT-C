@@ -217,7 +217,7 @@
 <LM>w#w-ln95048-077-p2s2w3</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-077-p2s2w4">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-ln95048-077-p2s2w7</LM>
 </w.rf>
 <form>Terazkyho</form>
-<tag lemma="Terazky_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Terazky_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-077-p2s2w8">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <form>Majora</form>
 <tag>
 <AM lemma="major" src="orig">NNMS4-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-077-p2s2w14">
@@ -340,7 +340,7 @@
 <LM>w#w-ln95048-077-p2s2w18</LM>
 </w.rf>
 <form>Gagarina</form>
-<tag lemma="Gagarin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gagarin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-077-p2s2w19">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-ln95048-077-p2s3w2</LM>
 </w.rf>
 <form>Minařík</form>
-<tag lemma="Minařík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Minařík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-077-p2s3w3">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-ln95048-077-p2s4w6</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-077-p2s4w7">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-ln95048-077-p2s5w5</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-077-p2s5w6">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-ln95048-077-p2s5w10</LM>
 </w.rf>
 <form>Zemanem</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-077-p2s5w11">
 <src.rf>manual</src.rf>

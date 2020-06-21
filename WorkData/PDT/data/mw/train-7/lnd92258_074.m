@@ -142,10 +142,10 @@
 </w.rf>
 <form>City</form>
 <tag>
-<AM lemma="City_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="City_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -729,7 +729,7 @@
 <LM>w#w-lnd92258-074-p2s6w5</LM>
 </w.rf>
 <form>Cityrama</form>
-<tag lemma="Cityrama_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cityrama_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-074-p2s6w6">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 </w.rf>
 <form>Wien</form>
 <tag>
-<AM lemma="Wien_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Wien_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Wien_;G" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Wien_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>

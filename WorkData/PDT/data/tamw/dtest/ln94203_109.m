@@ -73,7 +73,7 @@
 <LM>w#w-ln94203-109-p2s1w6</LM>
 </w.rf>
 <form>Kysilka</form>
-<tag lemma="Kysilka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kysilka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-109-p2s1w7">
 <src.rf>manual</src.rf>
@@ -89,7 +89,7 @@
 <LM>w#w-ln94203-109-p2s1w8</LM>
 </w.rf>
 <form>Štencl</form>
-<tag lemma="Štencl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štencl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-109-p2s1w9">
 <src.rf>manual</src.rf>
@@ -121,7 +121,7 @@
 <LM>w#w-ln94203-109-p2s1w12</LM>
 </w.rf>
 <form>Lacina</form>
-<tag lemma="Lacina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lacina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-109-p2s1w13">
 <src.rf>manual</src.rf>
@@ -332,9 +332,9 @@
 </w.rf>
 <form>Kiraly</form>
 <tag>
-<AM lemma="Kiraly_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Kiral_;S" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="Kiral_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Kiraly_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kiral_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Kiral_;Y" src="auto">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-109-p3s1w4">
@@ -351,7 +351,7 @@
 <LM>w#w-ln94203-109-p3s1w5</LM>
 </w.rf>
 <form>Steffensemse</form>
-<tag lemma="Steffensemse_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steffensemse_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-109-p3s1w6">
 <src.rf>manual</src.rf>
@@ -443,7 +443,7 @@
 </w.rf>
 <form>AVP</form>
 <tag>
-<AM lemma="AVP_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AVP_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AVP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -519,7 +519,7 @@
 <LM>w#w-ln94203-109-p3s2w8</LM>
 </w.rf>
 <form>Loiola</form>
-<tag lemma="Loiola_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loiola_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-109-p3s2w9">
 <src.rf>manual</src.rf>

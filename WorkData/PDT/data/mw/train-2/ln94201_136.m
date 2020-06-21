@@ -61,7 +61,7 @@
 <LM>w#w-ln94201-136-p2s1w2</LM>
 </w.rf>
 <form>Lér</form>
-<tag lemma="Lér_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lér_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-136-p2s1w3">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 </w.rf>
 <form>Nordwestdeutsche</form>
 <tag>
-<AM lemma="Nordwestdeutsche_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nordwestdeutsche_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Nordwestdeutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -807,7 +807,7 @@
 </w.rf>
 <form>Klassenloterie</form>
 <tag>
-<AM lemma="Klassenloterie_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Klassenloterie_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Klassenloterie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1655,7 +1655,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1841,7 +1841,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2024,7 +2024,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

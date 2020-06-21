@@ -47,7 +47,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hanák_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -536,7 +536,7 @@
 <LM>w#w-lnd94105-120-p1s4w21</LM>
 </w.rf>
 <form>Beneše</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-120-p1s4w22">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-lnd94105-120-p1s6w1</LM>
 </w.rf>
 <form>Rybalkovovy</form>
-<tag lemma="Rybalkovův_;S_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Rybalkovův_;Y_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-lnd94105-120-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1821,7 +1821,7 @@
 <LM>w#w-lnd94105-120-p1s13w2</LM>
 </w.rf>
 <form>Beneš</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-120-p1s13w3">
 <src.rf>manual</src.rf>
@@ -2221,7 +2221,7 @@
 <LM>w#w-lnd94105-120-p1s18w7</LM>
 </w.rf>
 <form>Gaulle</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-120-p1s18w8">
 <src.rf>manual</src.rf>
@@ -3428,7 +3428,7 @@
 <LM>w#w-lnd94105-120-p1s28Aw7</LM>
 </w.rf>
 <form>Zorina</form>
-<tag lemma="Zorin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zorin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-120-p1s28Aw8">
 <src.rf>manual</src.rf>
@@ -3564,7 +3564,7 @@
 <LM>w#w-lnd94105-120-p1s28Aw24</LM>
 </w.rf>
 <form>Beneš</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-120-p1s28Aw25">
 <src.rf>manual</src.rf>
@@ -3890,7 +3890,7 @@
 <LM>w#w-lnd94105-120-p1s28Bw18</LM>
 </w.rf>
 <form>Benešem</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-120-p1s28Bw19">
 <src.rf>manual</src.rf>

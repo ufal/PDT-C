@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-040-p1s1w1</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-040-p1s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-lnd94103-040-p1s2w3</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="haš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-040-p1s2w4">
 <src.rf>manual</src.rf>
@@ -362,8 +362,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-040-p1s4w3">
@@ -453,7 +453,7 @@
 </w.rf>
 <form>RB</form>
 <tag>
-<AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RB_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -471,7 +471,7 @@
 <LM>w#w-lnd94103-040-p1s4w15</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-040-p1s4w16">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 </w.rf>
 <form>RB</form>
 <tag>
-<AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RB_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -731,7 +731,7 @@
 <LM>w#w-lnd94103-040-p1s7w7</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-040-p1s7w8">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 </w.rf>
 <form>RB</form>
 <tag>
-<AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RB_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1066,7 +1066,7 @@
 <LM>w#w-lnd94103-040-p1s9w8</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-040-p1s9w9">
 <src.rf>manual</src.rf>

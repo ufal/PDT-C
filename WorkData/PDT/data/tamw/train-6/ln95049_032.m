@@ -43,7 +43,7 @@
 <LM>w#w-ln95049-032-p1s1w4</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-032-p1s1w5">
 <src.rf>manual</src.rf>
@@ -100,8 +100,8 @@
 </w.rf>
 <form>Dereka</form>
 <tag>
-<AM lemma="Derek_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Derek_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Derek_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Derek_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-032-p1s1w12">
@@ -110,7 +110,7 @@
 <LM>w#w-ln95049-032-p1s1w12</LM>
 </w.rf>
 <form>Kinga</form>
-<tag lemma="King_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="King_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-032-p1s1w13">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 </w.rf>
 <form>Islanders</form>
 <tag>
-<AM lemma="Islanders_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="Islanders_;m" src="auto">NNXXX-----A----</AM>
 <AM lemma="Islanders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

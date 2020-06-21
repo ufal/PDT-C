@@ -142,8 +142,8 @@
 </w.rf>
 <form>jem</form>
 <tag>
-<AM lemma="jem-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jem-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jem-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jem-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-160-p2s1w6">
@@ -161,8 +161,8 @@
 </w.rf>
 <form>em</form>
 <tag>
-<AM lemma="em-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="em-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="em-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-160-p2s1w8">
@@ -180,8 +180,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-160-p2s1w10">
@@ -1171,7 +1171,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-160-p3s1w8">
@@ -1190,7 +1190,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bachmeiera</form>
-<tag lemma="Bachmeier_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bachmeier_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-160-p3s1w10">
 <src.rf>manual</src.rf>

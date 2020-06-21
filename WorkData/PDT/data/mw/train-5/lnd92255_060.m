@@ -84,8 +84,8 @@
 <form>MORESBY</form>
 <tag>
 <AM lemma="Moresby_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Moresby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Moresby_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Moresby_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Moresby_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="MORESBY-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -159,7 +159,7 @@
 <LM>w#w-lnd92255-060-p3s2w7</LM>
 </w.rf>
 <form>Wingti</form>
-<tag lemma="Wingti_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wingti_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-060-p3s2w8">
 <src.rf>manual</src.rf>
@@ -274,8 +274,8 @@
 <tag>
 <AM lemma="Bougainville_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Bougainville-1_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
-<AM lemma="Bougainville-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bougainville-2_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Bougainville-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bougainville-2_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s2w22">
@@ -456,7 +456,7 @@
 <form>Port</form>
 <tag>
 <AM lemma="Port_;G_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Port_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Port_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="port" src="auto">NNIS1-----A----</AM>
 <AM lemma="port" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
@@ -472,8 +472,8 @@
 <form>Moresby</form>
 <tag>
 <AM lemma="Moresby_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Moresby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Moresby_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Moresby_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Moresby_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Moresby-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

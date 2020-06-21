@@ -1950,7 +1950,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1962,7 +1962,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-004-p6s1w9">
@@ -1979,7 +1979,7 @@
 <LM>w#w-ln95040-004-p6s1w10</LM>
 </w.rf>
 <form>Vavrdová</form>
-<tag lemma="Vavrdová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vavrdová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-004-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1996,8 +1996,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-004-p6s1w13">
@@ -2223,7 +2223,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2267,7 +2267,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-004-p6s2w10">
@@ -2284,7 +2284,7 @@
 <LM>w#w-ln95040-004-p6s2w11</LM>
 </w.rf>
 <form>Vavrdová</form>
-<tag lemma="Vavrdová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vavrdová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-004-p6s2w12">
 <src.rf>manual</src.rf>

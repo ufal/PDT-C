@@ -305,7 +305,7 @@
 <LM>w#w-mf920924-081-p3s2w3</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920924-081-p3s2w4">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-mf920924-081-p3s4w17</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-081-p3s4w18">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-mf920924-081-p3s5w12</LM>
 </w.rf>
 <form>Kruliš</form>
-<tag lemma="Kruliš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kruliš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-081-p3s5w13">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <form>Zajíc</form>
 <tag>
 <AM lemma="zajíc" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zajíc_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zajíc_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-081-p3s5w17">
@@ -901,7 +901,7 @@
 <LM>w#w-mf920924-081-p3s5w29</LM>
 </w.rf>
 <form>Eichenmann</form>
-<tag lemma="Eichenmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eichenmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-081-p3s5w30">
 <src.rf>manual</src.rf>

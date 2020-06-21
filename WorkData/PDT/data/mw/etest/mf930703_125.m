@@ -44,8 +44,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-125-p1s1w5">
@@ -161,8 +161,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-125-p2s1w12">
@@ -625,7 +625,7 @@
 <LM>w#w-mf930703-125-p2s4w11</LM>
 </w.rf>
 <form>Aidida</form>
-<tag lemma="Aidid_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Aidid_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-125-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1128,8 +1128,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-125-p3s2w14">
@@ -1278,8 +1278,8 @@
 </w.rf>
 <form>Loiem</form>
 <tag>
-<AM lemma="Loi_;S_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Loi_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Loi_;Y_,t" src="auto">NNMS7-----A----</AM>
+<AM lemma="Loi_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-125-p3s2w32">

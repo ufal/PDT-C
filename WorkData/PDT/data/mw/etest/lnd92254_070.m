@@ -21,7 +21,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-070-p1s1w2">
@@ -40,7 +40,7 @@
 <form>Štěpán</form>
 <tag>
 <AM lemma="Štěpán_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Štěpán_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štěpán_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-070-p1s1w4">
@@ -131,7 +131,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-070-p1s1w15">
@@ -148,7 +148,7 @@
 <LM>w#w-lnd92254-070-p1s1w16</LM>
 </w.rf>
 <form>Lorenzem</form>
-<tag lemma="Lorenz_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lorenz_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92254-070-p1s1w17">
 <src.rf>manual</src.rf>

@@ -225,7 +225,7 @@
 <form>Majora</form>
 <tag>
 <AM lemma="major" src="orig">NNMS4-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-057-p2s1Bw21">

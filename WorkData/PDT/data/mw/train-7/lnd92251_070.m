@@ -28,8 +28,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_nakl.)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-2_:B_;m_^(Lidové_noviny,_nakl.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_nakl.)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -112,7 +112,7 @@
 <LM>w#w-lnd92251-070-p2s1w10</LM>
 </w.rf>
 <form>Respektu</form>
-<tag lemma="Respekt_;R_^(časopis)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Respekt_;m_^(časopis)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-070-p2s1w11">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-lnd92251-070-p2s1w20</LM>
 </w.rf>
 <form>Havlíčkově</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd92251-070-p2s1w21">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-lnd92251-070-p2s2w17</LM>
 </w.rf>
 <form>Buriana</form>
-<tag lemma="Burian_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Burian_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-070-p2s2w18">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-lnd92251-070-p2s3w9</LM>
 </w.rf>
 <form>Respektu</form>
-<tag lemma="Respekt_;R_^(časopis)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Respekt_;m_^(časopis)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-070-p2s3w10">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 </w.rf>
 <form>Libri</form>
 <tag>
-<AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Libri_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Libri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -976,11 +976,11 @@
 </w.rf>
 <form>Flora</form>
 <tag>
-<AM lemma="Flora-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Flor_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Flor_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Flora-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Flor_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Flor_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flora_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flora_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-070-p4s1w15">
@@ -1267,7 +1267,7 @@
 <LM>w#w-lnd92251-070-p5s1w5</LM>
 </w.rf>
 <form>Hellichova</form>
-<tag lemma="Hellichův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Hellichův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92251-070-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1291,7 +1291,7 @@
 <LM>w#w-lnd92251-070-p5s1w8</LM>
 </w.rf>
 <form>PS</form>
-<tag lemma="PS-2_:B_;K_^(poštovní_schránka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="PS-2_:B_;m_^(poštovní_schránka)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd92251-070-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <form>l</form>
 <tag>
 <AM lemma="linka_:B" src="orig" selected="1">NNFXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>

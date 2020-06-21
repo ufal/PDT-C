@@ -64,7 +64,7 @@
 <LM>w#w-cmpr9410-046-p3s1w1</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p3s1w2">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 </w.rf>
 <form>SPT</form>
 <tag>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -173,7 +173,7 @@
 <LM>w#w-cmpr9410-046-p4s1w4</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p4s1w5">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-cmpr9410-046-p6s1w2</LM>
 </w.rf>
 <form>Kubín</form>
-<tag lemma="Kubín-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubín-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-046-p8s1">
@@ -363,7 +363,7 @@
 <LM>w#w-cmpr9410-046-p8s1w3</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p8s1w4">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-cmpr9410-046-p9s1Aw2</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p9s1Aw3">
 <src.rf>manual</src.rf>
@@ -1342,7 +1342,7 @@
 <LM>w#w-cmpr9410-046-p11s2w4</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p11s2w5">
 <src.rf>manual</src.rf>
@@ -2707,7 +2707,7 @@
 <LM>w#w-cmpr9410-046-p15s4w5</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p15s4w6">
 <src.rf>manual</src.rf>
@@ -3047,7 +3047,7 @@
 <LM>w#w-cmpr9410-046-p16s1w1</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p16s1w2">
 <src.rf>manual</src.rf>
@@ -4372,7 +4372,7 @@
 <LM>w#w-cmpr9410-046-p18s1w1</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p18s1w2">
 <src.rf>manual</src.rf>
@@ -5060,7 +5060,7 @@
 <LM>w#w-cmpr9410-046-p19s1w19</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-046-p19s1w20">
 <src.rf>manual</src.rf>

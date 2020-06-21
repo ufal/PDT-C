@@ -85,7 +85,7 @@
 <LM>w#w-ln94201-94-p2s1w4</LM>
 </w.rf>
 <form>Bělohradský</form>
-<tag lemma="Bělohradský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bělohradský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-94-p2s1w5">
 <src.rf>manual</src.rf>
@@ -624,8 +624,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p2s3w22">
@@ -668,7 +668,7 @@
 <LM>w#w-ln94201-94-p2s4w4</LM>
 </w.rf>
 <form>Salzmanna</form>
-<tag lemma="Salzmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Salzmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-94-p2s4w5">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln94201-94-p2s4w7</LM>
 </w.rf>
 <form>Slánský</form>
-<tag lemma="Slánský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slánský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-94-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1811,7 +1811,7 @@
 <LM>w#w-ln94201-94-p3s2w21</LM>
 </w.rf>
 <form>Salzmann</form>
-<tag lemma="Salzmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Salzmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-94-p3s2w22">
 <src.rf>manual</src.rf>
@@ -2839,8 +2839,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p3s8w4">
@@ -2857,7 +2857,7 @@
 <LM>w#w-ln94201-94-p3s8w5</LM>
 </w.rf>
 <form>Salzmann</form>
-<tag lemma="Salzmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Salzmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-94-p3s8w6">
 <src.rf>manual</src.rf>
@@ -3332,8 +3332,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p4s2w13">
@@ -3816,8 +3816,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p4s5w10">
@@ -4097,8 +4097,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p4s6w15">
@@ -4369,8 +4369,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p4s7w6">
@@ -4387,7 +4387,7 @@
 <LM>w#w-ln94201-94-p4s7w7</LM>
 </w.rf>
 <form>Salzmannovi</form>
-<tag lemma="Salzmann_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Salzmann_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94201-94-p4s7w8">
 <src.rf>manual</src.rf>
@@ -4476,7 +4476,7 @@
 </w.rf>
 <form>ghosts</form>
 <tag>
-<AM lemma="ghosts_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="ghosts_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="ghosts-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

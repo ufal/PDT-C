@@ -198,7 +198,7 @@
 </w.rf>
 <form>Bild</form>
 <tag>
-<AM lemma="Bild_;K_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bild_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Bild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -209,7 +209,7 @@
 </w.rf>
 <form>Zeitung</form>
 <tag>
-<AM lemma="Zeitung-1_;K_,t_^(souč._názvu_něm._novin)" src="orig">NNISX-----A----</AM>
+<AM lemma="Zeitung-1_;m_,t_^(souč._názvu_něm._novin)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Zeitung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

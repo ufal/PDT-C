@@ -86,9 +86,9 @@
 </w.rf>
 <form>ce</form>
 <tag>
-<AM lemma="ce-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ce-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ce-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ce-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-13-p2s1Aw4">
@@ -804,8 +804,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-13-p3s2w28">
@@ -854,7 +854,7 @@
 <LM>w#w-ln94203-13-p3s2w33</LM>
 </w.rf>
 <form>Dančák</form>
-<tag lemma="Dančák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dančák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-13-p3s2w34">
 <src.rf>manual</src.rf>
@@ -1136,7 +1136,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-13-p4s2w20">
@@ -1153,7 +1153,7 @@
 <LM>w#w-ln94203-13-p4s2w21</LM>
 </w.rf>
 <form>Dančáka</form>
-<tag lemma="Dančák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dančák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-13-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1618,7 +1618,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-13-p4s5w16">
@@ -1635,7 +1635,7 @@
 <LM>w#w-ln94203-13-p4s5w17</LM>
 </w.rf>
 <form>Dančák</form>
-<tag lemma="Dančák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dančák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-13-p4s5w18">
 <src.rf>manual</src.rf>

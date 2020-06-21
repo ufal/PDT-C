@@ -19,7 +19,7 @@
 <LM>w#w-lnd91301-094-p1s1w1</LM>
 </w.rf>
 <form>Salming</form>
-<tag lemma="Salming_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Salming_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-094-p1s1w2">
 <src.rf>manual</src.rf>
@@ -88,8 +88,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-094-p3s1w6">
@@ -126,7 +126,7 @@
 </w.rf>
 <form>Maple</form>
 <tag>
-<AM lemma="Maple_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Maple_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Maple-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -137,7 +137,7 @@
 </w.rf>
 <form>Leafs</form>
 <tag>
-<AM lemma="Leaf_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Leaf_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Leafs-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -171,7 +171,7 @@
 <LM>w#w-lnd91301-094-p3s1w14</LM>
 </w.rf>
 <form>Salming</form>
-<tag lemma="Salming_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Salming_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-094-p3s1w15">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 </w.rf>
 <form>AIK</form>
 <tag>
-<AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIK_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -448,7 +448,7 @@
 <LM>w#w-lnd91301-094-p3s2w14</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd91301-094-p3s2w15">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-094-p3s2w17">
@@ -483,7 +483,7 @@
 <LM>w#w-lnd91301-094-p3s2w18</LM>
 </w.rf>
 <form>Anderssonová</form>
-<tag lemma="Anderssonová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Anderssonová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-094-p3s2w19">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-lnd91301-094-p3s3Bw3</LM>
 </w.rf>
 <form>Salminga</form>
-<tag lemma="Salming_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Salming_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-094-p3s3Bw4">
 <src.rf>manual</src.rf>

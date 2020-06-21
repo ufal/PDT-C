@@ -87,7 +87,7 @@
 <LM>w#w-lnd92259-040-p3s1w3</LM>
 </w.rf>
 <form>ge</form>
-<tag lemma="ge-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ge-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-040-p3s1w4">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-040-p3s3w10">
@@ -430,7 +430,7 @@
 <LM>w#w-lnd92259-040-p3s3w11</LM>
 </w.rf>
 <form>Baránek</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-040-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 </w.rf>
 <form>ČSOPK</form>
 <tag>
-<AM lemma="ČSOPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSOPK-1_:B_;m_^(Českosloven._obchodní_a_průmyslová_komora)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1390,7 +1390,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-040-p4s3w23">
@@ -1407,7 +1407,7 @@
 <LM>w#w-lnd92259-040-p4s3w24</LM>
 </w.rf>
 <form>Baránek</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-040-p4s3w25">
 <src.rf>manual</src.rf>
@@ -1793,7 +1793,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-040-p4s7w11">
@@ -1810,7 +1810,7 @@
 <LM>w#w-lnd92259-040-p4s7w12</LM>
 </w.rf>
 <form>Tomáška</form>
-<tag lemma="Tomášek-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-040-p4s7w13">
 <src.rf>manual</src.rf>

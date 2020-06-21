@@ -345,12 +345,12 @@
 <form>Daňový</form>
 <tag>
 <AM lemma="daňový" src="orig">AAMS1----1A---6</AM>
-<AM lemma="Daňová_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Daňová_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Daňová_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Daňová_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Daňová_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Daňová_;S" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Daňová_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Daňová_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Daňová_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Daňová_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Daňová_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Daňová_;Y" src="auto">NNFS6-----A---6</AM>
 <AM lemma="daňový" src="auto">AAFP1----1A---6</AM>
 <AM lemma="daňový" src="auto">AAFP4----1A---6</AM>
 <AM lemma="daňový" src="auto">AAFP5----1A---6</AM>
@@ -459,7 +459,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -833,7 +833,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
@@ -1000,7 +1000,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -1062,7 +1062,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="DPH-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
@@ -1297,7 +1297,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -1877,7 +1877,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -2075,7 +2075,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2103,7 +2103,7 @@
 <LM>w#w-cmpr9407-013-p12s1w2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-013-p12s1w3">
 <src.rf>manual</src.rf>
@@ -2654,7 +2654,7 @@
 <LM>w#w-cmpr9407-013-p14s1w2</LM>
 </w.rf>
 <form>Gebarowský</form>
-<tag lemma="Gebarowský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gebarowský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-013-p15s1">

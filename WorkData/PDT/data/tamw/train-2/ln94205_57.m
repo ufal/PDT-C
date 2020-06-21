@@ -27,7 +27,7 @@
 <LM>w#w-ln94205-57-p1s1w2</LM>
 </w.rf>
 <form>Benešových</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln94205-57-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln94205-57-p1s1w4</LM>
 </w.rf>
 <form>Kovács</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-57-p1s1w5">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln94205-57-p1s1w6</LM>
 </w.rf>
 <form>Zieleniecem</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-57-p1s1w7">
 <src.rf>manual</src.rf>
@@ -94,8 +94,8 @@
 </w.rf>
 <form>il</form>
 <tag>
-<AM lemma="il-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="il-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="il-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="il-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-57-p2s1Aw4">
@@ -532,7 +532,7 @@
 <LM>w#w-ln94205-57-p2s3w11</LM>
 </w.rf>
 <form>Kovács</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-57-p2s3w12">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-ln94205-57-p3s2w15</LM>
 </w.rf>
 <form>Kovács</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-57-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-ln94205-57-p5s1w2</LM>
 </w.rf>
 <form>Benešových</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln94205-57-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-ln94205-57-p5s1w10</LM>
 </w.rf>
 <form>Zieleniecem</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-57-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-ln94205-57-p6s1w2</LM>
 </w.rf>
 <form>Kovács</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-57-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-ln94205-57-p6s1w8</LM>
 </w.rf>
 <form>Havlem</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-57-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1434,7 +1434,7 @@
 <LM>w#w-ln94205-57-p6s1w13</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-57-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln94205-57-p6s1w20</LM>
 </w.rf>
 <form>Uhdem</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-57-p6s1w21">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-ln94205-57-p6s2w7</LM>
 </w.rf>
 <form>Horna</form>
-<tag lemma="Horn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Horn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-57-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1804,7 +1804,7 @@
 <LM>w#w-ln94205-57-p6s3w14</LM>
 </w.rf>
 <form>Kovács</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-57-p6s3w15">
 <src.rf>manual</src.rf>
@@ -1993,7 +1993,7 @@
 <LM>w#w-ln94205-57-p6s4w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-57-p6s4w4">
 <src.rf>manual</src.rf>

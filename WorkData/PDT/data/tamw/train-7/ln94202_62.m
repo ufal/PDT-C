@@ -38,9 +38,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p2s1w3">
@@ -165,7 +165,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p2s2w8">
@@ -182,7 +182,7 @@
 <LM>w#w-ln94202-62-p2s2w9</LM>
 </w.rf>
 <form>Christopher</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-62-p2s2w10">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p3s1w4">
@@ -482,7 +482,7 @@
 <LM>w#w-ln94202-62-p3s1w5</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-62-p3s1w6">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 </w.rf>
 <form>Juventud</form>
 <tag>
-<AM lemma="Juventud_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Juventud_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Juventud-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -744,7 +744,7 @@
 </w.rf>
 <form>Rebelde</form>
 <tag>
-<AM lemma="Rebelde_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Rebelde_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Rebelde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -838,7 +838,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p4s1w11">
@@ -855,7 +855,7 @@
 <LM>w#w-ln94202-62-p4s1w12</LM>
 </w.rf>
 <form>Hekmatjárovi</form>
-<tag lemma="Hekmatjár_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hekmatjár_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-62-p4s1w13">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p4s1w17">
@@ -908,7 +908,7 @@
 <LM>w#w-ln94202-62-p4s1w18</LM>
 </w.rf>
 <form>Rabbáního</form>
-<tag lemma="Rabbání_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabbání_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-62-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p5s2w2">
@@ -1165,7 +1165,7 @@
 <LM>w#w-ln94202-62-p5s2w3</LM>
 </w.rf>
 <form>Tinnirello</form>
-<tag lemma="Tinnirello_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tinnirello_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-62-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p5s3w12">
@@ -1322,7 +1322,7 @@
 <LM>w#w-ln94202-62-p5s3w13</LM>
 </w.rf>
 <form>Borsellina</form>
-<tag lemma="Borsellino_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Borsellino_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-62-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1413,9 +1413,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p6s1w4">
@@ -1426,7 +1426,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p6s1w5">
@@ -1443,7 +1443,7 @@
 <LM>w#w-ln94202-62-p6s1w6</LM>
 </w.rf>
 <form>Brown</form>
-<tag lemma="Brown_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brown_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-62-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1718,8 +1718,8 @@
 </w.rf>
 <form>Wang</form>
 <tag>
-<AM lemma="Wang_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wang_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Wang_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p6s2w15">
@@ -1728,7 +1728,7 @@
 <LM>w#w-ln94202-62-p6s2w15</LM>
 </w.rf>
 <form>Tana</form>
-<tag lemma="Tan_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Tan_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-62-p6s2w16">
 <src.rf>manual</src.rf>

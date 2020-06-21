@@ -178,7 +178,7 @@
 <LM>w#w-ln95048-069-p2s1Bw3</LM>
 </w.rf>
 <form>Weizsäcker</form>
-<tag lemma="Weizsäcker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Weizsäcker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-069-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -452,8 +452,8 @@
 <AM lemma="Armageddon_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Armageddon_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Armageddon_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Armagedon_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Armagedon_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Armagedon_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Armagedon_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="armageddon" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="armageddon" src="auto">NNIS3-----A----</AM>
 <AM lemma="armageddon" src="auto">NNIS6-----A---1</AM>
@@ -621,8 +621,8 @@
 </w.rf>
 <form>Ernsta</form>
 <tag>
-<AM lemma="Ernst_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ernst_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-069-p2s3w15">
@@ -632,8 +632,8 @@
 </w.rf>
 <form>Ulricha</form>
 <tag>
-<AM lemma="Ulrich_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ulrich_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ulrich_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ulrich_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-069-p2s3w16">
@@ -653,7 +653,7 @@
 <LM>w#w-ln95048-069-p2s3w17</LM>
 </w.rf>
 <form>Weizsäckera</form>
-<tag lemma="Weizsäcker_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Weizsäcker_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-069-p2s3w18">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 </w.rf>
 <form>Scandinavia</form>
 <tag>
-<AM lemma="Scandinavia_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Scandinavia_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Scandinavia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1205,8 +1205,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-069-p2s4w28">
@@ -1489,8 +1489,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-069-p3s1w30">
@@ -2677,7 +2677,7 @@
 <LM>w#w-ln95048-069-p4s6w2</LM>
 </w.rf>
 <form>Weizsäcker</form>
-<tag lemma="Weizsäcker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Weizsäcker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-069-p4s6w3">
 <src.rf>manual</src.rf>
@@ -3504,7 +3504,7 @@
 <LM>w#w-ln95048-069-p6s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95048-069-p6s1w12">
 <src.rf>manual</src.rf>
@@ -3953,7 +3953,7 @@
 <form>María</form>
 <tag>
 <AM lemma="María_;Y" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="María_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="María_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-069-p6s3w7">
@@ -3971,10 +3971,10 @@
 </w.rf>
 <form>Hurtado</form>
 <tag>
-<AM lemma="Hurtado_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hurtado_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hurtado_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Hurtado-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Hurtado_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Hurtado_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hurtado_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Hurtado-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-069-p6s3w9">
@@ -4041,7 +4041,7 @@
 <LM>w#w-ln95048-069-p6s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95048-069-p6s4w2">
 <src.rf>manual</src.rf>
@@ -4355,7 +4355,7 @@
 <AM lemma="Oslo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Oslo_;G" src="auto" recommended="1">NNNSX-----A---1</AM>
+<AM lemma="Oslo_;G" src="auto" recommended="1">NNNXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-069-p7s1w17">
@@ -5079,7 +5079,7 @@
 <LM>w#w-ln95048-069-p8s2w4</LM>
 </w.rf>
 <form>Weizsäcker</form>
-<tag lemma="Weizsäcker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Weizsäcker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-069-p8s2w5">
 <src.rf>manual</src.rf>
@@ -5702,7 +5702,7 @@
 <LM>w#w-ln95048-069-p9s1w11</LM>
 </w.rf>
 <form>Berntsen</form>
-<tag lemma="Berntsen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berntsen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-069-p9s1w12">
 <src.rf>manual</src.rf>

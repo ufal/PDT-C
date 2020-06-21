@@ -86,8 +86,8 @@
 </w.rf>
 <form>ma</form>
 <tag>
-<AM lemma="ma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ma-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ma-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-46-p2s1Aw4">
@@ -211,7 +211,7 @@
 </w.rf>
 <form>SCP</form>
 <tag>
-<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-1_:B_;m_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -326,7 +326,7 @@
 </w.rf>
 <form>SCP</form>
 <tag>
-<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-1_:B_;m_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -377,7 +377,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -494,7 +494,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -528,7 +528,7 @@
 <LM>w#w-ln94205-46-p2s2w12</LM>
 </w.rf>
 <form>Šírek</form>
-<tag lemma="Šírek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šírek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-46-p2s2w13">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 </w.rf>
 <form>SCP</form>
 <tag>
-<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-1_:B_;m_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1642,7 +1642,7 @@
 <LM>w#w-ln94205-46-p4s7w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94205-46-p4s7w11">
 <src.rf>manual</src.rf>

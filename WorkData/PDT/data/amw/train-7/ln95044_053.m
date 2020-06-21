@@ -85,7 +85,7 @@
 <LM>w#w-ln95044-053-p2s1w4</LM>
 </w.rf>
 <form>Blabolilové</form>
-<tag lemma="Blabolilová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Blabolilová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-053-p2s1w5">
 <src.rf>manual</src.rf>
@@ -272,9 +272,9 @@
 </w.rf>
 <form>Volvox</form>
 <tag>
-<AM lemma="Volvox_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Volvox_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Volvox_;m_^(nakl_Volvox_Globator)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Volvox_;m_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Volvox-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -285,7 +285,7 @@
 </w.rf>
 <form>Globator</form>
 <tag>
-<AM lemma="Globator_;K_^(nakl._Volvox_Globator)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Globator_;m_^(nakl._Volvox_Globator)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Globator-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -345,7 +345,7 @@
 <form>Štolba</form>
 <tag>
 <AM lemma="štolba" src="orig">NNMS1-----A----</AM>
-<AM lemma="Štolba_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štolba_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-053-p3s1w15">
@@ -403,9 +403,9 @@
 </w.rf>
 <form>Volvox</form>
 <tag>
-<AM lemma="Volvox_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Volvox_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Volvox_;m_^(nakl_Volvox_Globator)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Volvox_;m_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Volvox-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -416,7 +416,7 @@
 </w.rf>
 <form>Globator</form>
 <tag>
-<AM lemma="Globator_;K_^(nakl._Volvox_Globator)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Globator_;m_^(nakl._Volvox_Globator)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Globator-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -524,7 +524,7 @@
 <LM>w#w-ln95044-053-p3s2w6</LM>
 </w.rf>
 <form>Janota</form>
-<tag lemma="Janota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-053-p3s2w7">
 <src.rf>manual</src.rf>
@@ -576,8 +576,8 @@
 <form>Inez</form>
 <tag>
 <AM lemma="Inez_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Inez-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Inez-2_;Y" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
+<AM lemma="Inez-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Inez-2_;Y" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-053-p4s1w6">
@@ -586,7 +586,7 @@
 <LM>w#w-ln95044-053-p4s1w6</LM>
 </w.rf>
 <form>Tuschnerové</form>
-<tag lemma="Tuschnerová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tuschnerová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-053-p4s1w7">
 <src.rf>manual</src.rf>

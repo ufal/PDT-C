@@ -53,7 +53,7 @@
 <LM>w#w-ln95048-041-p2s1w2</LM>
 </w.rf>
 <form>MAPPLETHORPE</form>
-<tag lemma="Mapplethorpe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mapplethorpe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-041-p2s1w3">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln95048-041-p2s2w6</LM>
 </w.rf>
 <form>Prattově</form>
-<tag lemma="Prattův-1_;S_^(*4-1)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Prattův-1_;Y_^(*4-1)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln95048-041-p2s2w7">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95048-041-p2s3w9</LM>
 </w.rf>
 <form>Warhol</form>
-<tag lemma="Warhol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Warhol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-041-p2s3w10">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 </w.rf>
 <form>minimal</form>
 <tag>
-<AM lemma="minimal_;u_,t_^(pouze_ve_spojení_minimal_art)" src="auto">AAXXX----1A----</AM>
+<AM lemma="minimal_,t_^(pouze_ve_spojení_minimal_art)" src="auto">AAXXX----1A----</AM>
 <AM lemma="minimal-77" src="manual">F%-------------</AM>
 <AM lemma="minimal" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
@@ -467,7 +467,7 @@
 <LM>w#w-ln95048-041-p2s4w17</LM>
 </w.rf>
 <form>Smithová</form>
-<tag lemma="Smithová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Smithová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-041-p2s4w18">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-ln95048-041-p2s8w1</LM>
 </w.rf>
 <form>Mapplethorpe</form>
-<tag lemma="Mapplethorpe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mapplethorpe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-041-p2s8w2">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-ln95048-041-p3s1w4</LM>
 </w.rf>
 <form>WITKIN</form>
-<tag lemma="Witkin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Witkin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-041-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-ln95048-041-p3s4w4</LM>
 </w.rf>
 <form>Mapplethorpem</form>
-<tag lemma="Mapplethorpe_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mapplethorpe_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-041-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1272,7 +1272,7 @@
 <LM>w#w-ln95048-041-p3s5w1</LM>
 </w.rf>
 <form>Witkina</form>
-<tag lemma="Witkin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Witkin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-041-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1321,9 +1321,9 @@
 </w.rf>
 <form>Poeovi</form>
 <tag>
-<AM lemma="Poe_;S" src="orig" selected="1">NNMS3-----A----</AM>
-<AM lemma="Poeův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Poeův_;S_^(*2)" src="auto" recommended="1">AUMP5M---------</AM>
+<AM lemma="Poe_;Y" src="orig" selected="1">NNMS3-----A----</AM>
+<AM lemma="Poeův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Poeův_;Y_^(*2)" src="auto" recommended="1">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-ln95048-041-p3s5w8">
@@ -1406,7 +1406,7 @@
 <LM>w#w-ln95048-041-p3s6w1</LM>
 </w.rf>
 <form>Witkinovu</form>
-<tag lemma="Witkinův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Witkinův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95048-041-p3s6w2">
 <src.rf>manual</src.rf>

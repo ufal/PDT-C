@@ -377,7 +377,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-142-p2s3w11">
@@ -394,7 +394,7 @@
 <LM>w#w-ln94200-142-p2s3w12</LM>
 </w.rf>
 <form>Novotného</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-142-p2s3w13">
 <src.rf>manual</src.rf>
@@ -2668,9 +2668,9 @@
 <form_change>spell</form_change>
 <form>Bluchy</form>
 <tag>
-<AM lemma="Blucha_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Blucha_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Blucha_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Blucha_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Blucha_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Blucha_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-142-p5s1w5">

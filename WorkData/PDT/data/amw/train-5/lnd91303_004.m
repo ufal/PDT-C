@@ -21,7 +21,7 @@
 <form>GEORGE</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="George_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual">NNMS1-----A----</AM>
 <AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -31,7 +31,7 @@
 <LM>w#w-lnd91303-004-p1s1w2</LM>
 </w.rf>
 <form>BUSH</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-004-p1s1w3">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-lnd91303-004-p4s1Aw4</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-004-p4s1Aw5">
 <src.rf>manual</src.rf>
@@ -313,9 +313,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-004-p4s1Aw29">
@@ -513,9 +513,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-004-p4s2w10">
@@ -607,7 +607,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -690,7 +690,7 @@
 <LM>w#w-lnd91303-004-p4s3w15</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-004-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1190,9 +1190,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-004-p4s4w41">
@@ -1219,7 +1219,7 @@
 <LM>w#w-lnd91303-004-p4s5w2</LM>
 </w.rf>
 <form>Bushovou</form>
-<tag lemma="Bushův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Bushův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-lnd91303-004-p4s5w3">
 <src.rf>manual</src.rf>
@@ -1392,9 +1392,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-004-p4s5w24">

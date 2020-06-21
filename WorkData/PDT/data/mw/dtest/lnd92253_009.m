@@ -117,7 +117,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-009-p1s1w14">
@@ -134,7 +134,7 @@
 <LM>w#w-lnd92253-009-p1s1w15</LM>
 </w.rf>
 <form>Majorovi</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92253-009-p1s1w16">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-086-p1s1w2</LM>
 </w.rf>
 <form>Bártl</form>
-<tag lemma="Bártl_;G_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bártl_;G_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-086-p1s1w3">
 <src.rf>manual</src.rf>
@@ -78,8 +78,8 @@
 </w.rf>
 <form>jsl</form>
 <tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-086-p2s1w4">
@@ -120,7 +120,7 @@
 <LM>w#w-mf930708-086-p2s1w8</LM>
 </w.rf>
 <form>Bártl</form>
-<tag lemma="Bártl_;G_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bártl_;G_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-086-p2s1w9">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-mf930708-086-p2s1w19</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-086-p2s1w20">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf930708-086-p2s4w10</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930708-086-p2s4w11">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-mf930708-086-p2s4w17</LM>
 </w.rf>
 <form>Lička</form>
-<tag lemma="Lička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-086-p2s4w18">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-mf930708-086-p2s6w36</LM>
 </w.rf>
 <form>Bártl</form>
-<tag lemma="Bártl_;G_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bártl_;G_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-086-p2s6w37">
 <src.rf>manual</src.rf>

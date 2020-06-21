@@ -95,7 +95,7 @@
 <form>vin</form>
 <tag>
 <AM lemma="vina" src="orig">NNFP2-----A----</AM>
-<AM lemma="vin-99_:B_;S" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="vin-99_:B_;Y" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-016-p2s1w4">
@@ -568,8 +568,8 @@
 </w.rf>
 <form>LED</form>
 <tag>
-<AM lemma="LED_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="LED_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="LED_:B_,t_^(light_emitting_diode)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="led" src="auto">NNIS1-----A----</AM>
 <AM lemma="led" src="auto">NNIS4-----A----</AM>
 <AM lemma="LED-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -760,8 +760,8 @@
 </w.rf>
 <form>LED</form>
 <tag>
-<AM lemma="LED_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="LED_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="LED_:B_,t_^(light_emitting_diode)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="led" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="led" src="auto">NNIS4-----A----</AM>
 <AM lemma="LED-88" src="manual" selected="1">BNXXX-----A----</AM>

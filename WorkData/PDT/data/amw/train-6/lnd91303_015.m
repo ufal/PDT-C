@@ -22,7 +22,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-015-p1s1w2">
@@ -41,7 +41,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>NEUBAUER</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-015-p1s1w4">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-lnd91303-015-p2s1Cw30</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-015-p2s1Cw31">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-lnd91303-015-p2s2w6</LM>
 </w.rf>
 <form>Němcům</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd91303-015-p2s2w7">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-lnd91303-015-p2s3w4</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91303-015-p2s3w5">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-lnd91303-015-p2s3w23</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-015-p2s3w24">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 </w.rf>
 <form>Sudetendeutsche</form>
 <tag>
-<AM lemma="Sudetendeutsche_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sudetendeutsche_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Sudetendeutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -872,7 +872,7 @@
 </w.rf>
 <form>Zeitung</form>
 <tag>
-<AM lemma="Zeitung-1_;K_,t_^(souč._názvu_něm._novin)" src="orig">NNFPX-----A----</AM>
+<AM lemma="Zeitung-1_;m_,t_^(souč._názvu_něm._novin)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Zeitung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1013,7 +1013,7 @@
 <LM>w#w-lnd91303-015-p2s4w16</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd91303-015-p2s4w17">
 <src.rf>manual</src.rf>

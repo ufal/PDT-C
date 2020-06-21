@@ -27,7 +27,7 @@
 <LM>w#w-mf920901-050-p1s1w2</LM>
 </w.rf>
 <form>Rečka</form>
-<tag lemma="Rečka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rečka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-050-p1s1w3">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-mf920901-050-p2s1w2</LM>
 </w.rf>
 <form>Rečka</form>
-<tag lemma="Rečka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rečka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-050-p2s1w3">
 <src.rf>manual</src.rf>
@@ -329,8 +329,8 @@
 </w.rf>
 <form>c</form>
 <tag>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="c-33" src="auto">Q3-------------</AM>
+<AM lemma="c-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-050-p2s2w12">
@@ -672,8 +672,8 @@
 </w.rf>
 <form>c</form>
 <tag>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="c-33" src="auto">Q3-------------</AM>
+<AM lemma="c-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-050-p2s4w32">
@@ -740,7 +740,7 @@
 <LM>w#w-mf920901-050-p2s5w7</LM>
 </w.rf>
 <form>Rečka</form>
-<tag lemma="Rečka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rečka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-050-p2s5w8">
 <src.rf>manual</src.rf>
@@ -856,8 +856,8 @@
 </w.rf>
 <form>a</form>
 <tag>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
+<AM lemma="a-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-050-p2s5w22">

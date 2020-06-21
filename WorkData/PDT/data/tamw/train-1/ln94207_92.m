@@ -166,7 +166,7 @@
 </w.rf>
 <form>Oz</form>
 <tag>
-<AM lemma="Oz_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="oz-1_:B_,t_^(jednotka_hmotnosti_&quot;unce&quot;)" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -186,7 +186,7 @@
 <LM>w#w-ln94207-92-p2s1Bw2</LM>
 </w.rf>
 <form>Matoušek</form>
-<tag lemma="Matoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-92-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-ln94207-92-p2s1Bw5</LM>
 </w.rf>
 <form>Kumermann</form>
-<tag lemma="Kumermann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kumermann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-92-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -3008,7 +3008,7 @@
 <LM>w#w-ln94207-92-p6s1w3</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-92-p6s1w4">
 <src.rf>manual</src.rf>
@@ -3590,7 +3590,7 @@
 <LM>w#w-ln94207-92-p7s4w7</LM>
 </w.rf>
 <form>Havlovi</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94207-92-p7s4w8">
 <src.rf>manual</src.rf>
@@ -4652,8 +4652,8 @@
 </w.rf>
 <form>Winston</form>
 <tag>
-<AM lemma="Winston_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Winston_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Winston_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Winston_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-92-p13s3w2">
@@ -4662,7 +4662,7 @@
 <LM>w#w-ln94207-92-p13s3w2</LM>
 </w.rf>
 <form>Churchill</form>
-<tag lemma="Churchill_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Churchill_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-92-p13s3w3">
 <src.rf>manual</src.rf>
@@ -6381,7 +6381,7 @@
 <form>Femina</form>
 <tag>
 <AM lemma="Femina_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Femina_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Femina_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Femina_;m_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Femina-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -8291,9 +8291,9 @@
 </w.rf>
 <form>hippies</form>
 <tag>
-<AM lemma="hippies_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="hippies_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="hippies-77" src="manual">F%-------------</AM>
-<AM lemma="hippies" src="manual" selected="1">NNMPX-----A----</AM>
+<AM lemma="hippies" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-92-p19s4w18">

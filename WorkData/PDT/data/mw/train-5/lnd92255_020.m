@@ -291,7 +291,7 @@
 </w.rf>
 <form>Libri</form>
 <tag>
-<AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Libri_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Libri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -592,7 +592,7 @@
 <LM>w#w-lnd92255-020-p2s3w1</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92255-020-p2s3w2">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 </w.rf>
 <form>TT</form>
 <tag>
-<AM lemma="TT_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TT_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TT_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="TT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

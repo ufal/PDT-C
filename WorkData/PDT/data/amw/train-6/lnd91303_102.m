@@ -57,7 +57,7 @@
 <LM>w#w-lnd91303-102-p5s1w1</LM>
 </w.rf>
 <form>Kasparov</form>
-<tag lemma="Kasparov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kasparov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-102-p5s1w2">
 <src.rf>manual</src.rf>
@@ -73,7 +73,7 @@
 <LM>w#w-lnd91303-102-p5s1w3</LM>
 </w.rf>
 <form>Karpov</form>
-<tag lemma="Karpov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karpov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-102-p5s1w4">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-lnd91303-102-p9s1w2</LM>
 </w.rf>
 <form>Spenglerův</form>
-<tag lemma="Spenglerův_;G_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Spenglerův_;G_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd91303-102-p9s1w3">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -20,8 +20,8 @@
 </w.rf>
 <form>Camel</form>
 <tag>
-<AM lemma="Camel_;R_,t_^(značka_cigaret)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Camel_;R_^(značka_cigaret)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Camel_;m_,t_^(značka_cigaret)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Camel_;m_^(značka_cigaret)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-042-p1s1w2">
@@ -73,8 +73,8 @@
 </w.rf>
 <form>peo</form>
 <tag>
-<AM lemma="peo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="peo-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="peo-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="peo-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-042-p2s1w4">
@@ -110,8 +110,8 @@
 </w.rf>
 <form>Camel</form>
 <tag>
-<AM lemma="Camel_;R_,t_^(značka_cigaret)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Camel_;R_^(značka_cigaret)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Camel_;m_,t_^(značka_cigaret)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Camel_;m_^(značka_cigaret)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-042-p2s2w3">

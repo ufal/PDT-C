@@ -69,7 +69,7 @@
 <LM>w#w-vesm9303-024-p2s1w2</LM>
 </w.rf>
 <form>DZÚROVÁ</form>
-<tag lemma="Dzúrová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dzúrová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-024-p3s1">
@@ -87,7 +87,7 @@
 <LM>w#w-vesm9303-024-p3s1w2</LM>
 </w.rf>
 <form>BARTOŇOVÁ</form>
-<tag lemma="Bartoňová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bartoňová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-024-p4s1">
@@ -462,7 +462,7 @@
 </w.rf>
 <form>WHO</form>
 <tag>
-<AM lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WHO_:B_;U_;m_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2053,8 +2053,8 @@
 </w.rf>
 <form>ČSAV</form>
 <tag>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-024-p5s2w51">
@@ -2741,7 +2741,7 @@
 <LM>w#w-vesm9303-024-p5s5w13</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s5w14">
 <src.rf>manual</src.rf>
@@ -2751,7 +2751,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-024-p5s5w15">
@@ -2880,7 +2880,7 @@
 <LM>w#w-vesm9303-024-p5s5w30</LM>
 </w.rf>
 <form>Rychtaříková</form>
-<tag lemma="Rychtaříková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rychtaříková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s5w31">
 <src.rf>manual</src.rf>
@@ -2890,7 +2890,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-024-p5s5w32">
@@ -2915,7 +2915,7 @@
 <LM>w#w-vesm9303-024-p5s5w34</LM>
 </w.rf>
 <form>Dzúrová</form>
-<tag lemma="Dzúrová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dzúrová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s5w35">
 <src.rf>manual</src.rf>
@@ -2925,7 +2925,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-024-p5s5w36">
@@ -10043,8 +10043,8 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="l-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="l-33" src="orig">Q3-------------</AM>
+<AM lemma="l-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-024-p18s1w7">

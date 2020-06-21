@@ -138,7 +138,7 @@
 <LM>w#w-ln94202-55-p3s1Aw4</LM>
 </w.rf>
 <form>Bílek</form>
-<tag lemma="Bílek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bílek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-55-p3s1B">
@@ -296,7 +296,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>

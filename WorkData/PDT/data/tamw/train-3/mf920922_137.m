@@ -61,7 +61,7 @@
 <LM>w#w-mf920922-137-p2s1w2</LM>
 </w.rf>
 <form>CASTRO</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-137-p2s1w3">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-mf920922-137-p3s1Cw13</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-137-p3s1Cw14">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-mf920922-137-p3s1Cw27</LM>
 </w.rf>
 <form>Borgemu</form>
-<tag lemma="Borge_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Borge_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920922-137-p3s1Cw28">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-mf920922-137-p3s2w1</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-137-p3s2w2">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-mf920922-137-p3s4w2</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-137-p3s4w3">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-137-p3s5w4">
@@ -919,7 +919,7 @@
 <LM>w#w-mf920922-137-p3s5w5</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-137-p3s5w6">
 <src.rf>manual</src.rf>

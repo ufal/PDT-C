@@ -184,7 +184,7 @@
 </w.rf>
 <form>Headhunters</form>
 <tag>
-<AM lemma="headhunter_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="headhunter_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Headhunters-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -221,7 +221,7 @@
 </w.rf>
 <form>Kopfjägers</form>
 <tag>
-<AM lemma="Kopfjäger_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Kopfjäger_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kopfjägers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1267,7 +1267,7 @@
 </w.rf>
 <form>Kopfjägers</form>
 <tag>
-<AM lemma="Kopfjäger_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Kopfjäger_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kopfjägers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2523,7 +2523,7 @@
 </w.rf>
 <form>PMC</form>
 <tag>
-<AM lemma="PMC-1_:B_;K_,t_^(Personnel_&amp;_Manag._Consulting_Internat.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PMC-1_:B_;m_,t_^(Personnel_&amp;_Manag._Consulting_Internat.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2534,7 +2534,7 @@
 </w.rf>
 <form>Personal</form>
 <tag>
-<AM lemma="Personal_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Personal_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Personal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2583,7 +2583,7 @@
 </w.rf>
 <form>Beratung</form>
 <tag>
-<AM lemma="Beratung_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Beratung_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Beratung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2816,9 +2816,9 @@
 </w.rf>
 <form>Hill</form>
 <tag>
-<AM lemma="Hill-2_;K_,t" src="orig">NNISX-----A----</AM>
-<AM lemma="Hill_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hill-2_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hill-2_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Hill_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hill-2_;m_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="hill-2_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="hill_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Hill-77" src="manual" selected="1">F%-------------</AM>
@@ -2831,8 +2831,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2994,8 +2994,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3192,7 +3192,7 @@
 <LM>w#w-cmpr9415-026-p10s4w7</LM>
 </w.rf>
 <form>Catro</form>
-<tag lemma="Catro_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Catro_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p10s4w8">
 <src.rf>manual</src.rf>
@@ -3649,7 +3649,7 @@
 </w.rf>
 <form>Managementberatung</form>
 <tag>
-<AM lemma="Managementberatung_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Managementberatung_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Managementberatung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3675,7 +3675,7 @@
 <LM>w#w-cmpr9415-026-p11s1w9</LM>
 </w.rf>
 <form>Jenewein</form>
-<tag lemma="Jenewein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jenewein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p11s1w10">
 <src.rf>manual</src.rf>
@@ -3765,7 +3765,7 @@
 <LM>w#w-cmpr9415-026-p11s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9415-026-p11s2w2">
 <src.rf>manual</src.rf>
@@ -3944,11 +3944,11 @@
 </w.rf>
 <form>Pendl</form>
 <tag>
-<AM lemma="Pendl_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Pendl_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="pendl_,l_^(hráč_se_střídavým_startem)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="pendl_,l_^(kyvadlo,_kyvadlová_doprava)" src="auto">NNIS1-----A----</AM>
 <AM lemma="pendl_,l_^(kyvadlo,_kyvadlová_doprava)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pendl_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pendl_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-026-p11s3w13">
@@ -3966,8 +3966,8 @@
 </w.rf>
 <form>Piswanger</form>
 <tag>
-<AM lemma="Piswanger_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Piswanger_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Piswanger_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Piswanger_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-026-p11s3w15">
@@ -6187,7 +6187,7 @@
 <LM>w#w-cmpr9415-026-p17s1w2</LM>
 </w.rf>
 <form>Kuberna</form>
-<tag lemma="Kuberna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuberna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-026-p18s1">
@@ -6214,7 +6214,7 @@
 </w.rf>
 <form>foto</form>
 <tag>
-<AM lemma="foto" src="orig">NNNSX-----A----</AM>
+<AM lemma="foto" src="orig">NNNXX-----A----</AM>
 <AM lemma="foto" src="auto">NNNS1-----A----</AM>
 <AM lemma="foto" src="auto">NNNS4-----A----</AM>
 <AM lemma="foto" src="auto">NNNS5-----A----</AM>

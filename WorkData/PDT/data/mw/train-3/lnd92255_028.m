@@ -119,7 +119,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-028-p2s1w12">
@@ -136,7 +136,7 @@
 <LM>w#w-lnd92255-028-p2s1w13</LM>
 </w.rf>
 <form>Bayera</form>
-<tag lemma="Bayer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bayer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-028-p2s1w14">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-mf930709-132-p1s1w2</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-132-p1s1w3">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-mf930709-132-p4s1w6</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-132-p4s1w7">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-mf930709-132-p4s1w13</LM>
 </w.rf>
 <form>Gorbačov</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-132-p4s1w14">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-mf930709-132-p5s1w11</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-132-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2382,7 +2382,7 @@
 <LM>w#w-mf930709-132-p6s9w3</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-132-p6s9w4">
 <src.rf>manual</src.rf>
@@ -2636,7 +2636,7 @@
 <LM>w#w-mf930709-132-p6s10w5</LM>
 </w.rf>
 <form>Gorbačov</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-132-p6s10w6">
 <src.rf>manual</src.rf>

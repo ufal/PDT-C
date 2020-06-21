@@ -31,7 +31,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Morrison</form>
-<tag lemma="Morrison_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morrison_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-148-p1s1w3">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 </w.rf>
 <form>Blue</form>
 <tag>
-<AM lemma="Blue_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Blue_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Blue-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -125,7 +125,7 @@
 </w.rf>
 <form>Flames</form>
 <tag>
-<AM lemma="Flames_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Flames_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Flames-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -144,7 +144,7 @@
 </w.rf>
 <form>ČTV</form>
 <tag>
-<AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTV-1_:B_;m_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -274,7 +274,7 @@
 <LM>w#w-lnd92255-148-p2s1w27</LM>
 </w.rf>
 <form>Morrison</form>
-<tag lemma="Morrison_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morrison_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-148-p2s1w28">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <AM lemma="Georgia_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Georgia_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Georgia_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Georgias_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Georgias_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-148-p3s1w10">
@@ -562,7 +562,7 @@
 <LM>w#w-lnd92255-148-p3s1w10</LM>
 </w.rf>
 <form>Fame</form>
-<tag lemma="Fame_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fame_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-148-p3s1w11">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-lnd92255-148-p3s1w19</LM>
 </w.rf>
 <form>Morrisonových</form>
-<tag lemma="Morrisonův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Morrisonův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-lnd92255-148-p3s1w20">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-lnd92255-148-p3s2w10</LM>
 </w.rf>
 <form>Morrison</form>
-<tag lemma="Morrison_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morrison_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-148-p3s2w11">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-lnd92255-148-p3s4w1</LM>
 </w.rf>
 <form>Morrison</form>
-<tag lemma="Morrison_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morrison_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-148-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 </w.rf>
 <form>Astral</form>
 <tag>
-<AM lemma="astral_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="astral_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Astral-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1278,7 +1278,7 @@
 </w.rf>
 <form>Weeks</form>
 <tag>
-<AM lemma="week_;R_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="week_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Weeks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1381,7 +1381,7 @@
 </w.rf>
 <form>Albums</form>
 <tag>
-<AM lemma="album_;R_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="album_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Albums-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1481,7 +1481,7 @@
 <LM>w#w-lnd92255-148-p3s7w4</LM>
 </w.rf>
 <form>Morrisonův</form>
-<tag lemma="Morrisonův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Morrisonův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92255-148-p3s7w5">
 <src.rf>manual</src.rf>
@@ -1612,8 +1612,8 @@
 </w.rf>
 <form>vla</form>
 <tag>
-<AM lemma="vla-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vla-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vla-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vla-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-148-p4s1w3">

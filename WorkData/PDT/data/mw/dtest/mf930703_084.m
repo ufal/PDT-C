@@ -51,7 +51,7 @@
 <LM>w#w-mf930703-084-p1s1w5</LM>
 </w.rf>
 <form>Mock</form>
-<tag lemma="Mock_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mock_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-084-p1s1w6">
 <src.rf>manual</src.rf>

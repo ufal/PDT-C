@@ -232,7 +232,7 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČVUT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -519,7 +519,7 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČVUT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -579,7 +579,7 @@
 <LM>w#w-ln95043-075-p2s4w6</LM>
 </w.rf>
 <form>Vospěla</form>
-<tag lemma="Vospěl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vospěl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-075-p2s4w7">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČVUT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -943,7 +943,7 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČVUT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1234,7 +1234,7 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČVUT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1632,7 +1632,7 @@
 <LM>w#w-ln95043-075-p2s10w17</LM>
 </w.rf>
 <form>Husova</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95043-075-p2s10w18">
 <src.rf>manual</src.rf>

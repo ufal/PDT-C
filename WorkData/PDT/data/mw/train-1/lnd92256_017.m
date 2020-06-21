@@ -55,7 +55,7 @@
 <form>ria</form>
 <tag>
 <AM lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig">NNFS1-----A----</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-017-p2s1w4">

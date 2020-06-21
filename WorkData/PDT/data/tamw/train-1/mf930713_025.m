@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-025-p1s1w3</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-025-p1s1w4">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-mf930713-025-p2s1Aw2</LM>
 </w.rf>
 <form>CHOVANCE</form>
-<tag lemma="Chovanec_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Chovanec_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-mf930713-025-p2s1Bw4</LM>
 </w.rf>
 <form>Chovanec</form>
-<tag lemma="Chovanec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chovanec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-mf930713-025-p2s1Bw11</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-mf930713-025-p2s2w5</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1101,8 +1101,8 @@
 </w.rf>
 <form>Gerets</form>
 <tag>
-<AM lemma="Gerets_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gerets_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gerets_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gerets_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-025-p2s7w6">
@@ -1130,7 +1130,7 @@
 <LM>w#w-mf930713-025-p2s7w8</LM>
 </w.rf>
 <form>Breukelen</form>
-<tag lemma="Breukelen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Breukelen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-mf930713-025-p2s7w11</LM>
 </w.rf>
 <form>Tigelen</form>
-<tag lemma="Tigelen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigelen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-mf930713-025-p2s8w3</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-mf930713-025-p2s10w10</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s10w11">
 <src.rf>manual</src.rf>
@@ -1536,7 +1536,7 @@
 <LM>w#w-mf930713-025-p2s11w2</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1560,7 +1560,7 @@
 <LM>w#w-mf930713-025-p2s11w5</LM>
 </w.rf>
 <form>Korbel</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s11w6">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 <LM>w#w-mf930713-025-p2s11w7</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s11w8">
 <src.rf>manual</src.rf>
@@ -1682,7 +1682,7 @@
 <LM>w#w-mf930713-025-p2s12w7</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s12w8">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-mf930713-025-p2s12w9</LM>
 </w.rf>
 <form>Mašek</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s12w10">
 <src.rf>manual</src.rf>
@@ -1722,7 +1722,7 @@
 <LM>w#w-mf930713-025-p2s12w12</LM>
 </w.rf>
 <form>Paskou</form>
-<tag lemma="Paska_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Paska_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s12w13">
 <src.rf>manual</src.rf>
@@ -2107,7 +2107,7 @@
 <LM>w#w-mf930713-025-p2s15w3</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s15w4">
 <src.rf>manual</src.rf>
@@ -2471,7 +2471,7 @@
 <LM>w#w-mf930713-025-p2s18w11</LM>
 </w.rf>
 <form>Dobiašem</form>
-<tag lemma="Dobiaš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dobiaš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s18w12">
 <src.rf>manual</src.rf>
@@ -2521,7 +2521,7 @@
 <LM>w#w-mf930713-025-p2s19w5</LM>
 </w.rf>
 <form>Dobiašův</form>
-<tag lemma="Dobiašův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Dobiašův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-mf930713-025-p2s19w6">
 <src.rf>manual</src.rf>
@@ -2762,7 +2762,7 @@
 <LM>w#w-mf930713-025-p2s22w1</LM>
 </w.rf>
 <form>Dobiaš</form>
-<tag lemma="Dobiaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobiaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s22w2">
 <src.rf>manual</src.rf>
@@ -3092,7 +3092,7 @@
 <LM>w#w-mf930713-025-p2s24w12</LM>
 </w.rf>
 <form>Uhrin</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s24w13">
 <src.rf>manual</src.rf>
@@ -3248,7 +3248,7 @@
 <LM>w#w-mf930713-025-p2s26w2</LM>
 </w.rf>
 <form>Dobiaše</form>
-<tag lemma="Dobiaš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dobiaš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s26w3">
 <src.rf>manual</src.rf>
@@ -3328,7 +3328,7 @@
 <LM>w#w-mf930713-025-p2s26w12</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s26w13">
 <src.rf>manual</src.rf>
@@ -3410,7 +3410,7 @@
 <LM>w#w-mf930713-025-p2s27w7</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s27w8">
 <src.rf>manual</src.rf>
@@ -3522,7 +3522,7 @@
 <LM>w#w-mf930713-025-p2s27w21</LM>
 </w.rf>
 <form>Uhrinovi</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s27w22">
 <src.rf>manual</src.rf>
@@ -3644,7 +3644,7 @@
 <LM>w#w-mf930713-025-p2s28w14</LM>
 </w.rf>
 <form>Interem</form>
-<tag lemma="Inter_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Inter_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s28w15">
 <src.rf>manual</src.rf>
@@ -3859,7 +3859,7 @@
 <LM>w#w-mf930713-025-p2s30w5</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s30w6">
 <src.rf>manual</src.rf>
@@ -3891,7 +3891,7 @@
 <LM>w#w-mf930713-025-p2s30w9</LM>
 </w.rf>
 <form>Dobiašem</form>
-<tag lemma="Dobiaš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dobiaš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s30w10">
 <src.rf>manual</src.rf>
@@ -3989,7 +3989,7 @@
 <LM>w#w-mf930713-025-p2s31w11</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s31w12">
 <src.rf>manual</src.rf>
@@ -4135,7 +4135,7 @@
 <LM>w#w-mf930713-025-p2s32w8</LM>
 </w.rf>
 <form>Mach</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s32w9">
 <src.rf>manual</src.rf>
@@ -4451,7 +4451,7 @@
 <LM>w#w-mf930713-025-p2s34w8</LM>
 </w.rf>
 <form>Chovanec</form>
-<tag lemma="Chovanec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chovanec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s34w9">
 <src.rf>manual</src.rf>
@@ -4467,7 +4467,7 @@
 <LM>w#w-mf930713-025-p2s34w10</LM>
 </w.rf>
 <form>Dobiaš</form>
-<tag lemma="Dobiaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobiaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s34w11">
 <src.rf>manual</src.rf>
@@ -5467,7 +5467,7 @@
 <LM>w#w-mf930713-025-p2s44w11</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s44w12">
 <src.rf>manual</src.rf>
@@ -5517,7 +5517,7 @@
 <LM>w#w-mf930713-025-p2s45w5</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-025-p2s45w6">
 <src.rf>manual</src.rf>
@@ -5626,7 +5626,7 @@
 <LM>w#w-mf930713-025-p2s46w4</LM>
 </w.rf>
 <form>Dobiašovi</form>
-<tag lemma="Dobiaš_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Dobiaš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930713-025-p2s46w5">
 <src.rf>manual</src.rf>

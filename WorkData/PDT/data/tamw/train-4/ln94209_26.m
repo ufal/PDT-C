@@ -29,7 +29,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-26-p1s1Aw3">
@@ -46,7 +46,7 @@
 <LM>w#w-ln94209-26-p1s1Aw4</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-26-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-ln94209-26-p1s1Aw12</LM>
 </w.rf>
 <form>Jie</form>
-<tag lemma="Jie_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Jie_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94209-26-p1s1Aw13">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-ln94209-26-p1s1Bw3</LM>
 </w.rf>
 <form>Hejzlar</form>
-<tag lemma="Hejzlar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hejzlar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-26-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -243,8 +243,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

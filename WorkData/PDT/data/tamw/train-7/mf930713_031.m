@@ -19,7 +19,7 @@
 <LM>w#w-mf930713-031-p1s1w1</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-031-p1s1w2">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-mf930713-031-p2s1Bw2</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -210,16 +210,16 @@
 <AM lemma="Franca_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="France-2_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -322,7 +322,7 @@
 <LM>w#w-mf930713-031-p2s2w3</LM>
 </w.rf>
 <form>Breukinkem</form>
-<tag lemma="Breukink_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Breukink_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s2w4">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-mf930713-031-p2s3w14</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s3w15">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-mf930713-031-p2s7w1</LM>
 </w.rf>
 <form>Breukink</form>
-<tag lemma="Breukink_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Breukink_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s7w2">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-mf930713-031-p2s14w1</LM>
 </w.rf>
 <form>Bruyneel</form>
-<tag lemma="Bruyneel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bruyneel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s14w2">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 <LM>w#w-mf930713-031-p2s17w1</LM>
 </w.rf>
 <form>Jaskula</form>
-<tag lemma="Jaskula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jaskula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s17w2">
 <src.rf>manual</src.rf>
@@ -808,12 +808,12 @@
 <form>Pol</form>
 <tag>
 <AM lemma="Polsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Pol_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pol_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Pol_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Pola_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Polo_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Polo_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="politický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="polohový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="polovina_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="poloviční_:B" src="auto">AAXXX----1A---8</AM>

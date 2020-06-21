@@ -237,8 +237,8 @@
 <form>Slavonski</form>
 <tag>
 <AM lemma="Slavonski_;G_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Slavonski_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Slavonski_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Slavonski_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Slavonski_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Slavonski-2_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Slavonski-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1292,8 +1292,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-123-p4s2w9">
@@ -1303,7 +1303,7 @@
 </w.rf>
 <form>UNICEF</form>
 <tag>
-<AM lemma="UNICEF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNICEF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="UNICEF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1313,7 +1313,7 @@
 <LM>w#w-mf920922-123-p4s2w10</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-123-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 <LM>w#w-mf920922-123-p4s2w11</LM>
 </w.rf>
 <form>Grant</form>
-<tag lemma="Grant-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grant-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-123-p4s2w12">
 <src.rf>manual</src.rf>

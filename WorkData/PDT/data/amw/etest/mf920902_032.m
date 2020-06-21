@@ -54,7 +54,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -88,7 +88,7 @@
 <LM>w#w-mf920902-032-p2s1w6</LM>
 </w.rf>
 <form>Kováče</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-032-p2s1w7">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -311,7 +311,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -346,7 +346,7 @@
 </w.rf>
 <form>FMV</form>
 <tag>
-<AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMV_:B_;m_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -554,8 +554,8 @@
 </w.rf>
 <form>c</form>
 <tag>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="c-33" src="orig">Q3-------------</AM>
+<AM lemma="c-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-032-p2s2w25">
@@ -681,7 +681,7 @@
 <LM>w#w-mf920902-032-p2s3w4</LM>
 </w.rf>
 <form>Bašta</form>
-<tag lemma="Bašta_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bašta_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-032-p2s3w5">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-032-p2s4w3">
@@ -881,7 +881,7 @@
 <LM>w#w-mf920902-032-p2s4w4</LM>
 </w.rf>
 <form>Bašty</form>
-<tag lemma="Bašta_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bašta_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-032-p2s4w5">
 <src.rf>manual</src.rf>

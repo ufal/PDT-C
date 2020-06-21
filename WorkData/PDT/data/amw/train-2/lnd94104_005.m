@@ -81,8 +81,8 @@
 </w.rf>
 <form>haš</form>
 <tag>
-<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="haš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-005-p1s2w4">
@@ -310,7 +310,7 @@
 <form>Vlček</form>
 <tag>
 <AM lemma="vlček" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vlček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vlček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-005-p1s4w7">

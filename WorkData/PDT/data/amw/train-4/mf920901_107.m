@@ -339,7 +339,7 @@
 <LM>w#w-mf920901-107-p2s3w7</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920901-107-p2s3w8">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -673,7 +673,7 @@
 </w.rf>
 <form>Soir</form>
 <tag>
-<AM lemma="Soir_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Soir_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Soira_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Soir-77" src="manual" selected="1">F%-------------</AM>
 </tag>

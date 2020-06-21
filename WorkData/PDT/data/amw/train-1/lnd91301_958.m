@@ -62,8 +62,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw3">
@@ -145,7 +145,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -165,7 +165,7 @@
 <form>Devátým</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS7----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw15">
@@ -232,7 +232,7 @@
 <form>Devátý</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS1----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw23">
@@ -267,7 +267,7 @@
 <form>Vidimem</form>
 <tag>
 <AM lemma="Vidim_;G" src="orig">NNFP3-----A----</AM>
-<AM lemma="Vidim-2_;S" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Vidim-2_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw27">
@@ -284,7 +284,7 @@
 <LM>w#w-lnd91301-958-p2s1Aw28</LM>
 </w.rf>
 <form>Pospíšilem</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw29">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-lnd91301-958-p2s1Aw30</LM>
 </w.rf>
 <form>Petrovou</form>
-<tag lemma="Petrová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Petrová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw31">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw36">
@@ -359,7 +359,7 @@
 <LM>w#w-lnd91301-958-p2s1Aw37</LM>
 </w.rf>
 <form>Dientsbiera</form>
-<tag lemma="Dientsbier_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dientsbier_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw38">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <form>Devátý</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS1----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s2w12">
@@ -600,8 +600,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s3w8">
@@ -628,7 +628,7 @@
 <form>Devátému</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS3----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s3w11">
@@ -901,7 +901,7 @@
 <form>Devátého</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS2----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p3s1Aw4">
@@ -1756,7 +1756,7 @@
 <form>Devátý</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS1----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p4s3Aw3">
@@ -1977,7 +1977,7 @@
 <form>Devátý</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS1----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p4s4Aw4">
@@ -2222,7 +2222,7 @@
 <form>Devátý</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS1----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p5s1w3">
@@ -2726,7 +2726,7 @@
 <form>Devátý</form>
 <tag>
 <AM lemma="devátý" src="orig">CrMS1----------</AM>
-<AM lemma="Devátý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Devátý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p6s1w6">

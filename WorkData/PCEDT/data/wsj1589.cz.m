@@ -17,9 +17,9 @@
 </w.rf>
 <form>COCA</form>
 <tag>
-<AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
-<AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="COCA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -38,13 +38,13 @@
 </w.rf>
 <form>COLA</form>
 <tag>
-<AM lemma="Col_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Col_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cola_;R" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP4-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Cola_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
 <AM lemma="COLA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -126,7 +126,7 @@
 <LM>w#w-wsj1589-001-p1s1W2</LM>
 </w.rf>
 <form>Amon</form>
-<tag lemma="Amon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Amon_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1589-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -136,9 +136,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -154,7 +154,7 @@
 <AM lemma="George_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="George_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="George-77" src="auto">F%-------------</AM>
-<AM lemma="George_;Y_,t" src="auto">NNMSX-----A----</AM>
+<AM lemma="George_;Y_,t" src="auto">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1589-001-p1s1W5-Ta">
@@ -165,7 +165,7 @@
 <form>Gourlay</form>
 <tag>
 <AM lemma="Gourlay" src="auto">X@-------------</AM>
-<AM lemma="Gourlay_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gourlay_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1589-001-p1s1W6-Ta">
@@ -349,7 +349,7 @@
 <LM>w#w-wsj1589-001-p1s2W2</LM>
 </w.rf>
 <form>Amon</form>
-<tag lemma="Amon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Amon_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1589-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -509,9 +509,9 @@
 </w.rf>
 <form>Coca</form>
 <tag>
-<AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
-<AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -530,13 +530,13 @@
 </w.rf>
 <form>Cola</form>
 <tag>
-<AM lemma="Col_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Col_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cola_;R" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP4-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Cola_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
 <AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -609,7 +609,7 @@
 <form>Gourlay</form>
 <tag>
 <AM lemma="Gourlay" src="auto">X@-------------</AM>
-<AM lemma="Gourlay_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gourlay_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1589-001-p1s3W3-Ta">

@@ -28,7 +28,7 @@
 </w.rf>
 <form>MCM</form>
 <tag>
-<AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MCM-3_:B_;m_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -225,7 +225,7 @@
 </w.rf>
 <form>MCM</form>
 <tag>
-<AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MCM-3_:B_;m_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -495,7 +495,7 @@
 </w.rf>
 <form>MCM</form>
 <tag>
-<AM lemma="MCM-3_:B_;K_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MCM-3_:B_;m_,t_^(hudební_TV_stanice)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MCM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -765,7 +765,7 @@
 </w.rf>
 <form>Heavy</form>
 <tag>
-<AM lemma="Heavy_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Heavy_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Heavy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -856,7 +856,7 @@
 </w.rf>
 <form>Suicidal</form>
 <tag>
-<AM lemma="Suicidal_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Suicidal_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Suicidal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -867,7 +867,7 @@
 </w.rf>
 <form>tendenties</form>
 <tag>
-<AM lemma="tendenty_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="tendenty_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="tendenties-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -929,7 +929,7 @@
 </w.rf>
 <form>Black</form>
 <tag>
-<AM lemma="Black_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Black_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="black_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Black-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -941,8 +941,8 @@
 </w.rf>
 <form>Sabbath</form>
 <tag>
-<AM lemma="Sabbath_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Sabbath_;K_;u_,t_^(z_názvu_skupiny_Black_Sabbath)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Sabbath_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Sabbath_;m_,t_^(z_názvu_skupiny_Black_Sabbath)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Sabbath-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -970,8 +970,8 @@
 <form>Ronnie</form>
 <tag>
 <AM lemma="Ronnie_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Ronnie_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ronnie_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Ronnie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ronnie_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ronnie-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
@@ -981,7 +981,7 @@
 <LM>w#w-mf920901-026-p2s8w18</LM>
 </w.rf>
 <form>Jamesem</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-026-p2s8w19">
 <src.rf>manual</src.rf>
@@ -990,8 +990,8 @@
 </w.rf>
 <form>Diem</form>
 <tag>
-<AM lemma="Zeus_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Dio_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Zeus_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Dio_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-026-p2s8w20">
@@ -1182,7 +1182,7 @@
 </w.rf>
 <form>MTV</form>
 <tag>
-<AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MTV-1_:B_;m_^(TV_stanice_USA)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1574,7 +1574,7 @@
 <form>Musica</form>
 <tag>
 <AM lemma="Musica_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Musica_^(Musica_Bohemica)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

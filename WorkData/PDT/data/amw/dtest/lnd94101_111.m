@@ -109,7 +109,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-111-p1s1w13">
@@ -128,7 +128,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-111-p1s1w15">
@@ -145,7 +145,7 @@
 <LM>w#w-lnd94101-111-p1s1w16</LM>
 </w.rf>
 <form>Komenského</form>
-<tag lemma="Komenský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komenský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-111-p1s1w17">
 <src.rf>manual</src.rf>

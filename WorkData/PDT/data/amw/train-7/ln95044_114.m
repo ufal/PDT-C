@@ -256,8 +256,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s1Bw25">
@@ -275,8 +275,8 @@
 </w.rf>
 <form>I</form>
 <tag>
-<AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s1Bw27">
@@ -294,21 +294,21 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-4_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="C-4_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
-<AM lemma="C-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="C-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="C-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="C-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="C-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s1Bw29">
@@ -561,7 +561,7 @@
 <LM>w#w-ln95044-114-p2s3w2</LM>
 </w.rf>
 <form>Tomášek</form>
-<tag lemma="Tomášek-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-114-p2s3w3">
 <src.rf>manual</src.rf>
@@ -594,8 +594,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s3w7">
@@ -613,8 +613,8 @@
 </w.rf>
 <form>I</form>
 <tag>
-<AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s3w9">
@@ -632,21 +632,21 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-4_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="C-4_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
-<AM lemma="C-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="C-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="C-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="C-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="C-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s3w11">
@@ -1068,8 +1068,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s5w7">
@@ -1087,8 +1087,8 @@
 </w.rf>
 <form>I</form>
 <tag>
-<AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s5w9">
@@ -1106,21 +1106,21 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-4_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="C-4_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
-<AM lemma="C-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="C-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="C-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="C-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="C-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-114-p2s5w11">
@@ -1249,7 +1249,7 @@
 <LM>w#w-ln95044-114-p2s5w26</LM>
 </w.rf>
 <form>Fišera</form>
-<tag lemma="Fišer_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Fišer_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-114-p2s5w27">
 <src.rf>manual</src.rf>

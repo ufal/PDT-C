@@ -99,7 +99,7 @@
 <LM>w#w-lnd94105-002-p1s1Aw11</LM>
 </w.rf>
 <form>Kachyni</form>
-<tag lemma="Kachyňa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kachyňa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94105-002-p1s1B">

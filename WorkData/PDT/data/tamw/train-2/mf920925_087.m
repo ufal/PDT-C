@@ -37,7 +37,7 @@
 <LM>w#w-mf920925-087-p2s1Aw2</LM>
 </w.rf>
 <form>HAVLA</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-087-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -53,7 +53,7 @@
 <LM>w#w-mf920925-087-p2s1Aw4</LM>
 </w.rf>
 <form>KOTASOVI</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 </s>
 <s id="m-mf920925-087-p2s1B">
@@ -151,7 +151,7 @@
 <LM>w#w-mf920925-087-p2s1Bw12</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf920925-087-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-mf920925-087-p2s2w4</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-087-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1905,7 +1905,7 @@
 <LM>w#w-mf920925-087-p2s14w5</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-087-p2s14w6">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-mf920925-087-p2s14w7</LM>
 </w.rf>
 <form>Kotasovi</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920925-087-p2s14w8">
 <src.rf>manual</src.rf>

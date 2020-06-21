@@ -46,7 +46,7 @@
 <LM>w#w-vesm9303-011-p1s1w4</LM>
 </w.rf>
 <form>Grygar</form>
-<tag lemma="Grygar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grygar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p1s1w5">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-vesm9303-011-p1s2w10</LM>
 </w.rf>
 <form>Masarykovy</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-011-p1s2w11">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-vesm9303-011-p2s1w4</LM>
 </w.rf>
 <form>Dzúrová</form>
-<tag lemma="Dzúrová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dzúrová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p2s1w5">
 <src.rf>manual</src.rf>
@@ -451,8 +451,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-011-p2s1w13">
@@ -684,7 +684,7 @@
 <LM>w#w-vesm9303-011-p3s1w4</LM>
 </w.rf>
 <form>Bartošová</form>
-<tag lemma="Bartošová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bartošová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p3s1w5">
 <src.rf>manual</src.rf>
@@ -773,8 +773,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-011-p3s1w16">
@@ -834,7 +834,7 @@
 </w.rf>
 <form>ČSAV</form>
 <tag>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -921,7 +921,7 @@
 <LM>w#w-vesm9303-011-p4s1w4</LM>
 </w.rf>
 <form>Schreiber</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-vesm9303-011-p5s1w4</LM>
 </w.rf>
 <form>Cílek</form>
-<tag lemma="Cílek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cílek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1397,8 +1397,8 @@
 </w.rf>
 <form>AV</form>
 <tag>
-<AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AV_:B_;K_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-011-p5s3w5">
@@ -1487,7 +1487,7 @@
 <LM>w#w-vesm9303-011-p6s1w4</LM>
 </w.rf>
 <form>Jakeš</form>
-<tag lemma="Jakeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jakeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1942,8 +1942,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-011-p6s5w6">
@@ -2008,7 +2008,7 @@
 <LM>w#w-vesm9303-011-p7s1w6</LM>
 </w.rf>
 <form>Kotecký</form>
-<tag lemma="Kotecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p7s1w7">
 <src.rf>manual</src.rf>
@@ -2358,7 +2358,7 @@
 </w.rf>
 <form>University</form>
 <tag>
-<AM lemma="University_;K_,t_^(angl.,_v_názvech)" src="orig">NNFSX-----A----</AM>
+<AM lemma="University_;m_,t_^(angl.,_v_názvech)" src="orig">NNFXX-----A----</AM>
 <AM lemma="University-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2400,7 +2400,7 @@
 </w.rf>
 <form>Irvine</form>
 <tag>
-<AM lemma="Irvine_;G_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Irvine_;G_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Irvin_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Irvine_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Irvine_;Y" src="auto">NNMS5-----A----</AM>
@@ -2471,7 +2471,7 @@
 <LM>w#w-vesm9303-011-p8s1w6</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p8s1w7">
 <src.rf>manual</src.rf>
@@ -2565,8 +2565,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-011-p8s2w9">
@@ -2616,8 +2616,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-011-p8s2w15">

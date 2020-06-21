@@ -199,7 +199,7 @@
 <form>Adria</form>
 <tag>
 <AM lemma="Adrie_;Y" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Adrie-2_;K" src="manual" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Adrie-2_;m" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95040-052-p2s1w19">
@@ -227,7 +227,7 @@
 <LM>w#w-ln95040-052-p2s1w21</LM>
 </w.rf>
 <form>Krejčou</form>
-<tag lemma="Krejča_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Krejča_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-052-p2s1w22">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-ln95040-052-p3s4w12</LM>
 </w.rf>
 <form>Doležal</form>
-<tag lemma="Doležal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doležal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-052-p3s4w13">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-ln95040-052-p3s5w3</LM>
 </w.rf>
 <form>Vencla</form>
-<tag lemma="Vencl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vencl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-052-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln95040-052-p3s6w17</LM>
 </w.rf>
 <form>Vencl</form>
-<tag lemma="Vencl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vencl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-052-p3s6w18">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-ln95040-052-p4s1w17</LM>
 </w.rf>
 <form>Krejča</form>
-<tag lemma="Krejča_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krejča_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-052-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-ln95040-052-p4s2w5</LM>
 </w.rf>
 <form>Vencla</form>
-<tag lemma="Vencl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vencl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-052-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1575,7 +1575,7 @@
 <LM>w#w-ln95040-052-p4s2w16</LM>
 </w.rf>
 <form>Krejčovy</form>
-<tag lemma="Krejčův_;S_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Krejčův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95040-052-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <LM>w#w-ln95040-052-p4s3w3</LM>
 </w.rf>
 <form>Krejča</form>
-<tag lemma="Krejča_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krejča_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-052-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <LM>w#w-ln95040-052-p4s3w7</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-052-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-ln95040-052-p5s1w2</LM>
 </w.rf>
 <form>Krejča</form>
-<tag lemma="Krejča_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krejča_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-052-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2447,7 +2447,7 @@
 <LM>w#w-ln95040-052-p5s4w24</LM>
 </w.rf>
 <form>Krejča</form>
-<tag lemma="Krejča_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krejča_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-052-p5s4w25">
 <src.rf>manual</src.rf>

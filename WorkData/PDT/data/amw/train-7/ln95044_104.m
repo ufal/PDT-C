@@ -489,7 +489,7 @@
 <LM>w#w-ln95044-104-p2s3w11</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-104-p2s3w12">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln95044-104-p2s6w2</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-104-p2s6w3">
 <src.rf>manual</src.rf>

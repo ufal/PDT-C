@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-061-p1s1w1</LM>
 </w.rf>
 <form>Balladurova</form>
-<tag lemma="Balladurův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Balladurův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95045-061-p1s1w2">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-ln95045-061-p2s1Bw12</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-061-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 </w.rf>
 <form>BVA</form>
 <tag>
-<AM lemma="BVA_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="BVA_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="BVA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -514,8 +514,8 @@
 </w.rf>
 <form>Lionel</form>
 <tag>
-<AM lemma="Lionel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lionel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lionel_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lionel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-061-p2s3w11">
@@ -524,7 +524,7 @@
 <LM>w#w-ln95045-061-p2s3w11</LM>
 </w.rf>
 <form>Jospin</form>
-<tag lemma="Jospin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jospin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-061-p2s3w12">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 </w.rf>
 <form>RPR</form>
 <tag>
-<AM lemma="RPR-1_:B_;K_,t_^(Rassemblement_pour_la_République)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RPR-1_:B_;m_,t_^(Rassemblement_pour_la_République)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="RPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -761,7 +761,7 @@
 <LM>w#w-ln95045-061-p2s4w9</LM>
 </w.rf>
 <form>Chirac</form>
-<tag lemma="Chirac_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chirac_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-061-p2s4w10">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-ln95045-061-p2s4w18</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-061-p2s4w19">
 <src.rf>manual</src.rf>

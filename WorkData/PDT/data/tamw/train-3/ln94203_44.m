@@ -211,8 +211,8 @@
 </w.rf>
 <form>Maruta</form>
 <tag>
-<AM lemma="Marut_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Marut_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Marut_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Marut_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-44-p2s1Bw18">
@@ -221,7 +221,7 @@
 <LM>w#w-ln94203-44-p2s1Bw18</LM>
 </w.rf>
 <form>Bunnaga</form>
-<tag lemma="Bunnag_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bunnag_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln94203-44-p2s1Bw29</LM>
 </w.rf>
 <form>Uhdem</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln94203-44-p2s2w1</LM>
 </w.rf>
 <form>Bunnag</form>
-<tag lemma="Bunnag_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bunnag_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s2w2">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-ln94203-44-p2s2w10</LM>
 </w.rf>
 <form>Uhdeho</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s2w11">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94203-44-p2s3w11</LM>
 </w.rf>
 <form>Havlem</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s3w12">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-ln94203-44-p2s3w16</LM>
 </w.rf>
 <form>Kočárníkem</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s3w17">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-ln94203-44-p2s3w22</LM>
 </w.rf>
 <form>Bratinkou</form>
-<tag lemma="Bratinka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Bratinka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-44-p2s3w23">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln94203-44-p2s4w1</LM>
 </w.rf>
 <form>Bunnagova</form>
-<tag lemma="Bunnagův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Bunnagův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94203-44-p2s4w2">
 <src.rf>manual</src.rf>

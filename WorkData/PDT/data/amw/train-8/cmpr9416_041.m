@@ -329,7 +329,7 @@
 <LM>w#w-cmpr9416-041-p3s2w8</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p3s2w9">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-cmpr9416-041-p3s3w15</LM>
 </w.rf>
 <form>Agrotech</form>
-<tag lemma="Agrotech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agrotech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p3s3w16">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-cmpr9416-041-p5s1w2</LM>
 </w.rf>
 <form>Winter</form>
-<tag lemma="Winter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Winter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-041-p6s1">
@@ -1134,7 +1134,7 @@
 <LM>w#w-cmpr9416-041-p7s1w9</LM>
 </w.rf>
 <form>Agrotech</form>
-<tag lemma="Agrotech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agrotech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 </w.rf>
 <form>Instruments</form>
 <tag>
-<AM lemma="Instrument_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Instrument_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Instruments-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2086,7 +2086,7 @@
 <LM>w#w-cmpr9416-041-p10s1w5</LM>
 </w.rf>
 <form>Agrotech</form>
-<tag lemma="Agrotech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agrotech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p10s1w6">
 <src.rf>manual</src.rf>
@@ -2456,7 +2456,7 @@
 <LM>w#w-cmpr9416-041-p10s2w31</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9416-041-p10s2w32">
 <src.rf>manual</src.rf>
@@ -2908,7 +2908,7 @@
 <LM>w#w-cmpr9416-041-p12s1w13</LM>
 </w.rf>
 <form>Blažkovi</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p12s1w14">
 <src.rf>manual</src.rf>
@@ -3260,7 +3260,7 @@
 <LM>w#w-cmpr9416-041-p12s2w8</LM>
 </w.rf>
 <form>Tárnok</form>
-<tag lemma="Tárnok_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tárnok_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p12s2w9">
 <src.rf>manual</src.rf>
@@ -3293,8 +3293,8 @@
 </w.rf>
 <form>ET</form>
 <tag>
-<AM lemma="ET_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Eta-2_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="ET_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Eta-2_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="et_,t_^(latinsky_spojka_a)" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="ET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3306,7 +3306,7 @@
 </w.rf>
 <form>system</form>
 <tag>
-<AM lemma="system_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="system_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="systém" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="system-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3447,7 +3447,7 @@
 <LM>w#w-cmpr9416-041-p13s1w8</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p13s1w9">
 <src.rf>manual</src.rf>
@@ -3554,8 +3554,8 @@
 </w.rf>
 <form>ET</form>
 <tag>
-<AM lemma="ET_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Eta-2_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="ET_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Eta-2_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="et_,t_^(latinsky_spojka_a)" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="ET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3567,7 +3567,7 @@
 </w.rf>
 <form>system</form>
 <tag>
-<AM lemma="system_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="system_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="systém" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="system-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3634,7 +3634,7 @@
 <LM>w#w-cmpr9416-041-p13s2w10</LM>
 </w.rf>
 <form>Agrotech</form>
-<tag lemma="Agrotech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agrotech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p13s2w11">
 <src.rf>manual</src.rf>
@@ -4650,7 +4650,7 @@
 <LM>w#w-cmpr9416-041-p15s4w21</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p15s4w22">
 <src.rf>manual</src.rf>
@@ -4806,7 +4806,7 @@
 <LM>w#w-cmpr9416-041-p16s2w8</LM>
 </w.rf>
 <form>Agrotech</form>
-<tag lemma="Agrotech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agrotech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p16s2w9">
 <src.rf>manual</src.rf>
@@ -5386,7 +5386,7 @@
 <LM>w#w-cmpr9416-041-p17s1w2</LM>
 </w.rf>
 <form>Winter</form>
-<tag lemma="Winter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Winter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-041-p18s1">
@@ -5412,7 +5412,7 @@
 <LM>w#w-cmpr9416-041-p18s1w3</LM>
 </w.rf>
 <form>Agrotech</form>
-<tag lemma="Agrotech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agrotech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-041-p18s1w4">
 <src.rf>manual</src.rf>

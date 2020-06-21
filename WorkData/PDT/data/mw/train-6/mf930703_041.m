@@ -2343,7 +2343,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2690,7 +2690,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2964,7 +2964,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

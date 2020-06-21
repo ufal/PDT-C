@@ -102,7 +102,7 @@
 <LM>w#w-ln95049-042-p1s1w11</LM>
 </w.rf>
 <form>Ghedinou</form>
-<tag lemma="Ghedina_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ghedina_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-042-p1s1w12">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <LM>w#w-ln95049-042-p1s1w19</LM>
 </w.rf>
 <form>Kjus</form>
-<tag lemma="Kjus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kjus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-042-p1s1w20">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <LM>w#w-ln95049-042-p1s1w21</LM>
 </w.rf>
 <form>Ortliebem</form>
-<tag lemma="Ortlieb_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ortlieb_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 </mdata>

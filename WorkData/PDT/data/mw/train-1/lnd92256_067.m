@@ -44,7 +44,7 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -187,7 +187,7 @@
 </w.rf>
 <form>Křesťansko</form>
 <tag>
-<AM lemma="Křesťanský_;K" src="orig">A2--------A----</AM>
+<AM lemma="Křesťanský_;m" src="orig">A2--------A----</AM>
 <AM lemma="křesťanský" src="auto" selected="1">A2--------A----</AM>
 <AM lemma="křesťansko" src="auto" recommended="1">A2--------A----</AM>
 </tag>
@@ -231,7 +231,7 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92256-067-p3s1w23</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p3s1w24">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -981,7 +981,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Kohlovi</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1904,7 +1904,7 @@
 <LM>w#w-lnd92256-067-p5s1w1</LM>
 </w.rf>
 <form>Kohlovo</form>
-<tag lemma="Kohlův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Kohlův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd92256-067-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2105,7 +2105,7 @@
 </w.rf>
 <form>FDP</form>
 <tag>
-<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP_:B_;m_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2155,7 +2155,7 @@
 <LM>w#w-lnd92256-067-p5s2w11</LM>
 </w.rf>
 <form>Lambsdorfa</form>
-<tag lemma="Lambsdorf_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lambsdorf_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 </w.rf>
 <form>CSU</form>
 <tag>
-<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2313,7 +2313,7 @@
 <LM>w#w-lnd92256-067-p5s2w30</LM>
 </w.rf>
 <form>Waiglem</form>
-<tag lemma="Waigl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Waigl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p5s2w31">
 <src.rf>manual</src.rf>
@@ -3422,7 +3422,7 @@
 <LM>w#w-lnd92256-067-p7s2w4</LM>
 </w.rf>
 <form>Kohla</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p7s2w5">
 <src.rf>manual</src.rf>
@@ -3680,7 +3680,7 @@
 <LM>w#w-lnd92256-067-p7s3w23</LM>
 </w.rf>
 <form>Kohlových</form>
-<tag lemma="Kohlův_;S_^(*2)" src="orig" selected="1">AUFP6M---------</tag>
+<tag lemma="Kohlův_;Y_^(*2)" src="orig" selected="1">AUFP6M---------</tag>
 </m>
 <m id="m-lnd92256-067-p7s3w24">
 <src.rf>manual</src.rf>
@@ -4618,7 +4618,7 @@
 <LM>w#w-lnd92256-067-p8s1w8</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p8s1w9">
 <src.rf>manual</src.rf>
@@ -5009,7 +5009,7 @@
 <LM>w#w-lnd92256-067-p8s3w24</LM>
 </w.rf>
 <form>Eggert</form>
-<tag lemma="Eggert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eggert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p8s3w25">
 <src.rf>manual</src.rf>
@@ -5193,7 +5193,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5465,7 +5465,7 @@
 <LM>w#w-lnd92256-067-p8s8w7</LM>
 </w.rf>
 <form>Biedenkopfa</form>
-<tag lemma="Biedenkopf_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Biedenkopf_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p8s8w8">
 <src.rf>manual</src.rf>
@@ -6050,7 +6050,7 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6238,7 +6238,7 @@
 <LM>w#w-lnd92256-067-p9s3w2</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p9s3w3">
 <src.rf>manual</src.rf>
@@ -6489,7 +6489,7 @@
 <LM>w#w-lnd92256-067-p9s5w13</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p9s5w14">
 <src.rf>manual</src.rf>
@@ -6646,7 +6646,7 @@
 <LM>w#w-lnd92256-067-p10s1w3</LM>
 </w.rf>
 <form>UTITZ</form>
-<tag lemma="Utitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Utitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p10s1w4">
 <src.rf>manual</src.rf>

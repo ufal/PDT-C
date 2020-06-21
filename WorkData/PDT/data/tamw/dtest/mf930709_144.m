@@ -122,8 +122,8 @@
 </w.rf>
 <form>kw</form>
 <tag>
-<AM lemma="kw-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kw-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kw-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kw-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-144-p2s1Aw5">
@@ -654,7 +654,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -746,7 +746,7 @@
 <form>Fedor</form>
 <tag>
 <AM lemma="Fedor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fedor_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fedor_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-144-p2s3w14">
@@ -910,8 +910,8 @@
 </w.rf>
 <form>Česmadu</form>
 <tag>
-<AM lemma="Česmad_:B_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Česmad_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Česmad_:B_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="Česmad_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-144-p2s4w4">
@@ -920,7 +920,7 @@
 <LM>w#w-mf930709-144-p2s4w4</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag lemma="Slovakia_;G_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Slovakia_;G_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930709-144-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <form>Fedor</form>
 <tag>
 <AM lemma="Fedor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fedor_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fedor_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-144-p2s4w19">
@@ -1307,7 +1307,7 @@
 <LM>w#w-mf930709-144-p3s2w18</LM>
 </w.rf>
 <form>Hofbauer</form>
-<tag lemma="Hofbauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofbauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-144-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1511,7 +1511,7 @@
 <LM>w#w-mf930709-144-p3s4w1</LM>
 </w.rf>
 <form>Hofbauer</form>
-<tag lemma="Hofbauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofbauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-144-p3s4w2">
 <src.rf>manual</src.rf>
@@ -2048,7 +2048,7 @@
 <LM>w#w-mf930709-144-p3s7w13</LM>
 </w.rf>
 <form>Václavík</form>
-<tag lemma="Václavík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Václavík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-144-p3s7w14">
 <src.rf>manual</src.rf>

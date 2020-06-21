@@ -444,7 +444,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -455,7 +455,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1384,7 +1384,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1395,7 +1395,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1413,7 +1413,7 @@
 <LM>w#w-ln95049-128-p6s1w11</LM>
 </w.rf>
 <form>Grede</form>
-<tag lemma="Grede_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grede_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-128-p6s1w12">
 <src.rf>manual</src.rf>

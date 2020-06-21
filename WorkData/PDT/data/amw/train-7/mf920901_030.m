@@ -55,7 +55,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-030-p2s1w2">
@@ -74,7 +74,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-030-p2s1w4">
@@ -91,7 +91,7 @@
 <LM>w#w-mf920901-030-p2s1w5</LM>
 </w.rf>
 <form>Komenský</form>
-<tag lemma="Komenský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komenský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-030-p2s1w6">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <form>Cyrilovou</form>
 <tag>
 <AM lemma="Cyrilův_;Y_^(*2)" src="orig">AUFS7M---------</AM>
-<AM lemma="Cyrilová_;S" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Cyrilová_;Y" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-030-p2s1w20">
@@ -306,7 +306,7 @@
 <LM>w#w-mf920901-030-p2s2w2</LM>
 </w.rf>
 <form>Komenského</form>
-<tag lemma="Komenský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komenský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-030-p2s2w3">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-mf920901-030-p3s1Bw6</LM>
 </w.rf>
 <form>Goya</form>
-<tag lemma="Goya_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goya_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-030-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -1244,13 +1244,13 @@
 </w.rf>
 <form>Tálské</form>
 <tag>
-<AM lemma="Tálský_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFP1-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFP4-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Tálská_;S" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFS3-----A----</AM>
-<AM lemma="Tálská_;S" src="auto">NNFS6-----A----</AM>
+<AM lemma="Tálský_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFP1-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFP4-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFP5-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Tálská_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-030-p3s3w5">
@@ -1647,7 +1647,7 @@
 <LM>w#w-mf920901-030-p3s5w16</LM>
 </w.rf>
 <form>Oslzlého</form>
-<tag lemma="Oslzlý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Oslzlý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-030-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1849,7 +1849,7 @@
 <LM>w#w-mf920901-030-p3s6w9</LM>
 </w.rf>
 <form>Morávka</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-030-p3s6w10">
 <src.rf>manual</src.rf>
@@ -2045,7 +2045,7 @@
 <LM>w#w-mf920901-030-p3s6w32</LM>
 </w.rf>
 <form>Komenskému</form>
-<tag lemma="Komenský_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Komenský_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920901-030-p3s6w33">
 <src.rf>manual</src.rf>
@@ -2265,7 +2265,7 @@
 <LM>w#w-mf920901-030-p4s2w9</LM>
 </w.rf>
 <form>Komenského</form>
-<tag lemma="Komenský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komenský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-030-p4s2w10">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-150-p1s1w1</LM>
 </w.rf>
 <form>Saganová</form>
-<tag lemma="Saganová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Saganová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-150-p1s1w2">
 <src.rf>manual</src.rf>
@@ -122,9 +122,9 @@
 <form>Francoise</form>
 <tag>
 <AM lemma="Francoise_;Y" src="orig" selected="1">NNFXX-----A----</AM>
-<AM lemma="Francois_;S_;Y" src="auto">NNMP4-----A----</AM>
-<AM lemma="Francois_;S_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Francois_;S_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Francois_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Francois_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Francois_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-150-p2s1Bw7">
@@ -133,7 +133,7 @@
 <LM>w#w-ln95048-150-p2s1Bw7</LM>
 </w.rf>
 <form>Saganovou</form>
-<tag lemma="Saganová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Saganová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-150-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-ln95048-150-p2s2w4</LM>
 </w.rf>
 <form>Saganové</form>
-<tag lemma="Saganová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Saganová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-150-p2s2w5">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-ln95048-150-p2s3w1</LM>
 </w.rf>
 <form>Saganová</form>
-<tag lemma="Saganová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Saganová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-150-p2s3w2">
 <src.rf>manual</src.rf>

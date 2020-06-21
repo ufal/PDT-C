@@ -94,8 +94,8 @@
 </w.rf>
 <form>jš</form>
 <tag>
-<AM lemma="jš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-027-p2s1Aw4">
@@ -431,7 +431,7 @@
 <LM>w#w-mf930709-027-p2s2w9</LM>
 </w.rf>
 <form>Kozák</form>
-<tag lemma="Kozák_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozák_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-027-p2s2w10">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1149,7 +1149,7 @@
 <LM>w#w-mf930709-027-p3s2w21</LM>
 </w.rf>
 <form>Kozákovi</form>
-<tag lemma="Kozák_;S_;Y" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kozák_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930709-027-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-027-p3s2w30">
@@ -1234,7 +1234,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-027-p3s2w32">
@@ -1251,7 +1251,7 @@
 <LM>w#w-mf930709-027-p3s2w33</LM>
 </w.rf>
 <form>Meldrum</form>
-<tag lemma="Meldrum_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meldrum_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-027-p3s2w34">
 <src.rf>manual</src.rf>
@@ -1696,7 +1696,7 @@
 <LM>w#w-mf930709-027-p3s5w7</LM>
 </w.rf>
 <form>Agtrosystém</form>
-<tag lemma="Agtrosystém_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agtrosystém_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-027-p3s5w8">
 <src.rf>manual</src.rf>

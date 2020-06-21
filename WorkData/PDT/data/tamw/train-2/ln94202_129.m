@@ -51,7 +51,7 @@
 <LM>w#w-ln94202-129-p1s1Aw5</LM>
 </w.rf>
 <form>Havlovi</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94202-129-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -124,8 +124,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-129-p1s1Aw15">
@@ -146,7 +146,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Albrightovou</form>
-<tag lemma="Albrightová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Albrightová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-129-p1s1B">
@@ -173,7 +173,7 @@
 <LM>w#w-ln94202-129-p1s1Bw3</LM>
 </w.rf>
 <form>Merta</form>
-<tag lemma="Merta-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merta-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-129-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -190,8 +190,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -28,7 +28,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -56,7 +56,7 @@
 <LM>w#w-mf920922-014-p2s1w2</LM>
 </w.rf>
 <form>Petráš</form>
-<tag lemma="Petráš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petráš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-014-p2s1w3">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -675,7 +675,7 @@
 <LM>w#w-mf920922-014-p2s5w8</LM>
 </w.rf>
 <form>Petráše</form>
-<tag lemma="Petráš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Petráš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-014-p2s5w9">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

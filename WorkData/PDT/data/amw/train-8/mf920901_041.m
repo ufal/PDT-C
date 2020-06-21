@@ -78,8 +78,8 @@
 </w.rf>
 <form>hv</form>
 <tag>
-<AM lemma="hv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-041-p2s1Aw6">
@@ -997,7 +997,7 @@
 </w.rf>
 <form>ČSD</form>
 <tag>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

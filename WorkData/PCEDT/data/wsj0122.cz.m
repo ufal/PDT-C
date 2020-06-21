@@ -25,7 +25,7 @@
 </w.rf>
 <form>Young</form>
 <tag>
-<AM lemma="Young_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Young_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Young-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -48,9 +48,9 @@
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
 <AM lemma="s-77_,t" src="auto">F%-------------</AM>
-<AM lemma="s-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
 <AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
@@ -155,9 +155,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -260,9 +260,9 @@
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
 <AM lemma="s-77_,t" src="auto">F%-------------</AM>
-<AM lemma="s-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
 <AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
@@ -319,7 +319,7 @@
 </w.rf>
 <form>Underwoodů</form>
 <tag>
-<AM lemma="Underwood_;S" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Underwood_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="underwood_,l" src="auto">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -358,7 +358,7 @@
 </w.rf>
 <form>Young</form>
 <tag>
-<AM lemma="Young_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Young_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Young-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -381,9 +381,9 @@
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
 <AM lemma="s-77_,t" src="auto">F%-------------</AM>
-<AM lemma="s-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
 <AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
@@ -491,8 +491,8 @@
 </w.rf>
 <form>Underwoodi</form>
 <tag>
-<AM lemma="Underwood_;S" src="auto" recommended="1">NNMP1-----A---1</AM>
-<AM lemma="Underwood_;S" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Underwood_;Y" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Underwood_;Y" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0122-001-p1s1W9-Ta">
@@ -699,8 +699,8 @@
 </w.rf>
 <form>Rodina</form>
 <tag>
-<AM lemma="Rodin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rodin_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Rodin_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Rodin_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="rodina" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -711,7 +711,7 @@
 </w.rf>
 <form>Underwoodů</form>
 <tag>
-<AM lemma="Underwood_;S" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Underwood_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="underwood_,l" src="auto">NNIP2-----A----</AM>
 </tag>
 </m>

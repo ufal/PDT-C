@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-025-p1s1w1</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-025-p1s1w2">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-mf930708-025-p2s1w13</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-025-p2s1w14">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-mf930708-025-p2s4w1</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-025-p2s4w2">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf930708-025-p2s4w3</LM>
 </w.rf>
 <form>Lengera</form>
-<tag lemma="Lenger_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lenger_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-025-p2s4w4">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-mf930708-025-p2s5w3</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-025-p2s5w4">
 <src.rf>manual</src.rf>

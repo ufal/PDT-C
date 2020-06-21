@@ -287,7 +287,7 @@
 <LM>w#w-ln94200-74-p3s1w3</LM>
 </w.rf>
 <form>Beneše</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-74-p3s1w4">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94200-74-p3s1w24</LM>
 </w.rf>
 <form>Beneše</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-74-p3s1w25">
 <src.rf>manual</src.rf>

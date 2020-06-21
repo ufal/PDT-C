@@ -644,7 +644,7 @@
 </w.rf>
 <form>Hannelore</form>
 <tag>
-<AM lemma="Hannelore_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Hannelore_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Hannelore_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -654,7 +654,7 @@
 <LM>w#w-ln94200-128-p3s1w3</LM>
 </w.rf>
 <form>Römichové</form>
-<tag lemma="Römichová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Römichová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-128-p3s1w4">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-ln94200-128-p3s1w5</LM>
 </w.rf>
 <form>Frauhoferova</form>
-<tag lemma="Frauhoferův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Frauhoferův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94200-128-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1731,8 +1731,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-128-p4s4w33">
@@ -1749,7 +1749,7 @@
 <LM>w#w-ln94200-128-p4s4w34</LM>
 </w.rf>
 <form>Čásenský</form>
-<tag lemma="Čásenský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čásenský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-128-p4s4w35">
 <src.rf>manual</src.rf>
@@ -2092,7 +2092,7 @@
 <LM>w#w-ln94200-128-p4s7w13</LM>
 </w.rf>
 <form>Čásenský</form>
-<tag lemma="Čásenský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čásenský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-128-p4s7w14">
 <src.rf>manual</src.rf>
@@ -2369,7 +2369,7 @@
 </w.rf>
 <form>Hannelore</form>
 <tag>
-<AM lemma="Hannelore_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Hannelore_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Hannelore_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -2379,7 +2379,7 @@
 <LM>w#w-ln94200-128-p5s2w20</LM>
 </w.rf>
 <form>Römichová</form>
-<tag lemma="Römichová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Römichová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-128-p5s2w21">
 <src.rf>manual</src.rf>
@@ -2404,8 +2404,8 @@
 </w.rf>
 <form>ir</form>
 <tag>
-<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ir-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-128-p5s2w24">

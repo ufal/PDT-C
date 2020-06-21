@@ -646,7 +646,7 @@
 </w.rf>
 <form>Fischer</form>
 <tag>
-<AM lemma="Fischer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fischer_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Fischer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -795,20 +795,20 @@
 <AM lemma="L-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="L-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
-<AM lemma="L-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="L-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="L-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="L-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Labe_:B_;G" src="auto">NNNS7-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-010-p3s2w6">
@@ -1019,7 +1019,7 @@
 <LM>w#w-mf930701-010-p3s3w4</LM>
 </w.rf>
 <form>ENIGMA</form>
-<tag lemma="Enigma_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Enigma_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-010-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <LM>w#w-mf930701-010-p3s3w6</LM>
 </w.rf>
 <form>Steinhausel</form>
-<tag lemma="Steinhausel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steinhausel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-010-p3s3w7">
 <src.rf>manual</src.rf>

@@ -2160,7 +2160,7 @@
 <LM>w#w-lnd91303-052-p7s1w20</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd91303-052-p7s1w21">
 <src.rf>manual</src.rf>
@@ -2411,7 +2411,7 @@
 <LM>w#w-lnd91303-052-p7s2w24</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd91303-052-p7s2w25">
 <src.rf>manual</src.rf>
@@ -2927,7 +2927,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -4627,7 +4627,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS4-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS4-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -5169,7 +5169,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS4-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS4-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -5690,7 +5690,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS4-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS4-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

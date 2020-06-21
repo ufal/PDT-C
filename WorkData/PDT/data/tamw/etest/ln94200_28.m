@@ -62,7 +62,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -227,7 +227,7 @@
 <LM>w#w-ln94200-28-p3s1w6</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-28-p3s1w7">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 </w.rf>
 <form>GSR</form>
 <tag>
-<AM lemma="GSR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -304,7 +304,7 @@
 <form>Greenwald</form>
 <tag>
 <AM lemma="Greenwald_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Greenwald-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Greenwald-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-28-p3s1w16">
@@ -321,7 +321,7 @@
 <LM>w#w-ln94200-28-p3s1w17</LM>
 </w.rf>
 <form>Schelby</form>
-<tag lemma="Schelby_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schelby_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-28-p3s1w18">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94200-28-p3s1w19</LM>
 </w.rf>
 <form>Ratheford</form>
-<tag lemma="Ratheford_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ratheford_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-28-p3s1w20">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 </w.rf>
 <form>Greenwald</form>
 <tag>
-<AM lemma="Greenwald-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Greenwald-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -510,7 +510,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -521,7 +521,7 @@
 </w.rf>
 <form>Airlines</form>
 <tag>
-<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto">NNFPX-----A----</AM>
+<AM lemma="Airlines_;m_,t_^(souč._názvů,_např._American_A.)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

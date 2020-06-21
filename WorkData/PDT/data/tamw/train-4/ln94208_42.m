@@ -388,7 +388,7 @@
 <LM>w#w-ln94208-42-p2s2w6</LM>
 </w.rf>
 <form>Zámiš</form>
-<tag lemma="Zámiš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zámiš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-42-p2s2w7">
 <src.rf>manual</src.rf>
@@ -980,8 +980,8 @@
 </w.rf>
 <form>Ernsta</form>
 <tag>
-<AM lemma="Ernst_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ernst_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-42-p2s6w13">
@@ -990,7 +990,7 @@
 <LM>w#w-ln94208-42-p2s6w13</LM>
 </w.rf>
 <form>Thälmanna</form>
-<tag lemma="Thälmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Thälmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-42-p2s6w14">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-ln94208-42-p2s6w15</LM>
 </w.rf>
 <form>Gáborové</form>
-<tag lemma="Gáborová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Gáborová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-42-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1023,9 +1023,9 @@
 </w.rf>
 <form>Thälmannové</form>
 <tag>
-<AM lemma="Thälmannová_;S" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Thälmann_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Thälmann_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Thälmannová_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Thälmann_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Thälmann_;Y" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-42-p2s6w18">

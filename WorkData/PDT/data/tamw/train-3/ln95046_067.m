@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-067-p1s1w1</LM>
 </w.rf>
 <form>Pasqua</form>
-<tag lemma="Pasqua_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pasqua_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-067-p1s1w2">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln95046-067-p2s1Bw8</LM>
 </w.rf>
 <form>Pasqua</form>
-<tag lemma="Pasqua_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pasqua_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-067-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95046-067-p2s1Bw13</LM>
 </w.rf>
 <form>Balladurovi</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95046-067-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-ln95046-067-p2s2w1</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-067-p2s2w2">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-ln95046-067-p2s2w2</LM>
 </w.rf>
 <form>Pasquův</form>
-<tag lemma="Pasquův_;S_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Pasquův_;Y_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95046-067-p2s2w3">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -359,7 +359,7 @@
 </w.rf>
 <form>Canard</form>
 <tag>
-<AM lemma="Canard_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Canard_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Canard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -370,7 +370,7 @@
 </w.rf>
 <form>enchainé</form>
 <tag>
-<AM lemma="enchainé_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="enchainé_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="enchainé-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -446,7 +446,7 @@
 <LM>w#w-ln95046-067-p3s1w1</LM>
 </w.rf>
 <form>Pasqua</form>
-<tag lemma="Pasqua_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pasqua_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-067-p3s1w2">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-ln95046-067-p3s1w22</LM>
 </w.rf>
 <form>Balladurův</form>
-<tag lemma="Balladurův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Balladurův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95046-067-p3s1w23">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-ln95046-067-p3s2w14</LM>
 </w.rf>
 <form>Schuller</form>
-<tag lemma="Schuller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schuller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-067-p3s2w15">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-ln95046-067-p3s2w16</LM>
 </w.rf>
 <form>Maréchal</form>
-<tag lemma="Maréchal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maréchal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-067-p3s2w17">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-ln95046-067-p4s1w4</LM>
 </w.rf>
 <form>Pasqua</form>
-<tag lemma="Pasqua_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pasqua_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-067-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-ln95046-067-p4s1w21</LM>
 </w.rf>
 <form>Pasquovu</form>
-<tag lemma="Pasquův_;S_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Pasquův_;Y_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95046-067-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-ln95046-067-p4s1w27</LM>
 </w.rf>
 <form>Balladurova</form>
-<tag lemma="Balladurův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Balladurův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95046-067-p4s1w28">
 <src.rf>manual</src.rf>
@@ -1216,7 +1216,7 @@
 <LM>w#w-ln95046-067-p4s2w1</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-067-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-ln95046-067-p4s2w9</LM>
 </w.rf>
 <form>Franqueta</form>
-<tag lemma="Franquet_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Franquet_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-067-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1384,7 +1384,7 @@
 <LM>w#w-ln95046-067-p4s2w22</LM>
 </w.rf>
 <form>Pasquova</form>
-<tag lemma="Pasquův_;S_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Pasquův_;Y_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95046-067-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <LM>w#w-ln95046-067-p4s3w13</LM>
 </w.rf>
 <form>Didierem</form>
-<tag lemma="Didier_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Didier_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-067-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 <LM>w#w-ln95046-067-p4s3w14</LM>
 </w.rf>
 <form>Schullerem</form>
-<tag lemma="Schuller_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Schuller_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-067-p4s3w15">
 <src.rf>manual</src.rf>

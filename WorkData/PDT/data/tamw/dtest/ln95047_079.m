@@ -52,8 +52,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -352,7 +352,7 @@
 <LM>w#w-ln95047-079-p2s2w10</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-079-p2s2w11">
 <src.rf>manual</src.rf>
@@ -403,8 +403,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-079-p3s1w6">
@@ -551,7 +551,7 @@
 <LM>w#w-ln95047-079-p3s2w15</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-079-p3s2w16">
 <src.rf>manual</src.rf>
@@ -738,8 +738,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-079-p3s3w23">
@@ -871,9 +871,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-079-p3s4w11">
@@ -890,7 +890,7 @@
 <LM>w#w-ln95047-079-p3s4w12</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-079-p3s4w13">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-ln95047-079-p3s4w14</LM>
 </w.rf>
 <form>Jelcinovi</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-079-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-ln95047-079-p4s1w25</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-079-p4s1w26">
 <src.rf>manual</src.rf>
@@ -1728,9 +1728,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-079-p5s2w4">
@@ -2422,7 +2422,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-079-p5s5w26">
@@ -2439,7 +2439,7 @@
 <LM>w#w-ln95047-079-p5s5w27</LM>
 </w.rf>
 <form>Stalinem</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95047-079-p5s5w28">
 <src.rf>manual</src.rf>

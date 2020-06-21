@@ -148,7 +148,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -297,7 +297,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -569,7 +569,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -694,7 +694,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -851,7 +851,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -909,7 +909,7 @@
 <LM>w#w-lnd94105-082-p1s16w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd94105-082-p1s16w13">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-lnd94105-082-p1s17w6</LM>
 </w.rf>
 <form>Bohemie</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-082-p1s17w7">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 </w.rf>
 <form>BB</form>
 <tag>
-<AM lemma="BB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="BB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

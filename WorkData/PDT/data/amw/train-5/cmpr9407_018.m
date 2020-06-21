@@ -28,8 +28,8 @@
 </w.rf>
 <form>jawy</form>
 <tag>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="jawa_;R" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="jawa_;m" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p2s1w3">
@@ -171,11 +171,11 @@
 </w.rf>
 <form>Jawy</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFP1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFS2-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFP1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p4s1w3">
@@ -591,8 +591,8 @@
 </w.rf>
 <form>Jawa</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p5s1w2">
@@ -721,7 +721,7 @@
 <LM>w#w-cmpr9407-018-p5s1w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-018-p5s1w18">
 <src.rf>manual</src.rf>
@@ -2319,11 +2319,11 @@
 </w.rf>
 <form>Jawy</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS2-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS2-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p8s6Aw5">
@@ -2348,7 +2348,7 @@
 <LM>w#w-cmpr9407-018-p8s6Aw7</LM>
 </w.rf>
 <form>Rýdl</form>
-<tag lemma="Rýdl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rýdl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p8s6Aw8">
 <src.rf>manual</src.rf>
@@ -3074,8 +3074,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p9s1w14">
@@ -3711,7 +3711,7 @@
 <LM>w#w-cmpr9407-018-p11s4w6</LM>
 </w.rf>
 <form>Erban</form>
-<tag lemma="Erban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Erban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p11s4w7">
 <src.rf>manual</src.rf>
@@ -3768,7 +3768,7 @@
 <LM>w#w-cmpr9407-018-p11s4w13</LM>
 </w.rf>
 <form>Mašek</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p11s4w14">
 <src.rf>manual</src.rf>
@@ -3800,7 +3800,7 @@
 <LM>w#w-cmpr9407-018-p11s4w17</LM>
 </w.rf>
 <form>Simandlem</form>
-<tag lemma="Simandl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Simandl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p11s4w18">
 <src.rf>manual</src.rf>
@@ -4007,8 +4007,8 @@
 </w.rf>
 <form>Jawu</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS4-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p11s5w14">
@@ -4027,7 +4027,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p11s5w16">
@@ -4044,7 +4044,7 @@
 <LM>w#w-cmpr9407-018-p11s5w17</LM>
 </w.rf>
 <form>Maškovi</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p11s5w18">
 <src.rf>manual</src.rf>
@@ -4265,7 +4265,7 @@
 <LM>w#w-cmpr9407-018-p11s7w14</LM>
 </w.rf>
 <form>Mašek</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p11s7w15">
 <src.rf>manual</src.rf>
@@ -4331,7 +4331,7 @@
 <LM>w#w-cmpr9407-018-p11s8w2</LM>
 </w.rf>
 <form>Erban</form>
-<tag lemma="Erban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Erban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p11s8w3">
 <src.rf>manual</src.rf>
@@ -4655,7 +4655,7 @@
 <LM>w#w-cmpr9407-018-p11s10w8</LM>
 </w.rf>
 <form>Maškem</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p11s10w9">
 <src.rf>manual</src.rf>
@@ -4918,9 +4918,9 @@
 </w.rf>
 <form>Jawě</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS6-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFS3-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS6-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFS3-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p14s1w11">
@@ -6331,8 +6331,8 @@
 </w.rf>
 <form>Jawa</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p18s1w12">
@@ -6602,8 +6602,8 @@
 </w.rf>
 <form>Jawu</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS4-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s1w20">
@@ -6669,8 +6669,8 @@
 </w.rf>
 <form>Jawou</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS7-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS7-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s1w28">
@@ -6704,8 +6704,8 @@
 </w.rf>
 <form>ČZ</form>
 <tag>
-<AM lemma="ČZ-1_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="ČZ-1_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČZ_:B_;m_^(vozidlo)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="ČZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6790,8 +6790,8 @@
 </w.rf>
 <form>Cagiva</form>
 <tag>
-<AM lemma="Cagiva_;R" src="auto">NNFS1-----A----</AM>
-<AM lemma="Cagiva_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Cagiva_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Cagiva_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s2w9">
@@ -6916,8 +6916,8 @@
 </w.rf>
 <form>Jawa</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s3w9">
@@ -6983,11 +6983,11 @@
 </w.rf>
 <form>Jawy</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS2-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS2-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Jawa_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s3w17">
@@ -7961,8 +7961,8 @@
 </w.rf>
 <form>Jawa</form>
 <tag>
-<AM lemma="Jawa-2_;K_;R_^(vozidlo)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jawa-2_;m_^(vozidlo)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p23s2w10">
@@ -8474,7 +8474,7 @@
 </w.rf>
 <form>Bohemia</form>
 <tag>
-<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8535,7 +8535,7 @@
 <LM>w#w-cmpr9407-018-p26s2w12</LM>
 </w.rf>
 <form>poldovky</form>
-<tag lemma="poldovka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="poldovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-018-p26s2w13">
 <src.rf>manual</src.rf>
@@ -8552,8 +8552,8 @@
 </w.rf>
 <form>Jawu</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS4-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p26s2w15">
@@ -8923,8 +8923,8 @@
 </w.rf>
 <form>Jawu</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS4-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p28s3w5">
@@ -9176,8 +9176,8 @@
 </w.rf>
 <form>Jawu</form>
 <tag>
-<AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Jawa-1_;m" src="orig">NNFS4-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p28s4w13">

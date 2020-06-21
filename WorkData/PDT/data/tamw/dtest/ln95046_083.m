@@ -20,7 +20,7 @@
 </w.rf>
 <form>ČMUS</form>
 <tag>
-<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS_:B_;m_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -474,7 +474,7 @@
 </w.rf>
 <form>Kačenka</form>
 <tag>
-<AM lemma="Kačenka_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kačenka_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kačenka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -994,7 +994,7 @@
 <form>Kačenka</form>
 <tag>
 <AM lemma="kačenka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kačenka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kačenka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-083-p3s2w37">

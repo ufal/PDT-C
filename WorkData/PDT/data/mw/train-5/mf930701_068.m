@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-068-p1s1w2</LM>
 </w.rf>
 <form>Brzozska</form>
-<tag lemma="Brzozska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brzozska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-068-p1s1w3">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-mf930701-068-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jsl-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930701-068-p2s1w4">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-mf930701-068-p2s1w10</LM>
 </w.rf>
 <form>Brzozska</form>
-<tag lemma="Brzozska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brzozska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-068-p2s1w11">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 <LM>w#w-mf930701-068-p2s7w2</LM>
 </w.rf>
 <form>Baník</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-068-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1294,7 +1294,7 @@
 <LM>w#w-mf930701-068-p2s8w12</LM>
 </w.rf>
 <form>Keka</form>
-<tag lemma="Kek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-068-p2s8w13">
 <src.rf>manual</src.rf>
@@ -1520,7 +1520,7 @@
 <LM>w#w-mf930701-068-p2s9w27</LM>
 </w.rf>
 <form>Brzozska</form>
-<tag lemma="Brzozska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brzozska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-068-p2s9w28">
 <src.rf>manual</src.rf>
@@ -1546,7 +1546,7 @@
 <LM>w#w-mf930701-068-p2s10w2</LM>
 </w.rf>
 <form>Gregor</form>
-<tag lemma="Gregor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gregor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-068-p2s10w3">
 <src.rf>manual</src.rf>
@@ -1562,7 +1562,7 @@
 <LM>w#w-mf930701-068-p2s10w4</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-068-p2s10w5">
 <src.rf>manual</src.rf>
@@ -2030,13 +2030,13 @@
 <form>Taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="Tako-1_;G_;R" src="auto">NNNP7-----A----</AM>
+<AM lemma="Tako-1_;G_;m" src="auto">NNNP7-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -2258,7 +2258,7 @@
 <LM>w#w-mf930701-068-p2s14w3</LM>
 </w.rf>
 <form>Brzozsky</form>
-<tag lemma="Brzozska_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brzozska_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-068-p2s14w4">
 <src.rf>manual</src.rf>
@@ -2832,13 +2832,13 @@
 <form>Taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="Tako-1_;G_;R" src="auto">NNNP7-----A----</AM>
+<AM lemma="Tako-1_;G_;m" src="auto">NNNP7-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -2993,7 +2993,7 @@
 <LM>w#w-mf930701-068-p2s22w20</LM>
 </w.rf>
 <form>Brzozska</form>
-<tag lemma="Brzozska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brzozska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-068-p2s22w21">
 <src.rf>manual</src.rf>

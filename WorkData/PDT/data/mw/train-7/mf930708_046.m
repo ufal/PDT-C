@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-046-p1s1w3</LM>
 </w.rf>
 <form>Pollacka</form>
-<tag lemma="Pollack_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pollack_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-046-p2s1">
@@ -93,7 +93,7 @@
 <form>Sidney</form>
 <tag>
 <AM lemma="Sidney-3_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Sidney-2_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Sidney-2_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Sidney_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Sidney_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Sidney_;Y_,t" src="manual">NNMXX-----A----</AM>
@@ -106,7 +106,7 @@
 <LM>w#w-mf930708-046-p2s1w7</LM>
 </w.rf>
 <form>Pollacka</form>
-<tag lemma="Pollack_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pollack_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-046-p2s1w8">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 </w.rf>
 <form>Firm</form>
 <tag>
-<AM lemma="firm_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="firm_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="firm_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Firm-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -301,8 +301,8 @@
 </w.rf>
 <form>Cruisem</form>
 <tag>
-<AM lemma="Cruise_;S" src="orig" selected="1">NNMS7-----A----</AM>
-<AM lemma="Cruis_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Cruise_;Y" src="orig" selected="1">NNMS7-----A----</AM>
+<AM lemma="Cruis_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-046-p2s2w6">
@@ -411,7 +411,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -511,7 +511,7 @@
 <LM>w#w-mf930708-046-p2s3w10</LM>
 </w.rf>
 <form>Spielberga</form>
-<tag lemma="Spielberg_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Spielberg_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-046-p2s3w11">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -978,7 +978,7 @@
 <LM>w#w-mf930708-046-p2s5w5</LM>
 </w.rf>
 <form>Disneyových</form>
-<tag lemma="Disneyův_;S_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Disneyův_;Y_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-mf930708-046-p2s5w6">
 <src.rf>manual</src.rf>

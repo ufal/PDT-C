@@ -55,7 +55,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2048,7 +2048,7 @@
 <LM>w#w-ln94211-30-p5s3w14</LM>
 </w.rf>
 <form>Mečiarovi</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94211-30-p5s3w15">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-ln94211-30-p5s3w17</LM>
 </w.rf>
 <form>Weissovými</form>
-<tag lemma="Weissův_;S_^(*2)" src="orig" selected="1">AUMP7M---------</tag>
+<tag lemma="Weissův_;Y_^(*2)" src="orig" selected="1">AUMP7M---------</tag>
 </m>
 <m id="m-ln94211-30-p5s3w18">
 <src.rf>manual</src.rf>
@@ -2152,7 +2152,7 @@
 <LM>w#w-ln94211-30-p5s3w27</LM>
 </w.rf>
 <form>Pytlíka</form>
-<tag lemma="Pytlík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pytlík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-30-p5s3w28">
 <src.rf>manual</src.rf>
@@ -2168,7 +2168,7 @@
 <LM>w#w-ln94211-30-p5s3w29</LM>
 </w.rf>
 <form>Splešťulí</form>
-<tag lemma="splešťule_;L_^(živočich)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="splešťule_;U_^(živočich)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94211-30-p5s3w30">
 <src.rf>manual</src.rf>
@@ -2412,7 +2412,7 @@
 <LM>w#w-ln94211-30-p5s6w5</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-30-p5s6w6">
 <src.rf>manual</src.rf>
@@ -2572,7 +2572,7 @@
 <LM>w#w-ln94211-30-p5s6w25</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-30-p5s6w26">
 <src.rf>manual</src.rf>
@@ -3045,7 +3045,7 @@
 <LM>w#w-ln94211-30-p5s9w4</LM>
 </w.rf>
 <form>Kňažka</form>
-<tag lemma="Kňažko_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kňažko_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-30-p5s9w5">
 <src.rf>manual</src.rf>
@@ -3101,7 +3101,7 @@
 <LM>w#w-ln94211-30-p5s9w11</LM>
 </w.rf>
 <form>Mečiarem</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-30-p5s9w12">
 <src.rf>manual</src.rf>

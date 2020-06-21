@@ -86,8 +86,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-66-p2s1Aw4">
@@ -1182,7 +1182,7 @@
 <LM>w#w-ln94200-66-p4s3w7</LM>
 </w.rf>
 <form>Křemencově</form>
-<tag lemma="Křemencův-1_;S_^(*5ec-1)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Křemencův-1_;Y_^(*5ec-1)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94200-66-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <LM>w#w-ln94200-66-p4s4w3</LM>
 </w.rf>
 <form>Běhounek</form>
-<tag lemma="Běhounek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Běhounek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-66-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1273,8 +1273,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-66-p4s4w5">

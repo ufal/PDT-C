@@ -84,7 +84,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Metternicha</form>
-<tag lemma="Metternich_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Metternich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-58-p1s1B">
@@ -111,7 +111,7 @@
 <LM>w#w-ln94209-58-p1s1Bw3</LM>
 </w.rf>
 <form>Zlatohlávek</form>
-<tag lemma="Zlatohlávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlatohlávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-58-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -128,8 +128,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

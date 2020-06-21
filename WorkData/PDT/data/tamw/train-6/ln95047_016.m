@@ -49,12 +49,12 @@
 <tag>
 <AM lemma="Golem_;m" src="orig">NNIS4-----A----</AM>
 <AM lemma="Golo_;G" src="auto">NNNS7-----A----</AM>
-<AM lemma="Gole_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Gole_;S" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="golem-1_;R" src="auto">NNMS1-----A----</AM>
-<AM lemma="Golem_;K" src="manual">NNIS4-----A----</AM>
-<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Gole_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Gole_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Golem_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="golem-1_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem_;m" src="manual">NNIS4-----A----</AM>
+<AM lemma="Golem-2_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -116,8 +116,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw6">
@@ -178,9 +178,9 @@
 </w.rf>
 <form>Golem</form>
 <tag>
-<AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Golem_;K" src="manual">NNIS1-----A----</AM>
-<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Golem_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Golem-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw13">
@@ -572,7 +572,7 @@
 </w.rf>
 <form>FIAPF</form>
 <tag>
-<AM lemma="FIAPF-1_:B_;K_,t_^(Fedér._Int._des_Assoc._de_Pr._de_Films)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIAPF-1_:B_;m_,t_^(Fedér._Int._des_Assoc._de_Pr._de_Films)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIAPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -618,9 +618,9 @@
 </w.rf>
 <form>Golem</form>
 <tag>
-<AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Golem-2_;K" src="manual">NNMS1-----A----</AM>
-<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Golem_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem-2_;m" src="manual">NNMS1-----A----</AM>
+<AM lemma="Golem-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s4w17">
@@ -646,7 +646,7 @@
 </w.rf>
 <form>MFF</form>
 <tag>
-<AM lemma="MFF-1_:B_;K_;u_^(Matematicko-fyzikální_fakulta)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MFF-1_:B_;m_^(Matematicko-fyzikální_fakulta)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MFF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -862,8 +862,8 @@
 </w.rf>
 <form>Golemu</form>
 <tag>
-<AM lemma="Golem_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="Golem_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Golem-2_;m" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s5w24">
@@ -930,7 +930,7 @@
 <LM>w#w-ln95047-016-p2s6w7</LM>
 </w.rf>
 <form>Marhoula</form>
-<tag lemma="Marhoul_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Marhoul_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-016-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-ln95047-016-p2s7w1</LM>
 </w.rf>
 <form>Marhoul</form>
-<tag lemma="Marhoul_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marhoul_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-016-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1219,8 +1219,8 @@
 </w.rf>
 <form>Golem</form>
 <tag>
-<AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Golem_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s7w26">

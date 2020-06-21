@@ -94,11 +94,11 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
-<AM lemma="les-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="les-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-064-p2s1w6">
@@ -658,9 +658,9 @@
 </w.rf>
 <form>Malochové</form>
 <tag>
-<AM lemma="Malochová_;S" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Maloch_;S" src="auto" recommended="1">NNMP1-----A---1</AM>
-<AM lemma="Maloch_;S" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Malochová_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Maloch_;Y" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Maloch_;Y" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930701-064-p2s4w8">
@@ -925,7 +925,7 @@
 <LM>w#w-mf930701-064-p2s5w22</LM>
 </w.rf>
 <form>Malochová</form>
-<tag lemma="Malochová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Malochová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-064-p2s5w23">
 <src.rf>manual</src.rf>

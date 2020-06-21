@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-062-p1s1w2</LM>
 </w.rf>
 <form>Fischer</form>
-<tag lemma="Fischer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fischer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-062-p2s1">
@@ -110,7 +110,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -146,8 +146,8 @@
 <form>Bobby</form>
 <tag>
 <AM lemma="Bobby_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Bobb_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Bobb_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Bobb_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Bobb_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="Bobby_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bobby_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="bobby_,t_^(důvěrné_označení_policisty_v_anglickém_prostředí)" src="auto">NNMS1-----A----</AM>
@@ -161,7 +161,7 @@
 <LM>w#w-mf920922-062-p2s1w15</LM>
 </w.rf>
 <form>Fischerem</form>
-<tag lemma="Fischer_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Fischer_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-062-p2s1w16">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-mf920922-062-p2s1w18</LM>
 </w.rf>
 <form>Spasským</form>
-<tag lemma="Spasský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Spasský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-062-p2s1w19">
 <src.rf>manual</src.rf>

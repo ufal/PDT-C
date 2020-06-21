@@ -27,7 +27,7 @@
 <LM>w#w-ln94202-117-p1s1w2</LM>
 </w.rf>
 <form>Passarella</form>
-<tag lemma="Passarella_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Passarella_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-117-p1s1w3">
 <src.rf>manual</src.rf>
@@ -63,7 +63,7 @@
 <form>Buenos</form>
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -158,7 +158,7 @@
 <LM>w#w-ln94202-117-p2s1Bw9</LM>
 </w.rf>
 <form>Passarella</form>
-<tag lemma="Passarella_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Passarella_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-117-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-ln94202-117-p2s4w1</LM>
 </w.rf>
 <form>Passarellův</form>
-<tag lemma="Passarellův_;S_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Passarellův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94202-117-p2s4w2">
 <src.rf>manual</src.rf>
@@ -703,8 +703,8 @@
 </w.rf>
 <form>Diega</form>
 <tag>
-<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Diego_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Diego_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-117-p2s4w16">
@@ -713,7 +713,7 @@
 <LM>w#w-ln94202-117-p2s4w16</LM>
 </w.rf>
 <form>Maradonu</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-117-p2s4w17">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-ln94202-117-p2s5w1</LM>
 </w.rf>
 <form>Passarella</form>
-<tag lemma="Passarella_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Passarella_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-117-p2s5w2">
 <src.rf>manual</src.rf>

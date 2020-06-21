@@ -173,7 +173,7 @@
 <LM>w#w-ln95048-052-p2s1w18</LM>
 </w.rf>
 <form>Eger</form>
-<tag lemma="Eger_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eger_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-052-p2s1w19">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-052-p3s1w10">
@@ -824,7 +824,7 @@
 <LM>w#w-ln95048-052-p3s1w11</LM>
 </w.rf>
 <form>Eger</form>
-<tag lemma="Eger_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eger_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-052-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-052-p4s1w9">
@@ -1217,7 +1217,7 @@
 <LM>w#w-ln95048-052-p4s1w10</LM>
 </w.rf>
 <form>Řeháka</form>
-<tag lemma="Řehák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Řehák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-052-p4s1w11">
 <src.rf>manual</src.rf>
@@ -2319,7 +2319,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-052-p6s3w3">
@@ -2336,7 +2336,7 @@
 <LM>w#w-ln95048-052-p6s3w4</LM>
 </w.rf>
 <form>Machek</form>
-<tag lemma="Machek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Machek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-052-p6s3w5">
 <src.rf>manual</src.rf>
@@ -2805,7 +2805,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-052-p6s5w11">
@@ -2822,7 +2822,7 @@
 <LM>w#w-ln95048-052-p6s5w12</LM>
 </w.rf>
 <form>Jirásek</form>
-<tag lemma="Jirásek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jirásek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-052-p6s5w13">
 <src.rf>manual</src.rf>
@@ -2962,8 +2962,8 @@
 <form>Klinke</form>
 <tag>
 <AM lemma="Klinke_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Klinke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Klinke_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Klinke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Klinke_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Klinke_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Klinke-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3419,8 +3419,8 @@
 <form>Klinke</form>
 <tag>
 <AM lemma="Klinke_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Klinke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Klinke_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Klinke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Klinke_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Klinke_,t" src="manual">NNNXX-----A----</AM>
 <AM lemma="Klinke-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -4720,7 +4720,7 @@
 </w.rf>
 <form>das</form>
 <tag>
-<AM lemma="das-1_;K_,t_^(souč._něm._názvů_[člen_n.])" src="auto">AAXXX----1A----</AM>
+<AM lemma="das-1_;m_,t_^(souč._něm._názvů_[člen_n.])" src="auto">AAXXX----1A----</AM>
 <AM lemma="das-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4731,7 +4731,7 @@
 </w.rf>
 <form>Glück</form>
 <tag>
-<AM lemma="Glück_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Glück_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Glück-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5163,7 +5163,7 @@
 <form>Pech</form>
 <tag>
 <AM lemma="pech" src="orig">NNNS4-----A----</AM>
-<AM lemma="Pech_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pech_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Pech_t" src="manual">NNXXX-----A----</AM>

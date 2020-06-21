@@ -36,7 +36,7 @@
 </w.rf>
 <form>KSSS</form>
 <tag>
-<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -390,7 +390,7 @@
 <LM>w#w-lnd92258-066-p3s3w8</LM>
 </w.rf>
 <form>Věsti</form>
-<tag lemma="Věsti_;K_^(ruská_televize)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Věsti_;m_^(ruská_televize)" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-066-p3s3w9">
 <src.rf>manual</src.rf>
@@ -572,8 +572,8 @@
 </w.rf>
 <form>Janis</form>
 <tag>
-<AM lemma="Janis_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Janis_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Janis_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Janis_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-066-p3s4w22">
@@ -582,7 +582,7 @@
 <LM>w#w-lnd92258-066-p3s4w22</LM>
 </w.rf>
 <form>Janikos</form>
-<tag lemma="Janikos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janikos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-066-p3s4w23">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-lnd92258-066-p3s5w7</LM>
 </w.rf>
 <form>Anastasiadise</form>
-<tag lemma="Anastasiadis_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Anastasiadis_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92258-066-p3s5w8">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 </w.rf>
 <form>KSSS</form>
 <tag>
-<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

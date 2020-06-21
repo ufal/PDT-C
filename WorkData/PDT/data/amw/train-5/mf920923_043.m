@@ -53,7 +53,7 @@
 <LM>w#w-mf920923-043-p2s1w1</LM>
 </w.rf>
 <form>TELEMUNDI</form>
-<tag lemma="Telemundi_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Telemundi_;m" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-043-p2s1w2">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-mf920923-043-p3s2w9</LM>
 </w.rf>
 <form>Broukala</form>
-<tag lemma="Broukal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Broukal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-043-p3s2w10">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -510,7 +510,7 @@
 <LM>w#w-mf920923-043-p4s1w5</LM>
 </w.rf>
 <form>Telemundi</form>
-<tag lemma="Telemundi_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Telemundi_;m" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-043-p4s1w6">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-mf920923-043-p4s1w15</LM>
 </w.rf>
 <form>Telemundi</form>
-<tag lemma="Telemundi_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Telemundi_;m" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-043-p4s1w16">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-mf920923-043-p5s1w25</LM>
 </w.rf>
 <form>Telemundi</form>
-<tag lemma="Telemundi_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Telemundi_;m" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-043-p5s1w26">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-mf920923-043-p5s1w30</LM>
 </w.rf>
 <form>Broukal</form>
-<tag lemma="Broukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Broukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-043-p5s1w31">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <LM>w#w-mf920923-043-p9s1w5</LM>
 </w.rf>
 <form>Telemundi</form>
-<tag lemma="Telemundi_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Telemundi_;m" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-043-p9s1w6">
 <src.rf>manual</src.rf>
@@ -2018,7 +2018,7 @@
 <LM>w#w-mf920923-043-p11s1w11</LM>
 </w.rf>
 <form>Telemundi</form>
-<tag lemma="Telemundi_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Telemundi_;m" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-043-p11s1w12">
 <src.rf>manual</src.rf>
@@ -2977,7 +2977,7 @@
 <LM>w#w-mf920923-043-p18s1w6</LM>
 </w.rf>
 <form>Telemundi</form>
-<tag lemma="Telemundi_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Telemundi_;m" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-043-p18s1w7">
 <src.rf>manual</src.rf>
@@ -3067,7 +3067,7 @@
 <LM>w#w-mf920923-043-p19s1w6</LM>
 </w.rf>
 <form>Telemundi</form>
-<tag lemma="Telemundi_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Telemundi_;m" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-043-p19s1w7">
 <src.rf>manual</src.rf>

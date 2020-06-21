@@ -93,7 +93,7 @@
 <LM>w#w-mf930709-051-p2s1Aw3</LM>
 </w.rf>
 <form>spa</form>
-<tag lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="spa-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-051-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf930709-051-p2s1Aw5</LM>
 </w.rf>
 <form>dap</form>
-<tag lemma="dap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-051-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-mf930709-051-p2s1Bw4</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-051-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -386,8 +386,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-051-p2s2w11">
@@ -430,7 +430,7 @@
 <LM>w#w-mf930709-051-p3s1w4</LM>
 </w.rf>
 <form>Kabát</form>
-<tag lemma="Kabát_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kabát_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-051-p3s1w5">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf930709-051-p3s1w16</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-051-p3s1w17">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 </w.rf>
 <form>Laterny</form>
 <tag>
-<AM lemma="Laterna_;K" src="orig">NNFS2-----A----</AM>
+<AM lemma="Laterna_;m" src="orig">NNFS2-----A----</AM>
 <AM lemma="laterna" src="auto">NNFP1-----A----</AM>
 <AM lemma="laterna" src="auto">NNFP4-----A----</AM>
 <AM lemma="laterna" src="auto">NNFP5-----A----</AM>
@@ -838,7 +838,7 @@
 <LM>w#w-mf930709-051-p4s1w26</LM>
 </w.rf>
 <form>Kabát</form>
-<tag lemma="Kabát_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kabát_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-051-p4s1w27">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-mf930709-051-p5s1w6</LM>
 </w.rf>
 <form>Pilipová</form>
-<tag lemma="Pilipová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pilipová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-051-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-051-p5s2w19">
@@ -1257,7 +1257,7 @@
 <LM>w#w-mf930709-051-p5s2w20</LM>
 </w.rf>
 <form>Pilipová</form>
-<tag lemma="Pilipová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pilipová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-051-p5s2w21">
 <src.rf>manual</src.rf>

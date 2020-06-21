@@ -27,7 +27,7 @@
 <LM>w#w-ln95041-107-p1s1w2</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-107-p1s1w3">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-ln95041-107-p1s1w5</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-107-p1s1w6">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln95041-107-p1s1w13</LM>
 </w.rf>
 <form>Fencl</form>
-<tag lemma="Fencl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fencl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-107-p1s1w14">
 <src.rf>manual</src.rf>

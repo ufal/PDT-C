@@ -684,8 +684,8 @@
 </w.rf>
 <form>g</form>
 <tag>
-<AM lemma="g-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="g-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="g-33" src="orig">Q3-------------</AM>
+<AM lemma="g-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s1w3">
@@ -767,8 +767,8 @@
 </w.rf>
 <form>g</form>
 <tag>
-<AM lemma="g-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="g-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="g-33" src="orig">Q3-------------</AM>
+<AM lemma="g-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s1w13">
@@ -1001,8 +1001,8 @@
 </w.rf>
 <form>ý</form>
 <tag>
-<AM lemma="ý-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="ý-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="ý-33" src="orig">Q3-------------</AM>
+<AM lemma="ý-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s4w9">
@@ -1281,8 +1281,8 @@
 </w.rf>
 <form>ý</form>
 <tag>
-<AM lemma="ý-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="ý-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="ý-33" src="orig">Q3-------------</AM>
+<AM lemma="ý-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s6w5">
@@ -1446,8 +1446,8 @@
 </w.rf>
 <form>ý</form>
 <tag>
-<AM lemma="ý-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="ý-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="ý-33" src="orig">Q3-------------</AM>
+<AM lemma="ý-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s7w10">
@@ -1651,8 +1651,8 @@
 </w.rf>
 <form>é</form>
 <tag>
-<AM lemma="é-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="é-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="é-33" src="orig">Q3-------------</AM>
+<AM lemma="é-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s8w7">
@@ -2887,7 +2887,7 @@
 <LM>w#w-ln94205-108-p5s1w4</LM>
 </w.rf>
 <form>Stloukala</form>
-<tag lemma="Stloukal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stloukal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-108-p5s1w5">
 <src.rf>manual</src.rf>

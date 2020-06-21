@@ -20,7 +20,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="auto">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -114,7 +114,7 @@
 <LM>w#w-ln94211-58-p2s1Bw3</LM>
 </w.rf>
 <form>škr</form>
-<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="škr-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-58-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 <LM>w#w-ln94211-58-p2s1Cw2</LM>
 </w.rf>
 <form>Müller</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-58-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="auto">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -405,7 +405,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="auto">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -457,10 +457,10 @@
 <form>Pole</form>
 <tag>
 <AM lemma="Pole_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Pol_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Pol_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Pola_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Pola_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Polo_;R_^(vozidlo)" src="auto">NNNS6-----A----</AM>
+<AM lemma="Polo_;m_^(vozidlo)" src="auto">NNNS6-----A----</AM>
 <AM lemma="pole" src="auto">NNNP1-----A----</AM>
 <AM lemma="pole" src="auto">NNNP4-----A----</AM>
 <AM lemma="pole" src="auto">NNNP5-----A----</AM>
@@ -468,7 +468,7 @@
 <AM lemma="pole" src="auto">NNNS2-----A----</AM>
 <AM lemma="pole" src="auto">NNNS4-----A----</AM>
 <AM lemma="pole" src="auto">NNNS5-----A----</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto">NNNS6-----A----</AM>
+<AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS6-----A----</AM>
 <AM lemma="pólo" src="auto">NNNS6-----A----</AM>
 </tag>
 </m>
@@ -486,7 +486,7 @@
 <LM>w#w-ln94211-58-p2s2w13</LM>
 </w.rf>
 <form>Prokeš</form>
-<tag lemma="Prokeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-58-p2s2w14">
 <src.rf>manual</src.rf>
@@ -559,8 +559,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-58-p2s2w23">
@@ -577,7 +577,7 @@
 <LM>w#w-ln94211-58-p2s2w24</LM>
 </w.rf>
 <form>Sapák</form>
-<tag lemma="Sapák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sapák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-58-p2s2w25">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln94211-58-p2s2w27</LM>
 </w.rf>
 <form>Holomek</form>
-<tag lemma="Holomek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holomek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-58-p2s2w28">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-58-p2s3w5">
@@ -662,7 +662,7 @@
 <LM>w#w-ln94211-58-p2s3w6</LM>
 </w.rf>
 <form>Prokeš</form>
-<tag lemma="Prokeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-58-p2s3w7">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="auto">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

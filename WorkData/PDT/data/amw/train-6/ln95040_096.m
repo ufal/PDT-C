@@ -349,7 +349,7 @@
 <LM>w#w-ln95040-096-p2s3w2</LM>
 </w.rf>
 <form>Strakovou</form>
-<tag lemma="Strakův_;S_^(*2a)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Strakův_;Y_^(*2a)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln95040-096-p2s3w3">
 <src.rf>manual</src.rf>

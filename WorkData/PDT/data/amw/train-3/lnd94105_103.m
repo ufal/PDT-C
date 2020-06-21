@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-103-p1s1w1</LM>
 </w.rf>
 <form>Bukač</form>
-<tag lemma="Bukač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bukač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-103-p1s1w2">
 <src.rf>manual</src.rf>

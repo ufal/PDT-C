@@ -27,7 +27,7 @@
 <LM>w#w-mf930713-073-p1s1w2</LM>
 </w.rf>
 <form>Šetina</form>
-<tag lemma="Šetina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šetina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-073-p1s1w3">
 <src.rf>manual</src.rf>

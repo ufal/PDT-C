@@ -585,10 +585,10 @@
 </w.rf>
 <form>ALDIS</form>
 <tag>
-<AM lemma="ALDIS_:B_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Aldis-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aldis-2_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Aldis-2_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="ALDIS_:B_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="Aldis-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aldis-2_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Aldis-2_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-024-p2s1w26">
@@ -808,7 +808,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

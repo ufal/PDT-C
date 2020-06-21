@@ -420,7 +420,7 @@
 </w.rf>
 <form>ECHO</form>
 <tag>
-<AM lemma="Echo_;R" src="orig">NNNS1-----A----</AM>
+<AM lemma="Echo_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="echo" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="echo" src="auto">NNNS4-----A----</AM>
 <AM lemma="echo" src="auto">NNNS5-----A----</AM>

@@ -2736,7 +2736,7 @@
 <LM>w#w-lnd92257-061-p5s5w6</LM>
 </w.rf>
 <form>Bell</form>
-<tag lemma="Bell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-061-p5s5w7">
 <src.rf>manual</src.rf>
@@ -3526,7 +3526,7 @@
 <LM>w#w-lnd92257-061-p5s13w9</LM>
 </w.rf>
 <form>Staška</form>
-<tag lemma="Stašek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stašek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-061-p5s13w10">
 <src.rf>manual</src.rf>
@@ -3828,7 +3828,7 @@
 <LM>w#w-lnd92257-061-p5s13w46</LM>
 </w.rf>
 <form>Panorama</form>
-<tag lemma="Panorama_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Panorama_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-061-p5s13w47">
 <src.rf>manual</src.rf>
@@ -4066,7 +4066,7 @@
 <LM>w#w-lnd92257-061-p6s1w2</LM>
 </w.rf>
 <form>LONGINOVÁ</form>
-<tag lemma="Longinová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Longinová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-061-p6s1w3">
 <src.rf>manual</src.rf>

@@ -680,7 +680,7 @@
 <LM>w#w-mf920902-067-p2s3w6</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="FIFA_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920902-067-p2s3w7">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-mf920902-067-p2s3w8</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920902-067-p2s3w9">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-mf920902-067-p2s3w13</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-3_:B_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf920902-067-p2s3w14">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-mf920902-067-p2s3w15</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf920902-067-p2s3w16">
 <src.rf>manual</src.rf>
@@ -1075,8 +1075,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-067-p2s4w27">
@@ -1688,7 +1688,7 @@
 <LM>w#w-mf920902-067-p2s8w2</LM>
 </w.rf>
 <form>Máčala</form>
-<tag lemma="Máčala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Máčala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s8w3">
 <src.rf>manual</src.rf>
@@ -2368,7 +2368,7 @@
 <LM>w#w-mf920902-067-p2s11Bw17</LM>
 </w.rf>
 <form>Scifa</form>
-<tag lemma="Scif_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Scif_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s11Bw18">
 <src.rf>manual</src.rf>
@@ -2546,7 +2546,7 @@
 <LM>w#w-mf920902-067-p2s11Cw4</LM>
 </w.rf>
 <form>Máčala</form>
-<tag lemma="Máčala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Máčala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s11Cw5">
 <src.rf>manual</src.rf>
@@ -2700,7 +2700,7 @@
 <LM>w#w-mf920902-067-p2s12Aw13</LM>
 </w.rf>
 <form>Němeček</form>
-<tag lemma="Němeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s12Aw14">
 <src.rf>manual</src.rf>
@@ -3095,7 +3095,7 @@
 <LM>w#w-mf920902-067-p2s12Cw34</LM>
 </w.rf>
 <form>Himst</form>
-<tag lemma="Himst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Himst_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s12Cw35">
 <src.rf>manual</src.rf>
@@ -3281,7 +3281,7 @@
 <LM>w#w-mf920902-067-p2s13Aw21</LM>
 </w.rf>
 <form>Boffina</form>
-<tag lemma="Boffin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Boffin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s13Aw22">
 <src.rf>manual</src.rf>
@@ -3305,7 +3305,7 @@
 <LM>w#w-mf920902-067-p2s13Aw24</LM>
 </w.rf>
 <form>Nila</form>
-<tag lemma="Nil_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Nil_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s13Aw25">
 <src.rf>manual</src.rf>
@@ -3354,7 +3354,7 @@
 </w.rf>
 <form>Medveda</form>
 <tag>
-<AM lemma="Medved_;S" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Medved_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Medveda_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -3372,7 +3372,7 @@
 <LM>w#w-mf920902-067-p2s13Aw32</LM>
 </w.rf>
 <form>Smidtse</form>
-<tag lemma="Smidts_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Smidts_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s13Aw33">
 <src.rf>manual</src.rf>
@@ -3850,7 +3850,7 @@
 <LM>w#w-mf920902-067-p2s15w12</LM>
 </w.rf>
 <form>Röthlisberger</form>
-<tag lemma="Röthlisberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Röthlisberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s15w13">
 <src.rf>manual</src.rf>
@@ -3938,7 +3938,7 @@
 <LM>w#w-mf920902-067-p2s15w23</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf920902-067-p2s15w24">
 <src.rf>manual</src.rf>
@@ -4300,7 +4300,7 @@
 <LM>w#w-mf920902-067-p2s16w30</LM>
 </w.rf>
 <form>Eurosport</form>
-<tag lemma="Eurosport_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Eurosport_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s16w31">
 <src.rf>manual</src.rf>

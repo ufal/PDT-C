@@ -164,7 +164,7 @@
 <LM>w#w-ln94205-96-p2s1w16</LM>
 </w.rf>
 <form>TIELSCHOVÉ</form>
-<tag lemma="Tielschová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tielschová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-96-p2s1w17">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln94205-96-p2s3w15</LM>
 </w.rf>
 <form>Kavína</form>
-<tag lemma="Kavín_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kavín_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-96-p2s3w16">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 </w.rf>
 <form>Theater</form>
 <tag>
-<AM lemma="Theater_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Theater_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Theater-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -655,7 +655,7 @@
 </w.rf>
 <form>Brett</form>
 <tag>
-<AM lemma="Brett_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brett_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Brett-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -751,7 +751,7 @@
 <LM>w#w-ln94205-96-p3s1w2</LM>
 </w.rf>
 <form>Tielschová</form>
-<tag lemma="Tielschová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tielschová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-96-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-ln94205-96-p3s1w60</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94205-96-p3s1w61">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln94205-96-p3s1w63</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94205-96-p3s1w64">
 <src.rf>manual</src.rf>
@@ -1867,7 +1867,7 @@
 <LM>w#w-ln94205-96-p4s3w7</LM>
 </w.rf>
 <form>Tielschová</form>
-<tag lemma="Tielschová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tielschová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-96-p4s3w8">
 <src.rf>manual</src.rf>
@@ -2261,7 +2261,7 @@
 <LM>w#w-ln94205-96-p5s1w23</LM>
 </w.rf>
 <form>Tielschové</form>
-<tag lemma="Tielschová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tielschová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-96-p5s1w24">
 <src.rf>manual</src.rf>
@@ -2786,7 +2786,7 @@
 <LM>w#w-ln94205-96-p5s4w7</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-96-p5s4w8">
 <src.rf>manual</src.rf>
@@ -2810,7 +2810,7 @@
 <LM>w#w-ln94205-96-p5s4w10</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-96-p5s4w11">
 <src.rf>manual</src.rf>
@@ -2951,7 +2951,7 @@
 <LM>w#w-ln94205-96-p5s5w2</LM>
 </w.rf>
 <form>Schildberger</form>
-<tag lemma="Schildberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schildberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-96-p5s5B">
@@ -2973,7 +2973,7 @@
 <LM>w#w-ln94205-96-p5s5w4</LM>
 </w.rf>
 <form>Tielschová</form>
-<tag lemma="Tielschová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tielschová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-96-p5s5w5">
 <src.rf>manual</src.rf>
@@ -3079,7 +3079,7 @@
 <LM>w#w-ln94205-96-p5s6w2</LM>
 </w.rf>
 <form>Kavínovo</form>
-<tag lemma="Kavínův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Kavínův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94205-96-p5s6w3">
 <src.rf>manual</src.rf>
@@ -3145,7 +3145,7 @@
 <LM>w#w-ln94205-96-p5s7w3</LM>
 </w.rf>
 <form>Kavín</form>
-<tag lemma="Kavín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kavín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-96-p5s7w4">
 <src.rf>manual</src.rf>

@@ -33,8 +33,8 @@
 </w.rf>
 <form>Honeywell</form>
 <tag>
-<AM lemma="Honeywell_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Honeywell_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Honeywell_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Honeywell_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Honeywell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -66,9 +66,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -80,7 +80,7 @@
 <form>International</form>
 <tag>
 <AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -317,8 +317,8 @@
 </w.rf>
 <form>Honeywell</form>
 <tag>
-<AM lemma="Honeywell_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Honeywell_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Honeywell_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Honeywell_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2388-001-p1s1W4-Ta">
@@ -380,9 +380,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -489,10 +489,10 @@
 </w.rf>
 <form>Boeing</form>
 <tag>
-<AM lemma="Boeing_;K_;R_^(letadlo)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Boeing_;K_;R_^(letadlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Boeing_;m_^(letadlo)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Boeing_;m_^(letadlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="boeing_;m_,t_^(letadlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="boeing_;m_,t_^(letadlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Boeing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -693,7 +693,7 @@
 <form>Minuteman</form>
 <tag>
 <AM lemma="Minuteman" src="auto">X@-------------</AM>
-<AM lemma="Minuteman_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Minuteman_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2388-001-p1s2W21-Ta">
@@ -724,10 +724,10 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="auto">AAXXX----1A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="auto">AAXXX----1A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="General_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -969,8 +969,8 @@
 </w.rf>
 <form>Grumman</form>
 <tag>
-<AM lemma="Grumman_;R_^(typ_letounu)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Grumman_;R_^(typ_letounu)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Grumman_;m_^(typ_letounu)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Grumman_;m_^(typ_letounu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Grumman-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1343,7 +1343,7 @@
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2388-001-p1s5W17-Ta">

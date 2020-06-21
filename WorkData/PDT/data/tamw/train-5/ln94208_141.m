@@ -36,13 +36,13 @@
 </w.rf>
 <form>Felicii</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS3-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS6-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS3-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS6-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS3-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS4-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS6-----A----</AM>
@@ -63,7 +63,7 @@
 </w.rf>
 <form>Thoraxu</form>
 <tag>
-<AM lemma="Thorax_;K" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Thorax_;m" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto">NNIS3-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto">NNIS6-----A----</AM>
@@ -208,8 +208,8 @@
 </w.rf>
 <form>Felicia</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-141-p2s1Bw16">
@@ -226,7 +226,7 @@
 <LM>w#w-ln94208-141-p2s1Bw17</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-141-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln94208-141-p2s2w5</LM>
 </w.rf>
 <form>Šlambora</form>
-<tag lemma="Šlambora_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šlambora_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-141-p2s2w6">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 </w.rf>
 <form>Thorax</form>
 <tag>
-<AM lemma="Thorax_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Thorax_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -419,7 +419,7 @@
 </w.rf>
 <form>Thorax</form>
 <tag>
-<AM lemma="Thorax_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Thorax_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -464,7 +464,7 @@
 <form>Glavunionu</form>
 <tag>
 <AM lemma="Glavunion" src="auto">NNIS2-----A----</AM>
-<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Glavunion_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-141-p3s1w9">
@@ -530,13 +530,13 @@
 </w.rf>
 <form>Felicii</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS3-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS6-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS3-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS6-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS3-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS4-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS6-----A----</AM>
@@ -772,7 +772,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-141-p3s4w3">
@@ -789,7 +789,7 @@
 <LM>w#w-ln94208-141-p3s4w4</LM>
 </w.rf>
 <form>Šlambory</form>
-<tag lemma="Šlambora_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šlambora_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-141-p3s4w5">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 </w.rf>
 <form>Thorax</form>
 <tag>
-<AM lemma="Thorax_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Thorax_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -834,13 +834,13 @@
 </w.rf>
 <form>Felicii</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS3-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS6-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS3-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS6-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS3-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS4-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS6-----A----</AM>
@@ -886,7 +886,7 @@
 <LM>w#w-ln94208-141-p4s1w2</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-141-p4s1w3">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 </w.rf>
 <form>Thoraxu</form>
 <tag>
-<AM lemma="Thorax_;K" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Thorax_;m" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto">NNIS3-----A----</AM>
 <AM lemma="torax_;U_,s_,x" src="auto">NNIS6-----A----</AM>

@@ -70,8 +70,8 @@
 </w.rf>
 <form>jem</form>
 <tag>
-<AM lemma="jem-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jem-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jem-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jem-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-016-p2s1w4">
@@ -437,7 +437,7 @@
 <LM>w#w-mf920923-016-p2s3w15</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-016-p2s3w16">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-016-p2s8w2">
@@ -1085,7 +1085,7 @@
 <LM>w#w-mf920923-016-p2s8w3</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-016-p2s8w4">
 <src.rf>manual</src.rf>

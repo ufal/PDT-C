@@ -181,9 +181,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-162-p4s1w2">
@@ -193,7 +193,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -271,7 +271,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -346,7 +346,7 @@
 </w.rf>
 <form>GBP</form>
 <tag>
-<AM lemma="GBP_:B_;b_^(Britská_libra,_mez._zkr.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GBP_:B_^(Britská_libra,_mez._zkr.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GBP_:B_^(Britská_libra,_mez._zkr.)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -445,7 +445,7 @@
 </w.rf>
 <form>JPY</form>
 <tag>
-<AM lemma="JPY_:B_;b_^(japonský_jen)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JPY_:B_^(japonský_jen)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="JPY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -520,7 +520,7 @@
 </w.rf>
 <form>CHF</form>
 <tag>
-<AM lemma="CHF_:B_;b_^(Švýc._frank,_mez._zkr.)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CHF_:B_^(Švýc._frank,_mez._zkr.)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -595,7 +595,7 @@
 </w.rf>
 <form>FRF</form>
 <tag>
-<AM lemma="FRF_:B_;b_^(francouzský_frank)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FRF_:B_^(francouzský_frank)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="FRF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -694,7 +694,7 @@
 </w.rf>
 <form>BEF</form>
 <tag>
-<AM lemma="BEF_:B_;b_^(belgický_frank)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BEF_:B_^(belgický_frank)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BEF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -769,7 +769,7 @@
 </w.rf>
 <form>NLG</form>
 <tag>
-<AM lemma="NLG_:B_;b_^(nizozemský_gulden)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NLG_:B_^(nizozemský_gulden)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="NLG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -868,7 +868,7 @@
 </w.rf>
 <form>ITL</form>
 <tag>
-<AM lemma="ITL_:B_;b_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ITL_:B_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ITL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -943,7 +943,7 @@
 </w.rf>
 <form>ATS</form>
 <tag>
-<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS_:B_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ATS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1042,7 +1042,7 @@
 </w.rf>
 <form>GRD</form>
 <tag>
-<AM lemma="GRD_:B_;b_^(řecká_drachma)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GRD_:B_^(řecká_drachma)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GRD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1141,7 +1141,7 @@
 </w.rf>
 <form>ESP</form>
 <tag>
-<AM lemma="ESP_:B_;b_^(španělská_peseta)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ESP_:B_^(španělská_peseta)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ESP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1216,7 +1216,7 @@
 </w.rf>
 <form>SEK</form>
 <tag>
-<AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SEK_:B_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SEK_:B_^(švéd._koruna)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1291,7 +1291,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DKK_:B_^(dánská_koruna)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1359,11 +1359,11 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS-2_:B_,t_^(European_monetary_system)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Ems_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1383,7 +1383,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1575,7 +1575,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1631,7 +1631,7 @@
 </w.rf>
 <form>NBS</form>
 <tag>
-<AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBS_:B_;m_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

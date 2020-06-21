@@ -81,9 +81,9 @@
 </w.rf>
 <form>tk</form>
 <tag>
-<AM lemma="tk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="tk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-008-p2s1w4">
@@ -483,7 +483,7 @@
 <LM>w#w-mf930701-008-p3s1w2</LM>
 </w.rf>
 <form>Hasek</form>
-<tag lemma="Hasek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hasek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-008-p3s1w3">
 <src.rf>manual</src.rf>
@@ -545,9 +545,9 @@
 </w.rf>
 <form>rep</form>
 <tag>
-<AM lemma="rep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rep-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="rep-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rep-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-008-p4s1w4">
@@ -612,7 +612,7 @@
 <LM>w#w-mf930701-008-p4s1w11</LM>
 </w.rf>
 <form>Haseka</form>
-<tag lemma="Hasek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hasek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-008-p4s1w12">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-mf930701-008-p4s2w1</LM>
 </w.rf>
 <form>Hasekův</form>
-<tag lemma="Hasekův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Hasekův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930701-008-p4s2w2">
 <src.rf>manual</src.rf>

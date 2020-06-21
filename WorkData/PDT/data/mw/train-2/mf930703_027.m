@@ -78,11 +78,11 @@
 </w.rf>
 <form>mat</form>
 <tag>
-<AM lemma="mat-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mat-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mat" src="auto">NNIS1-----A----</AM>
 <AM lemma="mat" src="auto">NNIS4-----A----</AM>
 <AM lemma="materiál_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="mat-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mat-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-027-p2s1w4">

@@ -756,7 +756,7 @@
 <LM>w#w-lnd91301-060-p4s6w15</LM>
 </w.rf>
 <form>Sihanuka</form>
-<tag lemma="Sihanuk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sihanuk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-060-p4s6w16">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-lnd91301-060-p4s6w19</LM>
 </w.rf>
 <form>Chakraphong</form>
-<tag lemma="Chakraphong_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chakraphong_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-060-p4s6w20">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-lnd91301-060-p4s6w25</LM>
 </w.rf>
 <form>Sena</form>
-<tag lemma="Sen_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sen_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-060-p4s6w26">
 <src.rf>manual</src.rf>
@@ -869,9 +869,9 @@
 </w.rf>
 <form>Devi</form>
 <tag>
-<AM lemma="Devi_;S" src="orig">NNFXX-----A----</AM>
+<AM lemma="Devi_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Devi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Devi-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Devi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-060-p4s6w30">

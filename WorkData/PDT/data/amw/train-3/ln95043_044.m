@@ -71,7 +71,7 @@
 <form>Cavaka</form>
 <tag>
 <AM lemma="Cavaco_;Y" src="orig">NNMS2-----A---1</AM>
-<AM lemma="Cavako_;S_;Y_,s_^(^DD**Cavaco)" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Cavako_;Y_,s_^(^DD**Cavaco)" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p2s1Aw3">
@@ -82,7 +82,7 @@
 <form>Silvy</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p2s1Aw4">
@@ -275,7 +275,7 @@
 <LM>w#w-ln95043-044-p2s1Bw11</LM>
 </w.rf>
 <form>Cavaco</form>
-<tag lemma="Cavaco_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cavaco_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-044-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p2s1Bw13">
@@ -722,7 +722,7 @@
 <LM>w#w-ln95043-044-p3s1w12</LM>
 </w.rf>
 <form>Cavaco</form>
-<tag lemma="Cavaco_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cavaco_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-044-p3s1w13">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p3s1w14">
@@ -1193,7 +1193,7 @@
 <LM>w#w-ln95043-044-p4s2w19</LM>
 </w.rf>
 <form>Duraovi</form>
-<tag lemma="Durao_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Durao_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95043-044-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1202,13 +1202,13 @@
 </w.rf>
 <form>Barrosovi</form>
 <tag>
-<AM lemma="Barros_;S_^(?)" src="orig">NNMS3-----A----</AM>
-<AM lemma="Barros_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Barros_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Barroso_;S" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
-<AM lemma="Barroso_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Barrosův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Barrosův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Barros_;Y_^(?)" src="orig">NNMS3-----A----</AM>
+<AM lemma="Barros_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Barros_;Y" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Barroso_;Y" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
+<AM lemma="Barroso_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Barrosův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Barrosův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p4s2w21">
@@ -1316,7 +1316,7 @@
 <LM>w#w-ln95043-044-p4s2w33</LM>
 </w.rf>
 <form>Nogueirovi</form>
-<tag lemma="Nogueira_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Nogueira_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95043-044-p4s2w34">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p4s2w42">
@@ -1497,7 +1497,7 @@
 <LM>w#w-ln95043-044-p4s3w8</LM>
 </w.rf>
 <form>Nogueira</form>
-<tag lemma="Nogueira_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nogueira_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-044-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1795,7 +1795,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p5s2w16">
@@ -1836,7 +1836,7 @@
 <LM>w#w-ln95043-044-p5s2w20</LM>
 </w.rf>
 <form>Nogueira</form>
-<tag lemma="Nogueira_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nogueira_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-044-p5s2w21">
 <src.rf>manual</src.rf>
@@ -1897,7 +1897,7 @@
 <LM>w#w-ln95043-044-p5s3w1</LM>
 </w.rf>
 <form>Barroso</form>
-<tag lemma="Barroso_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barroso_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-044-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1987,7 +1987,7 @@
 <LM>w#w-ln95043-044-p5s4w2</LM>
 </w.rf>
 <form>Nogueirou</form>
-<tag lemma="Nogueira_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Nogueira_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95043-044-p5s4w3">
 <src.rf>manual</src.rf>
@@ -2039,8 +2039,8 @@
 </w.rf>
 <form>Barrosou</form>
 <tag>
-<AM lemma="Barrosa_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Barroso_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Barrosa_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Barroso_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p5s4w9">
@@ -2148,8 +2148,8 @@
 </w.rf>
 <form>PSD</form>
 <tag>
-<AM lemma="PSD-3_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PSD-1_:B_;R_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="PSD-3_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PSD-1_:B_;m_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PSD-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2589,7 +2589,7 @@
 <LM>w#w-ln95043-044-p6s2w13</LM>
 </w.rf>
 <form>Soares</form>
-<tag lemma="Soares_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soares_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-044-p6s2w14">
 <src.rf>manual</src.rf>
@@ -2639,7 +2639,7 @@
 <form>Silvova</form>
 <tag>
 <AM lemma="Silvův_;Y_^(*2a)" src="orig">AUNS2M---------</AM>
-<AM lemma="Silvův_;S_;Y_^(*2a)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Silvův_;Y_^(*2a)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p6s2w20">
@@ -3490,8 +3490,8 @@
 </w.rf>
 <form>PSD</form>
 <tag>
-<AM lemma="PSD-3_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PSD-1_:B_;R_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="PSD-3_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PSD-1_:B_;m_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PSD-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3613,7 +3613,7 @@
 <form>Cavaka</form>
 <tag>
 <AM lemma="Cavaco_;Y" src="orig">NNMS2-----A---1</AM>
-<AM lemma="Cavako_;S_;Y_,s_^(^DD**Cavaco)" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Cavako_;Y_,s_^(^DD**Cavaco)" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p10s1w3">
@@ -3624,7 +3624,7 @@
 <form>Silvy</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p10s1w4">
@@ -3953,7 +3953,7 @@
 <LM>w#w-ln95043-044-p10s2w11</LM>
 </w.rf>
 <form>Guterres</form>
-<tag lemma="Guterres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Guterres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-044-p10s2w12">
 <src.rf>manual</src.rf>
@@ -3986,8 +3986,8 @@
 </w.rf>
 <form>PSD</form>
 <tag>
-<AM lemma="PSD-3_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PSD-1_:B_;R_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="PSD-3_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PSD-1_:B_;m_,t_^(Postdamer_Spektraldurchmusterung)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PSD-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3998,7 +3998,7 @@
 <LM>w#w-ln95043-044-p10s2w16</LM>
 </w.rf>
 <form>Nogueira</form>
-<tag lemma="Nogueira_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nogueira_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-044-p10s2w17">
 <src.rf>manual</src.rf>
@@ -4096,7 +4096,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p10s2w29">
@@ -4535,7 +4535,7 @@
 <form>Silvou</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p11s1w21">

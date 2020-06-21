@@ -54,7 +54,7 @@
 </w.rf>
 <form>lb</form>
 <tag>
-<AM lemma="lb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="lb-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="libra-2_:B_^(váhová_jednotka)" src="auto" recommended="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -200,7 +200,7 @@
 <LM>w#w-mf930701-048-p2s1w21</LM>
 </w.rf>
 <form>Spisarem</form>
-<tag lemma="Spisar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Spisar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930701-048-p2s1w22">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-mf930701-048-p2s2w8</LM>
 </w.rf>
 <form>Janáčka</form>
-<tag lemma="Janáček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Janáček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-048-p2s2w9">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-mf930701-048-p2s3w11</LM>
 </w.rf>
 <form>Completto</form>
-<tag lemma="Completto_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Completto_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-048-p2s3w12">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-mf930701-048-p2s4w8</LM>
 </w.rf>
 <form>Doppelquartett</form>
-<tag lemma="Doppelquartett_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Doppelquartett_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-048-p2s4w9">
 <src.rf>manual</src.rf>

@@ -3812,7 +3812,7 @@
 <LM>w#w-ln95042-009-p9s5w22</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95042-009-p9s5w23">
 <src.rf>manual</src.rf>

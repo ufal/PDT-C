@@ -62,10 +62,10 @@
 </w.rf>
 <form>ha</form>
 <tag>
-<AM lemma="ha-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ha-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ha-1`hektar_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ha-2" src="auto">II-------------</AM>
-<AM lemma="ha-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ha-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-143-p2s1w4">
@@ -205,7 +205,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -241,7 +241,7 @@
 <LM>w#w-lnd92258-143-p2s3w3</LM>
 </w.rf>
 <form>Fenerbahce</form>
-<tag lemma="Fenerbahce_;K" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Fenerbahce_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92258-143-p2s3w4">
 <src.rf>manual</src.rf>

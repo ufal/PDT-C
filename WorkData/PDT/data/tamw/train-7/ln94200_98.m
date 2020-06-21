@@ -94,8 +94,8 @@
 </w.rf>
 <form>Ostrowek</form>
 <tag>
-<AM lemma="Ostrowek_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ostrowek_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ostrowek_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ostrowek_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-98-p2s1w10">
@@ -194,7 +194,7 @@
 <LM>w#w-ln94200-98-p2s2Aw1</LM>
 </w.rf>
 <form>Agrostavu</form>
-<tag lemma="Agrostav_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Agrostav_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94200-98-p2s2Aw2">
 <src.rf>manual</src.rf>
@@ -262,8 +262,8 @@
 </w.rf>
 <form>jop</form>
 <tag>
-<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-98-p2s2Bw3">

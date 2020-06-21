@@ -86,7 +86,7 @@
 </w.rf>
 <form>NY</form>
 <tag>
-<AM lemma="NY_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="NY_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="NY_:B_;G_^(New_York)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="NY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -98,7 +98,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -365,8 +365,8 @@
 </w.rf>
 <form>Bruins</form>
 <tag>
-<AM lemma="Bruin_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Bruins_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Bruin_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Bruins_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Bruins-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -549,7 +549,7 @@
 <LM>w#w-lnd94105-100-p1s6w14</LM>
 </w.rf>
 <form>Holík</form>
-<tag lemma="Holík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-100-p1s6w15">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 </w.rf>
 <form>Driver</form>
 <tag>
-<AM lemma="Driver_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Driver_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="driver" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="driver" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -790,7 +790,7 @@
 <LM>w#w-lnd94105-100-p1s7w20</LM>
 </w.rf>
 <form>Sweeney</form>
-<tag lemma="Sweeney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sweeney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-100-p1s7w21">
 <src.rf>manual</src.rf>

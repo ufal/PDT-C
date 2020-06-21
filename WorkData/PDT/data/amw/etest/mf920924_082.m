@@ -125,7 +125,7 @@
 <LM>w#w-mf920924-082-p2s1w11</LM>
 </w.rf>
 <form>Marečka</form>
-<tag lemma="Mareček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mareček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s1w12">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-mf920924-082-p2s1w18</LM>
 </w.rf>
 <form>Martince</form>
-<tag lemma="Martinec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Martinec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s1w19">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-mf920924-082-p2s3w1</LM>
 </w.rf>
 <form>Mareček</form>
-<tag lemma="Mareček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mareček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s3w2">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-mf920924-082-p2s3w6</LM>
 </w.rf>
 <form>Martinec</form>
-<tag lemma="Martinec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martinec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s3w7">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-mf920924-082-p2s4w16</LM>
 </w.rf>
 <form>Meduna</form>
-<tag lemma="Meduna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meduna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s4w17">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-mf920924-082-p2s6Bw6</LM>
 </w.rf>
 <form>Martinec</form>
-<tag lemma="Martinec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martinec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s6Bw7">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-mf920924-082-p2s7w8</LM>
 </w.rf>
 <form>Martince</form>
-<tag lemma="Martinec_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Martinec_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-mf920924-082-p2s7w15</LM>
 </w.rf>
 <form>Meduna</form>
-<tag lemma="Meduna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meduna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1807,9 +1807,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-082-p2s13w10">
@@ -1887,7 +1887,7 @@
 <form>Voda</form>
 <tag>
 <AM lemma="voda" src="orig">NNFS1-----A----</AM>
-<AM lemma="Voda_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Voda_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-082-p2s13w19">

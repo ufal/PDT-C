@@ -36,8 +36,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -82,7 +82,7 @@
 <LM>w#w-lnd91301-002-p3s1Aw2</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd91301-002-p3s1Aw3">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-lnd91301-002-p4s1w7</LM>
 </w.rf>
 <form>Štětiny</form>
-<tag lemma="Štětina_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Štětina_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-002-p4s1w8">
 <src.rf>manual</src.rf>
@@ -352,9 +352,9 @@
 </w.rf>
 <form>Mihaličky</form>
 <tag>
-<AM lemma="Mihalička_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mihaliček_;S" src="auto" selected="1">NNMP4-----A----</AM>
-<AM lemma="Mihaliček_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Mihalička_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Mihaliček_;Y" src="auto" selected="1">NNMP4-----A----</AM>
+<AM lemma="Mihaliček_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-002-p4s1w11">

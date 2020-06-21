@@ -309,7 +309,7 @@
 <LM>w#w-ln95044-127-p2s1Cw19</LM>
 </w.rf>
 <form>Argman</form>
-<tag lemma="Argman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Argman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-127-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p4s1w5">
@@ -1111,7 +1111,7 @@
 <LM>w#w-ln95044-127-p4s1w6</LM>
 </w.rf>
 <form>Argman</form>
-<tag lemma="Argman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Argman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-127-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1523,8 +1523,8 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-1_:B_;m_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1574,7 +1574,7 @@
 <LM>w#w-ln95044-127-p5s2w10</LM>
 </w.rf>
 <form>Porcelu</form>
-<tag lemma="Porcela_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Porcela_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95044-127-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 </w.rf>
 <form>Plus</form>
 <tag>
-<AM lemma="Plus-3_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Plus-3_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
 <AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto">J*-------------</AM>
@@ -1711,8 +1711,8 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-1_:B_;m_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2183,8 +2183,8 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-1_:B_;m_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

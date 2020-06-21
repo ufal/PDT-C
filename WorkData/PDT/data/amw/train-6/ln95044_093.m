@@ -77,7 +77,7 @@
 <LM>w#w-ln95044-093-p2s1Aw2</LM>
 </w.rf>
 <form>Přikryl</form>
-<tag lemma="Přikryl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přikryl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-093-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -110,8 +110,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -351,8 +351,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-093-p2s3Aw4">
@@ -378,7 +378,7 @@
 </w.rf>
 <form>SČMBD</form>
 <tag>
-<AM lemma="SČMBD-1_:B_;K_^(Svaz_českých_a_moravských_byt._družstev)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SČMBD-1_:B_;m_^(Svaz_českých_a_moravských_byt._družstev)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SČMBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -396,7 +396,7 @@
 <LM>w#w-ln95044-093-p2s3Aw8</LM>
 </w.rf>
 <form>Přikryla</form>
-<tag lemma="Přikryl_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Přikryl_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-093-p2s3Aw9">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-ln95044-093-p3s3w11</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-093-p3s3w12">
 <src.rf>manual</src.rf>

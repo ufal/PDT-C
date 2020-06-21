@@ -70,8 +70,8 @@
 </w.rf>
 <form>jh</form>
 <tag>
-<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jh-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-029-p2s1w4">
@@ -677,10 +677,10 @@
 </w.rf>
 <form>favoritu</form>
 <tag>
-<AM lemma="Favorit-2_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto">NNIS6-----A----</AM>
+<AM lemma="Favorit-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
+<AM lemma="favorit-1_;m" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="favorit-1_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="favorit-1_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMS3-----A---1</AM>
 <AM lemma="favorit-2" src="auto">NNMS6-----A---1</AM>
 </tag>

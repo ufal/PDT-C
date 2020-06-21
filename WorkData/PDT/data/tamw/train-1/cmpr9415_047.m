@@ -808,8 +808,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-047-p10s2w8">
@@ -1553,7 +1553,7 @@
 <LM>w#w-cmpr9415-047-p11s4w16</LM>
 </w.rf>
 <form>Čuřín</form>
-<tag lemma="Čuřín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čuřín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p11s4w17">
 <src.rf>manual</src.rf>
@@ -2212,8 +2212,8 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="V-33" src="orig">Q3-------------</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-047-p13s4Aw22">
@@ -2777,7 +2777,7 @@
 <LM>w#w-cmpr9415-047-p15s1w2</LM>
 </w.rf>
 <form>Eurotelu</form>
-<tag lemma="Eurotel_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Eurotel_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-047-p16s1">
@@ -2885,7 +2885,7 @@
 <LM>w#w-cmpr9415-047-p16s2w3</LM>
 </w.rf>
 <form>Eurotelu</form>
-<tag lemma="Eurotel_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Eurotel_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p16s2w4">
 <src.rf>manual</src.rf>
@@ -3034,7 +3034,7 @@
 <LM>w#w-cmpr9415-047-p16s3w11</LM>
 </w.rf>
 <form>Eurotel</form>
-<tag lemma="Eurotel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Eurotel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p16s3w12">
 <src.rf>manual</src.rf>
@@ -3789,7 +3789,7 @@
 <LM>w#w-cmpr9415-047-p17s2w27</LM>
 </w.rf>
 <form>Čuřín</form>
-<tag lemma="Čuřín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čuřín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p17s2w28">
 <src.rf>manual</src.rf>

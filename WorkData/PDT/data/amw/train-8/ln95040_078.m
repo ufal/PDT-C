@@ -20,9 +20,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p1s1w2">
@@ -98,8 +98,8 @@
 </w.rf>
 <form>Strobe</form>
 <tag>
-<AM lemma="Strobe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p2s1w7">
@@ -108,7 +108,7 @@
 <LM>w#w-ln95040-078-p2s1w7</LM>
 </w.rf>
 <form>Talbott</form>
-<tag lemma="Talbott_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talbott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-078-p2s1w8">
 <src.rf>manual</src.rf>
@@ -221,9 +221,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p2s1w22">
@@ -672,7 +672,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1449,7 +1449,7 @@
 <LM>w#w-ln95040-078-p3s4w15</LM>
 </w.rf>
 <form>Lemouth</form>
-<tag lemma="Lemouth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lemouth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-078-p3s4w16">
 <src.rf>manual</src.rf>

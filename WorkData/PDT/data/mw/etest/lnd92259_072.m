@@ -145,7 +145,7 @@
 <LM>w#w-lnd92259-072-p3s2w10</LM>
 </w.rf>
 <form>Muhammada</form>
-<tag lemma="Muhammad_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Muhammad_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-072-p3s2w11">
 <src.rf>manual</src.rf>
@@ -276,8 +276,8 @@
 </w.rf>
 <form>Gill</form>
 <tag>
-<AM lemma="Gill_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gill_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gill_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gill_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-072-p3s3w16">
@@ -286,7 +286,7 @@
 <LM>w#w-lnd92259-072-p3s3w16</LM>
 </w.rf>
 <form>Masih</form>
-<tag lemma="Masih_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masih_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-072-p3s3w17">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-lnd92259-072-p3s4w1</LM>
 </w.rf>
 <form>Masih</form>
-<tag lemma="Masih_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masih_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-072-p3s4w2">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-lnd92259-072-p3s7w1</LM>
 </w.rf>
 <form>Masih</form>
-<tag lemma="Masih_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masih_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-072-p3s7w2">
 <src.rf>manual</src.rf>

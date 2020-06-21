@@ -38,7 +38,7 @@
 <LM>w#w-ln94206-64-p1s1w3</LM>
 </w.rf>
 <form>Trnky</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-64-p2s1A">
@@ -66,7 +66,7 @@
 <LM>w#w-ln94206-64-p2s1Bw2</LM>
 </w.rf>
 <form>Pšenička</form>
-<tag lemma="Pšenička-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pšenička-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-64-p2s1C">
@@ -100,7 +100,7 @@
 <LM>w#w-ln94206-64-p2s1Cw4</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-64-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94206-64-p2s4w4</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-64-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-ln94206-64-p3s1w2</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-64-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-ln94206-64-p3s7w3</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-64-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1954,7 +1954,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

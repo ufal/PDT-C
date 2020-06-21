@@ -80,7 +80,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -368,8 +368,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-087-p2s3w8">
@@ -387,7 +387,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -406,7 +406,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-1_:B_;m_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -425,7 +425,7 @@
 </w.rf>
 <form>LB</form>
 <tag>
-<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-1_:B_;m_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="LB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -444,7 +444,7 @@
 </w.rf>
 <form>SPR</form>
 <tag>
-<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-1_:B_;m_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -463,7 +463,7 @@
 </w.rf>
 <form>RSČ</form>
 <tag>
-<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-1_:B_;m_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -482,7 +482,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

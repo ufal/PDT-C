@@ -19,7 +19,7 @@
 <LM>w#w-mf920901-034-p1s1w1</LM>
 </w.rf>
 <form>Milíčův</form>
-<tag lemma="Milíčův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf920901-034-p1s1w2">
 <src.rf>manual</src.rf>
@@ -62,8 +62,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-034-p2s1w4">
@@ -179,9 +179,9 @@
 </w.rf>
 <form>Borse</form>
 <tag>
-<AM lemma="Bors_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Bors_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Bors_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="Bors-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Bors-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-034-p2s2w13">
@@ -198,7 +198,7 @@
 <LM>w#w-mf920901-034-p2s2w14</LM>
 </w.rf>
 <form>Milíčově</form>
-<tag lemma="Milíčův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-mf920901-034-p2s2w15">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-mf920901-034-p2s3w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920901-034-p2s3w5">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-mf920901-034-p2s3w7</LM>
 </w.rf>
 <form>Hlaváčková</form>
-<tag lemma="Hlaváčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hlaváčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-034-p2s3w8">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-mf920901-034-p2s5w20</LM>
 </w.rf>
 <form>Hlaváčková</form>
-<tag lemma="Hlaváčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hlaváčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-034-p2s5w21">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-mf920901-034-p3s1w1</LM>
 </w.rf>
 <form>Milíčův</form>
-<tag lemma="Milíčův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf920901-034-p3s1w2">
 <src.rf>manual</src.rf>

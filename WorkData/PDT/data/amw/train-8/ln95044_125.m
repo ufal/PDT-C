@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-125-p1s1w1</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-125-p1s1w2">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln95044-125-p2s1Bw4</LM>
 </w.rf>
 <form>Penguins</form>
-<tag lemma="Penguins_;K" src="orig" selected="1">NNISX-----A----</tag>
+<tag lemma="Penguins_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95044-125-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln95044-125-p2s1Bw6</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-125-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -192,8 +192,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-125-p2s1Bw15">
@@ -611,7 +611,7 @@
 <LM>w#w-ln95044-125-p2s5w9</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-125-p2s5w10">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95044-125-p2s5w19</LM>
 </w.rf>
 <form>Gretzkého</form>
-<tag lemma="Gretzký_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gretzký_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-125-p2s5w20">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-125-p2s6w4">
@@ -744,7 +744,7 @@
 <LM>w#w-ln95044-125-p2s6w5</LM>
 </w.rf>
 <form>Jágrem</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-125-p2s6w6">
 <src.rf>manual</src.rf>

@@ -88,7 +88,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -106,7 +106,7 @@
 <LM>w#w-mf920925-082-p3s1w7</LM>
 </w.rf>
 <form>Čarnogurského</form>
-<tag lemma="Čarnogurský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čarnogurský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-082-p3s1w8">
 <src.rf>manual</src.rf>

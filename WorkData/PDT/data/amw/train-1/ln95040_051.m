@@ -27,7 +27,7 @@
 <LM>w#w-ln95040-051-p1s1w2</LM>
 </w.rf>
 <form>Masaryk</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95040-051-p2s1">
@@ -55,7 +55,7 @@
 <form>Garriqua</form>
 <tag>
 <AM lemma="Garrique_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Garrique_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Garrique_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-051-p2s1w4">
@@ -64,7 +64,7 @@
 <LM>w#w-ln95040-051-p2s1w4</LM>
 </w.rf>
 <form>Masaryka</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-051-p2s1w5">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-051-p2s1w18">
@@ -192,7 +192,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-051-p2s1w20">
@@ -209,7 +209,7 @@
 <LM>w#w-ln95040-051-p2s1w21</LM>
 </w.rf>
 <form>Masaryk</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-051-p2s1w22">
 <src.rf>manual</src.rf>
@@ -356,8 +356,8 @@
 </w.rf>
 <form>ÚLUV</form>
 <tag>
-<AM lemma="ÚLUV_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ÚLUV_:B_;K_^(Ústředí_lidové_umělecké_výroby)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="ÚLUV_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ÚLUV_:B_;m_^(Ústředí_lidové_umělecké_výroby)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="ÚLUV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -611,7 +611,7 @@
 <LM>w#w-ln95040-051-p2s4w5</LM>
 </w.rf>
 <form>Masaryka</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-051-p2s4w6">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln95040-051-p2s4w21</LM>
 </w.rf>
 <form>Masarykův</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95040-051-p2s4w22">
 <src.rf>manual</src.rf>

@@ -88,10 +88,10 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="jab-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jab-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jab_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="jab_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="jab-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-029-p3s1w4">

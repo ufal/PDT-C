@@ -77,7 +77,7 @@
 <LM>w#w-lnd92255-104-p2s1Aw7</LM>
 </w.rf>
 <form>Nováková</form>
-<tag lemma="Nováková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nováková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-104-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-lnd92255-104-p2s1Aw11</LM>
 </w.rf>
 <form>Heydricha</form>
-<tag lemma="Heydrich_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Heydrich_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92255-104-p2s1Aw12">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-lnd92255-104-p2s3w4</LM>
 </w.rf>
 <form>Sokola</form>
-<tag lemma="Sokol-2_;K_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Sokol-2_;m_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-lnd92255-104-p2s3w5">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-lnd92255-104-p2s4w14</LM>
 </w.rf>
 <form>Novákových</form>
-<tag lemma="Novákův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Novákův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-lnd92255-104-p2s4w15">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-lnd92255-104-p3s1w2</LM>
 </w.rf>
 <form>BĚLÍKOVÁ</form>
-<tag lemma="Bělíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bělíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-104-p3s1w3">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-lnd92255-104-p3s1w4</LM>
 </w.rf>
 <form>VÍŠKOVÁ</form>
-<tag lemma="Víšková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Víšková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-104-p3s1w5">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <form>Zahradník</form>
 <tag>
 <AM lemma="zahradník" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zahradník_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zahradník_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-104-p1s4w8">
@@ -1316,7 +1316,7 @@
 <LM>w#w-lnd92255-104-p2s1Bw1</LM>
 </w.rf>
 <form>JULIUS</form>
-<tag lemma="Julius_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Julius_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-104-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-lnd92255-104-p2s1Bw2</LM>
 </w.rf>
 <form>ZAJÍC</form>
-<tag lemma="Zajíc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zajíc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-104-p2s1Bw3">
 <src.rf>manual</src.rf>

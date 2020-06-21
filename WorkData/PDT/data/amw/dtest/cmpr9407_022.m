@@ -52,7 +52,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-022-p4s1w3">
@@ -69,7 +69,7 @@
 <LM>w#w-cmpr9407-022-p4s1w4</LM>
 </w.rf>
 <form>Koontze</form>
-<tag lemma="Koontz_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koontz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-022-p4s1w5">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-022-p4s1w7">
@@ -104,7 +104,7 @@
 <LM>w#w-cmpr9407-022-p4s1w8</LM>
 </w.rf>
 <form>Weihricha</form>
-<tag lemma="Weihrich_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Weihrich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-022-p4s1w9">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-cmpr9407-022-p4s1w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-022-p4s1w14">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 </w.rf>
 <form>Victoria</form>
 <tag>
-<AM lemma="Victoria_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Victoria_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Victoria-1_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Victoria-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>Publishing</form>
 <tag>
-<AM lemma="Publishing_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Publishing_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Publishing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -367,7 +367,7 @@
 <LM>w#w-cmpr9407-022-p4s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-022-p4s2w2">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-cmpr9407-022-p4s2w23</LM>
 </w.rf>
 <form>Kodak</form>
-<tag lemma="Kodak_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kodak_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-022-p4s2w24">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -571,7 +571,7 @@
 </w.rf>
 <form>Electric</form>
 <tag>
-<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Electric-1_;m_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -590,7 +590,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -601,7 +601,7 @@
 </w.rf>
 <form>Motors</form>
 <tag>
-<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-1_;m_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -620,7 +620,7 @@
 </w.rf>
 <form>IBM</form>
 <tag>
-<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-1_:B_;m_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -638,7 +638,7 @@
 <LM>w#w-cmpr9407-022-p4s2w33</LM>
 </w.rf>
 <form>Lufthansa</form>
-<tag lemma="Lufthansa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lufthansa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-022-p4s2w34">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-cmpr9407-022-p4s2w35</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-022-p4s2w36">
 <src.rf>manual</src.rf>
@@ -1295,7 +1295,7 @@
 </w.rf>
 <form>Victoria</form>
 <tag>
-<AM lemma="Victoria_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Victoria_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Victoria-1_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Victoria-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1307,7 +1307,7 @@
 </w.rf>
 <form>Publishing</form>
 <tag>
-<AM lemma="Publishing_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Publishing_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Publishing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1734,7 +1734,7 @@
 <LM>w#w-cmpr9407-022-p8s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-022-p8s2w2">
 <src.rf>manual</src.rf>
@@ -2428,7 +2428,7 @@
 <LM>w#w-cmpr9407-022-p8s5w5</LM>
 </w.rf>
 <form>Doležal</form>
-<tag lemma="Doležal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doležal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-022-p8s5w6">
 <src.rf>manual</src.rf>
@@ -2452,7 +2452,7 @@
 <LM>w#w-cmpr9407-022-p8s5w8</LM>
 </w.rf>
 <form>Fireš</form>
-<tag lemma="Fireš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fireš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-022-p8s5w9">
 <src.rf>manual</src.rf>
@@ -2476,7 +2476,7 @@
 <LM>w#w-cmpr9407-022-p8s5w11</LM>
 </w.rf>
 <form>Míková</form>
-<tag lemma="Míková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Míková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-022-p8s5w12">
 <src.rf>manual</src.rf>
@@ -2559,7 +2559,7 @@
 </w.rf>
 <form>Publishing</form>
 <tag>
-<AM lemma="Publishing_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Publishing_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Publishing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

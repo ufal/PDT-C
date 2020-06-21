@@ -93,7 +93,7 @@
 <LM>w#w-ln94205-135-p2s1Aw3</LM>
 </w.rf>
 <form>js</form>
-<tag lemma="js-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="js-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-135-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94205-135-p2s3w2</LM>
 </w.rf>
 <form>Čakrtová</form>
-<tag lemma="Čakrtová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Čakrtová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-135-p2s3w3">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 </w.rf>
 <form>MPSV</form>
 <tag>
-<AM lemma="MPSV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MPSV_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="MPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -955,7 +955,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-135-p3s1w2">
@@ -972,7 +972,7 @@
 <LM>w#w-ln94205-135-p3s1w3</LM>
 </w.rf>
 <form>Čakrtová</form>
-<tag lemma="Čakrtová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Čakrtová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-135-p3s1w4">
 <src.rf>manual</src.rf>
@@ -2375,7 +2375,7 @@
 </w.rf>
 <form>MPSV</form>
 <tag>
-<AM lemma="MPSV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MPSV_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="MPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

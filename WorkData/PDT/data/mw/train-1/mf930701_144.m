@@ -58,8 +58,8 @@
 <form>Holliday</form>
 <tag>
 <AM lemma="holliday_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Holliday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Holliday-2_;G_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Holliday_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Holliday-2_;G_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Holliday-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -260,7 +260,7 @@
 <LM>w#w-mf930701-144-p4s1w2</LM>
 </w.rf>
 <form>Superchannel</form>
-<tag lemma="Superchannel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Superchannel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-144-p4s1w3">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-mf930701-144-p4s1w8</LM>
 </w.rf>
 <form>Superchannel</form>
-<tag lemma="Superchannel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Superchannel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-144-p4s1w9">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-mf930701-144-p4s1w17</LM>
 </w.rf>
 <form>Calimero</form>
-<tag lemma="Calimero_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Calimero_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-144-p4s1w18">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94200-52-p1s1w4</LM>
 </w.rf>
 <form>Mitonu</form>
-<tag lemma="Miton_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Miton_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-52-p1s1w5">
 <src.rf>manual</src.rf>
@@ -68,8 +68,8 @@
 </w.rf>
 <form>Falcon</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig" selected="1">NNIS4-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;m" src="orig" selected="1">NNIS4-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -145,10 +145,10 @@
 </w.rf>
 <form>Falcon</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Falcon-2_;K_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Falcon-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Falcon-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;m_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Falcon-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Falcon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -159,7 +159,7 @@
 </w.rf>
 <form>Products</form>
 <tag>
-<AM lemma="Product_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Product_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Products-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -178,7 +178,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Inc_:B_;m_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
@@ -238,7 +238,7 @@
 <LM>w#w-ln94200-52-p2s1Bw13</LM>
 </w.rf>
 <form>Miton</form>
-<tag lemma="Miton_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Miton_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-ln94200-52-p2s3w6</LM>
 </w.rf>
 <form>Kantor</form>
-<tag lemma="Kantor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kantor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p2s3w7">
 <src.rf>manual</src.rf>
@@ -657,8 +657,8 @@
 </w.rf>
 <form>Falcon</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p3s1w16">
@@ -691,7 +691,7 @@
 <LM>w#w-ln94200-52-p3s1w19</LM>
 </w.rf>
 <form>Miton</form>
-<tag lemma="Miton_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Miton_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p3s1w20">
 <src.rf>manual</src.rf>
@@ -734,8 +734,8 @@
 </w.rf>
 <form>Falcon</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p3s2w2">
@@ -851,8 +851,8 @@
 </w.rf>
 <form>Falcon</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p4s1w3">
@@ -970,7 +970,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1161,7 +1161,7 @@
 <LM>w#w-ln94200-52-p4s2w7</LM>
 </w.rf>
 <form>Mitonu</form>
-<tag lemma="Miton_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Miton_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-52-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-ln94200-52-p5s1w23</LM>
 </w.rf>
 <form>Miton</form>
-<tag lemma="Miton_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Miton_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p5s1w24">
 <src.rf>manual</src.rf>
@@ -1571,9 +1571,9 @@
 </w.rf>
 <form>Falconu</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig" selected="1">NNIS2-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Falcon_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Falcon-2_;m" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Falcon_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s1w45">
@@ -1583,8 +1583,8 @@
 </w.rf>
 <form>Franklin</form>
 <tag>
-<AM lemma="Franklin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Franklin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Franklin_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Franklin_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s1w46">
@@ -1593,7 +1593,7 @@
 <LM>w#w-ln94200-52-p5s1w46</LM>
 </w.rf>
 <form>Jacobs</form>
-<tag lemma="Jacobs_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jacobs_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p5s1w47">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-ln94200-52-p5s2w3</LM>
 </w.rf>
 <form>Mitonu</form>
-<tag lemma="Miton_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Miton_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-52-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1716,9 +1716,9 @@
 </w.rf>
 <form>Falcon</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Falcon-2_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Falcon-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;m_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Falcon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1729,8 +1729,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1742,8 +1742,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s2w17">
@@ -1761,8 +1761,8 @@
 </w.rf>
 <form>U</form>
 <tag>
-<AM lemma="U-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="U-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="U-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s2w19">
@@ -1780,8 +1780,8 @@
 </w.rf>
 <form>R</form>
 <tag>
-<AM lemma="R-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s2w21">
@@ -1799,8 +1799,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s2w23">
@@ -1842,9 +1842,9 @@
 </w.rf>
 <form>Falconu</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig" selected="1">NNIS3-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Falcon_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Falcon-2_;m" src="orig" selected="1">NNIS3-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Falcon_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p5s2w28">
@@ -1927,7 +1927,7 @@
 <LM>w#w-ln94200-52-p5s3w1</LM>
 </w.rf>
 <form>Jacobs</form>
-<tag lemma="Jacobs_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jacobs_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-52-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1994,7 +1994,7 @@
 <LM>w#w-ln94200-52-p5s3w9</LM>
 </w.rf>
 <form>Mitonu</form>
-<tag lemma="Miton_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Miton_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-52-p5s3w10">
 <src.rf>manual</src.rf>
@@ -2096,9 +2096,9 @@
 </w.rf>
 <form>Falcon</form>
 <tag>
-<AM lemma="Falcon-2_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Falcon-2_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Falcon-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;m_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Falcon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2109,7 +2109,7 @@
 </w.rf>
 <form>Products</form>
 <tag>
-<AM lemma="Product_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Product_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Products-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2128,7 +2128,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Inc_:B_;m_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
@@ -2419,9 +2419,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-52-p6s4w6">

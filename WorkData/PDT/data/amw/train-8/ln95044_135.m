@@ -678,7 +678,7 @@
 <LM>w#w-ln95044-135-p3s2w13</LM>
 </w.rf>
 <form>Novosada</form>
-<tag lemma="Novosad_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Novosad_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-135-p3s2w14">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -873,7 +873,7 @@
 <LM>w#w-ln95044-135-p3s3w11</LM>
 </w.rf>
 <form>Dančáka</form>
-<tag lemma="Dančák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dančák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-135-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1017,8 +1017,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-135-p3s5w4">
@@ -1043,7 +1043,7 @@
 <LM>w#w-ln95044-135-p3s5w6</LM>
 </w.rf>
 <form>Dančák</form>
-<tag lemma="Dančák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dančák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-135-p3s5w7">
 <src.rf>manual</src.rf>

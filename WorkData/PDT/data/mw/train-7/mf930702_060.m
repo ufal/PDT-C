@@ -76,8 +76,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -106,7 +106,7 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-060-p2s1w4">
@@ -284,9 +284,9 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="manual">NNXXX-----A----</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-060-p2s1w26">
@@ -356,7 +356,7 @@
 <LM>w#w-mf930702-060-p2s2w7</LM>
 </w.rf>
 <form>Ortman</form>
-<tag lemma="Ortman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ortman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-060-p2s2w8">
 <src.rf>manual</src.rf>
@@ -489,8 +489,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-060-p2s4w13">
@@ -628,8 +628,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-060-p2s4w30">
@@ -776,7 +776,7 @@
 <LM>w#w-mf930702-060-p2s5w15</LM>
 </w.rf>
 <form>Ortman</form>
-<tag lemma="Ortman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ortman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-060-p2s5w16">
 <src.rf>manual</src.rf>

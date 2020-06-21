@@ -157,7 +157,7 @@
 <form>Artforum</form>
 <tag>
 <AM lemma="Artforum_;Y" src="orig">NNNS1-----A----</AM>
-<AM lemma="Artforum_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Artforum_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-053-p1s1Bw12">
@@ -830,7 +830,7 @@
 <LM>w#w-mf930713-053-p2s2Bw18</LM>
 </w.rf>
 <form>Sarkandra</form>
-<tag lemma="Sarkander_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sarkander_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-053-p2s2Bw19">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-mf930713-053-p2s3w14</LM>
 </w.rf>
 <form>Šimša</form>
-<tag lemma="Šimša_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimša_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-053-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-mf930713-053-p2s4w9</LM>
 </w.rf>
 <form>Šimša</form>
-<tag lemma="Šimša_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimša_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-053-p2s4w10">
 <src.rf>manual</src.rf>

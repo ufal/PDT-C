@@ -534,8 +534,8 @@
 <form>REM</form>
 <tag>
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="Rema_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Rema_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="REM-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -599,8 +599,8 @@
 <form>rapid</form>
 <tag>
 <AM lemma="rapid_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="rapid_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rapid_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="rapid_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="rapid_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="rapid-77" src="manual">F%-------------</AM>
 <AM lemma="rapid-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -623,7 +623,7 @@
 </w.rf>
 <form>movements</form>
 <tag>
-<AM lemma="movement_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="movement_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="movements-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1323,7 +1323,7 @@
 <LM>w#w-vesm9211-038-p3s1w23</LM>
 </w.rf>
 <form>Varolova</form>
-<tag lemma="Varolův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Varolův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-vesm9211-038-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1583,8 +1583,8 @@
 <form>REM</form>
 <tag>
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto">NNISX-----A---8</AM>
-<AM lemma="Rema_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Rema_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="REM-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1866,8 +1866,8 @@
 <form>REM</form>
 <tag>
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="Rema_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Rema_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="REM-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1903,7 +1903,7 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-1_;m_,t_^(souč._názvů,_např._Science)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2283,8 +2283,8 @@
 <form>REM</form>
 <tag>
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto">NNISX-----A---8</AM>
-<AM lemma="Rema_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Rema_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="REM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2652,7 +2652,7 @@
 <LM>w#w-vesm9211-038-p5s1w2</LM>
 </w.rf>
 <form>Koukolík</form>
-<tag lemma="Koukolík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukolík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

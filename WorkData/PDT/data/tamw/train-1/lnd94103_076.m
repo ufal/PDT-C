@@ -345,8 +345,8 @@
 <form>LA</form>
 <tag>
 <AM lemma="LA-1_:B_;G_^(Latinská_Amerika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LA_:B_;G_;K" src="auto">NNNSX-----A---8</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFSX----1A----</AM>
+<AM lemma="LA_:B_;G_;m" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>

@@ -435,7 +435,7 @@
 <form>Ch</form>
 <tag>
 <AM lemma="Ch-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ch-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ch-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-105-p2s3w10">
@@ -452,7 +452,7 @@
 <LM>w#w-mf920901-105-p2s3w11</LM>
 </w.rf>
 <form>Larson</form>
-<tag lemma="Larson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Larson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-105-p2s3w12">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-mf920901-105-p3s1w5</LM>
 </w.rf>
 <form>Larsona</form>
-<tag lemma="Larson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Larson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-105-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-mf920901-105-p4s1w30</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-105-p4s1w31">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-mf920901-105-p4s2w17</LM>
 </w.rf>
 <form>Vatanabe</form>
-<tag lemma="Vatanabe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vatanabe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-105-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 <LM>w#w-mf920901-105-p5s1w1</LM>
 </w.rf>
 <form>Larson</form>
-<tag lemma="Larson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Larson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-105-p5s1w2">
 <src.rf>manual</src.rf>

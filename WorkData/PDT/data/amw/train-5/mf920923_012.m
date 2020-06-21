@@ -282,7 +282,7 @@
 <LM>w#w-mf920923-012-p1s1Cw28</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920923-012-p1s1Cw29">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-mf920923-012-p1s2w5</LM>
 </w.rf>
 <form>Novikova</form>
-<tag lemma="Novikov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novikov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-012-p1s2w6">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-mf920923-012-p1s4w6</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920923-012-p1s4w7">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf920923-012-p1s4w17</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920923-012-p1s4w18">
 <src.rf>manual</src.rf>

@@ -38,10 +38,10 @@
 </w.rf>
 <form>Moen</form>
 <tag>
-<AM lemma="Moen_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Moen_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Moen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Moen_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Moen-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Moen-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-031-p2s1w3">
@@ -132,10 +132,10 @@
 <form>Iron</form>
 <tag>
 <AM lemma="Iron-3_;G_,t_^(Iron_Mountain)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Iron-2_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Iron-2_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="iron-1_;H" src="auto">NNIS1-----A----</AM>
-<AM lemma="iron-1_;H" src="auto">NNIS4-----A----</AM>
+<AM lemma="Iron-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Iron-2_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="iron-1_;U" src="auto">NNIS1-----A----</AM>
+<AM lemma="iron-1_;U" src="auto">NNIS4-----A----</AM>
 <AM lemma="Iron-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -165,8 +165,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-031-p2s1w17">
@@ -218,7 +218,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -275,7 +275,7 @@
 <LM>w#w-ln95044-031-p2s2w5</LM>
 </w.rf>
 <form>Dluhoš</form>
-<tag lemma="Dluhoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dluhoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-031-p2s2w6">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -356,7 +356,7 @@
 <LM>w#w-ln95044-031-p2s2w14</LM>
 </w.rf>
 <form>Mikuláštík</form>
-<tag lemma="Mikuláštík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikuláštík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-031-p2s2w15">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -441,7 +441,7 @@
 <LM>w#w-ln95044-031-p3s1w2</LM>
 </w.rf>
 <form>Edberg</form>
-<tag lemma="Edberg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Edberg_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-031-p3s1w3">
 <src.rf>manual</src.rf>

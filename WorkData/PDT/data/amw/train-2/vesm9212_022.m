@@ -19,7 +19,7 @@
 <LM>w#w-vesm9212-022-p1s2w1</LM>
 </w.rf>
 <form>Carcinogenesis</form>
-<tag lemma="Carcinogenesis_;R_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag lemma="Carcinogenesis_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9212-022-p1s2w2">
 <src.rf>manual</src.rf>
@@ -94,7 +94,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Carcinogenesis</form>
-<tag lemma="Carcinogenesis_;R_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag lemma="Carcinogenesis_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9212-022-p2s2w2">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-vesm9212-022-p3s2w1</LM>
 </w.rf>
 <form>Carcinogenesis</form>
-<tag lemma="Carcinogenesis_;R_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag lemma="Carcinogenesis_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9212-022-p3s2w2">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 </w.rf>
 <form>Journal</form>
 <tag>
-<AM lemma="Journal_;R_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Journal_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
 <AM lemma="journal_,t" src="manual">NNXXX-----A----</AM>
@@ -286,7 +286,7 @@
 </w.rf>
 <form>Agricultural</form>
 <tag>
-<AM lemma="Agricultural_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Agricultural_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="agricultural_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Agricultural-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -309,7 +309,7 @@
 </w.rf>
 <form>Food</form>
 <tag>
-<AM lemma="Food_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Food_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="food_,t_^(fastfood;_rychlé_občerstvení)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="food_,t_^(fastfood;_rychlé_občerstvení)" src="auto">NNIS4-----A----</AM>
 <AM lemma="food_,t" src="manual">NNXXX-----A----</AM>
@@ -323,7 +323,7 @@
 </w.rf>
 <form>Chemistry</form>
 <tag>
-<AM lemma="Chemistry_;R_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Chemistry_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="chemistry_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Chemistry-77" src="manual" selected="1">F%-------------</AM>
 </tag>

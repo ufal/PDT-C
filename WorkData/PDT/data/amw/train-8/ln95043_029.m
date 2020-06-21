@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-029-p1s1w2</LM>
 </w.rf>
 <form>Bártová</form>
-<tag lemma="Bártová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bártová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-029-p1s1w3">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95043-029-p2s1Bw12</LM>
 </w.rf>
 <form>Bártová</form>
-<tag lemma="Bártová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bártová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-029-p2s1Bw13">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd92252-083-p1s1w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p1s1w2">
 <src.rf>manual</src.rf>
@@ -62,8 +62,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s1w4">
@@ -98,7 +98,7 @@
 <LM>w#w-lnd92252-083-p2s2w2</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s2w3">
 <src.rf>manual</src.rf>
@@ -147,7 +147,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -205,7 +205,7 @@
 <LM>w#w-lnd92252-083-p2s2w15</LM>
 </w.rf>
 <form>Novotného</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s2w16">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-lnd92252-083-p2s4w18</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s4w19">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-lnd92252-083-p2s4w30</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s4w31">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-lnd92252-083-p2s4w32</LM>
 </w.rf>
 <form>Lacina</form>
-<tag lemma="Lacina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lacina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s4w33">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-lnd92252-083-p2s6w8</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s6w9">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-lnd92252-083-p2s6w17</LM>
 </w.rf>
 <form>Chovanec</form>
-<tag lemma="Chovanec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chovanec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s6w18">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1043,7 +1043,7 @@
 <LM>w#w-lnd92252-083-p2s9w2</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-lnd92252-083-p2s9w4</LM>
 </w.rf>
 <form>Uhrin</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-083-p2s9w5">
 <src.rf>manual</src.rf>

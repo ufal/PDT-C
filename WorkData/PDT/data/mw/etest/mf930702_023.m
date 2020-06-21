@@ -77,7 +77,7 @@
 <LM>w#w-mf930702-023-p2s1w3</LM>
 </w.rf>
 <form>lh</form>
-<tag lemma="lh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="lh-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-023-p2s1w4">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf930702-023-p2s1w7</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-023-p2s1w8">
 <src.rf>manual</src.rf>
@@ -203,8 +203,8 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-023-p2s2w2">
@@ -588,8 +588,8 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-023-p2s5w2">
@@ -654,7 +654,7 @@
 <LM>w#w-mf930702-023-p2s5w9</LM>
 </w.rf>
 <form>Škodaexport</form>
-<tag lemma="Škodaexport_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Škodaexport_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-023-p2s5w10">
 <src.rf>manual</src.rf>

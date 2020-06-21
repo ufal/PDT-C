@@ -104,8 +104,8 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s2w4">
@@ -139,8 +139,8 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s2w8">
@@ -190,7 +190,7 @@
 </w.rf>
 <form>STV</form>
 <tag>
-<AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -403,7 +403,7 @@
 </w.rf>
 <form>STV</form>
 <tag>
-<AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -480,8 +480,8 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s4w9">
@@ -595,7 +595,7 @@
 </w.rf>
 <form>STV</form>
 <tag>
-<AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -747,7 +747,7 @@
 </w.rf>
 <form>STV</form>
 <tag>
-<AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1157,8 +1157,8 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s11w7">
@@ -1405,7 +1405,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-1_:B_;m_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

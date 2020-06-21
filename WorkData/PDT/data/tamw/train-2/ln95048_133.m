@@ -29,7 +29,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-133-p1s1w3">
@@ -48,7 +48,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-133-p1s1w5">
@@ -65,7 +65,7 @@
 <LM>w#w-ln95048-133-p1s1w6</LM>
 </w.rf>
 <form>Masaryka</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -219,7 +219,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -237,7 +237,7 @@
 <LM>w#w-ln95044-077-p2s1Bw21</LM>
 </w.rf>
 <form>Tužinskému</form>
-<tag lemma="Tužinský_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Tužinský_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-077-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 </w.rf>
 <form>SRo</form>
 <tag>
-<AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SRo_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SRo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -337,9 +337,9 @@
 </w.rf>
 <form>Suska</form>
 <tag>
-<AM lemma="Susek_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Susko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Susko_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
+<AM lemma="Susek_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Susko_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Susko_;Y" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-077-p2s1Bw34">
@@ -422,7 +422,7 @@
 <LM>w#w-ln95044-077-p2s2w4</LM>
 </w.rf>
 <form>Suskovo</form>
-<tag lemma="Suskův_;S_^(*2o)" src="auto" selected="1">AUNS4M---------</tag>
+<tag lemma="Suskův_;Y_^(*2o)" src="auto" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln95044-077-p2s2w5">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln95044-077-p2s3w11</LM>
 </w.rf>
 <form>Tužinského</form>
-<tag lemma="Tužinský_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Tužinský_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-077-p2s3w12">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-ln95044-077-p2s4w3</LM>
 </w.rf>
 <form>Tužinský</form>
-<tag lemma="Tužinský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tužinský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-077-p2s4w4">
 <src.rf>manual</src.rf>

@@ -524,7 +524,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -542,7 +542,7 @@
 <LM>w#w-mf930713-075-p3s2w6</LM>
 </w.rf>
 <form>Zavázal</form>
-<tag lemma="Zavázal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zavázal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-075-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-mf930713-075-p4s3w13</LM>
 </w.rf>
 <form>Zavázal</form>
-<tag lemma="Zavázal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zavázal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-075-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1548,7 +1548,7 @@
 <LM>w#w-mf930713-075-p5s1w6</LM>
 </w.rf>
 <form>Šolc</form>
-<tag lemma="Šolc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šolc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-075-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1709,7 +1709,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1859,7 +1859,7 @@
 <LM>w#w-mf930713-075-p5s3w1</LM>
 </w.rf>
 <form>Šolc</form>
-<tag lemma="Šolc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šolc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-075-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1915,7 +1915,7 @@
 <LM>w#w-mf930713-075-p5s3w8</LM>
 </w.rf>
 <form>Vidím</form>
-<tag lemma="Vidím_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vidím_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-075-p5s3w9">
 <src.rf>manual</src.rf>
@@ -2138,7 +2138,7 @@
 <LM>w#w-mf930713-075-p5s5w3</LM>
 </w.rf>
 <form>Zavázalovi</form>
-<tag lemma="Zavázal_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Zavázal_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930713-075-p5s5w4">
 <src.rf>manual</src.rf>
@@ -2186,7 +2186,7 @@
 <LM>w#w-mf930713-075-p5s5w9</LM>
 </w.rf>
 <form>Šolc</form>
-<tag lemma="Šolc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šolc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-075-p5s5w10">
 <src.rf>manual</src.rf>

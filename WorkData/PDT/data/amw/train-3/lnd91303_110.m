@@ -133,8 +133,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="T-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-110-p4s1w4">
@@ -349,7 +349,7 @@
 </w.rf>
 <form>Gazeta</form>
 <tag>
-<AM lemma="Gazeta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazeta_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Gazeta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -360,7 +360,7 @@
 </w.rf>
 <form>Wyborcza</form>
 <tag>
-<AM lemma="Wyborcza_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Wyborcza_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Wyborcza-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -675,7 +675,7 @@
 <LM>w#w-lnd91303-110-p4s5w6</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-110-p4s5w7">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-lnd91303-110-p4s5w20</LM>
 </w.rf>
 <form>Intersped</form>
-<tag lemma="Intersped_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Intersped_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91303-110-p4s5w21">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 </w.rf>
 <form>FMZO</form>
 <tag>
-<AM lemma="FMZO_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FMZO_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="FMZO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -973,7 +973,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-110-p4s6w13">
@@ -990,7 +990,7 @@
 <LM>w#w-lnd91303-110-p4s6w14</LM>
 </w.rf>
 <form>Fritzla</form>
-<tag lemma="Fritzl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fritzl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-110-p4s6w15">
 <src.rf>manual</src.rf>

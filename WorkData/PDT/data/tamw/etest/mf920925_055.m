@@ -342,8 +342,8 @@
 </w.rf>
 <form>U</form>
 <tag>
-<AM lemma="U-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="U-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="U-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-055-p2s1w40">
@@ -520,7 +520,7 @@
 </w.rf>
 <form>Atletico</form>
 <tag>
-<AM lemma="Atletico_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Atletico_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Atletico-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -531,7 +531,7 @@
 </w.rf>
 <form>Minero</form>
 <tag>
-<AM lemma="Minero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Minero_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Minero-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -639,7 +639,7 @@
 <LM>w#w-mf920925-055-p6s1w12</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-3_:B_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf920925-055-p6s1w13">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 </w.rf>
 <form>ČSFA</form>
 <tag>
-<AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSFA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -693,7 +693,7 @@
 </w.rf>
 <form>SK</form>
 <tag>
-<AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SK-1_:B_;m_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -815,7 +815,7 @@
 <LM>w#w-mf920925-055-p7s1w19</LM>
 </w.rf>
 <form>Slovanem</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920925-055-p7s1w20">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-mf920925-055-p8s2w4</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-055-p8s2w5">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-mf920925-055-p8s2w6</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920925-055-p8s2w7">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <form>b</form>
 <tag>
 <AM lemma="bod_:B" src="orig" selected="1">NNIXX-----A---8</AM>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
 </m>

@@ -51,7 +51,7 @@
 <LM>w#w-lnd94103-041-p1s1w5</LM>
 </w.rf>
 <form>Petersen</form>
-<tag lemma="Petersen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petersen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-041-p1s1w6">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-lnd94103-041-p1s1w15</LM>
 </w.rf>
 <form>Zieleniecem</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-041-p1s2">
@@ -157,7 +157,7 @@
 <LM>w#w-lnd94103-041-p1s2w3</LM>
 </w.rf>
 <form>Cudlín</form>
-<tag lemma="Cudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cudlín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-041-p1s2w4">
 <src.rf>manual</src.rf>
@@ -174,8 +174,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -69,7 +69,7 @@
 <LM>w#w-lnd92255-014-p2s1w2</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p2s1w3">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 </w.rf>
 <form>zla</form>
 <tag>
-<AM lemma="zla-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="zla-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="zlo" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP5-----A----</AM>
@@ -167,7 +167,7 @@
 <LM>w#w-lnd92255-014-p3s2w3</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s2w4">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-lnd92255-014-p3s5w14</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s5w15">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-lnd92255-014-p3s5w18</LM>
 </w.rf>
 <form>Čedoku</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s5w19">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <form>s</form>
 <tag>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="s-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="s-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-014-p3s6w5">
@@ -884,7 +884,7 @@
 <form>p</form>
 <tag>
 <AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="p-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-014-p3s6w7">
@@ -903,7 +903,7 @@
 <LM>w#w-lnd92255-014-p3s7w1</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s7w2">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-lnd92255-014-p3s7w5</LM>
 </w.rf>
 <form>Urbana</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s7w6">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-lnd92255-014-p3s8w1</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s8w2">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <LM>w#w-lnd92255-014-p3s10w13</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s10w14">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-lnd92255-014-p3s11w4</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s11w5">
 <src.rf>manual</src.rf>
@@ -1610,7 +1610,7 @@
 <LM>w#w-lnd92255-014-p3s13w5</LM>
 </w.rf>
 <form>Panorama</form>
-<tag lemma="Panorama_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Panorama_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s13w6">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-lnd92255-014-p3s13w11</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s13w12">
 <src.rf>manual</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-lnd92255-014-p3s13w18</LM>
 </w.rf>
 <form>Čedoku</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s13w19">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <form>Hotelinvest</form>
 <tag>
 <AM lemma="Hotelinvest" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotelinvest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hotelinvest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-014-p3s13w24">
@@ -1792,7 +1792,7 @@
 <LM>w#w-lnd92255-014-p3s13w27</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s13w28">
 <src.rf>manual</src.rf>
@@ -1842,7 +1842,7 @@
 <LM>w#w-lnd92255-014-p3s14w3</LM>
 </w.rf>
 <form>Čedoku</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s14w4">
 <src.rf>manual</src.rf>
@@ -1922,7 +1922,7 @@
 <LM>w#w-lnd92255-014-p3s14w13</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-014-p3s14w14">
 <src.rf>manual</src.rf>

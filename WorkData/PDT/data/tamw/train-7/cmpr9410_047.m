@@ -709,7 +709,7 @@
 <LM>w#w-cmpr9410-047-p5s1w26</LM>
 </w.rf>
 <form>Wízner</form>
-<tag lemma="Wízner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wízner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-047-p5s1w27">
 <src.rf>manual</src.rf>
@@ -3489,7 +3489,7 @@
 <LM>w#w-cmpr9410-047-p11s2w21</LM>
 </w.rf>
 <form>Wízner</form>
-<tag lemma="Wízner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wízner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-047-p11s2w22">
 <src.rf>manual</src.rf>
@@ -5242,7 +5242,7 @@
 <LM>w#w-cmpr9410-047-p16s1w16</LM>
 </w.rf>
 <form>Vrchlického</form>
-<tag lemma="Vrchlický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vrchlický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-047-p16s1w17">
 <src.rf>manual</src.rf>

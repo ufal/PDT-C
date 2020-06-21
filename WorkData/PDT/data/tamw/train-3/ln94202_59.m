@@ -79,7 +79,7 @@
 <form>Jonáš</form>
 <tag>
 <AM lemma="Jonáš_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jonáš_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jonáš_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-59-p2s1Aw3">
@@ -2131,7 +2131,7 @@
 <form>Nobelovy</form>
 <tag>
 <AM lemma="Nobelův_^(*2)" src="orig">AUFS2M---------</AM>
-<AM lemma="Nobelův_;S_^(*2)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Nobelův_;Y_^(*2)" src="manual" selected="1">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94202-59-p5s2w11">
@@ -2172,7 +2172,7 @@
 <LM>w#w-ln94202-59-p5s2w15</LM>
 </w.rf>
 <form>Coase</form>
-<tag lemma="Coase_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Coase_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-59-p5s2w16">
 <src.rf>manual</src.rf>
@@ -3472,7 +3472,7 @@
 </w.rf>
 <form>Post</form>
 <tag>
-<AM lemma="Post-2_;R_,t_^(př._Washington_Post)" src="orig">NNISX-----A----</AM>
+<AM lemma="Post-2_;m_,t_^(př._Washington_Post)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Post-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3651,7 +3651,7 @@
 </w.rf>
 <form>Post</form>
 <tag>
-<AM lemma="Post-2_;R_,t_^(př._Washington_Post)" src="orig">NNISX-----A----</AM>
+<AM lemma="Post-2_;m_,t_^(př._Washington_Post)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Post-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4077,7 +4077,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -4162,7 +4162,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -4375,7 +4375,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

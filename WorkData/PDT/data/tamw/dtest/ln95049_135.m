@@ -405,7 +405,7 @@
 <LM>w#w-ln95049-135-p2s3w7</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p2s3w8">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-ln95049-135-p2s3w8</LM>
 </w.rf>
 <form>Astra</form>
-<tag lemma="Astra_;K_;R_^(vozidlo,telekom._družice)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Astra_;m_^(vozidlo,telekom._družice)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p2s3w9">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 </w.rf>
 <form>PTB</form>
 <tag>
-<AM lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PTB_:B_;m_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PTB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95049-135-p3s1w32</LM>
 </w.rf>
 <form>oplů</form>
-<tag lemma="opel_;R_^(vozidlo)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="opel_;m_^(vozidlo)" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95049-135-p3s1w33">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-ln95049-135-p3s2w17</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p3s2w18">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-ln95049-135-p3s2w19</LM>
 </w.rf>
 <form>Mauer</form>
-<tag lemma="Mauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 </w.rf>
 <form>astry</form>
 <tag>
-<AM lemma="Astra-2_;R_^(vozidlo)" src="orig">NNFS2-----A----</AM>
+<AM lemma="Astra-2_;m_^(vozidlo)" src="orig">NNFS2-----A----</AM>
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto">NNFP5-----A----</AM>
@@ -1426,7 +1426,7 @@
 <LM>w#w-ln95049-135-p4s5w19</LM>
 </w.rf>
 <form>Ulrich</form>
-<tag lemma="Ulrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p4s5w20">
 <src.rf>manual</src.rf>
@@ -1445,7 +1445,7 @@
 <LM>w#w-ln95049-135-p4s5w21</LM>
 </w.rf>
 <form>Pedoll</form>
-<tag lemma="Pedoll_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pedoll_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p4s5w22">
 <src.rf>manual</src.rf>
@@ -1462,7 +1462,7 @@
 </w.rf>
 <form>PTB</form>
 <tag>
-<AM lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PTB_:B_;m_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PTB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1482,7 +1482,7 @@
 <LM>w#w-ln95049-135-p4s6w1</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1597,7 +1597,7 @@
 <LM>w#w-ln95049-135-p4s6w15</LM>
 </w.rf>
 <form>Mauer</form>
-<tag lemma="Mauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p4s6w16">
 <src.rf>manual</src.rf>

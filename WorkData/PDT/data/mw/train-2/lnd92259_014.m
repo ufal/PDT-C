@@ -19,7 +19,7 @@
 <LM>w#w-lnd92259-014-p1s1w1</LM>
 </w.rf>
 <form>UNIPLET</form>
-<tag lemma="Uniplet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Uniplet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-014-p1s1w2">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-lnd92259-014-p3s1w3</LM>
 </w.rf>
 <form>ld</form>
-<tag lemma="ld-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ld-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-014-p3s1w4">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-lnd92259-014-p3s3w1</LM>
 </w.rf>
 <form>UNIPLET</form>
-<tag lemma="Uniplet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Uniplet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-014-p3s3w2">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-lnd92259-014-p3s3w13</LM>
 </w.rf>
 <form>neschopností</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92259-014-p3s3w14">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-lnd92259-014-p3s5w12</LM>
 </w.rf>
 <form>Matějíčka</form>
-<tag lemma="Matějíček_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Matějíček_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-014-p3s5w13">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-lnd92259-014-p4s3w13</LM>
 </w.rf>
 <form>Investa</form>
-<tag lemma="Investa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Investa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-014-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-lnd92259-014-p4s3w27</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92259-014-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1533,7 +1533,7 @@
 <LM>w#w-lnd92259-014-p6s1w21</LM>
 </w.rf>
 <form>Investu</form>
-<tag lemma="Investa_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Investa_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92259-014-p6s1w22">
 <src.rf>manual</src.rf>
@@ -2038,7 +2038,7 @@
 <LM>w#w-lnd92259-014-p6s4w11</LM>
 </w.rf>
 <form>Investa</form>
-<tag lemma="Investa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Investa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-014-p6s4w12">
 <src.rf>manual</src.rf>

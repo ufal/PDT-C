@@ -27,7 +27,7 @@
 <LM>w#w-ln95047-030-p1s1w2</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-030-p1s1w3">
 <src.rf>manual</src.rf>
@@ -60,7 +60,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

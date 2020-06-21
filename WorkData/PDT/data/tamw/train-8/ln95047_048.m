@@ -87,7 +87,7 @@
 <form>Job</form>
 <tag>
 <AM lemma="Job_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Job-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Job-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-048-p1s1w10">
@@ -104,7 +104,7 @@
 <LM>w#w-ln95047-048-p1s1w11</LM>
 </w.rf>
 <form>Ebena</form>
-<tag lemma="Eben_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Eben_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-048-p2s1">
@@ -138,7 +138,7 @@
 <LM>w#w-ln95047-048-p2s1w4</LM>
 </w.rf>
 <form>Ebena</form>
-<tag lemma="Eben_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Eben_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-048-p2s1w5">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 <form>Job</form>
 <tag>
 <AM lemma="Job_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Job-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Job-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-048-p2s1w6">
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln95047-048-p3s2w16</LM>
 </w.rf>
 <form>Talichův</form>
-<tag lemma="Talichův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Talichův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95047-048-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 </w.rf>
 <form>Archi</form>
 <tag>
-<AM lemma="Archi_;K_,t" src="orig">AAMP1----1A----</AM>
+<AM lemma="Archi_;m_,t" src="orig">AAMP1----1A----</AM>
 <AM lemma="Archi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1079,7 +1079,7 @@
 </w.rf>
 <form>Boemi</form>
 <tag>
-<AM lemma="Boemi_;K_,t" src="orig">NNMP1-----A----</AM>
+<AM lemma="Boemi_;m_,t" src="orig">NNMP1-----A----</AM>
 <AM lemma="Boemi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1109,7 +1109,7 @@
 </w.rf>
 <form>di</form>
 <tag>
-<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di_;G_;Y_,t" src="auto">RR--X----------</AM>
 <AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1120,7 +1120,7 @@
 </w.rf>
 <form>Praga</form>
 <tag>
-<AM lemma="Praga_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Praga_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Praga-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1376,9 +1376,9 @@
 <form>City</form>
 <tag>
 <AM lemma="City_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP5-----A----</AM>

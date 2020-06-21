@@ -242,9 +242,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-78-p2s2w8">
@@ -278,7 +278,7 @@
 </w.rf>
 <form>NBC</form>
 <tag>
-<AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBC_:B_;m_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -483,7 +483,7 @@
 </w.rf>
 <form>NBC</form>
 <tag>
-<AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBC_:B_;m_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -559,7 +559,7 @@
 <form>Port</form>
 <tag>
 <AM lemma="Port_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Port_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Port_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="port" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="port" src="auto">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
@@ -603,9 +603,9 @@
 <form>Prince</form>
 <tag>
 <AM lemma="Prince_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Princ_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Princ_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Princ_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Princ_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Princ_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Princ_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Prince_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Prince_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="princ" src="auto">NNMP4-----A----</AM>
@@ -621,9 +621,9 @@
 </w.rf>
 <form>Stanley</form>
 <tag>
-<AM lemma="Stanley_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stanley_;S_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Stanley_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stanley_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Stanley_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Stanley_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-78-p2s3w20">
@@ -632,7 +632,7 @@
 <LM>w#w-ln94211-78-p2s3w20</LM>
 </w.rf>
 <form>Schrager</form>
-<tag lemma="Schrager_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schrager_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-78-p2s3w21">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94211-78-p2s4w10</LM>
 </w.rf>
 <form>Cédrase</form>
-<tag lemma="Cédras_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cédras_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-78-p2s4w11">
 <src.rf>manual</src.rf>

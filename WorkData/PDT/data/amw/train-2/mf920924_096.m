@@ -53,7 +53,7 @@
 <LM>w#w-mf920924-096-p3s1w1</LM>
 </w.rf>
 <form>Máčala</form>
-<tag lemma="Máčala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Máčala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-096-p3s1w2">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf920924-096-p3s5w4</LM>
 </w.rf>
 <form>Skuhravý</form>
-<tag lemma="Skuhravý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skuhravý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-096-p3s5w5">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-mf920924-096-p3s5w10</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-096-p3s5w11">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Gudlaugsson</form>
-<tag lemma="Gudlagson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gudlagson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-096-p4s1w2">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-mf920924-096-p6s1w1</LM>
 </w.rf>
 <form>Kuka</form>
-<tag lemma="Kuka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-096-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-mf920924-096-p7s1w1</LM>
 </w.rf>
 <form>Němeček</form>
-<tag lemma="Němeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-096-p7s1w2">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-mf920924-096-p8s1w1</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-096-p8s1w2">
 <src.rf>manual</src.rf>

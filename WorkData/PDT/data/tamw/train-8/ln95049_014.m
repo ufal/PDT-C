@@ -75,7 +75,7 @@
 <LM>w#w-ln95049-014-p1s1Aw8</LM>
 </w.rf>
 <form>Havlem</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-014-p1s1Aw9">
 <src.rf>manual</src.rf>

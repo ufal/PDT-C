@@ -62,8 +62,8 @@
 </w.rf>
 <form>mlp</form>
 <tag>
-<AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mlp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mlp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-034-p2s1w4">
@@ -116,7 +116,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-034-p3s1w5">
@@ -133,7 +133,7 @@
 <LM>w#w-lnd91303-034-p3s1w6</LM>
 </w.rf>
 <form>Zahradníček</form>
-<tag lemma="Zahradníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zahradníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w7">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 </w.rf>
 <form>JEF</form>
 <tag>
-<AM lemma="JEF-1_:B_;K_,t_^(Jeunesses_Européenes_Fédéralistes)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JEF-1_:B_;m_,t_^(Jeunesses_Européenes_Fédéralistes)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JEF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -459,7 +459,7 @@
 <LM>w#w-lnd91303-034-p3s2w13</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-034-p3s2w14">
 <src.rf>manual</src.rf>

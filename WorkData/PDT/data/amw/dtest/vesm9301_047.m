@@ -95,7 +95,7 @@
 <LM>w#w-vesm9301-047-p3s1w2</LM>
 </w.rf>
 <form>VOPĚNKA</form>
-<tag lemma="Vopěnka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vopěnka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-047-p4s1">
@@ -3801,7 +3801,7 @@
 <LM>w#w-vesm9301-047-p8s1w16</LM>
 </w.rf>
 <form>Gausse</form>
-<tag lemma="Gauss_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gauss_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p8s1w17">
 <src.rf>manual</src.rf>
@@ -4595,8 +4595,8 @@
 </w.rf>
 <form>Antoine</form>
 <tag>
-<AM lemma="Antoine_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Antoine_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Antoine_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Antoine_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p10s3w17">
@@ -4616,7 +4616,7 @@
 <LM>w#w-vesm9301-047-p10s3w18</LM>
 </w.rf>
 <form>Condorcet</form>
-<tag lemma="Condorcet_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Condorcet_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p10s3w19">
 <src.rf>manual</src.rf>
@@ -4700,7 +4700,7 @@
 <LM>w#w-vesm9301-047-p10s5w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-047-p10s5w2">
 <src.rf>manual</src.rf>
@@ -6686,7 +6686,7 @@
 <LM>w#w-vesm9301-047-p12s5Bw8</LM>
 </w.rf>
 <form>Bakunin</form>
-<tag lemma="Bakunin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bakunin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p12s5Bw9">
 <src.rf>manual</src.rf>
@@ -7811,7 +7811,7 @@
 <LM>w#w-vesm9301-047-p14s2w25</LM>
 </w.rf>
 <form>Kantovu</form>
-<tag lemma="Kantův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Kantův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9301-047-p14s2w26">
 <src.rf>manual</src.rf>
@@ -7893,7 +7893,7 @@
 <LM>w#w-vesm9301-047-p15s1w9</LM>
 </w.rf>
 <form>Descartesových</form>
-<tag lemma="Descartesův_;S_^(*2)" src="orig" selected="1">AUFP6M---------</tag>
+<tag lemma="Descartesův_;Y_^(*2)" src="orig" selected="1">AUFP6M---------</tag>
 </m>
 <m id="m-vesm9301-047-p15s1w10">
 <src.rf>manual</src.rf>
@@ -8106,7 +8106,7 @@
 <LM>w#w-vesm9301-047-p15s2w25</LM>
 </w.rf>
 <form>Humeův</form>
-<tag lemma="Humeův_;S_^(*2)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Humeův_;Y_^(*2)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9301-047-p15s2w26">
 <src.rf>manual</src.rf>
@@ -8188,7 +8188,7 @@
 <LM>w#w-vesm9301-047-p15s3w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-047-p15s3w7">
 <src.rf>manual</src.rf>
@@ -8228,7 +8228,7 @@
 <LM>w#w-vesm9301-047-p15s3w11</LM>
 </w.rf>
 <form>Leibnizova</form>
-<tag lemma="Leibnizův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Leibnizův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9301-047-p15s3w12">
 <src.rf>manual</src.rf>
@@ -8653,7 +8653,7 @@
 <LM>w#w-vesm9301-047-p15s4w35</LM>
 </w.rf>
 <form>Hume</form>
-<tag lemma="Hume_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hume_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p15s4w36">
 <src.rf>manual</src.rf>
@@ -8825,7 +8825,7 @@
 <LM>w#w-vesm9301-047-p15s4w56</LM>
 </w.rf>
 <form>Leibnizovi</form>
-<tag lemma="Leibniz_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Leibniz_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-vesm9301-047-p15s4w57">
 <src.rf>manual</src.rf>
@@ -8921,7 +8921,7 @@
 <LM>w#w-vesm9301-047-p15s4w68</LM>
 </w.rf>
 <form>Wolff</form>
-<tag lemma="Wolff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wolff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p15s4w69">
 <src.rf>manual</src.rf>
@@ -9019,7 +9019,7 @@
 <LM>w#w-vesm9301-047-p16s1w11</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p16s1w12">
 <src.rf>manual</src.rf>
@@ -10549,7 +10549,7 @@
 <LM>w#w-vesm9301-047-p17s1w9</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p17s1w10">
 <src.rf>manual</src.rf>
@@ -10637,7 +10637,7 @@
 <LM>w#w-vesm9301-047-p17s1w20</LM>
 </w.rf>
 <form>Hume</form>
-<tag lemma="Hume_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hume_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p17s1w21">
 <src.rf>manual</src.rf>
@@ -10888,7 +10888,7 @@
 <LM>w#w-vesm9301-047-p17s3w5</LM>
 </w.rf>
 <form>Kantovi</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p17s3w6">
 <src.rf>manual</src.rf>
@@ -11082,7 +11082,7 @@
 <LM>w#w-vesm9301-047-p17s4w9</LM>
 </w.rf>
 <form>Galilei</form>
-<tag lemma="Galilei_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p17s4w10">
 <src.rf>manual</src.rf>
@@ -12618,7 +12618,7 @@
 <LM>w#w-vesm9301-047-p19s1w15</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p19s1w16">
 <src.rf>manual</src.rf>
@@ -13602,7 +13602,7 @@
 <LM>w#w-vesm9301-047-p20s1w10</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p20s1w11">
 <src.rf>manual</src.rf>
@@ -13679,7 +13679,7 @@
 <LM>w#w-vesm9301-047-p20s2w8</LM>
 </w.rf>
 <form>Kantova</form>
-<tag lemma="Kantův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Kantův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p20s2w9">
 <src.rf>manual</src.rf>
@@ -13823,7 +13823,7 @@
 <LM>w#w-vesm9301-047-p20s3w13</LM>
 </w.rf>
 <form>Kantovu</form>
-<tag lemma="Kantův_;S_^(*2)" src="orig" selected="1">AUIS3M---------</tag>
+<tag lemma="Kantův_;Y_^(*2)" src="orig" selected="1">AUIS3M---------</tag>
 </m>
 <m id="m-vesm9301-047-p20s3w14">
 <src.rf>manual</src.rf>
@@ -14723,8 +14723,8 @@
 <form>Mars</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="manual">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;G_;R_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p20s7w24">
@@ -14953,7 +14953,7 @@
 <LM>w#w-vesm9301-047-p21s1w1</LM>
 </w.rf>
 <form>Kantovo</form>
-<tag lemma="Kantův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Kantův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-vesm9301-047-p21s1w2">
 <src.rf>manual</src.rf>
@@ -15121,7 +15121,7 @@
 <LM>w#w-vesm9301-047-p21s1w23</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p21s1w24">
 <src.rf>manual</src.rf>
@@ -16861,7 +16861,7 @@
 <LM>w#w-vesm9301-047-p23s2w14</LM>
 </w.rf>
 <form>Kantův</form>
-<tag lemma="Kantův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Kantův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-vesm9301-047-p23s2w15">
 <src.rf>manual</src.rf>
@@ -17762,7 +17762,7 @@
 <LM>w#w-vesm9301-047-p24s1w26</LM>
 </w.rf>
 <form>Kantova</form>
-<tag lemma="Kantův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Kantův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p24s1w27">
 <src.rf>manual</src.rf>
@@ -17884,7 +17884,7 @@
 <LM>w#w-vesm9301-047-p24s2w10</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p24s2w11">
 <src.rf>manual</src.rf>
@@ -18248,7 +18248,7 @@
 <LM>w#w-vesm9301-047-p26s1w3</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUFP2M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p26s1w4">
 <src.rf>manual</src.rf>
@@ -18370,7 +18370,7 @@
 <LM>w#w-vesm9301-047-p26s2w6</LM>
 </w.rf>
 <form>Eukleidova</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p26s2w7">
 <src.rf>manual</src.rf>
@@ -19633,8 +19633,8 @@
 </w.rf>
 <form>p</form>
 <tag>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="p-33" src="orig">Q3-------------</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p28s2w12">
@@ -19668,8 +19668,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="orig">Q3-------------</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p28s2w16">
@@ -19767,8 +19767,8 @@
 </w.rf>
 <form>p</form>
 <tag>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="p-33" src="orig">Q3-------------</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p28s2w28">
@@ -19794,8 +19794,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="orig">Q3-------------</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p28s2w31">
@@ -19853,8 +19853,8 @@
 </w.rf>
 <form>p</form>
 <tag>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="p-33" src="orig">Q3-------------</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p28s2w38">
@@ -20583,9 +20583,9 @@
 </w.rf>
 <form>Eukleides</form>
 <tag>
-<AM lemma="Eukleides_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eukleidés_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Eukleides_;S_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eukleides_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eukleidés_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Eukleides_;Y_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p31s3w2">
@@ -20756,7 +20756,7 @@
 <LM>w#w-vesm9301-047-p31s4w2</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP6M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-vesm9301-047-p31s4w3">
 <src.rf>manual</src.rf>
@@ -20880,9 +20880,9 @@
 </w.rf>
 <form>Eukleides</form>
 <tag>
-<AM lemma="Eukleides_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eukleidés_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Eukleides_;S_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eukleides_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eukleidés_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Eukleides_;Y_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p31s4w18">
@@ -21192,9 +21192,9 @@
 </w.rf>
 <form>Eukleides</form>
 <tag>
-<AM lemma="Eukleides_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eukleidés_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Eukleides_;S_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eukleides_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eukleidés_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Eukleides_;Y_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p31s6w8">
@@ -21513,7 +21513,7 @@
 <LM>w#w-vesm9301-047-p31s7w6</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p31s7w7">
 <src.rf>manual</src.rf>
@@ -21758,7 +21758,7 @@
 <LM>w#w-vesm9301-047-p32s1w11</LM>
 </w.rf>
 <form>Eukleidově</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-vesm9301-047-p32s1w12">
 <src.rf>manual</src.rf>
@@ -22298,7 +22298,7 @@
 <LM>w#w-vesm9301-047-p32s3w18</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p32s3w19">
 <src.rf>manual</src.rf>
@@ -22514,7 +22514,7 @@
 <LM>w#w-vesm9301-047-p32s5w15</LM>
 </w.rf>
 <form>Eukleidovy</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP4M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP4M---------</tag>
 </m>
 <m id="m-vesm9301-047-p32s5w16">
 <src.rf>manual</src.rf>
@@ -22692,7 +22692,7 @@
 <LM>w#w-vesm9301-047-p33s1w17</LM>
 </w.rf>
 <form>Eukleidovy</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP1M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-vesm9301-047-p33s1w18">
 <src.rf>manual</src.rf>
@@ -22815,9 +22815,9 @@
 </w.rf>
 <form>Eukleides</form>
 <tag>
-<AM lemma="Eukleides_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eukleidés_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Eukleides_;S_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eukleides_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eukleidés_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Eukleides_;Y_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p33s2w4">
@@ -23238,7 +23238,7 @@
 <LM>w#w-vesm9301-047-p34s1w4</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p34s1w5">
 <src.rf>manual</src.rf>
@@ -23879,7 +23879,7 @@
 <LM>w#w-vesm9301-047-p35s1w16</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p35s1w17">
 <src.rf>manual</src.rf>
@@ -24077,9 +24077,9 @@
 </w.rf>
 <form>Eukleides</form>
 <tag>
-<AM lemma="Eukleides_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eukleidés_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Eukleides_;S_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eukleides_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eukleidés_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Eukleides_;Y_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p35s2w23">
@@ -24304,7 +24304,7 @@
 <LM>w#w-vesm9301-047-p36s1w25</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP6M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-vesm9301-047-p36s1w26">
 <src.rf>manual</src.rf>
@@ -25969,7 +25969,7 @@
 <LM>w#w-vesm9301-047-p39s1w20</LM>
 </w.rf>
 <form>Saccheri</form>
-<tag lemma="Saccheri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saccheri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p39s1w21">
 <src.rf>manual</src.rf>
@@ -26069,7 +26069,7 @@
 <LM>w#w-vesm9301-047-p39s3w1</LM>
 </w.rf>
 <form>Saccheri</form>
-<tag lemma="Saccheri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saccheri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p39s3w2">
 <src.rf>manual</src.rf>
@@ -26412,8 +26412,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="T-33" src="orig">Q3-------------</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p40s2w3">
@@ -26479,8 +26479,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="T-33" src="orig">Q3-------------</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p40s2w11">
@@ -26696,8 +26696,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="T-33" src="orig">Q3-------------</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p40s3w18">
@@ -27152,7 +27152,7 @@
 <LM>w#w-vesm9301-047-p41s1w1</LM>
 </w.rf>
 <form>Saccheri</form>
-<tag lemma="Saccheri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saccheri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p41s1w2">
 <src.rf>manual</src.rf>
@@ -27676,7 +27676,7 @@
 <LM>w#w-vesm9301-047-p42s1w8</LM>
 </w.rf>
 <form>Saccheri</form>
-<tag lemma="Saccheri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saccheri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p42s1w9">
 <src.rf>manual</src.rf>
@@ -27985,7 +27985,7 @@
 <LM>w#w-vesm9301-047-p42s2w25</LM>
 </w.rf>
 <form>Eukleidovy</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP1M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-vesm9301-047-p42s2w26">
 <src.rf>manual</src.rf>
@@ -28066,9 +28066,9 @@
 </w.rf>
 <form>Eukleides</form>
 <tag>
-<AM lemma="Eukleides_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eukleidés_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Eukleides_;S_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eukleides_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eukleidés_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Eukleides_;Y_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p42s2w36">
@@ -28731,7 +28731,7 @@
 <LM>w#w-vesm9301-047-p42s5w35</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-vesm9301-047-p42s5w36">
 <src.rf>manual</src.rf>
@@ -28915,7 +28915,7 @@
 <LM>w#w-vesm9301-047-p42s5w59</LM>
 </w.rf>
 <form>Eukleidových</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP6M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-vesm9301-047-p42s5w60">
 <src.rf>manual</src.rf>
@@ -31694,7 +31694,7 @@
 <LM>w#w-vesm9301-047-p44s3w5</LM>
 </w.rf>
 <form>Saccheri</form>
-<tag lemma="Saccheri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saccheri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p44s3w6">
 <src.rf>manual</src.rf>
@@ -31767,9 +31767,9 @@
 </w.rf>
 <form>Eukleides</form>
 <tag>
-<AM lemma="Eukleides_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eukleidés_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Eukleides_;S_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eukleides_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eukleidés_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Eukleides_;Y_,s_^(^DD**Eukleidés)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-047-p44s3w15">
@@ -33038,7 +33038,7 @@
 <LM>w#w-vesm9301-047-p45s6w12</LM>
 </w.rf>
 <form>Saccheri</form>
-<tag lemma="Saccheri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saccheri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p45s6w13">
 <src.rf>manual</src.rf>
@@ -33284,7 +33284,7 @@
 <LM>w#w-vesm9301-047-p45s7w23</LM>
 </w.rf>
 <form>Saccheri</form>
-<tag lemma="Saccheri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saccheri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-047-p45s7w24">
 <src.rf>manual</src.rf>

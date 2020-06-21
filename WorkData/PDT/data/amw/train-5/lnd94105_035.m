@@ -20,7 +20,7 @@
 </w.rf>
 <form>LSZ</form>
 <tag>
-<AM lemma="LSZ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="LSZ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="LSZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -219,7 +219,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -272,7 +272,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -322,7 +322,7 @@
 <LM>w#w-lnd94105-035-p1s4w11</LM>
 </w.rf>
 <form>Navrátil</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-035-p1s4w12">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -93,7 +93,7 @@
 <LM>w#w-mf920901-056-p1s2w3</LM>
 </w.rf>
 <form>Máčala</form>
-<tag lemma="Máčala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Máčala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-056-p1s2w4">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-mf920901-056-p1s2w10</LM>
 </w.rf>
 <form>Himst</form>
-<tag lemma="Himst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Himst_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-056-p1s2w11">
 <src.rf>manual</src.rf>

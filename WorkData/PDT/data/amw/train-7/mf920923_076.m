@@ -252,7 +252,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -473,7 +473,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -603,7 +603,7 @@
 <LM>w#w-mf920923-076-p4s3w18</LM>
 </w.rf>
 <form>Westinghouse</form>
-<tag lemma="Westinghouse_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Westinghouse_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-076-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1089,7 +1089,7 @@
 <LM>w#w-mf920923-076-p5s3w11</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-076-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <LM>w#w-mf920923-076-p6s1w1</LM>
 </w.rf>
 <form>Pithartův</form>
-<tag lemma="Pithartův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Pithartův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf920923-076-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1347,7 +1347,7 @@
 <LM>w#w-mf920923-076-p6s1w15</LM>
 </w.rf>
 <form>Dejmala</form>
-<tag lemma="Dejmal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dejmal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-076-p6s1w16">
 <src.rf>manual</src.rf>
@@ -1751,7 +1751,7 @@
 <LM>w#w-mf920923-076-p7s1w1</LM>
 </w.rf>
 <form>Klausova</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920923-076-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2116,7 +2116,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

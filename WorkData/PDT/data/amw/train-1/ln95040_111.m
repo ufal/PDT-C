@@ -45,7 +45,7 @@
 <LM>w#w-ln95040-111-p2s1w3</LM>
 </w.rf>
 <form>Kalvodovi</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95040-111-p2s1w4">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -190,7 +190,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

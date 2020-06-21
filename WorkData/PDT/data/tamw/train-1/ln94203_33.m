@@ -97,8 +97,8 @@
 </w.rf>
 <form>dan</form>
 <tag>
-<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dan-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s1Aw5">
@@ -362,7 +362,7 @@
 <LM>w#w-ln94203-33-p2s2w4</LM>
 </w.rf>
 <form>Reflotron</form>
-<tag lemma="Reflotron_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Reflotron_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-33-p2s2w5">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 </w.rf>
 <form>KHS</form>
 <tag>
-<AM lemma="KHS-1_:B_;K_^(krajská_hygienická_stanice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KHS-1_:B_;m_^(krajská_hygienická_stanice)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KHS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -798,7 +798,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s4w25">
@@ -831,7 +831,7 @@
 <LM>w#w-ln94203-33-p2s4w28</LM>
 </w.rf>
 <form>Horan</form>
-<tag lemma="Horan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-33-p2s4w29">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 </w.rf>
 <form>KHS</form>
 <tag>
-<AM lemma="KHS-1_:B_;K_^(krajská_hygienická_stanice)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KHS-1_:B_;m_^(krajská_hygienická_stanice)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KHS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1348,7 +1348,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s7w4">
@@ -1365,7 +1365,7 @@
 <LM>w#w-ln94203-33-p2s7w5</LM>
 </w.rf>
 <form>Horan</form>
-<tag lemma="Horan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-33-p2s7w6">
 <src.rf>manual</src.rf>

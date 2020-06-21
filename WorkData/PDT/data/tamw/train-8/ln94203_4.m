@@ -231,7 +231,7 @@
 <LM>w#w-ln94203-4-p2s1Bw3</LM>
 </w.rf>
 <form>Palík</form>
-<tag lemma="Palík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-4-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln94203-4-p2s1Cw11</LM>
 </w.rf>
 <form>Pendolino</form>
-<tag lemma="Pendolino_;R_^(typ_železniční_soupravy)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Pendolino_;m_^(typ_železniční_soupravy)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-4-p2s1Cw12">
 <src.rf>manual</src.rf>
@@ -474,8 +474,8 @@
 </w.rf>
 <form>Talga</form>
 <tag>
-<AM lemma="Talgo_;R_,t" src="orig">NNNS2-----A----</AM>
-<AM lemma="Talgo_;K_;R" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="Talgo_;m_,t" src="orig">NNNS2-----A----</AM>
+<AM lemma="Talgo_;m" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-4-p2s1Cw25">
@@ -533,7 +533,7 @@
 </w.rf>
 <form>TGV</form>
 <tag>
-<AM lemma="TGV-1_:B_;R_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="TGV-1_:B_;m_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="TGV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -544,7 +544,7 @@
 </w.rf>
 <form>Atlantique</form>
 <tag>
-<AM lemma="Atlantique_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Atlantique_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Atlantique-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -741,7 +741,7 @@
 <form>CER</form>
 <tag>
 <AM lemma="cer" src="orig">NNIS1-----A----</AM>
-<AM lemma="CER_:B_;K_^(Společenství_evropských_železnic)" src="auto">NNNSX-----A---8</AM>
+<AM lemma="CER_:B_;m_^(Společenství_evropských_železnic)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="cera_^(vosk)" src="auto">NNFP2-----A----</AM>
 <AM lemma="cerium" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="cerium" src="auto">NNIS4-----A----</AM>
@@ -1661,7 +1661,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2189,7 +2189,7 @@
 </w.rf>
 <form>TGV</form>
 <tag>
-<AM lemma="TGV-1_:B_;R_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="TGV-1_:B_;m_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="TGV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3015,7 +3015,7 @@
 <LM>w#w-ln94203-4-p7s3w11</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94203-4-p7s3w12">
 <src.rf>manual</src.rf>
@@ -3575,7 +3575,7 @@
 <LM>w#w-ln94203-4-p8s2w32</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94203-4-p8s2w33">
 <src.rf>manual</src.rf>
@@ -4198,7 +4198,7 @@
 </w.rf>
 <form>UIC</form>
 <tag>
-<AM lemma="UIC-1_:B_;K_,t_^(Union_Internat._de_Chemins_de_Fer)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="UIC-1_:B_;m_,t_^(Union_Internat._de_Chemins_de_Fer)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="UIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5908,7 +5908,7 @@
 </w.rf>
 <form>TGV</form>
 <tag>
-<AM lemma="TGV-1_:B_;R_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="TGV-1_:B_;m_^(Train_á_Grande_Vitesse)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="TGV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6175,7 +6175,7 @@
 <form>AVE</form>
 <tag>
 <AM lemma="AVE_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AVE_:B_;K" src="auto">NNNSX-----A---8</AM>
+<AM lemma="AVE_:B_;m" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ave-1_,t_^(klekání)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="ave-2_,t_^(buď_zdráv)" src="auto">TT-------------</AM>
 <AM lemma="AVE-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -6197,8 +6197,8 @@
 <form>Alta</form>
 <tag>
 <AM lemma="Alta_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Alt-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Alt-1_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Alt-1_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Alt-1_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Alta_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Alto_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Alto_;G" src="auto">NNNP4-----A----</AM>
@@ -6228,8 +6228,8 @@
 <form>Espaňol</form>
 <tag>
 <AM lemma="Espaňol_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Espaňol_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Espaňol_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Espaňol_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Espaňol_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Espaňol_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Espaňol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -6746,7 +6746,7 @@
 </w.rf>
 <form>AVŽD</form>
 <tag>
-<AM lemma="AVŽD_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AVŽD_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AVŽD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6877,7 +6877,7 @@
 </w.rf>
 <form>VRAMŽ</form>
 <tag>
-<AM lemma="VRAMŽ_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VRAMŽ_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VRAMŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7176,7 +7176,7 @@
 <LM>w#w-ln94203-4-p16s1w10</LM>
 </w.rf>
 <form>Metroprojektem</form>
-<tag lemma="Metroprojekt_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Metroprojekt_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94203-4-p16s1w11">
 <src.rf>manual</src.rf>

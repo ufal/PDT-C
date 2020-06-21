@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-033-p1s1w2</LM>
 </w.rf>
 <form>Bedrna</form>
-<tag lemma="Bedrna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bedrna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-033-p1s1w3">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-ln95048-033-p1s1w8</LM>
 </w.rf>
 <form>Suchařípa</form>
-<tag lemma="Suchařípa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suchařípa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-033-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-ln95048-033-p1s1w10</LM>
 </w.rf>
 <form>Osip</form>
-<tag lemma="Osip_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Osip_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-033-p1s1w11">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-ln95048-033-p1s1w14</LM>
 </w.rf>
 <form>Sidonová</form>
-<tag lemma="Sidonová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sidonová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-033-p1s1w15">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <LM>w#w-ln95048-033-p1s1w20</LM>
 </w.rf>
 <form>Gogolova</form>
-<tag lemma="Gogolův_;S_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Gogolův_;Y_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-ln95048-033-p1s1w21">
 <src.rf>manual</src.rf>

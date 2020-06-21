@@ -69,7 +69,7 @@
 <LM>w#w-ln94207-98-p2s1w2</LM>
 </w.rf>
 <form>Keller</form>
-<tag lemma="Keller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-98-p2s2A">
@@ -170,7 +170,7 @@
 <LM>w#w-ln94207-98-p2s2Aw12</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94207-98-p2s2Aw13">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-ln94207-98-p2s2Bw2</LM>
 </w.rf>
 <form>RAIMUND</form>
-<tag lemma="Raimund_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Raimund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p2s2Bw3">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94207-98-p2s2Bw3</LM>
 </w.rf>
 <form>POPPER</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p2s2Bw4">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-ln94207-98-p2s2Bw16</LM>
 </w.rf>
 <form>Platonova</form>
-<tag lemma="Platonův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Platonův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94207-98-p2s2Bw17">
 <src.rf>manual</src.rf>
@@ -589,8 +589,8 @@
 </w.rf>
 <form>OIKÚMENÉ</form>
 <tag>
-<AM lemma="OIKÚMENÉ_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="OIKÚMENÉ_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="OIKÚMENÉ_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="OIKÚMENÉ_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-98-p2s4w17">
@@ -808,7 +808,7 @@
 </w.rf>
 <form>Platonova</form>
 <tag>
-<AM lemma="Platonův_;S_^(*2)" src="orig">AUNS2M---------</AM>
+<AM lemma="Platonův_;Y_^(*2)" src="orig">AUNS2M---------</AM>
 <AM lemma="Platonův_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
@@ -948,7 +948,7 @@
 <LM>w#w-ln94207-98-p3s2w2</LM>
 </w.rf>
 <form>Poppera</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-98-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 </w.rf>
 <form>Platon</form>
 <tag>
-<AM lemma="Platon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Platon_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Platon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1321,7 +1321,7 @@
 <LM>w#w-ln94207-98-p3s4w4</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1718,7 +1718,7 @@
 <LM>w#w-ln94207-98-p3s5w29</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p3s5w30">
 <src.rf>manual</src.rf>
@@ -1900,7 +1900,7 @@
 <LM>w#w-ln94207-98-p4s1w1</LM>
 </w.rf>
 <form>Popperova</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94207-98-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2193,7 +2193,7 @@
 <LM>w#w-ln94207-98-p4s2Aw10</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p4s2Aw11">
 <src.rf>manual</src.rf>
@@ -2476,8 +2476,8 @@
 </w.rf>
 <form>a</form>
 <tag>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="a-33" src="orig">Q3-------------</AM>
+<AM lemma="a-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-98-p4s2Bw27">
@@ -2623,8 +2623,8 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="b-33" src="orig">Q3-------------</AM>
+<AM lemma="b-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-98-p4s2Bw45">
@@ -2716,7 +2716,7 @@
 <LM>w#w-ln94207-98-p4s3w1</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p4s3w2">
 <src.rf>manual</src.rf>
@@ -2858,12 +2858,12 @@
 <form>Raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
@@ -3126,7 +3126,7 @@
 </w.rf>
 <form>Platon</form>
 <tag>
-<AM lemma="Platon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Platon_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Platon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3271,7 +3271,7 @@
 </w.rf>
 <form>Platon</form>
 <tag>
-<AM lemma="Platon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Platon_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Platon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3703,7 +3703,7 @@
 <LM>w#w-ln94207-98-p5s1w5</LM>
 </w.rf>
 <form>Popperovy</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
 </m>
 <m id="m-ln94207-98-p5s1w6">
 <src.rf>manual</src.rf>
@@ -4379,7 +4379,7 @@
 <LM>w#w-ln94207-98-p5s4w15</LM>
 </w.rf>
 <form>Popperova</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94207-98-p5s4w16">
 <src.rf>manual</src.rf>
@@ -4396,7 +4396,7 @@
 </w.rf>
 <form>Platonova</form>
 <tag>
-<AM lemma="Platonův_;S_^(*2)" src="orig">AUNS2M---------</AM>
+<AM lemma="Platonův_;Y_^(*2)" src="orig">AUNS2M---------</AM>
 <AM lemma="Platonův_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
@@ -4467,7 +4467,7 @@
 <LM>w#w-ln94207-98-p6s1Aw2</LM>
 </w.rf>
 <form>Raimund</form>
-<tag lemma="Raimund_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Raimund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p6s1Aw3">
 <src.rf>manual</src.rf>
@@ -4475,7 +4475,7 @@
 <LM>w#w-ln94207-98-p6s1Aw3</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p6s1Aw4">
 <src.rf>manual</src.rf>
@@ -4561,8 +4561,8 @@
 </w.rf>
 <form>OIKÚMENÉ</form>
 <tag>
-<AM lemma="OIKÚMENÉ_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="OIKÚMENÉ_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="OIKÚMENÉ_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="OIKÚMENÉ_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-98-p6s1Bw3">
@@ -4621,7 +4621,7 @@
 <LM>w#w-ln94207-98-p6s2w3</LM>
 </w.rf>
 <form>Calda</form>
-<tag lemma="Calda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Calda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p6s2w4">
 <src.rf>manual</src.rf>

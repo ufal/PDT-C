@@ -100,8 +100,8 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-1_:B_;K_^(Evr._fotbalová_federace)" src="manual">NNXXX-----A----</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual">NNXXX-----A----</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -113,7 +113,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-099-p1s1w13">
@@ -130,7 +130,7 @@
 <LM>w#w-lnd92256-099-p1s1w14</LM>
 </w.rf>
 <form>JOHANSSON</form>
-<tag lemma="Johansson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johansson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92256-099-p2s1">
@@ -190,7 +190,7 @@
 <LM>w#w-lnd92256-099-p3s1w3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ber-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92256-099-p3s1w4">
 <src.rf>manual</src.rf>
@@ -313,8 +313,8 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-1_:B_;K_^(Evr._fotbalová_federace)" src="manual">NNXXX-----A----</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual">NNXXX-----A----</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -341,8 +341,8 @@
 </w.rf>
 <form>Lennart</form>
 <tag>
-<AM lemma="Lennart_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lennart_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lennart_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lennart_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-099-p3s2w17">
@@ -351,7 +351,7 @@
 <LM>w#w-lnd92256-099-p3s2w17</LM>
 </w.rf>
 <form>Johansson</form>
-<tag lemma="Johansson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johansson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-099-p3s2w18">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 </w.rf>
 <form>ČSFA</form>
 <tag>
-<AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSFA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -679,7 +679,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -731,7 +731,7 @@
 <LM>w#w-lnd92256-099-p4s1w5</LM>
 </w.rf>
 <form>Johanssona</form>
-<tag lemma="Johansson_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Johansson_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-099-p4s1w6">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 </w.rf>
 <form>ČSFA</form>
 <tag>
-<AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSFA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -902,7 +902,7 @@
 <LM>w#w-lnd92256-099-p4s1w26</LM>
 </w.rf>
 <form>Jíra</form>
-<tag lemma="Jíra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jíra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-099-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1079,7 +1079,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1130,7 +1130,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1322,7 +1322,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1357,7 +1357,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1456,7 +1456,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1475,9 +1475,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-099-p4s3w40">
@@ -1498,7 +1498,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-099-p4s4w2">
@@ -1515,7 +1515,7 @@
 <LM>w#w-lnd92256-099-p4s4w3</LM>
 </w.rf>
 <form>Jíra</form>
-<tag lemma="Jíra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jíra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-099-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1572,7 +1572,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1713,7 +1713,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1944,7 +1944,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2457,7 +2457,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2613,7 +2613,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-099-p5s7w9">
@@ -2630,7 +2630,7 @@
 <LM>w#w-lnd92256-099-p5s7w10</LM>
 </w.rf>
 <form>Johansson</form>
-<tag lemma="Johansson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johansson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-099-p5s7w11">
 <src.rf>manual</src.rf>
@@ -2729,7 +2729,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -3564,7 +3564,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3713,7 +3713,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4404,8 +4404,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-099-p9s2w11">
@@ -4447,7 +4447,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4458,8 +4458,8 @@
 </w.rf>
 <form>Lennart</form>
 <tag>
-<AM lemma="Lennart_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lennart_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lennart_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lennart_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-099-p9s2w17">
@@ -4468,7 +4468,7 @@
 <LM>w#w-lnd92256-099-p9s2w17</LM>
 </w.rf>
 <form>Johansson</form>
-<tag lemma="Johansson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johansson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-099-p9s2w18">
 <src.rf>manual</src.rf>

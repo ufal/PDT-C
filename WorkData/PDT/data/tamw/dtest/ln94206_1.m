@@ -56,7 +56,7 @@
 <LM>w#w-ln94206-1-p2s1w4</LM>
 </w.rf>
 <form>KARAS</form>
-<tag lemma="Karas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-1-p2s1w5">
 <src.rf>manual</src.rf>
@@ -140,7 +140,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -223,8 +223,8 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-1-p2s1w25">
@@ -639,7 +639,7 @@
 <LM>w#w-ln94206-1-p3s1w2</LM>
 </w.rf>
 <form>EICHLER</form>
-<tag lemma="Eichler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eichler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-1-p3s1w3">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -811,8 +811,8 @@
 </w.rf>
 <form>Benson</form>
 <tag>
-<AM lemma="Benson-2_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Benson-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Benson-2_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Benson-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Benson_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Benson_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Benson_;G_,t" src="manual">NNXXX-----A----</AM>
@@ -826,7 +826,7 @@
 </w.rf>
 <form>Oak</form>
 <tag>
-<AM lemma="Oak_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Oak_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="oak_,t" src="manual">NNNXX-----A----</AM>
 <AM lemma="Oak-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -846,7 +846,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Inc_:B_;m_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto" recommended="1">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
@@ -1104,9 +1104,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-1-p4s1w13">
@@ -1296,7 +1296,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1318,7 +1318,7 @@
 </w.rf>
 <form>America</form>
 <tag>
-<AM lemma="America_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="America_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Amerika_;G" src="auto">NNFS1-----A---1</AM>
 <AM lemma="Americo_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Americo_;Y" src="auto">NNMS4-----A----</AM>
@@ -1498,9 +1498,9 @@
 </w.rf>
 <form>Central</form>
 <tag>
-<AM lemma="Central_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Central_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Central_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Central_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="central_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Central-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1512,7 +1512,7 @@
 </w.rf>
 <form>European</form>
 <tag>
-<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="European_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="European_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="European-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1524,7 +1524,7 @@
 </w.rf>
 <form>Development</form>
 <tag>
-<AM lemma="Development_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Development_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="auto">NNIS4-----A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="manual">NNXXX-----A----</AM>
@@ -1538,7 +1538,7 @@
 </w.rf>
 <form>Corporation</form>
 <tag>
-<AM lemma="Corporation_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Corporation_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Corporation-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1639,9 +1639,9 @@
 </w.rf>
 <form>eko</form>
 <tag>
-<AM lemma="eko-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="eko-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="eko" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="eko-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="eko-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-1-p4s5w3">

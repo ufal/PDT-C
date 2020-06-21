@@ -575,7 +575,7 @@
 </w.rf>
 <form>tolar</form>
 <tag>
-<AM lemma="tolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="tolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="tolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -636,7 +636,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1148,7 +1148,7 @@
 <LM>w#w-cmpr9416-011-p5s4w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9416-011-p5s4w8">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 <LM>w#w-cmpr9416-011-p5s5w5</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-011-p5s5w6">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1373,7 +1373,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1443,7 +1443,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1782,7 +1782,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2482,7 +2482,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -2522,7 +2522,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2553,7 +2553,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -2608,7 +2608,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2639,7 +2639,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -2654,7 +2654,7 @@
 </w.rf>
 <form>coca</form>
 <tag>
-<AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="coca" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
@@ -2705,7 +2705,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2789,7 +2789,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2819,7 +2819,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -2866,7 +2866,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2895,7 +2895,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

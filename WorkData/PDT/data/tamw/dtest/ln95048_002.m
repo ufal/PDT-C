@@ -753,7 +753,7 @@
 <LM>w#w-ln95048-002-p3s1w28</LM>
 </w.rf>
 <form>Rudlovčák</form>
-<tag lemma="Rudlovčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rudlovčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-002-p3s1w29">
 <src.rf>manual</src.rf>
@@ -1680,7 +1680,7 @@
 </w.rf>
 <form>SCP</form>
 <tag>
-<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-1_:B_;m_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1723,7 +1723,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1742,8 +1742,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p4s5w22">
@@ -1851,7 +1851,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1870,8 +1870,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p5s1w7">
@@ -2161,7 +2161,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2180,8 +2180,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p5s3w7">
@@ -2683,7 +2683,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2702,8 +2702,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p6s2w10">
@@ -2841,7 +2841,7 @@
 </w.rf>
 <form>SCP</form>
 <tag>
-<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-1_:B_;m_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2886,7 +2886,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2905,8 +2905,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p6s3w7">
@@ -3007,7 +3007,7 @@
 </w.rf>
 <form>JUMBO</form>
 <tag>
-<AM lemma="Jumbo_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Jumbo_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Jumbo_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Jumbo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="jumbo_,h" src="auto" recommended="1">NNNS1-----A----</AM>
@@ -3506,7 +3506,7 @@
 </w.rf>
 <form>ISIN</form>
 <tag>
-<AM lemma="ISIN_:B_;b_^(Mez._norma_identifikace_cenných_papírů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ISIN_:B_^(Mez._norma_identifikace_cenných_papírů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ISIN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3698,7 +3698,7 @@
 </w.rf>
 <form>SCP</form>
 <tag>
-<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-1_:B_;m_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4050,7 +4050,7 @@
 <LM>w#w-ln95048-002-p10s2w3</LM>
 </w.rf>
 <form>Andresové</form>
-<tag lemma="Andresová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Andresová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-002-p10s2w4">
 <src.rf>manual</src.rf>
@@ -4082,7 +4082,7 @@
 <LM>w#w-ln95048-002-p10s2w7</LM>
 </w.rf>
 <form>Skala</form>
-<tag lemma="Skala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-002-p10s2w8">
 <src.rf>manual</src.rf>
@@ -4593,7 +4593,7 @@
 </w.rf>
 <form>SCP</form>
 <tag>
-<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-1_:B_;m_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SCP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

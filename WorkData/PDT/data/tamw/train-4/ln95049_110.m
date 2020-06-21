@@ -143,7 +143,7 @@
 <LM>w#w-ln95049-110-p2s1Bw9</LM>
 </w.rf>
 <form>Vodičky</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-110-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 </w.rf>
 <form>SP</form>
 <tag>
-<AM lemma="SP-2_:B_;K_^(Svaz_podnikatelů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SP-2_:B_;m_^(Svaz_podnikatelů)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -366,7 +366,7 @@
 <LM>w#w-ln95049-110-p2s2w17</LM>
 </w.rf>
 <form>Baránek</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-110-p2s2w18">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-ln95049-110-p2s4w5</LM>
 </w.rf>
 <form>Valenta</form>
-<tag lemma="Valenta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valenta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-110-p2s4w6">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln95049-110-p2s5w4</LM>
 </w.rf>
 <form>Baránek</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-110-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln95049-110-p2s8w1</LM>
 </w.rf>
 <form>Baránek</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-110-p2s8w2">
 <src.rf>manual</src.rf>

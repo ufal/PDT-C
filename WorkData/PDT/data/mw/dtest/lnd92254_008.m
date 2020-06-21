@@ -459,7 +459,7 @@
 <LM>w#w-lnd92254-008-p3s3w15</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p3s3w16">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -746,7 +746,7 @@
 <LM>w#w-lnd92254-008-p4s2w3</LM>
 </w.rf>
 <form>Stráského</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1552,7 +1552,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-008-p4s5w23">
@@ -1569,7 +1569,7 @@
 <LM>w#w-lnd92254-008-p4s5w24</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p4s5w25">
 <src.rf>manual</src.rf>
@@ -2256,7 +2256,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2274,7 +2274,7 @@
 <LM>w#w-lnd92254-008-p6s1w5</LM>
 </w.rf>
 <form>Kováče</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2330,7 +2330,7 @@
 <LM>w#w-lnd92254-008-p6s1w13</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p6s1w14">
 <src.rf>manual</src.rf>
@@ -2422,7 +2422,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-008-p6s2w9">
@@ -2439,7 +2439,7 @@
 <LM>w#w-lnd92254-008-p6s2w10</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p6s2w11">
 <src.rf>manual</src.rf>
@@ -2513,7 +2513,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-008-p6s2w21">
@@ -2530,7 +2530,7 @@
 <LM>w#w-lnd92254-008-p6s2w22</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p6s2w23">
 <src.rf>manual</src.rf>
@@ -2614,7 +2614,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-008-p6s3w6">
@@ -2631,7 +2631,7 @@
 <LM>w#w-lnd92254-008-p6s3w7</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p6s3w8">
 <src.rf>manual</src.rf>
@@ -2752,7 +2752,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2771,7 +2771,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2947,7 +2947,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-008-p7s2w4">
@@ -2964,7 +2964,7 @@
 <LM>w#w-lnd92254-008-p7s2w5</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p7s2w6">
 <src.rf>manual</src.rf>
@@ -3061,7 +3061,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3509,7 +3509,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-008-p9s2w2">
@@ -3526,7 +3526,7 @@
 <LM>w#w-lnd92254-008-p9s2w3</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p9s2w4">
 <src.rf>manual</src.rf>

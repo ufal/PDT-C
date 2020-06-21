@@ -170,7 +170,7 @@
 </w.rf>
 <form>Sale</form>
 <tag>
-<AM lemma="Sale-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sale-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Sal-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Sala_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Sala_;G" src="auto">NNFS6-----A----</AM>
@@ -216,7 +216,7 @@
 </w.rf>
 <form>Philippine</form>
 <tag>
-<AM lemma="Philippine_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Philippine_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Philippine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -227,7 +227,7 @@
 </w.rf>
 <form>Star</form>
 <tag>
-<AM lemma="Star_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Star_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="star" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="star" src="auto">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
@@ -807,7 +807,7 @@
 <LM>w#w-mf920922-130-p2s4w20</LM>
 </w.rf>
 <form>Saleho</form>
-<tag lemma="Sale-2_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Sale-2_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920922-130-p2s4w21">
 <src.rf>manual</src.rf>

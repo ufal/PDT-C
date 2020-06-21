@@ -19,7 +19,7 @@
 <LM>w#w-lnd92255-023-p1s1w1</LM>
 </w.rf>
 <form>ČVUT</form>
-<tag lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92255-023-p1s1w2">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-lnd92255-023-p3s2w10</LM>
 </w.rf>
 <form>Fránek</form>
-<tag lemma="Fránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p3s2w11">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-lnd92255-023-p3s2w19</LM>
 </w.rf>
 <form>ČVUT</form>
-<tag lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92255-023-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-lnd92255-023-p5s2w25</LM>
 </w.rf>
 <form>ČVUT</form>
-<tag lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92255-023-p5s2w26">
 <src.rf>manual</src.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-lnd92255-023-p6s1w25</LM>
 </w.rf>
 <form>Dryden</form>
-<tag lemma="Dryden_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dryden_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p6s1w26">
 <src.rf>manual</src.rf>
@@ -2192,7 +2192,7 @@
 <LM>w#w-lnd92255-023-p7s1w8</LM>
 </w.rf>
 <form>ČVUT</form>
-<tag lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92255-023-p7s1w9">
 <src.rf>manual</src.rf>
@@ -2208,7 +2208,7 @@
 <LM>w#w-lnd92255-023-p7s1w10</LM>
 </w.rf>
 <form>Hanzla</form>
-<tag lemma="Hanzl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hanzl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p7s1w11">
 <src.rf>manual</src.rf>
@@ -2340,7 +2340,7 @@
 <LM>w#w-lnd92255-023-p8s1w2</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kva-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92255-023-p8s1w3">
 <src.rf>manual</src.rf>

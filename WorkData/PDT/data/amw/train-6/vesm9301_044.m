@@ -69,7 +69,7 @@
 <LM>w#w-vesm9301-044-p2s1w2</LM>
 </w.rf>
 <form>KRÁL</form>
-<tag lemma="Král_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Král_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-044-p3s1">
@@ -7910,7 +7910,7 @@
 </w.rf>
 <form>Paruroctonus</form>
 <tag>
-<AM lemma="Paruroctonus_;L_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Paruroctonus_;U_,t" src="orig">NNMS1-----A----</AM>
 <AM lemma="Paruroctonus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7921,7 +7921,7 @@
 </w.rf>
 <form>mesaensis</form>
 <tag>
-<AM lemma="mesaensis_;L_,t" src="orig">AAMS1----1A----</AM>
+<AM lemma="mesaensis_;U_,t" src="orig">AAMS1----1A----</AM>
 <AM lemma="mesaensis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7948,7 +7948,7 @@
 </w.rf>
 <form>Vejovidae</form>
 <tag>
-<AM lemma="Vejovidae_;L_,t" src="orig">NNFP1-----A----</AM>
+<AM lemma="Vejovidae_;U_,t" src="orig">NNFP1-----A----</AM>
 <AM lemma="Vejovidae-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7966,7 +7966,7 @@
 <LM>w#w-vesm9301-044-p11s5w9</LM>
 </w.rf>
 <form>Brownell</form>
-<tag lemma="Brownell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brownell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-044-p11s5w10">
 <src.rf>manual</src.rf>
@@ -8274,7 +8274,7 @@
 <LM>w#w-vesm9301-044-p11s7w5</LM>
 </w.rf>
 <form>mechanorecepce</form>
-<tag lemma="mechanorecepce_;L" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mechanorecepce_;U" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9301-044-p11s7w6">
 <src.rf>manual</src.rf>
@@ -8290,7 +8290,7 @@
 <LM>w#w-vesm9301-044-p11s7w7</LM>
 </w.rf>
 <form>chemorecepce</form>
-<tag lemma="chemorecepce_;L" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="chemorecepce_;U" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9301-044-p11s7w8">
 <src.rf>manual</src.rf>
@@ -10432,7 +10432,7 @@
 </w.rf>
 <form>Buthidae</form>
 <tag>
-<AM lemma="Buthidae_;L_,t" src="orig">NNFP1-----A----</AM>
+<AM lemma="Buthidae_;U_,t" src="orig">NNFP1-----A----</AM>
 <AM lemma="Buthidae-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

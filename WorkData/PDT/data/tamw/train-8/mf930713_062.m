@@ -70,10 +70,10 @@
 </w.rf>
 <form>šil</form>
 <tag>
-<AM lemma="šil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="šít" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="šílet" src="auto">Vi-S---2--A-I-6</AM>
-<AM lemma="šil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-062-p2s1Aw4">
@@ -803,7 +803,7 @@
 </w.rf>
 <form>Ivo</form>
 <tag>
-<AM lemma="Ivo_;Y" src="orig">NNMSX-----A----</AM>
+<AM lemma="Ivo_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Iva_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS2-----A---1</AM>
@@ -820,7 +820,7 @@
 <LM>w#w-mf930713-062-p2s5w14</LM>
 </w.rf>
 <form>Lachmana</form>
-<tag lemma="Lachman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lachman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-062-p2s5w15">
 <src.rf>manual</src.rf>

@@ -95,7 +95,7 @@
 <form>Breeders</form>
 <tag>
 <AM lemma="Breeder_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Breeders_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Breeders_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Breeders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -369,7 +369,7 @@
 <LM>w#w-lnd92256-104-p2s2w17</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92256-104-p2s2w18">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-5_,t_^(př._l'Arc,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -608,7 +608,7 @@
 <form>Triano</form>
 <tag>
 <AM lemma="Triano_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Triana_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Triana_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="Triano-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -694,7 +694,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-104-p2s4w8">
@@ -713,7 +713,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-104-p2s4w10">
@@ -770,7 +770,7 @@
 <form>Gold</form>
 <tag>
 <AM lemma="Gold-2_;Y_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Gold_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gold_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Golda_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Gold-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -846,7 +846,7 @@
 <LM>w#w-lnd92256-104-p3s1w2</LM>
 </w.rf>
 <form>mmz</form>
-<tag lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mmz-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92256-104-p3s1w3">
 <src.rf>manual</src.rf>

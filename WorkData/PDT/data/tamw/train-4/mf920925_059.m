@@ -28,8 +28,8 @@
 </w.rf>
 <form>Suková</form>
 <tag>
-<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -153,8 +153,8 @@
 </w.rf>
 <form>Suková</form>
 <tag>
-<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s1w16">
@@ -188,7 +188,7 @@
 </w.rf>
 <form>WTA</form>
 <tag>
-<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WTA-1_:B_;m_,t_^(Women's_Tennis_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -214,7 +214,7 @@
 <LM>w#w-mf920925-059-p2s1w22</LM>
 </w.rf>
 <form>Novotnou</form>
-<tag lemma="Novotná_;S_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920925-059-p2s1w23">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-mf920925-059-p2s1w40</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;S_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-059-p2s1w41">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 </w.rf>
 <form>WTA</form>
 <tag>
-<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WTA-1_:B_;m_,t_^(Women's_Tennis_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -464,8 +464,8 @@
 </w.rf>
 <form>Suková</form>
 <tag>
-<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s1w53">
@@ -580,7 +580,7 @@
 <LM>w#w-mf920925-059-p2s2w10</LM>
 </w.rf>
 <form>Novotnou</form>
-<tag lemma="Novotná_;S_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920925-059-p2s2w11">
 <src.rf>manual</src.rf>
@@ -621,8 +621,8 @@
 </w.rf>
 <form>Suková</form>
 <tag>
-<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s2w16">
@@ -890,8 +890,8 @@
 </w.rf>
 <form>Suková</form>
 <tag>
-<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s5Bw4">
@@ -1042,11 +1042,11 @@
 </w.rf>
 <form>Javorským</form>
 <tag>
-<AM lemma="Javorský_;S" src="orig">AAMS7----1A----</AM>
-<AM lemma="Javorská_;S" src="auto">NNFP3-----A----</AM>
-<AM lemma="Javorský_;S" src="auto">NNMP3-----A----</AM>
-<AM lemma="Javorský_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Javorský_;S" src="auto" selected="1">NNMS7-----A----</AM>
+<AM lemma="Javorský_;Y" src="orig">AAMS7----1A----</AM>
+<AM lemma="Javorská_;Y" src="auto">NNFP3-----A----</AM>
+<AM lemma="Javorský_;Y" src="auto">NNMP3-----A----</AM>
+<AM lemma="Javorský_;Y" src="auto">NNMS6-----A---7</AM>
+<AM lemma="Javorský_;Y" src="auto" selected="1">NNMS7-----A----</AM>
 <AM lemma="javorský" src="auto">AAFP3----1A----</AM>
 <AM lemma="javorský" src="auto">AAIP3----1A----</AM>
 <AM lemma="javorský" src="auto">AAIS6----1A---7</AM>
@@ -1109,7 +1109,7 @@
 </w.rf>
 <form>TGT</form>
 <tag>
-<AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TGT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TGT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -110,8 +110,8 @@
 </w.rf>
 <form>em</form>
 <tag>
-<AM lemma="em-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="em-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="em-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-55-p2s1Aw4">
@@ -324,7 +324,7 @@
 <LM>w#w-ln94205-55-p2s2w8</LM>
 </w.rf>
 <form>Seifer</form>
-<tag lemma="Seifer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seifer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-55-p2s2w9">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -383,7 +383,7 @@
 <LM>w#w-ln94205-55-p2s2w15</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-55-p2s2w16">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-ln94205-55-p2s2w18</LM>
 </w.rf>
 <form>Zieleniece</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-55-p2s2w19">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-ln94205-55-p2s3w7</LM>
 </w.rf>
 <form>Beneše</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-55-p2s3w8">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln94205-55-p2s6w9</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-55-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-ln94205-55-p3s1w2</LM>
 </w.rf>
 <form>Seifer</form>
-<tag lemma="Seifer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seifer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-55-p3s1w3">
 <src.rf>manual</src.rf>

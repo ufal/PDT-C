@@ -530,7 +530,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -578,7 +578,7 @@
 <LM>w#w-vesm9303-006-p1s3w35</LM>
 </w.rf>
 <form>Tomiška</form>
-<tag lemma="Tomiška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomiška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-006-p1s3w36">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 </w.rf>
 <form>Flurbereinigung</form>
 <tag>
-<AM lemma="Flurbereinigung_,t" src="orig">NNNSX-----A----</AM>
+<AM lemma="Flurbereinigung_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Flurbereinigung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1389,7 +1389,7 @@
 </w.rf>
 <form>Gesamtmelioration</form>
 <tag>
-<AM lemma="Gesamtmelioration_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Gesamtmelioration_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Gesamtmelioration-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1456,7 +1456,7 @@
 </w.rf>
 <form>Komasierung</form>
 <tag>
-<AM lemma="Komasierung_,t" src="orig">NNNSX-----A----</AM>
+<AM lemma="Komasierung_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Komasierung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1948,7 +1948,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-006-p3s3w2">
@@ -1965,7 +1965,7 @@
 <LM>w#w-vesm9303-006-p3s3w3</LM>
 </w.rf>
 <form>Urbanová</form>
-<tag lemma="Urbanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Urbanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-006-p3s3w4">
 <src.rf>manual</src.rf>

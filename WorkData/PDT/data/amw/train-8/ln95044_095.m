@@ -20,8 +20,8 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-095-p1s1w2">
@@ -39,8 +39,8 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-095-p1s1w4">
@@ -58,7 +58,7 @@
 </w.rf>
 <form>ČMUS</form>
 <tag>
-<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS_:B_;m_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -242,7 +242,7 @@
 <LM>w#w-ln95044-095-p2s1Cw12</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-095-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -323,8 +323,8 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-095-p2s1Cw23">
@@ -342,8 +342,8 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-095-p2s1Cw25">
@@ -360,7 +360,7 @@
 <LM>w#w-ln95044-095-p2s1Cw26</LM>
 </w.rf>
 <form>Ambrozek</form>
-<tag lemma="Ambrozek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ambrozek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-095-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-ln95044-095-p2s2Bw2</LM>
 </w.rf>
 <form>Němcům</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95044-095-p2s2Bw3">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln95044-095-p2s3w19</LM>
 </w.rf>
 <form>Ambrozek</form>
-<tag lemma="Ambrozek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ambrozek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-095-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-ln95044-095-p2s6w17</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-095-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1136,7 +1136,7 @@
 </w.rf>
 <form>ČMUS</form>
 <tag>
-<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS_:B_;m_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1154,7 +1154,7 @@
 <LM>w#w-ln95044-095-p2s6w30</LM>
 </w.rf>
 <form>Mališ</form>
-<tag lemma="Mališ_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mališ_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-095-p2s6w31">
 <src.rf>manual</src.rf>

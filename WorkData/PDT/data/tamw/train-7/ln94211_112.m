@@ -93,7 +93,7 @@
 <LM>w#w-ln94211-112-p2s1Aw2</LM>
 </w.rf>
 <form>Foll</form>
-<tag lemma="Foll_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foll_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-112-p2s1B">
@@ -218,7 +218,7 @@
 <LM>w#w-ln94211-112-p2s1Bw15</LM>
 </w.rf>
 <form>Topolovy</form>
-<tag lemma="Topolův_;S_^(*2a)" src="auto" selected="1">AUFS2M---------</tag>
+<tag lemma="Topolův_;Y_^(*2a)" src="auto" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94211-112-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-ln94211-112-p2s1Bw22</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94211-112-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-ln94211-112-p2s1Bw30</LM>
 </w.rf>
 <form>Krejčovo</form>
-<tag lemma="Krejčův_;S_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Krejčův_;Y_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94211-112-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-ln94211-112-p2s2w5</LM>
 </w.rf>
 <form>KOLIHA</form>
-<tag lemma="Koliha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koliha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-112-p2s2w6">
 <src.rf>manual</src.rf>
@@ -525,8 +525,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-112-p2s2w20">
@@ -915,7 +915,7 @@
 <LM>w#w-ln94211-112-p4s2w8</LM>
 </w.rf>
 <form>Pavelkou</form>
-<tag lemma="Pavelka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pavelka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-112-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94211-112-p4s2w19</LM>
 </w.rf>
 <form>Topolovi</form>
-<tag lemma="Topol_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Topol_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94211-112-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1464,7 +1464,7 @@
 <LM>w#w-ln94211-112-p4s5w13</LM>
 </w.rf>
 <form>Topolově</form>
-<tag lemma="Topolův_;S_^(*2a)" src="auto" selected="1">AUNS6M---------</tag>
+<tag lemma="Topolův_;Y_^(*2a)" src="auto" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94211-112-p4s5w14">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <LM>w#w-ln94211-112-p4s6w3</LM>
 </w.rf>
 <form>Souček</form>
-<tag lemma="Souček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Souček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-112-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2125,7 +2125,7 @@
 <LM>w#w-ln94211-112-p6s1w3</LM>
 </w.rf>
 <form>Pavelkou</form>
-<tag lemma="Pavelka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pavelka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-112-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2149,7 +2149,7 @@
 <LM>w#w-ln94211-112-p6s1w6</LM>
 </w.rf>
 <form>Královou</form>
-<tag lemma="Králová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Králová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94211-112-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2269,7 +2269,7 @@
 <LM>w#w-ln94211-112-p6s1w21</LM>
 </w.rf>
 <form>Pokorného</form>
-<tag lemma="Pokorný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pokorný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-112-p6s1w22">
 <src.rf>manual</src.rf>
@@ -2880,7 +2880,7 @@
 <LM>w#w-ln94211-112-p8s1w6</LM>
 </w.rf>
 <form>Topolových</form>
-<tag lemma="Topolův_;S_^(*2a)" src="auto" selected="1">AUFP2M---------</tag>
+<tag lemma="Topolův_;Y_^(*2a)" src="auto" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln94211-112-p8s1w7">
 <src.rf>manual</src.rf>
@@ -3101,7 +3101,7 @@
 <LM>w#w-ln94211-112-p8s2w10</LM>
 </w.rf>
 <form>Topolovy</form>
-<tag lemma="Topolův_;S_^(*2a)" src="auto" selected="1">AUFP1M---------</tag>
+<tag lemma="Topolův_;Y_^(*2a)" src="auto" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94211-112-p8s2w11">
 <src.rf>manual</src.rf>

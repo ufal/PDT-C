@@ -2045,7 +2045,7 @@
 <LM>w#w-ln95042-024-p3s3w27</LM>
 </w.rf>
 <form>androidem</form>
-<tag lemma="android_;R" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="android_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-024-p3s3w28">
 <src.rf>manual</src.rf>

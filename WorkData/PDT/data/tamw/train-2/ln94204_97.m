@@ -79,7 +79,7 @@
 <LM>w#w-ln94204-97-p2s1Bw2</LM>
 </w.rf>
 <form>Lindaurová</form>
-<tag lemma="Lindaurová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lindaurová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-97-p2s1C">
@@ -771,7 +771,7 @@
 <LM>w#w-ln94204-97-p2s6w12</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-97-p2s6w13">
 <src.rf>manual</src.rf>
@@ -804,9 +804,9 @@
 </w.rf>
 <form>Mánesa</form>
 <tag>
-<AM lemma="Mánes-2_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mánes_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mánes_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Mánes-2_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Mánes_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Mánes_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Mánes-2_;G" src="manual">NNIS2-----A----</AM>
 <AM lemma="Mánes-2_;G" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>

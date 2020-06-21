@@ -87,7 +87,7 @@
 <LM>w#w-ln95045-055-p2s1Bw2</LM>
 </w.rf>
 <form>Kozyrevova</form>
-<tag lemma="Kozyrevův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Kozyrevův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95045-055-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -112,7 +112,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševiče</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-055-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-ln95045-055-p2s3w2</LM>
 </w.rf>
 <form>Kozyrevova</form>
-<tag lemma="Kozyrevův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Kozyrevův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95045-055-p2s3w3">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -583,7 +583,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -652,7 +652,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševiče</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-055-p3s1w8">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jovanovič</form>
-<tag lemma="Jovanovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jovanovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-055-p3s2w5">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1001,9 +1001,9 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Welt_;R_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Welt_;R_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Welt_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="Welt_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1103,7 +1103,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševičovi</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95045-055-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1766,7 +1766,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

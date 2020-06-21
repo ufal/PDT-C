@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-007-p1s1w1</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-007-p1s1w2">
 <src.rf>manual</src.rf>
@@ -120,8 +120,8 @@
 </w.rf>
 <form>Jicchak</form>
 <tag>
-<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-007-p1s3w4">
@@ -130,7 +130,7 @@
 <LM>w#w-lnd94105-007-p1s3w4</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-007-p1s3w5">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-lnd94105-007-p1s3w12</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-007-p1s3w13">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-lnd94105-007-p1s5w7</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-007-p1s5w8">
 <src.rf>manual</src.rf>

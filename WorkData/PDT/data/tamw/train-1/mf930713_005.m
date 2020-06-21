@@ -394,7 +394,7 @@
 </w.rf>
 <form>IFPI</form>
 <tag>
-<AM lemma="IFPI_:B_;K_,t_^(Inter.Feder.of_Phonogram_and_Videogram)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IFPI_:B_;m_,t_^(Inter.Feder.of_Phonogram_and_Videogram)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

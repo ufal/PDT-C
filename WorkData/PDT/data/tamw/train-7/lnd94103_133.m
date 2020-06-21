@@ -27,7 +27,7 @@
 <LM>w#w-lnd94103-133-p1s1Aw2</LM>
 </w.rf>
 <form>Dobiaš</form>
-<tag lemma="Dobiaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobiaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-lnd94103-133-p1s1Bw2</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-lnd94103-133-p1s2w4</LM>
 </w.rf>
 <form>bra</form>
-<tag lemma="bra-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="bra-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-133-p1s2w5">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-lnd94103-133-p1s3w10</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s3w11">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-lnd94103-133-p1s4w9</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s4w10">
 <src.rf>manual</src.rf>
@@ -814,8 +814,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-133-p1s6w19">
@@ -856,7 +856,7 @@
 <LM>w#w-lnd94103-133-p1s6w23</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s6w24">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-lnd94103-133-p1s6w24</LM>
 </w.rf>
 <form>Dobiaš</form>
-<tag lemma="Dobiaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobiaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s6w25">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-lnd94103-133-p1s7w16</LM>
 </w.rf>
 <form>Chovance</form>
-<tag lemma="Chovanec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chovanec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s7w17">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd94103-133-p1s7w18</LM>
 </w.rf>
 <form>Novotného</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s7w19">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-lnd94103-133-p1s8Bw15</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s8Bw16">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 <LM>w#w-lnd94103-133-p1s8Bw24</LM>
 </w.rf>
 <form>Koubovu</form>
-<tag lemma="Koubův_;S_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Koubův_;Y_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd94103-133-p1s8Bw25">
 <src.rf>manual</src.rf>
@@ -1701,7 +1701,7 @@
 <LM>w#w-lnd94103-133-p1s10w4</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s10w5">
 <src.rf>manual</src.rf>
@@ -1874,7 +1874,7 @@
 <LM>w#w-lnd94103-133-p1s12w2</LM>
 </w.rf>
 <form>Poborského</form>
-<tag lemma="Poborský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Poborský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s12w3">
 <src.rf>manual</src.rf>
@@ -1890,7 +1890,7 @@
 <LM>w#w-lnd94103-133-p1s12w4</LM>
 </w.rf>
 <form>Povišera</form>
-<tag lemma="Povišer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Povišer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-133-p1s12w5">
 <src.rf>manual</src.rf>

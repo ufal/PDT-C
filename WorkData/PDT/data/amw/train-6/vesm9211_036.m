@@ -255,10 +255,10 @@
 <form>Advisory</form>
 <tag>
 <AM lemma="advisory_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Advisor_;R" src="auto">NNIP1-----A----</AM>
-<AM lemma="Advisor_;R" src="auto" recommended="1">NNIP4-----A----</AM>
-<AM lemma="Advisor_;R" src="auto">NNIP5-----A----</AM>
-<AM lemma="Advisor_;R" src="auto">NNIP7-----A----</AM>
+<AM lemma="Advisor_;m" src="auto">NNIP1-----A----</AM>
+<AM lemma="Advisor_;m" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="Advisor_;m" src="auto">NNIP5-----A----</AM>
+<AM lemma="Advisor_;m" src="auto">NNIP7-----A----</AM>
 <AM lemma="Advisory-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -270,7 +270,7 @@
 <form>Centre</form>
 <tag>
 <AM lemma="centre_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Centre_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Centre_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="centr_^(sport:_přihrávka)" src="auto">NNIS5-----A----</AM>
 <AM lemma="centre_,t" src="auto">XX-------------</AM>
 <AM lemma="Centre-77" src="manual" selected="1">F%-------------</AM>
@@ -1471,7 +1471,7 @@
 <LM>w#w-vesm9211-036-p4s4w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9211-036-p4s4w9">
 <src.rf>manual</src.rf>
@@ -1880,7 +1880,7 @@
 </w.rf>
 <form>WHO</form>
 <tag>
-<AM lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WHO_:B_;U_;m_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2072,7 +2072,7 @@
 </w.rf>
 <form>WHO</form>
 <tag>
-<AM lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WHO_:B_;U_;m_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3603,7 +3603,7 @@
 <LM>w#w-vesm9211-036-p15s1w2</LM>
 </w.rf>
 <form>Schreiber</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

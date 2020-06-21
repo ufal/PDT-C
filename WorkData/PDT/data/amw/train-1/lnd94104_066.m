@@ -93,7 +93,7 @@
 <LM>w#w-lnd94104-066-p1s1Bw8</LM>
 </w.rf>
 <form>Mečiarovi</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94104-066-p1s1Bw9">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-lnd94104-066-p1s1Bw15</LM>
 </w.rf>
 <form>Nagyové</form>
-<tag lemma="Nagyová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Nagyová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94104-066-p1s1Bw16">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-lnd94104-066-p1s5w2</LM>
 </w.rf>
 <form>ag</form>
-<tag lemma="ag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ag-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-066-p1s5w3">
 <src.rf>manual</src.rf>

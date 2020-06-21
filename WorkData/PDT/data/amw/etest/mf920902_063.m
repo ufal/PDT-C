@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-063-p1s1w2</LM>
 </w.rf>
 <form>Capriatiové</form>
-<tag lemma="Capriatiová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Capriatiová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920902-063-p2s1">
@@ -53,7 +53,7 @@
 <LM>w#w-mf920902-063-p2s1w3</LM>
 </w.rf>
 <form>Capriatiová</form>
-<tag lemma="Capriatiová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Capriatiová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-063-p2s1w4">
 <src.rf>manual</src.rf>
@@ -113,8 +113,8 @@
 </w.rf>
 <form>Snapple</form>
 <tag>
-<AM lemma="Snapple_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Snapple_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Snapple_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Snapple_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-063-p2s1w11">
@@ -194,7 +194,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -365,7 +365,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -441,7 +441,7 @@
 <form>U</form>
 <tag>
 <AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="U-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-063-p2s3w19">
@@ -463,19 +463,19 @@
 <AM lemma="S-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="S-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="S-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="S-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="S-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="S-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="S-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="States_:B_;G_,t_^(United_States_ve_zkr._apod.)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="S-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="S-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="S-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="S-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="States_:B_;G_,t_^(United_States_ve_zkr._apod.)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto">RR--7----------</AM>
 <AM lemma="s-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
+<AM lemma="S-33" src="auto">Q3-------------</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="auto">NNXXX-----A----</AM>
 <AM lemma="s-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="scriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
@@ -483,7 +483,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-063-p2s3w21">

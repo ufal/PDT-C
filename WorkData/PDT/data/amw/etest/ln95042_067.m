@@ -51,7 +51,7 @@
 <LM>w#w-ln95042-067-p1s1w5</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-067-p1s1w6">
 <src.rf>manual</src.rf>
@@ -222,10 +222,10 @@
 </w.rf>
 <form>Biedenkopf</form>
 <tag>
-<AM lemma="Biedenkopf_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Biedenkopf_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Biedenkopf_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Biedenkopf_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Biedenkopf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Biedenkopf-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-067-p2s1Bw14">
@@ -355,7 +355,7 @@
 <LM>w#w-ln95042-067-p2s1Bw29</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-067-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-ln95042-067-p2s2w26</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-067-p2s2w27">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-067-p3s1w21">
@@ -835,7 +835,7 @@
 <LM>w#w-ln95042-067-p3s1w22</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-067-p3s1w23">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -905,7 +905,7 @@
 <LM>w#w-ln95042-067-p3s1w30</LM>
 </w.rf>
 <form>Lammers</form>
-<tag lemma="Lammers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lammers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-067-p3s1w31">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-ln95042-067-p3s2w17</LM>
 </w.rf>
 <form>Havlova</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95042-067-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1246,7 +1246,7 @@
 <LM>w#w-ln95042-067-p4s1w5</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-067-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1272,7 +1272,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-067-p4s1w9">
@@ -1289,7 +1289,7 @@
 <LM>w#w-ln95042-067-p4s1w10</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-067-p4s1w11">
 <src.rf>manual</src.rf>

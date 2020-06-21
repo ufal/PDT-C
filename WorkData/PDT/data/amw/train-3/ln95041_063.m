@@ -44,7 +44,7 @@
 </w.rf>
 <form>JE</form>
 <tag>
-<AM lemma="JE-1_:B_;K_^(jaderná_elektrárna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JE-1_:B_;m_^(jaderná_elektrárna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
@@ -194,7 +194,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -556,7 +556,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -686,7 +686,7 @@
 <LM>w#w-ln95041-063-p2s3w25</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95041-063-p2s3w26">
 <src.rf>manual</src.rf>

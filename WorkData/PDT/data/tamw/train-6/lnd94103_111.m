@@ -27,7 +27,7 @@
 <LM>w#w-lnd94103-111-p1s1w2</LM>
 </w.rf>
 <form>Musil</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-111-p1s1B">

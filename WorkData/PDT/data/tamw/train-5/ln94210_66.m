@@ -69,7 +69,7 @@
 <LM>w#w-ln94210-66-p2s1Aw3</LM>
 </w.rf>
 <form>jap</form>
-<tag lemma="jap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-66-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-66-p2s5w8">
@@ -714,7 +714,7 @@
 <LM>w#w-ln94210-66-p2s5w9</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-66-p2s5w10">
 <src.rf>manual</src.rf>

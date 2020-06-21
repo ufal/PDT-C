@@ -1025,7 +1025,7 @@
 <LM>w#w-ln95048-113-p3s1w2</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-113-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-ln95048-113-p3s2w3</LM>
 </w.rf>
 <form>Interfax</form>
-<tag lemma="Interfax_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interfax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-113-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-ln95048-113-p4s1w4</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-113-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1663,7 +1663,7 @@
 <LM>w#w-ln95048-113-p4s1w16</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-113-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1914,7 +1914,7 @@
 </w.rf>
 <form>Komsomolskaja</form>
 <tag>
-<AM lemma="Komsomolskaja_;K_^(šachta)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Komsomolskaja_;m_^(šachta)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Komsomolskaja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1966,7 +1966,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-113-p4s2w9">
@@ -1983,7 +1983,7 @@
 <LM>w#w-ln95048-113-p4s2w10</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-113-p4s2w11">
 <src.rf>manual</src.rf>
@@ -2039,7 +2039,7 @@
 <LM>w#w-ln95048-113-p4s2w17</LM>
 </w.rf>
 <form>Gamidovem</form>
-<tag lemma="Gamidov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gamidov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-113-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2144,7 +2144,7 @@
 <LM>w#w-ln95048-113-p4s2w30</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95048-113-p4s2w31">
 <src.rf>manual</src.rf>

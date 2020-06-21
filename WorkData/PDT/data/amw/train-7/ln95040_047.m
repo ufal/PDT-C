@@ -75,7 +75,7 @@
 <LM>w#w-ln95040-047-p1s1w8</LM>
 </w.rf>
 <form>Kondakovova</form>
-<tag lemma="Kondakovův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Kondakovův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95040-047-p1s1w9">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-ln95040-047-p1s1w24</LM>
 </w.rf>
 <form>Pavloviče</form>
-<tag lemma="Pavlovič_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavlovič_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-047-p1s1w25">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Kondakova</form>
-<tag lemma="Kondakov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kondakov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-047-p1s1w26">
 <src.rf>manual</src.rf>

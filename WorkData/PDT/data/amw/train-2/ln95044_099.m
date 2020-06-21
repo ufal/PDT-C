@@ -692,7 +692,7 @@
 <LM>w#w-ln95044-099-p3s3w4</LM>
 </w.rf>
 <form>Klausův</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95044-099-p3s3w5">
 <src.rf>manual</src.rf>

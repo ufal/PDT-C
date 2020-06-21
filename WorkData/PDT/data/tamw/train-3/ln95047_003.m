@@ -20,9 +20,9 @@
 </w.rf>
 <form>TelSource</form>
 <tag>
-<AM lemma="TelSource_;K_^(konsorcium)" src="orig">NNIS1-----A----</AM>
-<AM lemma="TelSource_;K_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="TelSource_;K_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="orig">NNIS1-----A----</AM>
+<AM lemma="TelSource_;m_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p1s1w2">
@@ -56,7 +56,7 @@
 </w.rf>
 <form>SPT</form>
 <tag>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -66,7 +66,7 @@
 <LM>w#w-ln95047-003-p1s1w6</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-003-p2s1A">
@@ -103,9 +103,9 @@
 </w.rf>
 <form>TelSource</form>
 <tag>
-<AM lemma="TelSource_;K_^(konsorcium)" src="orig">NNIS1-----A----</AM>
-<AM lemma="TelSource_;K_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="TelSource_;K_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="orig">NNIS1-----A----</AM>
+<AM lemma="TelSource_;m_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw3">
@@ -151,7 +151,7 @@
 </w.rf>
 <form>Telecom</form>
 <tag>
-<AM lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Telecom-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -162,7 +162,7 @@
 </w.rf>
 <form>Netherlands</form>
 <tag>
-<AM lemma="Netherlands_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Netherlands_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Netherlands-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -181,9 +181,9 @@
 </w.rf>
 <form>Swiss</form>
 <tag>
-<AM lemma="Swiss_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Swiss_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Swiss_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Swiss_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Swiss_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Swiss_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Swiss_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Swiss-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -195,7 +195,7 @@
 </w.rf>
 <form>Telecom</form>
 <tag>
-<AM lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Telecom-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -278,7 +278,7 @@
 </w.rf>
 <form>SPT</form>
 <tag>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -288,7 +288,7 @@
 <LM>w#w-ln95047-003-p2s1Bw22</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 </w.rf>
 <form>PPT</form>
 <tag>
-<AM lemma="PPT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PPT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PPT_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -367,9 +367,9 @@
 </w.rf>
 <form>Frans</form>
 <tag>
-<AM lemma="Frans_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Frans_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Frans-77" src="manual">F%-------------</AM>
-<AM lemma="Frans_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Frans_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p2s2w9">
@@ -379,7 +379,7 @@
 </w.rf>
 <form>Menting</form>
 <tag>
-<AM lemma="Menting_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Menting_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Menting-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -546,9 +546,9 @@
 </w.rf>
 <form>TelSource</form>
 <tag>
-<AM lemma="TelSource_;K_^(konsorcium)" src="orig">NNIS4-----A----</AM>
-<AM lemma="TelSource_;K_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="TelSource_;K_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="orig">NNIS4-----A----</AM>
+<AM lemma="TelSource_;m_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p3s2w2">
@@ -614,11 +614,11 @@
 </w.rf>
 <form>AT</form>
 <tag>
-<AM lemma="AT_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AT_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AT_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
-<AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="atmosféra_:B_;U_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -637,24 +637,24 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-4_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="T-4_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="T-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="T-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="T-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="T-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="T-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="T-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="T-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="T-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="T-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="T-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="T-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="T-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="T-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="T-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="t-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="T-33" src="auto">Q3-------------</AM>
 <AM lemma="t-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
 <AM lemma="T-3_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p3s2w12">
@@ -818,8 +818,8 @@
 </w.rf>
 <form>Unisource</form>
 <tag>
-<AM lemma="Unisource_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Unisource_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unisource_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Unisource_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p4s1w20">
@@ -837,8 +837,8 @@
 </w.rf>
 <form>Uniworld</form>
 <tag>
-<AM lemma="Uniworld_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Uniworld_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Uniworld_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Uniworld_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p4s1w22">
@@ -869,7 +869,7 @@
 <LM>w#w-ln95047-003-p5s1w2</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-003-p5s1w3">
 <src.rf>manual</src.rf>
@@ -968,9 +968,9 @@
 </w.rf>
 <form>Swiss</form>
 <tag>
-<AM lemma="Swiss_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Swiss_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Swiss_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Swiss_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Swiss_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Swiss_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Swiss_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Swiss-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -982,7 +982,7 @@
 </w.rf>
 <form>Telecom</form>
 <tag>
-<AM lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Telecom-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -1101,7 +1101,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

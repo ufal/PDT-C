@@ -37,7 +37,7 @@
 <LM>w#w-ln95040-024-p2s1w2</LM>
 </w.rf>
 <form>Vacek</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-024-p2s1w3">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-ln95040-024-p2s1w23</LM>
 </w.rf>
 <form>Medveděva</form>
-<tag lemma="Medveděv_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Medveděv_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95040-024-p2s1w24">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-ln95041-041-p2s1Bw9</LM>
 </w.rf>
 <form>Wagnera</form>
-<tag lemma="Wagner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wagner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-041-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-ln95041-041-p2s1Bw20</LM>
 </w.rf>
 <form>Wagnerovo</form>
-<tag lemma="Wagnerův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Wagnerův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95041-041-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln95041-041-p2s2w5</LM>
 </w.rf>
 <form>Zednicek</form>
-<tag lemma="Zednicek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zednicek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-041-p2s2w6">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-ln95041-041-p3s1w20</LM>
 </w.rf>
 <form>Zednicekovy</form>
-<tag lemma="Zednicekův_;S_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Zednicekův_;Y_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln95041-041-p3s1w21">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-ln95041-041-p3s1w26</LM>
 </w.rf>
 <form>Wagnerova</form>
-<tag lemma="Wagnerův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Wagnerův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95041-041-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-ln95041-041-p3s2w33</LM>
 </w.rf>
 <form>Wagnerovy</form>
-<tag lemma="Wagnerův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Wagnerův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95041-041-p3s2w34">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 <LM>w#w-ln95041-041-p3s3w12</LM>
 </w.rf>
 <form>Wagnera</form>
-<tag lemma="Wagner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wagner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-041-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1513,7 +1513,7 @@
 <LM>w#w-ln95041-041-p3s4w7</LM>
 </w.rf>
 <form>Wagnerových</form>
-<tag lemma="Wagnerův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Wagnerův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-ln95041-041-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1670,7 +1670,7 @@
 <LM>w#w-ln95041-041-p3s5w4</LM>
 </w.rf>
 <form>Zednicek</form>
-<tag lemma="Zednicek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zednicek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-041-p3s5w5">
 <src.rf>manual</src.rf>
@@ -2088,7 +2088,7 @@
 <LM>w#w-ln95041-041-p3s6w40</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95041-041-p3s6w41">
 <src.rf>manual</src.rf>
@@ -2292,7 +2292,7 @@
 <LM>w#w-ln95041-041-p3s8w3</LM>
 </w.rf>
 <form>Wagnera</form>
-<tag lemma="Wagner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wagner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-041-p3s8w4">
 <src.rf>manual</src.rf>
@@ -2348,7 +2348,7 @@
 <LM>w#w-ln95041-041-p3s8w10</LM>
 </w.rf>
 <form>Zedniceka</form>
-<tag lemma="Zednicek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zednicek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-041-p3s8w11">
 <src.rf>manual</src.rf>

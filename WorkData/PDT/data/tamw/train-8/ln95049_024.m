@@ -27,7 +27,7 @@
 <LM>w#w-ln95049-024-p1s1w2</LM>
 </w.rf>
 <form>Budka</form>
-<tag lemma="Budka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-024-p1s1w3">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-ln95049-024-p1s1w8</LM>
 </w.rf>
 <form>Lasotou</form>
-<tag lemma="Lasota_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lasota_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-024-p1s1w9">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln95049-024-p1s1w13</LM>
 </w.rf>
 <form>Baránkem</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-024-p1s1w14">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-ln95049-024-p1s2w4</LM>
 </w.rf>
 <form>Legierský</form>
-<tag lemma="Legierský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Legierský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-024-p1s2w5">
 <src.rf>manual</src.rf>

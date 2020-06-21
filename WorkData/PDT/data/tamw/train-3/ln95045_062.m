@@ -20,7 +20,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -136,7 +136,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -648,7 +648,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -666,7 +666,7 @@
 <LM>w#w-ln95045-062-p3s1w31</LM>
 </w.rf>
 <form>Abid</form>
-<tag lemma="Abid_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abid_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p3s1w32">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-ln95045-062-p3s1w32</LM>
 </w.rf>
 <form>Rabbú</form>
-<tag lemma="Rabbú_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabbú_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p3s1w33">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-ln95045-062-p6s1w22</LM>
 </w.rf>
 <form>Abid</form>
-<tag lemma="Abid_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abid_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p6s1w23">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-ln95045-062-p6s1w23</LM>
 </w.rf>
 <form>Rabbú</form>
-<tag lemma="Rabbú_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabbú_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p6s1w24">
 <src.rf>manual</src.rf>
@@ -1629,7 +1629,7 @@
 <LM>w#w-ln95045-062-p7s1w13</LM>
 </w.rf>
 <form>Abid</form>
-<tag lemma="Abid_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abid_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p7s1w14">
 <src.rf>manual</src.rf>
@@ -1637,7 +1637,7 @@
 <LM>w#w-ln95045-062-p7s1w14</LM>
 </w.rf>
 <form>Rabbú</form>
-<tag lemma="Rabbú_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabbú_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p7s1w15">
 <src.rf>manual</src.rf>
@@ -1670,9 +1670,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-062-p7s1w19">
@@ -1780,7 +1780,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1798,7 +1798,7 @@
 <LM>w#w-ln95045-062-p8s1w6</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p8s1w7">
 <src.rf>manual</src.rf>

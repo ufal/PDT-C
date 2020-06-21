@@ -54,11 +54,11 @@
 </w.rf>
 <form>Nero</form>
 <tag>
-<AM lemma="Nero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Nero_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Nero_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Nero_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -248,11 +248,11 @@
 </w.rf>
 <form>Nero</form>
 <tag>
-<AM lemma="Nero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Nero_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Nero_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Nero_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-040-p3s2w22">
@@ -293,7 +293,7 @@
 <LM>w#w-lnd92255-040-p3s2w26</LM>
 </w.rf>
 <form>Soudek</form>
-<tag lemma="Soudek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soudek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-040-p3s2w27">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-lnd92255-040-p3s3w17</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-040-p3s3w18">
 <src.rf>manual</src.rf>
@@ -530,11 +530,11 @@
 </w.rf>
 <form>Nero</form>
 <tag>
-<AM lemma="Nero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Nero_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Nero_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Nero_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-040-p3s4w4">
@@ -748,11 +748,11 @@
 </w.rf>
 <form>Nero</form>
 <tag>
-<AM lemma="Nero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Nero_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Nero_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Nero_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-040-p3s6w8">
@@ -915,7 +915,7 @@
 <LM>w#w-lnd92255-040-p3s7w15</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-040-p3s7w16">
 <src.rf>manual</src.rf>

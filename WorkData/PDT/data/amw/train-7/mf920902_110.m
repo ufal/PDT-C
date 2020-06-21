@@ -175,8 +175,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-1_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-1_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>

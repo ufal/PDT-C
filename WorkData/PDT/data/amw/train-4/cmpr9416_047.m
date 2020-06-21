@@ -263,8 +263,8 @@
 <form>Matka</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
@@ -629,7 +629,7 @@
 <LM>w#w-cmpr9416-047-p4s8w2</LM>
 </w.rf>
 <form>Složil</form>
-<tag lemma="Složil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Složil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-047-p5s1">
@@ -2002,7 +2002,7 @@
 <LM>w#w-cmpr9416-047-p8s2w4</LM>
 </w.rf>
 <form>Deklevová</form>
-<tag lemma="Deklevová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Deklevová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-047-p8s2w5">
 <src.rf>manual</src.rf>
@@ -5450,8 +5450,8 @@
 <form>Matka</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
@@ -5609,9 +5609,9 @@
 <form>Matku</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Matek_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
@@ -9114,8 +9114,8 @@
 <form>Matka</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>

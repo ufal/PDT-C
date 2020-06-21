@@ -826,7 +826,7 @@
 <LM>w#w-ln94210-141-p4s1w11</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-141-p4s1w12">
 <src.rf>manual</src.rf>

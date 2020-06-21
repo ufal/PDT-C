@@ -405,7 +405,7 @@
 <LM>w#w-lnd94103-087-p1s4w2</LM>
 </w.rf>
 <form>König</form>
-<tag lemma="König_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="König_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s4w3">
 <src.rf>manual</src.rf>
@@ -585,8 +585,8 @@
 <form>greyhounda</form>
 <tag>
 <AM lemma="greyhound" src="orig">NNMS4-----A----</AM>
-<AM lemma="grejhund_;L_,t_,x" src="auto">NNMS2-----A----</AM>
-<AM lemma="grejhund_;L_,t_,x" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="grejhund_;U_,t_,x" src="auto">NNMS2-----A----</AM>
+<AM lemma="grejhund_;U_,t_,x" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="grejhund" src="manual">NNMS4-----A----</AM>
 <AM lemma="greyhound_s_^(^DD**grejhund)" src="manual">NNMS4-----A----</AM>
 <AM lemma="greyhound_,s_^(^DD**grejhund)" src="manual" selected="1">NNMS4-----A----</AM>
@@ -1037,7 +1037,7 @@
 <LM>w#w-lnd94103-087-p1s11w2</LM>
 </w.rf>
 <form>Jogheeová</form>
-<tag lemma="Jogheeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jogheeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-087-p1s11B">
@@ -1055,7 +1055,7 @@
 <LM>w#w-lnd94103-087-p1s11w4</LM>
 </w.rf>
 <form>König</form>
-<tag lemma="König_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="König_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s11w5">
 <src.rf>manual</src.rf>
@@ -1358,8 +1358,8 @@
 </w.rf>
 <form>Garry</form>
 <tag>
-<AM lemma="Garry_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Garry_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Garry_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Garry_;Y" src="manual">NNMS1-----A----</AM>
 <AM lemma="Garry-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1378,7 +1378,7 @@
 </w.rf>
 <form>El</form>
 <tag>
-<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1398,7 +1398,7 @@
 <form>Baraki</form>
 <tag>
 <AM lemma="Baraki_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Baraki_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Baraki_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Baraki-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1409,7 +1409,7 @@
 </w.rf>
 <form>Radjan</form>
 <tag>
-<AM lemma="Radjan_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Radjan_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Radjan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1605,7 +1605,7 @@
 <LM>w#w-lnd94103-087-p1s15w3</LM>
 </w.rf>
 <form>Königa</form>
-<tag lemma="König_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="König_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s15w4">
 <src.rf>manual</src.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-lnd94103-087-p1s16w2</LM>
 </w.rf>
 <form>Mimra</form>
-<tag lemma="Mimra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mimra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s16w3">
 <src.rf>manual</src.rf>
@@ -1793,7 +1793,7 @@
 <LM>w#w-lnd94103-087-p1s17w6</LM>
 </w.rf>
 <form>König</form>
-<tag lemma="König_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="König_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s17w7">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 <LM>w#w-lnd94103-087-p1s19w2</LM>
 </w.rf>
 <form>Königově</form>
-<tag lemma="Königův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Königův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd94103-087-p1s19w3">
 <src.rf>manual</src.rf>
@@ -2930,7 +2930,7 @@
 <LM>w#w-lnd94103-087-p1s32w2</LM>
 </w.rf>
 <form>König</form>
-<tag lemma="König_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="König_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s32w3">
 <src.rf>manual</src.rf>
@@ -6498,7 +6498,7 @@
 <LM>w#w-lnd94103-087-p1s68Cw13</LM>
 </w.rf>
 <form>Badalcem</form>
-<tag lemma="Badalec_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Badalec_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s68Cw14">
 <src.rf>manual</src.rf>
@@ -10668,13 +10668,13 @@
 <form>Taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="Tako-1_;G_;R" src="auto">NNNP7-----A----</AM>
+<AM lemma="Tako-1_;G_;m" src="auto">NNNP7-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -11134,7 +11134,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-087-p1s113Bw4">
@@ -11151,7 +11151,7 @@
 <LM>w#w-lnd94103-087-p1s113Bw5</LM>
 </w.rf>
 <form>Mimra</form>
-<tag lemma="Mimra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mimra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s113Bw6">
 <src.rf>manual</src.rf>
@@ -11167,7 +11167,7 @@
 <LM>w#w-lnd94103-087-p1s113Bw7</LM>
 </w.rf>
 <form>Fotoport</form>
-<tag lemma="Fotoport_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fotoport_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s113Bw8">
 <src.rf>manual</src.rf>

@@ -550,7 +550,7 @@
 <LM>w#w-cmpr9415-033-p3s1w11</LM>
 </w.rf>
 <form>Preclík</form>
-<tag lemma="Preclík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Preclík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-033-p3s1w12">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-cmpr9415-033-p5s1w2</LM>
 </w.rf>
 <form>Šach</form>
-<tag lemma="Šach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-033-p7s1">
@@ -778,7 +778,7 @@
 <LM>w#w-cmpr9415-033-p7s1w25</LM>
 </w.rf>
 <form>Preclík</form>
-<tag lemma="Preclík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Preclík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-033-p7s1w26">
 <src.rf>manual</src.rf>
@@ -2280,7 +2280,7 @@
 <LM>w#w-cmpr9415-033-p9s1w13</LM>
 </w.rf>
 <form>Preclík</form>
-<tag lemma="Preclík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Preclík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-033-p9s1w14">
 <src.rf>manual</src.rf>
@@ -3626,7 +3626,7 @@
 <LM>w#w-cmpr9415-033-p11s2w18</LM>
 </w.rf>
 <form>Preclík</form>
-<tag lemma="Preclík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Preclík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-033-p11s2w19">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln95042-028-p1s1w1</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p1s1w2">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln95042-028-p1s1w4</LM>
 </w.rf>
 <form>Robitaillovi</form>
-<tag lemma="Robitaill_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Robitaill_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-028-p2s1A">
@@ -481,7 +481,7 @@
 <LM>w#w-ln95042-028-p2s2Aw3</LM>
 </w.rf>
 <form>Gretzkého</form>
-<tag lemma="Gretzký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gretzký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s2Aw4">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-ln95042-028-p2s2Bw5</LM>
 </w.rf>
 <form>Robitaille</form>
-<tag lemma="Robitaille_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Robitaille_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s2Bw6">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-ln95042-028-p2s3w7</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1511,8 +1511,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-028-p2s5w11">
@@ -1579,7 +1579,7 @@
 <LM>w#w-ln95042-028-p2s6w7</LM>
 </w.rf>
 <form>Fiset</form>
-<tag lemma="Fiset_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiset_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1731,7 +1731,7 @@
 <LM>w#w-ln95042-028-p2s7Aw11</LM>
 </w.rf>
 <form>Nolan</form>
-<tag lemma="Nolan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nolan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s7Aw12">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 <LM>w#w-ln95042-028-p2s7Aw15</LM>
 </w.rf>
 <form>Sakic</form>
-<tag lemma="Sakic_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sakic_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s7Aw16">
 <src.rf>manual</src.rf>
@@ -1779,7 +1779,7 @@
 <LM>w#w-ln95042-028-p2s7Aw17</LM>
 </w.rf>
 <form>Clark</form>
-<tag lemma="Clark_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clark_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s7Aw18">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2140,7 +2140,7 @@
 <LM>w#w-ln95042-028-p2s9w2</LM>
 </w.rf>
 <form>Tugnutt</form>
-<tag lemma="Tugnutt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tugnutt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s9w3">
 <src.rf>manual</src.rf>
@@ -2188,7 +2188,7 @@
 <LM>w#w-ln95042-028-p2s9w8</LM>
 </w.rf>
 <form>Conroy</form>
-<tag lemma="Conroy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Conroy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s9w9">
 <src.rf>manual</src.rf>
@@ -2270,7 +2270,7 @@
 <form>AHL</form>
 <tag>
 <AM lemma="AHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="AHL_:B_;K_^(Hockey_League)" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="AHL_:B_;m_^(Hockey_League)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="AHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2405,7 +2405,7 @@
 <LM>w#w-ln95042-028-p2s10w11</LM>
 </w.rf>
 <form>Krivokrasov</form>
-<tag lemma="Krivokrasov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krivokrasov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s10w12">
 <src.rf>manual</src.rf>
@@ -2700,7 +2700,7 @@
 <LM>w#w-ln95042-028-p2s12Aw6</LM>
 </w.rf>
 <form>Kidda</form>
-<tag lemma="Kidd_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kidd_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s12Aw7">
 <src.rf>manual</src.rf>
@@ -2878,7 +2878,7 @@
 <LM>w#w-ln95042-028-p2s12Bw4</LM>
 </w.rf>
 <form>Näslund</form>
-<tag lemma="Näslund_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Näslund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s12Bw5">
 <src.rf>manual</src.rf>
@@ -2954,8 +2954,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-028-p2s12Bw14">
@@ -3050,8 +3050,8 @@
 </w.rf>
 <form>Bruins</form>
 <tag>
-<AM lemma="Bruin_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Bruins_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Bruin_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Bruins_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Bruins-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3071,7 +3071,7 @@
 <LM>w#w-ln95042-028-p2s14w1</LM>
 </w.rf>
 <form>Näslund</form>
-<tag lemma="Näslund_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Näslund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s14w2">
 <src.rf>manual</src.rf>
@@ -3155,7 +3155,7 @@
 </w.rf>
 <form>Canadiens</form>
 <tag>
-<AM lemma="Canadien_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Canadien_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Canadiens-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

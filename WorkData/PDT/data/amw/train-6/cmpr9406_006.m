@@ -710,7 +710,7 @@
 <LM>w#w-cmpr9406-006-p6s1w2</LM>
 </w.rf>
 <form>Zajkr</form>
-<tag lemma="Zajkr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zajkr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-006-p8s1">
@@ -1168,7 +1168,7 @@
 <LM>w#w-cmpr9406-006-p9s2w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-006-p9s2w14">
 <src.rf>manual</src.rf>
@@ -3293,7 +3293,7 @@
 <LM>w#w-cmpr9406-006-p14s2w11</LM>
 </w.rf>
 <form>natural</form>
-<tag lemma="natural-1_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="natural-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-006-p14s2w12">
 <src.rf>manual</src.rf>
@@ -3593,7 +3593,7 @@
 <LM>w#w-cmpr9406-006-p14s5w8</LM>
 </w.rf>
 <form>naturalu</form>
-<tag lemma="natural-1_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="natural-1_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-006-p14s5w9">
 <src.rf>manual</src.rf>
@@ -3958,7 +3958,7 @@
 <LM>w#w-cmpr9406-006-p14s8w4</LM>
 </w.rf>
 <form>natural</form>
-<tag lemma="natural-1_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="natural-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-006-p14s8w5">
 <src.rf>manual</src.rf>
@@ -6472,7 +6472,7 @@
 <LM>w#w-cmpr9406-006-p19s4w5</LM>
 </w.rf>
 <form>Benzina</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-006-p19s4w6">
 <src.rf>manual</src.rf>
@@ -7588,7 +7588,7 @@
 <LM>w#w-cmpr9406-006-p21s2w26</LM>
 </w.rf>
 <form>Benziny</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-006-p21s2w27">
 <src.rf>manual</src.rf>

@@ -206,7 +206,7 @@
 <AM lemma="Trebinje_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="Trebinje_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Trebinje_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Trebinje_;G" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
+<AM lemma="Trebinje_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-042-p2s1w16">
@@ -241,7 +241,7 @@
 <LM>w#w-lnd92253-042-p2s2w3</LM>
 </w.rf>
 <form>Tanjug</form>
-<tag lemma="Tanjug_:B_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tanjug_:B_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92253-042-p2s2w4">
 <src.rf>manual</src.rf>

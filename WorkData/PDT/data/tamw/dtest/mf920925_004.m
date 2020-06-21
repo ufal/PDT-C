@@ -311,7 +311,7 @@
 <LM>w#w-mf920925-004-p2s2w14</LM>
 </w.rf>
 <form>Suchocké</form>
-<tag lemma="Suchocká_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Suchocká_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-004-p2s2w15">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-ln94207-115-p2s1w4</LM>
 </w.rf>
 <form>Panušky</form>
-<tag lemma="Panuška_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Panuška_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-115-p2s1w5">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94207-115-p2s1w18</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94207-115-p2s1w19">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-ln94207-115-p3s1w4</LM>
 </w.rf>
 <form>Kolář</form>
-<tag lemma="Kolář_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolář_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-115-p3s1w5">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-ln94207-115-p3s2w11</LM>
 </w.rf>
 <form>Vaculíkové</form>
-<tag lemma="Vaculíková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vaculíková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-115-p3s2w12">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-ln94207-115-p3s2w17</LM>
 </w.rf>
 <form>Koláře</form>
-<tag lemma="Kolář_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kolář_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-115-p3s2w18">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-ln94207-115-p3s3w13</LM>
 </w.rf>
 <form>Vaculíkové</form>
-<tag lemma="Vaculíková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vaculíková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-115-p3s3w14">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-ln94207-115-p3s4w21</LM>
 </w.rf>
 <form>Kolář</form>
-<tag lemma="Kolář_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolář_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-115-p3s4w22">
 <src.rf>manual</src.rf>

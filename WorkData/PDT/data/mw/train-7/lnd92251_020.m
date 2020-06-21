@@ -21,7 +21,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-020-p1s1w2">
@@ -40,7 +40,7 @@
 <LM>w#w-lnd92251-020-p1s2w1</LM>
 </w.rf>
 <form>KLAUS</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-020-p1s2w2">
 <src.rf>manual</src.rf>
@@ -101,8 +101,8 @@
 </w.rf>
 <form>fsch</form>
 <tag>
-<AM lemma="fsch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fsch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fsch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fsch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-020-p3s1w4">
@@ -502,7 +502,7 @@
 <LM>w#w-lnd92251-020-p3s3w17</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-020-p3s3w18">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-lnd92251-020-p3s5w4</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-020-p3s5w5">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-lnd92251-020-p3s6w11</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92251-020-p3s6w12">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-lnd92251-020-p3s6w17</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92251-020-p3s6w18">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <LM>w#w-lnd92251-020-p3s6w23</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92251-020-p3s6w24">
 <src.rf>manual</src.rf>

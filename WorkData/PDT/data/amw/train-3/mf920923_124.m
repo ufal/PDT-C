@@ -347,7 +347,7 @@
 <LM>w#w-mf920923-124-p3s3w1</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-124-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1427,7 +1427,7 @@
 <LM>w#w-mf920923-124-p6s1w3</LM>
 </w.rf>
 <form>Suchocké</form>
-<tag lemma="Suchocká_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Suchocká_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920923-124-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1850,7 +1850,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1914,7 +1914,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

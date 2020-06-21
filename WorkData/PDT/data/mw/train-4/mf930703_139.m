@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-139-p1s1w1</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-139-p1s1w2">
 <src.rf>manual</src.rf>
@@ -68,7 +68,7 @@
 </w.rf>
 <form>RB</form>
 <tag>
-<AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RB_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -79,8 +79,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -131,7 +131,7 @@
 <LM>w#w-mf930703-139-p2s1w6</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-139-p2s1w7">
 <src.rf>manual</src.rf>
@@ -164,8 +164,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-139-p2s1w11">
@@ -174,7 +174,7 @@
 <LM>w#w-mf930703-139-p2s1w11</LM>
 </w.rf>
 <form>Butruse</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Butrus_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-139-p2s1w12">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-mf930703-139-p2s1w13</LM>
 </w.rf>
 <form>Ghálího</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-139-p2s1w14">
 <src.rf>manual</src.rf>
@@ -385,8 +385,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-139-p2s2w10">
@@ -404,7 +404,7 @@
 </w.rf>
 <form>RB</form>
 <tag>
-<AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RB_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -495,8 +495,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-139-p2s2w24">

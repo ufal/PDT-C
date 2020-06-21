@@ -130,7 +130,7 @@
 <form>Vítek</form>
 <tag>
 <AM lemma="Vítek_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vítek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vítek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-19-p2s1Aw3">
@@ -1437,12 +1437,12 @@
 <AM lemma="Ir_;E" src="orig">NNMP1-----A----</AM>
 <AM lemma="Ir_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Ir_;E" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Irová_;S" src="auto">NNFP1-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFP4-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS2-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS3-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS6-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP1-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP4-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP5-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS2-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-19-p4s1w7">
@@ -4669,7 +4669,7 @@
 </w.rf>
 <form>MOP</form>
 <tag>
-<AM lemma="MOP_:B_;K_^(Mezinárodní_organizace_práce)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MOP_:B_;m_^(Mezinárodní_organizace_práce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="mop" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="mop" src="auto">NNIS4-----A----</AM>
 <AM lemma="MOP-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -5388,7 +5388,7 @@
 </w.rf>
 <form>MOP</form>
 <tag>
-<AM lemma="MOP_:B_;K_^(Mezinárodní_organizace_práce)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MOP_:B_;m_^(Mezinárodní_organizace_práce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="mop" src="auto">NNIS1-----A----</AM>
 <AM lemma="mop" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="MOP-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -6023,7 +6023,7 @@
 </w.rf>
 <form>MOP</form>
 <tag>
-<AM lemma="MOP_:B_;K_^(Mezinárodní_organizace_práce)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MOP_:B_;m_^(Mezinárodní_organizace_práce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="mop" src="auto">NNIS1-----A----</AM>
 <AM lemma="mop" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="MOP-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -6968,7 +6968,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

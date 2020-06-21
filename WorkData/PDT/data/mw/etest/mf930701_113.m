@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-113-p1s1w1</LM>
 </w.rf>
 <form>Korbel</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-113-p1s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-mf930701-113-p2s1w3</LM>
 </w.rf>
 <form>šá</form>
-<tag lemma="šá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="šá-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930701-113-p2s1w4">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-mf930701-113-p2s1w15</LM>
 </w.rf>
 <form>Korbel</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s1w16">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-mf930701-113-p2s1w22</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s1w23">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf930701-113-p2s1w33</LM>
 </w.rf>
 <form>Komárka</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s1w34">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-mf930701-113-p2s2w8</LM>
 </w.rf>
 <form>Komárka</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s2w9">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf930701-113-p2s2w12</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s2w13">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-mf930701-113-p2s4w2</LM>
 </w.rf>
 <form>Korbel</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s4w3">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf930701-113-p2s4w16</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s4w17">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-mf930701-113-p2s6w16</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1250,9 +1250,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-113-p2s7w27">

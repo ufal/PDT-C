@@ -61,7 +61,7 @@
 <LM>w#w-ln94204-66-p2s1Aw4</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="vet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-66-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -196,8 +196,8 @@
 </w.rf>
 <form>Kovo</form>
 <tag>
-<AM lemma="Kovo_;K_;Y" src="orig">NNNS1-----A----</AM>
-<AM lemma="Kovo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Kovo_;Y_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="Kovo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-66-p2s1Bw15">

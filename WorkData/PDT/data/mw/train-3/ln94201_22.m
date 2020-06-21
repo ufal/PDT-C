@@ -94,9 +94,9 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-22-p2s1w6">
@@ -533,7 +533,7 @@
 <LM>w#w-ln94201-22-p2s3w13</LM>
 </w.rf>
 <form>prstnatec</form>
-<tag lemma="prstnatec_;L_^(orchidej)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="prstnatec_;U_^(orchidej)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-22-p2s3w14">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-ln94201-22-p2s3w16</LM>
 </w.rf>
 <form>všivec</form>
-<tag lemma="všivec_;L" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="všivec_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-22-p2s3w17">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln94201-22-p2s3w21</LM>
 </w.rf>
 <form>pětiprstka</form>
-<tag lemma="pětiprstka_;L_^(rostlina)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="pětiprstka_;U_^(rostlina)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-22-p2s3w22">
 <src.rf>manual</src.rf>

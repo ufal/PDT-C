@@ -962,7 +962,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -980,7 +980,7 @@
 <LM>w#w-ln94209-10-p2s5w5</LM>
 </w.rf>
 <form>Arafata</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-10-p2s5w6">
 <src.rf>manual</src.rf>

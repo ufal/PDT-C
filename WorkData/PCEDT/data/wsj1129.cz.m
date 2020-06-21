@@ -28,7 +28,7 @@
 </w.rf>
 <form>Brush</form>
 <tag>
-<AM lemma="Brush_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Brush_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Brush-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -40,7 +40,7 @@
 <form>Wellman</form>
 <tag>
 <AM lemma="Wellman" src="auto">X@-------------</AM>
-<AM lemma="Wellman_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Wellman_;Y" src="manual">NNMS1-----A----</AM>
 <AM lemma="Wellman-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -98,7 +98,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFSXFS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -347,8 +347,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1129-001-p1s0W29-Ta">

@@ -118,7 +118,7 @@
 </w.rf>
 <form>Kysel</form>
 <tag>
-<AM lemma="Kysel_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kysel_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kyselit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kyselit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto" recommended="1">NNNP2-----A----</AM>
@@ -171,8 +171,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -191,7 +191,7 @@
 <LM>w#w-ln94205-139-p2s1Bw2</LM>
 </w.rf>
 <form>Krčálová</form>
-<tag lemma="Krčálová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krčálová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-139-p2s1C">
@@ -386,7 +386,7 @@
 </w.rf>
 <form>Kysel</form>
 <tag>
-<AM lemma="Kysel_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kysel_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kyselit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kyselit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto" recommended="1">NNNP2-----A----</AM>
@@ -441,8 +441,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-139-p2s2w6">
@@ -663,8 +663,8 @@
 </w.rf>
 <form>Govett</form>
 <tag>
-<AM lemma="Govett_;K_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Govett_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Govett_;Y_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Govett_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-139-p3s1w13">
@@ -784,7 +784,7 @@
 </w.rf>
 <form>markets</form>
 <tag>
-<AM lemma="market_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="market_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="markets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3409,7 +3409,7 @@
 </w.rf>
 <form>makers</form>
 <tag>
-<AM lemma="maker_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="maker_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="makers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5245,7 +5245,7 @@
 <LM>w#w-ln94205-139-p17s2w15</LM>
 </w.rf>
 <form>dolary</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94205-139-p17s2w16">
 <src.rf>manual</src.rf>
@@ -6803,7 +6803,7 @@
 <LM>w#w-ln94205-139-p19s6w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-139-p19s6w14">
 <src.rf>manual</src.rf>

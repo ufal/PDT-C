@@ -803,7 +803,7 @@
 <LM>w#w-lnd94103-088-p1s7w2</LM>
 </w.rf>
 <form>Kněžínková</form>
-<tag lemma="Kněžínková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kněžínková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-088-p1s7B">
@@ -917,7 +917,7 @@
 <LM>w#w-lnd94103-088-p1s7w16</LM>
 </w.rf>
 <form>Brandenburger</form>
-<tag lemma="Brandenburger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brandenburger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s7w17">
 <src.rf>manual</src.rf>
@@ -974,8 +974,8 @@
 </w.rf>
 <form>Plantahof</form>
 <tag>
-<AM lemma="Plantahof_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Plantahof_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Plantahof_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Plantahof_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-088-p1s7w24">
@@ -2450,7 +2450,7 @@
 <LM>w#w-lnd94103-088-p1s16w12</LM>
 </w.rf>
 <form>Brandenburger</form>
-<tag lemma="Brandenburger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brandenburger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s16w13">
 <src.rf>manual</src.rf>
@@ -4762,7 +4762,7 @@
 <LM>w#w-lnd94103-088-p1s32w16</LM>
 </w.rf>
 <form>Branderburger</form>
-<tag lemma="Branderburger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Branderburger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s32w17">
 <src.rf>manual</src.rf>
@@ -6659,8 +6659,8 @@
 </w.rf>
 <form>Plantahof</form>
 <tag>
-<AM lemma="Plantahof_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Plantahof_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Plantahof_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Plantahof_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-088-p1s47w8">

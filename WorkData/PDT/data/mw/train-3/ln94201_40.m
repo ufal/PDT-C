@@ -69,7 +69,7 @@
 <LM>w#w-ln94201-40-p2s1w2</LM>
 </w.rf>
 <form>Jakeš</form>
-<tag lemma="Jakeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jakeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-40-p2s1w3">
 <src.rf>manual</src.rf>
@@ -102,8 +102,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-40-p2s1w7">
@@ -546,7 +546,7 @@
 <LM>w#w-ln94201-40-p2s5w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94201-40-p2s5w10">
 <src.rf>manual</src.rf>

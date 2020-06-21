@@ -187,7 +187,7 @@
 <LM>w#w-lnd92252-005-p3s3w1</LM>
 </w.rf>
 <form>Landsbergisovo</form>
-<tag lemma="Landsbergisův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Landsbergisův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd92252-005-p3s3w2">
 <src.rf>manual</src.rf>
@@ -204,8 +204,8 @@
 </w.rf>
 <form>Sajudis</form>
 <tag>
-<AM lemma="Sajudis_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sajudis_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sajudis_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sajudis_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-005-p3s3w4">
@@ -254,7 +254,7 @@
 <LM>w#w-lnd92252-005-p3s3w9</LM>
 </w.rf>
 <form>Infas</form>
-<tag lemma="Infas_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Infas_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-005-p3s3w10">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-lnd92252-005-p3s4w11</LM>
 </w.rf>
 <form>Sajudis</form>
-<tag lemma="Sajudis_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sajudis_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-005-p3s4w12">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-005-p3s5w12">
@@ -509,7 +509,7 @@
 <LM>w#w-lnd92252-005-p3s5w13</LM>
 </w.rf>
 <form>Brazauskasem</form>
-<tag lemma="Brazauskas_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Brazauskas_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92252-005-p3s5w14">
 <src.rf>manual</src.rf>

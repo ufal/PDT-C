@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-86-p1s1Aw4</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94211-86-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-ln94211-86-p1s1Bw3</LM>
 </w.rf>
 <form>Kotek</form>
-<tag lemma="Kotek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

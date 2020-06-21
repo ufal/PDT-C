@@ -332,7 +332,7 @@
 <LM>w#w-ln95042-047-p2s2w5</LM>
 </w.rf>
 <form>Zakaria</form>
-<tag lemma="Zakaria_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zakaria_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-047-p2s2w6">
 <src.rf>manual</src.rf>

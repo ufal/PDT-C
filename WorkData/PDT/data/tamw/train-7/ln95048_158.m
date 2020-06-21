@@ -52,7 +52,7 @@
 </w.rf>
 <form>FALL</form>
 <tag>
-<AM lemma="FALL_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FALL_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FALL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -147,7 +147,7 @@
 </w.rf>
 <form>FALL</form>
 <tag>
-<AM lemma="FALL_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FALL_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FALL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -165,7 +165,7 @@
 <LM>w#w-ln95048-158-p2s1Bw11</LM>
 </w.rf>
 <form>Urik</form>
-<tag lemma="Urik_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urik_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-158-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-ln95048-158-p2s1Bw23</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-158-p2s1Bw24">
 <src.rf>manual</src.rf>

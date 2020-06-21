@@ -27,7 +27,7 @@
 <LM>w#w-ln95042-069-p1s1w2</LM>
 </w.rf>
 <form>Kalvoda</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-069-p1s1w3">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-ln95042-069-p1s1w5</LM>
 </w.rf>
 <form>Mašek</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-069-p1s1w6">
 <src.rf>manual</src.rf>
@@ -84,7 +84,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

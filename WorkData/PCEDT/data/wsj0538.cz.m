@@ -19,8 +19,8 @@
 <tag>
 <AM lemma="Stuart_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stuart_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Stuart_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stuart-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stuart_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Stuart-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0538-001-p1s0W2-Ta">
@@ -30,11 +30,11 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="E-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="auto">Q3-------------</AM>
+<AM lemma="E-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="e-1" src="auto">II-------------</AM>
 <AM lemma="e-2_^(e-mail)" src="auto">A2--------A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="E-33" src="auto">Q3-------------</AM>
 <AM lemma="e-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -52,7 +52,7 @@
 <LM>w#w-wsj0538-001-p1s0W4</LM>
 </w.rf>
 <form>Eizenstat</form>
-<tag lemma="Eizenstat_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Eizenstat_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0538-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -143,7 +143,7 @@
 </w.rf>
 <form>Powell</form>
 <tag>
-<AM lemma="Powell-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Powell-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Powell-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Powell-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Powell-77" src="manual" selected="1">F%-------------</AM>
@@ -164,7 +164,7 @@
 </w.rf>
 <form>Goldstein</form>
 <tag>
-<AM lemma="Goldstein_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goldstein_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Goldstein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -185,7 +185,7 @@
 <tag>
 <AM lemma="Frazer_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Frazer_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Frazer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Frazer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Frazer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -204,9 +204,9 @@
 </w.rf>
 <form>Murphy</form>
 <tag>
-<AM lemma="Murphy_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Murphy_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Murphy_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Murphy_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Murphy_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Murphy_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Murphy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

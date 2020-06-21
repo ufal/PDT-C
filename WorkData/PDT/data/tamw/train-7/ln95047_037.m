@@ -120,7 +120,7 @@
 <LM>w#w-ln95047-037-p1s1Bw4</LM>
 </w.rf>
 <form>Hudce</form>
-<tag lemma="Hudec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hudec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-037-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -363,8 +363,8 @@
 </w.rf>
 <form>Greenpeace</form>
 <tag>
-<AM lemma="Greenpeace_;K_;z_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Greenpeace_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Greenpeace_;m_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Greenpeace_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-037-p2s1w28">
@@ -1093,7 +1093,7 @@
 <LM>w#w-ln95047-037-p4s2w10</LM>
 </w.rf>
 <form>Velka</form>
-<tag lemma="Velek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Velek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-037-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1706,8 +1706,8 @@
 </w.rf>
 <form>Greenpeace</form>
 <tag>
-<AM lemma="Greenpeace_;K_;z_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Greenpeace_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Greenpeace_;m_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Greenpeace_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-037-p5s2w18">
@@ -1987,7 +1987,7 @@
 <LM>w#w-ln95047-037-p6s1w6</LM>
 </w.rf>
 <form>Fendrycha</form>
-<tag lemma="Fendrych_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fendrych_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-037-p6s1w7">
 <src.rf>manual</src.rf>

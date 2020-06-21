@@ -28,7 +28,7 @@
 </w.rf>
 <form>KAN</form>
 <tag>
-<AM lemma="KAN_:B_;K_;p_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KAN_:B_;m_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -92,8 +92,8 @@
 </w.rf>
 <form>jap</form>
 <tag>
-<AM lemma="jap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jap-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jap-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jap-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-032-p1s2w4">
@@ -267,7 +267,7 @@
 </w.rf>
 <form>KAN</form>
 <tag>
-<AM lemma="KAN_:B_;K_;p_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KAN_:B_;m_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -311,7 +311,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-032-p1s4w11">
@@ -328,7 +328,7 @@
 <LM>w#w-lnd94103-032-p1s4w12</LM>
 </w.rf>
 <form>Dejmek</form>
-<tag lemma="Dejmek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dejmek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-032-p1s4w13">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 </w.rf>
 <form>KAN</form>
 <tag>
-<AM lemma="KAN_:B_;K_;p_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KAN_:B_;m_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -519,7 +519,7 @@
 <LM>w#w-lnd94103-032-p1s6w2</LM>
 </w.rf>
 <form>Dejmek</form>
-<tag lemma="Dejmek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dejmek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-032-p1s6w3">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 </w.rf>
 <form>KAN</form>
 <tag>
-<AM lemma="KAN_:B_;K_;p_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KAN_:B_;m_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

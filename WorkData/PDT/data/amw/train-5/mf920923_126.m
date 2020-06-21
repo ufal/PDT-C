@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-126-p1s1w1</LM>
 </w.rf>
 <form>Stalinova</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920923-126-p1s1w2">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 <LM>w#w-mf920923-126-p4s2w2</LM>
 </w.rf>
 <form>Stalinová</form>
-<tag lemma="Stalinová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Stalinová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-126-p4s2w3">
 <src.rf>manual</src.rf>
@@ -177,7 +177,7 @@
 <LM>w#w-mf920923-126-p4s2w11</LM>
 </w.rf>
 <form>Stalina</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-126-p4s2w12">
 <src.rf>manual</src.rf>

@@ -136,10 +136,10 @@
 </w.rf>
 <form>Beriši</form>
 <tag>
-<AM lemma="Beriša_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Beriša_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="Beriša_;S" src="auto" recommended="1">NNMP7-----A---1</AM>
-<AM lemma="Beriša_;S" src="auto" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Beriša_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Beriša_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="Beriša_;Y" src="auto" recommended="1">NNMP7-----A---1</AM>
+<AM lemma="Beriša_;Y" src="auto" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw10">
@@ -301,7 +301,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -644,7 +644,7 @@
 </w.rf>
 <form>der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -654,7 +654,7 @@
 <LM>w#w-ln94200-116-p2s3w4</LM>
 </w.rf>
 <form>Stoel</form>
-<tag lemma="Stoel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s3w5">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 <LM>w#w-ln94200-116-p2s3w19</LM>
 </w.rf>
 <form>Papuliasem</form>
-<tag lemma="Papulias_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Papulias_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s3w20">
 <src.rf>manual</src.rf>

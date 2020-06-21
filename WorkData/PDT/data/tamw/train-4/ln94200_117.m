@@ -468,7 +468,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-117-p2s2w17">
@@ -485,7 +485,7 @@
 <LM>w#w-ln94200-117-p2s2w18</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-117-p2s2w19">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln94200-117-p2s5w1</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-117-p2s5w2">
 <src.rf>manual</src.rf>

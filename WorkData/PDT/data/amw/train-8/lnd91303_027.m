@@ -1387,16 +1387,16 @@
 <form>p</form>
 <tag>
 <AM lemma="p-8_:B_^(ost._zkratka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="p-33" src="auto">Q3-------------</AM>
 <AM lemma="p-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
 <AM lemma="p-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="p-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-027-p3s7Aw31">
@@ -2370,7 +2370,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-027-p4s3w11">
@@ -2387,7 +2387,7 @@
 <LM>w#w-lnd91303-027-p4s3w12</LM>
 </w.rf>
 <form>Zapletalem</form>
-<tag lemma="Zapletal_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zapletal_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-027-p4s3w13">
 <src.rf>manual</src.rf>
@@ -2533,7 +2533,7 @@
 <LM>w#w-lnd91303-027-p5s1w2</LM>
 </w.rf>
 <form>KRASNICKÝ</form>
-<tag lemma="Krasnický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krasnický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

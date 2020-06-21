@@ -160,12 +160,12 @@
 </w.rf>
 <form>jak</form>
 <tag>
-<AM lemma="jak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
+<AM lemma="jak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jak-1_;U_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-146-p2s1Bw4">
@@ -553,7 +553,7 @@
 <LM>w#w-ln94210-146-p2s1Cw45</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-146-p2s1Cw46">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-ln94210-146-p4s1w2</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-146-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1424,7 +1424,7 @@
 <LM>w#w-ln94210-146-p4s2w12</LM>
 </w.rf>
 <form>FACE</form>
-<tag lemma="FACE_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="FACE_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94210-146-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2318,7 +2318,7 @@
 <LM>w#w-ln94210-146-p6s1w4</LM>
 </w.rf>
 <form>Luxe</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-146-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2906,7 +2906,7 @@
 <LM>w#w-ln94210-146-p7s3w26</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-146-p7s3w27">
 <src.rf>manual</src.rf>
@@ -3581,7 +3581,7 @@
 <LM>w#w-ln94210-146-p8s1w7</LM>
 </w.rf>
 <form>Luxe</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-146-p8s1w8">
 <src.rf>manual</src.rf>

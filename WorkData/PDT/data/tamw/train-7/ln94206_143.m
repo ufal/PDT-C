@@ -153,7 +153,7 @@
 <LM>w#w-ln94206-143-p2s2Bw2</LM>
 </w.rf>
 <form>Rybáková</form>
-<tag lemma="Rybáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rybáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-143-p2s2C">
@@ -1104,7 +1104,7 @@
 <LM>w#w-ln94206-143-p4s2w13</LM>
 </w.rf>
 <form>Brožka</form>
-<tag lemma="Brožek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brožek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-143-p4s2w14">
 <src.rf>manual</src.rf>
@@ -2122,7 +2122,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3439,7 +3439,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-143-p9s8w9">
@@ -3456,7 +3456,7 @@
 <LM>w#w-ln94206-143-p9s8w10</LM>
 </w.rf>
 <form>Brožka</form>
-<tag lemma="Brožek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brožek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-143-p9s8w11">
 <src.rf>manual</src.rf>

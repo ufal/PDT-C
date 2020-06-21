@@ -19,7 +19,7 @@
 <LM>w#w-ln95042-042-p1s1w1</LM>
 </w.rf>
 <form>Grafová</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-042-p1s1w2">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-ln95042-042-p1s1w5</LM>
 </w.rf>
 <form>Higinsové</form>
-<tag lemma="Higinsová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Higinsová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-042-p2s1A">
@@ -213,7 +213,7 @@
 <LM>w#w-ln95042-042-p2s1Cw12</LM>
 </w.rf>
 <form>Grafová</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-042-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -270,11 +270,11 @@
 </w.rf>
 <form>Paris</form>
 <tag>
-<AM lemma="Paris_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Paris-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paris-2_;G" src="auto">NNFSX-----A----</AM>
-<AM lemma="Paris-3_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Paris_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Paris-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-2_;G" src="auto">NNFXX-----A----</AM>
+<AM lemma="Paris-3_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Paris_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Paris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -336,7 +336,7 @@
 <LM>w#w-ln95042-042-p2s1Cw26</LM>
 </w.rf>
 <form>Hingisovou</form>
-<tag lemma="Hingisová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Hingisová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95042-042-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-ln95042-042-p3s1w16</LM>
 </w.rf>
 <form>Halardovou</form>
-<tag lemma="Halardová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Halardová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95042-042-p3s1w17">
 <src.rf>manual</src.rf>
@@ -579,9 +579,9 @@
 </w.rf>
 <form>WTA</form>
 <tag>
-<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WTA-1_:B_;m_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WTA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="WTA-1_:B_;K_^(Women's_Tennis_Association)" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="WTA-1_:B_;m_^(Women's_Tennis_Association)" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95042-042-p3s1w23">
@@ -632,7 +632,7 @@
 <LM>w#w-ln95042-042-p3s2w4</LM>
 </w.rf>
 <form>Grafové</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-042-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-ln95042-042-p3s5w19</LM>
 </w.rf>
 <form>Grafová</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-042-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 <LM>w#w-ln95042-042-p4s1w5</LM>
 </w.rf>
 <form>Grafovou</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95042-042-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1482,7 +1482,7 @@
 <LM>w#w-ln95042-042-p4s1w21</LM>
 </w.rf>
 <form>Hingisová</form>
-<tag lemma="Hingisová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hingisová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-042-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1822,7 +1822,7 @@
 <LM>w#w-ln95042-042-p4s3w13</LM>
 </w.rf>
 <form>Hingisová</form>
-<tag lemma="Hingisová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hingisová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-042-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1927,8 +1927,8 @@
 </w.rf>
 <form>Nokia</form>
 <tag>
-<AM lemma="Nokia_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Nokia_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Nokia_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nokia_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Nokia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1939,7 +1939,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

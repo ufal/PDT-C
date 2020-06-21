@@ -37,7 +37,7 @@
 <LM>w#w-ln95045-089-p2s1w2</LM>
 </w.rf>
 <form>Husova</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95045-089-p2s1w3">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln95045-089-p2s3w5</LM>
 </w.rf>
 <form>Lobkowicze</form>
-<tag lemma="Lobkowicz_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lobkowicz_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-089-p2s3w6">
 <src.rf>manual</src.rf>

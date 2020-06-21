@@ -188,7 +188,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -239,7 +239,7 @@
 </w.rf>
 <form>SL</form>
 <tag>
-<AM lemma="SL_:B_;K_^(Sněmovna_lidu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SL_:B_;m_^(Sněmovna_lidu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SL_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto">NNFXX-----A---8</AM>
@@ -262,9 +262,9 @@
 </w.rf>
 <form>SN</form>
 <tag>
-<AM lemma="SN_:B_;K_^(Sněmovna_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Sn-2_:B_;H_^(chem._prvek_cín)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="sn-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="SN_:B_;m_^(Sněmovna_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sn-2_:B_;U_^(chem._prvek_cín)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="sn-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="SN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -387,7 +387,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -422,8 +422,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-114-p2s3w10">
@@ -441,7 +441,7 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -524,7 +524,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -559,8 +559,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-114-p2s3w26">
@@ -594,7 +594,7 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -720,8 +720,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-114-p2s3w45">
@@ -739,7 +739,7 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

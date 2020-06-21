@@ -265,7 +265,7 @@
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Dobra_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dobra_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-011-p4s1w14">
@@ -416,7 +416,7 @@
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Dobra_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dobra_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-011-p4s3w4">
@@ -597,7 +597,7 @@
 <LM>w#w-cmpr9417-011-p6s1w2</LM>
 </w.rf>
 <form>Zajkr</form>
-<tag lemma="Zajkr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zajkr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-011-p8s1">
@@ -1268,9 +1268,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-011-p10s2w6">
@@ -1429,7 +1429,7 @@
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Dobra_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dobra_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-011-p10s4w3">
@@ -1726,7 +1726,7 @@
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Dobra_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dobra_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-011-p12s1w5">
@@ -3613,7 +3613,7 @@
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Dobra_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dobra_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-011-p17s1w10">
@@ -3883,7 +3883,7 @@
 </w.rf>
 <form>Dobra</form>
 <tag>
-<AM lemma="Dobra_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dobra_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP5-----A----</AM>
@@ -6357,7 +6357,7 @@
 </w.rf>
 <form>Dobra</form>
 <tag>
-<AM lemma="Dobra_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dobra_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP5-----A----</AM>

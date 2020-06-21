@@ -99,7 +99,7 @@
 <LM>w#w-ln94210-69-p2s1w9</LM>
 </w.rf>
 <form>Přikryl</form>
-<tag lemma="Přikryl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přikryl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-69-p2s1w10">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-69-p2s3w7">
@@ -267,7 +267,7 @@
 <LM>w#w-ln94210-69-p2s3w8</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-69-p2s3w9">
 <src.rf>manual</src.rf>

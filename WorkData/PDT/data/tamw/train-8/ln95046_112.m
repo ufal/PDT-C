@@ -321,7 +321,7 @@
 <LM>w#w-ln95046-112-p2s2w8</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-112-p2s2w9">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln95046-112-p2s2w14</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-112-p2s2w15">
 <src.rf>manual</src.rf>
@@ -895,7 +895,7 @@
 <LM>w#w-ln95046-112-p4s1w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-112-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-ln95046-112-p4s2w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-112-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1155,8 +1155,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-112-p4s2w9">
@@ -1679,7 +1679,7 @@
 <LM>w#w-ln95046-112-p5s2w12</LM>
 </w.rf>
 <form>Weizsäckera</form>
-<tag lemma="Weizsäcker_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Weizsäcker_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-112-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1809,7 +1809,7 @@
 <LM>w#w-ln95046-112-p5s3w3</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-112-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2318,7 +2318,7 @@
 <LM>w#w-ln95046-112-p5s6w10</LM>
 </w.rf>
 <form>Weizmanna</form>
-<tag lemma="Weizmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Weizmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-112-p5s6w11">
 <src.rf>manual</src.rf>

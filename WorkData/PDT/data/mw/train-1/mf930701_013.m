@@ -125,7 +125,7 @@
 <LM>w#w-mf930701-013-p2s1w6</LM>
 </w.rf>
 <form>Borovec</form>
-<tag lemma="Borovec-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borovec-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-013-p2s1w7">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf930701-013-p2s3w2</LM>
 </w.rf>
 <form>Borovec</form>
-<tag lemma="Borovec-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borovec-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-013-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-mf930701-013-p2s14w2</LM>
 </w.rf>
 <form>Borovec</form>
-<tag lemma="Borovec-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borovec-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-013-p2s14w3">
 <src.rf>manual</src.rf>
@@ -2277,7 +2277,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-013-p3s5w15">
@@ -2824,7 +2824,7 @@
 <LM>w#w-mf930701-013-p3s9w12</LM>
 </w.rf>
 <form>Borovec</form>
-<tag lemma="Borovec-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borovec-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-013-p3s9w13">
 <src.rf>manual</src.rf>
@@ -3065,7 +3065,7 @@
 <LM>w#w-mf930701-013-p3s12w2</LM>
 </w.rf>
 <form>Langer</form>
-<tag lemma="Langer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Langer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-013-p3s12w3">
 <src.rf>manual</src.rf>
@@ -3712,7 +3712,7 @@
 <LM>w#w-mf930701-013-p3s18w1</LM>
 </w.rf>
 <form>Langer</form>
-<tag lemma="Langer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Langer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-013-p3s18w2">
 <src.rf>manual</src.rf>
@@ -3820,7 +3820,7 @@
 <LM>w#w-mf930701-013-p3s20w4</LM>
 </w.rf>
 <form>Ostřížka</form>
-<tag lemma="Ostřížek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ostřížek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-013-p3s20w5">
 <src.rf>manual</src.rf>
@@ -4112,7 +4112,7 @@
 <LM>w#w-mf930701-013-p3s23w2</LM>
 </w.rf>
 <form>Borovce</form>
-<tag lemma="Borovec-1_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Borovec-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-013-p3s23w3">
 <src.rf>manual</src.rf>

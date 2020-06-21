@@ -78,8 +78,8 @@
 </w.rf>
 <form>jop</form>
 <tag>
-<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-017-p2s1Aw4">
@@ -138,7 +138,7 @@
 <LM>w#w-ln95049-017-p2s1Bw5</LM>
 </w.rf>
 <form>Suchánek</form>
-<tag lemma="Suchánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suchánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-017-p2s1Bw6">
 <src.rf>manual</src.rf>

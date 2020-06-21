@@ -550,7 +550,7 @@
 <LM>w#w-lnd91301-039-p3s3w5</LM>
 </w.rf>
 <form>Mraček</form>
-<tag lemma="Mraček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mraček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-039-p3s3w6">
 <src.rf>manual</src.rf>

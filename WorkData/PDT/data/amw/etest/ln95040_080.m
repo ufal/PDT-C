@@ -916,7 +916,7 @@
 <LM>w#w-ln95040-080-p3s1w12</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-080-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1089,9 +1089,9 @@
 </w.rf>
 <form>VW</form>
 <tag>
-<AM lemma="VW-1_:B_;R_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
-<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VW-1_:B_;m_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
+<AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-080-p3s2w7">
@@ -1240,7 +1240,7 @@
 <LM>w#w-ln95040-080-p4s1w11</LM>
 </w.rf>
 <form>Fiat</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-080-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-ln95040-080-p4s1w18</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-080-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1392,12 +1392,12 @@
 </w.rf>
 <form>Renaultu</form>
 <tag>
-<AM lemma="Renault-1_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Renault-1_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Renault_;m" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="Renault_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Renault_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-080-p4s2w11">
@@ -1425,7 +1425,7 @@
 </w.rf>
 <form>GM</form>
 <tag>
-<AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
+<AM lemma="GM_:B_;m" src="auto">NNFXX-----A----</AM>
 <AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1625,7 +1625,7 @@
 <LM>w#w-ln95040-080-p5s1w6</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-080-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1768,7 +1768,7 @@
 <LM>w#w-ln95040-080-p5s2w2</LM>
 </w.rf>
 <form>Mercedesu</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-080-p5s2w3">
 <src.rf>manual</src.rf>

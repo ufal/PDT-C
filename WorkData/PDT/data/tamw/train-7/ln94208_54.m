@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-54-p1s1w1</LM>
 </w.rf>
 <form>Grebeníček</form>
-<tag lemma="Grebeníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grebeníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-54-p1s1w2">
 <src.rf>manual</src.rf>
@@ -68,8 +68,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -136,8 +136,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-54-p2s1Cw3">
@@ -326,8 +326,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-54-p2s1Cw26">
@@ -414,8 +414,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-54-p2s2w4">
@@ -432,7 +432,7 @@
 <LM>w#w-ln94208-54-p2s2w5</LM>
 </w.rf>
 <form>Grebeníček</form>
-<tag lemma="Grebeníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grebeníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-54-p2s2w6">
 <src.rf>manual</src.rf>
@@ -558,8 +558,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-54-p2s3w6">
@@ -602,7 +602,7 @@
 <LM>w#w-ln94208-54-p2s4w1</LM>
 </w.rf>
 <form>Grebeníček</form>
-<tag lemma="Grebeníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grebeníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-54-p2s4w2">
 <src.rf>manual</src.rf>

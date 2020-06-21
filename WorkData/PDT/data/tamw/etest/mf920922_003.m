@@ -126,8 +126,8 @@
 </w.rf>
 <form>lík</form>
 <tag>
-<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lík-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lík-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-003-p2s1w4">
@@ -186,7 +186,7 @@
 <LM>w#w-mf920922-003-p2s2w5</LM>
 </w.rf>
 <form>Jiráskově</form>
-<tag lemma="Jiráskův_;S_^(*3ek)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Jiráskův_;Y_^(*3ek)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-mf920922-003-p2s2w6">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 </w.rf>
 <form>Arms</form>
 <tag>
-<AM lemma="Arm_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Arm_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Arms-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -815,9 +815,9 @@
 </w.rf>
 <form>Moravia</form>
 <tag>
-<AM lemma="Moravia-1_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Moravia-1_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Moravia-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Moravia-1_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Moravia-1_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Moravia-2_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-003-p2s5w27">
@@ -909,8 +909,8 @@
 </w.rf>
 <form>Remington</form>
 <tag>
-<AM lemma="Remington_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Remington_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Remington_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Remington_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-003-p3s1w10">
@@ -937,7 +937,7 @@
 <form>Kentucky</form>
 <tag>
 <AM lemma="Kentucky_;G" src="auto">NNXXX-----A----</AM>
-<AM lemma="Kentucky_;G_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kentucky_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-003-p3s1w13">
@@ -955,8 +955,8 @@
 </w.rf>
 <form>Hawken</form>
 <tag>
-<AM lemma="Hawken_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hawken-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hawken_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hawken-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-003-p3s1w15">
@@ -1774,7 +1774,7 @@
 <LM>w#w-mf920922-003-p5s1w2</LM>
 </w.rf>
 <form>Götlicher</form>
-<tag lemma="Götlicher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Götlicher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-003-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2164,7 +2164,7 @@
 <LM>w#w-mf920922-003-p5s4w4</LM>
 </w.rf>
 <form>Jiráskově</form>
-<tag lemma="Jiráskův_;S_^(*3ek)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Jiráskův_;Y_^(*3ek)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-mf920922-003-p5s4w5">
 <src.rf>manual</src.rf>

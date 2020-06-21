@@ -200,7 +200,7 @@
 <LM>w#w-ln95041-099-p2s1Aw18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95041-099-p2s1Aw19">
 <src.rf>manual</src.rf>
@@ -5734,10 +5734,10 @@
 <form>Generaly</form>
 <tag>
 <AM lemma="generaly_,t" src="orig">Db-------------</AM>
-<AM lemma="General_;K_,t" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIP4-----A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIP5-----A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIP7-----A----</AM>
+<AM lemma="General_;m_,t" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIP4-----A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIP5-----A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIP7-----A----</AM>
 <AM lemma="Generaly-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5770,7 +5770,7 @@
 </w.rf>
 <form>Principles</form>
 <tag>
-<AM lemma="principle_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="principle_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="principles_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Principles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -5840,7 +5840,7 @@
 </w.rf>
 <form>Standards</form>
 <tag>
-<AM lemma="standard_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="standard_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="standards_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Standards-77" src="manual" selected="1">F%-------------</AM>
 </tag>

@@ -165,7 +165,7 @@
 <LM>w#w-mf930703-064-p2s1w17</LM>
 </w.rf>
 <form>FEBIO</form>
-<tag lemma="Febio_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Febio_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930703-064-p2s1w18">
 <src.rf>manual</src.rf>
@@ -206,8 +206,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p2s1w23">
@@ -521,8 +521,8 @@
 </w.rf>
 <form>Gute</form>
 <tag>
-<AM lemma="gute_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Gut_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="gute_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Gut_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="Gute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -705,8 +705,8 @@
 </w.rf>
 <form>spa</form>
 <tag>
-<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="spa-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="spa-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p3s1w3">
@@ -726,7 +726,7 @@
 </w.rf>
 <form>Trip</form>
 <tag>
-<AM lemma="Trip_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Trip_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="trip" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trip" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -756,7 +756,7 @@
 <LM>w#w-mf930703-064-p4s1w4</LM>
 </w.rf>
 <form>Vega</form>
-<tag lemma="Vega-1_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vega-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-064-p4s1w5">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-mf930703-064-p4s1w16</LM>
 </w.rf>
 <form>Vega</form>
-<tag lemma="Vega-1_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vega-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-064-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 </w.rf>
 <form>Trip</form>
 <tag>
-<AM lemma="Trip_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Trip_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="trip" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trip" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1153,8 +1153,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p4s3w13">
@@ -1329,9 +1329,9 @@
 </w.rf>
 <form>raf</form>
 <tag>
-<AM lemma="raf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="raf-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="rafnout" src="auto" recommended="1">VpYS----R-AAP-6</AM>
-<AM lemma="raf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="raf-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p5s1w3">

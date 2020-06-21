@@ -62,8 +62,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-118-p1s2w4">
@@ -107,12 +107,12 @@
 </w.rf>
 <form>Radegast</form>
 <tag>
-<AM lemma="Radegast_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Radegast-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radegast-2_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Radegast-2_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Radegast-3_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Radegast-3_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Radegast_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Radegast-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Radegast-2_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Radegast-2_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Radegast-3_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Radegast-3_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="radegast" src="auto">NNIS1-----A----</AM>
 <AM lemma="radegast" src="auto">NNIS4-----A----</AM>
 </tag>

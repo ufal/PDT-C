@@ -20,7 +20,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -399,7 +399,7 @@
 <LM>w#w-ln94211-24-p2s3w1</LM>
 </w.rf>
 <form>Mečiarovo</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94211-24-p2s3w2">
 <src.rf>manual</src.rf>
@@ -408,7 +408,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -723,7 +723,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -814,8 +814,8 @@
 </w.rf>
 <form>Lúč</form>
 <tag>
-<AM lemma="Lúč_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lúč_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lúč_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lúč_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-24-p2s4w30">
@@ -833,7 +833,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -851,7 +851,7 @@
 <LM>w#w-ln94211-24-p2s4w33</LM>
 </w.rf>
 <form>Kozlík</form>
-<tag lemma="Kozlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-24-p2s4w34">
 <src.rf>manual</src.rf>

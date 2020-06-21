@@ -93,7 +93,7 @@
 <LM>w#w-lnd92253-004-p2s1w4</LM>
 </w.rf>
 <form>Klakem</form>
-<tag lemma="Klak_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klak_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-004-p3s1">

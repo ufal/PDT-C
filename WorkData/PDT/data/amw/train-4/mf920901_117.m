@@ -171,7 +171,7 @@
 <LM>w#w-mf920901-117-p4s2w7</LM>
 </w.rf>
 <form>Nabijeva</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-117-p4s2w8">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-mf920901-117-p4s3w10</LM>
 </w.rf>
 <form>Nabijevova</form>
-<tag lemma="Nabijevův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Nabijevův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf920901-117-p4s3w11">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf920901-117-p5s1w8</LM>
 </w.rf>
 <form>Kurgan</form>
-<tag lemma="Kurgan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kurgan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-117-p5s1w9">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-mf920901-117-p5s3w6</LM>
 </w.rf>
 <form>granátomety</form>
-<tag lemma="granátomet_;R" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="granátomet_;m" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920901-117-p5s3w7">
 <src.rf>manual</src.rf>

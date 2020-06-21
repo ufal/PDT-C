@@ -396,8 +396,8 @@
 </w.rf>
 <form>Šamil</form>
 <tag>
-<AM lemma="Šamil_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šamil_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šamil_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Šamil_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-086-p2s2w8">
@@ -406,7 +406,7 @@
 <LM>w#w-ln95040-086-p2s2w8</LM>
 </w.rf>
 <form>Basajev</form>
-<tag lemma="Basajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-086-p2s2w9">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-ln95040-086-p3s1w1</LM>
 </w.rf>
 <form>Basajev</form>
-<tag lemma="Basajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-086-p3s1w2">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-ln95040-086-p3s2w10</LM>
 </w.rf>
 <form>Basajeva</form>
-<tag lemma="Basajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Basajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-086-p3s2w11">
 <src.rf>manual</src.rf>

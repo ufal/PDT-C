@@ -226,7 +226,7 @@
 <LM>w#w-cmpr9416-020-p4s1w11</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9416-020-p4s1w12">
 <src.rf>manual</src.rf>
@@ -8056,7 +8056,7 @@
 <LM>w#w-cmpr9416-020-p33s1w2</LM>
 </w.rf>
 <form>Kroupa</form>
-<tag lemma="Kroupa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kroupa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p33s1w3">
 <src.rf>manual</src.rf>

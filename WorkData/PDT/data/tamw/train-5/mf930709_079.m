@@ -38,7 +38,7 @@
 <tag>
 <AM lemma="K-5_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Karlův_;Y_^(*3el)" src="manual">AAXXX----1A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-079-p1s1w4">
@@ -90,8 +90,8 @@
 </w.rf>
 <form>šm</form>
 <tag>
-<AM lemma="šm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šm-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šm-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šm-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-079-p2s1Aw5">
@@ -471,8 +471,8 @@
 </w.rf>
 <form>Man</form>
 <tag>
-<AM lemma="Man-3_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Man-3_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Man-3_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Man-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-079-p2s3w6">
@@ -497,7 +497,7 @@
 <LM>w#w-mf930709-079-p2s3w8</LM>
 </w.rf>
 <form>Šarinou</form>
-<tag lemma="Šarina_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Šarina_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930709-079-p2s3w9">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-mf930709-079-p2s3w16</LM>
 </w.rf>
 <form>Smolík</form>
-<tag lemma="Smolík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smolík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-079-p2s3w17">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-mf930709-079-p2s3w24</LM>
 </w.rf>
 <form>Fiala</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-079-p2s3w25">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-079-p3s1w5">

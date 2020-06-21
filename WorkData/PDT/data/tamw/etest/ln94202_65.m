@@ -749,8 +749,8 @@
 </w.rf>
 <form>Vytautasem</form>
 <tag>
-<AM lemma="Vytautas_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Vytautas_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Vytautas_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Vytautas_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-65-p2s4w11">
@@ -759,7 +759,7 @@
 <LM>w#w-ln94202-65-p2s4w11</LM>
 </w.rf>
 <form>Landsbergisem</form>
-<tag lemma="Landsbergis_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Landsbergis_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-65-p2s4w12">
 <src.rf>manual</src.rf>

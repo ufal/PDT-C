@@ -261,7 +261,7 @@
 <LM>w#w-ln95041-121-p3s2w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95041-121-p3s2w3">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <LM>w#w-ln95041-121-p3s2w7</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95041-121-p3s2w8">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95041-121-p4s1w12</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95041-121-p4s1w13">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-ln95041-121-p4s2w13</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95041-121-p4s2w14">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-ln95041-121-p4s4w11</LM>
 </w.rf>
 <form>Kalvody</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-121-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-ln95041-121-p5s1w5</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95041-121-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1153,7 +1153,7 @@
 <LM>w#w-ln95041-121-p5s1w8</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95041-121-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-ln95041-121-p5s1w20</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95041-121-p5s1w21">
 <src.rf>manual</src.rf>

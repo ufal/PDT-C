@@ -27,7 +27,7 @@
 <LM>w#w-ln94207-7-p1s1w2</LM>
 </w.rf>
 <form>Ježek</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-7-p1s1w3">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-ln94207-7-p2s1Aw3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mrk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-7-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-ln94207-7-p2s1Bw19</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-7-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -454,7 +454,7 @@
 <LM>w#w-ln94207-7-p2s2w2</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-7-p2s2w3">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-ln94207-7-p2s4w18</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-7-p2s4w19">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-ln94207-7-p2s5w17</LM>
 </w.rf>
 <form>Ježkových</form>
-<tag lemma="Ježkův_;S_^(*3ek)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Ježkův_;Y_^(*3ek)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln94207-7-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1320,7 +1320,7 @@
 <LM>w#w-ln94207-7-p3s1w3</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-7-p3s1w4">
 <src.rf>manual</src.rf>

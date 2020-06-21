@@ -692,7 +692,7 @@
 </w.rf>
 <form>IBC</form>
 <tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IBC_:B_;m_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -711,8 +711,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -799,8 +799,8 @@
 </w.rf>
 <form>UNISTAV</form>
 <tag>
-<AM lemma="Unistav_;S" src="orig">NNIS1-----A----</AM>
-<AM lemma="Unistav_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unistav_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Unistav_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p2s4w21">
@@ -828,7 +828,7 @@
 </w.rf>
 <form>IBC</form>
 <tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IBC_:B_;m_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1145,8 +1145,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p3s1Aw7">
@@ -1164,8 +1164,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p3s1Aw9">
@@ -1183,8 +1183,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p3s1Aw11">
@@ -1212,8 +1212,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p3s1Bw3">
@@ -1353,8 +1353,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p3s2w4">
@@ -1436,8 +1436,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p3s2w14">
@@ -1505,8 +1505,8 @@
 </w.rf>
 <form>UNISTAV</form>
 <tag>
-<AM lemma="Unistav_;S" src="orig">NNIS1-----A----</AM>
-<AM lemma="Unistav_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unistav_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Unistav_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p4s1w4">
@@ -2446,7 +2446,7 @@
 </w.rf>
 <form>IBC</form>
 <tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IBC_:B_;m_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2749,8 +2749,8 @@
 </w.rf>
 <form>UNISTAV</form>
 <tag>
-<AM lemma="Unistav_;S" src="orig">NNIS1-----A----</AM>
-<AM lemma="Unistav_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unistav_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Unistav_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p6s1w4">
@@ -2972,8 +2972,8 @@
 </w.rf>
 <form>UNISTAV</form>
 <tag>
-<AM lemma="Unistav_;S" src="orig">NNIS1-----A----</AM>
-<AM lemma="Unistav_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unistav_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Unistav_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p6s3w2">
@@ -3015,7 +3015,7 @@
 </w.rf>
 <form>IBC</form>
 <tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IBC_:B_;m_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3124,8 +3124,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p6s4w5">
@@ -3331,8 +3331,8 @@
 </w.rf>
 <form>UNISTAV</form>
 <tag>
-<AM lemma="Unistav_;S" src="orig">NNIS1-----A----</AM>
-<AM lemma="Unistav_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unistav_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Unistav_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p7s1w7">
@@ -4617,8 +4617,8 @@
 </w.rf>
 <form>UNISTAV</form>
 <tag>
-<AM lemma="Unistav_;S" src="orig">NNIS1-----A----</AM>
-<AM lemma="Unistav_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Unistav_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Unistav_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-124-p9s1w5">
@@ -4676,7 +4676,7 @@
 </w.rf>
 <form>IBC</form>
 <tag>
-<AM lemma="IBC_:B_;K_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IBC_:B_;m_^(International_Business_Center)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

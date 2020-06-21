@@ -19,7 +19,7 @@
 <LM>w#w-mf930709-065-p1s1w1</LM>
 </w.rf>
 <form>Wallise</form>
-<tag lemma="Wallis_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-065-p1s1w2">
 <src.rf>manual</src.rf>
@@ -78,8 +78,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-065-p2s1Aw4">
@@ -242,7 +242,7 @@
 <LM>w#w-mf930709-065-p2s1Bw18</LM>
 </w.rf>
 <form>Wallise</form>
-<tag lemma="Wallis_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-065-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-mf930709-065-p2s3w1</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-065-p2s3w2">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-mf930709-065-p2s4w13</LM>
 </w.rf>
 <form>Koženému</form>
-<tag lemma="Kožený_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kožený_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930709-065-p2s4w14">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-mf930709-065-p2s5w16</LM>
 </w.rf>
 <form>Kožený</form>
-<tag lemma="Kožený_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kožený_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-065-p2s5w17">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-mf930709-065-p2s5w22</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-065-p2s5w23">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-mf930709-065-p2s6w1</LM>
 </w.rf>
 <form>Kožený</form>
-<tag lemma="Kožený_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kožený_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-065-p2s6w2">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-mf930709-065-p2s6w14</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-065-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-mf930709-065-p2s7w2</LM>
 </w.rf>
 <form>Wallisovi</form>
-<tag lemma="Wallis_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Wallis_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930709-065-p2s7w3">
 <src.rf>manual</src.rf>

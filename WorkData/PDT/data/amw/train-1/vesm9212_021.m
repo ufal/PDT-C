@@ -45,7 +45,7 @@
 <LM>w#w-vesm9212-021-p2s1w2</LM>
 </w.rf>
 <form>KOMÁREK</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-021-p3s1">
@@ -71,7 +71,7 @@
 <LM>w#w-vesm9212-021-p3s1w3</LM>
 </w.rf>
 <form>Fryntovi</form>
-<tag lemma="Frynta_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Frynta_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-vesm9212-021-p3s1w4">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-vesm9212-021-p3s1w6</LM>
 </w.rf>
 <form>Kratochvílovi</form>
-<tag lemma="Kratochvíl_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kratochvíl_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-vesm9212-021-p3s1w7">
 <src.rf>manual</src.rf>
@@ -3831,7 +3831,7 @@
 </w.rf>
 <form>ovo</form>
 <tag>
-<AM lemma="ovo_,t" src="orig">NNNSX-----A----</AM>
+<AM lemma="ovo_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="ovo_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="ovo-77" src="manual" selected="1">F%-------------</AM>
 </tag>

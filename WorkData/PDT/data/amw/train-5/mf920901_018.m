@@ -103,7 +103,7 @@
 <LM>w#w-mf920901-018-p2s1w1</LM>
 </w.rf>
 <form>NATURASAN</form>
-<tag lemma="Naturasan_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Naturasan_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-018-p2s1w2">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NASA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="NASA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -195,8 +195,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-018-p2s1w13">

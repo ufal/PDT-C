@@ -94,7 +94,7 @@
 </w.rf>
 <form>UNESCO</form>
 <tag>
-<AM lemma="Unesco_:B_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Unesco_:B_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -322,7 +322,7 @@
 <LM>w#w-mf930708-048-p2s2w21</LM>
 </w.rf>
 <form>Optys</form>
-<tag lemma="Optys_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Optys_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-048-p2s2w22">
 <src.rf>manual</src.rf>

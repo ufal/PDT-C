@@ -353,7 +353,7 @@
 <LM>w#w-ln94204-5-p3s2w4</LM>
 </w.rf>
 <form>Kasla</form>
-<tag lemma="Kasl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kasl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-5-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-5-p4s2Aw3">
@@ -1068,7 +1068,7 @@
 <LM>w#w-ln94204-5-p4s2Aw4</LM>
 </w.rf>
 <form>Kasla</form>
-<tag lemma="Kasl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kasl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-5-p4s2Aw5">
 <src.rf>manual</src.rf>
@@ -1183,8 +1183,8 @@
 </w.rf>
 <form>av</form>
 <tag>
-<AM lemma="av-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="av-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="av-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="av-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-5-p4s2Bw3">

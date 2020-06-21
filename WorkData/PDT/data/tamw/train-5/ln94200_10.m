@@ -171,7 +171,7 @@
 <LM>w#w-ln94200-10-p2s4w2</LM>
 </w.rf>
 <form>Kosmas</form>
-<tag lemma="Kosmas_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kosmas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-10-p2s4w3">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94200-10-p3s2w15</LM>
 </w.rf>
 <form>Zástěra</form>
-<tag lemma="Zástěra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zástěra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-10-p3s2w16">
 <src.rf>manual</src.rf>
@@ -749,8 +749,8 @@
 </w.rf>
 <form>mk</form>
 <tag>
-<AM lemma="mk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-10-p3s3w3">
@@ -776,8 +776,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-10-p3s3w6">

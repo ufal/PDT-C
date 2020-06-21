@@ -77,7 +77,7 @@
 <LM>w#w-ln95045-050-p2s1Aw4</LM>
 </w.rf>
 <form>Jorn</form>
-<tag lemma="Jorn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jorn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln95045-050-p2s1Aw10</LM>
 </w.rf>
 <form>Kinských</form>
-<tag lemma="Kinský_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kinský_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95045-050-p2s1B">
@@ -231,7 +231,7 @@
 <LM>w#w-ln95045-050-p2s1Bw13</LM>
 </w.rf>
 <form>JORNA</form>
-<tag lemma="Jorn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jorn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-050-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln95045-050-p3s1w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95045-050-p3s1w4">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln95045-050-p3s1w13</LM>
 </w.rf>
 <form>Jornovy</form>
-<tag lemma="Jornův_;S_^(*2)" src="orig" selected="1">AUIP4M---------</tag>
+<tag lemma="Jornův_;Y_^(*2)" src="orig" selected="1">AUIP4M---------</tag>
 </m>
 <m id="m-ln95045-050-p3s1w14">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-ln95045-050-p3s3w2</LM>
 </w.rf>
 <form>Jorn</form>
-<tag lemma="Jorn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jorn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1198,7 +1198,7 @@
 <LM>w#w-ln95045-050-p3s5w1</LM>
 </w.rf>
 <form>Jornovo</form>
-<tag lemma="Jornův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Jornův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln95045-050-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln95045-050-p3s6w22</LM>
 </w.rf>
 <form>Klee</form>
-<tag lemma="Klee_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klee_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p3s6w23">
 <src.rf>manual</src.rf>
@@ -1600,9 +1600,9 @@
 </w.rf>
 <form>Kandinskij</form>
 <tag>
-<AM lemma="Kandinský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kandinskij_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Kandinskij_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Kandinský_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kandinskij_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kandinskij_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-050-p3s7w22">
@@ -1629,7 +1629,7 @@
 <LM>w#w-ln95045-050-p3s8w2</LM>
 </w.rf>
 <form>Jorn</form>
-<tag lemma="Jorn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jorn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p3s8w3">
 <src.rf>manual</src.rf>
@@ -2344,7 +2344,7 @@
 <LM>w#w-ln95045-050-p4s3w1</LM>
 </w.rf>
 <form>Jornův</form>
-<tag lemma="Jornův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Jornův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95045-050-p4s3w2">
 <src.rf>manual</src.rf>
@@ -2480,7 +2480,7 @@
 <LM>w#w-ln95045-050-p4s4w4</LM>
 </w.rf>
 <form>Jornovo</form>
-<tag lemma="Jornův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Jornův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95045-050-p4s4w5">
 <src.rf>manual</src.rf>
@@ -2864,7 +2864,7 @@
 <LM>w#w-ln95045-050-p4s6w17</LM>
 </w.rf>
 <form>Jornova</form>
-<tag lemma="Jornův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Jornův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95045-050-p4s6w18">
 <src.rf>manual</src.rf>
@@ -2906,7 +2906,7 @@
 <LM>w#w-ln95045-050-p4s7w2</LM>
 </w.rf>
 <form>Jorn</form>
-<tag lemma="Jorn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jorn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-050-p4s7w3">
 <src.rf>manual</src.rf>
@@ -2956,7 +2956,7 @@
 <LM>w#w-ln95045-050-p4s8w2</LM>
 </w.rf>
 <form>Kinských</form>
-<tag lemma="Kinský_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kinský_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95045-050-p4s8w3">
 <src.rf>manual</src.rf>

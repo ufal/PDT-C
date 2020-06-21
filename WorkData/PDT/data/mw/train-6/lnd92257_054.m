@@ -21,7 +21,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-054-p1s1w2">
@@ -40,7 +40,7 @@
 <LM>w#w-lnd92257-054-p1s2w1</LM>
 </w.rf>
 <form>ARCOS</form>
-<tag lemma="Arcos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arcos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-054-p1s2w2">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <LM>w#w-lnd92257-054-p3s2w25</LM>
 </w.rf>
 <form>Arcosem</form>
-<tag lemma="Arcos_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Arcos_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92257-054-p3s2w26">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-lnd92257-054-p3s4w4</LM>
 </w.rf>
 <form>Arcosovi</form>
-<tag lemma="Arcos_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Arcos_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92257-054-p3s4w5">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-lnd92257-054-p3s4w30</LM>
 </w.rf>
 <form>Arcosovi</form>
-<tag lemma="Arcos_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Arcos_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92257-054-p3s4w31">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-054-p3s6w3">
@@ -878,7 +878,7 @@
 <LM>w#w-lnd92257-054-p3s6w4</LM>
 </w.rf>
 <form>Arcose</form>
-<tag lemma="Arcos_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arcos_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-054-p3s6w5">
 <src.rf>manual</src.rf>

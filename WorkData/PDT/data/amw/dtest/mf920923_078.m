@@ -70,9 +70,9 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vin-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="vin-99_:B_;S" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="vin-99_:B_;Y" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-078-p2s1w4">
@@ -667,7 +667,7 @@
 <LM>w#w-mf920923-078-p2s5w19</LM>
 </w.rf>
 <form>Zavadil</form>
-<tag lemma="Zavadil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zavadil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-078-p2s5w20">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf920923-078-p2s6w16</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-078-p2s6w17">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 </w.rf>
 <form>neschopnost</form>
 <tag>
-<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS1-----A----</AM>
+<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFS1-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1094,7 +1094,7 @@
 <LM>w#w-mf920923-078-p2s7w19</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-078-p2s7w20">
 <src.rf>manual</src.rf>

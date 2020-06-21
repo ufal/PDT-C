@@ -306,7 +306,7 @@
 <LM>w#w-ln95045-063-p2s2w5</LM>
 </w.rf>
 <form>Etherington</form>
-<tag lemma="Etherington_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Etherington_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-063-p2s2w6">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln95045-063-p2s6w31</LM>
 </w.rf>
 <form>Etherington</form>
-<tag lemma="Etherington_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Etherington_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-063-p2s6w32">
 <src.rf>manual</src.rf>

@@ -86,7 +86,7 @@
 <LM>w#w-lnd92252-085-p1s1w9</LM>
 </w.rf>
 <form>BOBY</form>
-<tag lemma="Boby_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p1s1w10">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-lnd92252-085-p3s1w13</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p3s1w14">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-lnd92252-085-p3s2w12</LM>
 </w.rf>
 <form>Hrstka</form>
-<tag lemma="Hrstka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrstka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-lnd92252-085-p3s6w7</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1160,7 +1160,7 @@
 <LM>w#w-lnd92252-085-p3s6w23</LM>
 </w.rf>
 <form>Sportprojektu</form>
-<tag lemma="Sportprojekt_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Sportprojekt_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p3s6w24">
 <src.rf>manual</src.rf>
@@ -3197,7 +3197,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -4012,7 +4012,7 @@
 <LM>w#w-lnd92252-085-p5s16w18</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p5s16w19">
 <src.rf>manual</src.rf>
@@ -4060,7 +4060,7 @@
 <LM>w#w-lnd92252-085-p5s16w24</LM>
 </w.rf>
 <form>Hrstky</form>
-<tag lemma="Hrstka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hrstka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p5s16w25">
 <src.rf>manual</src.rf>
@@ -6485,7 +6485,7 @@
 <LM>w#w-lnd92252-085-p7s1w2</LM>
 </w.rf>
 <form>Hrstka</form>
-<tag lemma="Hrstka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrstka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p7s1w3">
 <src.rf>manual</src.rf>
@@ -6565,7 +6565,7 @@
 <LM>w#w-lnd92252-085-p7s1w12</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p7s1w13">
 <src.rf>manual</src.rf>
@@ -6661,7 +6661,7 @@
 <LM>w#w-lnd92252-085-p7s1w24</LM>
 </w.rf>
 <form>Collinse</form>
-<tag lemma="Collins_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Collins_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92252-085-p7s1w25">
 <src.rf>manual</src.rf>
@@ -6687,7 +6687,7 @@
 <form>Johna</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="John_;S_:Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="John_;Y_:Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-085-p7s1w28">
@@ -7083,8 +7083,8 @@
 <AM lemma="s-1" src="auto">RR--2----------</AM>
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="auto">NNXXX-----A----</AM>
 <AM lemma="s-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="scriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>

@@ -78,7 +78,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -266,7 +266,7 @@
 <LM>w#w-mf930701-058-p2s1w28</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-058-p2s1w29">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-mf930701-058-p2s4w15</LM>
 </w.rf>
 <form>Petrův</form>
-<tag lemma="Petrův_;S_;Y_^(*2o)" src="auto" selected="1">AUMS1M---------</tag>
+<tag lemma="Petrův_;Y_^(*2o)" src="auto" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930701-058-p2s4w16">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-mf930701-058-p2s4w18</LM>
 </w.rf>
 <form>Baratka</form>
-<tag lemma="Baratka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baratka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-058-p2s4w19">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-mf930701-058-p2s8w9</LM>
 </w.rf>
 <form>Petrův</form>
-<tag lemma="Petrův_;S_;Y_^(*2o)" src="auto" selected="1">AUMS1M---------</tag>
+<tag lemma="Petrův_;Y_^(*2o)" src="auto" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930701-058-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-mf930701-058-p2s8w12</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-058-p2s8w13">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-mf930701-058-p2s9w1</LM>
 </w.rf>
 <form>Petrovi</form>
-<tag lemma="Petrův_;S_;Y_^(*2o)" src="auto" selected="1">AUMP1M---------</tag>
+<tag lemma="Petrův_;Y_^(*2o)" src="auto" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930701-058-p2s9w2">
 <src.rf>manual</src.rf>

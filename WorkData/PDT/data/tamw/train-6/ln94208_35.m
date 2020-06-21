@@ -72,7 +72,7 @@
 <LM>w#w-ln94208-35-p2s1Aw3</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="em-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94208-35-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 <LM>w#w-ln94208-35-p2s1Bw6</LM>
 </w.rf>
 <form>Bartošové</form>
-<tag lemma="Bartošová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bartošová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-35-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-ln94208-35-p2s2w7</LM>
 </w.rf>
 <form>Brunner</form>
-<tag lemma="Brunner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brunner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-35-p2s2w8">
 <src.rf>manual</src.rf>
@@ -913,8 +913,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-35-p2s5w5">

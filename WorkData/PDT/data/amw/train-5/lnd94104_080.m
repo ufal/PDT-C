@@ -84,8 +84,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94104-080-p1s1Aw10">
@@ -1056,8 +1056,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-080-p1s8w19">
@@ -1465,7 +1465,7 @@
 <LM>w#w-lnd94104-080-p1s10w20</LM>
 </w.rf>
 <form>Vacek</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-080-p1s10w21">
 <src.rf>manual</src.rf>
@@ -2873,7 +2873,7 @@
 <LM>w#w-lnd94104-080-p1s18w4</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94104-080-p1s18w5">
 <src.rf>manual</src.rf>

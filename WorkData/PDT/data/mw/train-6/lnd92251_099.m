@@ -511,7 +511,7 @@
 <LM>w#w-lnd92251-099-p4s1w2</LM>
 </w.rf>
 <form>Orwell</form>
-<tag lemma="Orwell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Orwell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-099-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1522,7 +1522,7 @@
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIP4-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIP5-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto" selected="1">NNIP7-----A----</AM>
-<AM lemma="paso_;u_,t_^(passo_doble)" src="auto">NNNP7-----A----</AM>
+<AM lemma="paso_,t_^(passo_doble)" src="auto">NNNP7-----A----</AM>
 <AM lemma="pasus" src="auto">NNIP1-----A----</AM>
 <AM lemma="pasus" src="auto">NNIP4-----A----</AM>
 <AM lemma="pasus" src="auto">NNIP5-----A----</AM>
@@ -2094,7 +2094,7 @@
 </w.rf>
 <form>óef</form>
 <tag>
-<AM lemma="óef_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="óef_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="óef-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4263,7 +4263,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-099-p7s6w5">
@@ -4280,7 +4280,7 @@
 <LM>w#w-lnd92251-099-p7s6w6</LM>
 </w.rf>
 <form>Orwell</form>
-<tag lemma="Orwell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Orwell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-099-p7s6w7">
 <src.rf>manual</src.rf>
@@ -5260,7 +5260,7 @@
 <LM>w#w-lnd92251-099-p9s1w2</LM>
 </w.rf>
 <form>JUST</form>
-<tag lemma="Just_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Just_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

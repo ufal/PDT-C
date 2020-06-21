@@ -867,7 +867,7 @@
 <LM>w#w-lnd91303-064-p3s1Aw3</LM>
 </w.rf>
 <form>Marx</form>
-<tag lemma="Marx_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marx_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p3s1Aw4">
 <src.rf>manual</src.rf>
@@ -1509,7 +1509,7 @@
 <LM>w#w-lnd91303-064-p3s3w8</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p3s3w9">
 <src.rf>manual</src.rf>
@@ -5231,7 +5231,7 @@
 <LM>w#w-lnd91303-064-p7s4Aw15</LM>
 </w.rf>
 <form>Pfaff</form>
-<tag lemma="Pfaff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pfaff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p7s4Aw16">
 <src.rf>manual</src.rf>
@@ -5427,7 +5427,7 @@
 <form_change>spell</form_change>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5438,7 +5438,7 @@
 </w.rf>
 <form>Monde</form>
 <tag>
-<AM lemma="Monde_;R_^(Le_Monde)" src="auto">NNISX-----A----</AM>
+<AM lemma="Monde_;m_^(Le_Monde)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5848,7 +5848,7 @@
 <LM>w#w-lnd91303-064-p7s4Cw11</LM>
 </w.rf>
 <form>Pfaff</form>
-<tag lemma="Pfaff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pfaff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p7s4Cw12">
 <src.rf>manual</src.rf>
@@ -7935,7 +7935,7 @@
 <LM>w#w-lnd91303-064-p12s1w25</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p12s1w26">
 <src.rf>manual</src.rf>
@@ -8092,7 +8092,7 @@
 <LM>w#w-lnd91303-064-p12s1w44</LM>
 </w.rf>
 <form>Čapka</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p12s1w45">
 <src.rf>manual</src.rf>
@@ -11186,7 +11186,7 @@
 <LM>w#w-lnd91303-064-p16s1w2</LM>
 </w.rf>
 <form>TIGRID</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

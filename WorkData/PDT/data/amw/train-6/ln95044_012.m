@@ -1591,8 +1591,8 @@
 </w.rf>
 <form>Stěpana</form>
 <tag>
-<AM lemma="Stěpan_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Stěpan_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Stěpan_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Stěpan_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-012-p4s1w17">
@@ -1601,7 +1601,7 @@
 <LM>w#w-ln95044-012-p4s1w17</LM>
 </w.rf>
 <form>Ščipačova</form>
-<tag lemma="Ščipačov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ščipačov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-012-p4s1w18">
 <src.rf>manual</src.rf>

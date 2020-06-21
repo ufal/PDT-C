@@ -1530,8 +1530,8 @@
 </w.rf>
 <form>DAKTRONICS</form>
 <tag>
-<AM lemma="Daktronics_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Daktronics_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Daktronics_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Daktronics_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-109-p2s9w9">

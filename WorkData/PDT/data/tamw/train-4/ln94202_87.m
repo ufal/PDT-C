@@ -641,7 +641,7 @@
 <LM>w#w-ln94202-87-p3s1w2</LM>
 </w.rf>
 <form>Faust</form>
-<tag lemma="Faust_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Faust_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-87-p3s1w3">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-ln94202-87-p3s1w8</LM>
 </w.rf>
 <form>Švankmajera</form>
-<tag lemma="Švankmajer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Švankmajer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-87-p3s1w9">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-ln94202-87-p3s2w3</LM>
 </w.rf>
 <form>Švankmajerovým</form>
-<tag lemma="Švankmajerův_;S_^(*2)" src="orig" selected="1">AUFP3M---------</tag>
+<tag lemma="Švankmajerův_;Y_^(*2)" src="orig" selected="1">AUFP3M---------</tag>
 </m>
 <m id="m-ln94202-87-p3s2w4">
 <src.rf>manual</src.rf>

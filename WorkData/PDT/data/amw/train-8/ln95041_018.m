@@ -45,7 +45,7 @@
 <LM>w#w-ln95041-018-p2s1w2</LM>
 </w.rf>
 <form>Meliška</form>
-<tag lemma="Meliška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meliška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-018-p2s1w3">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95041-018-p2s2w5</LM>
 </w.rf>
 <form>Poštulku</form>
-<tag lemma="Poštulka_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Poštulka_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-018-p2s2w6">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <form>Prokopem</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS7-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS7-----A----</AM>
 <AM lemma="prokopat" src="auto">VB-P---1P-AA--6</AM>
 </tag>
@@ -619,7 +619,7 @@
 <LM>w#w-ln95041-018-p2s4w8</LM>
 </w.rf>
 <form>Poštulka</form>
-<tag lemma="Poštulka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poštulka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-018-p2s4w9">
 <src.rf>manual</src.rf>

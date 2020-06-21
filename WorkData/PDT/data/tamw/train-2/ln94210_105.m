@@ -85,7 +85,7 @@
 <LM>w#w-ln94210-105-p2s1Aw2</LM>
 </w.rf>
 <form>Matoušek</form>
-<tag lemma="Matoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-105-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 </w.rf>
 <form>Panorama</form>
 <tag>
-<AM lemma="Panorama_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Panorama_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="panorama_,s_^(^DD**panoráma)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -1078,7 +1078,7 @@
 <LM>w#w-ln94210-105-p4s2w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94210-105-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-ln94210-105-p4s2w8</LM>
 </w.rf>
 <form>Schneider</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-ln94210-105-p4s2w11</LM>
 </w.rf>
 <form>Machala</form>
-<tag lemma="Machala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Machala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1192,7 +1192,7 @@
 <LM>w#w-ln94210-105-p4s3w1</LM>
 </w.rf>
 <form>Machala</form>
-<tag lemma="Machala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Machala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-ln94210-105-p4s3w13</LM>
 </w.rf>
 <form>Hodrové</form>
-<tag lemma="Hodrová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hodrová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-ln94210-105-p4s3w16</LM>
 </w.rf>
 <form>Viewegha</form>
-<tag lemma="Viewegh_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Viewegh_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-ln94210-105-p4s3w19</LM>
 </w.rf>
 <form>Topola</form>
-<tag lemma="Topol_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Topol_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s3w20">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <LM>w#w-ln94210-105-p4s3w24</LM>
 </w.rf>
 <form>Nezvala</form>
-<tag lemma="Nezval_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nezval_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s3w25">
 <src.rf>manual</src.rf>
@@ -1412,10 +1412,10 @@
 </w.rf>
 <form>Marysko</form>
 <tag>
-<AM lemma="Marysko_;S" src="orig" selected="1">NNXXX-----A----</AM>
-<AM lemma="Maryska_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Marysko_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Marysko_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Marysko_;Y" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Maryska_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Marysko_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Marysko_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-105-p4s3w28">
@@ -1466,7 +1466,7 @@
 <LM>w#w-ln94210-105-p4s4w4</LM>
 </w.rf>
 <form>Jungmann</form>
-<tag lemma="Jungmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jungmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1822,7 +1822,7 @@
 <LM>w#w-ln94210-105-p4s6w2</LM>
 </w.rf>
 <form>Jungmannovými</form>
-<tag lemma="Jungmannův_;S_^(*2)" src="orig" selected="1">AUFP7M---------</tag>
+<tag lemma="Jungmannův_;Y_^(*2)" src="orig" selected="1">AUFP7M---------</tag>
 </m>
 <m id="m-ln94210-105-p4s6w3">
 <src.rf>manual</src.rf>

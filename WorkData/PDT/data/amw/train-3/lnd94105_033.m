@@ -118,8 +118,8 @@
 </w.rf>
 <form>če</form>
 <tag>
-<AM lemma="če-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="če-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="če-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="če-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-033-p1s2w4">
@@ -670,7 +670,7 @@
 <LM>w#w-lnd94105-033-p1s6w11</LM>
 </w.rf>
 <form>Mašek</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-033-p1s6w12">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

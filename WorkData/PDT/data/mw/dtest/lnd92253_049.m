@@ -136,7 +136,7 @@
 </w.rf>
 <form>FINANCIAL</form>
 <tag>
-<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="FINANCIAL-77" src="manual">F%-------------</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -148,7 +148,7 @@
 </w.rf>
 <form>TIMES</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="TIMES-77" src="manual">F%-------------</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -169,7 +169,7 @@
 <form>LLOYD</form>
 <tag>
 <AM lemma="Lloyd_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lloyd_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p3s1w6">
@@ -756,7 +756,7 @@
 <LM>w#w-lnd92253-049-p5s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92253-049-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1727,7 +1727,7 @@
 <LM>w#w-lnd92253-049-p5s7w9</LM>
 </w.rf>
 <form>Heathe</form>
-<tag lemma="Heath_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Heath_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-049-p5s7w10">
 <src.rf>manual</src.rf>
@@ -1825,7 +1825,7 @@
 <LM>w#w-lnd92253-049-p5s8w11</LM>
 </w.rf>
 <form>Thatcherovou</form>
-<tag lemma="Thatcherová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Thatcherová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92253-049-p5s8w12">
 <src.rf>manual</src.rf>
@@ -2171,7 +2171,7 @@
 <LM>w#w-lnd92253-049-p6s1w9</LM>
 </w.rf>
 <form>Scargill</form>
-<tag lemma="Scargill_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scargill_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-049-p6s1w10">
 <src.rf>manual</src.rf>
@@ -6540,7 +6540,7 @@
 <form>LLOYD</form>
 <tag>
 <AM lemma="Lloyd_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lloyd_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p12s1w4">
@@ -6558,7 +6558,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6569,7 +6569,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6620,9 +6620,9 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

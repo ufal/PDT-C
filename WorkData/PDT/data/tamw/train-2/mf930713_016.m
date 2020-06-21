@@ -80,8 +80,8 @@
 </w.rf>
 <form>Nigela</form>
 <tag>
-<AM lemma="Nigel_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nigel_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nigel_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Nigel_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-016-p2s1Bw3">
@@ -90,7 +90,7 @@
 <LM>w#w-mf930713-016-p2s1Bw3</LM>
 </w.rf>
 <form>Mansella</form>
-<tag lemma="Mansell_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mansell_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-016-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-mf930713-016-p2s1Bw17</LM>
 </w.rf>
 <form>IndyCar</form>
-<tag lemma="Indycar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Indycar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-016-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-mf930713-016-p2s1Bw33</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930713-016-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf930713-016-p2s3w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930713-016-p2s3w8">
 <src.rf>manual</src.rf>

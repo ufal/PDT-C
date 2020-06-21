@@ -73,8 +73,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-058-p1s1Bw4">
@@ -119,7 +119,7 @@
 <LM>w#w-lnd94103-058-p1s1Bw8</LM>
 </w.rf>
 <form>Abonyi</form>
-<tag lemma="Abonyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abonyi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-058-p1s1C">
@@ -294,7 +294,7 @@
 <LM>w#w-lnd94103-058-p1s2w8</LM>
 </w.rf>
 <form>Džafar</form>
-<tag lemma="Džafar_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Džafar_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s2w9">
 <src.rf>manual</src.rf>
@@ -333,8 +333,8 @@
 </w.rf>
 <form>Marhum</form>
 <tag>
-<AM lemma="Marhum_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marhum_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Marhum_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Marhum_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-058-p1s2w13">
@@ -359,7 +359,7 @@
 <LM>w#w-lnd94103-058-p1s2w15</LM>
 </w.rf>
 <form>Rahman</form>
-<tag lemma="Rahman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rahman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s2w16">
 <src.rf>manual</src.rf>
@@ -409,8 +409,8 @@
 <form>Negri</form>
 <tag>
 <AM lemma="Negri_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Negri-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Negri-1_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Negri-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Negri-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Negri-2_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Negri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -515,7 +515,7 @@
 <LM>w#w-lnd94103-058-p1s4w1</LM>
 </w.rf>
 <form>Jang</form>
-<tag lemma="Jang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s4w2">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 </w.rf>
 <form>Di</form>
 <tag>
-<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di_;G_;Y_,t" src="auto">RR--X----------</AM>
 <AM lemma="Di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -550,7 +550,7 @@
 <LM>w#w-lnd94103-058-p1s4w5</LM>
 </w.rf>
 <form>Sultan</form>
-<tag lemma="Sultan_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sultan_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s4w6">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-lnd94103-058-p1s4w6</LM>
 </w.rf>
 <form>Azlan</form>
-<tag lemma="Azlan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Azlan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s4w7">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-lnd94103-058-p1s4w7</LM>
 </w.rf>
 <form>Šáh</form>
-<tag lemma="Šáh_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šáh_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-058-p1s4w8">
 <src.rf>manual</src.rf>

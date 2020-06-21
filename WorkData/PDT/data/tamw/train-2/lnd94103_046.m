@@ -325,8 +325,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-046-p1s4w10">
@@ -387,9 +387,9 @@
 <form>Kim</form>
 <tag>
 <AM lemma="Kim-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kim-1_;YKim-2_;S_^(korejske_prijmeni)" src="manual">NNMS1-----A----</AM>
-<AM lemma="Kim-2_;S_^(korejske_prijmeni)" src="manual">NNMS1-----A----</AM>
-<AM lemma="Kim-3_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Kim-1_;YKim-2_;Y_^(korejske_prijmeni)" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kim-2_;Y_^(korejske_prijmeni)" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kim-3_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-046-p1s5w5">
@@ -551,7 +551,7 @@
 </w.rf>
 <form>MAC</form>
 <tag>
-<AM lemma="MAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAC_:B_;m_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

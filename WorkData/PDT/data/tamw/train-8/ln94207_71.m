@@ -60,7 +60,7 @@
 </w.rf>
 <form>NG</form>
 <tag>
-<AM lemma="NG_:B_;K_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NG_:B_;m_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -105,7 +105,7 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -349,7 +349,7 @@
 <LM>w#w-ln94207-71-p2s1Bw28</LM>
 </w.rf>
 <form>Žalman</form>
-<tag lemma="Žalman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žalman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-71-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln94207-71-p3s2w6</LM>
 </w.rf>
 <form>Žalman</form>
-<tag lemma="Žalman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žalman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-71-p3s2w7">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-ln94207-71-p3s4w6</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-71-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-71-p3s6w18">
@@ -1375,7 +1375,7 @@
 <LM>w#w-ln94207-71-p3s6w19</LM>
 </w.rf>
 <form>Žalman</form>
-<tag lemma="Žalman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žalman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-71-p3s6w20">
 <src.rf>manual</src.rf>
@@ -1482,7 +1482,7 @@
 </w.rf>
 <form>NG</form>
 <tag>
-<AM lemma="NG_:B_;K_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NG_:B_;m_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1511,7 +1511,7 @@
 </w.rf>
 <form>NG</form>
 <tag>
-<AM lemma="NG_:B_;K_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NG_:B_;m_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

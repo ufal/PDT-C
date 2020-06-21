@@ -123,7 +123,7 @@
 </w.rf>
 <form>Cristiani</form>
 <tag>
-<AM lemma="Cristiani_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cristiani_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Cristian_;Y" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Cristian_;Y" src="auto">NNMP5-----A---1</AM>
 </tag>
@@ -738,7 +738,7 @@
 <LM>w#w-lnd92255-065-p3s4w27</LM>
 </w.rf>
 <form>Martího</form>
-<tag lemma="Martí_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Martí_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-065-p3s4w28">
 <src.rf>manual</src.rf>

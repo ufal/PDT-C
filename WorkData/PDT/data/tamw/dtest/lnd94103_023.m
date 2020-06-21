@@ -236,7 +236,7 @@
 <LM>w#w-lnd94103-023-p1s2w7</LM>
 </w.rf>
 <form>Steiger</form>
-<tag lemma="Steiger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steiger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-023-p1s2w8">
 <src.rf>manual</src.rf>

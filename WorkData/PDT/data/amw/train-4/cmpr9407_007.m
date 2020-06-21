@@ -260,7 +260,7 @@
 <LM>w#w-cmpr9407-007-p5s1w2</LM>
 </w.rf>
 <form>Bílek</form>
-<tag lemma="Bílek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bílek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-007-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1820,9 +1820,9 @@
 </w.rf>
 <form>ČOI</form>
 <tag>
-<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;K^(Česká_obchodní_inspekce)" src="manual">NNXXX-----A----</AM>
-<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;m^(Česká_obchodní_inspekce)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-007-p8s3w14">
@@ -2672,7 +2672,7 @@
 <LM>w#w-cmpr9407-007-p10s1w2</LM>
 </w.rf>
 <form>Vávra</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

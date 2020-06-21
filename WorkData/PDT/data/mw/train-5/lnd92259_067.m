@@ -28,9 +28,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-067-p1s1w3">
@@ -48,7 +48,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -209,9 +209,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-067-p3s2w16">
@@ -244,7 +244,7 @@
 <LM>w#w-lnd92259-067-p3s2w19</LM>
 </w.rf>
 <form>Madiganem</form>
-<tag lemma="Madigan_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Madigan_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-067-p3s2w20">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -344,8 +344,8 @@
 </w.rf>
 <form>Rayem</form>
 <tag>
-<AM lemma="Ray_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Ray_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Ray_;Y" src="auto">NNMS7-----A----</AM>
+<AM lemma="Ray_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-067-p3s2w32">
@@ -354,7 +354,7 @@
 <LM>w#w-lnd92259-067-p3s2w32</LM>
 </w.rf>
 <form>MacSharrym</form>
-<tag lemma="MacSharry_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="MacSharry_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-067-p3s2w33">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -918,7 +918,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-067-p3s4w17">
@@ -962,7 +962,7 @@
 <LM>w#w-lnd92259-067-p3s4w21</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-067-p3s4w22">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1071,7 +1071,7 @@
 <LM>w#w-lnd92259-067-p3s5w12</LM>
 </w.rf>
 <form>Gummer</form>
-<tag lemma="Gummer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gummer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-067-p3s5w13">
 <src.rf>manual</src.rf>

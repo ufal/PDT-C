@@ -27,7 +27,7 @@
 <LM>w#w-lnd92253-044-p1s1w2</LM>
 </w.rf>
 <form>BOEING</form>
-<tag lemma="Boeing_;K_;R_^(letadlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Boeing_;m_^(letadlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-044-p2s1">
@@ -274,7 +274,7 @@
 </w.rf>
 <form>KAL</form>
 <tag>
-<AM lemma="KAL_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KAL_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Kala_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="kal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kal" src="auto">NNIS4-----A----</AM>
@@ -388,7 +388,7 @@
 <LM>w#w-lnd92253-044-p3s3w4</LM>
 </w.rf>
 <form>Kobaladze</form>
-<tag lemma="Kobaladze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobaladze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-044-p3s3w5">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-lnd92253-044-p3s4w1</LM>
 </w.rf>
 <form>Kobaladze</form>
-<tag lemma="Kobaladze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobaladze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-044-p3s4w2">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 </w.rf>
 <form>KAL</form>
 <tag>
-<AM lemma="KAL_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KAL_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Kala_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="kal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kal" src="auto">NNIS4-----A----</AM>
@@ -901,7 +901,7 @@
 <LM>w#w-lnd92253-044-p3s5w25</LM>
 </w.rf>
 <form>Sonn</form>
-<tag lemma="Sonn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sonn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-044-p3s5w26">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <tag>
 <AM lemma="il_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="il-2_,t_^(it._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="il-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="il-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s5w29">
@@ -1025,8 +1025,8 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-1_:B_;K_^(Central_Intelligence_Agency,_USA)" src="manual">NNXXX-----A----</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_^(Central_Intelligence_Agency,_USA)" src="manual">NNXXX-----A----</AM>
 <AM lemma="CIA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

@@ -133,7 +133,7 @@
 <LM>w#w-lnd91303-100-p2s1w11</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w12">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-lnd91303-100-p2s1w13</LM>
 </w.rf>
 <form>Vaňko</form>
-<tag lemma="Vaňko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vaňko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w14">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-lnd91303-100-p2s1w15</LM>
 </w.rf>
 <form>Paštinský</form>
-<tag lemma="Paštinský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paštinský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w16">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-lnd91303-100-p2s1w41</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w42">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 </w.rf>
 <form>CHZ</form>
 <tag>
-<AM lemma="CHZ-2_:B_;K" src="orig">NNISX-----A----</AM>
+<AM lemma="CHZ-2_:B_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="CHZ-1_:B_^(chemická_zbraň)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="CHZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -433,7 +433,7 @@
 <LM>w#w-lnd91303-100-p2s1w48</LM>
 </w.rf>
 <form>Ručínského</form>
-<tag lemma="Ručínský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ručínský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w49">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-lnd91303-100-p2s1w57</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w58">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 </w.rf>
 <form>CHZ</form>
 <tag>
-<AM lemma="CHZ-2_:B_;K" src="orig">NNISX-----A----</AM>
+<AM lemma="CHZ-2_:B_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="CHZ-1_:B_^(chemická_zbraň)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="CHZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

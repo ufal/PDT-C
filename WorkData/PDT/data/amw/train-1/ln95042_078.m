@@ -36,8 +36,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-078-p1s1w4">
@@ -48,7 +48,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-078-p1s1w5">
@@ -65,7 +65,7 @@
 <LM>w#w-ln95042-078-p1s1w6</LM>
 </w.rf>
 <form>Wiedovi</form>
-<tag lemma="Wied_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Wied_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-078-p2s1A">
@@ -191,7 +191,7 @@
 <LM>w#w-ln95042-078-p2s1Bw12</LM>
 </w.rf>
 <form>Wiedovi</form>
-<tag lemma="Wied_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Wied_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95042-078-p2s2w2</LM>
 </w.rf>
 <form>Wied</form>
-<tag lemma="Wied_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wied_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s2w3">
 <src.rf>manual</src.rf>
@@ -754,8 +754,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-078-p2s5w5">
@@ -772,7 +772,7 @@
 <LM>w#w-ln95042-078-p2s5w6</LM>
 </w.rf>
 <form>Křivdy</form>
-<tag lemma="Křivda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Křivda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s5w7">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-ln95042-078-p2s5w9</LM>
 </w.rf>
 <form>Wied</form>
-<tag lemma="Wied_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wied_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s5w10">
 <src.rf>manual</src.rf>

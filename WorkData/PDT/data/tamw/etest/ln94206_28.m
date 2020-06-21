@@ -86,8 +86,8 @@
 </w.rf>
 <form>il</form>
 <tag>
-<AM lemma="il-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="il-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="il-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="il-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-28-p2s1Aw4">
@@ -205,7 +205,7 @@
 <LM>w#w-ln94206-28-p2s1Bw12</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-28-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-ln94206-28-p2s1Bw15</LM>
 </w.rf>
 <form>MERO</form>
-<tag lemma="Mero_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Mero_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94206-28-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 </w.rf>
 <form>IKL</form>
 <tag>
-<AM lemma="IKL_:B_;R" src="orig">NNNXX-----A---8</AM>
+<AM lemma="IKL_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="IKL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -463,7 +463,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -844,7 +844,7 @@
 <LM>w#w-ln94206-28-p2s6w2</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-28-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-ln94206-28-p2s9w6</LM>
 </w.rf>
 <form>MERO</form>
-<tag lemma="Mero_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Mero_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94206-28-p2s9w7">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-vesm9212-020-p2s1w2</LM>
 </w.rf>
 <form>VINAŘ</form>
-<tag lemma="Vinař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vinař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-020-p3s1">
@@ -1767,7 +1767,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p7s1w27">
@@ -1786,7 +1786,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p7s1w29">
@@ -1803,7 +1803,7 @@
 <LM>w#w-vesm9212-020-p7s1w30</LM>
 </w.rf>
 <form>Berk</form>
-<tag lemma="Berk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-020-p7s1w31">
 <src.rf>manual</src.rf>
@@ -1821,7 +1821,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p7s1w33">
@@ -1840,7 +1840,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p7s1w35">
@@ -1857,7 +1857,7 @@
 <LM>w#w-vesm9212-020-p7s1w36</LM>
 </w.rf>
 <form>Tan</form>
-<tag lemma="Tan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-020-p7s1w37">
 <src.rf>manual</src.rf>
@@ -1875,7 +1875,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p7s1w39">
@@ -1894,7 +1894,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p7s1w41">
@@ -1911,7 +1911,7 @@
 <LM>w#w-vesm9212-020-p7s1w42</LM>
 </w.rf>
 <form>Fry</form>
-<tag lemma="Fry_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fry_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-020-p7s1w43">
 <src.rf>manual</src.rf>
@@ -2337,7 +2337,7 @@
 <form>T</form>
 <tag>
 <AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p7s4w7">
@@ -3322,8 +3322,8 @@
 <form>isoprinosin</form>
 <tag>
 <AM lemma="isoprinosin_;U" src="orig">NNIS4-----A----</AM>
-<AM lemma="izoprinosin_;H_,x" src="auto">NNIS1-----A----</AM>
-<AM lemma="izoprinosin_;H_,x" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="izoprinosin_;U_,x" src="auto">NNIS1-----A----</AM>
+<AM lemma="izoprinosin_;U_,x" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p8s6w11">

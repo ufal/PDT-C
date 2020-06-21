@@ -52,7 +52,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -301,8 +301,8 @@
 </w.rf>
 <form>Akbar</form>
 <tag>
-<AM lemma="Akbar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Akbar_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Akbar_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Akbar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-119-p3s2w20">
@@ -311,7 +311,7 @@
 <LM>w#w-mf920922-119-p3s2w20</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-119-p3s2w21">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-mf920922-119-p3s3w3</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-119-p3s3w4">
 <src.rf>manual</src.rf>
@@ -884,8 +884,8 @@
 </w.rf>
 <form>Rachmana</form>
 <tag>
-<AM lemma="Rachman_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rachman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Rachman_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rachman_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-119-p3s5w17">
@@ -894,7 +894,7 @@
 <LM>w#w-mf920922-119-p3s5w17</LM>
 </w.rf>
 <form>Nabijeva</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-119-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 </w.rf>
 <form>Kurgan</form>
 <tag>
-<AM lemma="Kurgan_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kurgan_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kurgan-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -1138,8 +1138,8 @@
 </w.rf>
 <form>Chudojberdy</form>
 <tag>
-<AM lemma="Chudojberdy_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chudojberdy_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chudojberdy_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Chudojberdy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-119-p4s1w5">
@@ -1148,7 +1148,7 @@
 <LM>w#w-mf920922-119-p4s1w5</LM>
 </w.rf>
 <form>Chaliknazarov</form>
-<tag lemma="Chaliknazarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chaliknazarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-119-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1213,8 +1213,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-119-p4s1w14">
@@ -1320,8 +1320,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-119-p4s1w28">
@@ -1445,7 +1445,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1506,7 +1506,7 @@
 </w.rf>
 <form>RIA</form>
 <tag>
-<AM lemma="RIA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RIA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1559,7 +1559,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1642,8 +1642,8 @@
 </w.rf>
 <form>Rachman</form>
 <tag>
-<AM lemma="Rachman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rachman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rachman_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rachman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-119-p4s4w16">
@@ -1652,7 +1652,7 @@
 <LM>w#w-mf920922-119-p4s4w16</LM>
 </w.rf>
 <form>Nabijev</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-119-p4s4w17">
 <src.rf>manual</src.rf>

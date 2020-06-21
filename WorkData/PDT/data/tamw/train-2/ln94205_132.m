@@ -70,7 +70,7 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -556,7 +556,7 @@
 <LM>w#w-ln94205-132-p2s3w24</LM>
 </w.rf>
 <form>Dvořákovu</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94205-132-p2s3w25">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <form>ma</form>
 <tag>
 <AM lemma="ja_,t" src="orig">PP-S4--1-------</AM>
-<AM lemma="ma-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ma-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ja_,n" src="manual">PP-S4--1-------</AM>
 <AM lemma="ma-77" src="manual" selected="1">F%-------------</AM>
 </tag>

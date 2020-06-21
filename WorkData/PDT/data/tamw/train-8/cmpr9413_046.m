@@ -52,8 +52,8 @@
 </w.rf>
 <form>Neprodal</form>
 <tag>
-<AM lemma="Neprodal_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Neprodal-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Neprodal_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Neprodal-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-046-p2s1w6">

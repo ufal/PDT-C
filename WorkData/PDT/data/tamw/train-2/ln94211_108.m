@@ -71,7 +71,7 @@
 <LM>w#w-ln94211-108-p2s1w3</LM>
 </w.rf>
 <form>Štěpánová</form>
-<tag lemma="Štěpánová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Štěpánová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-108-p2s1C">
@@ -942,7 +942,7 @@
 </w.rf>
 <form>WUK</form>
 <tag>
-<AM lemma="WUK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="WUK_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="WUK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -961,7 +961,7 @@
 </w.rf>
 <form>Werkstätten</form>
 <tag>
-<AM lemma="Werkstätten_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Werkstätten_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Werkstätten-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -980,7 +980,7 @@
 </w.rf>
 <form>und</form>
 <tag>
-<AM lemma="und_;K_,t" src="orig">J^-------------</AM>
+<AM lemma="und_;m_,t" src="orig">J^-------------</AM>
 <AM lemma="und-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -991,7 +991,7 @@
 </w.rf>
 <form>Kulturhaus</form>
 <tag>
-<AM lemma="Kulturhaus_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Kulturhaus_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Kulturhaus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1099,7 +1099,7 @@
 <LM>w#w-ln94211-108-p3s3w6</LM>
 </w.rf>
 <form>Sedláčka</form>
-<tag lemma="Sedláček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sedláček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-108-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-ln94211-108-p4s1w5</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94211-108-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1818,7 +1818,7 @@
 <LM>w#w-ln94211-108-p4s2w33</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94211-108-p4s2w34">
 <src.rf>manual</src.rf>

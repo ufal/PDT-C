@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-007-p1s1w1</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-007-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-007-p1s1w3</LM>
 </w.rf>
 <form>Mock</form>
-<tag lemma="Mock_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mock_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-007-p1s1w4">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-mf930703-007-p2s1w4</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-007-p2s1w5">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-mf930703-007-p2s2w16</LM>
 </w.rf>
 <form>Mockem</form>
-<tag lemma="Mock_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mock_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930703-007-p2s2w17">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-mf930703-007-p2s3w1</LM>
 </w.rf>
 <form>Mockův</form>
-<tag lemma="Mockův_;S_^(*3ek)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Mockův_;Y_^(*3ek)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930703-007-p2s3w2">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf930703-007-p2s3w4</LM>
 </w.rf>
 <form>Krenkel</form>
-<tag lemma="Krenkel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krenkel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-007-p2s3w5">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-mf930703-007-p2s4w1</LM>
 </w.rf>
 <form>Mock</form>
-<tag lemma="Mock_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mock_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-007-p2s4w2">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf930703-007-p2s5w2</LM>
 </w.rf>
 <form>Mock</form>
-<tag lemma="Mock_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mock_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-007-p2s5w3">
 <src.rf>manual</src.rf>

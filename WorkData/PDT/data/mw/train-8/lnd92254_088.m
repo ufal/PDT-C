@@ -139,7 +139,7 @@
 <AM lemma="ad_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p3s1w4">
@@ -479,7 +479,7 @@
 <LM>w#w-lnd92254-088-p3s3w13</LM>
 </w.rf>
 <form>Connorse</form>
-<tag lemma="Connors_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Connors_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p3s3w14">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-lnd92254-088-p3s3w16</LM>
 </w.rf>
 <form>McEnroea</form>
-<tag lemma="McEnroe_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="McEnroe_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p3s3w17">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-lnd92254-088-p3s3w19</LM>
 </w.rf>
 <form>Kordy</form>
-<tag lemma="Korda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Korda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p3s3w20">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-lnd92254-088-p3s3w22</LM>
 </w.rf>
 <form>Rosseta</form>
-<tag lemma="Rosset_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rosset_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p3s3w23">
 <src.rf>manual</src.rf>
@@ -674,11 +674,11 @@
 </w.rf>
 <form>MSP</form>
 <tag>
-<AM lemma="MSP-6_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MSP-6_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MSP-1_:B_^(masový_sdělovací_prostředekl)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-2_:B_;K_,t_^(Moderata_Samlingspartiet)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="MSP-2_:B_;m_,t_^(Moderata_Samlingspartiet)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="MSP-4_:B_;m_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -801,7 +801,7 @@
 <LM>w#w-lnd92254-088-p4s1w22</LM>
 </w.rf>
 <form>Connors</form>
-<tag lemma="Connors_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Connors_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p4s1w23">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-lnd92254-088-p4s1w25</LM>
 </w.rf>
 <form>McEnroe</form>
-<tag lemma="McEnroe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McEnroe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p4s1w26">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-lnd92254-088-p4s1w35</LM>
 </w.rf>
 <form>Borg</form>
-<tag lemma="Borg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borg_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p4s1w36">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-lnd92254-088-p4s1w44</LM>
 </w.rf>
 <form>Kordou</form>
-<tag lemma="Korda_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Korda_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p4s1w45">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-lnd92254-088-p4s1w52</LM>
 </w.rf>
 <form>Rosset</form>
-<tag lemma="Rosset_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rosset_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p4s1w53">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-lnd92254-088-p4s2w2</LM>
 </w.rf>
 <form>Borg</form>
-<tag lemma="Borg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borg_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-lnd92254-088-p4s3w34</LM>
 </w.rf>
 <form>Reiss</form>
-<tag lemma="Reiss_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reiss_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p4s3w35">
 <src.rf>manual</src.rf>
@@ -1458,11 +1458,11 @@
 </w.rf>
 <form>MSP</form>
 <tag>
-<AM lemma="MSP-6_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MSP-6_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MSP-1_:B_^(masový_sdělovací_prostředekl)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-2_:B_;K_,t_^(Moderata_Samlingspartiet)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="MSP-2_:B_;m_,t_^(Moderata_Samlingspartiet)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="MSP-4_:B_;m_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1497,7 +1497,7 @@
 <LM>w#w-lnd92254-088-p4s3w41</LM>
 </w.rf>
 <form>Kordův</form>
-<tag lemma="Kordův_;S_^(*2a)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Kordův_;Y_^(*2a)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-lnd92254-088-p4s3w42">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-lnd92254-088-p5s1w40</LM>
 </w.rf>
 <form>McEnroe</form>
-<tag lemma="McEnroe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McEnroe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s1w41">
 <src.rf>manual</src.rf>
@@ -1855,7 +1855,7 @@
 <LM>w#w-lnd92254-088-p5s1w42</LM>
 </w.rf>
 <form>Connorsem</form>
-<tag lemma="Connors_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Connors_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s1w43">
 <src.rf>manual</src.rf>
@@ -1871,7 +1871,7 @@
 <LM>w#w-lnd92254-088-p5s1w44</LM>
 </w.rf>
 <form>Kordovi</form>
-<tag lemma="Korda_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Korda_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s1w45">
 <src.rf>manual</src.rf>
@@ -1887,7 +1887,7 @@
 <LM>w#w-lnd92254-088-p5s1w46</LM>
 </w.rf>
 <form>Rossetem</form>
-<tag lemma="Rosset_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rosset_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s1w47">
 <src.rf>manual</src.rf>
@@ -2001,7 +2001,7 @@
 <LM>w#w-lnd92254-088-p5s2w13</LM>
 </w.rf>
 <form>Wilson</form>
-<tag lemma="Wilson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wilson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2033,7 +2033,7 @@
 <LM>w#w-lnd92254-088-p5s2w17</LM>
 </w.rf>
 <form>Edberga</form>
-<tag lemma="Edberg_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Edberg_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 <LM>w#w-lnd92254-088-p5s2w19</LM>
 </w.rf>
 <form>Korda</form>
-<tag lemma="Korda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s2w20">
 <src.rf>manual</src.rf>
@@ -2081,7 +2081,7 @@
 <LM>w#w-lnd92254-088-p5s2w23</LM>
 </w.rf>
 <form>McEnroe</form>
-<tag lemma="McEnroe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McEnroe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s2w24">
 <src.rf>manual</src.rf>
@@ -2188,11 +2188,11 @@
 </w.rf>
 <form>MSP</form>
 <tag>
-<AM lemma="MSP-6_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MSP-6_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MSP-1_:B_^(masový_sdělovací_prostředekl)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-2_:B_;K_,t_^(Moderata_Samlingspartiet)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="MSP-2_:B_;m_,t_^(Moderata_Samlingspartiet)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="MSP-4_:B_;m_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2211,7 +2211,7 @@
 <LM>w#w-lnd92254-088-p5s3w5</LM>
 </w.rf>
 <form>Čekana</form>
-<tag lemma="Čekan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čekan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s3w6">
 <src.rf>manual</src.rf>
@@ -2421,7 +2421,7 @@
 <LM>w#w-lnd92254-088-p5s4w7</LM>
 </w.rf>
 <form>ProServ</form>
-<tag lemma="ProServ_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="ProServ_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s4w8">
 <src.rf>manual</src.rf>
@@ -2477,7 +2477,7 @@
 <LM>w#w-lnd92254-088-p5s4w14</LM>
 </w.rf>
 <form>Sabatiniovou</form>
-<tag lemma="Sabatiniová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sabatiniová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s4w15">
 <src.rf>manual</src.rf>
@@ -2517,7 +2517,7 @@
 <LM>w#w-lnd92254-088-p5s4w19</LM>
 </w.rf>
 <form>Edberga</form>
-<tag lemma="Edberg_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Edberg_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s4w20">
 <src.rf>manual</src.rf>
@@ -2547,7 +2547,7 @@
 <LM>w#w-lnd92254-088-p5s4w22</LM>
 </w.rf>
 <form>Samprase</form>
-<tag lemma="Sampras_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Sampras_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s4w23">
 <src.rf>manual</src.rf>
@@ -2574,11 +2574,11 @@
 </w.rf>
 <form>MSP</form>
 <tag>
-<AM lemma="MSP-6_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MSP-6_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MSP-1_:B_^(masový_sdělovací_prostředekl)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-2_:B_;K_,t_^(Moderata_Samlingspartiet)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="MSP-2_:B_;m_,t_^(Moderata_Samlingspartiet)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="MSP-4_:B_;m_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3061,11 +3061,11 @@
 </w.rf>
 <form>MSP</form>
 <tag>
-<AM lemma="MSP-6_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MSP-6_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MSP-1_:B_^(masový_sdělovací_prostředekl)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="MSP-2_:B_;K_,t_^(Moderata_Samlingspartiet)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MSP-2_:B_;m_,t_^(Moderata_Samlingspartiet)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="MSP-4_:B_;m_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3098,7 +3098,7 @@
 <LM>w#w-lnd92254-088-p5s8w1</LM>
 </w.rf>
 <form>Čekan</form>
-<tag lemma="Čekan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čekan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-088-p5s8w2">
 <src.rf>manual</src.rf>

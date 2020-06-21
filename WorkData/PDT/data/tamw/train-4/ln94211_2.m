@@ -145,7 +145,7 @@
 <LM>w#w-ln94211-2-p1s1w16</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIPX-----A----</tag>
+<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-2-p1s1w17">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln94211-2-p1s1w26</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIPX-----A----</tag>
+<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-2-p1s1w27">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-ln94211-2-p2s1w17</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-2-p2s1w18">
 <src.rf>manual</src.rf>
@@ -1465,8 +1465,8 @@
 </w.rf>
 <form>jif</form>
 <tag>
-<AM lemma="jif-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jif-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jif-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jif-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-2-p3s2Bw3">

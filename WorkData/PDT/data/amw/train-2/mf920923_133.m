@@ -298,11 +298,11 @@
 </w.rf>
 <form>Ruckým</form>
 <tag>
-<AM lemma="Ruckoj_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Rucká_;S" src="auto">NNFP3-----A----</AM>
-<AM lemma="Rucký_;S" src="auto">NNMP3-----A----</AM>
-<AM lemma="Rucký_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Ruckoj_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Rucká_;Y" src="auto">NNFP3-----A----</AM>
+<AM lemma="Rucký_;Y" src="auto">NNMP3-----A----</AM>
+<AM lemma="Rucký_;Y" src="auto">NNMS6-----A---7</AM>
+<AM lemma="Rucký_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-133-p2s2w25">

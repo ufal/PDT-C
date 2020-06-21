@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-096-p1s1w2</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-096-p1s1w3">
 <src.rf>manual</src.rf>
@@ -102,9 +102,9 @@
 </w.rf>
 <form>km</form>
 <tag>
-<AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="km-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="km-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p2s1w4">
@@ -212,7 +212,7 @@
 <LM>w#w-mf930701-096-p2s1w16</LM>
 </w.rf>
 <form>Benešových</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf930701-096-p2s1w17">
 <src.rf>manual</src.rf>
@@ -272,8 +272,8 @@
 </w.rf>
 <form>Klaus</form>
 <tag>
-<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p2s1w24">
@@ -282,7 +282,7 @@
 <LM>w#w-mf930701-096-p2s1w24</LM>
 </w.rf>
 <form>Franke</form>
-<tag lemma="Franke_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franke_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-096-p2s1w25">
 <src.rf>manual</src.rf>
@@ -299,8 +299,8 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p2s1w27">
@@ -358,8 +358,8 @@
 </w.rf>
 <form>János</form>
 <tag>
-<AM lemma="János_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="János_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="János_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="János_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-096-p2s1w34">
@@ -368,7 +368,7 @@
 <LM>w#w-mf930701-096-p2s1w34</LM>
 </w.rf>
 <form>Csóthy</form>
-<tag lemma="Csóthy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Csóthy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-096-p2s1w35">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -493,7 +493,7 @@
 <LM>w#w-mf930701-096-p2s3w4</LM>
 </w.rf>
 <form>Kroupa</form>
-<tag lemma="Kroupa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kroupa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-096-p2s3w5">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-mf930701-096-p2s3w33</LM>
 </w.rf>
 <form>Benešových</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf930701-096-p2s3w34">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-mf930701-096-p2s3w38</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-096-p2s3w39">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -995,7 +995,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1231,7 +1231,7 @@
 <LM>w#w-mf930701-096-p3s1w11</LM>
 </w.rf>
 <form>Benešových</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf930701-096-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1306,7 +1306,7 @@
 <LM>w#w-mf930701-096-p3s1w20</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-096-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1493,7 +1493,7 @@
 <LM>w#w-mf930701-096-p3s3w8</LM>
 </w.rf>
 <form>Benešovy</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP4M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP4M---------</tag>
 </m>
 <m id="m-mf930701-096-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1525,7 +1525,7 @@
 <LM>w#w-mf930701-096-p3s3w12</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930701-096-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 <LM>w#w-mf930701-096-p3s4w2</LM>
 </w.rf>
 <form>Bendy</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-096-p3s4w3">
 <src.rf>manual</src.rf>

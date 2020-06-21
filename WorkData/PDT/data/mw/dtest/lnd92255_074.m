@@ -379,7 +379,7 @@
 <LM>w#w-lnd92255-074-p3s3w5</LM>
 </w.rf>
 <form>Sadata</form>
-<tag lemma="Sadat_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sadat_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p3s3w6">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-lnd92255-074-p3s4w4</LM>
 </w.rf>
 <form>Asáda</form>
-<tag lemma="Asád_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Asád_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p3s4w5">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-lnd92255-074-p3s6w7</LM>
 </w.rf>
 <form>Perese</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p3s6w8">
 <src.rf>manual</src.rf>
@@ -4268,7 +4268,7 @@
 <LM>w#w-lnd92255-074-p9s1w6</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p9s1w7">
 <src.rf>manual</src.rf>
@@ -4446,7 +4446,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto" selected="1">NNIS7-----A---8</AM>
@@ -4761,7 +4761,7 @@
 <LM>w#w-lnd92255-074-p10s1w3</LM>
 </w.rf>
 <form>KUMERMANN</form>
-<tag lemma="Kumermann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kumermann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

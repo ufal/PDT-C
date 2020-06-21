@@ -21,7 +21,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-019-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-lnd92256-019-p1s2w1</LM>
 </w.rf>
 <form>VODIČKA</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-019-p1s2w2">
 <src.rf>manual</src.rf>
@@ -124,7 +124,7 @@
 <form>mot</form>
 <tag>
 <AM lemma="motto_,x" src="orig">NNNP2-----A----</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-019-p3s1w4">
@@ -271,7 +271,7 @@
 <LM>w#w-lnd92256-019-p3s2w16</LM>
 </w.rf>
 <form>Vodičky</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-019-p3s2w17">
 <src.rf>manual</src.rf>
@@ -288,8 +288,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-019-p3s2w19">

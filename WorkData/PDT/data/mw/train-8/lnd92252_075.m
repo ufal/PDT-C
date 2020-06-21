@@ -221,7 +221,7 @@
 <LM>w#w-lnd92252-075-p6s1w5</LM>
 </w.rf>
 <form>Drulákem</form>
-<tag lemma="Drulák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Drulák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92252-075-p6s1w6">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -406,7 +406,7 @@
 <LM>w#w-lnd92252-075-p9s1w12</LM>
 </w.rf>
 <form>Sigmy</form>
-<tag lemma="Sigma_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sigma_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-075-p9s1w13">
 <src.rf>manual</src.rf>

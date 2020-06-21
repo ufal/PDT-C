@@ -771,8 +771,8 @@
 </w.rf>
 <form>Epikuros</form>
 <tag>
-<AM lemma="Epikur_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Epikuros_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Epikur_;Y" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Epikuros_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-054-p2s1w2">

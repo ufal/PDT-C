@@ -53,7 +53,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-46-p1s1w6">
@@ -70,7 +70,7 @@
 <LM>w#w-ln94203-46-p1s1w7</LM>
 </w.rf>
 <form>Šípa</form>
-<tag lemma="Šíp_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Šíp_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-46-p2s1A">
@@ -202,7 +202,7 @@
 <LM>w#w-ln94203-46-p2s1Bw14</LM>
 </w.rf>
 <form>Šípa</form>
-<tag lemma="Šíp_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šíp_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-46-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 </w.rf>
 <form>OSŽ</form>
 <tag>
-<AM lemma="OSŽ_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OSŽ_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OSŽ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="OSŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

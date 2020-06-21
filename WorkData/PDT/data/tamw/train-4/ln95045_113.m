@@ -864,7 +864,7 @@
 <LM>w#w-ln95045-113-p4s1w10</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s1w11">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-ln95045-113-p4s1w13</LM>
 </w.rf>
 <form>Fiat</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s1w14">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-ln95045-113-p4s1w14</LM>
 </w.rf>
 <form>Punto</form>
-<tag lemma="Punto_;R_^(auto)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Punto_;m_^(auto)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s1w15">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-ln95045-113-p4s1w16</LM>
 </w.rf>
 <form>Peugeot</form>
-<tag lemma="Peugeot-2_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Peugeot-2_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s1w17">
 <src.rf>manual</src.rf>
@@ -936,7 +936,7 @@
 <LM>w#w-ln95045-113-p4s1w19</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s1w20">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-ln95045-113-p4s1w20</LM>
 </w.rf>
 <form>Clio</form>
-<tag lemma="Clio_;R_^(automobil_Renault_Clio)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Clio_;m_^(automobil_Renault_Clio)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s1w21">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-ln95045-113-p4s1w22</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s1w23">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-ln95045-113-p4s1w23</LM>
 </w.rf>
 <form>Twingo</form>
-<tag lemma="Twingo_;R_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Twingo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-ln95045-113-p4s2w7</LM>
 </w.rf>
 <form>Mazda</form>
-<tag lemma="Mazda_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mazda_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1206,8 +1206,8 @@
 </w.rf>
 <form>trabantů</form>
 <tag>
-<AM lemma="Trabant-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="trabant_;R" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="Trabant-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
+<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-113-p5s1w20">
@@ -1234,8 +1234,8 @@
 </w.rf>
 <form>wartburgů</form>
 <tag>
-<AM lemma="wartburg_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="wartburg_;R" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="wartburg_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
+<AM lemma="wartburg_;m" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-113-p5s1w23">

@@ -28,7 +28,7 @@
 </w.rf>
 <form>American</form>
 <tag>
-<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -52,7 +52,7 @@
 <form>International</form>
 <tag>
 <AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -230,8 +230,8 @@
 </w.rf>
 <form>Dow</form>
 <tag>
-<AM lemma="Dow-1_;S" src="auto" selected="1">NNMXX-----A----</AM>
-<AM lemma="Dow_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dow-1_;Y" src="auto" selected="1">NNMXX-----A----</AM>
+<AM lemma="Dow_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -250,15 +250,15 @@
 </w.rf>
 <form>Jonesova</form>
 <tag>
-<AM lemma="Jonesův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUFS5M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto" selected="1">AUIS2M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUMS2M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUMS4M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUNP1M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUNP4M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUNP5M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUNS2M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto">AUFS5M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto" selected="1">AUIS2M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto">AUMS2M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto">AUMS4M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto">AUNP1M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto">AUNP4M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto">AUNP5M---------</AM>
+<AM lemma="Jonesův_;Y_^(*2)" src="auto">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0919-001-p1s0W19-Ta">
@@ -405,7 +405,7 @@
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0919-001-p1s2W2-Ta">
@@ -596,8 +596,8 @@
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>

@@ -142,18 +142,18 @@
 </w.rf>
 <form>Stráský</form>
 <tag>
-<AM lemma="Stráský_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Stráský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Stráský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Stráská_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Stráská_;S" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Stráský_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Stráský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFS6-----A---6</AM>
 </tag>
 </m>
 <m id="m-mf920902-094-p2s2w11">
@@ -191,7 +191,7 @@
 <form>Slováka</form>
 <tag>
 <AM lemma="Slovák_;E" src="orig">NNMS4-----A----</AM>
-<AM lemma="Slovák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Slovák_;E_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-094-p2s2w15">
@@ -362,7 +362,7 @@
 <form>Slovák</form>
 <tag>
 <AM lemma="Slovák_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Slovák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Slovák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-094-p3s1w5">
@@ -468,7 +468,7 @@
 </w.rf>
 <form>SNB</form>
 <tag>
-<AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SNB-1_:B_;m_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -604,7 +604,7 @@
 </w.rf>
 <form>SNB</form>
 <tag>
-<AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SNB-1_:B_;m_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -687,7 +687,7 @@
 </w.rf>
 <form>SNB</form>
 <tag>
-<AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SNB-1_:B_;m_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -796,7 +796,7 @@
 </w.rf>
 <form>SNB</form>
 <tag>
-<AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SNB-1_:B_;m_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

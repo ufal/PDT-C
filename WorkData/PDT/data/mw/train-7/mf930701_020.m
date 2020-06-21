@@ -20,7 +20,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -90,7 +90,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -117,7 +117,7 @@
 </w.rf>
 <form>Phare</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -282,11 +282,11 @@
 </w.rf>
 <form>Fluxy</form>
 <tag>
-<AM lemma="Fluxa_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Fluxus_;K_^(hnutí)" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Fluxus_;K_^(hnutí)" src="auto">NNIP4-----A----</AM>
-<AM lemma="Fluxus_;K_^(hnutí)" src="auto">NNIP5-----A----</AM>
-<AM lemma="Fluxus_;K_^(hnutí)" src="auto">NNIP7-----A----</AM>
+<AM lemma="Fluxa_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Fluxus_;m_^(hnutí)" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Fluxus_;m_^(hnutí)" src="auto">NNIP4-----A----</AM>
+<AM lemma="Fluxus_;m_^(hnutí)" src="auto">NNIP5-----A----</AM>
+<AM lemma="Fluxus_;m_^(hnutí)" src="auto">NNIP7-----A----</AM>
 <AM lemma="flux" src="auto">NNIP1-----A----</AM>
 <AM lemma="flux" src="auto">NNIP4-----A----</AM>
 <AM lemma="flux" src="auto">NNIP5-----A----</AM>
@@ -638,7 +638,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -665,7 +665,7 @@
 </w.rf>
 <form>Phare</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -733,7 +733,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

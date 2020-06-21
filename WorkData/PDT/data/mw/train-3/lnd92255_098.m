@@ -693,7 +693,7 @@
 <LM>w#w-lnd92255-098-p2s6w3</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-098-p2s6w4">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-lnd92255-098-p2s8w3</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-098-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-lnd92255-098-p2s10w10</LM>
 </w.rf>
 <form>Loma</form>
-<tag lemma="Lom_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lom_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-098-p2s10w11">
 <src.rf>manual</src.rf>
@@ -1725,7 +1725,7 @@
 <LM>w#w-lnd92255-098-p3s1w2</LM>
 </w.rf>
 <form>ŠRÁMEK</form>
-<tag lemma="Šrámek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrámek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-098-p3s1w3">
 <src.rf>manual</src.rf>

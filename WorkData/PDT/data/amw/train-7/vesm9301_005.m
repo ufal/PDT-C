@@ -53,7 +53,7 @@
 <LM>w#w-vesm9301-005-p2s1w2</LM>
 </w.rf>
 <form>Kratochvíl</form>
-<tag lemma="Kratochvíl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kratochvíl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-005-p2s1w3">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-vesm9301-005-p4s1w1</LM>
 </w.rf>
 <form>Herrmann</form>
-<tag lemma="Herrmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herrmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-005-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto" selected="1">NNIS7-----A---8</AM>
@@ -1212,7 +1212,7 @@
 <LM>w#w-vesm9301-005-p6s1w2</LM>
 </w.rf>
 <form>Kratochvílovy</form>
-<tag lemma="Kratochvílův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Kratochvílův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9301-005-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-005-p7s1w3">
@@ -1946,7 +1946,7 @@
 <LM>w#w-vesm9301-005-p7s1w4</LM>
 </w.rf>
 <form>Babor</form>
-<tag lemma="Babor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Babor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

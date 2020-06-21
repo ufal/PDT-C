@@ -38,7 +38,7 @@
 <LM>w#w-mf920902-059-p1s1w3</LM>
 </w.rf>
 <form>Grijse</form>
-<tag lemma="Grijse_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grijse_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-059-p1s1w4">
 <src.rf>manual</src.rf>

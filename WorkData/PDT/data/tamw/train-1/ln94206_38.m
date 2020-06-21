@@ -399,7 +399,7 @@
 <LM>w#w-ln94206-38-p2s2w13</LM>
 </w.rf>
 <form>Vacek</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-38-p2s2w14">
 <src.rf>manual</src.rf>

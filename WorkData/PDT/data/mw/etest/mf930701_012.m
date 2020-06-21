@@ -975,20 +975,20 @@
 <AM lemma="L-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="L-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
-<AM lemma="L-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="L-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="L-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="L-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Labe_:B_;G" src="auto">NNNS7-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="L-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-012-p4s1w4">

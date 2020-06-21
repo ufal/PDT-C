@@ -77,7 +77,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-022-p1s1w9">
@@ -94,7 +94,7 @@
 <LM>w#w-ln95045-022-p1s1w10</LM>
 </w.rf>
 <form>Okála</form>
-<tag lemma="Okál-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Okál-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-022-p1s1w11">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-ln95045-022-p1s1w15</LM>
 </w.rf>
 <form>Tótha</form>
-<tag lemma="Tóth_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tóth_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 </mdata>

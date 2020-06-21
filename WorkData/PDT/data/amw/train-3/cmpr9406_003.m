@@ -442,7 +442,7 @@
 <LM>w#w-cmpr9406-003-p6s1w2</LM>
 </w.rf>
 <form>Jánoška</form>
-<tag lemma="Jánoška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jánoška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-003-p8s1">
@@ -836,8 +836,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-003-p9s1w7">
@@ -854,7 +854,7 @@
 <LM>w#w-cmpr9406-003-p9s1w8</LM>
 </w.rf>
 <form>Švehla</form>
-<tag lemma="Švehla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švehla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-003-p9s1w9">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 </w.rf>
 <form>KPB</form>
 <tag>
-<AM lemma="KPB-1_:B_;K_^(Kreditní_a_průmyslová_banka)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KPB-1_:B_;m_^(Kreditní_a_průmyslová_banka)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2420,7 +2420,7 @@
 <LM>w#w-cmpr9406-003-p12s1w3</LM>
 </w.rf>
 <form>Švehly</form>
-<tag lemma="Švehla_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Švehla_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-003-p12s1w4">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-lnd92252-090-p1s1w3</LM>
 </w.rf>
 <form>Sadyrin</form>
-<tag lemma="Sadyrin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadyrin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92252-090-p2s1">
@@ -185,8 +185,8 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;K_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;m_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-090-p2s1w19">
@@ -351,7 +351,7 @@
 <LM>w#w-lnd92252-090-p2s3w4</LM>
 </w.rf>
 <form>Siomin</form>
-<tag lemma="Siomin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Siomin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-090-p2s3w5">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-lnd92252-090-p2s3w6</LM>
 </w.rf>
 <form>Gazajev</form>
-<tag lemma="Gazajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gazajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-090-p2s3w7">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-lnd92252-090-p2s3w8</LM>
 </w.rf>
 <form>Sadyrin</form>
-<tag lemma="Sadyrin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadyrin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-090-p2s3w9">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-lnd92252-090-p2s4w1</LM>
 </w.rf>
 <form>Sadyrin</form>
-<tag lemma="Sadyrin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadyrin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-090-p2s4w2">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 </w.rf>
 <form>CSKA</form>
 <tag>
-<AM lemma="CSKA-1_:B_;K_;w_,t_^(sov._sport._klub)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CSKA-1_:B_;m_,t_^(sov._sport._klub)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CSKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -768,7 +768,7 @@
 <LM>w#w-lnd92252-090-p3s1w2</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="šv-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92252-090-p3s1w3">
 <src.rf>manual</src.rf>

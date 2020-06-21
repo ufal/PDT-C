@@ -88,7 +88,7 @@
 </w.rf>
 <form>Bites</form>
 <tag>
-<AM lemma="bite_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="bite_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Bites-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -107,9 +107,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-014-p2s1w8">
@@ -166,7 +166,7 @@
 <LM>w#w-ln95048-014-p2s1w14</LM>
 </w.rf>
 <form>Stiller</form>
-<tag lemma="Stiller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stiller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-014-p2s1w15">
 <src.rf>manual</src.rf>
@@ -385,8 +385,8 @@
 </w.rf>
 <form>X</form>
 <tag>
-<AM lemma="X-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="X-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="X-33" src="orig">Q3-------------</AM>
+<AM lemma="X-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-014-p2s2w26">
@@ -448,7 +448,7 @@
 <LM>w#w-ln95048-014-p2s3w5</LM>
 </w.rf>
 <form>Ryderová</form>
-<tag lemma="Ryderová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ryderová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-014-p2s3w6">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 </w.rf>
 <form>Classic</form>
 <tag>
-<AM lemma="Classic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Classic_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Classic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -521,7 +521,7 @@
 </w.rf>
 <form>Entertainment</form>
 <tag>
-<AM lemma="Entertainment_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Entertainment_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

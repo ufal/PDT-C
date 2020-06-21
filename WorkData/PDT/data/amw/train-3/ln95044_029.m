@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-029-p1s1w1</LM>
 </w.rf>
 <form>Srníček</form>
-<tag lemma="Srníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Srníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-029-p1s1w2">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln95044-029-p2s1Bw24</LM>
 </w.rf>
 <form>Srníčkovi</form>
-<tag lemma="Srníček_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Srníček_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-029-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -395,9 +395,9 @@
 <form>City</form>
 <tag>
 <AM lemma="City_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -472,7 +472,7 @@
 <LM>w#w-ln95044-029-p2s2w22</LM>
 </w.rf>
 <form>Keegana</form>
-<tag lemma="Keegan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Keegan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-029-p2s2w23">
 <src.rf>manual</src.rf>

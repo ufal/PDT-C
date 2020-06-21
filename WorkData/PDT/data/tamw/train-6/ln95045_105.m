@@ -35,7 +35,7 @@
 <LM>w#w-ln95045-105-p1s1w3</LM>
 </w.rf>
 <form>Liznera</form>
-<tag lemma="Lizner_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lizner_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-105-p1s1w4">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 </w.rf>
 <form>CKP</form>
 <tag>
-<AM lemma="CKP_:B_;K" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CKP_:B_;m" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -138,7 +138,7 @@
 <LM>w#w-ln95045-105-p2s1Bw6</LM>
 </w.rf>
 <form>Liznera</form>
-<tag lemma="Lizner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lizner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-105-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-ln95045-105-p2s1Bw26</LM>
 </w.rf>
 <form>Vaclové</form>
-<tag lemma="Vaclová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Vaclová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95045-105-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln95045-105-p2s3w4</LM>
 </w.rf>
 <form>Liznerova</form>
-<tag lemma="Liznerův_;S_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Liznerův_;Y_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-ln95045-105-p2s3w5">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln95045-105-p2s3w15</LM>
 </w.rf>
 <form>Liznerově</form>
-<tag lemma="Liznerův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Liznerův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95045-105-p2s3w16">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-ln95045-105-p2s4w4</LM>
 </w.rf>
 <form>Liznera</form>
-<tag lemma="Lizner_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lizner_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-105-p2s4w5">
 <src.rf>manual</src.rf>

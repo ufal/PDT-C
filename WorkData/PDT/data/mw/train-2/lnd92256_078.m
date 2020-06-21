@@ -193,8 +193,8 @@
 <form>Wu</form>
 <tag>
 <AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="manual">NNFXX-----A----</AM>
-<AM lemma="Wu-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Wu_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Wu-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s2w16">
@@ -205,7 +205,7 @@
 <form>Ťing</form>
 <tag>
 <AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ťing-2_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ťing-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s2w17">
@@ -531,8 +531,8 @@
 <form>Wu</form>
 <tag>
 <AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="manual">NNFXX-----A----</AM>
-<AM lemma="Wu-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Wu_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Wu-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s5w4">
@@ -543,7 +543,7 @@
 <form>Ťing</form>
 <tag>
 <AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ťing-2_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ťing-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s5w5">
@@ -934,8 +934,8 @@
 <form>Wu</form>
 <tag>
 <AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu_;S" src="manual">NNFXX-----A----</AM>
-<AM lemma="Wu-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Wu_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Wu-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s8w11">
@@ -1062,7 +1062,7 @@
 <form>Wuina</form>
 <tag>
 <AM lemma="Wuina_;Y_^(*3)" src="orig">AUFS1F---------</AM>
-<AM lemma="Wuina_;S_^(*3)" src="manual" selected="1">AUFS1F---------</AM>
+<AM lemma="Wuina_;Y_^(*3)" src="manual" selected="1">AUFS1F---------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s9w10">

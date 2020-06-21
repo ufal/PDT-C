@@ -913,11 +913,11 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS-2_:B_,t_^(European_monetary_system)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Ems_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1202,11 +1202,11 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS-2_:B_,t_^(European_monetary_system)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EMS_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ems_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1616,11 +1616,11 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS-2_:B_,t_^(European_monetary_system)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EMS_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ems_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1748,11 +1748,11 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS-2_:B_,t_^(European_monetary_system)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Ems_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1998,7 +1998,7 @@
 <LM>w#w-mf920901-009-p3s7w4</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf920901-009-p3s7w5">
 <src.rf>manual</src.rf>
@@ -2315,7 +2315,7 @@
 <LM>w#w-mf920901-009-p4s1w11</LM>
 </w.rf>
 <form>Amato</form>
-<tag lemma="Amato_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amato_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-009-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2373,7 +2373,7 @@
 <LM>w#w-mf920901-009-p4s2w4</LM>
 </w.rf>
 <form>Bérégovoy</form>
-<tag lemma="Bérégovoy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bérégovoy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-009-p4s2w5">
 <src.rf>manual</src.rf>
@@ -2527,7 +2527,7 @@
 <LM>w#w-mf920901-009-p4s3w6</LM>
 </w.rf>
 <form>Amato</form>
-<tag lemma="Amato_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amato_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-009-p4s3w7">
 <src.rf>manual</src.rf>

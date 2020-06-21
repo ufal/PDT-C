@@ -147,7 +147,7 @@
 <LM>w#w-ln95048-164-p1s1w17</LM>
 </w.rf>
 <form>Oseva</form>
-<tag lemma="Oseva_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Oseva_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-164-p1s1w18">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-ln95048-164-p1s2w5</LM>
 </w.rf>
 <form>Oseva</form>
-<tag lemma="Oseva_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Oseva_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-164-p1s2w6">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-ln95048-164-p1s3w5</LM>
 </w.rf>
 <form>Oseva</form>
-<tag lemma="Oseva_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Oseva_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-164-p1s3w6">
 <src.rf>manual</src.rf>

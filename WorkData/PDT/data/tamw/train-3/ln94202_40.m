@@ -168,8 +168,8 @@
 </w.rf>
 <form>ljď</form>
 <tag>
-<AM lemma="ljď-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ljď-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ljď-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ljď-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-40-p2s1Bw4">
@@ -598,7 +598,7 @@
 <LM>w#w-ln94202-40-p3s1w13</LM>
 </w.rf>
 <form>Pelech</form>
-<tag lemma="Pelech_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelech_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-40-p3s1w14">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-ln94202-40-p3s2w7</LM>
 </w.rf>
 <form>Pelecha</form>
-<tag lemma="Pelech_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pelech_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-40-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1342,7 +1342,7 @@
 <LM>w#w-ln94202-40-p4s1w19</LM>
 </w.rf>
 <form>Pelecha</form>
-<tag lemma="Pelech_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pelech_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-40-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-ln94202-40-p5s1w17</LM>
 </w.rf>
 <form>Janoušek</form>
-<tag lemma="Janoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-40-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1642,8 +1642,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-40-p5s1w19">
@@ -2194,7 +2194,7 @@
 <LM>w#w-ln94202-40-p7s1w2</LM>
 </w.rf>
 <form>Janouška</form>
-<tag lemma="Janoušek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Janoušek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-40-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2642,7 +2642,7 @@
 <LM>w#w-ln94202-40-p7s3w11</LM>
 </w.rf>
 <form>Janoušek</form>
-<tag lemma="Janoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-40-p7s3w12">
 <src.rf>manual</src.rf>

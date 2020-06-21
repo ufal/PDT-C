@@ -20,7 +20,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-82-p1s1w2">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-82-p2s2w26">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 </w.rf>
 <form>Oslobodjenje</form>
 <tag>
-<AM lemma="Oslobodjenje_;R_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Oslobodjenje_;m_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="Oslobodjenje-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -640,7 +640,7 @@
 <LM>w#w-ln94204-82-p2s4w31</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94204-82-p2s4w32">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-82-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-ln94204-82-p2s9w4</LM>
 </w.rf>
 <form>Srbům</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94204-82-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1315,7 +1315,7 @@
 <LM>w#w-ln94204-82-p3s1w30</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94204-82-p3s1w31">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-ln94204-82-p3s2w8</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94204-82-p3s2w9">
 <src.rf>manual</src.rf>
@@ -2070,7 +2070,7 @@
 </w.rf>
 <form>Associated</form>
 <tag>
-<AM lemma="Associated_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Associated_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Associated-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2081,7 +2081,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2123,7 +2123,7 @@
 <LM>w#w-ln94204-82-p4s2w11</LM>
 </w.rf>
 <form>Haris</form>
-<tag lemma="Haris_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haris_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-82-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2132,7 +2132,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Silajdžič</form>
-<tag lemma="Silajdžič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Silajdžič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-82-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2328,7 +2328,7 @@
 <LM>w#w-ln94204-82-p4s4w3</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94204-82-p4s4w4">
 <src.rf>manual</src.rf>
@@ -2345,7 +2345,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžič</form>
-<tag lemma="Karadžič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karadžič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-82-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2584,7 +2584,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Silajdžič</form>
-<tag lemma="Silajdžič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Silajdžič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-82-p4s6w19">
 <src.rf>manual</src.rf>

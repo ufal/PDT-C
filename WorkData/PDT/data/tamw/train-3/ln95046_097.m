@@ -329,7 +329,7 @@
 <LM>w#w-ln95046-097-p2s2w7</LM>
 </w.rf>
 <form>Válek</form>
-<tag lemma="Válek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Válek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-097-p2s2w8">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-ln95046-097-p2s4w20</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-097-p2s4w21">
 <src.rf>manual</src.rf>

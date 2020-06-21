@@ -85,7 +85,7 @@
 <LM>w#w-ln94205-70-p2s1Bw2</LM>
 </w.rf>
 <form>Kvačková</form>
-<tag lemma="Kvačková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kvačková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-70-p2s1C">
@@ -2373,7 +2373,7 @@
 <LM>w#w-ln94205-70-p5s1w3</LM>
 </w.rf>
 <form>Nováčková</form>
-<tag lemma="Nováčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nováčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-70-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2443,7 +2443,7 @@
 <LM>w#w-ln94205-70-p5s1w11</LM>
 </w.rf>
 <form>Kovalikové</form>
-<tag lemma="Kovaliková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kovaliková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-70-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2525,7 +2525,7 @@
 <LM>w#w-ln94205-70-p5s2w1</LM>
 </w.rf>
 <form>Kovaliková</form>
-<tag lemma="Kovaliková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kovaliková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-70-p5s2w2">
 <src.rf>manual</src.rf>

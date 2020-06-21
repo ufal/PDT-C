@@ -93,7 +93,7 @@
 <LM>w#w-ln95043-024-p2s1Aw4</LM>
 </w.rf>
 <form>Koudelková</form>
-<tag lemma="Koudelková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koudelková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95043-024-p2s1Bw18</LM>
 </w.rf>
 <form>Kašpárková</form>
-<tag lemma="Kašpárková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kašpárková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1463,7 +1463,7 @@
 <LM>w#w-ln95043-024-p2s7w6</LM>
 </w.rf>
 <form>Kašpárková</form>
-<tag lemma="Kašpárková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kašpárková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <LM>w#w-ln95043-024-p2s7w18</LM>
 </w.rf>
 <form>Birjukovou</form>
-<tag lemma="Birjuková_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Birjuková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95043-024-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1901,7 +1901,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2106,7 +2106,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2250,7 +2250,7 @@
 <LM>w#w-ln95043-024-p3s1w8</LM>
 </w.rf>
 <form>Kašpárkové</form>
-<tag lemma="Kašpárková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kašpárková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-024-p3s1w9">
 <src.rf>manual</src.rf>
@@ -2290,7 +2290,7 @@
 <LM>w#w-ln95043-024-p3s1w13</LM>
 </w.rf>
 <form>Pogányho</form>
-<tag lemma="Pogány_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pogány_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-024-p3s1w14">
 <src.rf>manual</src.rf>
@@ -2330,7 +2330,7 @@
 <LM>w#w-ln95043-024-p3s1w18</LM>
 </w.rf>
 <form>Koudelková</form>
-<tag lemma="Koudelková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koudelková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p3s1w19">
 <src.rf>manual</src.rf>
@@ -2356,7 +2356,7 @@
 <LM>w#w-ln95043-024-p3s2w2</LM>
 </w.rf>
 <form>Pogányho</form>
-<tag lemma="Pogány_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pogány_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-024-p3s2w3">
 <src.rf>manual</src.rf>
@@ -2380,7 +2380,7 @@
 <LM>w#w-ln95043-024-p3s2w5</LM>
 </w.rf>
 <form>Kašpárkovou</form>
-<tag lemma="Kašpárková_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Kašpárková_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95043-024-p3s2w6">
 <src.rf>manual</src.rf>
@@ -2872,7 +2872,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -3008,7 +3008,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -3251,7 +3251,7 @@
 <LM>w#w-ln95043-024-p3s6Bw13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95043-024-p3s6Bw14">
 <src.rf>manual</src.rf>
@@ -3700,7 +3700,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-024-p3s8w22">
@@ -3717,7 +3717,7 @@
 <LM>w#w-ln95043-024-p3s8w23</LM>
 </w.rf>
 <form>Koudelková</form>
-<tag lemma="Koudelková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koudelková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-024-p3s8w24">
 <src.rf>manual</src.rf>

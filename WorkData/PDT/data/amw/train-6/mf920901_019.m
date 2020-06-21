@@ -21,7 +21,7 @@
 <form>SPOLANA</form>
 <tag>
 <AM lemma="Spolana" src="orig">NNFS1-----A----</AM>
-<AM lemma="Spolana_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Spolana_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-019-p1s1w2">

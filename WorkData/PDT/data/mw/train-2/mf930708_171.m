@@ -702,7 +702,7 @@
 <LM>w#w-mf930708-171-p2s4w10</LM>
 </w.rf>
 <form>Fremutha</form>
-<tag lemma="Fremuth_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Fremuth_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-171-p2s4w11">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-171-p2s6w2">
@@ -949,7 +949,7 @@
 <LM>w#w-mf930708-171-p2s6w3</LM>
 </w.rf>
 <form>Fremuth</form>
-<tag lemma="Fremuth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fremuth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-171-p2s6w4">
 <src.rf>manual</src.rf>

@@ -158,7 +158,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Mezzana</form>
-<tag lemma="Mezzana_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Mezzana_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s2Aw2">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-mf930713-030-p2s9w3</LM>
 </w.rf>
 <form>Hilgertovou</form>
-<tag lemma="Hilgertová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Hilgertová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf930713-030-p2s9w18</LM>
 </w.rf>
 <form>Pollert</form>
-<tag lemma="Pollert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pollert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s9w19">
 <src.rf>manual</src.rf>
@@ -2063,7 +2063,7 @@
 <LM>w#w-mf930713-030-p2s16w7</LM>
 </w.rf>
 <form>Pollert</form>
-<tag lemma="Pollert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pollert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s16w8">
 <src.rf>manual</src.rf>
@@ -2740,7 +2740,7 @@
 <LM>w#w-mf930713-030-p2s19w10</LM>
 </w.rf>
 <form>Šimek</form>
-<tag lemma="Šimek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s19w11">
 <src.rf>manual</src.rf>
@@ -2756,7 +2756,7 @@
 <LM>w#w-mf930713-030-p2s19w12</LM>
 </w.rf>
 <form>Rohan</form>
-<tag lemma="Rohan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rohan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s19w13">
 <src.rf>manual</src.rf>
@@ -2912,7 +2912,7 @@
 <LM>w#w-mf930713-030-p2s21w2</LM>
 </w.rf>
 <form>Rohan</form>
-<tag lemma="Rohan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rohan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s21w3">
 <src.rf>manual</src.rf>
@@ -3071,7 +3071,7 @@
 <LM>w#w-mf930713-030-p2s21w21</LM>
 </w.rf>
 <form>Jirase</form>
-<tag lemma="Jiras_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jiras_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s21w22">
 <src.rf>manual</src.rf>
@@ -3103,7 +3103,7 @@
 <LM>w#w-mf930713-030-p2s21w25</LM>
 </w.rf>
 <form>Mádera</form>
-<tag lemma="Máder_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Máder_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s21w26">
 <src.rf>manual</src.rf>
@@ -3129,7 +3129,7 @@
 <LM>w#w-mf930713-030-p2s22w2</LM>
 </w.rf>
 <form>Hilgertovi</form>
-<tag lemma="Hilgertův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Hilgertův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930713-030-p2s22w3">
 <src.rf>manual</src.rf>
@@ -3583,7 +3583,7 @@
 <LM>w#w-mf930713-030-p2s23w32</LM>
 </w.rf>
 <form>Pollert</form>
-<tag lemma="Pollert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pollert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s23w33">
 <src.rf>manual</src.rf>
@@ -3782,7 +3782,7 @@
 <LM>w#w-mf930713-030-p2s26w3</LM>
 </w.rf>
 <form>Pollert</form>
-<tag lemma="Pollert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pollert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s26w4">
 <src.rf>manual</src.rf>
@@ -3830,7 +3830,7 @@
 <LM>w#w-mf930713-030-p2s26w9</LM>
 </w.rf>
 <form>Ferrazzi</form>
-<tag lemma="Ferrazzi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ferrazzi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s26w10">
 <src.rf>manual</src.rf>
@@ -3870,7 +3870,7 @@
 <LM>w#w-mf930713-030-p2s26w14</LM>
 </w.rf>
 <form>Michelerová</form>
-<tag lemma="Michelerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Michelerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s26w15">
 <src.rf>manual</src.rf>
@@ -4120,7 +4120,7 @@
 <LM>w#w-mf930713-030-p2s30w14</LM>
 </w.rf>
 <form>Lang</form>
-<tag lemma="Lang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s30w15">
 <src.rf>manual</src.rf>

@@ -240,7 +240,7 @@
 </w.rf>
 <form>Mute</form>
 <tag>
-<AM lemma="Mute_;K_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mute_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -587,7 +587,7 @@
 </w.rf>
 <form>CARPETS</form>
 <tag>
-<AM lemma="Carpets_;m_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="CARPETS-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -895,7 +895,7 @@
 </w.rf>
 <form>Katharine</form>
 <tag>
-<AM lemma="Katharine_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Katharine_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Katharine_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -905,7 +905,7 @@
 <LM>w#w-ln94209-60-p3s2w11</LM>
 </w.rf>
 <form>Blakeová</form>
-<tag lemma="Blakeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blakeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-60-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1869,7 +1869,7 @@
 </w.rf>
 <form>That</form>
 <tag>
-<AM lemma="that_,t" src="orig">PDXSX----------</AM>
+<AM lemma="that_,t" src="orig">PDXXX----------</AM>
 <AM lemma="That-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2492,7 +2492,7 @@
 </w.rf>
 <form>Carpets</form>
 <tag>
-<AM lemma="Carpets_;m_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2753,7 +2753,7 @@
 <LM>w#w-ln94209-60-p5s2w14</LM>
 </w.rf>
 <form>Hingleye</form>
-<tag lemma="Hingley_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hingley_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-60-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2969,11 +2969,11 @@
 <form>Saturn</form>
 <tag>
 <AM lemma="Saturn-3_;G_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Saturn-1_;G_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Saturn-1_;G_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Saturn-2_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="saturn_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="saturn_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Saturn-1_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Saturn-1_;G_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Saturn-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="saturn_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="saturn_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Saturn-3_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Saturn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3144,7 +3144,7 @@
 </w.rf>
 <form>Generations</form>
 <tag>
-<AM lemma="Generations_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Generations_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Generations-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3198,7 +3198,7 @@
 </w.rf>
 <form>It</form>
 <tag>
-<AM lemma="it_,t_^(angl._to)" src="auto">PPNSX--3-------</AM>
+<AM lemma="it_,t_^(angl._to)" src="auto">PPNXX--3-------</AM>
 <AM lemma="It-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3441,7 +3441,7 @@
 </w.rf>
 <form>Me</form>
 <tag>
-<AM lemma="I-2_,t_^(angl._zájmeno_já)" src="auto">PP-SX--1-------</AM>
+<AM lemma="I-2_,t_^(angl._zájmeno_já)" src="auto">PP-XX--1-------</AM>
 <AM lemma="Me-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3580,7 +3580,7 @@
 </w.rf>
 <form>Carpets</form>
 <tag>
-<AM lemma="Carpets_;m_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3688,7 +3688,7 @@
 <LM>w#w-ln94209-60-p5s5Aw2</LM>
 </w.rf>
 <form>Seidl</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-60-p5s5B">
@@ -3778,7 +3778,7 @@
 </w.rf>
 <form>Carpets</form>
 <tag>
-<AM lemma="Carpets_;m_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3905,8 +3905,8 @@
 </w.rf>
 <form>W</form>
 <tag>
-<AM lemma="W-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-60-p5s7w4">
@@ -3924,7 +3924,7 @@
 </w.rf>
 <form>promotion</form>
 <tag>
-<AM lemma="promotion_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="promotion_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="promotion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3943,7 +3943,7 @@
 </w.rf>
 <form>Mute</form>
 <tag>
-<AM lemma="Mute_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mute_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

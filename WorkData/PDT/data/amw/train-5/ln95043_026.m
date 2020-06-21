@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-026-p1s1w1</LM>
 </w.rf>
 <form>Valík</form>
-<tag lemma="Valík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-026-p1s1w2">
 <src.rf>manual</src.rf>
@@ -45,7 +45,7 @@
 <form>Christiem</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Christie-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-026-p1s1w5">
@@ -236,7 +236,7 @@
 <form>Christie</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christie-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-026-p2s1Bw18">
@@ -357,7 +357,7 @@
 <LM>w#w-ln95043-026-p2s1Bw32</LM>
 </w.rf>
 <form>Valík</form>
-<tag lemma="Valík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-026-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <form>Olympu</form>
 <tag>
 <AM lemma="Olymp_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Olymp_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Olymp_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-026-p2s1Bw35">
@@ -466,7 +466,7 @@
 <LM>w#w-ln95043-026-p2s2w9</LM>
 </w.rf>
 <form>Valík</form>
-<tag lemma="Valík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-026-p2s2w10">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <form>Christiem</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Christie-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-026-p3s1w4">
@@ -1083,7 +1083,7 @@
 <form>Christiem</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Christie-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-026-p3s3w18">
@@ -1156,7 +1156,7 @@
 <LM>w#w-ln95043-026-p3s3w26</LM>
 </w.rf>
 <form>Valík</form>
-<tag lemma="Valík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-026-p3s3w27">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-ln95043-026-p3s4w33</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-3_:B_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95043-026-p3s4w34">
 <src.rf>manual</src.rf>
@@ -1732,7 +1732,7 @@
 <form>Christie</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christie-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-026-p3s7w7">
@@ -1864,7 +1864,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1939,7 +1939,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -2068,13 +2068,13 @@
 </w.rf>
 <form>Rose</form>
 <tag>
-<AM lemma="Ros_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rose_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rose_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Ros_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rose_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rose_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="rosa" src="auto">NNFS3-----A----</AM>
 <AM lemma="rosa" src="auto">NNFS6-----A----</AM>
 <AM lemma="rosit" src="auto">VeYS------A-I--</AM>
-<AM lemma="Rose_;S" src="manual" selected="1">NNMSX-----A----</AM>
+<AM lemma="Rose_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-026-p3s8w20">

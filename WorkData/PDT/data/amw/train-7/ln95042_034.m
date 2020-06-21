@@ -20,8 +20,8 @@
 </w.rf>
 <form>Emmerson</form>
 <tag>
-<AM lemma="Emmerson_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Emmerson_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Emmerson_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Emmerson_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-034-p1s1w2">
@@ -30,7 +30,7 @@
 <LM>w#w-ln95042-034-p1s1w2</LM>
 </w.rf>
 <form>Fittipaldi</form>
-<tag lemma="Fittipaldi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fittipaldi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-034-p1s1w3">
 <src.rf>manual</src.rf>
@@ -119,8 +119,8 @@
 </w.rf>
 <form>Copersucar</form>
 <tag>
-<AM lemma="Copersucar_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Copersucar_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Copersucar_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Copersucar_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-034-p1s1w14">

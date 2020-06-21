@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-22-p1s1w2</LM>
 </w.rf>
 <form>Radegast</form>
-<tag lemma="Radegast-3_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Radegast-3_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-22-p1s1w3">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-ln94210-22-p2s1Bw8</LM>
 </w.rf>
 <form>Radegast</form>
-<tag lemma="Radegast-3_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Radegast-3_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-22-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 </w.rf>
 <form>Dark</form>
 <tag>
-<AM lemma="Dark_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Dark_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Dark-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -421,7 +421,7 @@
 <LM>w#w-ln94210-22-p2s2w29</LM>
 </w.rf>
 <form>Buchta</form>
-<tag lemma="Buchta_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchta_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-22-p2s2w30">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln94210-22-p3s1w13</LM>
 </w.rf>
 <form>Radegastu</form>
-<tag lemma="Radegast-3_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Radegast-3_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94210-22-p3s1w14">
 <src.rf>manual</src.rf>
@@ -773,12 +773,12 @@
 </w.rf>
 <form>Radegast</form>
 <tag>
-<AM lemma="Radegast_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Radegast-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radegast-2_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Radegast-2_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Radegast-3_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Radegast-3_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Radegast_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Radegast-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Radegast-2_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Radegast-2_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Radegast-3_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Radegast-3_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="radegast" src="auto">NNIS1-----A----</AM>
 <AM lemma="radegast" src="auto">NNIS4-----A----</AM>
 </tag>

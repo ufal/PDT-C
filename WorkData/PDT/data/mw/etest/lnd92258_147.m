@@ -663,7 +663,7 @@
 <LM>w#w-lnd92258-147-p3s2w17</LM>
 </w.rf>
 <form>Taaffe</form>
-<tag lemma="Taaffe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Taaffe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-147-p3s2w18">
 <src.rf>manual</src.rf>
@@ -2654,7 +2654,7 @@
 <LM>w#w-lnd92258-147-p6s2w15</LM>
 </w.rf>
 <form>Taaffeho</form>
-<tag lemma="Taaffe_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Taaffe_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-147-p6s2w16">
 <src.rf>manual</src.rf>
@@ -3437,7 +3437,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3651,7 +3651,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -4476,7 +4476,7 @@
 <LM>w#w-lnd92258-147-p8s1w31</LM>
 </w.rf>
 <form>Taaffemu</form>
-<tag lemma="Taaffe_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Taaffe_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92258-147-p8s1w32">
 <src.rf>manual</src.rf>
@@ -4966,7 +4966,7 @@
 <LM>w#w-lnd92258-147-p10s1w2</LM>
 </w.rf>
 <form>PŘÍHODA</form>
-<tag lemma="Příhoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Příhoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

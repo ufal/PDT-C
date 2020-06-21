@@ -524,7 +524,7 @@
 <LM>w#w-mf920902-095-p2s2w14</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-095-p2s2w15">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <form>T</form>
 <tag>
 <AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-095-p2s4w8">
@@ -804,7 +804,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="mig_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="mig_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1184,7 +1184,7 @@
 <LM>w#w-mf920902-095-p3s3w8</LM>
 </w.rf>
 <form>Barák</form>
-<tag lemma="Barák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-095-p3s3w9">
 <src.rf>manual</src.rf>

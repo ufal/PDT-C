@@ -63,7 +63,7 @@
 <LM>w#w-cmpr9417-026-p4s1w2</LM>
 </w.rf>
 <form>Fortex</form>
-<tag lemma="Fortex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fortex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-026-p4s1w3">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-cmpr9417-026-p5s1w3</LM>
 </w.rf>
 <form>Fortex</form>
-<tag lemma="Fortex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fortex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-026-p5s1w4">
 <src.rf>manual</src.rf>
@@ -648,8 +648,8 @@
 </w.rf>
 <form>DBV</form>
 <tag>
-<AM lemma="DBV-2_:B_;K_,t_^(DBV_Cycles)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="DBV-2_:B_;m_,t_^(DBV_Cycles)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="DBV-1_:B_;m_,t_^(Deutscher_Bäderverband)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="DBV-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -661,7 +661,7 @@
 </w.rf>
 <form>Cycles</form>
 <tag>
-<AM lemma="Cycle_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Cycle_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="cycles_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Cycles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1055,8 +1055,8 @@
 </w.rf>
 <form>DBV</form>
 <tag>
-<AM lemma="DBV-2_:B_;K_,t_^(DBV_Cycles)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="DBV-2_:B_;m_,t_^(DBV_Cycles)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="DBV-1_:B_;m_,t_^(Deutscher_Bäderverband)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="DBV-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1068,7 +1068,7 @@
 </w.rf>
 <form>Cycles</form>
 <tag>
-<AM lemma="Cycle_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Cycle_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="cycles_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Cycles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1377,7 +1377,7 @@
 <LM>w#w-cmpr9417-026-p12s1w1</LM>
 </w.rf>
 <form>Seliku</form>
-<tag lemma="Seliko_;K" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="Seliko_;m" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-cmpr9417-026-p12s1w2">
 <src.rf>manual</src.rf>

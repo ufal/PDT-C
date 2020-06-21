@@ -1348,7 +1348,7 @@
 <LM>w#w-cmpr9413-011-p7s1w2</LM>
 </w.rf>
 <form>Ströbinger</form>
-<tag lemma="Ströbinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ströbinger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-011-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2641,7 +2641,7 @@
 <LM>w#w-cmpr9413-011-p12s1w2</LM>
 </w.rf>
 <form>Petrboková</form>
-<tag lemma="Petrboková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Petrboková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-011-p12s1w3">
 <src.rf>manual</src.rf>
@@ -2719,7 +2719,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="č-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="č-33" src="manual">Q3-------------</AM>
 <AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -4067,7 +4067,7 @@
 <LM>w#w-cmpr9413-011-p17s1w2</LM>
 </w.rf>
 <form>Martikán</form>
-<tag lemma="Martikán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martikán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-011-p17s1w3">
 <src.rf>manual</src.rf>
@@ -4632,7 +4632,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6200,7 +6200,7 @@
 </w.rf>
 <form>IBM</form>
 <tag>
-<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="IBM-1_:B_;m_^(International_Business_Machines)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6219,8 +6219,8 @@
 </w.rf>
 <form>Volkswagenu</form>
 <tag>
-<AM lemma="Volkswagen_;K_;R_,x" src="auto">NNIS2-----A----</AM>
-<AM lemma="Volkswagen_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Volkswagen_;m_,x" src="auto">NNIS2-----A----</AM>
+<AM lemma="Volkswagen_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-011-p24s4w11">
@@ -6247,7 +6247,7 @@
 <LM>w#w-cmpr9413-011-p25s1w2</LM>
 </w.rf>
 <form>Jůza</form>
-<tag lemma="Jůza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jůza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-011-p25s1w3">
 <src.rf>manual</src.rf>
@@ -7037,7 +7037,7 @@
 <LM>w#w-cmpr9413-011-p29s1w2</LM>
 </w.rf>
 <form>Nutil</form>
-<tag lemma="Nutil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nutil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-011-p29s1w3">
 <src.rf>manual</src.rf>

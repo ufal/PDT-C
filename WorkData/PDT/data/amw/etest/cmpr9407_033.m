@@ -615,7 +615,7 @@
 <LM>w#w-cmpr9407-033-p5s1w7</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-cmpr9407-033-p5s1w61</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p5s1w62">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <LM>w#w-cmpr9407-033-p5s2w18</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p5s2w19">
 <src.rf>manual</src.rf>
@@ -2987,7 +2987,7 @@
 <LM>w#w-cmpr9407-033-p9s1w24</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p9s1w25">
 <src.rf>manual</src.rf>
@@ -3222,7 +3222,7 @@
 <LM>w#w-cmpr9407-033-p9s2w13</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p9s2w14">
 <src.rf>manual</src.rf>
@@ -3310,7 +3310,7 @@
 <LM>w#w-cmpr9407-033-p9s2w24</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p9s2w25">
 <src.rf>manual</src.rf>
@@ -3422,7 +3422,7 @@
 <LM>w#w-cmpr9407-033-p9s2w38</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p9s2w39">
 <src.rf>manual</src.rf>
@@ -3566,7 +3566,7 @@
 <LM>w#w-cmpr9407-033-p9s2w56</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p9s2w57">
 <src.rf>manual</src.rf>
@@ -3902,7 +3902,7 @@
 <LM>w#w-cmpr9407-033-p9s2w98</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p9s2w99">
 <src.rf>manual</src.rf>
@@ -4318,7 +4318,7 @@
 <LM>w#w-cmpr9407-033-p11s1w35</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-033-p11s1w36">
 <src.rf>manual</src.rf>
@@ -4853,7 +4853,7 @@
 <LM>w#w-cmpr9407-033-p12s1w2</LM>
 </w.rf>
 <form>Sedláková</form>
-<tag lemma="Sedláková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sedláková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-033-p12s1w3">
 <src.rf>manual</src.rf>

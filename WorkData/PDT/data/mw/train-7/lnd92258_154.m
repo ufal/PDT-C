@@ -19,7 +19,7 @@
 <LM>w#w-lnd92258-154-p1s1w1</LM>
 </w.rf>
 <form>RESPEKT</form>
-<tag lemma="Respekt_;R_^(časopis)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Respekt_;m_^(časopis)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-154-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-lnd92258-154-p11s1w28</LM>
 </w.rf>
 <form>Sokolov</form>
-<tag lemma="Sokolov-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sokolov-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-154-p11s1w29">
 <src.rf>manual</src.rf>

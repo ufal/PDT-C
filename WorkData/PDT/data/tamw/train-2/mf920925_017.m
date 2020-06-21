@@ -20,7 +20,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -41,7 +41,7 @@
 <LM>w#w-mf920925-017-p1s1w3</LM>
 </w.rf>
 <form>Macek</form>
-<tag lemma="Macek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Macek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-017-p2s1">
@@ -68,7 +68,7 @@
 </w.rf>
 <form>jet</form>
 <tag>
-<AM lemma="jet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
@@ -130,7 +130,7 @@
 <LM>w#w-mf920925-017-p2s2w5</LM>
 </w.rf>
 <form>Macka</form>
-<tag lemma="Macek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Macek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920925-017-p2s2w6">
 <src.rf>manual</src.rf>
@@ -147,8 +147,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-017-p2s2w8">
@@ -206,7 +206,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -225,7 +225,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -243,7 +243,7 @@
 <LM>w#w-mf920925-017-p2s2w18</LM>
 </w.rf>
 <form>Daněk</form>
-<tag lemma="Daněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-017-p2s2w19">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-017-p2s3w8">
@@ -392,7 +392,7 @@
 <LM>w#w-mf920925-017-p2s3w9</LM>
 </w.rf>
 <form>Macka</form>
-<tag lemma="Macek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Macek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-017-p2s3w10">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -517,7 +517,7 @@
 <LM>w#w-mf920925-017-p2s4w2</LM>
 </w.rf>
 <form>Daněk</form>
-<tag lemma="Daněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-017-p2s4w3">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

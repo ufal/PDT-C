@@ -27,7 +27,7 @@
 <LM>w#w-ln94202-94-p1s1Aw2</LM>
 </w.rf>
 <form>Flintstone</form>
-<tag lemma="Flintstone_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Flintstone_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-94-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-ln94202-94-p1s1Aw5</LM>
 </w.rf>
 <form>Goodman</form>
-<tag lemma="Goodman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goodman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-94-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94202-94-p1s1Bw2</LM>
 </w.rf>
 <form>Lucernafilm</form>
-<tag lemma="Lucernafilm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lucernafilm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-94-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 </w.rf>
 <form>Alfa</form>
 <tag>
-<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 <AM lemma="alfa" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

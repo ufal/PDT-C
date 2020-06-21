@@ -175,7 +175,7 @@
 <LM>w#w-mf930708-063-p4s1w10</LM>
 </w.rf>
 <form>Pernerově</form>
-<tag lemma="Pernerův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Pernerův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf930708-063-p4s1w11">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930708-063-p4s1w20</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p4s1w21">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-mf930708-063-p4s1w21</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p4s1w22">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-mf930708-063-p4s3w1</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p4s3w2">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-mf930708-063-p4s3w2</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1601,7 +1601,7 @@
 <LM>w#w-mf930708-063-p5s5w8</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p5s5w9">
 <src.rf>manual</src.rf>
@@ -1609,7 +1609,7 @@
 <LM>w#w-mf930708-063-p5s5w9</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p5s5w10">
 <src.rf>manual</src.rf>
@@ -1913,7 +1913,7 @@
 <tag>
 <AM lemma="psycho" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto">NNFS5-----A----</AM>
-<AM lemma="psycho-2_;u" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="psycho-2" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-063-p5s6w27">
@@ -1956,7 +1956,7 @@
 <LM>w#w-mf930708-063-p5s7w1</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p5s7w2">
 <src.rf>manual</src.rf>
@@ -1964,7 +1964,7 @@
 <LM>w#w-mf930708-063-p5s7w2</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p5s7w3">
 <src.rf>manual</src.rf>
@@ -2960,7 +2960,7 @@
 <LM>w#w-mf930708-063-p6s4w18</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p6s4w19">
 <src.rf>manual</src.rf>
@@ -2968,7 +2968,7 @@
 <LM>w#w-mf930708-063-p6s4w19</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p6s4w20">
 <src.rf>manual</src.rf>

@@ -4172,7 +4172,7 @@
 <LM>w#w-lnd92253-056-p15s4w1</LM>
 </w.rf>
 <form>Habsburkové</form>
-<tag lemma="Habsburk_;S" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="Habsburk_;Y" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-lnd92253-056-p15s4w2">
 <src.rf>manual</src.rf>
@@ -4918,7 +4918,7 @@
 <LM>w#w-lnd92253-056-p16s2w9</LM>
 </w.rf>
 <form>Balbínem</form>
-<tag lemma="Balbín_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Balbín_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92253-056-p16s2w10">
 <src.rf>manual</src.rf>
@@ -5532,7 +5532,7 @@
 <LM>w#w-lnd92253-056-p16s5w18</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-056-p16s5w19">
 <src.rf>manual</src.rf>
@@ -5556,7 +5556,7 @@
 <LM>w#w-lnd92253-056-p16s5w21</LM>
 </w.rf>
 <form>Havlíček</form>
-<tag lemma="Havlíček_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havlíček_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-056-p16s5w22">
 <src.rf>manual</src.rf>
@@ -5722,7 +5722,7 @@
 <LM>w#w-lnd92253-056-p16s8w1</LM>
 </w.rf>
 <form>Palackého</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-056-p16s8w2">
 <src.rf>manual</src.rf>
@@ -6014,7 +6014,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-056-p17s1w14">
@@ -6033,7 +6033,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-056-p17s1w16">
@@ -6050,7 +6050,7 @@
 <LM>w#w-lnd92253-056-p17s1w17</LM>
 </w.rf>
 <form>Masaryka</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-056-p17s1w18">
 <src.rf>manual</src.rf>
@@ -6098,7 +6098,7 @@
 <LM>w#w-lnd92253-056-p17s1w23</LM>
 </w.rf>
 <form>Palackého</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92253-056-p17s1w24">
 <src.rf>manual</src.rf>
@@ -6114,7 +6114,7 @@
 <LM>w#w-lnd92253-056-p17s1w25</LM>
 </w.rf>
 <form>Havlíčka</form>
-<tag lemma="Havlíček_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havlíček_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92253-056-p17s1w26">
 <src.rf>manual</src.rf>
@@ -6199,7 +6199,7 @@
 <LM>w#w-lnd92253-056-p17s2w9</LM>
 </w.rf>
 <form>Masarykova</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd92253-056-p17s2w10">
 <src.rf>manual</src.rf>
@@ -7317,7 +7317,7 @@
 <LM>w#w-lnd92253-056-p18s4w17</LM>
 </w.rf>
 <form>Němcům</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92253-056-p18s4w18">
 <src.rf>manual</src.rf>
@@ -7981,7 +7981,7 @@
 <LM>w#w-lnd92253-056-p20s1w2</LM>
 </w.rf>
 <form>HANZAL</form>
-<tag lemma="Hanzal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hanzal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-056-p21s1">
@@ -8064,7 +8064,7 @@
 </w.rf>
 <form>ČSAV</form>
 <tag>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

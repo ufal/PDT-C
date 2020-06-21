@@ -1219,7 +1219,7 @@
 <LM>w#w-ln95048-037-p4s1w8</LM>
 </w.rf>
 <form>Slavík</form>
-<tag lemma="Slavík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slavík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-037-p4s1w9">
 <src.rf>manual</src.rf>

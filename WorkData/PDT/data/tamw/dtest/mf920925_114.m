@@ -52,7 +52,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -212,7 +212,7 @@
 <LM>w#w-mf920925-114-p2s2w7</LM>
 </w.rf>
 <form>Wolf</form>
-<tag lemma="Wolf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wolf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-114-p2s2w8">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-mf920925-114-p2s3w13</LM>
 </w.rf>
 <form>Stahl</form>
-<tag lemma="Stahl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stahl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-114-p2s3w14">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf920925-114-p3s1w1</LM>
 </w.rf>
 <form>Wolf</form>
-<tag lemma="Wolf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wolf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-114-p3s1w2">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-mf920925-114-p3s2w8</LM>
 </w.rf>
 <form>Guillaume</form>
-<tag lemma="Guillaume_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Guillaume_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-114-p3s2w9">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-mf920925-114-p3s2w18</LM>
 </w.rf>
 <form>Brandta</form>
-<tag lemma="Brandt_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brandt_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-114-p3s2w19">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-mf920925-114-p4s1w7</LM>
 </w.rf>
 <form>Brandt</form>
-<tag lemma="Brandt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brandt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-114-p4s1w8">
 <src.rf>manual</src.rf>
@@ -934,7 +934,7 @@
 <LM>w#w-mf920925-114-p6s1w1</LM>
 </w.rf>
 <form>Wolf</form>
-<tag lemma="Wolf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wolf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-114-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-mf920925-114-p7s1w4</LM>
 </w.rf>
 <form>Wolf</form>
-<tag lemma="Wolf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wolf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-114-p7s1w5">
 <src.rf>manual</src.rf>

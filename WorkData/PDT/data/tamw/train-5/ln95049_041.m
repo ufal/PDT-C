@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-041-p1s1w1</LM>
 </w.rf>
 <form>Goldberger</form>
-<tag lemma="Goldberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goldberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p1s1w2">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln95049-041-p2s1Bw1</LM>
 </w.rf>
 <form>Goldberger</form>
-<tag lemma="Goldberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goldberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -378,8 +378,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-33" src="orig">Q3-------------</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-041-p2s2w8">
@@ -558,7 +558,7 @@
 <LM>w#w-ln95049-041-p3s1w1</LM>
 </w.rf>
 <form>Sakala</form>
-<tag lemma="Sakala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sakala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-ln95049-041-p3s5w22</LM>
 </w.rf>
 <form>Sakala</form>
-<tag lemma="Sakala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sakala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p3s5w23">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-ln95049-041-p4s1w5</LM>
 </w.rf>
 <form>Goldberger</form>
-<tag lemma="Goldberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goldberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1321,7 +1321,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1396,7 +1396,7 @@
 <LM>w#w-ln95049-041-p4s2w21</LM>
 </w.rf>
 <form>Okabe</form>
-<tag lemma="Okabe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Okabe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln95049-041-p4s3w5</LM>
 </w.rf>
 <form>Goldberger</form>
-<tag lemma="Goldberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goldberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1480,7 +1480,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1697,7 +1697,7 @@
 <LM>w#w-ln95049-041-p5s1w2</LM>
 </w.rf>
 <form>Raška</form>
-<tag lemma="Raška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Raška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1833,7 +1833,7 @@
 <LM>w#w-ln95049-041-p5s1w19</LM>
 </w.rf>
 <form>Sakala</form>
-<tag lemma="Sakala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sakala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-041-p5s1w20">
 <src.rf>manual</src.rf>

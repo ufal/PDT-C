@@ -418,7 +418,7 @@
 </w.rf>
 <form>AISA</form>
 <tag>
-<AM lemma="AISA_:B_;K_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AISA_:B_;m_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

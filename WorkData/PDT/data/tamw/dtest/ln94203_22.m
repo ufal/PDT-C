@@ -20,8 +20,8 @@
 </w.rf>
 <form>NKÚ</form>
 <tag>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p1s1w2">
@@ -81,8 +81,8 @@
 </w.rf>
 <form>mst</form>
 <tag>
-<AM lemma="mst-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mst-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mst-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mst-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p2s1Aw4">
@@ -100,8 +100,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p2s1Aw6">
@@ -376,8 +376,8 @@
 </w.rf>
 <form>NKÚ</form>
 <tag>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;K_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p2s3w7">
@@ -394,7 +394,7 @@
 <LM>w#w-ln94203-22-p2s3w8</LM>
 </w.rf>
 <form>Vávrová</form>
-<tag lemma="Vávrová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vávrová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-22-p2s3w9">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-ln94203-22-p3s1w11</LM>
 </w.rf>
 <form>Purkyněho</form>
-<tag lemma="Purkyně_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Purkyně_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-22-p3s1w12">
 <src.rf>manual</src.rf>
@@ -519,8 +519,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p3s2w3">
@@ -564,7 +564,7 @@
 <LM>w#w-ln94203-22-p3s2w7</LM>
 </w.rf>
 <form>Havlík</form>
-<tag lemma="Havlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-22-p3s2w8">
 <src.rf>manual</src.rf>
@@ -597,10 +597,10 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="K-4_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="K_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="K-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p3s2w12">
@@ -618,10 +618,10 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="J-4_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="J_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="J-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p3s2w14">
@@ -639,22 +639,22 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-4_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="D-4_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="D-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="D-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="D-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="D-3`500" src="auto">C}-------------</AM>
-<AM lemma="D-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="D-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="D-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="D-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="D-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="D-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="D-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="D-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="D-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="D-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="D-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="D-33" src="auto">Q3-------------</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="D-2_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p3s2w16">
@@ -809,7 +809,7 @@
 <LM>w#w-ln94203-22-p3s3w4</LM>
 </w.rf>
 <form>Havlíka</form>
-<tag lemma="Havlík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havlík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-22-p3s3w5">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-22-p3s3w13">
@@ -892,7 +892,7 @@
 <LM>w#w-ln94203-22-p3s3w14</LM>
 </w.rf>
 <form>Purkyněho</form>
-<tag lemma="Purkyně_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Purkyně_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-22-p3s3w15">
 <src.rf>manual</src.rf>

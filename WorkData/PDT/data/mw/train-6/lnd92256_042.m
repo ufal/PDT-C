@@ -62,8 +62,8 @@
 </w.rf>
 <form>jku</form>
 <tag>
-<AM lemma="jku-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jku-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jku-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jku-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-042-p2s1w4">
@@ -442,8 +442,8 @@
 </w.rf>
 <form>JAMU</form>
 <tag>
-<AM lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JAMU_:B_;m_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAMU_:B_;m_^(Janáčkova_akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-042-p2s4w13">

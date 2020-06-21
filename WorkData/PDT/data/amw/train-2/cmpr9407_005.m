@@ -2495,7 +2495,7 @@
 <LM>w#w-cmpr9407-005-p12s1w6</LM>
 </w.rf>
 <form>Choděra</form>
-<tag lemma="Choděra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Choděra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-005-p13s1">

@@ -69,7 +69,7 @@
 <LM>w#w-ln95045-015-p2s1Aw3</LM>
 </w.rf>
 <form>Kuba</form>
-<tag lemma="Kuba-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuba-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-015-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -332,8 +332,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-015-p2s2w2">
@@ -463,10 +463,10 @@
 </w.rf>
 <form>Rosse</form>
 <tag>
-<AM lemma="Rosse_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Ross_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ross_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ross_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Rosse_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ross_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Ross_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ross_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-015-p2s2w18">
@@ -1342,10 +1342,10 @@
 </w.rf>
 <form>Rosse</form>
 <tag>
-<AM lemma="Rosse_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Ross_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ross_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ross_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Rosse_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ross_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Ross_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ross_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-015-p3s5w28">
@@ -1646,7 +1646,7 @@
 <LM>w#w-ln95045-015-p3s7w19</LM>
 </w.rf>
 <form>Kuba</form>
-<tag lemma="Kuba-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuba-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-015-p3s7w20">
 <src.rf>manual</src.rf>
@@ -1941,7 +1941,7 @@
 <LM>w#w-ln95045-015-p3s10w11</LM>
 </w.rf>
 <form>Modrý</form>
-<tag lemma="Modrý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Modrý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-015-p3s10w12">
 <src.rf>manual</src.rf>
@@ -2608,7 +2608,7 @@
 <LM>w#w-ln95045-015-p3s14w15</LM>
 </w.rf>
 <form>Modrý</form>
-<tag lemma="Modrý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Modrý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-015-p3s14w16">
 <src.rf>manual</src.rf>

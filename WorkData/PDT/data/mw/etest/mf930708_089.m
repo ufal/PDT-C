@@ -86,8 +86,8 @@
 </w.rf>
 <form>jsl</form>
 <tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-089-p2s1w4">
@@ -128,7 +128,7 @@
 <LM>w#w-mf930708-089-p2s1w8</LM>
 </w.rf>
 <form>Bionet</form>
-<tag lemma="Bionet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bionet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-089-p2s1w9">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-089-p2s1w36">
@@ -355,7 +355,7 @@
 <LM>w#w-mf930708-089-p2s1w37</LM>
 </w.rf>
 <form>Hrdličky</form>
-<tag lemma="Hrdlička_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hrdlička_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-089-p2s1w38">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-mf930708-089-p3s2w7</LM>
 </w.rf>
 <form>Berka</form>
-<tag lemma="Berka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-089-p3s2w8">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-mf930708-089-p3s4w2</LM>
 </w.rf>
 <form>Bionetu</form>
-<tag lemma="Bionet_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Bionet_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-089-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-mf930708-089-p3s5w17</LM>
 </w.rf>
 <form>Berkou</form>
-<tag lemma="Berka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Berka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930708-089-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1238,7 +1238,7 @@
 <LM>w#w-mf930708-089-p3s6w2</LM>
 </w.rf>
 <form>Berka</form>
-<tag lemma="Berka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-089-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1733,7 +1733,7 @@
 <LM>w#w-mf930708-089-p4s3w3</LM>
 </w.rf>
 <form>Berky</form>
-<tag lemma="Berka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Berka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-089-p4s3w4">
 <src.rf>manual</src.rf>

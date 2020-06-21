@@ -145,7 +145,7 @@
 <LM>w#w-lnd94104-002-p1s1Dw2</LM>
 </w.rf>
 <form>Kumermann</form>
-<tag lemma="Kumermann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kumermann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-002-p1s1E">
@@ -235,7 +235,7 @@
 <LM>w#w-lnd94104-002-p1s1Ew11</LM>
 </w.rf>
 <form>Helvega</form>
-<tag lemma="Helveg_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Helveg_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-002-p1s1Ew12">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-lnd94104-002-p1s1Ew12</LM>
 </w.rf>
 <form>Petersena</form>
-<tag lemma="Petersen_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Petersen_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-002-p1s1Ew13">
 <src.rf>manual</src.rf>

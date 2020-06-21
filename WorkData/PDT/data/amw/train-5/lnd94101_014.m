@@ -228,7 +228,7 @@
 <form>Prima</form>
 <tag>
 <AM lemma="prima" src="orig">Db-------------</AM>
-<AM lemma="Prima_;K_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Prima_;m_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Primo_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Primo_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="prima-1" src="auto" selected="1">NNFS1-----A----</AM>
@@ -318,7 +318,7 @@
 <LM>w#w-lnd94101-014-p1s3w9</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-014-p1s3w10">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-lnd94101-014-p1s3w17</LM>
 </w.rf>
 <form>Broek</form>
-<tag lemma="Broek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Broek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-014-p1s3w18">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd94101-014-p1s5w12</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-014-p1s5w13">
 <src.rf>manual</src.rf>

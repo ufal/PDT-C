@@ -43,7 +43,7 @@
 <LM>w#w-ln94209-90-p1s1Aw4</LM>
 </w.rf>
 <form>Nováček</form>
-<tag lemma="Nováček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nováček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-90-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-ln94209-90-p1s1Aw16</LM>
 </w.rf>
 <form>Dammem</form>
-<tag lemma="Damm_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Damm_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-90-p1s1Aw17">
 <src.rf>manual</src.rf>

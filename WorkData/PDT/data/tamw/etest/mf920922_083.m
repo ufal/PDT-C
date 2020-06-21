@@ -36,7 +36,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SDL-2_:B_;m_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -65,7 +65,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SDL-2_:B_;m_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -140,7 +140,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SDL-2_:B_;m_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -159,8 +159,8 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s2w14">
@@ -329,7 +329,7 @@
 <LM>w#w-mf920922-083-p1s3w2</LM>
 </w.rf>
 <form>Ftáčnik</form>
-<tag lemma="Ftáčnik_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ftáčnik_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-083-p1s3w3">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SDL-2_:B_;m_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -565,7 +565,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SDL-2_:B_;m_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -683,7 +683,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -851,8 +851,8 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s6w16">
@@ -975,7 +975,7 @@
 <LM>w#w-mf920922-083-p1s7w3</LM>
 </w.rf>
 <form>Ftáčnika</form>
-<tag lemma="Ftáčnik_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ftáčnik_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-083-p1s7w4">
 <src.rf>manual</src.rf>
@@ -1232,8 +1232,8 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-083-p1s8w15">
@@ -1703,7 +1703,7 @@
 <LM>w#w-mf920922-083-p1s11w14</LM>
 </w.rf>
 <form>Ftáčnika</form>
-<tag lemma="Ftáčnik_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ftáčnik_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-083-p1s11w15">
 <src.rf>manual</src.rf>
@@ -1752,7 +1752,7 @@
 </w.rf>
 <form>SDL</form>
 <tag>
-<AM lemma="SDL-2_:B_;R_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SDL-2_:B_;m_,t_^(Specification_and_Description_Language)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SDL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

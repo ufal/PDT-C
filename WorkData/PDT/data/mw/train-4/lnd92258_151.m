@@ -54,11 +54,11 @@
 <tag>
 <AM lemma="Velo_;m_^(velocipéd)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Vela_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Velo-1_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Velo-1_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Velo-1_;K" src="auto">NNNS5-----A----</AM>
-<AM lemma="Velo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Velo-2_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Velo-1_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Velo-1_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Velo-1_;m" src="auto">NNNS5-----A----</AM>
+<AM lemma="Velo-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Velo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="velo" src="auto">A2--------A----</AM>
 </tag>
 </m>
@@ -116,7 +116,7 @@
 <LM>w#w-lnd92258-151-p1s1w12</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="yamaha-1_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="yamaha-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-151-p1s1w13">
 <src.rf>manual</src.rf>
@@ -125,9 +125,9 @@
 </w.rf>
 <form>GTS</form>
 <tag>
-<AM lemma="GTS-3_:B_;R" src="orig">NNNXX-----A---8</AM>
-<AM lemma="GTS-1_:B_;R_,t_^(Global_Telecommunication_System)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="GTS-2_:B_;K_,t_^(Guide_Travel_Service)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="GTS-3_:B_;m" src="orig">NNNXX-----A---8</AM>
+<AM lemma="GTS-1_:B_;m_,t_^(Global_Telecommunication_System)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="GTS-2_:B_;m_,t_^(Guide_Travel_Service)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -146,8 +146,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-151-p1s1w16">
@@ -425,7 +425,7 @@
 <LM>w#w-lnd92258-151-p2s1w3</LM>
 </w.rf>
 <form>Mihaliček</form>
-<tag lemma="Mihaliček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mihaliček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-151-p2s1w4">
 <src.rf>manual</src.rf>
@@ -442,8 +442,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

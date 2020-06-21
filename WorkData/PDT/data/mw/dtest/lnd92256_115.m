@@ -794,7 +794,7 @@
 </w.rf>
 <form>PRO</form>
 <tag>
-<AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
 <AM lemma="PRO-77" src="manual" selected="1">F%-------------</AM>
@@ -807,7 +807,7 @@
 </w.rf>
 <form>ARMENIA</form>
 <tag>
-<AM lemma="Armenia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Armenia_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Armenia_;G_^(město_v_Kolumbii)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Armenius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Armenius_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
@@ -1313,7 +1313,7 @@
 </w.rf>
 <form>pš</form>
 <tag>
-<AM lemma="pš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pš" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>

@@ -143,7 +143,7 @@
 <LM>w#w-cmpr9406-045-p4s1w1</LM>
 </w.rf>
 <form>Nypro</form>
-<tag lemma="Nypro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nypro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p4s1w2">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-cmpr9406-045-p7s1w7</LM>
 </w.rf>
 <form>Nypro</form>
-<tag lemma="Nypro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nypro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p7s1w8">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-cmpr9406-045-p7s2w17</LM>
 </w.rf>
 <form>Nývlt</form>
-<tag lemma="Nývlt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nývlt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p7s2w18">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-cmpr9406-045-p8s1w1</LM>
 </w.rf>
 <form>Nypro</form>
-<tag lemma="Nypro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nypro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p8s1w2">
 <src.rf>manual</src.rf>
@@ -1549,7 +1549,7 @@
 <LM>w#w-cmpr9406-045-p10s1w2</LM>
 </w.rf>
 <form>Nývlt</form>
-<tag lemma="Nývlt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nývlt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p10s1w3">
 <src.rf>manual</src.rf>
@@ -2461,7 +2461,7 @@
 <LM>w#w-cmpr9406-045-p14s4w4</LM>
 </w.rf>
 <form>Nypro</form>
-<tag lemma="Nypro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nypro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p14s4w5">
 <src.rf>manual</src.rf>
@@ -3293,7 +3293,7 @@
 <LM>w#w-cmpr9406-045-p18s1w1</LM>
 </w.rf>
 <form>Nypro</form>
-<tag lemma="Nypro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nypro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p18s1w2">
 <src.rf>manual</src.rf>
@@ -3448,7 +3448,7 @@
 <LM>w#w-cmpr9406-045-p18s2Aw3</LM>
 </w.rf>
 <form>Nývlta</form>
-<tag lemma="Nývlt_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nývlt_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p18s2Aw4">
 <src.rf>manual</src.rf>
@@ -4366,7 +4366,7 @@
 <form>Farský</form>
 <tag>
 <AM lemma="farský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Farský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Farský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4393,7 +4393,7 @@
 <LM>w#w-cmpr9406-045-p21s1w3</LM>
 </w.rf>
 <form>Nypro</form>
-<tag lemma="Nypro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nypro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-045-p21s1w4">
 <src.rf>manual</src.rf>

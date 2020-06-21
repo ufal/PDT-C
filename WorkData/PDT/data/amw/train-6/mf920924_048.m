@@ -216,7 +216,7 @@
 <LM>w#w-mf920924-048-p2s1w23</LM>
 </w.rf>
 <form>ČTV</form>
-<tag lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTV-1_:B_;m_^(Česká_televize)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920924-048-p2s1w24">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-mf920924-048-p3s1Aw3</LM>
 </w.rf>
 <form>Mozart</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-048-p3s1Aw4">
 <src.rf>manual</src.rf>
@@ -310,8 +310,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="F-33" src="orig">Q3-------------</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-048-p3s1Aw7">
@@ -413,7 +413,7 @@
 <LM>w#w-mf920924-048-p3s1Bw3</LM>
 </w.rf>
 <form>Mozart</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-048-p3s1Bw4">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-mf920924-048-p3s2w1</LM>
 </w.rf>
 <form>Supraphon</form>
-<tag lemma="Supraphon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Supraphon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-048-p3s2w2">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-mf920924-048-p3s2w6</LM>
 </w.rf>
 <form>Stamicova</form>
-<tag lemma="Stamicův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Stamicův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-mf920924-048-p3s2w7">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-mf920924-048-p3s2w10</LM>
 </w.rf>
 <form>Tylšarových</form>
-<tag lemma="Tylšarův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Tylšarův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-mf920924-048-p3s2w11">
 <src.rf>manual</src.rf>
@@ -621,8 +621,8 @@
 </w.rf>
 <form>Chapman</form>
 <tag>
-<AM lemma="Chapman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chapman-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Chapman_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Chapman-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-048-p4s1w3">
@@ -640,7 +640,7 @@
 </w.rf>
 <form>Matters</form>
 <tag>
-<AM lemma="matter_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="matter_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Matters-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -695,7 +695,7 @@
 <LM>w#w-mf920924-048-p4s2w1</LM>
 </w.rf>
 <form>Popron</form>
-<tag lemma="Popron_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Popron_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-048-p4s2w2">
 <src.rf>manual</src.rf>

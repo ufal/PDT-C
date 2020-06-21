@@ -350,7 +350,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-063-p3s3w6">
@@ -367,7 +367,7 @@
 <LM>w#w-lnd92259-063-p3s3w7</LM>
 </w.rf>
 <form>Laluhy</form>
-<tag lemma="Laluha_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Laluha_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-063-p3s3w8">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -634,8 +634,8 @@
 </w.rf>
 <form>NR</form>
 <tag>
-<AM lemma="NR_:B_;K_^(Národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NR_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NR_:B_;m_^(Národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NR_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

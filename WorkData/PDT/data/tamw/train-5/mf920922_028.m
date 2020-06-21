@@ -20,8 +20,8 @@
 </w.rf>
 <form>Young</form>
 <tag>
-<AM lemma="Young_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Young_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Young_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Young_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="young_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Young-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -33,7 +33,7 @@
 </w.rf>
 <form>Gods</form>
 <tag>
-<AM lemma="God_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="God_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="gods_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gods-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -79,8 +79,8 @@
 </w.rf>
 <form>YOUNG</form>
 <tag>
-<AM lemma="Young_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Young_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Young_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Young_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="young_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="YOUNG-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -92,7 +92,7 @@
 </w.rf>
 <form>GODS</form>
 <tag>
-<AM lemma="God_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="God_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="gods_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="GODS-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -323,7 +323,7 @@
 <form>Globus</form>
 <tag>
 <AM lemma="glóbus" src="orig">NNIS4-----A----</AM>
-<AM lemma="Globus_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Globus_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-028-p2s2w17">
@@ -571,8 +571,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-028-p2s3w21">
@@ -590,8 +590,8 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-028-p2s3w23">
@@ -609,7 +609,7 @@
 </w.rf>
 <form>Sky</form>
 <tag>
-<AM lemma="Sky_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Sky_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sky-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -805,7 +805,7 @@
 <LM>w#w-mf920922-028-p2s4w23</LM>
 </w.rf>
 <form>Treichlera</form>
-<tag lemma="Treichler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Treichler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-028-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <form>Summer</form>
 <tag>
 <AM lemma="summer_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Summer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Summer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="summer_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Summer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1045,7 +1045,7 @@
 </w.rf>
 <form>Eyes</form>
 <tag>
-<AM lemma="eye_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="eye_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="eyes_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Eyes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1416,8 +1416,8 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFSX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFSX----1A----</AM>
+<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFXX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
@@ -1434,7 +1434,7 @@
 </w.rf>
 <form>Muerte</form>
 <tag>
-<AM lemma="Muerte_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Muerte_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Muerte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1514,11 +1514,11 @@
 <form>Man</form>
 <tag>
 <AM lemma="man_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Man-1_;m_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Man-1_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Man-3_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Man-3_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="man" src="auto">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 <AM lemma="Man-77" src="manual" selected="1">F%-------------</AM>
@@ -1547,7 +1547,7 @@
 </w.rf>
 <form>Skinflowers</form>
 <tag>
-<AM lemma="skinflower_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="skinflower_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Skinflowers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1567,7 +1567,7 @@
 <form>Dame</form>
 <tag>
 <AM lemma="dame_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Dam_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dam_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Dame_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="dame_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Dame-77" src="manual" selected="1">F%-------------</AM>
@@ -1712,7 +1712,7 @@
 </w.rf>
 <form>Young</form>
 <tag>
-<AM lemma="Young_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Young_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="young_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Young-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1724,7 +1724,7 @@
 </w.rf>
 <form>Gods</form>
 <tag>
-<AM lemma="God_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="God_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="gods_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gods-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1752,12 +1752,12 @@
 </w.rf>
 <form>Ministry</form>
 <tag>
-<AM lemma="Ministry_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Ministr_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ministr_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Ministry_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Ministr_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Ministr_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="ministr" src="auto">NNMP4-----A----</AM>
 <AM lemma="ministr" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="Ministry_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ministry_;m_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Ministry-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1875,7 +1875,7 @@
 </w.rf>
 <form>Doors</form>
 <tag>
-<AM lemma="Door_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Door_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="doors_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Doors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1944,7 +1944,7 @@
 <form>Summer</form>
 <tag>
 <AM lemma="summer_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Summer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Summer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="summer_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Summer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1956,7 +1956,7 @@
 </w.rf>
 <form>Eyes</form>
 <tag>
-<AM lemma="eye_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="eye_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="eyes_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Eyes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2214,7 +2214,7 @@
 </w.rf>
 <form>Echoes</form>
 <tag>
-<AM lemma="echo_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="echo_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Echoes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2233,7 +2233,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2244,7 +2244,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2337,11 +2337,11 @@
 <form>Man</form>
 <tag>
 <AM lemma="man_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Man-1_;m_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Man-1_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Man-3_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Man-3_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="man" src="auto">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 <AM lemma="Man-77" src="manual" selected="1">F%-------------</AM>
@@ -2386,7 +2386,7 @@
 </w.rf>
 <form>One</form>
 <tag>
-<AM lemma="one`1_,t" src="orig">ClXSX----------</AM>
+<AM lemma="one`1_,t" src="orig">ClXXX----------</AM>
 <AM lemma="One-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2408,7 +2408,7 @@
 </w.rf>
 <form>These</form>
 <tag>
-<AM lemma="this_,t" src="orig">PDXPX----------</AM>
+<AM lemma="this_,t" src="orig">PDXXX----------</AM>
 <AM lemma="these_,a" src="auto">NNFP1-----A----</AM>
 <AM lemma="these_,a" src="auto">NNFP4-----A----</AM>
 <AM lemma="these_,a" src="auto">NNFP5-----A----</AM>
@@ -2426,7 +2426,7 @@
 </w.rf>
 <form>Days</form>
 <tag>
-<AM lemma="day_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="day_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="days_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Days-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2722,15 +2722,15 @@
 <AM lemma="L-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="L-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
-<AM lemma="L-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="L-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="L-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="L-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Labe_:B_;G" src="auto">NNNS7-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="L-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -2832,7 +2832,7 @@
 </w.rf>
 <form>drive</form>
 <tag>
-<AM lemma="drive_;c_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="drive_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="drive" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -3068,7 +3068,7 @@
 <LM>w#w-mf920922-028-p2s19w15</LM>
 </w.rf>
 <form>Treichlera</form>
-<tag lemma="Treichler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Treichler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-028-p2s19w16">
 <src.rf>manual</src.rf>
@@ -3114,7 +3114,7 @@
 </w.rf>
 <form>Young</form>
 <tag>
-<AM lemma="Young_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Young_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="young_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Young-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3126,7 +3126,7 @@
 </w.rf>
 <form>Gods</form>
 <tag>
-<AM lemma="God_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="God_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="gods_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gods-77" src="manual" selected="1">F%-------------</AM>
 </tag>

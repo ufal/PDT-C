@@ -35,7 +35,7 @@
 <LM>w#w-ln95044-130-p1s1w3</LM>
 </w.rf>
 <form>Koospolu</form>
-<tag lemma="Koospol_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Koospol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-130-p1s1w4">
 <src.rf>manual</src.rf>
@@ -112,7 +112,7 @@
 <LM>w#w-ln95044-130-p2s1Bw6</LM>
 </w.rf>
 <form>Koospol</form>
-<tag lemma="Koospol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Koospol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95044-130-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95044-130-p3s2w6</LM>
 </w.rf>
 <form>Koospolu</form>
-<tag lemma="Koospol_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Koospol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-130-p3s2w7">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-ln95044-130-p3s4w3</LM>
 </w.rf>
 <form>Koospolu</form>
-<tag lemma="Koospol_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Koospol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-130-p3s4w4">
 <src.rf>manual</src.rf>

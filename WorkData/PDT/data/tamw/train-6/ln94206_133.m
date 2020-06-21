@@ -27,7 +27,7 @@
 <LM>w#w-ln94206-133-p1s1w2</LM>
 </w.rf>
 <form>Fujdiar</form>
-<tag lemma="Fujdiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fujdiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-133-p1s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln94206-133-p2s1Aw3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ber-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-133-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln94206-133-p2s1Bw3</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94206-133-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-133-p2s1Bw6">
@@ -250,7 +250,7 @@
 <LM>w#w-ln94206-133-p2s1Bw20</LM>
 </w.rf>
 <form>Fujdiar</form>
-<tag lemma="Fujdiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fujdiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-133-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-ln94206-133-p2s1Bw34</LM>
 </w.rf>
 <form>Vávra</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-133-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-ln94206-133-p4s2w7</LM>
 </w.rf>
 <form>Váchy</form>
-<tag lemma="Vácha_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vácha_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-133-p4s2w8">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-ln94206-133-p4s3Bw2</LM>
 </w.rf>
 <form>Vávry</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-133-p4s3Bw3">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-133-p5s2Bw10">
@@ -2077,7 +2077,7 @@
 <LM>w#w-ln94206-133-p7s2Bw6</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-133-p7s2Bw7">
 <src.rf>manual</src.rf>

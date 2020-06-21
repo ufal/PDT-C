@@ -38,7 +38,7 @@
 </w.rf>
 <form>Serov</form>
 <tag>
-<AM lemma="Serov-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Serov-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Serov_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Serov_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -270,8 +270,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-091-p2s3w4">

@@ -27,7 +27,7 @@
 <LM>w#w-ln94207-13-p1s1w2</LM>
 </w.rf>
 <form>Matoušková</form>
-<tag lemma="Matoušková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Matoušková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-13-p1s1w3">
 <src.rf>manual</src.rf>
@@ -52,7 +52,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -107,8 +107,8 @@
 </w.rf>
 <form>mrk</form>
 <tag>
-<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-13-p2s1Bw4">
@@ -192,7 +192,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -234,7 +234,7 @@
 <LM>w#w-ln94207-13-p2s1Cw13</LM>
 </w.rf>
 <form>Matouškové</form>
-<tag lemma="Matoušková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Matoušková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-13-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -294,7 +294,7 @@
 </w.rf>
 <form>SPR</form>
 <tag>
-<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-1_:B_;m_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -313,7 +313,7 @@
 </w.rf>
 <form>RSČ</form>
 <tag>
-<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-1_:B_;m_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -406,7 +406,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -424,7 +424,7 @@
 <LM>w#w-ln94207-13-p2s2w8</LM>
 </w.rf>
 <form>Rožánek</form>
-<tag lemma="Rožánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rožánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-13-p2s2w9">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-13-p2s3w2">
@@ -461,7 +461,7 @@
 <LM>w#w-ln94207-13-p2s3w3</LM>
 </w.rf>
 <form>Matoušková</form>
-<tag lemma="Matoušková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Matoušková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-13-p2s3w4">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -578,7 +578,7 @@
 <LM>w#w-ln94207-13-p2s4w2</LM>
 </w.rf>
 <form>Matouškové</form>
-<tag lemma="Matoušková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Matoušková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-13-p2s4w3">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -36,8 +36,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="E-33" src="orig">Q3-------------</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-094-p1s1w4">
@@ -928,7 +928,7 @@
 </w.rf>
 <form>OÚ</form>
 <tag>
-<AM lemma="OÚ_:B_;K_^(okresní_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OÚ_:B_;m_^(okresní_úřad)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OÚ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="OÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -957,7 +957,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-094-p3s5w42">
@@ -974,7 +974,7 @@
 <LM>w#w-lnd92251-094-p3s5w43</LM>
 </w.rf>
 <form>Musial</form>
-<tag lemma="Musial_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Musial_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-094-p3s5w44">
 <src.rf>manual</src.rf>
@@ -1246,8 +1246,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="E-33" src="orig">Q3-------------</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-094-p3s7w9">

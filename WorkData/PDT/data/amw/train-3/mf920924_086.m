@@ -19,7 +19,7 @@
 <LM>w#w-mf920924-086-p1s1w1</LM>
 </w.rf>
 <form>Baďouček</form>
-<tag lemma="Baďouček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baďouček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-086-p1s1w2">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-mf920924-086-p2s1w9</LM>
 </w.rf>
 <form>Baďoučka</form>
-<tag lemma="Baďouček_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Baďouček_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920924-086-p2s1w10">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-mf920924-086-p2s2w1</LM>
 </w.rf>
 <form>Baďouček</form>
-<tag lemma="Baďouček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baďouček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-086-p2s2w2">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-ln94204-79-p2s1Aw2</LM>
 </w.rf>
 <form>Pšenička</form>
-<tag lemma="Pšenička-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pšenička-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-79-p2s1B">
@@ -2374,7 +2374,7 @@
 <LM>w#w-ln94204-79-p5s2w12</LM>
 </w.rf>
 <form>Parkinsona</form>
-<tag lemma="Parkinson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Parkinson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-79-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2945,7 +2945,7 @@
 <LM>w#w-ln94204-79-p5s6w4</LM>
 </w.rf>
 <form>Skalického</form>
-<tag lemma="Skalický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Skalický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-79-p5s6w5">
 <src.rf>manual</src.rf>
@@ -3027,7 +3027,7 @@
 <LM>w#w-ln94204-79-p5s7w7</LM>
 </w.rf>
 <form>Luxovu</form>
-<tag lemma="Luxův_;S_^(*2)" src="orig" selected="1">AUNS3M---------</tag>
+<tag lemma="Luxův_;Y_^(*2)" src="orig" selected="1">AUNS3M---------</tag>
 </m>
 <m id="m-ln94204-79-p5s7w8">
 <src.rf>manual</src.rf>
@@ -3458,7 +3458,7 @@
 <LM>w#w-ln94204-79-p5s9w14</LM>
 </w.rf>
 <form>Skalického</form>
-<tag lemma="Skalický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Skalický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-79-p5s9w15">
 <src.rf>manual</src.rf>

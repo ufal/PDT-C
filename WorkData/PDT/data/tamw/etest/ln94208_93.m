@@ -256,8 +256,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-93-p2s2w2">
@@ -293,7 +293,7 @@
 <LM>w#w-ln94208-93-p2s2w5</LM>
 </w.rf>
 <form>Kasl</form>
-<tag lemma="Kasl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kasl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-93-p2s2w6">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94208-93-p2s5w2</LM>
 </w.rf>
 <form>Kasla</form>
-<tag lemma="Kasl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kasl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-93-p2s5w3">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 <LM>w#w-ln94208-93-p3s1w13</LM>
 </w.rf>
 <form>Tyl</form>
-<tag lemma="Tyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-93-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1467,7 +1467,7 @@
 <LM>w#w-ln94208-93-p3s5w16</LM>
 </w.rf>
 <form>Kasl</form>
-<tag lemma="Kasl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kasl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-93-p3s5w17">
 <src.rf>manual</src.rf>
@@ -2113,8 +2113,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-93-p4s5Aw17">
@@ -2131,7 +2131,7 @@
 <LM>w#w-ln94208-93-p4s5Aw18</LM>
 </w.rf>
 <form>Wolfová</form>
-<tag lemma="Wolfová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Wolfová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-93-p4s5Aw19">
 <src.rf>manual</src.rf>
@@ -2198,8 +2198,8 @@
 </w.rf>
 <form>ir</form>
 <tag>
-<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ir-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-93-p4s5Bw3">

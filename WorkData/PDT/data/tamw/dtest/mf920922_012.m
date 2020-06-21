@@ -20,7 +20,7 @@
 </w.rf>
 <form>GM</form>
 <tag>
-<AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
+<AM lemma="GM_:B_;m" src="auto">NNFXX-----A----</AM>
 <AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -81,7 +81,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -92,7 +92,7 @@
 </w.rf>
 <form>Motors</form>
 <tag>
-<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-1_;m_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -249,7 +249,7 @@
 </w.rf>
 <form>FSO</form>
 <tag>
-<AM lemma="FSO_:B_;K" src="auto">NNNXX-----A----</AM>
+<AM lemma="FSO_:B_;m" src="auto">NNNXX-----A----</AM>
 <AM lemma="FSO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -268,7 +268,7 @@
 </w.rf>
 <form>GM</form>
 <tag>
-<AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
+<AM lemma="GM_:B_;m" src="auto">NNFXX-----A----</AM>
 <AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -302,7 +302,7 @@
 <LM>w#w-mf920922-012-p2s2w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920922-012-p2s2w19">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-mf920922-012-p2s2w23</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-012-p2s2w24">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-mf920922-012-p2s2w26</LM>
 </w.rf>
 <form>Astra</form>
-<tag lemma="Astra_;K_;R_^(vozidlo,telekom._družice)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Astra_;m_^(vozidlo,telekom._družice)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-012-p2s2w27">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-mf920922-012-p2s4w16</LM>
 </w.rf>
 <form>Aster</form>
-<tag lemma="Astra_;K_;R_^(vozidlo,telekom._družice)" src="auto" selected="1">NNFP2-----A----</tag>
+<tag lemma="Astra_;m_^(vozidlo,telekom._družice)" src="auto" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920922-012-p2s4w17">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -728,7 +728,7 @@
 </w.rf>
 <form>Motors</form>
 <tag>
-<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-1_;m_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

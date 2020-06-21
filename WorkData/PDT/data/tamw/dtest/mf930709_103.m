@@ -141,7 +141,7 @@
 <LM>w#w-mf930709-103-p4s1w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-103-p4s1w3">
 <src.rf>manual</src.rf>
@@ -349,8 +349,8 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;K_^(mistrovství_světa)" src="manual">NNXXX-----A----</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;m_^(mistrovství_světa)" src="manual">NNXXX-----A----</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

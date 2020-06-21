@@ -94,7 +94,7 @@
 <form>ria</form>
 <tag>
 <AM lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig">NNFS1-----A----</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-018-p3s1w4">
@@ -563,7 +563,7 @@
 </w.rf>
 <form>VZP</form>
 <tag>
-<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1002,7 +1002,7 @@
 </w.rf>
 <form>VZP</form>
 <tag>
-<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1045,7 +1045,7 @@
 </w.rf>
 <form>MZ</form>
 <tag>
-<AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MZ_:B_;m_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1064,7 +1064,7 @@
 </w.rf>
 <form>VZP</form>
 <tag>
-<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

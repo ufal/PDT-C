@@ -1043,7 +1043,7 @@
 <form>Pilka</form>
 <tag>
 <AM lemma="pilka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pilka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pilka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-020-p3s1w29">
@@ -2214,7 +2214,7 @@
 <LM>w#w-mf930703-020-p4s1w3</LM>
 </w.rf>
 <form>Kopečný</form>
-<tag lemma="Kopečný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kopečný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-020-p4s1w4">
 <src.rf>manual</src.rf>
@@ -4088,7 +4088,7 @@
 <LM>w#w-mf930703-020-p6s2w5</LM>
 </w.rf>
 <form>Muchové</form>
-<tag lemma="Muchová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Muchová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-020-p6s2w6">
 <src.rf>manual</src.rf>
@@ -5119,10 +5119,10 @@
 </w.rf>
 <form>Apgar</form>
 <tag>
-<AM lemma="Apgar_;S" src="orig">AAXXX----1A----</AM>
-<AM lemma="Apgar_;R_;U_^(Apgar_skóre-orient.hodnocení_stavu_novorozence)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Apgar_;R_;U_^(Apgar_skóre-orient.hodnocení_stavu_novorozence)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Apgar_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Apgar_;Y" src="orig">AAXXX----1A----</AM>
+<AM lemma="Apgar_;U_;m_^(Apgar_skóre-orient.hodnocení_stavu_novorozence)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Apgar_;U_;m_^(Apgar_skóre-orient.hodnocení_stavu_novorozence)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Apgar_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-020-p8s1w12">
@@ -5755,7 +5755,7 @@
 <form>Pilka</form>
 <tag>
 <AM lemma="pilka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pilka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pilka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-020-p9s1w25">
@@ -6370,7 +6370,7 @@
 <LM>w#w-mf930703-020-p9s7w2</LM>
 </w.rf>
 <form>KARÁSKOVÁ</form>
-<tag lemma="Karásková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Karásková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

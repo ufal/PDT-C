@@ -53,7 +53,7 @@
 <LM>w#w-vesm9301-015-p2s1w2</LM>
 </w.rf>
 <form>DROBNÍK</form>
-<tag lemma="Drobník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drobník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-015-p3s1">
@@ -6880,7 +6880,7 @@
 <LM>w#w-vesm9301-015-p11s4w6</LM>
 </w.rf>
 <form>polynukleotidů</form>
-<tag lemma="polynukleotid_;H" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="polynukleotid_;U" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-015-p11s4w7">
 <src.rf>manual</src.rf>
@@ -6960,7 +6960,7 @@
 <LM>w#w-vesm9301-015-p11s4w16</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-vesm9301-015-p11s4w17">
 <src.rf>manual</src.rf>
@@ -7826,7 +7826,7 @@
 <LM>w#w-vesm9301-015-p12s2w21</LM>
 </w.rf>
 <form>nukleotidů</form>
-<tag lemma="nukleotid_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="nukleotid_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-015-p12s2w22">
 <src.rf>manual</src.rf>

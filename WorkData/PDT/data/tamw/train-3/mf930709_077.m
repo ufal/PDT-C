@@ -241,7 +241,7 @@
 <LM>w#w-mf930709-077-p2s2w5</LM>
 </w.rf>
 <form>Kasparov</form>
-<tag lemma="Kasparov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kasparov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s2w6">
 <src.rf>manual</src.rf>
@@ -258,8 +258,8 @@
 </w.rf>
 <form>Nigelu</form>
 <tag>
-<AM lemma="Nigel_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Nigel_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Nigel_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Nigel_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930709-077-p2s2w8">
@@ -268,7 +268,7 @@
 <LM>w#w-mf930709-077-p2s2w8</LM>
 </w.rf>
 <form>Shortovi</form>
-<tag lemma="Short_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Short_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s2w9">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-mf930709-077-p2s2w18</LM>
 </w.rf>
 <form>Karpov</form>
-<tag lemma="Karpov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karpov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s2w19">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-mf930709-077-p2s2w21</LM>
 </w.rf>
 <form>Timman</form>
-<tag lemma="Timman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Timman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s2w22">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-mf930709-077-p2s3w3</LM>
 </w.rf>
 <form>Kasparov</form>
-<tag lemma="Kasparov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kasparov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s3w4">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 </w.rf>
 <form>FIDE</form>
 <tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE_:B_;m_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -596,8 +596,8 @@
 </w.rf>
 <form>Nigel</form>
 <tag>
-<AM lemma="Nigel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nigel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nigel_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Nigel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-077-p2s4w9">
@@ -606,7 +606,7 @@
 <LM>w#w-mf930709-077-p2s4w9</LM>
 </w.rf>
 <form>Short</form>
-<tag lemma="Short_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Short_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s4w10">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 </w.rf>
 <form>FIDE</form>
 <tag>
-<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE_:B_;m_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIDE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -803,7 +803,7 @@
 <LM>w#w-mf930709-077-p2s5w16</LM>
 </w.rf>
 <form>Karpova</form>
-<tag lemma="Karpov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Karpov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s5w17">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-mf930709-077-p2s5w19</LM>
 </w.rf>
 <form>Timmana</form>
-<tag lemma="Timman_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Timman_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1056,7 +1056,7 @@
 <LM>w#w-mf930709-077-p2s7w14</LM>
 </w.rf>
 <form>Fischer</form>
-<tag lemma="Fischer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fischer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s7w15">
 <src.rf>manual</src.rf>

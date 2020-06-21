@@ -67,7 +67,7 @@
 <LM>w#w-vesm9301-010-p1s1w7</LM>
 </w.rf>
 <form>Panorama</form>
-<tag lemma="Panorama_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Panorama_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9301-010-p1s1w8">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-vesm9301-010-p1s1w10</LM>
 </w.rf>
 <form>Vopěnky</form>
-<tag lemma="Vopěnka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vopěnka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9301-010-p1s1w11">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-vesm9301-010-p1s3w17</LM>
 </w.rf>
 <form>Vopěnkovy</form>
-<tag lemma="Vopěnkův_;S_^(*2a)" src="orig" selected="1">AUFP4M---------</tag>
+<tag lemma="Vopěnkův_;Y_^(*2a)" src="orig" selected="1">AUFP4M---------</tag>
 </m>
 <m id="m-vesm9301-010-p1s3w18">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-vesm9301-010-p1s5w13</LM>
 </w.rf>
 <form>Vopěnkových</form>
-<tag lemma="Vopěnkův_;S_^(*2a)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Vopěnkův_;Y_^(*2a)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-vesm9301-010-p1s5w14">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 </w.rf>
 <form>red</form>
 <tag>
-<AM lemma="red-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="red-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>

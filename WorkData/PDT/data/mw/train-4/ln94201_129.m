@@ -102,8 +102,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K_^(AB_Barandov)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m_^(AB_Barandov)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -117,7 +117,7 @@
 <form>Barrandov</form>
 <tag>
 <AM lemma="Barrandov_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Barrandov_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Barrandov_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-129-p2s1w9">
@@ -226,7 +226,7 @@
 <form>Barrandova</form>
 <tag>
 <AM lemma="Barrandov_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Barrandov_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Barrandov_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-129-p2s2w6">
@@ -259,7 +259,7 @@
 <LM>w#w-ln94201-129-p2s2w9</LM>
 </w.rf>
 <form>Goetze</form>
-<tag lemma="Goetz_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Goetz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-129-p2s2w10">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-ln94201-129-p2s3w15</LM>
 </w.rf>
 <form>Goetz</form>
-<tag lemma="Goetz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goetz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-129-p2s3w16">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-ln94201-129-p3s1w20</LM>
 </w.rf>
 <form>Goetze</form>
-<tag lemma="Goetz_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Goetz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-129-p3s1w21">
 <src.rf>manual</src.rf>
@@ -940,8 +940,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K_^(AB_Barandov)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m_^(AB_Barandov)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -955,7 +955,7 @@
 <form>Barrandov</form>
 <tag>
 <AM lemma="Barrandov_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Barrandov_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Barrandov_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-129-p4s1w21">
@@ -972,7 +972,7 @@
 <LM>w#w-ln94201-129-p4s1w22</LM>
 </w.rf>
 <form>Marhoul</form>
-<tag lemma="Marhoul_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marhoul_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-129-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln94201-129-p4s3w9</LM>
 </w.rf>
 <form>Pištěk</form>
-<tag lemma="Pištěk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pištěk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-129-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1517,8 +1517,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-129-p4s5w3">
@@ -1535,7 +1535,7 @@
 <LM>w#w-ln94201-129-p4s5w4</LM>
 </w.rf>
 <form>jaf</form>
-<tag lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jaf-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94201-129-p4s5w5">
 <src.rf>manual</src.rf>

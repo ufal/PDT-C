@@ -27,7 +27,7 @@
 <LM>w#w-ln94201-71-p1s1w2</LM>
 </w.rf>
 <form>Bergort</form>
-<tag lemma="Bergort_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bergort_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-71-p1s1w3">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-ln94201-71-p1s1w11</LM>
 </w.rf>
 <form>Holotou</form>
-<tag lemma="Holota-1_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Holota-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94201-71-p1s1w12">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <LM>w#w-ln94201-71-p1s1w26</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-71-p1s1w27">
 <src.rf>manual</src.rf>
@@ -249,8 +249,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

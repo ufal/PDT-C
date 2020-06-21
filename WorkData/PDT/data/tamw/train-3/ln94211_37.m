@@ -86,8 +86,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-37-p2s1Aw4">
@@ -409,7 +409,7 @@
 <LM>w#w-ln94211-37-p3s1w3</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-37-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94211-37-p4s4w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94211-37-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1823,7 +1823,7 @@
 <LM>w#w-ln94211-37-p6s2w8</LM>
 </w.rf>
 <form>Dušek</form>
-<tag lemma="Dušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-37-p6s2w9">
 <src.rf>manual</src.rf>

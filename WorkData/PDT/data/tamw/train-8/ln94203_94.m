@@ -127,7 +127,7 @@
 <LM>w#w-ln94203-94-p1s1w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94203-94-p1s1w14">
 <src.rf>manual</src.rf>
@@ -184,8 +184,8 @@
 </w.rf>
 <form>Walló</form>
 <tag>
-<AM lemma="Walló_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Walló_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Walló_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Walló_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-94-p1s1w21">
@@ -349,7 +349,7 @@
 </w.rf>
 <form>Mauglího</form>
 <tag>
-<AM lemma="Mauglí_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Mauglí_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Mauglí_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
@@ -546,7 +546,7 @@
 </w.rf>
 <form>Mauglího</form>
 <tag>
-<AM lemma="Mauglí_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Mauglí_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Mauglí_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
@@ -628,7 +628,7 @@
 <LM>w#w-ln94203-94-p1s3w14</LM>
 </w.rf>
 <form>Kiplingovy</form>
-<tag lemma="Kiplingův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Kiplingův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94203-94-p1s3w15">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-ln94203-94-p1s3w19</LM>
 </w.rf>
 <form>Disneyho</form>
-<tag lemma="Disney_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Disney_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-94-p1s3w20">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 </w.rf>
 <form>Balúem</form>
 <tag>
-<AM lemma="Balú_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Balú_;Y" src="auto">NNMS7-----A----</AM>
 <AM lemma="Balú_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
@@ -1158,7 +1158,7 @@
 </w.rf>
 <form>bič</form>
 <tag>
-<AM lemma="bič-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bič-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="bič" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bič" src="auto">NNIS4-----A----</AM>
 <AM lemma="bič-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1186,7 +1186,7 @@
 <LM>w#w-ln94203-94-p1s6w5</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falcon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

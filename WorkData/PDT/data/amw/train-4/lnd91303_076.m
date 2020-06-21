@@ -240,7 +240,7 @@
 <LM>w#w-lnd91303-076-p2s1w2</LM>
 </w.rf>
 <form>ANDREJSEK</form>
-<tag lemma="Andrejsek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andrejsek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-076-p2s1w3">
 <src.rf>manual</src.rf>

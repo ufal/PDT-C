@@ -92,7 +92,7 @@
 </w.rf>
 <form>NLN</form>
 <tag>
-<AM lemma="NLN-1_:B_^(Nedělní_LN)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="NLN-1_:B_^(Nedělní_LN)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

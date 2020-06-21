@@ -431,7 +431,7 @@
 <LM>w#w-mf930701-155-p2s2w10</LM>
 </w.rf>
 <form>Kožyn</form>
-<tag lemma="Kožyn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kožyn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-155-p2s2w11">
 <src.rf>manual</src.rf>

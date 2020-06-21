@@ -87,7 +87,7 @@
 <LM>w#w-ln94207-48-p2s1Bw4</LM>
 </w.rf>
 <form>Kasper</form>
-<tag lemma="Kasper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kasper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-48-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln94207-48-p2s1Bw6</LM>
 </w.rf>
 <form>Brhel</form>
-<tag lemma="Brhel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brhel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-48-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94207-48-p2s1Bw8</LM>
 </w.rf>
 <form>Topinka</form>
-<tag lemma="Topinka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Topinka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-48-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -195,8 +195,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-48-p2s1Bw18">

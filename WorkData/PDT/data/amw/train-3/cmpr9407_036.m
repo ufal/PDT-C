@@ -63,7 +63,7 @@
 <LM>w#w-cmpr9407-036-p4s1w2</LM>
 </w.rf>
 <form>Winston</form>
-<tag lemma="Winston_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Winston_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-036-p4s1w3">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-cmpr9407-036-p5s1w3</LM>
 </w.rf>
 <form>Winston</form>
-<tag lemma="Winston_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Winston_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-036-p5s1w4">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-cmpr9407-036-p5s1w12</LM>
 </w.rf>
 <form>Brandlova</form>
-<tag lemma="Brandlův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Brandlův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9407-036-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 <form>Martinů</form>
 <tag>
 <AM lemma="Martin-1_;Y" src="orig">NNMP2-----A----</AM>
-<AM lemma="Martinů-1_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Martinů-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-036-p15s1w10">

@@ -27,7 +27,7 @@
 <LM>w#w-ln94202-128-p1s1w3</LM>
 </w.rf>
 <form>Čadek</form>
-<tag lemma="Čadek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čadek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-128-p1s1w4">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 <LM>w#w-ln94202-128-p2s1w4</LM>
 </w.rf>
 <form>Sokol</form>
-<tag lemma="Sokol-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sokol-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-128-p2s1C">
@@ -90,7 +90,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -100,7 +100,7 @@
 <LM>w#w-ln94202-128-p2s1w7</LM>
 </w.rf>
 <form>Čadek</form>
-<tag lemma="Čadek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čadek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-128-p2s1w8">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-ln94202-128-p2s4w36</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-128-p2s4w37">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-ln94202-128-p3s2w7</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-128-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 </w.rf>
 <form>EMRC</form>
 <tag>
-<AM lemma="EMRC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EMRC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EMRC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1166,7 +1166,7 @@
 </w.rf>
 <form>European</form>
 <tag>
-<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="European_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="European_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="European-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1178,7 +1178,7 @@
 </w.rf>
 <form>market</form>
 <tag>
-<AM lemma="market-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="market-2_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="market" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="market" src="auto">NNIS4-----A----</AM>
 <AM lemma="market-2_,t" src="manual">AAXXX----1A----</AM>
@@ -1192,7 +1192,7 @@
 </w.rf>
 <form>research</form>
 <tag>
-<AM lemma="research-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="research-2_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="research-2_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="research-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1204,7 +1204,7 @@
 </w.rf>
 <form>center</form>
 <tag>
-<AM lemma="center_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="center_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="centrum" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="center_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="center-77" src="manual" selected="1">F%-------------</AM>
@@ -1267,7 +1267,7 @@
 <LM>w#w-ln94202-128-p3s3w36</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-128-p3s3w37">
 <src.rf>manual</src.rf>
@@ -1530,8 +1530,8 @@
 </w.rf>
 <form>Hilton</form>
 <tag>
-<AM lemma="Hilton_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hilton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hilton_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hilton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-128-p3s4w14">
@@ -1671,7 +1671,7 @@
 </w.rf>
 <form>EMRC</form>
 <tag>
-<AM lemma="EMRC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EMRC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EMRC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1721,7 +1721,7 @@
 <LM>w#w-ln94202-128-p4s1w20</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-128-p4s1w21">
 <src.rf>manual</src.rf>
@@ -2043,8 +2043,8 @@
 </w.rf>
 <form>Hilton</form>
 <tag>
-<AM lemma="Hilton_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hilton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hilton_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hilton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-128-p4s2w13">
@@ -2079,7 +2079,7 @@
 <LM>w#w-ln94202-128-p5s1w3</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-128-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2256,7 +2256,7 @@
 </w.rf>
 <form>EMRC</form>
 <tag>
-<AM lemma="EMRC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EMRC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EMRC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2267,7 +2267,7 @@
 </w.rf>
 <form>Business</form>
 <tag>
-<AM lemma="Business_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Business_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="business-2_,t" src="manual">AAXXX----1A----</AM>
@@ -2417,7 +2417,7 @@
 </w.rf>
 <form>Street</form>
 <tag>
-<AM lemma="Street-1_;G_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Street-1_;G_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Street_;G_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="Street_;G_,t" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Street_;G_,t" src="auto">NNXXX-----A----</AM>
@@ -2499,7 +2499,7 @@
 <LM>w#w-ln94202-128-p6s1w5</LM>
 </w.rf>
 <form>Bohemie</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-128-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2613,7 +2613,7 @@
 <LM>w#w-ln94202-128-p6s2w2</LM>
 </w.rf>
 <form>Čadka</form>
-<tag lemma="Čadek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Čadek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-128-p6s2w3">
 <src.rf>manual</src.rf>
@@ -3115,7 +3115,7 @@
 <form>Hilton</form>
 <tag>
 <AM lemma="Hilton_^(hotel)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hilton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hilton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-128-p7s1w9">
@@ -3288,7 +3288,7 @@
 <LM>w#w-ln94202-128-p7s3w3</LM>
 </w.rf>
 <form>Čadek</form>
-<tag lemma="Čadek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čadek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-128-p7s3w4">
 <src.rf>manual</src.rf>

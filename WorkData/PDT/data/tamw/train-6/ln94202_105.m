@@ -92,7 +92,7 @@
 </w.rf>
 <form>AIK</form>
 <tag>
-<AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIK_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -159,7 +159,7 @@
 <LM>w#w-ln94202-105-p1s1Aw18</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-105-p1s1B">
@@ -186,8 +186,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

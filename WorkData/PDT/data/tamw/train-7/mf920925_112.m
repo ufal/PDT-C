@@ -60,7 +60,7 @@
 <LM>w#w-mf920925-112-p1s1w6</LM>
 </w.rf>
 <form>KLAUS</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-112-p1s1w7">
 <src.rf>manual</src.rf>
@@ -76,7 +76,7 @@
 <LM>w#w-mf920925-112-p1s1w8</LM>
 </w.rf>
 <form>MEČIAR</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-112-p2s1">
@@ -340,7 +340,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-112-p2s3w10">
@@ -357,7 +357,7 @@
 <LM>w#w-mf920925-112-p2s3w11</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-112-p2s3w12">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-112-p2s3w16">
@@ -408,7 +408,7 @@
 <LM>w#w-mf920925-112-p2s3w17</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-112-p2s3w18">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-mf920925-112-p2s4w18</LM>
 </w.rf>
 <form>Streibl</form>
-<tag lemma="Streibl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Streibl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-112-p2s4w19">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-mf920925-112-p3s2w2</LM>
 </w.rf>
 <form>Streibla</form>
-<tag lemma="Streibl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Streibl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-112-p3s2w3">
 <src.rf>manual</src.rf>

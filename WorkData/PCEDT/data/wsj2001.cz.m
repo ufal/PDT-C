@@ -18,7 +18,7 @@
 <form>Frank</form>
 <tag>
 <AM lemma="Franca_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Frank_;E_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Frank_;E_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="frank" src="auto">NNIS1-----A----</AM>
 <AM lemma="frank" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -31,7 +31,7 @@
 <form>Carlucci</form>
 <tag>
 <AM lemma="Carlucci" src="auto">X@-------------</AM>
-<AM lemma="Carlucci_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Carlucci_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2001-001-p1s0W3-Ta">
@@ -68,7 +68,7 @@
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2001-001-p1s0W7-Ta">
@@ -174,7 +174,7 @@
 </w.rf>
 <form>tak</form>
 <tag>
-<AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
 <AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
@@ -264,8 +264,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -310,7 +310,7 @@
 <form>Sobeye</form>
 <tag>
 <AM lemma="Sobeye" src="auto">X@-------------</AM>
-<AM lemma="Sobey_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Sobey_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2001-001-p1s0W23-Ta">
@@ -331,7 +331,7 @@
 <form>Carlucci</form>
 <tag>
 <AM lemma="Carlucci" src="auto">X@-------------</AM>
-<AM lemma="Carlucci_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Carlucci_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2001-001-p1s1W2-Ta">
@@ -447,8 +447,8 @@
 </w.rf>
 <form>Reagana</form>
 <tag>
-<AM lemma="Reagan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Reagan_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Reagan_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Reagan_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2001-001-p1s1W14-Ta">
@@ -469,12 +469,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
@@ -562,12 +562,12 @@
 </w.rf>
 <form>Carlyle</form>
 <tag>
-<AM lemma="Carlyle_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carlyle_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Carlyle-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carlyle-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Carlyle-1_;S" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Carlyle-2_;S" src="auto">NNISX-----A----</AM>
+<AM lemma="Carlyle_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Carlyle_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Carlyle-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Carlyle-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Carlyle-1_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Carlyle-2_;Y" src="auto">NNIXX-----A----</AM>
 <AM lemma="Carlyle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -578,7 +578,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

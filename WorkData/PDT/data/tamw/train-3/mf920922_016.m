@@ -47,7 +47,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -325,7 +325,7 @@
 <LM>w#w-mf920922-016-p2s2w14</LM>
 </w.rf>
 <form>Somolem</form>
-<tag lemma="Somol_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Somol_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s2w15">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf920922-016-p2s3w13</LM>
 </w.rf>
 <form>Somol</form>
-<tag lemma="Somol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Somol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s3w14">
 <src.rf>manual</src.rf>
@@ -1335,7 +1335,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1468,7 +1468,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1638,7 +1638,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1963,7 +1963,7 @@
 <LM>w#w-mf920922-016-p2s11Aw24</LM>
 </w.rf>
 <form>Somol</form>
-<tag lemma="Somol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Somol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s11Aw25">
 <src.rf>manual</src.rf>
@@ -2093,7 +2093,7 @@
 <LM>w#w-mf920922-016-p2s11Bw4</LM>
 </w.rf>
 <form>Somola</form>
-<tag lemma="Somol_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Somol_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s11Bw5">
 <src.rf>manual</src.rf>
@@ -2688,7 +2688,7 @@
 <LM>w#w-mf920922-016-p2s15w12</LM>
 </w.rf>
 <form>Somol</form>
-<tag lemma="Somol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Somol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s15w13">
 <src.rf>manual</src.rf>

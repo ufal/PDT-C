@@ -46,8 +46,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p2s1w3">
@@ -289,8 +289,8 @@
 </w.rf>
 <form>Procter</form>
 <tag>
-<AM lemma="Procter-1_;K_,t_^(angl.;_firma_Procter_and_Gamble)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Procter-1_;K_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Procter-1_;m_,t_^(angl.;_firma_Procter_and_Gamble)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Procter-1_;m_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p3s1w26">
@@ -311,8 +311,8 @@
 </w.rf>
 <form>Gamble</form>
 <tag>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Gamble)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Gamble-1_;K_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Gamble-1_;m_,t_^(angl.;_firma_Procter_and_Gamble)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Gamble-1_;m_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p3s1w28">
@@ -355,7 +355,7 @@
 <LM>w#w-lnd91303-074-p3s2w4</LM>
 </w.rf>
 <form>Ariel</form>
-<tag lemma="Ariel-1_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ariel-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91303-074-p3s2w5">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-lnd91303-074-p3s2w6</LM>
 </w.rf>
 <form>Vizír</form>
-<tag lemma="Vizír_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vizír_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91303-074-p3s2w7">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -663,7 +663,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p4s2w5">
@@ -680,7 +680,7 @@
 <LM>w#w-lnd91303-074-p4s2w6</LM>
 </w.rf>
 <form>Rynda</form>
-<tag lemma="Rynda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rynda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-074-p4s2w7">
 <src.rf>manual</src.rf>
@@ -788,8 +788,8 @@
 </w.rf>
 <form>Procter</form>
 <tag>
-<AM lemma="Procter-1_;K_,t_^(angl.;_firma_Procter_and_Gamble)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Procter-1_;K_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Procter-1_;m_,t_^(angl.;_firma_Procter_and_Gamble)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Procter-1_;m_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p4s2w20">
@@ -810,8 +810,8 @@
 </w.rf>
 <form>Gamble</form>
 <tag>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Gamble)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Gamble-1_;K_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Gamble-1_;m_,t_^(angl.;_firma_Procter_and_Gamble)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Gamble-1_;m_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p4s2w22">
@@ -828,7 +828,7 @@
 <LM>w#w-lnd91303-074-p4s2w23</LM>
 </w.rf>
 <form>Homola</form>
-<tag lemma="Homola_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Homola_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-074-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1545,8 +1545,8 @@
 </w.rf>
 <form>Procter</form>
 <tag>
-<AM lemma="Procter-1_;K_,t_^(angl.;_firma_Procter_and_Gamble)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Procter-1_;K_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Procter-1_;m_,t_^(angl.;_firma_Procter_and_Gamble)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Procter-1_;m_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p5s2w12">
@@ -1567,8 +1567,8 @@
 </w.rf>
 <form>Gamble</form>
 <tag>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Gamble)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Gamble-1_;K_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Gamble-1_;m_,t_^(angl.;_firma_Procter_and_Gamble)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Gamble-1_;m_^(angl.;_firma_Procter_and_Gamble)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-074-p5s2w14">
@@ -1603,7 +1603,7 @@
 <LM>w#w-lnd91303-074-p6s1w2</LM>
 </w.rf>
 <form>SRB</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-074-p6s1w3">
 <src.rf>manual</src.rf>

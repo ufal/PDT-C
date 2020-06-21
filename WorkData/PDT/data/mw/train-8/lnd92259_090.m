@@ -1188,7 +1188,7 @@
 <LM>w#w-lnd92259-090-p2s8w22</LM>
 </w.rf>
 <form>Schur</form>
-<tag lemma="Schur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-090-p2s8w23">
 <src.rf>manual</src.rf>

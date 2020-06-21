@@ -43,7 +43,7 @@
 <LM>w#w-cmpr9415-055-p2s1w4</LM>
 </w.rf>
 <form>NEPRODAL</form>
-<tag lemma="Neprodal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neprodal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-055-p3s1">

@@ -28,7 +28,7 @@
 </w.rf>
 <form>MEDUSA</form>
 <tag>
-<AM lemma="Medusa_;S" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Medusa_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="medúza_,x" src="auto">NNFS1-----A----</AM>
 <AM lemma="MEDUSA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -242,8 +242,8 @@
 <form>k</form>
 <tag>
 <AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
-<AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="k-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="k-33" src="auto">Q3-------------</AM>
+<AM lemma="k-33" src="auto">Q3-------------</AM>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
 </tag>
@@ -588,8 +588,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2129-001-p1s2W10-Ta">

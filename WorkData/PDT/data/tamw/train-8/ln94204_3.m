@@ -3461,8 +3461,8 @@
 </w.rf>
 <form>sf</form>
 <tag>
-<AM lemma="sf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="sf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sf-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sf-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-3-p17s2w3">

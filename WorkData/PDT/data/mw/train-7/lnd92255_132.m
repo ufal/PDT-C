@@ -19,7 +19,7 @@
 <LM>w#w-lnd92255-132-p1s1w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-132-p1s1w2">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-lnd92255-132-p2s3w7</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-132-p2s3w8">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-lnd92255-132-p3s1w1</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-132-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

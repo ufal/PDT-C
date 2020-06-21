@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-040-p1s1w2</LM>
 </w.rf>
 <form>Claudel</form>
-<tag lemma="Claudel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Claudel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-040-p1s1w3">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-ln95048-040-p2s2w8</LM>
 </w.rf>
 <form>Rimbaudovými</form>
-<tag lemma="Rimbaudův_;S_^(*2)" src="orig" selected="1">AUFP7M---------</tag>
+<tag lemma="Rimbaudův_;Y_^(*2)" src="orig" selected="1">AUFP7M---------</tag>
 </m>
 <m id="m-ln95048-040-p2s2w9">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Braunerovou</form>
-<tag lemma="Braunerová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Braunerová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95048-040-p2s5w21">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-ln95048-040-p2s5w23</LM>
 </w.rf>
 <form>Martenem</form>
-<tag lemma="Marten_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Marten_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-040-p2s5w24">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-ln95048-040-p2s6w19</LM>
 </w.rf>
 <form>Černý</form>
-<tag lemma="Černý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-040-p2s6w20">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd92254-059-p1s1w2</LM>
 </w.rf>
 <form>HAVEL</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-059-p1s1w3">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-lnd92254-059-p1s1w8</LM>
 </w.rf>
 <form>Dumas</form>
-<tag lemma="Dumas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dumas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-059-p1s1w9">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-lnd92254-059-p1s1w19</LM>
 </w.rf>
 <form>Lang</form>
-<tag lemma="Lang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-059-p1s1w20">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -345,7 +345,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

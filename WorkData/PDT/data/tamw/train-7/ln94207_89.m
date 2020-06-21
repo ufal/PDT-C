@@ -69,7 +69,7 @@
 <LM>w#w-ln94207-89-p2s1Aw2</LM>
 </w.rf>
 <form>Hájková</form>
-<tag lemma="Hájková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hájková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-89-p2s1B">
@@ -167,7 +167,7 @@
 <LM>w#w-ln94207-89-p2s1Bw12</LM>
 </w.rf>
 <form>Kratochvila</form>
-<tag lemma="Kratochvil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kratochvil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-89-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln94207-89-p2s2w29</LM>
 </w.rf>
 <form>Kratochvilově</form>
-<tag lemma="Kratochvilův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Kratochvilův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln94207-89-p2s2w30">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-ln94207-89-p4s1w2</LM>
 </w.rf>
 <form>Kratochvil</form>
-<tag lemma="Kratochvil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kratochvil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-89-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-ln94207-89-p4s1w13</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94207-89-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-ln94207-89-p4s4w24</LM>
 </w.rf>
 <form>Rotrekl</form>
-<tag lemma="Rotrekl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rotrekl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-89-p4s4w25">
 <src.rf>manual</src.rf>
@@ -1781,7 +1781,7 @@
 <LM>w#w-ln94207-89-p5s1w14</LM>
 </w.rf>
 <form>Kratochvila</form>
-<tag lemma="Kratochvil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kratochvil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-89-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1874,7 +1874,7 @@
 <LM>w#w-ln94207-89-p5s2w10</LM>
 </w.rf>
 <form>Masarykovu</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94207-89-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2297,7 +2297,7 @@
 <LM>w#w-ln94207-89-p5s4w10</LM>
 </w.rf>
 <form>Kratochvilova</form>
-<tag lemma="Kratochvilův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Kratochvilův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94207-89-p5s4w11">
 <src.rf>manual</src.rf>
@@ -2456,7 +2456,7 @@
 <LM>w#w-ln94207-89-p6s1w4</LM>
 </w.rf>
 <form>Kratochvilovi</form>
-<tag lemma="Kratochvil_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kratochvil_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94207-89-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2994,7 +2994,7 @@
 <LM>w#w-ln94207-89-p7s1w4</LM>
 </w.rf>
 <form>Kratochvila</form>
-<tag lemma="Kratochvil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kratochvil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-89-p7s1w5">
 <src.rf>manual</src.rf>
@@ -3330,7 +3330,7 @@
 </w.rf>
 <form>Dolmen</form>
 <tag>
-<AM lemma="Dolmen_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Dolmen_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="dolmen" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="dolmen" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -3368,7 +3368,7 @@
 </w.rf>
 <form>Via</form>
 <tag>
-<AM lemma="Via_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Via_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="via" src="auto" recommended="1">RR--1----------</AM>
 <AM lemma="via_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Via-77" src="manual" selected="1">F%-------------</AM>
@@ -3381,8 +3381,8 @@
 </w.rf>
 <form>Dolorosa</form>
 <tag>
-<AM lemma="Dolorosa_;R_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Dolorosa_;R_;u" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Dolorosa_;m_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Dolorosa_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="dolorosa_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Dolorosa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3839,7 +3839,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-89-p7s7w15">
@@ -3856,7 +3856,7 @@
 <LM>w#w-ln94207-89-p7s7w16</LM>
 </w.rf>
 <form>Kratochvilovi</form>
-<tag lemma="Kratochvil_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kratochvil_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94207-89-p7s7w17">
 <src.rf>manual</src.rf>
@@ -4050,7 +4050,7 @@
 <LM>w#w-ln94207-89-p8s1w9</LM>
 </w.rf>
 <form>Kratochvila</form>
-<tag lemma="Kratochvil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kratochvil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-89-p8s1w10">
 <src.rf>manual</src.rf>
@@ -4252,7 +4252,7 @@
 <LM>w#w-ln94207-89-p8s2w6</LM>
 </w.rf>
 <form>Rotrekl</form>
-<tag lemma="Rotrekl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rotrekl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-89-p8s2w7">
 <src.rf>manual</src.rf>
@@ -4284,7 +4284,7 @@
 <LM>w#w-ln94207-89-p8s2w10</LM>
 </w.rf>
 <form>Mácha</form>
-<tag lemma="Mácha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mácha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-89-p8s2w11">
 <src.rf>manual</src.rf>
@@ -4316,7 +4316,7 @@
 <LM>w#w-ln94207-89-p8s2w14</LM>
 </w.rf>
 <form>Kubíček</form>
-<tag lemma="Kubíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-89-p8s2w15">
 <src.rf>manual</src.rf>
@@ -4361,7 +4361,7 @@
 <LM>w#w-ln94207-89-p8s3w4</LM>
 </w.rf>
 <form>Masarykova</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94207-89-p8s3w5">
 <src.rf>manual</src.rf>
@@ -4600,7 +4600,7 @@
 <LM>w#w-ln94207-89-p10s1w4</LM>
 </w.rf>
 <form>Jelínka</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-89-p10s1w5">
 <src.rf>manual</src.rf>
@@ -4624,7 +4624,7 @@
 <LM>w#w-ln94207-89-p10s1w7</LM>
 </w.rf>
 <form>Kratochvilovi</form>
-<tag lemma="Kratochvil_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kratochvil_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 </mdata>

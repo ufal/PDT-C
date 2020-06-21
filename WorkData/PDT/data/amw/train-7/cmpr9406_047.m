@@ -3251,7 +3251,7 @@
 <form>Lánský</form>
 <tag>
 <AM lemma="lánský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Lánský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lánský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

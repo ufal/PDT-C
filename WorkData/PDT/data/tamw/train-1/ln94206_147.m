@@ -88,7 +88,7 @@
 <LM>w#w-ln94206-147-p2s1Aw4</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dan-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-147-p2s1Aw5">
 <src.rf>manual</src.rf>

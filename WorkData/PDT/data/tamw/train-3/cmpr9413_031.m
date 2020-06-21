@@ -605,7 +605,7 @@
 <LM>w#w-cmpr9413-031-p6s1w2</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-031-p7s1">
@@ -978,7 +978,7 @@
 <LM>w#w-cmpr9413-031-p7s3w14</LM>
 </w.rf>
 <form>Novotným</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9413-031-p7s3w15">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-cmpr9413-031-p7s5w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9413-031-p7s5w17">
 <src.rf>manual</src.rf>
@@ -2360,18 +2360,18 @@
 </w.rf>
 <form>Novotný</form>
 <tag>
-<AM lemma="Novotný_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFS6-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Novotný_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Novotný_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Novotný_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Novotný_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Novotný_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Novotný_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Novotný_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="novotný_,a" src="auto">AAFP1----1A---6</AM>
 <AM lemma="novotný_,a" src="auto">AAFP4----1A---6</AM>
 <AM lemma="novotný_,a" src="auto">AAFP5----1A---6</AM>
@@ -3128,7 +3128,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Novotného</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-031-p10s3w10">
 <src.rf>manual</src.rf>

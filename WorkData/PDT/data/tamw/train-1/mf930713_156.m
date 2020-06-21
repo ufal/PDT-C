@@ -824,7 +824,7 @@
 <LM>w#w-mf930713-156-p3s1w27</LM>
 </w.rf>
 <form>raketometu</form>
-<tag lemma="raketomet_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="raketomet_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-156-p3s1w28">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <form>Grad</form>
 <tag>
 <AM lemma="grad" src="orig">NNIS1-----A----</AM>
-<AM lemma="Grad_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Grad_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-156-p3s1w29">
@@ -1398,7 +1398,7 @@
 <LM>w#w-mf930713-156-p5s1w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930713-156-p5s1w6">
 <src.rf>manual</src.rf>

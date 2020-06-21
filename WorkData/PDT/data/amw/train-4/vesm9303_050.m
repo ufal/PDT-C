@@ -77,7 +77,7 @@
 <LM>w#w-vesm9303-050-p2s1w2</LM>
 </w.rf>
 <form>SCHREIBER</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-050-p3s1">
@@ -704,7 +704,7 @@
 <LM>w#w-vesm9303-050-p3s4w7</LM>
 </w.rf>
 <form>Presl</form>
-<tag lemma="Presl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Presl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-050-p3s4w8">
 <src.rf>manual</src.rf>
@@ -2159,7 +2159,7 @@
 <LM>w#w-vesm9303-050-p4s6w5</LM>
 </w.rf>
 <form>Koštíř</form>
-<tag lemma="Koštíř_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koštíř_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-050-p4s6w6">
 <src.rf>manual</src.rf>
@@ -3449,7 +3449,7 @@
 <LM>w#w-vesm9303-050-p8s1w4</LM>
 </w.rf>
 <form>Markoš</form>
-<tag lemma="Markoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Markoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-050-p8s1w5">
 <src.rf>manual</src.rf>
@@ -6048,7 +6048,7 @@
 <LM>w#w-vesm9303-050-p9s7w18</LM>
 </w.rf>
 <form>Tatrách</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFP6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-vesm9303-050-p9s7w19">
 <src.rf>manual</src.rf>
@@ -9130,7 +9130,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="O-33" src="orig">Q3-------------</AM>
 <AM lemma="O-2_:B_^(kyslík)" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
@@ -9861,7 +9861,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-050-p16s2w7">
@@ -9879,8 +9879,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="E-33" src="orig">Q3-------------</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-050-p16s2w9">
@@ -9898,8 +9898,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-050-p16s2w11">
@@ -10104,7 +10104,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-050-p16s3w9">
@@ -10425,7 +10425,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-050-p16s4w25">
@@ -10501,8 +10501,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="E-33" src="orig">Q3-------------</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-050-p16s5w7">
@@ -14634,7 +14634,7 @@
 <LM>w#w-vesm9303-050-p21s5w10</LM>
 </w.rf>
 <form>superoxid</form>
-<tag lemma="superoxid_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="superoxid_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9303-050-p21s5w11">
 <src.rf>manual</src.rf>
@@ -14650,7 +14650,7 @@
 <LM>w#w-vesm9303-050-p21s5w12</LM>
 </w.rf>
 <form>dismutáza</form>
-<tag lemma="dismutáza_;H" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="dismutáza_;U" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-050-p21s5w13">
 <src.rf>manual</src.rf>

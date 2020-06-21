@@ -255,7 +255,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-016-p2s2w13">
@@ -272,7 +272,7 @@
 <LM>w#w-lnd92251-016-p2s2w14</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-016-p2s2w15">
 <src.rf>manual</src.rf>

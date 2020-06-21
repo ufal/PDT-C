@@ -106,7 +106,7 @@
 <LM>w#w-mf930713-148-p2s1Bw3</LM>
 </w.rf>
 <form>Lennart</form>
-<tag lemma="Lennart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lennart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-148-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 <LM>w#w-mf930713-148-p2s1Bw4</LM>
 </w.rf>
 <form>Meri</form>
-<tag lemma="Meri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-148-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-mf930713-148-p4s1w2</LM>
 </w.rf>
 <form>Meri</form>
-<tag lemma="Meri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-148-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-mf930713-148-p4s1w8</LM>
 </w.rf>
 <form>Interfax</form>
-<tag lemma="Interfax_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interfax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-148-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-mf930713-148-p5s2w2</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-148-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1681,7 +1681,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

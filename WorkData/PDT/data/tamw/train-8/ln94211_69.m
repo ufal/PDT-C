@@ -65,7 +65,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-69-p2s1Aw4">
@@ -83,7 +83,7 @@
 </w.rf>
 <form>Poledne</form>
 <tag>
-<AM lemma="Poledne_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Poledne_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="poledne" src="auto">NNNP1-----A----</AM>
 <AM lemma="poledne" src="auto">NNNP4-----A----</AM>
 <AM lemma="poledne" src="auto">NNNP5-----A----</AM>
@@ -1329,7 +1329,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>

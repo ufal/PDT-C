@@ -19,7 +19,7 @@
 <LM>w#w-ln94202-99-p1s1w1</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-99-p1s1w2">
 <src.rf>manual</src.rf>
@@ -108,16 +108,16 @@
 <AM lemma="Franca_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="France-2_;G_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="France-2_;G_;m" src="auto">NNXXX-----A----</AM>
 <AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -159,7 +159,7 @@
 <LM>w#w-ln94202-99-p2s1Bw10</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-99-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 </w.rf>
 <form>UCI</form>
 <tag>
-<AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UCI-1_:B_;m_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -597,7 +597,7 @@
 </w.rf>
 <form>UCI</form>
 <tag>
-<AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UCI-1_:B_;m_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -711,7 +711,7 @@
 <LM>w#w-ln94202-99-p2s3w28</LM>
 </w.rf>
 <form>Indurainově</form>
-<tag lemma="Indurainův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Indurainův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94202-99-p2s3w29">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-ln94202-99-p3s2w20</LM>
 </w.rf>
 <form>Bugna</form>
-<tag lemma="Bugno_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bugno_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-99-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <LM>w#w-ln94202-99-p3s2w32</LM>
 </w.rf>
 <form>Bugnově</form>
-<tag lemma="Bugnův_;S_^(*2a)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Bugnův_;Y_^(*2a)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94202-99-p3s2w33">
 <src.rf>manual</src.rf>
@@ -1270,8 +1270,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-99-p3s3w9">
@@ -1313,8 +1313,8 @@
 </w.rf>
 <form>Bugnova</form>
 <tag>
-<AM lemma="Bugnův_;S_^(*2a)" src="auto">AUIS2M---------</AM>
-<AM lemma="Bugnův_;S_^(*2o)" src="manual" selected="1">AUIS2M---------</AM>
+<AM lemma="Bugnův_;Y_^(*2a)" src="auto">AUIS2M---------</AM>
+<AM lemma="Bugnův_;Y_^(*2o)" src="manual" selected="1">AUIS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94202-99-p3s3w14">

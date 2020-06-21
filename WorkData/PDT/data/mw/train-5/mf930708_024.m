@@ -67,7 +67,7 @@
 <LM>w#w-mf930708-024-p1s2w1</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Zetor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-024-p2s1">
@@ -117,7 +117,7 @@
 <LM>w#w-mf930708-024-p2s1w6</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Zetor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-024-p2s1w7">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf930708-024-p2s3w15</LM>
 </w.rf>
 <form>Poláčka</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-024-p2s3w16">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 </w.rf>
 <form>Deere</form>
 <tag>
-<AM lemma="Deere_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Deere_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Deere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -600,7 +600,7 @@
 </w.rf>
 <form>Company</form>
 <tag>
-<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -766,7 +766,7 @@
 <LM>w#w-mf930708-024-p2s6w1</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Zetor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-024-p2s6w2">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

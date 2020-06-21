@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-065-p1s1w1</LM>
 </w.rf>
 <form>Dienstbierova</form>
-<tag lemma="Dienstbierův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Dienstbierův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95043-065-p1s1w2">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-1_:B_;m_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -309,7 +309,7 @@
 <LM>w#w-ln95043-065-p2s1Bw27</LM>
 </w.rf>
 <form>Dienstbier</form>
-<tag lemma="Dienstbier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dienstbier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-065-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-ln95043-065-p3s1w16</LM>
 </w.rf>
 <form>Sokol</form>
-<tag lemma="Sokol-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sokol-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-065-p3s1w17">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-ln95043-065-p3s1w26</LM>
 </w.rf>
 <form>Hron</form>
-<tag lemma="Hron_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hron_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-065-p3s1w27">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="orig">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -820,7 +820,7 @@
 <LM>w#w-ln95043-065-p3s3w11</LM>
 </w.rf>
 <form>Vavroušek</form>
-<tag lemma="Vavroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vavroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-065-p3s3w12">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-ln95043-065-p3s3w17</LM>
 </w.rf>
 <form>Pithart</form>
-<tag lemma="Pithart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pithart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-065-p3s3w18">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-ln95043-065-p3s3w20</LM>
 </w.rf>
 <form>Rychetský</form>
-<tag lemma="Rychetský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rychetský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-065-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1367,7 +1367,7 @@
 <LM>w#w-ln95043-065-p4s1w7</LM>
 </w.rf>
 <form>Dienstbier</form>
-<tag lemma="Dienstbier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dienstbier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-065-p4s1w8">
 <src.rf>manual</src.rf>
@@ -2054,7 +2054,7 @@
 <LM>w#w-ln95043-065-p4s4w23</LM>
 </w.rf>
 <form>Dienstbier</form>
-<tag lemma="Dienstbier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dienstbier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-065-p4s4w24">
 <src.rf>manual</src.rf>

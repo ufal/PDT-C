@@ -35,7 +35,7 @@
 <LM>w#w-lnd92256-065-p1s1w3</LM>
 </w.rf>
 <form>TAMARA</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p1s1w4">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 </w.rf>
 <form>INVEX</form>
 <tag>
-<AM lemma="Invex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Invex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="INVEX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -387,7 +387,7 @@
 <LM>w#w-lnd92256-065-p3s1w29</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p3s1w30">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-lnd92256-065-p4s1w3</LM>
 </w.rf>
 <form>Tamaře</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p4s1w4">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 </w.rf>
 <form>VAAZ</form>
 <tag>
-<AM lemma="VAAZ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="VAAZ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="VAAZ-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="VAAZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1364,7 +1364,7 @@
 <LM>w#w-lnd92256-065-p4s4w9</LM>
 </w.rf>
 <form>Tamary</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 <LM>w#w-lnd92256-065-p4s4w12</LM>
 </w.rf>
 <form>Tesly</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p4s4w15">
@@ -1423,7 +1423,7 @@
 <LM>w#w-lnd92256-065-p4s4w16</LM>
 </w.rf>
 <form>Reitmayer</form>
-<tag lemma="Reitmayer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reitmayer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-lnd92256-065-p5s1w18</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p5s1w19">
 <src.rf>manual</src.rf>
@@ -2041,7 +2041,7 @@
 <LM>w#w-lnd92256-065-p5s2w24</LM>
 </w.rf>
 <form>TAMARA</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p5s2w25">
 <src.rf>manual</src.rf>
@@ -2147,7 +2147,7 @@
 <LM>w#w-lnd92256-065-p5s3w12</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p5s3w13">
 <src.rf>manual</src.rf>
@@ -2672,7 +2672,7 @@
 <LM>w#w-lnd92256-065-p6s1w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2765,7 +2765,7 @@
 <LM>w#w-lnd92256-065-p6s2w4</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s2w5">
 <src.rf>manual</src.rf>
@@ -2799,7 +2799,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s2w9">
@@ -2816,7 +2816,7 @@
 <LM>w#w-lnd92256-065-p6s2w10</LM>
 </w.rf>
 <form>Reitmayera</form>
-<tag lemma="Reitmayer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reitmayer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s2w11">
 <src.rf>manual</src.rf>
@@ -2984,9 +2984,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s2w31">
@@ -3139,7 +3139,7 @@
 <LM>w#w-lnd92256-065-p6s2w49</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s2w50">
 <src.rf>manual</src.rf>
@@ -3399,7 +3399,7 @@
 <LM>w#w-lnd92256-065-p6s4w3</LM>
 </w.rf>
 <form>Tamara</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s4w4">
 <src.rf>manual</src.rf>
@@ -3868,7 +3868,7 @@
 <LM>w#w-lnd92256-065-p6s5w25</LM>
 </w.rf>
 <form>Omnipolu</form>
-<tag lemma="Omnipol_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Omnipol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s5w26">
 <src.rf>manual</src.rf>
@@ -3934,7 +3934,7 @@
 <LM>w#w-lnd92256-065-p6s6w7</LM>
 </w.rf>
 <form>Omnipol</form>
-<tag lemma="Omnipol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Omnipol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s6w8">
 <src.rf>manual</src.rf>
@@ -4152,7 +4152,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s6w35">
@@ -4169,7 +4169,7 @@
 <LM>w#w-lnd92256-065-p6s6w36</LM>
 </w.rf>
 <form>Reitmayer</form>
-<tag lemma="Reitmayer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reitmayer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s6w37">
 <src.rf>manual</src.rf>
@@ -4203,7 +4203,7 @@
 <LM>w#w-lnd92256-065-p6s7w3</LM>
 </w.rf>
 <form>Tesly</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p6s7w4">
 <src.rf>manual</src.rf>
@@ -4368,7 +4368,7 @@
 <LM>w#w-lnd92256-065-p7s1w2</LM>
 </w.rf>
 <form>HORÁK</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

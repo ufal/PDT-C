@@ -35,7 +35,7 @@
 <LM>w#w-ln94210-143-p1s1w3</LM>
 </w.rf>
 <form>Sigmě</form>
-<tag lemma="Sigma_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sigma_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94210-143-p1s1w4">
 <src.rf>manual</src.rf>
@@ -78,12 +78,12 @@
 </w.rf>
 <form>jak</form>
 <tag>
-<AM lemma="jak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
+<AM lemma="jak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jak-1_;U_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-143-p2s1Aw4">
@@ -142,7 +142,7 @@
 <LM>w#w-ln94210-143-p2s1Bw5</LM>
 </w.rf>
 <form>Sigmě</form>
-<tag lemma="Sigma_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sigma_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94210-143-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-ln94210-143-p2s1Bw16</LM>
 </w.rf>
 <form>Škromacha</form>
-<tag lemma="Škromach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Škromach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-143-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-143-p3s1w3">
@@ -529,7 +529,7 @@
 <LM>w#w-ln94210-143-p3s1w4</LM>
 </w.rf>
 <form>Škromacha</form>
-<tag lemma="Škromach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Škromach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-143-p3s1w5">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-ln94210-143-p3s3w14</LM>
 </w.rf>
 <form>Urbanovi</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94210-143-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-ln94210-143-p4s2w3</LM>
 </w.rf>
 <form>Urbana</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-143-p4s2w4">
 <src.rf>manual</src.rf>

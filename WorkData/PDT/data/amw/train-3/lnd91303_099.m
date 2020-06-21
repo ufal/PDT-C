@@ -28,10 +28,10 @@
 </w.rf>
 <form>Baia</form>
 <tag>
-<AM lemma="Baia-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Baia-2_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Baia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Baia_;S" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Baia-3_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Baia_;Y" src="auto">NNFS1-----A---1</AM>
+<AM lemma="Baia-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -51,7 +51,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -63,7 +63,7 @@
 <form>Porto</form>
 <tag>
 <AM lemma="porto" src="orig">NNNS1-----A----</AM>
-<AM lemma="Porto_;G_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Porto_;G_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s1w4">
@@ -81,10 +81,10 @@
 </w.rf>
 <form>Baia</form>
 <tag>
-<AM lemma="Baia-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Baia-2_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Baia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Baia_;S" src="auto">NNFS1-----A---1</AM>
-<AM lemma="Baia-3_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Baia_;Y" src="auto">NNFS1-----A---1</AM>
+<AM lemma="Baia-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s1w6">
@@ -280,11 +280,11 @@
 </w.rf>
 <form>Gil</form>
 <tag>
-<AM lemma="Gil_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Gil_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gil_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Gil_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gila_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Gil-2_;K_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Gil-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Gil-2_;m_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Gil-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gil-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -295,10 +295,10 @@
 </w.rf>
 <form>Vicente</form>
 <tag>
-<AM lemma="Vicente_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Vicente_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Vicente_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Vicente-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Vicente_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Vicente_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vicente_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Vicente-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Vicente-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -456,7 +456,7 @@
 <form>Vlk</form>
 <tag>
 <AM lemma="vlk" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vlk_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vlk_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s3w10">
@@ -740,8 +740,8 @@
 </w.rf>
 <form>Benfika</form>
 <tag>
-<AM lemma="Benfika_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Benfica_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Benfika_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Benfica_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s5Aw5">
@@ -849,8 +849,8 @@
 </w.rf>
 <form>Benfika</form>
 <tag>
-<AM lemma="Benfika_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Benfica_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Benfika_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Benfica_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s5Bw3">
@@ -925,7 +925,7 @@
 <form>Penafielem</form>
 <tag>
 <AM lemma="Penafiel_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Penafiel_;G_;K" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Penafiel_;G_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s5Bw12">
@@ -990,7 +990,7 @@
 <LM>w#w-lnd91303-099-p2s5Bw19</LM>
 </w.rf>
 <form>Musil</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-099-p2s5Bw20">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <form>Žák</form>
 <tag>
 <AM lemma="žák" src="orig">NNMS1-----A----</AM>
-<AM lemma="Žák_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Žák_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p2s6w6">
@@ -1129,8 +1129,8 @@
 </w.rf>
 <form>řej</form>
 <tag>
-<AM lemma="řej-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="řej-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="řej-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="řej-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p3s1w3">
@@ -1148,8 +1148,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-099-p3s1w5">

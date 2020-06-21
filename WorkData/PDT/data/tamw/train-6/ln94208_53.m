@@ -20,7 +20,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -98,7 +98,7 @@
 <LM>w#w-ln94208-53-p2s1Bw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mot-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94208-53-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -167,7 +167,7 @@
 <LM>w#w-ln94208-53-p2s1Cw6</LM>
 </w.rf>
 <form>Pilipa</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-53-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -633,7 +633,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -683,7 +683,7 @@
 <LM>w#w-ln94208-53-p2s4w12</LM>
 </w.rf>
 <form>Pilip</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-53-p2s4w13">
 <src.rf>manual</src.rf>

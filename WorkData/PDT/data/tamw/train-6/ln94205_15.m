@@ -324,7 +324,7 @@
 <LM>w#w-ln94205-15-p1s4w3</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

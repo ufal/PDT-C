@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-056-p1s1w2</LM>
 </w.rf>
 <form>Filla</form>
-<tag lemma="Filla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Filla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-056-p1s1w3">
 <src.rf>manual</src.rf>
@@ -88,7 +88,7 @@
 <LM>w#w-ln95044-056-p2s1Aw2</LM>
 </w.rf>
 <form>Koleček</form>
-<tag lemma="Koleček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koleček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-056-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-ln95044-056-p2s2w9</LM>
 </w.rf>
 <form>Koleček</form>
-<tag lemma="Koleček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koleček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-056-p2s2w10">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln95044-056-p2s2w17</LM>
 </w.rf>
 <form>Filly</form>
-<tag lemma="Filla_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Filla_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-056-p2s2w18">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln95044-056-p2s4w4</LM>
 </w.rf>
 <form>Matasové</form>
-<tag lemma="Matasová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Matasová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-056-p2s4w5">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-ln95044-056-p2s4w27</LM>
 </w.rf>
 <form>Koleček</form>
-<tag lemma="Koleček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koleček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-056-p2s4w28">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-ln95044-056-p2s5w14</LM>
 </w.rf>
 <form>Valoch</form>
-<tag lemma="Valoch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valoch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-056-p2s5w15">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <LM>w#w-ln95044-056-p2s5w17</LM>
 </w.rf>
 <form>Hlaváček</form>
-<tag lemma="Hlaváček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hlaváček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-056-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1666,7 +1666,7 @@
 <LM>w#w-ln95044-056-p3s4w9</LM>
 </w.rf>
 <form>Koleček</form>
-<tag lemma="Koleček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koleček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-056-p3s4w10">
 <src.rf>manual</src.rf>

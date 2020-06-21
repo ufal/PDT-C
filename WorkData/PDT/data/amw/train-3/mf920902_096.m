@@ -60,7 +60,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -89,8 +89,8 @@
 </w.rf>
 <form>pen</form>
 <tag>
-<AM lemma="pen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pen-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pen-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pen-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-096-p2s1w4">
@@ -198,7 +198,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -293,7 +293,7 @@
 <LM>w#w-mf920902-096-p2s3w2</LM>
 </w.rf>
 <form>Uhl</form>
-<tag lemma="Uhl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-096-p2s3w3">
 <src.rf>manual</src.rf>
@@ -408,9 +408,9 @@
 </w.rf>
 <form>Stráského</form>
 <tag>
-<AM lemma="Stráský_;S" src="orig">AAMS2----1A----</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Stráský_;Y" src="orig">AAMS2----1A----</AM>
+<AM lemma="Stráský_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-096-p2s4w9">
@@ -435,7 +435,7 @@
 <LM>w#w-mf920902-096-p2s4w11</LM>
 </w.rf>
 <form>Uhl</form>
-<tag lemma="Uhl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-096-p2s4w12">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -869,7 +869,7 @@
 <LM>w#w-mf920902-096-p2s6w24</LM>
 </w.rf>
 <form>Uhl</form>
-<tag lemma="Uhl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-096-p2s6w25">
 <src.rf>manual</src.rf>
@@ -952,11 +952,11 @@
 </w.rf>
 <form>Stráským</form>
 <tag>
-<AM lemma="Stráský_;S" src="orig">AAMS7----1A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMP3-----A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
-<AM lemma="Stráská_;S" src="auto">NNFP3-----A----</AM>
+<AM lemma="Stráský_;Y" src="orig">AAMS7----1A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMP3-----A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMS6-----A---7</AM>
+<AM lemma="Stráský_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-096-p2s7w10">
@@ -990,7 +990,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1084,7 +1084,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1320,7 +1320,7 @@
 <LM>w#w-mf920902-096-p2s8w11</LM>
 </w.rf>
 <form>Uhla</form>
-<tag lemma="Uhl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uhl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-096-p2s8w12">
 <src.rf>manual</src.rf>
@@ -1499,7 +1499,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1565,7 +1565,7 @@
 <LM>w#w-mf920902-096-p2s9w26</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920902-096-p2s9w27">
 <src.rf>manual</src.rf>
@@ -1719,7 +1719,7 @@
 <LM>w#w-mf920902-096-p2s10w11</LM>
 </w.rf>
 <form>Uhla</form>
-<tag lemma="Uhl_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Uhl_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-096-p2s10w12">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1952,7 +1952,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

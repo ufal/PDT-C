@@ -72,7 +72,7 @@
 </w.rf>
 <form>CMC</form>
 <tag>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1231,7 +1231,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1242,7 +1242,7 @@
 </w.rf>
 <form>ROM</form>
 <tag>
-<AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ROM_:B_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ROM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1452,7 +1452,7 @@
 </w.rf>
 <form>CMC</form>
 <tag>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1894,7 +1894,7 @@
 </w.rf>
 <form>CMC</form>
 <tag>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1930,7 +1930,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p11s1w23">
@@ -1947,7 +1947,7 @@
 <LM>w#w-cmpr9417-044-p11s1w24</LM>
 </w.rf>
 <form>Pendergast</form>
-<tag lemma="Pendergast_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pendergast_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-044-p11s1w25">
 <src.rf>manual</src.rf>
@@ -2162,7 +2162,7 @@
 </w.rf>
 <form>schools</form>
 <tag>
-<AM lemma="school_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="school_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="schools_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="schools-77" src="manual" selected="1">F%-------------</AM>
 </tag>

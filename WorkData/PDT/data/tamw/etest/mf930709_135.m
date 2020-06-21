@@ -399,7 +399,7 @@
 <LM>w#w-mf930709-135-p2s3w3</LM>
 </w.rf>
 <form>Yecse</form>
-<tag lemma="Yecs_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Yecs_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s3w4">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-mf930709-135-p2s3w16</LM>
 </w.rf>
 <form>Driskill</form>
-<tag lemma="Driskill_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Driskill_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s3w17">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-mf930709-135-p2s4w10</LM>
 </w.rf>
 <form>Bergalisová</form>
-<tag lemma="Bergalisová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bergalisová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s4w11">
 <src.rf>manual</src.rf>
@@ -633,12 +633,12 @@
 </w.rf>
 <form>Acer</form>
 <tag>
-<AM lemma="Acer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Acera_;R_^(Shimano_Acera)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Acer_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Acer_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="acer_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Acer-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Acer_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Acera_;m_^(Shimano_Acera)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Acer_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Acer_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="acer_;U_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Acer-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-135-p2s5w4">
@@ -657,7 +657,7 @@
 <form>Jensen</form>
 <tag>
 <AM lemma="Jensen_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Jensen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jensen_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jensen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -669,8 +669,8 @@
 <form>Beach</form>
 <tag>
 <AM lemma="Beach_;G" src="orig">NNFXX-----A----</AM>
-<AM lemma="beach-1_;w_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
-<AM lemma="beach-1_;w_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
+<AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
+<AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="beach-3_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
@@ -770,7 +770,7 @@
 <LM>w#w-mf930709-135-p2s5w18</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-mf930709-135-p2s5w19">
 <src.rf>manual</src.rf>

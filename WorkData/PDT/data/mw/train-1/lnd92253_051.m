@@ -45,8 +45,8 @@
 <form>MATKY</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP5-----A----</AM>

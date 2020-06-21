@@ -207,7 +207,7 @@
 <form>Gran</form>
 <tag>
 <AM lemma="Gran_;G_,t_^(it._a_šp._velký_v_názvech)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Grana_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Grana_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="gran" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gran" src="auto">NNIS4-----A----</AM>
 <AM lemma="gran_,t" src="manual">AAXXX----1A----</AM>
@@ -372,8 +372,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

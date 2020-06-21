@@ -407,10 +407,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -604,7 +604,7 @@
 <form>Mater</form>
 <tag>
 <AM lemma="Mater_,t_^(p._Marie)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mater_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mater_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="mater_,t_^(alma_mater)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="materiál_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mater-2_,t" src="manual">NNXXX-----A----</AM>
@@ -697,7 +697,7 @@
 </w.rf>
 <form>Cisterciencis</form>
 <tag>
-<AM lemma="Cisterciencis_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Cisterciencis_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Cisterciencis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1373,7 +1373,7 @@
 <LM>w#w-lnd91303-061-p4s1Aw13</LM>
 </w.rf>
 <form>Kvapil</form>
-<tag lemma="Kvapil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kvapil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-061-p4s1Aw14">
 <src.rf>manual</src.rf>
@@ -3917,7 +3917,7 @@
 <LM>w#w-lnd91303-061-p5s7Aw17</LM>
 </w.rf>
 <form>Kvapil</form>
-<tag lemma="Kvapil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kvapil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-061-p5s7Aw18">
 <src.rf>manual</src.rf>
@@ -5083,7 +5083,7 @@
 <LM>w#w-lnd91303-061-p6s1w2</LM>
 </w.rf>
 <form>ILIEV</form>
-<tag lemma="Iliev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iliev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd92255-001-p1s1w2</LM>
 </w.rf>
 <form>Klausův</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92255-001-p1s1w3">
 <src.rf>manual</src.rf>

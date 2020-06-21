@@ -53,7 +53,7 @@
 <form>Tibetu</form>
 <tag>
 <AM lemma="tibet" src="orig">NNIS2-----A----</AM>
-<AM lemma="Tibet_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Tibet_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -146,7 +146,7 @@
 <form>Tibetu</form>
 <tag>
 <AM lemma="tibet" src="orig">NNIS6-----A----</AM>
-<AM lemma="Tibet_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Tibet_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-058-p2s1w12">
@@ -348,7 +348,7 @@
 <form>Tibet</form>
 <tag>
 <AM lemma="tibet" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tibet_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tibet_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-058-p2s3w17">
@@ -365,7 +365,7 @@
 <LM>w#w-mf930713-058-p2s3w18</LM>
 </w.rf>
 <form>Sekerák</form>
-<tag lemma="Sekerák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sekerák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-058-p2s3w19">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <form>Tibet</form>
 <tag>
 <AM lemma="tibet" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tibet_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tibet_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-058-p3s1w3">
@@ -858,7 +858,7 @@
 <form>Tibet</form>
 <tag>
 <AM lemma="tibet" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tibet_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tibet_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-058-p4s5w8">
@@ -2071,7 +2071,7 @@
 <form>Tibet</form>
 <tag>
 <AM lemma="tibet" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tibet_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tibet_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-058-p7s1w4">
@@ -2549,7 +2549,7 @@
 </w.rf>
 <form>Hot</form>
 <tag>
-<AM lemma="Hot_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Hot_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Hot_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hot_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="hot-1" src="auto">II-------------</AM>
@@ -2576,7 +2576,7 @@
 </w.rf>
 <form>Pepper</form>
 <tag>
-<AM lemma="Pepper_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Pepper_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Pepper-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

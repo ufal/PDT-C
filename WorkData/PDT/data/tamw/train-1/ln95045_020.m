@@ -51,7 +51,7 @@
 <LM>w#w-ln95045-020-p1s1w5</LM>
 </w.rf>
 <form>Seamana</form>
-<tag lemma="Seaman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seaman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95045-020-p2s1A">
@@ -151,7 +151,7 @@
 <LM>w#w-ln95045-020-p2s1Bw10</LM>
 </w.rf>
 <form>Seaman</form>
-<tag lemma="Seaman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seaman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-020-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln95045-020-p2s2w24</LM>
 </w.rf>
 <form>Seamana</form>
-<tag lemma="Seaman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seaman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-020-p2s2w25">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-ln95045-020-p2s3w2</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-020-p2s3w3">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 </w.rf>
 <form>rowdies</form>
 <tag>
-<AM lemma="rowdies" src="orig">NNMPX-----A----</AM>
+<AM lemma="rowdies" src="orig">NNMXX-----A----</AM>
 <AM lemma="rowdies-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -598,7 +598,7 @@
 <LM>w#w-ln95045-020-p2s3w29</LM>
 </w.rf>
 <form>Seamana</form>
-<tag lemma="Seaman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seaman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-020-p2s3w30">
 <src.rf>manual</src.rf>

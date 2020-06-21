@@ -27,7 +27,7 @@
 <LM>w#w-lnd92251-072-p1s1w2</LM>
 </w.rf>
 <form>ŠPÁTA</form>
-<tag lemma="Špáta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špáta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-072-p1s1w3">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-lnd92251-072-p2s1w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jaf-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92251-072-p2s1w3">
 <src.rf>manual</src.rf>

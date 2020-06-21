@@ -36,7 +36,7 @@
 <LM>w#w-lnd94101-081-p1s1Aw3</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-081-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -68,7 +68,7 @@
 <LM>w#w-lnd94101-081-p1s1Aw7</LM>
 </w.rf>
 <form>Stanleyova</form>
-<tag lemma="Stanleyův_;S_^(*2)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Stanleyův_;Y_^(*2)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd94101-081-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -116,7 +116,7 @@
 <LM>w#w-lnd94101-081-p1s1Aw13</LM>
 </w.rf>
 <form>Burridgem</form>
-<tag lemma="Burridge_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Burridge_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94101-081-p1s1B">
@@ -135,8 +135,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

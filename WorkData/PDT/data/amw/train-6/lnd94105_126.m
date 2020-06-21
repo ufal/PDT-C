@@ -21,7 +21,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-126-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-lnd94105-126-p1s1w3</LM>
 </w.rf>
 <form>Mjartan</form>
-<tag lemma="Mjartan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mjartan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-126-p1s1w4">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-lnd94105-126-p1s3w6</LM>
 </w.rf>
 <form>Mjartan</form>
-<tag lemma="Mjartan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mjartan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-126-p1s3w7">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-126-p1s3w16">
@@ -232,7 +232,7 @@
 <LM>w#w-lnd94105-126-p1s3w17</LM>
 </w.rf>
 <form>Motejlem</form>
-<tag lemma="Motejl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Motejl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-126-p1s3w18">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-126-p1s3w24">
@@ -299,7 +299,7 @@
 <LM>w#w-lnd94105-126-p1s3w25</LM>
 </w.rf>
 <form>Kesslerem</form>
-<tag lemma="Kessler_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kessler_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-126-p1s3w26">
 <src.rf>manual</src.rf>

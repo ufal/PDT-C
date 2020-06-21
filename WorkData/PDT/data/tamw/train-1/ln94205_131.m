@@ -89,7 +89,7 @@
 </w.rf>
 <form>Oz</form>
 <tag>
-<AM lemma="Oz_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="oz-1_:B_,t_^(jednotka_hmotnosti_&quot;unce&quot;)" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -133,7 +133,7 @@
 <LM>w#w-ln94205-131-p2s1Bw2</LM>
 </w.rf>
 <form>Kumermann</form>
-<tag lemma="Kumermann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kumermann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-131-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-ln94205-131-p2s1Bw5</LM>
 </w.rf>
 <form>Matoušek</form>
-<tag lemma="Matoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-131-p2s1C">
@@ -522,7 +522,7 @@
 </w.rf>
 <form>Oz</form>
 <tag>
-<AM lemma="Oz_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="oz-1_:B_,t_^(jednotka_hmotnosti_&quot;unce&quot;)" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1038,8 +1038,8 @@
 </w.rf>
 <form>Golema</form>
 <tag>
-<AM lemma="Golem_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Golem_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Golem_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Golem_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-131-p2s6Bw5">
@@ -1091,8 +1091,8 @@
 </w.rf>
 <form>Golem</form>
 <tag>
-<AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Golem_;S_Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Golem_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem_;Y_Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-131-p3s1w6">
@@ -2679,7 +2679,7 @@
 <LM>w#w-ln94205-131-p8s1w5</LM>
 </w.rf>
 <form>Ozem</form>
-<tag lemma="Oz_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Oz_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-131-p8s1w6">
 <src.rf>manual</src.rf>

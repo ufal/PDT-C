@@ -905,7 +905,7 @@
 <LM>w#w-lnd91301-075-p3s6w3</LM>
 </w.rf>
 <form>Drdy</form>
-<tag lemma="Drda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Drda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-075-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-lnd91301-075-p3s8w14</LM>
 </w.rf>
 <form>Gellner</form>
-<tag lemma="Gellner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gellner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-075-p3s8w15">
 <src.rf>manual</src.rf>
@@ -3742,7 +3742,7 @@
 <LM>w#w-lnd91301-075-p5s3w20</LM>
 </w.rf>
 <form>Lang</form>
-<tag lemma="Lang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-075-p5s3w21">
 <src.rf>manual</src.rf>
@@ -5861,7 +5861,7 @@
 <LM>w#w-lnd91301-075-p8s1w2</LM>
 </w.rf>
 <form>FRYŠ</form>
-<tag lemma="Fryš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fryš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -305,7 +305,7 @@
 <LM>w#w-lnd94104-040-p1s4Aw6</LM>
 </w.rf>
 <form>Dobal</form>
-<tag lemma="Dobal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-040-p1s4Aw7">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -449,7 +449,7 @@
 <LM>w#w-lnd94104-040-p1s4Bw7</LM>
 </w.rf>
 <form>Nováka</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-040-p1s4Bw8">
 <src.rf>manual</src.rf>
@@ -474,8 +474,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-040-p1s4Bw11">
@@ -726,7 +726,7 @@
 <LM>w#w-lnd94104-040-p1s5w2</LM>
 </w.rf>
 <form>Dobalova</form>
-<tag lemma="Dobalův_;S_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Dobalův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd94104-040-p1s5w3">
 <src.rf>manual</src.rf>
@@ -1262,7 +1262,7 @@
 <LM>w#w-lnd94104-040-p1s8w1</LM>
 </w.rf>
 <form>Dobal</form>
-<tag lemma="Dobal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-040-p1s8w2">
 <src.rf>manual</src.rf>
@@ -1374,7 +1374,7 @@
 <LM>w#w-lnd94104-040-p1s8w15</LM>
 </w.rf>
 <form>Novákovu</form>
-<tag lemma="Novákův_;S_^(*2)" src="orig" selected="1">AUIS3M---------</tag>
+<tag lemma="Novákův_;Y_^(*2)" src="orig" selected="1">AUIS3M---------</tag>
 </m>
 <m id="m-lnd94104-040-p1s8w16">
 <src.rf>manual</src.rf>

@@ -513,7 +513,7 @@
 <LM>w#w-ln95041-123-p3s3w13</LM>
 </w.rf>
 <form>Roušala</form>
-<tag lemma="Roušal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Roušal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-123-p3s3w14">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-ln95041-123-p4s1w6</LM>
 </w.rf>
 <form>Charouz</form>
-<tag lemma="Charouz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Charouz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-123-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln95041-123-p4s4w2</LM>
 </w.rf>
 <form>Roušal</form>
-<tag lemma="Roušal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roušal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-123-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1714,7 +1714,7 @@
 <LM>w#w-ln95041-123-p6s1w11</LM>
 </w.rf>
 <form>Posista</form>
-<tag lemma="Posista_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Posista_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-123-p6s1w12">
 <src.rf>manual</src.rf>
@@ -2445,7 +2445,7 @@
 <LM>w#w-ln95041-123-p6s5w23</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95041-123-p6s5w24">
 <src.rf>manual</src.rf>
@@ -2527,7 +2527,7 @@
 <LM>w#w-ln95041-123-p6s6w8</LM>
 </w.rf>
 <form>Roušala</form>
-<tag lemma="Roušal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Roušal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-123-p6s6w9">
 <src.rf>manual</src.rf>
@@ -2584,7 +2584,7 @@
 </w.rf>
 <form>neschopností</form>
 <tag>
-<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS7-----A----</AM>
+<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFS7-----A----</AM>
 <AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -3086,7 +3086,7 @@
 <LM>w#w-ln95041-123-p7s2w30</LM>
 </w.rf>
 <form>Škodu</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-123-p7s2w31">
 <src.rf>manual</src.rf>

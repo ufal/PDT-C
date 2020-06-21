@@ -133,7 +133,7 @@
 <LM>w#w-ln94206-86-p2s1Aw11</LM>
 </w.rf>
 <form>Rommela</form>
-<tag lemma="Rommel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rommel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-86-p2s1B">
@@ -598,7 +598,7 @@
 <LM>w#w-ln94206-86-p3s1w22</LM>
 </w.rf>
 <form>Rommel</form>
-<tag lemma="Rommel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rommel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-86-p3s1w23">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 </w.rf>
 <form>Večer</form>
 <tag>
-<AM lemma="Večer_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Večer_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="večer-1" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="večer-1" src="auto">NNIS4-----A----</AM>
 <AM lemma="večer-2" src="auto">Db-------------</AM>
@@ -784,7 +784,7 @@
 <LM>w#w-ln94206-86-p4s1w7</LM>
 </w.rf>
 <form>Rommel</form>
-<tag lemma="Rommel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rommel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-86-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1850,7 +1850,7 @@
 <LM>w#w-ln94206-86-p6s2w25</LM>
 </w.rf>
 <form>Rommelova</form>
-<tag lemma="Rommelův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Rommelův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94206-86-p6s2w26">
 <src.rf>manual</src.rf>

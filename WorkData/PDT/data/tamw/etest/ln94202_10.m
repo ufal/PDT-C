@@ -165,7 +165,7 @@
 <LM>w#w-ln94202-10-p1s1Bw5</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

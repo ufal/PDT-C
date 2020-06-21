@@ -53,7 +53,7 @@
 <LM>w#w-ln94209-45-p2s1Aw2</LM>
 </w.rf>
 <form>Krčálová</form>
-<tag lemma="Krčálová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krčálová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-45-p2s1B">
@@ -234,8 +234,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB_:B" src="manual">NNXXX-----A---8</AM>
@@ -477,7 +477,7 @@
 <LM>w#w-ln94209-45-p2s3w25</LM>
 </w.rf>
 <form>Regiobance</form>
-<tag lemma="Regiobanka_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Regiobanka_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94209-45-p2s3w26">
 <src.rf>manual</src.rf>
@@ -3956,8 +3956,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB_:B" src="manual">NNXXX-----A---8</AM>

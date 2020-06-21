@@ -120,7 +120,7 @@
 <LM>w#w-mf930709-104-p2s1w6</LM>
 </w.rf>
 <form>Berníková</form>
-<tag lemma="Berníková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Berníková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-104-p2s1w7">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-mf930709-104-p2s1w17</LM>
 </w.rf>
 <form>Svobody</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-104-p2s1w18">
 <src.rf>manual</src.rf>
@@ -496,8 +496,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-104-p2s3w12">
@@ -596,7 +596,7 @@
 <LM>w#w-mf930709-104-p3s1w2</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-104-p3s1w3">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 </w.rf>
 <form>Laterny</form>
 <tag>
-<AM lemma="Laterna_;K" src="orig">NNFS2-----A----</AM>
+<AM lemma="Laterna_;m" src="orig">NNFS2-----A----</AM>
 <AM lemma="laterna" src="auto">NNFP1-----A----</AM>
 <AM lemma="laterna" src="auto">NNFP4-----A----</AM>
 <AM lemma="laterna" src="auto">NNFP5-----A----</AM>
@@ -1373,7 +1373,7 @@
 </w.rf>
 <form>Laterně</form>
 <tag>
-<AM lemma="Laterna_;K" src="orig">NNFS6-----A----</AM>
+<AM lemma="Laterna_;m" src="orig">NNFS6-----A----</AM>
 <AM lemma="laterna" src="auto">NNFS3-----A----</AM>
 <AM lemma="laterna" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
@@ -1530,7 +1530,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-104-p3s7w32">
@@ -1547,7 +1547,7 @@
 <LM>w#w-mf930709-104-p3s7w33</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-104-p3s7w34">
 <src.rf>manual</src.rf>
@@ -1736,7 +1736,7 @@
 <LM>w#w-mf930709-104-p4s1w8</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-104-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1760,7 +1760,7 @@
 <LM>w#w-mf930709-104-p4s1w11</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-104-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1784,7 +1784,7 @@
 <LM>w#w-mf930709-104-p4s1w14</LM>
 </w.rf>
 <form>Kundera</form>
-<tag lemma="Kundera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kundera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-104-p4s1w15">
 <src.rf>manual</src.rf>

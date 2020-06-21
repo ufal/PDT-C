@@ -61,7 +61,7 @@
 <LM>w#w-ln94207-75-p2s1Aw3</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 </w.rf>
 <form>English</form>
 <tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -164,7 +164,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -186,7 +186,7 @@
 </w.rf>
 <form>Prague</form>
 <tag>
-<AM lemma="Prague_;G_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prague_;G_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94207-75-p2s1Bw2</LM>
 </w.rf>
 <form>Dudek</form>
-<tag lemma="Dudek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-75-p2s1C">
@@ -425,7 +425,7 @@
 <LM>w#w-ln94207-75-p2s3w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94207-75-p2s3w4">
 <src.rf>manual</src.rf>
@@ -1368,7 +1368,7 @@
 <LM>w#w-ln94207-75-p4s1w32</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p4s1w33">
 <src.rf>manual</src.rf>
@@ -1404,7 +1404,7 @@
 </w.rf>
 <form>English</form>
 <tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1415,7 +1415,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1437,7 +1437,7 @@
 </w.rf>
 <form>Prague</form>
 <tag>
-<AM lemma="Prague_;G_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prague_;G_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1896,7 +1896,7 @@
 <LM>w#w-ln94207-75-p6s1w11</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p6s1w12">
 <src.rf>manual</src.rf>
@@ -2158,7 +2158,7 @@
 <LM>w#w-ln94207-75-p7s1w11</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p7s1w12">
 <src.rf>manual</src.rf>
@@ -2528,7 +2528,7 @@
 </w.rf>
 <form>English</form>
 <tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2539,7 +2539,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3098,7 +3098,7 @@
 </w.rf>
 <form>English</form>
 <tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3109,7 +3109,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3926,7 +3926,7 @@
 <LM>w#w-ln94207-75-p8s8w12</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p8s8w13">
 <src.rf>manual</src.rf>
@@ -4056,7 +4056,7 @@
 <LM>w#w-ln94207-75-p9s1w15</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p9s1w16">
 <src.rf>manual</src.rf>
@@ -4435,7 +4435,7 @@
 <LM>w#w-ln94207-75-p9s4w2</LM>
 </w.rf>
 <form>Warda</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-75-p9s4w3">
 <src.rf>manual</src.rf>
@@ -4685,7 +4685,7 @@
 <LM>w#w-ln94207-75-p9s5w12</LM>
 </w.rf>
 <form>Holme</form>
-<tag lemma="Holme_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holme_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p9s5w13">
 <src.rf>manual</src.rf>
@@ -5237,7 +5237,7 @@
 </w.rf>
 <form>English</form>
 <tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5248,7 +5248,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5428,7 +5428,7 @@
 <LM>w#w-ln94207-75-p10s2w17</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p10s2w18">
 <src.rf>manual</src.rf>
@@ -5492,7 +5492,7 @@
 <LM>w#w-ln94207-75-p10s2w25</LM>
 </w.rf>
 <form>Hurytovou</form>
-<tag lemma="Hurytová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Hurytová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-75-p10s2w26">
 <src.rf>manual</src.rf>
@@ -5735,7 +5735,7 @@
 </w.rf>
 <form>English</form>
 <tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5746,7 +5746,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6158,8 +6158,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -6308,8 +6308,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -6574,7 +6574,7 @@
 </w.rf>
 <form>English</form>
 <tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6585,7 +6585,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7055,7 +7055,7 @@
 <LM>w#w-ln94207-75-p13s2w13</LM>
 </w.rf>
 <form>Wardovi</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94207-75-p13s2w14">
 <src.rf>manual</src.rf>
@@ -7511,7 +7511,7 @@
 <LM>w#w-ln94207-75-p13s6w11</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p13s6w12">
 <src.rf>manual</src.rf>
@@ -8447,7 +8447,7 @@
 <LM>w#w-ln94207-75-p13s13w16</LM>
 </w.rf>
 <form>Wardovi</form>
-<tag lemma="Wardův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Wardův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94207-75-p13s13w17">
 <src.rf>manual</src.rf>
@@ -8497,7 +8497,7 @@
 <LM>w#w-ln94207-75-p13s14w4</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p13s14w5">
 <src.rf>manual</src.rf>
@@ -8626,7 +8626,7 @@
 </w.rf>
 <form>Geelong</form>
 <tag>
-<AM lemma="Geelong_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Geelong_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Geelong-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8637,7 +8637,7 @@
 </w.rf>
 <form>Grammar</form>
 <tag>
-<AM lemma="Grammar_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grammar_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grammar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8648,7 +8648,7 @@
 </w.rf>
 <form>School</form>
 <tag>
-<AM lemma="School_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="School_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="School-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8913,7 +8913,7 @@
 </w.rf>
 <form>English</form>
 <tag>
-<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8924,7 +8924,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -9138,7 +9138,7 @@
 <LM>w#w-ln94207-75-p13s18w7</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p13s18w8">
 <src.rf>manual</src.rf>
@@ -9310,7 +9310,7 @@
 <LM>w#w-ln94207-75-p13s20w2</LM>
 </w.rf>
 <form>Ward</form>
-<tag lemma="Ward_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ward_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-75-p13s20w3">
 <src.rf>manual</src.rf>

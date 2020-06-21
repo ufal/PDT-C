@@ -145,7 +145,7 @@
 <LM>w#w-ln95040-027-p2s1Cw5</LM>
 </w.rf>
 <form>Uhrin</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-027-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-ln95040-027-p2s2w14</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-027-p2s2w15">
 <src.rf>manual</src.rf>
@@ -782,11 +782,11 @@
 </w.rf>
 <form>Chvalovským</form>
 <tag>
-<AM lemma="Chvalovský_;S" src="orig">AAMS7----1A----</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP3-----A----</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP3-----A----</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="orig">AAMS7----1A----</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP3-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP3-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMS6-----A---7</AM>
+<AM lemma="Chvalovský_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-027-p2s4w7">
@@ -910,7 +910,7 @@
 <LM>w#w-ln95040-027-p2s4w21</LM>
 </w.rf>
 <form>Uhrin</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-027-p2s4w22">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1254,7 +1254,7 @@
 <LM>w#w-ln95040-027-p2s5w18</LM>
 </w.rf>
 <form>Vacek</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-027-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-ln95040-027-p2s6w32</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-027-p2s6w33">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-ln95040-027-p2s6w34</LM>
 </w.rf>
 <form>Macha</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-027-p2s6w35">
 <src.rf>manual</src.rf>
@@ -2178,7 +2178,7 @@
 <LM>w#w-ln95040-027-p2s8w16</LM>
 </w.rf>
 <form>Vacek</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-027-p2s8w17">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 <LM>w#w-ln95040-027-p3s1w3</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95040-027-p3s1w4">
 <src.rf>manual</src.rf>
@@ -2261,7 +2261,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2385,7 +2385,7 @@
 <LM>w#w-ln95040-027-p3s2w4</LM>
 </w.rf>
 <form>Vacka</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-027-p3s2w5">
 <src.rf>manual</src.rf>
@@ -2417,7 +2417,7 @@
 <LM>w#w-ln95040-027-p3s2w9</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-027-p3s2w10">
 <src.rf>manual</src.rf>

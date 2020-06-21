@@ -61,7 +61,7 @@
 <LM>w#w-lnd92255-145-p2s1w3</LM>
 </w.rf>
 <form>Stalinův</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92255-145-p2s1w4">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-lnd92255-145-p3s1w6</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92255-145-p3s1w7">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 </w.rf>
 <form>Zarja</form>
 <tag>
-<AM lemma="Zarja_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Zarja_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Zarja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -519,7 +519,7 @@
 </w.rf>
 <form>Vostoka</form>
 <tag>
-<AM lemma="Vostok_;R_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Vostok_;m_,t" src="orig">NNIS2-----A----</AM>
 <AM lemma="Vostoka-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -907,7 +907,7 @@
 <LM>w#w-lnd92255-145-p4s2w16</LM>
 </w.rf>
 <form>Stalinův</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92255-145-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-lnd92255-145-p4s6w1</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-145-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1552,7 +1552,7 @@
 <LM>w#w-lnd92255-145-p6s1w5</LM>
 </w.rf>
 <form>Stalinův</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92255-145-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2387,8 +2387,8 @@
 </w.rf>
 <form>Beers</form>
 <tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Beers_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Beers_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-145-p7s6w15">
@@ -3127,7 +3127,7 @@
 <LM>w#w-lnd92255-145-p7s12w2</LM>
 </w.rf>
 <form>Beersům</form>
-<tag lemma="Beers_;K_,t" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="Beers_;m_,t" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92255-145-p7s12w3">
 <src.rf>manual</src.rf>
@@ -3921,8 +3921,8 @@
 </w.rf>
 <form>Tolkowski</form>
 <tag>
-<AM lemma="Tolkowský_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Tolkowski_;S_,s_^(^DD**Tolkowský)" src="manual" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Tolkowský_;Y" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Tolkowski_;Y_,s_^(^DD**Tolkowský)" src="manual" selected="1">NNMS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-145-p7s15w10">
@@ -4067,7 +4067,7 @@
 <LM>w#w-lnd92255-145-p7s15w27</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92255-145-p7s15w28">
 <src.rf>manual</src.rf>
@@ -4643,7 +4643,7 @@
 <LM>w#w-lnd92255-145-p9s1w7</LM>
 </w.rf>
 <form>Stalinovým</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-lnd92255-145-p9s1w8">
 <src.rf>manual</src.rf>
@@ -4854,7 +4854,7 @@
 <LM>w#w-lnd92255-145-p10s1w3</LM>
 </w.rf>
 <form>PETRÁNEK</form>
-<tag lemma="Petránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

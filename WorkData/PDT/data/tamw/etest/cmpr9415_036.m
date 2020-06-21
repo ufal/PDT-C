@@ -64,7 +64,7 @@
 </w.rf>
 <form>Santal</form>
 <tag>
-<AM lemma="Santal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Santal_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -259,7 +259,7 @@
 </w.rf>
 <form>Santal</form>
 <tag>
-<AM lemma="Santal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Santal_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto">NNIS4-----A----</AM>
 </tag>

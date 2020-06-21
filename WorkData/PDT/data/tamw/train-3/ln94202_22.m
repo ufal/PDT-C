@@ -27,7 +27,7 @@
 <LM>w#w-ln94202-22-p1s1w2</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94202-22-p1s1w3">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-ln94202-22-p2s2w15</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94202-22-p2s2w16">
 <src.rf>manual</src.rf>
@@ -504,8 +504,8 @@
 </w.rf>
 <form>Petko</form>
 <tag>
-<AM lemma="Petko_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Petko_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Petko_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Petko_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-22-p3s1w5">
@@ -514,7 +514,7 @@
 <LM>w#w-ln94202-22-p3s1w5</LM>
 </w.rf>
 <form>Čančar</form>
-<tag lemma="Čančar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čančar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-22-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-ln94202-22-p4s1w9</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-22-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševičem</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-22-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1347,7 +1347,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševiče</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-22-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1494,7 +1494,7 @@
 <LM>w#w-ln94202-22-p4s3w30</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-22-p4s3w31">
 <src.rf>manual</src.rf>

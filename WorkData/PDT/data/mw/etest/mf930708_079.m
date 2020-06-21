@@ -38,7 +38,7 @@
 <tag>
 <AM lemma="šuhajka_^(*6ohaj)" src="orig">NNFP2-----A----</AM>
 <AM lemma="šohajek_,n" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Šuhajek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šuhajek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-079-p1s1w4">

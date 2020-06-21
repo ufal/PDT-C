@@ -54,7 +54,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -88,7 +88,7 @@
 <LM>w#w-ln94202-116-p2s1w6</LM>
 </w.rf>
 <form>Amokachiho</form>
-<tag lemma="Amokachi_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Amokachi_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-116-p2s1w7">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln94202-116-p2s3w1</LM>
 </w.rf>
 <form>Amokachi</form>
-<tag lemma="Amokachi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amokachi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-116-p2s3w2">
 <src.rf>manual</src.rf>

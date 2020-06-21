@@ -80,7 +80,7 @@
 <LM>w#w-ln94206-91-p2s1Aw2</LM>
 </w.rf>
 <form>Křemen</form>
-<tag lemma="Křemen-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křemen-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-91-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-ln94206-91-p2s1Aw5</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-91-p2s1B">
@@ -1831,7 +1831,7 @@
 <LM>w#w-ln94206-91-p4s4w17</LM>
 </w.rf>
 <form>Šajner</form>
-<tag lemma="Šajner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šajner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-91-p4s4w18">
 <src.rf>manual</src.rf>
@@ -4198,7 +4198,7 @@
 <LM>w#w-ln94206-91-p7s6w9</LM>
 </w.rf>
 <form>Růžka</form>
-<tag lemma="Růžek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Růžek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-91-p7s6w10">
 <src.rf>manual</src.rf>
@@ -4308,7 +4308,7 @@
 <LM>w#w-ln94206-91-p7s7w12</LM>
 </w.rf>
 <form>Růžka</form>
-<tag lemma="Růžek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Růžek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-91-p7s7w13">
 <src.rf>manual</src.rf>
@@ -5235,7 +5235,7 @@
 <LM>w#w-ln94206-91-p8s8w16</LM>
 </w.rf>
 <form>Růžek</form>
-<tag lemma="Růžek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-91-p8s8w17">
 <src.rf>manual</src.rf>
@@ -5971,7 +5971,7 @@
 <LM>w#w-ln94206-91-p10s1w2</LM>
 </w.rf>
 <form>Růžek</form>
-<tag lemma="Růžek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-91-p10s1w3">
 <src.rf>manual</src.rf>
@@ -6383,13 +6383,13 @@
 <form>Taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="Tako-1_;G_;R" src="auto">NNNP7-----A----</AM>
+<AM lemma="Tako-1_;G_;m" src="auto">NNNP7-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -8036,7 +8036,7 @@
 <LM>w#w-ln94206-91-p10s15w2</LM>
 </w.rf>
 <form>Růžek</form>
-<tag lemma="Růžek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-91-p10s15w3">
 <src.rf>manual</src.rf>

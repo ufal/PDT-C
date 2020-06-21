@@ -72,12 +72,12 @@
 </w.rf>
 <form>zla</form>
 <tag>
-<AM lemma="zla-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="zla-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="zlo" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP5-----A----</AM>
 <AM lemma="zlo" src="auto">NNNS2-----A----</AM>
-<AM lemma="zla-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zla-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s1w4">
@@ -731,8 +731,8 @@
 </w.rf>
 <form>ÚKDŽ</form>
 <tag>
-<AM lemma="ÚKDŽ_:B_;K_^(Ústřední_kult._dům_železničářů)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚKDŽ_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ÚKDŽ_:B_;m_^(Ústřední_kult._dům_železničářů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚKDŽ_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ÚKDŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

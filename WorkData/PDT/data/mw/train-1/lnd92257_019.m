@@ -273,7 +273,7 @@
 <LM>w#w-lnd92257-019-p3s2w25</LM>
 </w.rf>
 <form>Ičo</form>
-<tag lemma="Ičo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ičo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-019-p3s2w26">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-lnd92257-019-p3s2w37</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-019-p3s2w38">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 <LM>w#w-lnd92257-019-p3s4w5</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-019-p3s4w6">
 <src.rf>manual</src.rf>

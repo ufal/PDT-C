@@ -181,7 +181,7 @@
 <LM>w#w-mf920925-021-p2s1w19</LM>
 </w.rf>
 <form>Skopal</form>
-<tag lemma="Skopal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skopal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-021-p2s1w20">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-mf920925-021-p2s2w6</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf920925-021-p2s2w7">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 </w.rf>
 <form>ČTV</form>
 <tag>
-<AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTV-1_:B_;m_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -357,7 +357,7 @@
 <LM>w#w-mf920925-021-p2s2w16</LM>
 </w.rf>
 <form>Ráž</form>
-<tag lemma="Ráž_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ráž_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-021-p2s2w17">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-mf920925-021-p2s2w20</LM>
 </w.rf>
 <form>Dudek</form>
-<tag lemma="Dudek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-021-p2s2w21">
 <src.rf>manual</src.rf>

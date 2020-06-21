@@ -37,7 +37,7 @@
 <LM>w#w-mf920924-105-p2s1w1</LM>
 </w.rf>
 <form>Maradona</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-105-p2s1w2">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-mf920924-105-p2s1w12</LM>
 </w.rf>
 <form>Bayernem</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920924-105-p2s1w13">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-mf920924-105-p3s1w7</LM>
 </w.rf>
 <form>Němeček</form>
-<tag lemma="Němeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-105-p3s1w8">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-mf920924-105-p3s1w13</LM>
 </w.rf>
 <form>Zvunky</form>
-<tag lemma="Zvunka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zvunka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-105-p3s1w14">
 <src.rf>manual</src.rf>
@@ -725,8 +725,8 @@
 </w.rf>
 <form>Fiorentina</form>
 <tag>
-<AM lemma="Fiorentina_;K_;w_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fiorentina_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fiorentina_;m_,t" src="auto">NNFS1-----A----</AM>
+<AM lemma="Fiorentina_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-105-p5s1w3">
@@ -752,8 +752,8 @@
 </w.rf>
 <form>Diega</form>
 <tag>
-<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Diego_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Diego_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-105-p5s1w6">
@@ -762,7 +762,7 @@
 <LM>w#w-mf920924-105-p5s1w6</LM>
 </w.rf>
 <form>Latorreho</form>
-<tag lemma="Latorre_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Latorre_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920924-105-p5s1w7">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-mf920924-105-p5s1w13</LM>
 </w.rf>
 <form>Maradony</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-105-p5s1w14">
 <src.rf>manual</src.rf>

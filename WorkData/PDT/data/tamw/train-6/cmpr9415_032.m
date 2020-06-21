@@ -1168,7 +1168,7 @@
 <LM>w#w-cmpr9415-032-p6s1w2</LM>
 </w.rf>
 <form>Teuchnerová</form>
-<tag lemma="Teuchnerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Teuchnerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-032-p6s1w3">
 <src.rf>manual</src.rf>

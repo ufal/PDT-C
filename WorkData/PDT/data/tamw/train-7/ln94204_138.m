@@ -63,7 +63,7 @@
 <LM>w#w-ln94204-138-p2s1Bw2</LM>
 </w.rf>
 <form>Domoslawski</form>
-<tag lemma="Domoslawski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Domoslawski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-138-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -80,7 +80,7 @@
 </w.rf>
 <form>Gazeta</form>
 <tag>
-<AM lemma="Gazeta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazeta_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Gazeta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -91,7 +91,7 @@
 </w.rf>
 <form>Wyborcza</form>
 <tag>
-<AM lemma="Wyborcza_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Wyborcza_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Wyborcza-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -462,8 +462,8 @@
 </w.rf>
 <form>Sejmu</form>
 <tag>
-<AM lemma="Sejm_;K_,t" src="orig">NNIS6-----A----</AM>
-<AM lemma="Sejm_;K" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Sejm_;m_,t" src="orig">NNIS6-----A----</AM>
+<AM lemma="Sejm_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-138-p4s1w9">
@@ -941,7 +941,7 @@
 <LM>w#w-ln94204-138-p4s4w21</LM>
 </w.rf>
 <form>Suchocké</form>
-<tag lemma="Suchocká_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Suchocká_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-138-p4s4w22">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 </w.rf>
 <form>SLD</form>
 <tag>
-<AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SLD-1_:B_;m_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SLD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4622,7 +4622,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walesy</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-138-p10s3w23">
 <src.rf>manual</src.rf>
@@ -4921,7 +4921,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walesy</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-138-p10s5w10">
 <src.rf>manual</src.rf>
@@ -5626,7 +5626,7 @@
 <LM>w#w-ln94204-138-p10s9w18</LM>
 </w.rf>
 <form>Glemp</form>
-<tag lemma="Glemp_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Glemp_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-138-p10s9w19">
 <src.rf>manual</src.rf>

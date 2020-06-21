@@ -77,7 +77,7 @@
 <LM>w#w-ln94211-61-p2s1Aw3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="luč-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-61-p2s1Aw4">
 <src.rf>manual</src.rf>

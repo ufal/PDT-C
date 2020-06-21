@@ -110,7 +110,7 @@
 </w.rf>
 <form>ADB</form>
 <tag>
-<AM lemma="ADB-1_:B_;K_,t_^(African_Development_Bank)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ADB-1_:B_;m_,t_^(African_Development_Bank)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ADB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -170,7 +170,7 @@
 <form>Nice</form>
 <tag>
 <AM lemma="Nice_;G_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Nice_;G" src="auto" selected="1">NNNSX-----A----</AM>
+<AM lemma="Nice_;G" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="nika" src="auto">NNFS3-----A----</AM>
 <AM lemma="nika" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
@@ -232,7 +232,7 @@
 <LM>w#w-lnd94105-079-p1s1Bw21</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-079-p1s1Bw22">
 <src.rf>manual</src.rf>

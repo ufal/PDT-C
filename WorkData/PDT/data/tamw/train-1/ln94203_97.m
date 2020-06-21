@@ -63,7 +63,7 @@
 <LM>w#w-ln94203-97-p2s1w3</LM>
 </w.rf>
 <form>Foll</form>
-<tag lemma="Foll_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foll_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-97-p2s1C">
@@ -201,7 +201,7 @@
 <LM>w#w-ln94203-97-p2s1w20</LM>
 </w.rf>
 <form>Bacon</form>
-<tag lemma="Bacon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bacon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-97-p2s1w21">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-ln94203-97-p2s2w14</LM>
 </w.rf>
 <form>Končalovským</form>
-<tag lemma="Končalovský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Končalovský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-97-p2s2w15">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-ln94203-97-p2s3w13</LM>
 </w.rf>
 <form>Bergmanův</form>
-<tag lemma="Bergmanův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Bergmanův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94203-97-p2s3w14">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-ln94203-97-p2s4w21</LM>
 </w.rf>
 <form>Baconově</form>
-<tag lemma="Baconův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Baconův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94203-97-p2s4w22">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln94203-97-p3s1w7</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-97-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1171,7 +1171,7 @@
 <LM>w#w-ln94203-97-p3s1w20</LM>
 </w.rf>
 <form>Mináče</form>
-<tag lemma="Mináč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mináč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-97-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln94203-97-p3s2w2</LM>
 </w.rf>
 <form>Kandinského</form>
-<tag lemma="Kandinský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kandinský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-97-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-ln94203-97-p3s3w1</LM>
 </w.rf>
 <form>Svobodova</form>
-<tag lemma="Svobodův_;S_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Svobodův_;Y_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94203-97-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1825,8 +1825,8 @@
 </w.rf>
 <form>Genu</form>
 <tag>
-<AM lemma="Genus_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Genus_;m_;K" src="manual">NNIS2-----A----</AM>
+<AM lemma="Genus_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Genus_;m" src="manual">NNIS2-----A----</AM>
 <AM lemma="Gen_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -1950,7 +1950,7 @@
 <LM>w#w-ln94203-97-p4s1w11</LM>
 </w.rf>
 <form>Febio</form>
-<tag lemma="Febio_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Febio_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-97-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2033,8 +2033,8 @@
 </w.rf>
 <form>GENUS</form>
 <tag>
-<AM lemma="Genus_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Genus_;m_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Genus_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Genus_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-97-p4s2w4">
@@ -2286,7 +2286,7 @@
 </w.rf>
 <form>Genu</form>
 <tag>
-<AM lemma="Genus_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Genus_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="Gen_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -2320,7 +2320,7 @@
 <LM>w#w-ln94203-97-p4s3w8</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-97-p4s3w9">
 <src.rf>manual</src.rf>
@@ -2459,7 +2459,7 @@
 <LM>w#w-ln94203-97-p4s3w25</LM>
 </w.rf>
 <form>Sidonovi</form>
-<tag lemma="Sidon_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Sidon_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94203-97-p4s3w26">
 <src.rf>manual</src.rf>
@@ -2486,7 +2486,7 @@
 <LM>w#w-ln94203-97-p4s3w28</LM>
 </w.rf>
 <form>Albrightové</form>
-<tag lemma="Albrightová_;S" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Albrightová_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-97-p4s3w29">
 <src.rf>manual</src.rf>
@@ -2510,7 +2510,7 @@
 <LM>w#w-ln94203-97-p4s3w31</LM>
 </w.rf>
 <form>Rakušanové</form>
-<tag lemma="Rakušanová_;S" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Rakušanová_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-97-p4s3w32">
 <src.rf>manual</src.rf>
@@ -2608,7 +2608,7 @@
 <LM>w#w-ln94203-97-p5s1w2</LM>
 </w.rf>
 <form>Febia</form>
-<tag lemma="Febio_;K" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Febio_;m" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-97-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2698,7 +2698,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-97-p5s1w14">
@@ -2715,7 +2715,7 @@
 <LM>w#w-ln94203-97-p5s1w15</LM>
 </w.rf>
 <form>Mathé</form>
-<tag lemma="Mathé_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Mathé_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94203-97-p5s1w16">
 <src.rf>manual</src.rf>
@@ -2834,8 +2834,8 @@
 </w.rf>
 <form>Genus</form>
 <tag>
-<AM lemma="Genus_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Genus_;m_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Genus_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Genus_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-97-p5s2w9">
@@ -2994,7 +2994,7 @@
 <LM>w#w-ln94203-97-p5s3w2</LM>
 </w.rf>
 <form>Fenič</form>
-<tag lemma="Fenič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fenič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-97-p5s3w3">
 <src.rf>manual</src.rf>
@@ -3026,7 +3026,7 @@
 <LM>w#w-ln94203-97-p5s3w6</LM>
 </w.rf>
 <form>Febio</form>
-<tag lemma="Febio_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Febio_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-97-p5s3w7">
 <src.rf>manual</src.rf>

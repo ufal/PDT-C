@@ -21,7 +21,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-005-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-vesm9211-005-p1s1w3</LM>
 </w.rf>
 <form>Cibulka</form>
-<tag lemma="Cibulka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cibulka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-005-p1s1w4">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-005-p2s1w6">
@@ -204,7 +204,7 @@
 <LM>w#w-vesm9211-005-p2s1w7</LM>
 </w.rf>
 <form>Cibulka</form>
-<tag lemma="Cibulka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cibulka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-005-p2s1w8">
 <src.rf>manual</src.rf>
@@ -3597,7 +3597,7 @@
 <LM>w#w-vesm9211-005-p6s1w2</LM>
 </w.rf>
 <form>Sova</form>
-<tag lemma="Sova_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sova_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

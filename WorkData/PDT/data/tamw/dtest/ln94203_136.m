@@ -19,7 +19,7 @@
 <LM>w#w-ln94203-136-p1s1w1</LM>
 </w.rf>
 <form>Budvar</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-136-p1s1w2">
 <src.rf>manual</src.rf>
@@ -60,8 +60,8 @@
 </w.rf>
 <form>Q</form>
 <tag>
-<AM lemma="Q-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Q-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Q-33" src="orig">Q3-------------</AM>
+<AM lemma="Q-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 </s>
@@ -139,8 +139,8 @@
 </w.rf>
 <form>Q</form>
 <tag>
-<AM lemma="Q-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Q-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Q-33" src="orig">Q3-------------</AM>
+<AM lemma="Q-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-136-p2s1Bw7">
@@ -261,7 +261,7 @@
 <LM>w#w-ln94203-136-p2s1Bw21</LM>
 </w.rf>
 <form>Budvar</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-136-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 </w.rf>
 <form>ČZPI</form>
 <tag>
-<AM lemma="ČZPI_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČZPI_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -354,7 +354,7 @@
 <LM>w#w-ln94203-136-p3s1w6</LM>
 </w.rf>
 <form>Budvaru</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-136-p3s1w7">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln94203-136-p3s3w7</LM>
 </w.rf>
 <form>Budvar</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-136-p3s3w8">
 <src.rf>manual</src.rf>
@@ -663,8 +663,8 @@
 </w.rf>
 <form>Q</form>
 <tag>
-<AM lemma="Q-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Q-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Q-33" src="orig">Q3-------------</AM>
+<AM lemma="Q-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-136-p3s3w24">
@@ -735,8 +735,8 @@
 </w.rf>
 <form>Q</form>
 <tag>
-<AM lemma="Q-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Q-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Q-33" src="orig">Q3-------------</AM>
+<AM lemma="Q-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-136-p4s1w4">

@@ -43,7 +43,7 @@
 <LM>w#w-mf920922-121-p1s1Aw4</LM>
 </w.rf>
 <form>Mitterranda</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-121-p1s1B">
@@ -64,7 +64,7 @@
 <LM>w#w-mf920922-121-p1s1Bw2</LM>
 </w.rf>
 <form>GAULLE</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-121-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-mf920922-121-p2s2Bw5</LM>
 </w.rf>
 <form>Gaulla</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s2Bw6">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-mf920922-121-p2s4w5</LM>
 </w.rf>
 <form>Gaulla</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s4w6">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-mf920922-121-p2s6w11</LM>
 </w.rf>
 <form>Gaulle</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-mf920922-121-p2s8w1</LM>
 </w.rf>
 <form>Francois</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-mf920922-121-p2s8w2</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1713,7 +1713,7 @@
 <LM>w#w-mf920922-121-p2s11w1</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s11w2">
 <src.rf>manual</src.rf>
@@ -2157,7 +2157,7 @@
 <LM>w#w-mf920922-121-p2s14w5</LM>
 </w.rf>
 <form>Gaulla</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s14w6">
 <src.rf>manual</src.rf>
@@ -2279,7 +2279,7 @@
 <LM>w#w-mf920922-121-p2s15w6</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s15w7">
 <src.rf>manual</src.rf>
@@ -2451,7 +2451,7 @@
 <LM>w#w-mf920922-121-p2s17Aw6</LM>
 </w.rf>
 <form>Mitterrandovo</form>
-<tag lemma="Mitterrandův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Mitterrandův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-mf920922-121-p2s17Aw7">
 <src.rf>manual</src.rf>
@@ -2640,7 +2640,7 @@
 <LM>w#w-mf920922-121-p2s17Bw6</LM>
 </w.rf>
 <form>Gaulle</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-121-p2s17Bw7">
 <src.rf>manual</src.rf>

@@ -230,7 +230,7 @@
 <LM>w#w-mf930702-048-p1s1w27</LM>
 </w.rf>
 <form>Jungmannově</form>
-<tag lemma="Jungmannův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Jungmannův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf930702-048-p1s1w28">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 </w.rf>
 <form>CET</form>
 <tag>
-<AM lemma="CET-3_:B_;K_^(TV)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CET-3_:B_;m_^(TV)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CET-2_:B_,t_^(central_european_time)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CET_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Cet-1_:B_;G_,t_^(Cetus,_souhvězdí_Velryba)" src="auto" recommended="1">NNFXX-----A---8</AM>
@@ -688,7 +688,7 @@
 <LM>w#w-mf930702-048-p1s3w9</LM>
 </w.rf>
 <form>Mathé</form>
-<tag lemma="Mathé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mathé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-048-p1s3w10">
 <src.rf>manual</src.rf>
@@ -1604,7 +1604,7 @@
 <LM>w#w-mf930702-048-p1s10w4</LM>
 </w.rf>
 <form>Štěpánek</form>
-<tag lemma="Štěpánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štěpánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-048-p1s10w5">
 <src.rf>manual</src.rf>
@@ -1964,7 +1964,7 @@
 <LM>w#w-mf930702-048-p1s10w49</LM>
 </w.rf>
 <form>Purkyňově</form>
-<tag lemma="Purkyňův_;S_^(*3ně)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Purkyňův_;Y_^(*3ně)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf930702-048-p1s10w50">
 <src.rf>manual</src.rf>
@@ -2324,7 +2324,7 @@
 <LM>w#w-mf930702-048-p1s14w2</LM>
 </w.rf>
 <form>Železný</form>
-<tag lemma="Železný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Železný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-048-p1s14w3">
 <src.rf>manual</src.rf>
@@ -2373,7 +2373,7 @@
 </w.rf>
 <form>ČNTS</form>
 <tag>
-<AM lemma="ČNTS-1_:B_;K_^(Česká_nezávislá_televizní_společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNTS-1_:B_;m_^(Česká_nezávislá_televizní_společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2562,7 +2562,7 @@
 </w.rf>
 <form>ČNTS</form>
 <tag>
-<AM lemma="ČNTS-1_:B_;K_^(Česká_nezávislá_televizní_společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNTS-1_:B_;m_^(Česká_nezávislá_televizní_společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3396,7 +3396,7 @@
 <LM>w#w-mf930702-048-p1s19w2</LM>
 </w.rf>
 <form>SPÁČILOVÁ</form>
-<tag lemma="Spáčilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Spáčilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -35,7 +35,7 @@
 <LM>w#w-ln95048-109-p1s1w3</LM>
 </w.rf>
 <form>Bhuttové</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95048-109-p1s1w4">
 <src.rf>manual</src.rf>
@@ -98,7 +98,7 @@
 <LM>w#w-ln95048-109-p2s1Bw4</LM>
 </w.rf>
 <form>Bhuttovou</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-109-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -505,8 +505,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-109-p2s2w5">

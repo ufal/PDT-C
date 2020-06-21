@@ -83,7 +83,7 @@
 <LM>w#w-mf930713-080-p1s1w9</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-080-p2s1A">
@@ -109,7 +109,7 @@
 <LM>w#w-mf930713-080-p2s1Aw3</LM>
 </w.rf>
 <form>jl</form>
-<tag lemma="jl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jl-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-080-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-mf930713-080-p2s1Bw11</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-080-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf930713-080-p2s3w5</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-080-p2s3w6">
 <src.rf>manual</src.rf>

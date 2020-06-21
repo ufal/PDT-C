@@ -88,7 +88,7 @@
 <LM>w#w-lnd94103-020-p1s2w5</LM>
 </w.rf>
 <form>ivh</form>
-<tag lemma="ivh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ivh-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-020-p1s2w6">
 <src.rf>manual</src.rf>
@@ -374,8 +374,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-020-p1s4w3">
@@ -416,7 +416,7 @@
 <LM>w#w-lnd94103-020-p1s4w7</LM>
 </w.rf>
 <form>Grandič</form>
-<tag lemma="Grandič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grandič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-020-p1s4w8">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-lnd94103-020-p1s6w28</LM>
 </w.rf>
 <form>Grandič</form>
-<tag lemma="Grandič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grandič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-020-p1s6w29">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 <LM>w#w-lnd94103-020-p1s7w9</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-020-p1s7w10">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-lnd94103-020-p1s8w2</LM>
 </w.rf>
 <form>Luxe</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-020-p1s8w3">
 <src.rf>manual</src.rf>

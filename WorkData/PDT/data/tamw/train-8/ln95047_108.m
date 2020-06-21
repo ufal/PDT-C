@@ -44,8 +44,8 @@
 </w.rf>
 <form>DIPRA</form>
 <tag>
-<AM lemma="DIPRA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Dipra_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="DIPRA_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Dipra_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="DIPRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

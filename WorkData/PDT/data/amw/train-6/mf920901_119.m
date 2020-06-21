@@ -436,7 +436,7 @@
 <LM>w#w-mf920901-119-p3s2w18</LM>
 </w.rf>
 <form>Glück</form>
-<tag lemma="Glück_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Glück_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-119-p3s2w19">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-mf920901-119-p3s2w34</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf920901-119-p3s2w35">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-mf920901-119-p4s2w19</LM>
 </w.rf>
 <form>Glückových</form>
-<tag lemma="Glückův_;S_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Glückův_;Y_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-mf920901-119-p4s2w20">
 <src.rf>manual</src.rf>

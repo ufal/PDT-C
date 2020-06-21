@@ -20,8 +20,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-054-p1s1w2">
@@ -557,8 +557,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-054-p1s5w20">
@@ -593,7 +593,7 @@
 <LM>w#w-lnd94103-054-p1s6w3</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94103-054-p1s6w4">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-lnd94103-054-p1s8w1</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-054-p1s8w2">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-lnd94103-054-p1s9w20</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-054-p1s9w21">
 <src.rf>manual</src.rf>
@@ -1482,8 +1482,8 @@
 </w.rf>
 <form>CNN</form>
 <tag>
-<AM lemma="CNN-1_:B_;K_;b_;y_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_:B_;K_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-054-p1s11w14">
@@ -1549,8 +1549,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-054-p1s11w22">
@@ -1570,7 +1570,7 @@
 <LM>w#w-lnd94103-054-p1s11w23</LM>
 </w.rf>
 <form>Albrigtová</form>
-<tag lemma="Albrigtová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Albrigtová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-054-p1s11w24">
 <src.rf>manual</src.rf>

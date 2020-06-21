@@ -494,7 +494,7 @@
 <LM>w#w-ln95040-118-p2s3w13</LM>
 </w.rf>
 <form>Kulikov</form>
-<tag lemma="Kulikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kulikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-118-p2s3w14">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln95040-118-p2s3w22</LM>
 </w.rf>
 <form>Maschadov</form>
-<tag lemma="Maschadov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maschadov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-118-p2s3w23">
 <src.rf>manual</src.rf>

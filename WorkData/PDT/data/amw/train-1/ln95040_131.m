@@ -412,7 +412,7 @@
 <LM>w#w-ln95040-131-p3s1w3</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-131-p3s1w4">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-ln95040-131-p3s2w6</LM>
 </w.rf>
 <form>Tigrida</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-131-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1360,7 +1360,7 @@
 <LM>w#w-ln95040-131-p4s3w2</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-131-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2020,7 +2020,7 @@
 <LM>w#w-ln95040-131-p5s3w1</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-131-p5s3w2">
 <src.rf>manual</src.rf>

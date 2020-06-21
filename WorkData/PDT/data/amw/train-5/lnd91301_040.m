@@ -93,8 +93,8 @@
 </w.rf>
 <form>mlp</form>
 <tag>
-<AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mlp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mlp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-040-p2s1Aw6">
@@ -373,7 +373,7 @@
 <LM>w#w-lnd91301-040-p2s2w18</LM>
 </w.rf>
 <form>Holeček</form>
-<tag lemma="Holeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-040-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-lnd91301-040-p5s4w21</LM>
 </w.rf>
 <form>Svěrák</form>
-<tag lemma="Svěrák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svěrák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-040-p5s4w22">
 <src.rf>manual</src.rf>

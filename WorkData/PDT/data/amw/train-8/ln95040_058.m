@@ -462,7 +462,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-058-p2s2w17">
@@ -480,7 +480,7 @@
 </w.rf>
 <form>Benešovská</form>
 <tag>
-<AM lemma="Benešovská_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Benešovská_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="benešovský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="benešovský" src="auto">AAFS5----1A----</AM>
 <AM lemma="benešovský" src="auto">AANP1----1A----</AM>
@@ -504,7 +504,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-058-p2s2w21">
@@ -521,7 +521,7 @@
 <LM>w#w-ln95040-058-p2s2w22</LM>
 </w.rf>
 <form>Charvátová</form>
-<tag lemma="Charvátová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Charvátová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s2w23">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-058-p2s2w25">
@@ -556,7 +556,7 @@
 <LM>w#w-ln95040-058-p2s2w26</LM>
 </w.rf>
 <form>Líbal</form>
-<tag lemma="Líbal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Líbal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s2w27">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-058-p2s2w29">
@@ -591,7 +591,7 @@
 <LM>w#w-ln95040-058-p2s2w30</LM>
 </w.rf>
 <form>Pojsl</form>
-<tag lemma="Pojsl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pojsl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s2w31">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-058-p2s5Aw10">
@@ -1049,7 +1049,7 @@
 <LM>w#w-ln95040-058-p2s5Aw11</LM>
 </w.rf>
 <form>Charvátová</form>
-<tag lemma="Charvátová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Charvátová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s5Aw12">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-058-p2s5Aw14">
@@ -1084,7 +1084,7 @@
 <LM>w#w-ln95040-058-p2s5Aw15</LM>
 </w.rf>
 <form>Pojsl</form>
-<tag lemma="Pojsl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pojsl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s5Aw16">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-058-p2s5Aw22">
@@ -1151,7 +1151,7 @@
 <LM>w#w-ln95040-058-p2s5Aw23</LM>
 </w.rf>
 <form>Líbal</form>
-<tag lemma="Líbal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Líbal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s5Aw24">
 <src.rf>manual</src.rf>
@@ -2766,7 +2766,7 @@
 <LM>w#w-ln95040-058-p2s11w26</LM>
 </w.rf>
 <form>Abelarda</form>
-<tag lemma="Abelard_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Abelard_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s11w27">
 <src.rf>manual</src.rf>
@@ -4716,7 +4716,7 @@
 <LM>w#w-ln95040-058-p2s18Aw69</LM>
 </w.rf>
 <form>Santinim</form>
-<tag lemma="Santini_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Santini_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-058-p2s18Aw70">
 <src.rf>manual</src.rf>

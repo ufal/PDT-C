@@ -119,7 +119,7 @@
 <form>Bundesbank</form>
 <tag>
 <AM lemma="Bundesbanka" src="orig">NNFP2-----A----</AM>
-<AM lemma="Bundesbank_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bundesbank_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-022-p2s1w8">
@@ -740,7 +740,7 @@
 <form>Bundesbank</form>
 <tag>
 <AM lemma="Bundesbanka" src="orig">NNFP2-----A----</AM>
-<AM lemma="Bundesbank_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bundesbank_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-022-p3s1w22">

@@ -102,8 +102,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p2s1w7">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p2s1w9">
@@ -151,8 +151,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p2s1w12">
@@ -170,12 +170,12 @@
 </w.rf>
 <form>Man</form>
 <tag>
-<AM lemma="Man-1_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Man-1_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Man-1_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Man-1_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Man-3_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Man-3_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 <AM lemma="man_,t" src="manual">NNXXX-----A----</AM>
@@ -245,8 +245,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p2s1w22">
@@ -693,8 +693,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p3s2w17">
@@ -1399,8 +1399,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-143-p5s1w4">

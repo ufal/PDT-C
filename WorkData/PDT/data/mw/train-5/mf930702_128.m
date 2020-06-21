@@ -387,7 +387,7 @@
 </w.rf>
 <form>Pannel</form>
 <tag>
-<AM lemma="Pannel_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Pannel_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Pannel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -397,7 +397,7 @@
 <LM>w#w-mf930702-128-p2s2w19</LM>
 </w.rf>
 <form>Kerr</form>
-<tag lemma="Kerr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kerr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-128-p2s2w20">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-mf930702-128-p2s2w20</LM>
 </w.rf>
 <form>Forster</form>
-<tag lemma="Forster_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Forster_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-128-p2s2w21">
 <src.rf>manual</src.rf>

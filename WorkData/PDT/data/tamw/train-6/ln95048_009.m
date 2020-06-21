@@ -478,7 +478,7 @@
 <LM>w#w-ln95048-009-p2s3w12</LM>
 </w.rf>
 <form>Libnar</form>
-<tag lemma="Libnar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Libnar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-009-p2s3w13">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-009-p3s1w24">
@@ -731,7 +731,7 @@
 <LM>w#w-ln95048-009-p3s1w25</LM>
 </w.rf>
 <form>Libnara</form>
-<tag lemma="Libnar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Libnar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-009-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1372,7 +1372,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-009-p5s1w42">
@@ -1389,7 +1389,7 @@
 <LM>w#w-ln95048-009-p5s1w43</LM>
 </w.rf>
 <form>Libnar</form>
-<tag lemma="Libnar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Libnar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-009-p5s1w44">
 <src.rf>manual</src.rf>
@@ -1768,7 +1768,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-009-p6s3w19">
@@ -1785,7 +1785,7 @@
 <LM>w#w-ln95048-009-p6s3w20</LM>
 </w.rf>
 <form>Libnar</form>
-<tag lemma="Libnar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Libnar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-009-p6s3w21">
 <src.rf>manual</src.rf>

@@ -160,8 +160,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-32-p2s1Bw4">
@@ -296,8 +296,8 @@
 </w.rf>
 <form>Š</form>
 <tag>
-<AM lemma="Š-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Š-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Š-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-32-p2s1Cw15">
@@ -426,7 +426,7 @@
 <LM>w#w-ln94203-32-p2s1Cw30</LM>
 </w.rf>
 <form>Fišera</form>
-<tag lemma="Fišer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fišer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-32-p2s1Cw31">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <form>Š</form>
 <tag>
 <AM lemma="Š-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Š-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-32-p3s2w12">
@@ -1408,8 +1408,8 @@
 </w.rf>
 <form>Š</form>
 <tag>
-<AM lemma="Š-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Š-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Š-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-32-p4s1w5">
@@ -1713,7 +1713,7 @@
 <LM>w#w-ln94203-32-p4s3w9</LM>
 </w.rf>
 <form>Fikoczek</form>
-<tag lemma="Fikoczek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fikoczek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-32-p4s3w10">
 <src.rf>manual</src.rf>
@@ -2089,7 +2089,7 @@
 <LM>w#w-ln94203-32-p4s5w2</LM>
 </w.rf>
 <form>Fikoczka</form>
-<tag lemma="Fikoczek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fikoczek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-32-p4s5w3">
 <src.rf>manual</src.rf>

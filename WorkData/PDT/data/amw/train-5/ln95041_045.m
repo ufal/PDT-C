@@ -69,7 +69,7 @@
 <LM>w#w-ln95041-045-p2s1w6</LM>
 </w.rf>
 <form>Wojtyly</form>
-<tag lemma="Wojtyla_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wojtyla_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-045-p2s1w7">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95041-045-p2s2w17</LM>
 </w.rf>
 <form>Wojtyla</form>
-<tag lemma="Wojtyla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wojtyla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-045-p2s2w18">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-ln95041-045-p2s3w15</LM>
 </w.rf>
 <form>Wojtylu</form>
-<tag lemma="Wojtyla_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Wojtyla_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-045-p2s3w16">
 <src.rf>manual</src.rf>

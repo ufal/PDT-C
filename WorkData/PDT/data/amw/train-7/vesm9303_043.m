@@ -785,7 +785,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p2s4w31">
@@ -802,7 +802,7 @@
 <LM>w#w-vesm9303-043-p2s4w32</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-043-p2s4w33">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-vesm9303-043-p2s4w41</LM>
 </w.rf>
 <form>Brunhes</form>
-<tag lemma="Brunhes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brunhes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-043-p2s4w42">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-vesm9303-043-p2s4w43</LM>
 </w.rf>
 <form>Matuyama</form>
-<tag lemma="Matuyama_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matuyama_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-043-p2s4w44">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p3s1w2">
@@ -986,7 +986,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p3s1w4">
@@ -1003,7 +1003,7 @@
 <LM>w#w-vesm9303-043-p3s1w5</LM>
 </w.rf>
 <form>Dennel</form>
-<tag lemma="Dennel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dennel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-043-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 </w.rf>
 <form>Rawalpindi</form>
 <tag>
-<AM lemma="Rawalpindi_;G_,t" src="orig">NNNSX-----A----</AM>
+<AM lemma="Rawalpindi_;G_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Rávalpindí_;G_,x" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Rawalpindi_;G_,s_^(^DD**Rávalpindí)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
@@ -1437,7 +1437,7 @@
 </w.rf>
 <form>Current</form>
 <tag>
-<AM lemma="Current_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Current_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Current-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1448,7 +1448,7 @@
 </w.rf>
 <form>Anthropology</form>
 <tag>
-<AM lemma="Anthropology_;R_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Anthropology_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Anthropology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1540,7 +1540,7 @@
 <LM>w#w-vesm9303-043-p4s1w2</LM>
 </w.rf>
 <form>Cílek</form>
-<tag lemma="Cílek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cílek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

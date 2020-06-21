@@ -54,8 +54,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-008-p1s1Bw2">
@@ -132,7 +132,7 @@
 <LM>w#w-lnd94104-008-p1s2w3</LM>
 </w.rf>
 <form>ol</form>
-<tag lemma="ol-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ol-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-008-p1s2w4">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-008-p1s5w2">
@@ -557,7 +557,7 @@
 <LM>w#w-lnd94104-008-p1s5w3</LM>
 </w.rf>
 <form>Kaftan</form>
-<tag lemma="Kaftan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaftan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-008-p1s5w4">
 <src.rf>manual</src.rf>
@@ -598,8 +598,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-008-p1s5w9">
@@ -784,7 +784,7 @@
 <LM>w#w-lnd94104-008-p1s5w31</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94104-008-p1s5w32">
 <src.rf>manual</src.rf>
@@ -875,8 +875,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-008-p1s6w11">
@@ -1075,7 +1075,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-008-p1s8w4">
@@ -1092,7 +1092,7 @@
 <LM>w#w-lnd94104-008-p1s8w5</LM>
 </w.rf>
 <form>Kaftan</form>
-<tag lemma="Kaftan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaftan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-008-p1s8w6">
 <src.rf>manual</src.rf>

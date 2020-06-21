@@ -27,7 +27,7 @@
 <LM>w#w-lnd92254-056-p1s1w2</LM>
 </w.rf>
 <form>ČIKATILO</form>
-<tag lemma="Čikatilo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čikatilo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-056-p1s1w3">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd92254-056-p3s2w59</LM>
 </w.rf>
 <form>Čikatilo</form>
-<tag lemma="Čikatilo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čikatilo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-056-p3s2w60">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-lnd92254-056-p3s5w19</LM>
 </w.rf>
 <form>Čikatilo</form>
-<tag lemma="Čikatilo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čikatilo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-056-p3s5w20">
 <src.rf>manual</src.rf>

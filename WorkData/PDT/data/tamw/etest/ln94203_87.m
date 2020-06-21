@@ -221,7 +221,7 @@
 <LM>w#w-ln94203-87-p1s2w2</LM>
 </w.rf>
 <form>Andrle</form>
-<tag lemma="Andrle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andrle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s2w3">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <form>Konečný</form>
 <tag>
 <AM lemma="konečný" src="orig">AAMS1----1A----</AM>
-<AM lemma="Konečný_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Konečný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-87-p1s2w6">
@@ -296,7 +296,7 @@
 <LM>w#w-ln94203-87-p1s2w11</LM>
 </w.rf>
 <form>Opočenský</form>
-<tag lemma="Opočenský-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Opočenský-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s2w12">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln94203-87-p1s3w3</LM>
 </w.rf>
 <form>Němcem</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s3w4">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-ln94203-87-p1s3w6</LM>
 </w.rf>
 <form>Westermeyer</form>
-<tag lemma="Westermeyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Westermeyer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s3w7">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-ln94203-87-p1s6w2</LM>
 </w.rf>
 <form>Andrle</form>
-<tag lemma="Andrle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andrle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s6w3">
 <src.rf>manual</src.rf>
@@ -992,9 +992,9 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="lin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lin-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-87-p1s8w3">
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln94203-87-p1s8w6</LM>
 </w.rf>
 <form>Hula</form>
-<tag lemma="Hula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

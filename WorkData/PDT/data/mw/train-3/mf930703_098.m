@@ -190,26 +190,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p2s1w17">
@@ -258,7 +258,7 @@
 <LM>w#w-mf930703-098-p2s1w22</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p2s1w23">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p2s1w25">
@@ -344,7 +344,7 @@
 <LM>w#w-mf930703-098-p2s2w7</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p2s2w8">
 <src.rf>manual</src.rf>
@@ -369,8 +369,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p2s2w11">
@@ -443,7 +443,7 @@
 <LM>w#w-mf930703-098-p2s2w19</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p2s2w20">
 <src.rf>manual</src.rf>
@@ -614,26 +614,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p3s1w15">
@@ -730,7 +730,7 @@
 <LM>w#w-mf930703-098-p3s1w26</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p3s1w27">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-mf930703-098-p3s1w32</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p3s1w33">
 <src.rf>manual</src.rf>
@@ -795,8 +795,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p3s1w35">
@@ -845,7 +845,7 @@
 <LM>w#w-mf930703-098-p3s1w40</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p3s1w41">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p3s1w43">
@@ -1054,26 +1054,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p4s1w17">
@@ -1109,7 +1109,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p4s1w21">
@@ -1174,7 +1174,7 @@
 <LM>w#w-mf930703-098-p4s1w28</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p4s1w29">
 <src.rf>manual</src.rf>
@@ -1191,8 +1191,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p4s1w31">
@@ -1241,7 +1241,7 @@
 <LM>w#w-mf930703-098-p4s1w36</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p4s1w37">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 <LM>w#w-mf930703-098-p4s1w38</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p4s1w39">
 <src.rf>manual</src.rf>
@@ -1460,26 +1460,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p5s1w15">
@@ -1592,7 +1592,7 @@
 <LM>w#w-mf930703-098-p5s1w28</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p5s1w29">
 <src.rf>manual</src.rf>
@@ -1608,7 +1608,7 @@
 <LM>w#w-mf930703-098-p5s1w30</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p5s1w31">
 <src.rf>manual</src.rf>
@@ -1656,7 +1656,7 @@
 <LM>w#w-mf930703-098-p5s1w36</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p5s1w37">
 <src.rf>manual</src.rf>
@@ -1673,8 +1673,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p5s1w39">
@@ -1742,7 +1742,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p5s1w47">
@@ -1884,7 +1884,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p6s1w15">
@@ -1918,26 +1918,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p6s1w19">
@@ -2003,8 +2003,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p6s1w27">
@@ -2053,7 +2053,7 @@
 <LM>w#w-mf930703-098-p6s1w32</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p6s1w33">
 <src.rf>manual</src.rf>
@@ -2069,7 +2069,7 @@
 <LM>w#w-mf930703-098-p6s1w34</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p6s1w35">
 <src.rf>manual</src.rf>
@@ -2117,7 +2117,7 @@
 <LM>w#w-mf930703-098-p6s1w40</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p6s1w41">
 <src.rf>manual</src.rf>
@@ -2304,26 +2304,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p7s1w15">
@@ -2404,7 +2404,7 @@
 <LM>w#w-mf930703-098-p7s1w24</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p7s1w25">
 <src.rf>manual</src.rf>
@@ -2468,7 +2468,7 @@
 <LM>w#w-mf930703-098-p7s1w32</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p7s1w33">
 <src.rf>manual</src.rf>
@@ -2484,7 +2484,7 @@
 <LM>w#w-mf930703-098-p7s1w34</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p7s1w35">
 <src.rf>manual</src.rf>
@@ -2549,8 +2549,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p7s1w43">
@@ -2570,7 +2570,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p7s1w45">
@@ -2734,26 +2734,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p8s1w16">
@@ -2787,8 +2787,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p8s1w20">
@@ -2808,7 +2808,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p8s1w22">
@@ -2873,7 +2873,7 @@
 <LM>w#w-mf930703-098-p8s1w29</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p8s1w30">
 <src.rf>manual</src.rf>
@@ -2921,7 +2921,7 @@
 <LM>w#w-mf930703-098-p8s1w35</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p8s1w36">
 <src.rf>manual</src.rf>
@@ -2985,7 +2985,7 @@
 <LM>w#w-mf930703-098-p8s1w43</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p8s1w44">
 <src.rf>manual</src.rf>
@@ -3140,26 +3140,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p9s1w15">
@@ -3208,7 +3208,7 @@
 <LM>w#w-mf930703-098-p9s1w20</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p9s1w21">
 <src.rf>manual</src.rf>
@@ -3272,7 +3272,7 @@
 <LM>w#w-mf930703-098-p9s1w28</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p9s1w29">
 <src.rf>manual</src.rf>
@@ -3352,7 +3352,7 @@
 <LM>w#w-mf930703-098-p9s1w38</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p9s1w39">
 <src.rf>manual</src.rf>
@@ -3371,7 +3371,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p9s1w41">
@@ -3437,8 +3437,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p9s1w49">
@@ -3562,8 +3562,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p10s1w15">
@@ -3581,26 +3581,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p10s1w17">
@@ -3665,7 +3665,7 @@
 <LM>w#w-mf930703-098-p10s1w24</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p10s1w25">
 <src.rf>manual</src.rf>
@@ -3684,7 +3684,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p10s1w27">
@@ -3797,7 +3797,7 @@
 <LM>w#w-mf930703-098-p10s1w40</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p10s1w41">
 <src.rf>manual</src.rf>
@@ -3863,7 +3863,7 @@
 <LM>w#w-mf930703-098-p10s2w5</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p10s2w6">
 <src.rf>manual</src.rf>
@@ -3986,26 +3986,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p11s1w15">
@@ -4038,7 +4038,7 @@
 <LM>w#w-mf930703-098-p11s1w18</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p11s1w19">
 <src.rf>manual</src.rf>
@@ -4086,7 +4086,7 @@
 <LM>w#w-mf930703-098-p11s1w24</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p11s1w25">
 <src.rf>manual</src.rf>
@@ -4185,7 +4185,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p11s1w37">
@@ -4250,7 +4250,7 @@
 <LM>w#w-mf930703-098-p11s1w44</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p11s1w45">
 <src.rf>manual</src.rf>
@@ -4267,8 +4267,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p11s1w47">
@@ -4424,26 +4424,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p12s1w17">
@@ -4476,7 +4476,7 @@
 <LM>w#w-mf930703-098-p12s1w20</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p12s1w21">
 <src.rf>manual</src.rf>
@@ -4493,8 +4493,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p12s1w23">
@@ -4562,7 +4562,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p12s1w31">
@@ -4675,7 +4675,7 @@
 <LM>w#w-mf930703-098-p12s1w44</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p12s1w45">
 <src.rf>manual</src.rf>
@@ -4691,7 +4691,7 @@
 <LM>w#w-mf930703-098-p12s1w46</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p12s1w47">
 <src.rf>manual</src.rf>
@@ -4830,26 +4830,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p13s1w15">
@@ -4898,7 +4898,7 @@
 <LM>w#w-mf930703-098-p13s1w20</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p13s1w21">
 <src.rf>manual</src.rf>
@@ -4914,7 +4914,7 @@
 <LM>w#w-mf930703-098-p13s1w22</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p13s1w23">
 <src.rf>manual</src.rf>
@@ -4997,7 +4997,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p13s1w33">
@@ -5079,8 +5079,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p13s1w43">
@@ -5129,7 +5129,7 @@
 <LM>w#w-mf930703-098-p13s1w48</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p13s1w49">
 <src.rf>manual</src.rf>
@@ -5251,7 +5251,7 @@
 <LM>w#w-mf930703-098-p14s1w14</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p14s1w15">
 <src.rf>manual</src.rf>
@@ -5268,26 +5268,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p14s1w17">
@@ -5369,8 +5369,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p14s1w27">
@@ -5438,7 +5438,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p14s1w35">
@@ -5503,7 +5503,7 @@
 <LM>w#w-mf930703-098-p14s1w42</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p14s1w43">
 <src.rf>manual</src.rf>
@@ -5551,7 +5551,7 @@
 <LM>w#w-mf930703-098-p14s1w48</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p14s1w49">
 <src.rf>manual</src.rf>
@@ -5675,7 +5675,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p15s1w15">
@@ -5708,7 +5708,7 @@
 <LM>w#w-mf930703-098-p15s1w18</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p15s1w19">
 <src.rf>manual</src.rf>
@@ -5772,7 +5772,7 @@
 <LM>w#w-mf930703-098-p15s1w26</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p15s1w27">
 <src.rf>manual</src.rf>
@@ -5791,7 +5791,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p15s1w29">
@@ -5873,8 +5873,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p15s1w39">
@@ -5939,7 +5939,7 @@
 <LM>w#w-mf930703-098-p15s1w46</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p15s1w47">
 <src.rf>manual</src.rf>
@@ -6094,26 +6094,26 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="V-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="V-1`volt_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="V-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="V-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="V-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Velký_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p16s1w17">
@@ -6162,7 +6162,7 @@
 <LM>w#w-mf930703-098-p16s1w22</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p16s1w23">
 <src.rf>manual</src.rf>
@@ -6227,8 +6227,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p16s1w31">
@@ -6277,7 +6277,7 @@
 <LM>w#w-mf930703-098-p16s1w36</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-098-p16s1w37">
 <src.rf>manual</src.rf>
@@ -6296,7 +6296,7 @@
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-098-p16s1w39">
@@ -6361,7 +6361,7 @@
 <LM>w#w-mf930703-098-p16s1w46</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930703-098-p16s1w47">
 <src.rf>manual</src.rf>
@@ -6560,7 +6560,7 @@
 </w.rf>
 <form>LeRK</form>
 <tag>
-<AM lemma="Lerk_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lerk_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="LeRK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6659,7 +6659,7 @@
 </w.rf>
 <form>FM</form>
 <tag>
-<AM lemma="FM_:B_;K_^(Frýdek_Místek)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FM_:B_;m_^(Frýdek_Místek)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FM-1_:B_^(frekvenční_modulace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FM-2_:B_^(federální_ministerstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="FM_:B" src="auto">NNXXX-----A---8</AM>

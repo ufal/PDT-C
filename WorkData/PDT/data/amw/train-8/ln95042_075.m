@@ -273,7 +273,7 @@
 <LM>w#w-ln95042-075-p2s2w7</LM>
 </w.rf>
 <form>Starnovské</form>
-<tag lemma="Starnovská_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Starnovská_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95042-075-p2s2w8">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-075-p3s3w19">
@@ -650,7 +650,7 @@
 <LM>w#w-ln95042-075-p3s3w20</LM>
 </w.rf>
 <form>Starnovská</form>
-<tag lemma="Starnovská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Starnovská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-075-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1378,8 +1378,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95042-075-p5s3w4">
@@ -2205,7 +2205,7 @@
 <LM>w#w-ln95042-075-p6s5w7</LM>
 </w.rf>
 <form>Fojtíková</form>
-<tag lemma="Fojtíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fojtíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-075-p6s5w8">
 <src.rf>manual</src.rf>
@@ -2401,7 +2401,7 @@
 <LM>w#w-ln95042-075-p7s1w2</LM>
 </w.rf>
 <form>Starnovská</form>
-<tag lemma="Starnovská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Starnovská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-075-p7s1w3">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-lnd94103-146-p1s2w3</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ria-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-146-p1s2w4">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 </w.rf>
 <form>NDIS</form>
 <tag>
-<AM lemma="NDIS-2_:B_;K_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NDIS-2_:B_;m_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NDIS-1_:B_,t_^(network_driver_interface_specification)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="NDIS-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="NDIS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -351,7 +351,7 @@
 </w.rf>
 <form>NDIS</form>
 <tag>
-<AM lemma="NDIS-2_:B_;K_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NDIS-2_:B_;m_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NDIS-1_:B_,t_^(network_driver_interface_specification)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="NDIS-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="NDIS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -372,9 +372,9 @@
 </w.rf>
 <form>Richtera</form>
 <tag>
-<AM lemma="Richter_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Richter_;S" src="auto" recommended="1">NNMS2-----A---2</AM>
-<AM lemma="Richter_;S" src="auto" selected="1">NNMS4-----A---2</AM>
+<AM lemma="Richter_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Richter_;Y" src="auto" recommended="1">NNMS2-----A---2</AM>
+<AM lemma="Richter_;Y" src="auto" selected="1">NNMS4-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s4w5">
@@ -439,7 +439,7 @@
 <LM>w#w-lnd94103-146-p1s4w12</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-146-p1s4w13">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 </w.rf>
 <form>ÚKP</form>
 <tag>
-<AM lemma="ÚKP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ÚKP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ÚKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -733,7 +733,7 @@
 </w.rf>
 <form>NDIS</form>
 <tag>
-<AM lemma="NDIS-2_:B_;K_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NDIS-2_:B_;m_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NDIS-1_:B_,t_^(network_driver_interface_specification)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="NDIS-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="NDIS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1088,7 +1088,7 @@
 <form>MVČR</form>
 <tag>
 <AM lemma="MVČR_^(Ministerstvo_vnitra_ČR)" src="orig">NNIXX-----A----</AM>
-<AM lemma="MVČK-1_:B_;K_^(Mezinárodní_výbor_Červeného_kříže)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="MVČK-1_:B_;m_^(Mezinárodní_výbor_Červeného_kříže)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="MVČR_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="MVČR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1108,7 +1108,7 @@
 </w.rf>
 <form>MVSR</form>
 <tag>
-<AM lemma="MVSR_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MVSR_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MVSR_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="MVSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1364,7 +1364,7 @@
 </w.rf>
 <form>NDIS</form>
 <tag>
-<AM lemma="NDIS-2_:B_;K_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NDIS-2_:B_;m_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NDIS-1_:B_,t_^(network_driver_interface_specification)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="NDIS-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="NDIS-88" src="manual" selected="1">BNXXX-----A----</AM>

@@ -121,7 +121,7 @@
 <LM>w#w-lnd92259-050-p4s1w3</LM>
 </w.rf>
 <form>fsch</form>
-<tag lemma="fsch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="fsch-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-050-p4s1w4">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-lnd92259-050-p4s2w14</LM>
 </w.rf>
 <form>Fiala</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-050-p4s2w15">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -480,7 +480,7 @@
 <LM>w#w-lnd92259-050-p4s3w27</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-050-p4s3w28">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-lnd92259-050-p4s3w30</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMPX-----A----</tag>
+<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd92259-050-p4s3w31">
 <src.rf>manual</src.rf>

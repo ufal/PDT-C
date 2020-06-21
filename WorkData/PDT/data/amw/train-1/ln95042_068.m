@@ -127,7 +127,7 @@
 <LM>w#w-ln95042-068-p2s1Bw6</LM>
 </w.rf>
 <form>Lastovecké</form>
-<tag lemma="Lastovecký_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Lastovecký_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95042-068-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-068-p3s2w2">
@@ -682,9 +682,9 @@
 </w.rf>
 <form>Lastovecká</form>
 <tag>
-<AM lemma="Lastovecký_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lastovecká_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Lastovecká_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Lastovecký_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lastovecká_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lastovecká_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-068-p3s2w4">
@@ -1027,8 +1027,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-068-p4s1w7">
@@ -1045,7 +1045,7 @@
 <LM>w#w-ln95042-068-p4s1w8</LM>
 </w.rf>
 <form>Kůty</form>
-<tag lemma="Kůta_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kůta_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-068-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-ln95042-068-p5s1w6</LM>
 </w.rf>
 <form>Dřímal</form>
-<tag lemma="Dřímal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dřímal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-068-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1908,7 +1908,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1993,7 +1993,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

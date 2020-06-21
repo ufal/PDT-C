@@ -78,7 +78,7 @@
 </w.rf>
 <form>vit</form>
 <tag>
-<AM lemma="vit-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="vit-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
 </tag>
 </m>
@@ -115,7 +115,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -362,8 +362,8 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-2_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-2_:B_;m_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-100-p2s2w6">
@@ -372,7 +372,7 @@
 <LM>w#w-mf930709-100-p2s2w6</LM>
 </w.rf>
 <form>Ados</form>
-<tag lemma="Ados_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ados_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-100-p2s2w7">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-mf930709-100-p2s2w9</LM>
 </w.rf>
 <form>Hájek</form>
-<tag lemma="Hájek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hájek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-100-p2s2w10">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf930709-100-p2s2w16</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-100-p2s2w17">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-mf930709-100-p2s6w1</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-100-p2s6w2">
 <src.rf>manual</src.rf>

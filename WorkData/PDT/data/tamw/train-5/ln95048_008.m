@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-008-p1s1w1</LM>
 </w.rf>
 <form>ČeTel</form>
-<tag lemma="ČeTel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ČeTel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-008-p1s1w2">
 <src.rf>manual</src.rf>
@@ -52,8 +52,8 @@
 </w.rf>
 <form>telecom</form>
 <tag>
-<AM lemma="telecom_;K_,t" src="orig">NNIS4-----A----</AM>
-<AM lemma="telecom_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="telecom_;m_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="telecom_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -90,7 +90,7 @@
 <LM>w#w-ln95048-008-p2s1Bw2</LM>
 </w.rf>
 <form>ČeTel</form>
-<tag lemma="ČeTel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ČeTel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-008-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 <LM>w#w-ln95048-008-p2s1Bw8</LM>
 </w.rf>
 <form>Ameritech</form>
-<tag lemma="Ameritech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ameritech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-008-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -182,7 +182,7 @@
 </w.rf>
 <form>Telekom</form>
 <tag>
-<AM lemma="Telekom_;K_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Telekom_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="telekom" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="telekom" src="auto">NNIS4-----A----</AM>
 <AM lemma="Telekom-77" src="manual" selected="1">F%-------------</AM>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>SPT</form>
 <tag>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -253,7 +253,7 @@
 <LM>w#w-ln95048-008-p2s1Bw21</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-008-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-ln95048-008-p3s1w1</LM>
 </w.rf>
 <form>Ameritech</form>
-<tag lemma="Ameritech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ameritech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-008-p3s1w2">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-ln95048-008-p3s2w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95048-008-p3s2w3">
 <src.rf>manual</src.rf>
@@ -466,9 +466,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95048-008-p3s2w14">
@@ -488,7 +488,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -658,7 +658,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920901-049-p1s1w1</LM>
 </w.rf>
 <form>Seidl</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-049-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf920901-049-p1s1w3</LM>
 </w.rf>
 <form>Cookem</form>
-<tag lemma="Cook_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Cook_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-049-p2s1">
@@ -53,7 +53,7 @@
 <LM>w#w-mf920901-049-p2s1w2</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920901-049-p2s1w3">
 <src.rf>manual</src.rf>
@@ -62,7 +62,7 @@
 </w.rf>
 <form>Racing</form>
 <tag>
-<AM lemma="Racing_;K_^(př._Racing_Club)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Racing_;m_^(př._Racing_Club)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Racing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -235,7 +235,7 @@
 <LM>w#w-mf920901-049-p2s1w24</LM>
 </w.rf>
 <form>Seidla</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-049-p2s1w25">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-mf920901-049-p2s1w28</LM>
 </w.rf>
 <form>Cook</form>
-<tag lemma="Cook_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cook_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-049-p2s1w29">
 <src.rf>manual</src.rf>
@@ -337,8 +337,8 @@
 </w.rf>
 <form>EP</form>
 <tag>
-<AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP_;m_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EP_:B_;m_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -356,7 +356,7 @@
 <LM>w#w-mf920901-049-p2s2w9</LM>
 </w.rf>
 <form>Hobsonem</form>
-<tag lemma="Hobson_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hobson_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-049-p2s2w10">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-mf920901-049-p2s2w11</LM>
 </w.rf>
 <form>Milichovským</form>
-<tag lemma="Milichovský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Milichovský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-049-p2s2w12">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-mf920901-049-p2s4w1</LM>
 </w.rf>
 <form>Cook</form>
-<tag lemma="Cook_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cook_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-049-p2s4w2">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-mf920901-049-p2s5w1</LM>
 </w.rf>
 <form>Seidl</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-049-p2s5w2">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-mf920901-049-p2s6w1</LM>
 </w.rf>
 <form>Hobson</form>
-<tag lemma="Hobson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hobson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-049-p2s6w2">
 <src.rf>manual</src.rf>

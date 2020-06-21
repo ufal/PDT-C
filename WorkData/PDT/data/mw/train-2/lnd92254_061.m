@@ -29,7 +29,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-061-p1s1w3">
@@ -48,7 +48,7 @@
 <LM>w#w-lnd92254-061-p1s2w1</LM>
 </w.rf>
 <form>MITTERRANDA</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p1s2w2">
 <src.rf>manual</src.rf>
@@ -66,7 +66,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-061-p1s2w4">
@@ -85,7 +85,7 @@
 <LM>w#w-lnd92254-061-p1s3w1</LM>
 </w.rf>
 <form>HAVLA</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p1s3w2">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-lnd92254-061-p3s2w3</LM>
 </w.rf>
 <form>Francois</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p3s2w4">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-lnd92254-061-p3s2w4</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p3s2w5">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-lnd92254-061-p3s2w14</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p3s2w15">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-lnd92254-061-p4s2w6</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p4s2w7">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-lnd92254-061-p5s1w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p5s1w3">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-lnd92254-061-p6s1w16</LM>
 </w.rf>
 <form>Pérez</form>
-<tag lemma="Pérez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pérez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p6s1w17">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-lnd92254-061-p6s1w18</LM>
 </w.rf>
 <form>Cuellar</form>
-<tag lemma="Cuellar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cuellar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p6s1w19">
 <src.rf>manual</src.rf>
@@ -924,7 +924,7 @@
 <LM>w#w-lnd92254-061-p6s1w21</LM>
 </w.rf>
 <form>Reagan</form>
-<tag lemma="Reagan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reagan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p6s1w22">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-lnd92254-061-p6s1w26</LM>
 </w.rf>
 <form>Weizsäcker</form>
-<tag lemma="Weizsäcker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Weizsäcker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p6s1w27">
 <src.rf>manual</src.rf>
@@ -1100,7 +1100,7 @@
 <LM>w#w-lnd92254-061-p6s2w15</LM>
 </w.rf>
 <form>Ratzinger</form>
-<tag lemma="Ratzinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ratzinger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p6s2w16">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-lnd92254-061-p7s1w7</LM>
 </w.rf>
 <form>Bonnefouse</form>
-<tag lemma="Bonnefous_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bonnefous_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-lnd92254-061-p7s1w10</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p7s1w11">
 <src.rf>manual</src.rf>
@@ -1536,7 +1536,7 @@
 <LM>w#w-lnd92254-061-p8s1w5</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p8s1w6">
 <src.rf>manual</src.rf>

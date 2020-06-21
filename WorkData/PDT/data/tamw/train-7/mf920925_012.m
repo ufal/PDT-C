@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-012-p1s1w3</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p1s1w4">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf920925-012-p2s1w4</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p2s1w5">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-mf920925-012-p2s2w4</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p2s2w5">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-mf920925-012-p2s2w7</LM>
 </w.rf>
 <form>Kalinec</form>
-<tag lemma="Kalinec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalinec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p2s2w8">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-mf920925-012-p2s3w16</LM>
 </w.rf>
 <form>Kalinec</form>
-<tag lemma="Kalinec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalinec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p2s3w17">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-mf920925-012-p3s4w5</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p3s4w6">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-mf920925-012-p4s1w13</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-mf920925-012-p4s2w6</LM>
 </w.rf>
 <form>tatrovek</form>
-<tag lemma="tatrovka_;K_;R_,h" src="auto" selected="1">NNFP2-----A----</tag>
+<tag lemma="tatrovka_;m_,h" src="auto" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920925-012-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1304,7 +1304,7 @@
 <LM>w#w-mf920925-012-p5s1w5</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-012-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2222,7 +2222,7 @@
 <LM>w#w-mf920925-012-p6s2w1</LM>
 </w.rf>
 <form>Šestsettřináctky</form>
-<tag lemma="šestsettřináctka-1_;R_,h" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="šestsettřináctka-1_;m_,h" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2563,7 +2563,7 @@
 <LM>w#w-mf920925-012-p7s1w11</LM>
 </w.rf>
 <form>Kalinec</form>
-<tag lemma="Kalinec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalinec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p7s1w12">
 <src.rf>manual</src.rf>
@@ -3059,7 +3059,7 @@
 <LM>w#w-mf920925-012-p8s2w3</LM>
 </w.rf>
 <form>Kalince</form>
-<tag lemma="Kalinec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalinec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-012-p8s2w4">
 <src.rf>manual</src.rf>
@@ -3083,7 +3083,7 @@
 <LM>w#w-mf920925-012-p8s2w6</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-012-p8s2w7">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd92258-148-p1s1w1</LM>
 </w.rf>
 <form>HONECKER</form>
-<tag lemma="Honecker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Honecker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-148-p1s1w2">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -132,7 +132,7 @@
 <LM>w#w-lnd92258-148-p3s2w8</LM>
 </w.rf>
 <form>Honecker</form>
-<tag lemma="Honecker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Honecker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-148-p3s2w9">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-lnd92258-148-p3s2w23</LM>
 </w.rf>
 <form>Honeckerových</form>
-<tag lemma="Honeckerův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Honeckerův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-lnd92258-148-p3s2w24">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-lnd92258-148-p3s3w6</LM>
 </w.rf>
 <form>Honeckera</form>
-<tag lemma="Honecker_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Honecker_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-148-p3s3w7">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-lnd92258-148-p3s3w15</LM>
 </w.rf>
 <form>Hansgeorg</form>
-<tag lemma="Hansgeorg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hansgeorg_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-148-p3s3w16">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-lnd92258-148-p3s3w16</LM>
 </w.rf>
 <form>Bräutigam</form>
-<tag lemma="Bräutigam_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bräutigam_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-148-p3s3w17">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-lnd92258-148-p3s4w8</LM>
 </w.rf>
 <form>Honeckerovi</form>
-<tag lemma="Honecker_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Honecker_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92258-148-p3s4w9">
 <src.rf>manual</src.rf>

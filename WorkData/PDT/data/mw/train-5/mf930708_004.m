@@ -314,7 +314,7 @@
 <LM>w#w-mf930708-004-p2s2w5</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-004-p2s2w6">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-004-p4s1w4">
@@ -505,7 +505,7 @@
 <LM>w#w-mf930708-004-p4s1w10</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-004-p4s1w11">
 <src.rf>manual</src.rf>

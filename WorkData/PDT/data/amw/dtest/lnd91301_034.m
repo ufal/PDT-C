@@ -393,7 +393,7 @@
 <LM>w#w-lnd91301-034-p3s3w4</LM>
 </w.rf>
 <form>Hona</form>
-<tag lemma="Hon_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hon_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-034-p3s3w5">
 <src.rf>manual</src.rf>

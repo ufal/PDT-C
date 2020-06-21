@@ -96,8 +96,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-032-p3s1w4">
@@ -262,7 +262,7 @@
 <LM>w#w-lnd92251-032-p3s3w8</LM>
 </w.rf>
 <form>Wolf</form>
-<tag lemma="Wolf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wolf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-032-p3s3w9">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-lnd92251-032-p3s5w8</LM>
 </w.rf>
 <form>Hřib</form>
-<tag lemma="Hřib-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hřib-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-032-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-lnd92251-032-p3s8w18</LM>
 </w.rf>
 <form>Hřib</form>
-<tag lemma="Hřib-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hřib-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-032-p3s8w19">
 <src.rf>manual</src.rf>
@@ -1716,7 +1716,7 @@
 </w.rf>
 <form>kovo</form>
 <tag>
-<AM lemma="KOVO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KOVO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="kovo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

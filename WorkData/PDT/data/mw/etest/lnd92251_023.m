@@ -19,7 +19,7 @@
 <LM>w#w-lnd92251-023-p1s1w1</LM>
 </w.rf>
 <form>ČEŠI</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92251-023-p1s1w2">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <form>hop</form>
 <tag>
 <AM lemma="hop-1" src="auto">TT-------------</AM>
-<AM lemma="hop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-023-p3s1w4">

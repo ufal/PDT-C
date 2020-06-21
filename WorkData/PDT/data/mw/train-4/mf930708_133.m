@@ -20,7 +20,7 @@
 </w.rf>
 <form>Wimbledon</form>
 <tag>
-<AM lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="manual" selected="1">NNIS1-----A----</AM>
 <AM lemma="Wimbledon-1_;G" src="manual">NNIS1-----A----</AM>
 </tag>
@@ -66,8 +66,8 @@
 </w.rf>
 <form>čen</form>
 <tag>
-<AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="čen-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="čen-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="čen-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-133-p2s1w4">
@@ -718,7 +718,7 @@
 </w.rf>
 <form>All</form>
 <tag>
-<AM lemma="All_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="All_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="All-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -729,7 +729,7 @@
 </w.rf>
 <form>England</form>
 <tag>
-<AM lemma="England_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="England_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="England-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -741,7 +741,7 @@
 <form>Clubu</form>
 <tag>
 <AM lemma="klub" src="orig">NNIS2-----A----</AM>
-<AM lemma="Club_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-133-p2s5w6">
@@ -1036,7 +1036,7 @@
 </w.rf>
 <form>Wimbledonu</form>
 <tag>
-<AM lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig">NNIS2-----A----</AM>
+<AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS2-----A----</AM>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

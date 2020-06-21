@@ -172,7 +172,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -223,11 +223,11 @@
 </w.rf>
 <form>Oslo</form>
 <tag>
-<AM lemma="Oslo_;G" src="orig">NNNSX-----A----</AM>
+<AM lemma="Oslo_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Oslo_;G" src="auto" recommended="1" selected="1">NNNSX-----A---1</AM>
+<AM lemma="Oslo_;G" src="auto" recommended="1" selected="1">NNNXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw18">
@@ -271,7 +271,7 @@
 <LM>w#w-mf930713-027-p2s1Bw22</LM>
 </w.rf>
 <form>Šafránek</form>
-<tag lemma="Šafránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šafránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-mf930713-027-p2s1Bw24</LM>
 </w.rf>
 <form>Jasanský</form>
-<tag lemma="Jasanský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jasanský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf930713-027-p2s1Bw28</LM>
 </w.rf>
 <form>Pletánek</form>
-<tag lemma="Pletánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pletánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf930713-027-p2s1Bw30</LM>
 </w.rf>
 <form>Gregor</form>
-<tag lemma="Gregor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gregor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-mf930713-027-p2s4w8</LM>
 </w.rf>
 <form>Šafránek</form>
-<tag lemma="Šafránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šafránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-027-p2s4w9">
 <src.rf>manual</src.rf>

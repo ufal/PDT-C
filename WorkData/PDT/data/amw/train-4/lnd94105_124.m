@@ -104,7 +104,7 @@
 </w.rf>
 <form>Hata</form>
 <tag>
-<AM lemma="Hata_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hata_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP5-----A----</AM>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd94105-124-p1s3w25</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-124-p1s3w26">
 <src.rf>manual</src.rf>
@@ -444,14 +444,14 @@
 <AM lemma="G-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="G-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="G-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="G-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="G-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="G-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="G-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="G-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="G-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="G-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="G-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="G-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="G-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="G-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="g-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="G-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
 </m>
@@ -558,7 +558,7 @@
 </w.rf>
 <form>Hata</form>
 <tag>
-<AM lemma="Hata_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hata_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Hato_;G" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP5-----A----</AM>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd94105-124-p1s4w38</LM>
 </w.rf>
 <form>Francoisem</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-124-p1s4w39">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-lnd94105-124-p1s4w39</LM>
 </w.rf>
 <form>Mitterrandem</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-124-p1s4w40">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-lnd94105-124-p1s5w6</LM>
 </w.rf>
 <form>Mitterrandem</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-124-p1s5w7">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-lnd94105-124-p1s5w11</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-124-p1s5w12">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-lnd94105-124-p1s6w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-124-p1s6w10">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 </w.rf>
 <form>Hata</form>
 <tag>
-<AM lemma="Hata_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hata_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Hato_;G" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP5-----A----</AM>

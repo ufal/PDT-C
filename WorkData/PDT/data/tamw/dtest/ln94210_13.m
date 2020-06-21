@@ -20,8 +20,8 @@
 </w.rf>
 <form>CSIC</form>
 <tag>
-<AM lemma="CSIC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSIC_:B_;K_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNSX-----A---8</AM>
+<AM lemma="CSIC_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSIC_:B_;m_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="CSIC-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CSIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -99,8 +99,8 @@
 </w.rf>
 <form>CSIC</form>
 <tag>
-<AM lemma="CSIC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSIC_:B_;K_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNSX-----A---8</AM>
+<AM lemma="CSIC_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSIC_:B_;m_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="CSIC-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CSIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -235,7 +235,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -394,8 +394,8 @@
 </w.rf>
 <form>CSIC</form>
 <tag>
-<AM lemma="CSIC_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSIC_:B_;K_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNSX-----A---8</AM>
+<AM lemma="CSIC_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSIC_:B_;m_^(Středisko_pro_vědecký_výzkum)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="CSIC-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CSIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -685,7 +685,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -837,7 +837,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -976,7 +976,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -987,7 +987,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1353,7 +1353,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1431,7 +1431,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1442,7 +1442,7 @@
 </w.rf>
 <form>Petroleum</form>
 <tag>
-<AM lemma="Petroleum_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Petroleum_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1522,9 +1522,9 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="am-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="am-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="am-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="am-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-13-p7s3w3">

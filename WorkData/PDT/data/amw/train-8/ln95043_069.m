@@ -51,7 +51,7 @@
 <LM>w#w-ln95043-069-p1s1w5</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95043-069-p1s1w6">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-ln95043-069-p2s2w7</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-069-p2s2w8">
 <src.rf>manual</src.rf>
@@ -437,8 +437,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-069-p2s2w14">
@@ -453,9 +453,9 @@
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-069-p2s2w15">
@@ -464,7 +464,7 @@
 <LM>w#w-ln95043-069-p2s2w15</LM>
 </w.rf>
 <form>Buzková</form>
-<tag lemma="Buzková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Buzková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-069-p2s2w16">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-ln95043-069-p2s4w13</LM>
 </w.rf>
 <form>Buzková</form>
-<tag lemma="Buzková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Buzková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-069-p2s4w14">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95043-069-p2s5w4</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-069-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

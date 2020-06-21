@@ -167,7 +167,7 @@
 <LM>w#w-cmpr9417-022-p4s1w10</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-022-p4s1w11">
 <src.rf>manual</src.rf>
@@ -3180,7 +3180,7 @@
 <LM>w#w-cmpr9417-022-p11s1w2</LM>
 </w.rf>
 <form>Hurtík</form>
-<tag lemma="Hurtík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hurtík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

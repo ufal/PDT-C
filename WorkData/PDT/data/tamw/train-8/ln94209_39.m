@@ -128,8 +128,8 @@
 </w.rf>
 <form>vet</form>
 <tag>
-<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-39-p2s1Bw4">
@@ -352,8 +352,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-39-p2s1Cw26">
@@ -492,7 +492,7 @@
 <LM>w#w-ln94209-39-p2s2w11</LM>
 </w.rf>
 <form>Bořka</form>
-<tag lemma="Bořek_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bořek_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-39-p2s2w12">
 <src.rf>manual</src.rf>
@@ -501,8 +501,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-39-p2s2w13">
@@ -696,7 +696,7 @@
 <LM>w#w-ln94209-39-p2s5w1</LM>
 </w.rf>
 <form>Bořka</form>
-<tag lemma="Bořek_;S_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Bořek_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-39-p2s5w2">
 <src.rf>manual</src.rf>
@@ -705,8 +705,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-39-p2s5w3">
@@ -983,11 +983,11 @@
 </w.rf>
 <form>citroenu</form>
 <tag>
-<AM lemma="Citroen-2_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="citroen_;R_,h" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="citroen_;R_,h" src="auto">NNIS3-----A----</AM>
-<AM lemma="citroen_;R_,h" src="auto">NNIS6-----A----</AM>
-<AM lemma="citroen_;R_^(vozidlo)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Citroen-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
+<AM lemma="citroen_;m_,h" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="citroen_;m_,h" src="auto">NNIS3-----A----</AM>
+<AM lemma="citroen_;m_,h" src="auto">NNIS6-----A----</AM>
+<AM lemma="citroen_;m_^(vozidlo)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-39-p2s7w12">
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln94209-39-p2s9w12</LM>
 </w.rf>
 <form>Bořka</form>
-<tag lemma="Bořek_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bořek_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-39-p2s9w13">
 <src.rf>manual</src.rf>
@@ -1197,8 +1197,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-39-p2s9w14">
@@ -1343,8 +1343,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-39-p2s11w8">

@@ -178,7 +178,7 @@
 <LM>w#w-ln94211-130-p2s1Bw2</LM>
 </w.rf>
 <form>Pšenička</form>
-<tag lemma="Pšenička-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pšenička-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-130-p2s1C">
@@ -796,7 +796,7 @@
 <LM>w#w-ln94211-130-p3s2w6</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-130-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-ln94211-130-p3s4w1</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-130-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1737,7 +1737,7 @@
 <LM>w#w-ln94211-130-p4s2w29</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94211-130-p4s2w30">
 <src.rf>manual</src.rf>
@@ -2597,7 +2597,7 @@
 <LM>w#w-ln94211-130-p6s1w1</LM>
 </w.rf>
 <form>Luxovo</form>
-<tag lemma="Luxův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Luxův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94211-130-p6s1w2">
 <src.rf>manual</src.rf>

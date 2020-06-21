@@ -56,7 +56,7 @@
 <LM>w#w-ln95042-038-p2s1w2</LM>
 </w.rf>
 <form>Basler</form>
-<tag lemma="Basler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-038-p2s1w3">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-ln95042-038-p2s1w14</LM>
 </w.rf>
 <form>Němcem</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95042-038-p2s1w15">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -455,7 +455,7 @@
 <LM>w#w-ln95042-038-p3s1w12</LM>
 </w.rf>
 <form>Hagiho</form>
-<tag lemma="Hagi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hagi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-038-p3s1w13">
 <src.rf>manual</src.rf>

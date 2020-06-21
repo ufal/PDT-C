@@ -96,10 +96,10 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
-<AM lemma="gap-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="gap-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-025-p3s1w4">

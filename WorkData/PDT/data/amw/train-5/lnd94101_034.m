@@ -269,7 +269,7 @@
 <LM>w#w-lnd94101-034-p1s2w7</LM>
 </w.rf>
 <form>Hrabovský</form>
-<tag lemma="Hrabovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrabovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-034-p1s2w8">
 <src.rf>manual</src.rf>

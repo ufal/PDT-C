@@ -610,7 +610,7 @@
 <LM>w#w-ln94208-18-p3s1w19</LM>
 </w.rf>
 <form>Dubinin</form>
-<tag lemma="Dubinin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubinin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-18-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-ln94208-18-p5s1w2</LM>
 </w.rf>
 <form>Alexašenko</form>
-<tag lemma="Alexašenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Alexašenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-18-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2956,8 +2956,8 @@
 </w.rf>
 <form>ma</form>
 <tag>
-<AM lemma="ma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ma-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ma-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-18-p8s5Bw3">

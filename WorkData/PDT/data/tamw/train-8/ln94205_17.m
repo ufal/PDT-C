@@ -69,7 +69,7 @@
 <LM>w#w-ln94205-17-p2s1w6</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-17-p2s1w7">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-ln94205-17-p2s1w8</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94205-17-p2s1w9">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -687,7 +687,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -29,7 +29,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-040-p1s1w3">
@@ -46,7 +46,7 @@
 <LM>w#w-lnd94105-040-p1s1w4</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-040-p1s1w5">
 <src.rf>manual</src.rf>
@@ -97,8 +97,8 @@
 </w.rf>
 <form>em</form>
 <tag>
-<AM lemma="em-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="em-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="em-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-040-p1s2w4">
@@ -289,8 +289,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-040-p1s3w22">
@@ -334,7 +334,7 @@
 <tag>
 <AM lemma="špaček-1_^(živ.)" src="auto">NNMS1-----A----</AM>
 <AM lemma="Špaček;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Špaček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Špaček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-040-p1s3w27">

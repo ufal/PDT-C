@@ -1787,7 +1787,7 @@
 <LM>w#w-lnd92255-075-p5s4w2</LM>
 </w.rf>
 <form>Marxovu</form>
-<tag lemma="Marxův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Marxův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd92255-075-p5s4w3">
 <src.rf>manual</src.rf>
@@ -4171,7 +4171,7 @@
 <LM>w#w-lnd92255-075-p10s1w3</LM>
 </w.rf>
 <form>BULÍŘ</form>
-<tag lemma="Bulíř_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bulíř_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

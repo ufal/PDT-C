@@ -109,7 +109,7 @@
 <LM>w#w-ln94201-109-p2s1w9</LM>
 </w.rf>
 <form>Veis</form>
-<tag lemma="Veis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-109-p2s1w10">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln94201-109-p2s2w14</LM>
 </w.rf>
 <form>Danas</form>
-<tag lemma="Danas_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Danas_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-109-p2s2w15">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-ln94201-109-p3s1w6</LM>
 </w.rf>
 <form>Danasu</form>
-<tag lemma="Danas_;K" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Danas_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94201-109-p3s1w7">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 </w.rf>
 <form>New</form>
 <tag>
-<AM lemma="New_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="New_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="auto">AAXXX----1A----</AM>
 <AM lemma="new-2_,t_^(angl._nový)" src="auto">AAXXX----1A----</AM>
@@ -878,7 +878,7 @@
 </w.rf>
 <form>Republic</form>
 <tag>
-<AM lemma="Republic_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Republic_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="republic_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Republic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -921,8 +921,8 @@
 </w.rf>
 <form>York</form>
 <tag>
-<AM lemma="York-2_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="York-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="York-2_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="York-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
@@ -935,7 +935,7 @@
 </w.rf>
 <form>Review</form>
 <tag>
-<AM lemma="Review-1_;K_,t_^(souč._názvu_časopisů)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Review-1_;m_,t_^(souč._názvu_časopisů)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Review-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -957,7 +957,7 @@
 </w.rf>
 <form>Books</form>
 <tag>
-<AM lemma="Book_;R_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Book_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Books-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1613,7 +1613,7 @@
 <LM>w#w-ln94201-109-p5s2w13</LM>
 </w.rf>
 <form>Danas</form>
-<tag lemma="Danas_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Danas_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-109-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1889,7 +1889,7 @@
 <LM>w#w-ln94201-109-p5s4w1</LM>
 </w.rf>
 <form>Danas</form>
-<tag lemma="Danas_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Danas_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-109-p5s4w2">
 <src.rf>manual</src.rf>

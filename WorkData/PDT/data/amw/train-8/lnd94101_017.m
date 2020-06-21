@@ -120,13 +120,13 @@
 </w.rf>
 <form>hop</form>
 <tag>
-<AM lemma="hop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hop" src="auto">II-------------</AM>
 <AM lemma="hop-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="hop-2_^(hip_hop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hop-2_^(hip_hop)" src="auto">NNIS4-----A----</AM>
 <AM lemma="hopnout" src="auto">VpYS----R-AAP-6</AM>
-<AM lemma="hop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-017-p1s2w4">
@@ -589,7 +589,7 @@
 <LM>w#w-lnd94101-017-p1s5w23</LM>
 </w.rf>
 <form>Jonáková</form>
-<tag lemma="Jonáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jonáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-017-p1s5w24">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-lnd94101-017-p1s5w28</LM>
 </w.rf>
 <form>Discolandu</form>
-<tag lemma="Discoland_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Discoland_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-017-p1s5w29">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-017-p1s5w31">
@@ -664,7 +664,7 @@
 <LM>w#w-lnd94101-017-p1s5w32</LM>
 </w.rf>
 <form>Jonáka</form>
-<tag lemma="Jonák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jonák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-017-p1s5w33">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-lnd94101-017-p1s10w16</LM>
 </w.rf>
 <form>Jonáková</form>
-<tag lemma="Jonáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jonáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-017-p1s10w17">
 <src.rf>manual</src.rf>
@@ -1578,7 +1578,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="orig">C}-------------</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-017-p1s11w11">
@@ -1696,7 +1696,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-017-p1s12w7">
@@ -1714,7 +1714,7 @@
 <LM>w#w-lnd94101-017-p1s12w8</LM>
 </w.rf>
 <form>Malečka</form>
-<tag lemma="Maleček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maleček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-017-p1s12w9">
 <src.rf>manual</src.rf>

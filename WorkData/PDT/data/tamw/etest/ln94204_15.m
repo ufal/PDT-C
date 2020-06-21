@@ -138,9 +138,9 @@
 <tag>
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
 <AM lemma="Ema" src="auto">NNFP2-----A----</AM>
-<AM lemma="em-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
-<AM lemma="Em_;K" src="manual">NNNS1-----A----</AM>
+<AM lemma="Em_;m" src="manual">NNNS1-----A----</AM>
 <AM lemma="Em-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -150,7 +150,7 @@
 <LM>w#w-ln94204-15-p2s1Bw9</LM>
 </w.rf>
 <form>Arko</form>
-<tag lemma="Arko_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Arko_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-15-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln94204-15-p2s2w4</LM>
 </w.rf>
 <form>Šorm</form>
-<tag lemma="Šorm_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šorm_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-15-p2s2w5">
 <src.rf>manual</src.rf>
@@ -543,9 +543,9 @@
 <tag>
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
 <AM lemma="Ema" src="auto">NNFP2-----A----</AM>
-<AM lemma="em-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
-<AM lemma="Em_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Em_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-15-p3s2w2">
@@ -554,7 +554,7 @@
 <LM>w#w-ln94204-15-p3s2w2</LM>
 </w.rf>
 <form>Arko</form>
-<tag lemma="Arko_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Arko_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-15-p3s2w3">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-ln94204-15-p3s3w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94204-15-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-ln94204-15-p4s1w30</LM>
 </w.rf>
 <form>kešu</form>
-<tag lemma="kešu" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="kešu" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-15-p4s1w31">
 <src.rf>manual</src.rf>

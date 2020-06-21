@@ -83,7 +83,7 @@
 <LM>w#w-mf930703-127-p1s1w9</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-127-p2s1">
@@ -118,7 +118,7 @@
 </w.rf>
 <form>VERLAGSGRUPPE</form>
 <tag>
-<AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Verlagsgruppe_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="VERLAGSGRUPPE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -129,8 +129,8 @@
 </w.rf>
 <form>PASSAU</form>
 <tag>
-<AM lemma="Passau_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Passau_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Passau_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Passau_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="PASSAU-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -142,7 +142,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s1w7">
@@ -161,7 +161,7 @@
 <form>X</form>
 <tag>
 <AM lemma="X-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="X-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="X-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-127-p2s1w9">
@@ -180,7 +180,7 @@
 <LM>w#w-mf930703-127-p2s2w1</LM>
 </w.rf>
 <form>HIRTREITEREM</form>
-<tag lemma="Hirtreiter_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hirtreiter_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930703-127-p2s2w2">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 </w.rf>
 <form>Verlagsgruppe</form>
 <tag>
-<AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Verlagsgruppe_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Verlagsgruppe-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -240,8 +240,8 @@
 </w.rf>
 <form>Passau</form>
 <tag>
-<AM lemma="Passau_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Passau_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Passau_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Passau_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Passau-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3016,7 +3016,7 @@
 </w.rf>
 <form>AISA</form>
 <tag>
-<AM lemma="AISA_:B_;K_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AISA_:B_;m_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6476,7 +6476,7 @@
 <LM>w#w-mf930703-127-p2s62w13</LM>
 </w.rf>
 <form>Bělehrádka</form>
-<tag lemma="Bělehrádek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bělehrádek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-127-p2s62w14">
 <src.rf>manual</src.rf>
@@ -7114,7 +7114,7 @@
 <LM>w#w-mf930703-127-p2s69w7</LM>
 </w.rf>
 <form>Krankenhaupt</form>
-<tag lemma="Krankenhaupt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krankenhaupt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-127-p2s69w8">
 <src.rf>manual</src.rf>
@@ -7196,7 +7196,7 @@
 <LM>w#w-mf930703-127-p2s70w4</LM>
 </w.rf>
 <form>Staudinger</form>
-<tag lemma="Staudinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Staudinger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-127-p2s70w5">
 <src.rf>manual</src.rf>
@@ -7385,7 +7385,7 @@
 </w.rf>
 <form>Passauer</form>
 <tag>
-<AM lemma="Passauer_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Passauer_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Passauer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7396,7 +7396,7 @@
 </w.rf>
 <form>Verlagsgruppe</form>
 <tag>
-<AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Verlagsgruppe_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Verlagsgruppe-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8008,7 +8008,7 @@
 <LM>w#w-mf930703-127-p2s79w11</LM>
 </w.rf>
 <form>Košťál</form>
-<tag lemma="Košťál_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Košťál_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-127-p2s79w12">
 <src.rf>manual</src.rf>
@@ -9114,7 +9114,7 @@
 <LM>w#w-mf930703-127-p2s88w11</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930703-127-p2s88w12">
 <src.rf>manual</src.rf>

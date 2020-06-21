@@ -51,7 +51,7 @@
 <LM>w#w-lnd92256-040-p1s1w5</LM>
 </w.rf>
 <form>Mock</form>
-<tag lemma="Mock_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mock_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-040-p1s1w6">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-040-p1s1w10">
@@ -102,7 +102,7 @@
 <LM>w#w-lnd92256-040-p1s1w11</LM>
 </w.rf>
 <form>Mečiarem</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-040-p1s1w12">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -378,7 +378,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-040-p1s3w2">
@@ -395,7 +395,7 @@
 <LM>w#w-lnd92256-040-p1s3w3</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-040-p1s3w4">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-lnd92256-040-p1s3w17</LM>
 </w.rf>
 <form>Fischerem</form>
-<tag lemma="Fischer_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Fischer_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-040-p1s3w18">
 <src.rf>manual</src.rf>

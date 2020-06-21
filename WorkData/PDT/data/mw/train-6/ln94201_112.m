@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="Čchi_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Čchi-1_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Čchi-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Čchi-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p1s1w2">
@@ -52,7 +52,7 @@
 <form>š</form>
 <tag>
 <AM lemma="š'_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="š-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="š-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
@@ -801,7 +801,7 @@
 <LM>w#w-ln94201-112-p2s1w92</LM>
 </w.rf>
 <form>Hejzlar</form>
-<tag lemma="Hejzlar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hejzlar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-112-p2s1w93">
 <src.rf>manual</src.rf>
@@ -974,8 +974,8 @@
 <tag>
 <AM lemma="Čchi_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Čchi-1_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Čchi-2_;S" src="manual">NNMXX-----A----</AM>
-<AM lemma="Čchi-2_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Čchi-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Čchi-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p2s2w21">
@@ -1005,8 +1005,8 @@
 </w.rf>
 <form>š</form>
 <tag>
-<AM lemma="š'ův_;S_^(*2)" src="orig">AUNS2M---------</AM>
-<AM lemma="š-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="š'ův_;Y_^(*2)" src="orig">AUNS2M---------</AM>
+<AM lemma="š-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
@@ -1081,7 +1081,7 @@
 <LM>w#w-ln94201-112-p2s2w32</LM>
 </w.rf>
 <form>Jůzy</form>
-<tag lemma="Jůza_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jůza_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-112-p2s2w33">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln94201-112-p2s2w35</LM>
 </w.rf>
 <form>Jůzové</form>
-<tag lemma="Jůzová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Jůzová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-112-p2s2w36">
 <src.rf>manual</src.rf>

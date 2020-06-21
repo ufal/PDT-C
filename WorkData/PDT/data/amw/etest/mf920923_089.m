@@ -70,8 +70,8 @@
 </w.rf>
 <form>bar</form>
 <tag>
-<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-089-p2s1w5">
@@ -194,7 +194,7 @@
 <LM>w#w-mf920923-089-p2s2w13</LM>
 </w.rf>
 <form>TOURFILM</form>
-<tag lemma="Tourfilm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tourfilm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-089-p2s2w14">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-mf920923-089-p2s2w19</LM>
 </w.rf>
 <form>Pupp</form>
-<tag lemma="Pupp_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pupp_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-089-p2s2w20">
 <src.rf>manual</src.rf>

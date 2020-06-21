@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-090-p1s1w3</LM>
 </w.rf>
 <form>Gretzkym</form>
-<tag lemma="Gretzky_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gretzky_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-090-p2s1">
@@ -125,7 +125,7 @@
 <LM>w#w-mf920924-090-p2s1w11</LM>
 </w.rf>
 <form>Gretzky</form>
-<tag lemma="Gretzky_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gretzky_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-090-p2s1w12">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-mf920924-090-p2s3w24</LM>
 </w.rf>
 <form>Watkins</form>
-<tag lemma="Watkins_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Watkins_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-090-p2s3w25">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-mf920924-090-p2s3w26</LM>
 </w.rf>
 <form>Kerlanovy</form>
-<tag lemma="Kerlanův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Kerlanův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920924-090-p2s3w27">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-mf920924-090-p2s4w6</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920924-090-p2s4w7">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-mf920924-090-p2s5w10</LM>
 </w.rf>
 <form>Gretzkému</form>
-<tag lemma="Gretzký_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Gretzký_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920924-090-p2s5w11">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf920924-090-p2s6w1</LM>
 </w.rf>
 <form>Gretzky</form>
-<tag lemma="Gretzky_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gretzky_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-090-p2s6w2">
 <src.rf>manual</src.rf>

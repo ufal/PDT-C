@@ -113,7 +113,7 @@
 <LM>w#w-lnd92252-069-p3s2w5</LM>
 </w.rf>
 <form>Smith</form>
-<tag lemma="Smith_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smith_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-069-p3s2w6">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <form>Majora</form>
 <tag>
 <AM lemma="major" src="orig">NNMS4-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-069-p3s4w4">
@@ -679,7 +679,7 @@
 </w.rf>
 <form>Ashdown</form>
 <tag>
-<AM lemma="Ashdown-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ashdown-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ashdown_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ashdown_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -979,7 +979,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-069-p3s7w5">
@@ -996,7 +996,7 @@
 <LM>w#w-lnd92252-069-p3s7w6</LM>
 </w.rf>
 <form>Scargill</form>
-<tag lemma="Scargill_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scargill_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-069-p3s7w7">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-069-p3s8w5">
@@ -1132,7 +1132,7 @@
 <LM>w#w-lnd92252-069-p3s8w6</LM>
 </w.rf>
 <form>Skinner</form>
-<tag lemma="Skinner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skinner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-069-p3s8w7">
 <src.rf>manual</src.rf>

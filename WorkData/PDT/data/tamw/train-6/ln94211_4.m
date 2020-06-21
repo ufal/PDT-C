@@ -30,7 +30,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -49,7 +49,7 @@
 </w.rf>
 <form>ROM</form>
 <tag>
-<AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ROM_:B_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ROM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -198,7 +198,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -323,7 +323,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -342,7 +342,7 @@
 </w.rf>
 <form>ROM</form>
 <tag>
-<AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ROM_:B_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ROM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -363,7 +363,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -634,7 +634,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -719,7 +719,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1147,7 +1147,7 @@
 <LM>w#w-ln94211-4-p4s2w16</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="auto" selected="1">NNIPX-----A----</tag>
+<tag lemma="Windows" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-4-p4s2w17">
 <src.rf>manual</src.rf>

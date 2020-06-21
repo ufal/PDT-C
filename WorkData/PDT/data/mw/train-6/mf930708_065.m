@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-065-p1s1w2</LM>
 </w.rf>
 <form>Kravčenko</form>
-<tag lemma="Kravčenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kravčenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-065-p1s1w3">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-mf930708-065-p3s1w2</LM>
 </w.rf>
 <form>Kravčenko</form>
-<tag lemma="Kravčenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kravčenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-065-p3s1w3">
 <src.rf>manual</src.rf>
@@ -3210,7 +3210,7 @@
 <LM>w#w-mf930708-065-p5s1w2</LM>
 </w.rf>
 <form>BROULÍK</form>
-<tag lemma="Broulík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Broulík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-065-p6s1">

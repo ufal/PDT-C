@@ -232,7 +232,7 @@
 <LM>w#w-lnd92253-041-p2s1w25</LM>
 </w.rf>
 <form>Vysokých</form>
-<tag lemma="Vysoký-1_;K" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="Vysoký-1_;m" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-lnd92253-041-p2s1w26">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-lnd92253-041-p2s3w2</LM>
 </w.rf>
 <form>Kolodějích</form>
-<tag lemma="Koloděje_;G_;S" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="Koloděje_;G_;Y" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-lnd92253-041-p2s3w3">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-lnd92253-041-p2s4w27</LM>
 </w.rf>
 <form>Stachanov</form>
-<tag lemma="Stachanov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stachanov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-041-p2s4w28">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-041-p2s5w5">
@@ -881,7 +881,7 @@
 <LM>w#w-lnd92253-041-p2s5w6</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-041-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-041-p2s5w24">
@@ -1036,7 +1036,7 @@
 <LM>w#w-lnd92253-041-p2s5w25</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-041-p2s5w26">
 <src.rf>manual</src.rf>
@@ -2297,7 +2297,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2317,7 +2317,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-041-p3s3w9">
@@ -2334,7 +2334,7 @@
 <LM>w#w-lnd92253-041-p3s3w10</LM>
 </w.rf>
 <form>Majorem</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92253-041-p3s3w11">
 <src.rf>manual</src.rf>
@@ -2904,12 +2904,12 @@
 </w.rf>
 <form>KRASNICKÝ</form>
 <tag>
-<AM lemma="Krasnický_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Krasnický_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Krasnický_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Krasnický_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Krasnický_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Krasnický_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Krasnický_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Krasnický_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Krasnický_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Krasnický_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Krasnický_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krasnický_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="krasnický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="krasnický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="krasnický" src="auto">AAFP5----1A---6</AM>
@@ -2951,7 +2951,7 @@
 <LM>w#w-lnd92253-041-p6s1w2</LM>
 </w.rf>
 <form>ŠMÍDOVÁ</form>
-<tag lemma="Šmídová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šmídová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -60,7 +60,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -528,8 +528,8 @@
 </w.rf>
 <form>EHF</form>
 <tag>
-<AM lemma="EHF-3_:B_;K_^(Evropská_házenkářská_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EHF-1_:B_;K_^(Evropská_hokejová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EHF-3_:B_;m_^(Evropská_házenkářská_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EHF-1_:B_;m_^(Evropská_hokejová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EHF-2_:B_,t_^(extremly_high_frequency)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -548,7 +548,7 @@
 <LM>w#w-lnd92255-129-p3s3w13</LM>
 </w.rf>
 <form>Holmqistovi</form>
-<tag lemma="Holmqist_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Holmqist_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92255-129-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1441,7 +1441,7 @@
 <LM>w#w-lnd92255-129-p4s4w29</LM>
 </w.rf>
 <form>Gross</form>
-<tag lemma="Gross_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gross_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-129-p4s4w30">
 <src.rf>manual</src.rf>
@@ -1827,7 +1827,7 @@
 <LM>w#w-lnd92255-129-p4s5w47</LM>
 </w.rf>
 <form>Gattermayer</form>
-<tag lemma="Gattermayer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gattermayer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-129-p4s5w48">
 <src.rf>manual</src.rf>
@@ -2350,7 +2350,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2619,7 +2619,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -3342,7 +3342,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-129-p5s5w37">
@@ -3359,7 +3359,7 @@
 <LM>w#w-lnd92255-129-p5s5w38</LM>
 </w.rf>
 <form>Gattermyer</form>
-<tag lemma="Gattermyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gattermyer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-129-p5s5w39">
 <src.rf>manual</src.rf>
@@ -3537,7 +3537,7 @@
 <LM>w#w-lnd92255-129-p5s6w21</LM>
 </w.rf>
 <form>Šafra</form>
-<tag lemma="Šafr_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šafr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-129-p5s6w22">
 <src.rf>manual</src.rf>
@@ -3561,7 +3561,7 @@
 <LM>w#w-lnd92255-129-p5s6w24</LM>
 </w.rf>
 <form>Lišky</form>
-<tag lemma="Liška_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Liška_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-129-p5s6w25">
 <src.rf>manual</src.rf>
@@ -3915,7 +3915,7 @@
 <AM lemma="ad_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ad_,t" src="auto" recommended="1">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-129-p6s1w3">

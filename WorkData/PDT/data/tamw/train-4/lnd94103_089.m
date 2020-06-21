@@ -70,7 +70,7 @@
 </w.rf>
 <form>Mike</form>
 <tag>
-<AM lemma="Mike_;Y_,t" src="orig">NNMSX-----A----</AM>
+<AM lemma="Mike_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Mike_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -598,7 +598,7 @@
 </w.rf>
 <form>Mike</form>
 <tag>
-<AM lemma="Mike_;Y_,t" src="orig">NNMSX-----A----</AM>
+<AM lemma="Mike_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Mike_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -652,7 +652,7 @@
 </w.rf>
 <form>Santiagův</form>
 <tag>
-<AM lemma="Santiagův_;S_^(*2o)" src="orig">AUIS4M---------</AM>
+<AM lemma="Santiagův_;Y_^(*2o)" src="orig">AUIS4M---------</AM>
 <AM lemma="Santiagův_;Y_^(*2o)" src="manual" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
@@ -763,7 +763,7 @@
 </w.rf>
 <form>Mike</form>
 <tag>
-<AM lemma="Mike_;Y_,t" src="orig">NNMSX-----A----</AM>
+<AM lemma="Mike_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Mike_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1074,7 +1074,7 @@
 </w.rf>
 <form>Mike</form>
 <tag>
-<AM lemma="Mike_;Y_,t" src="orig">NNMSX-----A----</AM>
+<AM lemma="Mike_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Mike_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1291,7 +1291,7 @@
 <form>Neumann</form>
 <tag>
 <AM lemma="Neumann_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neumann_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Neumann_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1327,7 +1327,7 @@
 </w.rf>
 <form>Santiágův</form>
 <tag>
-<AM lemma="Santiágův_;S_^(*2o)" src="orig">AUIS4M---------</AM>
+<AM lemma="Santiágův_;Y_^(*2o)" src="orig">AUIS4M---------</AM>
 <AM lemma="Santiágův_;Y_^(*2o)" src="manual" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
@@ -1805,7 +1805,7 @@
 <LM>w#w-lnd94103-089-p1s15w1</LM>
 </w.rf>
 <form>Pellova</form>
-<tag lemma="Pellův_;S_^(*2e)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Pellův_;Y_^(*2e)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd94103-089-p1s15w2">
 <src.rf>manual</src.rf>
@@ -1841,7 +1841,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -3116,7 +3116,7 @@
 </w.rf>
 <form>HBO</form>
 <tag>
-<AM lemma="HBO_:B_;K_^(film._kanál)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HBO_:B_;m_^(film._kanál)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HBO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3134,7 +3134,7 @@
 <LM>w#w-lnd94103-089-p1s19w26</LM>
 </w.rf>
 <form>Cinemax</form>
-<tag lemma="Cinemax_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Cinemax_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-089-p1s19w27">
 <src.rf>manual</src.rf>
@@ -4287,7 +4287,7 @@
 <LM>w#w-lnd94103-089-p1s25w3</LM>
 </w.rf>
 <form>Pickle</form>
-<tag lemma="Pickle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pickle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-089-p1s25w4">
 <src.rf>manual</src.rf>
@@ -4335,7 +4335,7 @@
 <LM>w#w-lnd94103-089-p1s25w9</LM>
 </w.rf>
 <form>Clintonovu</form>
-<tag lemma="Clintonův_;S_^(*2)" src="orig" selected="1">AUIS3M---------</tag>
+<tag lemma="Clintonův_;Y_^(*2)" src="orig" selected="1">AUIS3M---------</tag>
 </m>
 <m id="m-lnd94103-089-p1s25w10">
 <src.rf>manual</src.rf>
@@ -4431,7 +4431,7 @@
 <LM>w#w-lnd94103-089-p1s25w21</LM>
 </w.rf>
 <form>Pellovy</form>
-<tag lemma="Pellův_;S_^(*2e)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Pellův_;Y_^(*2e)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94103-089-p1s25w22">
 <src.rf>manual</src.rf>

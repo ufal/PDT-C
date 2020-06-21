@@ -2539,7 +2539,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3237,7 +3237,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3684,7 +3684,7 @@
 <LM>w#w-cmpr9406-010-p28s1w2</LM>
 </w.rf>
 <form>Moravec</form>
-<tag lemma="Moravec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-010-p28s1w3">
 <src.rf>manual</src.rf>
@@ -3709,7 +3709,7 @@
 </w.rf>
 <form>ČZPI</form>
 <tag>
-<AM lemma="ČZPI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČZPI_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

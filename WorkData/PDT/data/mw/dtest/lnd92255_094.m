@@ -198,7 +198,7 @@
 <LM>w#w-lnd92255-094-p1s1w23</LM>
 </w.rf>
 <form>Procházky</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-094-p1s1w24">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-lnd92255-094-p1s2w7</LM>
 </w.rf>
 <form>Procházkových</form>
-<tag lemma="Procházkův_;S_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Procházkův_;Y_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-lnd92255-094-p1s2w8">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-lnd92255-094-p1s2w28</LM>
 </w.rf>
 <form>Černý</form>
-<tag lemma="Černý_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černý_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-094-p1s2w29">
 <src.rf>manual</src.rf>
@@ -866,8 +866,8 @@
 </w.rf>
 <form>Visser</form>
 <tag>
-<AM lemma="Visser_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Visser_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Visser_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Visser_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-094-p1s4w27">
@@ -884,7 +884,7 @@
 <LM>w#w-lnd92255-094-p1s4w28</LM>
 </w.rf>
 <form>Henka</form>
-<tag lemma="Henk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Henk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-094-p1s4w29">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-lnd92255-094-p1s4w29</LM>
 </w.rf>
 <form>Vische</form>
-<tag lemma="Visch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Visch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-094-p1s4w30">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -955,7 +955,7 @@
 <LM>w#w-lnd92255-094-p3s1w3</LM>
 </w.rf>
 <form>Merta</form>
-<tag lemma="Merta-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merta-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-094-p3s1w4">
 <src.rf>manual</src.rf>
@@ -972,8 +972,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

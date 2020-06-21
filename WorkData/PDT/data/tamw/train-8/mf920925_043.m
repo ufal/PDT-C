@@ -393,7 +393,7 @@
 <LM>w#w-mf920925-043-p2s3w5</LM>
 </w.rf>
 <form>Dürr</form>
-<tag lemma="Dürr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dürr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-043-p2s3w6">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-mf920925-043-p2s4w12</LM>
 </w.rf>
 <form>Dürr</form>
-<tag lemma="Dürr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dürr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-043-p2s4w13">
 <src.rf>manual</src.rf>

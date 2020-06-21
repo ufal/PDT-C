@@ -4010,7 +4010,7 @@
 <LM>w#w-lnd92258-081-p10s1w2</LM>
 </w.rf>
 <form>ŠESTÁKOVÁ</form>
-<tag lemma="Šestáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šestáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-081-p11s1">

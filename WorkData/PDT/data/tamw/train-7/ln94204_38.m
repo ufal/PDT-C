@@ -86,9 +86,9 @@
 </w.rf>
 <form>pet</form>
 <tag>
-<AM lemma="pet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="pet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-38-p2s1Aw4">
@@ -323,8 +323,8 @@
 <form>Lausmann</form>
 <tag>
 <AM lemma="Lausmann_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Lausmann_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lausmann-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Lausmann_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lausmann-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-38-p2s1Bw27">
@@ -487,7 +487,7 @@
 <LM>w#w-ln94204-38-p2s2w19</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-38-p2s2w20">
 <src.rf>manual</src.rf>

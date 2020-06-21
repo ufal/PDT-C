@@ -70,7 +70,7 @@
 </w.rf>
 <form>Profitu</form>
 <tag>
-<AM lemma="Profit_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Profit_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="profit" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="profit" src="auto">NNIS3-----A----</AM>
 <AM lemma="profit" src="auto">NNIS6-----A----</AM>
@@ -174,7 +174,7 @@
 </w.rf>
 <form>Profit</form>
 <tag>
-<AM lemma="Profit_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Profit_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="profit" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="profit" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -420,7 +420,7 @@
 </w.rf>
 <form>Roadster</form>
 <tag>
-<AM lemma="Roadster_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Roadster_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="roadster" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="roadster" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -448,7 +448,7 @@
 </w.rf>
 <form>ČZ</form>
 <tag>
-<AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="ČZ_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
 <AM lemma="ČZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -458,7 +458,7 @@
 <LM>w#w-cmpr9415-052-p4s2w11</LM>
 </w.rf>
 <form>Cagiva</form>
-<tag lemma="Cagiva_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cagiva_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-052-p4s2w12">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 </w.rf>
 <form>Profitu</form>
 <tag>
-<AM lemma="Profit_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Profit_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="profit" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="profit" src="auto">NNIS3-----A----</AM>
 <AM lemma="profit" src="auto">NNIS6-----A----</AM>
@@ -1285,7 +1285,7 @@
 </w.rf>
 <form>Profitem</form>
 <tag>
-<AM lemma="Profit_;K" src="orig">NNIS7-----A----</AM>
+<AM lemma="Profit_;m" src="orig">NNIS7-----A----</AM>
 <AM lemma="profit" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>

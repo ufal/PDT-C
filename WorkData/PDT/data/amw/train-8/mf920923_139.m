@@ -307,7 +307,7 @@
 <LM>w#w-mf920923-139-p4s3w3</LM>
 </w.rf>
 <form>Chasbulatov</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-139-p4s3w4">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf920923-139-p4s4w4</LM>
 </w.rf>
 <form>Chasbulatov</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-139-p4s4w5">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-mf920923-139-p4s4w7</LM>
 </w.rf>
 <form>Gajdarovu</form>
-<tag lemma="Gajdarův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Gajdarův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf920923-139-p4s4w8">
 <src.rf>manual</src.rf>

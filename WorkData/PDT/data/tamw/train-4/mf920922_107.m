@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-107-p1s1w2</LM>
 </w.rf>
 <form>KANTOR</form>
-<tag lemma="Kantor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kantor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-107-p1s1w3">
 <src.rf>manual</src.rf>

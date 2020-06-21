@@ -675,7 +675,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-012-p3s1w2">
@@ -694,7 +694,7 @@
 <form>Ch</form>
 <tag>
 <AM lemma="Ch-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ch-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ch-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-012-p3s1w4">
@@ -713,7 +713,7 @@
 <LM>w#w-vesm9301-012-p3s2w1</LM>
 </w.rf>
 <form>LICHTENBERG</form>
-<tag lemma="Lichtenberg_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lichtenberg_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-012-p3s2w2">
 <src.rf>manual</src.rf>

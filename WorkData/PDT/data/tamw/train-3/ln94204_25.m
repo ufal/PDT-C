@@ -128,7 +128,7 @@
 <LM>w#w-ln94204-25-p2s1Aw9</LM>
 </w.rf>
 <form>favorit</form>
-<tag lemma="favorit-1_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="favorit-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-25-p2s1B">
@@ -292,7 +292,7 @@
 <LM>w#w-ln94204-25-p2s1Cw17</LM>
 </w.rf>
 <form>Šustka</form>
-<tag lemma="Šustek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šustek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-25-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -615,7 +615,7 @@
 <LM>w#w-ln94204-25-p3s1w35</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-25-p3s1w36">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln94204-25-p4s1w17</LM>
 </w.rf>
 <form>Šustkových</form>
-<tag lemma="Šustkův_;S_^(*3ek)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Šustkův_;Y_^(*3ek)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln94204-25-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-25-p4s2w30">
@@ -1187,7 +1187,7 @@
 <LM>w#w-ln94204-25-p4s2w31</LM>
 </w.rf>
 <form>Šustek</form>
-<tag lemma="Šustek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šustek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-25-p4s2w32">
 <src.rf>manual</src.rf>
@@ -1455,7 +1455,7 @@
 <LM>w#w-ln94204-25-p5s2w13</LM>
 </w.rf>
 <form>Rios</form>
-<tag lemma="Rios_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rios_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-25-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1683,7 +1683,7 @@
 <LM>w#w-ln94204-25-p6s2w3</LM>
 </w.rf>
 <form>Šustka</form>
-<tag lemma="Šustek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šustek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-25-p6s2w4">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 <LM>w#w-ln94204-25-p7s2w11</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-25-p7s2w12">
 <src.rf>manual</src.rf>

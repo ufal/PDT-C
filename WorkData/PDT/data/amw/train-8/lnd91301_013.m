@@ -51,7 +51,7 @@
 <LM>w#w-lnd91301-013-p1s1w5</LM>
 </w.rf>
 <form>Husajna</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91301-013-p3s1">
@@ -143,7 +143,7 @@
 <LM>w#w-lnd91301-013-p4s1w9</LM>
 </w.rf>
 <form>Husajna</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s1w10">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-lnd91301-013-p4s2w5</LM>
 </w.rf>
 <form>Muhammad</form>
-<tag lemma="Muhammad_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Muhammad_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s2w6">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-lnd91301-013-p4s2w6</LM>
 </w.rf>
 <form>Bakr</form>
-<tag lemma="Bakr_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bakr_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s2w7">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <form>Hakím</form>
 <tag>
 <AM lemma="Hakím_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hakím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hakím_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-013-p4s2w8">
@@ -280,7 +280,7 @@
 </w.rf>
 <form>Achbár</form>
 <tag>
-<AM lemma="Achbár_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Achbár_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Achbár-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -374,7 +374,7 @@
 <form>Hakím</form>
 <tag>
 <AM lemma="Hakím_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hakím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hakím_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-013-p4s3w2">
@@ -788,7 +788,7 @@
 <LM>w#w-lnd91301-013-p4s4w31</LM>
 </w.rf>
 <form>Husajna</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s4w32">
 <src.rf>manual</src.rf>

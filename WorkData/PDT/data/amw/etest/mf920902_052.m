@@ -69,7 +69,7 @@
 <LM>w#w-mf920902-052-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="nak-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920902-052-p2s1w4">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-mf920902-052-p2s5w5</LM>
 </w.rf>
 <form>Mazura</form>
-<tag lemma="Mazura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mazura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-052-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-mf920902-052-p2s6w29</LM>
 </w.rf>
 <form>Mazura</form>
-<tag lemma="Mazura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mazura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-052-p2s6w30">
 <src.rf>manual</src.rf>

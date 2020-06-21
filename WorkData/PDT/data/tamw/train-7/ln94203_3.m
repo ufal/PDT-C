@@ -85,7 +85,7 @@
 <LM>w#w-ln94203-3-p2s1w4</LM>
 </w.rf>
 <form>Condoma</form>
-<tag lemma="Condom_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Condom_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-3-p2s1w5">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-ln94203-3-p2s2w7</LM>
 </w.rf>
 <form>Femidom</form>
-<tag lemma="Femidom_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Femidom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-3-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1079,7 +1079,7 @@
 <LM>w#w-ln94203-3-p4s2w13</LM>
 </w.rf>
 <form>Uzel</form>
-<tag lemma="Uzel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uzel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-3-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-3-p5s1w20">
@@ -1494,7 +1494,7 @@
 <LM>w#w-ln94203-3-p5s1w21</LM>
 </w.rf>
 <form>Uzel</form>
-<tag lemma="Uzel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uzel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-3-p5s1w22">
 <src.rf>manual</src.rf>
@@ -2114,8 +2114,8 @@
 </w.rf>
 <form>bo</form>
 <tag>
-<AM lemma="bo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bo-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bo-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bo-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-3-p5s9w3">

@@ -94,8 +94,8 @@
 </w.rf>
 <form>mrk</form>
 <tag>
-<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-51-p2s1Aw4">
@@ -162,7 +162,7 @@
 <LM>w#w-ln94210-51-p2s1Bw6</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-51-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -196,7 +196,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-51-p2s1Bw11">
@@ -213,7 +213,7 @@
 <LM>w#w-ln94210-51-p2s1Bw12</LM>
 </w.rf>
 <form>Kolodkem</form>
-<tag lemma="Kolodko_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kolodko_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-51-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -619,7 +619,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MF-2_:B_;m_^(min._financí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1149,7 +1149,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MF-2_:B_;m_^(min._financí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

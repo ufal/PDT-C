@@ -35,7 +35,7 @@
 <LM>w#w-lnd94101-028-p1s1Aw3</LM>
 </w.rf>
 <form>Haškem</form>
-<tag lemma="Hašek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hašek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94101-028-p1s1B">
@@ -125,7 +125,7 @@
 <LM>w#w-lnd94101-028-p1s1Bw11</LM>
 </w.rf>
 <form>Haška</form>
-<tag lemma="Hašek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hašek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-028-p1s1Bw12">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-lnd94101-028-p1s2w16</LM>
 </w.rf>
 <form>Švejka</form>
-<tag lemma="Švejk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Švejk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-028-p1s2w17">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-lnd94101-028-p1s2w23</LM>
 </w.rf>
 <form>Staropramenem</form>
-<tag lemma="Staropramen_;R" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Staropramen_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd94101-028-p1s2w24">
 <src.rf>manual</src.rf>
@@ -662,8 +662,8 @@
 </w.rf>
 <form>še</form>
 <tag>
-<AM lemma="še-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="še-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="še-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="še-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-028-p1s5w3">

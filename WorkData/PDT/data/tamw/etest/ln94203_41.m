@@ -428,7 +428,7 @@
 <LM>w#w-ln94203-41-p2s2w4</LM>
 </w.rf>
 <form>Michálková</form>
-<tag lemma="Michálková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Michálková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-41-p2s2w5">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln94203-41-p3s1w1</LM>
 </w.rf>
 <form>Michálková</form>
-<tag lemma="Michálková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Michálková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-41-p3s1w2">
 <src.rf>manual</src.rf>

@@ -181,7 +181,7 @@
 <LM>w#w-lnd94105-083-p1s3w6</LM>
 </w.rf>
 <form>Stanleyově</form>
-<tag lemma="Stanleyův_;S_^(*2)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Stanleyův_;Y_^(*2)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd94105-083-p1s3w7">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -321,7 +321,7 @@
 </w.rf>
 <form>Islanders</form>
 <tag>
-<AM lemma="Islanders_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="Islanders_;m" src="auto">NNXXX-----A----</AM>
 <AM lemma="Islanders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -643,7 +643,7 @@
 <LM>w#w-lnd94105-083-p1s5w24</LM>
 </w.rf>
 <form>Tikkanen</form>
-<tag lemma="Tikkanen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tikkanen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-083-p1s5w25">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-lnd94105-083-p1s6w10</LM>
 </w.rf>
 <form>Graves</form>
-<tag lemma="Graves_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Graves_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-083-p1s6w11">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-lnd94105-083-p1s6w12</LM>
 </w.rf>
 <form>Matteau</form>
-<tag lemma="Matteau_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matteau_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-083-p1s6w13">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 </w.rf>
 <form>Rutherfordu</form>
 <tag>
-<AM lemma="Rutherford-1_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Rutherford-1_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Rutherford-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -969,8 +969,8 @@
 </w.rf>
 <form>Bruins</form>
 <tag>
-<AM lemma="Bruin_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Bruins_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Bruin_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Bruins_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Bruins-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1161,7 +1161,7 @@
 <LM>w#w-lnd94105-083-p1s9w15</LM>
 </w.rf>
 <form>Holík</form>
-<tag lemma="Holík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-083-p1s9w16">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 </w.rf>
 <form>Driver</form>
 <tag>
-<AM lemma="Driver_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Driver_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="driver" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="driver" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1402,7 +1402,7 @@
 <LM>w#w-lnd94105-083-p1s10w20</LM>
 </w.rf>
 <form>Sweeney</form>
-<tag lemma="Sweeney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sweeney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-083-p1s10w21">
 <src.rf>manual</src.rf>

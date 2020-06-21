@@ -35,7 +35,7 @@
 <LM>w#w-ln95042-051-p1s1w3</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-051-p1s1w4">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95042-051-p2s1Bw14</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-051-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <form>Bekmurzu</form>
 <tag>
 <AM lemma="Bekmurza_;Y" src="orig" selected="1">NNMS4-----A----</AM>
-<AM lemma="Bekmurza_;S_;Y" src="manual">NNMS4-----A----</AM>
+<AM lemma="Bekmurza_;Y" src="manual">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-051-p2s1Bw16">
@@ -269,8 +269,8 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ITAR_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -289,10 +289,10 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="TASS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Tass_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tass_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="TASS_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Tass_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Tass_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -390,7 +390,7 @@
 <LM>w#w-ln95042-051-p2s2w22</LM>
 </w.rf>
 <form>Chasbulatova</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-051-p2s2w23">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-ln95042-051-p3s1w3</LM>
 </w.rf>
 <form>Dudajev</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-051-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1179,7 +1179,7 @@
 <LM>w#w-ln95042-051-p4s2w9</LM>
 </w.rf>
 <form>Maschadov</form>
-<tag lemma="Maschadov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maschadov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-051-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1431,7 +1431,7 @@
 <LM>w#w-ln95042-051-p5s2w17</LM>
 </w.rf>
 <form>Maschadov</form>
-<tag lemma="Maschadov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maschadov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-051-p5s2w18">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <LM>w#w-ln95042-051-p5s2w29</LM>
 </w.rf>
 <form>Kulikovem</form>
-<tag lemma="Kulikov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kulikov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95042-051-p5s2w30">
 <src.rf>manual</src.rf>
@@ -1828,8 +1828,8 @@
 </w.rf>
 <form>Šamil</form>
 <tag>
-<AM lemma="Šamil_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šamil_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šamil_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Šamil_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-051-p6s2w8">
@@ -1838,7 +1838,7 @@
 <LM>w#w-ln95042-051-p6s2w8</LM>
 </w.rf>
 <form>Basajev</form>
-<tag lemma="Basajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-051-p6s2w9">
 <src.rf>manual</src.rf>

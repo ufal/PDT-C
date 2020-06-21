@@ -104,7 +104,7 @@
 </w.rf>
 <form>ICF</form>
 <tag>
-<AM lemma="ICF-3_:B_;K_,t_^(International_Canoe_Federation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ICF-3_:B_;m_,t_^(International_Canoe_Federation)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ICF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -342,7 +342,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd92259-092-p2s4w26</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-092-p2s4w27">
 <src.rf>manual</src.rf>

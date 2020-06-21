@@ -192,8 +192,8 @@
 </w.rf>
 <form>Vaškovi</form>
 <tag>
-<AM lemma="Vašek_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Vašek_;Y_;S" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Vašek_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Vašek_;Y" src="manual" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-081-p1s2w5">
@@ -997,8 +997,8 @@
 </w.rf>
 <form>Vašek</form>
 <tag>
-<AM lemma="Vašek_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vašek_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vašek_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Vašek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-081-p1s9w5">
@@ -1675,7 +1675,7 @@
 <LM>w#w-lnd94104-081-p1s11w10</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-081-p1s11w11">
 <src.rf>manual</src.rf>
@@ -1995,7 +1995,7 @@
 <LM>w#w-lnd94104-081-p1s12w5</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-081-p1s12w6">
 <src.rf>manual</src.rf>
@@ -2932,7 +2932,7 @@
 <LM>w#w-lnd94104-081-p1s15w5</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-081-p1s15w6">
 <src.rf>manual</src.rf>
@@ -4817,7 +4817,7 @@
 <LM>w#w-lnd94104-081-p1s26w2</LM>
 </w.rf>
 <form>Srnec</form>
-<tag lemma="Srnec-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Srnec-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-081-p1s26w3">
 <src.rf>manual</src.rf>

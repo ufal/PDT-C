@@ -154,7 +154,7 @@
 <LM>w#w-ln94200-39-p2s1Bw2</LM>
 </w.rf>
 <form>Achremenko</form>
-<tag lemma="Achremenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Achremenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-39-p2s1C">
@@ -1139,7 +1139,7 @@
 </w.rf>
 <form>IF</form>
 <tag>
-<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF_:B_;m_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1320,7 +1320,7 @@
 <form>Creditanstalt</form>
 <tag>
 <AM lemma="Creditanstalt_;Y" src="orig">NNIS4-----A----</AM>
-<AM lemma="Creditanstalt_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Creditanstalt_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-39-p5s2w15">
@@ -1330,7 +1330,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1672,7 +1672,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1797,7 +1797,7 @@
 </w.rf>
 <form>IF</form>
 <tag>
-<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF_:B_;m_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1816,7 +1816,7 @@
 </w.rf>
 <form>HIF</form>
 <tag>
-<AM lemma="HIF-2_:B_;K_^(Harvardský_investiční_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIF-2_:B_;m_^(Harvardský_investiční_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIF_:B_^(kurs)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="HIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1999,7 +1999,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

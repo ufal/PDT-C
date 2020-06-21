@@ -102,7 +102,7 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

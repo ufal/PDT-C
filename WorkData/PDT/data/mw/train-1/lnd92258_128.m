@@ -27,7 +27,7 @@
 <LM>w#w-lnd92258-128-p1s1w2</LM>
 </w.rf>
 <form>Superliga</form>
-<tag lemma="Superliga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Superliga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-128-p2s1">
@@ -451,7 +451,7 @@
 </w.rf>
 <form>Donaukraft</form>
 <tag>
-<AM lemma="Donaukraft_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Donaukraft_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Donaukraft_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Donaukraft_;Y" src="auto">NNIS4-----A----</AM>
 <AM lemma="Donaukraft_;G" src="manual" selected="1">NNIS1-----A----</AM>
@@ -981,7 +981,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p15s1w4">
@@ -1126,7 +1126,7 @@
 <LM>w#w-lnd92258-128-p15s1w21</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92258-128-p15s1w22">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 </w.rf>
 <form>KPS</form>
 <tag>
-<AM lemma="KPS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KPS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1472,7 +1472,7 @@
 <LM>w#w-lnd92258-128-p20s2w1</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="auto" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92258-128-p20s2w2">
 <src.rf>manual</src.rf>
@@ -1681,7 +1681,7 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-3_:B_;m_^(Univerzita_Komenského_Bratislava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1745,7 +1745,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p25s2w2">

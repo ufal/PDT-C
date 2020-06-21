@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-014-p1s1w1</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p1s1w2">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf920923-014-p2s1w9</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p2s1w10">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf920923-014-p2s4w1</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p2s4w2">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-mf920923-014-p2s4w15</LM>
 </w.rf>
 <form>Compar</form>
-<tag lemma="Compar_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Compar_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920923-014-p2s4w16">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-mf920923-014-p2s4w20</LM>
 </w.rf>
 <form>Intercam</form>
-<tag lemma="Intercam_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Intercam_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p2s4w21">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf920923-014-p2s5w2</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-014-p2s5w3">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-mf920923-014-p2s6w5</LM>
 </w.rf>
 <form>Bati</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-014-p2s6w6">
 <src.rf>manual</src.rf>

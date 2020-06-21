@@ -70,8 +70,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-088-p2s1w5">
@@ -846,7 +846,7 @@
 <LM>w#w-mf920925-088-p2s8w11</LM>
 </w.rf>
 <form>Prospecta</form>
-<tag lemma="Prospecta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Prospecta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-088-p2s8w12">
 <src.rf>manual</src.rf>
@@ -911,9 +911,9 @@
 </w.rf>
 <form>BIMBO</form>
 <tag>
-<AM lemma="BIMBO_;R" src="orig">NNNS1-----A----</AM>
-<AM lemma="Bimbo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bimbo_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="BIMBO_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="Bimbo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bimbo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="BIMBO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1045,7 +1045,7 @@
 <LM>w#w-mf920925-088-p2s9w6</LM>
 </w.rf>
 <form>Technolen</form>
-<tag lemma="Technolen_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Technolen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-088-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1171,7 +1171,7 @@
 <LM>w#w-mf920925-088-p2s9w21</LM>
 </w.rf>
 <form>Mykana</form>
-<tag lemma="Mykana_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mykana_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-088-p2s9w22">
 <src.rf>manual</src.rf>

@@ -80,8 +80,8 @@
 </w.rf>
 <form>Bradley</form>
 <tag>
-<AM lemma="Bradley_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bradley_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bradley_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bradley_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-083-p1s3w4">
@@ -90,7 +90,7 @@
 <LM>w#w-lnd94101-083-p1s3w4</LM>
 </w.rf>
 <form>Stone</form>
-<tag lemma="Stone_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stone_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-083-p1s3w5">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-lnd94101-083-p1s4w2</LM>
 </w.rf>
 <form>Stone</form>
-<tag lemma="Stone_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stone_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-083-p1s4w3">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-lnd94101-083-p1s4w18</LM>
 </w.rf>
 <form>Wentona</form>
-<tag lemma="Wenton_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wenton_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-083-p1s4w19">
 <src.rf>manual</src.rf>

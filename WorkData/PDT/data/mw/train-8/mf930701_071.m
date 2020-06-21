@@ -211,7 +211,7 @@
 <LM>w#w-mf930701-071-p1s1w25</LM>
 </w.rf>
 <form>Holušové</form>
-<tag lemma="Holušová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Holušová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-071-p1s1w26">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-mf930701-071-p1s7w17</LM>
 </w.rf>
 <form>Basikové</form>
-<tag lemma="Basiková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Basiková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-071-p1s7w18">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-mf930701-071-p1s7w20</LM>
 </w.rf>
 <form>Němcem</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930701-071-p1s7w21">
 <src.rf>manual</src.rf>
@@ -1153,7 +1153,7 @@
 <LM>w#w-mf930701-071-p1s7w23</LM>
 </w.rf>
 <form>Nedomou</form>
-<tag lemma="Nedoma_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Nedoma_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930701-071-p1s7w24">
 <src.rf>manual</src.rf>

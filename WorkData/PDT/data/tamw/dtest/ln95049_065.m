@@ -27,7 +27,7 @@
 <LM>w#w-ln95049-065-p1s1w2</LM>
 </w.rf>
 <form>Thompsonová</form>
-<tag lemma="Thompsonová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Thompsonová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-065-p1s1w3">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-ln95049-065-p1s1w5</LM>
 </w.rf>
 <form>Schwarzenegger</form>
-<tag lemma="Schwarzenegger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schwarzenegger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-065-p1s1w6">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-ln95049-065-p1s1w11</LM>
 </w.rf>
 <form>Reitmanově</form>
-<tag lemma="Reitmanův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Reitmanův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln95049-065-p1s1w12">
 <src.rf>manual</src.rf>

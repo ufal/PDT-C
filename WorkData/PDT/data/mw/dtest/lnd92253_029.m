@@ -62,8 +62,8 @@
 </w.rf>
 <form>dos</form>
 <tag>
-<AM lemma="dos-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dos-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dos-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dos-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-029-p2s1w4">
@@ -139,7 +139,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -570,7 +570,7 @@
 <LM>w#w-lnd92253-029-p2s4w29</LM>
 </w.rf>
 <form>únie</form>
-<tag lemma="únia_;K_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="únia_;m_,t" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-029-p2s4w30">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 </w.rf>
 <form>ODÚ</form>
 <tag>
-<AM lemma="ODÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ODÚ_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ODÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -609,7 +609,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-029-p2s5w4">
@@ -626,7 +626,7 @@
 <LM>w#w-lnd92253-029-p2s5w5</LM>
 </w.rf>
 <form>Mikloš</form>
-<tag lemma="Mikloš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-029-p2s5w6">
 <src.rf>manual</src.rf>

@@ -101,7 +101,7 @@
 <LM>w#w-mf920901-101-p1s2w3</LM>
 </w.rf>
 <form>COLLORA</form>
-<tag lemma="Collor_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Collor_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-101-p1s2w4">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-mf920901-101-p1s2w11</LM>
 </w.rf>
 <form>DOLARŮ</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-101-p2s1A">
@@ -537,7 +537,7 @@
 <LM>w#w-mf920901-101-p2s2Bw10</LM>
 </w.rf>
 <form>Collor</form>
-<tag lemma="Collor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Collor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-101-p2s2Bw11">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-mf920901-101-p2s2Bw12</LM>
 </w.rf>
 <form>Mello</form>
-<tag lemma="Mello_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mello_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-101-p2s2Bw13">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-mf920901-101-p3s1w17</LM>
 </w.rf>
 <form>Collora</form>
-<tag lemma="Collor_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Collor_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-101-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-mf920901-101-p3s2w12</LM>
 </w.rf>
 <form>Fariasem</form>
-<tag lemma="Farias_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Farias_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-101-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-mf920901-101-p4s1w1</LM>
 </w.rf>
 <form>Farias</form>
-<tag lemma="Farias_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farias_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-101-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-mf920901-101-p4s1w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-101-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1325,17 +1325,17 @@
 <AM lemma="O-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="auto">NNXXX-----A----</AM>
-<AM lemma="O-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="auto">NNXXX-----A----</AM>
+<AM lemma="O-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="O-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="O-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="O-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="O-33" src="auto">Q3-------------</AM>
 <AM lemma="o-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="o-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
@@ -1351,7 +1351,7 @@
 </w.rf>
 <form>Globo</form>
 <tag>
-<AM lemma="Globo_;K" src="auto">NNNS1-----A----</AM>
+<AM lemma="Globo_;m" src="auto">NNNS1-----A----</AM>
 <AM lemma="Globo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1385,7 +1385,7 @@
 <LM>w#w-mf920901-101-p4s1w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-101-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-mf920901-101-p4s2w11</LM>
 </w.rf>
 <form>Collora</form>
-<tag lemma="Collor_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Collor_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-101-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1778,7 +1778,7 @@
 <LM>w#w-mf920901-101-p4s3w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-101-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-mf920901-101-p5s1w11</LM>
 </w.rf>
 <form>Fariasem</form>
-<tag lemma="Farias_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Farias_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-101-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2492,7 +2492,7 @@
 <LM>w#w-mf920901-101-p5s3w3</LM>
 </w.rf>
 <form>Collor</form>
-<tag lemma="Collor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Collor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-101-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2534,7 +2534,7 @@
 <LM>w#w-mf920901-101-p6s1w1</LM>
 </w.rf>
 <form>Collorovým</form>
-<tag lemma="Collorův_;S_^(*2)" src="orig" selected="1">AUNP3M---------</tag>
+<tag lemma="Collorův_;Y_^(*2)" src="orig" selected="1">AUNP3M---------</tag>
 </m>
 <m id="m-mf920901-101-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2727,7 +2727,7 @@
 <LM>w#w-mf920901-101-p6s2w9</LM>
 </w.rf>
 <form>Collorová</form>
-<tag lemma="Collorová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Collorová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-101-p6s2w10">
 <src.rf>manual</src.rf>
@@ -2835,7 +2835,7 @@
 <LM>w#w-mf920901-101-p6s2w22</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-101-p6s2w23">
 <src.rf>manual</src.rf>
@@ -2973,7 +2973,7 @@
 <LM>w#w-mf920901-101-p7s1w6</LM>
 </w.rf>
 <form>Collorově</form>
-<tag lemma="Collorův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Collorův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf920901-101-p7s1w7">
 <src.rf>manual</src.rf>
@@ -3343,7 +3343,7 @@
 <LM>w#w-mf920901-101-p7s2w17</LM>
 </w.rf>
 <form>Collorovo</form>
-<tag lemma="Collorův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Collorův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-mf920901-101-p7s2w18">
 <src.rf>manual</src.rf>
@@ -4098,7 +4098,7 @@
 <LM>w#w-mf920901-101-p9s2w7</LM>
 </w.rf>
 <form>Collora</form>
-<tag lemma="Collor_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Collor_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-101-p9s2w8">
 <src.rf>manual</src.rf>

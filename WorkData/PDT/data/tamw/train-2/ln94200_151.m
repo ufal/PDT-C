@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-151-p1s1w1</LM>
 </w.rf>
 <form>Mach</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-151-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-151-p1s1w3</LM>
 </w.rf>
 <form>Spartu</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94200-151-p1s1w4">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln94200-151-p2s1w3</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-151-p2s1w4">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94200-151-p2s1w15</LM>
 </w.rf>
 <form>Mach</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-151-p2s1w16">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-ln94200-151-p4s6w12</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-151-p4s6w13">
 <src.rf>manual</src.rf>
@@ -1500,7 +1500,7 @@
 <LM>w#w-ln94200-151-p5s4w23</LM>
 </w.rf>
 <form>Šmejkala</form>
-<tag lemma="Šmejkal_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Šmejkal_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-151-p5s4w24">
 <src.rf>manual</src.rf>
@@ -1775,7 +1775,7 @@
 <LM>w#w-ln94200-151-p5s5Aw29</LM>
 </w.rf>
 <form>Völlera</form>
-<tag lemma="Völler_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Völler_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-151-p5s5Aw30">
 <src.rf>manual</src.rf>
@@ -1913,7 +1913,7 @@
 <LM>w#w-ln94200-151-p5s5Bw16</LM>
 </w.rf>
 <form>Spartu</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94200-151-p5s5Bw17">
 <src.rf>manual</src.rf>
@@ -2186,7 +2186,7 @@
 <LM>w#w-ln94200-151-p6s3w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-151-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2463,10 +2463,10 @@
 </w.rf>
 <form>krb</form>
 <tag>
-<AM lemma="krb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="krb-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="krb" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="krb" src="auto">NNIS4-----A----</AM>
-<AM lemma="krb-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="krb-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-151-p6s5w3">

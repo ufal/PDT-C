@@ -54,7 +54,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -65,7 +65,7 @@
 </w.rf>
 <form>Airways</form>
 <tag>
-<AM lemma="Airways-1_;K_,t_^(souč._názvů,_např._British_A.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="Airways-1_;m_,t_^(souč._názvů,_např._British_A.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Airways-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -94,7 +94,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -105,7 +105,7 @@
 </w.rf>
 <form>Airways</form>
 <tag>
-<AM lemma="Airways-1_;K_,t_^(souč._názvů,_např._British_A.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="Airways-1_;m_,t_^(souč._názvů,_např._British_A.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Airways-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -124,7 +124,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -380,7 +380,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -588,7 +588,7 @@
 <LM>w#w-cmpr9406-007-p4s4w6</LM>
 </w.rf>
 <form>Marshalla</form>
-<tag lemma="Marshall_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Marshall_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-007-p4s4w7">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -829,7 +829,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1063,7 +1063,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1342,7 +1342,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1420,7 +1420,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1545,7 +1545,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1604,7 +1604,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1615,7 +1615,7 @@
 </w.rf>
 <form>BA</form>
 <tag>
-<AM lemma="BA_:B_;K_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BA_:B_;m_,t_^(British_Airways)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1684,7 +1684,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1695,7 +1695,7 @@
 </w.rf>
 <form>Airways</form>
 <tag>
-<AM lemma="Airways-1_;K_,t_^(souč._názvů,_např._British_A.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="Airways-1_;m_,t_^(souč._názvů,_např._British_A.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Airways-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

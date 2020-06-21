@@ -62,9 +62,9 @@
 </w.rf>
 <form>pet</form>
 <tag>
-<AM lemma="pet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="pet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-52-p2s1Aw4">
@@ -847,7 +847,7 @@
 <LM>w#w-ln94203-52-p2s8w10</LM>
 </w.rf>
 <form>Sadil</form>
-<tag lemma="Sadil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-52-p2s8w11">
 <src.rf>manual</src.rf>

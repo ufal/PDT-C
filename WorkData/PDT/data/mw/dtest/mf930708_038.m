@@ -21,7 +21,7 @@
 <form>Glavunion</form>
 <tag>
 <AM lemma="Glavunion" src="orig">NNIS1-----A----</AM>
-<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Glavunion_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p1s1w2">
@@ -54,7 +54,7 @@
 <LM>w#w-mf930708-038-p1s1w5</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-038-p2s1">
@@ -218,8 +218,8 @@
 <form>Glavunion</form>
 <tag>
 <AM lemma="Glavunion" src="orig">NNIS1-----A----</AM>
-<AM lemma="Glavunion_;KGlavunion" src="manual">NNIS1-----A----</AM>
-<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Glavunion_;mGlavunion" src="manual">NNIS1-----A----</AM>
+<AM lemma="Glavunion_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p2s1w21">
@@ -672,7 +672,7 @@
 <form>Glavunionu</form>
 <tag>
 <AM lemma="Glavunion" src="orig">NNIS2-----A----</AM>
-<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Glavunion_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p3s1w12">
@@ -813,7 +813,7 @@
 <form>Glavunion</form>
 <tag>
 <AM lemma="Glavunion" src="orig">NNIS1-----A----</AM>
-<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Glavunion_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p3s2w5">
@@ -854,7 +854,7 @@
 <LM>w#w-mf930708-038-p3s2w9</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-038-p3s2w10">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-mf930708-038-p3s3w6</LM>
 </w.rf>
 <form>Glaverbel</form>
-<tag lemma="Glaverbel_;K_^(sklářský_koncern)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Glaverbel_;m_^(sklářský_koncern)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-038-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-mf930708-038-p4s2w8</LM>
 </w.rf>
 <form>Bystronic</form>
-<tag lemma="Bystronic_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bystronic_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-038-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1579,7 +1579,7 @@
 <form>Glavunionu</form>
 <tag>
 <AM lemma="Glavunion" src="orig">NNIS2-----A----</AM>
-<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Glavunion_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p4s4w6">
@@ -1596,7 +1596,7 @@
 <LM>w#w-mf930708-038-p4s4w7</LM>
 </w.rf>
 <form>Kaltouna</form>
-<tag lemma="Kaltoun_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kaltoun_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-038-p4s4w8">
 <src.rf>manual</src.rf>
@@ -2060,7 +2060,7 @@
 <form>Glavunionu</form>
 <tag>
 <AM lemma="Glavunion" src="orig">NNIS2-----A----</AM>
-<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Glavunion_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p5s1w13">
@@ -2189,7 +2189,7 @@
 <LM>w#w-mf930708-038-p5s1w28</LM>
 </w.rf>
 <form>Glaverbelu</form>
-<tag lemma="Glaverbel_;K_^(sklářský_koncern)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Glaverbel_;m_^(sklářský_koncern)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-038-p5s1w29">
 <src.rf>manual</src.rf>
@@ -2787,7 +2787,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p5s4w34">
@@ -2804,7 +2804,7 @@
 <LM>w#w-mf930708-038-p5s4w35</LM>
 </w.rf>
 <form>Kaltoun</form>
-<tag lemma="Kaltoun_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaltoun_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-038-p5s4w36">
 <src.rf>manual</src.rf>

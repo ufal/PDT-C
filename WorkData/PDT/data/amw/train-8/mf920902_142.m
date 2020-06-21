@@ -2475,8 +2475,8 @@
 </w.rf>
 <form>Rachmana</form>
 <tag>
-<AM lemma="Rachman_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rachman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Rachman_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rachman_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-142-p7s1w14">
@@ -2485,7 +2485,7 @@
 <LM>w#w-mf920902-142-p7s1w14</LM>
 </w.rf>
 <form>Nabijeva</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-142-p7s1w15">
 <src.rf>manual</src.rf>
@@ -2533,7 +2533,7 @@
 <LM>w#w-mf920902-142-p7s1w20</LM>
 </w.rf>
 <form>Brežněva</form>
-<tag lemma="Brežněv_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brežněv_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-142-p7s1w21">
 <src.rf>manual</src.rf>
@@ -2912,7 +2912,7 @@
 <LM>w#w-mf920902-142-p8s1w8</LM>
 </w.rf>
 <form>Nabijev</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-142-p8s1w9">
 <src.rf>manual</src.rf>

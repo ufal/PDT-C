@@ -378,7 +378,7 @@
 <LM>w#w-cmpr9410-031-p4s2w8</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p4s2w9">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-cmpr9410-031-p6s1w2</LM>
 </w.rf>
 <form>Jánoška</form>
-<tag lemma="Jánoška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jánoška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-031-p8s1">
@@ -2404,7 +2404,7 @@
 <LM>w#w-cmpr9410-031-p15s2w9</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p15s2w10">
 <src.rf>manual</src.rf>
@@ -3011,7 +3011,7 @@
 <LM>w#w-cmpr9410-031-p18s1w3</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p18s1w4">
 <src.rf>manual</src.rf>
@@ -3270,9 +3270,9 @@
 </w.rf>
 <form>a</form>
 <tag>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="a-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="a-33" src="orig">Q3-------------</AM>
+<AM lemma="a-33" src="manual">Q3-------------</AM>
+<AM lemma="a-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-031-p19s1w3">
@@ -3489,8 +3489,8 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="b-33" src="orig">Q3-------------</AM>
+<AM lemma="b-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-031-p20s1w3">
@@ -3680,8 +3680,8 @@
 </w.rf>
 <form>c</form>
 <tag>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="c-33" src="orig">Q3-------------</AM>
+<AM lemma="c-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-031-p21s1w3">
@@ -3855,8 +3855,8 @@
 </w.rf>
 <form>d</form>
 <tag>
-<AM lemma="d-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="d-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="d-33" src="orig">Q3-------------</AM>
+<AM lemma="d-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-031-p22s1w3">
@@ -4804,7 +4804,7 @@
 <LM>w#w-cmpr9410-031-p26s1w3</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p26s1w4">
 <src.rf>manual</src.rf>

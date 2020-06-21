@@ -43,7 +43,7 @@
 <LM>w#w-ln94208-86-p1s1w4</LM>
 </w.rf>
 <form>Ornest</form>
-<tag lemma="Ornest_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ornest_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-86-p1s1w5">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-ln94208-86-p1s1w7</LM>
 </w.rf>
 <form>Ortenových</form>
-<tag lemma="Ortenův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Ortenův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln94208-86-p1s1w8">
 <src.rf>manual</src.rf>
@@ -102,7 +102,7 @@
 <LM>w#w-ln94208-86-p1s1w11</LM>
 </w.rf>
 <form>Křížkovou</form>
-<tag lemma="Křížková_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Křížková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94208-86-p1s1w12">
 <src.rf>manual</src.rf>

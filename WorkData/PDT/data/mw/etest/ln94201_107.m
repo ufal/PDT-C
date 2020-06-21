@@ -109,7 +109,7 @@
 <LM>w#w-ln94201-107-p2s1w11</LM>
 </w.rf>
 <form>Pilařová</form>
-<tag lemma="Pilařová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pilařová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-107-p2s1w12">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94201-107-p2s1w13</LM>
 </w.rf>
 <form>Frizza</form>
-<tag lemma="Frizza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frizza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-107-p2s1w14">
 <src.rf>manual</src.rf>
@@ -2715,7 +2715,7 @@
 </w.rf>
 <form>Comissariato</form>
 <tag>
-<AM lemma="Comissariato_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Comissariato_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Comissariato-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2726,7 +2726,7 @@
 </w.rf>
 <form>generale</form>
 <tag>
-<AM lemma="generale_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="generale_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="generale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2737,7 +2737,7 @@
 </w.rf>
 <form>Onoranze</form>
 <tag>
-<AM lemma="Onoranze_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Onoranze_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Onoranze-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2748,7 +2748,7 @@
 </w.rf>
 <form>caduti</form>
 <tag>
-<AM lemma="caduti_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="caduti_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="caduti-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2770,7 +2770,7 @@
 </w.rf>
 <form>guerra</form>
 <tag>
-<AM lemma="guerra_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="guerra_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="guerra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3436,7 +3436,7 @@
 <form>Irmgard</form>
 <tag>
 <AM lemma="Irmgarda_;Y" src="orig" selected="1">NNFP2-----A----</AM>
-<AM lemma="Irmgard_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Irmgard_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p7s2w10">
@@ -3975,7 +3975,7 @@
 <LM>w#w-ln94201-107-p7s5w2</LM>
 </w.rf>
 <form>Schiró</form>
-<tag lemma="Schiró_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schiró_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-107-p7s5w3">
 <src.rf>manual</src.rf>
@@ -4135,14 +4135,14 @@
 <AM lemma="A-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="A-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="A-1`ampér_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="A-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="A-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="A-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="A-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="A-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="A-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="A-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="A-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="A-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="A-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="A-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="a-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="A-33" src="auto">Q3-------------</AM>
 <AM lemma="a-4_,t_^(př._a_la)" src="auto">RR--1----------</AM>
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
@@ -4247,7 +4247,7 @@
 <LM>w#w-ln94201-107-p7s6w13</LM>
 </w.rf>
 <form>Gri</form>
-<tag lemma="Gri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-107-p7s6w14">
 <src.rf>manual</src.rf>
@@ -4402,8 +4402,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p7s7w2">
@@ -5795,7 +5795,7 @@
 <LM>w#w-ln94201-107-p9s1w10</LM>
 </w.rf>
 <form>Maiello</form>
-<tag lemma="Maiello_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maiello_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-107-p9s1w11">
 <src.rf>manual</src.rf>
@@ -7082,7 +7082,7 @@
 <LM>w#w-ln94201-107-p10s1w24</LM>
 </w.rf>
 <form>Maiello</form>
-<tag lemma="Maiello_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maiello_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-107-p10s1w25">
 <src.rf>manual</src.rf>
@@ -8374,7 +8374,7 @@
 <LM>w#w-ln94201-107-p11s1w23</LM>
 </w.rf>
 <form>Coppy</form>
-<tag lemma="Coppa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Coppa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-107-p11s1w24">
 <src.rf>manual</src.rf>
@@ -8732,10 +8732,10 @@
 <form>Fortunato</form>
 <tag>
 <AM lemma="Fortunato_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Fortunata-1_;K" src="auto">NNMS5-----A----</AM>
-<AM lemma="Fortunato_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fortunato_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Fortunato_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fortunata-1_;m" src="auto">NNMS5-----A----</AM>
+<AM lemma="Fortunato_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fortunato_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Fortunato_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p12s1w7">
@@ -8745,8 +8745,8 @@
 </w.rf>
 <form>Frizza</form>
 <tag>
-<AM lemma="Frizzo_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Frizza_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Frizzo_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Frizza_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p12s1w8">

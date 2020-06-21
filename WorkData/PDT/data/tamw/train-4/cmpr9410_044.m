@@ -1446,7 +1446,7 @@
 <LM>w#w-cmpr9410-044-p5s1w9</LM>
 </w.rf>
 <form>Husova</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9410-044-p5s1w10">
 <src.rf>manual</src.rf>

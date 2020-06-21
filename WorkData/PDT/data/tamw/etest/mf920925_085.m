@@ -431,7 +431,7 @@
 <LM>w#w-mf920925-085-p2s3w18</LM>
 </w.rf>
 <form>Beránek</form>
-<tag lemma="Beránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-085-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-mf920925-085-p2s8w31</LM>
 </w.rf>
 <form>Fetuzy</form>
-<tag lemma="Fetuza_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fetuza_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-085-p2s8w32">
 <src.rf>manual</src.rf>

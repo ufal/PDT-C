@@ -28,8 +28,8 @@
 </w.rf>
 <form>Concord</form>
 <tag>
-<AM lemma="Concord_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Concord_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Concord_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Concord_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Concord-77" src="manual" selected="1">F%-------------</AM>
@@ -111,7 +111,7 @@
 <AM lemma="Peter_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="Peter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -133,9 +133,9 @@
 </w.rf>
 <form>G</form>
 <tag>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="G-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="G-33" src="auto">Q3-------------</AM>
+<AM lemma="G-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="G-33" src="auto">Q3-------------</AM>
 <AM lemma="g-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="gram" src="auto">NNIXX-----A---8</AM>
 </tag>
@@ -155,8 +155,8 @@
 </w.rf>
 <form>m</form>
 <tag>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="m-88" src="auto" selected="1">BNXXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
+<AM lemma="m-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -178,8 +178,8 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="b-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="b-33" src="auto">Q3-------------</AM>
+<AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
 <AM lemma="bodový" src="auto">AAXXX----1A---8</AM>
 </tag>
@@ -199,9 +199,9 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="H-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="H-33" src="auto">Q3-------------</AM>
+<AM lemma="H-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="H-33" src="auto">Q3-------------</AM>
 <AM lemma="h-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="hodina" src="auto">NNFXX-----A---8</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
@@ -342,11 +342,11 @@
 </w.rf>
 <form>Concord</form>
 <tag>
-<AM lemma="Concord_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Concord_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Concord_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Concord_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Concord_;G_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Concord_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1060-001-p1s2W3-Ta">
@@ -429,9 +429,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

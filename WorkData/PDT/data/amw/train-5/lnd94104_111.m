@@ -82,7 +82,7 @@
 <LM>w#w-lnd94104-111-p1s2w1</LM>
 </w.rf>
 <form>Kafelnikov</form>
-<tag lemma="Kafelnikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kafelnikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-111-p1s2w2">
 <src.rf>manual</src.rf>

@@ -777,7 +777,7 @@
 <LM>w#w-ln94201-134-p3s1w2</LM>
 </w.rf>
 <form>Moserová</form>
-<tag lemma="Moserová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Moserová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-134-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-ln94201-134-p3s7w2</LM>
 </w.rf>
 <form>Poláčková</form>
-<tag lemma="Poláčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poláčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-134-p3s7w3">
 <src.rf>manual</src.rf>
@@ -1996,7 +1996,7 @@
 <LM>w#w-ln94201-134-p3s13w2</LM>
 </w.rf>
 <form>Bulín</form>
-<tag lemma="Bulín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bulín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-134-p3s13w3">
 <src.rf>manual</src.rf>
@@ -2348,7 +2348,7 @@
 <LM>w#w-ln94201-134-p3s17w2</LM>
 </w.rf>
 <form>Pala</form>
-<tag lemma="Pala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-134-p3s17w3">
 <src.rf>manual</src.rf>
@@ -2848,7 +2848,7 @@
 <LM>w#w-ln94201-134-p3s23w2</LM>
 </w.rf>
 <form>Žižková</form>
-<tag lemma="Žižková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Žižková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-134-p3s23w3">
 <src.rf>manual</src.rf>
@@ -3233,7 +3233,7 @@
 <LM>w#w-ln94201-134-p3s27w2</LM>
 </w.rf>
 <form>Bílek</form>
-<tag lemma="Bílek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bílek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-134-p3s27w3">
 <src.rf>manual</src.rf>
@@ -3566,7 +3566,7 @@
 <form>Vystrčil</form>
 <tag>
 <AM lemma="vystrčit" src="orig">VpYS----R-AAP--</AM>
-<AM lemma="Vystrčil_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vystrčil_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-134-p3s31w3">
@@ -3991,8 +3991,8 @@
 <form>hm</form>
 <tag>
 <AM lemma="hm" src="orig">II-------------</AM>
-<AM lemma="ad-99_:B_;S" src="manual">NNXXX-----A---8</AM>
-<AM lemma="hm-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="manual">NNXXX-----A---8</AM>
+<AM lemma="hm-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-134-p3s34w9">

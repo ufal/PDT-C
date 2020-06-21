@@ -2253,7 +2253,7 @@
 <LM>w#w-ln95044-087-p5s1w2</LM>
 </w.rf>
 <form>Rubáš</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-087-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2877,7 +2877,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2948,7 +2948,7 @@
 <LM>w#w-ln95044-087-p5s6w7</LM>
 </w.rf>
 <form>Rubáše</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-087-p5s6w8">
 <src.rf>manual</src.rf>

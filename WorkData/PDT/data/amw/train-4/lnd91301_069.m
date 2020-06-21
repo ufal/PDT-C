@@ -276,8 +276,8 @@
 </w.rf>
 <form>Levon</form>
 <tag>
-<AM lemma="Levon_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Levon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Levon_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Levon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-069-p4s2w8">
@@ -288,7 +288,7 @@
 <form>Ter</form>
 <tag>
 <AM lemma="Ter_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ter-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ter-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-069-p4s2w9">
@@ -305,7 +305,7 @@
 <LM>w#w-lnd91301-069-p4s2w10</LM>
 </w.rf>
 <form>Petrosjan</form>
-<tag lemma="Petrosjan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrosjan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-069-p4s2w11">
 <src.rf>manual</src.rf>

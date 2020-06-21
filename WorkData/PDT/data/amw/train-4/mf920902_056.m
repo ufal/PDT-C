@@ -20,7 +20,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -48,7 +48,7 @@
 <LM>w#w-mf920902-056-p1s1Bw1</LM>
 </w.rf>
 <form>MIKLOŠKO</form>
-<tag lemma="Mikloško_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloško_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-056-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf920902-056-p2s2w18</LM>
 </w.rf>
 <form>Čarnogurský</form>
-<tag lemma="Čarnogurský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čarnogurský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-056-p2s2w19">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -801,7 +801,7 @@
 <LM>w#w-mf920902-056-p2s4w25</LM>
 </w.rf>
 <form>Mikloško</form>
-<tag lemma="Mikloško_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloško_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-056-p2s4w26">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1255,8 +1255,8 @@
 </w.rf>
 <form>Marikové</form>
 <tag>
-<AM lemma="Mariková_;S" src="orig">NNFS6-----A----</AM>
-<AM lemma="Mariková_;G_;S" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Mariková_;Y" src="orig">NNFS6-----A----</AM>
+<AM lemma="Mariková_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-056-p2s7Aw8">
@@ -1388,7 +1388,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Cingeľ</form>
-<tag lemma="Cingeľ_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cingeľ_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-056-p2s7Bw13">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1474,8 +1474,8 @@
 </w.rf>
 <form>Marikové</form>
 <tag>
-<AM lemma="Mariková_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Mariková_;G_;S" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Mariková_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Mariková_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-056-p2s8w7">
@@ -1551,7 +1551,7 @@
 <LM>w#w-mf920902-056-p2s8w15</LM>
 </w.rf>
 <form>Mikloško</form>
-<tag lemma="Mikloško_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloško_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-056-p2s8w16">
 <src.rf>manual</src.rf>
@@ -1829,8 +1829,8 @@
 </w.rf>
 <form>Marikové</form>
 <tag>
-<AM lemma="Mariková_;S" src="orig">NNFS2-----A----</AM>
-<AM lemma="Mariková_;G_;S" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Mariková_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Mariková_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-056-p2s9w31">

@@ -27,7 +27,7 @@
 <LM>w#w-ln94208-131-p1s1Aw2</LM>
 </w.rf>
 <form>Suchopárek</form>
-<tag lemma="Suchopárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suchopárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-131-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-ln94208-131-p1s1Aw9</LM>
 </w.rf>
 <form>Kubánka</form>
-<tag lemma="Kubánek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kubánek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-131-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -142,8 +142,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

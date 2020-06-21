@@ -37,7 +37,7 @@
 <form>POKORNÁ</form>
 <tag>
 <AM lemma="pokorný" src="orig">AAFS1----1A----</AM>
-<AM lemma="Pokorná_;S_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pokorná_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-022-p1s1w4">
@@ -563,8 +563,8 @@
 </w.rf>
 <form>zat</form>
 <tag>
-<AM lemma="zat-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zat-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zat-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="zat-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-022-p2s1w3">
@@ -599,7 +599,7 @@
 <LM>w#w-lnd91303-022-p3s1w3</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-022-p3s1w4">
 <src.rf>manual</src.rf>
@@ -616,8 +616,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

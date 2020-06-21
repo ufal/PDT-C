@@ -53,7 +53,7 @@
 <LM>w#w-mf920924-059-p2s1w3</LM>
 </w.rf>
 <form>peo</form>
-<tag lemma="peo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="peo-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920924-059-p2s1w4">
 <src.rf>manual</src.rf>

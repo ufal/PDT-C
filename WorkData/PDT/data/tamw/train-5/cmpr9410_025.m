@@ -332,7 +332,7 @@
 <LM>w#w-cmpr9410-025-p5s1w3</LM>
 </w.rf>
 <form>Racio</form>
-<tag lemma="Racio_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Racio_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-025-p5s1w4">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-cmpr9410-025-p5s1w6</LM>
 </w.rf>
 <form>Jiko</form>
-<tag lemma="Jiko_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Jiko_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-025-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1260,18 +1260,18 @@
 </w.rf>
 <form>Novotný</form>
 <tag>
-<AM lemma="Novotný_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Novotná_;S_^(*1ý)" src="auto">NNFS6-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Novotný_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Novotný_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Novotná_;Y_^(*1ý)" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Novotný_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Novotný_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Novotný_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Novotný_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Novotný_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="novotný_,a" src="auto">AAFP1----1A---6</AM>
 <AM lemma="novotný_,a" src="auto">AAFP4----1A---6</AM>
 <AM lemma="novotný_,a" src="auto">AAFP5----1A---6</AM>

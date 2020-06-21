@@ -263,7 +263,7 @@
 <LM>w#w-ln95040-123-p2s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95040-123-p2s2w2">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln95040-123-p3s1w3</LM>
 </w.rf>
 <form>Hutař</form>
-<tag lemma="Hutař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hutař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-123-p3s1w4">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-ln95040-123-p3s3w2</LM>
 </w.rf>
 <form>Hutaře</form>
-<tag lemma="Hutař_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hutař_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-123-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1434,7 +1434,7 @@
 <LM>w#w-ln95040-123-p3s8w13</LM>
 </w.rf>
 <form>Hutař</form>
-<tag lemma="Hutař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hutař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-123-p3s8w14">
 <src.rf>manual</src.rf>
@@ -1918,7 +1918,7 @@
 </w.rf>
 <form>neschopnosti</form>
 <tag>
-<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFP4-----A----</AM>
+<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFP4-----A----</AM>
 <AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
@@ -2066,7 +2066,7 @@
 <LM>w#w-ln95040-123-p4s5w8</LM>
 </w.rf>
 <form>Štiplové</form>
-<tag lemma="Štiplová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Štiplová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-123-p4s5w9">
 <src.rf>manual</src.rf>

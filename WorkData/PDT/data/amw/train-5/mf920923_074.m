@@ -166,7 +166,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -407,7 +407,7 @@
 <LM>w#w-mf920923-074-p2s3w5</LM>
 </w.rf>
 <form>Čič</form>
-<tag lemma="Čič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-074-p2s3w6">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -532,7 +532,7 @@
 <LM>w#w-mf920923-074-p2s4w4</LM>
 </w.rf>
 <form>Stráského</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-074-p2s4w5">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <form>Macek</form>
 <tag>
 <AM lemma="macek" src="orig">NNMS1-----A----</AM>
-<AM lemma="Macek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Macek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-074-p2s4w8">
@@ -576,8 +576,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-074-p2s4w10">
@@ -698,7 +698,7 @@
 <LM>w#w-mf920923-074-p2s4w24</LM>
 </w.rf>
 <form>Čalfova</form>
-<tag lemma="Čalfův_;S_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Čalfův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf920923-074-p2s4w25">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-mf920923-074-p2s5w13</LM>
 </w.rf>
 <form>Stráského</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-074-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf920923-074-p2s6w20</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920923-074-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1327,7 +1327,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1450,7 +1450,7 @@
 <LM>w#w-mf920923-074-p4s1w2</LM>
 </w.rf>
 <form>Kopřiva</form>
-<tag lemma="Kopřiva_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kopřiva_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-074-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1467,8 +1467,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-074-p4s1w5">

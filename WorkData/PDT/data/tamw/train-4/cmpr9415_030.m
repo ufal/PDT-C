@@ -45,7 +45,7 @@
 <LM>w#w-cmpr9415-030-p3s1w3</LM>
 </w.rf>
 <form>Gastrex</form>
-<tag lemma="Gastrex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Gastrex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-030-p3s1w4">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-cmpr9415-030-p3s1w16</LM>
 </w.rf>
 <form>Jahna</form>
-<tag lemma="Jahn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jahn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-030-p3s1w17">
 <src.rf>manual</src.rf>

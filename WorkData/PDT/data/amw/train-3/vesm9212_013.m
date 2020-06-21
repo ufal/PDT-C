@@ -56,7 +56,7 @@
 <LM>w#w-vesm9212-013-p2s1w2</LM>
 </w.rf>
 <form>MAREŠ</form>
-<tag lemma="Mareš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mareš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-013-p3s1">
@@ -186,7 +186,7 @@
 <LM>w#w-vesm9212-013-p3s1w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-013-p3s1w17">
 <src.rf>manual</src.rf>
@@ -3631,7 +3631,7 @@
 <LM>w#w-vesm9212-013-p10s3w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-013-p10s3w15">
 <src.rf>manual</src.rf>

@@ -55,7 +55,7 @@
 <form>mot</form>
 <tag>
 <AM lemma="motto_,x" src="orig">NNNP2-----A----</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-034-p2s1w4">
@@ -197,7 +197,7 @@
 <LM>w#w-lnd92256-034-p2s2w15</LM>
 </w.rf>
 <form>Favorita</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-lnd92256-034-p2s2w16">
 <src.rf>manual</src.rf>

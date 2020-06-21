@@ -257,11 +257,11 @@
 </w.rf>
 <form>Božíkovi</form>
 <tag>
-<AM lemma="Božíkův_;S_^(*2)" src="orig" selected="1">AUMP4M---------</AM>
-<AM lemma="Božík_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Božík_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Božíkův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Božíkův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Božíkův_;Y_^(*2)" src="orig" selected="1">AUMP4M---------</AM>
+<AM lemma="Božík_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Božík_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Božíkův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Božíkův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-ln95046-041-p2s1Bw22">
@@ -425,7 +425,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -533,8 +533,8 @@
 <form>Negri</form>
 <tag>
 <AM lemma="Negri_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Negri-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Negri-1_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Negri-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Negri-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Negri-2_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Negri-77" src="manual" selected="1">F%-------------</AM>
 </tag>

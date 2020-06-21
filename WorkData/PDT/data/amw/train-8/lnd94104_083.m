@@ -1872,7 +1872,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-083-p1s10w6">
@@ -1891,7 +1891,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-083-p1s10w8">

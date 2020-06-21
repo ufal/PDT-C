@@ -503,7 +503,7 @@
 <LM>w#w-ln94203-26-p2s2w8</LM>
 </w.rf>
 <form>Sylla</form>
-<tag lemma="Sylla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sylla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-26-p2s2w9">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-ln94203-26-p2s5w21</LM>
 </w.rf>
 <form>Sylla</form>
-<tag lemma="Sylla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sylla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-26-p2s5w22">
 <src.rf>manual</src.rf>

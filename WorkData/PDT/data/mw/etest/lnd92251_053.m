@@ -571,7 +571,7 @@
 </w.rf>
 <form>Korečková</form>
 <tag>
-<AM lemma="Korečková_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Korečková_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="korečkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="korečkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="korečkový" src="auto">AANP1----1A----</AM>

@@ -332,7 +332,7 @@
 <LM>w#w-cmpr9415-002-p4s1w21</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p4s1w22">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-cmpr9415-002-p4s1w23</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p4s1w24">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 </w.rf>
 <form>Pírek</form>
 <tag>
-<AM lemma="Pírek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pírek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pírko" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -730,7 +730,7 @@
 <LM>w#w-cmpr9415-002-p8s1w6</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p8s1w7">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-cmpr9415-002-p8s1w8</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p8s1w9">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-cmpr9415-002-p8s2w17</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p8s2w18">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-cmpr9415-002-p8s2w21</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p8s2w22">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-cmpr9415-002-p10s1w8</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p10s1w9">
 <src.rf>manual</src.rf>
@@ -1362,7 +1362,7 @@
 <LM>w#w-cmpr9415-002-p10s1w10</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p10s1w11">
 <src.rf>manual</src.rf>
@@ -3105,7 +3105,7 @@
 <LM>w#w-cmpr9415-002-p12s1w5</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p12s1w6">
 <src.rf>manual</src.rf>
@@ -3121,7 +3121,7 @@
 <LM>w#w-cmpr9415-002-p12s1w7</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p12s1w8">
 <src.rf>manual</src.rf>
@@ -4454,7 +4454,7 @@
 <LM>w#w-cmpr9415-002-p13s4w6</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p13s4w7">
 <src.rf>manual</src.rf>
@@ -4470,7 +4470,7 @@
 <LM>w#w-cmpr9415-002-p13s4w8</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p13s4w9">
 <src.rf>manual</src.rf>
@@ -4867,9 +4867,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4920,7 +4920,7 @@
 <LM>w#w-cmpr9415-002-p15s1w6</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p15s1w7">
 <src.rf>manual</src.rf>
@@ -4936,7 +4936,7 @@
 <LM>w#w-cmpr9415-002-p15s1w8</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p15s1w9">
 <src.rf>manual</src.rf>
@@ -5678,7 +5678,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5689,7 +5689,7 @@
 </w.rf>
 <form>Electric</form>
 <tag>
-<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Electric-1_;m_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5789,7 +5789,7 @@
 <LM>w#w-cmpr9415-002-p16s1w3</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p16s1w4">
 <src.rf>manual</src.rf>
@@ -5805,7 +5805,7 @@
 <LM>w#w-cmpr9415-002-p16s1w5</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p16s1w6">
 <src.rf>manual</src.rf>
@@ -5919,7 +5919,7 @@
 <LM>w#w-cmpr9415-002-p17s1w3</LM>
 </w.rf>
 <form>Motorlet</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-002-p18s1">
@@ -6209,7 +6209,7 @@
 <LM>w#w-cmpr9415-002-p18s2w18</LM>
 </w.rf>
 <form>Mazareanu</form>
-<tag lemma="Mazareanu_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Mazareanu_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p18s2w19">
 <src.rf>manual</src.rf>
@@ -6332,7 +6332,7 @@
 <LM>w#w-cmpr9415-002-p18s3w2</LM>
 </w.rf>
 <form>Motorletem</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p18s3w3">
 <src.rf>manual</src.rf>
@@ -6405,8 +6405,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="M-33" src="orig">Q3-------------</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-002-p18s3w12">
@@ -6715,7 +6715,7 @@
 <LM>w#w-cmpr9415-002-p18s5w5</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p18s5w6">
 <src.rf>manual</src.rf>
@@ -6731,7 +6731,7 @@
 <LM>w#w-cmpr9415-002-p18s5w7</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p18s5w8">
 <src.rf>manual</src.rf>
@@ -6835,7 +6835,7 @@
 <LM>w#w-cmpr9415-002-p18s5w20</LM>
 </w.rf>
 <form>Motorletu</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p18s5w21">
 <src.rf>manual</src.rf>
@@ -6960,7 +6960,7 @@
 <LM>w#w-cmpr9415-002-p19s1w1</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p19s1w2">
 <src.rf>manual</src.rf>
@@ -6976,7 +6976,7 @@
 <LM>w#w-cmpr9415-002-p19s1w3</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p19s1w4">
 <src.rf>manual</src.rf>
@@ -7009,14 +7009,14 @@
 </w.rf>
 <form>Aero</form>
 <tag>
-<AM lemma="Aero-1_;K_^(letecká_továrna)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Aero_;K_^(letecká_továrna)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Aero_;K_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Aero_;K_^(letecká_továrna)" src="auto">NNNS5-----A----</AM>
-<AM lemma="aero_;R_^(letadlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="aero_;R_^(letadlo)" src="auto">NNNS4-----A----</AM>
-<AM lemma="aero_;R_^(letadlo)" src="auto">NNNS5-----A----</AM>
-<AM lemma="Aero_;K_^(letecká_továrna)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Aero-1_;m_^(letecká_továrna)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Aero_;m_^(letecká_továrna)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Aero_;m_^(letecká_továrna)" src="auto">NNNS4-----A----</AM>
+<AM lemma="Aero_;m_^(letecká_továrna)" src="auto">NNNS5-----A----</AM>
+<AM lemma="aero_;m_^(letadlo)" src="auto">NNNS1-----A----</AM>
+<AM lemma="aero_;m_^(letadlo)" src="auto">NNNS4-----A----</AM>
+<AM lemma="aero_;m_^(letadlo)" src="auto">NNNS5-----A----</AM>
+<AM lemma="Aero_;m_^(letecká_továrna)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-002-p19s1w8">
@@ -7381,7 +7381,7 @@
 <LM>w#w-cmpr9415-002-p19s3w14</LM>
 </w.rf>
 <form>Mazareanu</form>
-<tag lemma="Mazareanu_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Mazareanu_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-002-p19s3w15">
 <src.rf>manual</src.rf>

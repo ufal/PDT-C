@@ -62,8 +62,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p2s1w4">
@@ -195,7 +195,7 @@
 </w.rf>
 <form>MI</form>
 <tag>
-<AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MI_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
 <AM lemma="MI_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="MI-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -396,7 +396,7 @@
 <LM>w#w-mf920923-036-p2s3w9</LM>
 </w.rf>
 <form>Surňáka</form>
-<tag lemma="Surňák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Surňák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-036-p2s3w10">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-mf920923-036-p2s4w29</LM>
 </w.rf>
 <form>Thiele</form>
-<tag lemma="Thiele_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thiele_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-036-p2s4w30">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 </w.rf>
 <form>FMZV</form>
 <tag>
-<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1196,7 +1196,7 @@
 </w.rf>
 <form>FMZO</form>
 <tag>
-<AM lemma="FMZO_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FMZO_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="FMZO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

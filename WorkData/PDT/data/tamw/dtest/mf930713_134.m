@@ -326,7 +326,7 @@
 <LM>w#w-mf930713-134-p2s3w4</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-134-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p4s1w3">
@@ -1134,7 +1134,7 @@
 <LM>w#w-mf930713-134-p4s1w4</LM>
 </w.rf>
 <form>Pospíšila</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-134-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2199,7 +2199,7 @@
 <LM>w#w-mf930713-134-p5s4w4</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-134-p5s4w5">
 <src.rf>manual</src.rf>
@@ -4175,7 +4175,7 @@
 <LM>w#w-mf930713-134-p7s8w5</LM>
 </w.rf>
 <form>Zatloukal</form>
-<tag lemma="Zatloukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zatloukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-134-p7s8w6">
 <src.rf>manual</src.rf>

@@ -138,7 +138,7 @@
 <LM>w#w-mf920925-111-p2s2w5</LM>
 </w.rf>
 <form>Kohla</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-111-p2s2w6">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-mf920925-111-p2s2w12</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-111-p2s2w13">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-mf920925-111-p2s2w16</LM>
 </w.rf>
 <form>Francois</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-111-p2s2w17">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf920925-111-p2s2w17</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-111-p2s2w18">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-mf920925-111-p3s1w3</LM>
 </w.rf>
 <form>Vogel</form>
-<tag lemma="Vogel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vogel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-111-p3s1w4">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -534,7 +534,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -661,7 +661,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -672,7 +672,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -818,7 +818,7 @@
 <LM>w#w-mf920925-111-p4s1w20</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-111-p4s1w21">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-mf920925-111-p4s1w22</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-111-p4s1w23">
 <src.rf>manual</src.rf>

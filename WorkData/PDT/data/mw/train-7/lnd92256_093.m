@@ -43,7 +43,7 @@
 <LM>w#w-lnd92256-093-p1s1w4</LM>
 </w.rf>
 <form>HORKLOVÁ</form>
-<tag lemma="Horklová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Horklová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p1s1w5">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd92256-093-p3s1w3</LM>
 </w.rf>
 <form>Blaťák</form>
-<tag lemma="Blaťák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blaťák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s1w4">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-lnd92256-093-p3s1w7</LM>
 </w.rf>
 <form>Chroboková</form>
-<tag lemma="Chroboková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chroboková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s1w8">
 <src.rf>manual</src.rf>
@@ -200,13 +200,13 @@
 </w.rf>
 <form>Brzý</form>
 <tag>
-<AM lemma="Brzý_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Brzá_;S" src="auto" recommended="1">NNFP1-----A---6</AM>
-<AM lemma="Brzá_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Brzá_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Brzá_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Brzá_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Brzá_;S" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Brzý_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Brzá_;Y" src="auto" recommended="1">NNFP1-----A---6</AM>
+<AM lemma="Brzá_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Brzá_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Brzá_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Brzá_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Brzá_;Y" src="auto">NNFS6-----A---6</AM>
 </tag>
 </m>
 <m id="m-lnd92256-093-p3s1w10">
@@ -231,7 +231,7 @@
 <LM>w#w-lnd92256-093-p3s1w12</LM>
 </w.rf>
 <form>Havlová</form>
-<tag lemma="Havlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Havlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s1w13">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual">NNNXX-----A----</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -284,7 +284,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(ministerstvo_spravedlnosti)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -294,7 +294,7 @@
 <LM>w#w-lnd92256-093-p3s1w19</LM>
 </w.rf>
 <form>Zemanová</form>
-<tag lemma="Zemanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zemanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s1w20">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-lnd92256-093-p3s1w22</LM>
 </w.rf>
 <form>Horklová</form>
-<tag lemma="Horklová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Horklová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s1w23">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-lnd92256-093-p3s1w24</LM>
 </w.rf>
 <form>Štefániková</form>
-<tag lemma="Štefániková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Štefániková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s1w25">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-lnd92256-093-p3s5w2</LM>
 </w.rf>
 <form>Blaťák</form>
-<tag lemma="Blaťák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blaťák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-lnd92256-093-p3s7w7</LM>
 </w.rf>
 <form>Horklové</form>
-<tag lemma="Horklová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Horklová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s7w8">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1336,7 +1336,7 @@
 <LM>w#w-lnd92256-093-p4s2w5</LM>
 </w.rf>
 <form>Horklové</form>
-<tag lemma="Horklová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Horklová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p4s2w6">
 <src.rf>manual</src.rf>

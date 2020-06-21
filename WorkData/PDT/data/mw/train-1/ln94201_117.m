@@ -77,7 +77,7 @@
 <LM>w#w-ln94201-117-p2s1w2</LM>
 </w.rf>
 <form>Matys</form>
-<tag lemma="Matys_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matys_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-117-p2s1w3">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <form>DIVIŠ</form>
 <tag>
 <AM lemma="Diviš_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Diviš_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Diviš_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p2s2w31">
@@ -970,7 +970,7 @@
 <LM>w#w-ln94201-117-p3s1w13</LM>
 </w.rf>
 <form>Petrov</form>
-<tag lemma="Petrov_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-117-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1543,8 +1543,8 @@
 </w.rf>
 <form>TORST</form>
 <tag>
-<AM lemma="Torst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Torst-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Torst_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Torst-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-117-p3s4w27">
@@ -5165,7 +5165,7 @@
 <LM>w#w-ln94201-117-p6s1w30</LM>
 </w.rf>
 <form>Blair</form>
-<tag lemma="Blair_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blair_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-117-p6s1w31">
 <src.rf>manual</src.rf>
@@ -6540,7 +6540,7 @@
 <LM>w#w-ln94201-117-p8s1w17</LM>
 </w.rf>
 <form>Zahradníčkově</form>
-<tag lemma="Zahradníčkův_;S_^(*3ek)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Zahradníčkův_;Y_^(*3ek)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln94201-117-p8s1w18">
 <src.rf>manual</src.rf>
@@ -6731,7 +6731,7 @@
 <LM>w#w-ln94201-117-p8s3w2</LM>
 </w.rf>
 <form>Zahradníčkova</form>
-<tag lemma="Zahradníčkův_;S_^(*3ek)" src="orig" selected="1">AUNP1M---------</tag>
+<tag lemma="Zahradníčkův_;Y_^(*3ek)" src="orig" selected="1">AUNP1M---------</tag>
 </m>
 <m id="m-ln94201-117-p8s3w3">
 <src.rf>manual</src.rf>
@@ -7175,10 +7175,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -10592,7 +10592,7 @@
 <LM>w#w-ln94201-117-p14s3w3</LM>
 </w.rf>
 <form>Tesař</form>
-<tag lemma="Tesař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tesař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-117-p14s3w4">
 <src.rf>manual</src.rf>
@@ -10735,7 +10735,7 @@
 <LM>w#w-ln94201-117-p15s1w8</LM>
 </w.rf>
 <form>Blair</form>
-<tag lemma="Blair_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blair_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-117-p15s1w9">
 <src.rf>manual</src.rf>
@@ -10867,7 +10867,7 @@
 <LM>w#w-ln94201-117-p15s3w3</LM>
 </w.rf>
 <form>Tesař</form>
-<tag lemma="Tesař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tesař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-117-p15s3w4">
 <src.rf>manual</src.rf>

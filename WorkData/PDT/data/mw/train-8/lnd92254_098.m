@@ -184,7 +184,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -238,7 +238,7 @@
 <LM>w#w-lnd92254-098-p2s4w1</LM>
 </w.rf>
 <form>Fidrikas</form>
-<tag lemma="Fidrikas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fidrikas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-098-p2s4w2">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-lnd92254-098-p2s5w1</LM>
 </w.rf>
 <form>Linards</form>
-<tag lemma="Linards_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Linards_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-098-p2s5w2">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -523,7 +523,7 @@
 <LM>w#w-lnd92254-098-p3s4w1</LM>
 </w.rf>
 <form>Herzog</form>
-<tag lemma="Herzog_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herzog_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-098-p3s4w2">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-lnd92254-098-p3s5w1</LM>
 </w.rf>
 <form>Polster</form>
-<tag lemma="Polster_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polster_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-098-p3s5w2">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd92254-098-p3s6w1</LM>
 </w.rf>
 <form>Stöger</form>
-<tag lemma="Stöger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stöger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-098-p3s6w2">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-lnd92254-098-p3s7w1</LM>
 </w.rf>
 <form>Ogris</form>
-<tag lemma="Ogris_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ogris_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-098-p3s7w2">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-lnd92254-098-p3s8w1</LM>
 </w.rf>
 <form>Zohar</form>
-<tag lemma="Zohar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zohar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-098-p3s8w2">
 <src.rf>manual</src.rf>

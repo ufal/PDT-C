@@ -585,10 +585,10 @@
 </w.rf>
 <form>li</form>
 <tag>
-<AM lemma="li-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="li-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-035-p4s1Aw4">

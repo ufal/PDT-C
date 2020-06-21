@@ -292,7 +292,7 @@
 </w.rf>
 <form>BTA</form>
 <tag>
-<AM lemma="BTA-1_:B_;K_,t_^(Balgarska_telegrafna_agencija)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BTA-1_:B_;m_,t_^(Balgarska_telegrafna_agencija)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -351,8 +351,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-081-p2s2w15">
@@ -662,7 +662,7 @@
 <LM>w#w-ln95047-081-p2s3w36</LM>
 </w.rf>
 <form>Najdenov</form>
-<tag lemma="Najdenov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Najdenov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-081-p2s3w37">
 <src.rf>manual</src.rf>

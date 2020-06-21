@@ -127,7 +127,7 @@
 <LM>w#w-ln95041-015-p2s1Bw3</LM>
 </w.rf>
 <form>Horvátha</form>
-<tag lemma="Horváth_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Horváth_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-015-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln95041-015-p4s1w6</LM>
 </w.rf>
 <form>Horváthova</form>
-<tag lemma="Horváthův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Horváthův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95041-015-p4s1w7">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln95041-015-p4s2w1</LM>
 </w.rf>
 <form>Horváth</form>
-<tag lemma="Horváth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horváth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-015-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln95041-015-p4s5w1</LM>
 </w.rf>
 <form>Horváth</form>
-<tag lemma="Horváth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horváth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-015-p4s5w2">
 <src.rf>manual</src.rf>
@@ -1407,7 +1407,7 @@
 <LM>w#w-ln95041-015-p5s1w7</LM>
 </w.rf>
 <form>Horváth</form>
-<tag lemma="Horváth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horváth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-015-p5s1w8">
 <src.rf>manual</src.rf>

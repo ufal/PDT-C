@@ -51,7 +51,7 @@
 <LM>w#w-ln95047-031-p1s1w5</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p1s1w6">
 <src.rf>manual</src.rf>
@@ -76,9 +76,9 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV_:B_^(Human_Imunodeficiency_Virus)" src="manual">NNXXX-----A----</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -179,7 +179,7 @@
 <LM>w#w-ln95047-031-p2s1Bw10</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -247,8 +247,8 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-031-p2s1Bw19">
@@ -736,7 +736,7 @@
 </w.rf>
 <form>ABC</form>
 <tag>
-<AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ABC-4_:B_;m_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -872,7 +872,7 @@
 </w.rf>
 <form>Sun</form>
 <tag>
-<AM lemma="Sun_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sun_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Sun-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -891,7 +891,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1002,7 +1002,7 @@
 <LM>w#w-ln95047-031-p3s3w12</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 <LM>w#w-ln95047-031-p4s1w5</LM>
 </w.rf>
 <form>Louganise</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-031-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1424,7 +1424,7 @@
 <LM>w#w-ln95047-031-p4s3w4</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1529,7 +1529,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-2_:B_^(Olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2172,7 +2172,7 @@
 <LM>w#w-ln95047-031-p4s8w27</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p4s8w28">
 <src.rf>manual</src.rf>
@@ -2231,9 +2231,9 @@
 </w.rf>
 <form>Gary</form>
 <tag>
-<AM lemma="Gary_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gary_;Y_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Gary_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gary_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gary_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Gary_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-031-p4s9w7">
@@ -2242,7 +2242,7 @@
 <LM>w#w-ln95047-031-p4s9w7</LM>
 </w.rf>
 <form>Cohan</form>
-<tag lemma="Cohan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cohan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p4s9w8">
 <src.rf>manual</src.rf>
@@ -2315,8 +2315,8 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-031-p4s9w17">
@@ -2455,7 +2455,7 @@
 <LM>w#w-ln95047-031-p5s1w2</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2792,7 +2792,7 @@
 </w.rf>
 <form>El</form>
 <tag>
-<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3229,7 +3229,7 @@
 <form>Leeho</form>
 <tag>
 <AM lemma="Lee_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lee_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Lee_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-031-p6s1w7">
@@ -3294,7 +3294,7 @@
 <LM>w#w-ln95047-031-p6s1w14</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-031-p6s1w15">
 <src.rf>manual</src.rf>
@@ -3621,7 +3621,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m" src="orig">AAXXX----1A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -3682,7 +3682,7 @@
 <form>b</form>
 <tag>
 <AM lemma="bod_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="bod" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>

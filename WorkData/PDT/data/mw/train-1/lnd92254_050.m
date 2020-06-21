@@ -71,7 +71,7 @@
 <LM>w#w-lnd92254-050-p3s1w3</LM>
 </w.rf>
 <form>dos</form>
-<tag lemma="dos-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dos-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92254-050-p3s1w4">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-050-p3s5w16">
@@ -693,7 +693,7 @@
 <LM>w#w-lnd92254-050-p3s5w17</LM>
 </w.rf>
 <form>Černák</form>
-<tag lemma="Černák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-050-p3s5w18">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

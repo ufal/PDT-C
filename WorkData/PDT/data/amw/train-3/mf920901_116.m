@@ -420,7 +420,7 @@
 <LM>w#w-mf920901-116-p2s3w22</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-116-p2s3w23">
 <src.rf>manual</src.rf>

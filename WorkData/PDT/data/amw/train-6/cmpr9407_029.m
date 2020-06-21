@@ -1429,7 +1429,7 @@
 <LM>w#w-cmpr9407-029-p6s1w2</LM>
 </w.rf>
 <form>Bouček</form>
-<tag lemma="Bouček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bouček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-029-p6s1w3">
 <src.rf>manual</src.rf>

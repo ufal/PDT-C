@@ -247,8 +247,8 @@
 </w.rf>
 <form>EBERHARDT</form>
 <tag>
-<AM lemma="Eberhardt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eberhardt_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eberhardt_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eberhardt_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-016-p2s1w25">
@@ -257,7 +257,7 @@
 <LM>w#w-ln95042-016-p2s1w25</LM>
 </w.rf>
 <form>HAUPTBAHNHOF</form>
-<tag lemma="Hauptbahnhof_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hauptbahnhof_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-016-p2s1w26">
 <src.rf>manual</src.rf>
@@ -339,8 +339,8 @@
 </w.rf>
 <form>TORST</form>
 <tag>
-<AM lemma="Torst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Torst-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Torst_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Torst-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-016-p2s1w36">
@@ -476,7 +476,7 @@
 <LM>w#w-ln95042-016-p3s1w10</LM>
 </w.rf>
 <form>Hauptbahnhof</form>
-<tag lemma="Hauptbahnhof_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hauptbahnhof_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-016-p3s1w11">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-ln95042-016-p3s1w20</LM>
 </w.rf>
 <form>JAMKA</form>
-<tag lemma="Jamek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jamek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-016-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-ln95042-016-p3s4w1</LM>
 </w.rf>
 <form>Jamkovu</form>
-<tag lemma="Jamkův-1_;S_^(*4a-1)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Jamkův-1_;Y_^(*4a-1)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95042-016-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1355,7 +1355,7 @@
 <LM>w#w-ln95042-016-p4s1w10</LM>
 </w.rf>
 <form>Hauptbahnhofova</form>
-<tag lemma="Hauptbahnhofův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Hauptbahnhofův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95042-016-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1500,7 +1500,7 @@
 <LM>w#w-ln95042-016-p4s2w15</LM>
 </w.rf>
 <form>dada</form>
-<tag lemma="dada" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="dada" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95042-016-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1707,7 +1707,7 @@
 <LM>w#w-ln95042-016-p4s4w5</LM>
 </w.rf>
 <form>Hauptbahnhof</form>
-<tag lemma="Hauptbahnhof_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hauptbahnhof_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-016-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1837,7 +1837,7 @@
 <LM>w#w-ln95042-016-p4s5w7</LM>
 </w.rf>
 <form>Jamek</form>
-<tag lemma="Jamek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jamek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-016-p4s5w8">
 <src.rf>manual</src.rf>
@@ -1941,7 +1941,7 @@
 <LM>w#w-ln95042-016-p4s5w20</LM>
 </w.rf>
 <form>Stjörnvalssona</form>
-<tag lemma="Stjörnvalsson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stjörnvalsson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-016-p4s5w21">
 <src.rf>manual</src.rf>
@@ -2103,7 +2103,7 @@
 <LM>w#w-ln95042-016-p4s6w3</LM>
 </w.rf>
 <form>Jamek</form>
-<tag lemma="Jamek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jamek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-016-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2967,7 +2967,7 @@
 <LM>w#w-ln95042-016-p4s8w14</LM>
 </w.rf>
 <form>Hauptbahnhofově</form>
-<tag lemma="Hauptbahnhofův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Hauptbahnhofův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln95042-016-p4s8w15">
 <src.rf>manual</src.rf>
@@ -3151,7 +3151,7 @@
 <LM>w#w-ln95042-016-p4s9w1</LM>
 </w.rf>
 <form>Hauptbahnhofovým</form>
-<tag lemma="Hauptbahnhofův_;S_^(*2)" src="orig" selected="1">AUMS7M---------</tag>
+<tag lemma="Hauptbahnhofův_;Y_^(*2)" src="orig" selected="1">AUMS7M---------</tag>
 </m>
 <m id="m-ln95042-016-p4s9w2">
 <src.rf>manual</src.rf>
@@ -3568,7 +3568,7 @@
 <LM>w#w-ln95042-016-p5s1w8</LM>
 </w.rf>
 <form>Eberhardta</form>
-<tag lemma="Eberhardt_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Eberhardt_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-016-p5s1w9">
 <src.rf>manual</src.rf>
@@ -3576,7 +3576,7 @@
 <LM>w#w-ln95042-016-p5s1w9</LM>
 </w.rf>
 <form>Hauptbahnhofa</form>
-<tag lemma="Hauptbahnhof_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hauptbahnhof_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-016-p5s1w10">
 <src.rf>manual</src.rf>
@@ -3608,7 +3608,7 @@
 <LM>w#w-ln95042-016-p5s1w13</LM>
 </w.rf>
 <form>Jamka</form>
-<tag lemma="Jamek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jamek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-016-p5s1w14">
 <src.rf>manual</src.rf>
@@ -4163,8 +4163,8 @@
 </w.rf>
 <form>Eberhardt</form>
 <tag>
-<AM lemma="Eberhardt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eberhardt_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eberhardt_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eberhardt_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-016-p5s5w12">
@@ -4173,7 +4173,7 @@
 <LM>w#w-ln95042-016-p5s5w12</LM>
 </w.rf>
 <form>Hauptbahnhof</form>
-<tag lemma="Hauptbahnhof_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hauptbahnhof_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-016-p5s5w13">
 <src.rf>manual</src.rf>
@@ -4224,8 +4224,8 @@
 </w.rf>
 <form>TORST</form>
 <tag>
-<AM lemma="Torst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Torst-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Torst_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Torst-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-016-p5s6w3">
@@ -4294,7 +4294,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-016-p5s7w5">
@@ -4311,7 +4311,7 @@
 <LM>w#w-ln95042-016-p5s7w6</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-016-p5s7w7">
 <src.rf>manual</src.rf>

@@ -88,7 +88,7 @@
 <LM>w#w-mf920924-112-p2s1w6</LM>
 </w.rf>
 <form>Neveselý</form>
-<tag lemma="Neveselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neveselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-112-p3s1">

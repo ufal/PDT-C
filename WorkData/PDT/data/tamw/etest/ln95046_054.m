@@ -35,7 +35,7 @@
 <LM>w#w-ln95046-054-p1s1w3</LM>
 </w.rf>
 <form>Velíšek</form>
-<tag lemma="Velíšek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Velíšek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-054-p1s1w4">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-ln95046-054-p1s1w7</LM>
 </w.rf>
 <form>Rajčan</form>
-<tag lemma="Rajčan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rajčan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-054-p1s1w8">
 <src.rf>manual</src.rf>

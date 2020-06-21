@@ -429,7 +429,7 @@
 <LM>w#w-mf920924-021-p2s3w12</LM>
 </w.rf>
 <form>Krajčovič</form>
-<tag lemma="Krajčovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krajčovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-021-p2s3w13">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -911,7 +911,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1133,7 +1133,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1317,7 +1317,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

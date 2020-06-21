@@ -179,7 +179,7 @@
 <LM>w#w-lnd92255-123-p1s2w4</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-123-p1s2w5">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-lnd92255-123-p1s2w14</LM>
 </w.rf>
 <form>Westinghouse</form>
-<tag lemma="Westinghouse_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Westinghouse_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-123-p1s2w15">
 <src.rf>manual</src.rf>

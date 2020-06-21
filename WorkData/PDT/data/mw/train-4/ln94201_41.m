@@ -77,7 +77,7 @@
 <LM>w#w-ln94201-41-p2s1w2</LM>
 </w.rf>
 <form>Tošovský</form>
-<tag lemma="Tošovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tošovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-41-p2s1w3">
 <src.rf>manual</src.rf>
@@ -2557,7 +2557,7 @@
 </w.rf>
 <form>EPA</form>
 <tag>
-<AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EPA-1_:B_;m_,t_^(Environmental_Protection_Agency)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

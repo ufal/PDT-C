@@ -542,7 +542,7 @@
 <LM>w#w-lnd94105-123-p1s5w11</LM>
 </w.rf>
 <form>Belica</form>
-<tag lemma="Belica-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Belica-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-123-p1s5w12">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-lnd94105-123-p1s8w2</LM>
 </w.rf>
 <form>Belica</form>
-<tag lemma="Belica-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Belica-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-123-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-lnd94105-123-p1s9w14</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-123-p1s9w15">
 <src.rf>manual</src.rf>
@@ -1234,7 +1234,7 @@
 <form>Transit</form>
 <tag>
 <AM lemma="transit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Transit-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Transit-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-123-p1s9w16">
@@ -1447,7 +1447,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-123-p1s10w20">
@@ -1464,7 +1464,7 @@
 <LM>w#w-lnd94105-123-p1s10w21</LM>
 </w.rf>
 <form>Belica</form>
-<tag lemma="Belica-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Belica-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-123-p1s10w22">
 <src.rf>manual</src.rf>

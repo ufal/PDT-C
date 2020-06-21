@@ -290,7 +290,7 @@
 <LM>w#w-ln94208-51-p2s1Bw23</LM>
 </w.rf>
 <form>Skalického</form>
-<tag lemma="Skalický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Skalický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-51-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-ln94208-51-p3s1w8</LM>
 </w.rf>
 <form>Bendu</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-51-p3s1w9">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94208-51-p3s1w19</LM>
 </w.rf>
 <form>Staňka</form>
-<tag lemma="Staněk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Staněk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-51-p3s1w20">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-51-p3s3w3">
@@ -813,7 +813,7 @@
 <LM>w#w-ln94208-51-p3s3w4</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-51-p3s3w5">
 <src.rf>manual</src.rf>

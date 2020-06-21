@@ -437,12 +437,12 @@
 <AM lemma="Ir_;E" src="orig">NNMP1-----A----</AM>
 <AM lemma="Ir_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Ir_;E" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Irová_;S" src="auto">NNFP1-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFP4-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS2-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS3-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS6-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP1-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP4-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP5-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS2-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-131-p2s3w11">

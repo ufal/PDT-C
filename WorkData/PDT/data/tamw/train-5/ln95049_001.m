@@ -802,7 +802,7 @@
 <LM>w#w-ln95049-001-p5s2w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95049-001-p5s2w9">
 <src.rf>manual</src.rf>

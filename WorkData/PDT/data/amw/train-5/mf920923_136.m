@@ -193,7 +193,7 @@
 <LM>w#w-mf920923-136-p2s2w10</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920923-136-p2s2w11">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 </w.rf>
 <form>SL</form>
 <tag>
-<AM lemma="SL_:B_;R" src="orig">NNXXX-----A----</AM>
+<AM lemma="SL_:B_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="SL_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto">NNFXX-----A---8</AM>

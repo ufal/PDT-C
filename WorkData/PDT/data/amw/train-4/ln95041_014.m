@@ -179,7 +179,7 @@
 <LM>w#w-ln95041-014-p1s1w21</LM>
 </w.rf>
 <form>Šibík</form>
-<tag lemma="Šibík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šibík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-014-p1s1w22">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-ln95041-014-p1s2w27</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln95041-014-p1s2w28">
 <src.rf>manual</src.rf>

@@ -86,8 +86,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-006-p2s1w4">
@@ -104,7 +104,7 @@
 <LM>w#w-mf930702-006-p2s1w5</LM>
 </w.rf>
 <form>hč</form>
-<tag lemma="hč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="hč-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-006-p2s1w6">
 <src.rf>manual</src.rf>

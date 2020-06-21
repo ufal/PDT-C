@@ -61,7 +61,7 @@
 <LM>w#w-ln94200-17-p2s1w2</LM>
 </w.rf>
 <form>Lustig</form>
-<tag lemma="Lustig_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lustig_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-17-p2s1w3">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 </w.rf>
 <form>American</form>
 <tag>
-<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="orig">AAXXX----1A----</AM>
+<AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="orig">AAXXX----1A----</AM>
 <AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -251,7 +251,7 @@
 </w.rf>
 <form>University</form>
 <tag>
-<AM lemma="University_;K_,t_^(angl.,_v_názvech)" src="orig">NNFSX-----A----</AM>
+<AM lemma="University_;m_,t_^(angl.,_v_názvech)" src="orig">NNFXX-----A----</AM>
 <AM lemma="University-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -585,7 +585,7 @@
 <LM>w#w-ln94200-17-p2s4w20</LM>
 </w.rf>
 <form>Lustigovy</form>
-<tag lemma="Lustigův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Lustigův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94200-17-p2s4w21">
 <src.rf>manual</src.rf>
@@ -660,9 +660,9 @@
 </w.rf>
 <form>ap</form>
 <tag>
-<AM lemma="ap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ap-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="apod_:B_^(a_podobně)" src="auto" recommended="1">Db------------9</AM>
-<AM lemma="ap-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ap-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-17-p2s5w3">
@@ -688,8 +688,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-17-p2s5w6">

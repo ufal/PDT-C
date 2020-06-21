@@ -961,7 +961,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-008-p5s2w13">
@@ -980,7 +980,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-008-p5s2w15">
@@ -1052,7 +1052,7 @@
 <LM>w#w-cmpr9413-008-p5s2w22</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9413-008-p5s2w23">
 <src.rf>manual</src.rf>
@@ -2833,7 +2833,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-008-p9s1w15">
@@ -2852,7 +2852,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-008-p9s1w17">
@@ -3181,7 +3181,7 @@
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="F-77" src="manual">F%-------------</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-008-p11s1w2">
@@ -3199,8 +3199,8 @@
 </w.rf>
 <form>V</form>
 <tag>
-<AM lemma="V-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-008-p11s1w4">

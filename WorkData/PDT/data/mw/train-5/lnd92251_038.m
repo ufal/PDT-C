@@ -28,8 +28,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-038-p1s1w3">
@@ -523,8 +523,8 @@
 </w.rf>
 <form>Ernst</form>
 <tag>
-<AM lemma="Ernst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ernst_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ernst_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ernst_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-038-p2s1w24">
@@ -533,7 +533,7 @@
 <LM>w#w-lnd92251-038-p2s1w24</LM>
 </w.rf>
 <form>Remer</form>
-<tag lemma="Remer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Remer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-038-p2s1w25">
 <src.rf>manual</src.rf>

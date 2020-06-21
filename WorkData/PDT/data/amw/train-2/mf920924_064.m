@@ -61,7 +61,7 @@
 <LM>w#w-mf920924-064-p2s1w3</LM>
 </w.rf>
 <form>peo</form>
-<tag lemma="peo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="peo-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920924-064-p2s1w4">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-3`500" src="orig">C}-------------</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-064-p2s2w14">

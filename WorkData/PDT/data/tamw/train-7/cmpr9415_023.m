@@ -70,9 +70,9 @@
 </w.rf>
 <form>Gorenje</form>
 <tag>
-<AM lemma="Gorenje_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Gorenje_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Gorenje_;K" src="manual" selected="1">NNFSX-----A----</AM>
+<AM lemma="Gorenje_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Gorenje_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Gorenje_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -513,9 +513,9 @@
 </w.rf>
 <form>Gorenje</form>
 <tag>
-<AM lemma="Gorenje_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Gorenje_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Gorenje_;K" src="manual" selected="1">NNFSX-----A----</AM>
+<AM lemma="Gorenje_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Gorenje_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Gorenje_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-023-p5s2w5">
@@ -835,9 +835,9 @@
 </w.rf>
 <form>Gorenje</form>
 <tag>
-<AM lemma="Gorenje_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Gorenje_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Gorenje_;K" src="manual" selected="1">NNFSX-----A----</AM>
+<AM lemma="Gorenje_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Gorenje_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Gorenje_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-023-p6s3w7">
@@ -1280,7 +1280,7 @@
 </w.rf>
 <form>Urh</form>
 <tag>
-<AM lemma="Urh_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Urh_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Urho_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -1315,9 +1315,9 @@
 </w.rf>
 <form>Gorenje</form>
 <tag>
-<AM lemma="Gorenje_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Gorenje_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Gorenje_;K" src="manual" selected="1">NNFSX-----A----</AM>
+<AM lemma="Gorenje_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Gorenje_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Gorenje_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-023-p7s3w25">
@@ -1628,9 +1628,9 @@
 </w.rf>
 <form>Gorenje</form>
 <tag>
-<AM lemma="Gorenje_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Gorenje_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Gorenje_;K" src="manual" selected="1">NNFSX-----A----</AM>
+<AM lemma="Gorenje_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Gorenje_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Gorenje_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-023-p9s1w4">
@@ -1712,7 +1712,7 @@
 <LM>w#w-cmpr9415-023-p9s1w12</LM>
 </w.rf>
 <form>Vodičkova</form>
-<tag lemma="Vodičkův_;S_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Vodičkův_;Y_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9415-023-p9s1w13">
 <src.rf>manual</src.rf>

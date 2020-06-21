@@ -38,8 +38,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNMPX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNMPX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-094-p1s3w2">

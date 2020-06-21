@@ -43,7 +43,7 @@
 <LM>w#w-lnd94101-027-p1s1w4</LM>
 </w.rf>
 <form>Radkovský</form>
-<tag lemma="Radkovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radkovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-027-p1s1w5">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 </w.rf>
 <form>Jiří</form>
 <tag>
-<AM lemma="Jiří_;K" src="orig">NNMXX-----A----</AM>
+<AM lemma="Jiří_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMP1-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMP5-----A----</AM>
@@ -438,7 +438,7 @@
 </w.rf>
 <form>Iko</form>
 <tag>
-<AM lemma="Iko_;K" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Iko_;m" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Ica_;G" src="auto" recommended="1">NNFS5-----A----</AM>
 <AM lemma="Ika_;G" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -719,8 +719,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-027-p1s5w3">

@@ -55,8 +55,8 @@
 </w.rf>
 <form>Baez</form>
 <tag>
-<AM lemma="Baez_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baez-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Baez_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Baez-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -196,7 +196,7 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -223,7 +223,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="StB_;m_^(Státní_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -299,7 +299,7 @@
 </w.rf>
 <form>Joan</form>
 <tag>
-<AM lemma="Joan_;Y" src="orig">NNFSX-----A----</AM>
+<AM lemma="Joan_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Joana_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Joan_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
@@ -310,7 +310,7 @@
 <LM>w#w-mf930702-047-p2s1w30</LM>
 </w.rf>
 <form>Baezové</form>
-<tag lemma="Baezová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Baezová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-047-p2s1w31">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 </w.rf>
 <form>BACKWARDS</form>
 <tag>
-<AM lemma="backwards_;R_,t" src="orig">Db-------------</AM>
+<AM lemma="backwards_;m_,t" src="orig">Db-------------</AM>
 <AM lemma="BACKWARDS-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -400,7 +400,7 @@
 </w.rf>
 <form>Virgin</form>
 <tag>
-<AM lemma="Virgin_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Virgin_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Virgina_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Virgin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -510,7 +510,7 @@
 </w.rf>
 <form>Recently</form>
 <tag>
-<AM lemma="Recently_;R_,t" src="orig">Db-------------</AM>
+<AM lemma="Recently_;m_,t" src="orig">Db-------------</AM>
 <AM lemma="Recently-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -555,7 +555,7 @@
 <form_change>spell</form_change>
 <form>Speaking</form>
 <tag>
-<AM lemma="Speaking_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Speaking_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Speaking-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -577,7 +577,7 @@
 </w.rf>
 <form>Dreams</form>
 <tag>
-<AM lemma="Dream_;R_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Dream_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dreams-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -903,7 +903,7 @@
 <LM>w#w-mf930702-047-p3s1w16</LM>
 </w.rf>
 <form>Baezová</form>
-<tag lemma="Baezová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Baezová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-047-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <form>Abraham</form>
 <tag>
 <AM lemma="Abrahám_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abraham_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abraham_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-047-p3s1w33">
@@ -1565,7 +1565,7 @@
 </w.rf>
 <form>Janis</form>
 <tag>
-<AM lemma="Janis_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Janis_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Janis-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -1581,7 +1581,7 @@
 <AM lemma="Ian_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Ianus_;Y_,t_,x" src="auto">NNMP1-----A----</AM>
 <AM lemma="Ianus_;Y_,t_,x" src="auto">NNMP5-----A----</AM>
-<AM lemma="Ianová_;S" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Ianová_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-047-p3s3w36">
@@ -1616,7 +1616,7 @@
 <form>Chapin</form>
 <tag>
 <AM lemma="Chapin_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Chapin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chapin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Chapin-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -1626,7 +1626,7 @@
 <LM>w#w-mf930702-047-p3s3w40</LM>
 </w.rf>
 <form>Carpenterové</form>
-<tag lemma="Carpenterová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Carpenterová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-047-p3s3w41">
 <src.rf>manual</src.rf>
@@ -1650,7 +1650,7 @@
 <LM>w#w-mf930702-047-p3s3w43</LM>
 </w.rf>
 <form>Hiatta</form>
-<tag lemma="Hiatt_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hiatt_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-047-p3s3w44">
 <src.rf>manual</src.rf>
@@ -1674,7 +1674,7 @@
 <LM>w#w-mf930702-047-p3s3w46</LM>
 </w.rf>
 <form>Stewarta</form>
-<tag lemma="Stewart-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stewart-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-047-p3s3w47">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-mf930702-047-p3s4w6</LM>
 </w.rf>
 <form>Greenberg</form>
-<tag lemma="Greenberg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Greenberg_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-047-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1768,8 +1768,8 @@
 </w.rf>
 <form>Wally</form>
 <tag>
-<AM lemma="Wally_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Wally_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wally_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wally_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-047-p3s4w10">
@@ -1778,7 +1778,7 @@
 <LM>w#w-mf930702-047-p3s4w10</LM>
 </w.rf>
 <form>Wilson</form>
-<tag lemma="Wilson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wilson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-047-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1893,7 +1893,7 @@
 <LM>w#w-mf930702-047-p3s4w24</LM>
 </w.rf>
 <form>Baezové</form>
-<tag lemma="Baezová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Baezová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930702-047-p3s4w25">
 <src.rf>manual</src.rf>
@@ -2193,7 +2193,7 @@
 <form>Abraham</form>
 <tag>
 <AM lemma="Abrahám_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abraham_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abraham_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-047-p3s4w60">
@@ -2236,7 +2236,7 @@
 <LM>w#w-mf930702-047-p3s5w3</LM>
 </w.rf>
 <form>Baezové</form>
-<tag lemma="Baezová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Baezová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-047-p3s5w4">
 <src.rf>manual</src.rf>
@@ -2422,7 +2422,7 @@
 <LM>w#w-mf930702-047-p4s1w2</LM>
 </w.rf>
 <form>Baezová</form>
-<tag lemma="Baezová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Baezová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-047-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2743,7 +2743,7 @@
 <LM>w#w-mf930702-047-p4s2w9</LM>
 </w.rf>
 <form>Baezové</form>
-<tag lemma="Baezová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Baezová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-047-p4s2w10">
 <src.rf>manual</src.rf>
@@ -2761,7 +2761,7 @@
 <form>Lucerna</form>
 <tag>
 <AM lemma="lucerna" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lucerna_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lucerna_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-047-p4s2w12">

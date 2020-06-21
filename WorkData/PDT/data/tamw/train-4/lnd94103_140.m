@@ -157,15 +157,15 @@
 </w.rf>
 <form>č</form>
 <tag>
-<AM lemma="č-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="č-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="č-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="č-33" src="auto">Q3-------------</AM>
 <AM lemma="č-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP2-----A----</AM>
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="číslo" src="manual">NNNXX-----A---8</AM>
-<AM lemma="č-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="č-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-140-p1s2w6">
@@ -183,8 +183,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-140-p1s2w8">
@@ -495,7 +495,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -571,7 +571,7 @@
 <LM>w#w-lnd94103-140-p1s4w8</LM>
 </w.rf>
 <form>Štěpančíkovou</form>
-<tag lemma="Štěpančíková_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Štěpančíková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94103-140-p1s4w9">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-lnd94103-140-p1s4w12</LM>
 </w.rf>
 <form>Zimmermannová</form>
-<tag lemma="Zimmermannová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zimmermannová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-140-p1s4w13">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-lnd94103-140-p1s4w14</LM>
 </w.rf>
 <form>Janáčkovou</form>
-<tag lemma="Janáčková_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Janáčková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94103-140-p1s4w15">
 <src.rf>manual</src.rf>
@@ -777,9 +777,9 @@
 </w.rf>
 <form>Jemeljanovové</form>
 <tag>
-<AM lemma="Jemeljanovová_;S" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Jemeljanov_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Jemeljanov_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Jemeljanovová_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Jemeljanov_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Jemeljanov_;Y" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-140-p1s5w14">
@@ -796,7 +796,7 @@
 <LM>w#w-lnd94103-140-p1s5w15</LM>
 </w.rf>
 <form>Timonovové</form>
-<tag lemma="Timonovová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Timonovová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-140-p1s5w16">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

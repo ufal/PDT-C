@@ -115,7 +115,7 @@
 <LM>w#w-mf920902-079-p1s1w13</LM>
 </w.rf>
 <form>Matějková</form>
-<tag lemma="Matějková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Matějková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s1w14">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <LM>w#w-mf920902-079-p1s1w21</LM>
 </w.rf>
 <form>Korotkevičovou</form>
-<tag lemma="Korotkevičová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Korotkevičová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s1w22">
 <src.rf>manual</src.rf>
@@ -396,8 +396,8 @@
 </w.rf>
 <form>Rainer</form>
 <tag>
-<AM lemma="Rainer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rainer_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rainer_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rainer_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-079-p1s4w7">
@@ -406,7 +406,7 @@
 <LM>w#w-mf920902-079-p1s4w7</LM>
 </w.rf>
 <form>Klimke</form>
-<tag lemma="Klimke_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klimke_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s4w8">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -620,7 +620,7 @@
 </w.rf>
 <form>Trittico</form>
 <tag>
-<AM lemma="Trittico_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Trittico_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Trittico-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -631,9 +631,9 @@
 </w.rf>
 <form>Veneto</form>
 <tag>
-<AM lemma="Veneto_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Veneta_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Veneto_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Veneto_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Veneta_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Veneto_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Veneto-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -675,7 +675,7 @@
 <LM>w#w-mf920902-079-p1s5w9</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Armstrong_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s5w10">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-mf920902-079-p1s5w13</LM>
 </w.rf>
 <form>Rebellinim</form>
-<tag lemma="Rebellini_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rebellini_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s5w14">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-mf920902-079-p1s5w15</LM>
 </w.rf>
 <form>Cassanim</form>
-<tag lemma="Cassani_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Cassani_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s5w16">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <LM>w#w-mf920902-079-p1s5w17</LM>
 </w.rf>
 <form>Chiappuccim</form>
-<tag lemma="Chiappucci_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Chiappucci_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s5w18">
 <src.rf>manual</src.rf>

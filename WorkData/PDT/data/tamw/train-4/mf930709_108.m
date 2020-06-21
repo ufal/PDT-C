@@ -86,8 +86,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-108-p2s1Aw6">
@@ -222,7 +222,7 @@
 <LM>w#w-mf930709-108-p2s1Bw14</LM>
 </w.rf>
 <form>Skloform</form>
-<tag lemma="Skloform_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Skloform_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-108-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <form>Ves</form>
 <tag>
 <AM lemma="Ves_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vesa_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Vesa_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="ves" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="ves" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -575,7 +575,7 @@
 <LM>w#w-mf930709-108-p2s3w1</LM>
 </w.rf>
 <form>Skloform</form>
-<tag lemma="Skloform_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Skloform_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-108-p2s3w2">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-mf930709-108-p2s4w1</LM>
 </w.rf>
 <form>Skloform</form>
-<tag lemma="Skloform_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Skloform_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-108-p2s4w2">
 <src.rf>manual</src.rf>

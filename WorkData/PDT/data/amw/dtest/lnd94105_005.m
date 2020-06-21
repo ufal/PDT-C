@@ -35,7 +35,7 @@
 <LM>w#w-lnd94105-005-p1s1w3</LM>
 </w.rf>
 <form>Koženého</form>
-<tag lemma="Kožený_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kožený_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s1w4">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-lnd94105-005-p1s3w6</LM>
 </w.rf>
 <form>Kredba</form>
-<tag lemma="Kredba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kredba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s3w7">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-lnd94105-005-p1s3w20</LM>
 </w.rf>
 <form>Koženého</form>
-<tag lemma="Kožený_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kožený_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s3w21">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-lnd94105-005-p1s3w23</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s3w24">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-lnd94105-005-p1s4w8</LM>
 </w.rf>
 <form>Šmerdovi</form>
-<tag lemma="Šmerda_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Šmerda_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s4w9">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-lnd94105-005-p1s4w12</LM>
 </w.rf>
 <form>Koženého</form>
-<tag lemma="Kožený_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kožený_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s4w13">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-lnd94105-005-p1s5w2</LM>
 </w.rf>
 <form>Šmerda</form>
-<tag lemma="Šmerda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmerda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s5w3">
 <src.rf>manual</src.rf>

@@ -329,7 +329,7 @@
 <LM>w#w-cmpr9410-016-p4s3w8</LM>
 </w.rf>
 <form>Hartmanem</form>
-<tag lemma="Hartman_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hartman_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9410-016-p4s3w9">
 <src.rf>manual</src.rf>
@@ -3380,7 +3380,7 @@
 <LM>w#w-cmpr9410-016-p16s1w28</LM>
 </w.rf>
 <form>Augusty</form>
-<tag lemma="Augusta_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Augusta_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-016-p16s1w29">
 <src.rf>manual</src.rf>
@@ -3505,7 +3505,7 @@
 <LM>w#w-cmpr9410-016-p16s2w11</LM>
 </w.rf>
 <form>Mánes</form>
-<tag lemma="Mánes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mánes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-016-p16s2w12">
 <src.rf>manual</src.rf>

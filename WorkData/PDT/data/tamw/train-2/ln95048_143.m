@@ -226,8 +226,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-143-p2s2w5">
@@ -660,8 +660,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-143-p2s4w18">
@@ -678,7 +678,7 @@
 <LM>w#w-ln95048-143-p2s4w19</LM>
 </w.rf>
 <form>Sosna</form>
-<tag lemma="Sosna-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sosna-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-143-p2s4w20">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-ln95048-143-p2s4w24</LM>
 </w.rf>
 <form>Thomayerovy</form>
-<tag lemma="Thomayerův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Thomayerův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95048-143-p2s4w25">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-ln95048-143-p2s6w5</LM>
 </w.rf>
 <form>Kubíček</form>
-<tag lemma="Kubíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-143-p2s6w6">
 <src.rf>manual</src.rf>

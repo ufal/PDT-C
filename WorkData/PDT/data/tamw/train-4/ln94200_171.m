@@ -77,7 +77,7 @@
 <LM>w#w-ln94200-171-p2s1w2</LM>
 </w.rf>
 <form>Soprová</form>
-<tag lemma="Soprová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Soprová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-171-p2s1B">

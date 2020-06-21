@@ -20,7 +20,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -189,7 +189,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -201,7 +201,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-86-p2s1Cw11">
@@ -218,7 +218,7 @@
 <LM>w#w-ln94200-86-p2s1Cw12</LM>
 </w.rf>
 <form>Hirše</form>
-<tag lemma="Hirš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hirš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-86-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94200-86-p2s3w1</LM>
 </w.rf>
 <form>Hirš</form>
-<tag lemma="Hirš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hirš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-86-p2s3w2">
 <src.rf>manual</src.rf>

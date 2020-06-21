@@ -107,7 +107,7 @@
 <LM>w#w-mf920901-054-p1s1w12</LM>
 </w.rf>
 <form>Scifem</form>
-<tag lemma="Scifo_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Scifo_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-054-p1s1w13">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 </w.rf>
 <form>der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -170,7 +170,7 @@
 </w.rf>
 <form>Elstem</form>
 <tag>
-<AM lemma="Elst-2_;S" src="orig" selected="1">NNMS7-----A----</AM>
+<AM lemma="Elst-2_;Y" src="orig" selected="1">NNMS7-----A----</AM>
 <AM lemma="Elst_;G" src="auto" recommended="1">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -188,7 +188,7 @@
 <LM>w#w-mf920901-054-p1s1w21</LM>
 </w.rf>
 <form>Emmers</form>
-<tag lemma="Emmers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Emmers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

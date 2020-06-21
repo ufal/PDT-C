@@ -1297,7 +1297,7 @@
 <LM>w#w-lnd92258-095-p4s1w8</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-095-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <LM>w#w-lnd92258-095-p4s2w3</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-095-p4s2w4">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 <LM>w#w-lnd92258-095-p5s3w10</LM>
 </w.rf>
 <form>Tigrida</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-095-p5s3w11">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-lnd92258-095-p5s3w15</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-095-p5s3w16">
 <src.rf>manual</src.rf>
@@ -2516,7 +2516,7 @@
 <LM>w#w-lnd92258-095-p6s1w2</LM>
 </w.rf>
 <form>HALÁMEK</form>
-<tag lemma="Halámek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Halámek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-095-p6s1w3">
 <src.rf>manual</src.rf>

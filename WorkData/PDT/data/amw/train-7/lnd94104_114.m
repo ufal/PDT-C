@@ -197,7 +197,7 @@
 <LM>w#w-lnd94104-114-p1s1Bw12</LM>
 </w.rf>
 <form>Sagis</form>
-<tag lemma="Sagis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sagis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s1Bw13">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-lnd94104-114-p1s1Bw21</LM>
 </w.rf>
 <form>Bendinelliho</form>
-<tag lemma="Bendinelli_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bendinelli_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s1Bw22">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-lnd94104-114-p1s2w5</LM>
 </w.rf>
 <form>Bendinelli</form>
-<tag lemma="Bendinelli_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bendinelli_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s2w6">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-lnd94104-114-p1s4w6</LM>
 </w.rf>
 <form>Sennova</form>
-<tag lemma="Sennův_;S_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Sennův_;Y_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-lnd94104-114-p1s4w7">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-lnd94104-114-p1s4w15</LM>
 </w.rf>
 <form>Ansa</form>
-<tag lemma="Ansa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ansa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s4w16">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-lnd94104-114-p1s5w6</LM>
 </w.rf>
 <form>Senna</form>
-<tag lemma="Senna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Senna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s5w7">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-lnd94104-114-p1s6w10</LM>
 </w.rf>
 <form>Fabbri</form>
-<tag lemma="Fabbri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fabbri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s6w11">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln95042-063-p1s1w2</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-063-p1s1w3">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95042-063-p2s1Aw3</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="em-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95042-063-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-ln95042-063-p5s2w2</LM>
 </w.rf>
 <form>Falbr</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-063-p5s2w3">
 <src.rf>manual</src.rf>

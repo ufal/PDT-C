@@ -35,7 +35,7 @@
 <LM>w#w-ln94205-75-p1s1w3</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-75-p1s1w4">
 <src.rf>manual</src.rf>
@@ -52,7 +52,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-75-p2s1A">
@@ -70,7 +70,7 @@
 <LM>w#w-ln94205-75-p2s1Aw2</LM>
 </w.rf>
 <form>Rybář</form>
-<tag lemma="Rybář_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rybář_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-75-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-ln94205-75-p2s1Bw6</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-75-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegovičem</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-75-p2s2w12">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-75-p2s3w30">
@@ -681,7 +681,7 @@
 <LM>w#w-ln94205-75-p2s3w31</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-75-p2s3w32">
 <src.rf>manual</src.rf>
@@ -714,9 +714,9 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-75-p2s3w36">
@@ -755,7 +755,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-75-p2s4w4">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-ln94205-75-p2s4w11</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-75-p2s4w12">
 <src.rf>manual</src.rf>

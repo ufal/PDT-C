@@ -522,8 +522,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-072-p1s5w8">
@@ -1033,7 +1033,7 @@
 <LM>w#w-lnd94103-072-p1s9w3</LM>
 </w.rf>
 <form>Křivonožky</form>
-<tag lemma="Křivonožka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Křivonožka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-072-p1s9w4">
 <src.rf>manual</src.rf>
@@ -1066,8 +1066,8 @@
 </w.rf>
 <form>Raiffeisenbank</form>
 <tag>
-<AM lemma="Raiffeisenbank_;K_;b_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Raiffeisenbank_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Raiffeisenbank_;m_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Raiffeisenbank_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-072-p1s9w8">

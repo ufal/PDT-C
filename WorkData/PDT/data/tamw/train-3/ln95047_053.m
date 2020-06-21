@@ -21,7 +21,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-053-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-ln95047-053-p1s1w3</LM>
 </w.rf>
 <form>Burton</form>
-<tag lemma="Burton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-053-p1s1w4">
 <src.rf>manual</src.rf>
@@ -88,7 +88,7 @@
 <LM>w#w-ln95047-053-p2s1w4</LM>
 </w.rf>
 <form>Burton</form>
-<tag lemma="Burton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-053-p2s1w5">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-ln95047-053-p2s2w5</LM>
 </w.rf>
 <form>Shakespearova</form>
-<tag lemma="Shakespearův_;S_^(*2e)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Shakespearův_;Y_^(*2e)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95047-053-p2s2w6">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <form>West</form>
 <tag>
 <AM lemma="West-2_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="West_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="West_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="west_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="West-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -449,7 +449,7 @@
 <LM>w#w-ln95047-053-p2s3w5</LM>
 </w.rf>
 <form>Brownsteina</form>
-<tag lemma="Brownstein_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brownstein_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-053-p2s3w6">
 <src.rf>manual</src.rf>

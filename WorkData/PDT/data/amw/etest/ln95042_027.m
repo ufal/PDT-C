@@ -19,7 +19,7 @@
 <LM>w#w-ln95042-027-p1s1w1</LM>
 </w.rf>
 <form>Mocová</form>
-<tag lemma="Mocová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mocová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-027-p1s1w2">
 <src.rf>manual</src.rf>

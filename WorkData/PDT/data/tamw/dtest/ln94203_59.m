@@ -79,7 +79,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-59-p2s1w2">
@@ -96,7 +96,7 @@
 <LM>w#w-ln94203-59-p2s1w3</LM>
 </w.rf>
 <form>Singer</form>
-<tag lemma="Singer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Singer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-59-p2s1w4">
 <src.rf>manual</src.rf>
@@ -129,8 +129,8 @@
 </w.rf>
 <form>AV</form>
 <tag>
-<AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AV_:B_;K_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-59-p2s1w8">
@@ -159,7 +159,7 @@
 </w.rf>
 <form>CERGE</form>
 <tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CERGE_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CERGE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5696,7 +5696,7 @@
 <LM>w#w-ln94203-59-p8s2w7</LM>
 </w.rf>
 <form>Dybovi</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-59-p8s2w8">
 <src.rf>manual</src.rf>
@@ -6259,7 +6259,7 @@
 <LM>w#w-ln94203-59-p9s1w7</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-59-p9s1w8">
 <src.rf>manual</src.rf>

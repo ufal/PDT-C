@@ -1165,7 +1165,7 @@
 <LM>w#w-lnd92256-008-p3s5w1</LM>
 </w.rf>
 <form>Becherovka</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-008-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1995,8 +1995,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-008-p4s4w22">
@@ -3400,7 +3400,7 @@
 <LM>w#w-lnd92256-008-p6s1w2</LM>
 </w.rf>
 <form>VEIS</form>
-<tag lemma="Veis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

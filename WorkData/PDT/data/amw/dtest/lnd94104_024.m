@@ -55,7 +55,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="orig">C}-------------</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-024-p1s1Bw3">
@@ -101,7 +101,7 @@
 </w.rf>
 <form>IVVM</form>
 <tag>
-<AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IVVM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1085,7 +1085,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1104,7 +1104,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1123,7 +1123,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="orig">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

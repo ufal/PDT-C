@@ -734,7 +734,7 @@
 <LM>w#w-ln95049-108-p2s6w2</LM>
 </w.rf>
 <form>Smolky</form>
-<tag lemma="Smolka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smolka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-108-p2s6w3">
 <src.rf>manual</src.rf>

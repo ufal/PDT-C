@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-011-p1s1w1</LM>
 </w.rf>
 <form>Littbarského</form>
-<tag lemma="Littbarski_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Littbarski_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-011-p1s1w2">
 <src.rf>manual</src.rf>

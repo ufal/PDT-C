@@ -158,7 +158,7 @@
 </w.rf>
 <form>BND</form>
 <tag>
-<AM lemma="Bundesnachrichttendienst_:B_;K_,t_^(spolk._zprav._služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Bundesnachrichttendienst_:B_;m_,t_^(spolk._zprav._služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BND-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -283,7 +283,7 @@
 </w.rf>
 <form>Bild</form>
 <tag>
-<AM lemma="Bild_;K_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bild_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Bild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -532,7 +532,7 @@
 <LM>w#w-mf920924-136-p3s1w12</LM>
 </w.rf>
 <form>Schmidbauer</form>
-<tag lemma="Schmidbauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schmidbauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-136-p3s1w13">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 </w.rf>
 <form>Bild</form>
 <tag>
-<AM lemma="Bild_;K_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bild_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Bild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -600,7 +600,7 @@
 </w.rf>
 <form>BND</form>
 <tag>
-<AM lemma="Bundesnachrichttendienst_:B_;K_,t_^(spolk._zprav._služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Bundesnachrichttendienst_:B_;m_,t_^(spolk._zprav._služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BND-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

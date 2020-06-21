@@ -61,7 +61,7 @@
 <LM>w#w-mf930702-066-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jsl-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-066-p2s1w4">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <form>Olymp</form>
 <tag>
 <AM lemma="Olymp_;G" src="orig">NNIS4-----A----</AM>
-<AM lemma="Olymp_;G_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Olymp_;G_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-066-p2s4w5">

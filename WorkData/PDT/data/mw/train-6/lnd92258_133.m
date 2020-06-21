@@ -20,8 +20,8 @@
 </w.rf>
 <form>Magic</form>
 <tag>
-<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
-<AM lemma="Magic_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Magica_;m_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magic_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-133-p1s1w2">
@@ -107,7 +107,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -142,8 +142,8 @@
 </w.rf>
 <form>Earvin</form>
 <tag>
-<AM lemma="Earvin_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Earvin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Earvin_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Earvin_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-133-p2s2w12">
@@ -161,8 +161,8 @@
 </w.rf>
 <form>Magic</form>
 <tag>
-<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
-<AM lemma="Magic_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Magica_;m_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magic_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-133-p2s2w14">
@@ -179,7 +179,7 @@
 <LM>w#w-lnd92258-133-p2s2w15</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-133-p2s2w16">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-lnd92258-133-p2s3w8</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-133-p2s3w9">
 <src.rf>manual</src.rf>
@@ -358,8 +358,8 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-133-p2s3w17">
@@ -565,7 +565,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -793,7 +793,7 @@
 <LM>w#w-lnd92258-133-p2s7w8</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-133-p2s7w9">
 <src.rf>manual</src.rf>

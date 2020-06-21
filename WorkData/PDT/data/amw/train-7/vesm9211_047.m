@@ -537,7 +537,7 @@
 <LM>w#w-vesm9211-047-p8s1w3</LM>
 </w.rf>
 <form>Vodňanský</form>
-<tag lemma="Vodňanský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodňanský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-047-p8s1w4">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <form>Wilhelm</form>
 <tag>
 <AM lemma="Wilhelm_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wilhelm_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wilhelm_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-047-p9s1w5">

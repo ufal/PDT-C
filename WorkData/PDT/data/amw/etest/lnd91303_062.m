@@ -1626,7 +1626,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1855,7 +1855,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5058,7 +5058,7 @@
 <LM>w#w-lnd91303-062-p6s3w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd91303-062-p6s3w10">
 <src.rf>manual</src.rf>
@@ -6023,9 +6023,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p6s8w40">
@@ -7722,7 +7722,7 @@
 <LM>w#w-lnd91303-062-p7s3w13</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd91303-062-p7s3w14">
 <src.rf>manual</src.rf>
@@ -7989,7 +7989,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -12491,7 +12491,7 @@
 <LM>w#w-lnd91303-062-p12s1w2</LM>
 </w.rf>
 <form>Hubálek</form>
-<tag lemma="Hubálek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hubálek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-062-p12s1w3">
 <src.rf>manual</src.rf>
@@ -13108,7 +13108,7 @@
 </w.rf>
 <form>OÚNZ</form>
 <tag>
-<AM lemma="OÚNZ_:B_;K_^(Okresní_ústav_národního_zdraví)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="OÚNZ_:B_;m_^(Okresní_ústav_národního_zdraví)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="OÚNZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -14304,7 +14304,7 @@
 </w.rf>
 <form>MZ</form>
 <tag>
-<AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MZ_:B_;m_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -14364,7 +14364,7 @@
 <LM>w#w-lnd91303-062-p13s1w2</LM>
 </w.rf>
 <form>Schlanger</form>
-<tag lemma="Schlanger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schlanger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-062-p13s1w3">
 <src.rf>manual</src.rf>
@@ -15853,7 +15853,7 @@
 <LM>w#w-lnd91303-062-p14s1w2</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-062-p14s1w3">
 <src.rf>manual</src.rf>
@@ -15926,7 +15926,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -17314,7 +17314,7 @@
 <LM>w#w-lnd91303-062-p15s1w2</LM>
 </w.rf>
 <form>RIEBAUEROVÁ</form>
-<tag lemma="Riebauerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Riebauerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

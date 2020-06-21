@@ -121,7 +121,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-031-p2s2w9">
@@ -138,7 +138,7 @@
 <LM>w#w-lnd92252-031-p2s2w10</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-031-p2s2w11">
 <src.rf>manual</src.rf>

@@ -507,7 +507,7 @@
 <LM>w#w-ln95042-083-p2s3w10</LM>
 </w.rf>
 <form>Vitásková</form>
-<tag lemma="Vitásková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vitásková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-083-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1060,8 +1060,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-083-p2s7w9">

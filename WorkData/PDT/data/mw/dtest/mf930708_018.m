@@ -87,8 +87,8 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual">J,-------------</AM>
-<AM lemma="li-99_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="li-99_:B_;Y" src="manual">J,-------------</AM>
+<AM lemma="li-99_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-018-p2s1w4">
@@ -541,7 +541,7 @@
 <LM>w#w-mf930708-018-p3s2w6</LM>
 </w.rf>
 <form>Pospíšilová</form>
-<tag lemma="Pospíšilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pospíšilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-018-p3s2w7">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-mf930708-018-p3s2w15</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-018-p3s2w16">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-mf930708-018-p3s2w19</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-018-p3s2w20">
 <src.rf>manual</src.rf>

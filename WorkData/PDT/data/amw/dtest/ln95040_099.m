@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-099-p1s1w1</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p1s1w2">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 <LM>w#w-ln95040-099-p2s1Bw4</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-ln95040-099-p2s3w3</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p2s3w4">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln95040-099-p3s4w4</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p3s4w5">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <AM lemma="Udo_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Udo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Udo_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Udo_;Y" src="manual">NNMSX-----A----</AM>
+<AM lemma="Udo_;Y" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-099-p3s4w8">
@@ -627,7 +627,7 @@
 <LM>w#w-ln95040-099-p3s4w8</LM>
 </w.rf>
 <form>Badera</form>
-<tag lemma="Bader_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bader_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-099-p3s4w9">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-ln95040-099-p3s5w8</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p3s5w9">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-ln95040-099-p3s5w10</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p3s5w11">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 <LM>w#w-ln95040-099-p3s5w17</LM>
 </w.rf>
 <form>Siemensu</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-ln95040-099-p3s5w18">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -917,7 +917,7 @@
 <LM>w#w-ln95040-099-p3s6w7</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p3s6w8">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-ln95040-099-p3s6w10</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p3s6w11">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-ln95040-099-p3s8w6</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-099-p3s8w7">
 <src.rf>manual</src.rf>

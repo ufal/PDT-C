@@ -36,8 +36,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-63-p1s1w4">
@@ -98,7 +98,7 @@
 <form>Bay</form>
 <tag>
 <AM lemma="Bay_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Bay-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bay-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bay-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bay-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="bay_,t" src="manual">NNXXX-----A----</AM>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94207-63-p2s1Aw6</LM>
 </w.rf>
 <form>Hamrlík</form>
-<tag lemma="Hamrlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hamrlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-63-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -177,7 +177,7 @@
 <LM>w#w-ln94207-63-p2s1Bw2</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-63-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -356,7 +356,7 @@
 <LM>w#w-ln94207-63-p2s1Cw19</LM>
 </w.rf>
 <form>Hamrlík</form>
-<tag lemma="Hamrlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hamrlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-63-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -405,8 +405,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-63-p2s1Cw26">
@@ -438,7 +438,7 @@
 </w.rf>
 <form>Lightning</form>
 <tag>
-<AM lemma="Lightning_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Lightning_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Lightning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -876,7 +876,7 @@
 <LM>w#w-ln94207-63-p2s3w12</LM>
 </w.rf>
 <form>Jelínkem</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-63-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-ln94207-63-p3s3w11</LM>
 </w.rf>
 <form>Hamrlík</form>
-<tag lemma="Hamrlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hamrlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-63-p3s3w12">
 <src.rf>manual</src.rf>
@@ -2298,7 +2298,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2694,7 +2694,7 @@
 <LM>w#w-ln94207-63-p3s12w22</LM>
 </w.rf>
 <form>Whalers</form>
-<tag lemma="Whalers_;K_,t_^(sport._klub)" src="orig" selected="1">NNMPX-----A----</tag>
+<tag lemma="Whalers_;m_,t_^(sport._klub)" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94207-63-p3s12w23">
 <src.rf>manual</src.rf>
@@ -3469,7 +3469,7 @@
 <LM>w#w-ln94207-63-p3s20w11</LM>
 </w.rf>
 <form>Klíma</form>
-<tag lemma="Klíma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klíma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-63-p3s20w12">
 <src.rf>manual</src.rf>

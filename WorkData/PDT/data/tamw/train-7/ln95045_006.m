@@ -405,7 +405,7 @@
 </w.rf>
 <form>JETRO</form>
 <tag>
-<AM lemma="JETRO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JETRO_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JETRO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -424,7 +424,7 @@
 </w.rf>
 <form>Saito</form>
 <tag>
-<AM lemma="Saito-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Saito-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Saito_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNS5-----A----</AM>
@@ -677,7 +677,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-006-p4s1w11">
@@ -695,7 +695,7 @@
 </w.rf>
 <form>Saita</form>
 <tag>
-<AM lemma="Saito-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Saito-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNP5-----A----</AM>
@@ -1150,7 +1150,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1226,7 +1226,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1271,7 +1271,7 @@
 </w.rf>
 <form>JETRO</form>
 <tag>
-<AM lemma="JETRO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JETRO_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JETRO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

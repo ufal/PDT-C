@@ -155,7 +155,7 @@
 <LM>w#w-lnd92259-043-p1s1w18</LM>
 </w.rf>
 <form>Myslbek</form>
-<tag lemma="Myslbek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Myslbek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-043-p1s1w19">
 <src.rf>manual</src.rf>

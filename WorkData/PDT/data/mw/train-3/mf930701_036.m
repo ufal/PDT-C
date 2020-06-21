@@ -61,7 +61,7 @@
 <LM>w#w-mf930701-036-p2s1w2</LM>
 </w.rf>
 <form>Náprstkovo</form>
-<tag lemma="Náprstkův_;S_^(*3ek)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Náprstkův_;Y_^(*3ek)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf930701-036-p2s1w3">
 <src.rf>manual</src.rf>

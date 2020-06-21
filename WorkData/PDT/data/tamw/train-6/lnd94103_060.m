@@ -86,8 +86,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-060-p1s2w3">
@@ -886,7 +886,7 @@
 <LM>w#w-lnd94103-060-p1s5w9</LM>
 </w.rf>
 <form>Steigerwald</form>
-<tag lemma="Steigerwald-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steigerwald-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-060-p1s5w10">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-lnd94103-060-p1s5w11</LM>
 </w.rf>
 <form>Pithart</form>
-<tag lemma="Pithart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pithart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-060-p1s5w12">
 <src.rf>manual</src.rf>
@@ -1214,7 +1214,7 @@
 <LM>w#w-lnd94103-060-p1s8w15</LM>
 </w.rf>
 <form>Nepomuckého</form>
-<tag lemma="Nepomucký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nepomucký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-060-p1s8w16">
 <src.rf>manual</src.rf>
@@ -3362,7 +3362,7 @@
 <LM>w#w-lnd94103-060-p1s19w20</LM>
 </w.rf>
 <form>Pitharta</form>
-<tag lemma="Pithart_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pithart_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-060-p1s19w21">
 <src.rf>manual</src.rf>
@@ -3548,7 +3548,7 @@
 <LM>w#w-lnd94103-060-p1s20w2</LM>
 </w.rf>
 <form>Paloušová</form>
-<tag lemma="Paloušová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Paloušová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-060-p1s20w3">
 <src.rf>manual</src.rf>

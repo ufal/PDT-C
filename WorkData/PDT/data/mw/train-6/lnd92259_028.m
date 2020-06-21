@@ -62,8 +62,8 @@
 </w.rf>
 <form>fsch</form>
 <tag>
-<AM lemma="fsch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fsch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fsch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fsch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-028-p2s1w4">
@@ -195,7 +195,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -207,7 +207,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-028-p2s2w16">
@@ -224,7 +224,7 @@
 <LM>w#w-lnd92259-028-p2s2w17</LM>
 </w.rf>
 <form>Indrucha</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-028-p2s2w18">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 </w.rf>
 <form>LB</form>
 <tag>
-<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-1_:B_;m_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="LB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -494,9 +494,9 @@
 </w.rf>
 <form>MP</form>
 <tag>
-<AM lemma="MP_:B_;K_^(Městská_policie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MP_:B_;m_^(Městská_policie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="mezzopiano_:B_;u_,t" src="auto">Db------------8</AM>
+<AM lemma="mezzopiano_:B_,t" src="auto">Db------------8</AM>
 <AM lemma="MP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -522,7 +522,7 @@
 <LM>w#w-lnd92259-028-p2s3w12</LM>
 </w.rf>
 <form>Fiala</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-028-p2s3w13">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-028-p2s5w7">
@@ -693,7 +693,7 @@
 <LM>w#w-lnd92259-028-p2s5w8</LM>
 </w.rf>
 <form>Indrucha</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-028-p2s5w9">
 <src.rf>manual</src.rf>
@@ -798,8 +798,8 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-028-p2s5w22">
@@ -898,7 +898,7 @@
 <LM>w#w-lnd92259-028-p2s6w2</LM>
 </w.rf>
 <form>Indruch</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-028-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-lnd92259-028-p2s7w9</LM>
 </w.rf>
 <form>Pernica</form>
-<tag lemma="Pernica_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pernica_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-028-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-028-p2s8w7">
@@ -1298,7 +1298,7 @@
 <LM>w#w-lnd92259-028-p2s8w8</LM>
 </w.rf>
 <form>Indrucha</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-028-p2s8w9">
 <src.rf>manual</src.rf>

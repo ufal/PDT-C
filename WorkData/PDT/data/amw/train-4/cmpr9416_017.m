@@ -226,9 +226,9 @@
 </w.rf>
 <form>AZ</form>
 <tag>
-<AM lemma="AZ-2_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AZ-2_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AZ-1_:B_;G_^(Azerbájdžán,_mez._zkr.)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Aza_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Aza_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="AZ-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -709,7 +709,7 @@
 <LM>w#w-cmpr9416-017-p5s3w2</LM>
 </w.rf>
 <form>Incheba</form>
-<tag lemma="Incheba_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Incheba_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-cmpr9416-017-p6s3w2</LM>
 </w.rf>
 <form>Incheba</form>
-<tag lemma="Incheba_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Incheba_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p6s3w3">
 <src.rf>manual</src.rf>
@@ -1234,8 +1234,8 @@
 <form>IDET</form>
 <tag>
 <AM lemma="IDET_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Idet_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Idet_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Idet_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Idet_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-017-p7s1w2">
@@ -2087,7 +2087,7 @@
 </w.rf>
 <form>EXPO</form>
 <tag>
-<AM lemma="Expo_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Expo_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Expo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2098,8 +2098,8 @@
 </w.rf>
 <form>LINE</form>
 <tag>
-<AM lemma="Line_;K_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Lin-1_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Line_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Lin-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Line-77" src="manual" selected="1">F%-------------</AM>
@@ -2779,7 +2779,7 @@
 <AM lemma="Habitat_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="habitat" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="habitat" src="auto">NNIS4-----A----</AM>
-<AM lemma="Habitat_;K_,m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Habitat_;m_,m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-017-p10s1w2">
@@ -2934,7 +2934,7 @@
 <LM>w#w-cmpr9416-017-p10s3w2</LM>
 </w.rf>
 <form>ABF</form>
-<tag lemma="ABF_:B_;K" src="auto" selected="1">NNFSX-----A---8</tag>
+<tag lemma="ABF_:B_;m" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9416-017-p10s3w3">
 <src.rf>manual</src.rf>
@@ -3422,7 +3422,7 @@
 <LM>w#w-cmpr9416-017-p11s3w2</LM>
 </w.rf>
 <form>Incheba</form>
-<tag lemma="Incheba_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Incheba_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p11s3w3">
 <src.rf>manual</src.rf>
@@ -3618,7 +3618,7 @@
 <LM>w#w-cmpr9416-017-p12s3w2</LM>
 </w.rf>
 <form>Rapid</form>
-<tag lemma="Rapid_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rapid_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p12s3w3">
 <src.rf>manual</src.rf>
@@ -4016,7 +4016,7 @@
 <LM>w#w-cmpr9416-017-p13s1w1</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="PC-1_:B_;m_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9416-017-p13s1w2">
 <src.rf>manual</src.rf>
@@ -4368,7 +4368,7 @@
 <LM>w#w-cmpr9416-017-p13s4w3</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="PC-1_:B_;m_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9416-017-p13s4w4">
 <src.rf>manual</src.rf>
@@ -4838,7 +4838,7 @@
 <LM>w#w-cmpr9416-017-p14s3w10</LM>
 </w.rf>
 <form>Husova</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9416-017-p14s3w11">
 <src.rf>manual</src.rf>
@@ -5397,7 +5397,7 @@
 <LM>w#w-cmpr9416-017-p16s1w1</LM>
 </w.rf>
 <form>MEDICA</form>
-<tag lemma="Medica_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Medica_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p16s1w2">
 <src.rf>manual</src.rf>
@@ -5647,7 +5647,7 @@
 <LM>w#w-cmpr9416-017-p16s3w6</LM>
 </w.rf>
 <form>Masarykova</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9416-017-p16s3w7">
 <src.rf>manual</src.rf>
@@ -5874,7 +5874,7 @@
 <LM>w#w-cmpr9416-017-p17s1w1</LM>
 </w.rf>
 <form>UNITED</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="United_;m_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9416-017-p17s1w2">
 <src.rf>manual</src.rf>
@@ -5882,7 +5882,7 @@
 <LM>w#w-cmpr9416-017-p17s1w2</LM>
 </w.rf>
 <form>GAMES</form>
-<tag lemma="Game_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag lemma="Game_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p17s1w3">
 <src.rf>manual</src.rf>
@@ -6012,7 +6012,7 @@
 <LM>w#w-cmpr9416-017-p17s3w2</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="United_;m_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9416-017-p17s3w3">
 <src.rf>manual</src.rf>
@@ -6020,7 +6020,7 @@
 <LM>w#w-cmpr9416-017-p17s3w3</LM>
 </w.rf>
 <form>Games</form>
-<tag lemma="Game_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag lemma="Game_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p17s3w4">
 <src.rf>manual</src.rf>
@@ -6360,7 +6360,7 @@
 <LM>w#w-cmpr9416-017-p18s3w19</LM>
 </w.rf>
 <form>Washingtonova</form>
-<tag lemma="Washingtonův-1_;S_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Washingtonův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9416-017-p18s3w20">
 <src.rf>manual</src.rf>

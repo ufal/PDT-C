@@ -62,7 +62,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -205,7 +205,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -312,8 +312,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-128-p4s2w28">
@@ -397,7 +397,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -415,7 +415,7 @@
 <LM>w#w-mf920923-128-p4s3w10</LM>
 </w.rf>
 <form>Ghafúr</form>
-<tag lemma="Ghafúr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ghafúr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-128-p4s3w11">
 <src.rf>manual</src.rf>
@@ -520,8 +520,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-128-p4s3w24">
@@ -548,7 +548,7 @@
 <LM>w#w-mf920923-128-p4s4w2</LM>
 </w.rf>
 <form>Ghafúrových</form>
-<tag lemma="Ghafúrův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Ghafúrův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf920923-128-p4s4w3">
 <src.rf>manual</src.rf>

@@ -94,8 +94,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-137-p2s1Aw4">
@@ -214,8 +214,8 @@
 </w.rf>
 <form>Cameron</form>
 <tag>
-<AM lemma="Cameron-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cameron-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cameron-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Cameron-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-137-p2s1Bw13">
@@ -224,7 +224,7 @@
 <LM>w#w-ln94206-137-p2s1Bw13</LM>
 </w.rf>
 <form>Curry</form>
-<tag lemma="Curry_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Curry_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-137-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -626,9 +626,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-137-p2s4w5">
@@ -739,7 +739,7 @@
 <LM>w#w-ln94206-137-p3s1w3</LM>
 </w.rf>
 <form>Curryové</form>
-<tag lemma="Curryová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Curryová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-137-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1008,8 +1008,8 @@
 </w.rf>
 <form>Camerona</form>
 <tag>
-<AM lemma="Cameron-1_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cameron-1_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Cameron-1_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cameron-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-137-p3s3w4">
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln94206-137-p3s3w4</LM>
 </w.rf>
 <form>Curryho</form>
-<tag lemma="Curry_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Curry_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-137-p3s3w5">
 <src.rf>manual</src.rf>
@@ -2022,7 +2022,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-137-p4s4w15">
@@ -2039,7 +2039,7 @@
 <LM>w#w-ln94206-137-p4s4w16</LM>
 </w.rf>
 <form>Curry</form>
-<tag lemma="Curry_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Curry_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-137-p4s4w17">
 <src.rf>manual</src.rf>
@@ -2302,7 +2302,7 @@
 <LM>w#w-ln94206-137-p5s1w12</LM>
 </w.rf>
 <form>Hráský</form>
-<tag lemma="Hráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-137-p5s1w13">
 <src.rf>manual</src.rf>

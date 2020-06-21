@@ -20,11 +20,11 @@
 </w.rf>
 <form>Flora</form>
 <tag>
-<AM lemma="Flora-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Flor_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Flor_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Flora-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Flor_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Flor_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flora_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flora_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-40-p1s1w2">
@@ -92,7 +92,7 @@
 </w.rf>
 <form>pet</form>
 <tag>
-<AM lemma="pet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -291,11 +291,11 @@
 </w.rf>
 <form>FLORA</form>
 <tag>
-<AM lemma="Flora-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Flor_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Flor_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Flora-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Flor_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Flor_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flora_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flora_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-40-p2s2w11">
@@ -541,12 +541,12 @@
 </w.rf>
 <form>Flora</form>
 <tag>
-<AM lemma="Flora-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Flor_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Flor_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Flora-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Flor_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Flor_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Flora-1_;K" src="manual">NNFS1-----A----</AM>
-<AM lemma="Flora_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Flora-1_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Flora_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-40-p2s4w2">
@@ -719,7 +719,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-40-p2s5w6">
@@ -736,7 +736,7 @@
 <LM>w#w-ln94204-40-p2s5w7</LM>
 </w.rf>
 <form>Sítař</form>
-<tag lemma="Sítař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sítař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-40-p2s5w8">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-ln94204-40-p2s6w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94204-40-p2s6w3">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-ln94204-40-p2s6w6</LM>
 </w.rf>
 <form>Martínek</form>
-<tag lemma="Martínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-40-p2s6w7">
 <src.rf>manual</src.rf>

@@ -353,7 +353,7 @@
 <LM>w#w-ln94205-77-p2s2w4</LM>
 </w.rf>
 <form>Emily</form>
-<tag lemma="Emily_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Emily_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-77-p2s2w5">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94205-77-p2s2w5</LM>
 </w.rf>
 <form>Lau</form>
-<tag lemma="Lau_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Lau_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-77-p2s2w6">
 <src.rf>manual</src.rf>

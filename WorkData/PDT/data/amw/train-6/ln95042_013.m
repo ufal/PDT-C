@@ -181,7 +181,7 @@
 <LM>w#w-ln95042-013-p2s1w15</LM>
 </w.rf>
 <form>Čapkově</form>
-<tag lemma="Čapkův_;S_^(*3ek)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Čapkův_;Y_^(*3ek)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln95042-013-p2s1w16">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-ln95042-013-p2s8w1</LM>
 </w.rf>
 <form>Čapkův</form>
-<tag lemma="Čapkův_;S_^(*3ek)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Čapkův_;Y_^(*3ek)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln95042-013-p2s8w2">
 <src.rf>manual</src.rf>
@@ -4883,8 +4883,8 @@
 </w.rf>
 <form>Kosmy</form>
 <tag>
-<AM lemma="Kosmas_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kosmas_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kosmas_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Kosmas_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-013-p2s27w4">
@@ -9465,8 +9465,8 @@
 </w.rf>
 <form>Pia</form>
 <tag>
-<AM lemma="Pius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pius_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Pius_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Pius_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-013-p3s23w9">

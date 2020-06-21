@@ -64,7 +64,7 @@
 <LM>w#w-lnd94104-069-p1s1Bw4</LM>
 </w.rf>
 <form>Sokol</form>
-<tag lemma="Sokol-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sokol-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-069-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -107,8 +107,8 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="OH-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OH-1_:B_;m_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-069-p1s1Cw3">
@@ -127,7 +127,7 @@
 <LM>w#w-lnd94104-069-p1s1Dw1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="Pan-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pan-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-069-p1s1Dw2">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-lnd94104-069-p1s1Dw3</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-069-p1s1Dw4">
 <src.rf>manual</src.rf>

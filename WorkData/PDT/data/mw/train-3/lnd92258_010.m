@@ -117,7 +117,7 @@
 <LM>w#w-lnd92258-010-p2s1w3</LM>
 </w.rf>
 <form>Čedokem</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p2s1w4">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-lnd92258-010-p3s4w5</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p3s4w6">
 <src.rf>manual</src.rf>
@@ -632,10 +632,10 @@
 <form_change>spell</form_change>
 <form>Sportturistu</form>
 <tag>
-<AM lemma="Sportturist_;K" src="orig">NNIS6-----A----</AM>
-<AM lemma="Sportturist_;K" src="auto">NNIS2-----A----</AM>
-<AM lemma="Sportturist_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Sportturist_;K" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Sportturist_;m" src="orig">NNIS6-----A----</AM>
+<AM lemma="Sportturist_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="Sportturist_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="Sportturist_;m" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-010-p3s5w10">
@@ -796,7 +796,7 @@
 <LM>w#w-lnd92258-010-p3s7w6</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p3s7w7">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-lnd92258-010-p4s6w3</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2229,7 +2229,7 @@
 <LM>w#w-lnd92258-010-p5s3w33</LM>
 </w.rf>
 <form>Patria</form>
-<tag lemma="Patria_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Patria_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p5s3w34">
 <src.rf>manual</src.rf>
@@ -2245,7 +2245,7 @@
 <LM>w#w-lnd92258-010-p5s3w35</LM>
 </w.rf>
 <form>Panorama</form>
-<tag lemma="Panorama_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Panorama_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p5s3w36">
 <src.rf>manual</src.rf>
@@ -3491,7 +3491,7 @@
 <LM>w#w-lnd92258-010-p6s1w16</LM>
 </w.rf>
 <form>Čedoku</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p6s1w17">
 <src.rf>manual</src.rf>
@@ -3507,7 +3507,7 @@
 <LM>w#w-lnd92258-010-p6s1w18</LM>
 </w.rf>
 <form>Jamborová</form>
-<tag lemma="Jamborová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jamborová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p6s1w19">
 <src.rf>manual</src.rf>
@@ -4768,7 +4768,7 @@
 <LM>w#w-lnd92258-010-p7s5w2</LM>
 </w.rf>
 <form>Jamborová</form>
-<tag lemma="Jamborová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jamborová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p7s5w3">
 <src.rf>manual</src.rf>
@@ -5014,7 +5014,7 @@
 <form>P</form>
 <tag>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="orig">RR--X---------8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-010-p8s1w2">
@@ -5033,7 +5033,7 @@
 <form>S</form>
 <tag>
 <AM lemma="scriptum_:B_,t_^(př._P.S.)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-010-p8s1w4">
@@ -5220,7 +5220,7 @@
 <LM>w#w-lnd92258-010-p9s1w3</LM>
 </w.rf>
 <form>DRAŽAN</form>
-<tag lemma="Dražan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dražan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

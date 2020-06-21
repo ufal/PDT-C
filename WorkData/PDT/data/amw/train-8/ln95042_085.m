@@ -43,7 +43,7 @@
 <LM>w#w-ln95042-085-p1s1w4</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95042-085-p1s1w5">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln95042-085-p1s1w6</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-085-p2s1A">
@@ -151,7 +151,7 @@
 <LM>w#w-ln95042-085-p2s1Bw9</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-085-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-ln95042-085-p2s6w11</LM>
 </w.rf>
 <form>Bertelsmannův</form>
-<tag lemma="Bertelsmannův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Bertelsmannův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95042-085-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-ln95042-085-p2s7w9</LM>
 </w.rf>
 <form>Antje</form>
-<tag lemma="Antje_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Antje_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95042-085-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-ln95042-085-p2s7w10</LM>
 </w.rf>
 <form>Vollmerová</form>
-<tag lemma="Vollmerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vollmerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-085-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1077,10 +1077,10 @@
 </w.rf>
 <form>Biedenkopf</form>
 <tag>
-<AM lemma="Biedenkopf_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Biedenkopf_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Biedenkopf_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Biedenkopf_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Biedenkopf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Biedenkopf-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-085-p2s7w17">

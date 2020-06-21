@@ -29,7 +29,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p1s1w3">
@@ -149,7 +149,7 @@
 <form>Johna</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="John_;S_:Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="John_;Y_:Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s1w12">
@@ -330,7 +330,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s2w9">
@@ -900,7 +900,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s4w2">
@@ -1060,7 +1060,7 @@
 <form>Johnova</form>
 <tag>
 <AM lemma="Johnův_;Y_^(*2)" src="auto">AUNP1M---------</AM>
-<AM lemma="Johnův_;S_;Y_^(*2)" src="manual" selected="1">AUNP1M---------</AM>
+<AM lemma="Johnův_;Y_^(*2)" src="manual" selected="1">AUNP1M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s5w2">
@@ -1420,7 +1420,7 @@
 <form>Johna</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="John_;S_:Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="John_;Y_:Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s6w18">
@@ -1465,7 +1465,7 @@
 <form>Johnovým</form>
 <tag>
 <AM lemma="Johnův_;Y_^(*2)" src="auto">AUIS7M---------</AM>
-<AM lemma="Johnův_;S_;Y_^(*2)" src="manual" selected="1">AUIS7M---------</AM>
+<AM lemma="Johnův_;Y_^(*2)" src="manual" selected="1">AUIS7M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s7w2">
@@ -2213,7 +2213,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s10w6">
@@ -2959,7 +2959,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s12w24">
@@ -3006,7 +3006,7 @@
 <LM>w#w-vesm9303-030-p2s12w28</LM>
 </w.rf>
 <form>Šímovi</form>
-<tag lemma="Šíma_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Šíma_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-vesm9303-030-p2s12w29">
 <src.rf>manual</src.rf>
@@ -3094,7 +3094,7 @@
 <LM>w#w-vesm9303-030-p2s12w39</LM>
 </w.rf>
 <form>Persových</form>
-<tag lemma="Persův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Persův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-vesm9303-030-p2s12w40">
 <src.rf>manual</src.rf>
@@ -3154,7 +3154,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s13w6">
@@ -3436,7 +3436,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s14w15">
@@ -3836,7 +3836,7 @@
 <form>Johna</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="John_;S_:Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="John_;Y_:Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s15w15">
@@ -3905,7 +3905,7 @@
 <form>Johnova</form>
 <tag>
 <AM lemma="Johnův_;Y_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Johnův_;S_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Johnův_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s16w4">
@@ -4287,7 +4287,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-030-p2s17w34">
@@ -4586,7 +4586,7 @@
 <LM>w#w-vesm9303-030-p3s1w2</LM>
 </w.rf>
 <form>Zemina</form>
-<tag lemma="Zemina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zemina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -161,8 +161,8 @@
 </w.rf>
 <form>Hurricanea</form>
 <tag>
-<AM lemma="Hurricane_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Hurricane_;S_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Hurricane_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Hurricane_;Y" src="manual">NNMS2-----A----</AM>
 <AM lemma="Hurricane_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
@@ -189,7 +189,7 @@
 </w.rf>
 <form>Luscious</form>
 <tag>
-<AM lemma="Luscious_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Luscious_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Luscious-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -200,7 +200,7 @@
 </w.rf>
 <form>Jackson</form>
 <tag>
-<AM lemma="Jackson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jackson_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jackson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -259,13 +259,13 @@
 </w.rf>
 <form>Beastie</form>
 <tag>
-<AM lemma="Beastie_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Beastie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Beastie_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Beastie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Beastie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -276,7 +276,7 @@
 </w.rf>
 <form>Boys</form>
 <tag>
-<AM lemma="Boy_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Boy_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Boys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -433,13 +433,13 @@
 </w.rf>
 <form>Beastie</form>
 <tag>
-<AM lemma="Beastie_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Beastie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Beastie_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Beastie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Beastie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -450,7 +450,7 @@
 </w.rf>
 <form>Boys</form>
 <tag>
-<AM lemma="Boy_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Boy_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Boys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -618,7 +618,7 @@
 </w.rf>
 <form>Luscious</form>
 <tag>
-<AM lemma="Luscious_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Luscious_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Luscious-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -629,7 +629,7 @@
 </w.rf>
 <form>Jackson</form>
 <tag>
-<AM lemma="Jackson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jackson_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jackson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -737,9 +737,9 @@
 <form>City</form>
 <tag>
 <AM lemma="city_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -831,7 +831,7 @@
 <form>Strongman</form>
 <tag>
 <AM lemma="strongman_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="Strongman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Strongman_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="strongman_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Strongman-77" src="manual">F%-------------</AM>
 <AM lemma="Strongman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
@@ -1036,7 +1036,7 @@
 </w.rf>
 <form>Jill</form>
 <tag>
-<AM lemma="Jill_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Jill_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Jill_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln95048-016-p3s2w13</LM>
 </w.rf>
 <form>Cunniffové</form>
-<tag lemma="Cunniffová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Cunniffová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95048-016-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1462,7 +1462,7 @@
 </w.rf>
 <form>Luscious</form>
 <tag>
-<AM lemma="Luscious_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Luscious_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Luscious-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1473,7 +1473,7 @@
 </w.rf>
 <form>Jackson</form>
 <tag>
-<AM lemma="Jackson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jackson_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jackson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1511,13 +1511,13 @@
 </w.rf>
 <form>Beastie</form>
 <tag>
-<AM lemma="Beastie_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Beastie_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Beastie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1528,7 +1528,7 @@
 </w.rf>
 <form>Boys</form>
 <tag>
-<AM lemma="Boy_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Boy_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Boys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1665,7 +1665,7 @@
 <form>Rockin</form>
 <tag>
 <AM lemma="rocking_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Rockin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rockin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="rockin_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Rockin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1685,7 +1685,7 @@
 </w.rf>
 <form>It</form>
 <tag>
-<AM lemma="it_,t_^(angl._to)" src="orig">PPNSX--3-------</AM>
+<AM lemma="it_,t_^(angl._to)" src="orig">PPNXX--3-------</AM>
 <AM lemma="It-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1912,13 +1912,13 @@
 </w.rf>
 <form>Beastie</form>
 <tag>
-<AM lemma="Beastie_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Beastie_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Beastie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1929,7 +1929,7 @@
 </w.rf>
 <form>Boys</form>
 <tag>
-<AM lemma="Boy_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Boy_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Boys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2376,7 +2376,7 @@
 </w.rf>
 <form>Your</form>
 <tag>
-<AM lemma="Your_;R_,t" src="orig">PSXXX-X2-------</AM>
+<AM lemma="Your_;m_,t" src="orig">PSXXX-X2-------</AM>
 <AM lemma="your_,t_^(angl._váš,_tvůj)" src="auto" recommended="1">PSXXX-X2-------</AM>
 <AM lemma="Your-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2464,7 +2464,7 @@
 <form>Ill</form>
 <tag>
 <AM lemma="ill_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ill_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ill_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ill-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2496,13 +2496,13 @@
 </w.rf>
 <form>Beastie</form>
 <tag>
-<AM lemma="Beastie_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Beastie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Beastie_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Beastie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Beastie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2513,7 +2513,7 @@
 </w.rf>
 <form>Boys</form>
 <tag>
-<AM lemma="Boy_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Boy_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Boys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3220,13 +3220,13 @@
 </w.rf>
 <form>Beastie</form>
 <tag>
-<AM lemma="Beastie_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Beastie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Beastie_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Beastie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Beastie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3237,7 +3237,7 @@
 </w.rf>
 <form>Boys</form>
 <tag>
-<AM lemma="Boy_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Boy_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Boys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3445,13 +3445,13 @@
 </w.rf>
 <form>Beastie</form>
 <tag>
-<AM lemma="Beastie_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Beastie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Beastie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Beastie_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Beastie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Beastie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Beastie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3462,7 +3462,7 @@
 </w.rf>
 <form>Boys</form>
 <tag>
-<AM lemma="Boy_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Boy_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Boys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3481,7 +3481,7 @@
 </w.rf>
 <form>Luscious</form>
 <tag>
-<AM lemma="Luscious_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Luscious_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Luscious-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3492,7 +3492,7 @@
 </w.rf>
 <form>Jackson</form>
 <tag>
-<AM lemma="Jackson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jackson_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jackson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3511,8 +3511,8 @@
 </w.rf>
 <form>Hurricane</form>
 <tag>
-<AM lemma="Hurricane_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hurricane_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hurricane_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hurricane_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-016-p5s3w8">
@@ -3662,7 +3662,7 @@
 </w.rf>
 <form>Promotion</form>
 <tag>
-<AM lemma="Promotion_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Promotion_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Promotion-77" src="manual">F%-------------</AM>
 <AM lemma="Promotion_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>

@@ -166,7 +166,7 @@
 </w.rf>
 <form>Fortean</form>
 <tag>
-<AM lemma="Fortean_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Fortean_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Fortean-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -177,7 +177,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -2163,7 +2163,7 @@
 <LM>w#w-mf930701-025-p8s1w5</LM>
 </w.rf>
 <form>Tóth</form>
-<tag lemma="Tóth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tóth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-025-p8s1w6">
 <src.rf>manual</src.rf>

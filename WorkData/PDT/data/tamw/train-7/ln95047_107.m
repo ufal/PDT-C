@@ -186,8 +186,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-107-p2s2w4">
@@ -240,8 +240,8 @@
 </w.rf>
 <form>DIPRA</form>
 <tag>
-<AM lemma="DIPRA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Dipra_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="DIPRA_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Dipra_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-107-p2s2w10">
@@ -259,7 +259,7 @@
 </w.rf>
 <form>Pálek</form>
 <tag>
-<AM lemma="Pálek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pálek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pálka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -640,8 +640,8 @@
 </w.rf>
 <form>Pálka</form>
 <tag>
-<AM lemma="Pálek_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Pálka_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pálek_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Pálka_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="pálka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -733,7 +733,7 @@
 <LM>w#w-ln95047-107-p3s4w8</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-107-p3s4w9">
 <src.rf>manual</src.rf>
@@ -774,19 +774,19 @@
 </w.rf>
 <form>Felicie</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS2-----A----</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS2-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFP5-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS2-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP1-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS5-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFP1-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS5-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP1-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP4-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP5-----A----</AM>
@@ -818,8 +818,8 @@
 </w.rf>
 <form>DIPRA</form>
 <tag>
-<AM lemma="DIPRA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Dipra_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="DIPRA_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Dipra_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-107-p3s4w17">
@@ -967,7 +967,7 @@
 </w.rf>
 <form>Pálek</form>
 <tag>
-<AM lemma="Pálek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pálek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pálka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1455,7 +1455,7 @@
 <LM>w#w-ln95047-107-p4s1w2</LM>
 </w.rf>
 <form>Filáčková</form>
-<tag lemma="Filáčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Filáčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-107-p4s1w3">
 <src.rf>manual</src.rf>

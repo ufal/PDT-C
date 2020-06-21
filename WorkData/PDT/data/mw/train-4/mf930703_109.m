@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-109-p1s1w4</LM>
 </w.rf>
 <form>Becherovky</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-109-p2s1">
@@ -78,8 +78,8 @@
 </w.rf>
 <form>bar</form>
 <tag>
-<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-109-p2s1w5">
@@ -160,7 +160,7 @@
 <LM>w#w-mf930703-109-p2s2w2</LM>
 </w.rf>
 <form>Becher</form>
-<tag lemma="Becher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Becher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-109-p2s2w3">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-mf930703-109-p2s4w6</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-109-p2s4w7">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-mf930703-109-p2s5w2</LM>
 </w.rf>
 <form>Luxe</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-109-p2s5w3">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-mf930703-109-p2s5w6</LM>
 </w.rf>
 <form>Becherovky</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-109-p2s5w7">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-mf930703-109-p2s7w20</LM>
 </w.rf>
 <form>Becherovky</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-109-p2s7w21">
 <src.rf>manual</src.rf>

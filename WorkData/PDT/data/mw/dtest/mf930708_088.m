@@ -146,8 +146,8 @@
 </w.rf>
 <form>wil</form>
 <tag>
-<AM lemma="wil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="wil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="wil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-088-p4s1w4">
@@ -1289,8 +1289,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-088-p5s1w15">
@@ -1324,8 +1324,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-088-p5s1w19">
@@ -1465,8 +1465,8 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-088-p5s2w10">
@@ -1572,8 +1572,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-088-p5s2w23">

@@ -305,7 +305,7 @@
 <LM>w#w-ln95040-087-p2s2w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95040-087-p2s2w6">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln95040-087-p2s2w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95040-087-p2s2w10">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln95040-087-p2s2w13</LM>
 </w.rf>
 <form>Ogatové</form>
-<tag lemma="Ogatová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Ogatová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-087-p2s2w14">
 <src.rf>manual</src.rf>
@@ -429,8 +429,8 @@
 <AM lemma="Salim_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Sali_;Y" src="auto">NNMP7-----A---6</AM>
 <AM lemma="Salima-1_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Salima-2_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Salim_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Salima-2_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Salim_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s2w21">
@@ -448,11 +448,11 @@
 </w.rf>
 <form>Salima</form>
 <tag>
-<AM lemma="Salim_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Salim_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Sali_;Y" src="auto">NNMP7-----A---6</AM>
 <AM lemma="Salima-1_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Salima-2_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Salim_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Salima-2_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Salim_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s2w23">
@@ -519,7 +519,7 @@
 <LM>w#w-ln95040-087-p2s3w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95040-087-p2s3w4">
 <src.rf>manual</src.rf>
@@ -528,8 +528,8 @@
 </w.rf>
 <form>Butrus</form>
 <tag>
-<AM lemma="Butrus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Butrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s3w5">
@@ -539,8 +539,8 @@
 </w.rf>
 <form>Butrus</form>
 <tag>
-<AM lemma="Butrus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Butrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s3w6">
@@ -557,7 +557,7 @@
 <LM>w#w-ln95040-087-p2s3w7</LM>
 </w.rf>
 <form>Ghálí</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-087-p2s3w8">
 <src.rf>manual</src.rf>
@@ -768,8 +768,8 @@
 </w.rf>
 <form>Butrus</form>
 <tag>
-<AM lemma="Butrus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Butrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s4w11">
@@ -786,7 +786,7 @@
 <LM>w#w-ln95040-087-p2s4w12</LM>
 </w.rf>
 <form>Ghálí</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-087-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1100,7 +1100,7 @@
 <LM>w#w-ln95040-087-p2s5w1</LM>
 </w.rf>
 <form>Ogatová</form>
-<tag lemma="Ogatová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ogatová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-087-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1117,12 +1117,12 @@
 </w.rf>
 <form>Salim</form>
 <tag>
-<AM lemma="Salim_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Salim_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Sali_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Sali_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Salima-1_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Salima-2_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Salim_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Salima-2_;m" src="auto">NNFP2-----A----</AM>
+<AM lemma="Salim_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s5w4">

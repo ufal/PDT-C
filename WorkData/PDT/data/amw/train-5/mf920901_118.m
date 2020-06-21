@@ -72,7 +72,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -950,7 +950,7 @@
 <LM>w#w-mf920901-118-p5s4w3</LM>
 </w.rf>
 <form>Bérégovoy</form>
-<tag lemma="Bérégovoy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bérégovoy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-118-p5s4w4">
 <src.rf>manual</src.rf>

@@ -787,8 +787,8 @@
 </w.rf>
 <form>Ulrich</form>
 <tag>
-<AM lemma="Ulrich_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ulrich_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ulrich_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ulrich_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-034-p4s1w2">
@@ -799,8 +799,8 @@
 <form>Neumann</form>
 <tag>
 <AM lemma="Neumann_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neumann_;G_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Neumann_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Neumann_;G_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Neumann_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-034-p4s1w3">

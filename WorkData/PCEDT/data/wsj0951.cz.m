@@ -66,11 +66,11 @@
 <form>C</form>
 <tag>
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="c-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0951-001-p1s0W4-Ta">
@@ -87,7 +87,7 @@
 <LM>w#w-wsj0951-001-p1s0W5</LM>
 </w.rf>
 <form>Ballard</form>
-<tag lemma="Ballard_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Ballard_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0951-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>

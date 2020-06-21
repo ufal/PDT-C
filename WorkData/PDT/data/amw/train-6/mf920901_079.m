@@ -77,7 +77,7 @@
 <LM>w#w-mf920901-079-p2s1Aw5</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ouš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920901-079-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-1_:B_^(značení_evr._silnic)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-079-p2s1Bw21">
@@ -414,7 +414,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-079-p2s2w4">
@@ -432,8 +432,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-079-p2s2w6">
@@ -476,7 +476,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-079-p2s2w11">
@@ -494,8 +494,8 @@
 </w.rf>
 <form>h</form>
 <tag>
-<AM lemma="h-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="h-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="h-33" src="orig">Q3-------------</AM>
+<AM lemma="h-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-079-p2s2w13">

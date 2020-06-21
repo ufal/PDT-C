@@ -20,7 +20,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -403,7 +403,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -422,7 +422,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -675,7 +675,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1156,7 +1156,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1362,7 +1362,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1455,7 +1455,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1652,7 +1652,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1783,7 +1783,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

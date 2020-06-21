@@ -282,7 +282,7 @@
 </w.rf>
 <form>APS</form>
 <tag>
-<AM lemma="APS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="APS-4_:B_;m_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="APS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -553,7 +553,7 @@
 </w.rf>
 <form>Air</form>
 <tag>
-<AM lemma="Air_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Air_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -564,7 +564,7 @@
 </w.rf>
 <form>Algérie</form>
 <tag>
-<AM lemma="Algérie_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Algérie_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Algérie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

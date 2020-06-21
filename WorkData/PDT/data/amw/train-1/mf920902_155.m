@@ -20,10 +20,10 @@
 </w.rf>
 <form>Stasi</form>
 <tag>
-<AM lemma="Stasi_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-155-p1s1Aw2">
@@ -175,10 +175,10 @@
 </w.rf>
 <form>Stasi</form>
 <tag>
-<AM lemma="Stasi_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-155-p2s2w8">
@@ -276,7 +276,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -498,7 +498,7 @@
 <LM>w#w-mf920902-155-p3s1w13</LM>
 </w.rf>
 <form>Kratsch</form>
-<tag lemma="Kratsch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kratsch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-155-p3s1w14">
 <src.rf>manual</src.rf>
@@ -597,10 +597,10 @@
 </w.rf>
 <form>Stasi</form>
 <tag>
-<AM lemma="Stasi_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-155-p4s1w2">
@@ -812,7 +812,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -854,7 +854,7 @@
 <LM>w#w-mf920902-155-p4s2w20</LM>
 </w.rf>
 <form>Schalcka</form>
-<tag lemma="Schalck_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schalck_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-155-p4s2w21">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-mf920902-155-p4s2w22</LM>
 </w.rf>
 <form>Golodkowského</form>
-<tag lemma="Golodkowský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Golodkowský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-155-p4s2w23">
 <src.rf>manual</src.rf>
@@ -945,10 +945,10 @@
 </w.rf>
 <form>Stasi</form>
 <tag>
-<AM lemma="Stasi_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Stasi_:B_;K" src="auto">NNFXX-----A----</AM>
-<AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Stasi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Stasi_:B_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Stasi_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-155-p4s3w6">

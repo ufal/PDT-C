@@ -143,7 +143,7 @@
 <form>AGIP</form>
 <tag>
 <AM lemma="Agip_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Agip_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Agip_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-032-p2s1w11">
@@ -177,7 +177,7 @@
 </w.rf>
 <form>ENI</form>
 <tag>
-<AM lemma="ENI-1_:B_;K_,t_^(Ente_Nazionale_Idrocarburi)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ENI-1_:B_;m_,t_^(Ente_Nazionale_Idrocarburi)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ENI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1033,7 +1033,7 @@
 <form>AGIP</form>
 <tag>
 <AM lemma="Agip_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Agip_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Agip_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-032-p4s1w12">
@@ -1335,8 +1335,8 @@
 </w.rf>
 <form>Paolo</form>
 <tag>
-<AM lemma="Paolo_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paolo_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Paolo_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paolo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-032-p5s1w4">
@@ -1347,7 +1347,7 @@
 <form>Savona</form>
 <tag>
 <AM lemma="Savona_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Savona-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Savona-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-032-p5s1w5">

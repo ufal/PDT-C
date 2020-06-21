@@ -67,7 +67,7 @@
 <LM>w#w-ln94201-83-p1s1w7</LM>
 </w.rf>
 <form>Dvořákem</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94201-83-p1s1w8">
 <src.rf>manual</src.rf>
@@ -108,8 +108,8 @@
 </w.rf>
 <form>EP</form>
 <tag>
-<AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP_;m_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EP_:B_;m_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -566,8 +566,8 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-83-p3s4w21">
@@ -815,7 +815,7 @@
 <LM>w#w-ln94201-83-p4s2w7</LM>
 </w.rf>
 <form>Ferreru</form>
-<tag lemma="Ferrera_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ferrera_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-83-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1564,7 +1564,7 @@
 <tag>
 <AM lemma="tom_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
-<AM lemma="tom-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="tom-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-83-p5s6w3">

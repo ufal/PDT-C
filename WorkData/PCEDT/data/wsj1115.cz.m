@@ -87,8 +87,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -283,10 +283,10 @@
 </w.rf>
 <form>Titanium</form>
 <tag>
-<AM lemma="titanium_;H_,t_^(latinsky_titan)" src="auto">NNNP3-----A---6</AM>
-<AM lemma="titanium_;H_,t_^(latinsky_titan)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="titanium_;H_,t_^(latinsky_titan)" src="auto">NNNS4-----A----</AM>
-<AM lemma="titanium_;H_,t_^(latinsky_titan)" src="auto">NNNS5-----A----</AM>
+<AM lemma="titanium_;U_,t_^(latinsky_titan)" src="auto">NNNP3-----A---6</AM>
+<AM lemma="titanium_;U_,t_^(latinsky_titan)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="titanium_;U_,t_^(latinsky_titan)" src="auto">NNNS4-----A----</AM>
+<AM lemma="titanium_;U_,t_^(latinsky_titan)" src="auto">NNNS5-----A----</AM>
 <AM lemma="Titanium-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -346,10 +346,10 @@
 </w.rf>
 <form>Titanium</form>
 <tag>
-<AM lemma="titanium_;H_,t_^(latinsky_titan)" src="auto">NNNP3-----A---6</AM>
-<AM lemma="titanium_;H_,t_^(latinsky_titan)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="titanium_;H_,t_^(latinsky_titan)" src="auto">NNNS4-----A----</AM>
-<AM lemma="titanium_;H_,t_^(latinsky_titan)" src="auto">NNNS5-----A----</AM>
+<AM lemma="titanium_;U_,t_^(latinsky_titan)" src="auto">NNNP3-----A---6</AM>
+<AM lemma="titanium_;U_,t_^(latinsky_titan)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="titanium_;U_,t_^(latinsky_titan)" src="auto">NNNS4-----A----</AM>
+<AM lemma="titanium_;U_,t_^(latinsky_titan)" src="auto">NNNS5-----A----</AM>
 <AM lemma="Titanium-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -408,9 +408,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -421,7 +421,7 @@
 </w.rf>
 <form>Quantum</form>
 <tag>
-<AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
+<AM lemma="Quanto_;m_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
 <AM lemma="Quantum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -432,7 +432,7 @@
 </w.rf>
 <form>Chemical</form>
 <tag>
-<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Chemical-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

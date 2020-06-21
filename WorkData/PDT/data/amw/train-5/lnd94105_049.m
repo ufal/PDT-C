@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-049-p1s1w1</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-049-p1s1w2">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd94105-049-p1s3w11</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-049-p1s3w12">
 <src.rf>manual</src.rf>
@@ -442,10 +442,10 @@
 </w.rf>
 <form>Sme</form>
 <tag>
-<AM lemma="Sme_;K_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Sme_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
+<AM lemma="Sme_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
-<AM lemma="Sme_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-049-p1s4w24">
@@ -464,7 +464,7 @@
 <LM>w#w-lnd94105-049-p1s5w1</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-049-p1s5w2">
 <src.rf>manual</src.rf>

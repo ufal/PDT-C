@@ -70,8 +70,8 @@
 </w.rf>
 <form>tnt</form>
 <tag>
-<AM lemma="tnt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tnt-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tnt-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tnt-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-002-p2s1w5">
@@ -720,7 +720,7 @@
 <LM>w#w-mf920922-002-p2s6w12</LM>
 </w.rf>
 <form>Vykopal</form>
-<tag lemma="Vykopal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vykopal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-002-p2s6w13">
 <src.rf>manual</src.rf>

@@ -120,8 +120,8 @@
 </w.rf>
 <form>jk</form>
 <tag>
-<AM lemma="jk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-046-p3s1w4">
@@ -302,7 +302,7 @@
 <LM>w#w-lnd92254-046-p3s2w1</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-046-p3s2w2">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-046-p3s3w5">
@@ -411,7 +411,7 @@
 <LM>w#w-lnd92254-046-p3s3w6</LM>
 </w.rf>
 <form>Dlouhého</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-046-p3s3w7">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-lnd92254-046-p4s2w9</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-046-p4s2w10">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-lnd92254-046-p4s2w14</LM>
 </w.rf>
 <form>Soudka</form>
-<tag lemma="Soudek_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Soudek_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-046-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-lnd92254-046-p4s4w1</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-046-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1251,7 +1251,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-046-p4s5w8">
@@ -1268,7 +1268,7 @@
 <LM>w#w-lnd92254-046-p4s5w9</LM>
 </w.rf>
 <form>Dlouhým</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92254-046-p4s5w10">
 <src.rf>manual</src.rf>
@@ -1380,7 +1380,7 @@
 <LM>w#w-lnd92254-046-p4s6w1</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-046-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <form>Prokop</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS4-----A----</AM>
 <AM lemma="prokopnout" src="auto">VpYS----R-AAP-6</AM>
@@ -1602,7 +1602,7 @@
 <LM>w#w-lnd92254-046-p4s7w18</LM>
 </w.rf>
 <form>Soudek</form>
-<tag lemma="Soudek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soudek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-046-p4s7w19">
 <src.rf>manual</src.rf>

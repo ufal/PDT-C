@@ -129,7 +129,7 @@
 <LM>w#w-mf920922-067-p3s1w6</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s1w7">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-mf920922-067-p3s1w15</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s1w16">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-mf920922-067-p3s1w20</LM>
 </w.rf>
 <form>Mádlem</form>
-<tag lemma="Mádl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mádl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s1w21">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-mf920922-067-p3s1w22</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s1w23">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf920922-067-p3s2w10</LM>
 </w.rf>
 <form>Mádlovi</form>
-<tag lemma="Mádl_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Mádl_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s2w11">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-mf920922-067-p3s5w2</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s5w3">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-mf920922-067-p3s5w4</LM>
 </w.rf>
 <form>Mach</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-mf920922-067-p3s7w22</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s7w23">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-mf920922-067-p3s8w4</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s8w5">
 <src.rf>manual</src.rf>
@@ -1355,7 +1355,7 @@
 <LM>w#w-mf920922-067-p3s9w8</LM>
 </w.rf>
 <form>Nehoda</form>
-<tag lemma="Nehoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nehoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s9w9">
 <src.rf>manual</src.rf>

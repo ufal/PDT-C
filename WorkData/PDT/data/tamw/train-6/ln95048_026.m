@@ -319,7 +319,7 @@
 <LM>w#w-ln95048-026-p2s2Aw6</LM>
 </w.rf>
 <form>Daníček</form>
-<tag lemma="Daníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p2s2Aw7">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln95048-026-p2s2Bw12</LM>
 </w.rf>
 <form>Sefer</form>
-<tag lemma="Sefer_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sefer_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p2s2Bw13">
 <src.rf>manual</src.rf>
@@ -920,8 +920,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-026-p3s3w11">
@@ -939,8 +939,8 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Z-33" src="orig">Q3-------------</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-026-p3s3w13">
@@ -1176,7 +1176,7 @@
 </w.rf>
 <form>Elie</form>
 <tag>
-<AM lemma="Elie_;Y" src="orig" selected="1">NNMSX-----A----</AM>
+<AM lemma="Elie_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Elie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Elie_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -1187,7 +1187,7 @@
 <LM>w#w-ln95048-026-p3s4w13</LM>
 </w.rf>
 <form>Wiesela</form>
-<tag lemma="Wiesel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wiesel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-026-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1821,7 +1821,7 @@
 <LM>w#w-ln95048-026-p4s1Aw1</LM>
 </w.rf>
 <form>Wiesel</form>
-<tag lemma="Wiesel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wiesel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p4s1Aw2">
 <src.rf>manual</src.rf>
@@ -2067,7 +2067,7 @@
 <LM>w#w-ln95048-026-p4s1Bw1</LM>
 </w.rf>
 <form>Wiesel</form>
-<tag lemma="Wiesel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wiesel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p4s1Bw2">
 <src.rf>manual</src.rf>
@@ -2447,8 +2447,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-026-p5s1Aw11">
@@ -2474,8 +2474,8 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Z-33" src="orig">Q3-------------</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-026-p5s1Aw14">
@@ -3199,7 +3199,7 @@
 <LM>w#w-ln95048-026-p5s6Bw4</LM>
 </w.rf>
 <form>Sefer</form>
-<tag lemma="Sefer_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sefer_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p5s6Bw5">
 <src.rf>manual</src.rf>
@@ -3277,7 +3277,7 @@
 </w.rf>
 <form>Elie</form>
 <tag>
-<AM lemma="Elie_;Y" src="orig" selected="1">NNMSX-----A----</AM>
+<AM lemma="Elie_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Elie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Elie_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -3288,7 +3288,7 @@
 <LM>w#w-ln95048-026-p6s1w6</LM>
 </w.rf>
 <form>Wiesela</form>
-<tag lemma="Wiesel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wiesel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-026-p6s1w7">
 <src.rf>manual</src.rf>
@@ -3506,7 +3506,7 @@
 <LM>w#w-ln95048-026-p6s2w10</LM>
 </w.rf>
 <form>Kovtuna</form>
-<tag lemma="Kovtun_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kovtun_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-026-p6s2w11">
 <src.rf>manual</src.rf>
@@ -3554,7 +3554,7 @@
 <LM>w#w-ln95048-026-p6s2w16</LM>
 </w.rf>
 <form>Hilsnera</form>
-<tag lemma="Hilsner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hilsner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-026-p6s2w17">
 <src.rf>manual</src.rf>
@@ -3928,7 +3928,7 @@
 <LM>w#w-ln95048-026-p7s1w3</LM>
 </w.rf>
 <form>Sefer</form>
-<tag lemma="Sefer_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sefer_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-026-p7s1w4">
 <src.rf>manual</src.rf>
@@ -4228,7 +4228,7 @@
 <LM>w#w-ln95048-026-p7s3w2</LM>
 </w.rf>
 <form>Wieselových</form>
-<tag lemma="Wieselův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Wieselův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln95048-026-p7s3w3">
 <src.rf>manual</src.rf>

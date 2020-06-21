@@ -78,7 +78,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -325,7 +325,7 @@
 <LM>w#w-mf920901-062-p3s1w8</LM>
 </w.rf>
 <form>Kopeckého</form>
-<tag lemma="Kopecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kopecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-062-p3s1w9">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-mf920901-062-p3s2w20</LM>
 </w.rf>
 <form>Crasson</form>
-<tag lemma="Crasson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Crasson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-062-p3s2w21">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-mf920901-062-p3s2w22</LM>
 </w.rf>
 <form>Anderlechtu</form>
-<tag lemma="Anderlecht_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Anderlecht_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-062-p3s2w23">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-mf920901-062-p3s2w25</LM>
 </w.rf>
 <form>Goossens</form>
-<tag lemma="Goossens_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goossens_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-062-p3s2w26">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-mf920901-062-p3s2w27</LM>
 </w.rf>
 <form>Standaru</form>
-<tag lemma="Standar_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Standar_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-062-p3s2w28">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-062-p3s2w35">

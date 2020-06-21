@@ -20,7 +20,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -374,7 +374,7 @@
 <LM>w#w-ln95045-086-p2s2w4</LM>
 </w.rf>
 <form>Kužílka</form>
-<tag lemma="Kužílek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kužílek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-086-p2s2w5">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -597,7 +597,7 @@
 <LM>w#w-ln95045-086-p3s2w6</LM>
 </w.rf>
 <form>Kužílka</form>
-<tag lemma="Kužílek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kužílek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-086-p3s2w7">
 <src.rf>manual</src.rf>

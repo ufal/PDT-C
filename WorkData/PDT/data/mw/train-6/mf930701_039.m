@@ -217,7 +217,7 @@
 <LM>w#w-mf930701-039-p2s3w9</LM>
 </w.rf>
 <form>JEŽKEM</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-039-p3s1">
@@ -435,7 +435,7 @@
 <LM>w#w-mf930701-039-p3s1w27</LM>
 </w.rf>
 <form>Ježkem</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930701-039-p3s1w28">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-039-p3s1w31">
@@ -478,7 +478,7 @@
 <LM>w#w-mf930701-039-p3s1w32</LM>
 </w.rf>
 <form>Křížem</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930701-039-p3s1w33">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf930701-039-p3s2w9</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-039-p3s2w10">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-mf930701-039-p3s3w5</LM>
 </w.rf>
 <form>Práce</form>
-<tag lemma="Práce-1_;R_^(noviny)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Práce-1_;m_^(noviny)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-039-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1026,7 +1026,7 @@
 <LM>w#w-mf930701-039-p5s1w6</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930701-039-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-mf930701-039-p5s1w11</LM>
 </w.rf>
 <form>Práci</form>
-<tag lemma="Práce-1_;R_^(noviny)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Práce-1_;m_^(noviny)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-039-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2651,7 +2651,7 @@
 <LM>w#w-mf930701-039-p7s4w2</LM>
 </w.rf>
 <form>Pokorný</form>
-<tag lemma="Pokorný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pokorný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-039-p7s4w3">
 <src.rf>manual</src.rf>
@@ -2869,7 +2869,7 @@
 <LM>w#w-mf930701-039-p7s5w2</LM>
 </w.rf>
 <form>Klímová</form>
-<tag lemma="Klímová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Klímová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-039-p7s5w3">
 <src.rf>manual</src.rf>
@@ -2894,9 +2894,9 @@
 </w.rf>
 <form>Bělohradská</form>
 <tag>
-<AM lemma="Bělohradský_;S" src="orig">AAFS1----1A----</AM>
-<AM lemma="Bělohradská_;S" src="auto" selected="1">NNFS1-----A----</AM>
-<AM lemma="Bělohradská_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Bělohradský_;Y" src="orig">AAFS1----1A----</AM>
+<AM lemma="Bělohradská_;Y" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bělohradská_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="bělohradský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="bělohradský" src="auto">AAFS5----1A----</AM>
 <AM lemma="bělohradský" src="auto">AANP1----1A----</AM>
@@ -2927,7 +2927,7 @@
 </w.rf>
 <form>Slánská</form>
 <tag>
-<AM lemma="Slánská_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Slánská_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="slánský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="slánský" src="auto">AAFS5----1A----</AM>
 <AM lemma="slánský" src="auto">AANP1----1A----</AM>
@@ -2949,7 +2949,7 @@
 <LM>w#w-mf930701-039-p7s5w10</LM>
 </w.rf>
 <form>Vlachová</form>
-<tag lemma="Vlachová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vlachová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-039-p7s5w11">
 <src.rf>manual</src.rf>
@@ -5066,7 +5066,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-1_:B_;m_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

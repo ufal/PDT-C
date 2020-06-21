@@ -359,7 +359,7 @@
 <LM>w#w-ln95042-040-p2s2w21</LM>
 </w.rf>
 <form>Váni</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-040-p2s2w22">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-ln95042-040-p2s3w15</LM>
 </w.rf>
 <form>Ayuba</form>
-<tag lemma="Ayub_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ayub_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-040-p2s3w16">
 <src.rf>manual</src.rf>

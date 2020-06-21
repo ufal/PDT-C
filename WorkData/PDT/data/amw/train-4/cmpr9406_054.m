@@ -168,7 +168,7 @@
 <LM>w#w-cmpr9406-054-p3s1w14</LM>
 </w.rf>
 <form>Bauch</form>
-<tag lemma="Bauch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bauch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-054-p3s1w15">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-cmpr9406-054-p3s2Aw5</LM>
 </w.rf>
 <form>BAUCH</form>
-<tag lemma="Bauch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bauch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-054-p3s2Aw6">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -536,7 +536,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-054-p3s4Aw5">
@@ -555,7 +555,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-054-p3s4Aw7">
@@ -573,7 +573,7 @@
 </w.rf>
 <form>CH</form>
 <tag>
-<AM lemma="Ch-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Ch-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="CH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -726,7 +726,7 @@
 <form>MACEK</form>
 <tag>
 <AM lemma="macek" src="orig">NNMS1-----A----</AM>
-<AM lemma="Macek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Macek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-054-p3s4Bw11">
@@ -891,7 +891,7 @@
 <LM>w#w-cmpr9406-054-p3s5w6</LM>
 </w.rf>
 <form>PANENKA</form>
-<tag lemma="Panenka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Panenka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-054-p3s5w7">
 <src.rf>manual</src.rf>

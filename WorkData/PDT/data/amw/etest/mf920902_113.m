@@ -70,7 +70,7 @@
 </w.rf>
 <form>jet</form>
 <tag>
-<AM lemma="jet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
@@ -414,7 +414,7 @@
 <LM>w#w-mf920902-113-p2s3w13</LM>
 </w.rf>
 <form>Andrejčák</form>
-<tag lemma="Andrejčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andrejčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-113-p2s3w14">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-mf920902-113-p2s3w16</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-113-p2s3w17">
 <src.rf>manual</src.rf>

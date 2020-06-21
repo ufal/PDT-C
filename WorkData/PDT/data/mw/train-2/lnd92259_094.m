@@ -19,7 +19,7 @@
 <LM>w#w-lnd92259-094-p1s1w1</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-094-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-lnd92259-094-p2s2w4</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-094-p2s2w5">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-lnd92259-094-p2s3w7</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-094-p2s3w8">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -495,7 +495,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -595,7 +595,7 @@
 </w.rf>
 <form>IAAF</form>
 <tag>
-<AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IAAF_:B_;m_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -654,7 +654,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

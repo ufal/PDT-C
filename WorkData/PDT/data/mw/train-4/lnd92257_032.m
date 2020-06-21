@@ -80,7 +80,7 @@
 </w.rf>
 <form>hoj</form>
 <tag>
-<AM lemma="hoj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hoj-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
@@ -315,7 +315,7 @@
 <LM>w#w-lnd92257-032-p3s3w6</LM>
 </w.rf>
 <form>Svobody</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-032-p3s3w7">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -570,7 +570,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

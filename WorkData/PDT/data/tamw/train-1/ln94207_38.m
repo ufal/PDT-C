@@ -256,7 +256,7 @@
 </w.rf>
 <form>IKUE</form>
 <tag>
-<AM lemma="IKUE_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IKUE_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IKUE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -402,7 +402,7 @@
 <LM>w#w-ln94207-38-p2s2w23</LM>
 </w.rf>
 <form>Šváček</form>
-<tag lemma="Šváček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šváček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-38-p2s2w24">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94207-38-p2s5w7</LM>
 </w.rf>
 <form>Otčenášek</form>
-<tag lemma="Otčenášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Otčenášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-38-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1141,7 +1141,7 @@
 <LM>w#w-ln94207-38-p3s1w4</LM>
 </w.rf>
 <form>Markoviče</form>
-<tag lemma="Markovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Markovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-38-p3s1w5">
 <src.rf>manual</src.rf>

@@ -86,8 +86,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-091-p2s1Aw4">
@@ -533,7 +533,7 @@
 </w.rf>
 <form>Volkshilfe</form>
 <tag>
-<AM lemma="Volkshilfe_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Volkshilfe_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Volkshilfe-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -766,7 +766,7 @@
 <LM>w#w-mf930713-091-p3s1w8</LM>
 </w.rf>
 <form>Forst</form>
-<tag lemma="Forst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Forst_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-091-p3s1w9">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-mf930713-091-p3s1w10</LM>
 </w.rf>
 <form>Battaglia</form>
-<tag lemma="Battaglia_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Battaglia_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-091-p3s1w11">
 <src.rf>manual</src.rf>

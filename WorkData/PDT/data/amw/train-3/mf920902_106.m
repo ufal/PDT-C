@@ -62,10 +62,10 @@
 </w.rf>
 <form>kar</form>
 <tag>
-<AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
-<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-106-p2s1w4">
@@ -240,7 +240,7 @@
 <LM>w#w-mf920902-106-p2s2w19</LM>
 </w.rf>
 <form>Havlová</form>
-<tag lemma="Havlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Havlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-106-p2s2w20">
 <src.rf>manual</src.rf>
@@ -387,8 +387,8 @@
 </w.rf>
 <form>Sunnytech</form>
 <tag>
-<AM lemma="Sunnytech_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sunnytech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sunnytech_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sunnytech_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-106-p2s3w12">
@@ -666,8 +666,8 @@
 </w.rf>
 <form>Master</form>
 <tag>
-<AM lemma="Master_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Master_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Master_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Master_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="master_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Master-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -679,7 +679,7 @@
 </w.rf>
 <form>foods</form>
 <tag>
-<AM lemma="food_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="food_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="foods_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="foods-77" src="manual" selected="1">F%-------------</AM>
 </tag>

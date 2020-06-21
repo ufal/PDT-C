@@ -19,7 +19,7 @@
 <LM>w#w-ln94209-85-p1s1w1</LM>
 </w.rf>
 <form>Šindel</form>
-<tag lemma="Šindel-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šindel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-85-p1s1w2">
 <src.rf>manual</src.rf>
@@ -94,8 +94,8 @@
 </w.rf>
 <form>bra</form>
 <tag>
-<AM lemma="bra-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bra-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bra-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bra-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-85-p2s1Aw4">
@@ -154,7 +154,7 @@
 <LM>w#w-ln94209-85-p2s1Bw5</LM>
 </w.rf>
 <form>Šindel</form>
-<tag lemma="Šindel-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šindel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-85-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 </w.rf>
 <form>Pragobanka</form>
 <tag>
-<AM lemma="Pragobanka_;w" src="orig">AAXXX----1A----</AM>
+<AM lemma="Pragobanka" src="orig">AAXXX----1A----</AM>
 <AM lemma="Pragobanka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -262,7 +262,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -370,7 +370,7 @@
 <LM>w#w-ln94209-85-p2s2w3</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-85-p2s2w4">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-ln94209-85-p2s2w5</LM>
 </w.rf>
 <form>Kuneše</form>
-<tag lemma="Kuneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kuneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-85-p2s2w6">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-ln94209-85-p2s2w8</LM>
 </w.rf>
 <form>Šindelův</form>
-<tag lemma="Šindelův-1_;S_^(*4-1)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Šindelův-1_;Y_^(*4-1)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94209-85-p2s2w9">
 <src.rf>manual</src.rf>

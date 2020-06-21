@@ -31,7 +31,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Floyd_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -77,7 +77,7 @@
 <LM>w#w-ln94205-106-p2s1Bw2</LM>
 </w.rf>
 <form>Seidl</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-106-p2s1C">
@@ -131,7 +131,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Floyd_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -720,7 +720,7 @@
 </w.rf>
 <form>Division</form>
 <tag>
-<AM lemma="Division_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Division_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="division_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Division-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -732,8 +732,8 @@
 </w.rf>
 <form>Bell</form>
 <tag>
-<AM lemma="Bell-2_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bell-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bella_;Y_,t" src="auto">NNFP2-----A----</AM>
 <AM lemma="bell_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Bell-77" src="manual" selected="1">F%-------------</AM>
@@ -1289,7 +1289,7 @@
 <LM>w#w-ln94205-106-p4s1w8</LM>
 </w.rf>
 <form>Schaffnera</form>
-<tag lemma="Schaffner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schaffner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-106-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1577,7 +1577,7 @@
 <LM>w#w-ln94205-106-p4s3w4</LM>
 </w.rf>
 <form>Schaffner</form>
-<tag lemma="Schaffner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schaffner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-106-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1733,7 +1733,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Floyd_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1793,7 +1793,7 @@
 <LM>w#w-ln94205-106-p4s4w6</LM>
 </w.rf>
 <form>Schaffner</form>
-<tag lemma="Schaffner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schaffner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-106-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2144,7 +2144,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2338,7 +2338,7 @@
 <LM>w#w-ln94205-106-p5s2w9</LM>
 </w.rf>
 <form>Schaffnerova</form>
-<tag lemma="Schaffnerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Schaffnerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94205-106-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2540,7 +2540,7 @@
 </w.rf>
 <form>Division</form>
 <tag>
-<AM lemma="Division_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Division_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="division_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Division-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2552,8 +2552,8 @@
 </w.rf>
 <form>Bell</form>
 <tag>
-<AM lemma="Bell-2_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bell-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bella_;Y_,t" src="auto">NNFP2-----A----</AM>
 <AM lemma="bell_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Bell-77" src="manual" selected="1">F%-------------</AM>

@@ -125,7 +125,7 @@
 <LM>w#w-mf930701-097-p2s1w5</LM>
 </w.rf>
 <form>Real</form>
-<tag lemma="Real_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Real_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-097-p2s1w6">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-mf930701-097-p2s1w7</LM>
 </w.rf>
 <form>Efrata</form>
-<tag lemma="Efrata_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Efrata_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-097-p2s1w8">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-mf930701-097-p2s4w7</LM>
 </w.rf>
 <form>Real</form>
-<tag lemma="Real_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Real_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-097-p2s4w8">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 </w.rf>
 <form>SA</form>
 <tag>
-<AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -1633,7 +1633,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2114,7 +2114,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2210,7 +2210,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3441,7 +3441,7 @@
 <LM>w#w-cmpr9413-034-p9s3w20</LM>
 </w.rf>
 <form>Kříže</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-034-p9s3w21">
 <src.rf>manual</src.rf>
@@ -3661,7 +3661,7 @@
 <LM>w#w-cmpr9413-034-p11s1w2</LM>
 </w.rf>
 <form>Bobek</form>
-<tag lemma="Bobek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bobek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-034-p12s1">

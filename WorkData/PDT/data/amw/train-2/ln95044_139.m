@@ -20,8 +20,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-139-p1s1w2">
@@ -39,10 +39,10 @@
 </w.rf>
 <form>INVEST</form>
 <tag>
-<AM lemma="Invest_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Invest_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Invest_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Investa_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Invest_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Invest_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Invest_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investa_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -80,7 +80,7 @@
 <LM>w#w-ln95044-139-p1s1w7</LM>
 </w.rf>
 <form>Fosfy</form>
-<tag lemma="Fosfa_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fosfa_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95044-139-p2s1A">
@@ -117,8 +117,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-139-p2s1Bw3">
@@ -136,10 +136,10 @@
 </w.rf>
 <form>INVEST</form>
 <tag>
-<AM lemma="Invest_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Invest_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Invest_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Investa_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Invest_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Invest_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Invest_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investa_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -233,7 +233,7 @@
 <LM>w#w-ln95044-139-p2s1Bw15</LM>
 </w.rf>
 <form>Fosfy</form>
-<tag lemma="Fosfa_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fosfa_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-139-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln95044-139-p2s3w6</LM>
 </w.rf>
 <form>Fosfy</form>
-<tag lemma="Fosfa_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fosfa_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-139-p2s3w7">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-ln95044-139-p2s3w8</LM>
 </w.rf>
 <form>Němetz</form>
-<tag lemma="Němetz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němetz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-139-p2s3w9">
 <src.rf>manual</src.rf>
@@ -550,8 +550,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-139-p3s1w9">
@@ -569,10 +569,10 @@
 </w.rf>
 <form>INVEST</form>
 <tag>
-<AM lemma="Invest_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Invest_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Invest_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Investa_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Invest_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Invest_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Invest_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investa_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -695,7 +695,7 @@
 <LM>w#w-ln95044-139-p3s1w25</LM>
 </w.rf>
 <form>Fosfy</form>
-<tag lemma="Fosfa_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fosfa_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-139-p3s1w26">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln95044-139-p3s1w27</LM>
 </w.rf>
 <form>Chmelíkem</form>
-<tag lemma="Chmelík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Chmelík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-139-p3s1w28">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-ln95044-139-p3s1w32</LM>
 </w.rf>
 <form>EVEKTOR</form>
-<tag lemma="Evektor_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Evektor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95044-139-p3s1w33">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln95044-139-p4s1w1</LM>
 </w.rf>
 <form>Fosfa</form>
-<tag lemma="Fosfa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fosfa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-139-p4s1w2">
 <src.rf>manual</src.rf>

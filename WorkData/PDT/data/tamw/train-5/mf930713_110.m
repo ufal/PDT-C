@@ -3147,7 +3147,7 @@
 <LM>w#w-mf930713-110-p2s22w20</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-110-p2s22w21">
 <src.rf>manual</src.rf>

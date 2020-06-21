@@ -29,7 +29,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-036-p1s1w3">
@@ -48,7 +48,7 @@
 <LM>w#w-lnd92254-036-p1s2w1</LM>
 </w.rf>
 <form>TKÁČE</form>
-<tag lemma="Tkáč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tkáč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92254-036-p2s1">
@@ -138,7 +138,7 @@
 <LM>w#w-lnd92254-036-p3s2w5</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-036-p3s2w6">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-lnd92254-036-p3s2w16</LM>
 </w.rf>
 <form>Tkáče</form>
-<tag lemma="Tkáč_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Tkáč_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92254-036-p3s2w17">
 <src.rf>manual</src.rf>

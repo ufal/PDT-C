@@ -594,7 +594,7 @@
 <AM lemma="ho" src="auto" recommended="1">II-------------</AM>
 <AM lemma="on-1" src="auto">PHZS2--3-------</AM>
 <AM lemma="on-1" src="auto">PHZS4--3-------</AM>
-<AM lemma="Ho_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ho_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-9-p4s1w9">
@@ -613,7 +613,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
 <AM lemma="či" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="Či_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Či_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Či_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-9-p4s1w10">
@@ -623,8 +623,8 @@
 </w.rf>
 <form>Minově</form>
 <tag>
-<AM lemma="Minův_;S_^(*2o)" src="auto">AUNS6M---------</AM>
-<AM lemma="Minův_;S_;Y" src="manual" selected="1">AUNS6M---------</AM>
+<AM lemma="Minův_;Y_^(*2o)" src="auto">AUNS6M---------</AM>
+<AM lemma="Minův_;Y" src="manual" selected="1">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m-ln94202-9-p4s1w11">

@@ -175,7 +175,7 @@
 <LM>w#w-cmpr9410-050-p27s2w3</LM>
 </w.rf>
 <form>Movis</form>
-<tag lemma="Movis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Movis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-050-p27s2w4">
 <src.rf>manual</src.rf>

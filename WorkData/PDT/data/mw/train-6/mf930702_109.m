@@ -19,7 +19,7 @@
 <LM>w#w-mf930702-109-p1s1w1</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-109-p1s1w2">
 <src.rf>manual</src.rf>
@@ -140,8 +140,8 @@
 </w.rf>
 <form>Jicchak</form>
 <tag>
-<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-109-p2s1w6">
@@ -150,7 +150,7 @@
 <LM>w#w-mf930702-109-p2s1w6</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-109-p2s1w7">
 <src.rf>manual</src.rf>
@@ -1334,7 +1334,7 @@
 <LM>w#w-mf930702-109-p5s3w5</LM>
 </w.rf>
 <form>Ašrávíová</form>
-<tag lemma="Ašrávíová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ašrávíová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-109-p5s3w6">
 <src.rf>manual</src.rf>

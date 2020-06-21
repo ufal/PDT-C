@@ -71,7 +71,7 @@
 <LM>w#w-lnd94101-096-p1s3w2</LM>
 </w.rf>
 <form>Kudílková</form>
-<tag lemma="Kudílková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kudílková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s3w3">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-096-p1s5w23">
@@ -454,7 +454,7 @@
 <LM>w#w-lnd94101-096-p1s5w24</LM>
 </w.rf>
 <form>Kudílková</form>
-<tag lemma="Kudílková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kudílková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s5w25">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -693,7 +693,7 @@
 <LM>w#w-lnd94101-096-p1s7w3</LM>
 </w.rf>
 <form>Kudílková</form>
-<tag lemma="Kudílková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kudílková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s7w4">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-lnd94101-096-p1s7w5</LM>
 </w.rf>
 <form>Krčmářová</form>
-<tag lemma="Krčmářová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krčmářová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s7w6">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-lnd94101-096-p1s7w7</LM>
 </w.rf>
 <form>Bínová</form>
-<tag lemma="Bínová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bínová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s7w8">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-lnd94101-096-p1s7w9</LM>
 </w.rf>
 <form>Slavíková</form>
-<tag lemma="Slavíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Slavíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s7w10">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-lnd94101-096-p1s7w11</LM>
 </w.rf>
 <form>Kinclová</form>
-<tag lemma="Kinclová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kinclová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s7w12">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-lnd94101-096-p1s7w13</LM>
 </w.rf>
 <form>Sokol</form>
-<tag lemma="Sokol-2_;K_^(organizace)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sokol-2_;m_^(organizace)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s7w14">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-lnd94101-096-p1s8w2</LM>
 </w.rf>
 <form>Fialová</form>
-<tag lemma="Fialová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fialová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-096-p1s8w3">
 <src.rf>manual</src.rf>

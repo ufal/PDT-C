@@ -69,7 +69,7 @@
 <LM>w#w-ln94208-116-p2s1Aw3</LM>
 </w.rf>
 <form>Čisťakovové</form>
-<tag lemma="Čisťakovová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Čisťakovová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94208-116-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94208-116-p2s1Bw2</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-116-p2s1C">
@@ -249,7 +249,7 @@
 <LM>w#w-ln94208-116-p2s1Cw16</LM>
 </w.rf>
 <form>Čisťakovová</form>
-<tag lemma="Čisťakovová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Čisťakovová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-116-p2s1Cw17">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-ln94208-116-p4s1Aw3</LM>
 </w.rf>
 <form>Beskrovným</form>
-<tag lemma="Beskrovný_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Beskrovný_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-116-p4s1Aw4">
 <src.rf>manual</src.rf>
@@ -2414,7 +2414,7 @@
 <LM>w#w-ln94208-116-p8s2Bw7</LM>
 </w.rf>
 <form>Čisťakovovou</form>
-<tag lemma="Čisťakovová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Čisťakovová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94208-116-p8s2Bw8">
 <src.rf>manual</src.rf>

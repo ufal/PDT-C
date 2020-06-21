@@ -365,7 +365,7 @@
 </w.rf>
 <form>ČMKOS</form>
 <tag>
-<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS_:B_;m_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -383,7 +383,7 @@
 <LM>w#w-ln95045-083-p2s3w8</LM>
 </w.rf>
 <form>Falbra</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-083-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1134,8 +1134,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-083-p2s6w17">
@@ -1471,7 +1471,7 @@
 <LM>w#w-ln95045-083-p2s8w11</LM>
 </w.rf>
 <form>Falbr</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-083-p2s8w12">
 <src.rf>manual</src.rf>

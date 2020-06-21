@@ -28,9 +28,9 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="J-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="J-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="J-33" src="auto">Q3-------------</AM>
+<AM lemma="J-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="J-33" src="auto">Q3-------------</AM>
 <AM lemma="j-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -50,7 +50,7 @@
 <form>Regal</form>
 <tag>
 <AM lemma="Regal" src="auto">X@-------------</AM>
-<AM lemma="Regal_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Regal_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2024-001-p1s0W5-Ta">
@@ -85,9 +85,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -138,8 +138,8 @@
 </w.rf>
 <form>Universal</form>
 <tag>
-<AM lemma="Universal_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Universal_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Universal_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Universal_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Universal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -227,7 +227,7 @@
 <form>Regal</form>
 <tag>
 <AM lemma="Regal" src="auto">X@-------------</AM>
-<AM lemma="Regal_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Regal_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2024-001-p1s1W2-Ta">
@@ -254,9 +254,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -349,9 +349,9 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="H-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="H-33" src="auto">Q3-------------</AM>
+<AM lemma="H-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="H-33" src="auto">Q3-------------</AM>
 <AM lemma="h-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="hodina" src="auto">NNFXX-----A---8</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
@@ -371,7 +371,7 @@
 <LM>w#w-wsj2024-001-p1s2W4</LM>
 </w.rf>
 <form>Carlson</form>
-<tag lemma="Carlson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Carlson_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2024-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -429,9 +429,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -482,8 +482,8 @@
 </w.rf>
 <form>Universal</form>
 <tag>
-<AM lemma="Universal_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Universal_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Universal_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Universal_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Universal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

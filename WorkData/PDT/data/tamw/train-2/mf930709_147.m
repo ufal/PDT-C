@@ -370,7 +370,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -389,7 +389,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -617,7 +617,7 @@
 <LM>w#w-mf930709-147-p2s3w21</LM>
 </w.rf>
 <form>Volkov</form>
-<tag lemma="Volkov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Volkov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-147-p2s3w22">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -813,7 +813,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1247,7 +1247,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1266,7 +1266,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

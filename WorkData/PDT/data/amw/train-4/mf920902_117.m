@@ -45,7 +45,7 @@
 <form>Svitu</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS6-----A---1</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -73,10 +73,10 @@
 </w.rf>
 <form>do</form>
 <tag>
-<AM lemma="do-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-117-p2s1w4">
@@ -207,7 +207,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-117-p2s2w14">
@@ -291,8 +291,8 @@
 </w.rf>
 <form>Gutal</form>
 <tag>
-<AM lemma="Gutal_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gutal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Gutal_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gutal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-117-p2s4w9">
@@ -401,7 +401,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-117-p2s5w4">
@@ -442,7 +442,7 @@
 <LM>w#w-mf920902-117-p2s5w8</LM>
 </w.rf>
 <form>Polytechnou</form>
-<tag lemma="Polytechna_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Polytechna_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920902-117-p2s5w9">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <form>Svitu</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS3-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS3-----A---1</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920902-117-p2s7w15">

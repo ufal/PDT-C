@@ -20,7 +20,7 @@
 </w.rf>
 <form>MEZ</form>
 <tag>
-<AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MEZ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
 <AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -56,7 +56,7 @@
 <LM>w#w-mf920923-080-p1s1w5</LM>
 </w.rf>
 <form>Siemensem</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 </s>
 <s id="m-mf920923-080-p2s1">
@@ -83,7 +83,7 @@
 </w.rf>
 <form>MEZ</form>
 <tag>
-<AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MEZ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
 <AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -231,7 +231,7 @@
 <LM>w#w-mf920923-080-p2s1w21</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-080-p2s1w22">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 </w.rf>
 <form>MEZ</form>
 <tag>
-<AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MEZ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
 <AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -623,7 +623,7 @@
 </w.rf>
 <form>MEZ</form>
 <tag>
-<AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MEZ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -643,7 +643,7 @@
 <LM>w#w-mf920923-080-p2s3w9</LM>
 </w.rf>
 <form>Miler</form>
-<tag lemma="Miler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-080-p2s3w10">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 </w.rf>
 <form>MEZ</form>
 <tag>
-<AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MEZ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
 <AM lemma="MEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -867,7 +867,7 @@
 </w.rf>
 <form>Asea</form>
 <tag>
-<AM lemma="Asea_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Asea_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Asea-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -878,7 +878,7 @@
 </w.rf>
 <form>Brown</form>
 <tag>
-<AM lemma="Brown_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brown_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Brown-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -889,7 +889,7 @@
 </w.rf>
 <form>Boveri</form>
 <tag>
-<AM lemma="Boveri_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Boveri_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Boveri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1202,7 +1202,7 @@
 <LM>w#w-mf920923-080-p2s6w12</LM>
 </w.rf>
 <form>Miler</form>
-<tag lemma="Miler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-080-p2s6w13">
 <src.rf>manual</src.rf>

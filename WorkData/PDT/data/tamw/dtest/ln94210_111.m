@@ -377,8 +377,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-111-p2s2w24">
@@ -807,8 +807,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-111-p2s6w6">
@@ -866,7 +866,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -909,7 +909,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -952,7 +952,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1950,7 +1950,7 @@
 </w.rf>
 <form>LD</form>
 <tag>
-<AM lemma="LD-2_:B_;K_^(Lidová_demokracie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LD-2_:B_;m_^(Lidová_demokracie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2180,7 +2180,7 @@
 <LM>w#w-ln94210-111-p5s1w2</LM>
 </w.rf>
 <form>Klíma</form>
-<tag lemma="Klíma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klíma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-111-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2205,8 +2205,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

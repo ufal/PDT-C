@@ -44,7 +44,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -89,8 +89,8 @@
 </w.rf>
 <form>ma</form>
 <tag>
-<AM lemma="ma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ma-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ma-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-145-p2s1Aw4">
@@ -262,7 +262,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -825,8 +825,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-145-p4s1w4">
@@ -852,7 +852,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -886,7 +886,7 @@
 <LM>w#w-ln94206-145-p4s1w10</LM>
 </w.rf>
 <form>Šírek</form>
-<tag lemma="Šírek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šírek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-145-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1318,7 +1318,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -21,7 +21,7 @@
 <form>Fatra</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p1s1w2">
@@ -87,8 +87,8 @@
 </w.rf>
 <form>Brass</form>
 <tag>
-<AM lemma="Brass_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brass-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Brass_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brass-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -360,7 +360,7 @@
 <form>Fatra</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw32">
@@ -402,7 +402,7 @@
 </w.rf>
 <form>Braas</form>
 <tag>
-<AM lemma="Braas_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Braas_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Braas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -413,7 +413,7 @@
 </w.rf>
 <form>Flachdachsysteme</form>
 <tag>
-<AM lemma="Flachdachsysteme_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Flachdachsysteme_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Flachdachsysteme-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -526,7 +526,7 @@
 <form>Fatry</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p3s1w8">
@@ -544,7 +544,7 @@
 </w.rf>
 <form>Surma</form>
 <tag>
-<AM lemma="Surma_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Surma_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="surma" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -887,7 +887,7 @@
 <LM>w#w-ln94211-13-p3s3w10</LM>
 </w.rf>
 <form>Simatos</form>
-<tag lemma="Simatos_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Simatos_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-13-p3s3w11">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-ln94211-13-p3s3w13</LM>
 </w.rf>
 <form>Izolfa</form>
-<tag lemma="Izolfa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Izolfa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-13-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 </w.rf>
 <form>Surmy</form>
 <tag>
-<AM lemma="Surma_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Surma_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="surma" src="auto">NNFP1-----A----</AM>
 <AM lemma="surma" src="auto">NNFP4-----A----</AM>
 <AM lemma="surma" src="auto">NNFP5-----A----</AM>
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln94211-13-p4s1w11</LM>
 </w.rf>
 <form>Braas</form>
-<tag lemma="Braas_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Braas_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-13-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <form>Fatra</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p4s1w14">
@@ -1413,7 +1413,7 @@
 <form>Fatry</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p4s3w23">
@@ -1434,7 +1434,7 @@
 <form>Fatra</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p5s1w2">
@@ -1547,7 +1547,7 @@
 <LM>w#w-ln94211-13-p5s1w15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94211-13-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1629,7 +1629,7 @@
 <LM>w#w-ln94211-13-p5s2w2</LM>
 </w.rf>
 <form>Braas</form>
-<tag lemma="Braas_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Braas_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-13-p5s2w3">
 <src.rf>manual</src.rf>

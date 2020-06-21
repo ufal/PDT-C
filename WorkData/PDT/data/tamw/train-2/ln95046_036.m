@@ -61,7 +61,7 @@
 <LM>w#w-ln95046-036-p2s1w3</LM>
 </w.rf>
 <form>Matthias</form>
-<tag lemma="Matthias_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matthias_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-036-p2s1w4">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln95046-036-p2s1w4</LM>
 </w.rf>
 <form>Sammer</form>
-<tag lemma="Sammer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sammer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-036-p2s1w5">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95046-036-p2s1w8</LM>
 </w.rf>
 <form>Borussií</form>
-<tag lemma="Borussia_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Borussia_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95046-036-p2s1w9">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95046-036-p2s2w1</LM>
 </w.rf>
 <form>Sammer</form>
-<tag lemma="Sammer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sammer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-036-p2s2w2">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln95046-036-p2s2w13</LM>
 </w.rf>
 <form>Interu</form>
-<tag lemma="Inter_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Inter_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-036-p2s2w14">
 <src.rf>manual</src.rf>

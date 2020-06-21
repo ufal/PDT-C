@@ -61,7 +61,7 @@
 <LM>w#w-ln95047-032-p2s1w5</LM>
 </w.rf>
 <form>Mrázová</form>
-<tag lemma="Mrázová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mrázová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-032-p2s1w6">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln95047-032-p2s1w7</LM>
 </w.rf>
 <form>Šimeček</form>
-<tag lemma="Šimeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-032-p2s1w8">
 <src.rf>manual</src.rf>

@@ -473,7 +473,7 @@
 <LM>w#w-mf920925-106-p3s1w26</LM>
 </w.rf>
 <form>Čelidze</form>
-<tag lemma="Čelidze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čelidze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-106-p3s1w27">
 <src.rf>manual</src.rf>

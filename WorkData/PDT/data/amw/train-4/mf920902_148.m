@@ -549,7 +549,7 @@
 <LM>w#w-mf920902-148-p4s4w13</LM>
 </w.rf>
 <form>Rabina</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-148-p4s4w14">
 <src.rf>manual</src.rf>

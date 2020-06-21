@@ -75,7 +75,7 @@
 <LM>w#w-ln94205-133-p1s1w8</LM>
 </w.rf>
 <form>Minaříkem</form>
-<tag lemma="Minařík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Minařík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-133-p2s1A">
@@ -102,8 +102,8 @@
 </w.rf>
 <form>js</form>
 <tag>
-<AM lemma="js-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="js-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="js-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="js-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-133-p2s1Aw4">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-133-p2s1Aw6">
@@ -349,7 +349,7 @@
 <LM>w#w-ln94205-133-p2s1Bw26</LM>
 </w.rf>
 <form>Minařík</form>
-<tag lemma="Minařík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Minařík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-133-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-ln94205-133-p2s3w6</LM>
 </w.rf>
 <form>Vočka</form>
-<tag lemma="Vočka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vočka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-133-p2s3w7">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-ln94205-133-p2s4w7</LM>
 </w.rf>
 <form>Minaříkově</form>
-<tag lemma="Minaříkův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Minaříkův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94205-133-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-ln94205-133-p2s7w13</LM>
 </w.rf>
 <form>Vočka</form>
-<tag lemma="Vočka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vočka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-133-p2s7w14">
 <src.rf>manual</src.rf>

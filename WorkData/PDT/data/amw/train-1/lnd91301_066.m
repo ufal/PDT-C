@@ -674,7 +674,7 @@
 </w.rf>
 <form>KSSS</form>
 <tag>
-<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

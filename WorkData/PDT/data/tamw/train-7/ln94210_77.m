@@ -566,8 +566,8 @@
 </w.rf>
 <form>Abdalláha</form>
 <tag>
-<AM lemma="Abdalláh_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Abdalláh_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Abdalláh_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Abdalláh_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-77-p2s4w10">
@@ -576,7 +576,7 @@
 <LM>w#w-ln94210-77-p2s4w10</LM>
 </w.rf>
 <form>Šamího</form>
-<tag lemma="Šamí_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Šamí_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-77-p2s4w11">
 <src.rf>manual</src.rf>
@@ -649,8 +649,8 @@
 </w.rf>
 <form>Muhammada</form>
 <tag>
-<AM lemma="Muhammad_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Muhammad_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Muhammad_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Muhammad_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-77-p2s4w20">
@@ -660,7 +660,7 @@
 </w.rf>
 <form>Lulua</form>
 <tag>
-<AM lemma="Lulu_;S" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Lulu_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Lulua_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

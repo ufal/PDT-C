@@ -19,7 +19,7 @@
 <LM>w#w-mf920925-052-p1s1w1</LM>
 </w.rf>
 <form>Maradona</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-052-p1s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +53,7 @@
 <LM>w#w-mf920925-052-p2s1w3</LM>
 </w.rf>
 <form>Diego</form>
-<tag lemma="Diego_;S_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Diego_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-052-p2s1w4">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-mf920925-052-p2s1w4</LM>
 </w.rf>
 <form>Maradona</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-052-p2s1w5">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -258,7 +258,7 @@
 <LM>w#w-mf920925-052-p2s2w6</LM>
 </w.rf>
 <form>Maradona</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-052-p2s2w7">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf920925-052-p2s2w21</LM>
 </w.rf>
 <form>Bayernu</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf920925-052-p2s2w22">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-mf920925-052-p2s4w5</LM>
 </w.rf>
 <form>Maradona</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-052-p2s4w6">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-mf920925-052-p2s4w20</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920925-052-p2s4w21">
 <src.rf>manual</src.rf>

@@ -97,7 +97,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Grammy</form>
-<tag lemma="Grammy_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</tag>
+<tag lemma="Grammy_;m" src="auto" recommended="1" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw6">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 </w.rf>
 <form>Yo</form>
 <tag>
-<AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yo_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Yo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -133,7 +133,7 @@
 </w.rf>
 <form>Yo</form>
 <tag>
-<AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yo_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Yo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -324,7 +324,7 @@
 <LM>w#w-cmpr9413-037-p3s1Bw10</LM>
 </w.rf>
 <form>ftalátů</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Bw11">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-cmpr9413-037-p3s6w7</LM>
 </w.rf>
 <form>HOFMAN</form>
-<tag lemma="Hofman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s6w8">
 <src.rf>manual</src.rf>

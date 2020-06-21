@@ -340,7 +340,7 @@
 <LM>w#w-mf920902-042-p2s3w10</LM>
 </w.rf>
 <form>Veselý</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-042-p2s3w11">
 <src.rf>manual</src.rf>

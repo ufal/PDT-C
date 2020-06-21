@@ -104,7 +104,7 @@
 <LM>w#w-ln94205-10-p2s1Bw2</LM>
 </w.rf>
 <form>Richter</form>
-<tag lemma="Richter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Richter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-10-p2s1C">

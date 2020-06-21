@@ -19,7 +19,7 @@
 <LM>w#w-lnd94104-106-p1s1w1</LM>
 </w.rf>
 <form>Raudiesův</form>
-<tag lemma="Raudiesův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Raudiesův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd94104-106-p1s1w2">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <AM lemma="Boba_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Bobo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bobo_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Boby_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Boby_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Boby_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Boby_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="bob" src="auto">NNIP1-----A----</AM>
@@ -173,7 +173,7 @@
 </w.rf>
 <form>Stavex</form>
 <tag>
-<AM lemma="Stavex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Stavex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Stavex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -251,7 +251,7 @@
 <LM>w#w-lnd94104-106-p1s3w22</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd94104-106-p1s3w23">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-lnd94104-106-p1s5w7</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd94104-106-p1s5w8">
 <src.rf>manual</src.rf>
@@ -844,8 +844,8 @@
 </w.rf>
 <form>Němce</form>
 <tag>
-<AM lemma="Němec_;E_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Němec_;S_;E" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Němec_;E_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Němec_;E_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-106-p1s7w15">
@@ -854,7 +854,7 @@
 <LM>w#w-lnd94104-106-p1s7w15</LM>
 </w.rf>
 <form>Raudiese</form>
-<tag lemma="Raudies_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Raudies_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-106-p1s7w16">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-lnd94104-106-p1s7w29</LM>
 </w.rf>
 <form>Masarykův</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd94104-106-p1s7w30">
 <src.rf>manual</src.rf>

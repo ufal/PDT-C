@@ -52,7 +52,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -193,7 +193,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -498,7 +498,7 @@
 <LM>w#w-mf920924-106-p5s1w16</LM>
 </w.rf>
 <form>Martinkenasa</form>
-<tag lemma="Martinkenasa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martinkenasa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-106-p5s1w17">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-mf920924-106-p5s1w24</LM>
 </w.rf>
 <form>Christoftemu</form>
-<tag lemma="Christofte_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Christofte_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920924-106-p5s1w25">
 <src.rf>manual</src.rf>

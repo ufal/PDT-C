@@ -80,9 +80,9 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="jab-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jab_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="jab_,t" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-015-p3s1w4">
@@ -206,7 +206,7 @@
 </w.rf>
 <form>JDC</form>
 <tag>
-<AM lemma="JDC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JDC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JDC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -762,7 +762,7 @@
 </w.rf>
 <form>JDC</form>
 <tag>
-<AM lemma="JDC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JDC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JDC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1706,7 +1706,7 @@
 <LM>w#w-lnd92256-015-p3s9w41</LM>
 </w.rf>
 <form>Soukupová</form>
-<tag lemma="Soukupová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Soukupová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-015-p3s9w42">
 <src.rf>manual</src.rf>

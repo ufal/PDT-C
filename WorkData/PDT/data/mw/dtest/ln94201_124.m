@@ -27,7 +27,7 @@
 <LM>w#w-ln94201-124-p1s1w2</LM>
 </w.rf>
 <form>Vivaldiho</form>
-<tag lemma="Vivaldi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vivaldi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-124-p1s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln94201-124-p2s1w2</LM>
 </w.rf>
 <form>Hartman</form>
-<tag lemma="Hartman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hartman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-124-p2s1w3">
 <src.rf>manual</src.rf>
@@ -455,12 +455,12 @@
 </w.rf>
 <form>Práchyňský</form>
 <tag>
-<AM lemma="Práchyňský_;K" src="orig">AAIS1----1A----</AM>
-<AM lemma="Práchyňský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Práchyňský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Práchyňský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Práchyňský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Práchyňský_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Práchyňský_;m" src="orig">AAIS1----1A----</AM>
+<AM lemma="Práchyňský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Práchyňský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Práchyňský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Práchyňský_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Práchyňský_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="práchyňský" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
@@ -586,7 +586,7 @@
 <form>Režný</form>
 <tag>
 <AM lemma="režný" src="orig">AAMS1----1A----</AM>
-<AM lemma="Režný_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Režný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p3s2w11">
@@ -953,7 +953,7 @@
 <form>Režný</form>
 <tag>
 <AM lemma="režný" src="orig">AAMS1----1A----</AM>
-<AM lemma="Režný_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Režný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p3s4w13">
@@ -1401,7 +1401,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1412,7 +1412,7 @@
 </w.rf>
 <form>salon</form>
 <tag>
-<AM lemma="salon-2_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="salon-2_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="salón" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="salón" src="auto">NNIS4-----A----</AM>
 <AM lemma="salon-77" src="manual" selected="1">F%-------------</AM>
@@ -1436,7 +1436,7 @@
 </w.rf>
 <form>Madame</form>
 <tag>
-<AM lemma="Madame_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Madame_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="madame_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Madame-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1448,7 +1448,7 @@
 </w.rf>
 <form>Victoire</form>
 <tag>
-<AM lemma="Victoire_;Y_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Victoire_;Y_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Victoire-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1658,7 +1658,7 @@
 </w.rf>
 <form>cour</form>
 <tag>
-<AM lemma="cour_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="cour_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="coura" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="cournout_,h" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="cour-77" src="manual" selected="1">F%-------------</AM>
@@ -1785,8 +1785,8 @@
 </w.rf>
 <form>Ernst</form>
 <tag>
-<AM lemma="Ernst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ernst_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ernst_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ernst_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-124-p4s5w14">
@@ -1795,7 +1795,7 @@
 <LM>w#w-ln94201-124-p4s5w14</LM>
 </w.rf>
 <form>Wilzek</form>
-<tag lemma="Wilzek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wilzek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-124-p4s5w15">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 </w.rf>
 <form>cour</form>
 <tag>
-<AM lemma="cour_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="cour_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="coura" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="cournout_,h" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="cour-77" src="manual" selected="1">F%-------------</AM>
@@ -2067,7 +2067,7 @@
 <LM>w#w-ln94201-124-p4s6w9</LM>
 </w.rf>
 <form>Vivaldiho</form>
-<tag lemma="Vivaldi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vivaldi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-124-p4s6w10">
 <src.rf>manual</src.rf>
@@ -2293,7 +2293,7 @@
 <LM>w#w-ln94201-124-p4s7w10</LM>
 </w.rf>
 <form>Spilwut</form>
-<tag lemma="Spilwut_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Spilwut_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-124-p4s7w11">
 <src.rf>manual</src.rf>

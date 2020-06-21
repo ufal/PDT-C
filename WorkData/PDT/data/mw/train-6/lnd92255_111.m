@@ -193,7 +193,7 @@
 <LM>w#w-lnd92255-111-p4s1w7</LM>
 </w.rf>
 <form>Funda</form>
-<tag lemma="Funda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Funda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p5s1">
@@ -251,7 +251,7 @@
 <LM>w#w-lnd92255-111-p5s1w7</LM>
 </w.rf>
 <form>Opatrný</form>
-<tag lemma="Opatrný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Opatrný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p6s1">
@@ -311,7 +311,7 @@
 <LM>w#w-lnd92255-111-p6s2w4</LM>
 </w.rf>
 <form>Hájek</form>
-<tag lemma="Hájek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hájek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p7s1">
@@ -427,7 +427,7 @@
 <LM>w#w-lnd92255-111-p8s1w7</LM>
 </w.rf>
 <form>Rajchrt</form>
-<tag lemma="Rajchrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rajchrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p9s1">
@@ -485,7 +485,7 @@
 <LM>w#w-lnd92255-111-p9s1w7</LM>
 </w.rf>
 <form>Rejchrt</form>
-<tag lemma="Rejchrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rejchrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p10s1">
@@ -543,7 +543,7 @@
 <LM>w#w-lnd92255-111-p10s1w7</LM>
 </w.rf>
 <form>Štampach</form>
-<tag lemma="Štampach_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štampach_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p11s1">
@@ -601,7 +601,7 @@
 <LM>w#w-lnd92255-111-p11s1w7</LM>
 </w.rf>
 <form>Plzák</form>
-<tag lemma="Plzák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plzák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p12s1">
@@ -659,7 +659,7 @@
 <LM>w#w-lnd92255-111-p12s1w7</LM>
 </w.rf>
 <form>Antalík</form>
-<tag lemma="Antalík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Antalík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p13s1">
@@ -833,7 +833,7 @@
 <LM>w#w-lnd92255-111-p15s1w7</LM>
 </w.rf>
 <form>Radkovský</form>
-<tag lemma="Radkovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radkovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p16s1">
@@ -891,7 +891,7 @@
 <LM>w#w-lnd92255-111-p16s1w7</LM>
 </w.rf>
 <form>Jaluška</form>
-<tag lemma="Jaluška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jaluška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p17s1">
@@ -949,7 +949,7 @@
 <LM>w#w-lnd92255-111-p17s1w7</LM>
 </w.rf>
 <form>Šimsa</form>
-<tag lemma="Šimsa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimsa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p18s1">
@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd92255-111-p18s1w7</LM>
 </w.rf>
 <form>Wernisch</form>
-<tag lemma="Wernisch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wernisch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p19s1">
@@ -1123,7 +1123,7 @@
 <LM>w#w-lnd92255-111-p20s1w7</LM>
 </w.rf>
 <form>Fiala</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p21s1">
@@ -1181,7 +1181,7 @@
 <LM>w#w-lnd92255-111-p21s1w7</LM>
 </w.rf>
 <form>Šourek</form>
-<tag lemma="Šourek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šourek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p22s1">
@@ -1239,7 +1239,7 @@
 <LM>w#w-lnd92255-111-p22s1w7</LM>
 </w.rf>
 <form>Syrovátka</form>
-<tag lemma="Syrovátka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Syrovátka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p23s1">
@@ -1297,7 +1297,7 @@
 <LM>w#w-lnd92255-111-p23s1w7</LM>
 </w.rf>
 <form>Dus</form>
-<tag lemma="Dus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -2865,7 +2865,7 @@
 <LM>w#w-vesm9303-034-p6s1w2</LM>
 </w.rf>
 <form>Křivský</form>
-<tag lemma="Křivský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křivský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

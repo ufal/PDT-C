@@ -129,7 +129,7 @@
 <LM>w#w-cmpr9407-024-p4s1w2</LM>
 </w.rf>
 <form>Konzea</form>
-<tag lemma="Konzea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Konzea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-024-p4s1w3">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <form>Starý</form>
 <tag>
 <AM lemma="starý-2_^(člověk,_věc)" src="orig">AAMS1----1A----</AM>
-<AM lemma="Starý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Starý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-024-p4s4w5">
@@ -722,7 +722,7 @@
 <LM>w#w-cmpr9407-024-p5s1w2</LM>
 </w.rf>
 <form>Fürstová</form>
-<tag lemma="Fürstová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fürstová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-024-p6s1">
@@ -790,7 +790,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-024-p6s1w9">
@@ -807,7 +807,7 @@
 <LM>w#w-cmpr9407-024-p6s1w10</LM>
 </w.rf>
 <form>Starým</form>
-<tag lemma="Starý_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Starý_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9407-024-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <form>Starý</form>
 <tag>
 <AM lemma="starý-1_^(manžel)" src="orig">NNMS1-----A----</AM>
-<AM lemma="Starý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Starý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-024-p8s1w15">
@@ -1614,7 +1614,7 @@
 <LM>w#w-cmpr9407-024-p9s1w2</LM>
 </w.rf>
 <form>Konzea</form>
-<tag lemma="Konzea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Konzea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-024-p9s1w3">
 <src.rf>manual</src.rf>
@@ -3210,7 +3210,7 @@
 <LM>w#w-cmpr9407-024-p12s2w12</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-024-p12s2w13">
 <src.rf>manual</src.rf>
@@ -3296,7 +3296,7 @@
 <form>Starý</form>
 <tag>
 <AM lemma="starý-1_^(manžel)" src="orig">NNMS1-----A----</AM>
-<AM lemma="Starý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Starý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-024-p14s1w3">
@@ -6179,7 +6179,7 @@
 <LM>w#w-cmpr9407-024-p23s1w3</LM>
 </w.rf>
 <form>Konzea</form>
-<tag lemma="Konzea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Konzea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-024-p23s1w4">
 <src.rf>manual</src.rf>
@@ -6262,7 +6262,7 @@
 <form>Štítného</form>
 <tag>
 <AM lemma="štítný" src="orig">AAMS2----1A----</AM>
-<AM lemma="Štítný_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Štítný_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-024-p23s1w13">

@@ -87,7 +87,7 @@
 <LM>w#w-cmpr9407-006-p3s1Bw1</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-006-p3s1Bw2">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-cmpr9407-006-p4s3w21</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-006-p4s3w22">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-cmpr9407-006-p5s1w2</LM>
 </w.rf>
 <form>Složil</form>
-<tag lemma="Složil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Složil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-006-p7s1">
@@ -1022,7 +1022,7 @@
 <LM>w#w-cmpr9407-006-p8s1w2</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-006-p9s1">
@@ -1362,7 +1362,7 @@
 <LM>w#w-cmpr9407-006-p10s1w3</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-006-p10s1w4">
 <src.rf>manual</src.rf>
@@ -2123,7 +2123,7 @@
 <LM>w#w-cmpr9407-006-p10s8w6</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-006-p10s8w7">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-cmpr9407-006-p10s8w14</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-006-p10s8w15">
 <src.rf>manual</src.rf>
@@ -2770,7 +2770,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3188,7 +3188,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3951,7 +3951,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4289,8 +4289,8 @@
 <form>Rabaci</form>
 <tag>
 <AM lemma="Rabac_;G" src="orig">NNIS6-----A---1</AM>
-<AM lemma="Rabak_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Rabak_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Rabak_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Rabak_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Rabac_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Rabac_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Rabac_;G" src="auto">NNIS5-----A----</AM>
@@ -4361,7 +4361,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4517,7 +4517,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4829,7 +4829,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5053,8 +5053,8 @@
 <form>Rabaci</form>
 <tag>
 <AM lemma="Rabac_;G" src="orig">NNIS6-----A---1</AM>
-<AM lemma="Rabak_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Rabak_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Rabak_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Rabak_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Rabac_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Rabac_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Rabac_;G" src="auto">NNIS5-----A----</AM>
@@ -5205,7 +5205,7 @@
 <LM>w#w-cmpr9407-006-p17s2w11</LM>
 </w.rf>
 <form>Girandella</form>
-<tag lemma="Girandella_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Girandella_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-006-p17s2w12">
 <src.rf>manual</src.rf>
@@ -5281,7 +5281,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5396,7 +5396,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5718,7 +5718,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

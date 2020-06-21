@@ -1611,7 +1611,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1982,7 +1982,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -2290,7 +2290,7 @@
 <LM>w#w-lnd92256-039-p5s1w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92256-039-p5s1w15">
 <src.rf>manual</src.rf>
@@ -2350,7 +2350,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-039-p5s2w6">
@@ -2367,7 +2367,7 @@
 <LM>w#w-lnd92256-039-p5s2w7</LM>
 </w.rf>
 <form>Šimonovského</form>
-<tag lemma="Šimonovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šimonovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-039-p5s2w8">
 <src.rf>manual</src.rf>
@@ -3109,7 +3109,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-039-p5s6w16">
@@ -3126,7 +3126,7 @@
 <LM>w#w-lnd92256-039-p5s6w17</LM>
 </w.rf>
 <form>Šimonovský</form>
-<tag lemma="Šimonovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimonovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-039-p5s6w18">
 <src.rf>manual</src.rf>
@@ -4035,7 +4035,7 @@
 <LM>w#w-lnd92256-039-p7s1w2</LM>
 </w.rf>
 <form>ČECHOVÁ</form>
-<tag lemma="Čechová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Čechová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -135,7 +135,7 @@
 <LM>w#w-ln94206-41-p2s1Bw7</LM>
 </w.rf>
 <form>Mělnicku</form>
-<tag lemma="Mělnicko_;G_;S" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Mělnicko_;G_;Y" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94206-41-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-ln94206-41-p2s2w4</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-41-p2s2w5">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-ln94206-41-p2s6w6</LM>
 </w.rf>
 <form>Pilipa</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-41-p2s6w7">
 <src.rf>manual</src.rf>

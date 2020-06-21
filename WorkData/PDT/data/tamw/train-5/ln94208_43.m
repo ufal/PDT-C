@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-43-p1s1w1</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-43-p1s1w2">
 <src.rf>manual</src.rf>
@@ -36,7 +36,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -55,9 +55,9 @@
 </w.rf>
 <form>Roxette</form>
 <tag>
-<AM lemma="Roxette_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Roxette_;K" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Roxette_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Roxette_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Roxette_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Roxette_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -118,7 +118,7 @@
 <LM>w#w-ln94208-43-p2s1Bw5</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-ln94208-43-p2s1Bw8</LM>
 </w.rf>
 <form>Gašparoviče</form>
-<tag lemma="Gašparovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gašparovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -257,7 +257,7 @@
 <LM>w#w-ln94208-43-p2s1Bw22</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-ln94208-43-p2s2w5</LM>
 </w.rf>
 <form>Novy</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s2w6">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -539,7 +539,7 @@
 <LM>w#w-ln94208-43-p2s4w8</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s4w9">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 </w.rf>
 <form>piatok</form>
 <tag>
-<AM lemma="piatok_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="piatok_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="piatok-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -753,7 +753,7 @@
 </w.rf>
 <form>APA</form>
 <tag>
-<AM lemma="APA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="APA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="APA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Apa_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Apo_;G" src="auto">NNNS2-----A----</AM>
@@ -806,7 +806,7 @@
 <LM>w#w-ln94208-43-p2s5w9</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-43-p2s5w10">
 <src.rf>manual</src.rf>
@@ -971,9 +971,9 @@
 </w.rf>
 <form>Roxette</form>
 <tag>
-<AM lemma="Roxette_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Roxette_;K" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Roxette_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Roxette_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Roxette_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Roxette_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-43-p2s5w30">
@@ -1007,7 +1007,7 @@
 </w.rf>
 <form>Fireworks</form>
 <tag>
-<AM lemma="Fireworks_;R_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Fireworks_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Fireworks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1034,7 +1034,7 @@
 </w.rf>
 <form>Ice</form>
 <tag>
-<AM lemma="Ice_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ice_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Ica_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Ica_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Ika_;G" src="auto">NNFS3-----A----</AM>

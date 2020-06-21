@@ -36,8 +36,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-040-p1s1w4">
@@ -96,7 +96,7 @@
 <LM>w#w-mf920922-040-p2s1w5</LM>
 </w.rf>
 <form>Jílek</form>
-<tag lemma="Jílek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jílek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-040-p2s1w6">
 <src.rf>manual</src.rf>
@@ -113,8 +113,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-040-p2s1w8">
@@ -259,7 +259,7 @@
 <LM>w#w-mf920922-040-p2s1w25</LM>
 </w.rf>
 <form>Soukupa</form>
-<tag lemma="Soukup_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Soukup_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-040-p2s1w26">
 <src.rf>manual</src.rf>
@@ -276,8 +276,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-040-p2s1w28">
@@ -432,7 +432,7 @@
 <LM>w#w-mf920922-040-p2s2w7</LM>
 </w.rf>
 <form>Jílkovi</form>
-<tag lemma="Jílek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Jílek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920922-040-p2s2w8">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-mf920922-040-p2s2w14</LM>
 </w.rf>
 <form>Soukup</form>
-<tag lemma="Soukup_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soukup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-040-p2s2w15">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 </w.rf>
 <form>Rotary</form>
 <tag>
-<AM lemma="Rotary-1_;K_,t_^(Rotary_Club)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Rotary-1_;m_,t_^(Rotary_Club)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Rotary-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -856,7 +856,7 @@
 <LM>w#w-mf920922-040-p2s3w33</LM>
 </w.rf>
 <form>Soukup</form>
-<tag lemma="Soukup_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soukup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-040-p2s3w34">
 <src.rf>manual</src.rf>

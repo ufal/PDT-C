@@ -911,7 +911,7 @@
 <LM>w#w-ln95043-104-p6s1w2</LM>
 </w.rf>
 <form>Suzop</form>
-<tag lemma="Suzop_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Suzop_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95043-104-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1380,7 +1380,7 @@
 <LM>w#w-ln95043-104-p6s4w1</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95043-104-p6s4w2">
 <src.rf>manual</src.rf>
@@ -1432,8 +1432,8 @@
 </w.rf>
 <form>Rhea</form>
 <tag>
-<AM lemma="Rhea_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rhea_;K_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rhea_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Rhea_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-104-p6s4w8">
@@ -1643,9 +1643,9 @@
 </w.rf>
 <form>Penta</form>
 <tag>
-<AM lemma="Penta_;K_^(hotel)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Penta_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Pento_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Penta_;m_^(hotel)" src="orig">NNXXX-----A----</AM>
+<AM lemma="Penta_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pento_;m" src="auto">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-104-p7s1w9">
@@ -1841,7 +1841,7 @@
 <LM>w#w-ln95043-104-p7s2w3</LM>
 </w.rf>
 <form>Černigov</form>
-<tag lemma="Černigov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černigov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-104-p7s2w4">
 <src.rf>manual</src.rf>
@@ -2160,7 +2160,7 @@
 <LM>w#w-ln95043-104-p8s1w10</LM>
 </w.rf>
 <form>Continental</form>
-<tag lemma="Continental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Continental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-104-p8s1w11">
 <src.rf>manual</src.rf>
@@ -2176,7 +2176,7 @@
 <LM>w#w-ln95043-104-p8s1w12</LM>
 </w.rf>
 <form>Hlinky</form>
-<tag lemma="Hlinka-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hlinka-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-104-p8s1w13">
 <src.rf>manual</src.rf>
@@ -2872,7 +2872,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3569,7 +3569,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

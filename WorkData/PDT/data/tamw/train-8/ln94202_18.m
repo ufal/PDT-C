@@ -356,8 +356,8 @@
 </w.rf>
 <form>Wirtschaftswoche</form>
 <tag>
-<AM lemma="Wirtschaftswoche_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Wirtschaftswoche_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Wirtschaftswoche_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Wirtschaftswoche_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Wirtschaftswoche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -465,7 +465,7 @@
 <LM>w#w-ln94202-18-p2s4w2</LM>
 </w.rf>
 <form>ikr</form>
-<tag lemma="ikr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ikr-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-18-p2s4w3">
 <src.rf>manual</src.rf>

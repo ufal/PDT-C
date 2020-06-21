@@ -51,7 +51,7 @@
 <LM>w#w-ln94201-113-p1s1w5</LM>
 </w.rf>
 <form>Ulrych</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94201-113-p2s1">
@@ -164,7 +164,7 @@
 <form>Odeonu</form>
 <tag>
 <AM lemma="Odeon_;Y" src="orig">NNIS2-----A----</AM>
-<AM lemma="Odeon-2_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-113-p2s2w10">
@@ -216,8 +216,8 @@
 </w.rf>
 <form>Eberhardt</form>
 <tag>
-<AM lemma="Eberhardt_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eberhardt_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eberhardt_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eberhardt_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-113-p2s3w6">
@@ -226,7 +226,7 @@
 <LM>w#w-ln94201-113-p2s3w6</LM>
 </w.rf>
 <form>Hauptbahnhof</form>
-<tag lemma="Hauptbahnhof_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hauptbahnhof_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-113-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1901,7 +1901,7 @@
 <LM>w#w-ln94201-113-p3s9w2</LM>
 </w.rf>
 <form>Kazi</form>
-<tag lemma="Kazi_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Kazi_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94201-113-p3s9w3">
 <src.rf>manual</src.rf>
@@ -2900,7 +2900,7 @@
 <LM>w#w-ln94201-113-p5s1w4</LM>
 </w.rf>
 <form>Ulrycha</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2934,7 +2934,7 @@
 <LM>w#w-ln94201-113-p5s2w3</LM>
 </w.rf>
 <form>Ulrych</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s2w4">
 <src.rf>manual</src.rf>
@@ -3041,7 +3041,7 @@
 <LM>w#w-ln94201-113-p5s2w16</LM>
 </w.rf>
 <form>Ulrych</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s2w17">
 <src.rf>manual</src.rf>
@@ -3176,7 +3176,7 @@
 <LM>w#w-ln94201-113-p5s3w15</LM>
 </w.rf>
 <form>Ulrychu</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS5-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s3w16">
 <src.rf>manual</src.rf>
@@ -3401,7 +3401,7 @@
 <LM>w#w-ln94201-113-p5s4w26</LM>
 </w.rf>
 <form>Ulrych</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s4w27">
 <src.rf>manual</src.rf>
@@ -3608,7 +3608,7 @@
 <LM>w#w-ln94201-113-p5s6w9</LM>
 </w.rf>
 <form>Ulrycha</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s6w10">
 <src.rf>manual</src.rf>
@@ -3784,7 +3784,7 @@
 <LM>w#w-ln94201-113-p5s7w17</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s7w18">
 <src.rf>manual</src.rf>
@@ -3928,7 +3928,7 @@
 <LM>w#w-ln94201-113-p5s7w35</LM>
 </w.rf>
 <form>Ulrych</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s7w36">
 <src.rf>manual</src.rf>
@@ -4087,7 +4087,7 @@
 <LM>w#w-ln94201-113-p5s9w3</LM>
 </w.rf>
 <form>Ulrychu</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS5-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s9w4">
 <src.rf>manual</src.rf>
@@ -4294,7 +4294,7 @@
 <LM>w#w-ln94201-113-p5s10w18</LM>
 </w.rf>
 <form>Ulrych</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s10w19">
 <src.rf>manual</src.rf>
@@ -4360,10 +4360,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -4397,7 +4397,7 @@
 <LM>w#w-ln94201-113-p5s10w30</LM>
 </w.rf>
 <form>Ulrych</form>
-<tag lemma="Ulrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-113-p5s10w31">
 <src.rf>manual</src.rf>
@@ -5175,7 +5175,7 @@
 <LM>w#w-ln94201-113-p6s3w1</LM>
 </w.rf>
 <form>Kazi</form>
-<tag lemma="Kazi_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Kazi_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94201-113-p6s3w2">
 <src.rf>manual</src.rf>

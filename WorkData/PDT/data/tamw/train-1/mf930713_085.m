@@ -105,8 +105,8 @@
 </w.rf>
 <form>jkl</form>
 <tag>
-<AM lemma="jkl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jkl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jkl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jkl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-085-p2s1Aw4">
@@ -605,7 +605,7 @@
 <LM>w#w-mf930713-085-p3s1w7</LM>
 </w.rf>
 <form>Švehla</form>
-<tag lemma="Švehla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švehla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-085-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <LM>w#w-mf930713-085-p4s2w25</LM>
 </w.rf>
 <form>Švehla</form>
-<tag lemma="Švehla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švehla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-085-p4s2w26">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <LM>w#w-mf930713-085-p5s1w8</LM>
 </w.rf>
 <form>Kratochvíle</form>
-<tag lemma="Kratochvíle-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kratochvíle-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-085-p5s1w9">
 <src.rf>manual</src.rf>

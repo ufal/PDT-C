@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-074-p1s1w1</LM>
 </w.rf>
 <form>Fortuna</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-074-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-mf920922-074-p2s1w3</LM>
 </w.rf>
 <form>Fortuna</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s1w4">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 </w.rf>
 <form>Terno</form>
 <tag>
-<AM lemma="Terno_;K" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Terno_;m" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="terno" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="terno" src="auto">NNNS4-----A----</AM>
 <AM lemma="terno" src="auto">NNNS5-----A----</AM>
@@ -370,7 +370,7 @@
 <LM>w#w-mf920922-074-p2s2w19</LM>
 </w.rf>
 <form>Fortuna</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s2w20">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-mf920922-074-p2s2w21</LM>
 </w.rf>
 <form>Horáček</form>
-<tag lemma="Horáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s2w22">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-mf920922-074-p2s4w4</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s4w5">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-mf920922-074-p2s6Aw1</LM>
 </w.rf>
 <form>Horáček</form>
-<tag lemma="Horáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s6Aw2">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-mf920922-074-p2s6Bw1</LM>
 </w.rf>
 <form>Fortuna</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s6Bw2">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 </w.rf>
 <form>Czechoslovak</form>
 <tag>
-<AM lemma="Czechoslovak_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czechoslovak_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Czechoslovak-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1121,7 +1121,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1180,7 +1180,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1296,7 +1296,7 @@
 <LM>w#w-mf920922-074-p2s8w9</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s8w10">
 <src.rf>manual</src.rf>

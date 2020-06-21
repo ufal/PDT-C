@@ -20,8 +20,8 @@
 </w.rf>
 <form>FBI</form>
 <tag>
-<AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FBI_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -122,8 +122,8 @@
 </w.rf>
 <form>FBI</form>
 <tag>
-<AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FBI_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -269,7 +269,7 @@
 <LM>w#w-mf930702-127-p2s1w26</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930702-127-p2s1w27">
 <src.rf>manual</src.rf>
@@ -377,8 +377,8 @@
 </w.rf>
 <form>FBI</form>
 <tag>
-<AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FBI_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -406,11 +406,11 @@
 <form>Earla</form>
 <tag>
 <AM lemma="jarl" src="orig">NNMS4-----A----</AM>
-<AM lemma="Earl_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Earl_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Earl_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Earl_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="earl" src="auto">NNMS2-----A----</AM>
 <AM lemma="earl" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Earl_;Y_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Earl_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-127-p2s2w7">
@@ -419,7 +419,7 @@
 <LM>w#w-mf930702-127-p2s2w7</LM>
 </w.rf>
 <form>Granta</form>
-<tag lemma="Grant-1_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Grant-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-127-p2s2w8">
 <src.rf>manual</src.rf>
@@ -534,8 +534,8 @@
 </w.rf>
 <form>FBI</form>
 <tag>
-<AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FBI_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -642,8 +642,8 @@
 </w.rf>
 <form>FBI</form>
 <tag>
-<AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FBI_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -847,7 +847,7 @@
 <LM>w#w-mf930702-127-p2s4w16</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930702-127-p2s4w17">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-mf930702-127-p2s4w17</LM>
 </w.rf>
 <form>Butruse</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Butrus_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-127-p2s4w18">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-mf930702-127-p2s4w19</LM>
 </w.rf>
 <form>Ghálího</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-127-p2s5">
@@ -905,7 +905,7 @@
 <LM>w#w-mf930702-127-p2s5w4</LM>
 </w.rf>
 <form>Mubaraka</form>
-<tag lemma="Mubarak_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mubarak_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-127-p2s5w5">
 <src.rf>manual</src.rf>

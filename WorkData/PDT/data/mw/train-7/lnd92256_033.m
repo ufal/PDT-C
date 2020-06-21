@@ -61,7 +61,7 @@
 <LM>w#w-lnd92256-033-p2s1w3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="luč-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92256-033-p2s1w4">
 <src.rf>manual</src.rf>

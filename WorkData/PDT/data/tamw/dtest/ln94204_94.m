@@ -173,7 +173,7 @@
 <LM>w#w-ln94204-94-p2s1w15</LM>
 </w.rf>
 <form>István</form>
-<tag lemma="István_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="István_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-94-p2s1w16">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-ln94204-94-p2s1w16</LM>
 </w.rf>
 <form>Ruppert</form>
-<tag lemma="Ruppert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruppert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-94-p2s1w17">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 </w.rf>
 <form>Oz</form>
 <tag>
-<AM lemma="Oz_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="oz-1_:B_,t_^(jednotka_hmotnosti_&quot;unce&quot;)" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -351,7 +351,7 @@
 <form>Černá</form>
 <tag>
 <AM lemma="černý" src="auto">AAFS1----1A----</AM>
-<AM lemma="Černá_;S" src="manual">NNFS1-----A----</AM>
+<AM lemma="Černá_;Y" src="manual">NNFS1-----A----</AM>
 <AM lemma="černý_;o" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94204-94-p3s1w16</LM>
 </w.rf>
 <form>Fišer</form>
-<tag lemma="Fišer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fišer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-94-p3s1w17">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94204-94-p3s2w17</LM>
 </w.rf>
 <form>Balzerové</form>
-<tag lemma="Balzerová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Balzerová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-94-p3s2w18">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-ln94204-94-p3s3w3</LM>
 </w.rf>
 <form>Klíma</form>
-<tag lemma="Klíma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klíma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-94-p3s3w4">
 <src.rf>manual</src.rf>
@@ -610,7 +610,7 @@
 <LM>w#w-ln94204-94-p4s1w1</LM>
 </w.rf>
 <form>Jaya</form>
-<tag lemma="Jaya_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jaya_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-94-p4s1w2">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-ln94204-94-p4s1w3</LM>
 </w.rf>
 <form>Yandim</form>
-<tag lemma="Yandim_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Yandim_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94204-94-p4s1w4">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-ln94204-94-p4s1w4</LM>
 </w.rf>
 <form>Band</form>
-<tag lemma="Band_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Band_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-94-p4s1w5">
 <src.rf>manual</src.rf>

@@ -399,7 +399,7 @@
 <LM>w#w-cmpr9406-014-p4s1w2</LM>
 </w.rf>
 <form>Valášek</form>
-<tag lemma="Valášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-014-p5s1">
@@ -505,7 +505,7 @@
 <LM>w#w-cmpr9406-014-p5s1w13</LM>
 </w.rf>
 <form>Pragoreal</form>
-<tag lemma="Pragoreal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoreal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p5s1w14">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-cmpr9406-014-p5s1w15</LM>
 </w.rf>
 <form>Kohner</form>
-<tag lemma="Kohner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p5s1w16">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-cmpr9406-014-p6s1w17</LM>
 </w.rf>
 <form>Pragoreal</form>
-<tag lemma="Pragoreal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoreal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-cmpr9406-014-p6s2w5</LM>
 </w.rf>
 <form>Kohner</form>
-<tag lemma="Kohner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p6s2w6">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-cmpr9406-014-p6s2w12</LM>
 </w.rf>
 <form>Pragoreal</form>
-<tag lemma="Pragoreal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoreal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p6s2w13">
 <src.rf>manual</src.rf>
@@ -2225,7 +2225,7 @@
 <LM>w#w-cmpr9406-014-p8s2w5</LM>
 </w.rf>
 <form>Pragoreal</form>
-<tag lemma="Pragoreal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoreal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p8s2w6">
 <src.rf>manual</src.rf>
@@ -2475,7 +2475,7 @@
 <LM>w#w-cmpr9406-014-p9s1w6</LM>
 </w.rf>
 <form>Pragoreal</form>
-<tag lemma="Pragoreal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoreal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p9s1w7">
 <src.rf>manual</src.rf>
@@ -3127,7 +3127,7 @@
 <LM>w#w-cmpr9406-014-p10s2w7</LM>
 </w.rf>
 <form>Kohnera</form>
-<tag lemma="Kohner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kohner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p10s2w8">
 <src.rf>manual</src.rf>
@@ -3772,7 +3772,7 @@
 <LM>w#w-cmpr9406-014-p12s2w15</LM>
 </w.rf>
 <form>Pragorealu</form>
-<tag lemma="Pragoreal_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pragoreal_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p12s2w16">
 <src.rf>manual</src.rf>
@@ -4150,7 +4150,7 @@
 <LM>w#w-cmpr9406-014-p12s5w3</LM>
 </w.rf>
 <form>Pragoreal</form>
-<tag lemma="Pragoreal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoreal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-014-p12s5w4">
 <src.rf>manual</src.rf>

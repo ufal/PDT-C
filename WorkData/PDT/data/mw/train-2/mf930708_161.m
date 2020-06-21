@@ -117,7 +117,7 @@
 <LM>w#w-mf930708-161-p2s1w6</LM>
 </w.rf>
 <form>Draškoviče</form>
-<tag lemma="Draškovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Draškovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-161-p2s1w7">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-mf930708-161-p3s1w1</LM>
 </w.rf>
 <form>Draškovic</form>
-<tag lemma="Draškovic_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Draškovic_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-161-p3s1w2">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-mf930708-161-p3s3w2</LM>
 </w.rf>
 <form>Draškovičovi</form>
-<tag lemma="Draškovičův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Draškovičův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930708-161-p3s3w3">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-mf930708-161-p4s1w11</LM>
 </w.rf>
 <form>Draškoviče</form>
-<tag lemma="Draškovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Draškovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-161-p4s1w12">
 <src.rf>manual</src.rf>

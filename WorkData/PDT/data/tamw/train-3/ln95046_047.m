@@ -547,7 +547,7 @@
 <LM>w#w-ln95046-047-p2s3w8</LM>
 </w.rf>
 <form>Respektem</form>
-<tag lemma="Respekt_;R_^(časopis)" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Respekt_;m_^(časopis)" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95046-047-p2s3w9">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 </w.rf>
 <form>Revue</form>
 <tag>
-<AM lemma="Revue_;R" src="orig">NNFXX-----A----</AM>
+<AM lemma="Revue_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="revue" src="auto">NNFP1-----A----</AM>
 <AM lemma="revue" src="auto">NNFP4-----A----</AM>
 <AM lemma="revue" src="auto">NNFP5-----A----</AM>
@@ -753,7 +753,7 @@
 <LM>w#w-ln95046-047-p2s4w15</LM>
 </w.rf>
 <form>Trabura</form>
-<tag lemma="Trabura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trabura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p2s4w16">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-ln95046-047-p3s3w3</LM>
 </w.rf>
 <form>Traburův</form>
-<tag lemma="Traburův_;S_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Traburův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95046-047-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1605,7 +1605,7 @@
 <LM>w#w-ln95046-047-p3s5w11</LM>
 </w.rf>
 <form>Trabura</form>
-<tag lemma="Trabura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trabura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p3s5w12">
 <src.rf>manual</src.rf>
@@ -2005,7 +2005,7 @@
 <LM>w#w-ln95046-047-p4s1w1</LM>
 </w.rf>
 <form>Trabura</form>
-<tag lemma="Trabura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trabura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2584,7 +2584,7 @@
 <LM>w#w-ln95046-047-p4s5w12</LM>
 </w.rf>
 <form>Reisenauer</form>
-<tag lemma="Reisenauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reisenauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p4s5w13">
 <src.rf>manual</src.rf>
@@ -2600,7 +2600,7 @@
 <LM>w#w-ln95046-047-p4s5w14</LM>
 </w.rf>
 <form>Respektu</form>
-<tag lemma="Respekt_;R_^(časopis)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Respekt_;m_^(časopis)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-047-p4s5w15">
 <src.rf>manual</src.rf>
@@ -2626,7 +2626,7 @@
 <LM>w#w-ln95046-047-p4s6w3</LM>
 </w.rf>
 <form>Trabura</form>
-<tag lemma="Trabura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trabura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-047-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2658,7 +2658,7 @@
 <LM>w#w-ln95046-047-p4s6w7</LM>
 </w.rf>
 <form>Střížkova</form>
-<tag lemma="Střížkův_;S_^(*3ek)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Střížkův_;Y_^(*3ek)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95046-047-p4s6w8">
 <src.rf>manual</src.rf>
@@ -2674,7 +2674,7 @@
 <LM>w#w-ln95046-047-p4s6w9</LM>
 </w.rf>
 <form>Mainerova</form>
-<tag lemma="Mainerův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Mainerův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95046-047-p4s6w10">
 <src.rf>manual</src.rf>

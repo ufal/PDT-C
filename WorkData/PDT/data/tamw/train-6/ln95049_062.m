@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-062-p1s1w1</LM>
 </w.rf>
 <form>Kheil</form>
-<tag lemma="Kheil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kheil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-062-p1s1w2">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-ln95049-062-p2s1w24</LM>
 </w.rf>
 <form>Kheil</form>
-<tag lemma="Kheil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kheil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-062-p2s1w25">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95049-062-p2s2w20</LM>
 </w.rf>
 <form>Papinův</form>
-<tag lemma="Papinův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Papinův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95049-062-p2s2w21">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln95049-062-p3s1w3</LM>
 </w.rf>
 <form>Salavce</form>
-<tag lemma="Salavec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Salavec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-062-p3s1w4">
 <src.rf>manual</src.rf>

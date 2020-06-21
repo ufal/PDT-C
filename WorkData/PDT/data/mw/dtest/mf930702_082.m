@@ -52,7 +52,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -62,7 +62,7 @@
 <LM>w#w-mf930702-082-p1s1w6</LM>
 </w.rf>
 <form>Samaranch</form>
-<tag lemma="Samaranch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Samaranch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-082-p1s1w7">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <LM>w#w-mf930702-082-p1s1w20</LM>
 </w.rf>
 <form>Neckermanna</form>
-<tag lemma="Neckermann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Neckermann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-082-p1s1w21">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -526,7 +526,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -611,7 +611,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -645,7 +645,7 @@
 <LM>w#w-mf930702-082-p1s4w10</LM>
 </w.rf>
 <form>Šimovec</form>
-<tag lemma="Šimovec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimovec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-082-p1s4w11">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -712,7 +712,7 @@
 <LM>w#w-mf930702-082-p1s4w18</LM>
 </w.rf>
 <form>Lachman</form>
-<tag lemma="Lachman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lachman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-082-p1s4w19">
 <src.rf>manual</src.rf>

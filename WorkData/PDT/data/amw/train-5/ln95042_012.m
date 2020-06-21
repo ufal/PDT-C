@@ -71,7 +71,7 @@
 <LM>w#w-ln95042-012-p2s1Bw3</LM>
 </w.rf>
 <form>Kremličková</form>
-<tag lemma="Kremličková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kremličková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-012-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -2687,7 +2687,7 @@
 <LM>w#w-ln95042-012-p4s1w28</LM>
 </w.rf>
 <form>Priesnitzovým</form>
-<tag lemma="Priesnitzův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Priesnitzův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-ln95042-012-p4s1w29">
 <src.rf>manual</src.rf>
@@ -4408,7 +4408,7 @@
 <LM>w#w-ln95042-012-p5s9w1</LM>
 </w.rf>
 <form>Trojánek</form>
-<tag lemma="Trojánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trojánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-012-p5s9w2">
 <src.rf>manual</src.rf>
@@ -4424,7 +4424,7 @@
 <LM>w#w-ln95042-012-p5s9w3</LM>
 </w.rf>
 <form>Havránkem</form>
-<tag lemma="Havránek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Havránek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95042-012-p5s9w4">
 <src.rf>manual</src.rf>
@@ -4522,7 +4522,7 @@
 <LM>w#w-ln95042-012-p5s10w7</LM>
 </w.rf>
 <form>globusek</form>
-<tag lemma="globuska_;R_,h" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="globuska_;m_,h" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95042-012-p5s10w8">
 <src.rf>manual</src.rf>
@@ -4776,7 +4776,7 @@
 <LM>w#w-ln95042-012-p5s14w5</LM>
 </w.rf>
 <form>Trojánka</form>
-<tag lemma="Trojánek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Trojánek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95042-012-p5s14w6">
 <src.rf>manual</src.rf>
@@ -5114,7 +5114,7 @@
 <LM>w#w-ln95042-012-p6s4w3</LM>
 </w.rf>
 <form>Koubská</form>
-<tag lemma="Koubská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koubská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -170,8 +170,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s1Dw4">
@@ -204,7 +204,7 @@
 <LM>w#w-lnd94104-063-p1s1Dw7</LM>
 </w.rf>
 <form>Utitz</form>
-<tag lemma="Utitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Utitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-063-p1s1E">
@@ -313,7 +313,7 @@
 <LM>w#w-lnd94104-063-p1s1Ew13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd94104-063-p1s1Ew14">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-lnd94104-063-p1s2w9</LM>
 </w.rf>
 <form>Schneiderem</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s2w10">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1140,7 +1140,7 @@
 <LM>w#w-lnd94104-063-p1s8w10</LM>
 </w.rf>
 <form>Schneider</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s8w11">
 <src.rf>manual</src.rf>
@@ -1176,8 +1176,8 @@
 <AM lemma="Claudia_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Claudius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Claudius_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Claudia_;Y_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Claudia_;Y" src="manual" selected="1">NNFSX-----A----</AM>
+<AM lemma="Claudia_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Claudia_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s8w15">
@@ -1261,7 +1261,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1358,7 +1358,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2142,7 +2142,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2219,7 +2219,7 @@
 <LM>w#w-lnd94104-063-p1s15w16</LM>
 </w.rf>
 <form>Schneidera</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s15w17">
 <src.rf>manual</src.rf>
@@ -2653,7 +2653,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2706,7 +2706,7 @@
 <LM>w#w-lnd94104-063-p1s18w16</LM>
 </w.rf>
 <form>Schneider</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s18w17">
 <src.rf>manual</src.rf>
@@ -2998,7 +2998,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3154,7 +3154,7 @@
 <LM>w#w-lnd94104-063-p1s22w5</LM>
 </w.rf>
 <form>Schneider</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s22w6">
 <src.rf>manual</src.rf>
@@ -3488,7 +3488,7 @@
 <LM>w#w-lnd94104-063-p1s25Bw2</LM>
 </w.rf>
 <form>Schneiderovi</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s25Bw3">
 <src.rf>manual</src.rf>
@@ -3912,7 +3912,7 @@
 <LM>w#w-lnd94104-063-p1s29w2</LM>
 </w.rf>
 <form>Schneider</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s29w3">
 <src.rf>manual</src.rf>
@@ -3929,7 +3929,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3940,7 +3940,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4342,7 +4342,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4353,7 +4353,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4635,7 +4635,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4949,7 +4949,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5018,7 +5018,7 @@
 <LM>w#w-lnd94104-063-p1s36w18</LM>
 </w.rf>
 <form>Schneiderovy</form>
-<tag lemma="Schneiderův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Schneiderův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94104-063-p1s36w19">
 <src.rf>manual</src.rf>
@@ -5092,7 +5092,7 @@
 <LM>w#w-lnd94104-063-p1s37w2</LM>
 </w.rf>
 <form>Schneider</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s37w3">
 <src.rf>manual</src.rf>
@@ -5575,7 +5575,7 @@
 <LM>w#w-lnd94104-063-p1s40Bw2</LM>
 </w.rf>
 <form>Schneider</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s40Bw3">
 <src.rf>manual</src.rf>
@@ -6153,7 +6153,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6266,8 +6266,8 @@
 <form>Claudia</form>
 <tag>
 <AM lemma="Claudius_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Claudia_;Y_,t" src="manual">NNFSX-----A----</AM>
-<AM lemma="Claudia_;Y" src="manual">NNFSX-----A----</AM>
+<AM lemma="Claudia_;Y_,t" src="manual">NNFXX-----A----</AM>
+<AM lemma="Claudia_;Y" src="manual">NNFXX-----A----</AM>
 <AM lemma="Claudie_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -6278,8 +6278,8 @@
 </w.rf>
 <form>Schneiderovi</form>
 <tag>
-<AM lemma="Schneider_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Schneiderův_;S_^(*2)" src="manual" selected="1">AUMP1M---------</AM>
+<AM lemma="Schneider_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Schneiderův_;Y_^(*2)" src="manual" selected="1">AUMP1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s44w10">
@@ -6314,7 +6314,7 @@
 <LM>w#w-lnd94104-063-p1s45w3</LM>
 </w.rf>
 <form>Schneiderova</form>
-<tag lemma="Schneiderův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Schneiderův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd94104-063-p1s45w4">
 <src.rf>manual</src.rf>
@@ -6509,7 +6509,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6854,7 +6854,7 @@
 <LM>w#w-lnd94104-063-p1s48Aw16</LM>
 </w.rf>
 <form>Schella</form>
-<tag lemma="Schell_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schell_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s48Aw17">
 <src.rf>manual</src.rf>
@@ -6905,7 +6905,7 @@
 <LM>w#w-lnd94104-063-p1s48Aw22</LM>
 </w.rf>
 <form>Shawa</form>
-<tag lemma="Shaw_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Shaw_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s48Aw23">
 <src.rf>manual</src.rf>
@@ -7047,7 +7047,7 @@
 <LM>w#w-lnd94104-063-p1s48Bw17</LM>
 </w.rf>
 <form>Schell</form>
-<tag lemma="Schell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s48Bw18">
 <src.rf>manual</src.rf>
@@ -7233,7 +7233,7 @@
 <LM>w#w-lnd94104-063-p1s49Aw21</LM>
 </w.rf>
 <form>Shaw</form>
-<tag lemma="Shaw_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shaw_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-063-p1s49Aw22">
 <src.rf>manual</src.rf>

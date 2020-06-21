@@ -77,7 +77,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-024-p2s1w4">
@@ -94,7 +94,7 @@
 <LM>w#w-vesm9301-024-p2s1w5</LM>
 </w.rf>
 <form>Materny</form>
-<tag lemma="Materna_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Materna_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9301-024-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1802,7 +1802,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-024-p6s3w2">
@@ -1819,7 +1819,7 @@
 <LM>w#w-vesm9301-024-p6s3w3</LM>
 </w.rf>
 <form>Materna</form>
-<tag lemma="Materna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Materna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-024-p6s3w4">
 <src.rf>manual</src.rf>
@@ -7717,7 +7717,7 @@
 <form>Kašpárek</form>
 <tag>
 <AM lemma="Kašpárek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kašpárek_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kašpárek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

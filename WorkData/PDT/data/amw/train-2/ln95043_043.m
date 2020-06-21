@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-043-p1s1w1</LM>
 </w.rf>
 <form>Fatah</form>
-<tag lemma="Fatah_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fatah_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-043-p1s1w2">
 <src.rf>manual</src.rf>
@@ -36,8 +36,8 @@
 </w.rf>
 <form>Hamas</form>
 <tag>
-<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS1-----A----</AM>
-<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-043-p1s1w4">
@@ -138,7 +138,7 @@
 <LM>w#w-ln95043-043-p2s1Bw1</LM>
 </w.rf>
 <form>Fatah</form>
-<tag lemma="Fatah_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fatah_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-043-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -243,8 +243,8 @@
 </w.rf>
 <form>Hamasu</form>
 <tag>
-<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS2-----A----</AM>
-<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-043-p2s1Bw15">
@@ -432,8 +432,8 @@
 </w.rf>
 <form>Hamasu</form>
 <tag>
-<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS2-----A----</AM>
-<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-043-p2s2w7">
@@ -672,7 +672,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -690,7 +690,7 @@
 <LM>w#w-ln95043-043-p3s1w4</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-043-p3s1w5">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-ln95043-043-p3s1w14</LM>
 </w.rf>
 <form>Peresem</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95043-043-p3s1w15">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-ln95043-043-p3s2w1</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-043-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1238,7 +1238,7 @@
 <LM>w#w-ln95043-043-p3s4w11</LM>
 </w.rf>
 <form>Merec</form>
-<tag lemma="Merec_;K_^(strana)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Merec_;m_^(strana)" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95043-043-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-ln95043-043-p4s1w14</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-043-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1794,7 +1794,7 @@
 <LM>w#w-ln95043-043-p4s4w7</LM>
 </w.rf>
 <form>Hizballáhu</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95043-043-p4s4w8">
 <src.rf>manual</src.rf>
@@ -1851,7 +1851,7 @@
 </w.rf>
 <form>SLA</form>
 <tag>
-<AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SLA-1_:B_;m_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

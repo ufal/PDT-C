@@ -69,7 +69,7 @@
 <LM>w#w-ln94209-69-p2s1Aw2</LM>
 </w.rf>
 <form>Zippe</form>
-<tag lemma="Zippe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zippe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-69-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94209-69-p2s1Aw14</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94209-69-p2s1Aw15">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-ln94209-69-p2s1Bw12</LM>
 </w.rf>
 <form>Borna</form>
-<tag lemma="Born_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Born_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-69-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-ln94209-69-p2s1Bw15</LM>
 </w.rf>
 <form>Boudu</form>
-<tag lemma="Bouda_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Bouda_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-69-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln94209-69-p2s1Bw18</LM>
 </w.rf>
 <form>Ladu</form>
-<tag lemma="Lada-4_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lada-4_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-69-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-ln94209-69-p2s1Bw21</LM>
 </w.rf>
 <form>Lhotáka</form>
-<tag lemma="Lhoták_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lhoták_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-69-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-ln94209-69-p2s1Bw24</LM>
 </w.rf>
 <form>Trnku</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-69-p2s1Bw25">
 <src.rf>manual</src.rf>

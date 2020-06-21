@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-109-p1s1w1</LM>
 </w.rf>
 <form>Herbacos</form>
-<tag lemma="Herbacos_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Herbacos_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-109-p1s1w2">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 </w.rf>
 <form>FRYMA</form>
 <tag>
-<AM lemma="FRYMA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FRYMA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FRYMA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

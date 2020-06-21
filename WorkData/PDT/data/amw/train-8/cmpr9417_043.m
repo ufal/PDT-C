@@ -416,7 +416,7 @@
 <LM>w#w-cmpr9417-043-p5s3w19</LM>
 </w.rf>
 <form>Valáška</form>
-<tag lemma="Valášek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Valášek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9417-043-p5s3w20">
 <src.rf>manual</src.rf>

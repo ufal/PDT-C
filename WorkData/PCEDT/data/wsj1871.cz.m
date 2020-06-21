@@ -17,7 +17,7 @@
 </w.rf>
 <form>PRINC</form>
 <tag>
-<AM lemma="Princ_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Princ_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="princ" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -81,9 +81,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -206,7 +206,7 @@
 </w.rf>
 <form>Report</form>
 <tag>
-<AM lemma="Report_;K_,t_^(umělecký_soubor_Wheather_Report)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Report_;m_,t_^(umělecký_soubor_Wheather_Report)" src="auto">NNIXX-----A----</AM>
 <AM lemma="report" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="report" src="auto">NNIS4-----A----</AM>
 <AM lemma="Report-77" src="manual" selected="1">F%-------------</AM>

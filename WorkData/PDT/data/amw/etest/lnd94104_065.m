@@ -206,7 +206,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -437,7 +437,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1050,7 +1050,7 @@
 <LM>w#w-lnd94104-065-p1s7w11</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s7w12">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd94104-065-p1s7w14</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s7w15">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-lnd94104-065-p1s8w13</LM>
 </w.rf>
 <form>Goldstein</form>
-<tag lemma="Goldstein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goldstein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s8w14">
 <src.rf>manual</src.rf>
@@ -1439,7 +1439,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1736,7 +1736,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1972,7 +1972,7 @@
 <LM>w#w-lnd94104-065-p1s13w11</LM>
 </w.rf>
 <form>Rabinovi</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s13w12">
 <src.rf>manual</src.rf>
@@ -2087,7 +2087,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2157,7 +2157,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-065-p1s15Aw8">
@@ -2174,7 +2174,7 @@
 <LM>w#w-lnd94104-065-p1s15Aw9</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s15Aw10">
 <src.rf>manual</src.rf>
@@ -2192,7 +2192,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-065-p1s15Aw12">
@@ -2209,7 +2209,7 @@
 <LM>w#w-lnd94104-065-p1s15Aw13</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s15Aw14">
 <src.rf>manual</src.rf>
@@ -2284,8 +2284,8 @@
 </w.rf>
 <form>ag</form>
 <tag>
-<AM lemma="ag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-065-p1s15Bw3">

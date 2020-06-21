@@ -404,7 +404,7 @@
 <LM>w#w-ln94208-49-p2s2w14</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-49-p2s2w15">
 <src.rf>manual</src.rf>

@@ -45,7 +45,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-026-p1s1w5">
@@ -62,7 +62,7 @@
 <LM>w#w-lnd94101-026-p1s1w6</LM>
 </w.rf>
 <form>Soukupová</form>
-<tag lemma="Soukupová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Soukupová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-026-p1s1w7">
 <src.rf>manual</src.rf>

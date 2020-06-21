@@ -20,8 +20,8 @@
 </w.rf>
 <form>Navrátilová</form>
 <tag>
-<AM lemma="Navrátilová_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-084-p1s1Aw2">
@@ -131,8 +131,8 @@
 </w.rf>
 <form>Navrátilová</form>
 <tag>
-<AM lemma="Navrátilová_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-084-p1s1Cw10">
@@ -519,7 +519,7 @@
 <LM>w#w-lnd94105-084-p1s3w15</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94105-084-p1s3w16">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-lnd94105-084-p1s5Aw2</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94105-084-p1s5Aw3">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-lnd94105-084-p1s5Cw1</LM>
 </w.rf>
 <form>Navrátilová</form>
-<tag lemma="Navrátilová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Navrátilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-084-p1s5Cw2">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-lnd94105-084-p1s6w4</LM>
 </w.rf>
 <form>Austinová</form>
-<tag lemma="Austinová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Austinová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-084-p1s6w5">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-lnd94105-084-p1s6w7</LM>
 </w.rf>
 <form>Jaegerová</form>
-<tag lemma="Jaegerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jaegerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-084-p1s6w8">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-lnd94105-084-p1s6w10</LM>
 </w.rf>
 <form>Capriatiová</form>
-<tag lemma="Capriatiová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Capriatiová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-084-p1s6w11">
 <src.rf>manual</src.rf>

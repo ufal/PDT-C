@@ -52,7 +52,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1165,10 +1165,10 @@
 </w.rf>
 <form>Castor</form>
 <tag>
-<AM lemma="Castor-2_;R_^(kontejner)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Castor_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kastór_;S_,t_,x" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Castor-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Castor-2_;m_^(kontejner)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Castor_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kastór_;Y_,t_,x" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Castor-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-070-p5s2w10">
@@ -1698,7 +1698,7 @@
 <LM>w#w-ln95043-070-p6s3w18</LM>
 </w.rf>
 <form>Spilka</form>
-<tag lemma="Spilka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Spilka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-070-p6s3w19">
 <src.rf>manual</src.rf>
@@ -1797,10 +1797,10 @@
 </w.rf>
 <form>Castor</form>
 <tag>
-<AM lemma="Castor-2_;R_^(kontejner)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Castor_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kastór_;S_,t_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Castor-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Castor-2_;m_^(kontejner)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Castor_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kastór_;Y_,t_,x" src="auto">NNMS1-----A----</AM>
+<AM lemma="Castor-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-070-p7s1w12">

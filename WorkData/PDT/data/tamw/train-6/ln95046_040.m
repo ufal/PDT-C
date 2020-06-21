@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-040-p1s1w1</LM>
 </w.rf>
 <form>Gottvald</form>
-<tag lemma="Gottvald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottvald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-040-p1s1w2">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -210,7 +210,7 @@
 <LM>w#w-ln95046-040-p2s1Bw18</LM>
 </w.rf>
 <form>Gottvald</form>
-<tag lemma="Gottvald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottvald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-040-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -843,7 +843,7 @@
 <LM>w#w-ln95046-040-p2s4w15</LM>
 </w.rf>
 <form>Junkovi</form>
-<tag lemma="Junek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Junek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95046-040-p2s4w16">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln95046-040-p2s4w19</LM>
 </w.rf>
 <form>Chemapolu</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-040-p2s4w20">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-ln95046-040-p2s4w23</LM>
 </w.rf>
 <form>Gottvald</form>
-<tag lemma="Gottvald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottvald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-040-p2s4w24">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-ln95046-040-p2s5w7</LM>
 </w.rf>
 <form>Gottvaldovou</form>
-<tag lemma="Gottvaldův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Gottvaldův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln95046-040-p2s5w8">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

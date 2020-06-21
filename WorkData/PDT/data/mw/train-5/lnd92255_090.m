@@ -208,7 +208,7 @@
 <LM>w#w-lnd92255-090-p2s1w21</LM>
 </w.rf>
 <form>Bubník</form>
-<tag lemma="Bubník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bubník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-090-p2s1w22">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-lnd92255-090-p4s1w2</LM>
 </w.rf>
 <form>ČAPEK</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-090-p4s1w3">
 <src.rf>manual</src.rf>

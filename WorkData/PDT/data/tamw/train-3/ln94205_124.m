@@ -19,7 +19,7 @@
 <LM>w#w-ln94205-124-p1s1w1</LM>
 </w.rf>
 <form>Koloc</form>
-<tag lemma="Koloc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koloc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-124-p1s1w2">
 <src.rf>manual</src.rf>
@@ -70,12 +70,12 @@
 </w.rf>
 <form>nov</form>
 <tag>
-<AM lemma="nov-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nov-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="nov_^(pozice_Měsíce)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nov_^(pozice_Měsíce)" src="auto">NNIS4-----A----</AM>
 <AM lemma="nova" src="auto">NNFP2-----A----</AM>
 <AM lemma="novum" src="auto">NNNP2-----A----</AM>
-<AM lemma="nov-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nov-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s1Aw4">
@@ -110,7 +110,7 @@
 <LM>w#w-ln94205-124-p2s1Bw2</LM>
 </w.rf>
 <form>Koloc</form>
-<tag lemma="Koloc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koloc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 </w.rf>
 <form>Trucks</form>
 <tag>
-<AM lemma="truck_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="truck_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Trucks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -337,8 +337,8 @@
 </w.rf>
 <form>EP</form>
 <tag>
-<AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP_;m_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EP_:B_;m_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -399,9 +399,9 @@
 </w.rf>
 <form>SISU</form>
 <tag>
-<AM lemma="SISU_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SISU_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Sisu_;K_;R" src="auto">NNNSX-----A----</AM>
+<AM lemma="Sisu_;m" src="auto">NNNXX-----A----</AM>
 <AM lemma="SISU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -598,8 +598,8 @@
 </w.rf>
 <form>EP</form>
 <tag>
-<AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP_;m_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EP_:B_;m_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -642,11 +642,11 @@
 </w.rf>
 <form>IMC</form>
 <tag>
-<AM lemma="IMC-5_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="IMC-1_:B_,t_^(instrument_meteorological_conditions)" src="auto" recommended="1">NNFPX-----A---8</AM>
-<AM lemma="IMC-2_:B_;K_,t_^(International_Maritime_Committee)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IMC-3_:B_;K_,t_^(International_Meteorological_Committee)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="IMC-4_:B_;K_,t_^(International_Music_Council)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IMC-5_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IMC-1_:B_,t_^(instrument_meteorological_conditions)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="IMC-2_:B_;m_,t_^(International_Maritime_Committee)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IMC-3_:B_;m_,t_^(International_Meteorological_Committee)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IMC-4_:B_;m_,t_^(International_Music_Council)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IMC-5_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -658,7 +658,7 @@
 </w.rf>
 <form>SPAGG</form>
 <tag>
-<AM lemma="SPAGG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SPAGG_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SPAGG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

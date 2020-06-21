@@ -51,7 +51,7 @@
 <LM>w#w-ln95044-108-p1s1w5</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-108-p1s1w6">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-ln95044-108-p2s1Bw15</LM>
 </w.rf>
 <form>Pilipa</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-108-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s1w2">
@@ -335,7 +335,7 @@
 <LM>w#w-ln95044-108-p3s1w3</LM>
 </w.rf>
 <form>Pilip</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-108-p3s1w4">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln95044-108-p3s1w10</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-108-p3s1w11">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s4w6">
@@ -688,7 +688,7 @@
 <LM>w#w-ln95044-108-p3s4w7</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-108-p3s4w8">
 <src.rf>manual</src.rf>
@@ -937,8 +937,8 @@
 </w.rf>
 <form>ČKR</form>
 <tag>
-<AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKR-2_:B_;m_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČKR-1_:B_;m_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ČKR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1040,8 +1040,8 @@
 </w.rf>
 <form>ČKR</form>
 <tag>
-<AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKR-2_:B_;m_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČKR-1_:B_;m_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ČKR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1263,8 +1263,8 @@
 </w.rf>
 <form>ČKR</form>
 <tag>
-<AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKR-2_:B_;m_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČKR-1_:B_;m_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ČKR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1350,8 +1350,8 @@
 </w.rf>
 <form>ČKR</form>
 <tag>
-<AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKR-2_:B_;m_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČKR-1_:B_;m_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ČKR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

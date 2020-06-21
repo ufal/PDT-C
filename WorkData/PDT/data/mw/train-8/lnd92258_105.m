@@ -110,7 +110,7 @@
 </w.rf>
 <form>ČLK</form>
 <tag>
-<AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -279,7 +279,7 @@
 <LM>w#w-lnd92258-105-p2s3w2</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-105-p2s3w3">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-lnd92258-105-p2s4w3</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-105-p2s4w4">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-lnd92258-105-p2s9w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92258-105-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1993,7 +1993,7 @@
 </w.rf>
 <form>ČLK</form>
 <tag>
-<AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2443,7 +2443,7 @@
 <LM>w#w-lnd92258-105-p3s1w2</LM>
 </w.rf>
 <form>MACHÁČEK</form>
-<tag lemma="Macháček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Macháček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-105-p4s1">
@@ -2618,8 +2618,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-105-p5s2w2">

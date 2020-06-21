@@ -296,8 +296,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p2s2w2">
@@ -386,7 +386,7 @@
 <LM>w#w-ln95047-009-p2s2w12</LM>
 </w.rf>
 <form>Čermín</form>
-<tag lemma="Čermín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-009-p2s2w13">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 </w.rf>
 <form>SOHO</form>
 <tag>
-<AM lemma="SOHO_;K_^(Sdružení_organizací_homosexuálních_občanů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOHO_;m_^(Sdružení_organizací_homosexuálních_občanů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Soho_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS5-----A----</AM>
@@ -1279,7 +1279,7 @@
 </w.rf>
 <form>SOHO</form>
 <tag>
-<AM lemma="SOHO_;K_^(Sdružení_organizací_homosexuálních_občanů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOHO_;m_^(Sdružení_organizací_homosexuálních_občanů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Soho_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS5-----A----</AM>
@@ -1432,7 +1432,7 @@
 <LM>w#w-ln95047-009-p3s3w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-009-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1441,7 +1441,7 @@
 </w.rf>
 <form>SOHO</form>
 <tag>
-<AM lemma="SOHO_;K_^(Sdružení_organizací_homosexuálních_občanů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOHO_;m_^(Sdružení_organizací_homosexuálních_občanů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Soho_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Soho_;G" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS5-----A----</AM>
@@ -1610,7 +1610,7 @@
 <LM>w#w-ln95047-009-p4s1w2</LM>
 </w.rf>
 <form>Čermína</form>
-<tag lemma="Čermín_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čermín_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-009-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1844,7 +1844,7 @@
 <LM>w#w-ln95047-009-p5s1w1</LM>
 </w.rf>
 <form>Čermín</form>
-<tag lemma="Čermín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-009-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1869,7 +1869,7 @@
 </w.rf>
 <form>SOHO</form>
 <tag>
-<AM lemma="SOHO_;K_^(Sdružení_organizací_homosexuálních_občanů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOHO_;m_^(Sdružení_organizací_homosexuálních_občanů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Soho_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Soho_;G" src="auto">NNNS5-----A----</AM>
@@ -1891,7 +1891,7 @@
 <LM>w#w-ln95047-009-p5s1w6</LM>
 </w.rf>
 <form>Hromada</form>
-<tag lemma="Hromada-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hromada-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-009-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 <LM>w#w-ln95047-009-p5s2w1</LM>
 </w.rf>
 <form>Čermín</form>
-<tag lemma="Čermín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-009-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2301,7 +2301,7 @@
 <LM>w#w-ln95047-009-p5s3w5</LM>
 </w.rf>
 <form>Bissona</form>
-<tag lemma="Bisson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bisson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-009-p5s3w6">
 <src.rf>manual</src.rf>

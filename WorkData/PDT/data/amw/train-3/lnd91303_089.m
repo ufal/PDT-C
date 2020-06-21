@@ -284,7 +284,7 @@
 <LM>w#w-lnd91303-089-p4s1w21</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p4s1w22">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-lnd91303-089-p5s2w10</LM>
 </w.rf>
 <form>Meluzín</form>
-<tag lemma="Meluzín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meluzín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p5s2w11">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-lnd91303-089-p5s2w13</LM>
 </w.rf>
 <form>Pálffy</form>
-<tag lemma="Pálffy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pálffy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1468,7 +1468,7 @@
 <LM>w#w-lnd91303-089-p5s6w9</LM>
 </w.rf>
 <form>Weiblovi</form>
-<tag lemma="Weibl_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Weibl_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p5s6w10">
 <src.rf>manual</src.rf>
@@ -1500,7 +1500,7 @@
 <LM>w#w-lnd91303-089-p5s6w13</LM>
 </w.rf>
 <form>Zelenky</form>
-<tag lemma="Zelenka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zelenka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p5s6w14">
 <src.rf>manual</src.rf>
@@ -1804,7 +1804,7 @@
 <form>Hnilička</form>
 <tag>
 <AM lemma="hnilička" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hnilička_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hnilička_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-089-p5s7w20">
@@ -1996,7 +1996,7 @@
 <LM>w#w-lnd91303-089-p5s9w2</LM>
 </w.rf>
 <form>Ujčíka</form>
-<tag lemma="Ujčík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ujčík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p5s9w3">
 <src.rf>manual</src.rf>
@@ -2012,7 +2012,7 @@
 <LM>w#w-lnd91303-089-p5s9w4</LM>
 </w.rf>
 <form>Pálffyho</form>
-<tag lemma="Pálffy_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pálffy_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p5s9w5">
 <src.rf>manual</src.rf>
@@ -2169,7 +2169,7 @@
 <LM>w#w-lnd91303-089-p5s10w4</LM>
 </w.rf>
 <form>Pálffyho</form>
-<tag lemma="Pálffy_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pálffy_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p5s10w5">
 <src.rf>manual</src.rf>
@@ -2356,7 +2356,7 @@
 <LM>w#w-lnd91303-089-p5s11w1</LM>
 </w.rf>
 <form>Meluzínova</form>
-<tag lemma="Meluzínův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Meluzínův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd91303-089-p5s11w2">
 <src.rf>manual</src.rf>

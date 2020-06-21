@@ -66,11 +66,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -234,11 +234,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -360,11 +360,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -478,11 +478,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -692,11 +692,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -986,11 +986,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1192,11 +1192,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1350,11 +1350,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1766,11 +1766,11 @@
 <AM lemma="AIM-1_:B_;U_^(akutní_infarkt_myokardu)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AIM-2_:B_,t_^(Amsterdam_Interprofessional_Market)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="AIM-3_:B_^(automatizivaný_imisní_monitoring)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="AIM-4_:B_;K_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AIM-4_:B_;m_,t_^(Agéncia_de_Informaceo_de_Mocambique)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AIM-5_:B_,t_^(automatic_identification_manufacture)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Aim_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Aim_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Aim_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aim_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="AIM-6_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

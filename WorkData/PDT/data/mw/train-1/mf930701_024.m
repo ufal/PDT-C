@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-024-p1s1w1</LM>
 </w.rf>
 <form>Ježek</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-024-p1s1w2">
 <src.rf>manual</src.rf>

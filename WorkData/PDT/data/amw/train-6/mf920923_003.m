@@ -346,8 +346,8 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-1_:B_;K_;R_^(Mladá_Fronta)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -685,7 +685,7 @@
 <LM>w#w-mf920923-003-p5s4w8</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-003-p5s4w9">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -979,7 +979,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1234,7 +1234,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1393,7 +1393,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1604,7 +1604,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1647,7 +1647,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1774,7 +1774,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2013,7 +2013,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2755,7 +2755,7 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="scriptum_:B_^(př._P.S.)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -2959,7 +2959,7 @@
 <LM>w#w-mf920923-003-p7s1w6</LM>
 </w.rf>
 <form>Kaliny</form>
-<tag lemma="Kalina_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalina_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-003-p7s1w7">
 <src.rf>manual</src.rf>
@@ -2976,8 +2976,8 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MF-1_:B_;K_;R_^(Mladá_Fronta)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3369,8 +3369,8 @@
 <form>SER</form>
 <tag>
 <AM lemma="SER_:B_;G" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SER_:B_^(specifická_spotřeba_energie)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="Ser_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="SER_:B_^(specifická_spotřeba_energie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Sero_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="srát" src="auto">Vi-S---2--A-I--</AM>
@@ -3427,7 +3427,7 @@
 <LM>w#w-mf920923-003-p7s4w2</LM>
 </w.rf>
 <form>Vonka</form>
-<tag lemma="Vonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-003-p7s4w3">
 <src.rf>manual</src.rf>

@@ -500,7 +500,7 @@
 <form>Valentino</form>
 <tag>
 <AM lemma="Valentino_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Valentino_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Valentino_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p2s3w7">
@@ -525,7 +525,7 @@
 <LM>w#w-ln95048-070-p2s3w9</LM>
 </w.rf>
 <form>Garbo</form>
-<tag lemma="Garbo_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Garbo_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-070-p2s3w10">
 <src.rf>manual</src.rf>
@@ -553,11 +553,11 @@
 </w.rf>
 <form>Monroe</form>
 <tag>
-<AM lemma="Monroe_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Monroe-1_;S_^(muž)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Monroe_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Monroe-1_;Y_^(muž)" src="auto">NNMS1-----A----</AM>
 <AM lemma="Monroe-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Monroe-3_;S_^(žena)" src="auto">XX-------------</AM>
-<AM lemma="Monroe-3_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Monroe-3_;Y_^(žena)" src="auto">XX-------------</AM>
+<AM lemma="Monroe-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p2s3w13">
@@ -576,7 +576,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p2s3w15">
@@ -595,7 +595,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p2s3w17">
@@ -612,7 +612,7 @@
 <LM>w#w-ln95048-070-p2s3w18</LM>
 </w.rf>
 <form>Belmondo</form>
-<tag lemma="Belmondo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Belmondo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-070-p2s3w19">
 <src.rf>manual</src.rf>
@@ -936,7 +936,7 @@
 <LM>w#w-ln95048-070-p2s5w8</LM>
 </w.rf>
 <form>Garbo</form>
-<tag lemma="Garbo_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Garbo_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-070-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1070,11 +1070,11 @@
 </w.rf>
 <form>Monroe</form>
 <tag>
-<AM lemma="Monroe_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Monroe-1_;S_^(muž)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Monroe_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Monroe-1_;Y_^(muž)" src="auto">NNMS1-----A----</AM>
 <AM lemma="Monroe-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Monroe-3_;S_^(žena)" src="auto">XX-------------</AM>
-<AM lemma="Monroe-3_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Monroe-3_;Y_^(žena)" src="auto">XX-------------</AM>
+<AM lemma="Monroe-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p2s6w12">
@@ -2109,7 +2109,7 @@
 <form>Valentino</form>
 <tag>
 <AM lemma="Valentino_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Valentino_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Valentino_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p3s6w7">

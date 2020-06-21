@@ -70,8 +70,8 @@
 </w.rf>
 <form>hč</form>
 <tag>
-<AM lemma="hč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-101-p2s1w4">
@@ -290,7 +290,7 @@
 <LM>w#w-mf920902-101-p2s2w25</LM>
 </w.rf>
 <form>Bendík</form>
-<tag lemma="Bendík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bendík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-101-p2s2w26">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-mf920902-101-p2s4w26</LM>
 </w.rf>
 <form>Bendíka</form>
-<tag lemma="Bendík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bendík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-101-p2s4w27">
 <src.rf>manual</src.rf>

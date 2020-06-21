@@ -506,8 +506,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-102-p3s1w23">
@@ -581,8 +581,8 @@
 </w.rf>
 <form>Byung</form>
 <tag>
-<AM lemma="Byung_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Byung_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Byung_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Byung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-102-p3s1w32">
@@ -592,8 +592,8 @@
 </w.rf>
 <form>Suk</form>
 <tag>
-<AM lemma="Suk_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Suk_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Suk_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Suk_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-102-p3s1w33">
@@ -602,7 +602,7 @@
 <LM>w#w-ln95047-102-p3s1w33</LM>
 </w.rf>
 <form>Min</form>
-<tag lemma="Min_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Min_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-102-p3s1w34">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln95047-102-p4s1w12</LM>
 </w.rf>
 <form>Zajíce</form>
-<tag lemma="Zajíc_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zajíc_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-102-p4s1w13">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 </w.rf>
 <form>KAN</form>
 <tag>
-<AM lemma="KAN_:B_;K_;p_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KAN_:B_;m_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

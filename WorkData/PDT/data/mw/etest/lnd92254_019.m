@@ -700,7 +700,7 @@
 <LM>w#w-lnd92254-019-p4s1w13</LM>
 </w.rf>
 <form>Polášek</form>
-<tag lemma="Polášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-019-p4s1w14">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-lnd92254-019-p4s1w27</LM>
 </w.rf>
 <form>Sejm</form>
-<tag lemma="Sejm_;K_,t" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Sejm_;m_,t" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92254-019-p4s1w28">
 <src.rf>manual</src.rf>
@@ -845,8 +845,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p4s1w32">
@@ -3303,7 +3303,7 @@
 <LM>w#w-lnd92254-019-p6s9w7</LM>
 </w.rf>
 <form>Synergo</form>
-<tag lemma="Synergo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Synergo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92254-019-p6s9w8">
 <src.rf>manual</src.rf>
@@ -3930,7 +3930,7 @@
 <LM>w#w-lnd92254-019-p7s1w21</LM>
 </w.rf>
 <form>Polášek</form>
-<tag lemma="Polášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-019-p7s1w22">
 <src.rf>manual</src.rf>
@@ -4304,7 +4304,7 @@
 <form>mot</form>
 <tag>
 <AM lemma="motto_,x" src="orig">NNNP2-----A----</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p8s1w3">

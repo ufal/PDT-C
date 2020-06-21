@@ -137,7 +137,7 @@
 <form>Nobela</form>
 <tag>
 <AM lemma="Nobel" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nobel_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nobel_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -176,7 +176,7 @@
 <form>Nobelových</form>
 <tag>
 <AM lemma="Nobelův_^(*2)" src="auto">AUFP2M---------</AM>
-<AM lemma="Nobelův_;S_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
+<AM lemma="Nobelův_;Y_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p4s1w5">
@@ -246,7 +246,7 @@
 <form>Nobel</form>
 <tag>
 <AM lemma="Nobel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nobel_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nobel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p4s1w13">
@@ -313,7 +313,7 @@
 <form>Nobela</form>
 <tag>
 <AM lemma="Nobel" src="auto">NNMS2-----A----</AM>
-<AM lemma="Nobel_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nobel_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p4s1w21">
@@ -715,7 +715,7 @@
 </w.rf>
 <form>Results</form>
 <tag>
-<AM lemma="result_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="result_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="results_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Results-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -889,7 +889,7 @@
 </w.rf>
 <form>MIT</form>
 <tag>
-<AM lemma="MIT-1_:B_;K_;u_,t_^(Massachussetts_Institute_of_Technology)" src="auto">NNISX-----A---8</AM>
+<AM lemma="MIT-1_:B_;m_,t_^(Massachussetts_Institute_of_Technology)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MIT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -936,7 +936,7 @@
 <form>Nobelova</form>
 <tag>
 <AM lemma="Nobelův_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Nobelův_;S_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
+<AM lemma="Nobelův_;Y_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p5s1w12">
@@ -1019,7 +1019,7 @@
 <LM>w#w-vesm9211-031-p5s2w7</LM>
 </w.rf>
 <form>Gates</form>
-<tag lemma="Gates_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gates_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1246,7 +1246,7 @@
 <form>Nobelovy</form>
 <tag>
 <AM lemma="Nobelův_^(*2)" src="auto">AUFP4M---------</AM>
-<AM lemma="Nobelův_;S_^(*2)" src="manual" selected="1">AUFP4M---------</AM>
+<AM lemma="Nobelův_;Y_^(*2)" src="manual" selected="1">AUFP4M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p5s5w4">
@@ -1405,8 +1405,8 @@
 </w.rf>
 <form>Cecil</form>
 <tag>
-<AM lemma="Cecil_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cecil_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cecil_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cecil_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p6s1w7">
@@ -1415,7 +1415,7 @@
 <LM>w#w-vesm9211-031-p6s1w7</LM>
 </w.rf>
 <form>Jacobson</form>
-<tag lemma="Jacobson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jacobson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-vesm9211-031-p7s1w6</LM>
 </w.rf>
 <form>Bassaová</form>
-<tag lemma="Bassaová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bassaová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1956,7 +1956,7 @@
 </w.rf>
 <form>žužu</form>
 <tag>
-<AM lemma="žužu" src="orig">NNNSX-----A----</AM>
+<AM lemma="žužu" src="orig">NNNXX-----A----</AM>
 <AM lemma="žužu" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -2093,7 +2093,7 @@
 </w.rf>
 <form>MIT</form>
 <tag>
-<AM lemma="MIT-1_:B_;K_;u_,t_^(Massachussetts_Institute_of_Technology)" src="auto">NNISX-----A---8</AM>
+<AM lemma="MIT-1_:B_;m_,t_^(Massachussetts_Institute_of_Technology)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MIT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2344,7 +2344,7 @@
 <form>Nobel</form>
 <tag>
 <AM lemma="Nobel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Nobel_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nobel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p8s2w4">
@@ -2393,7 +2393,7 @@
 <LM>w#w-vesm9211-031-p8s2w9</LM>
 </w.rf>
 <form>Stručkov</form>
-<tag lemma="Stručkov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stručkov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p8s2w10">
 <src.rf>manual</src.rf>
@@ -3116,7 +3116,7 @@
 <LM>w#w-vesm9211-031-p11s2w3</LM>
 </w.rf>
 <form>Jewitt</form>
-<tag lemma="Jewitt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jewitt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p11s2w4">
 <src.rf>manual</src.rf>
@@ -3164,7 +3164,7 @@
 <LM>w#w-vesm9211-031-p11s2w9</LM>
 </w.rf>
 <form>Luuová</form>
-<tag lemma="Luuová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Luuová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p11s2w10">
 <src.rf>manual</src.rf>
@@ -3277,7 +3277,7 @@
 </w.rf>
 <form>Mauna</form>
 <tag>
-<AM lemma="Mauna_;G_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Mauna_;G_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Mauna_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Mauna_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Mauna_;G" src="manual">NNXXX-----A----</AM>
@@ -3291,7 +3291,7 @@
 </w.rf>
 <form>Kea</form>
 <tag>
-<AM lemma="Kea_;G_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Kea_;G_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kea_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Kea_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Kea-77" src="manual" selected="1">F%-------------</AM>
@@ -3684,8 +3684,8 @@
 </w.rf>
 <form>Brian</form>
 <tag>
-<AM lemma="Brian_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Brian_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Brian_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Brian_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p12s2w4">
@@ -3694,7 +3694,7 @@
 <LM>w#w-vesm9211-031-p12s2w4</LM>
 </w.rf>
 <form>Marsden</form>
-<tag lemma="Marsden_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marsden_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p12s2w5">
 <src.rf>manual</src.rf>
@@ -3965,7 +3965,7 @@
 <LM>w#w-vesm9211-031-p12s4w9</LM>
 </w.rf>
 <form>Oortova</form>
-<tag lemma="Oortův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Oortův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-vesm9211-031-p12s4w10">
 <src.rf>manual</src.rf>
@@ -4064,7 +4064,7 @@
 <LM>w#w-vesm9211-031-p12s4w21</LM>
 </w.rf>
 <form>Kuiperův</form>
-<tag lemma="Kuiperův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Kuiperův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9211-031-p12s4w22">
 <src.rf>manual</src.rf>
@@ -4202,7 +4202,7 @@
 <LM>w#w-vesm9211-031-p12s5w11</LM>
 </w.rf>
 <form>Halleyova</form>
-<tag lemma="Halleyův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Halleyův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9211-031-p12s5w12">
 <src.rf>manual</src.rf>
@@ -4303,8 +4303,8 @@
 </w.rf>
 <form>Uwe</form>
 <tag>
-<AM lemma="Uwe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Uwe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Uwe_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Uwe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p13s2w2">
@@ -4313,7 +4313,7 @@
 <LM>w#w-vesm9211-031-p13s2w2</LM>
 </w.rf>
 <form>Fink</form>
-<tag lemma="Fink_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fink_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p13s2w3">
 <src.rf>manual</src.rf>
@@ -4361,7 +4361,7 @@
 <LM>w#w-vesm9211-031-p13s2w8</LM>
 </w.rf>
 <form>Yamakovy</form>
-<tag lemma="Yamakův_;S_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Yamakův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9211-031-p13s2w9">
 <src.rf>manual</src.rf>
@@ -4395,7 +4395,7 @@
 <form>r</form>
 <tag>
 <AM lemma="r_:B" src="orig">Db------------8</AM>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-33" src="auto">Q3-------------</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
@@ -4662,7 +4662,7 @@
 <form>NH</form>
 <tag>
 <AM lemma="NH" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NH_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NH_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NH-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="NH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -4755,7 +4755,7 @@
 <LM>w#w-vesm9211-031-p13s4w6</LM>
 </w.rf>
 <form>Finkovi</form>
-<tag lemma="Fink_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Fink_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p13s4w7">
 <src.rf>manual</src.rf>
@@ -4942,7 +4942,7 @@
 <LM>w#w-vesm9211-031-p13s5w6</LM>
 </w.rf>
 <form>Yamaka</form>
-<tag lemma="Yamaka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Yamaka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p13s5w7">
 <src.rf>manual</src.rf>
@@ -5025,7 +5025,7 @@
 <LM>w#w-vesm9211-031-p13s5w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9211-031-p13s5w17">
 <src.rf>manual</src.rf>
@@ -5198,7 +5198,7 @@
 <LM>w#w-vesm9211-031-p14s1w19</LM>
 </w.rf>
 <form>Wolfovu</form>
-<tag lemma="Wolfův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Wolfův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9211-031-p14s1w20">
 <src.rf>manual</src.rf>
@@ -5214,7 +5214,7 @@
 <LM>w#w-vesm9211-031-p14s1w21</LM>
 </w.rf>
 <form>Harringtonovu</form>
-<tag lemma="Harringtonův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Harringtonův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9211-031-p14s1w22">
 <src.rf>manual</src.rf>
@@ -5354,7 +5354,7 @@
 <LM>w#w-vesm9211-031-p15s2w1</LM>
 </w.rf>
 <form>Finkovy</form>
-<tag lemma="Finkův_;S_^(*3ek)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Finkův_;Y_^(*3ek)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-vesm9211-031-p15s2w2">
 <src.rf>manual</src.rf>
@@ -5431,7 +5431,7 @@
 <LM>w#w-vesm9211-031-p15s3w4</LM>
 </w.rf>
 <form>Yamaka</form>
-<tag lemma="Yamaka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Yamaka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p15s3w5">
 <src.rf>manual</src.rf>
@@ -6018,7 +6018,7 @@
 <LM>w#w-vesm9211-031-p17s1w10</LM>
 </w.rf>
 <form>Kawai</form>
-<tag lemma="Kawai_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kawai_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p17s1w11">
 <src.rf>manual</src.rf>
@@ -6042,7 +6042,7 @@
 <LM>w#w-vesm9211-031-p17s1w13</LM>
 </w.rf>
 <form>Kawai</form>
-<tag lemma="Kawai_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kawai_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p17s1w14">
 <src.rf>manual</src.rf>
@@ -6531,8 +6531,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p19s1w2">
@@ -6664,8 +6664,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p20s1w10">
@@ -7556,7 +7556,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p22s3w14">
@@ -7574,7 +7574,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Chalupského</form>
-<tag lemma="Chalupský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chalupský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p22s3w16">
 <src.rf>manual</src.rf>
@@ -7814,7 +7814,7 @@
 </w.rf>
 <form>University</form>
 <tag>
-<AM lemma="University_;K_,t_^(angl.,_v_názvech)" src="orig">NNFSX-----A----</AM>
+<AM lemma="University_;m_,t_^(angl.,_v_názvech)" src="orig">NNFXX-----A----</AM>
 <AM lemma="University-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7836,7 +7836,7 @@
 </w.rf>
 <form>Southern</form>
 <tag>
-<AM lemma="Southern_;K_;G_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Southern_;G_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="southern_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Southern-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -7848,12 +7848,12 @@
 </w.rf>
 <form>California</form>
 <tag>
-<AM lemma="California_;K_;G_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="California_;G_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="California_;G_,t" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="californium_;H" src="auto">NNNP1-----A----</AM>
-<AM lemma="californium_;H" src="auto">NNNP4-----A----</AM>
-<AM lemma="californium_;H" src="auto">NNNP5-----A----</AM>
-<AM lemma="californium_;H" src="auto">NNNS2-----A----</AM>
+<AM lemma="californium_;U" src="auto">NNNP1-----A----</AM>
+<AM lemma="californium_;U" src="auto">NNNP4-----A----</AM>
+<AM lemma="californium_;U" src="auto">NNNP5-----A----</AM>
+<AM lemma="californium_;U" src="auto">NNNS2-----A----</AM>
 <AM lemma="California_;G_,t" src="manual">NNFXX-----A---1</AM>
 <AM lemma="California-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -9207,7 +9207,7 @@
 </w.rf>
 <form>makacích</form>
 <tag>
-<AM lemma="makak_;L" src="orig">NNMP6-----A----</AM>
+<AM lemma="makak_;U" src="orig">NNMP6-----A----</AM>
 <AM lemma="makak" src="manual" selected="1">NNMP6-----A----</AM>
 </tag>
 </m>
@@ -9711,7 +9711,7 @@
 </w.rf>
 <form>Cataglyphis</form>
 <tag>
-<AM lemma="Cataglyphis_;L_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Cataglyphis_;U_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Cataglyphis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -9722,7 +9722,7 @@
 </w.rf>
 <form>bombycina</form>
 <tag>
-<AM lemma="bombycina_;L_,t" src="orig">AAFSX----1A----</AM>
+<AM lemma="bombycina_;U_,t" src="orig">AAFXX----1A----</AM>
 <AM lemma="bombycina-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -11661,7 +11661,7 @@
 <LM>w#w-vesm9211-031-p34s3w14</LM>
 </w.rf>
 <form>Hermes</form>
-<tag lemma="Hermes-2_;R_^(raketoplán)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hermes-2_;m_^(raketoplán)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p34s3w15">
 <src.rf>manual</src.rf>
@@ -11694,8 +11694,8 @@
 </w.rf>
 <form>Ariane</form>
 <tag>
-<AM lemma="Ariane_;R_,t_^(série_raketových_nosičů_ESA)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ariane_;R_^(série_raketových_nosičů_ESA)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ariane_;m_,t_^(série_raketových_nosičů_ESA)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ariane_;m_^(série_raketových_nosičů_ESA)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p34s3w19">
@@ -12079,9 +12079,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p35s1w25">
@@ -13160,7 +13160,7 @@
 <form>Nobelových</form>
 <tag>
 <AM lemma="Nobelův_^(*2)" src="orig">AUFP2M---------</AM>
-<AM lemma="Nobelův_;S_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
+<AM lemma="Nobelův_;Y_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p38s2w14">
@@ -15505,7 +15505,7 @@
 <LM>w#w-vesm9211-031-p42s5w11</LM>
 </w.rf>
 <form>Pasteurovým</form>
-<tag lemma="Pasteurův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Pasteurův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-vesm9211-031-p42s5w12">
 <src.rf>manual</src.rf>
@@ -15626,14 +15626,14 @@
 </w.rf>
 <form>Stěklovovým</form>
 <tag>
-<AM lemma="Stěklovovův_;S_^(*2)" src="orig">AUIS7M---------</AM>
-<AM lemma="Stěklovův_;S_^(*2)" src="auto">AUFP3M---------</AM>
-<AM lemma="Stěklovův_;S_^(*2)" src="auto">AUIP3M---------</AM>
-<AM lemma="Stěklovův_;S_^(*2)" src="auto" recommended="1" selected="1">AUIS7M---------</AM>
-<AM lemma="Stěklovův_;S_^(*2)" src="auto">AUMP3M---------</AM>
-<AM lemma="Stěklovův_;S_^(*2)" src="auto">AUMS7M---------</AM>
-<AM lemma="Stěklovův_;S_^(*2)" src="auto">AUNP3M---------</AM>
-<AM lemma="Stěklovův_;S_^(*2)" src="auto">AUNS7M---------</AM>
+<AM lemma="Stěklovovův_;Y_^(*2)" src="orig">AUIS7M---------</AM>
+<AM lemma="Stěklovův_;Y_^(*2)" src="auto">AUFP3M---------</AM>
+<AM lemma="Stěklovův_;Y_^(*2)" src="auto">AUIP3M---------</AM>
+<AM lemma="Stěklovův_;Y_^(*2)" src="auto" recommended="1" selected="1">AUIS7M---------</AM>
+<AM lemma="Stěklovův_;Y_^(*2)" src="auto">AUMP3M---------</AM>
+<AM lemma="Stěklovův_;Y_^(*2)" src="auto">AUMS7M---------</AM>
+<AM lemma="Stěklovův_;Y_^(*2)" src="auto">AUNP3M---------</AM>
+<AM lemma="Stěklovův_;Y_^(*2)" src="auto">AUNS7M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p42s5w27">
@@ -15693,7 +15693,7 @@
 </w.rf>
 <form>Société</form>
 <tag>
-<AM lemma="Société_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Société_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="société_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Société-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -15705,7 +15705,7 @@
 </w.rf>
 <form>Européenne</form>
 <tag>
-<AM lemma="Européenne_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Européenne_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="européenne_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Européenne-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -15730,7 +15730,7 @@
 </w.rf>
 <form>Propulsions</form>
 <tag>
-<AM lemma="Propulsion_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Propulsion_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="propulsions_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Propulsions-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -15766,8 +15766,8 @@
 </w.rf>
 <form>Ariane</form>
 <tag>
-<AM lemma="Ariane_;R_,t_^(série_raketových_nosičů_ESA)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ariane_;R_^(série_raketových_nosičů_ESA)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ariane_;m_,t_^(série_raketových_nosičů_ESA)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ariane_;m_^(série_raketových_nosičů_ESA)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p43s1w10">
@@ -16350,7 +16350,7 @@
 </w.rf>
 <form>RKA</form>
 <tag>
-<AM lemma="RKA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RKA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -16362,7 +16362,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p45s4w5">
@@ -16381,7 +16381,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p45s4w7">
@@ -16398,7 +16398,7 @@
 <LM>w#w-vesm9211-031-p45s4w8</LM>
 </w.rf>
 <form>Koptěv</form>
-<tag lemma="Koptěv_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koptěv_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p45s4w9">
 <src.rf>manual</src.rf>
@@ -17083,7 +17083,7 @@
 <form>Mars</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p46s1w9">
@@ -17263,8 +17263,8 @@
 </w.rf>
 <form>Mir</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p47s1w12">
@@ -17548,8 +17548,8 @@
 </w.rf>
 <form>Mir</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p47s3w12">
@@ -17609,8 +17609,8 @@
 </w.rf>
 <form>Miru</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS6-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS6-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p47s4w6">
@@ -17764,8 +17764,8 @@
 </w.rf>
 <form>Miru</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS3-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS3-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p47s5w13">
@@ -18547,7 +18547,7 @@
 <LM>w#w-vesm9211-031-p51s1w2</LM>
 </w.rf>
 <form>Buran</form>
-<tag lemma="Buran-2_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Buran-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p51s1w3">
 <src.rf>manual</src.rf>
@@ -19501,7 +19501,7 @@
 <LM>w#w-vesm9211-031-p52s1w2</LM>
 </w.rf>
 <form>Buranu</form>
-<tag lemma="Buran-2_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Buran-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p52s1w3">
 <src.rf>manual</src.rf>
@@ -19741,8 +19741,8 @@
 </w.rf>
 <form>Mir</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p52s1w32">
@@ -19891,7 +19891,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p53s1w6">
@@ -19908,7 +19908,7 @@
 <LM>w#w-vesm9211-031-p53s1w7</LM>
 </w.rf>
 <form>Lozino</form>
-<tag lemma="Lozino_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lozino_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p53s1w8">
 <src.rf>manual</src.rf>
@@ -19925,9 +19925,9 @@
 </w.rf>
 <form>Lozinskij</form>
 <tag>
-<AM lemma="Lozinskij_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lozinský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
-<AM lemma="Lozinský_;S" src="auto">NNMS5-----A---2</AM>
+<AM lemma="Lozinskij_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lozinský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
+<AM lemma="Lozinský_;Y" src="auto">NNMS5-----A---2</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p53s1w10">
@@ -20184,9 +20184,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p53s1w42">
@@ -20398,9 +20398,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p53s2Aw26">
@@ -20467,7 +20467,7 @@
 <LM>w#w-vesm9211-031-p53s2Bw7</LM>
 </w.rf>
 <form>Buran</form>
-<tag lemma="Buran-2_;R" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Buran-2_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p53s2Bw8">
 <src.rf>manual</src.rf>
@@ -20500,7 +20500,7 @@
 </w.rf>
 <form>MAKS</form>
 <tag>
-<AM lemma="MAKS_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MAKS_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MAKS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -20590,7 +20590,7 @@
 <LM>w#w-vesm9211-031-p53s2Bw22</LM>
 </w.rf>
 <form>Mrija</form>
-<tag lemma="Mrija_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mrija_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p53s2Bw23">
 <src.rf>manual</src.rf>
@@ -20698,7 +20698,7 @@
 <LM>w#w-vesm9211-031-p53s4w1</LM>
 </w.rf>
 <form>Lozino</form>
-<tag lemma="Lozino_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lozino_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p53s4w2">
 <src.rf>manual</src.rf>
@@ -20715,9 +20715,9 @@
 </w.rf>
 <form>Lozinskij</form>
 <tag>
-<AM lemma="Lozinskij_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lozinský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
-<AM lemma="Lozinský_;S" src="auto">NNMS5-----A---2</AM>
+<AM lemma="Lozinskij_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lozinský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
+<AM lemma="Lozinský_;Y" src="auto">NNMS5-----A---2</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p53s4w4">
@@ -21173,8 +21173,8 @@
 </w.rf>
 <form>Eněrgija</form>
 <tag>
-<AM lemma="Eněrgija_;R_,t_^(nosná_raketa)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eněrgija_;R_^(nosná_raketa)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Eněrgija_;m_,t_^(nosná_raketa)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Eněrgija_;m_^(nosná_raketa)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p53s6w18">
@@ -21225,7 +21225,7 @@
 <LM>w#w-vesm9211-031-p54s1w5</LM>
 </w.rf>
 <form>Buran</form>
-<tag lemma="Buran-2_;R" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Buran-2_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p54s1w6">
 <src.rf>manual</src.rf>
@@ -21419,7 +21419,7 @@
 <LM>w#w-vesm9211-031-p54s2w17</LM>
 </w.rf>
 <form>Hotolu</form>
-<tag lemma="Hotol_;R" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Hotol_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p54s2w18">
 <src.rf>manual</src.rf>
@@ -21435,7 +21435,7 @@
 <LM>w#w-vesm9211-031-p54s2w19</LM>
 </w.rf>
 <form>Hermesu</form>
-<tag lemma="Hermes-2_;R_^(raketoplán)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Hermes-2_;m_^(raketoplán)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p54s2w20">
 <src.rf>manual</src.rf>
@@ -21514,7 +21514,7 @@
 <LM>w#w-vesm9211-031-p54s2w28</LM>
 </w.rf>
 <form>Buranu</form>
-<tag lemma="Buran-2_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Buran-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p54s2w29">
 <src.rf>manual</src.rf>
@@ -21753,7 +21753,7 @@
 <LM>w#w-vesm9211-031-p55s1w20</LM>
 </w.rf>
 <form>Mrija</form>
-<tag lemma="Mrija_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mrija_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p55s1w21">
 <src.rf>manual</src.rf>
@@ -21853,7 +21853,7 @@
 </w.rf>
 <form>MAKS</form>
 <tag>
-<AM lemma="MAKS_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MAKS_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MAKS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -22611,7 +22611,7 @@
 <form>Marsu</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p58s3w11">
@@ -22886,7 +22886,7 @@
 <LM>w#w-vesm9211-031-p59s3w10</LM>
 </w.rf>
 <form>Titov</form>
-<tag lemma="Titov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Titov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p59s3w11">
 <src.rf>manual</src.rf>
@@ -22910,7 +22910,7 @@
 <LM>w#w-vesm9211-031-p59s3w13</LM>
 </w.rf>
 <form>Krikaljov</form>
-<tag lemma="Krikaljov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krikaljov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p59s3w14">
 <src.rf>manual</src.rf>
@@ -22928,7 +22928,7 @@
 <LM>w#w-vesm9211-031-p59s4w1</LM>
 </w.rf>
 <form>Titov</form>
-<tag lemma="Titov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Titov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p59s4w2">
 <src.rf>manual</src.rf>
@@ -23172,7 +23172,7 @@
 <LM>w#w-vesm9211-031-p59s5Bw3</LM>
 </w.rf>
 <form>Krikaljov</form>
-<tag lemma="Krikaljov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krikaljov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p59s5Bw4">
 <src.rf>manual</src.rf>
@@ -23371,7 +23371,7 @@
 <LM>w#w-vesm9211-031-p59s6w9</LM>
 </w.rf>
 <form>Johnsonova</form>
-<tag lemma="Johnsonův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Johnsonův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-vesm9211-031-p59s6w10">
 <src.rf>manual</src.rf>
@@ -23561,8 +23561,8 @@
 </w.rf>
 <form>Mir</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p60s1w20">
@@ -23856,8 +23856,8 @@
 </w.rf>
 <form>Miru</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS6-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS6-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p60s3w20">
@@ -23902,7 +23902,7 @@
 <form>Marsu</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p61s1w5">
@@ -24151,9 +24151,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p61s3w14">
@@ -24253,9 +24253,9 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NASA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="NASA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NASA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NASA_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p62s1w9">
@@ -24539,8 +24539,8 @@
 </w.rf>
 <form>Miru</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS6-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS6-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p62s3w10">
@@ -24641,7 +24641,7 @@
 <LM>w#w-vesm9211-031-p62s3w21</LM>
 </w.rf>
 <form>Buranu</form>
-<tag lemma="Buran-2_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Buran-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p62s3w22">
 <src.rf>manual</src.rf>
@@ -24748,8 +24748,8 @@
 </w.rf>
 <form>Miru</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS6-----A----</AM>
-<AM lemma="Mir-1_;R_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS6-----A----</AM>
+<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p62s4Aw10">
@@ -24898,7 +24898,7 @@
 <LM>w#w-vesm9211-031-p63s1w2</LM>
 </w.rf>
 <form>Budil</form>
-<tag lemma="Budil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

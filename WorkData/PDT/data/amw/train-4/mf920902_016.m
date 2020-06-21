@@ -157,7 +157,7 @@
 <LM>w#w-mf920902-016-p2s1w14</LM>
 </w.rf>
 <form>Spart</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920902-016-p2s1w15">
 <src.rf>manual</src.rf>
@@ -501,10 +501,10 @@
 <form>Marlboro</form>
 <tag>
 <AM lemma="Marlbora_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
-<AM lemma="Marlboro_;K_;R" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS5-----A----</AM>
+<AM lemma="Marlboro_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-016-p2s2w6">
@@ -898,7 +898,7 @@
 <form>Mars</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-016-p2s4w16">
@@ -1191,7 +1191,7 @@
 <form>Start</form>
 <tag>
 <AM lemma="start" src="orig">NNIS1-----A----</AM>
-<AM lemma="Start_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Start_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-016-p2s6w4">
@@ -1423,7 +1423,7 @@
 <form>Start</form>
 <tag>
 <AM lemma="start" src="orig">NNIS1-----A----</AM>
-<AM lemma="Start_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Start_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-016-p2s7w8">

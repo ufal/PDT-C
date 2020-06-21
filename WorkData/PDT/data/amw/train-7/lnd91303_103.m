@@ -86,7 +86,7 @@
 </w.rf>
 <form>FIBA</form>
 <tag>
-<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -294,8 +294,8 @@
 <form>Pele</form>
 <tag>
 <AM lemma="pele" src="orig">NNNXX-----A----</AM>
-<AM lemma="Pele_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pele_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Pele_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pele_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="pel" src="auto">NNIS5-----A----</AM>
 <AM lemma="pele" src="manual" selected="1">Db-------------</AM>
 </tag>
@@ -346,7 +346,7 @@
 <LM>w#w-lnd91303-103-p4s1w3</LM>
 </w.rf>
 <form>Lewis</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lewis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-103-p4s1w4">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 </w.rf>
 <form>Gazzetta</form>
 <tag>
-<AM lemma="Gazzetta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazzetta_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Gazzetta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -525,7 +525,7 @@
 <LM>w#w-lnd91303-103-p4s2w4</LM>
 </w.rf>
 <form>Krabbeová</form>
-<tag lemma="Krabbeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krabbeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-103-p4s2w5">
 <src.rf>manual</src.rf>

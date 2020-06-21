@@ -35,7 +35,7 @@
 <LM>w#w-ln95044-106-p1s1w3</LM>
 </w.rf>
 <form>Walderode</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-106-p1s1w4">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 </w.rf>
 <form>Des</form>
 <tag>
-<AM lemma="Des_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Des_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="des-1_,t_^(člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="Des-77" src="manual" selected="1">F%-------------</AM>
@@ -180,7 +180,7 @@
 <LM>w#w-ln95044-106-p2s1Bw9</LM>
 </w.rf>
 <form>Fours</form>
-<tag lemma="Fours_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Fours_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95044-106-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -189,8 +189,8 @@
 </w.rf>
 <form>Walderode</form>
 <tag>
-<AM lemma="Walderode_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Walderode_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Walderode_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Walderode_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-106-p2s1Bw11">
@@ -627,7 +627,7 @@
 <LM>w#w-ln95044-106-p3s1w28</LM>
 </w.rf>
 <form>Walderodemu</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-106-p3s1w29">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-ln95044-106-p3s2w17</LM>
 </w.rf>
 <form>Maturovi</form>
-<tag lemma="Matura_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Matura_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-106-p3s2w18">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-ln95044-106-p3s2w28</LM>
 </w.rf>
 <form>Walderodemu</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-106-p3s2w29">
 <src.rf>manual</src.rf>
@@ -1000,8 +1000,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-106-p3s3w12">
@@ -1012,7 +1012,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-106-p3s3w13">
@@ -1029,7 +1029,7 @@
 <LM>w#w-ln95044-106-p3s3w14</LM>
 </w.rf>
 <form>Matura</form>
-<tag lemma="Matura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-106-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1423,7 +1423,7 @@
 <LM>w#w-ln95044-106-p3s5w12</LM>
 </w.rf>
 <form>Walderodemu</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Walderode_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-106-p3s5w13">
 <src.rf>manual</src.rf>
@@ -1597,7 +1597,7 @@
 <LM>w#w-ln95044-106-p3s6w4</LM>
 </w.rf>
 <form>Hejduk</form>
-<tag lemma="Hejduk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hejduk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-106-p3s6w5">
 <src.rf>manual</src.rf>

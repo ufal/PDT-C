@@ -3992,7 +3992,7 @@
 <LM>w#w-lnd92251-051-p6s1w2</LM>
 </w.rf>
 <form>KŘÍŽ</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

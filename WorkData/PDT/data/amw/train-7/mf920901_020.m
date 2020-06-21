@@ -44,7 +44,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -72,7 +72,7 @@
 <LM>w#w-mf920901-020-p2s1w3</LM>
 </w.rf>
 <form>pen</form>
-<tag lemma="pen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="pen-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920901-020-p2s1w4">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-mf920901-020-p2s2w23</LM>
 </w.rf>
 <form>Uhla</form>
-<tag lemma="Uhl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uhl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-020-p2s2w24">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-mf920901-020-p2s4w6</LM>
 </w.rf>
 <form>Uhlovo</form>
-<tag lemma="Uhlův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Uhlův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf920901-020-p2s4w7">
 <src.rf>manual</src.rf>
@@ -533,11 +533,11 @@
 </w.rf>
 <form>Stráským</form>
 <tag>
-<AM lemma="Stráský_;S" src="orig">AAMS7----1A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMP3-----A----</AM>
-<AM lemma="Stráský_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
-<AM lemma="Stráská_;S" src="auto">NNFP3-----A----</AM>
+<AM lemma="Stráský_;Y" src="orig">AAMS7----1A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMP3-----A----</AM>
+<AM lemma="Stráský_;Y" src="auto">NNMS6-----A---7</AM>
+<AM lemma="Stráský_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Stráská_;Y" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-020-p2s4w10">
@@ -629,7 +629,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

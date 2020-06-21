@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9415-011-p2s1w3</LM>
 </w.rf>
 <form>PROG</form>
-<tag lemma="PROG_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="PROG_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-011-p3s1">
@@ -120,7 +120,7 @@
 </w.rf>
 <form>Bitez</form>
 <tag>
-<AM lemma="Bitez_;G_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Bitez_;G_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bitez-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -165,9 +165,9 @@
 </w.rf>
 <form>Bitez</form>
 <tag>
-<AM lemma="Bitez_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bitez_;G_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Bitez_;G_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bitez_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Bitez_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Bitez_;G_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Bitez-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -179,7 +179,7 @@
 <form>Han</form>
 <tag>
 <AM lemma="hana_^(pohana)" src="orig">NNFP2-----A----</AM>
-<AM lemma="Han_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Han_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Han-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -817,7 +817,7 @@
 </w.rf>
 <form>Bitez</form>
 <tag>
-<AM lemma="Bitez_;G_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Bitez_;G_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bitez-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1187,7 +1187,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1747,7 +1747,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1774,7 +1774,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -29,7 +29,7 @@
 <form>Césary</form>
 <tag>
 <AM lemma="César_;Y" src="orig">NNMP4-----A----</AM>
-<AM lemma="César-2_;R" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="César-2_;m" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-117-p1s1w3">
@@ -126,7 +126,7 @@
 <LM>w#w-ln95049-117-p1s1w14</LM>
 </w.rf>
 <form>Peck</form>
-<tag lemma="Peck_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peck_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-117-p1s1w15">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-ln95049-117-p1s1w19</LM>
 </w.rf>
 <form>Moreauová</form>
-<tag lemma="Moreauová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Moreauová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-117-p1s1w20">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-ln95049-117-p1s1w24</LM>
 </w.rf>
 <form>Spielberg</form>
-<tag lemma="Spielberg_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Spielberg_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-117-p1s1w25">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-ln95049-117-p1s2w6</LM>
 </w.rf>
 <form>Delon</form>
-<tag lemma="Delon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Delon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-117-p1s2w7">
 <src.rf>manual</src.rf>

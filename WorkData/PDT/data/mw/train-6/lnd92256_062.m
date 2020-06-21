@@ -96,8 +96,8 @@
 </w.rf>
 <form>fsch</form>
 <tag>
-<AM lemma="fsch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fsch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fsch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fsch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-062-p3s1w4">
@@ -141,8 +141,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-062-p3s2w4">
@@ -298,8 +298,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-062-p3s3w12">
@@ -875,7 +875,7 @@
 <LM>w#w-lnd92256-062-p3s5w33</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92256-062-p3s5w34">
 <src.rf>manual</src.rf>

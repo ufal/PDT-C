@@ -216,7 +216,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -292,7 +292,7 @@
 <LM>w#w-cmpr9415-019-p4s2w6</LM>
 </w.rf>
 <form>Fibex</form>
-<tag lemma="Fibex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fibex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-019-p4s2w7">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-cmpr9415-019-p4s2w11</LM>
 </w.rf>
 <form>Pavlát</form>
-<tag lemma="Pavlát_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavlát_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-019-p4s2w12">
 <src.rf>manual</src.rf>

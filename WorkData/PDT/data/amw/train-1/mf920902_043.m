@@ -70,9 +70,9 @@
 </w.rf>
 <form>sob</form>
 <tag>
-<AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-043-p2s1w4">
@@ -592,7 +592,7 @@
 <LM>w#w-mf920902-043-p2s3w26</LM>
 </w.rf>
 <form>Resslovou</form>
-<tag lemma="Resslův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Resslův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-mf920902-043-p2s3w27">
 <src.rf>manual</src.rf>

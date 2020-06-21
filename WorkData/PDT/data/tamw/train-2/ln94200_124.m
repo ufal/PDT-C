@@ -85,7 +85,7 @@
 <LM>w#w-ln94200-124-p2s1Aw2</LM>
 </w.rf>
 <form>Valeš</form>
-<tag lemma="Valeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-124-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -184,11 +184,11 @@
 </w.rf>
 <form>Vašků</form>
 <tag>
-<AM lemma="Vašků_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Vašek_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="Vaško_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="Vašků_;S" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
-<AM lemma="Vašků_;S" src="auto">NNMSX-----A----</AM>
+<AM lemma="Vašků_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Vašek_;Y" src="auto">NNMP2-----A----</AM>
+<AM lemma="Vaško_;Y" src="auto">NNMP2-----A----</AM>
+<AM lemma="Vašků_;Y" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
+<AM lemma="Vašků_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="vašek_,l" src="auto">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -263,8 +263,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-124-p2s1Bw16">
@@ -2462,7 +2462,7 @@
 </w.rf>
 <form>Alternatives</form>
 <tag>
-<AM lemma="Alternative_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Alternative_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Alternatives-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

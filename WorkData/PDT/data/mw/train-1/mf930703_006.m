@@ -168,7 +168,7 @@
 <LM>w#w-mf930703-006-p2s1w12</LM>
 </w.rf>
 <form>Petrusovu</form>
-<tag lemma="Petrusův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Petrusův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf930703-006-p2s1w13">
 <src.rf>manual</src.rf>
@@ -177,7 +177,7 @@
 </w.rf>
 <form>ČMKOS</form>
 <tag>
-<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS_:B_;m_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

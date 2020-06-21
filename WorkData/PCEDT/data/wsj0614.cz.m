@@ -80,7 +80,7 @@
 </w.rf>
 <form>QUANTUM</form>
 <tag>
-<AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
+<AM lemma="Quanto_;m_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
 <AM lemma="QUANTUM-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -91,7 +91,7 @@
 </w.rf>
 <form>CHEMICAL</form>
 <tag>
-<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="CHEMICAL-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -123,8 +123,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -135,11 +135,11 @@
 </w.rf>
 <form>Morrisu</form>
 <tag>
-<AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS3-----A----</AM>
-<AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Morris-2_;R_;G_^(město;vozidlo;;cigarety)" src="manual">NNIS6-----A----</AM>
-<AM lemma="Morris-2_;G_;R_^(vozidlo;;cigarety)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS2-----A----</AM>
+<AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS3-----A----</AM>
+<AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Morris-2_;G_;m_^(město;vozidlo;;cigarety)" src="manual">NNIS6-----A----</AM>
+<AM lemma="Morris-2_;G_;m_^(vozidlo;;cigarety)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0614-001-p1s0W13-Ta">
@@ -270,12 +270,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>

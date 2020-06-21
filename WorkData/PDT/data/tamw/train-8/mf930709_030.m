@@ -101,7 +101,7 @@
 <LM>w#w-mf930709-030-p2s1Aw3</LM>
 </w.rf>
 <form>rů</form>
-<tag lemma="rů-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="rů-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-030-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-mf930709-030-p2s1Aw5</LM>
 </w.rf>
 <form>ptp</form>
-<tag lemma="ptp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ptp-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930709-030-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-mf930709-030-p2s1Bw8</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-030-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 </w.rf>
 <form>Speciál</form>
 <tag>
-<AM lemma="Speciál_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Speciál_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="speciál" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="speciál" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -335,7 +335,7 @@
 <form>Natural</form>
 <tag>
 <AM lemma="Natural_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Natural_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Natural_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-030-p2s2w2">
@@ -487,7 +487,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -574,7 +574,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -624,7 +624,7 @@
 <LM>w#w-mf930709-030-p2s3w15</LM>
 </w.rf>
 <form>Benziny</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-030-p2s3w16">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-mf930709-030-p3s3w30</LM>
 </w.rf>
 <form>Livignu</form>
-<tag lemma="Livigno_;K" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="Livigno_;m" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930709-030-p3s3w31">
 <src.rf>manual</src.rf>
@@ -2566,13 +2566,13 @@
 <form>Černé</form>
 <tag>
 <AM lemma="Černý-2_;G" src="orig">AAFS6----1A----</AM>
-<AM lemma="Černá_;S_^(*1ý)" src="auto">NNFP1-----A----</AM>
-<AM lemma="Černá_;S_^(*1ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="Černá_;S_^(*1ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Černá_;S_^(*1ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Černá_;S_^(*1ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Černá_;S_^(*1ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Černý_;S" src="auto">NNMP4-----A----</AM>
+<AM lemma="Černá_;Y_^(*1ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="Černá_;Y_^(*1ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="Černá_;Y_^(*1ý)" src="auto">NNFP5-----A----</AM>
+<AM lemma="Černá_;Y_^(*1ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Černá_;Y_^(*1ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="Černá_;Y_^(*1ý)" src="auto">NNFS6-----A----</AM>
+<AM lemma="Černý_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="černá_^(zvěř)" src="auto">NNFP1-----A----</AM>
 <AM lemma="černá_^(zvěř)" src="auto">NNFP4-----A----</AM>
 <AM lemma="černá_^(zvěř)" src="auto">NNFP5-----A----</AM>

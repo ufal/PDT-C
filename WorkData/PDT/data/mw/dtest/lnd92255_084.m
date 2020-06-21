@@ -120,8 +120,8 @@
 <form>Ešery</form>
 <tag>
 <AM lemma="Ešery_;G" src="orig">NNFP1-----A----</AM>
-<AM lemma="Ešer_;S" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="Ešer_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Ešer_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Ešer_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Ešery-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -150,7 +150,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -169,7 +169,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

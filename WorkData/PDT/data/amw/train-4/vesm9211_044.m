@@ -53,7 +53,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-044-p1s1w6">
@@ -70,7 +70,7 @@
 <LM>w#w-vesm9211-044-p1s1w7</LM>
 </w.rf>
 <form>Kvasnici</form>
-<tag lemma="Kvasnica_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kvasnica_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p1s1w8">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-044-p1s1w12">
@@ -113,7 +113,7 @@
 <LM>w#w-vesm9211-044-p1s1w12</LM>
 </w.rf>
 <form>Votrubovi</form>
-<tag lemma="Votruba_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Votruba_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p1s1w13">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-vesm9211-044-p2s1w6</LM>
 </w.rf>
 <form>Votruba</form>
-<tag lemma="Votruba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Votruba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p2s1w7">
 <src.rf>manual</src.rf>
@@ -252,8 +252,8 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="rok_:B" src="orig" selected="1">NNNPX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="rok_:B" src="orig" selected="1">NNNXX-----A---8</AM>
+<AM lemma="l-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -370,7 +370,7 @@
 <LM>w#w-vesm9211-044-p2s1w22</LM>
 </w.rf>
 <form>Křemencově</form>
-<tag lemma="Křemencův-1_;S_^(*5ec-1)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Křemencův-1_;Y_^(*5ec-1)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-vesm9211-044-p2s1w23">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-vesm9211-044-p3s1w18</LM>
 </w.rf>
 <form>Wilsonovu</form>
-<tag lemma="Wilsonův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Wilsonův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9211-044-p3s1w19">
 <src.rf>manual</src.rf>
@@ -680,8 +680,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-044-p3s1w27">
@@ -974,7 +974,7 @@
 <LM>w#w-vesm9211-044-p3s3w11</LM>
 </w.rf>
 <form>Votruba</form>
-<tag lemma="Votruba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Votruba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p3s3w12">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-vesm9211-044-p3s3w14</LM>
 </w.rf>
 <form>Haase</form>
-<tag lemma="Haas_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Haas_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 </w.rf>
 <form>die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="auto">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="auto">AAXXX----1A----</AM>
 <AM lemma="die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1106,7 +1106,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-044-p4s1w4">
@@ -1123,7 +1123,7 @@
 <LM>w#w-vesm9211-044-p4s1w5</LM>
 </w.rf>
 <form>Křivský</form>
-<tag lemma="Křivský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křivský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

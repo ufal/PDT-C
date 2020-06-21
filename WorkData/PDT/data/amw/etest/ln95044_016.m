@@ -175,7 +175,7 @@
 <LM>w#w-ln95044-016-p2s1Bw14</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-016-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-ln95044-016-p2s1Bw24</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-016-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95044-016-p3s1w7</LM>
 </w.rf>
 <form>Rubáše</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-016-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-ln95044-016-p4s1w33</LM>
 </w.rf>
 <form>Pekárek</form>
-<tag lemma="Pekárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pekárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-016-p4s1w34">
 <src.rf>manual</src.rf>

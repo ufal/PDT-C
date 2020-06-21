@@ -81,8 +81,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-019-p1s2w4">
@@ -159,7 +159,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-019-p1s3w8">
@@ -539,7 +539,7 @@
 <LM>w#w-lnd94101-019-p1s5w9</LM>
 </w.rf>
 <form>Šubrt</form>
-<tag lemma="Šubrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-019-p1s5w10">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-lnd94101-019-p1s6w24</LM>
 </w.rf>
 <form>Šubrt</form>
-<tag lemma="Šubrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-019-p1s6w25">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 </w.rf>
 <form>Euro</form>
 <tag>
-<AM lemma="Euro-4_;K_,t_^(jako_adj.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Euro-4_;m_,t_^(jako_adj.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Euro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1001,7 +1001,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1382,7 +1382,7 @@
 <LM>w#w-lnd94101-019-p1s9w16</LM>
 </w.rf>
 <form>Šubrt</form>
-<tag lemma="Šubrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-019-p1s9w17">
 <src.rf>manual</src.rf>
@@ -1566,7 +1566,7 @@
 <LM>w#w-lnd94101-019-p1s11w5</LM>
 </w.rf>
 <form>Šubrta</form>
-<tag lemma="Šubrt_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šubrt_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-019-p1s11w6">
 <src.rf>manual</src.rf>

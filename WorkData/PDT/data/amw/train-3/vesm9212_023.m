@@ -85,7 +85,7 @@
 <LM>w#w-vesm9212-023-p1s2w5</LM>
 </w.rf>
 <form>Metternicha</form>
-<tag lemma="Metternich_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Metternich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p1s2w6">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-vesm9212-023-p1s4w17</LM>
 </w.rf>
 <form>Metternichova</form>
-<tag lemma="Metternichův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Metternichův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-vesm9212-023-p1s4w18">
 <src.rf>manual</src.rf>
@@ -1367,8 +1367,8 @@
 </w.rf>
 <form>Actinie</form>
 <tag>
-<AM lemma="Actinia_;L_,t" src="orig">NNFS2-----A----</AM>
-<AM lemma="Actinia_;L" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Actinia_;U_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Actinia_;U" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p3s5w10">
@@ -3308,7 +3308,7 @@
 <LM>w#w-vesm9212-023-p7s2w14</LM>
 </w.rf>
 <form>Mendělejev</form>
-<tag lemma="Mendělejev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mendělejev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p7s2w15">
 <src.rf>manual</src.rf>
@@ -3401,7 +3401,7 @@
 <LM>w#w-vesm9212-023-p7s3w3</LM>
 </w.rf>
 <form>Mendělejev</form>
-<tag lemma="Mendělejev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mendělejev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p7s3w4">
 <src.rf>manual</src.rf>

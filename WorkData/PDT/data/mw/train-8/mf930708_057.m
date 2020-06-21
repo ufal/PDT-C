@@ -330,7 +330,7 @@
 <LM>w#w-mf930708-057-p3s1w6</LM>
 </w.rf>
 <form>Dršťáková</form>
-<tag lemma="Dršťáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dršťáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-057-p3s1w7">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 </w.rf>
 <form>life</form>
 <tag>
-<AM lemma="life_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="life_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="life-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1324,7 +1324,7 @@
 </w.rf>
 <form>life</form>
 <tag>
-<AM lemma="life_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="life_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="life-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1775,7 +1775,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p4s9w22">
@@ -1794,7 +1794,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p4s9w24">
@@ -2021,7 +2021,7 @@
 <LM>w#w-mf930708-057-p5s1w19</LM>
 </w.rf>
 <form>Svatoňová</form>
-<tag lemma="Svatoňová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Svatoňová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-057-p5s1w20">
 <src.rf>manual</src.rf>

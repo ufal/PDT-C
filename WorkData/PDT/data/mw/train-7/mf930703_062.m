@@ -45,7 +45,7 @@
 <LM>w#w-mf930703-062-p2s1w2</LM>
 </w.rf>
 <form>Čapek</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-062-p2s1w3">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-mf930703-062-p2s2w2</LM>
 </w.rf>
 <form>Čapek</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-062-p2s2w3">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-mf930703-062-p2s2w12</LM>
 </w.rf>
 <form>Kantůrkové</form>
-<tag lemma="Kantůrková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kantůrková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-062-p2s2w13">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-mf930703-062-p2s2w19</LM>
 </w.rf>
 <form>Polesného</form>
-<tag lemma="Polesný-2_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Polesný-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-062-p2s2w20">
 <src.rf>manual</src.rf>

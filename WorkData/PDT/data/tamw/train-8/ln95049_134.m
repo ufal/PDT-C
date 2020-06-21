@@ -43,7 +43,7 @@
 <LM>w#w-ln95049-134-p1s1w4</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95049-134-p2s1A">
@@ -53,7 +53,7 @@
 <LM>w#w-ln95049-134-p2s1Aw1</LM>
 </w.rf>
 <form>Barčák</form>
-<tag lemma="Barčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-134-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln95049-134-p2s1Bw23</LM>
 </w.rf>
 <form>Barčák</form>
-<tag lemma="Barčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-134-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-ln95049-134-p2s1Bw34</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-134-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 </w.rf>
 <form>omegu</form>
 <tag>
-<AM lemma="Omega-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="Omega-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
 <AM lemma="omega" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -871,7 +871,7 @@
 <LM>w#w-ln95049-134-p2s3w32</LM>
 </w.rf>
 <form>Barčák</form>
-<tag lemma="Barčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-134-p2s3w33">
 <src.rf>manual</src.rf>
@@ -1390,7 +1390,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-134-p2s6w17">
@@ -1407,7 +1407,7 @@
 <LM>w#w-ln95049-134-p2s6w18</LM>
 </w.rf>
 <form>Barčák</form>
-<tag lemma="Barčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-134-p2s6w19">
 <src.rf>manual</src.rf>
@@ -1865,7 +1865,7 @@
 <LM>w#w-ln95049-134-p2s13w1</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-134-p2s13w2">
 <src.rf>manual</src.rf>
@@ -2029,7 +2029,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-134-p3s1w2">
@@ -2046,7 +2046,7 @@
 <LM>w#w-ln95049-134-p3s1w3</LM>
 </w.rf>
 <form>Barčák</form>
-<tag lemma="Barčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-134-p3s1w4">
 <src.rf>manual</src.rf>
@@ -2180,7 +2180,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2191,7 +2191,7 @@
 </w.rf>
 <form>Motors</form>
 <tag>
-<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-1_;m_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2672,7 +2672,7 @@
 <LM>w#w-ln95049-134-p3s6w4</LM>
 </w.rf>
 <form>Oplu</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS3-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln95049-134-p3s6w5">
 <src.rf>manual</src.rf>
@@ -2804,7 +2804,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-134-p3s7w2">
@@ -2821,7 +2821,7 @@
 <LM>w#w-ln95049-134-p3s7w3</LM>
 </w.rf>
 <form>Barčák</form>
-<tag lemma="Barčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-134-p3s7w4">
 <src.rf>manual</src.rf>
@@ -3057,7 +3057,7 @@
 <form>Škodovka</form>
 <tag>
 <AM lemma="škodovka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Škodovka_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Škodovka_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-134-p3s8w8">

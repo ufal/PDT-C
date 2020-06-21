@@ -20,7 +20,7 @@
 </w.rf>
 <form>FDP</form>
 <tag>
-<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP_:B_;m_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -46,7 +46,7 @@
 <LM>w#w-ln95048-149-p1s1w4</LM>
 </w.rf>
 <form>Havlův</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95048-149-p1s1w5">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln95048-149-p2s1Bw9</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-149-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -203,8 +203,8 @@
 </w.rf>
 <form>Ulrich</form>
 <tag>
-<AM lemma="Ulrich_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ulrich_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ulrich_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ulrich_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-149-p2s1Bw17">
@@ -213,7 +213,7 @@
 <LM>w#w-ln95048-149-p2s1Bw17</LM>
 </w.rf>
 <form>Irmer</form>
-<tag lemma="Irmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Irmer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-149-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 </w.rf>
 <form>FDP</form>
 <tag>
-<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP_:B_;m_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -313,8 +313,8 @@
 </w.rf>
 <form>Klause</form>
 <tag>
-<AM lemma="Klaus_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Klaus_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Klaus_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-149-p2s1Bw30">
@@ -323,7 +323,7 @@
 <LM>w#w-ln95048-149-p2s1Bw30</LM>
 </w.rf>
 <form>Kinkela</form>
-<tag lemma="Kinkel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kinkel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-149-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln95048-149-p2s2w3</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-149-p2s2w4">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-ln95048-149-p2s2w12</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-149-p2s2w13">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-ln95048-149-p2s2w19</LM>
 </w.rf>
 <form>Irmer</form>
-<tag lemma="Irmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Irmer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-149-p2s2w20">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 </w.rf>
 <form>FDP</form>
 <tag>
-<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP_:B_;m_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -817,7 +817,7 @@
 <LM>w#w-ln95048-149-p2s4w1</LM>
 </w.rf>
 <form>Irmer</form>
-<tag lemma="Irmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Irmer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-149-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 </w.rf>
 <form>FDP</form>
 <tag>
-<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP_:B_;m_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

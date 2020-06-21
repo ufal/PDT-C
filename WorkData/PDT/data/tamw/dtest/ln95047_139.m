@@ -915,7 +915,7 @@
 </w.rf>
 <form>Servus</form>
 <tag>
-<AM lemma="Servus_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Servus_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="servus" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="servus_,h_,s" src="auto">II-------------</AM>
 <AM lemma="servus_,t" src="manual" selected="1">NNXXX-----A----</AM>

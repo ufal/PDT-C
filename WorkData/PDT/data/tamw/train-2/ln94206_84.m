@@ -199,7 +199,7 @@
 <LM>w#w-ln94206-84-p2s1Bw6</LM>
 </w.rf>
 <form>Jehuda</form>
-<tag lemma="Jehuda_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jehuda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94206-84-p2s1Bw7</LM>
 </w.rf>
 <form>Lahav</form>
-<tag lemma="Lahav_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lahav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 </w.rf>
 <form>Bénazír</form>
 <tag>
-<AM lemma="Bénazír_;Y" src="orig">NNFSX-----A----</AM>
+<AM lemma="Bénazír_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bénazír_;Y_,t" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -457,7 +457,7 @@
 <LM>w#w-ln94206-84-p2s1Cw26</LM>
 </w.rf>
 <form>Bhuttové</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-84-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln94206-84-p2s2w2</LM>
 </w.rf>
 <form>Bhuttová</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p2s2w3">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <AM lemma="pas-2_^(na_lidském_těle)" src="auto">NNIS4-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS1-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS4-----A----</AM>
-<AM lemma="paso_;u_,t_^(passo_doble)" src="auto">NNNP2-----A----</AM>
+<AM lemma="paso_,t_^(passo_doble)" src="auto">NNNP2-----A----</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="pas-4_,t_^(faux_pas)" src="manual">NNNXX-----A----</AM>
@@ -980,7 +980,7 @@
 <LM>w#w-ln94206-84-p3s2w2</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-ln94206-84-p3s5w1</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-ln94206-84-p4s1w16</LM>
 </w.rf>
 <form>Rabina</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-84-p4s1w17">
 <src.rf>manual</src.rf>
@@ -2101,7 +2101,7 @@
 <LM>w#w-ln94206-84-p4s6w5</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p4s6w6">
 <src.rf>manual</src.rf>
@@ -2360,7 +2360,7 @@
 </w.rf>
 <form>Bénazír</form>
 <tag>
-<AM lemma="Bénazír_;Y" src="orig">NNFSX-----A----</AM>
+<AM lemma="Bénazír_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bénazír_;Y_,t" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -2370,7 +2370,7 @@
 <LM>w#w-ln94206-84-p4s7w5</LM>
 </w.rf>
 <form>Bhuttová</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p4s7w6">
 <src.rf>manual</src.rf>
@@ -2883,7 +2883,7 @@
 <LM>w#w-ln94206-84-p5s3w5</LM>
 </w.rf>
 <form>Bhuttové</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-84-p5s3w6">
 <src.rf>manual</src.rf>
@@ -3117,7 +3117,7 @@
 <LM>w#w-ln94206-84-p6s1w17</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p6s1w18">
 <src.rf>manual</src.rf>
@@ -3191,7 +3191,7 @@
 <LM>w#w-ln94206-84-p6s2w8</LM>
 </w.rf>
 <form>Arafatovi</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94206-84-p6s2w9">
 <src.rf>manual</src.rf>
@@ -3457,7 +3457,7 @@
 <LM>w#w-ln94206-84-p6s3w8</LM>
 </w.rf>
 <form>Bhuttové</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-84-p6s3w9">
 <src.rf>manual</src.rf>
@@ -3595,7 +3595,7 @@
 <LM>w#w-ln94206-84-p6s4w1</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p6s4w2">
 <src.rf>manual</src.rf>
@@ -3763,7 +3763,7 @@
 <LM>w#w-ln94206-84-p6s4w22</LM>
 </w.rf>
 <form>Bhuttová</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p6s4w23">
 <src.rf>manual</src.rf>
@@ -4173,7 +4173,7 @@
 </w.rf>
 <form>Bénazír</form>
 <tag>
-<AM lemma="Bénazír_;Y" src="orig">NNFSX-----A----</AM>
+<AM lemma="Bénazír_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bénazír_;Y_,t" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -4183,7 +4183,7 @@
 <LM>w#w-ln94206-84-p7s1w28</LM>
 </w.rf>
 <form>Bhuttová</form>
-<tag lemma="Bhuttová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bhuttová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-84-p7s1w29">
 <src.rf>manual</src.rf>

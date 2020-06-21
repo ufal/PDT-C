@@ -134,7 +134,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -184,7 +184,7 @@
 </w.rf>
 <form>VÚB</form>
 <tag>
-<AM lemma="VÚB-1_:B_;K_^(Všeobecná_úvěrová_banka,_Slovensko)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VÚB-1_:B_;m_^(Všeobecná_úvěrová_banka,_Slovensko)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VÚB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -215,7 +215,7 @@
 </w.rf>
 <form>Slov</form>
 <tag>
-<AM lemma="slovenský_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="slovenský_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="slovit" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="slovit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="slovo" src="auto" recommended="1">NNNP2-----A----</AM>
@@ -237,7 +237,7 @@
 </w.rf>
 <form>št</form>
 <tag>
-<AM lemma="štátný_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="štátný_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="št-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -256,7 +256,7 @@
 </w.rf>
 <form>sporiteľna</form>
 <tag>
-<AM lemma="sporiteľna_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="sporiteľna_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="sporiteľna-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -287,7 +287,7 @@
 </w.rf>
 <form>Ľudová</form>
 <tag>
-<AM lemma="Ľudová_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Ľudová_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="ľudový_,t_^(slov.)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="ľudový_,t_^(slov.)" src="auto">AAFS5----1A----</AM>
 <AM lemma="ľudový_,t_^(slov.)" src="auto">AANP1----1A----</AM>
@@ -331,7 +331,7 @@
 </w.rf>
 <form>Slov</form>
 <tag>
-<AM lemma="slovenský_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="slovenský_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="slovit" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="slovit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="slovo" src="auto" recommended="1">NNNP2-----A----</AM>
@@ -353,7 +353,7 @@
 </w.rf>
 <form>poľ</form>
 <tag>
-<AM lemma="poľnohospodárský_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="poľnohospodárský_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="poľ-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

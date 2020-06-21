@@ -265,7 +265,7 @@
 <LM>w#w-mf920924-138-p2s3w7</LM>
 </w.rf>
 <form>Jicchak</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jicchak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-138-p2s3w8">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-mf920924-138-p2s3w8</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-138-p2s3w9">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-138-p2s5w2">
@@ -424,7 +424,7 @@
 <LM>w#w-mf920924-138-p2s5w3</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-138-p2s5w4">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-mf920924-138-p2s6Bw11</LM>
 </w.rf>
 <form>Asadem</form>
-<tag lemma="Asad_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Asad_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920924-138-p2s6Bw12">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-mf920924-138-p3s1w5</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-138-p3s1w6">
 <src.rf>manual</src.rf>

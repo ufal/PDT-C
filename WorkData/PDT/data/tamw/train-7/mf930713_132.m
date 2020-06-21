@@ -388,7 +388,7 @@
 <LM>w#w-mf930713-132-p2s1w4</LM>
 </w.rf>
 <form>Tomešově</form>
-<tag lemma="Tomešův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Tomešův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf930713-132-p2s1w5">
 <src.rf>manual</src.rf>

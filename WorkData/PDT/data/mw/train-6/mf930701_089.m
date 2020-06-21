@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-089-p1s1w1</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-089-p1s1w2">
 <src.rf>manual</src.rf>
@@ -86,8 +86,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-089-p2s1w4">
@@ -136,7 +136,7 @@
 <LM>w#w-mf930701-089-p2s1w9</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-089-p2s1w10">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf930701-089-p2s2w22</LM>
 </w.rf>
 <form>Vondrovi</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930701-089-p2s2w23">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <form>Bojarovi</form>
 <tag>
 <AM lemma="bojar" src="orig">NNMS3-----A----</AM>
-<AM lemma="Bojar_;S" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Bojar_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-089-p2s2w29">
@@ -1362,7 +1362,7 @@
 <LM>w#w-mf930701-089-p2s6w27</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-089-p2s6w28">
 <src.rf>manual</src.rf>

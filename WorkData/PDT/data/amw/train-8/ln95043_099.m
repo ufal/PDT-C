@@ -20,7 +20,7 @@
 </w.rf>
 <form>Infocentrum</form>
 <tag>
-<AM lemma="Infocentrum-2_;K" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="Infocentrum-2_;m" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="infocentrum-1_" src="manual">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -219,7 +219,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln95043-099-p4s1w22</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-099-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1699,7 +1699,7 @@
 </w.rf>
 <form>Infocentrum</form>
 <tag>
-<AM lemma="Infocentrum-2_;K" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="Infocentrum-2_;m" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="infocentrum-1" src="manual">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -1808,8 +1808,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-099-p5s1w4">
@@ -1866,7 +1866,7 @@
 <LM>w#w-ln95043-099-p5s1w10</LM>
 </w.rf>
 <form>Štouračová</form>
-<tag lemma="Štouračová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Štouračová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-099-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1882,7 +1882,7 @@
 <LM>w#w-ln95043-099-p5s1w12</LM>
 </w.rf>
 <form>Infocentrum</form>
-<tag lemma="Infocentrum-2_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Infocentrum-2_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95043-099-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2578,8 +2578,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-099-p6s1w30">
@@ -2854,7 +2854,7 @@
 <LM>w#w-ln95043-099-p7s1w3</LM>
 </w.rf>
 <form>Infocentrum</form>
-<tag lemma="Infocentrum-2_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Infocentrum-2_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95043-099-p7s1w4">
 <src.rf>manual</src.rf>
@@ -3226,7 +3226,7 @@
 <LM>w#w-ln95043-099-p8s1w6</LM>
 </w.rf>
 <form>Infocentra</form>
-<tag lemma="Infocentrum-2_;K" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="Infocentrum-2_;m" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95043-099-p8s1w7">
 <src.rf>manual</src.rf>
@@ -3470,7 +3470,7 @@
 <LM>w#w-ln95043-099-p9s1w8</LM>
 </w.rf>
 <form>Infocentrum</form>
-<tag lemma="Infocentrum-2_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Infocentrum-2_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95043-099-p9s1w9">
 <src.rf>manual</src.rf>
@@ -3609,7 +3609,7 @@
 </w.rf>
 <form>VÚVEV</form>
 <tag>
-<AM lemma="VÚVEV_:B_;K_^(Výzkumný_ústav_vnějších_ekon._vztahů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚVEV_:B_;m_^(Výzkumný_ústav_vnějších_ekon._vztahů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="VÚVEV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3960,7 +3960,7 @@
 <LM>w#w-ln95043-099-p9s3w11</LM>
 </w.rf>
 <form>Infocentrum</form>
-<tag lemma="Infocentrum-2_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Infocentrum-2_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95043-099-p9s3w12">
 <src.rf>manual</src.rf>
@@ -4170,7 +4170,7 @@
 <LM>w#w-ln95043-099-p10s1w14</LM>
 </w.rf>
 <form>Infocentrum</form>
-<tag lemma="Infocentrum-2_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Infocentrum-2_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95043-099-p10s1w15">
 <src.rf>manual</src.rf>

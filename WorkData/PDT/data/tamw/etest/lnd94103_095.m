@@ -85,7 +85,7 @@
 <LM>w#w-lnd94103-095-p1s1w9</LM>
 </w.rf>
 <form>Simon</form>
-<tag lemma="Simon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Simon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w10">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-lnd94103-095-p1s1w10</LM>
 </w.rf>
 <form>Standage</form>
-<tag lemma="Standage_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Standage_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w11">
 <src.rf>manual</src.rf>
@@ -118,7 +118,7 @@
 </w.rf>
 <form>Collegium</form>
 <tag>
-<AM lemma="Collegium_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Collegium_;m_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNP3-----A---6</AM>
 <AM lemma="kolegium_,a_,x" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNS4-----A----</AM>
@@ -134,7 +134,7 @@
 </w.rf>
 <form>Musicum</form>
 <tag>
-<AM lemma="Musicum_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Musicum_;m_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="musicum_,t" src="manual">AANS1----1A----</AM>
 <AM lemma="Musicum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -162,7 +162,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -221,9 +221,9 @@
 </w.rf>
 <form>Chandos</form>
 <tag>
-<AM lemma="Chandos_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Chandos_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chandos_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Chandos_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Chandos_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chandos_;m" src="manual">NNIS1-----A----</AM>
 <AM lemma="Chandos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -316,7 +316,7 @@
 <LM>w#w-lnd94103-095-p1s1w35</LM>
 </w.rf>
 <form>Norrington</form>
-<tag lemma="Norrington_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Norrington_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w36">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -345,7 +345,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w39">
@@ -364,7 +364,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w41">
@@ -381,7 +381,7 @@
 <LM>w#w-lnd94103-095-p1s1w42</LM>
 </w.rf>
 <form>Mozart</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w43">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 </w.rf>
 <form>EMI</form>
 <tag>
-<AM lemma="EMI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMI_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="EMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -436,7 +436,7 @@
 </w.rf>
 <form>Classics</form>
 <tag>
-<AM lemma="Classics_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Classics_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Classics-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -504,7 +504,7 @@
 <LM>w#w-lnd94103-095-p1s1w56</LM>
 </w.rf>
 <form>Ančerl</form>
-<tag lemma="Ančerl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ančerl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w57">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -579,7 +579,7 @@
 <LM>w#w-lnd94103-095-p1s1w65</LM>
 </w.rf>
 <form>Musorgského</form>
-<tag lemma="Musorgský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Musorgský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w66">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-lnd94103-095-p1s1w67</LM>
 </w.rf>
 <form>Rimského</form>
-<tag lemma="Rimský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rimský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w68">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd94103-095-p1s1w69</LM>
 </w.rf>
 <form>Korsakova</form>
-<tag lemma="Korsakov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Korsakov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w70">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-lnd94103-095-p1s1w71</LM>
 </w.rf>
 <form>Čajkovského</form>
-<tag lemma="Čajkovskij_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čajkovskij_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w72">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-lnd94103-095-p1s1w73</LM>
 </w.rf>
 <form>Supraphon</form>
-<tag lemma="Supraphon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Supraphon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w74">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-lnd94103-095-p1s1w81</LM>
 </w.rf>
 <form>Yatesová</form>
-<tag lemma="Yatesová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Yatesová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w82">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -770,8 +770,8 @@
 </w.rf>
 <form>Chandos</form>
 <tag>
-<AM lemma="Chandos_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Chandos_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chandos_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Chandos_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Chandos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -839,7 +839,7 @@
 <LM>w#w-lnd94103-095-p1s1w96</LM>
 </w.rf>
 <form>Mays</form>
-<tag lemma="Mays_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mays_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w97">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-lnd94103-095-p1s1w100</LM>
 </w.rf>
 <form>Johnett</form>
-<tag lemma="Johnett_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnett_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w101">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-lnd94103-095-p1s1w103</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w104">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -926,7 +926,7 @@
 </w.rf>
 <form>Fictionary</form>
 <tag>
-<AM lemma="Fictionary_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Fictionary_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Fictionary-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -956,7 +956,7 @@
 </w.rf>
 <form>Rec</form>
 <tag>
-<AM lemma="Rec_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Rec_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Rec-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -983,9 +983,9 @@
 </w.rf>
 <form>BMG</form>
 <tag>
-<AM lemma="BMG_:B_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="BMG_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="BMG_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
+<AM lemma="BMG_:B_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="BMG_:B_;m_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="BMG_:B_;m_,t" src="auto">NNIXX-----A---8</AM>
 <AM lemma="BMG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -996,7 +996,7 @@
 </w.rf>
 <form>Ariola</form>
 <tag>
-<AM lemma="Ariola_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ariola_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Ariola-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1104,7 +1104,7 @@
 <LM>w#w-lnd94103-095-p1s1w126</LM>
 </w.rf>
 <form>Tůma</form>
-<tag lemma="Tůma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tůma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w127">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -1164,7 +1164,7 @@
 </w.rf>
 <form>Bohemia</form>
 <tag>
-<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1175,7 +1175,7 @@
 </w.rf>
 <form>Disc</form>
 <tag>
-<AM lemma="Disc_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Disc_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Disc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

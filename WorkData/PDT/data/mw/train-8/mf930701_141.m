@@ -54,8 +54,8 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="r-33" src="auto">Q3-------------</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
@@ -165,7 +165,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

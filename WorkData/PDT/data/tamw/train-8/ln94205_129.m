@@ -478,7 +478,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -531,7 +531,7 @@
 <LM>w#w-ln94205-129-p3s1w11</LM>
 </w.rf>
 <form>Almsicková</form>
-<tag lemma="Almsicková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Almsicková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-129-p3s1w12">
 <src.rf>manual</src.rf>
@@ -911,13 +911,13 @@
 </w.rf>
 <form>FINA</form>
 <tag>
-<AM lemma="FINA_:B_;K_,t_^(Mezinárodní_plavecká_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FINA_:B_;m_,t_^(Mezinárodní_plavecká_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Fin_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Fin_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fina_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fino_;K_^(aperitiv)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Fino_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fino_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Fina_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fino_;m_^(aperitiv)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Fino_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Fino_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="FINA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1313,13 +1313,13 @@
 </w.rf>
 <form>FINA</form>
 <tag>
-<AM lemma="FINA_:B_;K_,t_^(Mezinárodní_plavecká_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FINA_:B_;m_,t_^(Mezinárodní_plavecká_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Fin_;E" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Fin_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fino_;K_^(aperitiv)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Fino_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fino_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Fina_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Fino_;m_^(aperitiv)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Fino_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Fino_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="FINA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1704,7 +1704,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

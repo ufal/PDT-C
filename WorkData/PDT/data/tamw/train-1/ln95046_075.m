@@ -1338,7 +1338,7 @@
 <LM>w#w-ln95046-075-p2s8w8</LM>
 </w.rf>
 <form>Vyklického</form>
-<tag lemma="Vyklický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vyklický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-075-p2s8w9">
 <src.rf>manual</src.rf>

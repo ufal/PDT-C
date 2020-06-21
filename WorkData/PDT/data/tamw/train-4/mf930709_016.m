@@ -86,8 +86,8 @@
 </w.rf>
 <form>jkl</form>
 <tag>
-<AM lemma="jkl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jkl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jkl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jkl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-016-p2s1Aw4">
@@ -268,7 +268,7 @@
 <LM>w#w-mf930709-016-p2s2w9</LM>
 </w.rf>
 <form>Hledík</form>
-<tag lemma="Hledík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hledík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-016-p2s2w10">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-mf930709-016-p4s1w2</LM>
 </w.rf>
 <form>Hledík</form>
-<tag lemma="Hledík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hledík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-016-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <form>Koutů</form>
 <tag>
 <AM lemma="Kouty_;G" src="orig" selected="1">NNIP2-----A----</AM>
-<AM lemma="Kout-1_;S" src="auto">NNMP2-----A----</AM>
+<AM lemma="Kout-1_;Y" src="auto">NNMP2-----A----</AM>
 <AM lemma="Kout_;G" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="kout_^(př._dát_něco_do_kouta)" src="auto">NNIP2-----A----</AM>
 </tag>
@@ -1371,7 +1371,7 @@
 <LM>w#w-mf930709-016-p4s3w8</LM>
 </w.rf>
 <form>Hledíka</form>
-<tag lemma="Hledík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hledík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-016-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1523,7 +1523,7 @@
 <LM>w#w-mf930709-016-p4s4w16</LM>
 </w.rf>
 <form>Hledík</form>
-<tag lemma="Hledík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hledík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-016-p4s4w17">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <LM>w#w-mf930709-016-p5s2w3</LM>
 </w.rf>
 <form>Hledíka</form>
-<tag lemma="Hledík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hledík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-016-p5s2w4">
 <src.rf>manual</src.rf>

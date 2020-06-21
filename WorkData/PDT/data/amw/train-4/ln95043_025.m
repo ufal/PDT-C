@@ -44,7 +44,7 @@
 <LM>w#w-ln95043-025-p1s1w4</LM>
 </w.rf>
 <form>Tombových</form>
-<tag lemma="Tombův_;S_^(*2a)" src="orig" selected="1">AUFP6M---------</tag>
+<tag lemma="Tombův_;Y_^(*2a)" src="orig" selected="1">AUFP6M---------</tag>
 </m>
 <m id="m-ln95043-025-p1s1w5">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-ln95043-025-p2s1Aw9</LM>
 </w.rf>
 <form>Tritscher</form>
-<tag lemma="Tritscher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tritscher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-ln95043-025-p2s1Aw11</LM>
 </w.rf>
 <form>Wachterová</form>
-<tag lemma="Wachterová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Wachterová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95043-025-p2s1B">
@@ -153,7 +153,7 @@
 </w.rf>
 <form>Furano</form>
 <tag>
-<AM lemma="Furano_;S" src="orig">NNNS1-----A----</AM>
+<AM lemma="Furano_;Y" src="orig">NNNS1-----A----</AM>
 <AM lemma="Furano_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -278,7 +278,7 @@
 </w.rf>
 <form>Furanu</form>
 <tag>
-<AM lemma="Furano_;S" src="orig">NNNS6-----A----</AM>
+<AM lemma="Furano_;Y" src="orig">NNNS6-----A----</AM>
 <AM lemma="Furano_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
@@ -556,7 +556,7 @@
 <LM>w#w-ln95043-025-p2s3w6</LM>
 </w.rf>
 <form>Košir</form>
-<tag lemma="Košir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Košir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s3w7">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln95043-025-p2s3w18</LM>
 </w.rf>
 <form>Tomba</form>
-<tag lemma="Tomba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s3w19">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-ln95043-025-p2s4w1</LM>
 </w.rf>
 <form>Košir</form>
-<tag lemma="Košir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Košir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s4w2">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-ln95043-025-p2s4w16</LM>
 </w.rf>
 <form>Tritscher</form>
-<tag lemma="Tritscher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tritscher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s4w17">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-ln95043-025-p2s4w28</LM>
 </w.rf>
 <form>Reiter</form>
-<tag lemma="Reiter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reiter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s4w29">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-ln95043-025-p2s4w31</LM>
 </w.rf>
 <form>Furuseth</form>
-<tag lemma="Furuseth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Furuseth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s4w32">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln95043-025-p2s5Bw1</LM>
 </w.rf>
 <form>Tombovi</form>
-<tag lemma="Tomba_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Tomba_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s5Bw2">
 <src.rf>manual</src.rf>
@@ -1307,7 +1307,7 @@
 <LM>w#w-ln95043-025-p3s1Bw6</LM>
 </w.rf>
 <form>Wachterová</form>
-<tag lemma="Wachterová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Wachterová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -1473,7 +1473,7 @@
 <LM>w#w-ln95043-025-p3s2w9</LM>
 </w.rf>
 <form>Schneiderová</form>
-<tag lemma="Schneiderová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Schneiderová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1513,7 +1513,7 @@
 <LM>w#w-ln95043-025-p3s2w14</LM>
 </w.rf>
 <form>Compagnoniová</form>
-<tag lemma="Compagnoniová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Compagnoniová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-025-p3s2w15">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-ln94210-85-p1s1w6</LM>
 </w.rf>
 <form>Dudajevovi</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94210-85-p1s1w7">
 <src.rf>manual</src.rf>
@@ -544,8 +544,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-85-p1s4w3">
@@ -563,7 +563,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

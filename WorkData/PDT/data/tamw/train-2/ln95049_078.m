@@ -20,7 +20,7 @@
 </w.rf>
 <form>Stones</form>
 <tag>
-<AM lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Stones_;m_,t_^(Rolling_Stones)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Stones-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -110,7 +110,7 @@
 </w.rf>
 <form>Rolling</form>
 <tag>
-<AM lemma="Rolling_;K_,t_^(Rolling_Stones)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Rolling_;m_,t_^(Rolling_Stones)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Rolling-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -121,7 +121,7 @@
 </w.rf>
 <form>Stones</form>
 <tag>
-<AM lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Stones_;m_,t_^(Rolling_Stones)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Stones-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -828,7 +828,7 @@
 <LM>w#w-ln95049-078-p2s6w7</LM>
 </w.rf>
 <form>Nelsona</form>
-<tag lemma="Nelson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nelson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-078-p2s6w8">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-ln95049-078-p2s6w8</LM>
 </w.rf>
 <form>Mandely</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-078-p2s6w9">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-ln95049-078-p2s6w9</LM>
 </w.rf>
 <form>Winnie</form>
-<tag lemma="Winnie_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Winnie_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-078-p2s6w10">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-ln95049-078-p2s6w10</LM>
 </w.rf>
 <form>Mandelová</form>
-<tag lemma="Mandelová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mandelová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-078-p2s6w11">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 </w.rf>
 <form>Rolling</form>
 <tag>
-<AM lemma="Rolling_;K_,t_^(Rolling_Stones)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Rolling_;m_,t_^(Rolling_Stones)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Rolling-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -912,7 +912,7 @@
 </w.rf>
 <form>Stones</form>
 <tag>
-<AM lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Stones_;m_,t_^(Rolling_Stones)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Stones-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

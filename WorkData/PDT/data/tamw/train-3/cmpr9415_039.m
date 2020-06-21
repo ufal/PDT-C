@@ -364,7 +364,7 @@
 <LM>w#w-cmpr9415-039-p6s1w2</LM>
 </w.rf>
 <form>Hábík</form>
-<tag lemma="Hábík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hábík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-039-p8s1">
@@ -528,7 +528,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-039-p8s1w21">
@@ -545,7 +545,7 @@
 <LM>w#w-cmpr9415-039-p8s1w22</LM>
 </w.rf>
 <form>Mellona</form>
-<tag lemma="Mellon_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mellon_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p8s1w23">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 </w.rf>
 <form>ČMC</form>
 <tag>
-<AM lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČMC_:B_;m_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1173,7 +1173,7 @@
 <LM>w#w-cmpr9415-039-p10s1w9</LM>
 </w.rf>
 <form>Lobkowicz</form>
-<tag lemma="Lobkowicz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lobkowicz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w10">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-cmpr9415-039-p10s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w12">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-cmpr9415-039-p10s1w15</LM>
 </w.rf>
 <form>Kratochvíl</form>
-<tag lemma="Kratochvíl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kratochvíl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w16">
 <src.rf>manual</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-cmpr9415-039-p10s1w19</LM>
 </w.rf>
 <form>Bonton</form>
-<tag lemma="Bonton_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bonton_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w20">
 <src.rf>manual</src.rf>
@@ -1279,7 +1279,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w23">
@@ -1296,7 +1296,7 @@
 <LM>w#w-cmpr9415-039-p10s1w24</LM>
 </w.rf>
 <form>Pendergast</form>
-<tag lemma="Pendergast_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pendergast_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w25">
 <src.rf>manual</src.rf>
@@ -1360,7 +1360,7 @@
 <LM>w#w-cmpr9415-039-p10s1w32</LM>
 </w.rf>
 <form>Chodura</form>
-<tag lemma="Chodura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chodura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w33">
 <src.rf>manual</src.rf>
@@ -1392,7 +1392,7 @@
 <LM>w#w-cmpr9415-039-p10s1w36</LM>
 </w.rf>
 <form>Chodura</form>
-<tag lemma="Chodura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chodura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s1w37">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 </w.rf>
 <form>CMC</form>
 <tag>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

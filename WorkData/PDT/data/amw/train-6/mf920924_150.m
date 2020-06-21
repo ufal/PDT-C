@@ -676,7 +676,7 @@
 </w.rf>
 <form>Corriere</form>
 <tag>
-<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Corriere_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="corriere_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -689,7 +689,7 @@
 <form>della</form>
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della_;m_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -700,9 +700,9 @@
 </w.rf>
 <form>Sera</form>
 <tag>
-<AM lemma="Sera-2_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ser_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ser_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Sera-2_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Ser_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP4-----A----</AM>
@@ -1120,7 +1120,7 @@
 <LM>w#w-mf920924-150-p2s5w23</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-150-p2s5w24">
 <src.rf>manual</src.rf>

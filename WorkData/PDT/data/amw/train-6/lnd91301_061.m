@@ -70,7 +70,7 @@
 <LM>w#w-lnd91301-061-p1s1w7</LM>
 </w.rf>
 <form>Dietrichová</form>
-<tag lemma="Dietrichová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dietrichová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-061-p1s1w8">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 </w.rf>
 <form>Arlanda</form>
 <tag>
-<AM lemma="Arland_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Arland_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Arlanda_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

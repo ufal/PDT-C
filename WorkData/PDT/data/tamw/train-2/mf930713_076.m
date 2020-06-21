@@ -56,8 +56,8 @@
 <tag>
 <AM lemma="Pretoria_;G" src="orig">NNFS1-----A----</AM>
 <AM lemma="Pretorie_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="Pretorius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pretorius_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Pretorius_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Pretorius_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Pretoria_;G_,s_^(^DD**Pretorie)" src="manual">NNFS1-----A---1</AM>
 <AM lemma="Pretoria_;G_,s_^(^DD**Pretorie)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
@@ -430,7 +430,7 @@
 <form>Viva</form>
 <tag>
 <AM lemma="viva_,t" src="orig">TT-------------</AM>
-<AM lemma="Viva_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Viva_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Viva-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -449,7 +449,7 @@
 </w.rf>
 <form>ANC</form>
 <tag>
-<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-1_:B_;m_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -591,8 +591,8 @@
 </w.rf>
 <form>Nelsona</form>
 <tag>
-<AM lemma="Nelson_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nelson_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-076-p3s2w21">
@@ -601,7 +601,7 @@
 <LM>w#w-mf930713-076-p3s2w21</LM>
 </w.rf>
 <form>Mandely</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-076-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-mf930713-076-p4s1w40</LM>
 </w.rf>
 <form>Mkhondo</form>
-<tag lemma="Mkhondo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mkhondo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-076-p4s1w41">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-mf930713-076-p5s4w42</LM>
 </w.rf>
 <form>Mkhondo</form>
-<tag lemma="Mkhondo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mkhondo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-076-p5s4w43">
 <src.rf>manual</src.rf>
@@ -2143,7 +2143,7 @@
 <LM>w#w-mf930713-076-p5s7w7</LM>
 </w.rf>
 <form>Mkhondo</form>
-<tag lemma="Mkhondo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mkhondo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-076-p5s7w8">
 <src.rf>manual</src.rf>

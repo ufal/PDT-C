@@ -150,8 +150,8 @@
 </w.rf>
 <form>vet</form>
 <tag>
-<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-48-p2s1Aw4">
@@ -1179,7 +1179,7 @@
 <LM>w#w-ln94204-48-p3s4w33</LM>
 </w.rf>
 <form>Hupač</form>
-<tag lemma="Hupač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hupač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-48-p3s4w34">
 <src.rf>manual</src.rf>
@@ -1749,7 +1749,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-48-p4s5w18">
@@ -1766,7 +1766,7 @@
 <LM>w#w-ln94204-48-p4s5w19</LM>
 </w.rf>
 <form>Hupač</form>
-<tag lemma="Hupač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hupač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-48-p4s5w20">
 <src.rf>manual</src.rf>
@@ -2799,7 +2799,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-48-p5s8w27">
@@ -2816,7 +2816,7 @@
 <LM>w#w-ln94204-48-p5s8w28</LM>
 </w.rf>
 <form>Hupač</form>
-<tag lemma="Hupač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hupač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-48-p5s8w29">
 <src.rf>manual</src.rf>

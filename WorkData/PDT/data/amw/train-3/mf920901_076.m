@@ -70,9 +70,9 @@
 </w.rf>
 <form>sch</form>
 <tag>
-<AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-076-p2s1w5">
@@ -228,9 +228,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-076-p2s2w18">
@@ -359,7 +359,7 @@
 <LM>w#w-mf920901-076-p2s3w10</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-076-p2s3w11">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf920901-076-p2s3w24</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-076-p2s3w25">
 <src.rf>manual</src.rf>

@@ -20,8 +20,8 @@
 </w.rf>
 <form>Enzo</form>
 <tag>
-<AM lemma="Enzo_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Enzo_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Enzo_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Enzo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-095-p2s1w2">
@@ -30,7 +30,7 @@
 <LM>w#w-ln95048-095-p2s1w2</LM>
 </w.rf>
 <form>Scifo</form>
-<tag lemma="Scifo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scifo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-095-p2s1w3">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -307,7 +307,7 @@
 <LM>w#w-ln95048-095-p3s1w9</LM>
 </w.rf>
 <form>Cantonu</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-095-p3s1w10">
 <src.rf>manual</src.rf>

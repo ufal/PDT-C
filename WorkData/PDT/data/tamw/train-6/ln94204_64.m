@@ -85,7 +85,7 @@
 <LM>w#w-ln94204-64-p2s1Aw4</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mot-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-64-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 </w.rf>
 <form>ZD</form>
 <tag>
-<AM lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ZD_:B_;m_^(zemědělské_družstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ZD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

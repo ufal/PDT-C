@@ -240,8 +240,8 @@
 </w.rf>
 <form>Zviad</form>
 <tag>
-<AM lemma="Zviad_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zviad_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zviad_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zviad_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-057-p4s1Bw23">
@@ -250,7 +250,7 @@
 <LM>w#w-lnd91301-057-p4s1Bw23</LM>
 </w.rf>
 <form>Gamsachurdia</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-057-p4s1Bw24">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1021,8 +1021,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-057-p6s1Bw17">
@@ -1177,7 +1177,7 @@
 <LM>w#w-lnd91301-057-p6s2Bw18</LM>
 </w.rf>
 <form>Čanturija</form>
-<tag lemma="Čanturija_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čanturija_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-057-p6s2Bw19">
 <src.rf>manual</src.rf>
@@ -1242,8 +1242,8 @@
 </w.rf>
 <form>Zviada</form>
 <tag>
-<AM lemma="Zviada_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zviad_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Zviada_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zviad_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-057-p6s2Bw27">
@@ -1252,7 +1252,7 @@
 <LM>w#w-lnd91301-057-p6s2Bw27</LM>
 </w.rf>
 <form>Gamsachurdii</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-057-p6s2Bw28">
 <src.rf>manual</src.rf>

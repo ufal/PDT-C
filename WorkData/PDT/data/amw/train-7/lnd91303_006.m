@@ -385,7 +385,7 @@
 <LM>w#w-lnd91303-006-p2s3w5</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p2s3w6">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-lnd91303-006-p2s3w33</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p2s3w34">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-lnd91303-006-p2s4w3</LM>
 </w.rf>
 <form>Senjuka</form>
-<tag lemma="Senjuk_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Senjuk_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p2s4w4">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-lnd91303-006-p2s4w10</LM>
 </w.rf>
 <form>Ransdorfem</form>
-<tag lemma="Ransdorf_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ransdorf_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p2s4w11">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-lnd91303-006-p2s5w5</LM>
 </w.rf>
 <form>Fišery</form>
-<tag lemma="Fišera_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fišera_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p2s5w6">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-lnd91303-006-p2s5w22</LM>
 </w.rf>
 <form>Bartončíkovu</form>
-<tag lemma="Bartončíkův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Bartončíkův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd91303-006-p2s5w23">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-lnd91303-006-p2s5w25</LM>
 </w.rf>
 <form>Bendovu</form>
-<tag lemma="Bendův_;S_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Bendův_;Y_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd91303-006-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 <LM>w#w-lnd91303-006-p3s2w19</LM>
 </w.rf>
 <form>Lamourette</form>
-<tag lemma="Lamourette_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lamourette_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1994,7 +1994,7 @@
 <LM>w#w-lnd91303-006-p4s2w12</LM>
 </w.rf>
 <form>Lamourettovo</form>
-<tag lemma="Lamourettův_;S_^(*2e)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Lamourettův_;Y_^(*2e)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd91303-006-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2296,7 +2296,7 @@
 <LM>w#w-lnd91303-006-p4s5w2</LM>
 </w.rf>
 <form>Lamourette</form>
-<tag lemma="Lamourette_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lamourette_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p4s5w3">
 <src.rf>manual</src.rf>
@@ -2549,8 +2549,8 @@
 </w.rf>
 <form>Empedoklés</form>
 <tag>
-<AM lemma="Empedokles_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Empedoklés_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Empedokles_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Empedoklés_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Empedoklés_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -2771,8 +2771,8 @@
 </w.rf>
 <form>Empedoklés</form>
 <tag>
-<AM lemma="Empedokles_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Empedoklés_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Empedokles_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Empedoklés_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Empedoklés_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3742,7 +3742,7 @@
 <LM>w#w-lnd91303-006-p7s1w30</LM>
 </w.rf>
 <form>Lamourettovo</form>
-<tag lemma="Lamourettův_;S_^(*2e)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Lamourettův_;Y_^(*2e)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd91303-006-p7s1w31">
 <src.rf>manual</src.rf>
@@ -3776,7 +3776,7 @@
 <LM>w#w-lnd91303-006-p8s1w2</LM>
 </w.rf>
 <form>SLEZÁK</form>
-<tag lemma="Slezák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slezák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

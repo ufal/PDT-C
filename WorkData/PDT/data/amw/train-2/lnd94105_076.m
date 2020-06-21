@@ -110,8 +110,8 @@
 </w.rf>
 <form>ge</form>
 <tag>
-<AM lemma="ge-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ge-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ge-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ge-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s2w4">
@@ -1265,8 +1265,8 @@
 <form>Central</form>
 <tag>
 <AM lemma="Central-2_;m_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Central_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Central_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="central_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Central-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1290,7 +1290,7 @@
 <form>Eastern</form>
 <tag>
 <AM lemma="Eastern_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Eastern_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eastern_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="eastern_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Eastern-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1341,8 +1341,8 @@
 <form>Investment</form>
 <tag>
 <AM lemma="Investment_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Investment_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="investment_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1787,10 +1787,10 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="Pro_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pro_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s13w3">
@@ -1985,7 +1985,7 @@
 <LM>w#w-lnd94105-076-p1s14w11</LM>
 </w.rf>
 <form>Ekoagrobanka</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-076-p1s14w12">
 <src.rf>manual</src.rf>
@@ -2042,8 +2042,8 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

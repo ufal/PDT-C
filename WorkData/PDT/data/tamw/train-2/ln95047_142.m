@@ -5458,7 +5458,7 @@
 <LM>w#w-ln95047-142-p11s1w7</LM>
 </w.rf>
 <form>Ekoagrobanka</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-142-p11s1w8">
 <src.rf>manual</src.rf>
@@ -6256,7 +6256,7 @@
 </w.rf>
 <form>Šátkové</form>
 <tag>
-<AM lemma="Šátková_;S" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Šátková_;Y" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="šátkový" src="auto">AAFP1----1A----</AM>
 <AM lemma="šátkový" src="auto">AAFP4----1A----</AM>
 <AM lemma="šátkový" src="auto">AAFP5----1A----</AM>
@@ -7639,7 +7639,7 @@
 <LM>w#w-ln95047-142-p15s1w6</LM>
 </w.rf>
 <form>Agrobanky</form>
-<tag lemma="Agrobanka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Agrobanka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-142-p15s1w7">
 <src.rf>manual</src.rf>
@@ -9156,9 +9156,9 @@
 </w.rf>
 <form>Universal</form>
 <tag>
-<AM lemma="Universal_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Universal_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Universal_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Universal_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Universal_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Universal_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-142-p17s1w11">
@@ -9381,7 +9381,7 @@
 <form>Živnobanky</form>
 <tag>
 <AM lemma="Živnobanka_;Y" src="orig">NNFS2-----A----</AM>
-<AM lemma="Živnobanka_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Živnobanka_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-142-p18s1w9">
@@ -9716,12 +9716,12 @@
 <form>Raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>

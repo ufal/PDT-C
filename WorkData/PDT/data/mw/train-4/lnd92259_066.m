@@ -126,7 +126,7 @@
 <LM>w#w-lnd92259-066-p1s1w14</LM>
 </w.rf>
 <form>Hardyho</form>
-<tag lemma="Hardy_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hardy_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-066-p1s1w15">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 <form>Lloyda</form>
 <tag>
 <AM lemma="Lloyd_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Lloyd_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Lloyd_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-066-p1s1w18">
@@ -237,8 +237,8 @@
 </w.rf>
 <form>Hal</form>
 <tag>
-<AM lemma="Hal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hal_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hal_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hal_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-066-p1s2w5">
@@ -247,7 +247,7 @@
 <LM>w#w-lnd92259-066-p1s2w5</LM>
 </w.rf>
 <form>Roach</form>
-<tag lemma="Roach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-066-p1s2w6">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 </w.rf>
 <form>Hills</form>
 <tag>
-<AM lemma="Hills_;G_,t" src="auto">NNIPX-----A----</AM>
+<AM lemma="Hills_;G_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="Hills-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -379,7 +379,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -398,7 +398,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

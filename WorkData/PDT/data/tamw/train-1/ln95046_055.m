@@ -149,7 +149,7 @@
 <LM>w#w-ln95046-055-p1s1w17</LM>
 </w.rf>
 <form>Šruta</form>
-<tag lemma="Šrut_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šrut_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-055-p1s1w18">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln95046-055-p1s2w2</LM>
 </w.rf>
 <form>Šruta</form>
-<tag lemma="Šrut_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Šrut_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-055-p1s2w3">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <form>Poláka</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-055-p1s4w6">
@@ -761,7 +761,7 @@
 <LM>w#w-ln95046-055-p1s4w11</LM>
 </w.rf>
 <form>Špicnerová</form>
-<tag lemma="Špicnerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Špicnerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-055-p1s4w12">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln95046-055-p1s4w19</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-055-p1s4w20">
 <src.rf>manual</src.rf>

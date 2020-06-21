@@ -55,7 +55,7 @@
 <LM>w#w-lnd94101-105-p1s1Aw5</LM>
 </w.rf>
 <form>Fenič</form>
-<tag lemma="Fenič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fenič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94101-105-p1s1B">

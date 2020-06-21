@@ -161,7 +161,7 @@
 <LM>w#w-lnd92257-083-p3s2w12</LM>
 </w.rf>
 <form>Čermáka</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-083-p3s2w13">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-lnd92257-083-p3s4w5</LM>
 </w.rf>
 <form>Čermák</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-083-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-083-p4s2w27">
@@ -1412,7 +1412,7 @@
 <LM>w#w-lnd92257-083-p4s2w28</LM>
 </w.rf>
 <form>Čermák</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-083-p4s2w29">
 <src.rf>manual</src.rf>
@@ -1493,8 +1493,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-083-p4s2w39">

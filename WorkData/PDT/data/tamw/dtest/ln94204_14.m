@@ -20,7 +20,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -31,7 +31,7 @@
 </w.rf>
 <form>Petroleum</form>
 <tag>
-<AM lemma="Petroleum_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Petroleum_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -119,7 +119,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -130,7 +130,7 @@
 </w.rf>
 <form>Petroleum</form>
 <tag>
-<AM lemma="Petroleum_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Petroleum_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -149,7 +149,7 @@
 </w.rf>
 <form>BP</form>
 <tag>
-<AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BP-1_:B_;m_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -410,7 +410,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Inc_:B_;m_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
@@ -470,7 +470,7 @@
 <LM>w#w-ln94204-14-p3s1w15</LM>
 </w.rf>
 <form>Fleming</form>
-<tag lemma="Fleming_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fleming_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-14-p3s1w16">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 </w.rf>
 <form>Securities</form>
 <tag>
-<AM lemma="Security_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Security_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="security_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="securities_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
@@ -520,7 +520,7 @@
 </w.rf>
 <form>Europe</form>
 <tag>
-<AM lemma="Europe_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Europe_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Europe-1_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Europe-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -544,9 +544,9 @@
 </w.rf>
 <form>Investment</form>
 <tag>
-<AM lemma="Investment_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Investment_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Investment_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="investment_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -558,7 +558,7 @@
 </w.rf>
 <form>Fund</form>
 <tag>
-<AM lemma="Fund_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Fund_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="fund_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Fund-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -683,7 +683,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -771,7 +771,7 @@
 </w.rf>
 <form>BP</form>
 <tag>
-<AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BP-1_:B_;m_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1357,9 +1357,9 @@
 </w.rf>
 <form>Central</form>
 <tag>
-<AM lemma="Central-2_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Central_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Central-2_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Central_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="central_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Central-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1371,7 +1371,7 @@
 </w.rf>
 <form>European</form>
 <tag>
-<AM lemma="European_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="European_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="European_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="European-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1383,7 +1383,7 @@
 </w.rf>
 <form>Business</form>
 <tag>
-<AM lemma="Business_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Business_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="business-2_,t" src="manual">NNXXX-----A----</AM>
@@ -1397,7 +1397,7 @@
 </w.rf>
 <form>Weekly</form>
 <tag>
-<AM lemma="Weekly_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Weekly_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="weekly_,t" src="manual">Db-------------</AM>
 <AM lemma="Weekly-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1494,7 +1494,7 @@
 </w.rf>
 <form>BP</form>
 <tag>
-<AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BP-1_:B_;m_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1907,9 +1907,9 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="am-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="am-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="am-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="am-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-14-p8s2w3">

@@ -1667,7 +1667,7 @@
 <form>SPKK</form>
 <tag>
 <AM lemma="SPKK-98_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SPKK-1_:B_;K_^(Státní_pedagogická_knihovna_Komenského)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SPKK-1_:B_;m_^(Státní_pedagogická_knihovna_Komenského)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SPKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1849,7 +1849,7 @@
 <LM>w#w-cmpr9406-015-p7s1w2</LM>
 </w.rf>
 <form>Martikán</form>
-<tag lemma="Martikán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martikán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-015-p7s1w3">
 <src.rf>manual</src.rf>
@@ -4013,7 +4013,7 @@
 <LM>w#w-cmpr9406-015-p12s1w2</LM>
 </w.rf>
 <form>Bělecký</form>
-<tag lemma="Bělecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bělecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-015-p12s1w3">
 <src.rf>manual</src.rf>
@@ -5571,7 +5571,7 @@
 <LM>w#w-cmpr9406-015-p17s1w2</LM>
 </w.rf>
 <form>Jeníková</form>
-<tag lemma="Jeníková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jeníková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-015-p17s1w3">
 <src.rf>manual</src.rf>
@@ -8213,7 +8213,7 @@
 <LM>w#w-cmpr9406-015-p24s1w2</LM>
 </w.rf>
 <form>Dvořák</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-015-p24s1w3">
 <src.rf>manual</src.rf>

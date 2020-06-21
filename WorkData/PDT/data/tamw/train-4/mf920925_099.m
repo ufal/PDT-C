@@ -64,7 +64,7 @@
 <LM>w#w-mf920925-099-p1s1w6</LM>
 </w.rf>
 <form>GORBAČOVEM</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-099-p1s1w7">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-mf920925-099-p2s2w12</LM>
 </w.rf>
 <form>Gorbačovovy</form>
-<tag lemma="Gorbačovův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Gorbačovův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920925-099-p2s2w13">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-mf920925-099-p2s2w36</LM>
 </w.rf>
 <form>Stalinovi</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920925-099-p2s2w37">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 </w.rf>
 <form>Moskovskaja</form>
 <tag>
-<AM lemma="Moskovskij_;R_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Moskovskij_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="Moskovskaja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -625,7 +625,7 @@
 <LM>w#w-mf920925-099-p3s1w11</LM>
 </w.rf>
 <form>Stalin</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-099-p3s1w12">
 <src.rf>manual</src.rf>

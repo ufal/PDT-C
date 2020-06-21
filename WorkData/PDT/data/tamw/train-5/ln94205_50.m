@@ -27,7 +27,7 @@
 <LM>w#w-ln94205-50-p1s1w2</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p1s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln94205-50-p2s1Aw2</LM>
 </w.rf>
 <form>Müllerová</form>
-<tag lemma="Müllerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Müllerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-50-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -134,8 +134,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -154,7 +154,7 @@
 <LM>w#w-ln94205-50-p2s1Bw2</LM>
 </w.rf>
 <form>Blažková</form>
-<tag lemma="Blažková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blažková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-50-p2s1C">
@@ -204,7 +204,7 @@
 <LM>w#w-ln94205-50-p2s1Cw6</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 </w.rf>
 <form>European</form>
 <tag>
-<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="European_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="European_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="European-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -289,7 +289,7 @@
 </w.rf>
 <form>market</form>
 <tag>
-<AM lemma="market-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="market-2_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="market" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="market" src="auto">NNIS4-----A----</AM>
 <AM lemma="market-2_,t" src="manual">AAXXX----1A----</AM>
@@ -303,7 +303,7 @@
 </w.rf>
 <form>research</form>
 <tag>
-<AM lemma="research-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="research-2_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="research_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="research-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -315,7 +315,7 @@
 </w.rf>
 <form>center</form>
 <tag>
-<AM lemma="center_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="center_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="centrum" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="center_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="center-77" src="manual" selected="1">F%-------------</AM>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94205-50-p3s2w2</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p3s2w3">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 </w.rf>
 <form>EMRC</form>
 <tag>
-<AM lemma="EMRC_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EMRC_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EMRC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -766,7 +766,7 @@
 <LM>w#w-ln94205-50-p3s3w20</LM>
 </w.rf>
 <form>Müllerovou</form>
-<tag lemma="Müllerová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Müllerová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94205-50-p3s3w21">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-ln94205-50-p5s1w3</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <LM>w#w-ln94205-50-p5s4w5</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p5s4w6">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 <LM>w#w-ln94205-50-p7s2w3</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p7s2w4">
 <src.rf>manual</src.rf>
@@ -2082,7 +2082,7 @@
 <LM>w#w-ln94205-50-p9s2w2</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p9s2w3">
 <src.rf>manual</src.rf>
@@ -2443,7 +2443,7 @@
 <LM>w#w-ln94205-50-p11s2w7</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-50-p11s2w8">
 <src.rf>manual</src.rf>

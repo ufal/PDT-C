@@ -101,7 +101,7 @@
 <LM>w#w-ln94210-92-p2s1Aw2</LM>
 </w.rf>
 <form>Pilip</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-92-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 </w.rf>
 <form>Almae</form>
 <tag>
-<AM lemma="alma_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="alma_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Almae-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

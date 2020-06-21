@@ -69,7 +69,7 @@
 <LM>w#w-ln94205-137-p2s1Aw3</LM>
 </w.rf>
 <form>ip</form>
-<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ip-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-137-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -372,8 +372,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-137-p2s3w2">
@@ -446,7 +446,7 @@
 <LM>w#w-ln94205-137-p2s3w10</LM>
 </w.rf>
 <form>Pelant</form>
-<tag lemma="Pelant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-137-p2s3w11">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-137-p3s2w7">
@@ -761,7 +761,7 @@
 <LM>w#w-ln94205-137-p3s2w8</LM>
 </w.rf>
 <form>Pelanta</form>
-<tag lemma="Pelant_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pelant_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-137-p3s2w9">
 <src.rf>manual</src.rf>

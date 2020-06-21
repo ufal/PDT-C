@@ -72,8 +72,8 @@
 </w.rf>
 <form>Pansy</form>
 <tag>
-<AM lemma="Pansy_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Pansy_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pansy_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Pansy_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-15-p2s1Bw4">
@@ -91,14 +91,14 @@
 </w.rf>
 <form>Roli</form>
 <tag>
-<AM lemma="Roli_;K" src="orig">NNNXX-----A----</AM>
+<AM lemma="Roli_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS3-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS4-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS6-----A----</AM>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="auto">NNFS3-----A----</AM>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Roli_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Roli_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-15-p2s1Bw6">
@@ -293,7 +293,7 @@
 <LM>w#w-ln94206-15-p2s2w10</LM>
 </w.rf>
 <form>Cízla</form>
-<tag lemma="Cízl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Cízl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-15-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 <form>Tamp</form>
 <tag>
 <AM lemma="Tampa_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Tamp_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tamp_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-15-p4s1w16">
@@ -1470,7 +1470,7 @@
 <LM>w#w-ln94206-15-p5s2w3</LM>
 </w.rf>
 <form>Luňákové</form>
-<tag lemma="Luňáková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Luňáková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-15-p5s2w4">
 <src.rf>manual</src.rf>

@@ -78,7 +78,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mý-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -180,7 +180,7 @@
 <LM>w#w-mf930701-052-p2s1w16</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-052-p2s1w17">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-mf930701-052-p2s1w23</LM>
 </w.rf>
 <form>Dybovi</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930701-052-p2s1w24">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf930701-052-p2s4w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930701-052-p2s4w11">
 <src.rf>manual</src.rf>

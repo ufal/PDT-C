@@ -236,7 +236,7 @@
 </w.rf>
 <form>FN</form>
 <tag>
-<AM lemma="FN_:B_;K_^(Fakultní_nemocnice)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FN_:B_;m_^(Fakultní_nemocnice)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FN_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

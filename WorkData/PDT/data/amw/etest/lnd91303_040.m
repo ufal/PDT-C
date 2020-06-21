@@ -52,8 +52,8 @@
 </w.rf>
 <form>CYRUSE</form>
 <tag>
-<AM lemma="Cyrus_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Cyrus_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Cyrus_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Cyrus_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-040-p1s1Aw6">
@@ -62,7 +62,7 @@
 <LM>w#w-lnd91303-040-p1s1Aw6</LM>
 </w.rf>
 <form>VANCE</form>
-<tag lemma="Vanc_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vanc_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-040-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1022,7 +1022,7 @@
 <LM>w#w-lnd91303-040-p4s1w26</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd91303-040-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1387,7 +1387,7 @@
 </w.rf>
 <form>AN</form>
 <tag>
-<AM lemma="AN_:B_;R_^(Antonov,_typ_letadla)" src="orig">NNIXX-----A----</AM>
+<AM lemma="AN_:B_;m_^(Antonov,_typ_letadla)" src="orig">NNIXX-----A----</AM>
 <AM lemma="AN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2038,8 +2038,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-040-p5s2w22">
@@ -2049,8 +2049,8 @@
 </w.rf>
 <form>Cyruse</form>
 <tag>
-<AM lemma="Cyrus_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Cyrus_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Cyrus_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Cyrus_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-040-p5s2w23">
@@ -2059,7 +2059,7 @@
 <LM>w#w-lnd91303-040-p5s2w23</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vanc_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vanc_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-040-p5s2w24">
 <src.rf>manual</src.rf>
@@ -2102,9 +2102,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-040-p5s3w5">
@@ -2330,7 +2330,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-040-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2477,7 +2477,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegoviče</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-040-p6s2w3">
 <src.rf>manual</src.rf>

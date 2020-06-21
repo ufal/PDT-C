@@ -78,11 +78,11 @@
 </w.rf>
 <form>li</form>
 <tag>
-<AM lemma="li-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="li-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual">J,-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="li-99_:B_;Y" src="manual">J,-------------</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-022-p2s1Aw4">
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf930709-022-p4s4w4</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-022-p4s4w5">
 <src.rf>manual</src.rf>

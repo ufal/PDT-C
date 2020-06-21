@@ -431,7 +431,7 @@
 <LM>w#w-lnd92257-014-p3s3w15</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p3s3w16">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-lnd92257-014-p4s1w22</LM>
 </w.rf>
 <form>Kalvoda</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p4s1w23">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-lnd92257-014-p4s1w29</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p4s1w30">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -729,7 +729,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -747,7 +747,7 @@
 <LM>w#w-lnd92257-014-p4s1w36</LM>
 </w.rf>
 <form>Mikloško</form>
-<tag lemma="Mikloško_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloško_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p4s1w37">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-014-p4s2w2">
@@ -784,7 +784,7 @@
 <LM>w#w-lnd92257-014-p4s2w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1095,7 +1095,7 @@
 <LM>w#w-lnd92257-014-p4s4w2</LM>
 </w.rf>
 <form>Kalvoda</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-lnd92257-014-p4s7w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p4s7w3">
 <src.rf>manual</src.rf>
@@ -1864,7 +1864,7 @@
 <LM>w#w-lnd92257-014-p5s1w5</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2042,7 +2042,7 @@
 <LM>w#w-lnd92257-014-p5s2w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2234,7 +2234,7 @@
 <LM>w#w-lnd92257-014-p5s2w26</LM>
 </w.rf>
 <form>Mikloško</form>
-<tag lemma="Mikloško_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloško_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-014-p5s2w27">
 <src.rf>manual</src.rf>

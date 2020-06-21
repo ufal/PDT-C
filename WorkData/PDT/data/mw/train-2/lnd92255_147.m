@@ -224,7 +224,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -419,7 +419,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -502,7 +502,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -514,7 +514,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s3w21">
@@ -531,7 +531,7 @@
 <LM>w#w-lnd92255-147-p3s3w22</LM>
 </w.rf>
 <form>Jiroušek</form>
-<tag lemma="Jiroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jiroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-147-p3s3w23">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -870,7 +870,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1124,7 +1124,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s7w17">
@@ -1141,7 +1141,7 @@
 <LM>w#w-lnd92255-147-p3s7w18</LM>
 </w.rf>
 <form>Jirouška</form>
-<tag lemma="Jiroušek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jiroušek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-147-p3s7w19">
 <src.rf>manual</src.rf>
@@ -1370,7 +1370,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-147-p3s8w22">
@@ -1387,7 +1387,7 @@
 <LM>w#w-lnd92255-147-p3s8w23</LM>
 </w.rf>
 <form>Jiroušek</form>
-<tag lemma="Jiroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jiroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-147-p3s8w24">
 <src.rf>manual</src.rf>

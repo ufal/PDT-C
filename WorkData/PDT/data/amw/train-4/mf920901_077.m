@@ -54,8 +54,8 @@
 </w.rf>
 <form>bar</form>
 <tag>
-<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-077-p2s1w4">

@@ -70,8 +70,8 @@
 </w.rf>
 <form>bar</form>
 <tag>
-<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-037-p2s1Aw4">
@@ -278,7 +278,7 @@
 <LM>w#w-mf930713-037-p2s1Bw23</LM>
 </w.rf>
 <form>Heyrovského</form>
-<tag lemma="Heyrovský_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Heyrovský_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-037-p2s1Bw24">
 <src.rf>manual</src.rf>

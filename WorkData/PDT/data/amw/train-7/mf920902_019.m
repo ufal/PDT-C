@@ -70,7 +70,7 @@
 <LM>w#w-mf920902-019-p1s1w7</LM>
 </w.rf>
 <form>SMUTNÉHO</form>
-<tag lemma="Smutný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smutný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-019-p1s1w8">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-mf920902-019-p1s1w15</LM>
 </w.rf>
 <form>ŠKODA</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-019-p1s1w16">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-mf920902-019-p1s1w22</LM>
 </w.rf>
 <form>Tussako</form>
-<tag lemma="Tussako_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Tussako_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920902-019-p1s1w23">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-mf920902-019-p1s1w28</LM>
 </w.rf>
 <form>Tavrija</form>
-<tag lemma="Tavrija_;R_^(značka_automobilu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tavrija_;m_^(značka_automobilu)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-019-p1s1w29">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-mf920902-019-p2s2w5</LM>
 </w.rf>
 <form>tavrija</form>
-<tag lemma="tavrija_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="tavrija_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-019-p2s2w6">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-mf920902-019-p2s4w1</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-019-p2s4w2">
 <src.rf>manual</src.rf>

@@ -464,7 +464,7 @@
 <LM>w#w-ln95045-106-p2s4w7</LM>
 </w.rf>
 <form>Udugova</form>
-<tag lemma="Udugov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Udugov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-106-p2s4w8">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln95045-106-p2s5w2</LM>
 </w.rf>
 <form>Udugova</form>
-<tag lemma="Udugov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Udugov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-106-p2s5w3">
 <src.rf>manual</src.rf>

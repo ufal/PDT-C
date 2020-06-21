@@ -66,7 +66,7 @@
 </w.rf>
 <form>ORF</form>
 <tag>
-<AM lemma="ORF_:B_;K" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ORF_:B_;m" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -87,7 +87,7 @@
 </w.rf>
 <form>ORF</form>
 <tag>
-<AM lemma="ORF_:B_;K" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ORF_:B_;m" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

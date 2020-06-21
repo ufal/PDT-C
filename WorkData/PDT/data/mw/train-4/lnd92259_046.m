@@ -145,7 +145,7 @@
 <LM>w#w-lnd92259-046-p1s1w16</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-046-p1s1w17">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 </w.rf>
 <form>STV</form>
 <tag>
-<AM lemma="STV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

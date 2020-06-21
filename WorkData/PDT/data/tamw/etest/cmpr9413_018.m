@@ -319,7 +319,7 @@
 <LM>w#w-cmpr9413-018-p4s2w11</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p4s2w12">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-cmpr9413-018-p4s3w7</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 </w.rf>
 <form>ventures</form>
 <tag>
-<AM lemma="venture_,t" src="orig">NNXPX-----A----</AM>
+<AM lemma="venture_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="ventures-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1156,7 +1156,7 @@
 <LM>w#w-cmpr9413-018-p6s3w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p6s3w9">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-cmpr9413-018-p6s4w5</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p6s4w6">
 <src.rf>manual</src.rf>

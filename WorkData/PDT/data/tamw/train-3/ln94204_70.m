@@ -86,8 +86,8 @@
 </w.rf>
 <form>jop</form>
 <tag>
-<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-70-p2s1Aw6">
@@ -172,7 +172,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-70-p2s1Bw9">
@@ -190,8 +190,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-70-p2s1Bw11">
@@ -354,7 +354,7 @@
 <LM>w#w-ln94204-70-p2s2w7</LM>
 </w.rf>
 <form>Eiffelovy</form>
-<tag lemma="Eiffelův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Eiffelův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94204-70-p2s2w8">
 <src.rf>manual</src.rf>
@@ -957,8 +957,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-70-p2s5w28">
@@ -1047,7 +1047,7 @@
 <LM>w#w-ln94204-70-p2s5w38</LM>
 </w.rf>
 <form>Hampl</form>
-<tag lemma="Hampl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hampl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-70-p2s5w39">
 <src.rf>manual</src.rf>

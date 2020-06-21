@@ -193,7 +193,7 @@
 <LM>w#w-mf920901-008-p4s1w9</LM>
 </w.rf>
 <form>Vopěnka</form>
-<tag lemma="Vopěnka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vopěnka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-008-p4s1w10">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-mf920901-008-p4s2w5</LM>
 </w.rf>
 <form>Piťha</form>
-<tag lemma="Piťha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piťha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-008-p4s2w6">
 <src.rf>manual</src.rf>
@@ -3441,7 +3441,7 @@
 <LM>w#w-mf920901-008-p9s1w2</LM>
 </w.rf>
 <form>MATĚJOVSKÝ</form>
-<tag lemma="Matějovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matějovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-008-p9s1w3">
 <src.rf>manual</src.rf>
@@ -3472,7 +3472,7 @@
 <LM>w#w-mf920901-008-p10s1w2</LM>
 </w.rf>
 <form>KUČEROVÁ</form>
-<tag lemma="Kučerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kučerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

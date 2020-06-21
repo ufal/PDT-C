@@ -526,7 +526,7 @@
 <form>María</form>
 <tag>
 <AM lemma="María_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="María_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="María_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="María-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -536,7 +536,7 @@
 <LM>w#w-lnd92257-053-p3s4w4</LM>
 </w.rf>
 <form>Delgadová</form>
-<tag lemma="Delgadová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Delgadová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-053-p3s4w5">
 <src.rf>manual</src.rf>

@@ -323,7 +323,7 @@
 <LM>w#w-ln94206-75-p2s3w5</LM>
 </w.rf>
 <form>Interfax</form>
-<tag lemma="Interfax_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interfax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-75-p2s3w6">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-75-p2s5w26">
@@ -736,7 +736,7 @@
 <LM>w#w-ln94206-75-p2s5w27</LM>
 </w.rf>
 <form>Kaurov</form>
-<tag lemma="Kaurov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaurov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-75-p2s5w28">
 <src.rf>manual</src.rf>

@@ -747,7 +747,7 @@
 </w.rf>
 <form>Law</form>
 <tag>
-<AM lemma="Law_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Law_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Law-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -758,7 +758,7 @@
 </w.rf>
 <form>Soziri</form>
 <tag>
-<AM lemma="Soziri_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Soziri_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Soziri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -776,7 +776,7 @@
 <LM>w#w-lnd94101-986-p1s3w34</LM>
 </w.rf>
 <form>Jemidov</form>
-<tag lemma="Jemidov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jemidov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w35">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-lnd94101-986-p1s3w40</LM>
 </w.rf>
 <form>Šarina</form>
-<tag lemma="Šarina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šarina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w41">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-lnd94101-986-p1s3w43</LM>
 </w.rf>
 <form>Santalino</form>
-<tag lemma="Santalino_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Santalino_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w44">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-lnd94101-986-p1s3w45</LM>
 </w.rf>
 <form>Smolík</form>
-<tag lemma="Smolík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smolík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w46">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-lnd94101-986-p1s3w50</LM>
 </w.rf>
 <form>Petrlík</form>
-<tag lemma="Petrlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w51">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-lnd94101-986-p1s7Bw2</LM>
 </w.rf>
 <form>mmz</form>
-<tag lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mmz-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94101-986-p1s7Bw3">
 <src.rf>manual</src.rf>

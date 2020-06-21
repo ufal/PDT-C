@@ -270,8 +270,8 @@
 </w.rf>
 <form>Akbar</form>
 <tag>
-<AM lemma="Akbar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Akbar_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Akbar_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Akbar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-132-p3s1Cw20">
@@ -280,7 +280,7 @@
 <LM>w#w-mf920922-132-p3s1Cw20</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-132-p3s1Cw21">
 <src.rf>manual</src.rf>

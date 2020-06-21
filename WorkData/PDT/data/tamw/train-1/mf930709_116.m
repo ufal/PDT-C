@@ -78,10 +78,10 @@
 </w.rf>
 <form>do</form>
 <tag>
-<AM lemma="do-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-116-p2s1Aw5">
@@ -272,8 +272,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -504,7 +504,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -726,7 +726,7 @@
 <LM>w#w-mf930709-116-p2s4w10</LM>
 </w.rf>
 <form>Bastro</form>
-<tag lemma="Bastro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Bastro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-116-p2s4w11">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-mf930709-116-p2s4w13</LM>
 </w.rf>
 <form>Koramo</form>
-<tag lemma="Koramo_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Koramo_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-116-p2s4w14">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-mf930709-116-p2s4w24</LM>
 </w.rf>
 <form>Transakta</form>
-<tag lemma="Transakta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Transakta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-116-p2s4w25">
 <src.rf>manual</src.rf>

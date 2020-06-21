@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-041-p1s1w1</LM>
 </w.rf>
 <form>Řezníčkův</form>
-<tag lemma="Řezníčkův_;S_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Řezníčkův_;Y_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930701-041-p1s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf930701-041-p2s1w6</LM>
 </w.rf>
 <form>Řezníčka</form>
-<tag lemma="Řezníček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Řezníček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-041-p2s1w7">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf930701-041-p3s1w1</LM>
 </w.rf>
 <form>Řezníček</form>
-<tag lemma="Řezníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Řezníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-041-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-mf930701-041-p3s2w21</LM>
 </w.rf>
 <form>Řezníčka</form>
-<tag lemma="Řezníček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Řezníček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-041-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1663,7 +1663,7 @@
 <LM>w#w-mf930701-041-p4s1w1</LM>
 </w.rf>
 <form>Řezníčkova</form>
-<tag lemma="Řezníčkův_;S_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Řezníčkův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930701-041-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2116,7 +2116,7 @@
 <LM>w#w-mf930701-041-p4s3w4</LM>
 </w.rf>
 <form>Řezníčkův</form>
-<tag lemma="Řezníčkův_;S_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Řezníčkův_;Y_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930701-041-p4s3w5">
 <src.rf>manual</src.rf>

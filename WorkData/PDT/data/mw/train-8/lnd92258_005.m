@@ -28,9 +28,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-005-p1s1w3">
@@ -114,8 +114,8 @@
 </w.rf>
 <form>CNN</form>
 <tag>
-<AM lemma="CNN-1_:B_;K_;b_;y_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_:B_;K_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-005-p1s2w6">
@@ -141,9 +141,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;R" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-005-p1s2w9">
@@ -153,7 +153,7 @@
 </w.rf>
 <form>Today</form>
 <tag>
-<AM lemma="Today_;R_,t" src="orig">Db-------------</AM>
+<AM lemma="Today_;m_,t" src="orig">Db-------------</AM>
 <AM lemma="Today-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -187,7 +187,7 @@
 <LM>w#w-lnd92258-005-p1s2w13</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-005-p1s2w14">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-lnd92258-005-p1s2w24</LM>
 </w.rf>
 <form>Bushovi</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92258-005-p1s2w25">
 <src.rf>manual</src.rf>
@@ -368,8 +368,8 @@
 </w.rf>
 <form>Perotovi</form>
 <tag>
-<AM lemma="Perota_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Perot_;S" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Perota_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-005-p1s2w36">
@@ -421,7 +421,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -440,7 +440,7 @@
 </w.rf>
 <form>EPA</form>
 <tag>
-<AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EPA-1_:B_;m_,t_^(Environmental_Protection_Agency)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

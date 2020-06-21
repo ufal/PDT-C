@@ -149,7 +149,7 @@
 <LM>w#w-ln94208-64-p2s1Bw5</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-64-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -246,8 +246,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p2s1Bw18">
@@ -939,7 +939,7 @@
 <LM>w#w-ln94208-64-p3s2w28</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94208-64-p3s2w29">
 <src.rf>manual</src.rf>
@@ -1141,7 +1141,7 @@
 <LM>w#w-ln94208-64-p4s1w24</LM>
 </w.rf>
 <form>Srbům</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94208-64-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 </w.rf>
 <form>New</form>
 <tag>
-<AM lemma="New-1_;G_;K_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-1_;G_;m_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
 <AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="auto">AAXXX----1A----</AM>
 <AM lemma="new-2_,t_^(angl._nový)" src="auto">AAXXX----1A----</AM>
@@ -1294,8 +1294,8 @@
 </w.rf>
 <form>York</form>
 <tag>
-<AM lemma="York-2_;G_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="York-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="York-2_;G_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="York-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
@@ -1308,7 +1308,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1463,9 +1463,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p4s2w27">
@@ -1646,8 +1646,8 @@
 <form_change>spell</form_change>
 <form>Milošević</form>
 <tag>
-<AM lemma="Miloševič_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Milošević_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Miloševič_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Milošević_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p5s1w5">
@@ -1730,7 +1730,7 @@
 <form>Owen</form>
 <tag>
 <AM lemma="Owen_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Owen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p5s1w15">
@@ -1748,8 +1748,8 @@
 </w.rf>
 <form>Thorvald</form>
 <tag>
-<AM lemma="Thorvald_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Thorvald_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Thorvald_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Thorvald_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p5s1w17">
@@ -1758,7 +1758,7 @@
 <LM>w#w-ln94208-64-p5s1w17</LM>
 </w.rf>
 <form>Stoltenberg</form>
-<tag lemma="Stoltenberg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoltenberg_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-64-p5s1w18">
 <src.rf>manual</src.rf>

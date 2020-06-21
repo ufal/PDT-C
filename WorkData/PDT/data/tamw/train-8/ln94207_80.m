@@ -228,7 +228,7 @@
 </w.rf>
 <form>Karl</form>
 <tag>
-<AM lemma="Karl_;Y_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Karl_;G_;Y" src="orig">AAXXX----1A----</AM>
 <AM lemma="Karl_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Karl-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -248,8 +248,8 @@
 </w.rf>
 <form>Marx</form>
 <tag>
-<AM lemma="Marx_;S_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Marx_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Marx_;G_;Y" src="orig">AAXXX----1A----</AM>
+<AM lemma="Marx_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="marx_^(marx-leninský)" src="auto">A2--------A----</AM>
 <AM lemma="Marx-77" src="manual" selected="1">F%-------------</AM>
 </tag>

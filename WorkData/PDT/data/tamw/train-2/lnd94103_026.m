@@ -131,7 +131,7 @@
 <LM>w#w-lnd94103-026-p1s1w15</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94103-026-p1s1w16">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-lnd94103-026-p1s1w26</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-026-p1s1w27">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-mf920925-037-p1s1Bw1</LM>
 </w.rf>
 <form>MEČIAR</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-037-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 </w.rf>
 <form>mru</form>
 <tag>
-<AM lemma="mru-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mru-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="mřít_,a_,x" src="auto" recommended="1">VB-S---1P-AA---</AM>
 </tag>
 </m>
@@ -163,7 +163,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -361,7 +361,7 @@
 <LM>w#w-mf920925-037-p2s3w7</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-037-p2s3w8">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-mf920925-037-p2s4w1</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-037-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-mf920925-037-p3s2w28</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-037-p3s2w29">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-mf920925-037-p5s1w1</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-037-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-mf920925-037-p5s2w5</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-037-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-mf920925-037-p5s2w17</LM>
 </w.rf>
 <form>Streiblem</form>
-<tag lemma="Streibl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Streibl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-037-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2132,7 +2132,7 @@
 <LM>w#w-mf920925-037-p5s4w9</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-037-p5s4w10">
 <src.rf>manual</src.rf>

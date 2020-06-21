@@ -63,7 +63,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p2s1w3">
@@ -80,7 +80,7 @@
 <LM>w#w-ln94206-6-p2s1w4</LM>
 </w.rf>
 <form>Drucker</form>
-<tag lemma="Drucker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drucker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-6-p2s1w5">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 </w.rf>
 <form>Management</form>
 <tag>
-<AM lemma="Management_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Management_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto">NNIS4-----A----</AM>
 <AM lemma="management__,t" src="manual">NNXXX-----A----</AM>
@@ -186,7 +186,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -666,7 +666,7 @@
 <LM>w#w-ln94206-6-p2s4w1</LM>
 </w.rf>
 <form>Drucker</form>
-<tag lemma="Drucker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drucker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-6-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-ln94206-6-p2s9w10</LM>
 </w.rf>
 <form>Druckera</form>
-<tag lemma="Drucker_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Drucker_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-6-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1626,10 +1626,10 @@
 </w.rf>
 <form>Casse</form>
 <tag>
-<AM lemma="Casse_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Cass_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cass_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Cass_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Casse_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cass_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cass_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Cass_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p3s1w3">
@@ -1753,7 +1753,7 @@
 </w.rf>
 <form>Management</form>
 <tag>
-<AM lemma="Management_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Management_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto">NNIS4-----A----</AM>
 <AM lemma="management_,t" src="manual">AAXXX----1A----</AM>
@@ -1767,7 +1767,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3143,7 +3143,7 @@
 <LM>w#w-ln94206-6-p4s1w2</LM>
 </w.rf>
 <form>Horovitz</form>
-<tag lemma="Horovitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horovitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-6-p4s1w3">
 <src.rf>manual</src.rf>
@@ -3226,7 +3226,7 @@
 </w.rf>
 <form>Management</form>
 <tag>
-<AM lemma="Management_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Management_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto">NNIS4-----A----</AM>
 <AM lemma="management_,t" src="manual">AAXXX----1A----</AM>
@@ -3240,7 +3240,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3735,7 +3735,7 @@
 </w.rf>
 <form>Club</form>
 <tag>
-<AM lemma="Club_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Club_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="klub" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="klub" src="auto">NNIS4-----A----</AM>
 <AM lemma="Club-77" src="manual" selected="1">F%-------------</AM>
@@ -3748,7 +3748,7 @@
 </w.rf>
 <form>Mediterranée</form>
 <tag>
-<AM lemma="Mediterranée_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mediterranée_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mediterranée-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

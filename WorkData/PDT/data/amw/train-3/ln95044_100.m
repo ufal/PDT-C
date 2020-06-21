@@ -354,7 +354,7 @@
 </w.rf>
 <form>Kačenky</form>
 <tag>
-<AM lemma="Kačenka_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kačenka_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="kačenka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="kačenka" src="auto">NNFP4-----A----</AM>
 <AM lemma="kačenka" src="auto">NNFP5-----A----</AM>
@@ -376,7 +376,7 @@
 </w.rf>
 <form>ČMUS</form>
 <tag>
-<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS_:B_;m_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -426,7 +426,7 @@
 <LM>w#w-ln95044-100-p3s1w15</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-100-p3s1w16">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-ln95044-100-p3s4w1</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-100-p3s4w2">
 <src.rf>manual</src.rf>
@@ -2015,7 +2015,7 @@
 <LM>w#w-ln95044-100-p5s1w2</LM>
 </w.rf>
 <form>Kačenkův</form>
-<tag lemma="Kačenkův_;S_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Kačenkův_;Y_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95044-100-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2151,7 +2151,7 @@
 <LM>w#w-ln95044-100-p5s1w19</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-100-p5s1w20">
 <src.rf>manual</src.rf>
@@ -2505,7 +2505,7 @@
 <LM>w#w-ln95044-100-p5s2w21</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-100-p5s2w22">
 <src.rf>manual</src.rf>

@@ -28,7 +28,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -65,11 +65,11 @@
 </w.rf>
 <form>pin</form>
 <tag>
-<AM lemma="pin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pin-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pin-1_^(špendlík,_v_čes._větách,_skloň.)" src="auto">NNIS1-----A----</AM>
 <AM lemma="pin-1_^(špendlík,_v_čes._větách,_skloň.)" src="auto">NNIS4-----A----</AM>
 <AM lemma="pin-2_,t_^(špendlík,_angl._neskl.)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="pin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pin-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-140-p2s1Aw4">
@@ -164,7 +164,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -304,7 +304,7 @@
 <LM>w#w-ln94203-140-p2s2w13</LM>
 </w.rf>
 <form>Inpro</form>
-<tag lemma="Inpro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Inpro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-140-p2s2w14">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -374,7 +374,7 @@
 <LM>w#w-ln94203-140-p2s2w21</LM>
 </w.rf>
 <form>Maroušek</form>
-<tag lemma="Maroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-140-p2s2w22">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-140-p3s2w11">
@@ -587,7 +587,7 @@
 <LM>w#w-ln94203-140-p3s2w12</LM>
 </w.rf>
 <form>Maroušek</form>
-<tag lemma="Maroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-140-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-140-p4s2w2">
@@ -1108,7 +1108,7 @@
 <LM>w#w-ln94203-140-p4s2w3</LM>
 </w.rf>
 <form>Maroušek</form>
-<tag lemma="Maroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-140-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln94203-140-p4s2w13</LM>
 </w.rf>
 <form>Havelka</form>
-<tag lemma="Havelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havelka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-140-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1269,7 +1269,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1344,7 +1344,7 @@
 </w.rf>
 <form>AEG</form>
 <tag>
-<AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AEG_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="AEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1487,7 +1487,7 @@
 <LM>w#w-ln94203-140-p5s2w16</LM>
 </w.rf>
 <form>Maroušek</form>
-<tag lemma="Maroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-140-p5s2w17">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1871,7 +1871,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

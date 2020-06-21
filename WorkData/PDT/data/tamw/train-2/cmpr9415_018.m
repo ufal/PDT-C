@@ -2933,7 +2933,7 @@
 <LM>w#w-cmpr9415-018-p13s1w2</LM>
 </w.rf>
 <form>Medková</form>
-<tag lemma="Medková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Medková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-018-p13s1w3">
 <src.rf>manual</src.rf>

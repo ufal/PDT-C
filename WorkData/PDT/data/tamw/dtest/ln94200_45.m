@@ -146,7 +146,7 @@
 <LM>w#w-ln94200-45-p2s1Bw2</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="Hrabě_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrabě_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-45-p2s1C">
@@ -538,7 +538,7 @@
 </w.rf>
 <form>SERVUS</form>
 <tag>
-<AM lemma="Servus_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Servus_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="servus" src="auto">NNMS1-----A----</AM>
 <AM lemma="servus_,h_,s" src="auto" recommended="1">II-------------</AM>
 </tag>
@@ -996,7 +996,7 @@
 <LM>w#w-ln94200-45-p3s3w14</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-45-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 </w.rf>
 <form>SERVUS</form>
 <tag>
-<AM lemma="Servus_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Servus_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="servus" src="auto">NNMS1-----A----</AM>
 <AM lemma="servus_,h_,s" src="auto" recommended="1">II-------------</AM>
 </tag>
@@ -1553,7 +1553,7 @@
 <LM>w#w-ln94200-45-p4s3w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94200-45-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1653,7 +1653,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-45-p4s4w10">
@@ -1670,7 +1670,7 @@
 <LM>w#w-ln94200-45-p4s4w11</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-45-p4s4w12">
 <src.rf>manual</src.rf>
@@ -2334,7 +2334,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-45-p6s1w2">
@@ -2351,7 +2351,7 @@
 <LM>w#w-ln94200-45-p6s1w3</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-45-p6s1w4">
 <src.rf>manual</src.rf>
@@ -3332,7 +3332,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-45-p7s2w2">
@@ -3349,7 +3349,7 @@
 <LM>w#w-ln94200-45-p7s2w3</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-45-p7s2w4">
 <src.rf>manual</src.rf>
@@ -3491,7 +3491,7 @@
 </w.rf>
 <form>SERVUS</form>
 <tag>
-<AM lemma="Servus_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Servus_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="servus" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="servus_,h_,s" src="auto">II-------------</AM>
 </tag>
@@ -3877,7 +3877,7 @@
 </w.rf>
 <form>SERVUS</form>
 <tag>
-<AM lemma="Servus_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Servus_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="servus" src="auto">NNMS1-----A----</AM>
 <AM lemma="servus_,h_,s" src="auto" recommended="1">II-------------</AM>
 </tag>
@@ -4519,7 +4519,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-45-p8s4w16">
@@ -4536,7 +4536,7 @@
 <LM>w#w-ln94200-45-p8s4w17</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-45-p8s4w18">
 <src.rf>manual</src.rf>

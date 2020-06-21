@@ -316,7 +316,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -327,7 +327,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -600,7 +600,7 @@
 <LM>w#w-ln95045-008-p3s3w6</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-008-p3s3w7">
 <src.rf>manual</src.rf>
@@ -619,9 +619,9 @@
 <form>pesos</form>
 <tag>
 <AM lemma="pesos" src="orig">NNNXX-----A----</AM>
-<AM lemma="peso_,x" src="auto" recommended="1">NNIPX-----A---1</AM>
-<AM lemma="pesos_,s_^(^DD**peso)" src="manual">NNIPX-----A---1</AM>
-<AM lemma="pesos_,s_^(^DD**peso)" src="manual" selected="1">NNIPX-----A----</AM>
+<AM lemma="peso_,x" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="pesos_,s_^(^DD**peso)" src="manual">NNIXX-----A---1</AM>
+<AM lemma="pesos_,s_^(^DD**peso)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-008-p3s3w9">
@@ -673,8 +673,8 @@
 <form>pesos</form>
 <tag>
 <AM lemma="pesos" src="orig">NNNXX-----A----</AM>
-<AM lemma="peso_,x" src="auto" recommended="1">NNIPX-----A---1</AM>
-<AM lemma="pesos_,s_^(^DD**peso)" src="manual" selected="1">NNIPX-----A----</AM>
+<AM lemma="peso_,x" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="pesos_,s_^(^DD**peso)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-008-p3s3w15">

@@ -232,7 +232,7 @@
 <LM>w#w-lnd92253-019-p1s2w14</LM>
 </w.rf>
 <form>Buchta</form>
-<tag lemma="Buchta_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchta_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-019-p1s2w15">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -837,7 +837,7 @@
 <LM>w#w-lnd92253-019-p4s1w11</LM>
 </w.rf>
 <form>Oriosa</form>
-<tag lemma="Oriosa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Oriosa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-019-p4s1w12">
 <src.rf>manual</src.rf>
@@ -928,8 +928,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -941,7 +941,7 @@
 </w.rf>
 <form>Watch</form>
 <tag>
-<AM lemma="Watch-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Watch-2_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Watch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -952,7 +952,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -975,8 +975,8 @@
 <form>Schaffhausen</form>
 <tag>
 <AM lemma="Schaffhausen_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Schaffhausen_;G_;K" src="manual">NNIS1-----A----</AM>
-<AM lemma="Schaffhausen_;G_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Schaffhausen_;G_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Schaffhausen_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s3w2">
@@ -995,8 +995,8 @@
 <form>Eterna</form>
 <tag>
 <AM lemma="Eterna_;Y_,t" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eterna-2_;K" src="manual">NNFS1-----A----</AM>
-<AM lemma="Eterna-2_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Eterna-2_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Eterna-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s3w4">
@@ -1021,7 +1021,7 @@
 <LM>w#w-lnd92253-019-p4s3w6</LM>
 </w.rf>
 <form>Weil</form>
-<tag lemma="Weil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Weil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-019-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1038,9 +1038,9 @@
 </w.rf>
 <form>Oriosa</form>
 <tag>
-<AM lemma="Oriosa_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Oriosa_;K-;R" src="manual">NNFS1-----A----</AM>
-<AM lemma="Oriosa_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Oriosa_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Oriosa_;m-;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="Oriosa_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s3w9">
@@ -1058,8 +1058,8 @@
 </w.rf>
 <form>Tissot</form>
 <tag>
-<AM lemma="Tissot_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tissot-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tissot_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tissot-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-019-p4s3w11">
@@ -1076,7 +1076,7 @@
 <LM>w#w-lnd92253-019-p4s3w12</LM>
 </w.rf>
 <form>Omega</form>
-<tag lemma="Omega_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Omega_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-019-p4s3w13">
 <src.rf>manual</src.rf>

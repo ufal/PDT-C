@@ -205,7 +205,7 @@
 <LM>w#w-lnd94103-091-p1s1Bw14</LM>
 </w.rf>
 <form>Lehára</form>
-<tag lemma="Lehár_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lehár_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s1Bw15">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-lnd94103-091-p1s1Bw15</LM>
 </w.rf>
 <form>Paganini</form>
-<tag lemma="Paganini_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paganini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s1Bw16">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 </w.rf>
 <form>Oto</form>
 <tag>
-<AM lemma="Oto_;Y" src="orig" selected="1">NNMSX-----A----</AM>
+<AM lemma="Oto_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Ota_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Oto_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Oto_;Y" src="auto">NNMS5-----A----</AM>
@@ -250,7 +250,7 @@
 <LM>w#w-lnd94103-091-p1s1Bw19</LM>
 </w.rf>
 <form>Ševčíka</form>
-<tag lemma="Ševčík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ševčík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s1Bw20">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-lnd94103-091-p1s1Bw25</LM>
 </w.rf>
 <form>Formáčka</form>
-<tag lemma="Formáček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Formáček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s1Bw26">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-lnd94103-091-p1s3w7</LM>
 </w.rf>
 <form>Cihlář</form>
-<tag lemma="Cihlář_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cihlář_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w8">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-lnd94103-091-p1s3w10</LM>
 </w.rf>
 <form>Pavlátová</form>
-<tag lemma="Pavlátová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pavlátová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w11">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-lnd94103-091-p1s3w11</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w12">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-lnd94103-091-p1s3w12</LM>
 </w.rf>
 <form>Rittstein</form>
-<tag lemma="Rittstein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rittstein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w13">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-lnd94103-091-p1s3w15</LM>
 </w.rf>
 <form>Rovenský</form>
-<tag lemma="Rovenský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rovenský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w16">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 </w.rf>
 <form>Joska</form>
 <tag>
-<AM lemma="Joska_;y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Joska" src="orig">NNMS1-----A----</AM>
 <AM lemma="Joska_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -654,7 +654,7 @@
 <form>Skalník</form>
 <tag>
 <AM lemma="skalník" src="orig">NNMS1-----A----</AM>
-<AM lemma="Skalník_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Skalník_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-091-p1s3w19">
@@ -936,7 +936,7 @@
 </w.rf>
 <form>ex</form>
 <tag>
-<AM lemma="ex-2_;R_,t_^(lat.,_advokát_ex_offo)" src="orig">RR--X----------</AM>
+<AM lemma="ex-2_;m_,t_^(lat.,_advokát_ex_offo)" src="orig">RR--X----------</AM>
 <AM lemma="ex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1143,7 +1143,7 @@
 <LM>w#w-lnd94103-091-p1s8w11</LM>
 </w.rf>
 <form>Šimurda</form>
-<tag lemma="Šimurda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimurda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s8w12">
 <src.rf>manual</src.rf>

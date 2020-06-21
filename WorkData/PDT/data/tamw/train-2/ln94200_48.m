@@ -175,7 +175,7 @@
 <LM>w#w-ln94200-48-p2s1Bw16</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-48-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-48-p4s2w16">
@@ -1349,7 +1349,7 @@
 <LM>w#w-ln94200-48-p4s2w17</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-48-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1375,7 +1375,7 @@
 <form>hm</form>
 <tag>
 <AM lemma="hm" src="orig">II-------------</AM>
-<AM lemma="hm-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hm-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-48-p4s2w21">

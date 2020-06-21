@@ -157,7 +157,7 @@
 <LM>w#w-ln94202-139-p2s1Bw2</LM>
 </w.rf>
 <form>Polišenský</form>
-<tag lemma="Polišenský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polišenský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-139-p2s1C">
@@ -1070,8 +1070,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-139-p4s2w8">
@@ -2053,8 +2053,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-139-p6s1w23">
@@ -2185,7 +2185,7 @@
 <LM>w#w-ln94202-139-p7s1w4</LM>
 </w.rf>
 <form>Duba</form>
-<tag lemma="Dub-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dub-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-139-p7s1w5">
 <src.rf>manual</src.rf>
@@ -2332,8 +2332,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-139-p7s1w22">
@@ -2755,7 +2755,7 @@
 <LM>w#w-ln94202-139-p7s2w45</LM>
 </w.rf>
 <form>Dub</form>
-<tag lemma="Dub-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dub-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-139-p7s2w46">
 <src.rf>manual</src.rf>
@@ -2960,7 +2960,7 @@
 <LM>w#w-ln94202-139-p7s3w3</LM>
 </w.rf>
 <form>Duba</form>
-<tag lemma="Dub-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dub-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-139-p7s3w4">
 <src.rf>manual</src.rf>
@@ -2985,8 +2985,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-139-p7s3w7">
@@ -3192,8 +3192,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-139-p7s5w3">
@@ -3308,7 +3308,7 @@
 <LM>w#w-ln94202-139-p7s6w3</LM>
 </w.rf>
 <form>Dub</form>
-<tag lemma="Dub-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dub-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-139-p7s6w4">
 <src.rf>manual</src.rf>
@@ -3764,7 +3764,7 @@
 <LM>w#w-ln94202-139-p7s8w16</LM>
 </w.rf>
 <form>Dub</form>
-<tag lemma="Dub-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dub-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-139-p7s8w17">
 <src.rf>manual</src.rf>

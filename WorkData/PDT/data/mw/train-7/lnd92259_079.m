@@ -35,7 +35,7 @@
 <LM>w#w-lnd92259-079-p1s1w3</LM>
 </w.rf>
 <form>STRATILA</form>
-<tag lemma="Stratil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stratil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-079-p1s1w4">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-lnd92259-079-p3s1w11</LM>
 </w.rf>
 <form>STRATILA</form>
-<tag lemma="Stratil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stratil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-079-p3s1w12">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-lnd92259-079-p3s1w15</LM>
 </w.rf>
 <form>Béhémot</form>
-<tag lemma="Béhémot_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Béhémot_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-079-p3s1w16">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-lnd92259-079-p3s3w6</LM>
 </w.rf>
 <form>Špálově</form>
-<tag lemma="Špálův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Špálův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92259-079-p3s3w7">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-lnd92259-079-p3s3w15</LM>
 </w.rf>
 <form>Mauglím</form>
-<tag lemma="Mauglí_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mauglí_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-079-p3s3w16">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-lnd92259-079-p4s1w18</LM>
 </w.rf>
 <form>Stratil</form>
-<tag lemma="Stratil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stratil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-079-p4s1w19">
 <src.rf>manual</src.rf>
@@ -2025,7 +2025,7 @@
 <LM>w#w-lnd92259-079-p5s1w6</LM>
 </w.rf>
 <form>Stratil</form>
-<tag lemma="Stratil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stratil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-079-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2203,7 +2203,7 @@
 <LM>w#w-lnd92259-079-p6s1w1</LM>
 </w.rf>
 <form>Stratilova</form>
-<tag lemma="Stratilův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Stratilův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92259-079-p6s1w2">
 <src.rf>manual</src.rf>
@@ -3246,7 +3246,7 @@
 <LM>w#w-lnd92259-079-p7s1w2</LM>
 </w.rf>
 <form>BOHÁČOVÁ</form>
-<tag lemma="Boháčová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Boháčová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92259-079-p8s1">
@@ -3272,7 +3272,7 @@
 <LM>w#w-lnd92259-079-p8s1w3</LM>
 </w.rf>
 <form>Sodoma</form>
-<tag lemma="Sodoma-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sodoma-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

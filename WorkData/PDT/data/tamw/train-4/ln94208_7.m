@@ -60,12 +60,12 @@
 </w.rf>
 <form>Renaultu</form>
 <tag>
-<AM lemma="Renault-2_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Renault-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
+<AM lemma="Renault_;m" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="Renault_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Renault_;K_;R" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-7-p1s1w7">
@@ -74,7 +74,7 @@
 <LM>w#w-ln94208-7-p1s1w7</LM>
 </w.rf>
 <form>Espace</form>
-<tag lemma="Espace_;R_^(automobil_Renault_Espace)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Espace_;m_^(automobil_Renault_Espace)" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94208-7-p1s1w8">
 <src.rf>manual</src.rf>

@@ -28,9 +28,9 @@
 </w.rf>
 <form>Coca</form>
 <tag>
-<AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
-<AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -49,13 +49,13 @@
 </w.rf>
 <form>Cola</form>
 <tag>
-<AM lemma="Col_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Col_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cola_;R" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP4-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Cola_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
 <AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -100,10 +100,10 @@
 </w.rf>
 <form>Coke</form>
 <tag>
-<AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Coke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -210,10 +210,10 @@
 </w.rf>
 <form>Coke</form>
 <tag>
-<AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Coke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -394,9 +394,9 @@
 </w.rf>
 <form>Coca</form>
 <tag>
-<AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
-<AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -415,13 +415,13 @@
 </w.rf>
 <form>Cola</form>
 <tag>
-<AM lemma="Col_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Col_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cola_;R" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP4-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Cola_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
 <AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -535,7 +535,7 @@
 <form>Charlotte</form>
 <tag>
 <AM lemma="Charlotte_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Charlotte-2_;G_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Charlotte-2_;G_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s1W26-Ta">
@@ -547,8 +547,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -763,8 +763,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -817,8 +817,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -980,10 +980,10 @@
 </w.rf>
 <form>Coke</form>
 <tag>
-<AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s3W21-Ta">
@@ -1090,8 +1090,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -1141,9 +1141,9 @@
 </w.rf>
 <form>Coca</form>
 <tag>
-<AM lemma="Coca_;R" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="coca" src="auto">A2--------A----</AM>
-<AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="Coca-77" src="manual">F%-------------</AM>
 <AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
@@ -1163,13 +1163,13 @@
 </w.rf>
 <form>Cola</form>
 <tag>
-<AM lemma="Col_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Col_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cola_;R" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP1-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP4-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNP5-----A----</AM>
-<AM lemma="Colo_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Col_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Cola_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Colo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="cola" src="auto">NNFS1-----A----</AM>
 <AM lemma="Cola-77" src="manual">F%-------------</AM>
 <AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
@@ -1211,8 +1211,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -1236,7 +1236,7 @@
 <form>Classic</form>
 <tag>
 <AM lemma="Classic" src="auto">X@-------------</AM>
-<AM lemma="Classic_;G_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Classic_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s4W21-Ta">
@@ -1394,8 +1394,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -1503,9 +1503,9 @@
 </w.rf>
 <form>Coke</form>
 <tag>
-<AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Coke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Coke-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1551,9 +1551,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -1653,8 +1653,8 @@
 </w.rf>
 <form>Meyersová</form>
 <tag>
-<AM lemma="Meyersová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Meyersová_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Meyersová_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Meyersová_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s6W19-Ta">
@@ -1779,10 +1779,10 @@
 </w.rf>
 <form>Coke</form>
 <tag>
-<AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s7W4-Ta">
@@ -1852,7 +1852,7 @@
 <form>Classic</form>
 <tag>
 <AM lemma="Classic" src="auto">X@-------------</AM>
-<AM lemma="Classic_;G_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Classic_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s7W9-Ta">
@@ -2049,8 +2049,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -2121,8 +2121,8 @@
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
-<AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="i-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="i-33" src="auto">Q3-------------</AM>
+<AM lemma="i-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s8W15-Ta">
@@ -2248,10 +2248,10 @@
 </w.rf>
 <form>Coke</form>
 <tag>
-<AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s9W8-Ta">
@@ -2291,9 +2291,9 @@
 </w.rf>
 <form>Pepsi</form>
 <tag>
-<AM lemma="Pepsi_;R" src="auto">AAXXX----1A----</AM>
-<AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Pepsi-2_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pepsi_;m" src="auto">AAXXX----1A----</AM>
+<AM lemma="pepsi_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Pepsi-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pepsi-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -2306,8 +2306,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -2350,8 +2350,8 @@
 <form>u</form>
 <tag>
 <AM lemma="u-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="u-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="u-33" src="auto">Q3-------------</AM>
+<AM lemma="u-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s9W16-Ta">
@@ -2455,9 +2455,9 @@
 </w.rf>
 <form>Pepsi</form>
 <tag>
-<AM lemma="Pepsi_;R" src="auto">AAXXX----1A----</AM>
-<AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Pepsi-2_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pepsi_;m" src="auto">AAXXX----1A----</AM>
+<AM lemma="pepsi_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Pepsi-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pepsi-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -2470,8 +2470,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -2563,10 +2563,10 @@
 </w.rf>
 <form>Coke</form>
 <tag>
-<AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s10W3-Ta">
@@ -2578,8 +2578,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -2754,12 +2754,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
@@ -2991,10 +2991,10 @@
 </w.rf>
 <form>Coke</form>
 <tag>
-<AM lemma="Coke_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Coke_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Coke-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coke_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coke_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Coke-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s12W8-Ta">
@@ -3088,7 +3088,7 @@
 <form>Classic</form>
 <tag>
 <AM lemma="Classic" src="auto">X@-------------</AM>
-<AM lemma="Classic_;G_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Classic_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s12W15-Ta">

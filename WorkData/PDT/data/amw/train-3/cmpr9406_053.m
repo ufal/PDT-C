@@ -370,7 +370,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p5s1w2">
@@ -388,8 +388,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p5s1w4">
@@ -537,7 +537,7 @@
 </w.rf>
 <form>OSŘ</form>
 <tag>
-<AM lemma="OSŘ-1_:B_;R_^(Občanský_soudní_řád)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OSŘ-1_:B_;m_^(Občanský_soudní_řád)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OSŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1189,7 +1189,7 @@
 </w.rf>
 <form>OSŘ</form>
 <tag>
-<AM lemma="OSŘ-1_:B_;R_^(Občanský_soudní_řád)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OSŘ-1_:B_;m_^(Občanský_soudní_řád)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OSŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1969,7 +1969,7 @@
 </w.rf>
 <form>OSŘ</form>
 <tag>
-<AM lemma="OSŘ-1_:B_;R_^(Občanský_soudní_řád)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="OSŘ-1_:B_;m_^(Občanský_soudní_řád)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="OSŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2233,7 +2233,7 @@
 <LM>w#w-cmpr9406-053-p11s2w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-053-p11s2w5">
 <src.rf>manual</src.rf>
@@ -2417,7 +2417,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p12s1w2">
@@ -2435,8 +2435,8 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p12s1w4">
@@ -3085,7 +3085,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p16s1w2">
@@ -3103,8 +3103,8 @@
 </w.rf>
 <form>R</form>
 <tag>
-<AM lemma="R-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p16s1w4">
@@ -4010,7 +4010,7 @@
 </w.rf>
 <form>neschopnosti</form>
 <tag>
-<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
+<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
 <AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -4316,7 +4316,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p20s1w2">
@@ -4334,8 +4334,8 @@
 </w.rf>
 <form>Ž</form>
 <tag>
-<AM lemma="Ž-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ž-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ž-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Ž-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p20s1w4">
@@ -4616,7 +4616,7 @@
 </w.rf>
 <form>OSŘ</form>
 <tag>
-<AM lemma="OSŘ-1_:B_;R_^(Občanský_soudní_řád)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OSŘ-1_:B_;m_^(Občanský_soudní_řád)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OSŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6810,7 +6810,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p27s1w2">
@@ -6828,8 +6828,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p27s1w4">
@@ -6881,7 +6881,7 @@
 </w.rf>
 <form>OSŘ</form>
 <tag>
-<AM lemma="OSŘ-1_:B_;R_^(Občanský_soudní_řád)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OSŘ-1_:B_;m_^(Občanský_soudní_řád)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OSŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7579,7 +7579,7 @@
 <LM>w#w-cmpr9406-053-p29s1w5</LM>
 </w.rf>
 <form>Hábíková</form>
-<tag lemma="Hábíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hábíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-053-p29s1w6">
 <src.rf>manual</src.rf>

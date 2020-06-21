@@ -19,7 +19,7 @@
 <LM>w#w-ln94205-56-p1s1w1</LM>
 </w.rf>
 <form>Čermín</form>
-<tag lemma="Čermín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-56-p1s1w2">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94205-56-p2s1Aw3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mrk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-56-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -490,9 +490,9 @@
 </w.rf>
 <form>ČSBS</form>
 <tag>
-<AM lemma="ČSBS-1_:B_;K_^(Český_svaz_bojovníků_za_svobodu)" src="orig">NNIXX-----A----</AM>
-<AM lemma="ČSBS-1_:B_;K_^(Český_svaz_bojovníkůža_svobodu)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČSBS-2_:B_;K_^(Českosl._botanická_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ČSBS-1_:B_;m_^(Český_svaz_bojovníků_za_svobodu)" src="orig">NNIXX-----A----</AM>
+<AM lemma="ČSBS-1_:B_;m_^(Český_svaz_bojovníkůža_svobodu)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ČSBS-2_:B_;m_^(Českosl._botanická_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ČSBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -518,7 +518,7 @@
 <LM>w#w-ln94205-56-p2s2w14</LM>
 </w.rf>
 <form>Čermín</form>
-<tag lemma="Čermín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-56-p2s2w15">
 <src.rf>manual</src.rf>
@@ -1131,8 +1131,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-56-p4s1w4">
@@ -1245,7 +1245,7 @@
 <LM>w#w-ln94205-56-p4s1w17</LM>
 </w.rf>
 <form>Čermín</form>
-<tag lemma="Čermín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-56-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1442,9 +1442,9 @@
 </w.rf>
 <form>ČSBS</form>
 <tag>
-<AM lemma="ČSBS-1_:B_;K_^(Český_svaz_bojovníků_za_svobodu)" src="orig">NNIXX-----A----</AM>
-<AM lemma="ČSBS-1_:B_;K_^(Český_svaz_bojovníkůža_svobodu)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="ČSBS-2_:B_;K_^(Českosl._botanická_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ČSBS-1_:B_;m_^(Český_svaz_bojovníků_za_svobodu)" src="orig">NNIXX-----A----</AM>
+<AM lemma="ČSBS-1_:B_;m_^(Český_svaz_bojovníkůža_svobodu)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ČSBS-2_:B_;m_^(Českosl._botanická_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ČSBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

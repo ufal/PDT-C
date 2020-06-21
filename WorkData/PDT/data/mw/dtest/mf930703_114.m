@@ -77,7 +77,7 @@
 <LM>w#w-mf930703-114-p2s1w4</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ria-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930703-114-p2s1w5">
 <src.rf>manual</src.rf>
@@ -246,8 +246,8 @@
 </w.rf>
 <form>Frölich</form>
 <tag>
-<AM lemma="Frölich_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Frölich_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Frölich_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Frölich_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Frölich-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -435,7 +435,7 @@
 <LM>w#w-mf930703-114-p2s2w10</LM>
 </w.rf>
 <form>Gauweiler</form>
-<tag lemma="Gauweiler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gauweiler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-114-p2s2w11">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf930703-114-p2s2w17</LM>
 </w.rf>
 <form>Bendou</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930703-114-p2s2w18">
 <src.rf>manual</src.rf>

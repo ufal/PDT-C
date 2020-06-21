@@ -33,7 +33,7 @@
 <LM>w#w-ln94207-102-p1s1Aw2</LM>
 </w.rf>
 <form>Bollesová</form>
-<tag lemma="Bollesová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bollesová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-102-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -57,7 +57,7 @@
 <LM>w#w-ln94207-102-p1s1Aw5</LM>
 </w.rf>
 <form>Wilson</form>
-<tag lemma="Wilson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wilson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-102-p1s1Aw6">
 <src.rf>manual</src.rf>

@@ -198,7 +198,7 @@
 </w.rf>
 <form>BMW</form>
 <tag>
-<AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto">NNNXX-----A----</AM>
+<AM lemma="BMW_:B_;m_^(vozidlo)" src="auto">NNNXX-----A----</AM>
 <AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -249,8 +249,8 @@
 </w.rf>
 <form>i</form>
 <tag>
-<AM lemma="i-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="i-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="i-33" src="orig">Q3-------------</AM>
+<AM lemma="i-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-12-p1s2w20">
@@ -430,18 +430,18 @@
 </w.rf>
 <form>Porsche</form>
 <tag>
-<AM lemma="Porsche-1_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS2-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="auto" selected="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS1-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS2-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-12-p1s3w14">
@@ -648,9 +648,9 @@
 </w.rf>
 <form>Maserati</form>
 <tag>
-<AM lemma="Maserati_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Maserati_;R" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Maserati_;R_^(značka_automobilu)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="Maserati_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Maserati_;m" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Maserati_;m_^(značka_automobilu)" src="auto" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-12-p1s4w12">
@@ -667,7 +667,7 @@
 <LM>w#w-ln94202-12-p1s4w13</LM>
 </w.rf>
 <form>Lotus</form>
-<tag lemma="Lotus_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lotus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-12-p1s4w14">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-ln94202-12-p1s5w4</LM>
 </w.rf>
 <form>Moskvič</form>
-<tag lemma="Moskvič_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Moskvič_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-12-p1s5w5">
 <src.rf>manual</src.rf>

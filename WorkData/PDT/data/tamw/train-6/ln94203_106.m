@@ -19,7 +19,7 @@
 <LM>w#w-ln94203-106-p1s1w1</LM>
 </w.rf>
 <form>Lemieux</form>
-<tag lemma="Lemieux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lemieux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-106-p1s1w2">
 <src.rf>manual</src.rf>
@@ -106,7 +106,7 @@
 <LM>w#w-ln94203-106-p2s1Bw7</LM>
 </w.rf>
 <form>Lemieux</form>
-<tag lemma="Lemieux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lemieux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-106-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 </w.rf>
 <form>Penguins</form>
 <tag>
-<AM lemma="Penguins_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Penguins_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Penguins-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -392,7 +392,7 @@
 <LM>w#w-ln94203-106-p2s3w1</LM>
 </w.rf>
 <form>Lemieux</form>
-<tag lemma="Lemieux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lemieux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-106-p2s3w2">
 <src.rf>manual</src.rf>

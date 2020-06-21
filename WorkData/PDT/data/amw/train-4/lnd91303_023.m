@@ -314,7 +314,7 @@
 <LM>w#w-lnd91303-023-p2s2w13</LM>
 </w.rf>
 <form>Kural</form>
-<tag lemma="Kural_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kural_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-023-p2s2w14">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <form>Nový</form>
 <tag>
 <AM lemma="nový" src="orig">AAMS1----1A----</AM>
-<AM lemma="Nový_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nový_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-023-p2s2w17">
@@ -367,7 +367,7 @@
 <form>Nový</form>
 <tag>
 <AM lemma="nový" src="orig">AAMS1----1A----</AM>
-<AM lemma="Nový_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nový_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-023-p2s2w20">
@@ -392,7 +392,7 @@
 <LM>w#w-lnd91303-023-p2s2w22</LM>
 </w.rf>
 <form>Prečan</form>
-<tag lemma="Prečan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prečan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-023-p2s2w23">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <form>Sládek</form>
 <tag>
 <AM lemma="sládek" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sládek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sládek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-023-p2s2w26">
@@ -494,7 +494,7 @@
 <LM>w#w-lnd91303-023-p2s2w34</LM>
 </w.rf>
 <form>Homolka</form>
-<tag lemma="Homolka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Homolka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-023-p2s2w35">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-lnd91303-023-p2s2w37</LM>
 </w.rf>
 <form>Kropáček</form>
-<tag lemma="Kropáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kropáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-023-p2s2w38">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-lnd91303-023-p2s2w40</LM>
 </w.rf>
 <form>Masaryková</form>
-<tag lemma="Masaryková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Masaryková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-023-p2s2w41">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <form>Zemina</form>
 <tag>
 <AM lemma="zemina" src="orig">NNFS1-----A----</AM>
-<AM lemma="Zemina_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zemina_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-023-p2s2w44">
@@ -1223,8 +1223,8 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-023-p3s4w16">
@@ -1452,8 +1452,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-023-p3s5w15">
@@ -1756,7 +1756,7 @@
 <LM>w#w-lnd91303-023-p4s1w2</LM>
 </w.rf>
 <form>HANZAL</form>
-<tag lemma="Hanzal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hanzal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

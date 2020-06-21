@@ -410,7 +410,7 @@
 <LM>w#w-lnd91303-007-p4s3w7</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-007-p4s3w8">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-lnd91303-007-p4s5w1</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-007-p4s5w2">
 <src.rf>manual</src.rf>

@@ -91,7 +91,7 @@
 <LM>w#w-lnd92251-104-p1s1w10</LM>
 </w.rf>
 <form>Schalke</form>
-<tag lemma="Schalke_;K" src="auto" selected="1">NNISX-----A----</tag>
+<tag lemma="Schalke_;m" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd92251-104-p1s1w11">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-lnd92251-104-p1s1w22</LM>
 </w.rf>
 <form>Wattenscheid</form>
-<tag lemma="Wattenscheid_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wattenscheid_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-104-p1s1w23">
 <src.rf>manual</src.rf>

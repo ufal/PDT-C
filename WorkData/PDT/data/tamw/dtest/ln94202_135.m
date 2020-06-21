@@ -512,7 +512,7 @@
 <LM>w#w-ln94202-135-p2s2w7</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-135-p2s2w8">
 <src.rf>manual</src.rf>

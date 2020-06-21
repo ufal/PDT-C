@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-026-p1s1w1</LM>
 </w.rf>
 <form>Beckenbauer</form>
-<tag lemma="Beckenbauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beckenbauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-026-p1s1w2">
 <src.rf>manual</src.rf>
@@ -60,7 +60,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -114,7 +114,7 @@
 <LM>w#w-ln95045-026-p2s1Bw3</LM>
 </w.rf>
 <form>Beckenbauer</form>
-<tag lemma="Beckenbauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beckenbauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-026-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 <LM>w#w-ln95045-026-p2s3w14</LM>
 </w.rf>
 <form>Havelange</form>
-<tag lemma="Havelange_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havelange_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-026-p2s3w15">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 </w.rf>
 <form>SID</form>
 <tag>
-<AM lemma="SID_:B_;K_^(agentura)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SID_:B_;m_^(agentura)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Sido_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="SID_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SID-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -427,7 +427,7 @@
 <LM>w#w-ln95045-026-p2s3w29</LM>
 </w.rf>
 <form>Beckenbauer</form>
-<tag lemma="Beckenbauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beckenbauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-026-p2s3w30">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -544,7 +544,7 @@
 <LM>w#w-ln95045-026-p2s4w3</LM>
 </w.rf>
 <form>Beckenbauera</form>
-<tag lemma="Beckenbauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beckenbauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-026-p2s4w4">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-ln95045-026-p2s4w25</LM>
 </w.rf>
 <form>Havelange</form>
-<tag lemma="Havelange_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havelange_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-026-p2s4w26">
 <src.rf>manual</src.rf>

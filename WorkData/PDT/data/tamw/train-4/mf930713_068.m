@@ -90,9 +90,9 @@
 </w.rf>
 <form>han</form>
 <tag>
-<AM lemma="han-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="han-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hana_^(pohana)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="han-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="han-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-068-p2s1Aw4">
@@ -110,8 +110,8 @@
 </w.rf>
 <form>dj</form>
 <tag>
-<AM lemma="dj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-068-p2s1Aw6">
@@ -402,7 +402,7 @@
 <LM>w#w-mf930713-068-p2s2w7</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-068-p2s2w8">
 <src.rf>manual</src.rf>

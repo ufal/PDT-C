@@ -61,7 +61,7 @@
 <LM>w#w-ln94209-59-p2s1Aw2</LM>
 </w.rf>
 <form>Vondráček</form>
-<tag lemma="Vondráček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondráček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-59-p2s1B">
@@ -1692,9 +1692,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94209-59-p4s1w33">
@@ -2240,7 +2240,7 @@
 <LM>w#w-ln94209-59-p5s3w4</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94209-59-p5s3w5">
 <src.rf>manual</src.rf>
@@ -2736,7 +2736,7 @@
 <LM>w#w-ln94209-59-p6s1w4</LM>
 </w.rf>
 <form>Čermína</form>
-<tag lemma="Čermín_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čermín_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-59-p6s1w5">
 <src.rf>manual</src.rf>
@@ -3066,7 +3066,7 @@
 <LM>w#w-ln94209-59-p7s1w21</LM>
 </w.rf>
 <form>Brandt</form>
-<tag lemma="Brandt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brandt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-59-p7s1w22">
 <src.rf>manual</src.rf>
@@ -3178,7 +3178,7 @@
 <LM>w#w-ln94209-59-p7s1w35</LM>
 </w.rf>
 <form>Pandořinu</form>
-<tag lemma="Pandořin-1_;S_^(*5ra-1)" src="auto" selected="1">AUFS4F---------</tag>
+<tag lemma="Pandořin-1_;Y_^(*5ra-1)" src="auto" selected="1">AUFS4F---------</tag>
 </m>
 <m id="m-ln94209-59-p7s1w36">
 <src.rf>manual</src.rf>
@@ -3432,7 +3432,7 @@
 <LM>w#w-ln94209-59-p7s4w1</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94209-59-p7s4w2">
 <src.rf>manual</src.rf>
@@ -4073,7 +4073,7 @@
 <LM>w#w-ln94209-59-p9s2w9</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94209-59-p9s2w10">
 <src.rf>manual</src.rf>
@@ -4601,7 +4601,7 @@
 <LM>w#w-ln94209-59-p9s6w5</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-59-p9s6w6">
 <src.rf>manual</src.rf>
@@ -5206,7 +5206,7 @@
 <LM>w#w-ln94209-59-p10s4w10</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94209-59-p10s4w11">
 <src.rf>manual</src.rf>
@@ -5426,7 +5426,7 @@
 <LM>w#w-ln94209-59-p10s6w7</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94209-59-p10s6w8">
 <src.rf>manual</src.rf>
@@ -6548,7 +6548,7 @@
 <LM>w#w-ln94209-59-p12s7w5</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94209-59-p12s7w6">
 <src.rf>manual</src.rf>
@@ -7042,7 +7042,7 @@
 <LM>w#w-ln94209-59-p12s11w12</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94209-59-p12s11w13">
 <src.rf>manual</src.rf>

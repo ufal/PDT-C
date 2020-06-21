@@ -182,7 +182,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -200,7 +200,7 @@
 <LM>w#w-ln95045-053-p2s1w18</LM>
 </w.rf>
 <form>Vogelovi</form>
-<tag lemma="Vogel_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Vogel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95045-053-p2s1w19">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-ln95045-053-p3s1w4</LM>
 </w.rf>
 <form>Honeckerův</form>
-<tag lemma="Honeckerův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Honeckerův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln95045-053-p3s1w5">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-ln95045-053-p3s1w6</LM>
 </w.rf>
 <form>Vogel</form>
-<tag lemma="Vogel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vogel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-053-p3s1w7">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -985,7 +985,7 @@
 <LM>w#w-ln95045-053-p3s4w7</LM>
 </w.rf>
 <form>Vogela</form>
-<tag lemma="Vogel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vogel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-053-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1061,9 +1061,9 @@
 </w.rf>
 <form>Stasi</form>
 <tag>
-<AM lemma="Stasi_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Stasi_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Stasi_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Stasi_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Stasi-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1089,7 +1089,7 @@
 <LM>w#w-ln95045-053-p3s4w19</LM>
 </w.rf>
 <form>Niebling</form>
-<tag lemma="Niebling_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Niebling_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-053-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-ln95045-053-p4s2w1</LM>
 </w.rf>
 <form>Vogelovým</form>
-<tag lemma="Vogelův_;S_^(*2)" src="orig" selected="1">AUMS7M---------</tag>
+<tag lemma="Vogelův_;Y_^(*2)" src="orig" selected="1">AUMS7M---------</tag>
 </m>
 <m id="m-ln95045-053-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-ln95045-053-p4s2w5</LM>
 </w.rf>
 <form>Ziegler</form>
-<tag lemma="Ziegler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ziegler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-053-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-ln95045-053-p4s2w13</LM>
 </w.rf>
 <form>Honeckera</form>
-<tag lemma="Honecker_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Honecker_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-053-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-ln95045-053-p5s1w5</LM>
 </w.rf>
 <form>Vogel</form>
-<tag lemma="Vogel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vogel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-053-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1965,7 +1965,7 @@
 <LM>w#w-ln95045-053-p5s4w2</LM>
 </w.rf>
 <form>Vogelova</form>
-<tag lemma="Vogelův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Vogelův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95045-053-p5s4w3">
 <src.rf>manual</src.rf>
@@ -2022,7 +2022,7 @@
 <LM>w#w-ln95045-053-p5s4w9</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95045-053-p5s4w10">
 <src.rf>manual</src.rf>

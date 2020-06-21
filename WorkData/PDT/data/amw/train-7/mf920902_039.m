@@ -93,7 +93,7 @@
 <LM>w#w-mf920902-039-p1s1Bw7</LM>
 </w.rf>
 <form>ŠTEINDLER</form>
-<tag lemma="Šteindler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šteindler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-039-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf920902-039-p2s2w39</LM>
 </w.rf>
 <form>Mozart</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-039-p2s2w40">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-mf920902-039-p2s2w44</LM>
 </w.rf>
 <form>Chytilové</form>
-<tag lemma="Chytilová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Chytilová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-039-p2s2w45">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-mf920902-039-p2s3w10</LM>
 </w.rf>
 <form>McDonalda</form>
-<tag lemma="McDonald_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="McDonald_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-039-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-mf920902-039-p2s4Aw11</LM>
 </w.rf>
 <form>camelku</form>
-<tag lemma="camelka_;R_,h" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="camelka_;m_,h" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-039-p2s4Aw12">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-mf920902-039-p2s4Bw12</LM>
 </w.rf>
 <form>Pavlowské</form>
-<tag lemma="Pavlowská_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Pavlowská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-039-p2s4Bw13">
 <src.rf>manual</src.rf>
@@ -3522,9 +3522,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-039-p2s20Aw20">
@@ -4319,7 +4319,7 @@
 <LM>w#w-mf920902-039-p2s24Aw29</LM>
 </w.rf>
 <form>Chýlkové</form>
-<tag lemma="Chýlková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Chýlková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-039-p2s24Aw30">
 <src.rf>manual</src.rf>
@@ -4343,7 +4343,7 @@
 <LM>w#w-mf920902-039-p2s24Aw32</LM>
 </w.rf>
 <form>Polívky</form>
-<tag lemma="Polívka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Polívka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-039-p2s24Aw33">
 <src.rf>manual</src.rf>
@@ -5280,7 +5280,7 @@
 <LM>w#w-mf920902-039-p2s34w14</LM>
 </w.rf>
 <form>OPEL</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-039-p2s34w15">
 <src.rf>manual</src.rf>
@@ -5668,7 +5668,7 @@
 <LM>w#w-mf920902-039-p3s1w2</LM>
 </w.rf>
 <form>SPÁČILOVÁ</form>
-<tag lemma="Spáčilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Spáčilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920902-039-p4s1">

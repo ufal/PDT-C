@@ -131,8 +131,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-030-p2s1Bw4">
@@ -167,7 +167,7 @@
 <LM>w#w-ln95049-030-p2s1Cw2</LM>
 </w.rf>
 <form>Dukly</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-030-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-ln95049-030-p2s6w25</LM>
 </w.rf>
 <form>Teplý</form>
-<tag lemma="Teplý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Teplý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-030-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-ln95049-030-p3s3w15</LM>
 </w.rf>
 <form>Pommer</form>
-<tag lemma="Pommer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pommer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-030-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1417,7 +1417,7 @@
 <LM>w#w-ln95049-030-p3s4w6</LM>
 </w.rf>
 <form>Černouška</form>
-<tag lemma="Černoušek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Černoušek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-030-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1434,7 +1434,7 @@
 </w.rf>
 <form>Blížila</form>
 <tag>
-<AM lemma="Blížil_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Blížil_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="blížit" src="auto" recommended="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -1452,7 +1452,7 @@
 <LM>w#w-ln95049-030-p3s4w10</LM>
 </w.rf>
 <form>Jeslínka</form>
-<tag lemma="Jeslínek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jeslínek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-030-p3s4w11">
 <src.rf>manual</src.rf>
@@ -2151,7 +2151,7 @@
 <LM>w#w-ln95049-030-p3s8w18</LM>
 </w.rf>
 <form>Lenert</form>
-<tag lemma="Lenert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lenert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-030-p3s8w19">
 <src.rf>manual</src.rf>

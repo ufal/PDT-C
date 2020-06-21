@@ -113,7 +113,7 @@
 <LM>w#w-lnd92252-034-p3s2w4</LM>
 </w.rf>
 <form>Akihita</form>
-<tag lemma="Akihito_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Akihito_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-034-p3s2w5">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-lnd92252-034-p3s2w25</LM>
 </w.rf>
 <form>Jang</form>
-<tag lemma="Jang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-034-p3s2w26">
 <src.rf>manual</src.rf>
@@ -293,8 +293,8 @@
 </w.rf>
 <form>Šang</form>
 <tag>
-<AM lemma="Šang_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šang_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Šang_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šang_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-034-p3s2w27">
@@ -507,7 +507,7 @@
 <LM>w#w-lnd92252-034-p3s3w5</LM>
 </w.rf>
 <form>Jangových</form>
-<tag lemma="Jangův_;S_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Jangův_;Y_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-lnd92252-034-p3s3w6">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-lnd92252-034-p3s4w2</LM>
 </w.rf>
 <form>Akihito</form>
-<tag lemma="Akihito_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Akihito_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-034-p3s4w3">
 <src.rf>manual</src.rf>

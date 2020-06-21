@@ -36,8 +36,8 @@
 </w.rf>
 <form>Husajn</form>
 <tag>
-<AM lemma="Husajn_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Husajn_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Husajn_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Husajn_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-90-p1s1w4">
@@ -336,7 +336,7 @@
 <LM>w#w-ln94204-90-p1s2w27</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94204-90-p1s2w28">
 <src.rf>manual</src.rf>
@@ -440,8 +440,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

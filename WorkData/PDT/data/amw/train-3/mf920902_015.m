@@ -704,7 +704,7 @@
 <LM>w#w-mf920902-015-p3s3w9</LM>
 </w.rf>
 <form>Lexa</form>
-<tag lemma="Lexa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lexa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-015-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-mf920902-015-p3s6w8</LM>
 </w.rf>
 <form>Dukly</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-015-p3s6w9">
 <src.rf>manual</src.rf>
@@ -1153,7 +1153,7 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1538,7 +1538,7 @@
 <LM>w#w-mf920902-015-p3s9w18</LM>
 </w.rf>
 <form>Šimek</form>
-<tag lemma="Šimek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-015-p3s9w19">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-mf920902-015-p3s9w20</LM>
 </w.rf>
 <form>Hilgert</form>
-<tag lemma="Hilgert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hilgert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-015-p3s9w21">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 <LM>w#w-mf920902-015-p3s9w22</LM>
 </w.rf>
 <form>Přimdiš</form>
-<tag lemma="Přimdiš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přimdiš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-015-p3s9w23">
 <src.rf>manual</src.rf>
@@ -2523,7 +2523,7 @@
 <LM>w#w-mf920902-015-p3s17w18</LM>
 </w.rf>
 <form>Lexu</form>
-<tag lemma="Lexa_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lexa_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-015-p3s17w19">
 <src.rf>manual</src.rf>

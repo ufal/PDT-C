@@ -483,7 +483,7 @@
 <LM>w#w-cmpr9415-043-p5s1w2</LM>
 </w.rf>
 <form>Seifert</form>
-<tag lemma="Seifert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seifert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-043-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2555,7 +2555,7 @@
 <LM>w#w-cmpr9415-043-p9s1w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9415-043-p9s1w13">
 <src.rf>manual</src.rf>
@@ -3140,7 +3140,7 @@
 <LM>w#w-cmpr9415-043-p10s2w6</LM>
 </w.rf>
 <form>Solarmax</form>
-<tag lemma="Solarmax_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Solarmax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-043-p10s2w7">
 <src.rf>manual</src.rf>
@@ -3149,7 +3149,7 @@
 </w.rf>
 <form>SDI</form>
 <tag>
-<AM lemma="SDI-98_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SDI-98_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SDI-1_:B_,t_^(Strategic_Defense_Initiative)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SDI-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SDI-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -3162,7 +3162,7 @@
 </w.rf>
 <form>SMC</form>
 <tag>
-<AM lemma="SMC-98_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SMC-98_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SMC-1_:B_^(státní_maloobchodní_cena)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SMC-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SMC-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -3183,8 +3183,8 @@
 </w.rf>
 <form>AX</form>
 <tag>
-<AM lemma="AX-98_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Axa_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="AX-98_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Axa_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="AX_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3516,16 +3516,16 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NASA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NASA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NASA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Naso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Naso_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Naso_;G" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Naso_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Naso_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Naso_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Naso_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="NASA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NASA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NASA_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-043-p12s2w14">
@@ -3615,9 +3615,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-043-p12s2w25">
@@ -4174,7 +4174,7 @@
 <LM>w#w-cmpr9415-043-p14s1w2</LM>
 </w.rf>
 <form>Pučálka</form>
-<tag lemma="Pučálka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pučálka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-043-p15s1">
@@ -4200,7 +4200,7 @@
 <LM>w#w-cmpr9415-043-p15s1w3</LM>
 </w.rf>
 <form>Malkovského</form>
-<tag lemma="Malkovský_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Malkovský_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-043-p15s1w4">
 <src.rf>manual</src.rf>

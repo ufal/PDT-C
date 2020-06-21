@@ -72,7 +72,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -91,7 +91,7 @@
 </w.rf>
 <form>Dyn</form>
 <tag>
-<AM lemma="Dynamo_:B_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Dynamo_:B_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="dyn" src="auto">NNIS1-----A----</AM>
 <AM lemma="dyn" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Dyn-77" src="manual" selected="1">F%-------------</AM>
@@ -170,7 +170,7 @@
 <LM>w#w-lnd91301-104-p4s1w15</LM>
 </w.rf>
 <form>Düsseldorfer</form>
-<tag lemma="Düsseldorfer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Düsseldorfer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-104-p4s1w16">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 </w.rf>
 <form>SC</form>
 <tag>
-<AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SC-1_:B_;m_,t_^(Sport_Club)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd91301-104-p7s1w3</LM>
 </w.rf>
 <form>Inter</form>
-<tag lemma="Inter_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Inter_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91301-104-p7s1w4">
 <src.rf>manual</src.rf>
@@ -349,13 +349,13 @@
 </w.rf>
 <form>Flavii</form>
 <tag>
-<AM lemma="Flavia_;K" src="orig">NNFS3-----A----</AM>
+<AM lemma="Flavia_;m" src="orig">NNFS3-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Flavius_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Flavius_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Flavia_;K" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Flavius_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Flavius_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Flavia_;m" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-104-p7s1w6">
@@ -365,7 +365,7 @@
 </w.rf>
 <form>Solva</form>
 <tag>
-<AM lemma="Solva_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Solva_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Solva-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -448,9 +448,9 @@
 </w.rf>
 <form>Gradjanski</form>
 <tag>
-<AM lemma="Gradjanski_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Gradjanský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Gradjanský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Gradjanski_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Gradjanský_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Gradjanský_;Y" src="auto">NNMS5-----A---1</AM>
 <AM lemma="Gradjanski-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -486,7 +486,7 @@
 <LM>w#w-lnd91301-104-p8s1w2</LM>
 </w.rf>
 <form>Hrubesch</form>
-<tag lemma="Hrubesch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrubesch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-104-p8s1w3">
 <src.rf>manual</src.rf>
@@ -554,8 +554,8 @@
 </w.rf>
 <form>SV</form>
 <tag>
-<AM lemma="SV_;K_^(sport._klub)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="SV_:B_;K_^(sport._klub)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SV_;m_^(sport._klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SV_:B_;m_^(sport._klub)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="svazek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="SV-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -600,7 +600,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

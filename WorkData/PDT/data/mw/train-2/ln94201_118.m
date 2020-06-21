@@ -888,7 +888,7 @@
 <LM>w#w-ln94201-118-p3s1w24</LM>
 </w.rf>
 <form>Strausse</form>
-<tag lemma="Strauss_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Strauss_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-118-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1046,8 +1046,8 @@
 </w.rf>
 <form>Deutschlandfunk</form>
 <tag>
-<AM lemma="Deutschlandfunk_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Deutschlandfunk_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Deutschlandfunk_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Deutschlandfunk_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-118-p3s2w15">
@@ -1772,7 +1772,7 @@
 <LM>w#w-ln94201-118-p4s4w2</LM>
 </w.rf>
 <form>Strauss</form>
-<tag lemma="Strauss_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Strauss_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-118-p4s4w3">
 <src.rf>manual</src.rf>
@@ -3195,7 +3195,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3918,9 +3918,9 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="am-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="am-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="am-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="am-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-118-p7s4w3">

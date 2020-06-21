@@ -63,7 +63,7 @@
 <LM>w#w-ln94207-56-p2s1Bw1</LM>
 </w.rf>
 <form>Palinek</form>
-<tag lemma="Palinek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palinek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-56-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <LM>w#w-ln94207-56-p2s1Bw3</LM>
 </w.rf>
 <form>Pakosta</form>
-<tag lemma="Pakosta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pakosta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-56-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-ln94207-56-p2s2w12</LM>
 </w.rf>
 <form>Burdin</form>
-<tag lemma="Burdin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burdin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-56-p2s2w13">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-ln94207-56-p2s2w14</LM>
 </w.rf>
 <form>Prosser</form>
-<tag lemma="Prosser_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prosser_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-56-p2s2w15">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-ln94207-56-p2s2w25</LM>
 </w.rf>
 <form>Gysina</form>
-<tag lemma="Gysin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gysin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-56-p2s2w26">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-ln94207-56-p2s2w27</LM>
 </w.rf>
 <form>Andersena</form>
-<tag lemma="Andersen_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Andersen_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-56-p2s2w28">
 <src.rf>manual</src.rf>

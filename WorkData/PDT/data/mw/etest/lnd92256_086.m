@@ -51,7 +51,7 @@
 <LM>w#w-lnd92256-086-p1s1w5</LM>
 </w.rf>
 <form>PLASSON</form>
-<tag lemma="Plasson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plasson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s1w6">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s3w3">
@@ -269,7 +269,7 @@
 <LM>w#w-lnd92256-086-p1s3w4</LM>
 </w.rf>
 <form>Plasson</form>
-<tag lemma="Plasson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plasson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s3w5">
 <src.rf>manual</src.rf>
@@ -474,9 +474,9 @@
 </w.rf>
 <form>ORCHESTRE</form>
 <tag>
-<AM lemma="Orchestre_;K_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Orchestre_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="orchestr" src="auto">NNIS5-----A----</AM>
-<AM lemma="orchestre_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="orchestre_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="ORCHESTRE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -487,7 +487,7 @@
 </w.rf>
 <form>NATIONAL</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig">AAXXX----1A----</AM>
 <AM lemma="NATIONAL-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -512,7 +512,7 @@
 </w.rf>
 <form>CAPITOLE</form>
 <tag>
-<AM lemma="capitole_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="capitole_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Kapitol_;G_,x" src="auto" recommended="1">NNIS5-----A----</AM>
 <AM lemma="CAPITOLE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -569,7 +569,7 @@
 <LM>w#w-lnd92256-086-p1s4w12</LM>
 </w.rf>
 <form>Smetanově</form>
-<tag lemma="Smetanův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92256-086-p1s4w13">
 <src.rf>manual</src.rf>
@@ -734,8 +734,8 @@
 </w.rf>
 <form>Darius</form>
 <tag>
-<AM lemma="Darius_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Darius_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Darius_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Darius_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-086-p1s6w4">
@@ -744,7 +744,7 @@
 <LM>w#w-lnd92256-086-p1s6w4</LM>
 </w.rf>
 <form>Milhaud</form>
-<tag lemma="Milhaud_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Milhaud_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s6w5">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-lnd92256-086-p1s6w10</LM>
 </w.rf>
 <form>Satie</form>
-<tag lemma="Satie_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Satie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s6w11">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-lnd92256-086-p1s6w15</LM>
 </w.rf>
 <form>Honegger</form>
-<tag lemma="Honegger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Honegger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s6w16">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-lnd92256-086-p1s6w21</LM>
 </w.rf>
 <form>Ravel</form>
-<tag lemma="Ravel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ravel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s6w22">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AANSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AANXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -926,7 +926,7 @@
 </w.rf>
 <form>Boléro</form>
 <tag>
-<AM lemma="Boléro_;R_,t" src="orig">NNNSX-----A----</AM>
+<AM lemma="Boléro_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Boléro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

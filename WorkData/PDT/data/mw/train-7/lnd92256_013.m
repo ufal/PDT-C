@@ -62,8 +62,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s1w4">
@@ -98,7 +98,7 @@
 <LM>w#w-lnd92256-013-p2s2w2</LM>
 </w.rf>
 <form>Anes</form>
-<tag lemma="Anes_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Anes_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-013-p2s2w3">
 <src.rf>manual</src.rf>

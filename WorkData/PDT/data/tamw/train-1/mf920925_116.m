@@ -75,7 +75,7 @@
 <LM>w#w-mf920925-116-p1s1w8</LM>
 </w.rf>
 <form>KLAUSE</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-116-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-mf920925-116-p1s1w10</LM>
 </w.rf>
 <form>STREIBLA</form>
-<tag lemma="Streibl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Streibl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-116-p2s1">
@@ -354,7 +354,7 @@
 <LM>w#w-mf920925-116-p2s2w30</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-116-p2s2w31">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-mf920925-116-p2s2w36</LM>
 </w.rf>
 <form>Streiblem</form>
-<tag lemma="Streibl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Streibl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-116-p2s2w37">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf920925-116-p3s1w15</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-116-p3s1w16">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-mf920925-116-p3s4w2</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-116-p3s4w3">
 <src.rf>manual</src.rf>

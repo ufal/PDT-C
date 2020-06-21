@@ -30,7 +30,7 @@
 </w.rf>
 <form>ČNHL</form>
 <tag>
-<AM lemma="ČNHL_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČNHL_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČNHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd92254-097-p2s2w70</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92254-097-p2s2w71">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-lnd92254-097-p2s2w89</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Zetor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-097-p2s2w90">
 <src.rf>manual</src.rf>
@@ -1419,7 +1419,7 @@
 <LM>w#w-lnd92254-097-p4s2w15</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92254-097-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-lnd92254-097-p4s4w1</LM>
 </w.rf>
 <form>Juran</form>
-<tag lemma="Juran_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juran_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-097-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1501,7 +1501,7 @@
 <LM>w#w-lnd92254-097-p4s5w1</LM>
 </w.rf>
 <form>Radčenko</form>
-<tag lemma="Radčenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radčenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-097-p4s5w2">
 <src.rf>manual</src.rf>

@@ -236,7 +236,7 @@
 <LM>w#w-lnd94103-108-p1s1w28</LM>
 </w.rf>
 <form>Formoza</form>
-<tag lemma="Formoza_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Formoza_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-108-p1s1w29">
 <src.rf>manual</src.rf>

@@ -214,10 +214,10 @@
 </w.rf>
 <form>Stone</form>
 <tag>
-<AM lemma="Ston_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Stone_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stone_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Stone_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Ston_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Stone_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stone_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Stone_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="ston" src="auto">NNIS5-----A----</AM>
 <AM lemma="stone-77" src="auto">F%-------------</AM>
 <AM lemma="Stone-77" src="manual" selected="1">F%-------------</AM>
@@ -230,8 +230,8 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Bank_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
@@ -247,8 +247,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0539-001-p1s0W22-Ta">
@@ -578,12 +578,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
@@ -656,10 +656,10 @@
 </w.rf>
 <form>Stone</form>
 <tag>
-<AM lemma="Ston_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Stone_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Stone_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Stone_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Ston_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Stone_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stone_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Stone_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="ston" src="auto">NNIS5-----A----</AM>
 <AM lemma="stone-77" src="auto">F%-------------</AM>
 <AM lemma="Stone-77" src="manual" selected="1">F%-------------</AM>
@@ -1053,7 +1053,7 @@
 </w.rf>
 <form>Banks</form>
 <tag>
-<AM lemma="Banks_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Banks_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Banks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1065,9 +1065,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

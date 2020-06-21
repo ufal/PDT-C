@@ -131,7 +131,7 @@
 <form>Haranta</form>
 <tag>
 <AM lemma="harant" src="orig">NNMS2-----A----</AM>
-<AM lemma="Harant_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Harant_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-012-p3s2w7">
@@ -610,7 +610,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-012-p3s4w25">
@@ -627,7 +627,7 @@
 <LM>w#w-lnd92252-012-p3s4w26</LM>
 </w.rf>
 <form>Kafky</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-012-p3s4w27">
 <src.rf>manual</src.rf>

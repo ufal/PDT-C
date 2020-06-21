@@ -362,10 +362,10 @@
 </w.rf>
 <form>May</form>
 <tag>
-<AM lemma="Mao_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Mao_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="May_;E_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="May_;E_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mao_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Mao_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="May_;E_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="May_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2215-001-p1s2W3-Ta">
@@ -376,7 +376,7 @@
 <form>Richstone</form>
 <tag>
 <AM lemma="Richstone" src="auto">X@-------------</AM>
-<AM lemma="Richstone_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Richstone_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2215-001-p1s2W4-Ta">
@@ -710,8 +710,8 @@
 </w.rf>
 <form>Emmons</form>
 <tag>
-<AM lemma="Emmons_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="Emmons_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Emmons_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Emmons_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2215-001-p1s5W4-Ta">

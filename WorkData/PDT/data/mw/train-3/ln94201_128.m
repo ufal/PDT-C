@@ -212,7 +212,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -542,7 +542,7 @@
 </w.rf>
 <form>MK</form>
 <tag>
-<AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MK-1_:B_;m_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -573,7 +573,7 @@
 <form>Š</form>
 <tag>
 <AM lemma="Š-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Š-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-128-p2s3w21">
@@ -590,7 +590,7 @@
 <LM>w#w-ln94201-128-p2s3w22</LM>
 </w.rf>
 <form>Kruková</form>
-<tag lemma="Kruková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kruková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-128-p2s3w23">
 <src.rf>manual</src.rf>

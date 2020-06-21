@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-034-p1s1w1</LM>
 </w.rf>
 <form>Fangio</form>
-<tag lemma="Fangio_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fangio_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-034-p1s1w2">
 <src.rf>manual</src.rf>
@@ -47,7 +47,7 @@
 <form>Buenos</form>
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -150,7 +150,7 @@
 <LM>w#w-ln95040-034-p2s1Bw10</LM>
 </w.rf>
 <form>Fangia</form>
-<tag lemma="Fangio_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fangio_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-034-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-ln95040-034-p2s1Bw24</LM>
 </w.rf>
 <form>Ricarda</form>
-<tag lemma="Ricardo_;S_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ricardo_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-034-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-ln95040-034-p2s1Bw25</LM>
 </w.rf>
 <form>Rosse</form>
-<tag lemma="Ross_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ross_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-034-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-ln95040-034-p2s2w1</LM>
 </w.rf>
 <form>Fangio</form>
-<tag lemma="Fangio_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fangio_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-034-p2s2w2">
 <src.rf>manual</src.rf>

@@ -509,7 +509,7 @@
 <LM>w#w-lnd92258-022-p3s4w6</LM>
 </w.rf>
 <form>Palacké</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92258-022-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-022-p4s1w33">
@@ -1017,7 +1017,7 @@
 <LM>w#w-lnd92258-022-p4s1w34</LM>
 </w.rf>
 <form>Šabatová</form>
-<tag lemma="Šabatová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šabatová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-022-p4s1w35">
 <src.rf>manual</src.rf>
@@ -1694,7 +1694,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-022-p4s5w22">
@@ -1711,7 +1711,7 @@
 <LM>w#w-lnd92258-022-p4s5w23</LM>
 </w.rf>
 <form>Šabatová</form>
-<tag lemma="Šabatová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šabatová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-022-p4s5w24">
 <src.rf>manual</src.rf>
@@ -2315,7 +2315,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-022-p5s1w5">
@@ -2334,7 +2334,7 @@
 <form>Kryštofa</form>
 <tag>
 <AM lemma="Kryštof_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kryštof_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kryštof_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-022-p5s1w7">
@@ -2471,7 +2471,7 @@
 <LM>w#w-lnd92258-022-p5s1w24</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd92258-022-p5s1w25">
 <src.rf>manual</src.rf>
@@ -3086,7 +3086,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-022-p5s6w19">
@@ -3105,7 +3105,7 @@
 <form>Kryštof</form>
 <tag>
 <AM lemma="Kryštof_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kryštof_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kryštof_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-022-p5s6w21">
@@ -3841,7 +3841,7 @@
 <LM>w#w-lnd92258-022-p5s12w2</LM>
 </w.rf>
 <form>RIEBAUEROVÁ</form>
-<tag lemma="Riebauerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Riebauerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

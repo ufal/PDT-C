@@ -125,10 +125,10 @@
 </w.rf>
 <form>IFS</form>
 <tag>
-<AM lemma="IFS-5_:B_;K_^(Islámská_fronta_spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IFS-1_:B_;K_,t_^(International_Federation_of_Ski)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IFS-2_:B_;K_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IFS-3_:B_;K_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IFS-5_:B_;m_^(Islámská_fronta_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IFS-1_:B_;m_,t_^(International_Federation_of_Ski)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="IFS-2_:B_;m_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IFS-3_:B_;m_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-4_:B_,t_^(installable_file_system)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -405,7 +405,7 @@
 <LM>w#w-lnd91301-001-p4s2w21</LM>
 </w.rf>
 <form>Chabír</form>
-<tag lemma="Chabír_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chabír_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-001-p4s2w22">
 <src.rf>manual</src.rf>
@@ -454,10 +454,10 @@
 </w.rf>
 <form>IFS</form>
 <tag>
-<AM lemma="IFS-5_:B_;K_^(Islámská_fronta_spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IFS-1_:B_;K_,t_^(International_Federation_of_Ski)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IFS-2_:B_;K_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IFS-3_:B_;K_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IFS-5_:B_;m_^(Islámská_fronta_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IFS-1_:B_;m_,t_^(International_Federation_of_Ski)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="IFS-2_:B_;m_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IFS-3_:B_;m_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-4_:B_,t_^(installable_file_system)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -728,7 +728,7 @@
 <LM>w#w-lnd91301-001-p4s4Aw1</LM>
 </w.rf>
 <form>Chabír</form>
-<tag lemma="Chabír_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chabír_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-001-p4s4Aw2">
 <src.rf>manual</src.rf>
@@ -843,9 +843,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter_;KReuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;mReuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-001-p4s4Bw3">
@@ -887,10 +887,10 @@
 </w.rf>
 <form>IFS</form>
 <tag>
-<AM lemma="IFS-5_:B_;K_^(Islámská_fronta_spásy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IFS-1_:B_;K_,t_^(International_Federation_of_Ski)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IFS-2_:B_;K_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IFS-3_:B_;K_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IFS-5_:B_;m_^(Islámská_fronta_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IFS-1_:B_;m_,t_^(International_Federation_of_Ski)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="IFS-2_:B_;m_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IFS-3_:B_;m_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-4_:B_,t_^(installable_file_system)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

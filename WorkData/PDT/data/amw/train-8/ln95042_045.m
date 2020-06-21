@@ -368,8 +368,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p2s1Bw33">
@@ -468,7 +468,7 @@
 <LM>w#w-ln95042-045-p2s2w10</LM>
 </w.rf>
 <form>Juppé</form>
-<tag lemma="Juppé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juppé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-045-p2s2w11">
 <src.rf>manual</src.rf>
@@ -533,8 +533,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p2s2w19">
@@ -802,7 +802,7 @@
 <LM>w#w-ln95042-045-p3s2w1</LM>
 </w.rf>
 <form>Juppé</form>
-<tag lemma="Juppé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juppé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-045-p3s2w2">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-ln95042-045-p4s1w2</LM>
 </w.rf>
 <form>Juppého</form>
-<tag lemma="Juppé_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Juppé_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-045-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1016,8 +1016,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p4s1w9">
@@ -1309,7 +1309,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1352,7 +1352,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1419,8 +1419,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p4s2w27">
@@ -1871,8 +1871,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p5s1w26">
@@ -1931,7 +1931,7 @@
 <LM>w#w-ln95042-045-p5s2w1</LM>
 </w.rf>
 <form>Juppé</form>
-<tag lemma="Juppé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juppé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-045-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2269,7 +2269,7 @@
 <LM>w#w-ln95042-045-p5s3w15</LM>
 </w.rf>
 <form>Juppé</form>
-<tag lemma="Juppé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juppé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-045-p5s3w16">
 <src.rf>manual</src.rf>
@@ -2423,7 +2423,7 @@
 <LM>w#w-ln95042-045-p6s1w18</LM>
 </w.rf>
 <form>Europol</form>
-<tag lemma="Europol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Europol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-045-p6s1w19">
 <src.rf>manual</src.rf>

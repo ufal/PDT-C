@@ -43,7 +43,7 @@
 <LM>w#w-lnd91303-039-p1s1Aw4</LM>
 </w.rf>
 <form>Gorbačova</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-039-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-039-p1s2w24">
@@ -384,7 +384,7 @@
 <LM>w#w-lnd91303-039-p1s2w25</LM>
 </w.rf>
 <form>Gorbačova</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-039-p1s2w26">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

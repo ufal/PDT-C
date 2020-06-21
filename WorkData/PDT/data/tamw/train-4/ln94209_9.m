@@ -178,7 +178,7 @@
 <LM>w#w-ln94209-9-p2s1Bw2</LM>
 </w.rf>
 <form>Hodina</form>
-<tag lemma="Hodina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hodina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-9-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 </w.rf>
 <form>Business</form>
 <tag>
-<AM lemma="Business_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Business_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="business-2_,t" src="manual">AAXXX----1A----</AM>
@@ -209,7 +209,7 @@
 </w.rf>
 <form>Service</form>
 <tag>
-<AM lemma="Service_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Service_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="servis" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="service_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Service-77" src="manual" selected="1">F%-------------</AM>

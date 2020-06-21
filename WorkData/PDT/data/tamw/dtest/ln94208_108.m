@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-108-p1s1w1</LM>
 </w.rf>
 <form>Gombala</form>
-<tag lemma="Gombala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gombala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-108-p1s1w2">
 <src.rf>manual</src.rf>
@@ -65,12 +65,12 @@
 </w.rf>
 <form>nov</form>
 <tag>
-<AM lemma="nov-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nov-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="nov_^(pozice_Měsíce)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nov_^(pozice_Měsíce)" src="auto">NNIS4-----A----</AM>
 <AM lemma="nova" src="auto">NNFP2-----A----</AM>
 <AM lemma="novum" src="auto">NNNP2-----A----</AM>
-<AM lemma="nov-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nov-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s1Aw4">
@@ -122,7 +122,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -148,7 +148,7 @@
 <LM>w#w-ln94208-108-p2s1Bw7</LM>
 </w.rf>
 <form>Gombala</form>
-<tag lemma="Gombala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gombala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <form>Mikuláše</form>
 <tag>
 <AM lemma="Mikuláš-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mikuláš-1_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Mikuláš-1_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw27">
@@ -770,7 +770,7 @@
 <LM>w#w-ln94208-108-p2s3w32</LM>
 </w.rf>
 <form>Dukly</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-108-p2s3w33">
 <src.rf>manual</src.rf>
@@ -875,8 +875,8 @@
 </w.rf>
 <form>Dukla</form>
 <tag>
-<AM lemma="Dukla-1_;K_^(sport._klub)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dukla-1_;m_^(sport._klub)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s3w46">
@@ -911,7 +911,7 @@
 <LM>w#w-ln94208-108-p2s4w2</LM>
 </w.rf>
 <form>Kováčiková</form>
-<tag lemma="Kováčiková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kováčiková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-108-p2s4w3">
 <src.rf>manual</src.rf>

@@ -110,7 +110,7 @@
 </w.rf>
 <form>SZP</form>
 <tag>
-<AM lemma="SZP_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SZP_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -746,7 +746,7 @@
 </w.rf>
 <form>SZP</form>
 <tag>
-<AM lemma="SZP_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SZP_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

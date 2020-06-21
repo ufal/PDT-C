@@ -259,7 +259,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -418,7 +418,7 @@
 <LM>w#w-mf920902-143-p2s3w12</LM>
 </w.rf>
 <form>Karimova</form>
-<tag lemma="Karimov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Karimov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-143-p2s3w13">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-mf920902-143-p4s1w1</LM>
 </w.rf>
 <form>Karimov</form>
-<tag lemma="Karimov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karimov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-143-p4s1w2">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -899,7 +899,7 @@
 <LM>w#w-mf920902-143-p4s1w18</LM>
 </w.rf>
 <form>Akbarem</form>
-<tag lemma="Akbar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Akbar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-143-p4s1w19">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-mf920902-143-p4s1w19</LM>
 </w.rf>
 <form>Iskandarovem</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-143-p4s1w20">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-mf920902-143-p5s1w2</LM>
 </w.rf>
 <form>Nabijev</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-143-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf920902-143-p6s1w8</LM>
 </w.rf>
 <form>Nurul</form>
-<tag lemma="Nurul_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Nurul_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-mf920902-143-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-mf920902-143-p6s1w10</LM>
 </w.rf>
 <form>lobekova</form>
-<tag lemma="lobekov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="lobekov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-143-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-mf920902-143-p7s2w1</LM>
 </w.rf>
 <form>Nabijevovi</form>
-<tag lemma="Nabijevův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Nabijevův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf920902-143-p7s2w2">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-mf920902-143-p7s3w8</LM>
 </w.rf>
 <form>Nabijev</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-143-p7s3w9">
 <src.rf>manual</src.rf>
@@ -1722,7 +1722,7 @@
 <LM>w#w-mf920902-143-p8s1w4</LM>
 </w.rf>
 <form>Nabijevovi</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-143-p8s1w5">
 <src.rf>manual</src.rf>
@@ -1884,7 +1884,7 @@
 <LM>w#w-mf920902-143-p8s2w5</LM>
 </w.rf>
 <form>Nabijev</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-143-p8s2w6">
 <src.rf>manual</src.rf>
@@ -2038,7 +2038,7 @@
 <LM>w#w-mf920902-143-p9s1w11</LM>
 </w.rf>
 <form>Nabijeva</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-143-p9s1w12">
 <src.rf>manual</src.rf>

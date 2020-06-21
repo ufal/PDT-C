@@ -78,8 +78,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-43-p2s1Aw4">
@@ -364,7 +364,7 @@
 <LM>w#w-ln94211-43-p2s2w3</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-43-p2s2w4">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 </w.rf>
 <form>PSJ</form>
 <tag>
-<AM lemma="PSJ_:B_;K" src="auto">NNFSX-----A---8</AM>
+<AM lemma="PSJ_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PSJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -900,8 +900,8 @@
 </w.rf>
 <form>Konstruktiva</form>
 <tag>
-<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-43-p2s4w7">

@@ -152,7 +152,7 @@
 </w.rf>
 <form>ETE</form>
 <tag>
-<AM lemma="ETE-1_:B_;K_^(Elektrárna_Temelín)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ETE-1_:B_;m_^(Elektrárna_Temelín)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ETE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -353,7 +353,7 @@
 </w.rf>
 <form>ETE</form>
 <tag>
-<AM lemma="ETE-1_:B_;K_^(Elektrárna_Temelín)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ETE-1_:B_;m_^(Elektrárna_Temelín)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ETE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -550,7 +550,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -651,7 +651,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -677,7 +677,7 @@
 <LM>w#w-ln95047-103-p3s2w9</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-103-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p3s5w12">
@@ -1110,7 +1110,7 @@
 <LM>w#w-ln95047-103-p3s5w13</LM>
 </w.rf>
 <form>Nováka</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-103-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1313,7 +1313,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

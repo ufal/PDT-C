@@ -61,7 +61,7 @@
 <LM>w#w-lnd94104-117-p1s2w1</LM>
 </w.rf>
 <form>Cecchiniová</form>
-<tag lemma="Cecchiniová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cecchiniová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-117-p1s2w2">
 <src.rf>manual</src.rf>

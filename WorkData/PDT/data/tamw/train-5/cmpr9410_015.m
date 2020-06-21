@@ -515,7 +515,7 @@
 <LM>w#w-cmpr9410-015-p6s1w2</LM>
 </w.rf>
 <form>Složil</form>
-<tag lemma="Složil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Složil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-015-p8s1">
@@ -557,7 +557,7 @@
 <LM>w#w-cmpr9410-015-p8s1w5</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p8s1w6">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-cmpr9410-015-p11s3w2</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p11s3w3">
 <src.rf>manual</src.rf>
@@ -1966,7 +1966,7 @@
 <LM>w#w-cmpr9410-015-p11s7w16</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p11s7w17">
 <src.rf>manual</src.rf>
@@ -2056,7 +2056,7 @@
 <LM>w#w-cmpr9410-015-p11s8w10</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p11s8w11">
 <src.rf>manual</src.rf>
@@ -2416,7 +2416,7 @@
 <LM>w#w-cmpr9410-015-p13s2w1</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p13s2w2">
 <src.rf>manual</src.rf>
@@ -2801,7 +2801,7 @@
 <LM>w#w-cmpr9410-015-p14s1w5</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p14s1w6">
 <src.rf>manual</src.rf>
@@ -3915,7 +3915,7 @@
 <LM>w#w-cmpr9410-015-p17s4w8</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p17s4w9">
 <src.rf>manual</src.rf>
@@ -4085,7 +4085,7 @@
 <LM>w#w-cmpr9410-015-p19s1w1</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p19s1w2">
 <src.rf>manual</src.rf>
@@ -4568,7 +4568,7 @@
 <LM>w#w-cmpr9410-015-p19s5w6</LM>
 </w.rf>
 <form>Chiradent</form>
-<tag lemma="Chiradent_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chiradent_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p19s5w7">
 <src.rf>manual</src.rf>
@@ -5141,7 +5141,7 @@
 <LM>w#w-cmpr9410-015-p20s4w2</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p20s4w3">
 <src.rf>manual</src.rf>
@@ -5353,7 +5353,7 @@
 <LM>w#w-cmpr9410-015-p21s1w3</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p21s1w4">
 <src.rf>manual</src.rf>
@@ -5655,7 +5655,7 @@
 <LM>w#w-cmpr9410-015-p22s1w4</LM>
 </w.rf>
 <form>Škarka</form>
-<tag lemma="Škarka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Škarka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p22s1w5">
 <src.rf>manual</src.rf>
@@ -5687,7 +5687,7 @@
 <LM>w#w-cmpr9410-015-p22s1w8</LM>
 </w.rf>
 <form>Formed</form>
-<tag lemma="Formed_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Formed_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9410-015-p22s1w9">
 <src.rf>manual</src.rf>

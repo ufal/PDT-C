@@ -44,8 +44,8 @@
 </w.rf>
 <form>Greenpeace</form>
 <tag>
-<AM lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
-<AM lemma="greenpeace_;K_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="greenpeace_;m_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
+<AM lemma="greenpeace_;m_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p1s1w5">
@@ -282,8 +282,8 @@
 </w.rf>
 <form>Greenpeace</form>
 <tag>
-<AM lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
-<AM lemma="greenpeace_;K_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="greenpeace_;m_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
+<AM lemma="greenpeace_;m_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p1s1w34">
@@ -375,8 +375,8 @@
 </w.rf>
 <form>Klaus</form>
 <tag>
-<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klaus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p1s2w9">
@@ -385,7 +385,7 @@
 <LM>w#w-lnd92254-054-p1s2w9</LM>
 </w.rf>
 <form>Töpfer</form>
-<tag lemma="Töpfer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Töpfer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p1s2w10">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p3s1w7">
@@ -1169,9 +1169,9 @@
 </w.rf>
 <form>Bulla</form>
 <tag>
-<AM lemma="Bull_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Bull_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Bulla_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Bulla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bulla_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="bula_,a_,x" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1352,9 +1352,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p3s2w7">
@@ -1365,7 +1365,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p3s2w8">
@@ -1383,8 +1383,8 @@
 </w.rf>
 <form>Gonzales</form>
 <tag>
-<AM lemma="Gonzales_;S_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gonzales_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gonzales_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gonzales_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p3s2w10">
@@ -1732,7 +1732,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1758,7 +1758,7 @@
 <LM>w#w-lnd92254-054-p4s1w13</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p4s1w14">
 <src.rf>manual</src.rf>

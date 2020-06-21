@@ -46,7 +46,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -81,7 +81,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -216,7 +216,7 @@
 <LM>w#w-ln95043-015-p2s2w6</LM>
 </w.rf>
 <form>Krug</form>
-<tag lemma="Krug_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krug_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-015-p2s2w7">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-ln95043-015-p3s1w2</LM>
 </w.rf>
 <form>Radčenko</form>
-<tag lemma="Radčenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radčenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-015-p3s1w3">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 </w.rf>
 <form>Racing</form>
 <tag>
-<AM lemma="Racing_;K_^(př._Racing_Club)" src="orig">NNIS4-----A----</AM>
+<AM lemma="Racing_;m_^(př._Racing_Club)" src="orig">NNIS4-----A----</AM>
 <AM lemma="Racing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -326,7 +326,7 @@
 </w.rf>
 <form>Santander</form>
 <tag>
-<AM lemma="Santander_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Santander_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Santander-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -498,7 +498,7 @@
 <LM>w#w-ln95043-015-p3s2w10</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95043-015-p3s2w11">
 <src.rf>manual</src.rf>

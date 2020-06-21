@@ -258,7 +258,7 @@
 <LM>w#w-ln94201-126-p3s1w1</LM>
 </w.rf>
 <form>Panochovo</form>
-<tag lemma="Panochův_;S_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Panochův_;Y_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94201-126-p3s1w2">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-126-p3s1w6">
@@ -309,7 +309,7 @@
 <LM>w#w-ln94201-126-p3s1w7</LM>
 </w.rf>
 <form>Budín</form>
-<tag lemma="Budín_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budín_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-126-p3s1w8">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-ln94201-126-p3s2w2</LM>
 </w.rf>
 <form>Nepomuckého</form>
-<tag lemma="Nepomucký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nepomucký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-126-p3s2w3">
 <src.rf>manual</src.rf>
@@ -452,10 +452,10 @@
 <form>Musaion</form>
 <tag>
 <AM lemma="Musaion_;m" src="orig">NNIXX-----A----</AM>
-<AM lemma="Musaion_;K_;u" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Musaion_;K_;u" src="auto">NNIS4-----A----</AM>
+<AM lemma="Musaion_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Musaion_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Musaion_;" src="manual">NNIS1-----A----</AM>
-<AM lemma="Musaion_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Musaion_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-126-p3s2w10">

@@ -87,7 +87,7 @@
 <form>OUI</form>
 <tag>
 <AM lemma="oui_,t" src="orig">TT-------------</AM>
-<AM lemma="Oui_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Oui_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="OUI-77" src="manual">F%-------------</AM>
 <AM lemma="oui-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -441,7 +441,7 @@
 <LM>w#w-mf920922-128-p3s1w3</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p3s1w4">
 <src.rf>manual</src.rf>
@@ -729,8 +729,8 @@
 </w.rf>
 <form>Klaus</form>
 <tag>
-<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-128-p4s1w4">
@@ -739,7 +739,7 @@
 <LM>w#w-mf920922-128-p4s1w4</LM>
 </w.rf>
 <form>Kinkel</form>
-<tag lemma="Kinkel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kinkel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-mf920922-128-p5s1w15</LM>
 </w.rf>
 <form>Waigel</form>
-<tag lemma="Waigel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waigel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="George_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-128-p6s1w4">
@@ -1340,7 +1340,7 @@
 <LM>w#w-mf920922-128-p6s1w4</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 </w.rf>
 <form>Ameriky</form>
 <tag>
-<AM lemma="amerika-1_;R_^(cigareta,_automobil_apod.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="amerika-1_;m_^(cigareta,_automobil_apod.)" src="orig">NNFS2-----A----</AM>
 <AM lemma="Amerika_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -1695,7 +1695,7 @@
 <LM>w#w-mf920922-128-p7s1w11</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p7s1w12">
 <src.rf>manual</src.rf>
@@ -1802,7 +1802,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1828,7 +1828,7 @@
 <LM>w#w-mf920922-128-p8s1w9</LM>
 </w.rf>
 <form>Delors</form>
-<tag lemma="Delors_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Delors_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p8s1w10">
 <src.rf>manual</src.rf>
@@ -2478,8 +2478,8 @@
 </w.rf>
 <form>Douglas</form>
 <tag>
-<AM lemma="Douglas-2_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Douglas-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Douglas-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Douglas-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-128-p11s1w5">
@@ -2488,7 +2488,7 @@
 <LM>w#w-mf920922-128-p11s1w5</LM>
 </w.rf>
 <form>Hurd</form>
-<tag lemma="Hurd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hurd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p11s1w6">
 <src.rf>manual</src.rf>
@@ -2998,7 +2998,7 @@
 <LM>w#w-mf920922-128-p12s2w22</LM>
 </w.rf>
 <form>Schlüter</form>
-<tag lemma="Schlüter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schlüter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p12s2w23">
 <src.rf>manual</src.rf>
@@ -3318,7 +3318,7 @@
 <LM>w#w-mf920922-128-p12s4w21</LM>
 </w.rf>
 <form>Schlüter</form>
-<tag lemma="Schlüter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schlüter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p12s4w22">
 <src.rf>manual</src.rf>

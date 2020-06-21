@@ -19,7 +19,7 @@
 <LM>w#w-mf930709-091-p1s1w1</LM>
 </w.rf>
 <form>Nováček</form>
-<tag lemma="Nováček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nováček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-091-p1s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf930709-091-p2s1w5</LM>
 </w.rf>
 <form>Muster</form>
-<tag lemma="Muster_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Muster_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-091-p2s1w6">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <form>Gilbert</form>
 <tag>
 <AM lemma="Gilbert_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gilbert_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gilbert_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-091-p2s1w8">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>Fr</form>
 <tag>
-<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
-<AM lemma="Francie_;G" src="manual" selected="1">NNFSX-----A---8</AM>
+<AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930709-091-p2s1w10">

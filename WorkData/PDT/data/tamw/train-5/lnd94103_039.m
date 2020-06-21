@@ -53,7 +53,7 @@
 <LM>w#w-lnd94103-039-p1s1Aw5</LM>
 </w.rf>
 <form>Krčálová</form>
-<tag lemma="Krčálová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krčálová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-lnd94103-039-p1s1Aw8</LM>
 </w.rf>
 <form>Ehl</form>
-<tag lemma="Ehl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ehl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-039-p1s1B">
@@ -103,7 +103,7 @@
 <LM>w#w-lnd94103-039-p1s1Bw3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-lnd94103-039-p1s2w11</LM>
 </w.rf>
 <form>Kalvoda</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s2w12">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-lnd94103-039-p1s3w8</LM>
 </w.rf>
 <form>Zieleniece</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s3w9">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-lnd94103-039-p1s6w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s6w3">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <LM>w#w-lnd94103-039-p1s9w7</LM>
 </w.rf>
 <form>Aninato</form>
-<tag lemma="Aninato_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aninato_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s9w8">
 <src.rf>manual</src.rf>
@@ -2225,7 +2225,7 @@
 <LM>w#w-lnd94103-039-p1s15w15</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s15w16">
 <src.rf>manual</src.rf>
@@ -3332,7 +3332,7 @@
 <LM>w#w-lnd94103-039-p1s21w7</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s21w8">
 <src.rf>manual</src.rf>
@@ -3467,7 +3467,7 @@
 <LM>w#w-lnd94103-039-p1s23w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-039-p1s23w3">
 <src.rf>manual</src.rf>

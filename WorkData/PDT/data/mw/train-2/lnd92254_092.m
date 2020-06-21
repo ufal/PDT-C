@@ -19,7 +19,7 @@
 <LM>w#w-lnd92254-092-p1s1w1</LM>
 </w.rf>
 <form>Penksa</form>
-<tag lemma="Penksa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Penksa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-092-p1s1w2">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-lnd92254-092-p2s1w15</LM>
 </w.rf>
 <form>Bayern</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-092-p2s1w16">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-lnd92254-092-p2s1w25</LM>
 </w.rf>
 <form>Bommer</form>
-<tag lemma="Bommer_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bommer_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-092-p2s1w26">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-lnd92254-092-p2s1w26</LM>
 </w.rf>
 <form>Kreuzer</form>
-<tag lemma="Kreuzer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kreuzer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-092-p2s1w27">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-lnd92254-092-p2s2w9</LM>
 </w.rf>
 <form>Beina</form>
-<tag lemma="Bein_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Bein_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92254-092-p2s2w10">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-lnd92254-092-p2s2w12</LM>
 </w.rf>
 <form>Penksa</form>
-<tag lemma="Penksa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Penksa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-092-p2s2w13">
 <src.rf>manual</src.rf>
@@ -591,11 +591,11 @@
 </w.rf>
 <form>mel</form>
 <tag>
-<AM lemma="mel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mel-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mel-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-092-p3s1w3">

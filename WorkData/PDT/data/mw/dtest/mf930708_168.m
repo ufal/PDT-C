@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-168-p1s1w1</LM>
 </w.rf>
 <form>Draškovičův</form>
-<tag lemma="Draškovičův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Draškovičův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930708-168-p1s1w2">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-mf930708-168-p2s1w9</LM>
 </w.rf>
 <form>Draškoviče</form>
-<tag lemma="Draškovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Draškovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-168-p2s1w10">
 <src.rf>manual</src.rf>
@@ -523,8 +523,8 @@
 </w.rf>
 <form>SPO</form>
 <tag>
-<AM lemma="SPO-2_:B_;K_,t_^(Srbské_hnutí_obnovy)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SPO-1_:B_;K_^(Sbor_požární_ochrany)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SPO-2_:B_;m_,t_^(Srbské_hnutí_obnovy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPO-1_:B_;m_^(Sbor_požární_ochrany)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -604,7 +604,7 @@
 <LM>w#w-mf930708-168-p3s2w5</LM>
 </w.rf>
 <form>Draškovič</form>
-<tag lemma="Draškovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Draškovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-168-p3s2w6">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-mf930708-168-p3s2w13</LM>
 </w.rf>
 <form>Mitterrandové</form>
-<tag lemma="Mitterrandová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Mitterrandová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-168-p3s2w14">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-mf930708-168-p3s3w16</LM>
 </w.rf>
 <form>Draškovičova</form>
-<tag lemma="Draškovičův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Draškovičův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930708-168-p3s3w17">
 <src.rf>manual</src.rf>

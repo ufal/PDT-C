@@ -361,7 +361,7 @@
 <LM>w#w-mf920925-018-p2s3w16</LM>
 </w.rf>
 <form>Šůcha</form>
-<tag lemma="Šůcha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šůcha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-018-p2s3w17">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-mf920925-018-p2s5w6</LM>
 </w.rf>
 <form>Bonton</form>
-<tag lemma="Bonton_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bonton_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-018-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 </w.rf>
 <form>n</form>
 <tag>
-<AM lemma="n-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="n-33" src="orig">Q3-------------</AM>
 <AM lemma="n-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1841,7 +1841,7 @@
 <LM>w#w-mf920925-018-p3s2w21</LM>
 </w.rf>
 <form>Šůcha</form>
-<tag lemma="Šůcha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šůcha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-018-p3s2w22">
 <src.rf>manual</src.rf>

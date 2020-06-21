@@ -35,7 +35,7 @@
 <LM>w#w-ln95045-014-p1s1w3</LM>
 </w.rf>
 <form>Zehla</form>
-<tag lemma="Zehl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zehl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-014-p1s1w4">
 <src.rf>manual</src.rf>
@@ -101,8 +101,8 @@
 <form>Matky</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP5-----A----</AM>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95045-014-p1s1w19</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-014-p1s1w20">
 <src.rf>manual</src.rf>
@@ -328,8 +328,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-014-p1s1w39">

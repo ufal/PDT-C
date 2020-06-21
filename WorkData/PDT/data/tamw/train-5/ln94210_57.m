@@ -103,7 +103,7 @@
 <LM>w#w-ln94210-57-p2s1Bw6</LM>
 </w.rf>
 <form>Čepely</form>
-<tag lemma="Čepela_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čepela_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-57-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <form>Poláka</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-57-p2s1Bw17">
@@ -218,7 +218,7 @@
 <LM>w#w-ln94210-57-p2s1Bw20</LM>
 </w.rf>
 <form>Kušnír</form>
-<tag lemma="Kušnír_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kušnír_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-57-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-ln94210-57-p2s2w18</LM>
 </w.rf>
 <form>Čepela</form>
-<tag lemma="Čepela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čepela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-57-p2s2w19">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <form>Polák</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-57-p2s3w2">
@@ -488,7 +488,7 @@
 <form>Poláka</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-57-p2s4w3">
@@ -509,7 +509,7 @@
 <LM>w#w-ln94210-57-p2s4w4</LM>
 </w.rf>
 <form>Kušnír</form>
-<tag lemma="Kušnír_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kušnír_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-57-p2s4w5">
 <src.rf>manual</src.rf>

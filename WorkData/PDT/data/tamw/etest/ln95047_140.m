@@ -1507,8 +1507,8 @@
 </w.rf>
 <form>ČSÚ</form>
 <tag>
-<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-140-p5s2w12">
@@ -1861,8 +1861,8 @@
 </w.rf>
 <form>VŠE</form>
 <tag>
-<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-140-p7s1w6">
@@ -2542,9 +2542,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-140-p7s6w22">

@@ -311,7 +311,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-061-p3s2w29">
@@ -328,7 +328,7 @@
 <LM>w#w-lnd92251-061-p3s2w30</LM>
 </w.rf>
 <form>Amato</form>
-<tag lemma="Amato_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amato_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-061-p3s2w31">
 <src.rf>manual</src.rf>
@@ -433,8 +433,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -446,8 +446,8 @@
 </w.rf>
 <form>Herald</form>
 <tag>
-<AM lemma="Herald-2_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Herald_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Herald-2_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Herald_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Herald-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -458,8 +458,8 @@
 </w.rf>
 <form>Tribune</form>
 <tag>
-<AM lemma="Tribune_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tribune_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Tribune_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tribune_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tribune-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -479,7 +479,7 @@
 </w.rf>
 <form>Corriere</form>
 <tag>
-<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Corriere_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -491,7 +491,7 @@
 <form>della</form>
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della_;m_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -502,9 +502,9 @@
 </w.rf>
 <form>Sera</form>
 <tag>
-<AM lemma="Sera-2_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ser_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ser_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Sera-2_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Sera_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP4-----A----</AM>
@@ -534,7 +534,7 @@
 <LM>w#w-lnd92251-061-p3s3w1</LM>
 </w.rf>
 <form>Amato</form>
-<tag lemma="Amato_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amato_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-061-p3s3w2">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-061-p3s6w2">
@@ -978,7 +978,7 @@
 <LM>w#w-lnd92251-061-p3s6w3</LM>
 </w.rf>
 <form>Dienstbier</form>
-<tag lemma="Dienstbier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dienstbier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-061-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1706,7 +1706,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

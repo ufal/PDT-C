@@ -86,10 +86,10 @@
 </w.rf>
 <form>šil</form>
 <tag>
-<AM lemma="šil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="šít" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="šílet" src="auto">Vi-S---2--A-I-6</AM>
-<AM lemma="šil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-064-p2s1Aw4">
@@ -841,7 +841,7 @@
 <LM>w#w-mf930713-064-p3s3w2</LM>
 </w.rf>
 <form>Amicus</form>
-<tag lemma="Amicus_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Amicus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-064-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-mf930713-064-p3s6w10</LM>
 </w.rf>
 <form>Amicus</form>
-<tag lemma="Amicus_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Amicus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-064-p3s6w11">
 <src.rf>manual</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-mf930713-064-p4s1w17</LM>
 </w.rf>
 <form>Urbánek</form>
-<tag lemma="Urbánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urbánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-064-p4s1w18">
 <src.rf>manual</src.rf>
@@ -2146,8 +2146,8 @@
 </w.rf>
 <form>MNV</form>
 <tag>
-<AM lemma="MNV_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MNV_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MNV_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MNV_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-064-p4s5w18">
@@ -2207,8 +2207,8 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Z-33" src="orig">Q3-------------</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-064-p4s6w7">
@@ -2334,7 +2334,7 @@
 <LM>w#w-mf930713-064-p5s1w3</LM>
 </w.rf>
 <form>Hegyie</form>
-<tag lemma="Hegyi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hegyi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-064-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2358,7 +2358,7 @@
 <LM>w#w-mf930713-064-p5s1w6</LM>
 </w.rf>
 <form>Amicus</form>
-<tag lemma="Amicus_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Amicus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-064-p5s1w7">
 <src.rf>manual</src.rf>

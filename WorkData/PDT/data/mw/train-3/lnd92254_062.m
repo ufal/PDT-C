@@ -55,7 +55,7 @@
 <LM>w#w-lnd92254-062-p3s1w1</LM>
 </w.rf>
 <form>SYDNEY</form>
-<tag lemma="Sydney_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Sydney_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92254-062-p3s1w2">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-lnd92254-062-p3s3w10</LM>
 </w.rf>
 <form>Bainová</form>
-<tag lemma="Bainová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bainová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-062-p3s3w11">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-lnd92254-062-p3s6w21</LM>
 </w.rf>
 <form>Bainová</form>
-<tag lemma="Bainová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bainová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-062-p3s6w22">
 <src.rf>manual</src.rf>

@@ -38,7 +38,7 @@
 </w.rf>
 <form>ORF</form>
 <tag>
-<AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ORF_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -106,7 +106,7 @@
 <LM>w#w-mf930701-146-p3s1w7</LM>
 </w.rf>
 <form>Howser</form>
-<tag lemma="Howser_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Howser_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-146-p3s1w8">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-mf930701-146-p3s1w10</LM>
 </w.rf>
 <form>Waltonovi</form>
-<tag lemma="Waltonův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Waltonův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930701-146-p3s1w11">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p3s1w21">
@@ -480,7 +480,7 @@
 </w.rf>
 <form>ORF</form>
 <tag>
-<AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ORF_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -817,7 +817,7 @@
 </w.rf>
 <form>Austria</form>
 <tag>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Austria_Wien)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Austria_;m_,t_^(fotbalový_klub_Austria_Wien)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Austria-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1251,7 +1251,7 @@
 <LM>w#w-mf930701-146-p7s1w45</LM>
 </w.rf>
 <form>Teleexpres</form>
-<tag lemma="Teleexpres_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Teleexpres_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-146-p7s1w46">
 <src.rf>manual</src.rf>
@@ -2253,7 +2253,7 @@
 <LM>w#w-mf930701-146-p9s1w40</LM>
 </w.rf>
 <form>Bazan</form>
-<tag lemma="Bazan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bazan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-146-p9s1w41">
 <src.rf>manual</src.rf>
@@ -2790,7 +2790,7 @@
 <form>Holliday</form>
 <tag>
 <AM lemma="holliday_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Holliday_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Holliday_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Holliday-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

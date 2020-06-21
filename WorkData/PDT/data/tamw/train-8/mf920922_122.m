@@ -1232,7 +1232,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2074,7 +2074,7 @@
 <LM>w#w-mf920922-122-p2s14w7</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920922-122-p2s14w8">
 <src.rf>manual</src.rf>
@@ -2271,7 +2271,7 @@
 <LM>w#w-mf920922-122-p2s15w21</LM>
 </w.rf>
 <form>Gaulla</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-122-p2s15w22">
 <src.rf>manual</src.rf>
@@ -3502,7 +3502,7 @@
 <form>La</form>
 <tag>
 <AM lemma="La-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
@@ -3518,7 +3518,7 @@
 <form>Manche</form>
 <tag>
 <AM lemma="Manche_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Manche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4071,9 +4071,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-122-p2s27w8">

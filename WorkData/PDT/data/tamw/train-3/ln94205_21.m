@@ -44,13 +44,13 @@
 </w.rf>
 <form>Renaultu</form>
 <tag>
-<AM lemma="Renault-1_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Renault-1_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Renault_;m" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="Renault_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Renault_;K_;R" src="manual">NNIS2-----A----</AM>
-<AM lemma="Renault_;K_;R" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Renault_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94205-21-p2s1Bw6</LM>
 </w.rf>
 <form>Volvo</form>
-<tag lemma="Volvo_;K_;R" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Volvo_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln94205-21-p2s1Bw11</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln94205-21-p2s1Bw14</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -192,8 +192,8 @@
 </w.rf>
 <form>SA</form>
 <tag>
-<AM lemma="SA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SA_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="SA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SA_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -213,7 +213,7 @@
 <LM>w#w-ln94205-21-p3s1w1</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p3s1w2">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln94205-21-p3s2w1</LM>
 </w.rf>
 <form>Volvo</form>
-<tag lemma="Volvo_;K_;R" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Volvo_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p3s2w2">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-ln94205-21-p4s1w13</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p4s1w14">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-ln94205-21-p4s2w8</LM>
 </w.rf>
 <form>Volvo</form>
-<tag lemma="Volvo_;K_;R" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Volvo_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p4s2w9">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln94205-21-p4s2w20</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p4s2w21">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-ln94205-21-p4s2w24</LM>
 </w.rf>
 <form>Volvo</form>
-<tag lemma="Volvo_;K_;R" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Volvo_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p4s2w25">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-ln94205-21-p4s3w1</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1056,12 +1056,12 @@
 </w.rf>
 <form>Renaultu</form>
 <tag>
-<AM lemma="Renault-1_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Renault-1_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Renault_;m" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="Renault_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Renault_;K_;R" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94205-21-p4s3w14">
@@ -1168,7 +1168,7 @@
 <LM>w#w-ln94205-21-p5s1w12</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-21-p5s1w13">
 <src.rf>manual</src.rf>

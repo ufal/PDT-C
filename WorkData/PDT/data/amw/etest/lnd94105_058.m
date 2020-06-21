@@ -360,8 +360,8 @@
 </w.rf>
 <form>Douglas</form>
 <tag>
-<AM lemma="Douglas-2_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Douglas-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Douglas-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Douglas-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-058-p1s3w5">
@@ -370,7 +370,7 @@
 <LM>w#w-lnd94105-058-p1s3w5</LM>
 </w.rf>
 <form>Hurd</form>
-<tag lemma="Hurd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hurd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-058-p1s3w6">
 <src.rf>manual</src.rf>

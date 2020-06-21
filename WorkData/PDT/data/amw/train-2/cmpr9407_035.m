@@ -83,8 +83,8 @@
 </w.rf>
 <form>Internationale</form>
 <tag>
-<AM lemma="Internationale_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="internationale_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Internationale_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="internationale_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Internationale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -95,7 +95,7 @@
 </w.rf>
 <form>Spedition</form>
 <tag>
-<AM lemma="Spedition_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Spedition_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Spedition-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -113,7 +113,7 @@
 <LM>w#w-cmpr9407-035-p4s1w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-035-p4s1w8">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-cmpr9407-035-p4s2w8</LM>
 </w.rf>
 <form>Danzas</form>
-<tag lemma="Danzas_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Danzas_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-035-p4s2w9">
 <src.rf>manual</src.rf>
@@ -657,8 +657,8 @@
 </w.rf>
 <form>Internationale</form>
 <tag>
-<AM lemma="Internationale_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="internationale_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Internationale_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="internationale_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Internationale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -669,7 +669,7 @@
 </w.rf>
 <form>Spedition</form>
 <tag>
-<AM lemma="Spedition_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Spedition_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Spedition-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -706,7 +706,7 @@
 <LM>w#w-cmpr9407-035-p5s1w10</LM>
 </w.rf>
 <form>Vajdy</form>
-<tag lemma="Vajda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vajda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-035-p5s1w11">
 <src.rf>manual</src.rf>

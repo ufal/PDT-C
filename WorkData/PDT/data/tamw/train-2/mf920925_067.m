@@ -51,7 +51,7 @@
 <LM>w#w-mf920925-067-p1s1w5</LM>
 </w.rf>
 <form>Streibl</form>
-<tag lemma="Streibl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Streibl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-067-p1s1w6">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-mf920925-067-p1s1w10</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-067-p1s1w11">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-mf920925-067-p1s1w13</LM>
 </w.rf>
 <form>Mečiarem</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-067-p1s1w14">
 <src.rf>manual</src.rf>

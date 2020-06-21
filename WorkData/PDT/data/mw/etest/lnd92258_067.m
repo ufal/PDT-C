@@ -103,7 +103,7 @@
 <LM>w#w-lnd92258-067-p2s2w5</LM>
 </w.rf>
 <form>Brunete</form>
-<tag lemma="Brunete_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Brunete_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92258-067-p2s2w6">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-lnd92258-067-p2s2w19</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92258-067-p2s2w20">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

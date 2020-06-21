@@ -297,7 +297,7 @@
 <LM>w#w-ln95049-112-p2s2w9</LM>
 </w.rf>
 <form>Beníšková</form>
-<tag lemma="Beníšková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Beníšková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-112-p2s2w10">
 <src.rf>manual</src.rf>

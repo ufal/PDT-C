@@ -44,7 +44,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -55,7 +55,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -270,7 +270,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -281,7 +281,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2184,7 +2184,7 @@
 <form>Horu</form>
 <tag>
 <AM lemma="Hora_;G" src="orig">NNFS4-----A----</AM>
-<AM lemma="Hora_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Hora_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="hora" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -2218,7 +2218,7 @@
 <LM>w#w-ln94209-38-p3s5w22</LM>
 </w.rf>
 <form>Havlíčkův</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS4M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94209-38-p3s5w23">
 <src.rf>manual</src.rf>
@@ -2995,7 +2995,7 @@
 <LM>w#w-ln94209-38-p4s1w8</LM>
 </w.rf>
 <form>Masarykova</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94209-38-p4s1w9">
 <src.rf>manual</src.rf>

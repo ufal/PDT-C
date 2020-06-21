@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-115-p1s1w1</LM>
 </w.rf>
 <form>Dienstbier</form>
-<tag lemma="Dienstbier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dienstbier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-115-p1s1w2">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln95040-115-p2s1Bw4</LM>
 </w.rf>
 <form>Koukala</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-115-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -235,7 +235,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -277,7 +277,7 @@
 <LM>w#w-ln95040-115-p2s1Bw25</LM>
 </w.rf>
 <form>Alšově</form>
-<tag lemma="Alšův-2_;S_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
+<tag lemma="Alšův-2_;Y_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95040-115-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="orig">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -379,7 +379,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-1_:B_;m_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -405,7 +405,7 @@
 <LM>w#w-ln95040-115-p2s2w13</LM>
 </w.rf>
 <form>Dienstbier</form>
-<tag lemma="Dienstbier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dienstbier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-115-p2s2w14">
 <src.rf>manual</src.rf>
@@ -414,8 +414,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-115-p2s2w15">
@@ -659,7 +659,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="auto">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

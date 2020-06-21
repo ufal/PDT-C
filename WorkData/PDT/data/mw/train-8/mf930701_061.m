@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-061-p1s1w2</LM>
 </w.rf>
 <form>Kirimura</form>
-<tag lemma="Kirimura_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kirimura_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-061-p1s1w3">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 </w.rf>
 <form>exlibris</form>
 <tag>
-<AM lemma="exlibris_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="exlibris_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="exlibris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

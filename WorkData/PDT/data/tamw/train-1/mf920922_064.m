@@ -162,7 +162,7 @@
 </w.rf>
 <form>Krefeld</form>
 <tag>
-<AM lemma="Krefeld_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krefeld_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Krefeld_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -198,7 +198,7 @@
 <LM>w#w-mf920922-064-p2s8w2</LM>
 </w.rf>
 <form>Lála</form>
-<tag lemma="Lála_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lála_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-064-p2s8w3">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-mf920922-064-p2s8w8</LM>
 </w.rf>
 <form>Hardy</form>
-<tag lemma="Hardy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hardy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-064-p2s8w9">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-mf920922-064-p3s1w2</LM>
 </w.rf>
 <form>Kasper</form>
-<tag lemma="Kasper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kasper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-064-p3s1w3">
 <src.rf>manual</src.rf>

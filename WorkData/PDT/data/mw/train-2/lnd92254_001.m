@@ -61,7 +61,7 @@
 <LM>w#w-lnd92254-001-p2s1w4</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-001-p2s1w5">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-lnd92254-001-p2s3w48</LM>
 </w.rf>
 <form>Dubčeka</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-001-p2s3w49">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-lnd92254-001-p2s3w50</LM>
 </w.rf>
 <form>Gorbačova</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-001-p2s3w51">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-lnd92254-001-p2s5w2</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-001-p2s5w3">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 </w.rf>
 <form>US</form>
 <tag>
-<AM lemma="US-1_:B_;K_,t_^(letecká_společnost_Usair)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="US-1_:B_;m_,t_^(letecká_společnost_Usair)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
@@ -1104,7 +1104,7 @@
 <LM>w#w-lnd92254-001-p2s6w18</LM>
 </w.rf>
 <form>Kadlec</form>
-<tag lemma="Kadlec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kadlec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-001-p2s6w19">
 <src.rf>manual</src.rf>

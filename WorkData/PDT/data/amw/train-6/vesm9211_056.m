@@ -87,7 +87,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s1w6">
@@ -104,7 +104,7 @@
 <LM>w#w-vesm9211-056-p2s1w7</LM>
 </w.rf>
 <form>Plavec</form>
-<tag lemma="Plavec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plavec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-056-p2s1w8">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w11">
@@ -724,7 +724,7 @@
 <LM>w#w-vesm9211-056-p2s2w12</LM>
 </w.rf>
 <form>Hogan</form>
-<tag lemma="Hogan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hogan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-056-p2s2w13">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 </w.rf>
 <form>Astrophys</form>
 <tag>
-<AM lemma="Astrophysical_:B_;R_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Astrophysical_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Astrophys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -768,8 +768,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w18">
@@ -808,20 +808,20 @@
 <AM lemma="L-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="L-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
-<AM lemma="L-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="L-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="L-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="L-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Labe_:B_;G" src="auto">NNNS7-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w22">
@@ -852,20 +852,20 @@
 <AM lemma="L-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="L-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
-<AM lemma="L-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="L-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="L-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="L-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Labe_:B_;G" src="auto">NNNS7-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w25">
@@ -1459,7 +1459,7 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

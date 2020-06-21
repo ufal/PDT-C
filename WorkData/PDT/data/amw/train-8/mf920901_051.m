@@ -45,7 +45,7 @@
 <form>H</form>
 <tag>
 <AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 </s>
@@ -153,7 +153,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -485,7 +485,7 @@
 <LM>w#w-mf920901-051-p4s1w2</LM>
 </w.rf>
 <form>Kula</form>
-<tag lemma="Kula-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kula-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-051-p4s1w3">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-mf920901-051-p5s1w2</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-051-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-mf920901-051-p6s1w2</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-051-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1345,8 +1345,8 @@
 </w.rf>
 <form>Enza</form>
 <tag>
-<AM lemma="Enzo_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Enzo_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Enzo_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Enzo_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-051-p6s2w6">
@@ -1355,7 +1355,7 @@
 <LM>w#w-mf920901-051-p6s2w6</LM>
 </w.rf>
 <form>Scifa</form>
-<tag lemma="Scifo_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Scifo_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-051-p6s2w7">
 <src.rf>manual</src.rf>

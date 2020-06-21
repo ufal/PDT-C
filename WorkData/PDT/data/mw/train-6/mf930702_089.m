@@ -19,7 +19,7 @@
 <LM>w#w-mf930702-089-p1s1w1</LM>
 </w.rf>
 <form>Scudamore</form>
-<tag lemma="Scudamore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scudamore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-089-p1s1w2">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-mf930702-089-p2s1w20</LM>
 </w.rf>
 <form>Scudamore</form>
-<tag lemma="Scudamore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scudamore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s1w21">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-mf930702-089-p2s3w1</LM>
 </w.rf>
 <form>Scudamore</form>
-<tag lemma="Scudamore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scudamore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s3w2">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-mf930702-089-p2s3w8</LM>
 </w.rf>
 <form>Aintree</form>
-<tag lemma="Aintree_;G" src="auto" selected="1">NNISX-----A----</tag>
+<tag lemma="Aintree_;G" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s3w9">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-mf930702-089-p2s3w10</LM>
 </w.rf>
 <form>Barnettem</form>
-<tag lemma="Barnett_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Barnett_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s3w11">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-mf930702-089-p2s3w17</LM>
 </w.rf>
 <form>Francoisem</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s3w18">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-mf930702-089-p2s3w18</LM>
 </w.rf>
 <form>Doumetem</form>
-<tag lemma="Doumet_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Doumet_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s3w19">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf930702-089-p2s3w21</LM>
 </w.rf>
 <form>Taxisův</form>
-<tag lemma="Taxisův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Taxisův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-mf930702-089-p2s3w22">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-mf930702-089-p2s4w2</LM>
 </w.rf>
 <form>Barnett</form>
-<tag lemma="Barnett_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barnett_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s4w3">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-mf930702-089-p2s4w21</LM>
 </w.rf>
 <form>Doumet</form>
-<tag lemma="Doumet_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doumet_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s4w22">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <LM>w#w-mf930702-089-p2s5w9</LM>
 </w.rf>
 <form>Bresová</form>
-<tag lemma="Bresová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bresová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-089-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1407,7 +1407,7 @@
 <form>s</form>
 <tag>
 <AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="s-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="s-33" src="manual">Q3-------------</AM>
 <AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1441,7 +1441,7 @@
 <LM>w#w-mf930702-089-p3s1w13</LM>
 </w.rf>
 <form>Janda</form>
-<tag lemma="Janda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-089-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1686,7 +1686,7 @@
 <LM>w#w-mf930702-089-p3s2w3</LM>
 </w.rf>
 <form>Taxisova</form>
-<tag lemma="Taxisův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Taxisův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930702-089-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <LM>w#w-mf930702-089-p4s1w1</LM>
 </w.rf>
 <form>Taxisův</form>
-<tag lemma="Taxisův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Taxisův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930702-089-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2005,7 +2005,7 @@
 <LM>w#w-mf930702-089-p4s1w13</LM>
 </w.rf>
 <form>Jandy</form>
-<tag lemma="Janda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Janda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-089-p4s1w14">
 <src.rf>manual</src.rf>

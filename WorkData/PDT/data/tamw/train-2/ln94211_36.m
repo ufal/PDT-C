@@ -77,7 +77,7 @@
 <LM>w#w-ln94211-36-p2s1Aw3</LM>
 </w.rf>
 <form>mš</form>
-<tag lemma="mš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-36-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-ln94211-36-p2s2w13</LM>
 </w.rf>
 <form>Fuchsová</form>
-<tag lemma="Fuchsová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fuchsová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-36-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-2_:B_;b_,t_^(Cash_Deposit)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="CD-2_:B_,t_^(Cash_Deposit)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln94211-36-p4s4w1</LM>
 </w.rf>
 <form>Fuchsová</form>
-<tag lemma="Fuchsová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fuchsová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-36-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1856,7 +1856,7 @@
 <LM>w#w-ln94211-36-p5s4w6</LM>
 </w.rf>
 <form>Lobkowicz</form>
-<tag lemma="Lobkowicz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lobkowicz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-36-p5s4w7">
 <src.rf>manual</src.rf>

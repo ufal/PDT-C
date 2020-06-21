@@ -110,7 +110,7 @@
 </w.rf>
 <form>han</form>
 <tag>
-<AM lemma="han-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="han-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="hana_^(pohana)" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -136,7 +136,7 @@
 <LM>w#w-mf930708-033-p2s1w8</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-033-p2s1w9">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-mf930708-033-p2s2w7</LM>
 </w.rf>
 <form>Pierer</form>
-<tag lemma="Pierer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pierer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-033-p2s2w8">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-mf930708-033-p2s5w6</LM>
 </w.rf>
 <form>Siemense</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-033-p2s5w7">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-mf930708-033-p2s5w10</LM>
 </w.rf>
 <form>Pierera</form>
-<tag lemma="Pierer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pierer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-033-p2s5w11">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-mf930708-033-p3s1w6</LM>
 </w.rf>
 <form>Siemense</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-033-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 </w.rf>
 <form>ZPA</form>
 <tag>
-<AM lemma="ZPA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ZPA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ZPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -74,7 +74,7 @@
 <LM>w#w-lnd94104-023-p1s2w5</LM>
 </w.rf>
 <form>Felliniho</form>
-<tag lemma="Fellini_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fellini_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-023-p1s2w6">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-lnd94104-023-p1s3w21</LM>
 </w.rf>
 <form>Multikino</form>
-<tag lemma="Multikino_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Multikino_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94104-023-p1s3w22">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-lnd94104-023-p1s5w4</LM>
 </w.rf>
 <form>Satyricon</form>
-<tag lemma="Satyricon_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Satyricon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-023-p1s5w5">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-lnd94104-023-p1s5w8</LM>
 </w.rf>
 <form>Casanova</form>
-<tag lemma="Casanova_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Casanova_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-023-p1s5w9">
 <src.rf>manual</src.rf>

@@ -84,7 +84,7 @@
 <LM>w#w-ln95046-045-p1s1w9</LM>
 </w.rf>
 <form>Berlinale</form>
-<tag lemma="Berlinale_;R" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Berlinale_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95046-045-p1s1w10">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln95046-045-p1s1w12</LM>
 </w.rf>
 <form>Vardové</form>
-<tag lemma="Vardová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vardová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-045-p1s1w13">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95046-045-p1s1w19</LM>
 </w.rf>
 <form>Piccolim</form>
-<tag lemma="Piccoli_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Piccoli_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-045-p1s1w20">
 <src.rf>manual</src.rf>

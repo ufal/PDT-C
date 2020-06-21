@@ -77,7 +77,7 @@
 <LM>w#w-ln95046-053-p2s1w3</LM>
 </w.rf>
 <form>Velíška</form>
-<tag lemma="Velíšek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Velíšek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s1w4">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln95046-053-p2s2w14</LM>
 </w.rf>
 <form>Kopeckého</form>
-<tag lemma="Kopecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kopecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s2w15">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-ln95046-053-p2s2w22</LM>
 </w.rf>
 <form>Kučera</form>
-<tag lemma="Kučera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kučera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s2w23">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-ln95046-053-p2s4w9</LM>
 </w.rf>
 <form>Stalinovým</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-ln95046-053-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-ln95046-053-p2s6w15</LM>
 </w.rf>
 <form>Kučera</form>
-<tag lemma="Kučera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kučera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1216,9 +1216,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-053-p2s7w18">
@@ -1397,7 +1397,7 @@
 <LM>w#w-ln95046-053-p2s8w21</LM>
 </w.rf>
 <form>Velíškem</form>
-<tag lemma="Velíšek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Velíšek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s8w22">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <LM>w#w-ln95046-053-p2s9w15</LM>
 </w.rf>
 <form>Kučera</form>
-<tag lemma="Kučera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kučera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s9w16">
 <src.rf>manual</src.rf>
@@ -1848,7 +1848,7 @@
 <LM>w#w-ln95046-053-p3s3w5</LM>
 </w.rf>
 <form>Rajčanem</form>
-<tag lemma="Rajčan_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rajčan_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-053-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1872,7 +1872,7 @@
 <LM>w#w-ln95046-053-p3s3w8</LM>
 </w.rf>
 <form>Velíškem</form>
-<tag lemma="Velíšek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Velíšek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-053-p3s3w9">
 <src.rf>manual</src.rf>
@@ -2053,7 +2053,7 @@
 <LM>w#w-ln95046-053-p3s4w4</LM>
 </w.rf>
 <form>Velíškových</form>
-<tag lemma="Velíškův_;S_^(*3ek)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Velíškův_;Y_^(*3ek)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln95046-053-p3s4w5">
 <src.rf>manual</src.rf>
@@ -2455,7 +2455,7 @@
 <LM>w#w-ln95046-053-p3s5w23</LM>
 </w.rf>
 <form>Kučera</form>
-<tag lemma="Kučera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kučera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-053-p3s5w24">
 <src.rf>manual</src.rf>

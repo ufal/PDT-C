@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-029-p1s1w1</LM>
 </w.rf>
 <form>Seifertova</form>
-<tag lemma="Seifertův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Seifertův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920923-029-p1s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-mf920923-029-p2s1w5</LM>
 </w.rf>
 <form>Seiferta</form>
-<tag lemma="Seifert_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seifert_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-029-p2s1w6">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-mf920923-029-p2s1w12</LM>
 </w.rf>
 <form>Hiršalovi</form>
-<tag lemma="Hiršal_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hiršal_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920923-029-p2s1w13">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-mf920923-029-p2s1w19</LM>
 </w.rf>
 <form>Wernischovi</form>
-<tag lemma="Wernisch_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Wernisch_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920923-029-p2s1w20">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-029-p2s2w3">
@@ -266,7 +266,7 @@
 <LM>w#w-mf920923-029-p2s2w4</LM>
 </w.rf>
 <form>Seiferta</form>
-<tag lemma="Seifert_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seifert_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-029-p2s2w5">
 <src.rf>manual</src.rf>

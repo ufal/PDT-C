@@ -37,7 +37,7 @@
 <LM>w#w-ln94202-110-p2s1w2</LM>
 </w.rf>
 <form>Klimeš</form>
-<tag lemma="Klimeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klimeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-110-p2s1w3">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 </w.rf>
 <form>WBC</form>
 <tag>
-<AM lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WBC-1_:B_;m_,t_^(World_Box_Council)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="WBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -206,8 +206,8 @@
 </w.rf>
 <form>Acero</form>
 <tag>
-<AM lemma="Acero_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Acera_;R_^(Shimano_Acera)" src="auto" recommended="1">NNFS5-----A----</AM>
+<AM lemma="Acero_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Acera_;m_^(Shimano_Acera)" src="auto" recommended="1">NNFS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p3s1w14">
@@ -216,7 +216,7 @@
 <LM>w#w-ln94202-110-p3s1w14</LM>
 </w.rf>
 <form>Sanchez</form>
-<tag lemma="Sanchez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sanchez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-110-p3s1w15">
 <src.rf>manual</src.rf>
@@ -258,9 +258,9 @@
 <form>City</form>
 <tag>
 <AM lemma="City-1_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -322,7 +322,7 @@
 <LM>w#w-ln94202-110-p3s2w9</LM>
 </w.rf>
 <form>Harrise</form>
-<tag lemma="Harris_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Harris_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-110-p3s2w10">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-ln94202-110-p3s2w10</LM>
 </w.rf>
 <form>Pattersona</form>
-<tag lemma="Patterson_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Patterson_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-110-p3s2w11">
 <src.rf>manual</src.rf>
@@ -469,9 +469,9 @@
 </w.rf>
 <form>IBF</form>
 <tag>
-<AM lemma="IBF-3_:B_;K_,t_^(International_Box_Federation)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="IBF-1_:B_;K_,t_^(International_Badminton_Federation)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="IBF-2_:B_;K_,t_^(International_Bowling_Federation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IBF-3_:B_;m_,t_^(International_Box_Federation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IBF-1_:B_;m_,t_^(International_Badminton_Federation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="IBF-2_:B_;m_,t_^(International_Bowling_Federation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IBF-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IBF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -509,7 +509,7 @@
 <LM>w#w-ln94202-110-p4s1w15</LM>
 </w.rf>
 <form>Rodriguez</form>
-<tag lemma="Rodriguez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rodriguez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-110-p4s1w16">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94202-110-p5s1w4</LM>
 </w.rf>
 <form>Eubank</form>
-<tag lemma="Eubank_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eubank_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-110-p5s1w5">
 <src.rf>manual</src.rf>
@@ -747,8 +747,8 @@
 </w.rf>
 <form>WBO</form>
 <tag>
-<AM lemma="WBO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="WBO_:B_;K_,t_^(Western_Buddhists_Order)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="WBO_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WBO_:B_;m_,t_^(Western_Buddhists_Order)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="WBO_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="WBO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

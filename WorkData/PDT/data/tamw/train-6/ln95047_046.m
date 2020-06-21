@@ -27,7 +27,7 @@
 <LM>w#w-ln95047-046-p1s1w2</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-046-p1s1w3">
 <src.rf>manual</src.rf>
@@ -70,7 +70,7 @@
 <LM>w#w-ln95047-046-p1s1w7</LM>
 </w.rf>
 <form>Artagnana</form>
-<tag lemma="Artagnan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Artagnan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-046-p1s1w8">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-ln95047-046-p1s1w14</LM>
 </w.rf>
 <form>Schejbala</form>
-<tag lemma="Schejbal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schejbal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 </mdata>

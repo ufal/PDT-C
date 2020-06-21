@@ -731,7 +731,7 @@
 <LM>w#w-vesm9212-030-p3s1w2</LM>
 </w.rf>
 <form>Ticháček</form>
-<tag lemma="Ticháček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ticháček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-030-p3s1w3">
 <src.rf>manual</src.rf>

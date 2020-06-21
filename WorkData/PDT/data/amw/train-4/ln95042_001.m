@@ -1675,7 +1675,7 @@
 <LM>w#w-ln95042-001-p4s2w8</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-001-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1699,7 +1699,7 @@
 <LM>w#w-ln95042-001-p4s2w11</LM>
 </w.rf>
 <form>Mikrotechna</form>
-<tag lemma="Mikrotechna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mikrotechna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-001-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1747,7 +1747,7 @@
 <LM>w#w-ln95042-001-p4s2w17</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-001-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2338,7 +2338,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>

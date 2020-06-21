@@ -28,7 +28,7 @@
 </w.rf>
 <form>CEFTA</form>
 <tag>
-<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -142,7 +142,7 @@
 <LM>w#w-ln94201-6-p1s1w16</LM>
 </w.rf>
 <form>Hula</form>
-<tag lemma="Hula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-6-p1s1w17">
 <src.rf>manual</src.rf>
@@ -159,8 +159,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

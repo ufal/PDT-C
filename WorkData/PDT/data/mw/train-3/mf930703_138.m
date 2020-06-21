@@ -431,7 +431,7 @@
 <LM>w#w-mf930703-138-p3s1w4</LM>
 </w.rf>
 <form>Interfax</form>
-<tag lemma="Interfax_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interfax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-138-p3s1w5">
 <src.rf>manual</src.rf>

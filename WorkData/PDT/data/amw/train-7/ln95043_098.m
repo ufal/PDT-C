@@ -914,7 +914,7 @@
 <LM>w#w-ln95043-098-p2s5w29</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-098-p2s5w30">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1197,7 +1197,7 @@
 <LM>w#w-ln95043-098-p2s7w16</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-098-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1533,7 +1533,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1629,7 +1629,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2808,7 +2808,7 @@
 <LM>w#w-ln95043-098-p4s1w20</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-098-p4s1w21">
 <src.rf>manual</src.rf>
@@ -3061,7 +3061,7 @@
 </w.rf>
 <form>ÚSMD</form>
 <tag>
-<AM lemma="ÚSMD-1_:B_;K_^(Ústav_silniční_a_městské_dopravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ÚSMD-1_:B_;m_^(Ústav_silniční_a_městské_dopravy)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ÚSMD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3106,7 +3106,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3435,7 +3435,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3782,7 +3782,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4191,7 +4191,7 @@
 <LM>w#w-ln95043-098-p6s6w10</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-098-p6s6w11">
 <src.rf>manual</src.rf>
@@ -4218,7 +4218,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4362,7 +4362,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5090,7 +5090,7 @@
 </w.rf>
 <form>STK</form>
 <tag>
-<AM lemma="STK-1_:B_;K_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STK-1_:B_;m_^(Stanice_technické_kontroly)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="STK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

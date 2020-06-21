@@ -1003,7 +1003,7 @@
 <LM>w#w-cmpr9417-018-p6s1w2</LM>
 </w.rf>
 <form>Jůza</form>
-<tag lemma="Jůza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jůza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-018-p6s1w3">
 <src.rf>manual</src.rf>

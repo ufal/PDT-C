@@ -43,7 +43,7 @@
 <LM>w#w-ln94206-125-p1s1w4</LM>
 </w.rf>
 <form>Medveděva</form>
-<tag lemma="Medveděv_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Medveděv_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-125-p2s1A">
@@ -81,7 +81,7 @@
 </w.rf>
 <form>ad</form>
 <tag>
-<AM lemma="ad-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
@@ -118,7 +118,7 @@
 <LM>w#w-ln94206-125-p2s1Bw2</LM>
 </w.rf>
 <form>Vávra</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-125-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-ln94206-125-p2s1Bw15</LM>
 </w.rf>
 <form>Medveděv</form>
-<tag lemma="Medveděv_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Medveděv_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-125-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 </w.rf>
 <form>Meadows</form>
 <tag>
-<AM lemma="Meadows_;G_,t" src="auto">NNFPX-----A----</AM>
+<AM lemma="Meadows_;G_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="Meadows-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94206-125-p2s6w27</LM>
 </w.rf>
 <form>Medveděv</form>
-<tag lemma="Medveděv_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Medveděv_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-125-p2s6w28">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-ln94206-125-p2s7w13</LM>
 </w.rf>
 <form>Nováčka</form>
-<tag lemma="Nováček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nováček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-125-p2s7w14">
 <src.rf>manual</src.rf>

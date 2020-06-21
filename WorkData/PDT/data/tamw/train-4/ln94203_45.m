@@ -154,7 +154,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-45-p2s1Aw13">
@@ -171,7 +171,7 @@
 <LM>w#w-ln94203-45-p2s1Aw14</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-45-p2s1B">
@@ -198,8 +198,8 @@
 </w.rf>
 <form>jap</form>
 <tag>
-<AM lemma="jap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jap-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jap-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jap-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-45-p2s1Bw4">
@@ -452,7 +452,7 @@
 <LM>w#w-ln94203-45-p2s2w7</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-45-p2s2w8">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -551,7 +551,7 @@
 <LM>w#w-ln94203-45-p2s2w19</LM>
 </w.rf>
 <form>Nekvasila</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-45-p2s2w20">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-ln94203-45-p3s2w17</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-45-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-45-p3s4w18">
@@ -1234,7 +1234,7 @@
 <LM>w#w-ln94203-45-p3s4w19</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-45-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1894,7 +1894,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-45-p4s3w30">
@@ -1911,7 +1911,7 @@
 <LM>w#w-ln94203-45-p4s3w31</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-45-p4s3w32">
 <src.rf>manual</src.rf>
@@ -2157,7 +2157,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-45-p5s1w16">
@@ -2174,7 +2174,7 @@
 <LM>w#w-ln94203-45-p5s1w17</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-45-p5s1w18">
 <src.rf>manual</src.rf>
@@ -2790,7 +2790,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-45-p5s6w14">
@@ -2807,7 +2807,7 @@
 <LM>w#w-ln94203-45-p5s6w15</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-45-p5s6w16">
 <src.rf>manual</src.rf>

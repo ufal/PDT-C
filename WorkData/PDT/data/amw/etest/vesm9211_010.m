@@ -1807,7 +1807,7 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="chemical_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Chemical-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1873,7 +1873,7 @@
 </w.rf>
 <form>Pheromones</form>
 <tag>
-<AM lemma="pheromone_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="pheromone_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="pheromones_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pheromones-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1902,7 +1902,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-010-p5s1w24">
@@ -1921,7 +1921,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-010-p5s1w26">
@@ -1939,9 +1939,9 @@
 </w.rf>
 <form>Agosty</form>
 <tag>
-<AM lemma="Agosta_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Agosto_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Agosto_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Agosta_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Agosto_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Agosto_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-010-p5s1w28">
@@ -2512,7 +2512,7 @@
 </w.rf>
 <form>spiders</form>
 <tag>
-<AM lemma="spider_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="spider_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="spiders_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="spiders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3463,7 +3463,7 @@
 <LM>w#w-vesm9211-010-p7s2w4</LM>
 </w.rf>
 <form>Sacks</form>
-<tag lemma="Sacks_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sacks_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-010-p7s2w5">
 <src.rf>manual</src.rf>
@@ -6278,7 +6278,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6433,7 +6433,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-010-p10s1w3">
@@ -6450,7 +6450,7 @@
 <LM>w#w-vesm9211-010-p10s1w4</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -69,7 +69,7 @@
 <LM>w#w-cmpr9413-003-p3s1w5</LM>
 </w.rf>
 <form>Calofrig</form>
-<tag lemma="Calofrig_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Calofrig_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-003-p3s1w6">
 <src.rf>manual</src.rf>
@@ -158,7 +158,7 @@
 </w.rf>
 <form>ISO</form>
 <tag>
-<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-1_:B_;m_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ISO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -274,7 +274,7 @@
 <LM>w#w-cmpr9413-003-p4s1w12</LM>
 </w.rf>
 <form>Bakulemu</form>
-<tag lemma="Bakule_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Bakule_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9413-003-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-cmpr9413-003-p6s6w13</LM>
 </w.rf>
 <form>Keramo</form>
-<tag lemma="Keramo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Keramo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-003-p6s6w14">
 <src.rf>manual</src.rf>
@@ -1404,7 +1404,7 @@
 </w.rf>
 <form>ISO</form>
 <tag>
-<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-1_:B_;m_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ISO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -36,7 +36,7 @@
 </w.rf>
 <form>dr</form>
 <tag>
-<AM lemma="dr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="dr-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
@@ -250,7 +250,7 @@
 <LM>w#w-lnd94105-074-p1s3w24</LM>
 </w.rf>
 <form>Pinderovi</form>
-<tag lemma="Pinder_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Pinder_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s3w25">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-lnd94105-074-p1s3w32</LM>
 </w.rf>
 <form>Seger</form>
-<tag lemma="Seger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s3w33">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-lnd94105-074-p1s4w2</LM>
 </w.rf>
 <form>Pinder</form>
-<tag lemma="Pinder_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pinder_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s4w3">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-lnd94105-074-p1s4w16</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-074-p1s4w17">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 </w.rf>
 <form>Brighty</form>
 <tag>
-<AM lemma="Brighty_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Brighty_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Bright_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Bright_;Y" src="auto">NNMP7-----A----</AM>
 </tag>
@@ -902,7 +902,7 @@
 <LM>w#w-lnd94105-074-p1s7w11</LM>
 </w.rf>
 <form>Pinder</form>
-<tag lemma="Pinder_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pinder_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s7w12">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-lnd94105-074-p1s7w14</LM>
 </w.rf>
 <form>VŠE</form>
-<tag lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-074-p1s7w15">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-lnd94105-074-p1s7w16</LM>
 </w.rf>
 <form>Seger</form>
-<tag lemma="Seger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94105-074-p1s8">
@@ -968,7 +968,7 @@
 <LM>w#w-lnd94105-074-p1s8w3</LM>
 </w.rf>
 <form>Cudlín</form>
-<tag lemma="Cudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cudlín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s8w4">
 <src.rf>manual</src.rf>
@@ -985,8 +985,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

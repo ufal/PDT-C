@@ -696,7 +696,7 @@
 <LM>w#w-ln95047-104-p2s4w3</LM>
 </w.rf>
 <form>Masopust</form>
-<tag lemma="Masopust_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masopust_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-104-p2s4w4">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-ln95047-104-p2s4w23</LM>
 </w.rf>
 <form>Čepička</form>
-<tag lemma="Čepička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čepička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-104-p2s4w24">
 <src.rf>manual</src.rf>

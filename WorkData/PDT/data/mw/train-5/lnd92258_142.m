@@ -20,7 +20,7 @@
 </w.rf>
 <form>Piggott</form>
 <tag>
-<AM lemma="Piggott-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Piggott-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Piggott_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Piggott_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -101,7 +101,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -162,7 +162,7 @@
 <LM>w#w-lnd92258-142-p2s1w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92258-142-p2s1w15">
 <src.rf>manual</src.rf>
@@ -354,8 +354,8 @@
 </w.rf>
 <form>Brooks</form>
 <tag>
-<AM lemma="Brooks_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brooks_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Brooks_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brooks_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-142-p2s3w2">
@@ -421,8 +421,8 @@
 </w.rf>
 <form>Lesterem</form>
 <tag>
-<AM lemma="Lester_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Lester_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Lester_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Lester_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-142-p2s3w10">
@@ -433,7 +433,7 @@
 <form>Piggottem</form>
 <tag>
 <AM lemma="Piggott_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Piggott-2_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Piggott-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-142-p2s3w11">
@@ -996,8 +996,8 @@
 <form>Triano</form>
 <tag>
 <AM lemma="Triano_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Triana_;S" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="Triano_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Triana_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Triano_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-142-p2s7w29">
@@ -1286,7 +1286,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-5_,t_^(př._l'Arc,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -1332,7 +1332,7 @@
 </w.rf>
 <form>Triomphe</form>
 <tag>
-<AM lemma="Triomphe_;m_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Triomphe_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Triomphe-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1460,7 +1460,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1471,7 +1471,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1524,7 +1524,7 @@
 <LM>w#w-lnd92258-142-p2s8w21</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92258-142-p2s8w22">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-lnd92258-142-p3s1w2</LM>
 </w.rf>
 <form>MMZ</form>
-<tag lemma="MMZ-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="MMZ-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-142-p3s1w3">
 <src.rf>manual</src.rf>

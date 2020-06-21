@@ -157,7 +157,7 @@
 <LM>w#w-mf920923-095-p8s1w1</LM>
 </w.rf>
 <form>Maradona</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-095-p8s1w2">
 <src.rf>manual</src.rf>

@@ -862,7 +862,7 @@
 <LM>w#w-vesm9212-009-p3s5w2</LM>
 </w.rf>
 <form>Aristoteles</form>
-<tag lemma="Aristoteles_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aristoteles_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-009-p3s5w3">
 <src.rf>manual</src.rf>
@@ -6441,7 +6441,7 @@
 <LM>w#w-vesm9212-009-p13s5w4</LM>
 </w.rf>
 <form>Gödelova</form>
-<tag lemma="Gödelův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Gödelův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9212-009-p13s5w5">
 <src.rf>manual</src.rf>
@@ -7367,7 +7367,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-009-p16s1w3">
@@ -7384,7 +7384,7 @@
 <LM>w#w-vesm9212-009-p16s1w4</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

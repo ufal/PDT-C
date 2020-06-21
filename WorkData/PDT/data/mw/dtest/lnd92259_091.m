@@ -44,7 +44,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -365,7 +365,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -684,7 +684,7 @@
 </w.rf>
 <form>AENOV</form>
 <tag>
-<AM lemma="AENOV_:B_;K_^(Asociace_evr._nár._olympijských_výborů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AENOV_:B_;m_^(Asociace_evr._nár._olympijských_výborů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AENOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

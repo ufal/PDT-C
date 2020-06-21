@@ -20,7 +20,7 @@
 </w.rf>
 <form>US</form>
 <tag>
-<AM lemma="US-1_:B_;K_,t_^(letecká_společnost_Usair)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="US-1_:B_;m_,t_^(letecká_společnost_Usair)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>

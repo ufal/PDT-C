@@ -134,7 +134,7 @@
 <AM lemma="ad_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p3s1w4">
@@ -386,7 +386,7 @@
 </w.rf>
 <form>ČBS</form>
 <tag>
-<AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČBS_:B_;m_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -569,7 +569,7 @@
 </w.rf>
 <form>SBA</form>
 <tag>
-<AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SBA-3_:B_;m_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -822,7 +822,7 @@
 <LM>w#w-lnd92258-136-p3s3w22</LM>
 </w.rf>
 <form>Kotleby</form>
-<tag lemma="Kotleba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotleba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-136-p3s3w23">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 </w.rf>
 <form>FIBA</form>
 <tag>
-<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1188,7 +1188,7 @@
 <LM>w#w-lnd92258-136-p7s1w6</LM>
 </w.rf>
 <form>Matického</form>
-<tag lemma="Matický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Matický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-136-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-lnd92258-136-p7s1w9</LM>
 </w.rf>
 <form>Liptákové</form>
-<tag lemma="Liptáková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Liptáková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-136-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 </w.rf>
 <form>FIBA</form>
 <tag>
-<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1257,7 +1257,7 @@
 <LM>w#w-lnd92258-136-p7s2w4</LM>
 </w.rf>
 <form>Matický</form>
-<tag lemma="Matický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-136-p7s2w5">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 </w.rf>
 <form>FIBA</form>
 <tag>
-<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1824,7 +1824,7 @@
 <LM>w#w-lnd92258-136-p7s4w27</LM>
 </w.rf>
 <form>Liptáková</form>
-<tag lemma="Liptáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Liptáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-136-p7s4w28">
 <src.rf>manual</src.rf>
@@ -1865,8 +1865,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p7s4w33">
@@ -1899,7 +1899,7 @@
 <LM>w#w-lnd92258-136-p7s4w36</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-136-p7s4w37">
 <src.rf>manual</src.rf>
@@ -2099,7 +2099,7 @@
 <LM>w#w-lnd92258-136-p7s4w61</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-136-p7s4w62">
 <src.rf>manual</src.rf>
@@ -2529,7 +2529,7 @@
 <LM>w#w-lnd92258-136-p9s2w4</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-136-p9s2w5">
 <src.rf>manual</src.rf>
@@ -2577,7 +2577,7 @@
 <LM>w#w-lnd92258-136-p9s2w10</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-136-p9s2w11">
 <src.rf>manual</src.rf>
@@ -2625,7 +2625,7 @@
 <LM>w#w-lnd92258-136-p9s2w16</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-136-p9s2w17">
 <src.rf>manual</src.rf>
@@ -2947,8 +2947,8 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p10s1w13">
@@ -3005,7 +3005,7 @@
 <LM>w#w-lnd92258-136-p10s1w19</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-136-p10s1w20">
 <src.rf>manual</src.rf>

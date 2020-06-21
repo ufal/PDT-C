@@ -53,7 +53,7 @@
 <LM>w#w-ln94211-1-p2s1w2</LM>
 </w.rf>
 <form>Intergraph</form>
-<tag lemma="Intergraph_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Intergraph_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p2s1w3">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-ln94211-1-p3s3w8</LM>
 </w.rf>
 <form>Janského</form>
-<tag lemma="Janský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Janský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-1-p3s3w9">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-ln94211-1-p3s4w9</LM>
 </w.rf>
 <form>AKTIS</form>
-<tag lemma="Aktis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Aktis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p3s4w10">
 <src.rf>manual</src.rf>
@@ -794,8 +794,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="D-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p3s4w12">
@@ -813,7 +813,7 @@
 </w.rf>
 <form>DATA</form>
 <tag>
-<AM lemma="Data_;K" src="orig">NNNP1-----A----</AM>
+<AM lemma="Data_;m" src="orig">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto" recommended="1" selected="1">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
@@ -838,8 +838,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p3s4w16">
@@ -857,8 +857,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p3s4w18">
@@ -1006,8 +1006,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p3s5w15">
@@ -1462,7 +1462,7 @@
 <LM>w#w-ln94211-1-p4s1w16</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1495,7 +1495,7 @@
 </w.rf>
 <form>SCENIC</form>
 <tag>
-<AM lemma="Scenic_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Scenic_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="SCENIC-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1601,7 +1601,7 @@
 <LM>w#w-ln94211-1-p4s1w33</LM>
 </w.rf>
 <form>bitcon</form>
-<tag lemma="bitcon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="bitcon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s1w34">
 <src.rf>manual</src.rf>
@@ -1772,7 +1772,7 @@
 </w.rf>
 <form>PCD</form>
 <tag>
-<AM lemma="PCD_:B_;R" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PCD_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="PCD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1882,7 +1882,7 @@
 <LM>w#w-ln94211-1-p4s4Aw1</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s4Aw2">
 <src.rf>manual</src.rf>
@@ -2071,7 +2071,7 @@
 </w.rf>
 <form>SCENIC</form>
 <tag>
-<AM lemma="Scenic_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Scenic_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="SCENIC-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2179,7 +2179,7 @@
 <LM>w#w-ln94211-1-p4s5w8</LM>
 </w.rf>
 <form>bitcon</form>
-<tag lemma="bitcon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="bitcon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s5w9">
 <src.rf>manual</src.rf>
@@ -2309,7 +2309,7 @@
 <LM>w#w-ln94211-1-p5s1w11</LM>
 </w.rf>
 <form>Abakusu</form>
-<tag lemma="Abakus_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Abakus_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-1-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2327,7 +2327,7 @@
 <LM>w#w-ln94211-1-p5s2w1</LM>
 </w.rf>
 <form>Abakus</form>
-<tag lemma="Abakus_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Abakus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2385,7 +2385,7 @@
 <form>software</form>
 <tag>
 <AM lemma="software" src="orig">NNIS2-----A----</AM>
-<AM lemma="software" src="manual" selected="1">NNISX-----A----</AM>
+<AM lemma="software" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p5s2w9">
@@ -2498,7 +2498,7 @@
 <LM>w#w-ln94211-1-p5s2w22</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIPX-----A----</tag>
+<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-1-p5s2w23">
 <src.rf>manual</src.rf>
@@ -2531,8 +2531,8 @@
 </w.rf>
 <form>WinFax</form>
 <tag>
-<AM lemma="WinFax_;R_,t_^(software)" src="orig">NNIS1-----A----</AM>
-<AM lemma="WinFax_;R_^(software)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="WinFax_;m_,t_^(software)" src="orig">NNIS1-----A----</AM>
+<AM lemma="WinFax_;m_^(software)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p5s2w27">
@@ -2628,7 +2628,7 @@
 <LM>w#w-ln94211-1-p5s4w1</LM>
 </w.rf>
 <form>Abakus</form>
-<tag lemma="Abakus_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Abakus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p5s4w2">
 <src.rf>manual</src.rf>
@@ -2709,7 +2709,7 @@
 </w.rf>
 <form>Legato</form>
 <tag>
-<AM lemma="Legato_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Legato_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="legato" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="legato" src="auto">NNNS4-----A----</AM>
 <AM lemma="legato" src="auto">NNNS5-----A----</AM>
@@ -2724,7 +2724,7 @@
 </w.rf>
 <form>Systems</form>
 <tag>
-<AM lemma="Systems_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Systems_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3043,7 +3043,7 @@
 </w.rf>
 <form>SWS</form>
 <tag>
-<AM lemma="SWS_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SWS_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SWS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3054,7 +3054,7 @@
 </w.rf>
 <form>Software</form>
 <tag>
-<AM lemma="Software_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Software_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="software" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="software" src="auto">NNIS2-----A----</AM>
 <AM lemma="software" src="auto">NNIS3-----A----</AM>
@@ -3119,7 +3119,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -3138,7 +3138,7 @@
 </w.rf>
 <form>ROM</form>
 <tag>
-<AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ROM_:B_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ROM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3224,7 +3224,7 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KiloByte" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
@@ -3303,7 +3303,7 @@
 <LM>w#w-ln94211-1-p6s2w5</LM>
 </w.rf>
 <form>Plextor</form>
-<tag lemma="Plextor_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Plextor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-1-p6s2w6">
 <src.rf>manual</src.rf>
@@ -3354,8 +3354,8 @@
 </w.rf>
 <form>PLEX</form>
 <tag>
-<AM lemma="PLEX_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="PLEX_;R" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="PLEX_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PLEX_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p6s3w6">
@@ -3365,7 +3365,7 @@
 </w.rf>
 <form>PX</form>
 <tag>
-<AM lemma="PX_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PX_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PX_:B_^(index)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="px_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PX-88" src="manual" selected="1">BNXXX-----A----</AM>

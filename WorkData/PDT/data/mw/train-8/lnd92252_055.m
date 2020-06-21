@@ -27,7 +27,7 @@
 <LM>w#w-lnd92252-055-p1s1w2</LM>
 </w.rf>
 <form>Perotův</form>
-<tag lemma="Perotův_;S_^(*2a)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Perotův_;Y_^(*2a)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-lnd92252-055-p1s1w3">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-lnd92252-055-p3s1w7</LM>
 </w.rf>
 <form>Stockdalea</form>
-<tag lemma="Stockdale-2_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stockdale-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-055-p3s1w8">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-lnd92252-055-p3s1w9</LM>
 </w.rf>
 <form>Perotova</form>
-<tag lemma="Perotův_;S_^(*2a)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Perotův_;Y_^(*2a)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-lnd92252-055-p3s1w10">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 </w.rf>
 <form>Stockdale</form>
 <tag>
-<AM lemma="Stockdale-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stockdale-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto">NNIS5-----A----</AM>
@@ -622,7 +622,7 @@
 </w.rf>
 <form>Stockdale</form>
 <tag>
-<AM lemma="Stockdale-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stockdale-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto">NNIS5-----A----</AM>
@@ -797,8 +797,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-055-p4s2w3">
@@ -904,7 +904,7 @@
 </w.rf>
 <form>Stockdale</form>
 <tag>
-<AM lemma="Stockdale-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stockdale-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto">NNIS5-----A----</AM>
@@ -1446,7 +1446,7 @@
 <LM>w#w-lnd92252-055-p4s7w20</LM>
 </w.rf>
 <form>Stockdaleův</form>
-<tag lemma="Stockdalův_;S_^(*2e-2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Stockdalův_;Y_^(*2e-2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd92252-055-p4s7w21">
 <src.rf>manual</src.rf>
@@ -2407,7 +2407,7 @@
 <LM>w#w-lnd92252-055-p6s1w7</LM>
 </w.rf>
 <form>Stockdalea</form>
-<tag lemma="Stockdale-2_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Stockdale-2_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92252-055-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2771,7 +2771,7 @@
 <LM>w#w-lnd92252-055-p6s3w13</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-055-p6s3w14">
 <src.rf>manual</src.rf>
@@ -2795,7 +2795,7 @@
 <LM>w#w-lnd92252-055-p6s3w16</LM>
 </w.rf>
 <form>Bushe</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-055-p6s3w17">
 <src.rf>manual</src.rf>
@@ -2939,11 +2939,11 @@
 </w.rf>
 <form>Stockdale</form>
 <tag>
-<AM lemma="Stockdale_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Stockdale_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stockdale_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Stockdale-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stockdale-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-055-p6s5w3">
@@ -3004,7 +3004,7 @@
 <form>NEUMANN</form>
 <tag>
 <AM lemma="Neumann_;G" src="orig">NNMS1-----A----</AM>
-<AM lemma="Neumann-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Neumann-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-055-p7s1w4">
@@ -3030,8 +3030,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-055-p7s1w7">
@@ -3049,9 +3049,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

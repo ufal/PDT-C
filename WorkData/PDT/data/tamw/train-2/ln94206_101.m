@@ -61,7 +61,7 @@
 <form>Sphinx</form>
 <tag>
 <AM lemma="Sphinx_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="sphinx_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="sphinx_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="sphinx_,t" src="manual">NNXXX-----N----</AM>
 <AM lemma="Sphinx-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -154,7 +154,7 @@
 <form>live</form>
 <tag>
 <AM lemma="live_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="live_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="live_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="live_,t" src="auto">XX-------------</AM>
 <AM lemma="live_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="live-77" src="manual" selected="1">F%-------------</AM>
@@ -201,7 +201,7 @@
 <LM>w#w-ln94206-101-p2s2w8</LM>
 </w.rf>
 <form>Basikové</form>
-<tag lemma="Basiková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Basiková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-101-p2s2w9">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln94206-101-p2s2w11</LM>
 </w.rf>
 <form>Křižíkově</form>
-<tag lemma="Křižíkův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Křižíkův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94206-101-p2s2w12">
 <src.rf>manual</src.rf>

@@ -94,8 +94,8 @@
 </w.rf>
 <form>mrk</form>
 <tag>
-<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-28-p2s1Aw4">
@@ -627,7 +627,7 @@
 <LM>w#w-ln94203-28-p3s2w7</LM>
 </w.rf>
 <form>Kalvodův</form>
-<tag lemma="Kalvodův_;S_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Kalvodův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94203-28-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-ln94203-28-p3s4w6</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-28-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1115,8 +1115,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-28-p4s1w3">
@@ -1141,7 +1141,7 @@
 <LM>w#w-ln94203-28-p4s1w5</LM>
 </w.rf>
 <form>Konvičková</form>
-<tag lemma="Konvičková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Konvičková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-28-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1198,8 +1198,8 @@
 </w.rf>
 <form>MZe</form>
 <tag>
-<AM lemma="MZe_:B_;K_^(Ministerstvo_zemědělství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MZe_:B_;K_^(Ministerstvo_zahraničí)" src="auto" recommended="1">NNNSX-----A---8</AM>
+<AM lemma="MZe_:B_;m_^(Ministerstvo_zemědělství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MZe_:B_;m_^(Ministerstvo_zahraničí)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="mha_,n" src="auto">NNFS3-----A----</AM>
 <AM lemma="mha_,n" src="auto">NNFS6-----A----</AM>
 <AM lemma="MZe_:B" src="manual">NNXXX-----A---8</AM>
@@ -1670,8 +1670,8 @@
 </w.rf>
 <form>MZe</form>
 <tag>
-<AM lemma="MZe_:B_;K_^(Ministerstvo_zemědělství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MZe_:B_;K_^(Ministerstvo_zahraničí)" src="auto" recommended="1">NNNSX-----A---8</AM>
+<AM lemma="MZe_:B_;m_^(Ministerstvo_zemědělství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MZe_:B_;m_^(Ministerstvo_zahraničí)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="mha_,n" src="auto">NNFS3-----A----</AM>
 <AM lemma="mha_,n" src="auto">NNFS6-----A----</AM>
 <AM lemma="MZe_:B" src="manual">NNXXX-----A---8</AM>
@@ -2139,7 +2139,7 @@
 <LM>w#w-ln94203-28-p5s3w2</LM>
 </w.rf>
 <form>Konvičkové</form>
-<tag lemma="Konvičková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Konvičková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-28-p5s3w3">
 <src.rf>manual</src.rf>

@@ -419,7 +419,7 @@
 <LM>w#w-ln95048-001-p2s2w11</LM>
 </w.rf>
 <form>Češka</form>
-<tag lemma="Češka-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Češka-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-001-p2s2w12">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-ln95048-001-p4s1w10</LM>
 </w.rf>
 <form>Češka</form>
-<tag lemma="Češka-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Češka-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-001-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1345,7 +1345,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-001-p4s4w3">
@@ -1362,7 +1362,7 @@
 <LM>w#w-ln95048-001-p4s4w4</LM>
 </w.rf>
 <form>Češky</form>
-<tag lemma="Češka-2_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Češka-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-001-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <LM>w#w-ln95048-001-p5s1w1</LM>
 </w.rf>
 <form>Češka</form>
-<tag lemma="Češka-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Češka-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-001-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1565,7 +1565,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

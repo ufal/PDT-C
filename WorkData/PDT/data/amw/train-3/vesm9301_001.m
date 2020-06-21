@@ -1337,7 +1337,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1675,7 +1675,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2084,7 +2084,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2273,7 +2273,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2436,7 +2436,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2588,7 +2588,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2766,7 +2766,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2867,7 +2867,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3402,8 +3402,8 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-1_:B_;H_^(zn._dusíku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-1_:B_;U_^(zn._dusíku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p12s1w10">
@@ -3421,28 +3421,28 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-7_:B_;H_^(zn._kyslíku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="O-7_:B_;U_^(zn._kyslíku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="auto">NNXXX-----A----</AM>
-<AM lemma="O-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="auto">NNXXX-----A----</AM>
+<AM lemma="O-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="O-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="O-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="O-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="O-33" src="auto">Q3-------------</AM>
 <AM lemma="o-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="o-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
 <AM lemma="okresní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="omezený_:B" src="auto">AANS7----1A---8</AM>
-<AM lemma="O-2_:B_;H_^(zn._kyslíku)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-2_:B_;U_^(zn._kyslíku)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p12s1w12">
@@ -3582,8 +3582,8 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-1_:B_;H_^(zn._dusíku)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-1_:B_;U_^(zn._dusíku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p12s2w4">
@@ -3601,28 +3601,28 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-7_:B_;H_^(zn._kyslíku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="O-7_:B_;U_^(zn._kyslíku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="auto">NNXXX-----A----</AM>
-<AM lemma="O-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="auto">NNXXX-----A----</AM>
+<AM lemma="O-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="O-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="O-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="O-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="O-33" src="auto">Q3-------------</AM>
 <AM lemma="o-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="o-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
 <AM lemma="okresní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="omezený_:B" src="auto">AANS7----1A---8</AM>
-<AM lemma="O-2_:B_;H_^(zn._kyslíku)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-2_:B_;U_^(zn._kyslíku)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p12s2w6">
@@ -3720,7 +3720,7 @@
 </w.rf>
 <form>CFC</form>
 <tag>
-<AM lemma="CFC-1_:B_;H_^(chlorfluorovaný_uhlovodík)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CFC-1_:B_;U_^(chlorfluorovaný_uhlovodík)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CFC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4107,7 +4107,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4262,7 +4262,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4563,7 +4563,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4592,7 +4592,7 @@
 </w.rf>
 <form>CFC</form>
 <tag>
-<AM lemma="CFC-1_:B_;H_^(chlorfluorovaný_uhlovodík)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CFC-1_:B_;U_^(chlorfluorovaný_uhlovodík)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CFC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4696,7 +4696,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4774,7 +4774,7 @@
 <form_change>spell</form_change>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

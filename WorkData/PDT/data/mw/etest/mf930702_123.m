@@ -140,7 +140,7 @@
 <LM>w#w-mf930702-123-p2s1w3</LM>
 </w.rf>
 <form>ben</form>
-<tag lemma="ben-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ben-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-123-p2s1w4">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <LM>w#w-mf930702-123-p2s1w5</LM>
 </w.rf>
 <form>kw</form>
-<tag lemma="kw-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kw-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-123-p2s1w6">
 <src.rf>manual</src.rf>
@@ -190,8 +190,8 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual">Q3-------------</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p2s1w10">
@@ -208,7 +208,7 @@
 <LM>w#w-mf930702-123-p2s1w11</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-123-p2s1w12">
 <src.rf>manual</src.rf>
@@ -226,8 +226,8 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual">Q3-------------</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p2s1w14">
@@ -244,7 +244,7 @@
 <LM>w#w-mf930702-123-p2s1w15</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-123-p2s1w16">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-mf930702-123-p2s4w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-123-p2s4w3">
 <src.rf>manual</src.rf>
@@ -939,8 +939,8 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual">Q3-------------</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p3s1w14">
@@ -957,7 +957,7 @@
 <LM>w#w-mf930702-123-p3s1w15</LM>
 </w.rf>
 <form>Zieleniece</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-123-p3s1w16">
 <src.rf>manual</src.rf>
@@ -975,8 +975,8 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual">Q3-------------</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p3s1w18">
@@ -993,7 +993,7 @@
 <LM>w#w-mf930702-123-p3s1w19</LM>
 </w.rf>
 <form>Moravčíka</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-123-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1215,8 +1215,8 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual">Q3-------------</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p3s3w10">
@@ -1233,7 +1233,7 @@
 <LM>w#w-mf930702-123-p3s3w11</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-123-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1539,8 +1539,8 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual">Q3-------------</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-123-p4s2w2">
@@ -1557,7 +1557,7 @@
 <LM>w#w-mf930702-123-p4s2w3</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-123-p4s2w4">
 <src.rf>manual</src.rf>

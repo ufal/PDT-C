@@ -480,7 +480,7 @@
 <form>Kovaříka</form>
 <tag>
 <AM lemma="kovařík" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kovařík_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kovařík_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-054-p2s3w7">
@@ -3426,7 +3426,7 @@
 <LM>w#w-ln95043-054-p6s5w13</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95043-054-p6s5w14">
 <src.rf>manual</src.rf>

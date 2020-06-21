@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-026-p1s1w1</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-026-p1s1w2">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-mf930708-026-p2s1w13</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-026-p2s1w14">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf930708-026-p2s3w5</LM>
 </w.rf>
 <form>Tuzexu</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-026-p2s3w6">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-mf930708-026-p2s3w7</LM>
 </w.rf>
 <form>Lenger</form>
-<tag lemma="Lenger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lenger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-026-p2s3w8">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf930708-026-p2s4w3</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-026-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 <LM>w#w-mf930708-026-p4s2w1</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-026-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 <LM>w#w-mf930708-026-p5s1w3</LM>
 </w.rf>
 <form>Tuzexu</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-026-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <LM>w#w-mf930708-026-p5s1w10</LM>
 </w.rf>
 <form>Slabihoudka</form>
-<tag lemma="Slabihoudek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Slabihoudek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-026-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1662,7 +1662,7 @@
 <LM>w#w-mf930708-026-p6s2w7</LM>
 </w.rf>
 <form>Finop</form>
-<tag lemma="Finop_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Finop_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-026-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 </w.rf>
 <form>PSIPS</form>
 <tag>
-<AM lemma="PSIPS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PSIPS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PSIPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2027,8 +2027,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-026-p6s3w39">
@@ -2079,7 +2079,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

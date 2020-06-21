@@ -102,8 +102,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-002-p2s1w4">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>lh</form>
 <tag>
-<AM lemma="lh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lh-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-002-p2s1w6">
@@ -317,7 +317,7 @@
 <LM>w#w-mf930702-002-p2s2w8</LM>
 </w.rf>
 <form>Ošťádal</form>
-<tag lemma="Ošťádal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ošťádal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-002-p2s2w9">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-mf930702-002-p2s4w1</LM>
 </w.rf>
 <form>Ošťádal</form>
-<tag lemma="Ošťádal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ošťádal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-002-p2s4w2">
 <src.rf>manual</src.rf>

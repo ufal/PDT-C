@@ -96,8 +96,8 @@
 </w.rf>
 <form>Jegor</form>
 <tag>
-<AM lemma="Jegor_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jegor_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jegor_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jegor_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-012-p2s1Bw4">
@@ -106,7 +106,7 @@
 <LM>w#w-mf920901-012-p2s1Bw4</LM>
 </w.rf>
 <form>Gajdar</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-012-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-mf920901-012-p2s1Bw21</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-012-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-mf920901-012-p2s3w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-012-p2s3w9">
 <src.rf>manual</src.rf>

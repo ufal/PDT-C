@@ -180,7 +180,7 @@
 <LM>w#w-ln94203-5-p2s1Bw2</LM>
 </w.rf>
 <form>Achremenko</form>
-<tag lemma="Achremenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Achremenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-5-p2s1C">
@@ -1512,7 +1512,7 @@
 </w.rf>
 <form>IF</form>
 <tag>
-<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF_:B_;m_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1904,7 +1904,7 @@
 </w.rf>
 <form>BH</form>
 <tag>
-<AM lemma="BH-2_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="BH-2_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="BH_:B_^(Bahrajn)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="BH-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="BH-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1917,7 +1917,7 @@
 </w.rf>
 <form>Securities</form>
 <tag>
-<AM lemma="Security_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Security_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2527,7 +2527,7 @@
 <LM>w#w-ln94203-5-p6s3w20</LM>
 </w.rf>
 <form>Teplotechny</form>
-<tag lemma="Teplotechna_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Teplotechna_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-5-p6s3w21">
 <src.rf>manual</src.rf>
@@ -2674,7 +2674,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2906,7 +2906,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3209,7 +3209,7 @@
 </w.rf>
 <form>HIF</form>
 <tag>
-<AM lemma="HIF-2_:B_;K_^(Harvardský_investiční_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIF-2_:B_;m_^(Harvardský_investiční_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIF_:B_^(kurs)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="HIF-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="HIF-88" src="manual" selected="1">BNXXX-----A----</AM>

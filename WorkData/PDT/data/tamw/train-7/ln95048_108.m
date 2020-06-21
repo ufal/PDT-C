@@ -103,7 +103,7 @@
 <LM>w#w-ln95048-108-p2s1Bw4</LM>
 </w.rf>
 <form>Lukašenko</form>
-<tag lemma="Lukašenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lukašenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-108-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln95048-108-p2s4w2</LM>
 </w.rf>
 <form>Lukašenka</form>
-<tag lemma="Lukašenko_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lukašenko_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-108-p2s4w3">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-ln95048-108-p2s5w2</LM>
 </w.rf>
 <form>Interfax</form>
-<tag lemma="Interfax_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interfax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-108-p2s5w3">
 <src.rf>manual</src.rf>
@@ -826,8 +826,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-108-p2s5w27">
@@ -846,7 +846,7 @@
 <LM>w#w-ln95048-108-p3s1w1</LM>
 </w.rf>
 <form>Lukašenko</form>
-<tag lemma="Lukašenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lukašenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-108-p3s1w2">
 <src.rf>manual</src.rf>

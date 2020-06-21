@@ -198,8 +198,8 @@
 </w.rf>
 <form>Johnse</form>
 <tag>
-<AM lemma="Johns_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Johns_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Johns_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Johns_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-055-p2s1w17">
@@ -208,7 +208,7 @@
 <LM>w#w-vesm9211-055-p2s1w17</LM>
 </w.rf>
 <form>Hopkinse</form>
-<tag lemma="Hopkins_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hopkins_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-055-p2s1w18">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-vesm9211-055-p2s2w17</LM>
 </w.rf>
 <form>Škvoreckého</form>
-<tag lemma="Škvorecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Škvorecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-055-p2s2w18">
 <src.rf>manual</src.rf>
@@ -682,7 +682,7 @@
 <LM>w#w-vesm9211-055-p3s1w4</LM>
 </w.rf>
 <form>Daulyová</form>
-<tag lemma="Daulyová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Daulyová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-055-p3s1w5">
 <src.rf>manual</src.rf>

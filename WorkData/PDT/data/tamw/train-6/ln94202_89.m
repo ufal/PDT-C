@@ -69,7 +69,7 @@
 <LM>w#w-ln94202-89-p2s1w3</LM>
 </w.rf>
 <form>Koláře</form>
-<tag lemma="Kolář_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kolář_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-89-p2s1w4">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-ln94202-89-p2s1w11</LM>
 </w.rf>
 <form>Škvoreckého</form>
-<tag lemma="Škvorecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Škvorecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-89-p2s1w12">
 <src.rf>manual</src.rf>
@@ -191,8 +191,8 @@
 <form>Odeonu</form>
 <tag>
 <AM lemma="Odeon_;Y" src="orig">NNIS2-----A----</AM>
-<AM lemma="Odeon-2_;K" src="manual">NNIS2-----A----</AM>
-<AM lemma="Odeon_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Odeon-2_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Odeon_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-89-p2s1w19">
@@ -269,7 +269,7 @@
 <form>Odeon</form>
 <tag>
 <AM lemma="Odeon_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Odeon_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Odeon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-89-p2s2w2">
@@ -504,7 +504,7 @@
 <LM>w#w-ln94202-89-p2s3w10</LM>
 </w.rf>
 <form>Prométheova</form>
-<tag lemma="Prométheův_;S_^(*2us)" src="auto" selected="1">AUNP1M---------</tag>
+<tag lemma="Prométheův_;Y_^(*2us)" src="auto" selected="1">AUNP1M---------</tag>
 </m>
 <m id="m-ln94202-89-p2s3w11">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-ln94202-89-p2s3w30</LM>
 </w.rf>
 <form>Nárožníka</form>
-<tag lemma="Nárožník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nárožník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-89-p2s3w31">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 </w.rf>
 <form>Poemes</form>
 <tag>
-<AM lemma="poeme_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="poeme_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="poemes_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Poemes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1435,7 +1435,7 @@
 </w.rf>
 <form>Editions</form>
 <tag>
-<AM lemma="Edition_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Edition_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="editions_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Editions-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1458,7 +1458,7 @@
 </w.rf>
 <form>la</form>
 <tag>
-<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFSX----1A----</AM>
+<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
@@ -1474,7 +1474,7 @@
 </w.rf>
 <form>Différence</form>
 <tag>
-<AM lemma="Différence_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Différence_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="différence_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Différence-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1870,7 +1870,7 @@
 <LM>w#w-ln94202-89-p4s2w10</LM>
 </w.rf>
 <form>Karfíka</form>
-<tag lemma="Karfík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Karfík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-89-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <LM>w#w-ln94202-89-p4s2w12</LM>
 </w.rf>
 <form>Kolář</form>
-<tag lemma="Kolář_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolář_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-89-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2059,7 +2059,7 @@
 </w.rf>
 <form>šek</form>
 <tag>
-<AM lemma="šek-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="šek-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="šek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="šek" src="auto">NNIS4-----A----</AM>
 </tag>

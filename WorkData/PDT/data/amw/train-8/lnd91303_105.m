@@ -813,7 +813,7 @@
 <LM>w#w-lnd91303-105-p4s5w17</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91303-105-p4s5w18">
 <src.rf>manual</src.rf>

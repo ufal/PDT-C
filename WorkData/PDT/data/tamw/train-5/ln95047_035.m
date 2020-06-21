@@ -53,7 +53,7 @@
 <LM>w#w-ln95047-035-p2s1w2</LM>
 </w.rf>
 <form>Harazim</form>
-<tag lemma="Harazim_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Harazim_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-035-p2s1w3">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln95047-035-p3s1w3</LM>
 </w.rf>
 <form>Gottvald</form>
-<tag lemma="Gottvald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottvald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-035-p3s1w4">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -600,7 +600,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-035-p4s1w8">
@@ -617,7 +617,7 @@
 <LM>w#w-ln95047-035-p4s1w9</LM>
 </w.rf>
 <form>Giacominelliho</form>
-<tag lemma="Giacominelli_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Giacominelli_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-035-p4s1w10">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-035-p4s1w21">
@@ -724,7 +724,7 @@
 <LM>w#w-ln95047-035-p4s1w22</LM>
 </w.rf>
 <form>Spagnoly</form>
-<tag lemma="Spagnola_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Spagnola_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-035-p4s1w23">
 <src.rf>manual</src.rf>

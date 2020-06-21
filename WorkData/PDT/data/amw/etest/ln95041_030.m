@@ -27,7 +27,7 @@
 <LM>w#w-ln95041-030-p1s1w2</LM>
 </w.rf>
 <form>Beránek</form>
-<tag lemma="Beránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-030-p1s1w3">
 <src.rf>manual</src.rf>

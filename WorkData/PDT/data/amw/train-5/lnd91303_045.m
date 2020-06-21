@@ -27,7 +27,7 @@
 <LM>w#w-lnd91303-045-p1s1w2</LM>
 </w.rf>
 <form>ŠEVARDNADZE</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91303-045-p2s1">
@@ -643,7 +643,7 @@
 </w.rf>
 <form>Alma</form>
 <tag>
-<AM lemma="Alma_;G_^(Alma-Ata)" src="auto">NNFSX-----A----</AM>
+<AM lemma="Alma_;G_^(Alma-Ata)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Alma-2_^(Alma-Ata)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
@@ -858,7 +858,7 @@
 <LM>w#w-lnd91303-045-p3s4Bw10</LM>
 </w.rf>
 <form>Gorbačov</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw11">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw39">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 </w.rf>
 <form>Corriere</form>
 <tag>
-<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Corriere_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="corriere_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1170,7 +1170,7 @@
 <form>della</form>
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della_;m_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1181,9 +1181,9 @@
 </w.rf>
 <form>Sera</form>
 <tag>
-<AM lemma="Sera-2_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ser_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ser_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Sera-2_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ser_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP4-----A----</AM>

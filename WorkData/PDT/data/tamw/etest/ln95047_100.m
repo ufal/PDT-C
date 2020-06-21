@@ -59,7 +59,7 @@
 <LM>w#w-ln95047-100-p1s1w6</LM>
 </w.rf>
 <form>Čermáka</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-100-p1s1w7">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln95047-100-p2s1Bw18</LM>
 </w.rf>
 <form>Čermákovi</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-100-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -272,8 +272,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-100-p2s1Bw21">
@@ -398,7 +398,7 @@
 <LM>w#w-ln95047-100-p2s3w1</LM>
 </w.rf>
 <form>Čermák</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-100-p2s3w2">
 <src.rf>manual</src.rf>
@@ -653,8 +653,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-100-p3s1w14">
@@ -743,7 +743,7 @@
 <LM>w#w-ln95047-100-p3s1w25</LM>
 </w.rf>
 <form>Čermáka</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-100-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-ln95047-100-p3s2w10</LM>
 </w.rf>
 <form>Fejfar</form>
-<tag lemma="Fejfar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fejfar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-100-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 <LM>w#w-ln95047-100-p3s2w13</LM>
 </w.rf>
 <form>Šimánek</form>
-<tag lemma="Šimánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-100-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln95047-100-p3s2w16</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-100-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1233,7 +1233,7 @@
 <LM>w#w-ln95047-100-p3s3w3</LM>
 </w.rf>
 <form>Čermák</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-100-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-ln95047-100-p3s3w12</LM>
 </w.rf>
 <form>Šumanem</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95047-100-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1322,7 +1322,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

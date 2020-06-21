@@ -62,8 +62,8 @@
 </w.rf>
 <form>luč</form>
 <tag>
-<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-052-p2s1w4">
@@ -223,7 +223,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-052-p2s2w18">
@@ -240,7 +240,7 @@
 <LM>w#w-lnd92256-052-p2s2w19</LM>
 </w.rf>
 <form>Šimonovský</form>
-<tag lemma="Šimonovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimonovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-052-p2s2w20">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-052-p2s6w8">
@@ -911,7 +911,7 @@
 <LM>w#w-lnd92256-052-p2s6w9</LM>
 </w.rf>
 <form>Šimonovský</form>
-<tag lemma="Šimonovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimonovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-052-p2s6w10">
 <src.rf>manual</src.rf>

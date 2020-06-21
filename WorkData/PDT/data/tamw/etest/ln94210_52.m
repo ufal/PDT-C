@@ -63,7 +63,7 @@
 <LM>w#w-ln94210-52-p1s1w6</LM>
 </w.rf>
 <form>Delcroix</form>
-<tag lemma="Delcroix_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Delcroix_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-52-p1s1w7">
 <src.rf>manual</src.rf>
@@ -123,8 +123,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-52-p1s1w14">
@@ -189,7 +189,7 @@
 <LM>w#w-ln94210-52-p1s1w21</LM>
 </w.rf>
 <form>Zieleniecem</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-52-p1s1w22">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94210-52-p1s2w1</LM>
 </w.rf>
 <form>Delcroix</form>
-<tag lemma="Delcroix_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Delcroix_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-52-p1s2w2">
 <src.rf>manual</src.rf>
@@ -312,8 +312,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-52-p1s2w15">
@@ -460,7 +460,7 @@
 <LM>w#w-ln94210-52-p1s3w10</LM>
 </w.rf>
 <form>Baudyšem</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-52-p1s3w11">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln94210-52-p1s4w3</LM>
 </w.rf>
 <form>Zlatohlávek</form>
-<tag lemma="Zlatohlávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlatohlávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-52-p1s4w4">
 <src.rf>manual</src.rf>
@@ -583,8 +583,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

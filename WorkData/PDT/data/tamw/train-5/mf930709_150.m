@@ -138,7 +138,7 @@
 <LM>w#w-mf930709-150-p2s1Bw6</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-150-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-mf930709-150-p2s1Bw13</LM>
 </w.rf>
 <form>Skubiszewski</form>
-<tag lemma="Skubiszewski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skubiszewski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-150-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-mf930709-150-p3s1w2</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-150-p3s1w3">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-150-p3s3w14">
@@ -733,7 +733,7 @@
 <LM>w#w-mf930709-150-p3s3w15</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-150-p3s3w16">
 <src.rf>manual</src.rf>

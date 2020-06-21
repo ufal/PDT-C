@@ -94,7 +94,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -105,7 +105,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -206,7 +206,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -217,7 +217,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -235,7 +235,7 @@
 <LM>w#w-ln95040-043-p2s1Bw12</LM>
 </w.rf>
 <form>Alšově</form>
-<tag lemma="Alšův-2_;S_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
+<tag lemma="Alšův-2_;Y_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95040-043-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-ln95040-043-p2s5Aw1</LM>
 </w.rf>
 <form>Myslbek</form>
-<tag lemma="Myslbek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Myslbek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-043-p2s5Aw2">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -815,7 +815,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -833,7 +833,7 @@
 <LM>w#w-ln95040-043-p2s5Aw6</LM>
 </w.rf>
 <form>Hypobanka</form>
-<tag lemma="Hypobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hypobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95040-043-p2s5B">
@@ -1521,7 +1521,7 @@
 <LM>w#w-ln95040-043-p2s9w25</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-043-p2s9w26">
 <src.rf>manual</src.rf>
@@ -1623,7 +1623,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1634,7 +1634,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1679,7 +1679,7 @@
 <LM>w#w-ln95040-043-p2s10w13</LM>
 </w.rf>
 <form>Myslbeka</form>
-<tag lemma="Myslbek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Myslbek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-043-p2s10w14">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-ln95040-043-p2s10w24</LM>
 </w.rf>
 <form>Hypobanky</form>
-<tag lemma="Hypobanka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hypobanka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-043-p2s10w25">
 <src.rf>manual</src.rf>
@@ -3073,7 +3073,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3084,7 +3084,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3489,7 +3489,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3500,7 +3500,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3694,7 +3694,7 @@
 <LM>w#w-ln95040-043-p4s6w15</LM>
 </w.rf>
 <form>Střítecký</form>
-<tag lemma="Střítecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Střítecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-043-p4s6w16">
 <src.rf>manual</src.rf>
@@ -3710,7 +3710,7 @@
 <LM>w#w-ln95040-043-p4s6w17</LM>
 </w.rf>
 <form>Krupauer</form>
-<tag lemma="Krupauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krupauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-043-p4s6w18">
 <src.rf>manual</src.rf>
@@ -4048,7 +4048,7 @@
 <LM>w#w-ln95040-043-p4s7w17</LM>
 </w.rf>
 <form>Pešánek</form>
-<tag lemma="Pešánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-043-p4s7w18">
 <src.rf>manual</src.rf>
@@ -4269,7 +4269,7 @@
 </w.rf>
 <form>Four</form>
 <tag>
-<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4280,7 +4280,7 @@
 </w.rf>
 <form>Seasons</form>
 <tag>
-<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Season_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

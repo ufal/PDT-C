@@ -97,9 +97,9 @@
 </w.rf>
 <form>VW</form>
 <tag>
-<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual">NNIXX-----A----</AM>
-<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;m_^(název_firmy/auta_Volkswagen)" src="manual">NNIXX-----A----</AM>
+<AM lemma="VW_:B_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-6-p1s2w2">
@@ -108,7 +108,7 @@
 <LM>w#w-ln94208-6-p1s2w2</LM>
 </w.rf>
 <form>Polo</form>
-<tag lemma="Polo_;R_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Polo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94208-6-p1s2w3">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <LM>w#w-ln94208-6-p1s2w11</LM>
 </w.rf>
 <form>Eiffelovou</form>
-<tag lemma="Eiffelův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Eiffelův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln94208-6-p1s2w12">
 <src.rf>manual</src.rf>

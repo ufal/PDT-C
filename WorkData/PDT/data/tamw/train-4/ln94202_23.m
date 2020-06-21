@@ -86,8 +86,8 @@
 </w.rf>
 <form>gag</form>
 <tag>
-<AM lemma="gag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="gag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="gag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-23-p2s1Aw4">
@@ -105,8 +105,8 @@
 </w.rf>
 <form>il</form>
 <tag>
-<AM lemma="il-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="il-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="il-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="il-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-23-p2s1Aw6">
@@ -517,7 +517,7 @@
 <LM>w#w-ln94202-23-p2s2w16</LM>
 </w.rf>
 <form>Svobody</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-23-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="Č-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-23-p3s4w15">
@@ -1272,7 +1272,7 @@
 <LM>w#w-ln94202-23-p3s4w16</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-23-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1392,7 +1392,7 @@
 <LM>w#w-ln94202-23-p3s5w13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94202-23-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1956,7 +1956,7 @@
 <LM>w#w-ln94202-23-p4s3w13</LM>
 </w.rf>
 <form>Svobody</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-23-p4s3w14">
 <src.rf>manual</src.rf>

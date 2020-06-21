@@ -218,7 +218,7 @@
 <LM>w#w-lnd92253-091-p3s1w19</LM>
 </w.rf>
 <form>Rákocziho</form>
-<tag lemma="Rákóczi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rákóczi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-091-p3s1w20">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -973,7 +973,7 @@
 </w.rf>
 <form>FMZV</form>
 <tag>
-<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -993,7 +993,7 @@
 <form>Zikmund</form>
 <tag>
 <AM lemma="Zikmund_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zikmund_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zikmund_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-091-p3s4w16">

@@ -192,7 +192,7 @@
 <LM>w#w-ln94207-116-p2s1w16</LM>
 </w.rf>
 <form>Mach</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-116-p2s1w17">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
 <AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
@@ -464,7 +464,7 @@
 </w.rf>
 <form>Thalia</form>
 <tag>
-<AM lemma="Thalia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Thalia_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP1-----A----</AM>
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
@@ -758,7 +758,7 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
 <AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
@@ -771,7 +771,7 @@
 </w.rf>
 <form>Thalia</form>
 <tag>
-<AM lemma="Thalia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Thalia_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP1-----A----</AM>
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
@@ -1150,7 +1150,7 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
 <AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
@@ -1163,7 +1163,7 @@
 </w.rf>
 <form>Thalia</form>
 <tag>
-<AM lemma="Thalia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Thalia_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP1-----A----</AM>
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
@@ -1351,7 +1351,7 @@
 <LM>w#w-ln94207-116-p2s7w5</LM>
 </w.rf>
 <form>Koenigsmarka</form>
-<tag lemma="Koenigsmark_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koenigsmark_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-116-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1764,9 +1764,9 @@
 </w.rf>
 <form>Kammerspiele</form>
 <tag>
-<AM lemma="Kammerspiele_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kammerspiele_;G_;u_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Kammerspiele-2_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Kammerspiele_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Kammerspiele_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Kammerspiele-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s9w17">
@@ -1816,8 +1816,8 @@
 </w.rf>
 <form>Gerta</form>
 <tag>
-<AM lemma="Gert_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gert_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gert_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Gert_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s9w23">
@@ -1826,7 +1826,7 @@
 <LM>w#w-ln94207-116-p2s9w23</LM>
 </w.rf>
 <form>Jonkeho</form>
-<tag lemma="Jonke_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jonke_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-116-p2s9w24">
 <src.rf>manual</src.rf>
@@ -1834,7 +1834,7 @@
 <LM>w#w-ln94207-116-p2s9w24</LM>
 </w.rf>
 <form>Beethoven</form>
-<tag lemma="Beethoven_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beethoven_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-116-p2s9w25">
 <src.rf>manual</src.rf>
@@ -1884,7 +1884,7 @@
 <LM>w#w-ln94207-116-p2s10w2</LM>
 </w.rf>
 <form>ola</form>
-<tag lemma="ola-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ola-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-116-p2s10w3">
 <src.rf>manual</src.rf>

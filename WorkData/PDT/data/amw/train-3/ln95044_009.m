@@ -44,7 +44,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -489,7 +489,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -621,7 +621,7 @@
 <LM>w#w-ln95044-009-p3s1w11</LM>
 </w.rf>
 <form>Langr</form>
-<tag lemma="Langr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Langr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-009-p3s1w12">
 <src.rf>manual</src.rf>

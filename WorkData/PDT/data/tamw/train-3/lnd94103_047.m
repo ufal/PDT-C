@@ -182,8 +182,8 @@
 </w.rf>
 <form>Modeville</form>
 <tag>
-<AM lemma="Modeville_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Modeville_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Modeville_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Modeville_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-047-p1s1Bw19">

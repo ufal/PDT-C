@@ -921,7 +921,7 @@
 <LM>w#w-mf920901-003-p3s2w12</LM>
 </w.rf>
 <form>Šteffla</form>
-<tag lemma="Šteffl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šteffl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-003-p3s2w13">
 <src.rf>manual</src.rf>
@@ -3389,7 +3389,7 @@
 <LM>w#w-mf920901-003-p10s2w5</LM>
 </w.rf>
 <form>Šteffla</form>
-<tag lemma="Šteffl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šteffl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-003-p10s2w6">
 <src.rf>manual</src.rf>
@@ -4454,7 +4454,7 @@
 <LM>w#w-mf920901-003-p12s1w2</LM>
 </w.rf>
 <form>KUČEROVÁ</form>
-<tag lemma="Kučerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kučerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-003-p13s1">
@@ -4488,7 +4488,7 @@
 <LM>w#w-mf920901-003-p13s1w4</LM>
 </w.rf>
 <form>BUŠEK</form>
-<tag lemma="Bušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

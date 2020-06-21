@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-114-p1s1w1</LM>
 </w.rf>
 <form>Tapie</form>
-<tag lemma="Tapie_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tapie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-114-p1s1w2">
 <src.rf>manual</src.rf>
@@ -78,7 +78,7 @@
 </w.rf>
 <form>Olympique</form>
 <tag>
-<AM lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Olympique-1_;m_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Olympique-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -107,7 +107,7 @@
 <LM>w#w-mf930708-114-p2s1w8</LM>
 </w.rf>
 <form>Tapie</form>
-<tag lemma="Tapie_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tapie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-114-p2s1w9">
 <src.rf>manual</src.rf>
@@ -140,9 +140,9 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Valenciennes_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Valenciennes_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Valenciennes_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Valenciennes_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Valenciennes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -152,7 +152,7 @@
 <LM>w#w-mf930708-114-p2s1w13</LM>
 </w.rf>
 <form>Primoraca</form>
-<tag lemma="Primorac_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Primorac_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-114-p2s1w14">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-mf930708-114-p2s1w26</LM>
 </w.rf>
 <form>Noelovi</form>
-<tag lemma="Noel_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Noel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930708-114-p2s1w27">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 </w.rf>
 <form>Olympique</form>
 <tag>
-<AM lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Olympique-1_;m_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Olympique-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -438,7 +438,7 @@
 <LM>w#w-mf930708-114-p2s2w1</LM>
 </w.rf>
 <form>Primoracovi</form>
-<tag lemma="Primorac_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Primorac_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930708-114-p2s2w2">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-mf930708-114-p2s3w1</LM>
 </w.rf>
 <form>Tapie</form>
-<tag lemma="Tapie_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tapie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-114-p2s3w2">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf930708-114-p2s3w5</LM>
 </w.rf>
 <form>Primorace</form>
-<tag lemma="Primorac_;S" src="orig" selected="1">NNMS4-----A---1</tag>
+<tag lemma="Primorac_;Y" src="orig" selected="1">NNMS4-----A---1</tag>
 </m>
 <m id="m-mf930708-114-p2s3w6">
 <src.rf>manual</src.rf>
@@ -585,9 +585,9 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Valenciennes_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Valenciennes_;K" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Valenciennes_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Valenciennes_;m" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Valenciennes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

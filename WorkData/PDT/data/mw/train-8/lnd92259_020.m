@@ -96,8 +96,8 @@
 </w.rf>
 <form>woll</form>
 <tag>
-<AM lemma="woll-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="woll-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="woll-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="woll-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-020-p3s1w4">
@@ -362,7 +362,7 @@
 <LM>w#w-lnd92259-020-p3s1w36</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-020-p3s1w37">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-020-p4s2w5">
@@ -815,7 +815,7 @@
 <LM>w#w-lnd92259-020-p4s2w6</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-020-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-lnd92259-020-p4s3w16</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-020-p4s3w17">
 <src.rf>manual</src.rf>

@@ -37,12 +37,12 @@
 <form>Siouxsie</form>
 <tag>
 <AM lemma="Siouxsie_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Siouxsie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -97,7 +97,7 @@
 </w.rf>
 <form>Nocturne</form>
 <tag>
-<AM lemma="Nocturne_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Nocturne_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="nocturne_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Nocturne-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -125,13 +125,13 @@
 </w.rf>
 <form>SIOUXSIE</form>
 <tag>
-<AM lemma="Siouxsie_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Siouxsie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -165,7 +165,7 @@
 </w.rf>
 <form>BANSHEES</form>
 <tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Banshee_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="banshees_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="BANSHEES-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -256,9 +256,9 @@
 <form>Hall</form>
 <tag>
 <AM lemma="Hall_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hall_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="hall_;u_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="hall_;u_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hall_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="hall_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="hall_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="hall_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Hall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -611,13 +611,13 @@
 </w.rf>
 <form>Siouxsie</form>
 <tag>
-<AM lemma="Siouxsie_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Siouxsie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -651,7 +651,7 @@
 </w.rf>
 <form>Banshees</form>
 <tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Banshee_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="banshees_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Banshees-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -954,12 +954,12 @@
 <form>Siouxsie</form>
 <tag>
 <AM lemma="Siouxsie_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Siouxsie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -970,9 +970,9 @@
 </w.rf>
 <form>Sioux</form>
 <tag>
-<AM lemma="Sioux_;S" src="orig">NNFXX-----A----</AM>
+<AM lemma="Sioux_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sioux_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sioux-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Sioux-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-030-p3s1w6">
@@ -1694,13 +1694,13 @@
 </w.rf>
 <form>Siouxsie</form>
 <tag>
-<AM lemma="Siouxsie_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Siouxsie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -1734,7 +1734,7 @@
 </w.rf>
 <form>Banshees</form>
 <tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Banshee_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="banshees_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Banshees-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2066,7 +2066,7 @@
 </w.rf>
 <form>Banshees</form>
 <tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Banshee_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Banshees-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2259,7 +2259,7 @@
 </w.rf>
 <form>Rapture</form>
 <tag>
-<AM lemma="Rapture_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Rapture_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="rapture_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Rapture-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2408,7 +2408,7 @@
 <form>Apart</form>
 <tag>
 <AM lemma="apart_,t" src="orig">Db-------------</AM>
-<AM lemma="Aparta_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Aparta_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Apart-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2455,17 +2455,17 @@
 <AM lemma="O-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="O-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="auto">NNXXX-----A----</AM>
-<AM lemma="O-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="auto">NNXXX-----A----</AM>
+<AM lemma="O-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="O-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="O-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="O-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="O-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="O-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="O-33" src="auto">Q3-------------</AM>
 <AM lemma="o-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="o-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
@@ -2691,7 +2691,7 @@
 <LM>w#w-ln95043-030-p4s4w22</LM>
 </w.rf>
 <form>Burtonova</form>
-<tag lemma="Burtonův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Burtonův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95043-030-p4s4w23">
 <src.rf>manual</src.rf>
@@ -2792,7 +2792,7 @@
 </w.rf>
 <form>Peep</form>
 <tag>
-<AM lemma="Peep_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Peep_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="peep_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Peep-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2847,7 +2847,7 @@
 </w.rf>
 <form>Ju</form>
 <tag>
-<AM lemma="Ju_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Ju_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="ju-1" src="auto" recommended="1">II-------------</AM>
 <AM lemma="ju-2_,a" src="auto">TT-------------</AM>
 <AM lemma="ju-3_,t" src="manual">NNXXX-----A----</AM>
@@ -2861,7 +2861,7 @@
 </w.rf>
 <form>Ju</form>
 <tag>
-<AM lemma="Ju_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Ju_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="ju-1" src="auto" recommended="1">II-------------</AM>
 <AM lemma="ju-2_,a" src="auto">TT-------------</AM>
 <AM lemma="ju-3_,t" src="manual">NNXXX-----A----</AM>
@@ -2907,7 +2907,7 @@
 </w.rf>
 <form>Kaleidoscope</form>
 <tag>
-<AM lemma="Kaleidoscope_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kaleidoscope_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="kaleidoscope_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Kaleidoscope-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3211,7 +3211,7 @@
 </w.rf>
 <form>Banshees</form>
 <tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Banshee_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Banshees-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3441,8 +3441,8 @@
 <form>Jar</form>
 <tag>
 <AM lemma="jar_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Jar-2_;R_^(na_mytí_nádobí)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Jar-2_;R_^(na_mytí_nádobí)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jar-2_;m_^(na_mytí_nádobí)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Jar-2_;m_^(na_mytí_nádobí)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaro" src="auto">NNNP2-----A----</AM>
 <AM lemma="jár_,x_^(stružka,_žlábek;;potůček_tekoucí_ze_studánky)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jár_,x_^(stružka,_žlábek;;potůček_tekoucí_ze_studánky)" src="auto">NNIS4-----A----</AM>
@@ -3505,7 +3505,7 @@
 <LM>w#w-ln95043-030-p5s3w26</LM>
 </w.rf>
 <form>Christine</form>
-<tag lemma="Christine_;Y" src="orig" selected="1">NNFSX-----A----</tag>
+<tag lemma="Christine_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95043-030-p5s3w27">
 <src.rf>manual</src.rf>
@@ -3725,7 +3725,7 @@
 </w.rf>
 <form>Rapture</form>
 <tag>
-<AM lemma="Rapture_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Rapture_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="rapture_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Rapture-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -4060,7 +4060,7 @@
 </w.rf>
 <form>Ourselves</form>
 <tag>
-<AM lemma="ourselves_,t" src="orig">PP-PX--1-------</AM>
+<AM lemma="ourselves_,t" src="orig">PP-XX--1-------</AM>
 <AM lemma="Ourselves-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4112,12 +4112,12 @@
 <form>Siouxsie</form>
 <tag>
 <AM lemma="Siouxsie_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Siouxsie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -4397,7 +4397,7 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
 <AM lemma="A-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4610,13 +4610,13 @@
 </w.rf>
 <form>Siouxsie</form>
 <tag>
-<AM lemma="Siouxsie_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Siouxsie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -4649,7 +4649,7 @@
 </w.rf>
 <form>Banshees</form>
 <tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Banshee_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Banshees-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4785,7 +4785,7 @@
 </w.rf>
 <form>Banshees</form>
 <tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Banshee_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Banshees-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4853,7 +4853,7 @@
 <LM>w#w-ln95043-030-p7s3w2</LM>
 </w.rf>
 <form>Seidl</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-030-p7s3w3">
 <src.rf>manual</src.rf>
@@ -4862,13 +4862,13 @@
 </w.rf>
 <form>Siouxsie</form>
 <tag>
-<AM lemma="Siouxsie_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Siouxsie_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Siouxsie-2_:Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -4901,7 +4901,7 @@
 </w.rf>
 <form>Banshees</form>
 <tag>
-<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Banshee_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Banshees-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5036,7 +5036,7 @@
 </w.rf>
 <form>Promotion</form>
 <tag>
-<AM lemma="Promotion_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Promotion_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Promotion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

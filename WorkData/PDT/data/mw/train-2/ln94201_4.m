@@ -19,7 +19,7 @@
 <LM>w#w-ln94201-4-p1s1w1</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94201-4-p1s1w2">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94201-4-p2s2w1</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-4-p2s2w2">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln94201-4-p2s2w19</LM>
 </w.rf>
 <form>Chelsea</form>
-<tag lemma="Chelsea_;G_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Chelsea_;G_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94201-4-p2s2w20">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln94201-4-p2s2w22</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94201-4-p2s2w23">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -443,7 +443,7 @@
 </w.rf>
 <form>AIK</form>
 <tag>
-<AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIK_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AIK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -520,7 +520,7 @@
 <LM>w#w-ln94201-4-p2s2w37</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94201-4-p2s2w38">
 <src.rf>manual</src.rf>

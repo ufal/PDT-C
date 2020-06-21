@@ -19,7 +19,7 @@
 <LM>w#w-mf920924-145-p1s1w1</LM>
 </w.rf>
 <form>Moravčíkovo</form>
-<tag lemma="Moravčíkův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Moravčíkův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf920924-145-p1s1w2">
 <src.rf>manual</src.rf>
@@ -44,8 +44,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -57,9 +57,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-145-p2s1w2">
@@ -78,7 +78,7 @@
 <LM>w#w-mf920924-145-p3s1w1</LM>
 </w.rf>
 <form>Moravčíkovo</form>
-<tag lemma="Moravčíkův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Moravčíkův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf920924-145-p3s1w2">
 <src.rf>manual</src.rf>
@@ -103,8 +103,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-145-p3s1w5">
@@ -202,7 +202,7 @@
 <LM>w#w-mf920924-145-p3s1w15</LM>
 </w.rf>
 <form>Ugglasovou</form>
-<tag lemma="Ugglasová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Ugglasová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920924-145-p3s1w16">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-mf920924-145-p3s1w22</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-145-p3s1w23">
 <src.rf>manual</src.rf>
@@ -390,8 +390,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-145-p3s1w39">
@@ -457,7 +457,7 @@
 </w.rf>
 <form>VS</form>
 <tag>
-<AM lemma="VS_:B_;K_^(Valné_shromáždění)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VS_:B_;m_^(Valné_shromáždění)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="VS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="versus_:B_,t" src="auto">RR--1---------8</AM>
 <AM lemma="VS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -470,8 +470,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-145-p3s1w48">
@@ -581,7 +581,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -714,7 +714,7 @@
 <LM>w#w-mf920924-145-p3s2w26</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-145-p3s2w27">
 <src.rf>manual</src.rf>

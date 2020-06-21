@@ -99,7 +99,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -400,7 +400,7 @@
 <LM>w#w-lnd92256-021-p3s2w35</LM>
 </w.rf>
 <form>Reallex</form>
-<tag lemma="Reallex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Reallex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-021-p3s2w36">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-021-p3s2w39">
@@ -444,8 +444,8 @@
 </w.rf>
 <form>Kozák</form>
 <tag>
-<AM lemma="Kozák_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kozák_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kozák_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kozák_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-021-p3s2w41">

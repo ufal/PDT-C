@@ -86,8 +86,8 @@
 </w.rf>
 <form>zj</form>
 <tag>
-<AM lemma="zj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="zj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-122-p2s1w4">

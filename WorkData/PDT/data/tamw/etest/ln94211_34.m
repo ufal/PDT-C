@@ -51,7 +51,7 @@
 <LM>w#w-ln94211-34-p1s1w5</LM>
 </w.rf>
 <form>Expo</form>
-<tag lemma="Expo_;K" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="Expo_;m" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94211-34-p1s1w6">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <LM>w#w-ln94211-34-p2s1Bw9</LM>
 </w.rf>
 <form>Expo</form>
-<tag lemma="Expo_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Expo_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94211-34-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-ln94211-34-p2s3w9</LM>
 </w.rf>
 <form>Kuchařová</form>
-<tag lemma="Kuchařová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kuchařová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-34-p2s3w10">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

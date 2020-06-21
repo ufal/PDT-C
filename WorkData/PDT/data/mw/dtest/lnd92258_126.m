@@ -19,7 +19,7 @@
 <LM>w#w-lnd92258-126-p1s1w1</LM>
 </w.rf>
 <form>Demar</form>
-<tag lemma="Demar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Demar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-126-p1s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-lnd92258-126-p2s1w3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ber-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-126-p2s1w4">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-lnd92258-126-p2s2w4</LM>
 </w.rf>
 <form>Demar</form>
-<tag lemma="Demar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Demar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-126-p2s2w5">
 <src.rf>manual</src.rf>
@@ -176,9 +176,9 @@
 </w.rf>
 <form>Asti</form>
 <tag>
-<AM lemma="Asti_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="Asti_;G" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Asti_;G_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Asti_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="Asti_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Asti_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-126-p2s2w13">
@@ -554,7 +554,7 @@
 </w.rf>
 <form>EVK</form>
 <tag>
-<AM lemma="EVK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EVK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EVK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -668,7 +668,7 @@
 <LM>w#w-lnd92258-126-p2s5w24</LM>
 </w.rf>
 <form>Olympu</form>
-<tag lemma="Olympus_;G_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Olympus_;G_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-126-p2s5w25">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-lnd92258-126-p2s5w26</LM>
 </w.rf>
 <form>Pirunčík</form>
-<tag lemma="Pirunčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pirunčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-126-p2s5w27">
 <src.rf>manual</src.rf>

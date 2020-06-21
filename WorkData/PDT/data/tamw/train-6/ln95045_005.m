@@ -43,7 +43,7 @@
 <LM>w#w-ln95045-005-p1s1w4</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95045-005-p2s1">
@@ -153,7 +153,7 @@
 </w.rf>
 <form>Govett</form>
 <tag>
-<AM lemma="Govett_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Govett_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Govett-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -172,7 +172,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -452,7 +452,7 @@
 </w.rf>
 <form>Govett</form>
 <tag>
-<AM lemma="Govett_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Govett_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Govett-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -471,7 +471,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -546,7 +546,7 @@
 </w.rf>
 <form>Kysel</form>
 <tag>
-<AM lemma="Kysel_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kysel_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kyselit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kyselit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto" recommended="1">NNNP2-----A----</AM>
@@ -695,7 +695,7 @@
 </w.rf>
 <form>SPT</form>
 <tag>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -705,7 +705,7 @@
 <LM>w#w-ln95045-005-p2s2w63</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-005-p2s2w64">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-005-p2s3w3">
@@ -751,8 +751,8 @@
 </w.rf>
 <form>Kysela</form>
 <tag>
-<AM lemma="Kysel_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Kysela_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kysel_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kysela_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto">NNNP1-----A----</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto">NNNP4-----A----</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto">NNNP5-----A----</AM>
@@ -845,7 +845,7 @@
 </w.rf>
 <form>markets</form>
 <tag>
-<AM lemma="market_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="market_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="markets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1016,9 +1016,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-005-p2s3w36">
@@ -1077,7 +1077,7 @@
 <LM>w#w-ln95045-005-p3s1w4</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-005-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1134,8 +1134,8 @@
 </w.rf>
 <form>Kysela</form>
 <tag>
-<AM lemma="Kysel_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Kysela_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kysel_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kysela_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto">NNNP1-----A----</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto">NNNP4-----A----</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto">NNNP5-----A----</AM>
@@ -1646,7 +1646,7 @@
 <LM>w#w-ln95045-005-p3s2w35</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95045-005-p3s2w36">
 <src.rf>manual</src.rf>
@@ -1752,7 +1752,7 @@
 <LM>w#w-ln95045-005-p4s1w6</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-005-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1769,7 +1769,7 @@
 </w.rf>
 <form>IB</form>
 <tag>
-<AM lemma="IB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
@@ -1783,8 +1783,8 @@
 </w.rf>
 <form>Austria</form>
 <tag>
-<AM lemma="Austria-2_;K_,t_^(v_názvech_firem)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Austria_Wien)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Austria-2_;m_,t_^(v_názvech_firem)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Austria_;m_,t_^(fotbalový_klub_Austria_Wien)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Austria-2_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Austria-2_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Austria-77" src="manual" selected="1">F%-------------</AM>
@@ -1797,7 +1797,7 @@
 </w.rf>
 <form>Securities</form>
 <tag>
-<AM lemma="Security_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Security_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="securities_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1809,7 +1809,7 @@
 </w.rf>
 <form>Prague</form>
 <tag>
-<AM lemma="Prague_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prague_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2192,7 +2192,7 @@
 </w.rf>
 <form>Kysel</form>
 <tag>
-<AM lemma="Kysel_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kysel_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kyselit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kyselit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto" recommended="1">NNNP2-----A----</AM>
@@ -2969,7 +2969,7 @@
 </w.rf>
 <form>Kysel</form>
 <tag>
-<AM lemma="Kysel_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kysel_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kyselit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kyselit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kyselo-1_^(polévka)" src="auto" recommended="1">NNNP2-----A----</AM>

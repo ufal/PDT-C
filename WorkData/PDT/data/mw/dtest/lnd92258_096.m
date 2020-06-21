@@ -54,8 +54,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-096-p2s1w3">
@@ -196,7 +196,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-096-p3s1w12">
@@ -215,7 +215,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-096-p3s1w14">
@@ -977,7 +977,7 @@
 </w.rf>
 <form>ALEXANDRU</form>
 <tag>
-<AM lemma="Alexandru_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alexandru_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Alexandr_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Alexandra_;Y_^(^FA*1)" src="auto">NNFS4-----A----</AM>
@@ -1027,7 +1027,7 @@
 <LM>w#w-lnd92258-096-p6s1w3</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-096-p6s1w4">
 <src.rf>manual</src.rf>

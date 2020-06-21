@@ -245,8 +245,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-003-p2s2w2">
@@ -301,7 +301,7 @@
 <LM>w#w-ln95043-003-p2s2w7</LM>
 </w.rf>
 <form>Hůlová</form>
-<tag lemma="Hůlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hůlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-003-p2s2w8">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-ln95043-003-p3s2w4</LM>
 </w.rf>
 <form>Hůlové</form>
-<tag lemma="Hůlová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hůlová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-003-p3s2w5">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <form>Rezek</form>
 <tag>
 <AM lemma="rezek" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rezek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rezek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-003-p4s1w5">
@@ -1321,8 +1321,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-003-p5s1w4">
@@ -1372,7 +1372,7 @@
 </w.rf>
 <form>Scandinavian</form>
 <tag>
-<AM lemma="Scandinavian_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Scandinavian_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Scandinavian_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Scandinavian-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1384,7 +1384,7 @@
 </w.rf>
 <form>Broadcasting</form>
 <tag>
-<AM lemma="Broadcasting_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Broadcasting_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="broadcasting_,t_^(vysílání)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="broadcasting_,t_^(vysílání)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Broadcasting-77" src="manual" selected="1">F%-------------</AM>
@@ -1397,7 +1397,7 @@
 </w.rf>
 <form>Systems</form>
 <tag>
-<AM lemma="System_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="System_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="systems_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1417,10 +1417,10 @@
 </w.rf>
 <form>SBS</form>
 <tag>
-<AM lemma="SBS-4_:B_;K_^(Scandinavian_Broadcasting_Systems)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="SBS-4_:B_;m_^(Scandinavian_Broadcasting_Systems)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SBS-1_:B_,t_^(silicon_bilateral_switch)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SBS-2_:B_;K_^(Svaz_bojovníků_za_svobodu)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SBS-3_:B_;K_^(Sběrná_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SBS-2_:B_;m_^(Svaz_bojovníků_za_svobodu)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SBS-3_:B_;m_^(Sběrná_služba)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SBS-4_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1512,7 +1512,7 @@
 </w.rf>
 <form>ABC</form>
 <tag>
-<AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ABC-4_:B_;m_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1583,7 +1583,7 @@
 <form_change>spell</form_change>
 <form>Television</form>
 <tag>
-<AM lemma="Television_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Television_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Television-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1597,7 +1597,7 @@
 <AM lemma="Luxemburk_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Luxemburg_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Luxemburg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Luxemburg_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Luxemburg_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Luxemburg-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1616,7 +1616,7 @@
 </w.rf>
 <form>RTL</form>
 <tag>
-<AM lemma="RTL-1_:B_;K_;y_^(TV_stanice_Lucembursko)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RTL-1_:B_;m_^(TV_stanice_Lucembursko)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RTL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2140,8 +2140,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-003-p7s1w4">
@@ -2239,10 +2239,10 @@
 </w.rf>
 <form>SBS</form>
 <tag>
-<AM lemma="SBS-4_:B_;K_^(Scandinavian_Broadcasting_Systems)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="SBS-4_:B_;m_^(Scandinavian_Broadcasting_Systems)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SBS-1_:B_,t_^(silicon_bilateral_switch)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SBS-2_:B_;K_^(Svaz_bojovníků_za_svobodu)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SBS-3_:B_;K_^(Sběrná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SBS-2_:B_;m_^(Svaz_bojovníků_za_svobodu)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SBS-3_:B_;m_^(Sběrná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SBS-4_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2278,7 +2278,7 @@
 </w.rf>
 <form>IPB</form>
 <tag>
-<AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPB_:B_;m_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IPB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2313,7 +2313,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2334,10 +2334,10 @@
 </w.rf>
 <form>SBS</form>
 <tag>
-<AM lemma="SBS-4_:B_;K_^(Scandinavian_Broadcasting_Systems)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="SBS-4_:B_;m_^(Scandinavian_Broadcasting_Systems)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SBS-1_:B_,t_^(silicon_bilateral_switch)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SBS-2_:B_;K_^(Svaz_bojovníků_za_svobodu)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SBS-3_:B_;K_^(Sběrná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SBS-2_:B_;m_^(Svaz_bojovníků_za_svobodu)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SBS-3_:B_;m_^(Sběrná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SBS-4_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2469,8 +2469,8 @@
 </w.rf>
 <form>Femman</form>
 <tag>
-<AM lemma="Femman_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Femman_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Femman_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Femman_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-003-p7s2w18">

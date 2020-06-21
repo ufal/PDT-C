@@ -21,8 +21,8 @@
 <form>Matka</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
@@ -1861,8 +1861,8 @@
 <form>Matka</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>

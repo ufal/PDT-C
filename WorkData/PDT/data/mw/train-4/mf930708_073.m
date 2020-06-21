@@ -67,7 +67,7 @@
 <LM>w#w-mf930708-073-p1s1w7</LM>
 </w.rf>
 <form>Buriana</form>
-<tag lemma="Burian_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Burian_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-073-p1s1w8">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-mf930708-073-p1s1w27</LM>
 </w.rf>
 <form>Buriana</form>
-<tag lemma="Burian_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Burian_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-073-p1s1w28">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-mf930708-073-p1s5w11</LM>
 </w.rf>
 <form>Burian</form>
-<tag lemma="Burian_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burian_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-073-p1s5w12">
 <src.rf>manual</src.rf>
@@ -754,8 +754,8 @@
 </w.rf>
 <form>lík</form>
 <tag>
-<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lík-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lík-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-073-p2s1w3">
@@ -1391,10 +1391,10 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
-<AM lemma="mas-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mas-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-073-p3s1w3">

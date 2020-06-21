@@ -117,7 +117,7 @@
 <LM>w#w-lnd94104-041-p1s2w3</LM>
 </w.rf>
 <form>ika</form>
-<tag lemma="ika-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ika-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-041-p1s2w4">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-lnd94104-041-p1s10w15</LM>
 </w.rf>
 <form>Vodičky</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s10w16">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-lnd94104-041-p1s13Bw2</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s13Bw3">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <LM>w#w-lnd94104-041-p1s13Bw11</LM>
 </w.rf>
 <form>Kalvodu</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s13Bw12">
 <src.rf>manual</src.rf>
@@ -1869,7 +1869,7 @@
 <LM>w#w-lnd94104-041-p1s13Bw16</LM>
 </w.rf>
 <form>Nováka</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s13Bw17">
 <src.rf>manual</src.rf>

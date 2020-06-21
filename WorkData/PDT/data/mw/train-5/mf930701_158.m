@@ -319,7 +319,7 @@
 <LM>w#w-mf930701-158-p2s2w9</LM>
 </w.rf>
 <form>Popadiukovi</form>
-<tag lemma="Popadiuk_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Popadiuk_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930701-158-p2s2w10">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-mf930701-158-p2s2w13</LM>
 </w.rf>
 <form>Zlenko</form>
-<tag lemma="Zlenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-158-p2s2w14">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-mf930701-158-p3s1w1</LM>
 </w.rf>
 <form>Zlenko</form>
-<tag lemma="Zlenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-158-p3s1w2">
 <src.rf>manual</src.rf>

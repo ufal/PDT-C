@@ -1369,7 +1369,7 @@
 <LM>w#w-mf930703-116-p4s1w4</LM>
 </w.rf>
 <form>Liška</form>
-<tag lemma="Liška_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Liška_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-116-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2727,7 +2727,7 @@
 <LM>w#w-mf930703-116-p7s1w4</LM>
 </w.rf>
 <form>Vašek</form>
-<tag lemma="Vašek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vašek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-116-p7s1w5">
 <src.rf>manual</src.rf>
@@ -3784,7 +3784,7 @@
 <LM>w#w-mf930703-116-p9s5w16</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930703-116-p9s5w17">
 <src.rf>manual</src.rf>
@@ -3837,7 +3837,7 @@
 <LM>w#w-mf930703-116-p10s1w2</LM>
 </w.rf>
 <form>Hanzelka</form>
-<tag lemma="Hanzelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hanzelka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-116-p10s1w3">
 <src.rf>manual</src.rf>

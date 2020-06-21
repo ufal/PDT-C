@@ -36,8 +36,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-75-p1s1w4">
@@ -83,8 +83,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-75-p2s1Bw2">
@@ -240,8 +240,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-75-p2s2w9">
@@ -251,8 +251,8 @@
 </w.rf>
 <form>Mahmúd</form>
 <tag>
-<AM lemma="Mahmúd_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mahmúd_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mahmúd_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mahmúd_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-75-p2s2w10">
@@ -261,7 +261,7 @@
 <LM>w#w-ln94208-75-p2s2w10</LM>
 </w.rf>
 <form>Mastírí</form>
-<tag lemma="Mastírí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mastírí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-75-p2s2w11">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94208-75-p2s4w1</LM>
 </w.rf>
 <form>Mastírí</form>
-<tag lemma="Mastírí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mastírí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-75-p2s4w2">
 <src.rf>manual</src.rf>

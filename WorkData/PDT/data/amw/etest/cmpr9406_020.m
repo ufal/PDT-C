@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9406-020-p2s1w5</LM>
 </w.rf>
 <form>SAMSUNG</form>
-<tag lemma="Samsung_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Samsung_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-020-p2s1w6">
 <src.rf>manual</src.rf>
@@ -86,11 +86,11 @@
 </w.rf>
 <form>SF</form>
 <tag>
-<AM lemma="SF-98_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SF-98_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SF-1_:B_,t_^(science_fiction)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SF-3_:B_;K_,t_^(Slovenská_filharmónia)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SF-3_:B_;m_,t_^(Slovenská_filharmónia)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SF-4_:B_,t_^(single_frequency)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SF_:B_;K_,t_^(Sinn_Fein)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SF_:B_;m_,t_^(Sinn_Fein)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -136,7 +136,7 @@
 <form>TZ</form>
 <tag>
 <AM lemma="TZ-2_:B_^(tepelný_záznam)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TZ-1_:B_;K_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="TZ-1_:B_;m_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="TZ-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="TZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -183,7 +183,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-020-p4s1w6">

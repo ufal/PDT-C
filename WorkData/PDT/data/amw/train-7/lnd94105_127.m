@@ -239,7 +239,7 @@
 <LM>w#w-lnd94105-127-p1s3w19</LM>
 </w.rf>
 <form>Anschoberovi</form>
-<tag lemma="Anschober_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Anschober_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94105-127-p1s3w20">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 </w.rf>
 <form>APA</form>
 <tag>
-<AM lemma="APA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="APA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="APA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Apa_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Apo_;G" src="auto">NNNS2-----A----</AM>
@@ -544,7 +544,7 @@
 </w.rf>
 <form>News</form>
 <tag>
-<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-1_;m_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -853,7 +853,7 @@
 </w.rf>
 <form>News</form>
 <tag>
-<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-1_;m_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-071-p1s1w1</LM>
 </w.rf>
 <form>Hrdina</form>
-<tag lemma="Hrdina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrdina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-071-p1s1w2">
 <src.rf>manual</src.rf>
@@ -65,8 +65,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-071-p1s1w7">
@@ -109,7 +109,7 @@
 <LM>w#w-mf920922-071-p2s1w2</LM>
 </w.rf>
 <form>Hrdina</form>
-<tag lemma="Hrdina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrdina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s1w3">
 <src.rf>manual</src.rf>
@@ -217,8 +217,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-071-p2s1w16">
@@ -276,8 +276,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-071-p2s1w23">
@@ -302,7 +302,7 @@
 <AM lemma="Velká_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Velká_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Velká_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Velký_;S" src="auto">NNMP4-----A----</AM>
+<AM lemma="Velký_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="velký" src="auto">AAFP1----1A----</AM>
 <AM lemma="velký" src="auto" recommended="1" selected="1">AAFP4----1A----</AM>
 <AM lemma="velký" src="auto">AAFP5----1A----</AM>
@@ -377,7 +377,7 @@
 <LM>w#w-mf920922-071-p2s2w5</LM>
 </w.rf>
 <form>Chein</form>
-<tag lemma="Chein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s2w6">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-mf920922-071-p2s2w27</LM>
 </w.rf>
 <form>Hrdina</form>
-<tag lemma="Hrdina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrdina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s2w28">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf920922-071-p2s2w46</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s2w47">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf920922-071-p2s2w48</LM>
 </w.rf>
 <form>Hajdůška</form>
-<tag lemma="Hajdůšek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hajdůšek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s2w49">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-mf920922-071-p2s2w50</LM>
 </w.rf>
 <form>Honce</form>
-<tag lemma="Honc_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Honc_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s2w51">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-mf920922-071-p2s3w7</LM>
 </w.rf>
 <form>Hrdinou</form>
-<tag lemma="Hrdina_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hrdina_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-mf920922-071-p2s4w8</LM>
 </w.rf>
 <form>Parkhotelu</form>
-<tag lemma="Parkhotel_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Parkhotel_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-071-p2s4w9">
 <src.rf>manual</src.rf>

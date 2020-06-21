@@ -43,7 +43,7 @@
 <LM>w#w-ln94201-84-p1s1w4</LM>
 </w.rf>
 <form>Pupp</form>
-<tag lemma="Pupp_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pupp_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94201-84-p2s1">
@@ -957,13 +957,13 @@
 </w.rf>
 <form>Plecitý</form>
 <tag>
-<AM lemma="Plecitý_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Plecitý_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFS6-----A---6</AM>
 <AM lemma="plecitý" src="auto">AAFP1----1A---6</AM>
 <AM lemma="plecitý" src="auto">AAFP4----1A---6</AM>
 <AM lemma="plecitý" src="auto">AAFP5----1A---6</AM>
@@ -1175,7 +1175,7 @@
 <LM>w#w-ln94201-84-p3s2w7</LM>
 </w.rf>
 <form>Kočař</form>
-<tag lemma="Kočař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-84-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1756,13 +1756,13 @@
 </w.rf>
 <form>Plecitý</form>
 <tag>
-<AM lemma="Plecitý_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Plecitá_;S" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Plecitý_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Plecitá_;Y" src="auto">NNFS6-----A---6</AM>
 <AM lemma="plecitý" src="auto">AAFP1----1A---6</AM>
 <AM lemma="plecitý" src="auto">AAFP4----1A---6</AM>
 <AM lemma="plecitý" src="auto">AAFP5----1A---6</AM>
@@ -1980,7 +1980,7 @@
 <LM>w#w-ln94201-84-p3s6w23</LM>
 </w.rf>
 <form>Pupp</form>
-<tag lemma="Pupp_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pupp_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-84-p3s6w24">
 <src.rf>manual</src.rf>

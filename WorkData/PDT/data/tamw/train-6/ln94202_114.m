@@ -61,7 +61,7 @@
 <LM>w#w-ln94202-114-p16s16w4</LM>
 </w.rf>
 <form>Superpoháru</form>
-<tag lemma="Superpohár_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Superpohár_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-114-p16s16w5">
 <src.rf>manual</src.rf>

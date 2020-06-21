@@ -101,7 +101,7 @@
 <form>Port</form>
 <tag>
 <AM lemma="Port_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Port_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Port_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="port" src="auto">NNIS1-----A----</AM>
 <AM lemma="port" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
@@ -146,9 +146,9 @@
 <form>Prince</form>
 <tag>
 <AM lemma="Prince-2_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Princ_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Princ_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Princ_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Princ_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Princ_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Princ_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Prince_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Prince_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="princ" src="auto">NNMP4-----A----</AM>
@@ -244,7 +244,7 @@
 <LM>w#w-ln95047-074-p1s1w26</LM>
 </w.rf>
 <form>Cartera</form>
-<tag lemma="Carter_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Carter_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-074-p1s1w27">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-ln95047-074-p1s2w2</LM>
 </w.rf>
 <form>Carter</form>
-<tag lemma="Carter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Carter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-074-p1s2w3">
 <src.rf>manual</src.rf>

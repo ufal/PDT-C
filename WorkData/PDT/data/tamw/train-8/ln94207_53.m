@@ -43,7 +43,7 @@
 <LM>w#w-ln94207-53-p1s1w4</LM>
 </w.rf>
 <form>Teleaxis</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-53-p2s1A">
@@ -234,7 +234,7 @@
 <LM>w#w-ln94207-53-p2s1Bw21</LM>
 </w.rf>
 <form>Teleaxis</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-53-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>Holding</form>
 <tag>
-<AM lemma="Holding_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Holding_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -371,7 +371,7 @@
 <LM>w#w-ln94207-53-p2s2w13</LM>
 </w.rf>
 <form>Rychetského</form>
-<tag lemma="Rychetský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rychetský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-53-p2s2w14">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 </w.rf>
 <form>ČTS</form>
 <tag>
-<AM lemma="ČTS_:B_;K_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČTS_:B_;m_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČTS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -507,7 +507,7 @@
 <LM>w#w-ln94207-53-p2s4w4</LM>
 </w.rf>
 <form>Kodeš</form>
-<tag lemma="Kodeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kodeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-53-p2s4w5">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-ln94207-53-p2s4w9</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-53-p2s4w10">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-ln94207-53-p2s5w1</LM>
 </w.rf>
 <form>Teleaxis</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-53-p2s5w2">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-ln94207-53-p2s5w14</LM>
 </w.rf>
 <form>Kodeše</form>
-<tag lemma="Kodeš_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kodeš_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-53-p2s5w15">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

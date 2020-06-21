@@ -19,7 +19,7 @@
 <LM>w#w-vesm9303-017-p1s1w1</LM>
 </w.rf>
 <form>Casimirův</form>
-<tag lemma="Casimirův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Casimirův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9303-017-p1s1w2">
 <src.rf>manual</src.rf>
@@ -39,7 +39,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-017-p2s1w2">
@@ -58,7 +58,7 @@
 <LM>w#w-vesm9303-017-p2s2w1</LM>
 </w.rf>
 <form>MOSTĚPANĚNKO</form>
-<tag lemma="Mostěpaněnko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mostěpaněnko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-017-p3s1">

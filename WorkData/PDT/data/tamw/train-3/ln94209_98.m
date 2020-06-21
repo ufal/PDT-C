@@ -141,7 +141,7 @@
 <LM>w#w-ln94209-98-p2s3w9</LM>
 </w.rf>
 <form>Grussmann</form>
-<tag lemma="Grussmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grussmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-98-p2s3w10">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-ln94209-98-p2s3w14</LM>
 </w.rf>
 <form>Zelenka</form>
-<tag lemma="Zelenka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zelenka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-98-p2s3w15">
 <src.rf>manual</src.rf>
@@ -232,8 +232,8 @@
 </w.rf>
 <form>sn</form>
 <tag>
-<AM lemma="sn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="sn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sn-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sn-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-98-p2s13w3">

@@ -333,7 +333,7 @@
 <LM>w#w-ln94202-42-p1s2w20</LM>
 </w.rf>
 <form>Šafka</form>
-<tag lemma="Šafka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šafka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-42-p1s2w21">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 </w.rf>
 <form>Art</form>
 <tag>
-<AM lemma="Art-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Art-2_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -377,7 +377,7 @@
 </w.rf>
 <form>Fashion</form>
 <tag>
-<AM lemma="Fashion_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Fashion_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Fashion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -388,9 +388,9 @@
 </w.rf>
 <form>Gallery</form>
 <tag>
-<AM lemma="Gallery_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Galler_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Galler_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Gallery_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Galler_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Galler_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="gallery_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gallery-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94202-42-p1s2w28</LM>
 </w.rf>
 <form>Follové</form>
-<tag lemma="Follová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Follová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-42-p1s2w29">
 <src.rf>manual</src.rf>
@@ -476,9 +476,9 @@
 </w.rf>
 <form>OP</form>
 <tag>
-<AM lemma="OP_:B_;K_^(např._OP_Prostějov)" src="orig">NNIXX-----A----</AM>
-<AM lemma="OP-1_:B_;K_^(operační_program;_oděvní_podnik)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OP-2_:B_;K_^(občanská_platforma)" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="OP_:B_;m_^(např._OP_Prostějov)" src="orig">NNIXX-----A----</AM>
+<AM lemma="OP-1_:B_;m_^(operační_program;_oděvní_podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="OP-2_:B_;m_^(občanská_platforma)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="op" src="auto">NNMS1-----A----</AM>
 <AM lemma="OP_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="OP-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -589,11 +589,11 @@
 </w.rf>
 <form>kul</form>
 <tag>
-<AM lemma="kul-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kul-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kout_^(např._železo)" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="kulit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kulit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="kul-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kul-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-42-p1s4w3">
@@ -628,7 +628,7 @@
 <LM>w#w-ln94202-42-p1s4w6</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-42-p1s4w7">
 <src.rf>manual</src.rf>
@@ -645,8 +645,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

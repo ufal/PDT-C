@@ -566,7 +566,7 @@
 <LM>w#w-ln94206-40-p2s3w3</LM>
 </w.rf>
 <form>Škapa</form>
-<tag lemma="Škapa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Škapa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-40-p2s3w4">
 <src.rf>manual</src.rf>

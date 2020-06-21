@@ -88,7 +88,7 @@
 <LM>w#w-ln94209-55-p2s1Aw4</LM>
 </w.rf>
 <form>Wagner</form>
-<tag lemma="Wagner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wagner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-55-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 </w.rf>
 <form>ČAV</form>
 <tag>
-<AM lemma="ČAV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČAV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2399,7 +2399,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2521,7 +2521,7 @@
 <LM>w#w-ln94209-55-p6s1w38</LM>
 </w.rf>
 <form>§§</form>
-<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIPX-----A---1</tag>
+<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIXX-----A---1</tag>
 </m>
 <m id="m-ln94209-55-p6s1w39">
 <src.rf>manual</src.rf>
@@ -2605,7 +2605,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3229,7 +3229,7 @@
 </w.rf>
 <form>ČsOPK</form>
 <tag>
-<AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČsOPK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČsOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4975,7 +4975,7 @@
 <LM>w#w-ln94209-55-p9s4w17</LM>
 </w.rf>
 <form>§§</form>
-<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIPX-----A---1</tag>
+<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIXX-----A---1</tag>
 </m>
 <m id="m-ln94209-55-p9s4w18">
 <src.rf>manual</src.rf>
@@ -5780,8 +5780,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-55-p10s1w51">
@@ -6029,7 +6029,7 @@
 </w.rf>
 <form>ČsOPK</form>
 <tag>
-<AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČsOPK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČsOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6380,7 +6380,7 @@
 </w.rf>
 <form>ČsOPK</form>
 <tag>
-<AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČsOPK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČsOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6918,7 +6918,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -6985,7 +6985,7 @@
 </w.rf>
 <form>ČsOPK</form>
 <tag>
-<AM lemma="ČsOPK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČsOPK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČsOPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7349,7 +7349,7 @@
 <LM>w#w-ln94209-55-p12s3w19</LM>
 </w.rf>
 <form>§§</form>
-<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIPX-----A---1</tag>
+<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIXX-----A---1</tag>
 </m>
 <m id="m-ln94209-55-p12s3w20">
 <src.rf>manual</src.rf>

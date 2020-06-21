@@ -429,7 +429,7 @@
 <LM>w#w-mf920923-134-p2s2w16</LM>
 </w.rf>
 <form>Stalinovou</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-mf920923-134-p2s2w17">
 <src.rf>manual</src.rf>

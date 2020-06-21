@@ -110,8 +110,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-067-p2s1Aw4">
@@ -800,7 +800,7 @@
 <LM>w#w-mf930709-067-p2s4w7</LM>
 </w.rf>
 <form>Rajcharta</form>
-<tag lemma="Rajchart_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rajchart_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-067-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1192,8 +1192,8 @@
 <form>Táborská</form>
 <tag>
 <AM lemma="Táborská_;G" src="orig">AAFS1----1A----</AM>
-<AM lemma="Táborská_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Táborská_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Táborská_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Táborská_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="táborský" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="táborský" src="auto">AAFS5----1A----</AM>
 <AM lemma="táborský" src="auto">AANP1----1A----</AM>
@@ -1216,7 +1216,7 @@
 </w.rf>
 <form>Lounských</form>
 <tag>
-<AM lemma="Lounský_;S_;G" src="orig">AAMP2----1A----</AM>
+<AM lemma="Lounský_;G_;Y" src="orig">AAMP2----1A----</AM>
 <AM lemma="lounský" src="auto">AAFP2----1A----</AM>
 <AM lemma="lounský" src="auto">AAFP6----1A----</AM>
 <AM lemma="lounský" src="auto">AAIP2----1A----</AM>
@@ -1749,7 +1749,7 @@
 <LM>w#w-mf930709-067-p2s11w7</LM>
 </w.rf>
 <form>Linka</form>
-<tag lemma="Link-2_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Link-2_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-067-p2s11w8">
 <src.rf>manual</src.rf>

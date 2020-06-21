@@ -27,7 +27,7 @@
 <LM>w#w-ln95042-061-p1s1w2</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-061-p1s1w3">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 </w.rf>
 <form>ČMKOS</form>
 <tag>
-<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS_:B_;m_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95042-061-p3s2w9</LM>
 </w.rf>
 <form>Falbr</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-061-p3s2w10">
 <src.rf>manual</src.rf>
@@ -610,7 +610,7 @@
 <LM>w#w-ln95042-061-p4s2w7</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-061-p4s2w8">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-ln95042-061-p5s1w6</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-061-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1292,7 +1292,7 @@
 <LM>w#w-ln95042-061-p5s4w1</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-061-p5s4w2">
 <src.rf>manual</src.rf>
@@ -1724,7 +1724,7 @@
 </w.rf>
 <form>ČMKOS</form>
 <tag>
-<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS_:B_;m_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1742,7 +1742,7 @@
 <LM>w#w-ln95042-061-p6s1w5</LM>
 </w.rf>
 <form>Falbra</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-061-p6s1w6">
 <src.rf>manual</src.rf>
@@ -1840,7 +1840,7 @@
 <LM>w#w-ln95042-061-p6s2w1</LM>
 </w.rf>
 <form>Falbr</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-061-p6s2w2">
 <src.rf>manual</src.rf>

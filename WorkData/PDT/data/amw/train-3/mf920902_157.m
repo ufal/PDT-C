@@ -368,7 +368,7 @@
 <LM>w#w-mf920902-157-p4s3w9</LM>
 </w.rf>
 <form>Stingl</form>
-<tag lemma="Stingl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stingl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-157-p4s3w10">
 <src.rf>manual</src.rf>

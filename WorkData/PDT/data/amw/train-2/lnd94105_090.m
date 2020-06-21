@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-090-p1s1w1</LM>
 </w.rf>
 <form>Webber</form>
-<tag lemma="Webber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Webber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s1w2">
 <src.rf>manual</src.rf>
@@ -60,9 +60,9 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NBA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NBA_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -121,7 +121,7 @@
 <LM>w#w-lnd94105-090-p1s3w3</LM>
 </w.rf>
 <form>Webber</form>
-<tag lemma="Webber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Webber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s3w4">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 </w.rf>
 <form>Golden</form>
 <tag>
-<AM lemma="Golden_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Golden_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="golden_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Golden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -150,8 +150,8 @@
 </w.rf>
 <form>State</form>
 <tag>
-<AM lemma="State_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="State_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="State_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="State_;G_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="status" src="auto">NNIS5-----A----</AM>
 <AM lemma="State-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -163,7 +163,7 @@
 </w.rf>
 <form>Warriors</form>
 <tag>
-<AM lemma="Warrior_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Warrior_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="warriors_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Warriors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -207,9 +207,9 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NBA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NBA_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s3w13">
@@ -263,7 +263,7 @@
 <LM>w#w-lnd94105-090-p1s4w1</LM>
 </w.rf>
 <form>Webber</form>
-<tag lemma="Webber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Webber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s4w2">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-lnd94105-090-p1s4w13</LM>
 </w.rf>
 <form>Hardaway</form>
-<tag lemma="Hardaway_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hardaway_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s4w14">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 </w.rf>
 <form>Magic</form>
 <tag>
-<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magica_;m_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
 <AM lemma="Magic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -472,8 +472,8 @@
 </w.rf>
 <form>Jamal</form>
 <tag>
-<AM lemma="Jamal_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jamal_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jamal_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jamal_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s5w6">
@@ -482,7 +482,7 @@
 <LM>w#w-lnd94105-090-p1s5w6</LM>
 </w.rf>
 <form>Mashburn</form>
-<tag lemma="Mashburn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mashburn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s5w7">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-lnd94105-090-p1s6w4</LM>
 </w.rf>
 <form>Webber</form>
-<tag lemma="Webber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Webber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s6w5">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd94105-090-p1s7w1</LM>
 </w.rf>
 <form>Webber</form>
-<tag lemma="Webber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Webber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s7w2">
 <src.rf>manual</src.rf>
@@ -799,9 +799,9 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="NBA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NBA_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s7w6">
@@ -1232,7 +1232,7 @@
 <LM>w#w-lnd94105-090-p1s8w13</LM>
 </w.rf>
 <form>Olajuwonovi</form>
-<tag lemma="Olajuwon_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Olajuwon_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s8w14">
 <src.rf>manual</src.rf>
@@ -1294,7 +1294,7 @@
 <form>Abdul</form>
 <tag>
 <AM lemma="Abdul_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abdul_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abdul_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s8w21">
@@ -1311,7 +1311,7 @@
 <LM>w#w-lnd94105-090-p1s8w22</LM>
 </w.rf>
 <form>Jabbarovi</form>
-<tag lemma="Jabbar_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Jabbar_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s8w23">
 <src.rf>manual</src.rf>

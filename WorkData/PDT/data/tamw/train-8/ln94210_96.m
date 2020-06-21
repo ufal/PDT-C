@@ -87,7 +87,7 @@
 <LM>w#w-ln94210-96-p2s1Bw5</LM>
 </w.rf>
 <form>KAFKY</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-96-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-ln94210-96-p2s3w1</LM>
 </w.rf>
 <form>Kafkovu</form>
-<tag lemma="Kafkův_;S_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Kafkův_;Y_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94210-96-p2s3w2">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-ln94210-96-p3s1w2</LM>
 </w.rf>
 <form>Kafka</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-96-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 <LM>w#w-ln94210-96-p3s6w11</LM>
 </w.rf>
 <form>Filly</form>
-<tag lemma="Filla_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Filla_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-96-p3s6w12">
 <src.rf>manual</src.rf>
@@ -1242,7 +1242,7 @@
 <LM>w#w-ln94210-96-p3s8w6</LM>
 </w.rf>
 <form>Kafkovou</form>
-<tag lemma="Kafkův_;S_^(*2a)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Kafkův_;Y_^(*2a)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln94210-96-p3s8w7">
 <src.rf>manual</src.rf>
@@ -1482,7 +1482,7 @@
 <LM>w#w-ln94210-96-p4s1w5</LM>
 </w.rf>
 <form>Kafkovu</form>
-<tag lemma="Kafkův_;S_^(*2a)" src="orig" selected="1">AUIS3M---------</tag>
+<tag lemma="Kafkův_;Y_^(*2a)" src="orig" selected="1">AUIS3M---------</tag>
 </m>
 <m id="m-ln94210-96-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-ln94210-96-p4s2w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94210-96-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-ln94210-96-p4s2w24</LM>
 </w.rf>
 <form>Kafkovo</form>
-<tag lemma="Kafkův_;S_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Kafkův_;Y_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94210-96-p4s2w25">
 <src.rf>manual</src.rf>
@@ -2274,7 +2274,7 @@
 <LM>w#w-ln94210-96-p4s5w1</LM>
 </w.rf>
 <form>Kafka</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-96-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2768,7 +2768,7 @@
 <LM>w#w-ln94210-96-p4s9w4</LM>
 </w.rf>
 <form>informelu</form>
-<tag lemma="informel_;u" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="informel" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94210-96-p4s9w5">
 <src.rf>manual</src.rf>
@@ -2776,7 +2776,7 @@
 <LM>w#w-ln94210-96-p4s9w5</LM>
 </w.rf>
 <form>Kafka</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-96-p4s9w6">
 <src.rf>manual</src.rf>
@@ -3094,7 +3094,7 @@
 <LM>w#w-ln94210-96-p4s12w2</LM>
 </w.rf>
 <form>Kafkově</form>
-<tag lemma="Kafkův_;S_^(*2a)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Kafkův_;Y_^(*2a)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94210-96-p4s12w3">
 <src.rf>manual</src.rf>
@@ -3373,7 +3373,7 @@
 <LM>w#w-ln94210-96-p5s1w2</LM>
 </w.rf>
 <form>Kafka</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-96-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3585,7 +3585,7 @@
 <LM>w#w-ln94210-96-p5s3w2</LM>
 </w.rf>
 <form>Lindaurová</form>
-<tag lemma="Lindaurová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lindaurová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-96-p5s3B">
@@ -3603,7 +3603,7 @@
 <LM>w#w-ln94210-96-p5s3w4</LM>
 </w.rf>
 <form>Kafka</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-96-p5s3w5">
 <src.rf>manual</src.rf>
@@ -3727,7 +3727,7 @@
 <LM>w#w-ln94210-96-p5s5w3</LM>
 </w.rf>
 <form>Miler</form>
-<tag lemma="Miler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-96-p5s5w4">
 <src.rf>manual</src.rf>

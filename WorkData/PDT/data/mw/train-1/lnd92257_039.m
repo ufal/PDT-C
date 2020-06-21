@@ -84,9 +84,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -97,7 +97,7 @@
 <LM>w#w-lnd92257-039-p2s1w1</LM>
 </w.rf>
 <form>Bushův</form>
-<tag lemma="Bushův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Bushův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92257-039-p2s1w2">
 <src.rf>manual</src.rf>
@@ -841,9 +841,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p3s4w14">
@@ -1603,7 +1603,7 @@
 <LM>w#w-lnd92257-039-p5s2w5</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1922,7 +1922,7 @@
 <LM>w#w-lnd92257-039-p5s4w15</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p5s4w16">
 <src.rf>manual</src.rf>
@@ -1973,7 +1973,7 @@
 <LM>w#w-lnd92257-039-p5s4w21</LM>
 </w.rf>
 <form>Bushovu</form>
-<tag lemma="Bushův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Bushův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd92257-039-p5s4w22">
 <src.rf>manual</src.rf>
@@ -2257,7 +2257,7 @@
 <LM>w#w-lnd92257-039-p5s6w8</LM>
 </w.rf>
 <form>Pat</form>
-<tag lemma="Pat_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pat_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p5s6w9">
 <src.rf>manual</src.rf>
@@ -2265,7 +2265,7 @@
 <LM>w#w-lnd92257-039-p5s6w9</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p5s6w10">
 <src.rf>manual</src.rf>
@@ -2638,7 +2638,7 @@
 </w.rf>
 <form>DPG</form>
 <tag>
-<AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DPG-1_:B_;m_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2690,7 +2690,7 @@
 <LM>w#w-lnd92257-039-p6s2w2</LM>
 </w.rf>
 <form>Tyler</form>
-<tag lemma="Tyler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tyler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p6s2w3">
 <src.rf>manual</src.rf>
@@ -2753,7 +2753,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3116,7 +3116,7 @@
 </w.rf>
 <form>DPG</form>
 <tag>
-<AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DPG-1_:B_;m_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3207,9 +3207,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p6s3w14">
@@ -3311,7 +3311,7 @@
 <LM>w#w-lnd92257-039-p6s4w1</LM>
 </w.rf>
 <form>Tyler</form>
-<tag lemma="Tyler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tyler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p6s4w2">
 <src.rf>manual</src.rf>
@@ -3351,7 +3351,7 @@
 <LM>w#w-lnd92257-039-p6s4w6</LM>
 </w.rf>
 <form>Bushova</form>
-<tag lemma="Bushův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Bushův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92257-039-p6s4w7">
 <src.rf>manual</src.rf>
@@ -3532,7 +3532,7 @@
 <LM>w#w-lnd92257-039-p6s5w2</LM>
 </w.rf>
 <form>Tylera</form>
-<tag lemma="Tyler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tyler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p6s5w3">
 <src.rf>manual</src.rf>
@@ -3971,7 +3971,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4006,9 +4006,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p7s1w10">
@@ -4100,7 +4100,7 @@
 </w.rf>
 <form>DPG</form>
 <tag>
-<AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DPG-1_:B_;m_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4126,7 +4126,7 @@
 <LM>w#w-lnd92257-039-p7s2w8</LM>
 </w.rf>
 <form>Tyler</form>
-<tag lemma="Tyler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tyler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p7s2w9">
 <src.rf>manual</src.rf>
@@ -4510,9 +4510,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p7s4w17">
@@ -4636,9 +4636,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p7s5w7">
@@ -5047,9 +5047,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p8s2w17">
@@ -5340,7 +5340,7 @@
 </w.rf>
 <form>DPG</form>
 <tag>
-<AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DPG-1_:B_;m_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5582,7 +5582,7 @@
 <LM>w#w-lnd92257-039-p8s7w3</LM>
 </w.rf>
 <form>Clintonem</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p8s7w4">
 <src.rf>manual</src.rf>
@@ -5647,9 +5647,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p8s7w12">
@@ -7157,7 +7157,7 @@
 <LM>w#w-lnd92257-039-p9s2w2</LM>
 </w.rf>
 <form>Tylerův</form>
-<tag lemma="Tylerův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Tylerův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92257-039-p9s2w3">
 <src.rf>manual</src.rf>
@@ -7449,8 +7449,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s2w39">
@@ -7590,8 +7590,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s3w13">
@@ -7657,9 +7657,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s3w21">
@@ -7754,8 +7754,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s4w11">
@@ -7893,8 +7893,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p10s1w8">
@@ -8041,7 +8041,7 @@
 <LM>w#w-lnd92257-039-p10s2w8</LM>
 </w.rf>
 <form>Bushova</form>
-<tag lemma="Bushův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Bushův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92257-039-p10s2w9">
 <src.rf>manual</src.rf>
@@ -8138,9 +8138,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p10s2w21">
@@ -8837,8 +8837,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p11s7w2">
@@ -9006,9 +9006,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p11s7w22">
@@ -9082,7 +9082,7 @@
 </w.rf>
 <form>DPG</form>
 <tag>
-<AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DPG-1_:B_;m_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -10240,8 +10240,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p13s2w16">
@@ -10261,7 +10261,7 @@
 </w.rf>
 <form>DPG</form>
 <tag>
-<AM lemma="DPG-1_:B_;K_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DPG-1_:B_;m_,t_^(Deutsche_paläontologische_Gesellschatf)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DPG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -11033,7 +11033,7 @@
 <LM>w#w-lnd92257-039-p15s1w3</LM>
 </w.rf>
 <form>FUKUYAMA</form>
-<tag lemma="Fukuyama_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fukuyama_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-039-p15s1w4">
 <src.rf>manual</src.rf>
@@ -11093,8 +11093,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

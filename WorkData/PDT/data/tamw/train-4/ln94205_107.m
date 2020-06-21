@@ -19,7 +19,7 @@
 <LM>w#w-ln94205-107-p1s1w1</LM>
 </w.rf>
 <form>Střížek</form>
-<tag lemma="Střížek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Střížek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-107-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln94205-107-p2s1Aw2</LM>
 </w.rf>
 <form>Lindaurová</form>
-<tag lemma="Lindaurová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lindaurová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-107-p2s1B">
@@ -103,7 +103,7 @@
 <LM>w#w-ln94205-107-p2s1Bw3</LM>
 </w.rf>
 <form>Střížka</form>
-<tag lemma="Střížek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Střížek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-107-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-ln94205-107-p2s3w5</LM>
 </w.rf>
 <form>Střížkových</form>
-<tag lemma="Střížkův_;S_^(*3ek)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Střížkův_;Y_^(*3ek)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln94205-107-p2s3w6">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 </w.rf>
 <form>MXM</form>
 <tag>
-<AM lemma="MXM-2_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MXM-2_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MXM`1990" src="auto" recommended="1">C}-------------</AM>
 <AM lemma="MXM_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="MXM-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -589,7 +589,7 @@
 <LM>w#w-ln94205-107-p3s1w3</LM>
 </w.rf>
 <form>Střížkových</form>
-<tag lemma="Střížkův_;S_^(*3ek)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Střížkův_;Y_^(*3ek)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-ln94205-107-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-ln94205-107-p3s4w11</LM>
 </w.rf>
 <form>Střížek</form>
-<tag lemma="Střížek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Střížek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-107-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1405,9 +1405,9 @@
 </w.rf>
 <form>Chirica</form>
 <tag>
-<AM lemma="Chiric_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Chirico_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Chirico_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Chiric_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Chirico_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Chirico_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-107-p3s7w11">
@@ -1464,7 +1464,7 @@
 <LM>w#w-ln94205-107-p3s7w17</LM>
 </w.rf>
 <form>Veroneseho</form>
-<tag lemma="Veronese_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Veronese_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-107-p3s7w18">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 <LM>w#w-ln94205-107-p3s10w2</LM>
 </w.rf>
 <form>Střížkových</form>
-<tag lemma="Střížkův_;S_^(*3ek)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Střížkův_;Y_^(*3ek)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln94205-107-p3s10w3">
 <src.rf>manual</src.rf>
@@ -2056,7 +2056,7 @@
 <LM>w#w-ln94205-107-p4s1w14</LM>
 </w.rf>
 <form>Střížek</form>
-<tag lemma="Střížek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Střížek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-107-p4s1w15">
 <src.rf>manual</src.rf>
@@ -2435,7 +2435,7 @@
 <LM>w#w-ln94205-107-p4s5w1</LM>
 </w.rf>
 <form>Střížek</form>
-<tag lemma="Střížek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Střížek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-107-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2632,7 +2632,7 @@
 <LM>w#w-ln94205-107-p4s6w11</LM>
 </w.rf>
 <form>Střížek</form>
-<tag lemma="Střížek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Střížek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-107-p4s6w12">
 <src.rf>manual</src.rf>
@@ -3335,7 +3335,7 @@
 <LM>w#w-ln94205-107-p4s13w1</LM>
 </w.rf>
 <form>Střížek</form>
-<tag lemma="Střížek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Střížek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-107-p4s13w2">
 <src.rf>manual</src.rf>

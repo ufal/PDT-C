@@ -21,7 +21,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-065-p1s1w2">
@@ -41,9 +41,9 @@
 </w.rf>
 <form>RUCKOJ</form>
 <tag>
-<AM lemma="Ruckoj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
-<AM lemma="Rucký_;S" src="auto">NNMS5-----A---2</AM>
+<AM lemma="Ruckoj_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rucký_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
+<AM lemma="Rucký_;Y" src="auto">NNMS5-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd92251-065-p1s2w2">
@@ -219,9 +219,9 @@
 </w.rf>
 <form>Ruckoj</form>
 <tag>
-<AM lemma="Ruckoj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
-<AM lemma="Rucký_;S" src="auto">NNMS5-----A---2</AM>
+<AM lemma="Ruckoj_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rucký_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
+<AM lemma="Rucký_;Y" src="auto">NNMS5-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd92251-065-p3s2w15">
@@ -395,9 +395,9 @@
 </w.rf>
 <form>Ruckoj</form>
 <tag>
-<AM lemma="Ruckoj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
-<AM lemma="Rucký_;S" src="auto">NNMS5-----A---2</AM>
+<AM lemma="Ruckoj_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rucký_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
+<AM lemma="Rucký_;Y" src="auto">NNMS5-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd92251-065-p3s4w2">
@@ -585,7 +585,7 @@
 <LM>w#w-lnd92251-065-p3s4w24</LM>
 </w.rf>
 <form>Kozyreva</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w25">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-lnd92251-065-p3s4w27</LM>
 </w.rf>
 <form>Poltoranina</form>
-<tag lemma="Poltoranin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Poltoranin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w28">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-lnd92251-065-p3s4w30</LM>
 </w.rf>
 <form>Čubajse</form>
-<tag lemma="Čubajs_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Čubajs_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w31">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-lnd92251-065-p3s4w34</LM>
 </w.rf>
 <form>Gennadije</form>
-<tag lemma="Gennadij_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gennadij_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w35">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-lnd92251-065-p3s4w35</LM>
 </w.rf>
 <form>Burbulise</form>
-<tag lemma="Burbulis_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Burbulis_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w36">
 <src.rf>manual</src.rf>

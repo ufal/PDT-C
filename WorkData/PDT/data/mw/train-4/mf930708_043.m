@@ -439,7 +439,7 @@
 <LM>w#w-mf930708-043-p2s3w3</LM>
 </w.rf>
 <form>Marvan</form>
-<tag lemma="Marvan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marvan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-043-p2s3w4">
 <src.rf>manual</src.rf>

@@ -179,7 +179,7 @@
 <form>Mora</form>
 <tag>
 <AM lemma="mora" src="orig">NNFS1-----A----</AM>
-<AM lemma="Mora_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mora_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-027-p2s2w3">
@@ -229,7 +229,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -255,7 +255,7 @@
 <LM>w#w-ln95041-027-p2s2w11</LM>
 </w.rf>
 <form>Iskra</form>
-<tag lemma="Iskra_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Iskra_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-027-p2s2w12">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <form>Olymp</form>
 <tag>
 <AM lemma="Olymp_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Olymp_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Olymp_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-027-p2s3w4">
@@ -484,7 +484,7 @@
 <form>CEV</form>
 <tag>
 <AM lemma="CEV_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Ceva_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Ceva_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="CEV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -551,7 +551,7 @@
 </w.rf>
 <form>RCF</form>
 <tag>
-<AM lemma="RCF_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="RCF_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="RCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -561,7 +561,7 @@
 <LM>w#w-ln95041-027-p2s3w18</LM>
 </w.rf>
 <form>Villebon</form>
-<tag lemma="Villebon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Villebon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-027-p2s3w19">
 <src.rf>manual</src.rf>

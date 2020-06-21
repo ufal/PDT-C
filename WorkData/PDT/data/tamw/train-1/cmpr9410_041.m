@@ -393,7 +393,7 @@
 <LM>w#w-cmpr9410-041-p4s1w5</LM>
 </w.rf>
 <form>Handlem</form>
-<tag lemma="Handl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Handl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9410-041-p4s1w6">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-cmpr9410-041-p6s2w8</LM>
 </w.rf>
 <form>Schichta</form>
-<tag lemma="Schicht_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schicht_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-041-p6s2w9">
 <src.rf>manual</src.rf>
@@ -1811,7 +1811,7 @@
 <LM>w#w-cmpr9410-041-p8s6w6</LM>
 </w.rf>
 <form>Unileveru</form>
-<tag lemma="Unilever_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Unilever_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-041-p8s6w7">
 <src.rf>manual</src.rf>
@@ -1914,7 +1914,7 @@
 <form>Rama</form>
 <tag>
 <AM lemma="Rama-1_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rama-2_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rama-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-041-p8s7w4">
@@ -2976,7 +2976,7 @@
 <LM>w#w-cmpr9410-041-p12s3w2</LM>
 </w.rf>
 <form>Schicht</form>
-<tag lemma="Schicht_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schicht_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-041-p12s3w3">
 <src.rf>manual</src.rf>
@@ -3584,7 +3584,7 @@
 <LM>w#w-cmpr9410-041-p13s2w9</LM>
 </w.rf>
 <form>Setuzy</form>
-<tag lemma="Setuza_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Setuza_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-041-p13s2w10">
 <src.rf>manual</src.rf>
@@ -3741,12 +3741,12 @@
 </w.rf>
 <form>Holický</form>
 <tag>
-<AM lemma="Holický_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Holický_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Holický_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Holický_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Holický_;S" src="auto" selected="1">NNMS1-----A----</AM>
-<AM lemma="Holický_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Holický_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Holický_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Holický_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Holický_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Holický_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Holický_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="holický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="holický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="holický" src="auto">AAFP5----1A---6</AM>

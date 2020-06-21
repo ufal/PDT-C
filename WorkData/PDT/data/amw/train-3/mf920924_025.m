@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-025-p1s1w2</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-025-p1s1w3">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-mf920924-025-p2s2w28</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-025-p2s2w29">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -713,7 +713,7 @@
 </w.rf>
 <form>FMZO</form>
 <tag>
-<AM lemma="FMZO_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FMZO_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="FMZO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -964,7 +964,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-025-p2s6w11">
@@ -981,7 +981,7 @@
 <LM>w#w-mf920924-025-p2s6w12</LM>
 </w.rf>
 <form>Dlouhého</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-025-p2s6w13">
 <src.rf>manual</src.rf>

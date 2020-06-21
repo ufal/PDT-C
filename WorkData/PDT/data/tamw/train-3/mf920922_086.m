@@ -62,13 +62,13 @@
 </w.rf>
 <form>fil</form>
 <tag>
-<AM lemma="fil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="fil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-086-p2s1w4">
@@ -207,7 +207,7 @@
 <LM>w#w-mf920922-086-p2s2w15</LM>
 </w.rf>
 <form>Svídenská</form>
-<tag lemma="Svídenská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Svídenská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-086-p2s2w16">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-mf920922-086-p2s3w9</LM>
 </w.rf>
 <form>Blinková</form>
-<tag lemma="Blinková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blinková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-086-p2s3w10">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-mf920922-086-p2s6w10</LM>
 </w.rf>
 <form>Květy</form>
-<tag lemma="Květy_;R" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="Květy_;m" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-086-p2s6w11">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-mf920922-086-p2s6w23</LM>
 </w.rf>
 <form>Jelínská</form>
-<tag lemma="Jelínská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jelínská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-086-p2s6w24">
 <src.rf>manual</src.rf>

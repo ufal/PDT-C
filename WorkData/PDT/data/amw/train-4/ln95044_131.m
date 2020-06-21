@@ -321,7 +321,7 @@
 <LM>w#w-ln95044-131-p2s2w8</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-131-p2s2w9">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94210-10-p1s1w4</LM>
 </w.rf>
 <form>SETUZA</form>
-<tag lemma="Setuza_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Setuza_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-10-p2s1A">
@@ -188,7 +188,7 @@
 <LM>w#w-ln94210-10-p2s1Bw2</LM>
 </w.rf>
 <form>Achremenko</form>
-<tag lemma="Achremenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Achremenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-10-p2s1C">
@@ -1326,8 +1326,8 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-10-p3s3w22">
@@ -1456,7 +1456,7 @@
 </w.rf>
 <form>SETUZA</form>
 <tag>
-<AM lemma="Setuza_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Setuza_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="SETUZA-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1927,7 +1927,7 @@
 <LM>w#w-ln94210-10-p4s4w12</LM>
 </w.rf>
 <form>MILO</form>
-<tag lemma="Milo-1_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Milo-1_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-10-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1943,7 +1943,7 @@
 <LM>w#w-ln94210-10-p4s4w14</LM>
 </w.rf>
 <form>SETUZA</form>
-<tag lemma="Setuza_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Setuza_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-10-p4s4w15">
 <src.rf>manual</src.rf>
@@ -2845,7 +2845,7 @@
 <LM>w#w-ln94210-10-p6s3w15</LM>
 </w.rf>
 <form>SETUZA</form>
-<tag lemma="Setuza_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Setuza_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-10-p6s3w16">
 <src.rf>manual</src.rf>
@@ -2962,8 +2962,8 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-10-p6s5w7">

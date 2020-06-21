@@ -149,7 +149,7 @@
 <LM>w#w-vesm9301-002-p2s1w8</LM>
 </w.rf>
 <form>CO</form>
-<tag lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-vesm9301-002-p2s1w9">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-vesm9301-002-p2s2w11</LM>
 </w.rf>
 <form>CO</form>
-<tag lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-vesm9301-002-p2s2w12">
 <src.rf>manual</src.rf>
@@ -3444,7 +3444,7 @@
 <LM>w#w-vesm9301-002-p7s1w7</LM>
 </w.rf>
 <form>CO</form>
-<tag lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-vesm9301-002-p7s1w8">
 <src.rf>manual</src.rf>
@@ -3519,7 +3519,7 @@
 <LM>w#w-vesm9301-002-p7s1w16</LM>
 </w.rf>
 <form>Balling</form>
-<tag lemma="Balling_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balling_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p7s1w17">
 <src.rf>manual</src.rf>
@@ -3623,7 +3623,7 @@
 <LM>w#w-vesm9301-002-p7s1w29</LM>
 </w.rf>
 <form>CO</form>
-<tag lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-vesm9301-002-p7s1w30">
 <src.rf>manual</src.rf>

@@ -395,10 +395,10 @@
 </w.rf>
 <form>favoritu</form>
 <tag>
-<AM lemma="Favorit-2_;R_^(vozidlo)" src="orig">NNIS3-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto">NNIS6-----A----</AM>
+<AM lemma="Favorit-2_;m_^(vozidlo)" src="orig">NNIS3-----A----</AM>
+<AM lemma="favorit-1_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="favorit-1_;m" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
+<AM lemma="favorit-1_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMS3-----A---1</AM>
 <AM lemma="favorit-2" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -435,7 +435,7 @@
 <LM>w#w-ln95045-072-p3s1w3</LM>
 </w.rf>
 <form>Palace</form>
-<tag lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Palace-1_;m_^(př._hotel_Palace)" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95045-072-p3s1w4">
 <src.rf>manual</src.rf>
@@ -788,8 +788,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-072-p4s1w18">
@@ -963,7 +963,7 @@
 </w.rf>
 <form>IŽ</form>
 <tag>
-<AM lemma="IŽ_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IŽ_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Iža_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="IŽ_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1088,8 +1088,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-072-p5s1w19">

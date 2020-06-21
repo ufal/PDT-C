@@ -1205,8 +1205,8 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-043-p2s7w16">
@@ -2676,7 +2676,7 @@
 </w.rf>
 <form>TOS</form>
 <tag>
-<AM lemma="TOS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TOS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

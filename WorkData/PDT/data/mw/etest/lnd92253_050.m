@@ -175,7 +175,7 @@
 <tag>
 <AM lemma="at_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
-<AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="atmosféra_:B_;U_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="at-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -330,7 +330,7 @@
 <LM>w#w-lnd92253-050-p3s2w30</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92253-050-p3s2w31">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -479,7 +479,7 @@
 <LM>w#w-lnd92253-050-p3s3w17</LM>
 </w.rf>
 <form>Hizballáhu</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-050-p3s3w18">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-lnd92253-050-p3s4w4</LM>
 </w.rf>
 <form>Hizballáhu</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-050-p3s4w5">
 <src.rf>manual</src.rf>

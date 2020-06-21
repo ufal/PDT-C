@@ -70,8 +70,8 @@
 </w.rf>
 <form>hč</form>
 <tag>
-<AM lemma="hč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-079-p2s1w4">
@@ -443,7 +443,7 @@
 <LM>w#w-mf920925-079-p2s3w18</LM>
 </w.rf>
 <form>Křtitele</form>
-<tag lemma="Křtitel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Křtitel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-079-p2s3w19">
 <src.rf>manual</src.rf>

@@ -196,7 +196,7 @@
 <LM>w#w-ln95046-066-p1s2w13</LM>
 </w.rf>
 <form>Balladura</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 </mdata>

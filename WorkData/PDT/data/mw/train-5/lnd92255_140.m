@@ -20,8 +20,8 @@
 </w.rf>
 <form>FVŽP</form>
 <tag>
-<AM lemma="FVŽP_:B_;K_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FVŽP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FVŽP_:B_;m_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FVŽP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FVŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -126,8 +126,8 @@
 </w.rf>
 <form>FVŽP</form>
 <tag>
-<AM lemma="FVŽP_:B_;K_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FVŽP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FVŽP_:B_;m_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FVŽP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FVŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -300,7 +300,7 @@
 </w.rf>
 <form>MŽP</form>
 <tag>
-<AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŽP_:B_;m_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -376,7 +376,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s3w26">
@@ -393,7 +393,7 @@
 <LM>w#w-lnd92255-140-p3s3w27</LM>
 </w.rf>
 <form>Macek</form>
-<tag lemma="Macek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Macek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-140-p3s3w28">
 <src.rf>manual</src.rf>
@@ -426,8 +426,8 @@
 </w.rf>
 <form>FVŽP</form>
 <tag>
-<AM lemma="FVŽP_:B_;K_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FVŽP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FVŽP_:B_;m_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FVŽP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FVŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -487,7 +487,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-140-p3s3w39">
@@ -504,7 +504,7 @@
 <LM>w#w-lnd92255-140-p3s3w40</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-140-p3s3w41">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 </w.rf>
 <form>MŽP</form>
 <tag>
-<AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŽP_:B_;m_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -840,8 +840,8 @@
 </w.rf>
 <form>FVŽP</form>
 <tag>
-<AM lemma="FVŽP_:B_;K_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FVŽP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FVŽP_:B_;m_^(Federální_výbor_pro_životní_prostředí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FVŽP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FVŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

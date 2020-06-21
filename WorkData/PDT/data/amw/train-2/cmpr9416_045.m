@@ -208,7 +208,7 @@
 </w.rf>
 <form>YSE</form>
 <tag>
-<AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="YSE_:B_;m_^(YSE_Holding,_fin._inst.)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="YSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -235,7 +235,7 @@
 </w.rf>
 <form>DATA</form>
 <tag>
-<AM lemma="Data_;K" src="orig">NNNP1-----A----</AM>
+<AM lemma="Data_;m" src="orig">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto" recommended="1" selected="1">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>

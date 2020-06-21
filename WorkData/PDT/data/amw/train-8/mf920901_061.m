@@ -231,7 +231,7 @@
 <LM>w#w-mf920901-061-p2s2w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920901-061-p2s2w9">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-mf920901-061-p2s7w6</LM>
 </w.rf>
 <form>Mach</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-061-p2s7w7">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-mf920901-061-p2s7w8</LM>
 </w.rf>
 <form>Lacina</form>
-<tag lemma="Lacina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lacina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-061-p2s7w9">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-mf920901-061-p2s7w10</LM>
 </w.rf>
 <form>Nehoda</form>
-<tag lemma="Nehoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nehoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-061-p2s7w11">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-mf920901-061-p2s8w22</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920901-061-p2s8w23">
 <src.rf>manual</src.rf>
@@ -1071,7 +1071,7 @@
 <LM>w#w-mf920901-061-p2s8w34</LM>
 </w.rf>
 <form>Mach</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-061-p2s8w35">
 <src.rf>manual</src.rf>

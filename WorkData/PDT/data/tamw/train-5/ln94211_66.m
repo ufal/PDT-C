@@ -120,8 +120,8 @@
 </w.rf>
 <form>vet</form>
 <tag>
-<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-66-p2s1Bw4">
@@ -272,8 +272,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-66-p2s1Cw17">
@@ -552,7 +552,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-66-p2s3Aw5">
@@ -569,7 +569,7 @@
 <LM>w#w-ln94211-66-p2s3Aw6</LM>
 </w.rf>
 <form>Fišerová</form>
-<tag lemma="Fišerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fišerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-66-p2s3Aw7">
 <src.rf>manual</src.rf>
@@ -735,8 +735,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-66-p2s3Bw5">
@@ -833,7 +833,7 @@
 <LM>w#w-ln94211-66-p2s3Bw16</LM>
 </w.rf>
 <form>Agropodnik</form>
-<tag lemma="Agropodnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agropodnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-66-p2s3Bw17">
 <src.rf>manual</src.rf>
@@ -1777,8 +1777,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-66-p2s11w12">
@@ -1856,7 +1856,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-66-p2s12w5">
@@ -1873,7 +1873,7 @@
 <LM>w#w-ln94211-66-p2s12w6</LM>
 </w.rf>
 <form>Fišerové</form>
-<tag lemma="Fišerová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fišerová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-66-p2s12w7">
 <src.rf>manual</src.rf>

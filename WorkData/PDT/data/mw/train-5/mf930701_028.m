@@ -44,7 +44,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -132,7 +132,7 @@
 <LM>w#w-mf930701-028-p4s1w1</LM>
 </w.rf>
 <form>Agrobanka</form>
-<tag lemma="Agrobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Agrobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-028-p4s1w2">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

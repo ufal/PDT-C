@@ -711,7 +711,7 @@
 </w.rf>
 <form>ODT</form>
 <tag>
-<AM lemma="ODT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ODT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ODT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4184,7 +4184,7 @@
 <LM>w#w-ln95040-071-p6s3w10</LM>
 </w.rf>
 <form>Thatcherové</form>
-<tag lemma="Thatcherová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Thatcherová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-071-p6s3w11">
 <src.rf>manual</src.rf>

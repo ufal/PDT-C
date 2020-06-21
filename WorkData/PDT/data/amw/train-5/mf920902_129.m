@@ -157,7 +157,7 @@
 <LM>w#w-mf920902-129-p2s1w11</LM>
 </w.rf>
 <form>Turnera</form>
-<tag lemma="Turner_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Turner_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-129-p2s1w12">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1386,7 +1386,7 @@
 </w.rf>
 <form>RUC</form>
 <tag>
-<AM lemma="RUC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RUC_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RUC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1810,7 +1810,7 @@
 <LM>w#w-mf920902-129-p2s12w2</LM>
 </w.rf>
 <form>semtexu</form>
-<tag lemma="semtex_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="semtex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-129-p2s12w3">
 <src.rf>manual</src.rf>
@@ -1973,7 +1973,7 @@
 </w.rf>
 <form>RUC</form>
 <tag>
-<AM lemma="RUC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RUC_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RUC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2152,7 +2152,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2406,7 +2406,7 @@
 <LM>w#w-mf920902-129-p2s15w19</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-129-p2s15w20">
 <src.rf>manual</src.rf>
@@ -2866,7 +2866,7 @@
 <LM>w#w-mf920902-129-p2s17w26</LM>
 </w.rf>
 <form>Kathrin</form>
-<tag lemma="Kathrin_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Kathrin_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920902-129-p2s17w27">
 <src.rf>manual</src.rf>
@@ -2874,7 +2874,7 @@
 <LM>w#w-mf920902-129-p2s17w27</LM>
 </w.rf>
 <form>Traversová</form>
-<tag lemma="Traversová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Traversová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-129-p2s17w28">
 <src.rf>manual</src.rf>
@@ -4507,7 +4507,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-8_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -4575,7 +4575,7 @@
 <LM>w#w-mf920902-129-p2s28w3</LM>
 </w.rf>
 <form>Turner</form>
-<tag lemma="Turner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Turner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-129-p2s28w4">
 <src.rf>manual</src.rf>
@@ -4958,7 +4958,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

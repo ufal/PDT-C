@@ -279,7 +279,7 @@
 <LM>w#w-mf930703-078-p2s2w4</LM>
 </w.rf>
 <form>Mika</form>
-<tag lemma="Mika_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mika_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-078-p2s2w5">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-mf930703-078-p3s2w1</LM>
 </w.rf>
 <form>Miko</form>
-<tag lemma="Miko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-078-p3s2w2">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-mf930703-078-p3s4w1</LM>
 </w.rf>
 <form>Miko</form>
-<tag lemma="Miko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-078-p3s4w2">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-mf930703-078-p3s4w17</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-078-p3s4w18">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-mf930703-078-p4s1w18</LM>
 </w.rf>
 <form>sarinem</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930703-078-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1383,7 +1383,7 @@
 <LM>w#w-mf930703-078-p5s1w17</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-078-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-mf930703-078-p5s3w1</LM>
 </w.rf>
 <form>Šmehlík</form>
-<tag lemma="Šmehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-078-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1911,7 +1911,7 @@
 <LM>w#w-mf930703-078-p6s3w9</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-078-p6s3w10">
 <src.rf>manual</src.rf>

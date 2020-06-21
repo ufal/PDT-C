@@ -132,8 +132,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-010-p1s1w16">
@@ -179,7 +179,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-010-p1s1w21">
@@ -196,7 +196,7 @@
 <LM>w#w-lnd92252-010-p1s1w22</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-010-p1s1w23">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-010-p1s1w25">
@@ -231,7 +231,7 @@
 <LM>w#w-lnd92252-010-p1s1w26</LM>
 </w.rf>
 <form>Kocáb</form>
-<tag lemma="Kocáb_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kocáb_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-010-p1s1w27">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-010-p1s1w29">
@@ -266,7 +266,7 @@
 <LM>w#w-lnd92252-010-p1s1w30</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-010-p1s1w31">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-lnd92252-010-p2s1w3</LM>
 </w.rf>
 <form>Mihaliček</form>
-<tag lemma="Mihaliček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mihaliček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

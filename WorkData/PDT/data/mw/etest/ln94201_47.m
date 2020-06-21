@@ -78,7 +78,7 @@
 <LM>w#w-ln94201-47-p1s1w8</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94201-47-p2s1">
@@ -135,9 +135,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-47-p2s1w7">
@@ -155,8 +155,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-47-p2s1w9">
@@ -317,7 +317,7 @@
 <LM>w#w-ln94201-47-p2s1w28</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-47-p2s1w29">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-ln94201-47-p3s1w4</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-47-p3s1w5">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-ln94201-47-p4s1w5</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-47-p4s1w6">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-ln94201-47-p4s1w9</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-47-p4s1w10">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-ln94201-47-p4s2w1</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-47-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-ln94201-47-p5s1w21</LM>
 </w.rf>
 <form>Warrena</form>
-<tag lemma="Warren_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Warren_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-47-p5s1w22">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-ln94201-47-p5s1w22</LM>
 </w.rf>
 <form>Christophera</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-47-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1572,7 +1572,7 @@
 <LM>w#w-ln94201-47-p6s1w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-47-p6s1w19">
 <src.rf>manual</src.rf>
@@ -1906,7 +1906,7 @@
 <LM>w#w-ln94201-47-p7s1w13</LM>
 </w.rf>
 <form>Castra</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-47-p7s1w14">
 <src.rf>manual</src.rf>
@@ -1995,7 +1995,7 @@
 </w.rf>
 <form>Corriere</form>
 <tag>
-<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Corriere_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2007,7 +2007,7 @@
 <form>della</form>
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della_;m_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2018,9 +2018,9 @@
 </w.rf>
 <form>Sera</form>
 <tag>
-<AM lemma="Sera-2_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ser_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ser_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Sera-2_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ser_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP4-----A----</AM>
@@ -2056,7 +2056,7 @@
 <LM>w#w-ln94201-47-p7s1w29</LM>
 </w.rf>
 <form>Ricardo</form>
-<tag lemma="Ricardo_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ricardo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-47-p7s1w30">
 <src.rf>manual</src.rf>
@@ -2064,7 +2064,7 @@
 <LM>w#w-ln94201-47-p7s1w30</LM>
 </w.rf>
 <form>Bofill</form>
-<tag lemma="Bofill_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bofill_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-47-p7s1w31">
 <src.rf>manual</src.rf>

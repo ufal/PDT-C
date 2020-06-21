@@ -79,7 +79,7 @@
 <LM>w#w-lnd92256-028-p3s1w3</LM>
 </w.rf>
 <form>ld</form>
-<tag lemma="ld-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ld-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92256-028-p3s1w4">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 </w.rf>
 <form>MŽP</form>
 <tag>
-<AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŽP_:B_;m_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -898,9 +898,9 @@
 </w.rf>
 <form>Castor</form>
 <tag>
-<AM lemma="Castor-2_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Castor_;S" src="auto" selected="1">NNMS1-----A----</AM>
-<AM lemma="Kastór_;S_,t_,x" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Castor-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Castor_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kastór_;Y_,t_,x" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-028-p5s1w8">

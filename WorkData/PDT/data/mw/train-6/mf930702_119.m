@@ -208,7 +208,7 @@
 <LM>w#w-mf930702-119-p3s1w14</LM>
 </w.rf>
 <form>Hewlett</form>
-<tag lemma="Hewlett-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hewlett-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-119-p3s1w15">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-mf930702-119-p4s2w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930702-119-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1623,7 +1623,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1762,11 +1762,11 @@
 </w.rf>
 <form>Fortune</form>
 <tag>
-<AM lemma="Fortune_;R" src="orig">NNIXX-----A----</AM>
+<AM lemma="Fortune_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Fortun_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Fortune-1_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Fortune-2_;S" src="auto" recommended="1">NNMSX-----A----</AM>
-<AM lemma="Fortune-1_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Fortune-1_;m" src="auto">NNIXX-----A----</AM>
+<AM lemma="Fortune-2_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Fortune-1_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-119-p6s1w32">

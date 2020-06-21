@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-137-p1s1w1</LM>
 </w.rf>
 <form>Šmicer</form>
-<tag lemma="Šmicer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmicer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-137-p1s1w2">
 <src.rf>manual</src.rf>
@@ -62,8 +62,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-137-p1s2w4">
@@ -106,7 +106,7 @@
 <LM>w#w-lnd94103-137-p1s3w3</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-137-p1s3w4">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-lnd94103-137-p1s3w18</LM>
 </w.rf>
 <form>Šmicer</form>
-<tag lemma="Šmicer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmicer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-137-p1s3w19">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd94103-137-p1s4w11</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd94103-137-p1s4w12">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-lnd94103-137-p1s5Bw3</LM>
 </w.rf>
 <form>Šmicera</form>
-<tag lemma="Šmicer_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Šmicer_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94103-137-p1s5Bw4">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-lnd94103-137-p1s6Aw22</LM>
 </w.rf>
 <form>Vízka</form>
-<tag lemma="Vízek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vízek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-137-p1s6Aw23">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-lnd94103-137-p1s6Bw4</LM>
 </w.rf>
 <form>Šmicer</form>
-<tag lemma="Šmicer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmicer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-137-p1s6Bw5">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <LM>w#w-lnd94103-137-p1s6Bw13</LM>
 </w.rf>
 <form>Berger</form>
-<tag lemma="Berger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-137-p1s6Bw14">
 <src.rf>manual</src.rf>

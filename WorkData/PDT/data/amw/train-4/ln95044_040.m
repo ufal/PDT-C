@@ -875,7 +875,7 @@
 <LM>w#w-ln95044-040-p2s6w9</LM>
 </w.rf>
 <form>Gama</form>
-<tag lemma="Gama-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gama-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-040-p2s6w10">
 <src.rf>manual</src.rf>
@@ -892,10 +892,10 @@
 </w.rf>
 <form>Botafogo</form>
 <tag>
-<AM lemma="Botafogo_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Botafogo_;G_;K_;w_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Botafogo_;G_;K_;w_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Botafogo_;G_;K_;w_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto">NNNS5-----A----</AM>
+<AM lemma="Botafogo_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Botafogo_;G_;m_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Botafogo_;G_;m_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto">NNNS4-----A----</AM>
+<AM lemma="Botafogo_;G_;m_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-040-p2s6w12">
@@ -1038,7 +1038,7 @@
 <LM>w#w-ln95044-040-p2s7w10</LM>
 </w.rf>
 <form>Gama</form>
-<tag lemma="Gama-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gama-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-040-p2s7w11">
 <src.rf>manual</src.rf>

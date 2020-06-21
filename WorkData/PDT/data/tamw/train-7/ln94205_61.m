@@ -96,8 +96,8 @@
 </w.rf>
 <form>jop</form>
 <tag>
-<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-61-p2s1Bw5">
@@ -140,7 +140,7 @@
 <LM>w#w-ln94205-61-p2s1Cw3</LM>
 </w.rf>
 <form>Grondzíka</form>
-<tag lemma="Grondzík_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Grondzík_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-61-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-ln94205-61-p2s1Cw36</LM>
 </w.rf>
 <form>Sovák</form>
-<tag lemma="Sovák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sovák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-61-p2s1Cw37">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-61-p3s1w7">
@@ -500,7 +500,7 @@
 <LM>w#w-ln94205-61-p3s1w8</LM>
 </w.rf>
 <form>Grondzík</form>
-<tag lemma="Grondzík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grondzík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-61-p3s1w9">
 <src.rf>manual</src.rf>
@@ -799,7 +799,7 @@
 <LM>w#w-ln94205-61-p3s2w3</LM>
 </w.rf>
 <form>Grondzíkova</form>
-<tag lemma="Grondzíkův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Grondzíkův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94205-61-p3s2w4">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 <LM>w#w-ln94205-61-p4s1w3</LM>
 </w.rf>
 <form>Sovák</form>
-<tag lemma="Sovák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sovák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-61-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1571,7 +1571,7 @@
 <LM>w#w-ln94205-61-p4s4w14</LM>
 </w.rf>
 <form>Grondzík</form>
-<tag lemma="Grondzík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grondzík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-61-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1919,7 +1919,7 @@
 <LM>w#w-ln94205-61-p4s5w25</LM>
 </w.rf>
 <form>Franc</form>
-<tag lemma="Franc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-61-p4s5w26">
 <src.rf>manual</src.rf>

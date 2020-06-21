@@ -20,8 +20,8 @@
 </w.rf>
 <form>ČSA</form>
 <tag>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-003-p1s1w2">
@@ -581,7 +581,7 @@
 </w.rf>
 <form>Air</form>
 <tag>
-<AM lemma="Air_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Air_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -592,21 +592,21 @@
 </w.rf>
 <form>France</form>
 <tag>
-<AM lemma="France-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="France-2_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Franca_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franca_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="France-2_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1517,7 +1517,7 @@
 <LM>w#w-mf930708-003-p5s1w27</LM>
 </w.rf>
 <form>Thiele</form>
-<tag lemma="Thiele_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thiele_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-003-p5s1w28">
 <src.rf>manual</src.rf>
@@ -1841,7 +1841,7 @@
 <LM>w#w-mf930708-003-p6s3w8</LM>
 </w.rf>
 <form>Thiele</form>
-<tag lemma="Thiele_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thiele_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-003-p6s3w9">
 <src.rf>manual</src.rf>

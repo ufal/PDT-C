@@ -93,7 +93,7 @@
 <LM>w#w-mf930703-135-p2s1w1</LM>
 </w.rf>
 <form>Kommersant</form>
-<tag lemma="Kommersant_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kommersant_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-135-p2s1w2">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-135-p2s1w10">
@@ -176,7 +176,7 @@
 <LM>w#w-mf930703-135-p2s1w11</LM>
 </w.rf>
 <form>Kargašina</form>
-<tag lemma="Kargašin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kargašin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-135-p2s1w12">
 <src.rf>manual</src.rf>
@@ -1335,7 +1335,7 @@
 <LM>w#w-mf930703-135-p3s3w19</LM>
 </w.rf>
 <form>Kargašin</form>
-<tag lemma="Kargašin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kargašin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-135-p3s3w20">
 <src.rf>manual</src.rf>

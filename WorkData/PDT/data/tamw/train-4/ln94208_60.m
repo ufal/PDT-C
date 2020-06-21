@@ -69,7 +69,7 @@
 <LM>w#w-ln94208-60-p2s1Aw2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-60-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -841,8 +841,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-60-p2s8w8">
@@ -5535,8 +5535,8 @@
 </w.rf>
 <form>Random</form>
 <tag>
-<AM lemma="Random_;S_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Random_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Random_;Y_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Random_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="random_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Random-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -5548,9 +5548,9 @@
 </w.rf>
 <form>House</form>
 <tag>
-<AM lemma="House_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="House_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="House_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="House_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="House_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="House_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="house-1" src="auto">NNNS1-----A----</AM>
 <AM lemma="house-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="house-1" src="auto">NNNS5-----A----</AM>
@@ -5741,7 +5741,7 @@
 <LM>w#w-ln94208-60-p7s2w34</LM>
 </w.rf>
 <form>Douglas</form>
-<tag lemma="Douglas-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Douglas-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-60-p7s2w35">
 <src.rf>manual</src.rf>
@@ -5991,7 +5991,7 @@
 <LM>w#w-ln94208-60-p7s3w15</LM>
 </w.rf>
 <form>Šagit</form>
-<tag lemma="Šagit_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Šagit_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-60-p7s3w16">
 <src.rf>manual</src.rf>
@@ -6173,7 +6173,7 @@
 <LM>w#w-ln94208-60-p7s3w37</LM>
 </w.rf>
 <form>Douglasem</form>
-<tag lemma="Douglas-2_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Douglas-2_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-60-p7s3w38">
 <src.rf>manual</src.rf>
@@ -6319,7 +6319,7 @@
 <LM>w#w-ln94208-60-p7s4w2</LM>
 </w.rf>
 <form>Douglas</form>
-<tag lemma="Douglas-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Douglas-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-60-p7s4w3">
 <src.rf>manual</src.rf>

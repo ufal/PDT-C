@@ -28,7 +28,7 @@
 </w.rf>
 <form>stoličnaja</form>
 <tag>
-<AM lemma="stoličnij_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="stoličnij_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="stoličnaja-77" src="manual">F%-------------</AM>
 <AM lemma="stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
@@ -90,9 +90,9 @@
 </w.rf>
 <form>sob</form>
 <tag>
-<AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-068-p2s1w4">
@@ -135,7 +135,7 @@
 <LM>w#w-mf920924-068-p2s2w3</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s2w4">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf920924-068-p2s2w4</LM>
 </w.rf>
 <form>dibutylnatého</form>
-<tag lemma="dibutylnatý_;H" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920924-068-p2s2w5">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-mf920924-068-p2s3w1</LM>
 </w.rf>
 <form>Ftalát</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s3w2">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-mf920924-068-p2s3w29</LM>
 </w.rf>
 <form>Hajšlová</form>
-<tag lemma="Hajšlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hajšlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s3w30">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf920924-068-p2s4w4</LM>
 </w.rf>
 <form>ftalát</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s4w5">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-mf920924-068-p2s5w11</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1706,7 +1706,7 @@
 <LM>w#w-mf920924-068-p2s11w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920924-068-p2s11w8">
 <src.rf>manual</src.rf>

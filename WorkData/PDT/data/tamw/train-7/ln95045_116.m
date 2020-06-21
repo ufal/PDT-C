@@ -20,7 +20,7 @@
 </w.rf>
 <form>Dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -99,7 +99,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -354,7 +354,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -461,7 +461,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -516,7 +516,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -902,7 +902,7 @@
 </w.rf>
 <form>ITL</form>
 <tag>
-<AM lemma="ITL_:B_;b_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ITL_:B_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ITL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -989,7 +989,7 @@
 </w.rf>
 <form>FRF</form>
 <tag>
-<AM lemma="FRF_:B_;b_^(francouzský_frank)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FRF_:B_^(francouzský_frank)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="FRF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1008,7 +1008,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

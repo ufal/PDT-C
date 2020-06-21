@@ -141,8 +141,8 @@
 <form>Cigi</form>
 <tag>
 <AM lemma="Cigi_;m" src="orig">II-------------</AM>
-<AM lemma="Cigi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cigi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Cigi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cigi_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Cigi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -242,8 +242,8 @@
 <form>Cigi</form>
 <tag>
 <AM lemma="Cigi_;m" src="orig">II-------------</AM>
-<AM lemma="Cigi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cigi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Cigi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cigi_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Cigi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -604,7 +604,7 @@
 <LM>w#w-mf930701-051-p1s4w4</LM>
 </w.rf>
 <form>Karhánek</form>
-<tag lemma="Karhánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karhánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-051-p1s4w5">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-mf930701-051-p1s4w6</LM>
 </w.rf>
 <form>Indet</form>
-<tag lemma="Indet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Indet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-051-p1s4w7">
 <src.rf>manual</src.rf>
@@ -629,9 +629,9 @@
 </w.rf>
 <form>Racing</form>
 <tag>
-<AM lemma="Racing_;K_^(př._Racing_Club)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Racing_;K_^(př._Racing_Club)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Racing_;K_^(př._Racing_Club)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Racing_;m_^(př._Racing_Club)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Racing_;m_^(př._Racing_Club)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Racing_;m_^(př._Racing_Club)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Racing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -649,7 +649,7 @@
 <LM>w#w-mf930701-051-p1s4w9</LM>
 </w.rf>
 <form>Reynard</form>
-<tag lemma="Reynard_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Reynard_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-051-p1s4w10">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-mf930701-051-p1s4w11</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-051-p1s4w12">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-mf930701-051-p1s6w5</LM>
 </w.rf>
 <form>Karhánek</form>
-<tag lemma="Karhánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karhánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-051-p1s6w6">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-mf930701-051-p1s7w9</LM>
 </w.rf>
 <form>Versttapen</form>
-<tag lemma="Versttapen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Versttapen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-051-p1s7w10">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 </w.rf>
 <form>WTS</form>
 <tag>
-<AM lemma="WTS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="WTS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="WTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

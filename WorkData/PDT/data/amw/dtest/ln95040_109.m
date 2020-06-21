@@ -507,7 +507,7 @@
 <LM>w#w-ln95040-109-p2s3w22</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-109-p2s3w23">
 <src.rf>manual</src.rf>

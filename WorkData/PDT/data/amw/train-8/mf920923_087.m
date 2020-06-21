@@ -78,8 +78,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-087-p2s1w4">
@@ -186,7 +186,7 @@
 <LM>w#w-mf920923-087-p2s2w11</LM>
 </w.rf>
 <form>Plášil</form>
-<tag lemma="Plášil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plášil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-087-p2s2w12">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-mf920923-087-p2s7w1</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-087-p2s7w2">
 <src.rf>manual</src.rf>

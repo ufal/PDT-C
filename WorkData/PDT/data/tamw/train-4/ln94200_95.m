@@ -37,7 +37,7 @@
 <LM>w#w-ln94200-95-p2s1Aw1</LM>
 </w.rf>
 <form>Havlíčkův</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94200-95-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -62,10 +62,10 @@
 </w.rf>
 <form>job</form>
 <tag>
-<AM lemma="job-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="job-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="job" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="job" src="auto">NNIS4-----A----</AM>
-<AM lemma="job-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="job-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-95-p2s1Aw5">
@@ -102,7 +102,7 @@
 <form>Sládkovy</form>
 <tag>
 <AM lemma="sládkův_^(*3ek)" src="orig">AUFS2M---------</AM>
-<AM lemma="Sládkův_;S_^(*3ek)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Sládkův_;Y_^(*3ek)" src="manual" selected="1">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94200-95-p2s1Bw3">
@@ -138,7 +138,7 @@
 <LM>w#w-ln94200-95-p2s1Bw6</LM>
 </w.rf>
 <form>Votava</form>
-<tag lemma="Votava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Votava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-95-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-ln94200-95-p2s1Bw28</LM>
 </w.rf>
 <form>Havlíčkově</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94200-95-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-ln94200-95-p2s2w1</LM>
 </w.rf>
 <form>Votava</form>
-<tag lemma="Votava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Votava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-95-p2s2w2">
 <src.rf>manual</src.rf>
@@ -564,8 +564,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-95-p2s3w5">
@@ -641,7 +641,7 @@
 <LM>w#w-ln94200-95-p2s3w13</LM>
 </w.rf>
 <form>Bačkovský</form>
-<tag lemma="Bačkovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bačkovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-95-p2s3w14">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln94200-95-p2s3w16</LM>
 </w.rf>
 <form>Votavy</form>
-<tag lemma="Votava_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Votava_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-95-p2s3w17">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-ln94200-95-p2s3w23</LM>
 </w.rf>
 <form>Valenta</form>
-<tag lemma="Valenta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valenta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-95-p2s3w24">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-ln94200-95-p2s3w33</LM>
 </w.rf>
 <form>Votava</form>
-<tag lemma="Votava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Votava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-95-p2s3w34">
 <src.rf>manual</src.rf>

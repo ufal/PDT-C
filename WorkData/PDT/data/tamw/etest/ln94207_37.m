@@ -52,8 +52,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94207-37-p1s1w6">
@@ -122,7 +122,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-37-p2s1w3">
@@ -365,7 +365,7 @@
 <LM>w#w-ln94207-37-p3s1w16</LM>
 </w.rf>
 <form>Karmel</form>
-<tag lemma="Karmel_;K_^(sekta)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Karmel_;m_^(sekta)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-37-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 <LM>w#w-ln94207-37-p6s1w2</LM>
 </w.rf>
 <form>Cekotová</form>
-<tag lemma="Cekotová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cekotová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-37-p6s1w3">
 <src.rf>manual</src.rf>

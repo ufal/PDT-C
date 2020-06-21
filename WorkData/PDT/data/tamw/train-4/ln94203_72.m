@@ -93,7 +93,7 @@
 <LM>w#w-ln94203-72-p2s1w8</LM>
 </w.rf>
 <form>Rudgate</form>
-<tag lemma="Rudgate_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Rudgate_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94203-72-p2s1w9">
 <src.rf>manual</src.rf>

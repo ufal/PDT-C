@@ -36,8 +36,8 @@
 </w.rf>
 <form>Baťu</form>
 <tag>
-<AM lemma="Baťa_;K_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Baťa-1_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Baťa_;Y_;m" src="auto">NNMS4-----A----</AM>
+<AM lemma="Baťa-1_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -121,7 +121,7 @@
 <LM>w#w-mf930713-084-p1s2Bw7</LM>
 </w.rf>
 <form>TOMA</form>
-<tag lemma="Toma-1_;G_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toma-1_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-084-p1s2Bw8">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-mf930713-084-p1s2Bw17</LM>
 </w.rf>
 <form>Baťových</form>
-<tag lemma="Baťův_;S_^(*2a)" src="auto" selected="1">AUIP2M---------</tag>
+<tag lemma="Baťův_;Y_^(*2a)" src="auto" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf930713-084-p1s2Bw18">
 <src.rf>manual</src.rf>
@@ -274,8 +274,8 @@
 </w.rf>
 <form>Bati</form>
 <tag>
-<AM lemma="Baťa_;K_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Baťa-1_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Baťa_;Y_;m" src="auto">NNMS2-----A----</AM>
+<AM lemma="Baťa-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p1s2Bw27">
@@ -367,8 +367,8 @@
 </w.rf>
 <form>Junkers</form>
 <tag>
-<AM lemma="Junkers_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Junkers-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Junkers_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Junkers-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p1s3w11">
@@ -434,8 +434,8 @@
 </w.rf>
 <form>Baťa</form>
 <tag>
-<AM lemma="Baťa_;K_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baťa-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Baťa_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Baťa-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p1s3w19">
@@ -546,8 +546,8 @@
 </w.rf>
 <form>bar</form>
 <tag>
-<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p2s1Bw4">
@@ -630,7 +630,7 @@
 <LM>w#w-mf930713-084-p2s1Cw8</LM>
 </w.rf>
 <form>Radkovský</form>
-<tag lemma="Radkovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radkovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-084-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <form>Pavel</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pavel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p2s2w15">
@@ -816,10 +816,10 @@
 </w.rf>
 <form>do</form>
 <tag>
-<AM lemma="do-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-084-p4s1Aw4">

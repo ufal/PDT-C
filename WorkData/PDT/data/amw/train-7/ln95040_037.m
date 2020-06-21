@@ -314,7 +314,7 @@
 </w.rf>
 <form>AEG</form>
 <tag>
-<AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AEG_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="AEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -325,7 +325,7 @@
 </w.rf>
 <form>Bahnsysteme</form>
 <tag>
-<AM lemma="Bahnsystem_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Bahnsystem_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Bahnsysteme-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -401,7 +401,7 @@
 <LM>w#w-ln95040-037-p2s2w6</LM>
 </w.rf>
 <form>Pfitznera</form>
-<tag lemma="Pfitzner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pfitzner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-037-p2s2w7">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 </w.rf>
 <form>AEG</form>
 <tag>
-<AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AEG_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="AEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -884,7 +884,7 @@
 <form>Belinda</form>
 <tag>
 <AM lemma="Belinda_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Belinda_;Y_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Belinda_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-037-p2s5w4">
@@ -943,7 +943,7 @@
 <form>Belinda</form>
 <tag>
 <AM lemma="Belinda_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Belinda_;Y_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Belinda_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-037-p2s5w11">
@@ -986,7 +986,7 @@
 <form>Belinda</form>
 <tag>
 <AM lemma="Belinda_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Belinda_;Y_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Belinda_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-037-p2s5w16">
@@ -1007,7 +1007,7 @@
 </w.rf>
 <form>Beine</form>
 <tag>
-<AM lemma="Bein_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Bein_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Beine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1185,7 +1185,7 @@
 </w.rf>
 <form>ČD</form>
 <tag>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="auto">NNFPX-----A---8</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

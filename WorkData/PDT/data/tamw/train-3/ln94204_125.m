@@ -55,7 +55,7 @@
 <form>Švéd</form>
 <tag>
 <AM lemma="Švéd_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Švéd_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -172,7 +172,7 @@
 <LM>w#w-ln94204-125-p2s2w5</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-125-p2s2w6">
 <src.rf>manual</src.rf>

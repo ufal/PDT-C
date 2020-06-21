@@ -19,7 +19,7 @@
 <LM>w#w-ln94207-33-p1s1w1</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-33-p1s1w2">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln94207-33-p1s1w6</LM>
 </w.rf>
 <form>Pétainovi</form>
-<tag lemma="Pétain_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Pétain_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-33-p2s1A">
@@ -136,7 +136,7 @@
 <LM>w#w-ln94207-33-p2s1Bw7</LM>
 </w.rf>
 <form>Mitterranda</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-33-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-ln94207-33-p2s1Bw11</LM>
 </w.rf>
 <form>Pétaina</form>
-<tag lemma="Pétain_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pétain_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-33-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-ln94207-33-p2s2w10</LM>
 </w.rf>
 <form>Péan</form>
-<tag lemma="Péan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Péan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-33-p2s2w11">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-ln94207-33-p2s3w15</LM>
 </w.rf>
 <form>Mitterranda</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-33-p2s3w16">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-ln94207-33-p2s4w1</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-33-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 </w.rf>
 <form>Alexandra</form>
 <tag>
-<AM lemma="Alexandre_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Alexandre_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Alexandra_;Y_^(^FA*1)" src="auto">NNFS1-----A----</AM>
@@ -1041,7 +1041,7 @@
 <LM>w#w-ln94207-33-p2s5w7</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-33-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1259,7 +1259,7 @@
 <LM>w#w-ln94207-33-p2s6w1</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-33-p2s6w2">
 <src.rf>manual</src.rf>

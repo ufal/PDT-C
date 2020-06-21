@@ -426,7 +426,7 @@
 </w.rf>
 <form>KMS</form>
 <tag>
-<AM lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="KMS-1_:B_;m_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="KMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -476,7 +476,7 @@
 <LM>w#w-ln94207-132-p2s2w11</LM>
 </w.rf>
 <form>Ondráčka</form>
-<tag lemma="Ondráček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ondráček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-132-p2s2w12">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 </w.rf>
 <form>KMS</form>
 <tag>
-<AM lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="KMS-1_:B_;m_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="KMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -984,7 +984,7 @@
 <LM>w#w-ln94207-132-p2s5w24</LM>
 </w.rf>
 <form>Ondráček</form>
-<tag lemma="Ondráček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondráček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-132-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 </w.rf>
 <form>KMS</form>
 <tag>
-<AM lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="KMS-1_:B_;m_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="KMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -255,7 +255,7 @@
 <LM>w#w-mf930708-051-p3s1w1</LM>
 </w.rf>
 <form>Wihanovo</form>
-<tag lemma="Wihanův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Wihanův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf930708-051-p3s1w2">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf930708-051-p3s1w9</LM>
 </w.rf>
 <form>Nosticově</form>
-<tag lemma="Nosticův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Nosticův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-mf930708-051-p3s1w10">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-mf930708-051-p4s2w4</LM>
 </w.rf>
 <form>Janota</form>
-<tag lemma="Janota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-051-p4s2w5">
 <src.rf>manual</src.rf>

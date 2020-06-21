@@ -178,8 +178,8 @@
 </w.rf>
 <form>Navrátilová</form>
 <tag>
-<AM lemma="Navrátilová_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-094-p1s2w11">
@@ -236,7 +236,7 @@
 <LM>w#w-mf930703-094-p1s2w17</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-094-p1s2w18">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-001-p1s1w5</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930708-001-p1s1w6">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf930708-001-p2s1w2</LM>
 </w.rf>
 <form>Borkovec</form>
-<tag lemma="Borkovec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borkovec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-001-p2s1w3">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-mf930708-001-p4s1w3</LM>
 </w.rf>
 <form>Miko</form>
-<tag lemma="Miko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-001-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-mf930708-001-p4s3w6</LM>
 </w.rf>
 <form>Mikových</form>
-<tag lemma="Mikův_;S_;Y_,t_^(*2a)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Mikův_;Y_,t_^(*2a)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-mf930708-001-p4s3w7">
 <src.rf>manual</src.rf>

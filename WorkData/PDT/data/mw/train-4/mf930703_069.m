@@ -113,7 +113,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mý-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -127,7 +127,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSNS5-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP4-S1------7</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYP4-S1------7</AM>
-<AM lemma="mý-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mý-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-069-p2s1w5">
@@ -1441,7 +1441,7 @@
 <LM>w#w-mf930703-069-p2s12w21</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-069-p2s12w22">
 <src.rf>manual</src.rf>

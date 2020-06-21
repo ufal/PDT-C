@@ -216,8 +216,8 @@
 </w.rf>
 <form>Daiwa</form>
 <tag>
-<AM lemma="Daiwa_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Daiwa_;K" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Daiwa_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daiwa_;m" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-12-p3s1w4">
@@ -227,7 +227,7 @@
 </w.rf>
 <form>Securities</form>
 <tag>
-<AM lemma="Securities_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Securities_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

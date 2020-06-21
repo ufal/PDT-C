@@ -215,7 +215,7 @@
 <LM>w#w-ln94211-99-p2s1Bw21</LM>
 </w.rf>
 <form>MAREŠE</form>
-<tag lemma="Mareš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mareš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-99-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -1609,7 +1609,7 @@
 <LM>w#w-ln94211-99-p4s1w1</LM>
 </w.rf>
 <form>Mareš</form>
-<tag lemma="Mareš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mareš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-99-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2179,7 +2179,7 @@
 <LM>w#w-ln94211-99-p5s1w2</LM>
 </w.rf>
 <form>Keller</form>
-<tag lemma="Keller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-99-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2195,7 +2195,7 @@
 <LM>w#w-ln94211-99-p5s1w4</LM>
 </w.rf>
 <form>Mareš</form>
-<tag lemma="Mareš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mareš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-99-p5s1w5">
 <src.rf>manual</src.rf>

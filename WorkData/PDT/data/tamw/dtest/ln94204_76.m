@@ -35,7 +35,7 @@
 <LM>w#w-ln94204-76-p1s1w3</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-76-p2s1A">
@@ -53,7 +53,7 @@
 <LM>w#w-ln94204-76-p2s1Aw2</LM>
 </w.rf>
 <form>Kotrba</form>
-<tag lemma="Kotrba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotrba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-76-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln94204-76-p2s1Aw8</LM>
 </w.rf>
 <form>AV</form>
-<tag lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="AV_:B_;m_^(Akademie_věd)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94204-76-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 </w.rf>
 <form>CERGE</form>
 <tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CERGE_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CERGE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1337,7 +1337,7 @@
 <LM>w#w-ln94204-76-p3s1w12</LM>
 </w.rf>
 <form>Zemanem</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-76-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2754,7 +2754,7 @@
 <LM>w#w-ln94204-76-p4s3w71</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-76-p4s3w72">
 <src.rf>manual</src.rf>
@@ -3357,7 +3357,7 @@
 <LM>w#w-ln94204-76-p5s3w18</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-76-p5s3w19">
 <src.rf>manual</src.rf>
@@ -3589,7 +3589,7 @@
 </w.rf>
 <form>XY</form>
 <tag>
-<AM lemma="XY_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="XY_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="XY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3764,7 +3764,7 @@
 <LM>w#w-ln94204-76-p5s6w5</LM>
 </w.rf>
 <form>Zemanovo</form>
-<tag lemma="Zemanův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Zemanův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94204-76-p5s6w6">
 <src.rf>manual</src.rf>
@@ -3889,7 +3889,7 @@
 <LM>w#w-ln94204-76-p6s1w3</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-76-p6s1w4">
 <src.rf>manual</src.rf>
@@ -4055,7 +4055,7 @@
 <LM>w#w-ln94204-76-p6s2w14</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-76-p6s2w15">
 <src.rf>manual</src.rf>
@@ -4364,7 +4364,7 @@
 <LM>w#w-ln94204-76-p6s3w37</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-76-p6s3w38">
 <src.rf>manual</src.rf>
@@ -4766,7 +4766,7 @@
 <LM>w#w-ln94204-76-p6s5w11</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-76-p6s5w12">
 <src.rf>manual</src.rf>

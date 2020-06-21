@@ -67,7 +67,7 @@
 <LM>w#w-mf930709-069-p1s1w7</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-069-p2s1A">
@@ -94,9 +94,9 @@
 </w.rf>
 <form>rep</form>
 <tag>
-<AM lemma="rep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rep-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="rep-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rep-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-069-p2s1Aw4">
@@ -114,8 +114,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-069-p2s1Aw6">
@@ -230,7 +230,7 @@
 <LM>w#w-mf930709-069-p2s1Bw12</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-069-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -247,8 +247,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-069-p2s1Bw15">
@@ -291,7 +291,7 @@
 <LM>w#w-mf930709-069-p2s2w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-069-p2s2w4">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-mf930709-069-p2s3w1</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-069-p2s3w2">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-mf930709-069-p2s3w12</LM>
 </w.rf>
 <form>Kováře</form>
-<tag lemma="Kovář_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kovář_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-069-p2s3w13">
 <src.rf>manual</src.rf>
@@ -576,8 +576,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-069-p2s3w20">
@@ -628,7 +628,7 @@
 <LM>w#w-mf930709-069-p2s4w2</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-069-p2s4w3">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-mf930709-069-p2s6w2</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-069-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-mf930709-069-p2s7w15</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-069-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-mf930709-069-p2s10w8</LM>
 </w.rf>
 <form>Kovářem</form>
-<tag lemma="Kovář_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kovář_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930709-069-p2s10w9">
 <src.rf>manual</src.rf>

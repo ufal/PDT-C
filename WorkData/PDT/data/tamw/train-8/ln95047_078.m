@@ -501,7 +501,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-078-p2s3w9">
@@ -518,7 +518,7 @@
 <LM>w#w-ln95047-078-p2s3w10</LM>
 </w.rf>
 <form>Čečulin</form>
-<tag lemma="Čečulin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čečulin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-078-p2s3w11">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-ln95047-078-p2s4w15</LM>
 </w.rf>
 <form>Čečulin</form>
-<tag lemma="Čečulin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čečulin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-078-p2s4w16">
 <src.rf>manual</src.rf>

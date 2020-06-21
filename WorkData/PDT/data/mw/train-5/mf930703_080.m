@@ -561,7 +561,7 @@
 <LM>w#w-mf930703-080-p3s1w16</LM>
 </w.rf>
 <form>Bendu</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-080-p3s1w17">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-mf930703-080-p3s2w6</LM>
 </w.rf>
 <form>Hruška</form>
-<tag lemma="Hruška_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hruška_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-080-p3s2w7">
 <src.rf>manual</src.rf>
@@ -910,8 +910,8 @@
 </w.rf>
 <form>Němec</form>
 <tag>
-<AM lemma="Němec_;E_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Němec_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Němec_;E_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Němec_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-080-p3s3w5">
@@ -1040,7 +1040,7 @@
 <LM>w#w-mf930703-080-p3s3w20</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-080-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-mf930703-080-p4s2w11</LM>
 </w.rf>
 <form>Kopřivy</form>
-<tag lemma="Kopřiva_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kopřiva_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-080-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-mf930703-080-p4s3w1</LM>
 </w.rf>
 <form>Kopřiva</form>
-<tag lemma="Kopřiva_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kopřiva_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-080-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 <LM>w#w-mf930703-080-p5s3w6</LM>
 </w.rf>
 <form>Kopřiva</form>
-<tag lemma="Kopřiva_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kopřiva_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-080-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2838,7 +2838,7 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -62,9 +62,9 @@
 </w.rf>
 <form>ob</form>
 <tag>
-<AM lemma="ob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ob-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="ob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-35-p2s1Aw4">
@@ -198,7 +198,7 @@
 <LM>w#w-ln94202-35-p2s1Bw14</LM>
 </w.rf>
 <form>Smyčkových</form>
-<tag lemma="Smyčkův_;S_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Smyčkův_;Y_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-ln94202-35-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 </w.rf>
 <form>PRO</form>
 <tag>
-<AM lemma="Pro_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Pro_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="pro-1" src="auto">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
@@ -301,7 +301,7 @@
 </w.rf>
 <form>BIO</form>
 <tag>
-<AM lemma="BIO_;K_^(PRO-BIO)" src="orig">NNNS1-----A----</AM>
+<AM lemma="BIO_;m_^(PRO-BIO)" src="orig">NNNS1-----A----</AM>
 <AM lemma="bio-1" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="bio-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="bio-1" src="auto">NNNS5-----A----</AM>
@@ -322,7 +322,7 @@
 <LM>w#w-ln94202-35-p2s2w9</LM>
 </w.rf>
 <form>Naturvita</form>
-<tag lemma="Naturvita_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Naturvita_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-35-p2s2w10">
 <src.rf>manual</src.rf>

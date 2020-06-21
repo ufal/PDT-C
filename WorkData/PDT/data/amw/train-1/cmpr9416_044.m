@@ -427,7 +427,7 @@
 <LM>w#w-cmpr9416-044-p6s1w2</LM>
 </w.rf>
 <form>Hábík</form>
-<tag lemma="Hábík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hábík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-044-p8s1">
@@ -978,7 +978,7 @@
 </w.rf>
 <form>ČMC</form>
 <tag>
-<AM lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČMC_:B_;m_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1773,7 +1773,7 @@
 </w.rf>
 <form>ČMC</form>
 <tag>
-<AM lemma="ČMC_:B_;K_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČMC_:B_;m_^(České_managerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

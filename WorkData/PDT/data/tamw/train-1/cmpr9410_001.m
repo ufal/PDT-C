@@ -809,7 +809,7 @@
 <LM>w#w-cmpr9410-001-p6s1w2</LM>
 </w.rf>
 <form>Jánoška</form>
-<tag lemma="Jánoška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jánoška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-001-p8s1">
@@ -2695,7 +2695,7 @@
 </w.rf>
 <form>ÚNMS</form>
 <tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS_:B_;m_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3052,7 +3052,7 @@
 </w.rf>
 <form>ÚNMZ</form>
 <tag>
-<AM lemma="ÚNMZ-1_:B_;K_^(Úřad_pro_tech._normal.,_metrol._a_st._zk.)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMZ-1_:B_;m_^(Úřad_pro_tech._normal.,_metrol._a_st._zk.)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚNMZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3082,7 +3082,7 @@
 </w.rf>
 <form>ÚNMS</form>
 <tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS_:B_;m_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3283,7 +3283,7 @@
 </w.rf>
 <form>ÚNMS</form>
 <tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS_:B_;m_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3438,7 +3438,7 @@
 </w.rf>
 <form>ÚNMS</form>
 <tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS_:B_;m_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3566,7 +3566,7 @@
 </w.rf>
 <form>SPPI</form>
 <tag>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPPI_:B_;m_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3926,7 +3926,7 @@
 </w.rf>
 <form>SPPI</form>
 <tag>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPPI_:B_;m_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4089,7 +4089,7 @@
 </w.rf>
 <form>ÚNMS</form>
 <tag>
-<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS_:B_;m_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚNMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4650,7 +4650,7 @@
 </w.rf>
 <form>SB</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -4781,7 +4781,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -5002,7 +5002,7 @@
 </w.rf>
 <form>SPPI</form>
 <tag>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPPI_:B_;m_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5098,7 +5098,7 @@
 </w.rf>
 <form>SPPI</form>
 <tag>
-<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPPI_:B_;m_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

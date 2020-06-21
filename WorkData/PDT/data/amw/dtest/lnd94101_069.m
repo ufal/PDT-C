@@ -174,7 +174,7 @@
 </w.rf>
 <form>Lampoon</form>
 <tag>
-<AM lemma="Lampoon_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Lampoon_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Lampoon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -185,7 +185,7 @@
 </w.rf>
 <form>Puppettheatre</form>
 <tag>
-<AM lemma="Puppettheatre_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Puppettheatre_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Puppettheatre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -563,7 +563,7 @@
 </w.rf>
 <form>Lampoon</form>
 <tag>
-<AM lemma="Lampoon_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Lampoon_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Lampoon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -574,7 +574,7 @@
 </w.rf>
 <form>Puppettheatre</form>
 <tag>
-<AM lemma="Puppettheatre_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Puppettheatre_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Puppettheatre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -712,7 +712,7 @@
 <LM>w#w-lnd94101-069-p1s4w19</LM>
 </w.rf>
 <form>Johan</form>
-<tag lemma="Johan_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-069-p1s4w20">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-lnd94101-069-p1s4w20</LM>
 </w.rf>
 <form>Vadergun</form>
-<tag lemma="Vadergun_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vadergun_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-069-p1s4w21">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-lnd94101-069-p1s4w25</LM>
 </w.rf>
 <form>Vrabcová</form>
-<tag lemma="Vrabcová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vrabcová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-069-p1s4w26">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-lnd94101-069-p1s4w26</LM>
 </w.rf>
 <form>McCombová</form>
-<tag lemma="McCombová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="McCombová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-069-p1s4w27">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 </w.rf>
 <form>DAMU</form>
 <tag>
-<AM lemma="DAMU_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="DAMU_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="DAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1332,7 +1332,7 @@
 <LM>w#w-lnd94101-069-p1s7w12</LM>
 </w.rf>
 <form>Vrabcová</form>
-<tag lemma="Vrabcová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vrabcová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-069-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1511,12 +1511,12 @@
 </w.rf>
 <form>UNIMA</form>
 <tag>
-<AM lemma="UNIMA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Uni_;S" src="auto">NNMP7-----A---6</AM>
-<AM lemma="Unimo_;R" src="auto">NNNP1-----A----</AM>
-<AM lemma="Unimo_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="Unimo_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="Unimo_;R" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="UNIMA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Uni_;Y" src="auto">NNMP7-----A---6</AM>
+<AM lemma="Unimo_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="Unimo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Unimo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Unimo_;m" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="UNIMA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1600,7 +1600,7 @@
 <LM>w#w-lnd94101-069-p1s9w2</LM>
 </w.rf>
 <form>ola</form>
-<tag lemma="ola-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ola-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94101-069-p1s9w3">
 <src.rf>manual</src.rf>

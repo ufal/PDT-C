@@ -118,7 +118,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -402,7 +402,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -543,7 +543,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -554,7 +554,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -660,7 +660,7 @@
 <LM>w#w-cmpr9417-023-p5s1w18</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9417-023-p5s1w19">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1211,7 +1211,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2084,7 +2084,7 @@
 <LM>w#w-cmpr9417-023-p8s4w2</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-cmpr9417-023-p8s4w3">
 <src.rf>manual</src.rf>
@@ -2261,9 +2261,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-023-p8s4w25">
@@ -2453,7 +2453,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2924,7 +2924,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3445,7 +3445,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3456,7 +3456,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5990,7 +5990,7 @@
 <form>Černohorský</form>
 <tag>
 <AM lemma="černohorský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Černohorský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Černohorský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

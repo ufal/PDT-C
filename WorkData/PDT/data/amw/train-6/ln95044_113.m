@@ -233,7 +233,7 @@
 <LM>w#w-ln95044-113-p2s2w5</LM>
 </w.rf>
 <form>Hartmann</form>
-<tag lemma="Hartmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hartmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-113-p2s2w6">
 <src.rf>manual</src.rf>

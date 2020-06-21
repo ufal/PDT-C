@@ -632,7 +632,7 @@
 </w.rf>
 <form>Lancet</form>
 <tag>
-<AM lemma="Lancet_;R_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Lancet_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="lanceta" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Lancet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1455,7 +1455,7 @@
 </w.rf>
 <form>Lancet</form>
 <tag>
-<AM lemma="Lancet_;R_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Lancet_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="lanceta" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Lancet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2121,7 +2121,7 @@
 <LM>w#w-vesm9301-023-p5s1w2</LM>
 </w.rf>
 <form>Schreiber</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-023-p6s1">

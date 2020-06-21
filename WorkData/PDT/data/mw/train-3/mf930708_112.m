@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-112-p1s1w2</LM>
 </w.rf>
 <form>Šrejber</form>
-<tag lemma="Šrejber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrejber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-112-p1s1w3">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-mf930708-112-p2s1w10</LM>
 </w.rf>
 <form>Šrejber</form>
-<tag lemma="Šrejber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrejber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-112-p2s1w11">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf930708-112-p2s1w33</LM>
 </w.rf>
 <form>Šrejber</form>
-<tag lemma="Šrejber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrejber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-112-p2s1w34">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 </w.rf>
 <form>Tennis</form>
 <tag>
-<AM lemma="Tennis_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tennis_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="tenis" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tenis" src="auto">NNIS4-----A----</AM>
 <AM lemma="Tennis-77" src="manual" selected="1">F%-------------</AM>
@@ -392,7 +392,7 @@
 </w.rf>
 <form>Investing</form>
 <tag>
-<AM lemma="Investing_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Investing_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Investing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -474,7 +474,7 @@
 <LM>w#w-mf930708-112-p2s1w45</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-112-p2s1w46">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -79,7 +79,7 @@
 <LM>w#w-ln94208-62-p2s1Bw2</LM>
 </w.rf>
 <form>Rybář</form>
-<tag lemma="Rybář_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rybář_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-62-p2s1C">
@@ -140,7 +140,7 @@
 <LM>w#w-ln94208-62-p2s1Cw7</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-62-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <AM lemma="Skopje_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Skopje_;G" src="manual">NNFSX-----A----</AM>
+<AM lemma="Skopje_;G" src="manual">NNFXX-----A----</AM>
 <AM lemma="Skopje_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -945,7 +945,7 @@
 <LM>w#w-ln94208-62-p3s2w4</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-62-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-ln94208-62-p3s2w15</LM>
 </w.rf>
 <form>Baudyšův</form>
-<tag lemma="Baudyšův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Baudyšův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94208-62-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-ln94208-62-p3s4w8</LM>
 </w.rf>
 <form>Vondrově</form>
-<tag lemma="Vondrův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Vondrův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94208-62-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1503,7 +1503,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jovanovičem</form>
-<tag lemma="Jovanovič_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jovanovič_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-62-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Simičem</form>
-<tag lemma="Simič_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Simič_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-62-p4s1w21">
 <src.rf>manual</src.rf>

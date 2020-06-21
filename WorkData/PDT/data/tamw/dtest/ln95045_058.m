@@ -385,7 +385,7 @@
 <LM>w#w-ln95045-058-p2s2w11</LM>
 </w.rf>
 <form>Jakimišin</form>
-<tag lemma="Jakimišin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jakimišin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-058-p2s2w12">
 <src.rf>manual</src.rf>

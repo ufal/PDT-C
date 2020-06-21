@@ -1668,7 +1668,7 @@
 <LM>w#w-cmpr9407-008-p9s1w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-008-p9s1w18">
 <src.rf>manual</src.rf>
@@ -1774,7 +1774,7 @@
 <LM>w#w-cmpr9407-008-p10s1w2</LM>
 </w.rf>
 <form>Dujka</form>
-<tag lemma="Dujka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dujka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-008-p10s1w3">
 <src.rf>manual</src.rf>

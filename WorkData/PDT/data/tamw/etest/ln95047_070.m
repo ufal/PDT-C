@@ -1270,7 +1270,7 @@
 <LM>w#w-ln95047-070-p4s1w9</LM>
 </w.rf>
 <form>Dole</form>
-<tag lemma="Dole_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dole_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-ln95047-070-p4s1w14</LM>
 </w.rf>
 <form>Gramm</form>
-<tag lemma="Gramm_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gramm_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1336,8 +1336,8 @@
 <form>Tennessee</form>
 <tag>
 <AM lemma="Tennessee-2_;G" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tennessee-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tennessee-1_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tennessee-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tennessee-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tennessee_;G" src="auto" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -1347,7 +1347,7 @@
 <LM>w#w-ln95047-070-p4s1w18</LM>
 </w.rf>
 <form>Alexander</form>
-<tag lemma="Alexander_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Alexander_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1355,7 +1355,7 @@
 <LM>w#w-ln95047-070-p4s1w19</LM>
 </w.rf>
 <form>Lammar</form>
-<tag lemma="Lammar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lammar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1439,7 +1439,7 @@
 <LM>w#w-ln95047-070-p4s3w3</LM>
 </w.rf>
 <form>Pat</form>
-<tag lemma="Pat_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pat_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1447,7 +1447,7 @@
 <LM>w#w-ln95047-070-p4s3w4</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1618,8 +1618,8 @@
 </w.rf>
 <form>Arlen</form>
 <tag>
-<AM lemma="Arlen_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Arlen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Arlen_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Arlen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-070-p4s4w3">
@@ -1628,7 +1628,7 @@
 <LM>w#w-ln95047-070-p4s4w3</LM>
 </w.rf>
 <form>Specter</form>
-<tag lemma="Specter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Specter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p4s4w4">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 <LM>w#w-ln95047-070-p5s1w16</LM>
 </w.rf>
 <form>Powell</form>
-<tag lemma="Powell-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Powell-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p5s1w17">
 <src.rf>manual</src.rf>
@@ -2107,7 +2107,7 @@
 <LM>w#w-ln95047-070-p5s1w26</LM>
 </w.rf>
 <form>Dolem</form>
-<tag lemma="Dole_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dole_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95047-070-p5s1w27">
 <src.rf>manual</src.rf>
@@ -2161,7 +2161,7 @@
 <LM>w#w-ln95047-070-p5s1w32</LM>
 </w.rf>
 <form>Christine</form>
-<tag lemma="Christine_;Y" src="orig" selected="1">NNFSX-----A----</tag>
+<tag lemma="Christine_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-070-p5s1w33">
 <src.rf>manual</src.rf>
@@ -2170,7 +2170,7 @@
 </w.rf>
 <form>Todd</form>
 <tag>
-<AM lemma="Todd_;S" src="orig">NNFXX-----A----</AM>
+<AM lemma="Todd_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Todd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Todd-2" src="manual">A2--------A----</AM>
 <AM lemma="Todd_;Y" src="manual">NNMS1-----A----</AM>
@@ -2191,7 +2191,7 @@
 <LM>w#w-ln95047-070-p5s1w35</LM>
 </w.rf>
 <form>Whitmanová</form>
-<tag lemma="Whitmanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Whitmanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p5s1w36">
 <src.rf>manual</src.rf>
@@ -2209,7 +2209,7 @@
 <LM>w#w-ln95047-070-p5s2w1</LM>
 </w.rf>
 <form>Powell</form>
-<tag lemma="Powell-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Powell-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2331,7 +2331,7 @@
 <LM>w#w-ln95047-070-p5s3w6</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2889,7 +2889,7 @@
 <LM>w#w-ln95047-070-p6s1w2</LM>
 </w.rf>
 <form>Powellovi</form>
-<tag lemma="Powell-1_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Powell-1_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-070-p6s1w3">
 <src.rf>manual</src.rf>
@@ -3695,7 +3695,7 @@
 <LM>w#w-ln95047-070-p8s1w2</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p8s1w3">
 <src.rf>manual</src.rf>
@@ -3809,7 +3809,7 @@
 <LM>w#w-ln95047-070-p8s2w8</LM>
 </w.rf>
 <form>Fostera</form>
-<tag lemma="Foster_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Foster_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-070-p8s2w9">
 <src.rf>manual</src.rf>
@@ -4171,7 +4171,7 @@
 <LM>w#w-ln95047-070-p9s1w4</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-070-p9s1w5">
 <src.rf>manual</src.rf>

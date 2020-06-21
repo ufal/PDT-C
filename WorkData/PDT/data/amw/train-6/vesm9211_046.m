@@ -27,7 +27,7 @@
 <LM>w#w-vesm9211-046-p1s1w2</LM>
 </w.rf>
 <form>supertoxiny</form>
-<tag lemma="supertoxin_;H" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="supertoxin_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p1s1w3">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-046-p2s2w2">
@@ -162,7 +162,7 @@
 <LM>w#w-vesm9211-046-p2s2w3</LM>
 </w.rf>
 <form>Chmelař</form>
-<tag lemma="Chmelař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chmelař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p2s2w4">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-vesm9211-046-p2s3w15</LM>
 </w.rf>
 <form>botulotoxin</form>
-<tag lemma="botulotoxin_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="botulotoxin_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p2s3w16">
 <src.rf>manual</src.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-vesm9211-046-p4s1w13</LM>
 </w.rf>
 <form>botulotoxinu</form>
-<tag lemma="botulotoxin_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="botulotoxin_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1712,7 +1712,7 @@
 </w.rf>
 <form>England</form>
 <tag>
-<AM lemma="England_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="England_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="England-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1723,7 +1723,7 @@
 </w.rf>
 <form>Journal</form>
 <tag>
-<AM lemma="Journal_;R_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Journal_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
 <AM lemma="journal_,t" src="manual">NNXXX-----A----</AM>
@@ -1748,7 +1748,7 @@
 </w.rf>
 <form>Medicine</form>
 <tag>
-<AM lemma="Medicine_;R_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Medicine_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Medicine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1824,7 +1824,7 @@
 <LM>w#w-vesm9211-046-p5s1w2</LM>
 </w.rf>
 <form>Machala</form>
-<tag lemma="Machala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Machala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

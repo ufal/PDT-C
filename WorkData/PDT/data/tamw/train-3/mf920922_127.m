@@ -249,7 +249,7 @@
 <LM>w#w-mf920922-127-p2s2w7</LM>
 </w.rf>
 <form>Molièrem</form>
-<tag lemma="Molière_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Molière_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-127-p2s2w8">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-mf920922-127-p3s1w8</LM>
 </w.rf>
 <form>Mitterrand</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-127-p3s1w9">
 <src.rf>manual</src.rf>

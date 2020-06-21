@@ -247,7 +247,7 @@
 <LM>w#w-mf920922-135-p2s2w3</LM>
 </w.rf>
 <form>Majora</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-135-p2s2w4">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-mf920922-135-p2s4w2</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-135-p2s4w3">
 <src.rf>manual</src.rf>
@@ -604,8 +604,8 @@
 </w.rf>
 <form>Douglas</form>
 <tag>
-<AM lemma="Douglas-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Douglas-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Douglas-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Douglas-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-135-p2s4w5">
@@ -614,7 +614,7 @@
 <LM>w#w-mf920922-135-p2s4w5</LM>
 </w.rf>
 <form>Hurd</form>
-<tag lemma="Hurd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hurd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-135-p2s4w6">
 <src.rf>manual</src.rf>
@@ -2154,7 +2154,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

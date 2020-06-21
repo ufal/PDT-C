@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-010-p1s1w3</LM>
 </w.rf>
 <form>Maye</form>
-<tag lemma="May_;E_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="May_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-010-p2s1A">
@@ -87,7 +87,7 @@
 <LM>w#w-mf930713-010-p2s1Bw4</LM>
 </w.rf>
 <form>Maye</form>
-<tag lemma="May_;E_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="May_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-010-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-mf930713-010-p2s4w2</LM>
 </w.rf>
 <form>Vinnetoua</form>
-<tag lemma="Vinnetou_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vinnetou_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-010-p2s4w3">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf930713-010-p2s4w6</LM>
 </w.rf>
 <form>Mitič</form>
-<tag lemma="Mitič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-010-p2s4w7">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-mf930713-010-p2s4w9</LM>
 </w.rf>
 <form>Shatterhanda</form>
-<tag lemma="Shatterhand_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Shatterhand_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-010-p2s4w10">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-mf930713-010-p2s4w14</LM>
 </w.rf>
 <form>Christopher</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-010-p2s4w15">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-mf930713-010-p2s4w15</LM>
 </w.rf>
 <form>Barker</form>
-<tag lemma="Barker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-010-p2s4w16">
 <src.rf>manual</src.rf>

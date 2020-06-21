@@ -247,7 +247,7 @@
 <LM>w#w-lnd92254-093-p2s2w10</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-093-p2s2w11">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd92254-093-p2s4w1</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-093-p2s4w2">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-lnd92254-093-p2s5w4</LM>
 </w.rf>
 <form>Pragovce</form>
-<tag lemma="Pragovka-2_;K_,h" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="Pragovka-2_;m_,h" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92254-093-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1080,9 +1080,9 @@
 </w.rf>
 <form>ps</form>
 <tag>
-<AM lemma="ps-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ps-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ps-2`pikosekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ps-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ps-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-093-p3s1w3">

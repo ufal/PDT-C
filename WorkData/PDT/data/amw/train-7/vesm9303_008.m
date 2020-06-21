@@ -52,7 +52,7 @@
 </w.rf>
 <form>SCIENCE</form>
 <tag>
-<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-1_;m_,t_^(souč._názvů,_např._Science)" src="orig">NNFXX-----A----</AM>
 <AM lemma="SCIENCE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -63,7 +63,7 @@
 </w.rf>
 <form>NATURE</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="NATURE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -527,7 +527,7 @@
 <LM>w#w-vesm9303-008-p1s4w1</LM>
 </w.rf>
 <form>AV</form>
-<tag lemma="AV_:B_;K_;u_^(Akademie_věd)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="AV_:B_;m_^(Akademie_věd)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-vesm9303-008-p1s4w2">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-vesm9303-008-p1s7Aw2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-008-p1s7Aw3">
 <src.rf>manual</src.rf>
@@ -2920,7 +2920,7 @@
 </w.rf>
 <form>centres</form>
 <tag>
-<AM lemma="centre_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="centre_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="centres-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3341,7 +3341,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-008-p1s24w21">
@@ -3358,7 +3358,7 @@
 <LM>w#w-vesm9303-008-p1s24w22</LM>
 </w.rf>
 <form>Helanderová</form>
-<tag lemma="Helanderová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Helanderová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-008-p1s24w23">
 <src.rf>manual</src.rf>
@@ -3682,7 +3682,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4528,8 +4528,8 @@
 </w.rf>
 <form>CERN</form>
 <tag>
-<AM lemma="CERN-1_:B_;K_,t_^(Výzkumné_centrum,_švýc.-franc.)" src="orig">NNIXX-----A----</AM>
-<AM lemma="CERN-1_:B_;K_;u_,t_^(Výzkumné_centrum,_švýc.-franc.)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="CERN-1_:B_;m_,t_^(Výzkumné_centrum,_švýc.-franc.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="CERN-1_:B_;m_,t_^(Výzkumné_centrum,_švýc.-franc.)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="CERN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4580,8 +4580,8 @@
 </w.rf>
 <form>ESA</form>
 <tag>
-<AM lemma="ESA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ESA_:B_;K_^(Evropská_kosmická_agentura)" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="ESA_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ESA_:B_;m_^(Evropská_kosmická_agentura)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="eso" src="auto">NNNP1-----A----</AM>
 <AM lemma="eso" src="auto">NNNP4-----A----</AM>
 <AM lemma="eso" src="auto">NNNP5-----A----</AM>
@@ -4614,7 +4614,7 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

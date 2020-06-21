@@ -54,7 +54,7 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="vin-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -465,7 +465,7 @@
 <LM>w#w-mf920923-079-p1s1Cw48</LM>
 </w.rf>
 <form>Buček</form>
-<tag lemma="Buček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-079-p1s1Cw49">
 <src.rf>manual</src.rf>

@@ -21,7 +21,7 @@
 <form>Stehlíkova</form>
 <tag>
 <AM lemma="stehlíkův_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Stehlíkův_;S_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
+<AM lemma="Stehlíkův_;Y_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p1s1w2">
@@ -31,8 +31,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p1s1w3">
@@ -142,8 +142,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p2s1Bw5">
@@ -281,7 +281,7 @@
 <form>Stehlík</form>
 <tag>
 <AM lemma="stehlík" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stehlík_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stehlík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p2s2w5">
@@ -414,7 +414,7 @@
 <form>Stehlík</form>
 <tag>
 <AM lemma="stehlík" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stehlík_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stehlík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p3s1w7">
@@ -520,8 +520,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p3s2w5">
@@ -784,8 +784,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p3s4w4">
@@ -929,7 +929,7 @@
 <form>Stehlík</form>
 <tag>
 <AM lemma="stehlík" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stehlík_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stehlík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p4s1w2">
@@ -1051,8 +1051,8 @@
 </w.rf>
 <form>ECK</form>
 <tag>
-<AM lemma="ECK_:B_;K_^(Energetické_centrum_v_Kladně)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Eck_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="ECK_:B_;m_^(Energetické_centrum_v_Kladně)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Eck_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="ECK_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ECK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1168,8 +1168,8 @@
 </w.rf>
 <form>ECK</form>
 <tag>
-<AM lemma="ECK_:B_;K_^(Energetické_centrum_v_Kladně)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Eck_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="ECK_:B_;m_^(Energetické_centrum_v_Kladně)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Eck_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="ECK_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ECK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln95044-120-p4s1w32</LM>
 </w.rf>
 <form>Ibl</form>
-<tag lemma="Ibl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ibl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-120-p4s1w33">
 <src.rf>manual</src.rf>
@@ -1215,8 +1215,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p4s2w3">
@@ -1332,8 +1332,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p5s1w6">
@@ -1384,7 +1384,7 @@
 <form>Stehlíka</form>
 <tag>
 <AM lemma="stehlík" src="orig">NNMS2-----A----</AM>
-<AM lemma="Stehlík_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Stehlík_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p5s1w12">
@@ -1444,8 +1444,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p5s2w3">
@@ -1534,7 +1534,7 @@
 <LM>w#w-ln95044-120-p5s2w13</LM>
 </w.rf>
 <form>Coopers</form>
-<tag lemma="Cooper_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag lemma="Cooper_;m" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95044-120-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1550,7 +1550,7 @@
 <LM>w#w-ln95044-120-p5s2w15</LM>
 </w.rf>
 <form>Lybrand</form>
-<tag lemma="Lybrand_;K" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Lybrand_;m" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95044-120-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1641,8 +1641,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p5s3w11">
@@ -1816,8 +1816,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-120-p5s4w10">

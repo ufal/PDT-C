@@ -81,7 +81,7 @@
 </w.rf>
 <form>ad</form>
 <tag>
-<AM lemma="ad-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
@@ -278,7 +278,7 @@
 <LM>w#w-ln94208-110-p2s1Bw22</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94208-110-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-ln94208-110-p2s2w11</LM>
 </w.rf>
 <form>Bobková</form>
-<tag lemma="Bobková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bobková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-110-p2s2w12">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln94208-110-p2s4w24</LM>
 </w.rf>
 <form>Bobková</form>
-<tag lemma="Bobková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bobková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-110-p2s4w25">
 <src.rf>manual</src.rf>

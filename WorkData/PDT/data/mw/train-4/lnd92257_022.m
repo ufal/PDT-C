@@ -59,7 +59,7 @@
 <LM>w#w-lnd92257-022-p1s1w6</LM>
 </w.rf>
 <form>Piťha</form>
-<tag lemma="Piťha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piťha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-022-p1s1w7">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-lnd92257-022-p1s1w15</LM>
 </w.rf>
 <form>Buriánka</form>
-<tag lemma="Buriánek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Buriánek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-022-p1s1w16">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-lnd92257-022-p1s2w6</LM>
 </w.rf>
 <form>Sumcová</form>
-<tag lemma="Sumcová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sumcová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-022-p1s2w7">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-lnd92257-022-p2s1w7</LM>
 </w.rf>
 <form>Janského</form>
-<tag lemma="Janský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Janský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-022-p2s1w8">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-lnd92257-022-p2s1w13</LM>
 </w.rf>
 <form>Mahenově</form>
-<tag lemma="Mahenův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Mahenův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-lnd92257-022-p2s1w14">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-lnd92257-022-p3s1w14</LM>
 </w.rf>
 <form>Havlíčka</form>
-<tag lemma="Havlíček_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havlíček_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-022-p3s1w15">
 <src.rf>manual</src.rf>
@@ -716,11 +716,11 @@
 </w.rf>
 <form>Borovského</form>
 <tag>
-<AM lemma="Borovský_;S" src="orig">AAMS2----1A----</AM>
-<AM lemma="Borovski_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Borovski_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Borovský_;S" src="auto" selected="1">NNMS2-----A----</AM>
-<AM lemma="Borovský_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Borovský_;Y" src="orig">AAMS2----1A----</AM>
+<AM lemma="Borovski_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Borovski_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Borovský_;Y" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="borovský" src="auto">AAIS2----1A----</AM>
 <AM lemma="borovský" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="borovský" src="auto">AAMS4----1A----</AM>
@@ -855,7 +855,7 @@
 <LM>w#w-lnd92257-022-p3s2w12</LM>
 </w.rf>
 <form>Havlíčkovy</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUFS2M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92257-022-p3s2w13">
 <src.rf>manual</src.rf>

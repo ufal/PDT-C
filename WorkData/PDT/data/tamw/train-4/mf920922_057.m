@@ -69,7 +69,7 @@
 <LM>w#w-mf920922-057-p1s1Bw3</LM>
 </w.rf>
 <form>KLAPUŠ</form>
-<tag lemma="Klapuš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klapuš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-057-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <form>Pavel</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s2Bw4">
@@ -322,7 +322,7 @@
 <LM>w#w-mf920922-057-p2s2Bw4</LM>
 </w.rf>
 <form>Klapuš</form>
-<tag lemma="Klapuš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klapuš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-057-p2s2Bw5">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 </w.rf>
 <form>ČSKSTS</form>
 <tag>
-<AM lemma="ČSKSTS-1_:B_;K_^(Čs._konfederace_sport._a_tělových._svazů)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSKSTS-1_:B_;m_^(Čs._konfederace_sport._a_tělových._svazů)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSKSTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -561,11 +561,11 @@
 </w.rf>
 <form>YMCA</form>
 <tag>
-<AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="YMCA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="YMCA_:B_;K_,t_^(Young_Men`s_Christian_Association)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="YMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual">NNNXX-----A----</AM>
-<AM lemma="YMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="YMCA_:B_;m_,t_^(Young_Men`s_Christian_Association)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="YMCA_:B_;m_^(Young_Men`s_Christian_Association)" src="manual">NNNXX-----A----</AM>
+<AM lemma="YMCA_:B_;m_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s2Bw34">
@@ -1461,10 +1461,10 @@
 </w.rf>
 <form>YMCA</form>
 <tag>
-<AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="YMCA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="YMCA_:B_;K_,t_^(Young_Men`s_Christian_Association)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="YMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="YMCA_:B_;m_,t_^(Young_Men`s_Christian_Association)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="YMCA_:B_;m_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s8Bw3">
@@ -1572,9 +1572,9 @@
 </w.rf>
 <form>YMCOU</form>
 <tag>
-<AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="YMCA_:B_;KYMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual">NNFS7-----A----</AM>
-<AM lemma="YMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="YMCA_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="YMCA_:B_;mYMCA_:B_;m_^(Young_Men`s_Christian_Association)" src="manual">NNFS7-----A----</AM>
+<AM lemma="YMCA_:B_;m_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s9Aw6">

@@ -21,8 +21,8 @@
 <form>Pele</form>
 <tag>
 <AM lemma="pele" src="orig">NNNXX-----A----</AM>
-<AM lemma="Pele_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pele_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Pele_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pele_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="pel" src="auto">NNIS5-----A----</AM>
 <AM lemma="pele" src="manual" selected="1">Db-------------</AM>
 </tag>
@@ -83,7 +83,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-3`500" src="orig">C}-------------</AM>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-103-p2s1w5">
@@ -148,7 +148,7 @@
 <LM>w#w-lnd91301-103-p2s1w12</LM>
 </w.rf>
 <form>Skuhravý</form>
-<tag lemma="Skuhravý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skuhravý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-103-p2s1w13">
 <src.rf>manual</src.rf>

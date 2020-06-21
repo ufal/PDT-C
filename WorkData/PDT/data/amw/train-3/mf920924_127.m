@@ -848,7 +848,7 @@
 <LM>w#w-mf920924-127-p3s1w12</LM>
 </w.rf>
 <form>Olešnou</form>
-<tag lemma="Olešná_;G_;S_^(*1ý)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Olešná_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920924-127-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1282,8 +1282,8 @@
 </w.rf>
 <form>Tacke</form>
 <tag>
-<AM lemma="Tacke_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tacke_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tacke_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tacke_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-127-p3s4w8">
@@ -1528,7 +1528,7 @@
 <LM>w#w-mf920924-127-p4s1w2</LM>
 </w.rf>
 <form>Majer</form>
-<tag lemma="Majer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Majer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2248,7 +2248,7 @@
 <LM>w#w-mf920924-127-p5s1w11</LM>
 </w.rf>
 <form>Chvastek</form>
-<tag lemma="Chvastek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chvastek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2676,7 +2676,7 @@
 <LM>w#w-mf920924-127-p5s4w8</LM>
 </w.rf>
 <form>Olešnou</form>
-<tag lemma="Olešná_;G_;S_^(*1ý)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Olešná_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920924-127-p5s4w9">
 <src.rf>manual</src.rf>
@@ -2814,7 +2814,7 @@
 <LM>w#w-mf920924-127-p5s5w12</LM>
 </w.rf>
 <form>Chvastek</form>
-<tag lemma="Chvastek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chvastek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p5s5w13">
 <src.rf>manual</src.rf>
@@ -3635,7 +3635,7 @@
 <LM>w#w-mf920924-127-p7s3w29</LM>
 </w.rf>
 <form>Molitor</form>
-<tag lemma="Molitor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Molitor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p7s3w30">
 <src.rf>manual</src.rf>
@@ -4286,7 +4286,7 @@
 <LM>w#w-mf920924-127-p9s2w9</LM>
 </w.rf>
 <form>Skloba</form>
-<tag lemma="Skloba_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Skloba_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p9s2w10">
 <src.rf>manual</src.rf>
@@ -4444,7 +4444,7 @@
 <LM>w#w-mf920924-127-p9s2w28</LM>
 </w.rf>
 <form>Musil</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p9s2w29">
 <src.rf>manual</src.rf>
@@ -5123,7 +5123,7 @@
 <LM>w#w-mf920924-127-p10s2w17</LM>
 </w.rf>
 <form>Skleba</form>
-<tag lemma="Skleba_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Skleba_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p10s2w18">
 <src.rf>manual</src.rf>
@@ -5385,7 +5385,7 @@
 <LM>w#w-mf920924-127-p11s1w28</LM>
 </w.rf>
 <form>Lokvenc</form>
-<tag lemma="Lokvenc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lokvenc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p11s1w29">
 <src.rf>manual</src.rf>

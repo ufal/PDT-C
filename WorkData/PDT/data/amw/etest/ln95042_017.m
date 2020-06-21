@@ -67,7 +67,7 @@
 <LM>w#w-ln95042-017-p1s1w7</LM>
 </w.rf>
 <form>Seidl</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-017-p1s1w8">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-ln95042-017-p1s1w10</LM>
 </w.rf>
 <form>Jamek</form>
-<tag lemma="Jamek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jamek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-017-p1s1w11">
 <src.rf>manual</src.rf>

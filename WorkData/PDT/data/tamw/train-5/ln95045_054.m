@@ -702,7 +702,7 @@
 <LM>w#w-ln95045-054-p2s4w43</LM>
 </w.rf>
 <form>Revella</form>
-<tag lemma="Revell_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Revell_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-054-p2s4w44">
 <src.rf>manual</src.rf>
@@ -1864,8 +1864,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-054-p5s1w18">
@@ -1902,8 +1902,8 @@
 </w.rf>
 <form>Sealink</form>
 <tag>
-<AM lemma="Sealink_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sealink_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sealink_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sealink_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-054-p5s1w22">
@@ -2875,7 +2875,7 @@
 </w.rf>
 <form>Jill</form>
 <tag>
-<AM lemma="Jill_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Jill_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Jill_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -2885,7 +2885,7 @@
 <LM>w#w-ln95045-054-p6s5w10</LM>
 </w.rf>
 <form>Phipssová</form>
-<tag lemma="Phipssová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Phipssová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-054-p6s5w11">
 <src.rf>manual</src.rf>
@@ -3098,7 +3098,7 @@
 <LM>w#w-ln95045-054-p6s7w13</LM>
 </w.rf>
 <form>Bardotová</form>
-<tag lemma="Bardotová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bardotová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-054-p6s7w14">
 <src.rf>manual</src.rf>
@@ -3123,7 +3123,7 @@
 </w.rf>
 <form>Jill</form>
 <tag>
-<AM lemma="Jill_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Jill_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Jill_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -3175,9 +3175,9 @@
 <form>Arku</form>
 <tag>
 <AM lemma="Arc_;G" src="orig">NNIS2-----A---1</AM>
-<AM lemma="Arko_;K" src="auto">NNNS3-----A----</AM>
-<AM lemma="Arko_;K" src="auto">NNNS6-----A----</AM>
-<AM lemma="Arka_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Arko_;m" src="auto">NNNS3-----A----</AM>
+<AM lemma="Arko_;m" src="auto">NNNS6-----A----</AM>
+<AM lemma="Arka_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Arc_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="Arc_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Arc_;G" src="auto">NNIS5-----A----</AM>
@@ -3380,8 +3380,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-054-p7s1w20">
@@ -3748,7 +3748,7 @@
 <LM>w#w-ln95045-054-p7s4w19</LM>
 </w.rf>
 <form>Waldegrave</form>
-<tag lemma="Waldegrave_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waldegrave_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-054-p7s4w20">
 <src.rf>manual</src.rf>

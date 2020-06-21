@@ -127,9 +127,9 @@
 <form>Marlboro</form>
 <tag>
 <AM lemma="Marlboro-2_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Marlboro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-041-p2s1w10">
@@ -311,7 +311,7 @@
 <LM>w#w-ln95045-041-p2s2w6</LM>
 </w.rf>
 <form>Dysentry</form>
-<tag lemma="Dysentry_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Dysentry_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95045-041-p2s2w7">
 <src.rf>manual</src.rf>
@@ -336,9 +336,9 @@
 </w.rf>
 <form>Strange</form>
 <tag>
-<AM lemma="Strange_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Strange_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Strange_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Strange_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Strange_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Strange_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="strange_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Strange-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -350,7 +350,7 @@
 </w.rf>
 <form>People</form>
 <tag>
-<AM lemma="People_;K_,t_^(Plastic_People)" src="orig">NNMXX-----A----</AM>
+<AM lemma="People_;m_,t_^(Plastic_People)" src="orig">NNMXX-----A----</AM>
 <AM lemma="People-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln95045-041-p2s7w14</LM>
 </w.rf>
 <form>Belmondo</form>
-<tag lemma="Belmondo_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Belmondo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-041-p2s7w15">
 <src.rf>manual</src.rf>

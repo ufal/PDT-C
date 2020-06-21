@@ -88,7 +88,7 @@
 <LM>w#w-ln94211-129-p2s1Aw2</LM>
 </w.rf>
 <form>Achremenko</form>
-<tag lemma="Achremenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Achremenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-129-p2s1B">
@@ -585,7 +585,7 @@
 <LM>w#w-ln94211-129-p3s2w14</LM>
 </w.rf>
 <form>Jie</form>
-<tag lemma="Jie_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-129-p3s2w15">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-ln94211-129-p3s2w27</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-129-p3s2w28">
 <src.rf>manual</src.rf>
@@ -2387,7 +2387,7 @@
 <LM>w#w-ln94211-129-p6s1w3</LM>
 </w.rf>
 <form>Kulovaného</form>
-<tag lemma="Kulovaný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kulovaný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-129-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2726,7 +2726,7 @@
 <LM>w#w-ln94211-129-p6s1w45</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-129-p6s1w46">
 <src.rf>manual</src.rf>
@@ -3826,7 +3826,7 @@
 <LM>w#w-ln94211-129-p8s4w16</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-129-p8s4w17">
 <src.rf>manual</src.rf>

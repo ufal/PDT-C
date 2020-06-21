@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-158-p1s1w4</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-158-p1s1w5">
 <src.rf>manual</src.rf>
@@ -52,8 +52,8 @@
 </w.rf>
 <form>Felicia</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -166,8 +166,8 @@
 </w.rf>
 <form>Felicia</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-158-p2s1Bw12">
@@ -267,7 +267,7 @@
 <LM>w#w-ln94204-158-p2s1Bw23</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-158-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -329,13 +329,13 @@
 </w.rf>
 <form>Felicii</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS3-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS6-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS3-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS6-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS3-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS4-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS6-----A----</AM>
@@ -496,7 +496,7 @@
 <LM>w#w-ln94204-158-p2s3w10</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-158-p2s3w11">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-ln94204-158-p3s1w6</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94204-158-p3s1w7">
 <src.rf>manual</src.rf>
@@ -656,8 +656,8 @@
 </w.rf>
 <form>Felicia</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-158-p3s2w2">
@@ -1093,7 +1093,7 @@
 </w.rf>
 <form>relations</form>
 <tag>
-<AM lemma="relation_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="relation_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="relations-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1119,7 +1119,7 @@
 <LM>w#w-ln94204-158-p4s1w9</LM>
 </w.rf>
 <form>Hrabovského</form>
-<tag lemma="Hrabovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hrabovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-158-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1210,8 +1210,8 @@
 </w.rf>
 <form>Felicia</form>
 <tag>
-<AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-158-p4s2w5">
@@ -1694,7 +1694,7 @@
 <LM>w#w-ln94204-158-p5s2w31</LM>
 </w.rf>
 <form>Hrabovský</form>
-<tag lemma="Hrabovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrabovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-158-p5s2w32">
 <src.rf>manual</src.rf>
@@ -1844,9 +1844,9 @@
 </w.rf>
 <form>VW</form>
 <tag>
-<AM lemma="VW-1_:B_;R_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
-<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VW-1_:B_;m_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
+<AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-158-p6s1w18">
@@ -1934,7 +1934,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -1983,7 +1983,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -2089,7 +2089,7 @@
 </w.rf>
 <form>ABS</form>
 <tag>
-<AM lemma="ABS-1_:B_;g_^(Antiblokovací_systém_brzd)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="ABS-1_:B_^(Antiblokovací_systém_brzd)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ABS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

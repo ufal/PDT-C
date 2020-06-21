@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-17-p1s1w2</LM>
 </w.rf>
 <form>Jihlavanu</form>
-<tag lemma="Jihlavan_;K" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94210-17-p1s1w3">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94210-17-p2s1Bw18</LM>
 </w.rf>
 <form>Jihlavanu</form>
-<tag lemma="Jihlavan_;K" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94210-17-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln94210-17-p3s1w9</LM>
 </w.rf>
 <form>Jihlavan</form>
-<tag lemma="Jihlavan_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p3s1w10">
 <src.rf>manual</src.rf>
@@ -694,9 +694,9 @@
 </w.rf>
 <form>Breguet</form>
 <tag>
-<AM lemma="Breguet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Breguet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Breguet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Breguet_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Breguet_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Breguet-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-17-p3s2w20">
@@ -738,7 +738,7 @@
 </w.rf>
 <form>VMV</form>
 <tag>
-<AM lemma="VMV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VMV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -788,7 +788,7 @@
 <LM>w#w-ln94210-17-p3s2w30</LM>
 </w.rf>
 <form>Samek</form>
-<tag lemma="Samek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Samek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p3s2w31">
 <src.rf>manual</src.rf>
@@ -831,9 +831,9 @@
 </w.rf>
 <form>Breguet</form>
 <tag>
-<AM lemma="Breguet_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Breguet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Breguet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Breguet_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Breguet_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Breguet-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-17-p4s1w5">
@@ -1164,7 +1164,7 @@
 <LM>w#w-ln94210-17-p4s2w9</LM>
 </w.rf>
 <form>Jihlavanu</form>
-<tag lemma="Jihlavan_;K" src="auto" selected="1">NNIS3-----A----</tag>
+<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94210-17-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-ln94210-17-p5s1w1</LM>
 </w.rf>
 <form>Jihlavan</form>
-<tag lemma="Jihlavan_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1621,7 +1621,7 @@
 <LM>w#w-ln94210-17-p5s2w14</LM>
 </w.rf>
 <form>Aera</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-17-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1646,7 +1646,7 @@
 </w.rf>
 <form>Letu</form>
 <tag>
-<AM lemma="Let_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Let_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="let" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="let" src="auto">NNIS3-----A----</AM>
 <AM lemma="let" src="auto">NNIS6-----A----</AM>
@@ -1725,8 +1725,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-17-p5s3w8">
@@ -1743,7 +1743,7 @@
 <LM>w#w-ln94210-17-p5s3w9</LM>
 </w.rf>
 <form>DESTA</form>
-<tag lemma="Desta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Desta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p5s3w10">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <LM>w#w-ln94210-17-p5s3w11</LM>
 </w.rf>
 <form>LIAZ</form>
-<tag lemma="Liaz_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Liaz_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1807,7 +1807,7 @@
 <LM>w#w-ln94210-17-p5s3w17</LM>
 </w.rf>
 <form>Agrozet</form>
-<tag lemma="Agrozet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agrozet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p5s3w18">
 <src.rf>manual</src.rf>

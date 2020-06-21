@@ -54,7 +54,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -336,7 +336,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -438,7 +438,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -497,7 +497,7 @@
 <LM>w#w-lnd92259-052-p3s4w11</LM>
 </w.rf>
 <form>Citunda</form>
-<tag lemma="Citunda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Citunda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w12">
 <src.rf>manual</src.rf>
@@ -594,9 +594,9 @@
 </w.rf>
 <form>Pena</form>
 <tag>
-<AM lemma="Pena_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Pen_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Pen_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Pena_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pen_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Pen_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-052-p3s4w24">
@@ -630,7 +630,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -641,7 +641,7 @@
 <LM>w#w-lnd92259-052-p3s4w28</LM>
 </w.rf>
 <form>Jonase</form>
-<tag lemma="Jonas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jonas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w29">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-lnd92259-052-p3s4w29</LM>
 </w.rf>
 <form>Savimbiho</form>
-<tag lemma="Savimbi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Savimbi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w30">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-lnd92259-052-p3s4w37</LM>
 </w.rf>
 <form>Demosthenes</form>
-<tag lemma="Démosthénes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Démosthénes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w38">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-lnd92259-052-p3s4w38</LM>
 </w.rf>
 <form>Cilingutila</form>
-<tag lemma="Cilingutila_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cilingutila_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w39">
 <src.rf>manual</src.rf>

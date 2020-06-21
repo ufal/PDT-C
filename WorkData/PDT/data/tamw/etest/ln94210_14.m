@@ -375,7 +375,7 @@
 <LM>w#w-ln94210-14-p3s1w10</LM>
 </w.rf>
 <form>Sidorenka</form>
-<tag lemma="Sidorenko_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sidorenko_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-14-p3s1w11">
 <src.rf>manual</src.rf>

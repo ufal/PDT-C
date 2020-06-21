@@ -112,7 +112,7 @@
 </w.rf>
 <form>tom</form>
 <tag>
-<AM lemma="tom-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="tom-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
 </tag>
 </m>
@@ -268,7 +268,7 @@
 <LM>w#w-lnd92255-115-p3s2w17</LM>
 </w.rf>
 <form>Kulovaná</form>
-<tag lemma="Kulovaná_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kulovaná_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s2w18">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-lnd92255-115-p3s2w21</LM>
 </w.rf>
 <form>Pecharem</form>
-<tag lemma="Pechar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pechar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s2w22">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-lnd92255-115-p3s4w12</LM>
 </w.rf>
 <form>Bonaliovou</form>
-<tag lemma="Bonalyová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Bonalyová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s4w13">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-lnd92255-115-p3s4w19</LM>
 </w.rf>
 <form>Satoovou</form>
-<tag lemma="Satoová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Satoová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s4w20">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92255-115-p3s5w4</LM>
 </w.rf>
 <form>Zemanová</form>
-<tag lemma="Zemanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zemanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-lnd92255-115-p3s7w2</LM>
 </w.rf>
 <form>Suchý</form>
-<tag lemma="Suchý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suchý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s7w3">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-lnd92255-115-p3s7w9</LM>
 </w.rf>
 <form>Kagiyma</form>
-<tag lemma="Kagiyma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kagiyma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-115-p3s7w10">
 <src.rf>manual</src.rf>

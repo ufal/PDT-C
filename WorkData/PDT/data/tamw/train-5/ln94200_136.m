@@ -69,7 +69,7 @@
 <LM>w#w-ln94200-136-p2s1Aw2</LM>
 </w.rf>
 <form>Hartman</form>
-<tag lemma="Hartman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hartman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-136-p2s1B">
@@ -516,7 +516,7 @@
 </w.rf>
 <form>Lucemburským</form>
 <tag>
-<AM lemma="Lucemburský_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Lucemburský_;Y" src="orig">NNMS7-----A----</AM>
 <AM lemma="lucemburský" src="auto">AAFP3----1A----</AM>
 <AM lemma="lucemburský" src="auto">AAIP3----1A----</AM>
 <AM lemma="lucemburský" src="auto">AAIS6----1A---7</AM>
@@ -877,7 +877,7 @@
 <LM>w#w-ln94200-136-p4s2w4</LM>
 </w.rf>
 <form>Daňka</form>
-<tag lemma="Daněk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Daněk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-136-p4s2w5">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln94200-136-p4s2w7</LM>
 </w.rf>
 <form>Švestky</form>
-<tag lemma="Švestka-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Švestka-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-136-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-ln94200-136-p5s3w18</LM>
 </w.rf>
 <form>Daňka</form>
-<tag lemma="Daněk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Daněk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-136-p5s3w19">
 <src.rf>manual</src.rf>
@@ -1616,7 +1616,7 @@
 <LM>w#w-ln94200-136-p5s4w12</LM>
 </w.rf>
 <form>Daněk</form>
-<tag lemma="Daněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-136-p5s4w13">
 <src.rf>manual</src.rf>
@@ -2016,13 +2016,13 @@
 </w.rf>
 <form>Porubu</form>
 <tag>
-<AM lemma="Poruba_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Poruba_;Y" src="orig">NNMS4-----A----</AM>
 <AM lemma="Poruba_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="porub" src="auto">NNIS2-----A----</AM>
 <AM lemma="porub" src="auto">NNIS3-----A----</AM>
 <AM lemma="porub" src="auto">NNIS6-----A----</AM>
 <AM lemma="porubat" src="auto">VB-S---1P-AA---</AM>
-<AM lemma="Poruba-2_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Poruba-2_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-136-p5s6w12">
@@ -2117,7 +2117,7 @@
 <form>Poruba</form>
 <tag>
 <AM lemma="Poruba_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Poruba-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Poruba-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-136-p5s8w2">
@@ -2443,8 +2443,8 @@
 </w.rf>
 <form>István</form>
 <tag>
-<AM lemma="István_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="István_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="István_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="István_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-136-p5s10w16">
@@ -2453,7 +2453,7 @@
 <LM>w#w-ln94200-136-p5s10w16</LM>
 </w.rf>
 <form>Ruppert</form>
-<tag lemma="Ruppert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruppert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-136-p5s10w17">
 <src.rf>manual</src.rf>
@@ -2559,7 +2559,7 @@
 <LM>w#w-ln94200-136-p5s11w9</LM>
 </w.rf>
 <form>Haselböcka</form>
-<tag lemma="Haselböck_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Haselböck_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-136-p5s11w10">
 <src.rf>manual</src.rf>
@@ -2754,7 +2754,7 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro-2_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
 <AM lemma="pro-2_,t" src="manual">RR--X----------</AM>
@@ -2768,7 +2768,7 @@
 </w.rf>
 <form>Arte</form>
 <tag>
-<AM lemma="Arte_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Arte_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Art-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="art" src="auto">NNIS5-----A----</AM>
 <AM lemma="art" src="auto">NNIS6-----A----</AM>
@@ -2784,8 +2784,8 @@
 </w.rf>
 <form>Antiqua</form>
 <tag>
-<AM lemma="Antiqua_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Antiqua_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Antiqua_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Antiqua_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="antiqua_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Antiqua-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2827,7 +2827,7 @@
 </w.rf>
 <form>Rudolphina</form>
 <tag>
-<AM lemma="Rudolphina_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Rudolphina_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Rudolphina-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2945,7 +2945,7 @@
 </w.rf>
 <form>Musica</form>
 <tag>
-<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Musica_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2956,7 +2956,7 @@
 </w.rf>
 <form>Florea</form>
 <tag>
-<AM lemma="Florea_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Florea_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Florea-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3073,8 +3073,8 @@
 </w.rf>
 <form>Mandel</form>
 <tag>
-<AM lemma="Mandel_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mandel_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mandel_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mandel_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="mandel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="mandel" src="auto">NNIS4-----A----</AM>
 <AM lemma="Mandel-77" src="manual" selected="1">F%-------------</AM>
@@ -3087,7 +3087,7 @@
 </w.rf>
 <form>Quartet</form>
 <tag>
-<AM lemma="Quartet_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Quartet_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Quartet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3259,7 +3259,7 @@
 <LM>w#w-ln94200-136-p7s1w11</LM>
 </w.rf>
 <form>Pešek</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-136-p7s1w12">
 <src.rf>manual</src.rf>
@@ -3356,7 +3356,7 @@
 </w.rf>
 <form>Niederösterreichisches</form>
 <tag>
-<AM lemma="Niederösterreichisches_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Niederösterreichisches_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Niederösterreichisches-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3367,7 +3367,7 @@
 </w.rf>
 <form>Tonkünstlerorchester</form>
 <tag>
-<AM lemma="Tonkünstlerorchester_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tonkünstlerorchester_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Tonkünstlerorchester-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3787,8 +3787,8 @@
 </w.rf>
 <form>Tomislava</form>
 <tag>
-<AM lemma="Tomislav_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Tomislav_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Tomislav_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Tomislav_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-136-p8s2w17">
@@ -3797,7 +3797,7 @@
 <LM>w#w-ln94200-136-p8s2w17</LM>
 </w.rf>
 <form>Volka</form>
-<tag lemma="Volek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Volek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-136-p8s2w18">
 <src.rf>manual</src.rf>
@@ -4161,7 +4161,7 @@
 <LM>w#w-ln94200-136-p8s4w27</LM>
 </w.rf>
 <form>Parléře</form>
-<tag lemma="Parléř_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Parléř_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-136-p8s4w28">
 <src.rf>manual</src.rf>

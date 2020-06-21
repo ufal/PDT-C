@@ -20,7 +20,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -158,7 +158,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -265,7 +265,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -291,7 +291,7 @@
 <LM>w#w-ln94203-74-p2s1Bw27</LM>
 </w.rf>
 <form>Scharping</form>
-<tag lemma="Scharping_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scharping_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln94203-74-p2s2w7</LM>
 </w.rf>
 <form>Verheugena</form>
-<tag lemma="Verheugen_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Verheugen_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s2w8">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -547,7 +547,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -573,7 +573,7 @@
 <LM>w#w-ln94203-74-p2s3w16</LM>
 </w.rf>
 <form>Ulrich</form>
-<tag lemma="Ulrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s3w17">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-ln94203-74-p2s3w17</LM>
 </w.rf>
 <form>Klose</form>
-<tag lemma="Klose_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s3w18">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-ln94203-74-p2s4w8</LM>
 </w.rf>
 <form>Lafontainovi</form>
-<tag lemma="Lafontaine_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Lafontaine_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s4w9">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-ln94203-74-p2s5w1</LM>
 </w.rf>
 <form>Scharpingovi</form>
-<tag lemma="Scharping_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Scharping_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s5w2">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-ln94203-74-p2s5w13</LM>
 </w.rf>
 <form>Schrödera</form>
-<tag lemma="Schröder_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Schröder_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s5w14">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -938,10 +938,10 @@
 </w.rf>
 <form>Thierse</form>
 <tag>
-<AM lemma="Thierse_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Thiers_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Thiers_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Thiers_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Thierse_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Thiers_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Thiers_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Thiers_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-74-p2s6w13">
@@ -961,7 +961,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

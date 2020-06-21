@@ -299,7 +299,7 @@
 <LM>w#w-mf920902-041-p8s1w1</LM>
 </w.rf>
 <form>Jankovcova</form>
-<tag lemma="Jankovcův_;S_^(*3ec)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Jankovcův_;Y_^(*3ec)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920902-041-p8s1w2">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-mf920902-041-p10s1w10</LM>
 </w.rf>
 <form>Bílkova</form>
-<tag lemma="Bílkův_;S_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Bílkův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920902-041-p10s1w11">
 <src.rf>manual</src.rf>

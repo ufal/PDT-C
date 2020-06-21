@@ -703,7 +703,7 @@
 <LM>w#w-mf930702-092-p3s4w9</LM>
 </w.rf>
 <form>Surgy</form>
-<tag lemma="Surga_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Surga_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-092-p3s4w10">
 <src.rf>manual</src.rf>

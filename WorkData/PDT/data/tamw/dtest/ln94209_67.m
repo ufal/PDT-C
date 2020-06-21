@@ -353,7 +353,7 @@
 <LM>w#w-ln94209-67-p2s3w8</LM>
 </w.rf>
 <form>Eisenhowera</form>
-<tag lemma="Eisenhower_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Eisenhower_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-67-p2s3w9">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-ln94209-67-p2s3w11</LM>
 </w.rf>
 <form>Gaulla</form>
-<tag lemma="Gaulle_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gaulle_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-67-p2s3w12">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-67-p2s3w20">
@@ -463,7 +463,7 @@
 <LM>w#w-ln94209-67-p2s3w21</LM>
 </w.rf>
 <form>Nicholson</form>
-<tag lemma="Nicholson-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nicholson-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-67-p2s3w22">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-67-p2s3w24">
@@ -498,7 +498,7 @@
 <LM>w#w-ln94209-67-p2s3w25</LM>
 </w.rf>
 <form>Hanks</form>
-<tag lemma="Hanks_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hanks_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-67-p2s3w26">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-67-p2s3w28">
@@ -533,7 +533,7 @@
 <LM>w#w-ln94209-67-p2s3w29</LM>
 </w.rf>
 <form>Cage</form>
-<tag lemma="Cage_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cage_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-67-p2s3w30">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <form>Vito</form>
 <tag>
 <AM lemma="Vito_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vito_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vito_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-67-p2s3w34">

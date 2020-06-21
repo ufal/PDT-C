@@ -45,7 +45,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-057-p1s1w5">
@@ -62,7 +62,7 @@
 <LM>w#w-lnd94104-057-p1s1w6</LM>
 </w.rf>
 <form>Grünebecka</form>
-<tag lemma="Grünebeck_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Grünebeck_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-057-p1s2">
@@ -138,7 +138,7 @@
 <LM>w#w-lnd94104-057-p1s3w7</LM>
 </w.rf>
 <form>Grünbecka</form>
-<tag lemma="Grünbeck_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Grünbeck_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-057-p1s3w8">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 </w.rf>
 <form>FDP</form>
 <tag>
-<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP_:B_;m_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -278,7 +278,7 @@
 </w.rf>
 <form>FDP</form>
 <tag>
-<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP_:B_;m_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -306,7 +306,7 @@
 <LM>w#w-lnd94104-057-p1s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd94104-057-p1s4w2">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-lnd94104-057-p1s4w13</LM>
 </w.rf>
 <form>Grünbeckovi</form>
-<tag lemma="Grünbeck_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Grünbeck_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94104-057-p1s4w14">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-lnd94104-057-p1s5w1</LM>
 </w.rf>
 <form>Grünbeck</form>
-<tag lemma="Grünbeck_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grünbeck_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-057-p1s5w2">
 <src.rf>manual</src.rf>

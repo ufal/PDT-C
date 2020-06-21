@@ -150,9 +150,9 @@
 </w.rf>
 <form>FIA</form>
 <tag>
-<AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Fio_;K" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Fio_;m" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -170,7 +170,7 @@
 <LM>w#w-lnd94105-104-p1s2w4</LM>
 </w.rf>
 <form>Mosley</form>
-<tag lemma="Mosley_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mosley_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-104-p1s2w5">
 <src.rf>manual</src.rf>

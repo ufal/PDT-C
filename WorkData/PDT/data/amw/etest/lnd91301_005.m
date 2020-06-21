@@ -848,11 +848,11 @@
 </w.rf>
 <form>Gallup</form>
 <tag>
-<AM lemma="Gallup-2_;K_,t" src="orig">NNISX-----A----</AM>
-<AM lemma="Gallup-1_;G_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Gallup-1_;G_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gallup-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gallup-1_;G_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Gallup-2_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Gallup-1_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Gallup-1_;G_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Gallup-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gallup-1_;G_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gallup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -863,8 +863,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3012,7 +3012,7 @@
 <LM>w#w-lnd91301-005-p8s1w2</LM>
 </w.rf>
 <form>FRANĚK</form>
-<tag lemma="Franěk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franěk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

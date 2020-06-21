@@ -72,7 +72,7 @@
 <LM>w#w-mf920922-093-p2s1w4</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ria-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-093-p2s1w5">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-mf920922-093-p2s2w21</LM>
 </w.rf>
 <form>Daněk</form>
-<tag lemma="Daněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-093-p2s2w22">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-093-p2s6w33">
@@ -1078,7 +1078,7 @@
 <LM>w#w-mf920922-093-p2s6w34</LM>
 </w.rf>
 <form>Daněk</form>
-<tag lemma="Daněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-093-p2s6w35">
 <src.rf>manual</src.rf>

@@ -76,7 +76,7 @@
 <LM>w#w-ln95041-088-p1s1w8</LM>
 </w.rf>
 <form>Bendy</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95041-088-p2s1">
@@ -391,7 +391,7 @@
 <LM>w#w-ln95041-088-p4s1w9</LM>
 </w.rf>
 <form>Bendy</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-088-p4s1w10">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-ln95041-088-p4s3w16</LM>
 </w.rf>
 <form>Dejmala</form>
-<tag lemma="Dejmal_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dejmal_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-088-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1216,7 +1216,7 @@
 <LM>w#w-ln95041-088-p5s3w2</LM>
 </w.rf>
 <form>Dejmalovu</form>
-<tag lemma="Dejmalův_;S_^(*2)" src="orig" selected="1">AUNS3M---------</tag>
+<tag lemma="Dejmalův_;Y_^(*2)" src="orig" selected="1">AUNS3M---------</tag>
 </m>
 <m id="m-ln95041-088-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1549,7 +1549,7 @@
 <LM>w#w-ln95041-088-p6s1w17</LM>
 </w.rf>
 <form>Havlová</form>
-<tag lemma="Havlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Havlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-088-p6s1w18">
 <src.rf>manual</src.rf>

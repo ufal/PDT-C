@@ -234,7 +234,7 @@
 </w.rf>
 <form>Intel</form>
 <tag>
-<AM lemma="Intel_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Intel_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Intel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -245,7 +245,7 @@
 </w.rf>
 <form>Hungary</form>
 <tag>
-<AM lemma="Hungary_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Hungary_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Hungary-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -745,7 +745,7 @@
 </w.rf>
 <form>Production</form>
 <tag>
-<AM lemma="Production_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Production_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Production-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -876,8 +876,8 @@
 </w.rf>
 <form>Windows</form>
 <tag>
-<AM lemma="Windows" src="orig">NNIPX-----A----</AM>
-<AM lemma="Windows_;R" src="manual" selected="1">NNIPX-----A----</AM>
+<AM lemma="Windows" src="orig">NNIXX-----A----</AM>
+<AM lemma="Windows_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p4s1w21">
@@ -903,8 +903,8 @@
 </w.rf>
 <form>UniType</form>
 <tag>
-<AM lemma="UniType_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="UniType_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="UniType_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="UniType_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p4s1w24">
@@ -1248,7 +1248,7 @@
 <LM>w#w-ln94205-1-p5s1w4</LM>
 </w.rf>
 <form>Epson</form>
-<tag lemma="Epson_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Epson_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-1-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1296,7 +1296,7 @@
 <LM>w#w-ln94205-1-p5s1w10</LM>
 </w.rf>
 <form>Epson</form>
-<tag lemma="Epson_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Epson_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-1-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 </w.rf>
 <form>Stylus</form>
 <tag>
-<AM lemma="Stylus_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Stylus_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Stylus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1316,10 +1316,10 @@
 </w.rf>
 <form>Color</form>
 <tag>
-<AM lemma="Color-1_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Color-1_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Color-1_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Color-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Color-1_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Color-1_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Color-1_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Color-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="color_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Color-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1602,8 +1602,8 @@
 </w.rf>
 <form>PC</form>
 <tag>
-<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PC-1_:B_;m_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-1_:B_;m_^(personal_computer,_osobní_počítač)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p6s1w7">
@@ -1612,7 +1612,7 @@
 <LM>w#w-ln94205-1-p6s1w7</LM>
 </w.rf>
 <form>DOS</form>
-<tag lemma="DOS_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="DOS_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-1-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1645,7 +1645,7 @@
 </w.rf>
 <form>IBM</form>
 <tag>
-<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-1_:B_;m_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1754,9 +1754,9 @@
 </w.rf>
 <form>MSDOS</form>
 <tag>
-<AM lemma="MSDOS_:B_;R" src="orig">NNIXX-----A---8</AM>
-<AM lemma="MSDOS_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="MSDOS_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="MSDOS_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MSDOS_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="MSDOS_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="MSDOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1964,8 +1964,8 @@
 </w.rf>
 <form>CODA</form>
 <tag>
-<AM lemma="CODA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Coda_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="CODA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Coda_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p7s1w7">
@@ -2161,8 +2161,8 @@
 </w.rf>
 <form>Microsoft</form>
 <tag>
-<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
-<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p7s2w17">
@@ -2179,7 +2179,7 @@
 <LM>w#w-ln94205-1-p7s2w18</LM>
 </w.rf>
 <form>Intel</form>
-<tag lemma="Intel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Intel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-1-p7s2w19">
 <src.rf>manual</src.rf>
@@ -2214,8 +2214,8 @@
 </w.rf>
 <form>ios</form>
 <tag>
-<AM lemma="ios-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ios-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ios-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ios-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p7s3w4">

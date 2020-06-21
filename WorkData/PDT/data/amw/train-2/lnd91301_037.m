@@ -86,10 +86,10 @@
 </w.rf>
 <form>BROLNu</form>
 <tag>
-<AM lemma="BROLN_:B_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Broln_:B_;K_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
-<AM lemma="Broln_:B_;K_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS3-----A----</AM>
-<AM lemma="Broln_:B_;K_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS6-----A----</AM>
+<AM lemma="BROLN_:B_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Broln_:B_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="Broln_:B_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS3-----A----</AM>
+<AM lemma="Broln_:B_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-037-p2s1w8">
@@ -220,7 +220,7 @@
 <LM>w#w-lnd91301-037-p2s2w12</LM>
 </w.rf>
 <form>Palackého</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-037-p2s2w13">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 </w.rf>
 <form>VÚM</form>
 <tag>
-<AM lemma="VÚM-1_:B_;K_^(Výzkumný_ústav_metalurgický)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VÚM-1_:B_;m_^(Výzkumný_ústav_metalurgický)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="VÚM-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="VÚM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -898,7 +898,7 @@
 </w.rf>
 <form>VÚM</form>
 <tag>
-<AM lemma="VÚM-1_:B_;K_^(Výzkumný_ústav_metalurgický)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VÚM-1_:B_;m_^(Výzkumný_ústav_metalurgický)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="VÚM-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="VÚM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

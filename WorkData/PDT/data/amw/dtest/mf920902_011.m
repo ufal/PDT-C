@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-011-p1s1Aw2</LM>
 </w.rf>
 <form>Vaculky</form>
-<tag lemma="Vaculka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vaculka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-011-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf920902-011-p1s1Aw4</LM>
 </w.rf>
 <form>Varga</form>
-<tag lemma="Varga_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Varga_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920902-011-p1s1B">
@@ -70,8 +70,8 @@
 </w.rf>
 <form>wil</form>
 <tag>
-<AM lemma="wil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="wil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="wil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-011-p1s1Bw4">
@@ -218,7 +218,7 @@
 <LM>w#w-mf920902-011-p1s1Cw16</LM>
 </w.rf>
 <form>Varga</form>
-<tag lemma="Varga_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Varga_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-011-p1s1Cw17">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-mf920902-011-p1s2w7</LM>
 </w.rf>
 <form>Vaculku</form>
-<tag lemma="Vaculka_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vaculka_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-011-p1s2w8">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-mf920902-011-p1s4w3</LM>
 </w.rf>
 <form>Varga</form>
-<tag lemma="Varga_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Varga_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-011-p1s4w4">
 <src.rf>manual</src.rf>

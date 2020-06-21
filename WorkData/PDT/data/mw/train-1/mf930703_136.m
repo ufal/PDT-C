@@ -427,7 +427,7 @@
 <LM>w#w-mf930703-136-p2s1w40</LM>
 </w.rf>
 <form>Minescu</form>
-<tag lemma="Minescu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Minescu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-136-p2s1w41">
 <src.rf>manual</src.rf>
@@ -1562,7 +1562,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-136-p4s1w13">
@@ -1579,7 +1579,7 @@
 <LM>w#w-mf930703-136-p4s1w14</LM>
 </w.rf>
 <form>Schneider</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schneider_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-136-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-mf930703-136-p4s2w11</LM>
 </w.rf>
 <form>Bělecký</form>
-<tag lemma="Bělecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bělecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-136-p4s2w12">
 <src.rf>manual</src.rf>

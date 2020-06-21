@@ -53,7 +53,7 @@
 <LM>w#w-mf920902-082-p4s3w3</LM>
 </w.rf>
 <form>Kastner</form>
-<tag lemma="Kastner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kastner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-082-p4s3w4">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-mf920902-082-p4s3w5</LM>
 </w.rf>
 <form>Kverka</form>
-<tag lemma="Kverka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kverka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-082-p4s3w6">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf920902-082-p4s3w7</LM>
 </w.rf>
 <form>Táborský</form>
-<tag lemma="Táborský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Táborský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-082-p4s3w8">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <form>Turek</form>
 <tag>
 <AM lemma="Turek_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Turek_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Turek_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-082-p4s3w10">
@@ -120,7 +120,7 @@
 <LM>w#w-mf920902-082-p4s3w11</LM>
 </w.rf>
 <form>Volák</form>
-<tag lemma="Volák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Volák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-082-p4s3w12">
 <src.rf>manual</src.rf>

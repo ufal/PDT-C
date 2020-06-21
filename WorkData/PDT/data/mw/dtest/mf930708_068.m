@@ -86,7 +86,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mý-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -286,7 +286,7 @@
 <LM>w#w-mf930708-068-p2s2w4</LM>
 </w.rf>
 <form>Knapkova</form>
-<tag lemma="Knapkův_;S_^(*3ek)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Knapkův_;Y_^(*3ek)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930708-068-p2s2w5">
 <src.rf>manual</src.rf>
@@ -671,9 +671,9 @@
 </w.rf>
 <form>Veleové</form>
 <tag>
-<AM lemma="Veleová_;S" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Vele_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Vele_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Veleová_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Vele_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Vele_;Y" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-068-p2s5w6">
@@ -714,7 +714,7 @@
 <LM>w#w-mf930708-068-p2s5w10</LM>
 </w.rf>
 <form>Knapkův</form>
-<tag lemma="Knapkův_;S_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Knapkův_;Y_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930708-068-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 </w.rf>
 <form>Sportfestspiele</form>
 <tag>
-<AM lemma="Sportfestspiele_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Sportfestspiele_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sportfestspiele-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1258,7 +1258,7 @@
 </w.rf>
 <form>der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

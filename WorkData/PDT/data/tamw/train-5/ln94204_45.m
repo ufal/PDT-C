@@ -455,7 +455,7 @@
 <LM>w#w-ln94204-45-p2s3w14</LM>
 </w.rf>
 <form>Tretera</form>
-<tag lemma="Tretera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tretera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-45-p2s3w15">
 <src.rf>manual</src.rf>
@@ -563,10 +563,10 @@
 </w.rf>
 <form>Hekra</form>
 <tag>
-<AM lemma="Hekra_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hekr_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Hekr_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hekra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hekra_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Hekr_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Hekr_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Hekra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-45-p2s4w12">
@@ -1199,7 +1199,7 @@
 <LM>w#w-ln94204-45-p2s9w10</LM>
 </w.rf>
 <form>Benziny</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-45-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1396,7 +1396,7 @@
 <LM>w#w-ln94204-45-p2s10w12</LM>
 </w.rf>
 <form>Tretera</form>
-<tag lemma="Tretera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tretera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-45-p2s10w13">
 <src.rf>manual</src.rf>

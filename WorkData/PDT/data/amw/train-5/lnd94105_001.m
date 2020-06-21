@@ -89,8 +89,8 @@
 </w.rf>
 <form>Ignatz</form>
 <tag>
-<AM lemma="Ignatz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ignatz_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ignatz_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ignatz_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-001-p1s1Bw7">
@@ -99,7 +99,7 @@
 <LM>w#w-lnd94105-001-p1s1Bw7</LM>
 </w.rf>
 <form>Bubis</form>
-<tag lemma="Bubis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bubis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -116,8 +116,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -154,7 +154,7 @@
 <LM>w#w-lnd94105-001-p1s1Dw2</LM>
 </w.rf>
 <form>Šmídová</form>
-<tag lemma="Šmídová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šmídová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Dw3">
 <src.rf>manual</src.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-lnd94105-001-p1s1Dw4</LM>
 </w.rf>
 <form>Kummerman</form>
-<tag lemma="Kummerman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kummerman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94105-001-p1s1E">
@@ -353,8 +353,8 @@
 <form_change>spell</form_change>
 <form>Ignatz</form>
 <tag>
-<AM lemma="Ignatz_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ignatz_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ignatz_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ignatz_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-001-p1s1Ew23">
@@ -363,7 +363,7 @@
 <LM>w#w-lnd94105-001-p1s1Ew23</LM>
 </w.rf>
 <form>Bubis</form>
-<tag lemma="Bubis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bubis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Ew24">
 <src.rf>manual</src.rf>
@@ -769,8 +769,8 @@
 </w.rf>
 <form>Ignatze</form>
 <tag>
-<AM lemma="Ignatz_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ignatz_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ignatz_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Ignatz_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-001-p1s6w3">
@@ -779,7 +779,7 @@
 <LM>w#w-lnd94105-001-p1s6w3</LM>
 </w.rf>
 <form>Bubise</form>
-<tag lemma="Bubis_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bubis_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s6w4">
 <src.rf>manual</src.rf>

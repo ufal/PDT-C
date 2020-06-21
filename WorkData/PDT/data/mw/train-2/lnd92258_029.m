@@ -59,7 +59,7 @@
 <LM>w#w-lnd92258-029-p1s1w6</LM>
 </w.rf>
 <form>ČECHY</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-029-p2s1">
@@ -127,7 +127,7 @@
 <LM>w#w-lnd92258-029-p3s1w5</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-029-p3s1w6">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd92258-029-p3s1w8</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92258-029-p3s1w9">
 <src.rf>manual</src.rf>
@@ -331,8 +331,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-029-p3s1w31">
@@ -617,7 +617,7 @@
 <LM>w#w-lnd92258-029-p4s1w7</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92258-029-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1874,7 +1874,7 @@
 <LM>w#w-lnd92258-029-p5s1w8</LM>
 </w.rf>
 <form>Šiklové</form>
-<tag lemma="Šiklová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Šiklová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-029-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2186,7 +2186,7 @@
 <tag>
 <AM lemma="YMCA_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="YMCA_:B_;K_,t_^(Young_Men`s_Christian_Association)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="YMCA_:B_;m_,t_^(Young_Men`s_Christian_Association)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="YMCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2271,8 +2271,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-029-p6s1w3">

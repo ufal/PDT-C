@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-108-p1s1w1</LM>
 </w.rf>
 <form>Herbacos</form>
-<tag lemma="Herbacos_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Herbacos_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-108-p1s1w2">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-ln95045-108-p2s1Bw23</LM>
 </w.rf>
 <form>Hroneše</form>
-<tag lemma="Hroneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hroneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-108-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-ln95045-108-p2s1Bw26</LM>
 </w.rf>
 <form>Herbacos</form>
-<tag lemma="Herbacos_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Herbacos_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-108-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-ln95045-108-p3s1w3</LM>
 </w.rf>
 <form>Herbacosu</form>
-<tag lemma="Herbacos_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Herbacos_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-108-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1242,7 +1242,7 @@
 <LM>w#w-ln95045-108-p3s4w10</LM>
 </w.rf>
 <form>Sochor</form>
-<tag lemma="Sochor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sochor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-108-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-ln95045-108-p3s4w12</LM>
 </w.rf>
 <form>Herbacosu</form>
-<tag lemma="Herbacos_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Herbacos_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-108-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln95045-108-p3s6w1</LM>
 </w.rf>
 <form>Herbacos</form>
-<tag lemma="Herbacos_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Herbacos_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-108-p3s6w2">
 <src.rf>manual</src.rf>
@@ -2009,7 +2009,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-108-p4s1w26">
@@ -2026,7 +2026,7 @@
 <LM>w#w-ln95045-108-p4s1w27</LM>
 </w.rf>
 <form>Hroneš</form>
-<tag lemma="Hroneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hroneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-108-p4s1w28">
 <src.rf>manual</src.rf>
@@ -2190,7 +2190,7 @@
 <LM>w#w-ln95045-108-p5s1w2</LM>
 </w.rf>
 <form>Herbacosu</form>
-<tag lemma="Herbacos_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Herbacos_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95045-108-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2433,7 +2433,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2734,7 +2734,7 @@
 </w.rf>
 <form>FRYMA</form>
 <tag>
-<AM lemma="FRYMA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FRYMA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FRYMA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

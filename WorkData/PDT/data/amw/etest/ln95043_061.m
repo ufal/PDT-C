@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-061-p1s1w2</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-061-p1s1w3">
 <src.rf>manual</src.rf>
@@ -52,9 +52,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-061-p1s1w6">
@@ -87,7 +87,7 @@
 <LM>w#w-ln95043-061-p1s1w9</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 </s>
 <s id="m-ln95043-061-p2s1">
@@ -261,7 +261,7 @@
 <LM>w#w-ln95043-061-p3s1Bw14</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95043-061-p3s1Bw15">
 <src.rf>manual</src.rf>
@@ -472,9 +472,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-061-p3s2w9">
@@ -531,7 +531,7 @@
 <LM>w#w-ln95043-061-p3s2w15</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-061-p3s2w16">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -706,7 +706,7 @@
 <LM>w#w-ln95043-061-p4s2w2</LM>
 </w.rf>
 <form>Uhdeho</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-061-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1123,8 +1123,8 @@
 </w.rf>
 <form>Perryho</form>
 <tag>
-<AM lemma="Perry_;S_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Perry_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Perry_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Perry_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-061-p4s4w9">
@@ -1181,7 +1181,7 @@
 <LM>w#w-ln95043-061-p4s4w15</LM>
 </w.rf>
 <form>Shalikashviliho</form>
-<tag lemma="Shalikashvili_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Shalikashvili_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-061-p4s4w16">
 <src.rf>manual</src.rf>
@@ -1384,7 +1384,7 @@
 <LM>w#w-ln95043-061-p4s4w40</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95043-061-p4s4w41">
 <src.rf>manual</src.rf>
@@ -1440,7 +1440,7 @@
 <LM>w#w-ln95043-061-p4s4w47</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-061-p4s4w48">
 <src.rf>manual</src.rf>
@@ -1836,7 +1836,7 @@
 <LM>w#w-ln95043-061-p5s1w1</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-061-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1901,8 +1901,8 @@
 </w.rf>
 <form>Christophera</form>
 <tag>
-<AM lemma="Christopher_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Christopher_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Christopher_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Christopher_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-061-p5s1w10">
@@ -1911,7 +1911,7 @@
 <LM>w#w-ln95043-061-p5s1w10</LM>
 </w.rf>
 <form>Smithe</form>
-<tag lemma="Smith_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smith_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-061-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-ln95043-061-p5s1w12</LM>
 </w.rf>
 <form>Klausovi</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95043-061-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2108,7 +2108,7 @@
 <LM>w#w-ln95043-061-p5s2w6</LM>
 </w.rf>
 <form>Smithe</form>
-<tag lemma="Smith_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smith_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-061-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2390,7 +2390,7 @@
 <LM>w#w-ln95043-061-p5s3w1</LM>
 </w.rf>
 <form>Smithovi</form>
-<tag lemma="Smith_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Smith_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95043-061-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2633,7 +2633,7 @@
 <LM>w#w-ln95043-061-p5s4w8</LM>
 </w.rf>
 <form>Smithe</form>
-<tag lemma="Smith_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smith_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-061-p5s4w9">
 <src.rf>manual</src.rf>
@@ -2729,7 +2729,7 @@
 <LM>w#w-ln95043-061-p5s4w20</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-061-p5s4w21">
 <src.rf>manual</src.rf>
@@ -2795,7 +2795,7 @@
 <LM>w#w-ln95043-061-p6s1w7</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-061-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2812,7 +2812,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2902,7 +2902,7 @@
 <LM>w#w-ln95043-061-p6s1w20</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95043-061-p6s1w21">
 <src.rf>manual</src.rf>
@@ -3242,7 +3242,7 @@
 <LM>w#w-ln95043-061-p6s3w20</LM>
 </w.rf>
 <form>Šuman</form>
-<tag lemma="Šuman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šuman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-061-p6s3w21">
 <src.rf>manual</src.rf>

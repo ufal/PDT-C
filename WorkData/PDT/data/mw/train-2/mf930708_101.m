@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-101-p1s1w2</LM>
 </w.rf>
 <form>Becherovka</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-101-p1s1w3">
 <src.rf>manual</src.rf>

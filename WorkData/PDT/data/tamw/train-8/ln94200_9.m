@@ -129,7 +129,7 @@
 <LM>w#w-ln94200-9-p2s1w11</LM>
 </w.rf>
 <form>Chabrola</form>
-<tag lemma="Chabrol_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chabrol_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-9-p2s1w12">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94200-9-p2s2w22</LM>
 </w.rf>
 <form>Francois</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-9-p2s2w23">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-9-p2s2w25">
@@ -539,7 +539,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-9-p2s2w28">
@@ -556,7 +556,7 @@
 <LM>w#w-ln94200-9-p2s2w29</LM>
 </w.rf>
 <form>Brialy</form>
-<tag lemma="Brialy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brialy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-9-p2s2w30">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln94200-9-p2s3w2</LM>
 </w.rf>
 <form>zk</form>
-<tag lemma="zk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="zk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-9-p2s3w3">
 <src.rf>manual</src.rf>
@@ -615,8 +615,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-9-p2s3w6">

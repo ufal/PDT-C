@@ -28,7 +28,7 @@
 </w.rf>
 <form>Lancaster</form>
 <tag>
-<AM lemma="Lancaster_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lancaster_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Lancaster-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -39,10 +39,10 @@
 </w.rf>
 <form>Colony</form>
 <tag>
-<AM lemma="Colon_;R" src="auto">NNIP1-----A----</AM>
-<AM lemma="Colon_;R" src="auto">NNIP4-----A----</AM>
-<AM lemma="Colon_;R" src="auto">NNIP5-----A----</AM>
-<AM lemma="Colon_;R" src="auto">NNIP7-----A----</AM>
+<AM lemma="Colon_;m" src="auto">NNIP1-----A----</AM>
+<AM lemma="Colon_;m" src="auto">NNIP4-----A----</AM>
+<AM lemma="Colon_;m" src="auto">NNIP5-----A----</AM>
+<AM lemma="Colon_;m" src="auto">NNIP7-----A----</AM>
 <AM lemma="Colona_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Colona_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Colona_;G" src="auto">NNFP5-----A----</AM>
@@ -109,8 +109,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -287,7 +287,7 @@
 <form>Reames</form>
 <tag>
 <AM lemma="Reames" src="auto">X@-------------</AM>
-<AM lemma="Reames_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Reames_;Y" src="manual">NNMS1-----A----</AM>
 <AM lemma="Reames-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -321,9 +321,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -379,9 +379,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -418,8 +418,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0076-001-p1s2W13-Ta">
@@ -430,8 +430,8 @@
 <form>Clive</form>
 <tag>
 <AM lemma="Cliv_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Clive_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Clive_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Clive_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Clive_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Clive-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -444,8 +444,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -597,7 +597,7 @@
 <LM>w#w-wsj0076-001-p1s2W27</LM>
 </w.rf>
 <form>Lancaster</form>
-<tag lemma="Lancaster_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Lancaster_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0076-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>

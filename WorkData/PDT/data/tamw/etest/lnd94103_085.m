@@ -2563,7 +2563,7 @@
 <LM>w#w-lnd94103-085-p1s18Aw11</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd94103-085-p1s18Aw12">
 <src.rf>manual</src.rf>
@@ -5428,7 +5428,7 @@
 <LM>w#w-lnd94103-085-p1s29w2</LM>
 </w.rf>
 <form>ŠKAMLOVÁ</form>
-<tag lemma="Škamlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škamlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

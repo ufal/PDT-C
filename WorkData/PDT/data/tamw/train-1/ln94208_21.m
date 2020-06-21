@@ -300,7 +300,7 @@
 <LM>w#w-ln94208-21-p2s2w8</LM>
 </w.rf>
 <form>Gračov</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-21-p2s2w9">
 <src.rf>manual</src.rf>

@@ -529,7 +529,7 @@
 <LM>w#w-mf930713-113-p2s4w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930713-113-p2s4w18">
 <src.rf>manual</src.rf>
@@ -3687,7 +3687,7 @@
 </w.rf>
 <form>MŽP</form>
 <tag>
-<AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŽP_:B_;m_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3780,7 +3780,7 @@
 </w.rf>
 <form>MŽP</form>
 <tag>
-<AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŽP_:B_;m_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MŽP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -78,7 +78,7 @@
 </w.rf>
 <form>OKI</form>
 <tag>
-<AM lemma="OKI_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OKI_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="OKI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -88,7 +88,7 @@
 <LM>w#w-cmpr9406-023-p2s1w6</LM>
 </w.rf>
 <form>OKIFAX</form>
-<tag lemma="Okifax_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Okifax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-023-p2s1w7">
 <src.rf>manual</src.rf>
@@ -97,8 +97,8 @@
 </w.rf>
 <form>OF</form>
 <tag>
-<AM lemma="OF-98_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OF_:B_;K_;p_^(Občanské_fórum)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="OF-98_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OF_:B_;m_^(Občanské_fórum)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="auto">RR--X----------</AM>
 <AM lemma="OF-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="OF-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -154,7 +154,7 @@
 <form>LED</form>
 <tag>
 <AM lemma="LED_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="LED_:B_,t_^(light_emitting_diode)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="led" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="led" src="auto">NNIS4-----A----</AM>
 <AM lemma="LED-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -202,7 +202,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p4s1w5">
@@ -1127,7 +1127,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p8s9Aw7">

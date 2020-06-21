@@ -827,7 +827,7 @@
 <LM>w#w-vesm9212-036-p2s4w14</LM>
 </w.rf>
 <form>Economovu</form>
-<tag lemma="Economův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Economův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9212-036-p2s4w15">
 <src.rf>manual</src.rf>
@@ -1207,7 +1207,7 @@
 <form>Experimental</form>
 <tag>
 <AM lemma="experimental_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Experimental-1_;K_,t_^(Experimental_Theatre_Club)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Experimental-1_;m_,t_^(Experimental_Theatre_Club)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Experimental-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1624,7 +1624,7 @@
 <LM>w#w-vesm9212-036-p3s1w2</LM>
 </w.rf>
 <form>Machala</form>
-<tag lemma="Machala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Machala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-036-p4s1">

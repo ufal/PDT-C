@@ -72,7 +72,7 @@
 </w.rf>
 <form>hoj</form>
 <tag>
-<AM lemma="hoj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hoj-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
@@ -291,7 +291,7 @@
 </w.rf>
 <form>ČSD</form>
 <tag>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -578,7 +578,7 @@
 </w.rf>
 <form>ČSD</form>
 <tag>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -633,7 +633,7 @@
 <form>Ivana</form>
 <tag>
 <AM lemma="Ivan_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ivan_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ivan_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-021-p3s5w13">

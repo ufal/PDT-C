@@ -494,7 +494,7 @@
 <LM>w#w-ln95047-089-p2s3w9</LM>
 </w.rf>
 <form>Sýkora</form>
-<tag lemma="Sýkora_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sýkora_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-089-p2s3w10">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-ln95047-089-p2s5w17</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-089-p2s5w18">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-lnd92256-055-p1s1w3</LM>
 </w.rf>
 <form>TAMARA</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-055-p1s1w4">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-lnd92256-055-p1s1w12</LM>
 </w.rf>
 <form>Tamaře</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92256-055-p1s1w13">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <form>Janíček</form>
 <tag>
 <AM lemma="Janíček_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Janíček_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Janíček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

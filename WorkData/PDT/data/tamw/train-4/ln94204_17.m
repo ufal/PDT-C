@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-17-p1s1w1</LM>
 </w.rf>
 <form>Crystalex</form>
-<tag lemma="Crystalex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Crystalex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-17-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln94204-17-p2s1Bw1</LM>
 </w.rf>
 <form>Crystalex</form>
-<tag lemma="Crystalex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Crystalex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-17-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-ln94204-17-p2s3w7</LM>
 </w.rf>
 <form>Basl</form>
-<tag lemma="Basl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-17-p2s3w8">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln94204-17-p3s1w8</LM>
 </w.rf>
 <form>Crystalex</form>
-<tag lemma="Crystalex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Crystalex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-17-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-ln94204-17-p4s1w1</LM>
 </w.rf>
 <form>Crystalex</form>
-<tag lemma="Crystalex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Crystalex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-17-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1557,7 +1557,7 @@
 <LM>w#w-ln94204-17-p4s3w22</LM>
 </w.rf>
 <form>Crystalex</form>
-<tag lemma="Crystalex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Crystalex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-17-p4s3w23">
 <src.rf>manual</src.rf>
@@ -1674,7 +1674,7 @@
 <LM>w#w-ln94204-17-p5s1w7</LM>
 </w.rf>
 <form>Basl</form>
-<tag lemma="Basl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-17-p5s1w8">
 <src.rf>manual</src.rf>

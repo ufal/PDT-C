@@ -157,7 +157,7 @@
 </w.rf>
 <form>Národná</form>
 <tag>
-<AM lemma="Národný_;R_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Národný_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="Národná-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -216,8 +216,8 @@
 </w.rf>
 <form>Matúš</form>
 <tag>
-<AM lemma="Matúš_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Matúš_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Matúš_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Matúš_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-072-p2s2w13">
@@ -226,7 +226,7 @@
 <LM>w#w-mf920925-072-p2s2w13</LM>
 </w.rf>
 <form>Kučera</form>
-<tag lemma="Kučera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kučera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-072-p2s2w14">
 <src.rf>manual</src.rf>
@@ -445,8 +445,8 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-072-p2s3w8">
@@ -472,7 +472,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -490,7 +490,7 @@
 <LM>w#w-mf920925-072-p2s3w12</LM>
 </w.rf>
 <form>Prokeš</form>
-<tag lemma="Prokeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-072-p2s3w13">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

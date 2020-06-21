@@ -62,8 +62,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p1s2w3">
@@ -370,7 +370,7 @@
 </w.rf>
 <form>LBD</form>
 <tag>
-<AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="LBD-1_:B_;m_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -607,7 +607,7 @@
 </w.rf>
 <form>LBD</form>
 <tag>
-<AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="LBD-1_:B_;m_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -753,7 +753,7 @@
 <LM>w#w-ln94201-65-p2s4w23</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94201-65-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 </w.rf>
 <form>SBD</form>
 <tag>
-<AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SBD_:B_;m_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1349,7 +1349,7 @@
 </w.rf>
 <form>SBD</form>
 <tag>
-<AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SBD_:B_;m_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1392,7 +1392,7 @@
 </w.rf>
 <form>SBD</form>
 <tag>
-<AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SBD_:B_;m_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1411,7 +1411,7 @@
 </w.rf>
 <form>LBD</form>
 <tag>
-<AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="LBD-1_:B_;m_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1538,7 +1538,7 @@
 </w.rf>
 <form>LBD</form>
 <tag>
-<AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="LBD-1_:B_;m_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1873,7 +1873,7 @@
 </w.rf>
 <form>LBD</form>
 <tag>
-<AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="LBD-1_:B_;m_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2030,7 +2030,7 @@
 <LM>w#w-ln94201-65-p5s1w7</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94201-65-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2435,7 +2435,7 @@
 </w.rf>
 <form>LBD</form>
 <tag>
-<AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="LBD-1_:B_;m_^(Lidové_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="LBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3026,7 +3026,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-65-p7s1w4">
@@ -3043,7 +3043,7 @@
 <LM>w#w-ln94201-65-p7s1w5</LM>
 </w.rf>
 <form>Halámka</form>
-<tag lemma="Halámek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Halámek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-65-p7s1w6">
 <src.rf>manual</src.rf>

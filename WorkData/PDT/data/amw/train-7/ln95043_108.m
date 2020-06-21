@@ -176,7 +176,7 @@
 </w.rf>
 <form>MARK</form>
 <tag>
-<AM lemma="MARK_:B_;K_^(reklamní_agentura)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MARK_:B_;m_^(reklamní_agentura)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="MARK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -196,7 +196,7 @@
 </w.rf>
 <form>BBDO</form>
 <tag>
-<AM lemma="BBDO_:B_;K_^(reklamní_agentura)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="BBDO_:B_;m_^(reklamní_agentura)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="BBDO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

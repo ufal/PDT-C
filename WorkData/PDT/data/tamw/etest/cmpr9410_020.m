@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9410-020-p3s1w5</LM>
 </w.rf>
 <form>Staška</form>
-<tag lemma="Stašek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stašek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w6">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-cmpr9410-020-p3s1w20</LM>
 </w.rf>
 <form>Olfen</form>
-<tag lemma="Olfen_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olfen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w21">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-cmpr9410-020-p3s1w24</LM>
 </w.rf>
 <form>Olfen</form>
-<tag lemma="Olfen_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olfen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w25">
 <src.rf>manual</src.rf>
@@ -278,8 +278,8 @@
 </w.rf>
 <form>Mepha</form>
 <tag>
-<AM lemma="Mepha_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Mepha_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mepha_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Mepha_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w33">
@@ -657,7 +657,7 @@
 <LM>w#w-cmpr9410-020-p3s3w16</LM>
 </w.rf>
 <form>Olfen</form>
-<tag lemma="Olfen_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olfen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-020-p3s3w17">
 <src.rf>manual</src.rf>

@@ -70,9 +70,9 @@
 </w.rf>
 <form>sch</form>
 <tag>
-<AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-080-p2s1w5">
@@ -131,7 +131,7 @@
 <LM>w#w-mf920925-080-p2s2w5</LM>
 </w.rf>
 <form>Tavrija</form>
-<tag lemma="Tavrija_;R_^(značka_automobilu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tavrija_;m_^(značka_automobilu)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-080-p2s2w6">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-mf920925-080-p2s2w12</LM>
 </w.rf>
 <form>Bouma</form>
-<tag lemma="Bouma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bouma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-080-p2s2w13">
 <src.rf>manual</src.rf>
@@ -260,8 +260,8 @@
 </w.rf>
 <form>Tusakko</form>
 <tag>
-<AM lemma="Tusakko_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tusakko_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tusakko_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tusakko_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-080-p2s3w6">
@@ -621,8 +621,8 @@
 </w.rf>
 <form>Tusakko</form>
 <tag>
-<AM lemma="Tusakko_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tusakko_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tusakko_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tusakko_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-080-p2s6w10">
@@ -796,7 +796,7 @@
 <LM>w#w-mf920925-080-p3s1Aw17</LM>
 </w.rf>
 <form>Kopecký</form>
-<tag lemma="Kopecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kopecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-080-p3s1Aw18">
 <src.rf>manual</src.rf>

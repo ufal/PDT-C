@@ -82,7 +82,7 @@
 <form>tma</form>
 <tag>
 <AM lemma="tma" src="orig">NNFS1-----A----</AM>
-<AM lemma="tma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tma-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-025-p2s1w4">
@@ -421,7 +421,7 @@
 <LM>w#w-mf930702-025-p2s3w10</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-025-p2s3w11">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-mf930702-025-p2s4w9</LM>
 </w.rf>
 <form>Petrové</form>
-<tag lemma="Petrová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Petrová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-025-p2s4w10">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-mf930702-025-p2s6w8</LM>
 </w.rf>
 <form>Liznera</form>
-<tag lemma="Lizner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lizner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-025-p2s6w9">
 <src.rf>manual</src.rf>

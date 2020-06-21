@@ -303,7 +303,7 @@
 <LM>w#w-ln94206-13-p2s3w3</LM>
 </w.rf>
 <form>Gradua</form>
-<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gradua_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-13-p2s3w4">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-ln94206-13-p2s3w12</LM>
 </w.rf>
 <form>Klánova</form>
-<tag lemma="Klánův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Klánův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94206-13-p2s3w13">
 <src.rf>manual</src.rf>
@@ -630,9 +630,9 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="A-33" src="manual">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p3s1w7">
@@ -650,7 +650,7 @@
 </w.rf>
 <form>Consult</form>
 <tag>
-<AM lemma="Consult_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Consult_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Consult-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1027,8 +1027,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p3s2w10">
@@ -1046,7 +1046,7 @@
 </w.rf>
 <form>Consult</form>
 <tag>
-<AM lemma="Consult_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Consult_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Consult-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1231,7 +1231,7 @@
 <LM>w#w-ln94206-13-p3s4w3</LM>
 </w.rf>
 <form>Gradua</form>
-<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gradua_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-13-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1501,7 +1501,7 @@
 </w.rf>
 <form>TMI</form>
 <tag>
-<AM lemma="TMI_:B_;K_^(eletrárna_Three_Mile_Island)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="TMI_:B_;m_^(eletrárna_Three_Mile_Island)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="TMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1868,7 +1868,7 @@
 </w.rf>
 <form>TMI</form>
 <tag>
-<AM lemma="TMI_:B_;K_^(eletrárna_Three_Mile_Island)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="TMI_:B_;m_^(eletrárna_Three_Mile_Island)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="TMI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1934,7 +1934,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p4s4w11">
@@ -1953,7 +1953,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p4s4w13">
@@ -1970,7 +1970,7 @@
 <LM>w#w-ln94206-13-p4s4w14</LM>
 </w.rf>
 <form>Čkalova</form>
-<tag lemma="Čkalov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čkalov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-13-p4s4w15">
 <src.rf>manual</src.rf>

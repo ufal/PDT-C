@@ -20,7 +20,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -251,7 +251,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -80,9 +80,9 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="jab-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jab_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="jab_,t" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-015-p3s1w4">
@@ -795,7 +795,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-015-p3s5w35">
@@ -812,7 +812,7 @@
 <LM>w#w-lnd92257-015-p3s5w36</LM>
 </w.rf>
 <form>Dunovský</form>
-<tag lemma="Dunovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dunovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-015-p3s5w37">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-015-p3s11w17">
@@ -1483,7 +1483,7 @@
 <LM>w#w-lnd92257-015-p3s11w18</LM>
 </w.rf>
 <form>Dunovský</form>
-<tag lemma="Dunovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dunovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-015-p3s11w19">
 <src.rf>manual</src.rf>

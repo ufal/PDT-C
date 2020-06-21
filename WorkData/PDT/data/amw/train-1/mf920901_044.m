@@ -122,7 +122,7 @@
 <LM>w#w-mf920901-044-p2s2w8</LM>
 </w.rf>
 <form>Ventury</form>
-<tag lemma="Ventura_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ventura_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-044-p2s2w9">
 <src.rf>manual</src.rf>

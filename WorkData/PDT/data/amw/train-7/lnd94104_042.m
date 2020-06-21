@@ -136,7 +136,7 @@
 <LM>w#w-lnd94104-042-p1s2w3</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-042-p1s2w4">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-lnd94104-042-p1s2w5</LM>
 </w.rf>
 <form>il</form>
-<tag lemma="il-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="il-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-042-p1s2w6">
 <src.rf>manual</src.rf>

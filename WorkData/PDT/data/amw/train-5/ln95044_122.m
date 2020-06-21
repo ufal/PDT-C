@@ -289,7 +289,7 @@
 <LM>w#w-ln95044-122-p2s2w1</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95044-122-p2s2w2">
 <src.rf>manual</src.rf>
@@ -346,8 +346,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-122-p2s2w9">
@@ -373,10 +373,10 @@
 </w.rf>
 <form>Hercules</form>
 <tag>
-<AM lemma="Herkules-2_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Herkules-1_;S" src="auto">NNMS1-----A---1</AM>
+<AM lemma="Herkules-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Herkules-1_;Y" src="auto">NNMS1-----A---1</AM>
 <AM lemma="Herkules-3_;G" src="auto" recommended="1">NNIS1-----A---1</AM>
-<AM lemma="Hercules-1_;G_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hercules-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-122-p2s2w12">
@@ -450,7 +450,7 @@
 </w.rf>
 <form>Mi</form>
 <tag>
-<AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MI_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
 <AM lemma="Mi-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -585,8 +585,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-122-p3s1w10">
@@ -627,7 +627,7 @@
 <LM>w#w-ln95044-122-p3s1w14</LM>
 </w.rf>
 <form>Šnobl</form>
-<tag lemma="Šnobl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šnobl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-122-p3s1w15">
 <src.rf>manual</src.rf>

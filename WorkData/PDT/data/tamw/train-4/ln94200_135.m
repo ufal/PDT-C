@@ -70,8 +70,8 @@
 </w.rf>
 <form>Kakafonia</form>
 <tag>
-<AM lemma="Kakafonia_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kakafonia_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kakafonia_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Kakafonia_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-135-p2s1w3">
@@ -423,7 +423,7 @@
 <LM>w#w-ln94200-135-p3s1w10</LM>
 </w.rf>
 <form>Špály</form>
-<tag lemma="Špála_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Špála_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-135-p3s1w11">
 <src.rf>manual</src.rf>

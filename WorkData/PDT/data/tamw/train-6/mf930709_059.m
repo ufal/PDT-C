@@ -185,7 +185,7 @@
 <LM>w#w-mf930709-059-p2s1w18</LM>
 </w.rf>
 <form>Breton</form>
-<tag lemma="Breton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Breton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-059-p2s1w19">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <form>Pavel</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pavel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-059-p2s2w2">
@@ -214,7 +214,7 @@
 <LM>w#w-mf930709-059-p2s2w2</LM>
 </w.rf>
 <form>Řezníček</form>
-<tag lemma="Řezníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Řezníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-059-p2s2w3">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-mf930709-059-p2s2w9</LM>
 </w.rf>
 <form>Pragma</form>
-<tag lemma="Pragma_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pragma_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-059-p2s2w10">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-mf930709-059-p2s5w8</LM>
 </w.rf>
 <form>Řezníček</form>
-<tag lemma="Řezníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Řezníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-059-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 <LM>w#w-mf930709-059-p2s12w1</LM>
 </w.rf>
 <form>Řezníčkův</form>
-<tag lemma="Řezníčkův_;S_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Řezníčkův_;Y_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930709-059-p2s12w2">
 <src.rf>manual</src.rf>

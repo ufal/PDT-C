@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-142-p1s1w1</LM>
 </w.rf>
 <form>Šubert</form>
-<tag lemma="Šubert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-142-p1s1w2">
 <src.rf>manual</src.rf>
@@ -213,8 +213,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-142-p2s2w2">
@@ -354,7 +354,7 @@
 <LM>w#w-ln95048-142-p2s2w18</LM>
 </w.rf>
 <form>Šubert</form>
-<tag lemma="Šubert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-142-p2s2w19">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln95048-142-p2s4w24</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-142-p2s4w25">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-ln95048-142-p2s5w32</LM>
 </w.rf>
 <form>Šubert</form>
-<tag lemma="Šubert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-142-p2s5w33">
 <src.rf>manual</src.rf>

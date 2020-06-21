@@ -3527,7 +3527,7 @@
 <LM>w#w-lnd92252-059-p7s1w2</LM>
 </w.rf>
 <form>JELÍNEK</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-059-p7s1w3">
 <src.rf>manual</src.rf>

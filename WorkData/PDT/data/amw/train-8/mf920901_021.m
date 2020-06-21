@@ -51,7 +51,7 @@
 <LM>w#w-mf920901-021-p1s1w5</LM>
 </w.rf>
 <form>MACKA</form>
-<tag lemma="Macko_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Macko_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-021-p1s1w6">
 <src.rf>manual</src.rf>
@@ -118,7 +118,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -136,7 +136,7 @@
 <LM>w#w-mf920901-021-p3s1w4</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-021-p3s1w5">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-mf920901-021-p3s1w23</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-021-p3s1w24">
 <src.rf>manual</src.rf>
@@ -513,8 +513,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-021-p3s2w11">
@@ -728,7 +728,7 @@
 <LM>w#w-mf920901-021-p3s3w6</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-021-p3s3w7">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-mf920901-021-p4s1w7</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-021-p4s1w8">
 <src.rf>manual</src.rf>
@@ -859,8 +859,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-021-p4s1w15">
@@ -917,7 +917,7 @@
 <LM>w#w-mf920901-021-p4s1w21</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-021-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-mf920901-021-p4s2w23</LM>
 </w.rf>
 <form>Rumlově</form>
-<tag lemma="Rumlův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Rumlův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf920901-021-p4s2w24">
 <src.rf>manual</src.rf>

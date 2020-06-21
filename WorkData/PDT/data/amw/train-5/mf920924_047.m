@@ -126,7 +126,7 @@
 </w.rf>
 <form>Nuclear</form>
 <tag>
-<AM lemma="Nuclear_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nuclear_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Nuclear-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -137,7 +137,7 @@
 </w.rf>
 <form>Blast</form>
 <tag>
-<AM lemma="Blast_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Blast_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Blast-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -148,7 +148,7 @@
 </w.rf>
 <form>Records</form>
 <tag>
-<AM lemma="Record_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Record_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Record-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -272,7 +272,7 @@
 </w.rf>
 <form>INCUBUS</form>
 <tag>
-<AM lemma="Incubus_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Incubus_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Incubus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -366,7 +366,7 @@
 </w.rf>
 <form>Incubus</form>
 <tag>
-<AM lemma="Incubus_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Incubus_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Incubus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -538,7 +538,7 @@
 <form>grindcore</form>
 <tag>
 <AM lemma="grindcore_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="grindcore_;u_,l_,t_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
+<AM lemma="grindcore_,l_,t_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s2w24">
@@ -673,7 +673,7 @@
 </w.rf>
 <form>Incubus</form>
 <tag>
-<AM lemma="Incubus_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Incubus_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Incubus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1012,7 +1012,7 @@
 <LM>w#w-mf920924-047-p2s6w10</LM>
 </w.rf>
 <form>Howardové</form>
-<tag lemma="Howard_;S" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Howard_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-047-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1039,8 +1039,8 @@
 </w.rf>
 <form>Moyses</form>
 <tag>
-<AM lemma="Moyses_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Moyses_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Moyses_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Moyses_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s7w2">
@@ -1256,7 +1256,7 @@
 <form>grindcore</form>
 <tag>
 <AM lemma="grindcore_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="grindcore_;u_,l_,t_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
+<AM lemma="grindcore_,l_,t_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s8w6">
@@ -1998,7 +1998,7 @@
 <form>Burial</form>
 <tag>
 <AM lemma="burial_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Burial_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Burial_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Burial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2109,7 +2109,7 @@
 <LM>w#w-mf920924-047-p2s15w5</LM>
 </w.rf>
 <form>Howardové</form>
-<tag lemma="Howard_;S" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Howard_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-047-p2s15w6">
 <src.rf>manual</src.rf>

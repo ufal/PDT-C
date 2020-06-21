@@ -109,7 +109,7 @@
 <LM>w#w-lnd91303-036-p2s1w10</LM>
 </w.rf>
 <form>Supraphonu</form>
-<tag lemma="Supraphon_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Supraphon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91303-036-p2s1w11">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-lnd91303-036-p2s1w12</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd91303-036-p2s1w13">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-lnd91303-036-p2s2w9</LM>
 </w.rf>
 <form>Radnické</form>
-<tag lemma="Radnická_;S" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Radnická_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91303-036-p2s2w10">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -561,7 +561,7 @@
 </w.rf>
 <form>ATS</form>
 <tag>
-<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS_:B_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ATS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -807,7 +807,7 @@
 <LM>w#w-lnd91303-036-p2s5w15</LM>
 </w.rf>
 <form>Jírově</form>
-<tag lemma="Jírův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Jírův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd91303-036-p2s5w16">
 <src.rf>manual</src.rf>
@@ -848,8 +848,8 @@
 </w.rf>
 <form>MHD</form>
 <tag>
-<AM lemma="MHD_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MHD_:B" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="MHD_:B_;m" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MHD_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MHD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1072,7 +1072,7 @@
 </w.rf>
 <form>VAMOS</form>
 <tag>
-<AM lemma="VAMOS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VAMOS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VAMOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

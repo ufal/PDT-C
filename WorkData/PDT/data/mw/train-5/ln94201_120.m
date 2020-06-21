@@ -21,10 +21,10 @@
 <form>Nissan</form>
 <tag>
 <AM lemma="Nissan-3_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nissan_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Nissan_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="nissan_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="nissan_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Nissan_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Nissan_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="nissan_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="nissan_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nissan-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -36,7 +36,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-120-p1s1w3">
@@ -53,7 +53,7 @@
 <LM>w#w-ln94201-120-p1s1w4</LM>
 </w.rf>
 <form>Perez</form>
-<tag lemma="Perez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-120-p1s1w5">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <form>Ben</form>
 <tag>
 <AM lemma="Ben-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ben-2_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ben-2_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-120-p1s1w16">
@@ -152,7 +152,7 @@
 <LM>w#w-ln94201-120-p1s1w16</LM>
 </w.rf>
 <form>Yaakovové</form>
-<tag lemma="Yaakovová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Yaakovová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-120-p1s1w17">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-ln94201-120-p1s1w19</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-120-p1s1w20">
 <src.rf>manual</src.rf>
@@ -193,8 +193,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

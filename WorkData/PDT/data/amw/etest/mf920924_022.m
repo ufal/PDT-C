@@ -44,7 +44,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -73,7 +73,7 @@
 </w.rf>
 <form>kor</form>
 <tag>
-<AM lemma="kor-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="kor-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="kora_,a" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -145,7 +145,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

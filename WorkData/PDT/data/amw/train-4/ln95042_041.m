@@ -20,7 +20,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -202,7 +202,7 @@
 <LM>w#w-ln95042-041-p2s1Bw15</LM>
 </w.rf>
 <form>Nováka</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-041-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-ln95042-041-p2s1Bw24</LM>
 </w.rf>
 <form>Leška</form>
-<tag lemma="Leška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-041-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-ln95042-041-p2s1Bw27</LM>
 </w.rf>
 <form>Pelta</form>
-<tag lemma="Pelta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-041-p2s1Bw28">
 <src.rf>manual</src.rf>

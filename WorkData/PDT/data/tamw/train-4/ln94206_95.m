@@ -27,7 +27,7 @@
 <LM>w#w-ln94206-95-p1s1w2</LM>
 </w.rf>
 <form>Golem</form>
-<tag lemma="Golem_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Golem_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s1w3">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-ln94206-95-p1s1w14</LM>
 </w.rf>
 <form>Kinských</form>
-<tag lemma="Kinský_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kinský_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s1w15">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-ln94206-95-p1s3w6</LM>
 </w.rf>
 <form>Kohn</form>
-<tag lemma="Kohn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s3w7">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-ln94206-95-p1s3w9</LM>
 </w.rf>
 <form>Orlik</form>
-<tag lemma="Orlik-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Orlik-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s3w10">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-ln94206-95-p1s3w12</LM>
 </w.rf>
 <form>Minařík</form>
-<tag lemma="Minařík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Minařík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s3w13">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-ln94206-95-p1s4w3</LM>
 </w.rf>
 <form>Maislovu</form>
-<tag lemma="Maislův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Maislův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94206-95-p1s4w4">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-ln94206-95-p1s4w12</LM>
 </w.rf>
 <form>Kohna</form>
-<tag lemma="Kohn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kohn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s4w13">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-ln94206-95-p1s5w27</LM>
 </w.rf>
 <form>Kinských</form>
-<tag lemma="Kinský_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kinský_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s5w28">
 <src.rf>manual</src.rf>
@@ -1221,9 +1221,9 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="lin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lin-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-95-p1s6Aw3">

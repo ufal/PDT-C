@@ -4180,7 +4180,7 @@
 <LM>w#w-cmpr9410-017-p15s1w2</LM>
 </w.rf>
 <form>Holub</form>
-<tag lemma="Holub_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holub_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p15s1w3">
 <src.rf>manual</src.rf>
@@ -4205,7 +4205,7 @@
 </w.rf>
 <form>MSF</form>
 <tag>
-<AM lemma="MSF_:B_;K_^(Manažerský_svazový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MSF_:B_;m_^(Manažerský_svazový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MSF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

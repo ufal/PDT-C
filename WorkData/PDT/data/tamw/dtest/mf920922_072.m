@@ -69,7 +69,7 @@
 <LM>w#w-mf920922-072-p2s1w5</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-072-p2s1w6">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <form>Dragon</form>
 <tag>
 <AM lemma="Dragona_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Dragon_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Dragon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-072-p2s1w8">
@@ -192,7 +192,7 @@
 <LM>w#w-mf920922-072-p2s1w20</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-072-p2s1w21">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-mf920922-072-p2s2w8</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf920922-072-p2s2w9">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <form>Dragon</form>
 <tag>
 <AM lemma="Dragona_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Dragon_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Dragon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-072-p2s3w6">
@@ -609,7 +609,7 @@
 <form>b</form>
 <tag>
 <AM lemma="bod_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="bod" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
@@ -732,7 +732,7 @@
 <LM>w#w-mf920922-072-p2s3w22</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-072-p2s3w23">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-mf920922-072-p2s3w42</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-072-p2s3w43">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-mf920922-072-p2s3w47</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf920922-072-p2s3w48">
 <src.rf>manual</src.rf>

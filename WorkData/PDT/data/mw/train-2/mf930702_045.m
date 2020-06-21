@@ -141,7 +141,7 @@
 <LM>w#w-mf930702-045-p2s1w9</LM>
 </w.rf>
 <form>Chytilová</form>
-<tag lemma="Chytilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chytilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-045-p2s1w10">
 <src.rf>manual</src.rf>

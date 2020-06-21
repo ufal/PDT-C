@@ -69,7 +69,7 @@
 <LM>w#w-ln95045-045-p2s1w2</LM>
 </w.rf>
 <form>Montanaro</form>
-<tag lemma="Montanaro_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Montanaro_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-045-p2s1w3">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-ln95045-045-p2s1w7</LM>
 </w.rf>
 <form>Montanarem</form>
-<tag lemma="Montanaro_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Montanaro_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95045-045-p2s1w8">
 <src.rf>manual</src.rf>
@@ -353,9 +353,9 @@
 <form>Patricia</form>
 <tag>
 <AM lemma="Patricia_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Patricius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Patricius_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Patricia_;Y_,t" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Patricius_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Patricius_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Patricia_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="patricius" src="auto">NNMS2-----A----</AM>
 <AM lemma="patricius" src="auto">NNMS4-----A----</AM>
 <AM lemma="Patricia-77" src="manual" selected="1">F%-------------</AM>
@@ -368,7 +368,7 @@
 </w.rf>
 <form>London</form>
 <tag>
-<AM lemma="London_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="London_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="London-2_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="London-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -392,10 +392,10 @@
 <form>Paris</form>
 <tag>
 <AM lemma="Paris_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Paris-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paris-2_;G" src="auto">NNFSX-----A----</AM>
-<AM lemma="Paris-3_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Paris_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Paris-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-2_;G" src="auto">NNFXX-----A----</AM>
+<AM lemma="Paris-3_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Paris_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Paris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -559,7 +559,7 @@
 <LM>w#w-ln95045-045-p4s1w3</LM>
 </w.rf>
 <form>Viklického</form>
-<tag lemma="Viklický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Viklický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-045-p4s1w4">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 </w.rf>
 <form>Jazz</form>
 <tag>
-<AM lemma="Jazz_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Jazz_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="jazz" src="manual">NNIS1-----A----</AM>
 <AM lemma="jazz-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>

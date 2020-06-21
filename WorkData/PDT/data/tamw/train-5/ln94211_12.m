@@ -35,7 +35,7 @@
 <LM>w#w-ln94211-12-p1s1w3</LM>
 </w.rf>
 <form>Četransu</form>
-<tag lemma="Četrans_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Četrans_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-12-p2s1A">
@@ -119,7 +119,7 @@
 <LM>w#w-ln94211-12-p2s1Bw6</LM>
 </w.rf>
 <form>Četrans</form>
-<tag lemma="Četrans_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Četrans_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-12-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-ln94211-12-p2s2w7</LM>
 </w.rf>
 <form>Dohnal</form>
-<tag lemma="Dohnal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dohnal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-12-p2s2w8">
 <src.rf>manual</src.rf>
@@ -322,8 +322,8 @@
 </w.rf>
 <form>DAF</form>
 <tag>
-<AM lemma="DAF-1_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="DAF_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="DAF-1_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -382,8 +382,8 @@
 </w.rf>
 <form>Stayer</form>
 <tag>
-<AM lemma="Stayer_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Stayer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stayer_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stayer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-12-p2s2w29">
@@ -402,7 +402,7 @@
 <LM>w#w-ln94211-12-p3s1w1</LM>
 </w.rf>
 <form>Četrans</form>
-<tag lemma="Četrans_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Četrans_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-12-p3s1w2">
 <src.rf>manual</src.rf>
@@ -871,8 +871,8 @@
 </w.rf>
 <form>DAF</form>
 <tag>
-<AM lemma="DAF-1_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="DAF_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="DAF-1_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="DAF_:B_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="DAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -891,8 +891,8 @@
 </w.rf>
 <form>Stayer</form>
 <tag>
-<AM lemma="Stayer_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Stayer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stayer_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stayer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-12-p3s4w5">
@@ -917,7 +917,7 @@
 <LM>w#w-ln94211-12-p3s4w7</LM>
 </w.rf>
 <form>Četrans</form>
-<tag lemma="Četrans_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Četrans_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-12-p3s4w8">
 <src.rf>manual</src.rf>

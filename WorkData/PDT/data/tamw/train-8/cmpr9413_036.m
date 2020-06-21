@@ -544,7 +544,7 @@
 </w.rf>
 <form>Dáreček</form>
 <tag>
-<AM lemma="Dáreček_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dáreček_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="dáreček" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="dáreček" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2407,7 +2407,7 @@
 </w.rf>
 <form>Ospalec</form>
 <tag>
-<AM lemma="Ospalec_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ospalec_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="ospalec" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3984,7 +3984,7 @@
 </w.rf>
 <form>Smolař</form>
 <tag>
-<AM lemma="Smolař_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Smolař_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="smolař" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -5283,7 +5283,7 @@
 </w.rf>
 <form>Upřímný</form>
 <tag>
-<AM lemma="Upřímný_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Upřímný_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="upřímný" src="auto">AAFP1----1A---6</AM>
 <AM lemma="upřímný" src="auto">AAFP4----1A---6</AM>
 <AM lemma="upřímný" src="auto">AAFP5----1A---6</AM>
@@ -5774,7 +5774,7 @@
 </w.rf>
 <form>Blábolivé</form>
 <tag>
-<AM lemma="Blábolivá_;S" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Blábolivá_;Y" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="blábolivý" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="blábolivý" src="auto">AAFP4----1A----</AM>
 <AM lemma="blábolivý" src="auto">AAFP5----1A----</AM>
@@ -5824,7 +5824,7 @@
 </w.rf>
 <form>Chytrou</form>
 <tag>
-<AM lemma="Chytrá_;S_^(*1ý)" src="auto">NNFS7-----A----</AM>
+<AM lemma="Chytrá_;Y_^(*1ý)" src="auto">NNFS7-----A----</AM>
 <AM lemma="Chytrá_;G_^(*1ý)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -5860,7 +5860,7 @@
 <LM>w#w-cmpr9413-036-p20s1w3</LM>
 </w.rf>
 <form>Všeodpovědna</form>
-<tag lemma="Všeodpovědna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Všeodpovědna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-036-p20s1w4">
 <src.rf>manual</src.rf>
@@ -5949,7 +5949,7 @@
 </w.rf>
 <form>Chytrou</form>
 <tag>
-<AM lemma="Chytrá_;S_^(*1ý)" src="auto">NNFS7-----A----</AM>
+<AM lemma="Chytrá_;Y_^(*1ý)" src="auto">NNFS7-----A----</AM>
 <AM lemma="Chytrá_;G_^(*1ý)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>

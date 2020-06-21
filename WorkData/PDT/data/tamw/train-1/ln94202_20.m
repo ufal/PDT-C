@@ -497,7 +497,7 @@
 <LM>w#w-ln94202-20-p2s2w18</LM>
 </w.rf>
 <form>Černomyrdinovy</form>
-<tag lemma="Černomyrdinův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Černomyrdinův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94202-20-p2s2w19">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln94202-20-p2s2w36</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-20-p2s2w37">
 <src.rf>manual</src.rf>
@@ -2106,7 +2106,7 @@
 <LM>w#w-ln94202-20-p4s4w19</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-20-p4s4w20">
 <src.rf>manual</src.rf>
@@ -2379,7 +2379,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2787,7 +2787,7 @@
 <LM>w#w-ln94202-20-p6s1w2</LM>
 </w.rf>
 <form>Černomyrdin</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-20-p6s1w3">
 <src.rf>manual</src.rf>
@@ -3705,7 +3705,7 @@
 <LM>w#w-ln94202-20-p7s2w31</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-20-p7s2w32">
 <src.rf>manual</src.rf>
@@ -4307,7 +4307,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-20-p8s1w2">
@@ -4324,7 +4324,7 @@
 <LM>w#w-ln94202-20-p8s1w3</LM>
 </w.rf>
 <form>Černomyrdin</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-20-p8s1w4">
 <src.rf>manual</src.rf>
@@ -5022,7 +5022,7 @@
 <LM>w#w-ln94202-20-p9s2w12</LM>
 </w.rf>
 <form>Černomyrdinově</form>
-<tag lemma="Černomyrdinův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Černomyrdinův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln94202-20-p9s2w13">
 <src.rf>manual</src.rf>
@@ -5528,7 +5528,7 @@
 <LM>w#w-ln94202-20-p9s4w2</LM>
 </w.rf>
 <form>pb</form>
-<tag lemma="pb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="pb-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-20-p9s4w3">
 <src.rf>manual</src.rf>

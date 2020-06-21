@@ -192,8 +192,8 @@
 </w.rf>
 <form>VČE</form>
 <tag>
-<AM lemma="VČE_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VČE_:B_;K_^(Východočeské_elektrárny)" src="auto" recommended="1">NNFPX-----A---8</AM>
+<AM lemma="VČE_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VČE_:B_;m_^(Východočeské_elektrárny)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="VČE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -449,7 +449,7 @@
 <form>Kačer</form>
 <tag>
 <AM lemma="kačer" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kačer_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kačer_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1243,7 +1243,7 @@
 <LM>w#w-cmpr9406-063-p9s2w26</LM>
 </w.rf>
 <form>Heligr</form>
-<tag lemma="Heligr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Heligr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-063-p9s2w27">
 <src.rf>manual</src.rf>
@@ -1378,9 +1378,9 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-063-p11s2w7">
@@ -1844,8 +1844,8 @@
 </w.rf>
 <form>VČE</form>
 <tag>
-<AM lemma="VČE_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VČE_:B_;K_^(Východočeské_elektrárny)" src="auto" recommended="1">NNFPX-----A---8</AM>
+<AM lemma="VČE_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VČE_:B_;m_^(Východočeské_elektrárny)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="VČE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1865,7 +1865,7 @@
 <form>Jehlička</form>
 <tag>
 <AM lemma="jehlička" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jehlička_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jehlička_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-063-p12s1w22">
@@ -3298,7 +3298,7 @@
 <LM>w#w-cmpr9406-063-p16s3w18</LM>
 </w.rf>
 <form>Heligr</form>
-<tag lemma="Heligr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Heligr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-063-p16s3w19">
 <src.rf>manual</src.rf>
@@ -4888,7 +4888,7 @@
 <LM>w#w-cmpr9406-063-p21s1w11</LM>
 </w.rf>
 <form>Sladkovského</form>
-<tag lemma="Sladkovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sladkovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-063-p21s1w12">
 <src.rf>manual</src.rf>

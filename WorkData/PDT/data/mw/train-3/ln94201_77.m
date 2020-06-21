@@ -53,7 +53,7 @@
 <LM>w#w-ln94201-77-p2s1w2</LM>
 </w.rf>
 <form>Baresi</form>
-<tag lemma="Baresi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baresi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-77-p2s1w3">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

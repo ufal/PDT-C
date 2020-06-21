@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-035-p1s1w2</LM>
 </w.rf>
 <form>Lébl</form>
-<tag lemma="Lébl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lébl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-035-p1s1w3">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <LM>w#w-ln95048-035-p1s1w24</LM>
 </w.rf>
 <form>DOPRAPO</form>
-<tag lemma="DOPRAPO_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="DOPRAPO_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95048-035-p1s1w25">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <LM>w#w-ln95048-035-p1s1w26</LM>
 </w.rf>
 <form>Vonnegutovu</form>
-<tag lemma="Vonnegutův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Vonnegutův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95048-035-p1s1w27">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-ln95048-035-p1s4w7</LM>
 </w.rf>
 <form>Lébl</form>
-<tag lemma="Lébl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lébl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-035-p1s4w8">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-ln95048-035-p1s4w28</LM>
 </w.rf>
 <form>Grossmana</form>
-<tag lemma="Grossman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Grossman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-035-p1s4w29">
 <src.rf>manual</src.rf>

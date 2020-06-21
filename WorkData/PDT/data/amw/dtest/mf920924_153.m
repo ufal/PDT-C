@@ -203,7 +203,7 @@
 <LM>w#w-mf920924-153-p2s2w7</LM>
 </w.rf>
 <form>Kazijev</form>
-<tag lemma="Kazijev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kazijev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-153-p2s2w8">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-mf920924-153-p2s2w10</LM>
 </w.rf>
 <form>Sarkisjan</form>
-<tag lemma="Sarkisjan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sarkisjan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-153-p2s2w11">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-mf920924-153-p2s3w11</LM>
 </w.rf>
 <form>Gračov</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-153-p2s3w12">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-mf920924-153-p2s5w13</LM>
 </w.rf>
 <form>Gračov</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-153-p2s5w14">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-mf920924-153-p2s5w16</LM>
 </w.rf>
 <form>Barannikov</form>
-<tag lemma="Barannikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barannikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-153-p2s5w17">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-mf920924-153-p2s5w22</LM>
 </w.rf>
 <form>Kitovani</form>
-<tag lemma="Kitovani_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kitovani_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-153-p2s5w23">
 <src.rf>manual</src.rf>
@@ -1385,7 +1385,7 @@
 <LM>w#w-mf920924-153-p2s9w2</LM>
 </w.rf>
 <form>Gračov</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-153-p2s9w3">
 <src.rf>manual</src.rf>

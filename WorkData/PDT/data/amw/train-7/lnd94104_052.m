@@ -84,7 +84,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -194,7 +194,7 @@
 <LM>w#w-lnd94104-052-p1s3w11</LM>
 </w.rf>
 <form>semtexu</form>
-<tag lemma="semtex_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="semtex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-052-p1s3w12">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-lnd94104-052-p1s5w8</LM>
 </w.rf>
 <form>Sadr</form>
-<tag lemma="Sadr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-052-p1s5w9">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-lnd94104-052-p1s7w3</LM>
 </w.rf>
 <form>semtexu</form>
-<tag lemma="semtex_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="semtex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-052-p1s7w4">
 <src.rf>manual</src.rf>
@@ -631,8 +631,8 @@
 </w.rf>
 <form>Stinger</form>
 <tag>
-<AM lemma="Stinger-2_;R" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Stinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stinger-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stinger_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-052-p1s7w10">

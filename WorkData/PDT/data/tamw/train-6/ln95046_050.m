@@ -220,7 +220,7 @@
 <form>Angelus</form>
 <tag>
 <AM lemma="Angelus_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Angelus_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Angelus_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="angelus_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Angelus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -233,7 +233,7 @@
 <form>novus</form>
 <tag>
 <AM lemma="novus_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="novus_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="novus_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="novus_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="novus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95046-050-p3s1w16</LM>
 </w.rf>
 <form>Dohnal</form>
-<tag lemma="Dohnal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dohnal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-050-p3s1w17">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95046-050-p4s1w8</LM>
 </w.rf>
 <form>Knížákem</form>
-<tag lemma="Knížák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Knížák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-050-p4s1w9">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-ln95046-050-p4s1w11</LM>
 </w.rf>
 <form>Knapem</form>
-<tag lemma="Knap_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Knap_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-050-p4s1w12">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln95046-050-p4s1w21</LM>
 </w.rf>
 <form>Krále</form>
-<tag lemma="Král_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Král_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-050-p4s1w22">
 <src.rf>manual</src.rf>

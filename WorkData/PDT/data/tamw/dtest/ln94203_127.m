@@ -127,7 +127,7 @@
 <LM>w#w-ln94203-127-p2s1Bw8</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-127-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-ln94203-127-p2s2w9</LM>
 </w.rf>
 <form>Mjartana</form>
-<tag lemma="Mjartan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mjartan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-127-p2s2w10">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-ln94203-127-p2s3w4</LM>
 </w.rf>
 <form>Tigrida</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-127-p2s3w5">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln94203-127-p3s1w3</LM>
 </w.rf>
 <form>Mjartanově</form>
-<tag lemma="Mjartanův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Mjartanův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94203-127-p3s1w4">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <LM>w#w-ln94203-127-p3s2w1</LM>
 </w.rf>
 <form>Mjartan</form>
-<tag lemma="Mjartan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mjartan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-127-p3s2w2">
 <src.rf>manual</src.rf>

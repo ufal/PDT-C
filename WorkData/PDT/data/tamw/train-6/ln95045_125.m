@@ -20,10 +20,10 @@
 </w.rf>
 <form>COOP</form>
 <tag>
-<AM lemma="COOP_:B_;K_^(banka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="COOP_:B_;K_^(banka)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Coop_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Coop_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="COOP_:B_;m_^(banka)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="COOP_:B_;m_^(banka)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Coop_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Coop_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="COOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -86,10 +86,10 @@
 </w.rf>
 <form>COOP</form>
 <tag>
-<AM lemma="COOP_:B_;K_^(banka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="COOP_:B_;K_^(banka)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Coop_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Coop_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="COOP_:B_;m_^(banka)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="COOP_:B_;m_^(banka)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Coop_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Coop_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="COOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

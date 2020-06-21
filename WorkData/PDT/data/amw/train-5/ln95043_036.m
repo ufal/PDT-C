@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-036-p1s1w1</LM>
 </w.rf>
 <form>Picassova</form>
-<tag lemma="Picassův_;S_^(*2o)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Picassův_;Y_^(*2o)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95043-036-p1s1w2">
 <src.rf>manual</src.rf>
@@ -167,8 +167,8 @@
 <form>Hugo</form>
 <tag>
 <AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hugo-1_;S_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Hugo-1_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hugo-1_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hugo-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s1w13">
@@ -177,7 +177,7 @@
 <LM>w#w-ln95043-036-p2s1w13</LM>
 </w.rf>
 <form>Haas</form>
-<tag lemma="Haas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s1w14">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-ln95043-036-p2s1w18</LM>
 </w.rf>
 <form>Čapka</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s1w19">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-ln95043-036-p2s1w23</LM>
 </w.rf>
 <form>Picassovu</form>
-<tag lemma="Picassův_;S_^(*2o)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Picassův_;Y_^(*2o)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95043-036-p2s1w24">
 <src.rf>manual</src.rf>
@@ -439,9 +439,9 @@
 </w.rf>
 <form>UNESCO</form>
 <tag>
-<AM lemma="UNESCO_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="UNESCO_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Unesco_:B_;K_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Unesco_:B_;m_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="UNESCO-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
@@ -528,11 +528,11 @@
 </w.rf>
 <form>Opělovi</form>
 <tag>
-<AM lemma="Opěl_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Opěla_;S" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
-<AM lemma="Opěla_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Opělův_;S_^(*2a)" src="auto">AUMP1M---------</AM>
-<AM lemma="Opělův_;S_^(*2a)" src="auto">AUMP5M---------</AM>
+<AM lemma="Opěl_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Opěla_;Y" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
+<AM lemma="Opěla_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Opělův_;Y_^(*2a)" src="auto">AUMP1M---------</AM>
+<AM lemma="Opělův_;Y_^(*2a)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s2w18">
@@ -565,7 +565,7 @@
 <LM>w#w-ln95043-036-p2s2w21</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s2w22">
 <src.rf>manual</src.rf>
@@ -616,9 +616,9 @@
 </w.rf>
 <form>UNESCO</form>
 <tag>
-<AM lemma="UNESCO_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="UNESCO_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Unesco_:B_;K_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Unesco_:B_;m_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="UNESCO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -639,7 +639,7 @@
 <LM>w#w-ln95043-036-p2s3w7</LM>
 </w.rf>
 <form>Mayor</form>
-<tag lemma="Mayor_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mayor_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s3w8">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-ln95043-036-p2s4w12</LM>
 </w.rf>
 <form>Vystrčila</form>
-<tag lemma="Vystrčil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vystrčil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-ln95043-036-p2s4w23</LM>
 </w.rf>
 <form>Dodalových</form>
-<tag lemma="Dodalův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Dodalův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-ln95043-036-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 </w.rf>
 <form>MK</form>
 <tag>
-<AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MK-1_:B_;m_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1094,7 +1094,7 @@
 <LM>w#w-ln95043-036-p2s5w7</LM>
 </w.rf>
 <form>Maliny</form>
-<tag lemma="Malina_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Malina_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-ln95043-036-p2s5w10</LM>
 </w.rf>
 <form>Picassovy</form>
-<tag lemma="Picassův_;S_^(*2o)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Picassův_;Y_^(*2o)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95043-036-p2s5w11">
 <src.rf>manual</src.rf>

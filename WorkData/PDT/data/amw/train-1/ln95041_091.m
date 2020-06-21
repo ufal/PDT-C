@@ -445,7 +445,7 @@
 </w.rf>
 <form>Dema</form>
 <tag>
-<AM lemma="Dema_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dema_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="dema" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNP1-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNP4-----A----</AM>

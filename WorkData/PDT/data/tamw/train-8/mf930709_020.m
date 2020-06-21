@@ -61,7 +61,7 @@
 <LM>w#w-mf930709-020-p2s1Aw2</LM>
 </w.rf>
 <form>KOLODĚJÍCH</form>
-<tag lemma="Koloděje_;G_;S" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="Koloděje_;G_;Y" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930709-020-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -112,7 +112,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Koloděje</form>
-<tag lemma="Koloděje_;G_;S" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Koloděje_;G_;Y" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930709-020-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf930709-020-p2s1Cw14</LM>
 </w.rf>
 <form>Koloděje</form>
-<tag lemma="Koloděje_;G_;S" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Koloděje_;G_;Y" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930709-020-p2s1Cw15">
 <src.rf>manual</src.rf>

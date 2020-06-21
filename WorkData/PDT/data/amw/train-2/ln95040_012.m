@@ -603,7 +603,7 @@
 <LM>w#w-ln95040-012-p3s1w7</LM>
 </w.rf>
 <form>Vysockého</form>
-<tag lemma="Vysocký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vysocký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-012-p3s1w8">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <LM>w#w-ln95040-012-p3s3w9</LM>
 </w.rf>
 <form>Vysockého</form>
-<tag lemma="Vysockij_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vysockij_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-012-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-ln95040-012-p4s2Bw12</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-012-p4s2Bw13">
 <src.rf>manual</src.rf>
@@ -1848,7 +1848,7 @@
 <LM>w#w-ln95040-012-p4s5w3</LM>
 </w.rf>
 <form>Vysockij</form>
-<tag lemma="Vysockij_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vysockij_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-012-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2501,7 +2501,7 @@
 <LM>w#w-ln95040-012-p5s3w5</LM>
 </w.rf>
 <form>Jelcinova</form>
-<tag lemma="Jelcinův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Jelcinův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95040-012-p5s3w6">
 <src.rf>manual</src.rf>

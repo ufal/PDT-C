@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-097-p1s1w3</LM>
 </w.rf>
 <form>Tomášek</form>
-<tag lemma="Tomášek-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-097-p1s1w4">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-ln95047-097-p2s1Bw15</LM>
 </w.rf>
 <form>Tomáška</form>
-<tag lemma="Tomášek-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-097-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-ln95047-097-p3s2w4</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-097-p3s2w5">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-ln95047-097-p4s1w13</LM>
 </w.rf>
 <form>Tomášek</form>
-<tag lemma="Tomášek-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-097-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1575,7 +1575,7 @@
 <LM>w#w-ln95047-097-p5s2w6</LM>
 </w.rf>
 <form>Tomáška</form>
-<tag lemma="Tomášek-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-097-p5s2w7">
 <src.rf>manual</src.rf>

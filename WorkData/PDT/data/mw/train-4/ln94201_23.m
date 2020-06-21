@@ -28,8 +28,8 @@
 </w.rf>
 <form>Konstruktiva</form>
 <tag>
-<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p1s1w3">
@@ -81,8 +81,8 @@
 </w.rf>
 <form>ir</form>
 <tag>
-<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ir-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s1w4">
@@ -116,8 +116,8 @@
 </w.rf>
 <form>Konstruktiva</form>
 <tag>
-<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s1w8">
@@ -200,8 +200,8 @@
 <form>Matky</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP5-----A----</AM>
@@ -285,8 +285,8 @@
 </w.rf>
 <form>Konstruktivy</form>
 <tag>
-<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS2-----A----</AM>
-<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS2-----A----</AM>
+<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s2w4">
@@ -545,7 +545,7 @@
 <LM>w#w-ln94201-23-p2s3w6</LM>
 </w.rf>
 <form>Tigridovi</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94201-23-p2s3w7">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-ln94201-23-p2s3w22</LM>
 </w.rf>
 <form>Suchý</form>
-<tag lemma="Suchý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suchý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-23-p2s3w23">
 <src.rf>manual</src.rf>
@@ -738,8 +738,8 @@
 </w.rf>
 <form>Konstruktiva</form>
 <tag>
-<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s4w2">
@@ -816,8 +816,8 @@
 <form>Matky</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP5-----A----</AM>
@@ -953,8 +953,8 @@
 </w.rf>
 <form>Konstruktiva</form>
 <tag>
-<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s5w24">
@@ -1263,8 +1263,8 @@
 <form>Matky</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP5-----A----</AM>
@@ -1529,7 +1529,7 @@
 <LM>w#w-ln94201-23-p2s7w8</LM>
 </w.rf>
 <form>Suchý</form>
-<tag lemma="Suchý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suchý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-23-p2s7w9">
 <src.rf>manual</src.rf>

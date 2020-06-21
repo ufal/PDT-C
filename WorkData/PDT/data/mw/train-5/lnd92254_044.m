@@ -20,7 +20,7 @@
 </w.rf>
 <form>KSH</form>
 <tag>
-<AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KSH_:B_;m_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KSH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -92,7 +92,7 @@
 </w.rf>
 <form>KSH</form>
 <tag>
-<AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KSH_:B_;m_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KSH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -427,7 +427,7 @@
 </w.rf>
 <form>KSH</form>
 <tag>
-<AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KSH_:B_;m_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KSH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -579,7 +579,7 @@
 </w.rf>
 <form>KSH</form>
 <tag>
-<AM lemma="KSH_:B_;K_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KSH_:B_;m_^(Křesťanskosociální_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KSH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -200,7 +200,7 @@
 </w.rf>
 <form>BJP</form>
 <tag>
-<AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BJP-1_:B_;m_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BJP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -250,7 +250,7 @@
 <LM>w#w-lnd92259-071-p3s2w20</LM>
 </w.rf>
 <form>Lála</form>
-<tag lemma="Lála_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lála_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-071-p3s2w21">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-lnd92259-071-p3s2w21</LM>
 </w.rf>
 <form>Khurány</form>
-<tag lemma="Khurána_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Khurána_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-071-p3s2w22">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 </w.rf>
 <form>BJP</form>
 <tag>
-<AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BJP-1_:B_;m_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BJP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -635,7 +635,7 @@
 </w.rf>
 <form>BJP</form>
 <tag>
-<AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BJP-1_:B_;m_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BJP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -868,7 +868,7 @@
 </w.rf>
 <form>BJP</form>
 <tag>
-<AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BJP-1_:B_;m_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BJP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -911,9 +911,9 @@
 </w.rf>
 <form>Ráa</form>
 <tag>
-<AM lemma="Rá_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ráo_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Ráo_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Rá_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ráo_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ráo_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-071-p3s6w14">

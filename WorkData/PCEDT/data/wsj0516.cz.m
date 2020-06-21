@@ -235,9 +235,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -295,8 +295,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -318,9 +318,9 @@
 </w.rf>
 <form>Yorku</form>
 <tag>
-<AM lemma="York-1_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="York-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="York-1_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="York-1_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="York-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="York-1_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
@@ -438,7 +438,7 @@
 <form>Kellwood</form>
 <tag>
 <AM lemma="Kellwood" src="auto">X@-------------</AM>
-<AM lemma="Kellwood_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kellwood_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0516-001-p1s2W3-Ta">
@@ -477,8 +477,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -549,7 +549,7 @@
 <form>Crowntuft</form>
 <tag>
 <AM lemma="Crowntuft" src="auto">X@-------------</AM>
-<AM lemma="Crowntuft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Crowntuft_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0516-001-p1s2W12-Ta">
@@ -579,7 +579,7 @@
 <form>Hakim</form>
 <tag>
 <AM lemma="hakim" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hakim_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hakim_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0516-001-p1s2W15-Ta">
@@ -645,7 +645,7 @@
 <form>Crowntuft</form>
 <tag>
 <AM lemma="Crowntuft" src="auto">X@-------------</AM>
-<AM lemma="Crowntuft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Crowntuft_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0516-001-p1s2W21-Ta">

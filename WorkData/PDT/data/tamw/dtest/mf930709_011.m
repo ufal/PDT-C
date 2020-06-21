@@ -262,7 +262,7 @@
 <LM>w#w-mf930709-011-p2s1Bw23</LM>
 </w.rf>
 <form>Ernst</form>
-<tag lemma="Ernst_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ernst_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-011-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-mf930709-011-p2s1Bw24</LM>
 </w.rf>
 <form>Lehnhardt</form>
-<tag lemma="Lehnhardt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lehnhardt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-011-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-mf930709-011-p2s3w4</LM>
 </w.rf>
 <form>Fajstavra</form>
-<tag lemma="Fajstavr_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fajstavr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-011-p2s3w5">
 <src.rf>manual</src.rf>

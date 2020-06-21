@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-31-p1s1w4</LM>
 </w.rf>
 <form>Wallisovi</form>
-<tag lemma="Wallis_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Wallis_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 </s>
 <s id="m-ln94211-31-p2s1A">
@@ -242,8 +242,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-31-p2s2w2">
@@ -324,7 +324,7 @@
 <LM>w#w-ln94211-31-p2s2w11</LM>
 </w.rf>
 <form>Šilhavý</form>
-<tag lemma="Šilhavý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šilhavý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-31-p2s2w12">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-31-p3s2w17">
@@ -651,7 +651,7 @@
 <LM>w#w-ln94211-31-p3s2w18</LM>
 </w.rf>
 <form>Wallise</form>
-<tag lemma="Wallis_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-31-p3s2w19">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln94211-31-p3s3w17</LM>
 </w.rf>
 <form>Baxu</form>
-<tag lemma="Baxa_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Baxa_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-31-p3s3w18">
 <src.rf>manual</src.rf>

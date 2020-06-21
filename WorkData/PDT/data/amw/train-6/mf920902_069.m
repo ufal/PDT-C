@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-069-p1s1w1</LM>
 </w.rf>
 <form>Maradona</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-069-p1s1w2">
 <src.rf>manual</src.rf>
@@ -62,8 +62,8 @@
 </w.rf>
 <form>Diego</form>
 <tag>
-<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Diego_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Diego_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-069-p2s1w4">
@@ -72,7 +72,7 @@
 <LM>w#w-mf920902-069-p2s1w4</LM>
 </w.rf>
 <form>Maradona</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-069-p2s1w5">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-mf920902-069-p2s2w23</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920902-069-p2s2w24">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-mf920902-069-p2s3w29</LM>
 </w.rf>
 <form>Maradonova</form>
-<tag lemma="Maradonův_;S_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Maradonův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf920902-069-p2s3w30">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-mf920902-069-p2s4w11</LM>
 </w.rf>
 <form>Fachinni</form>
-<tag lemma="Fachinni_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fachinni_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-069-p2s4w12">
 <src.rf>manual</src.rf>

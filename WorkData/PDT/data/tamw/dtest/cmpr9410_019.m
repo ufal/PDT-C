@@ -448,7 +448,7 @@
 <LM>w#w-cmpr9410-019-p5s1w2</LM>
 </w.rf>
 <form>Hábík</form>
-<tag lemma="Hábík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hábík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-019-p6s1">
@@ -507,11 +507,11 @@
 </w.rf>
 <form>Kopeckým</form>
 <tag>
-<AM lemma="Kopecký_;S" src="orig">AAMS7----1A----</AM>
-<AM lemma="Kopecká_;S" src="auto">NNFP3-----A----</AM>
-<AM lemma="Kopecký_;S" src="auto">NNMP3-----A----</AM>
-<AM lemma="Kopecký_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Kopecký_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Kopecký_;Y" src="orig">AAMS7----1A----</AM>
+<AM lemma="Kopecká_;Y" src="auto">NNFP3-----A----</AM>
+<AM lemma="Kopecký_;Y" src="auto">NNMP3-----A----</AM>
+<AM lemma="Kopecký_;Y" src="auto">NNMS6-----A---7</AM>
+<AM lemma="Kopecký_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-019-p6s1w8">

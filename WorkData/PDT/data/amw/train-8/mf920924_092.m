@@ -45,7 +45,7 @@
 <LM>w#w-mf920924-092-p2s1w2</LM>
 </w.rf>
 <form>Barda</form>
-<tag lemma="Barda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-092-p2s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-mf920924-092-p2s1w5</LM>
 </w.rf>
 <form>Haber</form>
-<tag lemma="Haber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-092-p2s1w6">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-mf920924-092-p2s3w4</LM>
 </w.rf>
 <form>Barda</form>
-<tag lemma="Barda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-092-p2s3w5">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 <LM>w#w-mf920924-092-p2s3w8</LM>
 </w.rf>
 <form>Haber</form>
-<tag lemma="Haber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-092-p2s3w9">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 </w.rf>
 <form>ČSFH</form>
 <tag>
-<AM lemma="ČSFH-1_:B_;K_^(Česko-Slovenská_federace_házené)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFH-1_:B_;m_^(Česko-Slovenská_federace_házené)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSFH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -358,7 +358,7 @@
 <LM>w#w-mf920924-092-p2s3w13</LM>
 </w.rf>
 <form>Holce</form>
-<tag lemma="Holec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Holec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-092-p2s3w14">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

@@ -1319,7 +1319,7 @@
 <LM>w#w-cmpr9410-035-p6s1w7</LM>
 </w.rf>
 <form>Poldovka</form>
-<tag lemma="Poldovka_;K_,h" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poldovka_;m_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-035-p6s1w8">
 <src.rf>manual</src.rf>

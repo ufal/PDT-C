@@ -46,7 +46,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -57,7 +57,7 @@
 </w.rf>
 <form>Petroleum</form>
 <tag>
-<AM lemma="Petroleum_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Petroleum_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -78,7 +78,7 @@
 <tag>
 <AM lemma="shell" src="orig">NNIS1-----A----</AM>
 <AM lemma="Shell-77" src="manual">F%-------------</AM>
-<AM lemma="Shell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Shell_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-8-p2s1w7">

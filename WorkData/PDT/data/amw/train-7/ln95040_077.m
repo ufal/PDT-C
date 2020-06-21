@@ -141,7 +141,7 @@
 <LM>w#w-ln95040-077-p2s1w12</LM>
 </w.rf>
 <form>Sejmu</form>
-<tag lemma="Sejm_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Sejm_;m_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-077-p2s1w13">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-ln95040-077-p2s1w14</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-077-p2s1w15">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 </w.rf>
 <form>SLD</form>
 <tag>
-<AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SLD-1_:B_;m_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SLD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -236,7 +236,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p2s2w2">
@@ -253,7 +253,7 @@
 <LM>w#w-ln95040-077-p2s2w3</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-077-p2s2w4">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 </w.rf>
 <form>PSDS</form>
 <tag>
-<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-1_:B_;m_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -647,7 +647,7 @@
 </w.rf>
 <form>PSDS</form>
 <tag>
-<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-1_:B_;m_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -807,7 +807,7 @@
 </w.rf>
 <form>PSDS</form>
 <tag>
-<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-1_:B_;m_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -932,7 +932,7 @@
 </w.rf>
 <form>PSDS</form>
 <tag>
-<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-1_:B_;m_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1145,7 +1145,7 @@
 </w.rf>
 <form>PSDS</form>
 <tag>
-<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-1_:B_;m_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1254,9 +1254,9 @@
 </w.rf>
 <form>Mazowieckého</form>
 <tag>
-<AM lemma="Mazowiecki_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mazowiecký_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Mazowiecký_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Mazowiecki_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Mazowiecký_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mazowiecký_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p4s2w9">
@@ -1273,7 +1273,7 @@
 <LM>w#w-ln95040-077-p4s2w10</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-077-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1557,7 +1557,7 @@
 <LM>w#w-ln95040-077-p5s1w5</LM>
 </w.rf>
 <form>Sejmu</form>
-<tag lemma="Sejm_;K_,t" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Sejm_;m_,t" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95040-077-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1581,7 +1581,7 @@
 <LM>w#w-ln95040-077-p5s1w8</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-077-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1646,7 +1646,7 @@
 </w.rf>
 <form>SLD</form>
 <tag>
-<AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SLD-1_:B_;m_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SLD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1834,7 +1834,7 @@
 <LM>w#w-ln95040-077-p5s2w14</LM>
 </w.rf>
 <form>Sejmu</form>
-<tag lemma="Sejm_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Sejm_;m_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-077-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1852,7 +1852,7 @@
 <LM>w#w-ln95040-077-p6s1w1</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-077-p6s1w2">
 <src.rf>manual</src.rf>

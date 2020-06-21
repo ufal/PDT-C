@@ -175,7 +175,7 @@
 <LM>w#w-mf930709-013-p2s1Bw13</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-013-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-mf930709-013-p2s2w22</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-013-p2s2w23">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-mf930709-013-p2s3w8</LM>
 </w.rf>
 <form>Vrabec</form>
-<tag lemma="Vrabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vrabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-013-p2s3w9">
 <src.rf>manual</src.rf>
@@ -701,8 +701,8 @@
 <form>Buky</form>
 <tag>
 <AM lemma="Buky_;G" src="orig">NNIP1-----A----</AM>
-<AM lemma="Buk-2_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Buk-2_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Buk-2_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Buk-2_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Buka_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Buka_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Buka_;G" src="auto">NNFP5-----A----</AM>
@@ -904,7 +904,7 @@
 <LM>w#w-mf930709-013-p2s5w13</LM>
 </w.rf>
 <form>Vrabec</form>
-<tag lemma="Vrabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vrabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-013-p2s5w14">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-mf930709-013-p2s6w3</LM>
 </w.rf>
 <form>Kovařovicové</form>
-<tag lemma="Kovařovicová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kovařovicová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-013-p2s6w4">
 <src.rf>manual</src.rf>
@@ -980,8 +980,8 @@
 <form>Buky</form>
 <tag>
 <AM lemma="Buky_;G" src="orig">NNIP1-----A----</AM>
-<AM lemma="Buk-2_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Buk-2_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Buk-2_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Buk-2_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Buka_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Buka_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Buka_;G" src="auto">NNFP5-----A----</AM>

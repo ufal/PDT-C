@@ -136,10 +136,10 @@
 </w.rf>
 <form>pech</form>
 <tag>
-<AM lemma="pech-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pech-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
-<AM lemma="pech-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pech-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-40-p2s1Bw4">
@@ -157,8 +157,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-40-p2s1Bw6">
@@ -1913,7 +1913,7 @@
 <LM>w#w-ln94211-40-p9s1w12</LM>
 </w.rf>
 <form>Dvouletý</form>
-<tag lemma="Dvouletý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvouletý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-40-p9s1w13">
 <src.rf>manual</src.rf>

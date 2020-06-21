@@ -263,7 +263,7 @@
 <LM>w#w-lnd94104-076-p1s3w8</LM>
 </w.rf>
 <form>Dukly</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-076-p1s3w9">
 <src.rf>manual</src.rf>
@@ -1606,7 +1606,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1845,7 +1845,7 @@
 <LM>w#w-lnd94104-076-p1s14w19</LM>
 </w.rf>
 <form>Vlasovovy</form>
-<tag lemma="Vlasovův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Vlasovův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94104-076-p1s14w20">
 <src.rf>manual</src.rf>
@@ -1976,8 +1976,8 @@
 </w.rf>
 <form>Sokolové</form>
 <tag>
-<AM lemma="Sokol-1_;S" src="orig">NNMP1-----A----</AM>
-<AM lemma="sokol-2_;K_^(organizace)" src="manual">NNIP1-----A----</AM>
+<AM lemma="Sokol-1_;Y" src="orig">NNMP1-----A----</AM>
+<AM lemma="sokol-2_;m_^(organizace)" src="manual">NNIP1-----A----</AM>
 <AM lemma="sokol-1" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
@@ -2012,7 +2012,7 @@
 </w.rf>
 <form>DTJ</form>
 <tag>
-<AM lemma="DTJ-1_:B_;K_^(Dělnická_tělocvičná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DTJ-1_:B_;m_^(Dělnická_tělocvičná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3099,8 +3099,8 @@
 </w.rf>
 <form>Peroutkové</form>
 <tag>
-<AM lemma="Peroutka_;S" src="orig">NNMP1-----A----</AM>
-<AM lemma="Peroutková_;S" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Peroutka_;Y" src="orig">NNMP1-----A----</AM>
+<AM lemma="Peroutková_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-076-p1s25w5">

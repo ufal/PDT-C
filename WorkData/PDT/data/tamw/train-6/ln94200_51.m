@@ -544,7 +544,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-51-p2s3w10">
@@ -561,7 +561,7 @@
 <LM>w#w-ln94200-51-p2s3w11</LM>
 </w.rf>
 <form>Czarnikow</form>
-<tag lemma="Czarnikow_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Czarnikow_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-51-p2s3w12">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-ln94200-51-p3s2w5</LM>
 </w.rf>
 <form>Czarnikowa</form>
-<tag lemma="Czarnikow_;K" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Czarnikow_;m" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-51-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 <LM>w#w-ln94200-51-p4s1w9</LM>
 </w.rf>
 <form>Czarnikowa</form>
-<tag lemma="Czarnikow_;K" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Czarnikow_;m" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-51-p4s1w10">
 <src.rf>manual</src.rf>

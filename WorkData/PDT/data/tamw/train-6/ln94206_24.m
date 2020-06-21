@@ -61,7 +61,7 @@
 <LM>w#w-ln94206-24-p2s1Aw1</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-ln94206-24-p2s3w8</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p2s3w9">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-ln94206-24-p2s3w11</LM>
 </w.rf>
 <form>Ambros</form>
-<tag lemma="Ambros_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ambros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p2s3w12">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-ln94206-24-p3s1w4</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p3s1w5">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-ln94206-24-p4s1w5</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p4s1w6">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-24-p4s2w5">
@@ -968,7 +968,7 @@
 <LM>w#w-ln94206-24-p4s2w6</LM>
 </w.rf>
 <form>Ambros</form>
-<tag lemma="Ambros_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ambros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-ln94206-24-p4s3w1</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1283,7 +1283,7 @@
 <LM>w#w-ln94206-24-p5s1w8</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1612,9 +1612,9 @@
 </w.rf>
 <form>RIF</form>
 <tag>
-<AM lemma="RIF_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="RIF_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="RIF_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="RIF_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="RIF_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="RIF_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="rif" src="auto">NNIS1-----A----</AM>
 <AM lemma="rif" src="auto">NNIS4-----A----</AM>
 <AM lemma="RIF-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1635,7 +1635,7 @@
 </w.rf>
 <form>NIF</form>
 <tag>
-<AM lemma="NIF-1_:B_;K_^(Nadační_investiční_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NIF-1_:B_;m_^(Nadační_investiční_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="NIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1655,7 +1655,7 @@
 <LM>w#w-ln94206-24-p5s3w1</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1785,7 +1785,7 @@
 <LM>w#w-ln94206-24-p5s4w4</LM>
 </w.rf>
 <form>Linee</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS6-----A---1</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS6-----A---1</tag>
 </m>
 <m id="m-ln94206-24-p5s4w5">
 <src.rf>manual</src.rf>
@@ -1875,7 +1875,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-24-p5s4w16">
@@ -1892,7 +1892,7 @@
 <LM>w#w-ln94206-24-p5s4w17</LM>
 </w.rf>
 <form>Ambrose</form>
-<tag lemma="Ambros_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ambros_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-24-p5s4w18">
 <src.rf>manual</src.rf>
@@ -2426,7 +2426,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-24-p6s2w3">
@@ -2443,7 +2443,7 @@
 <LM>w#w-ln94206-24-p6s2w4</LM>
 </w.rf>
 <form>Ambrose</form>
-<tag lemma="Ambros_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ambros_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-24-p6s2w5">
 <src.rf>manual</src.rf>
@@ -2451,7 +2451,7 @@
 <LM>w#w-ln94206-24-p6s2w5</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p6s2w6">
 <src.rf>manual</src.rf>
@@ -2988,7 +2988,7 @@
 <LM>w#w-ln94206-24-p7s2w7</LM>
 </w.rf>
 <form>Linea</form>
-<tag lemma="Linea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Linea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-24-p7s2w8">
 <src.rf>manual</src.rf>

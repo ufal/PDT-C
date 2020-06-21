@@ -134,7 +134,7 @@
 </w.rf>
 <form>Prairie</form>
 <tag>
-<AM lemma="Prairie_;G" src="orig">NNFSX-----A----</AM>
+<AM lemma="Prairie_;G" src="orig">NNFXX-----A----</AM>
 <AM lemma="Prairie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -158,9 +158,9 @@
 </w.rf>
 <form>Chien</form>
 <tag>
-<AM lemma="Chien_;G" src="orig">NNISX-----A----</AM>
-<AM lemma="chien_;b_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="chien_;b_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Chien_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="chien_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="chien_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="Chien-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

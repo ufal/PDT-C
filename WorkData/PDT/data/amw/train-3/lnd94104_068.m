@@ -87,7 +87,7 @@
 <form>Filip</form>
 <tag>
 <AM lemma="Filip_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Filip_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Filip_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-068-p1s1Bw3">
@@ -3092,7 +3092,7 @@
 <LM>w#w-lnd94104-068-p1s12w8</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-068-p1s12w9">
 <src.rf>manual</src.rf>

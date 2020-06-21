@@ -101,7 +101,7 @@
 <LM>w#w-lnd92258-090-p2s1w9</LM>
 </w.rf>
 <form>Mališenkem</form>
-<tag lemma="Mališenko_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mališenko_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-090-p2s1w10">
 <src.rf>manual</src.rf>

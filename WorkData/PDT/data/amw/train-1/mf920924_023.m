@@ -154,7 +154,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t" src="orig">Db-------------</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -704,7 +704,7 @@
 <LM>w#w-mf920924-023-p2s3w5</LM>
 </w.rf>
 <form>Vojtáš</form>
-<tag lemma="Vojtáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vojtáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-023-p2s3w6">
 <src.rf>manual</src.rf>

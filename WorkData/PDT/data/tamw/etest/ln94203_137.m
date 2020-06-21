@@ -28,7 +28,7 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -47,7 +47,7 @@
 </w.rf>
 <form>CERGE</form>
 <tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CERGE_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CERGE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -66,8 +66,8 @@
 </w.rf>
 <form>CMC</form>
 <tag>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -145,7 +145,7 @@
 <LM>w#w-ln94203-137-p2s1Bw7</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 </w.rf>
 <form>CERGE</form>
 <tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CERGE_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CERGE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -301,7 +301,7 @@
 </w.rf>
 <form>AV</form>
 <tag>
-<AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -328,8 +328,8 @@
 </w.rf>
 <form>EI</form>
 <tag>
-<AM lemma="EI-3_:B_;K_^(Ekonomický_institut)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EI-1_:B_;K_,t_^(letecká_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EI-3_:B_;m_^(Ekonomický_institut)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EI-1_:B_;m_,t_^(letecká_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EI-2_:B_^(expres_informace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EI-3_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
@@ -389,7 +389,7 @@
 </w.rf>
 <form>CMC</form>
 <tag>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -458,7 +458,7 @@
 </w.rf>
 <form>CERGE</form>
 <tag>
-<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CERGE_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CERGE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -477,8 +477,8 @@
 </w.rf>
 <form>EI</form>
 <tag>
-<AM lemma="EI-3_:B_;K_^(Ekonomický_institut)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EI-1_:B_;K_,t_^(letecká_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EI-3_:B_;m_^(Ekonomický_institut)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EI-1_:B_;m_,t_^(letecká_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EI-2_:B_^(expres_informace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EI-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="EI-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -498,7 +498,7 @@
 <LM>w#w-ln94203-137-p3s1w10</LM>
 </w.rf>
 <form>Kotrba</form>
-<tag lemma="Kotrba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotrba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-137-p3s1w11">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="USAID-8_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>

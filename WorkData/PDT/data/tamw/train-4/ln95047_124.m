@@ -19,7 +19,7 @@
 <LM>w#w-ln95047-124-p1s1w1</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p1s1w2">
 <src.rf>manual</src.rf>
@@ -36,9 +36,9 @@
 </w.rf>
 <form>Scania</form>
 <tag>
-<AM lemma="Scania_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scania_;K_" src="manual">NNFS1-----A----</AM>
-<AM lemma="Scania_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Scania_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Scania_;m_" src="manual">NNFS1-----A----</AM>
+<AM lemma="Scania_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p1s1w4">
@@ -166,11 +166,11 @@
 <form_change>spell</form_change>
 <form>Saab</form>
 <tag>
-<AM lemma="Saab-1_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Saab_;K" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Saab_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="saab_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="saab_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Saab-1_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Saab_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Saab_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="saab_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="saab_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p2s1Bw9">
@@ -188,8 +188,8 @@
 </w.rf>
 <form>Scania</form>
 <tag>
-<AM lemma="Scania_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scania_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Scania_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Scania_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p2s1Bw11">
@@ -270,7 +270,7 @@
 <LM>w#w-ln95047-124-p2s1Bw20</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -298,8 +298,8 @@
 </w.rf>
 <form>Scania</form>
 <tag>
-<AM lemma="Scania_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scania_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Scania_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Scania_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p2s1Bw24">
@@ -309,7 +309,7 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -686,8 +686,8 @@
 </w.rf>
 <form>Scania</form>
 <tag>
-<AM lemma="Scania_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scania_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Scania_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Scania_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p3s2w8">
@@ -739,7 +739,7 @@
 <LM>w#w-ln95047-124-p3s2w13</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p3s2w14">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-ln95047-124-p3s3w5</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p3s3w6">
 <src.rf>manual</src.rf>
@@ -806,8 +806,8 @@
 </w.rf>
 <form>Scania</form>
 <tag>
-<AM lemma="Scania_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scania_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Scania_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Scania_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p3s3w8">
@@ -858,7 +858,7 @@
 <LM>w#w-ln95047-124-p4s1w1</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w2">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -901,7 +901,7 @@
 <LM>w#w-ln95047-124-p4s1w6</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w7">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 </w.rf>
 <form>Military</form>
 <tag>
-<AM lemma="Military_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Military_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Military-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -921,9 +921,9 @@
 </w.rf>
 <form>Aircraft</form>
 <tag>
-<AM lemma="Aircraft_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Aircraft_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Aircraft_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Aircraft_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Aircraft_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Aircraft_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="aircraft_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Aircraft-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -942,7 +942,7 @@
 <LM>w#w-ln95047-124-p4s1w10</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w11">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 </w.rf>
 <form>Dynamics</form>
 <tag>
-<AM lemma="Dynamics_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Dynamics_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Dynamics-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -969,7 +969,7 @@
 <LM>w#w-ln95047-124-p4s1w13</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w14">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 </w.rf>
 <form>Training</form>
 <tag>
-<AM lemma="Training_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Training_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Training-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -989,7 +989,7 @@
 </w.rf>
 <form>Systems</form>
 <tag>
-<AM lemma="System_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="System_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1007,7 +1007,7 @@
 <LM>w#w-ln95047-124-p4s1w17</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1016,9 +1016,9 @@
 </w.rf>
 <form>Aircraft</form>
 <tag>
-<AM lemma="Aircraft_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Aircraft_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Aircraft_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Aircraft_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Aircraft_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Aircraft_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="aircraft_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Aircraft-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1037,7 +1037,7 @@
 <LM>w#w-ln95047-124-p4s1w20</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 </w.rf>
 <form>Combitech</form>
 <tag>
-<AM lemma="Combitech_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Combitech_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Combitech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1109,7 +1109,7 @@
 <LM>w#w-ln95047-124-p4s2w6</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 </w.rf>
 <form>SEK</form>
 <tag>
-<AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SEK_:B_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1202,7 +1202,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1231,8 +1231,8 @@
 </w.rf>
 <form>Scania</form>
 <tag>
-<AM lemma="Scania_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scania_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Scania_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Scania_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p4s3w2">
@@ -1351,7 +1351,7 @@
 </w.rf>
 <form>SEK</form>
 <tag>
-<AM lemma="SEK_:B_;b_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SEK_:B_^(švéd._koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SEK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1403,7 +1403,7 @@
 <LM>w#w-ln95047-124-p5s1w5</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1420,8 +1420,8 @@
 </w.rf>
 <form>Scania</form>
 <tag>
-<AM lemma="Scania_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Scania_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Scania_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Scania_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p5s1w8">
@@ -1462,7 +1462,7 @@
 <LM>w#w-ln95047-124-p5s1w12</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 </w.rf>
 <form>Automobile</form>
 <tag>
-<AM lemma="Automobile_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Automobile_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="automobil" src="auto" recommended="1">NNIS5-----A----</AM>
 <AM lemma="automobile_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Automobile-77" src="manual" selected="1">F%-------------</AM>
@@ -1560,7 +1560,7 @@
 <LM>w#w-ln95047-124-p5s2w2</LM>
 </w.rf>
 <form>Saab</form>
-<tag lemma="Saab_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Saab_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-124-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1569,7 +1569,7 @@
 </w.rf>
 <form>Automobile</form>
 <tag>
-<AM lemma="Automobile_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Automobile_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="automobil" src="auto" recommended="1">NNIS5-----A----</AM>
 <AM lemma="automobile_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Automobile-77" src="manual" selected="1">F%-------------</AM>
@@ -1601,7 +1601,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1612,7 +1612,7 @@
 </w.rf>
 <form>Motors</form>
 <tag>
-<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-1_;m_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

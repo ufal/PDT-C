@@ -1278,7 +1278,7 @@
 <LM>w#w-mf920902-045-p1s13w3</LM>
 </w.rf>
 <form>Šlosarčíka</form>
-<tag lemma="Šlosarčík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šlosarčík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-045-p1s13w4">
 <src.rf>manual</src.rf>
@@ -1507,8 +1507,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-045-p1s15w3">
@@ -1526,8 +1526,8 @@
 </w.rf>
 <form>lík</form>
 <tag>
-<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lík-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lík-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-045-p1s15w5">

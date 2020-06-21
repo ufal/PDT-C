@@ -200,9 +200,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-058-p3s1w16">
@@ -221,7 +221,7 @@
 <form>Interama</form>
 <tag>
 <AM lemma="Interama_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Interama_;Y_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Interama_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-058-p3s1w18">
@@ -286,7 +286,7 @@
 <LM>w#w-lnd91303-058-p3s1w25</LM>
 </w.rf>
 <form>Lucernafilm</form>
-<tag lemma="Lucernafilm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lucernafilm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91303-058-p3s1w26">
 <src.rf>manual</src.rf>
@@ -397,9 +397,9 @@
 </w.rf>
 <form>Arcanda</form>
 <tag>
-<AM lemma="Arcando_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Arcand_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Arcand_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Arcando_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Arcand_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Arcand_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-058-p3s1w39">
@@ -859,7 +859,7 @@
 <LM>w#w-lnd91303-058-p4s1w47</LM>
 </w.rf>
 <form>Robocopův</form>
-<tag lemma="Robocopův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Robocopův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd91303-058-p4s1w48">
 <src.rf>manual</src.rf>
@@ -1285,7 +1285,7 @@
 <LM>w#w-lnd91303-058-p6s1w1</LM>
 </w.rf>
 <form>Arcandův</form>
-<tag lemma="Arcandův_;S_^(*2)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Arcandův_;Y_^(*2)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd91303-058-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2157,7 +2157,7 @@
 <LM>w#w-lnd91303-058-p6s5w12</LM>
 </w.rf>
 <form>Bluteau</form>
-<tag lemma="Bluteau_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bluteau_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-058-p6s5w13">
 <src.rf>manual</src.rf>
@@ -2224,11 +2224,11 @@
 </w.rf>
 <form>Arcandovi</form>
 <tag>
-<AM lemma="Arcando_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Arcand_;S" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
-<AM lemma="Arcand_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Arcandův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Arcandův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Arcando_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Arcand_;Y" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
+<AM lemma="Arcand_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Arcandův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Arcandův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-058-p7s1w2">
@@ -3054,7 +3054,7 @@
 <LM>w#w-lnd91303-058-p9s1w2</LM>
 </w.rf>
 <form>SYNKOVÁ</form>
-<tag lemma="Synková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Synková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

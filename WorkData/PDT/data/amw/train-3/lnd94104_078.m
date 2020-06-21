@@ -76,8 +76,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-078-p1s1Aw9">
@@ -168,7 +168,7 @@
 <LM>w#w-lnd94104-078-p1s1Bw5</LM>
 </w.rf>
 <form>Just</form>
-<tag lemma="Just_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Just_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-078-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -3466,7 +3466,7 @@
 </w.rf>
 <form>PSSZ</form>
 <tag>
-<AM lemma="PSSZ_:B_;K_^(Pražská_správa_sociálního_zabezpečení)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PSSZ_:B_;m_^(Pražská_správa_sociálního_zabezpečení)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="PSSZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3574,7 +3574,7 @@
 <LM>w#w-lnd94104-078-p1s22w4</LM>
 </w.rf>
 <form>Mareše</form>
-<tag lemma="Mareš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mareš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-078-p1s22w5">
 <src.rf>manual</src.rf>

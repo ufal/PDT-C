@@ -215,7 +215,7 @@
 <LM>w#w-ln95044-054-p2s1Bw22</LM>
 </w.rf>
 <form>ZEITHAMMLA</form>
-<tag lemma="Zeithamml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeithamml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-054-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-ln95044-054-p3s1w2</LM>
 </w.rf>
 <form>Zeithamml</form>
-<tag lemma="Zeithamml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeithamml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-054-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 <LM>w#w-ln95044-054-p3s4w1</LM>
 </w.rf>
 <form>Zeithamml</form>
-<tag lemma="Zeithamml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeithamml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-054-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <LM>w#w-ln95044-054-p4s2w11</LM>
 </w.rf>
 <form>Zeithammlově</form>
-<tag lemma="Zeithammlův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Zeithammlův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln95044-054-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2238,7 +2238,7 @@
 <LM>w#w-ln95044-054-p5s1w1</LM>
 </w.rf>
 <form>Zeithamml</form>
-<tag lemma="Zeithamml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeithamml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-054-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2538,7 +2538,7 @@
 <LM>w#w-ln95044-054-p5s3w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95044-054-p5s3w11">
 <src.rf>manual</src.rf>
@@ -3930,7 +3930,7 @@
 <LM>w#w-ln95044-054-p6s7w3</LM>
 </w.rf>
 <form>Zeithammla</form>
-<tag lemma="Zeithamml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeithamml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-054-p6s7w4">
 <src.rf>manual</src.rf>
@@ -3973,7 +3973,7 @@
 <LM>w#w-ln95044-054-p6s7w8</LM>
 </w.rf>
 <form>Brancusiho</form>
-<tag lemma="Brancusi_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Brancusi_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-054-p6s7w9">
 <src.rf>manual</src.rf>
@@ -4350,7 +4350,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-054-p6s9w24">
@@ -4367,7 +4367,7 @@
 <LM>w#w-ln95044-054-p6s9w25</LM>
 </w.rf>
 <form>Pericovou</form>
-<tag lemma="Pericová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Pericová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95044-054-p6s9w26">
 <src.rf>manual</src.rf>
@@ -4537,7 +4537,7 @@
 <LM>w#w-ln95044-054-p7s1w20</LM>
 </w.rf>
 <form>Zeithammlův</form>
-<tag lemma="Zeithammlův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Zeithammlův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95044-054-p7s1w21">
 <src.rf>manual</src.rf>
@@ -4741,7 +4741,7 @@
 <LM>w#w-ln95044-054-p7s3w2</LM>
 </w.rf>
 <form>Miler</form>
-<tag lemma="Miler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-054-p7s3w3">
 <src.rf>manual</src.rf>
@@ -4757,7 +4757,7 @@
 <LM>w#w-ln95044-054-p7s3w4</LM>
 </w.rf>
 <form>Zeithamml</form>
-<tag lemma="Zeithamml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeithamml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-054-p7s3w5">
 <src.rf>manual</src.rf>

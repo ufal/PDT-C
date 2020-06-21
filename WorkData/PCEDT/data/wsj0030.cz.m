@@ -16,7 +16,7 @@
 <LM>w#w-wsj0030-001-p1s0W1</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0030-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -26,9 +26,9 @@
 <form>L</form>
 <tag>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="L-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="L-33" src="auto">Q3-------------</AM>
+<AM lemma="L-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="L-33" src="auto">Q3-------------</AM>
 <AM lemma="l-77_,t" src="auto">F%-------------</AM>
 <AM lemma="l-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
@@ -51,11 +51,11 @@
 </w.rf>
 <form>Pate</form>
 <tag>
-<AM lemma="Pat_;S_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Pate_;Y" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="Pat_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Pate_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="pat" src="auto">NNIS5-----A----</AM>
-<AM lemma="Pat_;S_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Pate_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pat_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Pate_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0030-001-p1s0W5-Ta">

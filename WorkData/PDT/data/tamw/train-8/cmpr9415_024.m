@@ -1188,7 +1188,7 @@
 </w.rf>
 <form>Víla</form>
 <tag>
-<AM lemma="Víla_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Víla_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="víla" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

@@ -78,7 +78,7 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94208-134-p2s1Bw21</LM>
 </w.rf>
 <form>Melantrichu</form>
-<tag lemma="Melantrich-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Melantrich-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-134-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-ln94208-134-p2s4w19</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94208-134-p2s4w20">
 <src.rf>manual</src.rf>

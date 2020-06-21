@@ -188,8 +188,8 @@
 </w.rf>
 <form>Willem</form>
 <tag>
-<AM lemma="Willem_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Willem_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Willem_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Willem_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-114-p1s2w3">
@@ -198,7 +198,7 @@
 <LM>w#w-lnd94101-114-p1s2w3</LM>
 </w.rf>
 <form>Kleynhans</form>
-<tag lemma="Kleynhans_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kleynhans_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-114-p1s2w4">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-lnd94101-114-p1s4w4</LM>
 </w.rf>
 <form>Mandela</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-114-p1s4w5">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 </w.rf>
 <form>ANC</form>
 <tag>
-<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-1_:B_;m_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -644,8 +644,8 @@
 </w.rf>
 <form>Nelson</form>
 <tag>
-<AM lemma="Nelson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nelson_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nelson_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-114-p1s5w4">
@@ -654,7 +654,7 @@
 <LM>w#w-lnd94101-114-p1s5w4</LM>
 </w.rf>
 <form>Mandela</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-114-p1s5w5">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <LM>w#w-lnd94101-114-p1s7w21</LM>
 </w.rf>
 <form>Mandela</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-114-p1s7w22">
 <src.rf>manual</src.rf>
@@ -1860,7 +1860,7 @@
 </w.rf>
 <form>AWB</form>
 <tag>
-<AM lemma="AWB-2_:B_;K_,t_^(Afrikánské_hnutí_odporu)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="AWB-2_:B_;m_,t_^(Afrikánské_hnutí_odporu)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="AWB-1_:B_,t_^(air_waybill)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AWB-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AWB-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1957,7 +1957,7 @@
 <LM>w#w-lnd94101-114-p1s12w5</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-114-p1s12w6">
 <src.rf>manual</src.rf>
@@ -1996,7 +1996,7 @@
 <LM>w#w-lnd94101-114-p1s12w9</LM>
 </w.rf>
 <form>Maritz</form>
-<tag lemma="Maritz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maritz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-114-p1s12w10">
 <src.rf>manual</src.rf>
@@ -2037,7 +2037,7 @@
 </w.rf>
 <form>AWB</form>
 <tag>
-<AM lemma="AWB-2_:B_;K_,t_^(Afrikánské_hnutí_odporu)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="AWB-2_:B_;m_,t_^(Afrikánské_hnutí_odporu)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="AWB-1_:B_,t_^(air_waybill)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="AWB-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AWB-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2187,7 +2187,7 @@
 <LM>w#w-lnd94101-114-p1s13w1</LM>
 </w.rf>
 <form>Maritzova</form>
-<tag lemma="Maritzův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Maritzův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd94101-114-p1s13w2">
 <src.rf>manual</src.rf>

@@ -91,8 +91,8 @@
 <tag>
 <AM lemma="Pretoria_;G" src="orig">NNFS1-----A----</AM>
 <AM lemma="Pretorie_;G" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
-<AM lemma="Pretorius_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pretorius_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Pretorius_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Pretorius_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-009-p1s1Bw4">
@@ -152,7 +152,7 @@
 </w.rf>
 <form>IEC</form>
 <tag>
-<AM lemma="IEC-1_:B_;K_,t_^(International_Electrotechnical_Commission)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IEC-1_:B_;m_,t_^(International_Electrotechnical_Commission)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -178,7 +178,7 @@
 <LM>w#w-lnd94101-009-p1s1Cw9</LM>
 </w.rf>
 <form>Kriegler</form>
-<tag lemma="Kriegler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kriegler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-009-p1s1Cw10">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-lnd94101-009-p1s2w10</LM>
 </w.rf>
 <form>Klerkem</form>
-<tag lemma="Klerk_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klerk_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94101-009-p1s2w11">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 </w.rf>
 <form>ANC</form>
 <tag>
-<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-1_:B_;m_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -490,7 +490,7 @@
 <LM>w#w-lnd94101-009-p1s2w19</LM>
 </w.rf>
 <form>Nelsonem</form>
-<tag lemma="Nelson_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Nelson_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94101-009-p1s2w20">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-lnd94101-009-p1s2w20</LM>
 </w.rf>
 <form>Mandelou</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94101-009-p1s2w21">
 <src.rf>manual</src.rf>
@@ -752,9 +752,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-009-p1s3w22">

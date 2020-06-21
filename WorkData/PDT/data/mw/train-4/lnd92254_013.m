@@ -87,7 +87,7 @@
 <LM>w#w-lnd92254-013-p2s2w2</LM>
 </w.rf>
 <form>Šverma</form>
-<tag lemma="Šverma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šverma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-013-p2s2w3">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-lnd92254-013-p2s5w19</LM>
 </w.rf>
 <form>Imex</form>
-<tag lemma="Imex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Imex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-013-p2s5w20">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-lnd92254-013-p2s7w9</LM>
 </w.rf>
 <form>Šverma</form>
-<tag lemma="Šverma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šverma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-013-p2s7w10">
 <src.rf>manual</src.rf>

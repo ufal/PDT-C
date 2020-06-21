@@ -53,7 +53,7 @@
 <LM>w#w-ln94204-153-p2s1w4</LM>
 </w.rf>
 <form>Oppenheimer</form>
-<tag lemma="Oppenheimer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oppenheimer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-153-p2s1w5">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 </w.rf>
 <form>Republic</form>
 <tag>
-<AM lemma="Republic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Republic_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Republic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -225,7 +225,7 @@
 </w.rf>
 <form>Fund</form>
 <tag>
-<AM lemma="Fund_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Fund_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Fund-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -244,7 +244,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Inc_:B_;m_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94204-153-p4s1w1</LM>
 </w.rf>
 <form>Spolchemia</form>
-<tag lemma="Spolchemia_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Spolchemia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-153-p4s1w2">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln94204-153-p4s3w2</LM>
 </w.rf>
 <form>Spolchemie</form>
-<tag lemma="Spolchemie_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Spolchemie_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-153-p4s3w3">
 <src.rf>manual</src.rf>

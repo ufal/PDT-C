@@ -37,7 +37,7 @@
 <LM>w#w-ln94200-119-p2s1w2</LM>
 </w.rf>
 <form>Eiffelově</form>
-<tag lemma="Eiffelův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Eiffelův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94200-119-p2s1w3">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 </w.rf>
 <form>Bnai</form>
 <tag>
-<AM lemma="Bnai_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Bnai_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Bnai-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -453,7 +453,7 @@
 </w.rf>
 <form>Brith</form>
 <tag>
-<AM lemma="Brith_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Brith_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Brith-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -561,7 +561,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-119-p3s1w24">
@@ -578,7 +578,7 @@
 <LM>w#w-ln94200-119-p3s1w25</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-119-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1076,8 +1076,8 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-119-p5s1w18">
@@ -1286,7 +1286,7 @@
 <LM>w#w-ln94200-119-p6s1w6</LM>
 </w.rf>
 <form>Richterovy</form>
-<tag lemma="Richterův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Richterův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94200-119-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-119-p7s1w4">
@@ -1515,7 +1515,7 @@
 <LM>w#w-ln94200-119-p7s1w5</LM>
 </w.rf>
 <form>Murajama</form>
-<tag lemma="Murajama_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murajama_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-119-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-ln94200-119-p7s2w1</LM>
 </w.rf>
 <form>Murajama</form>
-<tag lemma="Murajama_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murajama_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-119-p7s2w2">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-119-p8s1w10">
@@ -1919,7 +1919,7 @@
 <LM>w#w-ln94200-119-p8s1w11</LM>
 </w.rf>
 <form>Najak</form>
-<tag lemma="Najak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Najak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-119-p8s1w12">
 <src.rf>manual</src.rf>

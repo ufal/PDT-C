@@ -81,8 +81,8 @@
 </w.rf>
 <form>dan</form>
 <tag>
-<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dan-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-21-p2s1w5">
@@ -421,7 +421,7 @@
 <LM>w#w-ln94201-21-p2s2w12</LM>
 </w.rf>
 <form>Sorosova</form>
-<tag lemma="Sorosův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Sorosův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94201-21-p2s2w13">
 <src.rf>manual</src.rf>

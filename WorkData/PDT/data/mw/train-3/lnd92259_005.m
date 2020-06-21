@@ -205,7 +205,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -366,7 +366,7 @@
 </w.rf>
 <form>Sea</form>
 <tag>
-<AM lemma="Sea_;m_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Sea_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sea-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -443,7 +443,7 @@
 </w.rf>
 <form>FMZV</form>
 <tag>
-<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -611,7 +611,7 @@
 </w.rf>
 <form>FMZV</form>
 <tag>
-<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

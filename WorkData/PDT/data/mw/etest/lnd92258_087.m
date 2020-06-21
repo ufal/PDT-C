@@ -75,7 +75,7 @@
 <LM>w#w-lnd92258-087-p2s1w5</LM>
 </w.rf>
 <form>Gosztony</form>
-<tag lemma="Gosztony_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gosztony_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-087-p3s1">

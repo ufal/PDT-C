@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-094-p1s1w2</LM>
 </w.rf>
 <form>Pithart</form>
-<tag lemma="Pithart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pithart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-094-p1s1w3">
 <src.rf>manual</src.rf>
@@ -137,7 +137,7 @@
 <LM>w#w-ln95044-094-p2s1Cw5</LM>
 </w.rf>
 <form>Rychetského</form>
-<tag lemma="Rychetský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rychetský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-094-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-ln95044-094-p2s1Cw28</LM>
 </w.rf>
 <form>Pithart</form>
-<tag lemma="Pithart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pithart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-094-p2s1Cw29">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 </w.rf>
 <form>SD</form>
 <tag>
-<AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
+<AM lemma="SD_:B_;m" src="orig">NNMXX-----A---8</AM>
 <AM lemma="SD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -489,8 +489,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-094-p2s3w5">

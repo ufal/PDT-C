@@ -81,9 +81,9 @@
 <form>Offenbachu</form>
 <tag>
 <AM lemma="Offenbach_;G" src="orig" selected="1">NNIS6-----A----</AM>
-<AM lemma="Offenbach_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Offenbach_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Offenbach_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Offenbach_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Offenbach_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Offenbach_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p2s1Bw4">
@@ -434,9 +434,9 @@
 </w.rf>
 <form>NEUE</form>
 <tag>
-<AM lemma="Neue_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Neue_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Neue_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Neue_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Neue_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Neue_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="neue_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="NEUE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -493,7 +493,7 @@
 <LM>w#w-ln94204-149-p2s3w4</LM>
 </w.rf>
 <form>Csejka</form>
-<tag lemma="Csejka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Csejka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-149-p2s3w5">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-ln94204-149-p2s3w6</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-149-p2s3w7">
 <src.rf>manual</src.rf>
@@ -828,9 +828,9 @@
 <form>Offenbachu</form>
 <tag>
 <AM lemma="Offenbach_;G" src="orig" selected="1">NNIS2-----A----</AM>
-<AM lemma="Offenbach_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Offenbach_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Offenbach_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Offenbach_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Offenbach_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Offenbach_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p2s5w12">
@@ -1664,9 +1664,9 @@
 </w.rf>
 <form>NEUE</form>
 <tag>
-<AM lemma="Neue_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Neue_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Neue_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Neue_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Neue_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Neue_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="neue_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="NEUE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1756,9 +1756,9 @@
 </w.rf>
 <form>ab</form>
 <tag>
-<AM lemma="ab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ab-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="ab-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ab-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p4s4Bw3">

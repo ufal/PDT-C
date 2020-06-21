@@ -85,7 +85,7 @@
 <LM>w#w-mf930713-151-p2s1w2</LM>
 </w.rf>
 <form>Tarasjuk</form>
-<tag lemma="Tarasjuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tarasjuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-151-p2s1w3">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2415,7 +2415,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -3233,7 +3233,7 @@
 <LM>w#w-mf930713-151-p2s24w22</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930713-151-p2s24w23">
 <src.rf>manual</src.rf>

@@ -345,7 +345,7 @@
 <LM>w#w-ln95045-119-p2s2w6</LM>
 </w.rf>
 <form>Bokoče</form>
-<tag lemma="Bokoč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bokoč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-119-p2s2w7">
 <src.rf>manual</src.rf>

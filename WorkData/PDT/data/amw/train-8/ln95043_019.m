@@ -90,7 +90,7 @@
 </w.rf>
 <form>All</form>
 <tag>
-<AM lemma="All_;K_,t" src="orig">PLXXX----------</AM>
+<AM lemma="All_;m_,t" src="orig">PLXXX----------</AM>
 <AM lemma="All-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -101,7 +101,7 @@
 </w.rf>
 <form>Stars</form>
 <tag>
-<AM lemma="Star_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Star_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Stars-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -128,7 +128,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -368,7 +368,7 @@
 </w.rf>
 <form>ČBF</form>
 <tag>
-<AM lemma="ČBF-1_:B_;K_^(Česká_basketbalová_federace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČBF-1_:B_;m_^(Česká_basketbalová_federace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČBF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -688,7 +688,7 @@
 <LM>w#w-ln95043-019-p2s3w27</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-019-p2s3w28">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-ln95043-019-p2s3w31</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-019-p2s3w32">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1104,7 +1104,7 @@
 </w.rf>
 <form>ALK</form>
 <tag>
-<AM lemma="ALK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ALK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ALK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1115,7 +1115,7 @@
 </w.rf>
 <form>ČBF</form>
 <tag>
-<AM lemma="ČBF-1_:B_;K_^(Česká_basketbalová_federace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČBF-1_:B_;m_^(Česká_basketbalová_federace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČBF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

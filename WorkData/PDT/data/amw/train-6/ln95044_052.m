@@ -418,7 +418,7 @@
 <LM>w#w-ln95044-052-p2s2w21</LM>
 </w.rf>
 <form>Beňačková</form>
-<tag lemma="Beňačková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Beňačková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s2w22">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-ln95044-052-p2s2w24</LM>
 </w.rf>
 <form>Sulženko</form>
-<tag lemma="Sulženko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sulženko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s2w25">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln95044-052-p2s3w17</LM>
 </w.rf>
 <form>Scarlattiho</form>
-<tag lemma="Scarlatti_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Scarlatti_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s3w18">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-ln95044-052-p2s3w19</LM>
 </w.rf>
 <form>Vivaldiho</form>
-<tag lemma="Vivaldi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vivaldi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s3w20">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Schuberta</form>
-<tag lemma="Schubert_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Schubert_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s3w22">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-ln95044-052-p2s3w23</LM>
 </w.rf>
 <form>Mozarta</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s3w24">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-ln95044-052-p2s3w25</LM>
 </w.rf>
 <form>Brucknera</form>
-<tag lemma="Bruckner_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Bruckner_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s3w26">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln95044-052-p2s3w29</LM>
 </w.rf>
 <form>Dvořákova</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
 </m>
 <m id="m-ln95044-052-p2s3w30">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-ln95044-052-p2s3w31</LM>
 </w.rf>
 <form>Janáčkova</form>
-<tag lemma="Janáčkův_;S_^(*3ek)" src="orig" selected="1">AUNP4M---------</tag>
+<tag lemma="Janáčkův_;Y_^(*3ek)" src="orig" selected="1">AUNP4M---------</tag>
 </m>
 <m id="m-ln95044-052-p2s3w32">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln95044-052-p2s3w36</LM>
 </w.rf>
 <form>Nováka</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s3w37">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <form>Lukáše</form>
 <tag>
 <AM lemma="Lukáš_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lukáš_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Lukáš_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-052-p2s3w40">

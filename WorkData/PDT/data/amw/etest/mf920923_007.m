@@ -578,7 +578,7 @@
 <LM>w#w-mf920923-007-p2s2w26</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920923-007-p2s2w27">
 <src.rf>manual</src.rf>
@@ -2056,7 +2056,7 @@
 <LM>w#w-mf920923-007-p4s4w26</LM>
 </w.rf>
 <form>neschopností</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920923-007-p4s4w27">
 <src.rf>manual</src.rf>
@@ -4138,7 +4138,7 @@
 <LM>w#w-mf920923-007-p6s5w33</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-007-p6s5w34">
 <src.rf>manual</src.rf>
@@ -5330,7 +5330,7 @@
 <LM>w#w-mf920923-007-p7s2w23</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920923-007-p7s2w24">
 <src.rf>manual</src.rf>

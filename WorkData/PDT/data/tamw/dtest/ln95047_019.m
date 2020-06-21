@@ -218,7 +218,7 @@
 <LM>w#w-ln95047-019-p3s1w5</LM>
 </w.rf>
 <form>Romário</form>
-<tag lemma="Romário_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Romário_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-019-p3s1w6">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -375,7 +375,7 @@
 <LM>w#w-ln95047-019-p3s2w4</LM>
 </w.rf>
 <form>Molnárovu</form>
-<tag lemma="Molnárův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Molnárův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95047-019-p3s2w5">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln95047-019-p3s2w10</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-019-p3s2w11">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-ln95047-019-p3s3w20</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-019-p3s3w21">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-ln95047-019-p3s4w5</LM>
 </w.rf>
 <form>Souza</form>
-<tag lemma="Souza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Souza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-019-p3s4w6">
 <src.rf>manual</src.rf>
@@ -663,8 +663,8 @@
 </w.rf>
 <form>Tulio</form>
 <tag>
-<AM lemma="Tulio_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Tulia_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Tulio_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tulia_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-019-p3s4w8">
@@ -689,7 +689,7 @@
 <LM>w#w-ln95047-019-p3s4w10</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Santos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-019-p3s4w11">
 <src.rf>manual</src.rf>

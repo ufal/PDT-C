@@ -59,7 +59,7 @@
 <LM>w#w-ln95047-131-p1s1w6</LM>
 </w.rf>
 <form>Honeywell</form>
-<tag lemma="Honeywell_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Honeywell_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-131-p2s1A">
@@ -103,7 +103,7 @@
 <LM>w#w-ln95047-131-p2s1Bw3</LM>
 </w.rf>
 <form>Honeywell</form>
-<tag lemma="Honeywell_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Honeywell_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-131-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln95047-131-p2s2w13</LM>
 </w.rf>
 <form>Vlk</form>
-<tag lemma="Vlk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-131-p2s2w14">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-ln95047-131-p2s2w19</LM>
 </w.rf>
 <form>Honeywell</form>
-<tag lemma="Honeywell_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Honeywell_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-131-p2s2w20">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln95047-131-p2s2w21</LM>
 </w.rf>
 <form>Haškovec</form>
-<tag lemma="Haškovec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haškovec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-131-p2s2w22">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-ln95047-131-p3s1w3</LM>
 </w.rf>
 <form>Honeywell</form>
-<tag lemma="Honeywell_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Honeywell_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-131-p3s1w4">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 </w.rf>
 <form>Bohemia</form>
 <tag>
-<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -966,9 +966,9 @@
 </w.rf>
 <form>Glass</form>
 <tag>
-<AM lemma="Glass-1_;K_^(Moravia_Glass)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Glass-1_;K_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
-<AM lemma="Glass_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;m_^(Moravia_Glass)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Glass-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -644,7 +644,7 @@
 <LM>w#w-mf920922-126-p3s1w18</LM>
 </w.rf>
 <form>Ulislamovi</form>
-<tag lemma="Ulislam_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ulislam_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920922-126-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 <LM>w#w-mf920922-126-p4s2w9</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-126-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1262,7 +1262,7 @@
 <LM>w#w-mf920922-126-p4s4w1</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-126-p4s4w2">
 <src.rf>manual</src.rf>

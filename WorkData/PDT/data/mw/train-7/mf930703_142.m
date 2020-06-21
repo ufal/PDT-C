@@ -741,7 +741,7 @@
 <LM>w#w-mf930703-142-p2s5w4</LM>
 </w.rf>
 <form>Zlenko</form>
-<tag lemma="Zlenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-142-p2s5w5">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf930703-142-p2s5w12</LM>
 </w.rf>
 <form>Popadiukovi</form>
-<tag lemma="Popadiuk_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Popadiuk_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930703-142-p2s5w13">
 <src.rf>manual</src.rf>

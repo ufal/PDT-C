@@ -96,8 +96,8 @@
 </w.rf>
 <form>Sejmu</form>
 <tag>
-<AM lemma="Sejm_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Sejm_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Sejm_;m_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sejm_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-31-p2s1Bw4">
@@ -165,7 +165,7 @@
 <LM>w#w-ln94207-31-p2s1Bw11</LM>
 </w.rf>
 <form>Walesy</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-31-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln94207-31-p2s2w3</LM>
 </w.rf>
 <form>Walesova</form>
-<tag lemma="Walesův_;S_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Walesův_;Y_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94207-31-p2s2w4">
 <src.rf>manual</src.rf>

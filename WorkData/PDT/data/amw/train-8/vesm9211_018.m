@@ -756,7 +756,7 @@
 <LM>w#w-vesm9211-018-p2s5w2</LM>
 </w.rf>
 <form>Budil</form>
-<tag lemma="Budil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-018-p3s1">

@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-022-p1s1w1</LM>
 </w.rf>
 <form>Boniek</form>
-<tag lemma="Boniek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Boniek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-022-p1s1w2">
 <src.rf>manual</src.rf>
@@ -88,8 +88,8 @@
 </w.rf>
 <form>Zbygniew</form>
 <tag>
-<AM lemma="Zbygniew_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zbygniew_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zbygniew_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zbygniew_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-022-p2s1Bw6">
@@ -98,7 +98,7 @@
 <LM>w#w-ln95040-022-p2s1Bw6</LM>
 </w.rf>
 <form>Boniek</form>
-<tag lemma="Boniek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Boniek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-022-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln95040-022-p2s2w1</LM>
 </w.rf>
 <form>Boniek</form>
-<tag lemma="Boniek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Boniek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-022-p2s2w2">
 <src.rf>manual</src.rf>
@@ -232,8 +232,8 @@
 </w.rf>
 <form>Go</form>
 <tag>
-<AM lemma="Go_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="go_;y_^(stolní_desková_hra)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Go_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="go_^(stolní_desková_hra)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="go_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Go-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -256,7 +256,7 @@
 </w.rf>
 <form>Goal</form>
 <tag>
-<AM lemma="Goal_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Goal_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="goal_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Goal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -397,7 +397,7 @@
 <LM>w#w-ln95040-022-p2s3w1</LM>
 </w.rf>
 <form>Boniek</form>
-<tag lemma="Boniek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Boniek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-022-p2s3w2">
 <src.rf>manual</src.rf>

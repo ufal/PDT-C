@@ -383,7 +383,7 @@
 <LM>w#w-mf920922-139-p3s2w16</LM>
 </w.rf>
 <form>Rüütelem</form>
-<tag lemma="Rüütel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rüütel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-139-p3s2w17">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-mf920922-139-p3s2w24</LM>
 </w.rf>
 <form>Lennartem</form>
-<tag lemma="Lennart_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lennart_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-139-p3s2w25">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-mf920922-139-p3s2w25</LM>
 </w.rf>
 <form>Merim</form>
-<tag lemma="Meri_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Meri_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-139-p3s2w26">
 <src.rf>manual</src.rf>

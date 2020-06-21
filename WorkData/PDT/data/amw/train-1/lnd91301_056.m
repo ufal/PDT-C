@@ -35,7 +35,7 @@
 <LM>w#w-lnd91301-056-p1s1w3</LM>
 </w.rf>
 <form>Dostála</form>
-<tag lemma="Dostál_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dostál_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-056-p1s1w4">
 <src.rf>manual</src.rf>
@@ -52,7 +52,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -82,8 +82,8 @@
 <form_change>spell</form_change>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-056-p2s1w3">
@@ -111,7 +111,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -331,7 +331,7 @@
 <LM>w#w-lnd91301-056-p3s2w14</LM>
 </w.rf>
 <form>Pludek</form>
-<tag lemma="Pludek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pludek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-056-p3s2w15">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-lnd91301-056-p4s1w4</LM>
 </w.rf>
 <form>Pludkem</form>
-<tag lemma="Pludek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pludek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-056-p4s1w5">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-056-p4s3w10">
@@ -733,7 +733,7 @@
 <LM>w#w-lnd91301-056-p4s3w11</LM>
 </w.rf>
 <form>Pludka</form>
-<tag lemma="Pludek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pludek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-056-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-lnd91301-056-p4s6w7</LM>
 </w.rf>
 <form>Pludek</form>
-<tag lemma="Pludek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pludek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-056-p4s6w8">
 <src.rf>manual</src.rf>
@@ -1736,7 +1736,7 @@
 <LM>w#w-lnd91301-056-p4s7w26</LM>
 </w.rf>
 <form>Pludka</form>
-<tag lemma="Pludek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pludek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-056-p4s7w27">
 <src.rf>manual</src.rf>
@@ -1827,8 +1827,8 @@
 </w.rf>
 <form>nel</form>
 <tag>
-<AM lemma="nel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nel-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nel-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-056-p5s1w3">

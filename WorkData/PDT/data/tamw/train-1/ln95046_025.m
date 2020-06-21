@@ -27,7 +27,7 @@
 <LM>w#w-ln95046-025-p1s1w2</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-025-p1s1w3">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-ln95046-025-p1s1w7</LM>
 </w.rf>
 <form>Kamešovi</form>
-<tag lemma="Kameš_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Kameš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95046-025-p1s1w8">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-025-p1s1w10">
@@ -102,7 +102,7 @@
 <LM>w#w-ln95046-025-p1s1w11</LM>
 </w.rf>
 <form>Kaňkovskému</form>
-<tag lemma="Kaňkovský_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kaňkovský_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95046-025-p1s1w12">
 <src.rf>manual</src.rf>

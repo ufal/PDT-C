@@ -35,7 +35,7 @@
 <LM>w#w-ln94206-18-p1s1w3</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94206-18-p1s1w4">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-ln94206-18-p2s1w27</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-18-p2s1w28">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln94206-18-p2s1w30</LM>
 </w.rf>
 <form>Hesoun</form>
-<tag lemma="Hesoun_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hesoun_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-18-p2s1w31">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-18-p3s1w4">
@@ -612,7 +612,7 @@
 <LM>w#w-ln94206-18-p3s1w5</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-18-p3s1w6">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-ln94206-18-p3s1w12</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94206-18-p3s1w13">
 <src.rf>manual</src.rf>
@@ -2153,9 +2153,9 @@
 </w.rf>
 <form>hm</form>
 <tag>
-<AM lemma="hm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hm-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hm" src="auto" recommended="1">II-------------</AM>
-<AM lemma="hm-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hm-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-18-p5s2w3">

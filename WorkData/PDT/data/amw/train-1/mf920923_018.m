@@ -38,7 +38,7 @@
 <LM>w#w-mf920923-018-p1s1w3</LM>
 </w.rf>
 <form>Mečiarovo</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf920923-018-p1s1w4">
 <src.rf>manual</src.rf>

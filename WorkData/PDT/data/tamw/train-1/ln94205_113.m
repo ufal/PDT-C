@@ -19,7 +19,7 @@
 <LM>w#w-ln94205-113-p1s1w1</LM>
 </w.rf>
 <form>Kirjakov</form>
-<tag lemma="Kirjakov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kirjakov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-113-p1s1w2">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln94205-113-p2s2w7</LM>
 </w.rf>
 <form>Kirjakov</form>
-<tag lemma="Kirjakov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kirjakov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-113-p2s2w8">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-ln94205-113-p2s2w11</LM>
 </w.rf>
 <form>Kančelskis</form>
-<tag lemma="Kančelskis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kančelskis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-113-p2s2w12">
 <src.rf>manual</src.rf>
@@ -288,8 +288,8 @@
 </w.rf>
 <form>Unt</form>
 <tag>
-<AM lemma="United_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Unt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="United_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Unt_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
 <AM lemma="Unt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -316,7 +316,7 @@
 <LM>w#w-ln94205-113-p2s2w17</LM>
 </w.rf>
 <form>Šalimov</form>
-<tag lemma="Šalimov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šalimov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-113-p2s2w18">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln94205-113-p2s2w19</LM>
 </w.rf>
 <form>Interu</form>
-<tag lemma="Inter_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Inter_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-113-p2s2w20">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-ln94205-113-p2s2w22</LM>
 </w.rf>
 <form>Kolyvanov</form>
-<tag lemma="Kolyvanov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolyvanov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-113-p2s2w23">
 <src.rf>manual</src.rf>

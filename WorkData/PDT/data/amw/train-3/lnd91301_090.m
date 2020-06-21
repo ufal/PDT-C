@@ -53,7 +53,7 @@
 <LM>w#w-lnd91301-090-p2s1w1</LM>
 </w.rf>
 <form>ALBERTVILLE</form>
-<tag lemma="Albertville_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Albertville_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91301-090-p2s1w2">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 </w.rf>
 <form>ZOH</form>
 <tag>
-<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -154,7 +154,7 @@
 <LM>w#w-lnd91301-090-p3s1w11</LM>
 </w.rf>
 <form>Albertville</form>
-<tag lemma="Albertville_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Albertville_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91301-090-p3s1w12">
 <src.rf>manual</src.rf>
@@ -390,9 +390,9 @@
 </w.rf>
 <form>Killy</form>
 <tag>
-<AM lemma="Killy_;S" src="orig">NNMP1-----A----</AM>
-<AM lemma="Killy_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Killy_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Killy_;Y" src="orig">NNMP1-----A----</AM>
+<AM lemma="Killy_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Killy_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-090-p3s3w5">
@@ -497,7 +497,7 @@
 <LM>w#w-lnd91301-090-p3s3w17</LM>
 </w.rf>
 <form>Matern</form>
-<tag lemma="Matern_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matern_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-090-p3s3w18">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-lnd91301-090-p3s3w31</LM>
 </w.rf>
 <form>Albertville</form>
-<tag lemma="Albertville_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Albertville_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91301-090-p3s3w32">
 <src.rf>manual</src.rf>
@@ -660,8 +660,8 @@
 </w.rf>
 <form>Roche</form>
 <tag>
-<AM lemma="Roche_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roche-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Roche_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Roche-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-090-p3s4w6">

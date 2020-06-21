@@ -20,7 +20,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -115,7 +115,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -331,7 +331,7 @@
 </w.rf>
 <form>Sinn</form>
 <tag>
-<AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
+<AM lemma="SF-2`Sinn-1_;m_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -343,7 +343,7 @@
 </w.rf>
 <form>Fein</form>
 <tag>
-<AM lemma="SF-2`Fein-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
+<AM lemma="SF-2`Fein-1_;m_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
@@ -364,7 +364,7 @@
 <LM>w#w-ln94207-123-p2s2w14</LM>
 </w.rf>
 <form>Adams</form>
-<tag lemma="Adams_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Adams_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-123-p2s2w15">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -637,7 +637,7 @@
 <LM>w#w-ln94207-123-p3s1w1</LM>
 </w.rf>
 <form>Adams</form>
-<tag lemma="Adams_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Adams_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-123-p3s1w2">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-ln94207-123-p4s1w11</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-123-p4s1w12">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-ln94207-123-p4s1w17</LM>
 </w.rf>
 <form>Springem</form>
-<tag lemma="Spring_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Spring_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-123-p4s1w18">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-ln94207-123-p4s2w1</LM>
 </w.rf>
 <form>Spring</form>
-<tag lemma="Spring_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Spring_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-123-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-ln94207-123-p4s2w7</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-123-p4s2w8">
 <src.rf>manual</src.rf>

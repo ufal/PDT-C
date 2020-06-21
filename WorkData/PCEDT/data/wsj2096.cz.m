@@ -61,7 +61,7 @@
 <form>Nogales</form>
 <tag>
 <AM lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Nogales-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nogales-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2096-001-p1s0W4-Ta">
@@ -90,7 +90,7 @@
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2096-001-p1s0W7-Ta">
@@ -188,7 +188,7 @@
 <form>Nogales</form>
 <tag>
 <AM lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Nogales-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nogales-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2096-001-p1s1W2-Ta">
@@ -286,7 +286,7 @@
 <form>International</form>
 <tag>
 <AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -298,9 +298,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -326,7 +326,7 @@
 <form>Univision</form>
 <tag>
 <AM lemma="Univision" src="auto">X@-------------</AM>
-<AM lemma="Univision_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Univision_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2096-001-p1s1W12-Ta">
@@ -463,8 +463,8 @@
 </w.rf>
 <form>Castro</form>
 <tag>
-<AM lemma="Castro_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Castro_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Castro_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Castro_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Castro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -508,8 +508,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -526,7 +526,7 @@
 <AM lemma="kalifornie-2_^(druh_vepřovicové_usně)" src="auto">NNFS3-----A----</AM>
 <AM lemma="kalifornie-2_^(druh_vepřovicové_usně)" src="auto">NNFS4-----A----</AM>
 <AM lemma="kalifornie-2_^(druh_vepřovicové_usně)" src="auto">NNFS6-----A----</AM>
-<AM lemma="kalifornium_;H" src="auto">NNNP7-----A----</AM>
+<AM lemma="kalifornium_;U" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2096-001-p1s1W29-Ta">
@@ -558,7 +558,7 @@
 <form>Nogales</form>
 <tag>
 <AM lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Nogales-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nogales-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2096-001-p1s2W3-Ta">
@@ -696,8 +696,8 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2096-001-p1s2W13-Ta">
@@ -897,7 +897,7 @@
 </w.rf>
 <form>tak</form>
 <tag>
-<AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
 <AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>

@@ -102,7 +102,7 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -214,7 +214,7 @@
 </w.rf>
 <form>NEOBLBA</form>
 <tag>
-<AM lemma="NEOBLBA_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="NEOBLBA_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="NEOBLBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -531,8 +531,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-135-p2s2w17">
@@ -616,7 +616,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -717,8 +717,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-135-p2s4w4">
@@ -842,7 +842,7 @@
 </w.rf>
 <form>NEOBLBY</form>
 <tag>
-<AM lemma="NEOBLBA_;K" src="orig">NNFS2-----A----</AM>
+<AM lemma="NEOBLBA_;m" src="orig">NNFS2-----A----</AM>
 <AM lemma="NEOBLBY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1230,7 +1230,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

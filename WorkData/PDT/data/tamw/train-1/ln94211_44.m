@@ -197,7 +197,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-44-p2s3w4">
@@ -214,7 +214,7 @@
 <LM>w#w-ln94211-44-p2s3w5</LM>
 </w.rf>
 <form>Smotlacha</form>
-<tag lemma="Smotlacha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smotlacha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-44-p2s3w6">
 <src.rf>manual</src.rf>

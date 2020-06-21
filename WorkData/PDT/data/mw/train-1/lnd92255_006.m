@@ -69,7 +69,7 @@
 <LM>w#w-lnd92255-006-p2s1w2</LM>
 </w.rf>
 <form>EPIAG</form>
-<tag lemma="Epiag_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Epiag_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-006-p3s1">
@@ -299,7 +299,7 @@
 <LM>w#w-lnd92255-006-p3s3w5</LM>
 </w.rf>
 <form>EPIAG</form>
-<tag lemma="Epiag_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Epiag_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-006-p3s3w6">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd92255-006-p3s4w16</LM>
 </w.rf>
 <form>Procházka</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-006-p3s4w17">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-lnd92255-006-p4s1w1</LM>
 </w.rf>
 <form>EPIAG</form>
-<tag lemma="Epiag_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Epiag_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-006-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2069,7 +2069,7 @@
 <LM>w#w-lnd92255-006-p4s8w27</LM>
 </w.rf>
 <form>Procházka</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-006-p4s8w28">
 <src.rf>manual</src.rf>
@@ -2810,7 +2810,7 @@
 <LM>w#w-lnd92255-006-p6s2w2</LM>
 </w.rf>
 <form>Epiagu</form>
-<tag lemma="Epiag_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Epiag_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-006-p6s2w3">
 <src.rf>manual</src.rf>
@@ -3169,7 +3169,7 @@
 <LM>w#w-lnd92255-006-p6s5w2</LM>
 </w.rf>
 <form>Epiagu</form>
-<tag lemma="Epiag_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Epiag_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-006-p6s5w3">
 <src.rf>manual</src.rf>
@@ -3475,7 +3475,7 @@
 <LM>w#w-lnd92255-006-p6s6w27</LM>
 </w.rf>
 <form>Epiagu</form>
-<tag lemma="Epiag_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Epiag_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-006-p6s6w28">
 <src.rf>manual</src.rf>
@@ -3502,8 +3502,8 @@
 </w.rf>
 <form>ge</form>
 <tag>
-<AM lemma="ge-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ge-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ge-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ge-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-006-p7s1w3">

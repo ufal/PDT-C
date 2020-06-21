@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9415-013-p2s1w3</LM>
 </w.rf>
 <form>Globtour</form>
-<tag lemma="Globtour_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Globtour_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-013-p3s1">
@@ -177,9 +177,9 @@
 <form>Kat</form>
 <tag>
 <AM lemma="kategorie" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kat_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Kat_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="kat" src="auto">NNMS1-----A----</AM>
-<AM lemma="kata_;w_,t" src="auto">NNFP2-----A----</AM>
+<AM lemma="kata_,t" src="auto">NNFP2-----A----</AM>
 <AM lemma="kategorie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
@@ -199,8 +199,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p4s1w10">

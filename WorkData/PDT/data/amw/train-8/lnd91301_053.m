@@ -27,7 +27,7 @@
 <LM>w#w-lnd91301-053-p1s1w2</LM>
 </w.rf>
 <form>Bakšay</form>
-<tag lemma="Bakšay_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bakšay_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91301-053-p2s1">
@@ -375,7 +375,7 @@
 <LM>w#w-lnd91301-053-p4s1w37</LM>
 </w.rf>
 <form>Bakšay</form>
-<tag lemma="Bakšay_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bakšay_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-053-p4s1w38">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-lnd91301-053-p4s5w8</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-053-p4s5w9">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-lnd91301-053-p4s5w19</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-053-p4s5w20">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-lnd91301-053-p4s5w32</LM>
 </w.rf>
 <form>Hoffmannem</form>
-<tag lemma="Hoffmann_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hoffmann_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-053-p4s5w33">
 <src.rf>manual</src.rf>

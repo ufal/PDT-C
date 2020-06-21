@@ -191,7 +191,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-033-p2s1w17">
@@ -208,7 +208,7 @@
 <LM>w#w-vesm9303-033-p2s1w18</LM>
 </w.rf>
 <form>Broca</form>
-<tag lemma="Broca_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Broca_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p2s1w19">
 <src.rf>manual</src.rf>
@@ -1641,7 +1641,7 @@
 </w.rf>
 <form>Brit</form>
 <tag>
-<AM lemma="British_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="British_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Brit_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="Brita_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
@@ -1665,8 +1665,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-033-p3s3w25">
@@ -1684,7 +1684,7 @@
 </w.rf>
 <form>Psych</form>
 <tag>
-<AM lemma="Psychology_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Psychology_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Psych-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1907,7 +1907,7 @@
 <LM>w#w-vesm9303-033-p4s1w2</LM>
 </w.rf>
 <form>Koukolík</form>
-<tag lemma="Koukolík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukolík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-033-p5s1">

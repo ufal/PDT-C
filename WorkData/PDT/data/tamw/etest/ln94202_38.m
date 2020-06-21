@@ -70,8 +70,8 @@
 </w.rf>
 <form>ld</form>
 <tag>
-<AM lemma="ld-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ld-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ld-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ld-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-38-p2s1Aw4">
@@ -811,7 +811,7 @@
 <LM>w#w-ln94202-38-p2s7w8</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-38-p2s7w9">
 <src.rf>manual</src.rf>

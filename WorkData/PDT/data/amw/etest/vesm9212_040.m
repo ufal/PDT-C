@@ -531,7 +531,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-040-p2s3w8">
@@ -550,7 +550,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-040-p2s3w10">
@@ -567,7 +567,7 @@
 <LM>w#w-vesm9212-040-p2s3w11</LM>
 </w.rf>
 <form>Ehrenberg</form>
-<tag lemma="Ehrenberg_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ehrenberg_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-040-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -2293,7 +2293,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-040-p6s1w3">
@@ -2310,7 +2310,7 @@
 <LM>w#w-vesm9212-040-p6s1w4</LM>
 </w.rf>
 <form>Bucher</form>
-<tag lemma="Bucher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bucher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-040-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2369,7 +2369,7 @@
 <form>Letter</form>
 <tag>
 <AM lemma="letter_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Letter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Letter_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="letter_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Letter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2467,7 +2467,7 @@
 <LM>w#w-vesm9212-040-p7s1w2</LM>
 </w.rf>
 <form>Cílek</form>
-<tag lemma="Cílek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cílek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-040-p8s1">

@@ -535,7 +535,7 @@
 <LM>w#w-ln95041-118-p3s3w4</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln95041-118-p3s3w5">
 <src.rf>manual</src.rf>
@@ -964,8 +964,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-118-p4s2w14">
@@ -974,7 +974,7 @@
 <LM>w#w-ln95041-118-p4s2w14</LM>
 </w.rf>
 <form>Mart</form>
-<tag lemma="Mart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-118-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-ln95041-118-p4s2w20</LM>
 </w.rf>
 <form>Korag</form>
-<tag lemma="Korag_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Korag_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-118-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <LM>w#w-ln95041-118-p6s3w19</LM>
 </w.rf>
 <form>Demlové</form>
-<tag lemma="Demlová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Demlová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-118-p6s3w20">
 <src.rf>manual</src.rf>

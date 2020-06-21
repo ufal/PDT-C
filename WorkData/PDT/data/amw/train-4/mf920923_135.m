@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-135-p1s1w1</LM>
 </w.rf>
 <form>Guzmán</form>
-<tag lemma="Guzmán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Guzmán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-135-p1s1w2">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf920923-135-p2s2w11</LM>
 </w.rf>
 <form>Guzmán</form>
-<tag lemma="Guzmán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Guzmán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-135-p2s2w12">
 <src.rf>manual</src.rf>
@@ -408,7 +408,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -596,7 +596,7 @@
 <LM>w#w-mf920923-135-p3s1w11</LM>
 </w.rf>
 <form>Guzmánovy</form>
-<tag lemma="Guzmánův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Guzmánův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920923-135-p3s1w12">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-mf920923-135-p3s2w1</LM>
 </w.rf>
 <form>Guzmán</form>
-<tag lemma="Guzmán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Guzmán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-135-p3s2w2">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-mf920923-135-p3s3w12</LM>
 </w.rf>
 <form>Iparaguirre</form>
-<tag lemma="Iparaguirre_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Iparaguirre_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920923-135-p3s3w13">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-mf920923-135-p3s4w4</LM>
 </w.rf>
 <form>Guzmána</form>
-<tag lemma="Guzmán_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Guzmán_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920923-135-p3s4w5">
 <src.rf>manual</src.rf>

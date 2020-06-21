@@ -711,7 +711,7 @@
 <LM>w#w-lnd92251-005-p3s3w24</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-005-p3s3w25">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-005-p4s1w19">
@@ -890,7 +890,7 @@
 <LM>w#w-lnd92251-005-p4s1w20</LM>
 </w.rf>
 <form>Poláček</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-005-p4s1w21">
 <src.rf>manual</src.rf>
@@ -2832,7 +2832,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-005-p5s10w20">
@@ -2849,7 +2849,7 @@
 <LM>w#w-lnd92251-005-p5s10w21</LM>
 </w.rf>
 <form>Poláček</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-005-p5s10w22">
 <src.rf>manual</src.rf>
@@ -3179,7 +3179,7 @@
 <form>ria</form>
 <tag>
 <AM lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig">NNFS1-----A----</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-005-p6s1w3">

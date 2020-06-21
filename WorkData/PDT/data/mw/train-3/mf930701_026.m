@@ -77,7 +77,7 @@
 <LM>w#w-mf930701-026-p2s1w3</LM>
 </w.rf>
 <form>dd</form>
-<tag lemma="dd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dd-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930701-026-p2s1w4">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

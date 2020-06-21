@@ -242,9 +242,9 @@
 </w.rf>
 <form>Francesco</form>
 <tag>
-<AM lemma="Francesco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Francesco_;Y_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Francesco_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Francesco_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Francesco_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Francesco_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-22-p2s2w4">
@@ -253,7 +253,7 @@
 <LM>w#w-ln94208-22-p2s2w4</LM>
 </w.rf>
 <form>Montarisi</form>
-<tag lemma="Montarisi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Montarisi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-22-p2s2w5">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln94208-22-p2s3w6</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94208-22-p2s3w7">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-ln94208-22-p2s4w19</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94208-22-p2s4w20">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-22-p2s6w8">
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln94208-22-p2s6w9</LM>
 </w.rf>
 <form>Pasquier</form>
-<tag lemma="Pasquier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pasquier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-22-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1192,7 +1192,7 @@
 <LM>w#w-ln94208-22-p2s7w17</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-22-p2s7w18">
 <src.rf>manual</src.rf>

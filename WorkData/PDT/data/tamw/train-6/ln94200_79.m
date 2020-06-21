@@ -62,8 +62,8 @@
 </w.rf>
 <form>jap</form>
 <tag>
-<AM lemma="jap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jap-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jap-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jap-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-79-p2s1Aw4">
@@ -81,10 +81,10 @@
 </w.rf>
 <form>pech</form>
 <tag>
-<AM lemma="pech-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pech-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
-<AM lemma="pech-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pech-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-79-p2s1Aw6">
@@ -369,7 +369,7 @@
 <LM>w#w-ln94200-79-p2s2w11</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-79-p2s2w12">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-ln94200-79-p2s5w11</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-79-p2s5w12">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-ln94200-79-p3s2w2</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-79-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1399,7 +1399,7 @@
 <LM>w#w-ln94200-79-p4s2w2</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-79-p4s2w3">
 <src.rf>manual</src.rf>

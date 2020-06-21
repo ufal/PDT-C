@@ -125,7 +125,7 @@
 <form>Roman</form>
 <tag>
 <AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Roman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-102-p1s1w15">
@@ -199,7 +199,7 @@
 </w.rf>
 <form>FNS</form>
 <tag>
-<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FNS_:B_;m_^(Fronta_nár._spásy)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="FNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -226,7 +226,7 @@
 </w.rf>
 <form>Dragomir</form>
 <tag>
-<AM lemma="Dragomir-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dragomir-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Dragomir_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dragomir_;G" src="auto">NNIS4-----A----</AM>
 </tag>

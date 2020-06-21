@@ -338,7 +338,7 @@
 </w.rf>
 <form>AISA</form>
 <tag>
-<AM lemma="AISA_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="AISA_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

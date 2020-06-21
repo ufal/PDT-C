@@ -68,7 +68,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mý-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -82,7 +82,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSNS5-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP4-S1------7</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYP4-S1------7</AM>
-<AM lemma="mý-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mý-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-044-p1s1Aw8">
@@ -202,7 +202,7 @@
 <form>Šmolka</form>
 <tag>
 <AM lemma="šmolka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Šmolka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šmolka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-044-p1s1Bw13">
@@ -514,7 +514,7 @@
 <form>Šmolka</form>
 <tag>
 <AM lemma="šmolka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Šmolka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šmolka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-044-p1s3w20">

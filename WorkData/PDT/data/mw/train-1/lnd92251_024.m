@@ -727,7 +727,7 @@
 </w.rf>
 <form>KNV</form>
 <tag>
-<AM lemma="KNV_:B_;K_;p_^(Krajský_nár._výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KNV_:B_;m_^(Krajský_nár._výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KNV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1054,7 +1054,7 @@
 <LM>w#w-lnd92251-024-p4s4w29</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92251-024-p4s4w30">
 <src.rf>manual</src.rf>
@@ -1193,10 +1193,10 @@
 </w.rf>
 <form>IMOS</form>
 <tag>
-<AM lemma="IMOS-2_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IMOS-2_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IMOS-1_:B_,t_^(ion-implanted_MOS)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Imos_;K" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Imos_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Imos_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imos_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-024-p4s5w15">
@@ -1744,10 +1744,10 @@
 </w.rf>
 <form>IMOS</form>
 <tag>
-<AM lemma="IMOS-2_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IMOS-2_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IMOS-1_:B_,t_^(ion-implanted_MOS)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Imos_;K" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Imos_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Imos_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imos_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-024-p4s7w31">
@@ -2246,7 +2246,7 @@
 <form>KUCHAŘ</form>
 <tag>
 <AM lemma="kuchař" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kuchař_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuchař_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

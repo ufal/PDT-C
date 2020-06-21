@@ -42,9 +42,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -325,8 +325,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -550,7 +550,7 @@
 <LM>w#w-wsj0757-001-p1s2W3</LM>
 </w.rf>
 <form>Adams</form>
-<tag lemma="Adams_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Adams_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0757-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -582,8 +582,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -783,7 +783,7 @@
 <form>Gordon</form>
 <tag>
 <AM lemma="Gordon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gordon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gordon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0757-001-p1s5W4-Ta">
@@ -1009,7 +1009,7 @@
 <form>Drybred</form>
 <tag>
 <AM lemma="Drybred" src="auto">X@-------------</AM>
-<AM lemma="Drybred_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Drybred_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0757-001-p1s8W4-Ta">

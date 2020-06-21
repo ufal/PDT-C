@@ -119,7 +119,7 @@
 <LM>w#w-lnd92254-017-p3s1w3</LM>
 </w.rf>
 <form>šc</form>
-<tag lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="šc-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92254-017-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-lnd92254-017-p4s5w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92254-017-p4s5w19">
 <src.rf>manual</src.rf>

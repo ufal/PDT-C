@@ -1042,7 +1042,7 @@
 <LM>w#w-ln95049-084-p4s4w6</LM>
 </w.rf>
 <form>Podkonického</form>
-<tag lemma="Podkonický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Podkonický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-084-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1795,7 +1795,7 @@
 <LM>w#w-ln95049-084-p6s2w2</LM>
 </w.rf>
 <form>Benettonu</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-084-p6s2w3">
 <src.rf>manual</src.rf>
@@ -3290,7 +3290,7 @@
 <LM>w#w-ln95049-084-p8s2w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95049-084-p8s2w11">
 <src.rf>manual</src.rf>

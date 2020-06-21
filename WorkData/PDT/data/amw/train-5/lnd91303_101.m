@@ -592,8 +592,8 @@
 <form>Pele</form>
 <tag>
 <AM lemma="pele" src="orig">NNNXX-----A----</AM>
-<AM lemma="Pele_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pele_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Pele_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pele_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="pel" src="auto">NNIS5-----A----</AM>
 <AM lemma="pele" src="manual" selected="1">Db-------------</AM>
 </tag>
@@ -644,7 +644,7 @@
 <LM>w#w-lnd91303-101-p6s1w3</LM>
 </w.rf>
 <form>Pasqual</form>
-<tag lemma="Pasqual_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pasqual_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-101-p6s1w4">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-lnd91303-101-p6s1w4</LM>
 </w.rf>
 <form>Maragall</form>
-<tag lemma="Maragall_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maragall_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-101-p6s1w5">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-lnd91303-101-p8s1w9</LM>
 </w.rf>
 <form>Lok</form>
-<tag lemma="Lokomotiva_:B_;K_^(sport.:_souč._názvu_klubu)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Lokomotiva_:B_;m_^(sport.:_souč._názvu_klubu)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd91303-101-p8s1w10">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <form>Ga</form>
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
-<AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="galium_:B_;U" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ga-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1381,7 +1381,7 @@
 <form>Ga</form>
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
-<AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="galium_:B_;U" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ga-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

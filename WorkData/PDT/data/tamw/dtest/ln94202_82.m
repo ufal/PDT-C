@@ -114,7 +114,7 @@
 <LM>w#w-ln94202-82-p2s1Aw2</LM>
 </w.rf>
 <form>Harmanec</form>
-<tag lemma="Harmanec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Harmanec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-82-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -155,8 +155,8 @@
 </w.rf>
 <form>AV</form>
 <tag>
-<AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AV_:B_;K_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-82-p2s1Aw8">
@@ -562,8 +562,8 @@
 </w.rf>
 <form>AV</form>
 <tag>
-<AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AV_:B_;K_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-82-p2s2w20">
@@ -1935,9 +1935,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-82-p5s1w10">
@@ -2036,7 +2036,7 @@
 <LM>w#w-ln94202-82-p5s2w11</LM>
 </w.rf>
 <form>Hubbleova</form>
-<tag lemma="Hubbleův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Hubbleův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94202-82-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2068,7 +2068,7 @@
 <LM>w#w-ln94202-82-p5s2w15</LM>
 </w.rf>
 <form>Goddardově</form>
-<tag lemma="Goddardův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Goddardův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94202-82-p5s2w16">
 <src.rf>manual</src.rf>
@@ -2085,7 +2085,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NASA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="NASA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7693,7 +7693,7 @@
 <LM>w#w-ln94202-82-p10s2w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94202-82-p10s2w17">
 <src.rf>manual</src.rf>

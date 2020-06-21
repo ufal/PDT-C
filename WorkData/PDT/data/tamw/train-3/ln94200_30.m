@@ -77,7 +77,7 @@
 <LM>w#w-ln94200-30-p2s1Aw4</LM>
 </w.rf>
 <form>CzechInvest</form>
-<tag lemma="Czechinvest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Czechinvest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-30-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 </w.rf>
 <form>Pinda</form>
 <tag>
-<AM lemma="Pinda_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pinda_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="pinda_,h" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Pinda_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
@@ -198,7 +198,7 @@
 </w.rf>
 <form>CzechInvest</form>
 <tag>
-<AM lemma="Czechinvest_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Czechinvest_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Czechinvest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -264,7 +264,7 @@
 <LM>w#w-ln94200-30-p2s1Cw14</LM>
 </w.rf>
 <form>Dlouhého</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-30-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 </w.rf>
 <form>PHARE</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1157,7 +1157,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-30-p4s3w15">
@@ -1174,7 +1174,7 @@
 <LM>w#w-ln94200-30-p4s3w16</LM>
 </w.rf>
 <form>Havelkou</form>
-<tag lemma="Havelka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Havelka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-30-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <LM>w#w-ln94200-30-p4s3w22</LM>
 </w.rf>
 <form>Chlebnou</form>
-<tag lemma="Chlebná_;S_^(*1ý)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Chlebná_;Y_^(*1ý)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94200-30-p4s3w23">
 <src.rf>manual</src.rf>
@@ -1889,7 +1889,7 @@
 <LM>w#w-ln94200-30-p6s3w8</LM>
 </w.rf>
 <form>CzechInvest</form>
-<tag lemma="Czechinvest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Czechinvest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-30-p6s3w9">
 <src.rf>manual</src.rf>
@@ -2577,7 +2577,7 @@
 <LM>w#w-ln94200-30-p8s1w6</LM>
 </w.rf>
 <form>CzechInvestu</form>
-<tag lemma="Czechinvest_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Czechinvest_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94200-30-p8s1w7">
 <src.rf>manual</src.rf>
@@ -2964,7 +2964,7 @@
 <LM>w#w-ln94200-30-p9s3w2</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-30-p9s3w3">
 <src.rf>manual</src.rf>
@@ -3291,7 +3291,7 @@
 <LM>w#w-ln94200-30-p10s1w11</LM>
 </w.rf>
 <form>Motorola</form>
-<tag lemma="Motorola_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Motorola_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-30-p10s1w12">
 <src.rf>manual</src.rf>
@@ -3307,7 +3307,7 @@
 <LM>w#w-ln94200-30-p10s1w13</LM>
 </w.rf>
 <form>Pepsico</form>
-<tag lemma="PepsiCo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="PepsiCo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-30-p10s1w14">
 <src.rf>manual</src.rf>
@@ -3398,7 +3398,7 @@
 </w.rf>
 <form>JV</form>
 <tag>
-<AM lemma="JV_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="JV_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="jihovýchod_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="jihovýchod_:B_,x" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="JV_:B" src="manual">NNXXX-----A---8</AM>
@@ -3412,7 +3412,7 @@
 </w.rf>
 <form>Nikom</form>
 <tag>
-<AM lemma="Nikom_;K" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Nikom_;m" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="nikdo" src="auto" recommended="1">PWM-6----------</AM>
 </tag>
 </m>
@@ -3463,7 +3463,7 @@
 </w.rf>
 <form>NISHO</form>
 <tag>
-<AM lemma="Nisho_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nisho_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="NISHO-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3474,7 +3474,7 @@
 </w.rf>
 <form>IWAI</form>
 <tag>
-<AM lemma="Iwai_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Iwai_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="IWAI-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3580,7 +3580,7 @@
 <LM>w#w-ln94200-30-p10s2w31</LM>
 </w.rf>
 <form>CANSTAR</form>
-<tag lemma="Canstar_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Canstar_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-30-p10s2w32">
 <src.rf>manual</src.rf>
@@ -4024,7 +4024,7 @@
 <LM>w#w-ln94200-30-p11s2w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94200-30-p11s2w7">
 <src.rf>manual</src.rf>

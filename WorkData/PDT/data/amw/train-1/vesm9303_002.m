@@ -19,7 +19,7 @@
 <LM>w#w-vesm9303-002-p1s1w1</LM>
 </w.rf>
 <form>Casimirův</form>
-<tag lemma="Casimirův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Casimirův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9303-002-p1s1w2">
 <src.rf>manual</src.rf>
@@ -39,7 +39,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-002-p2s1w2">
@@ -58,7 +58,7 @@
 <LM>w#w-vesm9303-002-p2s2w1</LM>
 </w.rf>
 <form>MOSTĚPANĚNKO</form>
-<tag lemma="Mostěpaněnko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mostěpaněnko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-002-p3s1">
@@ -1158,8 +1158,8 @@
 </w.rf>
 <form>Hendrixem</form>
 <tag>
-<AM lemma="Hendrix_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Hendrix_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Hendrix_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Hendrix_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-002-p3s5w29">
@@ -1168,7 +1168,7 @@
 <LM>w#w-vesm9303-002-p3s5w29</LM>
 </w.rf>
 <form>Casimirem</form>
-<tag lemma="Casimir_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Casimir_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9303-002-p3s5w30">
 <src.rf>manual</src.rf>
@@ -1282,7 +1282,7 @@
 <LM>w#w-vesm9303-002-p3s6w6</LM>
 </w.rf>
 <form>Casimirova</form>
-<tag lemma="Casimirův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Casimirův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-vesm9303-002-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1558,7 +1558,7 @@
 <LM>w#w-vesm9303-002-p3s8w11</LM>
 </w.rf>
 <form>Casimirův</form>
-<tag lemma="Casimirův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Casimirův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9303-002-p3s8w12">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <LM>w#w-vesm9303-002-p4s1w3</LM>
 </w.rf>
 <form>Casimir</form>
-<tag lemma="Casimir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Casimir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-002-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1939,7 +1939,7 @@
 <LM>w#w-vesm9303-002-p4s3w6</LM>
 </w.rf>
 <form>Casimir</form>
-<tag lemma="Casimir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Casimir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-002-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2661,7 +2661,7 @@
 <LM>w#w-vesm9303-002-p4s8w9</LM>
 </w.rf>
 <form>Casimirova</form>
-<tag lemma="Casimirův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Casimirův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9303-002-p4s8w10">
 <src.rf>manual</src.rf>
@@ -3278,7 +3278,7 @@
 <LM>w#w-vesm9303-002-p6s1w3</LM>
 </w.rf>
 <form>Casimir</form>
-<tag lemma="Casimir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Casimir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-002-p6s1w4">
 <src.rf>manual</src.rf>
@@ -3803,7 +3803,7 @@
 <LM>w#w-vesm9303-002-p6s6w8</LM>
 </w.rf>
 <form>Casimirova</form>
-<tag lemma="Casimirův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Casimirův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-vesm9303-002-p6s6w9">
 <src.rf>manual</src.rf>
@@ -4115,7 +4115,7 @@
 <LM>w#w-vesm9303-002-p7s1w28</LM>
 </w.rf>
 <form>Eukleidovy</form>
-<tag lemma="Eukleidův_;S_^(*2és)" src="auto" selected="1">AUIP4M---------</tag>
+<tag lemma="Eukleidův_;Y_^(*2és)" src="auto" selected="1">AUIP4M---------</tag>
 </m>
 <m id="m-vesm9303-002-p7s1w29">
 <src.rf>manual</src.rf>
@@ -4225,15 +4225,15 @@
 </w.rf>
 <form>Casimirově</form>
 <tag>
-<AM lemma="Casimirův_;S_^(*2)" src="orig">AUIS3M---------</AM>
-<AM lemma="Casimirův_;S_^(*2)" src="auto" recommended="1" selected="1">AUFS3M---------</AM>
-<AM lemma="Casimirův_;S_^(*2)" src="auto">AUFS6M---------</AM>
-<AM lemma="Casimirův_;S_^(*2)" src="auto">AUIS3M--------6</AM>
-<AM lemma="Casimirův_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Casimirův_;S_^(*2)" src="auto">AUMS3M--------6</AM>
-<AM lemma="Casimirův_;S_^(*2)" src="auto">AUMS6M---------</AM>
-<AM lemma="Casimirův_;S_^(*2)" src="auto">AUNS3M--------6</AM>
-<AM lemma="Casimirův_;S_^(*2)" src="auto">AUNS6M---------</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="orig">AUIS3M---------</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="auto" recommended="1" selected="1">AUFS3M---------</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="auto">AUFS6M---------</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="auto">AUIS3M--------6</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="auto">AUIS6M---------</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="auto">AUMS3M--------6</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="auto">AUMS6M---------</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="auto">AUNS3M--------6</AM>
+<AM lemma="Casimirův_;Y_^(*2)" src="auto">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-002-p7s2w8">
@@ -4364,7 +4364,7 @@
 <LM>w#w-vesm9303-002-p7s3w7</LM>
 </w.rf>
 <form>Casimirův</form>
-<tag lemma="Casimirův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Casimirův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9303-002-p7s3w8">
 <src.rf>manual</src.rf>
@@ -4609,7 +4609,7 @@
 <LM>w#w-vesm9303-002-p7s4w8</LM>
 </w.rf>
 <form>Einsteinově</form>
-<tag lemma="Einsteinův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Einsteinův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-vesm9303-002-p7s4w9">
 <src.rf>manual</src.rf>

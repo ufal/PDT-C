@@ -159,7 +159,7 @@
 <LM>w#w-ln95046-027-p2s1Bw14</LM>
 </w.rf>
 <form>Mitchell</form>
-<tag lemma="Mitchell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitchell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-027-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95046-027-p2s1Bw23</LM>
 </w.rf>
 <form>Turboair</form>
-<tag lemma="Turboair_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Turboair_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-027-p2s1Bw24">
 <src.rf>manual</src.rf>

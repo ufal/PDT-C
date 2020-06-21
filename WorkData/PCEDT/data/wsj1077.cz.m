@@ -28,7 +28,7 @@
 </w.rf>
 <form>Hughes</form>
 <tag>
-<AM lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hughes_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Hughes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -39,8 +39,8 @@
 </w.rf>
 <form>Aircraft</form>
 <tag>
-<AM lemma="Aircraft_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Aircraft_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Aircraft_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Aircraft_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Aircraft-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -108,10 +108,10 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="auto">AAXXX----1A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="auto">AAXXX----1A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="General_;m_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="General_;m_,t" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -122,7 +122,7 @@
 </w.rf>
 <form>Motors</form>
 <tag>
-<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Motors-1_;m_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -298,9 +298,9 @@
 </w.rf>
 <form>Intelsat</form>
 <tag>
-<AM lemma="Intelsat_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Intelsat_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Intelsat_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Intelsat_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Intelsat_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Intelsat_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1077-001-p1s0W23-Ta">
@@ -336,8 +336,8 @@
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -436,8 +436,8 @@
 </w.rf>
 <form>Hughes</form>
 <tag>
-<AM lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hughes-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hughes_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hughes-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1077-001-p1s1W8-Ta">
@@ -537,9 +537,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -687,8 +687,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -734,8 +734,8 @@
 </w.rf>
 <form>Hughes</form>
 <tag>
-<AM lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hughes-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hughes_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hughes-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1077-001-p1s1W31-Ta">

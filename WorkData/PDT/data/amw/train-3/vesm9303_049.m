@@ -45,7 +45,7 @@
 <LM>w#w-vesm9303-049-p2s1w2</LM>
 </w.rf>
 <form>KOMÁREK</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-049-p3s1">
@@ -57,7 +57,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-049-p3s1w2">
@@ -74,7 +74,7 @@
 <LM>w#w-vesm9303-049-p3s1w3</LM>
 </w.rf>
 <form>Capra</form>
-<tag lemma="Capra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Capra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-049-p3s1w4">
 <src.rf>manual</src.rf>
@@ -2498,7 +2498,7 @@
 </w.rf>
 <form>Scientia</form>
 <tag>
-<AM lemma="Scientia_;R_,t" src="orig">NNNP1-----A----</AM>
+<AM lemma="Scientia_;m_,t" src="orig">NNNP1-----A----</AM>
 <AM lemma="Scientia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2517,7 +2517,7 @@
 </w.rf>
 <form>Philosophia</form>
 <tag>
-<AM lemma="Philosophia_;R_,t" src="orig">NNNP1-----A----</AM>
+<AM lemma="Philosophia_;m_,t" src="orig">NNNP1-----A----</AM>
 <AM lemma="Philosophia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

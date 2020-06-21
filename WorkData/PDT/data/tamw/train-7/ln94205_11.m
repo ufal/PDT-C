@@ -314,7 +314,7 @@
 </w.rf>
 <form>ČOI</form>
 <tag>
-<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1153,7 +1153,7 @@
 <LM>w#w-ln94205-11-p4s3w16</LM>
 </w.rf>
 <form>Olmy</form>
-<tag lemma="Olma_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Olma_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-11-p4s3w17">
 <src.rf>manual</src.rf>
@@ -2498,11 +2498,11 @@
 </w.rf>
 <form>dr</form>
 <tag>
-<AM lemma="dr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-11-p7s2w3">

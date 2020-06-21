@@ -27,7 +27,7 @@
 <LM>w#w-mf930703-026-p1s1w2</LM>
 </w.rf>
 <form>Bělehrádek</form>
-<tag lemma="Bělehrádek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bělehrádek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-026-p1s1w3">
 <src.rf>manual</src.rf>
@@ -95,9 +95,9 @@
 <form>em</form>
 <tag>
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
-<AM lemma="em-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
-<AM lemma="em-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="em-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p2s1w4">
@@ -116,7 +116,7 @@
 <form>tma</form>
 <tag>
 <AM lemma="tma" src="orig">NNFS1-----A----</AM>
-<AM lemma="tma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tma-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p2s1w6">
@@ -287,7 +287,7 @@
 <LM>w#w-mf930703-026-p2s2w6</LM>
 </w.rf>
 <form>Bělehrádka</form>
-<tag lemma="Bělehrádek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bělehrádek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-026-p2s2w7">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-mf930703-026-p3s1w10</LM>
 </w.rf>
 <form>PNPresse</form>
-<tag lemma="PNPresse_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="PNPresse_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930703-026-p3s1w11">
 <src.rf>manual</src.rf>
@@ -590,8 +590,8 @@
 </w.rf>
 <form>Kapfinger</form>
 <tag>
-<AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p3s2w9">
@@ -1241,7 +1241,7 @@
 <LM>w#w-mf930703-026-p5s2w12</LM>
 </w.rf>
 <form>Bělehrádkovi</form>
-<tag lemma="Bělehrádek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Bělehrádek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930703-026-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1513,8 +1513,8 @@
 </w.rf>
 <form>Kapfinger</form>
 <tag>
-<AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p6s1w4">
@@ -2483,7 +2483,7 @@
 <LM>w#w-mf930703-026-p7s2w20</LM>
 </w.rf>
 <form>PNPresse</form>
-<tag lemma="PNPresse_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="PNPresse_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930703-026-p7s2w21">
 <src.rf>manual</src.rf>
@@ -2681,9 +2681,9 @@
 </w.rf>
 <form>Kapfinger</form>
 <tag>
-<AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;m" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kapfinger-77" src="manual">F%-------------</AM>
-<AM lemma="Kapfinger_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p7s3w12">
@@ -3035,7 +3035,7 @@
 <LM>w#w-mf930703-026-p8s1w34</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kapfinger_;m" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-026-p8s1w35">
 <src.rf>manual</src.rf>
@@ -3088,7 +3088,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p8s1w41">
@@ -3105,7 +3105,7 @@
 <LM>w#w-mf930703-026-p8s1w42</LM>
 </w.rf>
 <form>Grivalského</form>
-<tag lemma="Grivalský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Grivalský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-026-p8s1w43">
 <src.rf>manual</src.rf>
@@ -3363,8 +3363,8 @@
 </w.rf>
 <form>Kapfinger</form>
 <tag>
-<AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kapfinger_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-026-p10s1w3">

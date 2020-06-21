@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-125-p1s1w4</LM>
 </w.rf>
 <form>Chuďjakova</form>
-<tag lemma="Chuďjakov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chuďjakov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-125-p2s1">
@@ -263,7 +263,7 @@
 <LM>w#w-mf930702-125-p3s2w6</LM>
 </w.rf>
 <form>Chuďjakov</form>
-<tag lemma="Chuďjakov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chuďjakov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-125-p3s2w7">
 <src.rf>manual</src.rf>
@@ -441,9 +441,9 @@
 </w.rf>
 <form>Izvestija</form>
 <tag>
-<AM lemma="Izvestija_;R_,t" src="orig">NNFP1-----A----</AM>
-<AM lemma="Izvestija_;K_;w_,t" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Izvestija_;K_;w_,t" src="manual">NNFP1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="orig">NNFP1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="manual">NNFP1-----A----</AM>
 <AM lemma="Izvestija-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -709,8 +709,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-125-p4s3w2">
@@ -935,7 +935,7 @@
 <LM>w#w-mf930702-125-p4s3w29</LM>
 </w.rf>
 <form>Serbského</form>
-<tag lemma="Serbský_;K" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Serbský_;m" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-125-p4s3w30">
 <src.rf>manual</src.rf>
@@ -1974,7 +1974,7 @@
 <LM>w#w-mf930702-125-p6s2w11</LM>
 </w.rf>
 <form>Chuďjakov</form>
-<tag lemma="Chuďjakov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chuďjakov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-125-p6s2w12">
 <src.rf>manual</src.rf>

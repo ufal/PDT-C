@@ -62,10 +62,10 @@
 </w.rf>
 <form>kar</form>
 <tag>
-<AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
-<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-136-p2s1Aw4">
@@ -496,7 +496,7 @@
 </w.rf>
 <form>ČČK</form>
 <tag>
-<AM lemma="ČČK_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČČK_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČČK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -754,7 +754,7 @@
 </w.rf>
 <form>ČČK</form>
 <tag>
-<AM lemma="ČČK_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČČK_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČČK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -790,7 +790,7 @@
 <LM>w#w-mf930713-136-p2s6w3</LM>
 </w.rf>
 <form>Vaňharové</form>
-<tag lemma="Vaňharová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vaňharová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-136-p2s6w4">
 <src.rf>manual</src.rf>

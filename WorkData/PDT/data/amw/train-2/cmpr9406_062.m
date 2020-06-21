@@ -215,7 +215,7 @@
 <LM>w#w-cmpr9406-062-p3s1Bw8</LM>
 </w.rf>
 <form>Nypro</form>
-<tag lemma="Nypro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nypro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-062-p3s1Bw9">
 <src.rf>manual</src.rf>

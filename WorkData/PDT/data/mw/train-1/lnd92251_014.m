@@ -115,7 +115,7 @@
 <LM>w#w-lnd92251-014-p1s1w13</LM>
 </w.rf>
 <form>Vašty</form>
-<tag lemma="Vašta_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vašta_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-014-p1s1w14">
 <src.rf>manual</src.rf>
@@ -667,20 +667,20 @@
 <AM lemma="A-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="A-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="A-1`ampér_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="A-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="A-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="A-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="A-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="A-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="A-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="A-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="A-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="A-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="A-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="A-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="a-1" src="auto">J^-------------</AM>
 <AM lemma="a-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="a-4_,t_^(př._a_la)" src="auto">RR--1----------</AM>
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-014-p3s1w13">
@@ -984,8 +984,8 @@
 <form>Yehudi</form>
 <tag>
 <AM lemma="Yehudi_;Y" src="orig" selected="1">NNMXX-----A----</AM>
-<AM lemma="Yehudi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Yehudi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Yehudi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Yehudi_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-014-p4s1w7">
@@ -994,7 +994,7 @@
 <LM>w#w-lnd92251-014-p4s1w7</LM>
 </w.rf>
 <form>Menuhina</form>
-<tag lemma="Menuhin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Menuhin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-014-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-lnd92251-014-p4s1w17</LM>
 </w.rf>
 <form>Smetanově</form>
-<tag lemma="Smetanův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92251-014-p4s1w18">
 <src.rf>manual</src.rf>

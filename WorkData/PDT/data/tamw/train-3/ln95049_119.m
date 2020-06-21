@@ -299,7 +299,7 @@
 <form>Marek</form>
 <tag>
 <AM lemma="Marek_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Marek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-119-p2s2w12">
@@ -624,7 +624,7 @@
 <form>Marka</form>
 <tag>
 <AM lemma="Marek_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Marek_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Marek_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-119-p3s2w5">

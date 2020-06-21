@@ -380,7 +380,7 @@
 <LM>w#w-ln94211-90-p3s1w11</LM>
 </w.rf>
 <form>Hudsonovým</form>
-<tag lemma="Hudsonův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Hudsonův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-ln94211-90-p3s1w12">
 <src.rf>manual</src.rf>
@@ -2890,7 +2890,7 @@
 <LM>w#w-ln94211-90-p12s1w7</LM>
 </w.rf>
 <form>Mulroneyho</form>
-<tag lemma="Mulroney_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mulroney_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-90-p12s1w8">
 <src.rf>manual</src.rf>
@@ -3401,7 +3401,7 @@
 <LM>w#w-ln94211-90-p12s4w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94211-90-p12s4w12">
 <src.rf>manual</src.rf>

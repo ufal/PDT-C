@@ -54,7 +54,7 @@
 </w.rf>
 <form>sob</form>
 <tag>
-<AM lemma="sob-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="sob-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -130,7 +130,7 @@
 <LM>w#w-mf920901-032-p2s2w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf920901-032-p2s2w8">
 <src.rf>manual</src.rf>
@@ -699,10 +699,10 @@
 </w.rf>
 <form>Panasonic</form>
 <tag>
-<AM lemma="Panasonic_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Panasonic_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Panasonic_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Panasonic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Panasonic_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Panasonic_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Panasonic_;m_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Panasonic_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-032-p2s4w13">

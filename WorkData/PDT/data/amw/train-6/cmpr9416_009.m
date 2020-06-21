@@ -991,7 +991,7 @@
 <LM>w#w-cmpr9416-009-p9s1w2</LM>
 </w.rf>
 <form>Musilová</form>
-<tag lemma="Musilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Musilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-009-p9s1w3">
 <src.rf>manual</src.rf>

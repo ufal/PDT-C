@@ -409,7 +409,7 @@
 <LM>w#w-lnd92254-063-p2s3w3</LM>
 </w.rf>
 <form>Jang</form>
-<tag lemma="Jang_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jang_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-063-p2s3w4">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 </w.rf>
 <form>Su</form>
 <tag>
-<AM lemma="Su_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Su_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="být_,n" src="auto" recommended="1">VB-S---1P-AA--7</AM>
 <AM lemma="Su_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
@@ -430,7 +430,7 @@
 </w.rf>
 <form>Li</form>
 <tag>
-<AM lemma="Li_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Li_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
 <AM lemma="Li_;Y" src="manual" selected="1">NNMS1-----A----</AM>

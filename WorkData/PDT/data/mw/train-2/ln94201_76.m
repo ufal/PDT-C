@@ -27,7 +27,7 @@
 <LM>w#w-ln94201-76-p1s1w2</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMPX-----A----</tag>
+<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94201-76-p1s1w3">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-ln94201-76-p2s1w6</LM>
 </w.rf>
 <form>Fujdiarem</form>
-<tag lemma="Fujdiar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Fujdiar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 </mdata>

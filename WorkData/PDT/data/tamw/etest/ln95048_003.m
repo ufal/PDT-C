@@ -437,7 +437,7 @@
 <LM>w#w-ln95048-003-p2s2w23</LM>
 </w.rf>
 <form>Prokop</form>
-<tag lemma="Prokop_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokop_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-003-p2s2w24">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 </w.rf>
 <form>ČZ</form>
 <tag>
-<AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="ČZ_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
 <AM lemma="ČZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -660,7 +660,7 @@
 <LM>w#w-ln95048-003-p3s2w9</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-003-p3s2w10">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-ln95048-003-p3s3w2</LM>
 </w.rf>
 <form>Grafo</form>
-<tag lemma="Grafo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Grafo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-003-p3s3w3">
 <src.rf>manual</src.rf>

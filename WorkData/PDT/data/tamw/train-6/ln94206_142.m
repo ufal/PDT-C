@@ -199,7 +199,7 @@
 <LM>w#w-ln94206-142-p2s1Bw16</LM>
 </w.rf>
 <form>Waigel</form>
-<tag lemma="Waigel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waigel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-142-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-ln94206-142-p2s3w6</LM>
 </w.rf>
 <form>Herzogem</form>
-<tag lemma="Herzog_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Herzog_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94206-142-p2s3w7">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-ln94206-142-p3s1w4</LM>
 </w.rf>
 <form>Kohla</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-142-p3s1w5">
 <src.rf>manual</src.rf>
@@ -682,7 +682,7 @@
 <LM>w#w-ln94206-142-p4s1w2</LM>
 </w.rf>
 <form>Waigela</form>
-<tag lemma="Waigel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Waigel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-142-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

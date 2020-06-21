@@ -741,7 +741,7 @@
 <LM>w#w-ln95042-014-p2s4Bw5</LM>
 </w.rf>
 <form>BULTMANNA</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s4Bw6">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-ln95042-014-p2s4Bw18</LM>
 </w.rf>
 <form>Oikúmené</form>
-<tag lemma="Oikúmené_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Oikúmené_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s4Bw19">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-ln95042-014-p2s5w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95042-014-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1133,7 +1133,7 @@
 <LM>w#w-ln95042-014-p2s6Aw8</LM>
 </w.rf>
 <form>Bultmanna</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s6Aw9">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-ln95042-014-p2s6Bw6</LM>
 </w.rf>
 <form>Bultmann</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s6Bw7">
 <src.rf>manual</src.rf>
@@ -1475,15 +1475,15 @@
 <form>Kristova</form>
 <tag>
 <AM lemma="Kristův-3_;Y" src="orig">AUIS2M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUFS1M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUFS5M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS2M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS2M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS4M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNP1M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNP4M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNP5M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNS2M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUFS1M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUFS5M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIS2M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUMS2M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUMS4M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUNP1M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUNP4M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUNP5M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUNS2M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUFS1M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUFS5M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUIS2M---------</AM>
@@ -1493,15 +1493,15 @@
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUNP4M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUNP5M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUNS2M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUFS1M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUFS5M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIS2M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUMS2M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUMS4M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUNP1M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUNP4M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUNP5M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUNS2M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUFS1M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUFS5M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIS2M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUMS2M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUMS4M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUNP1M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUNP4M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUNP5M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s7w23">
@@ -1668,21 +1668,21 @@
 <form>Kristův</form>
 <tag>
 <AM lemma="Kristův-3_;Y" src="orig">AUIS1M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS1M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS4M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS5M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS1M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS5M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIS1M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIS4M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIS5M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUMS1M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUMS5M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS4M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS5M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS1M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS5M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIS1M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIS4M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIS5M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUMS1M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUMS5M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIS1M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIS4M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIS5M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUMS1M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUMS5M---------</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s9w12">
@@ -1908,13 +1908,13 @@
 <form>Kristovým</form>
 <tag>
 <AM lemma="Kristův-3_;Y" src="orig">AUIS7M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUFP3M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIP3M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS7M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMP3M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS7M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNP3M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNS7M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUFP3M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIP3M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIS7M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUMP3M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUMS7M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUNP3M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUNS7M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUFP3M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIP3M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUIS7M---------</AM>
@@ -1922,14 +1922,14 @@
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS7M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUNP3M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUNS7M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUFP3M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIP3M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIS7M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUMP3M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUMS7M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUNP3M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUNS7M---------</AM>
-<AM lemma="Kristová_;S" src="auto">NNFP3-----A----</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUFP3M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIP3M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIS7M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUMP3M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUMS7M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUNP3M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUNS7M---------</AM>
+<AM lemma="Kristová_;Y" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s11w8">
@@ -2214,7 +2214,7 @@
 <LM>w#w-ln95042-014-p2s12Bw4</LM>
 </w.rf>
 <form>Bultmanna</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s12Bw5">
 <src.rf>manual</src.rf>
@@ -2320,7 +2320,7 @@
 <LM>w#w-ln95042-014-p2s13w7</LM>
 </w.rf>
 <form>Bultmann</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s13w8">
 <src.rf>manual</src.rf>
@@ -2384,7 +2384,7 @@
 <LM>w#w-ln95042-014-p2s13w15</LM>
 </w.rf>
 <form>Patchovsky</form>
-<tag lemma="Patchovsky_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Patchovsky_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s13w16">
 <src.rf>manual</src.rf>
@@ -2578,7 +2578,7 @@
 <LM>w#w-ln95042-014-p2s14w9</LM>
 </w.rf>
 <form>Bultmann</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s14w10">
 <src.rf>manual</src.rf>
@@ -2720,7 +2720,7 @@
 <LM>w#w-ln95042-014-p2s15w13</LM>
 </w.rf>
 <form>Bultmann</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s15w14">
 <src.rf>manual</src.rf>
@@ -2829,21 +2829,21 @@
 <form>Kristův</form>
 <tag>
 <AM lemma="Kristův-3_;Y" src="orig">AUIS1M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS1M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS4M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS5M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS1M---------</AM>
-<AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS5M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIS1M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIS4M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUIS5M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUMS1M---------</AM>
+<AM lemma="Kristův-1_;Y_^(*4-1)" src="auto">AUMS5M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS4M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS5M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS1M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS5M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIS1M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIS4M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUIS5M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUMS1M---------</AM>
-<AM lemma="Kristův-4_;S_^(*4a-4)" src="auto">AUMS5M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIS1M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIS4M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUIS5M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUMS1M---------</AM>
+<AM lemma="Kristův-4_;Y_^(*4a-4)" src="auto">AUMS5M---------</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s15w27">
@@ -3027,7 +3027,7 @@
 </w.rf>
 <form>Fiore</form>
 <tag>
-<AM lemma="Fiore_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fiore_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Fiore_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -3633,7 +3633,7 @@
 <LM>w#w-ln95042-014-p2s18Bw7</LM>
 </w.rf>
 <form>Bultmann</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s18Bw8">
 <src.rf>manual</src.rf>
@@ -4411,7 +4411,7 @@
 <LM>w#w-ln95042-014-p2s22Bw5</LM>
 </w.rf>
 <form>Bultmann</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s22Bw6">
 <src.rf>manual</src.rf>
@@ -5011,7 +5011,7 @@
 <LM>w#w-ln95042-014-p2s27w5</LM>
 </w.rf>
 <form>Bultmanna</form>
-<tag lemma="Bultmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bultmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-014-p2s27w6">
 <src.rf>manual</src.rf>

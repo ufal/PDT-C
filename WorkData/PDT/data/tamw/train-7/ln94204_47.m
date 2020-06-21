@@ -70,9 +70,9 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-47-p2s1Aw4">
@@ -131,7 +131,7 @@
 <LM>w#w-ln94204-47-p2s1Bw5</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-47-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln94204-47-p3s1w4</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94204-47-p3s1w5">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-ln94204-47-p4s1w7</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94204-47-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1041,8 +1041,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-47-p4s2w4">
@@ -1139,7 +1139,7 @@
 <LM>w#w-ln94204-47-p4s2w15</LM>
 </w.rf>
 <form>Eder</form>
-<tag lemma="Eder_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eder_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-47-p4s2w16">
 <src.rf>manual</src.rf>

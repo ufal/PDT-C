@@ -110,8 +110,8 @@
 </w.rf>
 <form>jsl</form>
 <tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-078-p2s1w4">
@@ -161,8 +161,8 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-1_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-078-p2s1w10">
@@ -171,7 +171,7 @@
 <LM>w#w-mf930708-078-p2s1w10</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-078-p2s1w11">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-mf930708-078-p2s3w4</LM>
 </w.rf>
 <form>Podolské</form>
-<tag lemma="Podolská_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Podolská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-078-p2s3w5">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf930708-078-p3s1w11</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-078-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1185,7 +1185,7 @@
 <LM>w#w-mf930708-078-p3s4w10</LM>
 </w.rf>
 <form>Podolská</form>
-<tag lemma="Podolská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Podolská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-078-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-mf930708-078-p3s6w14</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-078-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1601,8 +1601,8 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-1_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-078-p3s7w13">
@@ -2089,8 +2089,8 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-1_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-078-p3s9w32">
@@ -2099,7 +2099,7 @@
 <LM>w#w-mf930708-078-p3s9w32</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-078-p3s9w33">
 <src.rf>manual</src.rf>
@@ -2123,7 +2123,7 @@
 <LM>w#w-mf930708-078-p3s9w35</LM>
 </w.rf>
 <form>Polášek</form>
-<tag lemma="Polášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-078-p3s9w36">
 <src.rf>manual</src.rf>
@@ -2609,7 +2609,7 @@
 <LM>w#w-mf930708-078-p3s13w12</LM>
 </w.rf>
 <form>Polášek</form>
-<tag lemma="Polášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-078-p3s13w13">
 <src.rf>manual</src.rf>

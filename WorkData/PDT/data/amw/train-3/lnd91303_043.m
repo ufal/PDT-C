@@ -733,7 +733,7 @@
 </w.rf>
 <form>IFJ</form>
 <tag>
-<AM lemma="IFJ-1_:B_;K_,t_^(International_Federation_of_Journalists)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IFJ-1_:B_;m_,t_^(International_Federation_of_Journalists)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IFJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -754,7 +754,7 @@
 <LM>w#w-lnd91303-043-p4s4w4</LM>
 </w.rf>
 <form>Doornaertová</form>
-<tag lemma="Doornaertová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Doornaertová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-043-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1427,7 +1427,7 @@
 </w.rf>
 <form>IFJ</form>
 <tag>
-<AM lemma="IFJ-1_:B_;K_,t_^(International_Federation_of_Journalists)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IFJ-1_:B_;m_,t_^(International_Federation_of_Journalists)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IFJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1438,8 +1438,8 @@
 </w.rf>
 <form>Aidan</form>
 <tag>
-<AM lemma="Aidan_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Aidan_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Aidan_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aidan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-043-p4s8w14">
@@ -1448,7 +1448,7 @@
 <LM>w#w-lnd91303-043-p4s8w14</LM>
 </w.rf>
 <form>White</form>
-<tag lemma="White_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="White_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-043-p4s8w15">
 <src.rf>manual</src.rf>

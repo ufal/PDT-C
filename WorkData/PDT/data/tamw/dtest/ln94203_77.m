@@ -75,7 +75,7 @@
 <LM>w#w-ln94203-77-p1s1Aw8</LM>
 </w.rf>
 <form>Mihalička</form>
-<tag lemma="Mihaliček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mihaliček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-77-p1s1B">

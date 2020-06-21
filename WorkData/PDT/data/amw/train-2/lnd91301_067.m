@@ -130,7 +130,7 @@
 </w.rf>
 <form>Daily</form>
 <tag>
-<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-1_;m_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -141,7 +141,7 @@
 </w.rf>
 <form>Mail</form>
 <tag>
-<AM lemma="Mail_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Mail_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Maila_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="mail" src="auto">NNIS1-----A----</AM>
 <AM lemma="mail" src="auto">NNIS4-----A----</AM>
@@ -179,7 +179,7 @@
 <LM>w#w-lnd91301-067-p1s1w19</LM>
 </w.rf>
 <form>Gorbačov</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-067-p1s1w20">
 <src.rf>manual</src.rf>

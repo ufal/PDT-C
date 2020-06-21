@@ -139,7 +139,7 @@
 <LM>w#w-ln95043-079-p1s1w16</LM>
 </w.rf>
 <form>Kasalová</form>
-<tag lemma="Kasalová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kasalová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-079-p1s1w17">
 <src.rf>manual</src.rf>

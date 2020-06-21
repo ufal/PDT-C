@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-073-p1s1w2</LM>
 </w.rf>
 <form>Sezimy</form>
-<tag lemma="Sezima-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sezima-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-073-p1s1w3">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf920924-073-p3s5w4</LM>
 </w.rf>
 <form>Babičů</form>
-<tag lemma="Babič_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Babič_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920924-073-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 </w.rf>
 <form>Sezimy</form>
 <tag>
-<AM lemma="Sezima-1_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Sezima-1_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Sezima-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -1612,10 +1612,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -1692,7 +1692,7 @@
 <LM>w#w-mf920924-073-p3s16w20</LM>
 </w.rf>
 <form>Huvarová</form>
-<tag lemma="Huvarová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Huvarová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-073-p3s16w21">
 <src.rf>manual</src.rf>

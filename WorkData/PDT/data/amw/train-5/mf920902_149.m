@@ -160,8 +160,8 @@
 </w.rf>
 <form>Rachmana</form>
 <tag>
-<AM lemma="Rachman_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rachman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Rachman_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rachman_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-149-p2s2w6">
@@ -170,7 +170,7 @@
 <LM>w#w-mf920902-149-p2s2w6</LM>
 </w.rf>
 <form>Nabijeva</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-149-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-mf920902-149-p4s3w4</LM>
 </w.rf>
 <form>Nabijevovu</form>
-<tag lemma="Nabijevův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Nabijevův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf920902-149-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1375,8 +1375,8 @@
 </w.rf>
 <form>Šodmon</form>
 <tag>
-<AM lemma="Šodmon_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šodmon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šodmon_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Šodmon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-149-p5s2w6">
@@ -1385,7 +1385,7 @@
 <LM>w#w-mf920902-149-p5s2w6</LM>
 </w.rf>
 <form>Jusupov</form>
-<tag lemma="Jusupov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jusupov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-149-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1766,8 +1766,8 @@
 </w.rf>
 <form>Rachmana</form>
 <tag>
-<AM lemma="Rachman_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rachman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Rachman_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rachman_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-149-p6s2w11">
@@ -1776,7 +1776,7 @@
 <LM>w#w-mf920902-149-p6s2w11</LM>
 </w.rf>
 <form>Nabijeva</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-149-p6s2w12">
 <src.rf>manual</src.rf>

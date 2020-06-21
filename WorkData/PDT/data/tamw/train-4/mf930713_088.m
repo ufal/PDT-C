@@ -86,8 +86,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-088-p2s1Aw6">
@@ -154,7 +154,7 @@
 <LM>w#w-mf930713-088-p2s1Bw6</LM>
 </w.rf>
 <form>Bölla</form>
-<tag lemma="Böll_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Böll_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-088-p2s1Bw7">
 <src.rf>manual</src.rf>

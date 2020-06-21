@@ -102,9 +102,9 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94206-27-p2s1Aw4">
@@ -122,9 +122,9 @@
 </w.rf>
 <form>eko</form>
 <tag>
-<AM lemma="eko-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="eko-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="eko" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="eko-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="eko-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-27-p2s1Aw6">
@@ -439,7 +439,7 @@
 <LM>w#w-ln94206-27-p2s2w14</LM>
 </w.rf>
 <form>Rudlovčáka</form>
-<tag lemma="Rudlovčák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rudlovčák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-27-p2s2w15">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-ln94206-27-p2s2w23</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-27-p2s2w24">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-27-p3s1w2">
@@ -548,7 +548,7 @@
 <LM>w#w-ln94206-27-p3s1w3</LM>
 </w.rf>
 <form>Rudlovčák</form>
-<tag lemma="Rudlovčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rudlovčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-27-p3s1w4">
 <src.rf>manual</src.rf>
@@ -565,8 +565,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-27-p3s1w6">

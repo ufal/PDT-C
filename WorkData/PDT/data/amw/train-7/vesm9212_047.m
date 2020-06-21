@@ -29,7 +29,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-047-p1s1w3">
@@ -46,7 +46,7 @@
 <LM>w#w-vesm9212-047-p1s1w4</LM>
 </w.rf>
 <form>Crease</form>
-<tag lemma="Crease_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Crease_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-047-p1s1w5">
 <src.rf>manual</src.rf>
@@ -112,8 +112,8 @@
 <form>Stony</form>
 <tag>
 <AM lemma="Stony_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ston_;S" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="Ston_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Ston_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Ston_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="ston" src="auto">NNIP1-----A----</AM>
 <AM lemma="ston" src="auto">NNIP4-----A----</AM>
 <AM lemma="ston" src="auto">NNIP5-----A----</AM>
@@ -128,8 +128,8 @@
 </w.rf>
 <form>Brook</form>
 <tag>
-<AM lemma="Brook-2_;G_,t" src="orig">NNISX-----A----</AM>
-<AM lemma="Brook_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Brook-2_;G_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Brook_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Brook-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -159,7 +159,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-047-p2s1w3">
@@ -176,7 +176,7 @@
 <LM>w#w-vesm9212-047-p2s1w4</LM>
 </w.rf>
 <form>Mann</form>
-<tag lemma="Mann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-047-p2s1w5">
 <src.rf>manual</src.rf>

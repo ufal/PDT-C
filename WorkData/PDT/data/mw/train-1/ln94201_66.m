@@ -200,8 +200,8 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-1_:B_;K_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-66-p2s2w5">
@@ -210,7 +210,7 @@
 <LM>w#w-ln94201-66-p2s2w5</LM>
 </w.rf>
 <form>Johansson</form>
-<tag lemma="Johansson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johansson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-66-p2s2w6">
 <src.rf>manual</src.rf>

@@ -110,8 +110,8 @@
 </w.rf>
 <form>ika</form>
 <tag>
-<AM lemma="ika-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ika-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ika-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ika-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-021-p1s1Bw4">
@@ -949,7 +949,7 @@
 <LM>w#w-lnd94105-021-p1s5w9</LM>
 </w.rf>
 <form>Šobra</form>
-<tag lemma="Šobr_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šobr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-021-p1s5w10">
 <src.rf>manual</src.rf>
@@ -998,8 +998,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-021-p1s5w16">

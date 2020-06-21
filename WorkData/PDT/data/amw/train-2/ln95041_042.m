@@ -78,7 +78,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -104,7 +104,7 @@
 <LM>w#w-ln95041-042-p2s1Aw5</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -330,7 +330,7 @@
 <LM>w#w-ln95041-042-p2s3w3</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p2s3w4">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -628,7 +628,7 @@
 <LM>w#w-ln95041-042-p2s5w1</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95041-042-p2s5w2">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-ln95041-042-p2s5w14</LM>
 </w.rf>
 <form>Drvota</form>
-<tag lemma="Drvota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drvota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p2s5w15">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln95041-042-p2s6w2</LM>
 </w.rf>
 <form>Drvotově</form>
-<tag lemma="Drvotův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Drvotův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln95041-042-p2s6w3">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-ln95041-042-p2s6w11</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95041-042-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln95041-042-p2s7w19</LM>
 </w.rf>
 <form>Drvotových</form>
-<tag lemma="Drvotův_;S_^(*2a)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Drvotův_;Y_^(*2a)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln95041-042-p2s7w20">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-ln95041-042-p2s8w3</LM>
 </w.rf>
 <form>Charypar</form>
-<tag lemma="Charypar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Charypar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 <LM>w#w-ln95041-042-p2s8w13</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95041-042-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1345,7 +1345,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -1371,7 +1371,7 @@
 <LM>w#w-ln95041-042-p3s1w7</LM>
 </w.rf>
 <form>Drvota</form>
-<tag lemma="Drvota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drvota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-ln95041-042-p4s1w2</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95041-042-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1453,7 +1453,7 @@
 <LM>w#w-ln95041-042-p4s1w9</LM>
 </w.rf>
 <form>Babaletu</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95041-042-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -1506,7 +1506,7 @@
 <LM>w#w-ln95041-042-p4s2w2</LM>
 </w.rf>
 <form>Babaletem</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95041-042-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-ln95041-042-p4s3w1</LM>
 </w.rf>
 <form>Drvota</form>
-<tag lemma="Drvota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drvota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1605,7 +1605,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -2185,7 +2185,7 @@
 <LM>w#w-ln95041-042-p6s5w2</LM>
 </w.rf>
 <form>Drvota</form>
-<tag lemma="Drvota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drvota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p6s5w3">
 <src.rf>manual</src.rf>
@@ -2391,7 +2391,7 @@
 <LM>w#w-ln95041-042-p6s7Bw3</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p6s7Bw4">
 <src.rf>manual</src.rf>
@@ -2417,7 +2417,7 @@
 <LM>w#w-ln95041-042-p7s1w1</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2452,7 +2452,7 @@
 <LM>w#w-ln95041-042-p7s1w5</LM>
 </w.rf>
 <form>Drvoty</form>
-<tag lemma="Drvota_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Drvota_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-042-p7s1w6">
 <src.rf>manual</src.rf>
@@ -2540,7 +2540,7 @@
 <LM>w#w-ln95041-042-p7s1w16</LM>
 </w.rf>
 <form>Tankweyovi</form>
-<tag lemma="Tankwey_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Tankwey_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95041-042-p7s1w17">
 <src.rf>manual</src.rf>
@@ -2846,7 +2846,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -3127,7 +3127,7 @@
 <LM>w#w-ln95041-042-p7s6w23</LM>
 </w.rf>
 <form>Drvoty</form>
-<tag lemma="Drvota_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Drvota_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-042-p7s6w24">
 <src.rf>manual</src.rf>
@@ -3232,7 +3232,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -3302,7 +3302,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -4142,7 +4142,7 @@
 <LM>w#w-ln95041-042-p10s1w3</LM>
 </w.rf>
 <form>Babaletu</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95041-042-p10s1w4">
 <src.rf>manual</src.rf>
@@ -4230,7 +4230,7 @@
 <LM>w#w-ln95041-042-p10s1w14</LM>
 </w.rf>
 <form>Babuljak</form>
-<tag lemma="Babuljak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Babuljak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-042-p10s1w15">
 <src.rf>manual</src.rf>
@@ -4299,7 +4299,7 @@
 <LM>w#w-ln95041-042-p10s2w4</LM>
 </w.rf>
 <form>Babuljakem</form>
-<tag lemma="Babuljak_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Babuljak_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-042-p10s2w5">
 <src.rf>manual</src.rf>
@@ -4331,7 +4331,7 @@
 <LM>w#w-ln95041-042-p10s2w8</LM>
 </w.rf>
 <form>Babaletem</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95041-042-p10s2w9">
 <src.rf>manual</src.rf>

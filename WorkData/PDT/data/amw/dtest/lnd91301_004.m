@@ -627,7 +627,7 @@
 <LM>w#w-lnd91301-004-p3s6w1</LM>
 </w.rf>
 <form>Stalin</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p3s6w2">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-lnd91301-004-p3s6w8</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p3s6w9">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-lnd91301-004-p3s7w2</LM>
 </w.rf>
 <form>Stalin</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p3s7w3">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-lnd91301-004-p3s8w2</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p3s8w3">
 <src.rf>manual</src.rf>
@@ -1548,7 +1548,7 @@
 <LM>w#w-lnd91301-004-p4s2w2</LM>
 </w.rf>
 <form>Hitlerovu</form>
-<tag lemma="Hitlerův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Hitlerův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd91301-004-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2658,7 +2658,7 @@
 <LM>w#w-lnd91301-004-p4s8w10</LM>
 </w.rf>
 <form>Böll</form>
-<tag lemma="Böll_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Böll_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p4s8w11">
 <src.rf>manual</src.rf>
@@ -2674,7 +2674,7 @@
 <LM>w#w-lnd91301-004-p4s8w12</LM>
 </w.rf>
 <form>Grass</form>
-<tag lemma="Grass_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grass_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p4s8w13">
 <src.rf>manual</src.rf>
@@ -2690,7 +2690,7 @@
 <LM>w#w-lnd91301-004-p4s8w14</LM>
 </w.rf>
 <form>Lenz</form>
-<tag lemma="Lenz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lenz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p4s8w15">
 <src.rf>manual</src.rf>
@@ -3084,7 +3084,7 @@
 <LM>w#w-lnd91301-004-p5s1w14</LM>
 </w.rf>
 <form>Hitlerovi</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p5s1w15">
 <src.rf>manual</src.rf>
@@ -3318,7 +3318,7 @@
 <LM>w#w-lnd91301-004-p6s1w18</LM>
 </w.rf>
 <form>Gorbačova</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p6s1w19">
 <src.rf>manual</src.rf>
@@ -3334,7 +3334,7 @@
 <LM>w#w-lnd91301-004-p6s1w20</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p6s1w21">
 <src.rf>manual</src.rf>
@@ -3358,7 +3358,7 @@
 <LM>w#w-lnd91301-004-p6s1w23</LM>
 </w.rf>
 <form>Stalina</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p6s1w24">
 <src.rf>manual</src.rf>
@@ -3734,7 +3734,7 @@
 <LM>w#w-lnd91301-004-p6s5w5</LM>
 </w.rf>
 <form>Gibbon</form>
-<tag lemma="Gibbon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gibbon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p6s5w6">
 <src.rf>manual</src.rf>
@@ -4019,7 +4019,7 @@
 </w.rf>
 <form>Magdalen</form>
 <tag>
-<AM lemma="Magdalen_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Magdalen_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Magdaléna_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Magdalena-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Magdalena_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
@@ -4033,7 +4033,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4197,7 +4197,7 @@
 <LM>w#w-lnd91301-004-p7s3w9</LM>
 </w.rf>
 <form>Gibbonovo</form>
-<tag lemma="Gibbonův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Gibbonův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd91301-004-p7s3w10">
 <src.rf>manual</src.rf>
@@ -5344,7 +5344,7 @@
 <LM>w#w-lnd91301-004-p10s1w1</LM>
 </w.rf>
 <form>Gibbon</form>
-<tag lemma="Gibbon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gibbon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p10s1w2">
 <src.rf>manual</src.rf>
@@ -5408,7 +5408,7 @@
 <LM>w#w-lnd91301-004-p10s1w9</LM>
 </w.rf>
 <form>Peroutka</form>
-<tag lemma="Peroutka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peroutka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p10s1w10">
 <src.rf>manual</src.rf>
@@ -5474,7 +5474,7 @@
 <LM>w#w-lnd91301-004-p10s2w7</LM>
 </w.rf>
 <form>Hitlerem</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p10s2w8">
 <src.rf>manual</src.rf>
@@ -5490,7 +5490,7 @@
 <LM>w#w-lnd91301-004-p10s2w9</LM>
 </w.rf>
 <form>Stalinem</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-004-p10s2w10">
 <src.rf>manual</src.rf>
@@ -5798,7 +5798,7 @@
 <LM>w#w-lnd91301-004-p12s1w2</LM>
 </w.rf>
 <form>URBÁNEK</form>
-<tag lemma="Urbánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urbánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -151,7 +151,7 @@
 <LM>w#w-ln95044-086-p2s2w8</LM>
 </w.rf>
 <form>Mahler</form>
-<tag lemma="Mahler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mahler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-086-p2s2w9">
 <src.rf>manual</src.rf>

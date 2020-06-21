@@ -72,7 +72,7 @@
 <form>Neprodal</form>
 <tag>
 <AM lemma="prodat" src="orig">VpYS----R-NAP--</AM>
-<AM lemma="Neprodal_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Neprodal_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

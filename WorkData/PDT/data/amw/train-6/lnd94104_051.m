@@ -103,7 +103,7 @@
 <LM>w#w-lnd94104-051-p1s3w5</LM>
 </w.rf>
 <form>Mock</form>
-<tag lemma="Mock_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mock_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-051-p1s3w6">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-lnd94104-051-p1s4w6</LM>
 </w.rf>
 <form>Mock</form>
-<tag lemma="Mock_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mock_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-051-p1s4w7">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-lnd94104-051-p1s4w29</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-051-p1s4w30">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -586,7 +586,7 @@
 </w.rf>
 <form>Presse</form>
 <tag>
-<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-1_;m_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

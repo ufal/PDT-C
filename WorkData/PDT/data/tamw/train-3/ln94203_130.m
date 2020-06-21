@@ -159,7 +159,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-130-p2s1Aw12">
@@ -176,7 +176,7 @@
 <LM>w#w-ln94203-130-p2s1Aw13</LM>
 </w.rf>
 <form>Kalousek</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-130-p2s1B">
@@ -203,8 +203,8 @@
 </w.rf>
 <form>gag</form>
 <tag>
-<AM lemma="gag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="gag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="gag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-130-p2s1Bw4">
@@ -375,7 +375,7 @@
 <LM>w#w-ln94203-130-p2s1Cw19</LM>
 </w.rf>
 <form>Krause</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-130-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -392,8 +392,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-130-p2s1Cw22">
@@ -458,7 +458,7 @@
 <LM>w#w-ln94203-130-p2s1Cw29</LM>
 </w.rf>
 <form>Kalousek</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p2s1Cw30">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-ln94203-130-p3s1w2</LM>
 </w.rf>
 <form>Kalousek</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p3s1w3">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-ln94203-130-p3s2w12</LM>
 </w.rf>
 <form>Krausovu</form>
-<tag lemma="Krausův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Krausův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94203-130-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-ln94203-130-p3s2w24</LM>
 </w.rf>
 <form>Kalousek</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p3s2w25">
 <src.rf>manual</src.rf>
@@ -1296,7 +1296,7 @@
 <LM>w#w-ln94203-130-p3s3w14</LM>
 </w.rf>
 <form>Kalousek</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-ln94203-130-p3s5w2</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1503,7 +1503,7 @@
 <LM>w#w-ln94203-130-p3s5w5</LM>
 </w.rf>
 <form>Kalouska</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-130-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1777,7 +1777,7 @@
 <LM>w#w-ln94203-130-p3s6w28</LM>
 </w.rf>
 <form>Kalousek</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p3s6w29">
 <src.rf>manual</src.rf>
@@ -1795,7 +1795,7 @@
 <LM>w#w-ln94203-130-p4s1w1</LM>
 </w.rf>
 <form>Krausovo</form>
-<tag lemma="Krausův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Krausův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94203-130-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1989,7 +1989,7 @@
 <LM>w#w-ln94203-130-p4s1w24</LM>
 </w.rf>
 <form>Růžička</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p4s1w25">
 <src.rf>manual</src.rf>

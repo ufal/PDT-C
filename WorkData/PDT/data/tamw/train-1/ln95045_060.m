@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-060-p1s1w1</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-060-p1s1w2">
 <src.rf>manual</src.rf>
@@ -60,9 +60,9 @@
 </w.rf>
 <form>SIS</form>
 <tag>
-<AM lemma="SIS-2_:B_;K_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SIS-1_:B_;K_^(Spořitelní_investiční_společnost)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SIS-1_:B_;m_^(Spořitelní_investiční_společnost)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
 <AM lemma="SIS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -218,9 +218,9 @@
 </w.rf>
 <form>SIS</form>
 <tag>
-<AM lemma="SIS-2_:B_;K_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SIS-1_:B_;K_^(Spořitelní_investiční_společnost)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SIS-1_:B_;m_^(Spořitelní_investiční_společnost)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
 <AM lemma="SIS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -241,7 +241,7 @@
 </w.rf>
 <form>Mitra</form>
 <tag>
-<AM lemma="Mitr_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mitr_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="mitra" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -323,7 +323,7 @@
 <LM>w#w-ln95045-060-p2s1Bw28</LM>
 </w.rf>
 <form>Mečiarův</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95045-060-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-ln95045-060-p2s1Bw32</LM>
 </w.rf>
 <form>Lexu</form>
-<tag lemma="Lexa_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lexa_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-060-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -422,9 +422,9 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-060-p2s2w8">
@@ -534,7 +534,7 @@
 <LM>w#w-ln95045-060-p2s3w6</LM>
 </w.rf>
 <form>Lexovo</form>
-<tag lemma="Lexův_;S_^(*2a)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Lexův_;Y_^(*2a)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln95045-060-p2s3w7">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-ln95045-060-p2s4w9</LM>
 </w.rf>
 <form>Tóthová</form>
-<tag lemma="Tóthová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tóthová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-060-p2s4w10">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-ln95045-060-p2s4w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95045-060-p2s4w18">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-ln95045-060-p2s4w28</LM>
 </w.rf>
 <form>Hudek</form>
-<tag lemma="Hudek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hudek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-060-p2s4w29">
 <src.rf>manual</src.rf>
@@ -907,9 +907,9 @@
 </w.rf>
 <form>SIS</form>
 <tag>
-<AM lemma="SIS_:B_;K_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SIS-1_:B_;K_^(Spořitelní_investiční_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SIS_:B_;m_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SIS-1_:B_;m_^(Spořitelní_investiční_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
 <AM lemma="SIS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1039,8 +1039,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-060-p2s5w19">
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln95045-060-p2s5w22</LM>
 </w.rf>
 <form>NOVA</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-060-p2s5w23">
 <src.rf>manual</src.rf>
@@ -1125,9 +1125,9 @@
 </w.rf>
 <form>SIS</form>
 <tag>
-<AM lemma="SIS_:B_;K_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SIS-1_:B_;K_^(Spořitelní_investiční_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SIS_:B_;m_,t_^(Slovenská_informačná_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SIS-1_:B_;m_^(Spořitelní_investiční_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
 <AM lemma="SIS-88" src="manual" selected="1">BNXXX-----A----</AM>

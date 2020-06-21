@@ -103,7 +103,7 @@
 <LM>w#w-ln94202-103-p2s1Bw3</LM>
 </w.rf>
 <form>Hotspur</form>
-<tag lemma="Hotspur_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hotspur_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-103-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1785,7 +1785,7 @@
 <LM>w#w-ln94202-103-p4s3w7</LM>
 </w.rf>
 <form>Parry</form>
-<tag lemma="Parry_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Parry_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-103-p4s3w8">
 <src.rf>manual</src.rf>
@@ -3676,8 +3676,8 @@
 </w.rf>
 <form>řej</form>
 <tag>
-<AM lemma="řej-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="řej-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="řej-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="řej-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-103-p5s5w3">

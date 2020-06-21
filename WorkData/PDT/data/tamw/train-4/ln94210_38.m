@@ -81,9 +81,9 @@
 </w.rf>
 <form>pet</form>
 <tag>
-<AM lemma="pet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="pet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-38-p2s1Aw4">
@@ -503,7 +503,7 @@
 <LM>w#w-ln94210-38-p3s1w20</LM>
 </w.rf>
 <form>Kvapil</form>
-<tag lemma="Kvapil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kvapil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-38-p3s1w21">
 <src.rf>manual</src.rf>
@@ -634,9 +634,9 @@
 </w.rf>
 <form>Sarkandera</form>
 <tag>
-<AM lemma="Sarkander_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Sarkander_;S" src="auto" recommended="1" selected="1">NNMS2-----A---2</AM>
-<AM lemma="Sarkander_;S" src="auto">NNMS4-----A---2</AM>
+<AM lemma="Sarkander_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Sarkander_;Y" src="auto" recommended="1" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Sarkander_;Y" src="auto">NNMS4-----A---2</AM>
 </tag>
 </m>
 <m id="m-ln94210-38-p3s2w16">
@@ -735,7 +735,7 @@
 <LM>w#w-ln94210-38-p3s3w11</LM>
 </w.rf>
 <form>Sarkanderovy</form>
-<tag lemma="Sarkanderův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Sarkanderův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94210-38-p3s3w12">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-ln94210-38-p3s4w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94210-38-p3s4w12">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 </w.rf>
 <form>OPUS</form>
 <tag>
-<AM lemma="OPUS_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OPUS_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="opus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="opus" src="auto">NNIS4-----A----</AM>
 <AM lemma="OPUS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1175,7 +1175,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1395,7 +1395,7 @@
 <LM>w#w-ln94210-38-p3s8w13</LM>
 </w.rf>
 <form>Kvapila</form>
-<tag lemma="Kvapil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kvapil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-38-p3s8w14">
 <src.rf>manual</src.rf>
@@ -1962,7 +1962,7 @@
 </w.rf>
 <form>OPUS</form>
 <tag>
-<AM lemma="OPUS_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OPUS_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="opus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="opus" src="auto">NNIS4-----A----</AM>
 <AM lemma="OPUS-88" src="manual" selected="1">BNXXX-----A----</AM>

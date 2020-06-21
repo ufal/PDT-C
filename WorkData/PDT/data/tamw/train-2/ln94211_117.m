@@ -202,7 +202,7 @@
 <LM>w#w-ln94211-117-p2s1Bw5</LM>
 </w.rf>
 <form>pú</form>
-<tag lemma="pú-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="pú-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-117-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-ln94211-117-p2s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94211-117-p2s4w2">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-ln94211-117-p3s1w20</LM>
 </w.rf>
 <form>Fukal</form>
-<tag lemma="Fukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-117-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1925,7 +1925,7 @@
 <LM>w#w-ln94211-117-p5s1w6</LM>
 </w.rf>
 <form>Müller</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-117-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2645,7 +2645,7 @@
 <LM>w#w-ln94211-117-p5s7w1</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-117-p5s7w2">
 <src.rf>manual</src.rf>

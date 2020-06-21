@@ -301,7 +301,7 @@
 </w.rf>
 <form>CEFTA</form>
 <tag>
-<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5990,7 +5990,7 @@
 <LM>w#w-ln95049-125-p10s3w3</LM>
 </w.rf>
 <form>Hortex</form>
-<tag lemma="Hortex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hortex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-125-p10s3w4">
 <src.rf>manual</src.rf>

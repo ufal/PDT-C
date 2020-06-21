@@ -133,7 +133,7 @@
 <LM>w#w-lnd94101-007-p1s1Bw12</LM>
 </w.rf>
 <form>Medek</form>
-<tag lemma="Medek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Medek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-007-p1s1Bw13">
 <src.rf>manual</src.rf>

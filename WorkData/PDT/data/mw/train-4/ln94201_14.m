@@ -19,7 +19,7 @@
 <LM>w#w-ln94201-14-p1s1w1</LM>
 </w.rf>
 <form>Klausovy</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94201-14-p1s1w2">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-ln94201-14-p2s1w25</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-14-p2s1w26">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 </w.rf>
 <form>Jasoň</form>
 <tag>
-<AM lemma="Jasoň_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Jasoň_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="jasoň" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -457,7 +457,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -614,7 +614,7 @@
 </w.rf>
 <form>Jasoně</form>
 <tag>
-<AM lemma="Jasoň_;K" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Jasoň_;m" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="jasoň" src="auto">NNMP4-----A----</AM>
 <AM lemma="jasoň" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="jasoň" src="auto">NNMS4-----A----</AM>

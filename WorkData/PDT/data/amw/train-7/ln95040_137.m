@@ -405,7 +405,7 @@
 </w.rf>
 <form>ČMKOS</form>
 <tag>
-<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS_:B_;m_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -423,7 +423,7 @@
 <LM>w#w-ln95040-137-p4s1w4</LM>
 </w.rf>
 <form>Ryvola</form>
-<tag lemma="Ryvola_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ryvola_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-137-p4s1w5">
 <src.rf>manual</src.rf>
@@ -432,8 +432,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-137-p4s1w6">
@@ -629,7 +629,7 @@
 </w.rf>
 <form>ČMKOS</form>
 <tag>
-<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS_:B_;m_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -989,7 +989,7 @@
 <LM>w#w-ln95040-137-p4s5w2</LM>
 </w.rf>
 <form>Ryvoly</form>
-<tag lemma="Ryvola_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ryvola_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-137-p4s5w3">
 <src.rf>manual</src.rf>

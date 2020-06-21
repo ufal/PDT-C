@@ -20,10 +20,10 @@
 </w.rf>
 <form>HYPO</form>
 <tag>
-<AM lemma="Hypo_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Hypo_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS1-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="HYPO-77" src="manual">F%-------------</AM>
@@ -179,10 +179,10 @@
 </w.rf>
 <form>HYPO</form>
 <tag>
-<AM lemma="Hypo_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hypo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Hypo_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Hypo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto">A2--------A----</AM>
 <AM lemma="HYPO-77" src="manual">F%-------------</AM>
@@ -886,10 +886,10 @@
 </w.rf>
 <form>HYPO</form>
 <tag>
-<AM lemma="Hypo_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hypo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Hypo_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Hypo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Hypo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto">A2--------A----</AM>
 <AM lemma="HYPO-77" src="manual">F%-------------</AM>

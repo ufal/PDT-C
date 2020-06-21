@@ -121,7 +121,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-095-p1s3w9">
@@ -284,7 +284,7 @@
 <LM>w#w-lnd94101-095-p1s4w17</LM>
 </w.rf>
 <form>Smirnov</form>
-<tag lemma="Smirnov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smirnov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-095-p1s4w18">
 <src.rf>manual</src.rf>
@@ -571,8 +571,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-095-p1s31w6">

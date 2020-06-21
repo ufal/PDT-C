@@ -64,7 +64,7 @@
 <LM>w#w-lnd91303-077-p2s1w5</LM>
 </w.rf>
 <form>Čapka</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-077-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 <LM>w#w-lnd91303-077-p3s14w6</LM>
 </w.rf>
 <form>Slávii</form>
-<tag lemma="Slávie_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Slávie_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd91303-077-p3s14w7">
 <src.rf>manual</src.rf>
@@ -1658,7 +1658,7 @@
 <LM>w#w-lnd91303-077-p3s14w8</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd91303-077-p3s14w9">
 <src.rf>manual</src.rf>
@@ -2810,7 +2810,7 @@
 <form>BRŮNA</form>
 <tag>
 <AM lemma="brůna" src="orig">NNFS1-----A----</AM>
-<AM lemma="Brůna_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Brůna_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-077-p5s1w3">

@@ -44,10 +44,10 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro-2_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="Pro_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -58,7 +58,7 @@
 </w.rf>
 <form>Thalia</form>
 <tag>
-<AM lemma="Thalia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Thalia_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP1-----A----</AM>
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
@@ -83,10 +83,10 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro-2_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="Pro_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -97,7 +97,7 @@
 </w.rf>
 <form>Thalia</form>
 <tag>
-<AM lemma="Thalia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Thalia_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP1-----A----</AM>
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
@@ -521,7 +521,7 @@
 <LM>w#w-ln94205-101-p2s2w31</LM>
 </w.rf>
 <form>Mach</form>
-<tag lemma="Mach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-101-p2s2w32">
 <src.rf>manual</src.rf>
@@ -556,10 +556,10 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro-2_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="Pro_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -570,7 +570,7 @@
 </w.rf>
 <form>Thalia</form>
 <tag>
-<AM lemma="Thalia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Thalia_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP1-----A----</AM>
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
@@ -961,10 +961,10 @@
 </w.rf>
 <form>Pro</form>
 <tag>
-<AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
+<AM lemma="Pro-2_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="Pro_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -975,7 +975,7 @@
 </w.rf>
 <form>Thalia</form>
 <tag>
-<AM lemma="Thalia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Thalia_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP1-----A----</AM>
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
@@ -1023,7 +1023,7 @@
 <form>Klusák</form>
 <tag>
 <AM lemma="klusák" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klusák_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klusák_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s5w11">
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln94205-101-p2s6w9</LM>
 </w.rf>
 <form>Jiráskovou</form>
-<tag lemma="Jirásková_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Jirásková_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-101-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1245,8 +1245,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="čtk_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="čtk_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s7w3">
@@ -1263,7 +1263,7 @@
 <LM>w#w-ln94205-101-p2s7w4</LM>
 </w.rf>
 <form>ola</form>
-<tag lemma="ola-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ola-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-101-p2s7w5">
 <src.rf>manual</src.rf>

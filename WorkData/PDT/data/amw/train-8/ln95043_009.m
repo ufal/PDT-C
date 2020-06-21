@@ -109,7 +109,7 @@
 <LM>w#w-ln95043-009-p2s1Aw7</LM>
 </w.rf>
 <form>Beneš</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95043-009-p2s1B">
@@ -535,7 +535,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -553,7 +553,7 @@
 <LM>w#w-ln95043-009-p2s3w10</LM>
 </w.rf>
 <form>Stieglerovi</form>
-<tag lemma="Stiegler_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Stiegler_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95043-009-p2s3w11">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-ln95043-009-p2s4w3</LM>
 </w.rf>
 <form>Liba</form>
-<tag lemma="Liba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Liba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p2s4w4">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95043-009-p2s4w13</LM>
 </w.rf>
 <form>Mádl</form>
-<tag lemma="Mádl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mádl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p2s4w14">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-ln95043-009-p2s4w26</LM>
 </w.rf>
 <form>Krondl</form>
-<tag lemma="Krondl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krondl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p2s4w27">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-ln95043-009-p2s5w15</LM>
 </w.rf>
 <form>Krondl</form>
-<tag lemma="Krondl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krondl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1065,8 +1065,8 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UEFA-1_:B_;K_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-009-p2s5w29">
@@ -1394,7 +1394,7 @@
 <LM>w#w-ln95043-009-p3s2w19</LM>
 </w.rf>
 <form>Stiegler</form>
-<tag lemma="Stiegler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stiegler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p3s2w20">
 <src.rf>manual</src.rf>
@@ -2521,7 +2521,7 @@
 <LM>w#w-ln95043-009-p4s2w19</LM>
 </w.rf>
 <form>Cooperův</form>
-<tag lemma="Cooperův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Cooperův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95043-009-p4s2w20">
 <src.rf>manual</src.rf>
@@ -3060,7 +3060,7 @@
 <LM>w#w-ln95043-009-p4s6w16</LM>
 </w.rf>
 <form>Stiegler</form>
-<tag lemma="Stiegler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stiegler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p4s6w17">
 <src.rf>manual</src.rf>
@@ -3150,7 +3150,7 @@
 <LM>w#w-ln95043-009-p4s7w10</LM>
 </w.rf>
 <form>Drozdyho</form>
-<tag lemma="Drozdy_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Drozdy_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95043-009-p4s7w11">
 <src.rf>manual</src.rf>
@@ -3238,7 +3238,7 @@
 <LM>w#w-ln95043-009-p4s7w21</LM>
 </w.rf>
 <form>Cooperův</form>
-<tag lemma="Cooperův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Cooperův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95043-009-p4s7w22">
 <src.rf>manual</src.rf>
@@ -3336,7 +3336,7 @@
 <LM>w#w-ln95043-009-p4s8w10</LM>
 </w.rf>
 <form>Beneš</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p4s8w11">
 <src.rf>manual</src.rf>
@@ -4221,7 +4221,7 @@
 <LM>w#w-ln95043-009-p5s5w17</LM>
 </w.rf>
 <form>Stiegler</form>
-<tag lemma="Stiegler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stiegler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p5s5w18">
 <src.rf>manual</src.rf>
@@ -4773,7 +4773,7 @@
 <LM>w#w-ln95043-009-p6s4w18</LM>
 </w.rf>
 <form>Stiegler</form>
-<tag lemma="Stiegler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stiegler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p6s4w19">
 <src.rf>manual</src.rf>
@@ -4985,7 +4985,7 @@
 <LM>w#w-ln95043-009-p6s6w5</LM>
 </w.rf>
 <form>Liba</form>
-<tag lemma="Liba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Liba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p6s6w6">
 <src.rf>manual</src.rf>
@@ -5025,7 +5025,7 @@
 <LM>w#w-ln95043-009-p6s6w10</LM>
 </w.rf>
 <form>Wencl</form>
-<tag lemma="Wencl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wencl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-009-p6s6w11">
 <src.rf>manual</src.rf>

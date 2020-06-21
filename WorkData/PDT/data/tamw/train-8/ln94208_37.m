@@ -169,7 +169,7 @@
 <form>Vorálka</form>
 <tag>
 <AM lemma="Vorálek" src="auto">NNMS2-----A----</AM>
-<AM lemma="Vorálek_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Vorálek_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-37-p2s1Bw10">
@@ -349,7 +349,7 @@
 </w.rf>
 <form>SPR</form>
 <tag>
-<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-1_:B_;m_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -368,7 +368,7 @@
 </w.rf>
 <form>RSČ</form>
 <tag>
-<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-1_:B_;m_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -910,7 +910,7 @@
 <form>Vorálek</form>
 <tag>
 <AM lemma="Vorálek" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vorálek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vorálek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-37-p2s4w9">

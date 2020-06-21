@@ -2209,7 +2209,7 @@
 <LM>w#w-ln95043-091-p6s5w15</LM>
 </w.rf>
 <form>Maxwell</form>
-<tag lemma="Maxwell_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maxwell_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-091-p6s5w16">
 <src.rf>manual</src.rf>
@@ -2614,7 +2614,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2636,9 +2636,9 @@
 </w.rf>
 <form>Credit</form>
 <tag>
-<AM lemma="Credit_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Credit_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Credit_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Credit_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Credit_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Credit_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="credit_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Credit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2661,7 +2661,7 @@
 </w.rf>
 <form>Commerce</form>
 <tag>
-<AM lemma="Commerce_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Commerce_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="commerce_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Commerce-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2673,8 +2673,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>

@@ -20,7 +20,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -31,7 +31,7 @@
 </w.rf>
 <form>Presse</form>
 <tag>
-<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-1_;m_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -149,7 +149,7 @@
 <LM>w#w-ln95043-115-p3s1w4</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-115-p3s1w5">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95043-115-p3s2w27</LM>
 </w.rf>
 <form>Havlovo</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln95043-115-p3s2w28">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -483,7 +483,7 @@
 </w.rf>
 <form>Presse</form>
 <tag>
-<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-1_;m_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -658,7 +658,7 @@
 <LM>w#w-ln95043-115-p4s1w20</LM>
 </w.rf>
 <form>Havlovo</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95043-115-p4s1w21">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-ln95043-115-p5s1w12</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-115-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1168,7 +1168,7 @@
 <LM>w#w-ln95043-115-p5s3w1</LM>
 </w.rf>
 <form>Havlův</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95043-115-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1292,7 +1292,7 @@
 </w.rf>
 <form>Presse</form>
 <tag>
-<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-1_;m_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1344,7 +1344,7 @@
 <LM>w#w-ln95043-115-p6s1w5</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-115-p6s1w6">
 <src.rf>manual</src.rf>

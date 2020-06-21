@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-080-p1s1w1</LM>
 </w.rf>
 <form>Straka</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-080-p1s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf920902-080-p2s1w2</LM>
 </w.rf>
 <form>Straka</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-080-p2s1w3">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-mf920902-080-p2s2w6</LM>
 </w.rf>
 <form>Straka</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-080-p2s2w7">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-mf920902-080-p3s1w2</LM>
 </w.rf>
 <form>Sedláček</form>
-<tag lemma="Sedláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sedláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-080-p3s1w3">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -834,7 +834,7 @@
 </w.rf>
 <form>Crystal</form>
 <tag>
-<AM lemma="Crystal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Crystal_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Crystal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -845,7 +845,7 @@
 </w.rf>
 <form>Palace</form>
 <tag>
-<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-1_;m_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -911,7 +911,7 @@
 <LM>w#w-mf920902-080-p4s1w14</LM>
 </w.rf>
 <form>Armstrong</form>
-<tag lemma="Armstrong_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Armstrong_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-080-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-mf920902-080-p5s1w4</LM>
 </w.rf>
 <form>Zvishavane</form>
-<tag lemma="Zvishavane_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Zvishavane_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920902-080-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

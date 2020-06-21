@@ -52,7 +52,7 @@
 </w.rf>
 <form>CEFTA</form>
 <tag>
-<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -203,7 +203,7 @@
 </w.rf>
 <form>CEFTA</form>
 <tag>
-<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94204-55-p2s1Bw25</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-55-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <AM lemma="László_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="László_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="László_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="László_;Y_,t" src="manual">NNMSX-----A----</AM>
+<AM lemma="László_;Y_,t" src="manual">NNMXX-----A----</AM>
 <AM lemma="László_;Y_,t" src="manual">NNMXX-----A----</AM>
 <AM lemma="László_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
@@ -340,7 +340,7 @@
 <LM>w#w-ln94204-55-p2s1Bw32</LM>
 </w.rf>
 <form>Kovácsem</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-55-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-ln94204-55-p2s2w4</LM>
 </w.rf>
 <form>Petrov</form>
-<tag lemma="Petrov_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-55-p2s2w5">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-ln94204-55-p2s4w2</LM>
 </w.rf>
 <form>Kovács</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-55-p2s4w3">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-ln94204-55-p2s4w19</LM>
 </w.rf>
 <form>Havlem</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-55-p2s4w20">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-ln94204-55-p2s4w25</LM>
 </w.rf>
 <form>Uhdem</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-55-p2s4w26">
 <src.rf>manual</src.rf>

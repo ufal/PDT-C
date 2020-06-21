@@ -70,7 +70,7 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="wild_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -82,7 +82,7 @@
 </w.rf>
 <form>Duck</form>
 <tag>
-<AM lemma="Duck-2_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Duck-2_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Duck_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Duck_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="duck_,t" src="manual">NNXXX-----A----</AM>
@@ -203,7 +203,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-132-p2s1Bw13">
@@ -221,8 +221,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-132-p2s1Bw15">

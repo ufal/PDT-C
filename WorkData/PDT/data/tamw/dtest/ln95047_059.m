@@ -27,7 +27,7 @@
 <LM>w#w-ln95047-059-p1s1w2</LM>
 </w.rf>
 <form>Načeradský</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-059-p2s1">
@@ -207,7 +207,7 @@
 <LM>w#w-ln95047-059-p2s2w2</LM>
 </w.rf>
 <form>NAČERADSKÝ</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-059-p2s2w3">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-ln95047-059-p3s1w2</LM>
 </w.rf>
 <form>Načeradský</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-059-p3s1w3">
 <src.rf>manual</src.rf>
@@ -987,7 +987,7 @@
 <LM>w#w-ln95047-059-p3s5w8</LM>
 </w.rf>
 <form>Načeradského</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-059-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 <LM>w#w-ln95047-059-p4s2w1</LM>
 </w.rf>
 <form>Načeradský</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-059-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1726,7 +1726,7 @@
 <LM>w#w-ln95047-059-p4s4w12</LM>
 </w.rf>
 <form>Načeradského</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-059-p4s4w13">
 <src.rf>manual</src.rf>
@@ -2231,7 +2231,7 @@
 <LM>w#w-ln95047-059-p5s2w13</LM>
 </w.rf>
 <form>Načeradský</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-059-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2406,7 +2406,7 @@
 <LM>w#w-ln95047-059-p5s4w2</LM>
 </w.rf>
 <form>Baum</form>
-<tag lemma="Baum_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baum_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-059-p5s4w3">
 <src.rf>manual</src.rf>
@@ -2422,7 +2422,7 @@
 <LM>w#w-ln95047-059-p5s4w4</LM>
 </w.rf>
 <form>Načeradský</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-059-p5s4w5">
 <src.rf>manual</src.rf>

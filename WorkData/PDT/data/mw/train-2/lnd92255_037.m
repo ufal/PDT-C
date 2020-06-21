@@ -447,8 +447,8 @@
 </w.rf>
 <form>Rosse</form>
 <tag>
-<AM lemma="Ross_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ross_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ross_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ross_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-037-p1s2w30">
@@ -458,8 +458,8 @@
 </w.rf>
 <form>Perota</form>
 <tag>
-<AM lemma="Perota_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Perot_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Perota_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-037-p1s2w31">

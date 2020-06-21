@@ -319,7 +319,7 @@
 <LM>w#w-ln95049-068-p2s2w8</LM>
 </w.rf>
 <form>Kanta</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-068-p2s2w9">
 <src.rf>manual</src.rf>
@@ -1969,7 +1969,7 @@
 <LM>w#w-ln95049-068-p6s3w14</LM>
 </w.rf>
 <form>Kanta</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-068-p6s3w15">
 <src.rf>manual</src.rf>
@@ -3723,7 +3723,7 @@
 <LM>w#w-ln95049-068-p11s1w20</LM>
 </w.rf>
 <form>dolary</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95049-068-p11s1w21">
 <src.rf>manual</src.rf>
@@ -4012,13 +4012,13 @@
 <form>Taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="Tako-1_;G_;R" src="auto">NNNP7-----A----</AM>
+<AM lemma="Tako-1_;G_;m" src="auto">NNNP7-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -4874,7 +4874,7 @@
 <LM>w#w-ln95049-068-p13s3w5</LM>
 </w.rf>
 <form>Žirinovskij</form>
-<tag lemma="Žirinovský_;S" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Žirinovský_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-ln95049-068-p13s3w6">
 <src.rf>manual</src.rf>

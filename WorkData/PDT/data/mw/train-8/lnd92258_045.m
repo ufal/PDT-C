@@ -471,7 +471,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-045-p4s1w5">
@@ -488,7 +488,7 @@
 <LM>w#w-lnd92258-045-p4s1w6</LM>
 </w.rf>
 <form>Pezl</form>
-<tag lemma="Pezl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pezl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-045-p4s1w7">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-045-p4s3w15">
@@ -890,7 +890,7 @@
 <LM>w#w-lnd92258-045-p4s3w16</LM>
 </w.rf>
 <form>Pezl</form>
-<tag lemma="Pezl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pezl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-045-p4s3w17">
 <src.rf>manual</src.rf>

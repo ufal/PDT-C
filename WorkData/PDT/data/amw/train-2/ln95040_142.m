@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-142-p1s1w1</LM>
 </w.rf>
 <form>Moravcova</form>
-<tag lemma="Moravcův_;S_^(*3ec)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Moravcův_;Y_^(*3ec)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95040-142-p1s1w2">
 <src.rf>manual</src.rf>
@@ -60,8 +60,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-142-p1s1w7">
@@ -328,7 +328,7 @@
 <LM>w#w-ln95040-142-p3s2w10</LM>
 </w.rf>
 <form>Ekobanky</form>
-<tag lemma="Ekobanka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Ekobanka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-142-p3s2w11">
 <src.rf>manual</src.rf>
@@ -451,8 +451,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-142-p3s3w2">
@@ -485,7 +485,7 @@
 <LM>w#w-ln95040-142-p3s3w5</LM>
 </w.rf>
 <form>Švehla</form>
-<tag lemma="Švehla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švehla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-142-p3s3w6">
 <src.rf>manual</src.rf>
@@ -550,8 +550,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-142-p3s3w14">
@@ -1164,8 +1164,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-142-p4s3w37">
@@ -1617,8 +1617,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-142-p5s2w33">
@@ -1659,7 +1659,7 @@
 <LM>w#w-ln95040-142-p5s2w37</LM>
 </w.rf>
 <form>Švehla</form>
-<tag lemma="Švehla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švehla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-142-p5s2w38">
 <src.rf>manual</src.rf>
@@ -1782,8 +1782,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-142-p6s1w15">
@@ -2265,7 +2265,7 @@
 <LM>w#w-ln95040-142-p7s1w19</LM>
 </w.rf>
 <form>Moravec</form>
-<tag lemma="Moravec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-142-p7s1w20">
 <src.rf>manual</src.rf>
@@ -2413,7 +2413,7 @@
 <LM>w#w-ln95040-142-p7s3w1</LM>
 </w.rf>
 <form>Moravec</form>
-<tag lemma="Moravec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-142-p7s3w2">
 <src.rf>manual</src.rf>

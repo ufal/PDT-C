@@ -164,7 +164,7 @@
 <LM>w#w-vesm9211-012-p5s1w2</LM>
 </w.rf>
 <form>FLEGR</form>
-<tag lemma="Flegr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Flegr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-012-p6s1">
@@ -3158,8 +3158,8 @@
 </w.rf>
 <form>p</form>
 <tag>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="p-33" src="orig">Q3-------------</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p10s1w34">
@@ -3233,7 +3233,7 @@
 </w.rf>
 <form>RNA</form>
 <tag>
-<AM lemma="RNA_:B_;L_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="RNA_:B_;U_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="RNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3625,8 +3625,8 @@
 </w.rf>
 <form>p</form>
 <tag>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="p-33" src="orig">Q3-------------</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p10s2w28">
@@ -3700,7 +3700,7 @@
 </w.rf>
 <form>RNA</form>
 <tag>
-<AM lemma="RNA_:B_;L_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="RNA_:B_;U_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="RNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5845,7 +5845,7 @@
 <LM>w#w-vesm9211-012-p14s4w11</LM>
 </w.rf>
 <form>nukleotidů</form>
-<tag lemma="nukleotid_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="nukleotid_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9211-012-p14s4w12">
 <src.rf>manual</src.rf>
@@ -5878,8 +5878,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p14s4w16">
@@ -5979,8 +5979,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p14s5w6">
@@ -6178,7 +6178,7 @@
 <LM>w#w-vesm9211-012-p14s6w19</LM>
 </w.rf>
 <form>nukleotidu</form>
-<tag lemma="nukleotid_;H" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="nukleotid_;U" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-012-p14s6w20">
 <src.rf>manual</src.rf>
@@ -7462,7 +7462,7 @@
 <LM>w#w-vesm9211-012-p15s2Bw25</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9211-012-p15s2Bw26">
 <src.rf>manual</src.rf>
@@ -8567,7 +8567,7 @@
 <LM>w#w-vesm9211-012-p16s1w30</LM>
 </w.rf>
 <form>nukleotid</form>
-<tag lemma="nukleotid_;H" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="nukleotid_;U" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9211-012-p16s1w31">
 <src.rf>manual</src.rf>
@@ -8696,7 +8696,7 @@
 <LM>w#w-vesm9211-012-p16s1w46</LM>
 </w.rf>
 <form>nukleotidů</form>
-<tag lemma="nukleotid_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="nukleotid_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9211-012-p16s1w47">
 <src.rf>manual</src.rf>
@@ -8970,7 +8970,7 @@
 <LM>w#w-vesm9211-012-p16s2w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-vesm9211-012-p16s2w14">
 <src.rf>manual</src.rf>
@@ -10214,8 +10214,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p18s2w6">
@@ -11107,8 +11107,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p18s8w9">
@@ -18577,8 +18577,8 @@
 <form>polymerase</form>
 <tag>
 <AM lemma="polymerase_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="polymeráza_;H_,x" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="polymeráza_;H_,x" src="auto">NNFS6-----A----</AM>
+<AM lemma="polymeráza_;U_,x" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="polymeráza_;U_,x" src="auto">NNFS6-----A----</AM>
 <AM lemma="polymerase_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="polymerase-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -19085,8 +19085,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p28s5w14">

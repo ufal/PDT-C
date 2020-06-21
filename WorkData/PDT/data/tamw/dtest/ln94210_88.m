@@ -28,7 +28,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -46,7 +46,7 @@
 <LM>w#w-ln94210-88-p1s1Aw4</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-88-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -127,9 +127,9 @@
 </w.rf>
 <form>YMCA</form>
 <tag>
-<AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="YMCA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="YMCA_:B_;K_,t_^(Young_Men`s_Christian_Association)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="YMCA_:B_;m_,t_^(Young_Men`s_Christian_Association)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="YMCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -158,9 +158,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

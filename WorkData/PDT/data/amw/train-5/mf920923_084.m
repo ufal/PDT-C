@@ -62,7 +62,7 @@
 </w.rf>
 <form>sch</form>
 <tag>
-<AM lemma="sch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="sch-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>
@@ -521,7 +521,7 @@
 <LM>w#w-mf920923-084-p2s4w25</LM>
 </w.rf>
 <form>Kolín</form>
-<tag lemma="Kolín-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolín-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-084-p2s4w26">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-mf920923-084-p2s6Bw12</LM>
 </w.rf>
 <form>Dostála</form>
-<tag lemma="Dostál_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dostál_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-084-p2s6Bw13">
 <src.rf>manual</src.rf>

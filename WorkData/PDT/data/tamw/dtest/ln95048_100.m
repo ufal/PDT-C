@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-100-p1s1w1</LM>
 </w.rf>
 <form>Sahula</form>
-<tag lemma="Sahula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sahula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-100-p1s1w2">
 <src.rf>manual</src.rf>
@@ -36,7 +36,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -338,8 +338,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95048-100-p2s3w4">
@@ -364,7 +364,7 @@
 <LM>w#w-ln95048-100-p2s3w6</LM>
 </w.rf>
 <form>Sahula</form>
-<tag lemma="Sahula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sahula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-100-p2s3w7">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -538,18 +538,18 @@
 </w.rf>
 <form>Chvalovský</form>
 <tag>
-<AM lemma="Chvalovský_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS6-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-100-p2s4w8">

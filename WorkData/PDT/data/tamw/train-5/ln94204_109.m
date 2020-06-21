@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-109-p1s1w1</LM>
 </w.rf>
 <form>Schumacherův</form>
-<tag lemma="Schumacherův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Schumacherův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94204-109-p1s1w2">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln94204-109-p2s1Bw7</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94204-109-p2s1Bw8</LM>
 </w.rf>
 <form>Schumacher</form>
-<tag lemma="Schumacher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schumacher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln94204-109-p2s1Bw14</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln94204-109-p2s1Bw16</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 </w.rf>
 <form>Silverstone</form>
 <tag>
-<AM lemma="Silverstone_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Silverstone_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Silverstone-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -347,7 +347,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -427,9 +427,9 @@
 </w.rf>
 <form>FIA</form>
 <tag>
-<AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Fio_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -507,9 +507,9 @@
 </w.rf>
 <form>FIA</form>
 <tag>
-<AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="Fio_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="FIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -543,7 +543,7 @@
 <LM>w#w-ln94204-109-p2s2w20</LM>
 </w.rf>
 <form>Schumachera</form>
-<tag lemma="Schumacher_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Schumacher_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-109-p2s2w21">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 </w.rf>
 <form>Silverstone</form>
 <tag>
-<AM lemma="Silverstone_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Silverstone_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Silverstone-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

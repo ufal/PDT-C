@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-063-p1s1w4</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-063-p1s1w5">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 <LM>w#w-mf930702-063-p1s1w9</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-063-p1s1w10">
 <src.rf>manual</src.rf>

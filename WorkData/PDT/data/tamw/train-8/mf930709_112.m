@@ -78,8 +78,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-112-p2s1Aw4">
@@ -1055,7 +1055,7 @@
 </w.rf>
 <form>FACE</form>
 <tag>
-<AM lemma="FACE_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FACE_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FACE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1285,7 +1285,7 @@
 <LM>w#w-mf930709-112-p5s3w3</LM>
 </w.rf>
 <form>Vihana</form>
-<tag lemma="Vihan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vihan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-112-p5s3w4">
 <src.rf>manual</src.rf>

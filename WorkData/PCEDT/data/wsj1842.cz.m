@@ -17,9 +17,9 @@
 </w.rf>
 <form>Maurice</form>
 <tag>
-<AM lemma="Mauric_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Mauric_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Mauric_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Mauric_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Mauric_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Mauric_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Maurice_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Maurice_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Maurice_;Y_,t" src="auto">NNMXX-----A----</AM>
@@ -35,7 +35,7 @@
 <tag>
 <AM lemma="Warren_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Warren_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Warren_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warren_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1842-001-p1s0W3-Ta">
@@ -281,8 +281,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -313,9 +313,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -531,15 +531,15 @@
 </w.rf>
 <form>Terry</form>
 <tag>
-<AM lemma="Terra_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Terra_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Terra_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Terra_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Terry_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Terry_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Terry_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Terra_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Terra_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Terra_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Terra_;m" src="auto">NNFS2-----A----</AM>
+<AM lemma="Terry_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Terry_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Terry_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="terra" src="auto">NNFS2-----A----</AM>
-<AM lemma="Terry_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Terry_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1842-001-p1s1W14-Ta">
@@ -549,9 +549,9 @@
 </w.rf>
 <form>Pryce</form>
 <tag>
-<AM lemma="Pryce_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pryce_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Pryce_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Pryce_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pryce_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Pryce_;Y" src="auto">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1842-001-p1s1W15-Ta">

@@ -43,7 +43,7 @@
 <LM>w#w-ln95042-053-p1s1w4</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 </s>
 <s id="m-ln95042-053-p2s1A">
@@ -79,7 +79,7 @@
 <LM>w#w-ln95042-053-p2s1Bw2</LM>
 </w.rf>
 <form>Čang</form>
-<tag lemma="Čang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-053-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -88,7 +88,7 @@
 </w.rf>
 <form>Jün</form>
 <tag>
-<AM lemma="Jün_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jün_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jün_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -130,7 +130,7 @@
 <LM>w#w-ln95042-053-p2s1Bw8</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95042-053-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -147,9 +147,9 @@
 </w.rf>
 <form>deoxyribonukleovou</form>
 <tag>
-<AM lemma="deoxyribonukleová_;H_^(*1ý)" src="orig">NNFS4-----A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto">AAFS7----1A----</AM>
+<AM lemma="deoxyribonukleová_;U_^(*1ý)" src="orig">NNFS4-----A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
+<AM lemma="deoxyribonukleový_;U" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-053-p2s1Bw11">
@@ -442,7 +442,7 @@
 <LM>w#w-ln95042-053-p2s3w10</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95042-053-p2s3w11">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-ln95042-053-p2s4w5</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95042-053-p2s4w6">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln95042-053-p2s6w1</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="DNA_:B_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95042-053-p2s6w2">
 <src.rf>manual</src.rf>

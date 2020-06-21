@@ -53,7 +53,7 @@
 <LM>w#w-ln95040-067-p2s1w2</LM>
 </w.rf>
 <form>Třeštík</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-067-p2s1w3">
 <src.rf>manual</src.rf>
@@ -193,8 +193,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-067-p2s1w20">
@@ -1356,7 +1356,7 @@
 <LM>w#w-ln95040-067-p3s5w22</LM>
 </w.rf>
 <form>Třeštík</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-067-p3s5w23">
 <src.rf>manual</src.rf>
@@ -2003,7 +2003,7 @@
 <LM>w#w-ln95040-067-p3s7w33</LM>
 </w.rf>
 <form>Kolbe</form>
-<tag lemma="Kolbe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolbe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-067-p3s7w34">
 <src.rf>manual</src.rf>
@@ -2406,7 +2406,7 @@
 <LM>w#w-ln95040-067-p4s1w8</LM>
 </w.rf>
 <form>Třeštík</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-067-p4s1w9">
 <src.rf>manual</src.rf>
@@ -3031,8 +3031,8 @@
 </w.rf>
 <form>Kadmos</form>
 <tag>
-<AM lemma="Kadmos_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kadmos_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kadmos_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kadmos_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-067-p5s3w2">
@@ -3067,7 +3067,7 @@
 <form>Evropu</form>
 <tag>
 <AM lemma="Evropa_;G" src="orig">NNFS4-----A----</AM>
-<AM lemma="Evropa_;Y_;G" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-067-p5s3w6">
@@ -3384,8 +3384,8 @@
 <form>Abraham</form>
 <tag>
 <AM lemma="Abrahám_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abraham_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Abraham_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abraham_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Abraham_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-067-p5s6w3">
@@ -3747,7 +3747,7 @@
 <LM>w#w-ln95040-067-p5s9w5</LM>
 </w.rf>
 <form>předjímka</form>
-<tag lemma="předjímka_;u" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="předjímka" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-067-p5s9w6">
 <src.rf>manual</src.rf>
@@ -4350,7 +4350,7 @@
 <LM>w#w-ln95040-067-p6s1w26</LM>
 </w.rf>
 <form>Třeštíka</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-067-p6s1w27">
 <src.rf>manual</src.rf>
@@ -4604,8 +4604,8 @@
 </w.rf>
 <form>Odysseus</form>
 <tag>
-<AM lemma="Odysseus_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Odysseus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Odysseus_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Odysseus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-067-p6s2w15">

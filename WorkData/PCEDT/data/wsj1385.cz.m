@@ -164,9 +164,9 @@
 </w.rf>
 <form>Gene</form>
 <tag>
-<AM lemma="Genus_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Gene-1_;Y_^(muž)" src="auto" selected="1">NNMSX-----A----</AM>
-<AM lemma="Gene-2_;Y_^(žena)" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Genus_;m" src="auto">NNIS5-----A----</AM>
+<AM lemma="Gene-1_;Y_^(muž)" src="auto" selected="1">NNMXX-----A----</AM>
+<AM lemma="Gene-2_;Y_^(žena)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="gen" src="auto">NNIS5-----A----</AM>
 <AM lemma="genus" src="auto">NNIS5-----A----</AM>
 <AM lemma="gene-77" src="auto">F%-------------</AM>
@@ -180,11 +180,11 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="E-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="auto">Q3-------------</AM>
+<AM lemma="E-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="e-1" src="auto">II-------------</AM>
 <AM lemma="e-2_^(e-mail)" src="auto">A2--------A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="E-33" src="auto">Q3-------------</AM>
 <AM lemma="e-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -203,10 +203,10 @@
 </w.rf>
 <form>Phillipse</form>
 <tag>
-<AM lemma="Philips_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Phillips_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Phillips_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Phillips_;S" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Philips_;m" src="auto">NNIS5-----A----</AM>
+<AM lemma="Phillips_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Phillips_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Phillips_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s0W16-Ta">
@@ -313,9 +313,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -337,14 +337,14 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="S-33" src="auto">Q3-------------</AM>
 <AM lemma="S-77" src="auto">F%-------------</AM>
-<AM lemma="S-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto">RR--7----------</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="S-33" src="auto">Q3-------------</AM>
 <AM lemma="s-77_,t" src="auto">F%-------------</AM>
 <AM lemma="s-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
@@ -369,8 +369,8 @@
 </w.rf>
 <form>Friedmana</form>
 <tag>
-<AM lemma="Friedman_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Friedman_;S" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Friedman_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Friedman_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s0W30-Ta">
@@ -426,7 +426,7 @@
 <form>Southmark</form>
 <tag>
 <AM lemma="Southmark" src="auto">X@-------------</AM>
-<AM lemma="Southmark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Southmark_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s0W35-Ta">
@@ -470,8 +470,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -522,8 +522,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s0W43-Ta">
@@ -674,7 +674,7 @@
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s1W10-Ta">
@@ -770,7 +770,7 @@
 <form>Southmark</form>
 <tag>
 <AM lemma="Southmark" src="auto">X@-------------</AM>
-<AM lemma="Southmark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Southmark_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s1W19-Ta">
@@ -782,8 +782,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -841,7 +841,7 @@
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s1W25-Ta">

@@ -219,8 +219,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-145-p2s1Bw19">
@@ -436,7 +436,7 @@
 <LM>w#w-mf930709-145-p2s3w7</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf930709-145-p2s3w8">
 <src.rf>manual</src.rf>
@@ -533,10 +533,10 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Reuter-2_;K_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reuter-2_;m_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-145-p2s3w20">
@@ -766,8 +766,8 @@
 </w.rf>
 <form>Tanjug</form>
 <tag>
-<AM lemma="Tanjug_:B_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Tanjug_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tanjug_:B_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Tanjug_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-145-p2s5w4">
@@ -1906,8 +1906,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-145-p2s11w10">
@@ -1932,7 +1932,7 @@
 <LM>w#w-mf930709-145-p2s11w12</LM>
 </w.rf>
 <form>Transall</form>
-<tag lemma="Transall_;R" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Transall_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930709-145-p2s11w13">
 <src.rf>manual</src.rf>

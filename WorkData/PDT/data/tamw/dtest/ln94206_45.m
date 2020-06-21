@@ -86,7 +86,7 @@
 </w.rf>
 <form>Pilot</form>
 <tag>
-<AM lemma="Pilot_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Pilot_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="pilot" src="auto">NNIS1-----A----</AM>
 <AM lemma="pilot" src="auto">NNIS4-----A----</AM>
 <AM lemma="pilot" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
@@ -231,10 +231,10 @@
 </w.rf>
 <form>Blesk</form>
 <tag>
-<AM lemma="Blesk-2_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="Blesk_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Blesk_;K_;R_^(noviny)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Blesk_;K_;R_^(noviny)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Blesk-2_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Blesk_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Blesk_;m_^(noviny)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Blesk_;m_^(noviny)" src="auto">NNIS4-----A----</AM>
 <AM lemma="blesk" src="auto">NNIS1-----A----</AM>
 <AM lemma="blesk" src="auto">NNIS4-----A----</AM>
 <AM lemma="blesknout" src="auto">VpYS----R-AAP-6</AM>
@@ -700,7 +700,7 @@
 <LM>w#w-ln94206-45-p4s1w2</LM>
 </w.rf>
 <form>Mensy</form>
-<tag lemma="Mensa_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Mensa_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-45-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1354,8 +1354,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94206-45-p6s1Bw4">

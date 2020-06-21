@@ -825,8 +825,8 @@
 </w.rf>
 <form>MU</form>
 <tag>
-<AM lemma="MU_:B_;K_^(Masarykova_univerzita)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="MU_:B_;K_^(Masarykova_univerzita)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MU_:B_;m_^(Masarykova_univerzita)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MU_:B_;m_^(Masarykova_univerzita)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-086-p2s4w7">

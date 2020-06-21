@@ -227,7 +227,7 @@
 <LM>w#w-lnd92253-052-p1s3w5</LM>
 </w.rf>
 <form>novofundlanďan</form>
-<tag lemma="novofundlanďan_;L_,l_^(novofundlandský_pes)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="novofundlanďan_;U_,l_^(novofundlandský_pes)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-052-p1s3w6">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -279,7 +279,7 @@
 </w.rf>
 <form>EPA</form>
 <tag>
-<AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EPA-1_:B_;m_,t_^(Environmental_Protection_Agency)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

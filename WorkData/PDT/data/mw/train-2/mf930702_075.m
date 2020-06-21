@@ -57,16 +57,16 @@
 <AM lemma="Franca_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="France-2_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -110,7 +110,7 @@
 <LM>w#w-mf930702-075-p2s1w5</LM>
 </w.rf>
 <form>Vueltě</form>
-<tag lemma="Vuelta_;K" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Vuelta_;m" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930702-075-p2s1w6">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <form>Giru</form>
 <tag>
 <AM lemma="Giro_;m" src="orig">NNNS6-----A----</AM>
-<AM lemma="Gira_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Gira_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="giro_,x_^(žiro)" src="auto">NNNS3-----A----</AM>
 <AM lemma="giro_,x_^(žiro)" src="auto" recommended="1">NNNS6-----A----</AM>
 <AM lemma="Giro-1_;m" src="manual">NNNS6-----A----</AM>
@@ -319,16 +319,16 @@
 <AM lemma="Franca_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="France-2_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -649,7 +649,7 @@
 <LM>w#w-mf930702-075-p3s1w9</LM>
 </w.rf>
 <form>Ocana</form>
-<tag lemma="Ocana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ocana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s1w10">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-mf930702-075-p3s1w17</LM>
 </w.rf>
 <form>Merckx</form>
-<tag lemma="Merckx_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merckx_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s1w18">
 <src.rf>manual</src.rf>
@@ -731,9 +731,9 @@
 <form>Belg</form>
 <tag>
 <AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Belgie_;B_;G" src="manual">NNNXX-----A---8</AM>
-<AM lemma="Belgie_;B_;G" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Belgie_;B_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual">NNNXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s1w20">
@@ -782,7 +782,7 @@
 <LM>w#w-mf930702-075-p3s1w25</LM>
 </w.rf>
 <form>Thevenet</form>
-<tag lemma="Thevenet_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thevenet_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s1w26">
 <src.rf>manual</src.rf>
@@ -799,7 +799,7 @@
 </w.rf>
 <form>Fr</form>
 <tag>
-<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
 <AM lemma="Francie_:B_;G" src="manual">NNFXX-----A----</AM>
 <AM lemma="Francie_:B_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
@@ -861,7 +861,7 @@
 <LM>w#w-mf930702-075-p3s1w34</LM>
 </w.rf>
 <form>Impe</form>
-<tag lemma="Impe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Impe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s1w35">
 <src.rf>manual</src.rf>
@@ -879,8 +879,8 @@
 <form>Belg</form>
 <tag>
 <AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Belg_;B_;G" src="manual">NNNXX-----A---8</AM>
-<AM lemma="Belg_;B_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belg_;G" src="manual">NNNXX-----A---8</AM>
+<AM lemma="Belg_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s1w37">
@@ -929,7 +929,7 @@
 <LM>w#w-mf930702-075-p3s1w42</LM>
 </w.rf>
 <form>Thevenet</form>
-<tag lemma="Thevenet_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thevenet_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s1w43">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-mf930702-075-p3s1w46</LM>
 </w.rf>
 <form>Hinault</form>
-<tag lemma="Hinault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hinault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s1w47">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 </w.rf>
 <form>Fr</form>
 <tag>
-<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
 <AM lemma="Francie_:B_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1022,7 +1022,7 @@
 <LM>w#w-mf930702-075-p3s2w3</LM>
 </w.rf>
 <form>Hinault</form>
-<tag lemma="Hinault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hinault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-mf930702-075-p3s2w7</LM>
 </w.rf>
 <form>Zoetemelk</form>
-<tag lemma="Zoetemelk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zoetemelk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-mf930702-075-p3s2w15</LM>
 </w.rf>
 <form>Hinault</form>
-<tag lemma="Hinault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hinault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-mf930702-075-p3s2w19</LM>
 </w.rf>
 <form>Hinault</form>
-<tag lemma="Hinault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hinault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-mf930702-075-p3s2w23</LM>
 </w.rf>
 <form>Fignon</form>
-<tag lemma="Fignon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fignon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 </w.rf>
 <form>Fr</form>
 <tag>
-<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
 <AM lemma="Francie_:B_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf930702-075-p3s2w31</LM>
 </w.rf>
 <form>Fignon</form>
-<tag lemma="Fignon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fignon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w32">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-mf930702-075-p3s2w35</LM>
 </w.rf>
 <form>Hinault</form>
-<tag lemma="Hinault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hinault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w36">
 <src.rf>manual</src.rf>
@@ -1313,7 +1313,7 @@
 <LM>w#w-mf930702-075-p3s2w39</LM>
 </w.rf>
 <form>Lemond</form>
-<tag lemma="Lemond_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lemond_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w40">
 <src.rf>manual</src.rf>
@@ -1330,9 +1330,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s2w42">
@@ -1373,7 +1373,7 @@
 <LM>w#w-mf930702-075-p3s2w46</LM>
 </w.rf>
 <form>Roche</form>
-<tag lemma="Roche_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roche_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w47">
 <src.rf>manual</src.rf>
@@ -1440,7 +1440,7 @@
 <LM>w#w-mf930702-075-p3s2w54</LM>
 </w.rf>
 <form>Delgado</form>
-<tag lemma="Delgado_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Delgado_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w55">
 <src.rf>manual</src.rf>
@@ -1504,7 +1504,7 @@
 <LM>w#w-mf930702-075-p3s2w62</LM>
 </w.rf>
 <form>Lemond</form>
-<tag lemma="Lemond_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lemond_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w63">
 <src.rf>manual</src.rf>
@@ -1536,7 +1536,7 @@
 <LM>w#w-mf930702-075-p3s2w66</LM>
 </w.rf>
 <form>Lemond</form>
-<tag lemma="Lemond_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lemond_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w67">
 <src.rf>manual</src.rf>
@@ -1568,7 +1568,7 @@
 <LM>w#w-mf930702-075-p3s2w70</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w71">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <LM>w#w-mf930702-075-p3s2w78</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w79">
 <src.rf>manual</src.rf>

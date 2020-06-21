@@ -199,7 +199,7 @@
 <LM>w#w-ln95044-115-p2s1Bw14</LM>
 </w.rf>
 <form>Žumbera</form>
-<tag lemma="Žumbera-2_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Žumbera-2_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-115-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln95044-115-p2s1Bw30</LM>
 </w.rf>
 <form>Radkovského</form>
-<tag lemma="Radkovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Radkovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-115-p2s1Bw31">
 <src.rf>manual</src.rf>

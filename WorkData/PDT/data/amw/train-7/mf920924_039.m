@@ -106,7 +106,7 @@
 <LM>w#w-mf920924-039-p1s1Cw6</LM>
 </w.rf>
 <form>Baca</form>
-<tag lemma="Baco_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baco_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-039-p1s1Cw7">
 <src.rf>manual</src.rf>

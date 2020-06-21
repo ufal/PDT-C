@@ -303,7 +303,7 @@
 <LM>w#w-ln94201-13-p2s2w8</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-13-p2s2w9">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 </w.rf>
 <form>TANAS</form>
 <tag>
-<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="TANAS_:B_;m_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="TANAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -561,7 +561,7 @@
 </w.rf>
 <form>TANAS</form>
 <tag>
-<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="TANAS_:B_;m_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="TANAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -738,7 +738,7 @@
 </w.rf>
 <form>TANAS</form>
 <tag>
-<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="TANAS_:B_;m_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="TANAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -756,7 +756,7 @@
 <LM>w#w-ln94201-13-p2s6w9</LM>
 </w.rf>
 <form>Čepely</form>
-<tag lemma="Čepela_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čepela_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-13-p2s6w10">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-ln94201-13-p2s7w10</LM>
 </w.rf>
 <form>Dlouhým</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94201-13-p2s7w11">
 <src.rf>manual</src.rf>

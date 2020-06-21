@@ -43,7 +43,7 @@
 <LM>w#w-ln95044-124-p1s1w4</LM>
 </w.rf>
 <form>Pavlátovou</form>
-<tag lemma="Pavlátová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Pavlátová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95044-124-p2s1A">
@@ -154,7 +154,7 @@
 <LM>w#w-ln95044-124-p2s1Bw11</LM>
 </w.rf>
 <form>Berlinale</form>
-<tag lemma="Berlinale_;R" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Berlinale_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95044-124-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln95044-124-p2s2w13</LM>
 </w.rf>
 <form>Pavlátová</form>
-<tag lemma="Pavlátová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pavlátová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-124-p2s2w14">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln95044-124-p2s3w17</LM>
 </w.rf>
 <form>Tavernier</form>
-<tag lemma="Tavernier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tavernier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-124-p2s3w18">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-ln95044-124-p2s3w27</LM>
 </w.rf>
 <form>Newman</form>
-<tag lemma="Newman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Newman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-124-p2s3w28">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 </w.rf>
 <form>Josephine</form>
 <tag>
-<AM lemma="Josephine_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Josephine_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Josephine_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -713,7 +713,7 @@
 <LM>w#w-ln95044-124-p2s3w32</LM>
 </w.rf>
 <form>Siaová</form>
-<tag lemma="Siaová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Siaová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-124-p2s3w33">
 <src.rf>manual</src.rf>

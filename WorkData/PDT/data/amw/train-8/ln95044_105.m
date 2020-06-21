@@ -59,7 +59,7 @@
 <LM>w#w-ln95044-105-p1s1w6</LM>
 </w.rf>
 <form>Lizner</form>
-<tag lemma="Lizner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lizner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95044-105-p2s1A">
@@ -224,7 +224,7 @@
 </w.rf>
 <form>CKP</form>
 <tag>
-<AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CKP_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -250,7 +250,7 @@
 <LM>w#w-ln95044-105-p2s1Bw21</LM>
 </w.rf>
 <form>Liznera</form>
-<tag lemma="Lizner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lizner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-105-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 </w.rf>
 <form>CKP</form>
 <tag>
-<AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CKP_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -433,7 +433,7 @@
 <LM>w#w-ln95044-105-p3s1w5</LM>
 </w.rf>
 <form>Lizner</form>
-<tag lemma="Lizner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lizner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-105-p3s1w6">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95044-105-p3s2w5</LM>
 </w.rf>
 <form>Lizner</form>
-<tag lemma="Lizner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lizner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-105-p3s2w6">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln95044-105-p3s2w11</LM>
 </w.rf>
 <form>Lindou</form>
-<tag lemma="Linda-1_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Linda-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-105-p3s2w12">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-ln95044-105-p3s3w3</LM>
 </w.rf>
 <form>Linda</form>
-<tag lemma="Linda-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Linda-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-105-p3s3w4">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-ln95044-105-p3s3w9</LM>
 </w.rf>
 <form>Liznerova</form>
-<tag lemma="Liznerův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Liznerův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95044-105-p3s3w10">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-ln95044-105-p3s4w12</LM>
 </w.rf>
 <form>Liznerově</form>
-<tag lemma="Liznerův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Liznerův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95044-105-p3s4w13">
 <src.rf>manual</src.rf>

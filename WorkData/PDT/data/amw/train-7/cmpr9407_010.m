@@ -216,7 +216,7 @@
 </w.rf>
 <form>CMC</form>
 <tag>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -574,7 +574,7 @@
 <LM>w#w-cmpr9407-010-p6s1w2</LM>
 </w.rf>
 <form>Kubín</form>
-<tag lemma="Kubín-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubín-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-010-p8s1">

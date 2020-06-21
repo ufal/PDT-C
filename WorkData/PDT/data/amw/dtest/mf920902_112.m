@@ -45,7 +45,7 @@
 <LM>w#w-mf920902-112-p2s1w1</LM>
 </w.rf>
 <form>Špindlerův</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf920902-112-p2s1w2">
 <src.rf>manual</src.rf>
@@ -70,8 +70,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-112-p2s1w5">
@@ -228,7 +228,7 @@
 <LM>w#w-mf920902-112-p2s3w9</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-112-p2s3w10">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-mf920902-112-p2s5w12</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-112-p2s5w13">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-mf920902-112-p2s6w2</LM>
 </w.rf>
 <form>Špindlerově</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-mf920902-112-p2s6w3">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-mf920902-112-p2s6w15</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-112-p2s6w16">
 <src.rf>manual</src.rf>

@@ -21,12 +21,12 @@
 <form>Klepači</form>
 <tag>
 <AM lemma="klepač-2" src="orig" selected="1">NNMP1-----A----</AM>
-<AM lemma="Klepač_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Klepač_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Klepač_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Klepač_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Klepač_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Klepač_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Klepač_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Klepač_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Klepač_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Klepač_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Klepač_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Klepač_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="klepač" src="auto">NNIP7-----A----</AM>
 <AM lemma="klepač" src="auto">NNIS3-----A----</AM>
 <AM lemma="klepač" src="auto">NNIS5-----A----</AM>
@@ -195,7 +195,7 @@
 <LM>w#w-cmpr9413-014-p4s1w6</LM>
 </w.rf>
 <form>Amalthea</form>
-<tag lemma="Amalthea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Amalthea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-014-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-cmpr9413-014-p7s3w30</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-014-p7s3w31">
 <src.rf>manual</src.rf>
@@ -5071,7 +5071,7 @@
 <LM>w#w-cmpr9413-014-p15s1w2</LM>
 </w.rf>
 <form>Křemenáková</form>
-<tag lemma="Křemenáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Křemenáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-014-p16s1">
@@ -5097,7 +5097,7 @@
 <LM>w#w-cmpr9413-014-p16s1w3</LM>
 </w.rf>
 <form>Amalthea</form>
-<tag lemma="Amalthea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Amalthea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-014-p16s1w4">
 <src.rf>manual</src.rf>

@@ -2247,7 +2247,7 @@
 <LM>w#w-ln95044-063-p3s1w12</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95044-063-p3s1w13">
 <src.rf>manual</src.rf>
@@ -5622,9 +5622,9 @@
 </w.rf>
 <form>Österreich</form>
 <tag>
-<AM lemma="Österreich_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Österreich_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Österreich_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Österreich_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Österreich_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Österreich_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Österreich-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5635,9 +5635,9 @@
 </w.rf>
 <form>Werbung</form>
 <tag>
-<AM lemma="Werbung_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Werbung_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Werbung_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Werbung_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Werbung_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Werbung_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Werbung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5677,8 +5677,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

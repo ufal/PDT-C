@@ -19,7 +19,7 @@
 <LM>w#w-ln95041-115-p1s1w1</LM>
 </w.rf>
 <form>Frigera</form>
-<tag lemma="Frigera_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Frigera_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-115-p1s1w2">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-ln95041-115-p2s1Bw8</LM>
 </w.rf>
 <form>Frigera</form>
-<tag lemma="Frigera_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Frigera_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-115-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-ln95041-115-p2s2w4</LM>
 </w.rf>
 <form>Frány</form>
-<tag lemma="Frána_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Frána_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-115-p2s2w5">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-ln95041-115-p2s2w31</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-115-p2s2w32">
 <src.rf>manual</src.rf>
@@ -563,10 +563,10 @@
 </w.rf>
 <form>Thermo</form>
 <tag>
-<AM lemma="Thermo_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Thermo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Thermo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Thermo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Thermo_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Thermo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Thermo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Thermo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="terma_,t_,x_^(lázně)" src="auto">NNFS5-----A----</AM>
 <AM lemma="thermo_,a" src="auto">A2--------A----</AM>
 <AM lemma="Thermo-77" src="manual" selected="1">F%-------------</AM>
@@ -579,9 +579,9 @@
 </w.rf>
 <form>King</form>
 <tag>
-<AM lemma="King_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="King_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="king_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="King_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="King_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="king_;U" src="auto">NNMS1-----A----</AM>
 <AM lemma="King-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -591,7 +591,7 @@
 <LM>w#w-ln95041-115-p3s1w7</LM>
 </w.rf>
 <form>Frigera</form>
-<tag lemma="Frigera_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Frigera_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-115-p3s1w8">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-ln95041-115-p3s1w10</LM>
 </w.rf>
 <form>Frigeře</form>
-<tag lemma="Frigera_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Frigera_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95041-115-p3s1w11">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-ln95041-115-p4s1w1</LM>
 </w.rf>
 <form>Frigera</form>
-<tag lemma="Frigera_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Frigera_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-115-p4s1w2">
 <src.rf>manual</src.rf>

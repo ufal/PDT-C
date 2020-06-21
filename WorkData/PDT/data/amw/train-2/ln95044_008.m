@@ -207,7 +207,7 @@
 <LM>w#w-ln95044-008-p2s1Bw16</LM>
 </w.rf>
 <form>Renaissance</form>
-<tag lemma="Renaissance_;K_^(hotel)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Renaissance_;m_^(hotel)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-008-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -309,9 +309,9 @@
 </w.rf>
 <form>Economist</form>
 <tag>
-<AM lemma="Economist_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Economist_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Economist_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Economist_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Economist_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Economist_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="economist_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Economist-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -323,7 +323,7 @@
 </w.rf>
 <form>Conferences</form>
 <tag>
-<AM lemma="Conference_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Conference_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="conferences_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Conferences-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -690,7 +690,7 @@
 <LM>w#w-ln95044-008-p3s2w11</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-008-p3s2w12">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-ln95044-008-p3s2w18</LM>
 </w.rf>
 <form>Tošovský</form>
-<tag lemma="Tošovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tošovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-008-p3s2w19">
 <src.rf>manual</src.rf>

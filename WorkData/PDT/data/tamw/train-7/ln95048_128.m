@@ -379,7 +379,7 @@
 <LM>w#w-ln95048-128-p1s2w10</LM>
 </w.rf>
 <form>Nong</form>
-<tag lemma="Nong_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Nong_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln95048-128-p1s2w11">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <form>Duc</form>
 <tag>
 <AM lemma="Duc_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Duc_;S" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="Duc_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="duc" src="auto">II-------------</AM>
 <AM lemma="ducnout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="Duc_;Y" src="manual" selected="1">NNMXX-----A----</AM>
@@ -457,7 +457,7 @@
 <LM>w#w-ln95048-128-p1s2w19</LM>
 </w.rf>
 <form>Uhdeho</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-128-p1s2w20">
 <src.rf>manual</src.rf>

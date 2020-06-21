@@ -97,8 +97,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-100-p2s1w4">
@@ -116,8 +116,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-100-p2s1w6">
@@ -688,7 +688,7 @@
 <LM>w#w-mf930708-100-p2s4w17</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-100-p2s4w18">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-mf930708-100-p2s8w22</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-100-p2s8w23">
 <src.rf>manual</src.rf>
@@ -1467,7 +1467,7 @@
 <LM>w#w-mf930708-100-p2s10w15</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-100-p2s10w16">
 <src.rf>manual</src.rf>
@@ -1742,7 +1742,7 @@
 <LM>w#w-mf930708-100-p2s14w5</LM>
 </w.rf>
 <form>Šubrt</form>
-<tag lemma="Šubrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-100-p2s14w6">
 <src.rf>manual</src.rf>
@@ -1970,7 +1970,7 @@
 <form>Poláka</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-100-p2s15w19">
@@ -2079,7 +2079,7 @@
 <form>Polák</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-100-p2s16w5">
@@ -2120,7 +2120,7 @@
 <LM>w#w-mf930708-100-p2s16w9</LM>
 </w.rf>
 <form>Kondra</form>
-<tag lemma="Kondr_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kondr_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-100-p2s16w10">
 <src.rf>manual</src.rf>
@@ -2301,7 +2301,7 @@
 <LM>w#w-mf930708-100-p2s17w16</LM>
 </w.rf>
 <form>Šubrt</form>
-<tag lemma="Šubrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-100-p2s17w17">
 <src.rf>manual</src.rf>
@@ -2771,7 +2771,7 @@
 <LM>w#w-mf930708-100-p2s21w20</LM>
 </w.rf>
 <form>Šubrt</form>
-<tag lemma="Šubrt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šubrt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-100-p2s21w21">
 <src.rf>manual</src.rf>

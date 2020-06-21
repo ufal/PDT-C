@@ -61,7 +61,7 @@
 <LM>w#w-mf920924-008-p1s1Bw3</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="lík-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920924-008-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -432,9 +432,9 @@
 </w.rf>
 <form>Prométheus</form>
 <tag>
-<AM lemma="Prométheus_;S_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Prométheus_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Prométheus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prométheus_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Prométheus_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Prométheus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-008-p1s1Cw45">
@@ -509,7 +509,7 @@
 <LM>w#w-mf920924-008-p1s2w8</LM>
 </w.rf>
 <form>Hubenka</form>
-<tag lemma="Hubenka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hubenka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-008-p1s2w9">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-mf920924-008-p1s3w8</LM>
 </w.rf>
 <form>Uniakomp</form>
-<tag lemma="Uniakomp_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Uniakomp_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-008-p1s3w9">
 <src.rf>manual</src.rf>

@@ -37,7 +37,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-125-p1s1w4">
@@ -54,7 +54,7 @@
 <LM>w#w-lnd94105-125-p1s1w5</LM>
 </w.rf>
 <form>Kováčovi</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd94105-125-p1s1w6">
 <src.rf>manual</src.rf>
@@ -72,7 +72,7 @@
 <form>Á</form>
 <tag>
 <AM lemma="Á-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Á-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Á-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-125-p1s1w8">
@@ -89,7 +89,7 @@
 <LM>w#w-lnd94105-125-p1s1w9</LM>
 </w.rf>
 <form>Gönczovi</form>
-<tag lemma="Göncz_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Göncz_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 </s>
 <s id="m-lnd94105-125-p1s2">
@@ -173,7 +173,7 @@
 <LM>w#w-lnd94105-125-p1s3w6</LM>
 </w.rf>
 <form>Göncz</form>
-<tag lemma="Göncz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Göncz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s3w7">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-lnd94105-125-p1s3w9</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s3w10">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 </w.rf>
 <form>IEWSS</form>
 <tag>
-<AM lemma="IEWSS_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IEWSS_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IEWSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -648,7 +648,7 @@
 <LM>w#w-lnd94105-125-p1s5w21</LM>
 </w.rf>
 <form>Göncz</form>
-<tag lemma="Göncz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Göncz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s5w22">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-lnd94105-125-p1s5w23</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s5w24">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-lnd94105-125-p1s6w9</LM>
 </w.rf>
 <form>Göncz</form>
-<tag lemma="Göncz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Göncz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s6w10">
 <src.rf>manual</src.rf>
@@ -1163,9 +1163,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-125-p1s7w9">
@@ -1458,8 +1458,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-125-p1s8w32">
@@ -1508,7 +1508,7 @@
 <LM>w#w-lnd94105-125-p1s8w37</LM>
 </w.rf>
 <form>Tureničová</form>
-<tag lemma="Tureničová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tureničová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s8w38">
 <src.rf>manual</src.rf>

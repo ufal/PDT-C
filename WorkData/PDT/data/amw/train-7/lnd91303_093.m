@@ -19,7 +19,7 @@
 <LM>w#w-lnd91303-093-p1s1w1</LM>
 </w.rf>
 <form>Citroen</form>
-<tag lemma="Citroen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Citroen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91303-093-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,7 +28,7 @@
 </w.rf>
 <form>ZX</form>
 <tag>
-<AM lemma="ZX_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ZX_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ZX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -62,7 +62,7 @@
 <LM>w#w-lnd91303-093-p1s1w6</LM>
 </w.rf>
 <form>Vätänena</form>
-<tag lemma="Vätänen_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vätänen_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-093-p1s1w7">
 <src.rf>manual</src.rf>

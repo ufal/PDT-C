@@ -46,7 +46,7 @@
 </w.rf>
 <form>DK</form>
 <tag>
-<AM lemma="DK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -73,7 +73,7 @@
 <LM>w#w-ln94204-117-p2s2w4</LM>
 </w.rf>
 <form>Suchopárka</form>
-<tag lemma="Suchopárek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Suchopárek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-117-p2s2w5">
 <src.rf>manual</src.rf>
@@ -89,7 +89,7 @@
 <LM>w#w-ln94204-117-p2s2w6</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94204-117-p2s2w7">
 <src.rf>manual</src.rf>

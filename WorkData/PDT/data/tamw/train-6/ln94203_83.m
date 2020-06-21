@@ -61,7 +61,7 @@
 <LM>w#w-ln94203-83-p2s1Aw2</LM>
 </w.rf>
 <form>Drahola</form>
-<tag lemma="Drahola_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drahola_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-83-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -4823,7 +4823,7 @@
 <LM>w#w-ln94203-83-p8s3w5</LM>
 </w.rf>
 <form>Janáčkovy</form>
-<tag lemma="Janáčkův_;S_^(*3ek)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Janáčkův_;Y_^(*3ek)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94203-83-p8s3w6">
 <src.rf>manual</src.rf>
@@ -4919,7 +4919,7 @@
 <LM>w#w-ln94203-83-p8s3w17</LM>
 </w.rf>
 <form>Pančíkovým</form>
-<tag lemma="Pančíkův_;S_^(*2)" src="orig" selected="1">AUNS7M---------</tag>
+<tag lemma="Pančíkův_;Y_^(*2)" src="orig" selected="1">AUNS7M---------</tag>
 </m>
 <m id="m-ln94203-83-p8s3w18">
 <src.rf>manual</src.rf>

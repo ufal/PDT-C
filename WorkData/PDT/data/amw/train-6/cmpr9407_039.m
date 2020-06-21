@@ -4917,7 +4917,7 @@
 <LM>w#w-cmpr9407-039-p19s1w2</LM>
 </w.rf>
 <form>Urbanová</form>
-<tag lemma="Urbanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Urbanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-039-p20s1">
@@ -4951,7 +4951,7 @@
 <LM>w#w-cmpr9407-039-p20s1w4</LM>
 </w.rf>
 <form>Vácha</form>
-<tag lemma="Vácha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vácha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-039-p20s1w5">
 <src.rf>manual</src.rf>
@@ -4999,7 +4999,7 @@
 <LM>w#w-cmpr9407-039-p20s1w10</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="a-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-cmpr9407-039-p20s1w11">
 <src.rf>manual</src.rf>

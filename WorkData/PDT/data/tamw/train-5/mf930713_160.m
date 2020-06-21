@@ -111,7 +111,7 @@
 <LM>w#w-mf930713-160-p2s1Bw4</LM>
 </w.rf>
 <form>Francois</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-160-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-mf930713-160-p2s1Bw5</LM>
 </w.rf>
 <form>Léotard</form>
-<tag lemma="Léotard_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Léotard_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-160-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -446,7 +446,7 @@
 <LM>w#w-mf930713-160-p2s3w2</LM>
 </w.rf>
 <form>Léotardova</form>
-<tag lemma="Léotardův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Léotardův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930713-160-p2s3w3">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf930713-160-p2s4w6</LM>
 </w.rf>
 <form>Léotarda</form>
-<tag lemma="Léotard_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Léotard_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-160-p2s4w7">
 <src.rf>manual</src.rf>

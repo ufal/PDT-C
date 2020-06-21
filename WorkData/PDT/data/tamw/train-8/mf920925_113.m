@@ -115,7 +115,7 @@
 <LM>w#w-mf920925-113-p1s1w13</LM>
 </w.rf>
 <form>Pelé</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-113-p1s1w14">
 <src.rf>manual</src.rf>

@@ -176,9 +176,9 @@
 </w.rf>
 <form>Richtera</form>
 <tag>
-<AM lemma="Richter_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Richter_;S" src="auto" recommended="1" selected="1">NNMS2-----A---2</AM>
-<AM lemma="Richter_;S" src="auto">NNMS4-----A---2</AM>
+<AM lemma="Richter_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Richter_;Y" src="auto" recommended="1" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Richter_;Y" src="auto">NNMS4-----A---2</AM>
 </tag>
 </m>
 <m id="m-mf930701-043-p2s2w3">
@@ -782,7 +782,7 @@
 <LM>w#w-mf930701-043-p3s3w17</LM>
 </w.rf>
 <form>Krofta</form>
-<tag lemma="Krofta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krofta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-043-p3s3w18">
 <src.rf>manual</src.rf>

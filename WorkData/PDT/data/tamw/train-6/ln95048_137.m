@@ -687,7 +687,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-137-p3s3w7">
@@ -704,7 +704,7 @@
 <LM>w#w-ln95048-137-p3s3w8</LM>
 </w.rf>
 <form>Holub</form>
-<tag lemma="Holub_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holub_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-137-p3s3w9">
 <src.rf>manual</src.rf>
@@ -2130,7 +2130,7 @@
 <LM>w#w-ln95048-137-p4s2w10</LM>
 </w.rf>
 <form>Kotal</form>
-<tag lemma="Kotal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-137-p4s2w11">
 <src.rf>manual</src.rf>

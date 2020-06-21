@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-149-p1s1w5</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

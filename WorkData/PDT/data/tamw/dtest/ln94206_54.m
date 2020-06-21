@@ -78,8 +78,8 @@
 </w.rf>
 <form>haš</form>
 <tag>
-<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="haš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-54-p2s1Aw4">
@@ -97,8 +97,8 @@
 </w.rf>
 <form>če</form>
 <tag>
-<AM lemma="če-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="če-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="če-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="če-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-54-p2s1Aw6">
@@ -345,8 +345,8 @@
 </w.rf>
 <form>Kozel</form>
 <tag>
-<AM lemma="Kozel_;R_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kozel_;R_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kozel_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-54-p2s1Bw29">
@@ -364,8 +364,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-54-p2s1Bw31">
@@ -588,7 +588,7 @@
 </w.rf>
 <form>ND</form>
 <tag>
-<AM lemma="ND_:B_;K_^(Nár._divadlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ND_:B_;m_^(Nár._divadlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ND-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -858,7 +858,7 @@
 <LM>w#w-ln94206-54-p2s6w17</LM>
 </w.rf>
 <form>Kozel</form>
-<tag lemma="Kozel_;R_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-54-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1127,7 +1127,7 @@
 </w.rf>
 <form>ND</form>
 <tag>
-<AM lemma="ND_:B_;K_^(Nár._divadlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ND_:B_;m_^(Nár._divadlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ND-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1259,7 +1259,7 @@
 <LM>w#w-ln94206-54-p2s9w3</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-54-p2s9w4">
 <src.rf>manual</src.rf>

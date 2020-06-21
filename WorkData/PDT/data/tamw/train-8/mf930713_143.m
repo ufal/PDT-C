@@ -451,7 +451,7 @@
 <LM>w#w-mf930713-143-p3s1w3</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-143-p3s1w4">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-mf930713-143-p4s1w14</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-143-p4s1w15">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-mf930713-143-p5s1w8</LM>
 </w.rf>
 <form>Chasbulatov</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-143-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-mf930713-143-p5s2w6</LM>
 </w.rf>
 <form>Chasbulatovovou</form>
-<tag lemma="Chasbulatovův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Chasbulatovův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-mf930713-143-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-mf930713-143-p6s1w1</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-143-p6s1w2">
 <src.rf>manual</src.rf>

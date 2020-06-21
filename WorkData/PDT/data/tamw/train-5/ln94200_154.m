@@ -46,7 +46,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -288,7 +288,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -335,8 +335,8 @@
 </w.rf>
 <form>Benfica</form>
 <tag>
-<AM lemma="Benfika_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="Benfica_;K_;w" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Benfika_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Benfica_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p6s1w2">
@@ -362,7 +362,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -526,7 +526,7 @@
 <LM>w#w-ln94200-154-p6s2w5</LM>
 </w.rf>
 <form>Paneira</form>
-<tag lemma="Paneira_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paneira_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p6s2w6">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <form>Filipe</form>
 <tag>
 <AM lemma="Filipe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Filipe_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Filipe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p6s2w10">
@@ -646,8 +646,8 @@
 </w.rf>
 <form>Tivali</form>
 <tag>
-<AM lemma="Tivali_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tivali_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tivali_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tivali_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw9">
@@ -672,7 +672,7 @@
 <LM>w#w-ln94200-154-p7s1Bw11</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw12">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-ln94200-154-p7s1Bw32</LM>
 </w.rf>
 <form>Skabelka</form>
-<tag lemma="Skabelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skabelka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw33">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-ln94200-154-p7s1Bw35</LM>
 </w.rf>
 <form>Pankov</form>
-<tag lemma="Pankov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pankov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw36">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-ln94200-154-p7s1Bw37</LM>
 </w.rf>
 <form>Taranovskij</form>
-<tag lemma="Taranovskij_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Taranovskij_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw38">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-ln94200-154-p7s1Bw39</LM>
 </w.rf>
 <form>Madový</form>
-<tag lemma="Madový_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Madový_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw40">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-ln94200-154-p7s1Bw41</LM>
 </w.rf>
 <form>Panvkovček</form>
-<tag lemma="Panvkovček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Panvkovček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-154-p7s1Bw42">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 </w.rf>
 <form>Lamia</form>
 <tag>
-<AM lemma="Lamia_;S" src="auto">NNFS1-----A----</AM>
+<AM lemma="Lamia_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Lamia_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1072,8 +1072,8 @@
 </w.rf>
 <form>Sperry</form>
 <tag>
-<AM lemma="Sperry_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sperry_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sperry_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sperry_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p11s7w2">
@@ -1231,8 +1231,8 @@
 </w.rf>
 <form>Sperry</form>
 <tag>
-<AM lemma="Sperry_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sperry_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sperry_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sperry_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p11s16w2">
@@ -1298,8 +1298,8 @@
 <form>Sine</form>
 <tag>
 <AM lemma="Sine_;Y" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sin_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Sine_;Y" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
+<AM lemma="Sin_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Sine_;Y" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 <AM lemma="sinus" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -1311,7 +1311,7 @@
 <form>Aspera</form>
 <tag>
 <AM lemma="Aspera_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Aspera_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Aspera_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Aspera_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1403,8 +1403,8 @@
 <form>Ilina</form>
 <tag>
 <AM lemma="Ilina_;Y" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="Ilin_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Ilin_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Ilin_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Ilin_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p11s27w2">

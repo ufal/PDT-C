@@ -48,7 +48,7 @@
 <LM>w#w-mf920925-001-p2s1w2</LM>
 </w.rf>
 <form>Rheaumeová</form>
-<tag lemma="Rheaumeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rheaumeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-001-p3s1">

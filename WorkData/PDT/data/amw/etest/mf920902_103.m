@@ -103,7 +103,7 @@
 <LM>w#w-mf920902-103-p2s1w2</LM>
 </w.rf>
 <form>Farkaš</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p2s1w3">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-mf920902-103-p3s2w2</LM>
 </w.rf>
 <form>Farkaš</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <LM>w#w-mf920902-103-p3s5w24</LM>
 </w.rf>
 <form>Brndiar</form>
-<tag lemma="Brndiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brndiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p3s5w25">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 <LM>w#w-mf920902-103-p4s1w10</LM>
 </w.rf>
 <form>Farkaše</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-103-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-mf920902-103-p5s1w3</LM>
 </w.rf>
 <form>Farkaš</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-mf920902-103-p5s1w18</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p5s1w19">
 <src.rf>manual</src.rf>
@@ -2562,7 +2562,7 @@
 <LM>w#w-mf920902-103-p5s6w2</LM>
 </w.rf>
 <form>Farkaš</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p5s6w3">
 <src.rf>manual</src.rf>
@@ -3190,7 +3190,7 @@
 <LM>w#w-mf920902-103-p5s9Bw9</LM>
 </w.rf>
 <form>Farkaš</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p5s9Bw10">
 <src.rf>manual</src.rf>
@@ -3272,7 +3272,7 @@
 <LM>w#w-mf920902-103-p5s10w7</LM>
 </w.rf>
 <form>Farkaš</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p5s10w8">
 <src.rf>manual</src.rf>
@@ -3500,7 +3500,7 @@
 <LM>w#w-mf920902-103-p6s1w2</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p6s1w3">
 <src.rf>manual</src.rf>
@@ -3695,8 +3695,8 @@
 </w.rf>
 <form>Bořek</form>
 <tag>
-<AM lemma="Bořek_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bořek_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bořek_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bořek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-103-p6s2w4">
@@ -3705,7 +3705,7 @@
 <LM>w#w-mf920902-103-p6s2w4</LM>
 </w.rf>
 <form>Valvoda</form>
-<tag lemma="Valvoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valvoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p6s2w5">
 <src.rf>manual</src.rf>
@@ -3875,7 +3875,7 @@
 <LM>w#w-mf920902-103-p6s3w9</LM>
 </w.rf>
 <form>Farkašovi</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920902-103-p6s3w10">
 <src.rf>manual</src.rf>
@@ -4127,7 +4127,7 @@
 <LM>w#w-mf920902-103-p6s5w2</LM>
 </w.rf>
 <form>Farkaš</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-103-p6s5w3">
 <src.rf>manual</src.rf>
@@ -4733,7 +4733,7 @@
 <LM>w#w-mf920902-103-p6s12w14</LM>
 </w.rf>
 <form>Farkašem</form>
-<tag lemma="Farkaš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Farkaš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-103-p6s12w15">
 <src.rf>manual</src.rf>

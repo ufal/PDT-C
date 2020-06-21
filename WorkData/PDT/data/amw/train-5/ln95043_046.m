@@ -30,7 +30,7 @@
 <LM>w#w-ln95043-046-p1s1w2</LM>
 </w.rf>
 <form>Klerk</form>
-<tag lemma="Klerk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klerk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-046-p1s1w3">
 <src.rf>manual</src.rf>
@@ -62,7 +62,7 @@
 <LM>w#w-ln95043-046-p1s1w6</LM>
 </w.rf>
 <form>Mandelovi</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln95043-046-p2s1A">
@@ -136,7 +136,7 @@
 <LM>w#w-ln95043-046-p2s1Bw6</LM>
 </w.rf>
 <form>Klerk</form>
-<tag lemma="Klerk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klerk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-046-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 </w.rf>
 <form>ANC</form>
 <tag>
-<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-1_:B_;m_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -276,9 +276,9 @@
 </w.rf>
 <form>Nelsona</form>
 <tag>
-<AM lemma="Nelson_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nelson_;S_;Y" src="manual">NNMS2-----A----</AM>
-<AM lemma="Nelson_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s1Bw24">
@@ -287,7 +287,7 @@
 <LM>w#w-ln95043-046-p2s1Bw24</LM>
 </w.rf>
 <form>Mandely</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-046-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <AM lemma="André_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="André_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="André_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="André_;Y" src="manual">NNMSX-----A----</AM>
+<AM lemma="André_;Y" src="manual">NNMXX-----A----</AM>
 <AM lemma="André_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95043-046-p2s2w7</LM>
 </w.rf>
 <form>Fouriera</form>
-<tag lemma="Fourier_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fourier_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-046-p2s2w8">
 <src.rf>manual</src.rf>
@@ -392,8 +392,8 @@
 </w.rf>
 <form>NP</form>
 <tag>
-<AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NP_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -436,8 +436,8 @@
 </w.rf>
 <form>NP</form>
 <tag>
-<AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NP_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -481,7 +481,7 @@
 <form>Inkatha</form>
 <tag>
 <AM lemma="Inkatha_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Inkatha_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Inkatha_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-046-p2s2w22">
@@ -555,7 +555,7 @@
 </w.rf>
 <form>ANC</form>
 <tag>
-<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-1_:B_;m_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -595,7 +595,7 @@
 <LM>w#w-ln95043-046-p2s3w3</LM>
 </w.rf>
 <form>Klerkových</form>
-<tag lemma="Klerkův_;S_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Klerkův_;Y_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-ln95043-046-p2s3w4">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 </w.rf>
 <form>ANC</form>
 <tag>
-<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-1_:B_;m_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -775,8 +775,8 @@
 </w.rf>
 <form>NP</form>
 <tag>
-<AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NP_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

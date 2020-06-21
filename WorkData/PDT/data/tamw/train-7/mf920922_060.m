@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-060-p1s1w1</LM>
 </w.rf>
 <form>Kadlec</form>
-<tag lemma="Kadlec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kadlec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-060-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf920922-060-p1s1w3</LM>
 </w.rf>
 <form>Hapalem</form>
-<tag lemma="Hapal_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hapal_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-060-p1s1w4">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-mf920922-060-p1s2w7</LM>
 </w.rf>
 <form>Hapal</form>
-<tag lemma="Hapal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hapal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-060-p1s2w8">
 <src.rf>manual</src.rf>

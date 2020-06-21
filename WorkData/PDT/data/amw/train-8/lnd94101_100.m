@@ -19,7 +19,7 @@
 <LM>w#w-lnd94101-100-p1s1Aw1</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-100-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -138,10 +138,10 @@
 </w.rf>
 <form>ad</form>
 <tag>
-<AM lemma="ad-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ad-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-100-p1s2w4">
@@ -176,7 +176,7 @@
 <LM>w#w-lnd94101-100-p1s3w2</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-100-p1s3w3">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-100-p1s3w22">
@@ -339,7 +339,7 @@
 <LM>w#w-lnd94101-100-p1s3w23</LM>
 </w.rf>
 <form>Nováček</form>
-<tag lemma="Nováček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nováček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-100-p1s3w24">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-lnd94101-100-p1s4w22</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-100-p1s4w23">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-lnd94101-100-p1s4w33</LM>
 </w.rf>
 <form>Duklou</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94101-100-p1s4w34">
 <src.rf>manual</src.rf>
@@ -1270,7 +1270,7 @@
 </w.rf>
 <form>ČSH</form>
 <tag>
-<AM lemma="ČSH-1_:B_;K_^(Český_svaz_házené)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSH-1_:B_;m_^(Český_svaz_házené)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČSH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1368,7 +1368,7 @@
 <LM>w#w-lnd94101-100-p1s6w22</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-100-p1s6w23">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 <LM>w#w-lnd94101-100-p1s7w7</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94101-100-p1s7w8">
 <src.rf>manual</src.rf>
@@ -1740,7 +1740,7 @@
 <LM>w#w-lnd94101-100-p1s8w7</LM>
 </w.rf>
 <form>Dukly</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-100-p1s8w8">
 <src.rf>manual</src.rf>

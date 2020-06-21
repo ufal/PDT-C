@@ -45,7 +45,7 @@
 <LM>w#w-mf920924-124-p2s1w1</LM>
 </w.rf>
 <form>Havlíčkův</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf920924-124-p2s1w2">
 <src.rf>manual</src.rf>
@@ -70,7 +70,7 @@
 </w.rf>
 <form>bod</form>
 <tag>
-<AM lemma="bod-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="bod-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
 <AM lemma="bodnout" src="auto">VpYS----R-AAP-6</AM>
@@ -278,7 +278,7 @@
 <LM>w#w-mf920924-124-p2s3w2</LM>
 </w.rf>
 <form>Havlíčkova</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf920924-124-p2s3w3">
 <src.rf>manual</src.rf>

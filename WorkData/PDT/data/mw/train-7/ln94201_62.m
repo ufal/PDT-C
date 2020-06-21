@@ -226,7 +226,7 @@
 <LM>w#w-ln94201-62-p2s2w4</LM>
 </w.rf>
 <form>Petera</form>
-<tag lemma="Petera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-62-p2s2w5">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-ln94201-62-p2s3w25</LM>
 </w.rf>
 <form>Petera</form>
-<tag lemma="Petera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-62-p2s3w26">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-62-p4s1w3">

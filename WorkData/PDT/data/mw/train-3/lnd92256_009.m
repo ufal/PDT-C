@@ -62,7 +62,7 @@
 <LM>w#w-lnd92256-009-p1s1w6</LM>
 </w.rf>
 <form>Kňažko</form>
-<tag lemma="Kňažko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kňažko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-009-p1s1w7">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

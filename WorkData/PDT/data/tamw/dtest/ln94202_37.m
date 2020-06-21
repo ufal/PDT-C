@@ -118,8 +118,8 @@
 </w.rf>
 <form>ika</form>
 <tag>
-<AM lemma="ika-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ika-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ika-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ika-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-37-p2s1Aw4">
@@ -1614,7 +1614,7 @@
 </w.rf>
 <form>PCB</form>
 <tag>
-<AM lemma="PCB-1_:B_;H_^(polychlorovaný_bifenyl)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PCB-1_:B_;U_^(polychlorovaný_bifenyl)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PCB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1741,7 +1741,7 @@
 </w.rf>
 <form>PCB</form>
 <tag>
-<AM lemma="PCB-1_:B_;H_^(polychlorovaný_bifenyl)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PCB-1_:B_;U_^(polychlorovaný_bifenyl)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PCB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

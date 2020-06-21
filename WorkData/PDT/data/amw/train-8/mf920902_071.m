@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-071-p1s1w1</LM>
 </w.rf>
 <form>Buráň</form>
-<tag lemma="Buráň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buráň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-071-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf920902-071-p1s1w3</LM>
 </w.rf>
 <form>Hargašem</form>
-<tag lemma="Hargaš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hargaš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-071-p1s1w4">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-mf920902-071-p2s1w19</LM>
 </w.rf>
 <form>Hargaš</form>
-<tag lemma="Hargaš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hargaš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-071-p2s1w20">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-mf920902-071-p2s1w22</LM>
 </w.rf>
 <form>Buráň</form>
-<tag lemma="Buráň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buráň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-071-p2s1w23">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-mf920902-071-p2s1w26</LM>
 </w.rf>
 <form>Vavilis</form>
-<tag lemma="Vavilis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vavilis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-071-p2s1w27">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-mf920902-071-p2s1w28</LM>
 </w.rf>
 <form>Grekas</form>
-<tag lemma="Grekas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grekas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-071-p2s1w29">
 <src.rf>manual</src.rf>

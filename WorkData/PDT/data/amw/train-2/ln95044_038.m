@@ -196,15 +196,15 @@
 <AM lemma="B-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="B-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="B-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="B-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="B-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="B-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="B-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw19">
@@ -221,7 +221,7 @@
 <LM>w#w-ln95044-038-p2s1Bw20</LM>
 </w.rf>
 <form>Colorlakem</form>
-<tag lemma="Colorlak_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Colorlak_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 </w.rf>
 <form>PF</form>
 <tag>
-<AM lemma="PF_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PF_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PF_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="PF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -266,7 +266,7 @@
 </w.rf>
 <form>ZČU</form>
 <tag>
-<AM lemma="ZČU-1_:B_;K_^(Západočeská_univerzita)" src="orig">NNFXX-----A----</AM>
+<AM lemma="ZČU-1_:B_;m_^(Západočeská_univerzita)" src="orig">NNFXX-----A----</AM>
 <AM lemma="ZČU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

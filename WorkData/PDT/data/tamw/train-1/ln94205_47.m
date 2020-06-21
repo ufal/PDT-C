@@ -93,7 +93,7 @@
 <LM>w#w-ln94205-47-p2s1Aw3</LM>
 </w.rf>
 <form>teb</form>
-<tag lemma="teb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="teb-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94205-47-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-ln94205-47-p3s4w20</LM>
 </w.rf>
 <form>Angelis</form>
-<tag lemma="Angelis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Angelis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-47-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1693,7 +1693,7 @@
 <LM>w#w-ln94205-47-p3s9w18</LM>
 </w.rf>
 <form>Angelis</form>
-<tag lemma="Angelis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Angelis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-47-p3s9w19">
 <src.rf>manual</src.rf>

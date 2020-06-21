@@ -62,13 +62,13 @@
 </w.rf>
 <form>fil</form>
 <tag>
-<AM lemma="fil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="fil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-102-p2s1w4">
@@ -459,7 +459,7 @@
 <LM>w#w-mf920902-102-p2s4w9</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-102-p2s4w10">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-mf920902-102-p2s6w26</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-102-p2s6w27">
 <src.rf>manual</src.rf>

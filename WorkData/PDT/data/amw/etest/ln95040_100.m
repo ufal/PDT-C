@@ -27,7 +27,7 @@
 <LM>w#w-ln95040-100-p1s1w2</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-100-p1s1w3">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln95040-100-p2s1Bw6</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-100-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -514,9 +514,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-100-p3s1w27">
@@ -541,7 +541,7 @@
 <LM>w#w-ln95040-100-p3s1w29</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-100-p3s1w30">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln95040-100-p4s1w10</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-100-p4s1w11">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-ln95040-100-p4s2w14</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-100-p4s2w15">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 </w.rf>
 <form>Banque</form>
 <tag>
-<AM lemma="Banque_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Banque_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Banque-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -893,9 +893,9 @@
 </w.rf>
 <form>Paribas</form>
 <tag>
-<AM lemma="Paribas_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Paribas_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Paribas_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Paribas_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Paribas_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Paribas_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-100-p4s2w22">
@@ -915,7 +915,7 @@
 <LM>w#w-ln95040-100-p4s2w23</LM>
 </w.rf>
 <form>Pendergast</form>
-<tag lemma="Pendergast_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pendergast_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-100-p4s2w24">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-ln95040-100-p4s3w5</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-100-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1120,7 +1120,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1138,7 +1138,7 @@
 <LM>w#w-ln95040-100-p4s4w8</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-100-p4s4w9">
 <src.rf>manual</src.rf>

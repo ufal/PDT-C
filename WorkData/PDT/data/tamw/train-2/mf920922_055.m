@@ -59,7 +59,7 @@
 <LM>w#w-mf920922-055-p1s1w6</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-055-p1s1w7">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-mf920922-055-p1s1w12</LM>
 </w.rf>
 <form>Nazarbajev</form>
-<tag lemma="Nazarbajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nazarbajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-055-p1s1w13">
 <src.rf>manual</src.rf>

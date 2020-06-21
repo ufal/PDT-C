@@ -61,7 +61,7 @@
 <LM>w#w-ln94204-69-p2s1Aw3</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="vet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94204-69-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-ln94204-69-p2s1Bw6</LM>
 </w.rf>
 <form>Mulače</form>
-<tag lemma="Mulač_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mulač_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-69-p2s1Bw7">
 <src.rf>manual</src.rf>

@@ -29,7 +29,7 @@
 <form>Robinsonů</form>
 <tag>
 <AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
-<AM lemma="Robinson-1_;S" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Robinson-1_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-004-p1s1w3">
@@ -132,7 +132,7 @@
 <form>Robinsonů</form>
 <tag>
 <AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
-<AM lemma="Robinson-1_;S" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Robinson-1_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-004-p2s1Bw8">
@@ -258,7 +258,7 @@
 <LM>w#w-ln95047-004-p2s2w8</LM>
 </w.rf>
 <form>Váňa</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-004-p2s2w9">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-ln95047-004-p3s3w27</LM>
 </w.rf>
 <form>Váňa</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-004-p3s3w28">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <form>Robinsonů</form>
 <tag>
 <AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
-<AM lemma="Robinson-1_;S" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Robinson-1_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-004-p3s4w7">
@@ -1369,8 +1369,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-004-p4s3w3">
@@ -1395,7 +1395,7 @@
 <LM>w#w-ln95047-004-p4s3w5</LM>
 </w.rf>
 <form>Váňa</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-004-p4s3w6">
 <src.rf>manual</src.rf>

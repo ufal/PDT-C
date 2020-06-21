@@ -113,7 +113,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -124,7 +124,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -153,8 +153,8 @@
 </w.rf>
 <form>iha</form>
 <tag>
-<AM lemma="iha-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="iha-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="iha-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="iha-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-22-p2s1Bw4">
@@ -172,8 +172,8 @@
 </w.rf>
 <form>tse</form>
 <tag>
-<AM lemma="tse-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tse-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tse-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tse-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-22-p2s1Bw6">
@@ -412,7 +412,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -423,7 +423,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -597,9 +597,9 @@
 <form>Diamond</form>
 <tag>
 <AM lemma="Diamond_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Diamond-1_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Diamond-1_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Diamond-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Diamond-1_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Diamond-1_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Diamond-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="diamond_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Diamond-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -765,7 +765,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -776,7 +776,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1992,7 +1992,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2003,7 +2003,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2041,7 +2041,7 @@
 <LM>w#w-ln94211-22-p4s5w13</LM>
 </w.rf>
 <form>Gilmoura</form>
-<tag lemma="Gilmour_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gilmour_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-22-p4s5w14">
 <src.rf>manual</src.rf>
@@ -2065,7 +2065,7 @@
 <LM>w#w-ln94211-22-p4s5w16</LM>
 </w.rf>
 <form>Masona</form>
-<tag lemma="Mason_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mason_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-22-p4s5w17">
 <src.rf>manual</src.rf>
@@ -2089,7 +2089,7 @@
 <LM>w#w-ln94211-22-p4s5w19</LM>
 </w.rf>
 <form>Wrighta</form>
-<tag lemma="Wright_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Wright_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-22-p4s5w20">
 <src.rf>manual</src.rf>
@@ -2184,7 +2184,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2195,7 +2195,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

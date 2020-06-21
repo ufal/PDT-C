@@ -85,7 +85,7 @@
 <LM>w#w-ln95047-052-p2s1w8</LM>
 </w.rf>
 <form>Whitmana</form>
-<tag lemma="Whitman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Whitman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-052-p2s1w9">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 </w.rf>
 <form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sotheby_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Sotheby-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -206,7 +206,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -346,7 +346,7 @@
 <LM>w#w-ln95047-052-p2s3w3</LM>
 </w.rf>
 <form>Whitmanovy</form>
-<tag lemma="Whitmanův_;S_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
+<tag lemma="Whitmanův_;Y_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
 </m>
 <m id="m-ln95047-052-p2s3w4">
 <src.rf>manual</src.rf>

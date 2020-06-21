@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9406-025-p2s1w5</LM>
 </w.rf>
 <form>MURATEC</form>
-<tag lemma="Muratec_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Muratec_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-025-p2s1w6">
 <src.rf>manual</src.rf>
@@ -91,13 +91,13 @@
 <AM lemma="M-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="M-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="M-3`1000" src="auto">C}-------------</AM>
-<AM lemma="M-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="M-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="M-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="M-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="M-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="M-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="M-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="M-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -148,7 +148,7 @@
 <form>TZ</form>
 <tag>
 <AM lemma="TZ-2_:B_^(tepelný_záznam)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TZ-1_:B_;K_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="TZ-1_:B_;m_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="TZ-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="TZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

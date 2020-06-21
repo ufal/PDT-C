@@ -245,7 +245,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-030-p3s3w12">
@@ -272,7 +272,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-030-p3s3w15">
@@ -291,7 +291,7 @@
 <form>Poláka</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-030-p3s3w17">
@@ -552,7 +552,7 @@
 <LM>w#w-lnd92254-030-p3s5w9</LM>
 </w.rf>
 <form>Strossmayerově</form>
-<tag lemma="Strossmayerův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Strossmayerův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-lnd92254-030-p3s5w10">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-lnd92254-030-p3s7w1</LM>
 </w.rf>
 <form>Sochora</form>
-<tag lemma="Sochora_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sochora_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-030-p3s7w2">
 <src.rf>manual</src.rf>

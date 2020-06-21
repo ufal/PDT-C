@@ -68,7 +68,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -79,7 +79,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="bal_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="bal_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto">NNIS4-----A----</AM>
 <AM lemma="balit" src="auto">Vi-S---2--A-I--</AM>
@@ -124,7 +124,7 @@
 </w.rf>
 <form>pieds</form>
 <tag>
-<AM lemma="pied_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="pied_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="pieds-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -328,7 +328,7 @@
 <LM>w#w-lnd92252-050-p1s2w12</LM>
 </w.rf>
 <form>Rochefort</form>
-<tag lemma="Rochefort_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rochefort_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p1s2w13">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <form>Robert</form>
 <tag>
 <AM lemma="Robert_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Robert_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Robert_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p2s1w24">
@@ -1432,7 +1432,7 @@
 <LM>w#w-lnd92252-050-p2s3w14</LM>
 </w.rf>
 <form>Lanoux</form>
-<tag lemma="Lanoux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lanoux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-lnd92252-050-p2s3w27</LM>
 </w.rf>
 <form>Brasseur</form>
-<tag lemma="Brasseur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brasseur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p2s3w28">
 <src.rf>manual</src.rf>
@@ -1591,7 +1591,7 @@
 <LM>w#w-lnd92252-050-p2s3w33</LM>
 </w.rf>
 <form>sporťákem</form>
-<tag lemma="sporťák-1_;w_,h" src="auto" selected="1">NNIS7-----A----</tag>
+<tag lemma="sporťák-1_,h" src="auto" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p2s3w34">
 <src.rf>manual</src.rf>
@@ -1618,8 +1618,8 @@
 </w.rf>
 <form>jaf</form>
 <tag>
-<AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jaf-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jaf-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p3s1w3">

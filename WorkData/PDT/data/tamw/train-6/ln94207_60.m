@@ -123,7 +123,7 @@
 <LM>w#w-ln94207-60-p1s1Aw14</LM>
 </w.rf>
 <form>Trval</form>
-<tag lemma="Trval_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trval_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-60-p1s1Aw15">
 <src.rf>manual</src.rf>
@@ -140,7 +140,7 @@
 </w.rf>
 <form>Vejprava</form>
 <tag>
-<AM lemma="Vejprava_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vejprava_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="vejprava-1_,h_^(expedice)" src="auto">NNFS1-----A----</AM>
 <AM lemma="vejprava-2_,h_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -169,7 +169,7 @@
 <LM>w#w-ln94207-60-p1s1Bw3</LM>
 </w.rf>
 <form>Zlatohlávek</form>
-<tag lemma="Zlatohlávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlatohlávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-60-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -186,8 +186,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

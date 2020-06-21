@@ -1409,7 +1409,7 @@
 <LM>w#w-cmpr9417-020-p6s7w19</LM>
 </w.rf>
 <form>Kubín</form>
-<tag lemma="Kubín-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubín-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-020-p6s7w20">
 <src.rf>manual</src.rf>
@@ -1874,7 +1874,7 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČVUT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1994,7 +1994,7 @@
 </w.rf>
 <form>Professional</form>
 <tag>
-<AM lemma="Professional_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Professional_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Professional-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5085,7 +5085,7 @@
 </w.rf>
 <form>Collége</form>
 <tag>
-<AM lemma="Collége_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Collége_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Collége-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5826,7 +5826,7 @@
 <LM>w#w-cmpr9417-020-p23s2w9</LM>
 </w.rf>
 <form>WordPerfect</form>
-<tag lemma="Wordperfect_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wordperfect_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-020-p23s2w10">
 <src.rf>manual</src.rf>
@@ -5843,14 +5843,14 @@
 </w.rf>
 <form>SUN</form>
 <tag>
-<AM lemma="SUN_;R" src="orig">NNIXX-----A----</AM>
-<AM lemma="Sun_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sun_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sun_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="SUN_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Sun_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Sun_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sun_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sun-2_;K_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Sun-2_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-020-p23s2w12">
@@ -7439,7 +7439,7 @@
 <LM>w#w-cmpr9417-020-p30s1w3</LM>
 </w.rf>
 <form>Amalthea</form>
-<tag lemma="Amalthea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Amalthea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-020-p30s1w4">
 <src.rf>manual</src.rf>

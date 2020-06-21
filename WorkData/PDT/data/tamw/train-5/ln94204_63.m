@@ -97,8 +97,8 @@
 </w.rf>
 <form>luč</form>
 <tag>
-<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-63-p2s1Aw4">
@@ -166,8 +166,8 @@
 </w.rf>
 <form>Š</form>
 <tag>
-<AM lemma="Š-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Š-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Š-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Š-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-63-p2s1Bw7">
@@ -296,7 +296,7 @@
 <LM>w#w-ln94204-63-p2s1Bw22</LM>
 </w.rf>
 <form>Vlkově</form>
-<tag lemma="Vlkův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Vlkův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94204-63-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln94204-63-p2s2w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94204-63-p2s2w6">
 <src.rf>manual</src.rf>

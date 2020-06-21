@@ -37,7 +37,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-80-p1s1w4">
@@ -54,7 +54,7 @@
 <LM>w#w-ln94204-80-p1s1w5</LM>
 </w.rf>
 <form>Pittnera</form>
-<tag lemma="Pittner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pittner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-80-p2s1A">
@@ -81,8 +81,8 @@
 </w.rf>
 <form>miš</form>
 <tag>
-<AM lemma="miš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="miš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="miš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="miš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-80-p2s1Aw4">
@@ -305,7 +305,7 @@
 <LM>w#w-ln94204-80-p2s2w11</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-80-p2s2w12">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-ln94204-80-p2s2w23</LM>
 </w.rf>
 <form>Pittnera</form>
-<tag lemma="Pittner_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pittner_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-80-p2s2w24">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94204-80-p2s3w7</LM>
 </w.rf>
 <form>Pittnerovo</form>
-<tag lemma="Pittnerův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Pittnerův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln94204-80-p2s3w8">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -591,7 +591,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -641,7 +641,7 @@
 <LM>w#w-ln94204-80-p2s4w9</LM>
 </w.rf>
 <form>Pittner</form>
-<tag lemma="Pittner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pittner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-80-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln94204-80-p2s6w4</LM>
 </w.rf>
 <form>Mikloš</form>
-<tag lemma="Mikloš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-80-p2s6w5">
 <src.rf>manual</src.rf>

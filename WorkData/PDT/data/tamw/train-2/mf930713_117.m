@@ -117,7 +117,7 @@
 <LM>w#w-mf930713-117-p2s1Bw9</LM>
 </w.rf>
 <form>Dlouhého</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-117-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 </w.rf>
 <form>neschopnost</form>
 <tag>
-<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS1-----A----</AM>
+<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFS1-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual">NNFS1-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
@@ -804,7 +804,7 @@
 </w.rf>
 <form>neschopnosti</form>
 <tag>
-<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
+<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual">NNFS2-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
@@ -922,7 +922,7 @@
 <LM>w#w-mf930713-117-p3s1w26</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-117-p3s1w27">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 </w.rf>
 <form>neschopnosti</form>
 <tag>
-<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
+<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual">NNFS2-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>

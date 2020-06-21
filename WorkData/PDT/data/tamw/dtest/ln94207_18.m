@@ -77,7 +77,7 @@
 <LM>w#w-ln94207-18-p2s1w2</LM>
 </w.rf>
 <form>Fejtek</form>
-<tag lemma="Fejtek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fejtek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-18-p2s1w3">
 <src.rf>manual</src.rf>
@@ -519,8 +519,8 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -539,7 +539,7 @@
 </w.rf>
 <form>Systému</form>
 <tag>
-<AM lemma="Systém_;K" src="orig">NNIS6-----A----</AM>
+<AM lemma="Systém_;m" src="orig">NNIS6-----A----</AM>
 <AM lemma="systém" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="systém" src="auto">NNIS3-----A----</AM>
 <AM lemma="systém" src="auto" selected="1">NNIS6-----A----</AM>
@@ -4072,7 +4072,7 @@
 </w.rf>
 <form>YSE</form>
 <tag>
-<AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="YSE_:B_;m_^(YSE_Holding,_fin._inst.)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="YSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

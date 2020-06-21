@@ -54,9 +54,9 @@
 </w.rf>
 <form>mmz</form>
 <tag>
-<AM lemma="mmz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mmz-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mmz-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="mmz-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mmz-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-112-p2s1Aw4">
@@ -124,7 +124,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -136,26 +136,26 @@
 <form>Lady</form>
 <tag>
 <AM lemma="Lady_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP1-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP1-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lada-3_;G" src="auto">NNNP7-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="lad" src="auto">NNIP1-----A----</AM>
 <AM lemma="lad" src="auto">NNIP4-----A----</AM>
 <AM lemma="lad" src="auto">NNIP5-----A----</AM>
 <AM lemma="lad" src="auto">NNIP7-----A----</AM>
 <AM lemma="lada-1_^(louky)" src="auto">NNNP7-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP1-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP1-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
 <AM lemma="lady_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Lady-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -234,7 +234,7 @@
 </w.rf>
 <form>MZ</form>
 <tag>
-<AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MZ_:B_;m_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -263,7 +263,7 @@
 <LM>w#w-ln94208-112-p2s1Bw19</LM>
 </w.rf>
 <form>Gerschově</form>
-<tag lemma="Gerschův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Gerschův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94208-112-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -353,7 +353,7 @@
 <LM>w#w-ln94208-112-p2s1Bw29</LM>
 </w.rf>
 <form>Šatry</form>
-<tag lemma="Šatra_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šatra_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-112-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln94208-112-p2s2w16</LM>
 </w.rf>
 <form>Chaloupky</form>
-<tag lemma="Chaloupka_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chaloupka_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-112-p2s2w17">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 </w.rf>
 <form>Klub</form>
 <tag>
-<AM lemma="Klub_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klub_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="klub" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="klub" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -709,26 +709,26 @@
 <form>Lady</form>
 <tag>
 <AM lemma="Lady_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP1-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP1-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lada-3_;G" src="auto">NNNP7-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="lad" src="auto">NNIP1-----A----</AM>
 <AM lemma="lad" src="auto">NNIP4-----A----</AM>
 <AM lemma="lad" src="auto">NNIP5-----A----</AM>
 <AM lemma="lad" src="auto">NNIP7-----A----</AM>
 <AM lemma="lada-1_^(louky)" src="auto">NNNP7-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP1-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP1-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
 <AM lemma="lady_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Lady-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -790,7 +790,7 @@
 <LM>w#w-ln94208-112-p2s4w11</LM>
 </w.rf>
 <form>Voltaire</form>
-<tag lemma="Voltaire_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Voltaire_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-112-p2s4w12">
 <src.rf>manual</src.rf>

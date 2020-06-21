@@ -84,8 +84,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -97,7 +97,7 @@
 </w.rf>
 <form>Herald</form>
 <tag>
-<AM lemma="Herald_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Herald_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="herald_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Herald-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -109,8 +109,8 @@
 </w.rf>
 <form>Tribune</form>
 <tag>
-<AM lemma="Tribune_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tribune_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Tribune_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tribune_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
 <AM lemma="tribune_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Tribune-77" src="manual" selected="1">F%-------------</AM>
@@ -310,7 +310,7 @@
 <LM>w#w-mf920925-010-p1s2w22</LM>
 </w.rf>
 <form>Amato</form>
-<tag lemma="Amato_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amato_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-010-p1s2w23">
 <src.rf>manual</src.rf>

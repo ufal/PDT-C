@@ -773,7 +773,7 @@
 <LM>w#w-ln95046-061-p2s5w4</LM>
 </w.rf>
 <form>Merec</form>
-<tag lemma="Merec_;K_^(strana)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Merec_;m_^(strana)" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95046-061-p2s5w5">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-ln95046-061-p2s5w6</LM>
 </w.rf>
 <form>Zucker</form>
-<tag lemma="Zucker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zucker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-061-p2s5w7">
 <src.rf>manual</src.rf>

@@ -776,7 +776,7 @@
 <LM>w#w-ln95047-134-p2s5w7</LM>
 </w.rf>
 <form>Veleslavínova</form>
-<tag lemma="Veleslavínův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Veleslavínův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95047-134-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-ln95047-134-p2s9w3</LM>
 </w.rf>
 <form>Kredo</form>
-<tag lemma="Kredo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kredo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-134-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1318,7 +1318,7 @@
 <LM>w#w-ln95047-134-p2s9w5</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95047-134-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1954,7 +1954,7 @@
 <LM>w#w-ln95047-134-p2s12w3</LM>
 </w.rf>
 <form>Kredo</form>
-<tag lemma="Kredo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kredo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-134-p2s12w4">
 <src.rf>manual</src.rf>
@@ -2120,7 +2120,7 @@
 <LM>w#w-ln95047-134-p2s15w3</LM>
 </w.rf>
 <form>Kredo</form>
-<tag lemma="Kredo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kredo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-134-p2s15w4">
 <src.rf>manual</src.rf>
@@ -2339,7 +2339,7 @@
 <LM>w#w-ln95047-134-p2s19w3</LM>
 </w.rf>
 <form>Kredo</form>
-<tag lemma="Kredo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kredo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-134-p2s19w4">
 <src.rf>manual</src.rf>

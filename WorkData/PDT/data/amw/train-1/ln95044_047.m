@@ -73,8 +73,8 @@
 </w.rf>
 <form>Roxette</form>
 <tag>
-<AM lemma="Roxette_;K" src="auto">NNFSX-----A----</AM>
-<AM lemma="Roxette_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Roxette_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Roxette_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-047-p2s1w4">
@@ -467,8 +467,8 @@
 </w.rf>
 <form>Roxette</form>
 <tag>
-<AM lemma="Roxette_;K" src="auto">NNFSX-----A----</AM>
-<AM lemma="Roxette_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="Roxette_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Roxette_;m" src="manual">NNFXX-----A----</AM>
 <AM lemma="Roxette_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -629,10 +629,10 @@
 </w.rf>
 <form>Wham</form>
 <tag>
-<AM lemma="Wham_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Wham_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Wham_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Wham_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Wham_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Wham_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Wham_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Wham_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Wham_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -756,7 +756,7 @@
 <LM>w#w-ln95044-047-p3s2w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95044-047-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1183,7 +1183,7 @@
 <LM>w#w-ln95044-047-p4s2w27</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-047-p4s2w28">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln95044-047-p4s2w28</LM>
 </w.rf>
 <form>Jackson</form>
-<tag lemma="Jackson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jackson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-047-p4s2w29">
 <src.rf>manual</src.rf>

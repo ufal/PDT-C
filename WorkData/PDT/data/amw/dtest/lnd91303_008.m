@@ -772,7 +772,7 @@
 <LM>w#w-lnd91303-008-p2s3w22</LM>
 </w.rf>
 <form>Šapošnikov</form>
-<tag lemma="Šapošnikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šapošnikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-008-p2s3w23">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 </w.rf>
 <form>RIA</form>
 <tag>
-<AM lemma="RIA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RIA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1254,7 +1254,7 @@
 <LM>w#w-lnd91303-008-p3s3w2</LM>
 </w.rf>
 <form>Šapošnikov</form>
-<tag lemma="Šapošnikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šapošnikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-008-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1344,7 +1344,7 @@
 <LM>w#w-lnd91303-008-p3s4w1</LM>
 </w.rf>
 <form>Šapošnikova</form>
-<tag lemma="Šapošnikov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šapošnikov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-008-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1450,7 +1450,7 @@
 <LM>w#w-lnd91303-008-p3s5w1</LM>
 </w.rf>
 <form>Šapošnikov</form>
-<tag lemma="Šapošnikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šapošnikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-008-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 </w.rf>
 <form>RIA</form>
 <tag>
-<AM lemma="RIA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RIA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1889,7 +1889,7 @@
 <LM>w#w-lnd91303-008-p4s2w12</LM>
 </w.rf>
 <form>Nazarbajeva</form>
-<tag lemma="Nazarbajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nazarbajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-008-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2260,7 +2260,7 @@
 </w.rf>
 <form>RIA</form>
 <tag>
-<AM lemma="RIA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RIA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2547,7 +2547,7 @@
 </w.rf>
 <form>RIA</form>
 <tag>
-<AM lemma="RIA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RIA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

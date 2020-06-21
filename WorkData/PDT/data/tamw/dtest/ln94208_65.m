@@ -21,8 +21,8 @@
 <form>Hutové</form>
 <tag>
 <AM lemma="Hutu_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Hut_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Hut_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Hut_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Hut_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Hutu_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP5-----A---1</AM>
 </tag>
@@ -218,8 +218,8 @@
 <form>Hutové</form>
 <tag>
 <AM lemma="Hutu_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Hut_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Hut_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Hut_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Hut_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Hutu_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP5-----A---1</AM>
 </tag>

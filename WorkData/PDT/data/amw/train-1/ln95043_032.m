@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-032-p1s1w1</LM>
 </w.rf>
 <form>Morávkova</form>
-<tag lemma="Morávkův_;S_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Morávkův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95043-032-p1s1w2">
 <src.rf>manual</src.rf>
@@ -70,7 +70,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>MORÁVEK</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-032-p2s1w3">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-ln95043-032-p2s3Aw11</LM>
 </w.rf>
 <form>Mrštíků</form>
-<tag lemma="Mrštík_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Mrštík_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95043-032-p2s3Aw12">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 </w.rf>
 <form>JAMU</form>
 <tag>
-<AM lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAMU_:B_;m_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -538,7 +538,7 @@
 </w.rf>
 <form>JAMU</form>
 <tag>
-<AM lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAMU_:B_;m_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1043,7 +1043,7 @@
 <form>Lízal</form>
 <tag>
 <AM lemma="lízal" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lízal_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lízal_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-032-p5s1w19">
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln95043-032-p5s1w22</LM>
 </w.rf>
 <form>Vávra</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-032-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln95043-032-p5s3w12</LM>
 </w.rf>
 <form>Vávru</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95043-032-p5s3w13">
 <src.rf>manual</src.rf>
@@ -1930,7 +1930,7 @@
 <LM>w#w-ln95043-032-p7s2w3</LM>
 </w.rf>
 <form>Štědroněm</form>
-<tag lemma="Štědroň_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Štědroň_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95043-032-p7s2w4">
 <src.rf>manual</src.rf>
@@ -2366,7 +2366,7 @@
 <LM>w#w-ln95043-032-p8s1w11</LM>
 </w.rf>
 <form>Mrštíků</form>
-<tag lemma="Mrštík_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Mrštík_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95043-032-p8s1w12">
 <src.rf>manual</src.rf>
@@ -2508,7 +2508,7 @@
 </w.rf>
 <form>Ifigénii</form>
 <tag>
-<AM lemma="Ifigénie_;S" src="auto">NNFS4-----A----</AM>
+<AM lemma="Ifigénie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Ifigénie_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>

@@ -103,7 +103,7 @@
 <LM>w#w-ln94211-101-p2s1Bw8</LM>
 </w.rf>
 <form>FOUCAULTA</form>
-<tag lemma="Foucault_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Foucault_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-101-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln94211-101-p2s1Bw37</LM>
 </w.rf>
 <form>Foucaultovi</form>
-<tag lemma="Foucault_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Foucault_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94211-101-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln94211-101-p2s3w7</LM>
 </w.rf>
 <form>Foucaultových</form>
-<tag lemma="Foucaultův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Foucaultův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln94211-101-p2s3w8">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-ln94211-101-p2s3w17</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;K_^(noviny)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Svoboda_;m_^(noviny)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-101-p2s3w18">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -775,21 +775,21 @@
 </w.rf>
 <form>France</form>
 <tag>
-<AM lemma="France-2_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="France-2_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Franca_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franca_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="France-2_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -882,7 +882,7 @@
 <LM>w#w-ln94211-101-p3s1w19</LM>
 </w.rf>
 <form>Nietzsche</form>
-<tag lemma="Nietzsche_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nietzsche_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-101-p3s1w20">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 <LM>w#w-ln94211-101-p3s2w9</LM>
 </w.rf>
 <form>Foucaulta</form>
-<tag lemma="Foucault_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Foucault_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-101-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-ln94211-101-p4s2w1</LM>
 </w.rf>
 <form>Foucault</form>
-<tag lemma="Foucault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foucault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-101-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1769,7 +1769,7 @@
 <LM>w#w-ln94211-101-p4s4w7</LM>
 </w.rf>
 <form>Foucaulta</form>
-<tag lemma="Foucault_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Foucault_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-101-p4s4w8">
 <src.rf>manual</src.rf>
@@ -2317,7 +2317,7 @@
 <LM>w#w-ln94211-101-p5s2w5</LM>
 </w.rf>
 <form>Foucault</form>
-<tag lemma="Foucault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foucault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-101-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2648,7 +2648,7 @@
 <LM>w#w-ln94211-101-p5s4w1</LM>
 </w.rf>
 <form>Foucaultovým</form>
-<tag lemma="Foucaultův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Foucaultův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-ln94211-101-p5s4w2">
 <src.rf>manual</src.rf>
@@ -3216,7 +3216,7 @@
 <LM>w#w-ln94211-101-p6s1w8</LM>
 </w.rf>
 <form>Foucaultova</form>
-<tag lemma="Foucaultův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Foucaultův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94211-101-p6s1w9">
 <src.rf>manual</src.rf>
@@ -3410,7 +3410,7 @@
 <LM>w#w-ln94211-101-p6s2w11</LM>
 </w.rf>
 <form>Foucault</form>
-<tag lemma="Foucault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foucault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-101-p6s2w12">
 <src.rf>manual</src.rf>
@@ -3435,7 +3435,7 @@
 <LM>w#w-ln94211-101-p6s2w14</LM>
 </w.rf>
 <form>Nietzschových</form>
-<tag lemma="Nietzschův_;S_^(*2e)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Nietzschův_;Y_^(*2e)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln94211-101-p6s2w15">
 <src.rf>manual</src.rf>
@@ -4072,7 +4072,7 @@
 <LM>w#w-ln94211-101-p7s1w2</LM>
 </w.rf>
 <form>Petříček</form>
-<tag lemma="Petříček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petříček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-101-p7s1w3">
 <src.rf>manual</src.rf>
@@ -4081,7 +4081,7 @@
 </w.rf>
 <form>jr</form>
 <tag>
-<AM lemma="jr_:B" src="auto">NNMSX-----A----</AM>
+<AM lemma="jr_:B" src="auto">NNMXX-----A----</AM>
 <AM lemma="junior" src="manual" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>
@@ -4109,7 +4109,7 @@
 <LM>w#w-ln94211-101-p8s1w2</LM>
 </w.rf>
 <form>Foucault</form>
-<tag lemma="Foucault_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foucault_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-101-p8s1w3">
 <src.rf>manual</src.rf>
@@ -4195,8 +4195,8 @@
 </w.rf>
 <form>Svoboda</form>
 <tag>
-<AM lemma="Svoboda_;K_^(noviny)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Svoboda-2_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Svoboda_;m_^(noviny)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Svoboda-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-101-p8s2w4">
@@ -4313,7 +4313,7 @@
 <form>Petr</form>
 <tag>
 <AM lemma="Petr_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Petr_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Petr_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-101-p8s3w6">
@@ -4322,7 +4322,7 @@
 <LM>w#w-ln94211-101-p8s3w6</LM>
 </w.rf>
 <form>Horák</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-101-p8s3w7">
 <src.rf>manual</src.rf>

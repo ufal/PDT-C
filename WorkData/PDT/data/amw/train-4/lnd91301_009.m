@@ -287,7 +287,7 @@
 <LM>w#w-lnd91301-009-p3s1w27</LM>
 </w.rf>
 <form>Rachač</form>
-<tag lemma="Rachač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rachač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-009-p3s1w28">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-lnd91301-009-p3s2w12</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd91301-009-p3s2w13">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-009-p3s6w3">
@@ -965,7 +965,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Rachače</form>
-<tag lemma="Rachač_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rachač_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-009-p3s6w5">
 <src.rf>manual</src.rf>

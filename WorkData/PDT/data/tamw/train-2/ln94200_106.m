@@ -370,8 +370,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-106-p2s2w5">
@@ -583,8 +583,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-106-p2s3w6">
@@ -594,8 +594,8 @@
 </w.rf>
 <form>Butruse</form>
 <tag>
-<AM lemma="Butrus_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Butrus_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Butrus_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Butrus_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-106-p2s3w7">
@@ -613,8 +613,8 @@
 </w.rf>
 <form>Butruse</form>
 <tag>
-<AM lemma="Butrus_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Butrus_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Butrus_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Butrus_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-106-p2s3w9">
@@ -623,7 +623,7 @@
 <LM>w#w-ln94200-106-p2s3w9</LM>
 </w.rf>
 <form>Ghálího</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-106-p2s3w10">
 <src.rf>manual</src.rf>
@@ -648,8 +648,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-106-p2s3w14">

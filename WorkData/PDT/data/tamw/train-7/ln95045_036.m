@@ -53,7 +53,7 @@
 <LM>w#w-ln95045-036-p2s1w2</LM>
 </w.rf>
 <form>Lucescu</form>
-<tag lemma="Lucescu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lucescu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-036-p2s1w3">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95045-036-p2s2w7</LM>
 </w.rf>
 <form>Lucescu</form>
-<tag lemma="Lucescu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lucescu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-036-p2s2w8">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-ln95045-036-p2s3w6</LM>
 </w.rf>
 <form>Maifredi</form>
-<tag lemma="Maifredi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maifredi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-036-p2s3w7">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln95045-036-p3s1w1</LM>
 </w.rf>
 <form>Arsenal</form>
-<tag lemma="Arsenal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Arsenal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-036-p3s1w2">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-ln95045-036-p3s1w10</LM>
 </w.rf>
 <form>Grahama</form>
-<tag lemma="Graham_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Graham_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-036-p3s1w11">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-ln95045-036-p3s2w7</LM>
 </w.rf>
 <form>Graham</form>
-<tag lemma="Graham_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Graham_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-036-p3s2w8">
 <src.rf>manual</src.rf>

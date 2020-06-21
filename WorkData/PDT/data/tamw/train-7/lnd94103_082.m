@@ -352,7 +352,7 @@
 </w.rf>
 <form>IHF</form>
 <tag>
-<AM lemma="IHF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IHF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IHF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd94104-097-p1s1w2</LM>
 </w.rf>
 <form>Fox</form>
-<tag lemma="Fox-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fox-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-097-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-lnd94104-097-p1s1w4</LM>
 </w.rf>
 <form>Inkoma</form>
-<tag lemma="Inkoma_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Inkoma_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94104-097-p1s1w5">
 <src.rf>manual</src.rf>
@@ -52,7 +52,7 @@
 </w.rf>
 <form>DBV</form>
 <tag>
-<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="DBV-1_:B_;m_,t_^(Deutscher_Bäderverband)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -157,7 +157,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -209,7 +209,7 @@
 <LM>w#w-lnd94104-097-p1s2w2</LM>
 </w.rf>
 <form>Jiránková</form>
-<tag lemma="Jiránková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jiránková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-097-p1s2w3">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-lnd94104-097-p1s2w5</LM>
 </w.rf>
 <form>Inkoma</form>
-<tag lemma="Inkoma_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Inkoma_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-097-p1s2w6">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 </w.rf>
 <form>DBV</form>
 <tag>
-<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="DBV-1_:B_;m_,t_^(Deutscher_Bäderverband)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

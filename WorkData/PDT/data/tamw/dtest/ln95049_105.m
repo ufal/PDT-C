@@ -86,8 +86,8 @@
 </w.rf>
 <form>ll</form>
 <tag>
-<AM lemma="ll-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ll-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ll-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ll-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-105-p2s1Aw4">
@@ -105,8 +105,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-105-p2s1Aw6">
@@ -253,7 +253,7 @@
 <LM>w#w-ln95049-105-p2s1Bw16</LM>
 </w.rf>
 <form>Žídkovou</form>
-<tag lemma="Žídková_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Žídková_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95049-105-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-ln95049-105-p2s4w8</LM>
 </w.rf>
 <form>Ondráčková</form>
-<tag lemma="Ondráčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ondráčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-105-p2s4w9">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln95049-105-p2s4w17</LM>
 </w.rf>
 <form>Burgetová</form>
-<tag lemma="Burgetová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Burgetová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-105-p2s4w18">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-ln95049-105-p2s5w15</LM>
 </w.rf>
 <form>Pupp</form>
-<tag lemma="Pupp_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pupp_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-105-p2s5w16">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-ln95049-105-p2s5w27</LM>
 </w.rf>
 <form>Singerová</form>
-<tag lemma="Singerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Singerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-105-p2s5w28">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln95049-105-p2s5w32</LM>
 </w.rf>
 <form>Rabenseifnerová</form>
-<tag lemma="Rabenseifnerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rabenseifnerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-105-p2s5w33">
 <src.rf>manual</src.rf>
@@ -1047,8 +1047,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-105-p2s6w6">

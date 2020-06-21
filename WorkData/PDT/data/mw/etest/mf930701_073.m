@@ -383,7 +383,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-073-p1s2w14">
@@ -401,7 +401,7 @@
 </w.rf>
 <form>Mužik</form>
 <tag>
-<AM lemma="Mužik_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mužik_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="mužik" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1527,7 +1527,7 @@
 <LM>w#w-mf930701-073-p1s11w20</LM>
 </w.rf>
 <form>Šmiták</form>
-<tag lemma="Šmiták_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmiták_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-073-p1s11w21">
 <src.rf>manual</src.rf>
@@ -1857,7 +1857,7 @@
 <LM>w#w-mf930701-073-p1s13w9</LM>
 </w.rf>
 <form>Chalupa</form>
-<tag lemma="Chalupa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chalupa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-073-p1s13w10">
 <src.rf>manual</src.rf>

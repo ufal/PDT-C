@@ -168,7 +168,7 @@
 <LM>w#w-lnd92257-007-p3s2w10</LM>
 </w.rf>
 <form>Galileiho</form>
-<tag lemma="Galilei_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-007-p3s2w11">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-lnd92257-007-p3s3w1</LM>
 </w.rf>
 <form>Galileimu</form>
-<tag lemma="Galilei_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92257-007-p3s3w2">
 <src.rf>manual</src.rf>
@@ -621,8 +621,8 @@
 </w.rf>
 <form>Galileiho</form>
 <tag>
-<AM lemma="Galilei_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Galilei_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Galilei_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Galilei_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-007-p3s4w7">

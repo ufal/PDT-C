@@ -105,8 +105,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-054-p2s1w4">
@@ -187,7 +187,7 @@
 <LM>w#w-mf930702-054-p2s1w13</LM>
 </w.rf>
 <form>Tomina</form>
-<tag lemma="Tomin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tomin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-054-p2s1w14">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-mf930702-054-p2s1w20</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-054-p2s1w21">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 </w.rf>
 <form>FMV</form>
 <tag>
-<AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMV_:B_;m_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -895,7 +895,7 @@
 <LM>w#w-mf930702-054-p3s2w13</LM>
 </w.rf>
 <form>Kukura</form>
-<tag lemma="Kukura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kukura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-054-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-mf930702-054-p3s2w26</LM>
 </w.rf>
 <form>Tomin</form>
-<tag lemma="Tomin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-054-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-mf930702-054-p4s1w1</LM>
 </w.rf>
 <form>Tomin</form>
-<tag lemma="Tomin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-054-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-mf930702-054-p4s2w10</LM>
 </w.rf>
 <form>Řehořek</form>
-<tag lemma="Řehořek_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Řehořek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-054-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1417,7 +1417,7 @@
 <LM>w#w-mf930702-054-p4s2w18</LM>
 </w.rf>
 <form>Kotrba</form>
-<tag lemma="Kotrba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotrba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-054-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 </w.rf>
 <form>FMV</form>
 <tag>
-<AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMV_:B_;m_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1646,7 +1646,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

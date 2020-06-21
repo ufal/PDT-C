@@ -287,7 +287,7 @@
 <LM>w#w-mf930708-177-p2s2w3</LM>
 </w.rf>
 <form>Ašraviová</form>
-<tag lemma="Ašraviová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ašraviová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-177-p2s2w4">
 <src.rf>manual</src.rf>

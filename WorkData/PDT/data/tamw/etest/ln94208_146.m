@@ -61,7 +61,7 @@
 <LM>w#w-ln94208-146-p2s1Aw2</LM>
 </w.rf>
 <form>Sadil</form>
-<tag lemma="Sadil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-146-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 </w.rf>
 <form>PSJ</form>
 <tag>
-<AM lemma="PSJ_:B_;K" src="auto">NNFSX-----A---8</AM>
+<AM lemma="PSJ_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PSJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1471,7 +1471,7 @@
 <LM>w#w-ln94208-146-p4s1w41</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94208-146-p4s1w42">
 <src.rf>manual</src.rf>

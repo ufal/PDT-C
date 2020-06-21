@@ -152,10 +152,10 @@
 </w.rf>
 <form>Natal</form>
 <tag>
-<AM lemma="Natal_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Natal_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Natal-2_;K" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Natal-2_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-18-p2s1Bw10">
@@ -217,7 +217,7 @@
 <LM>w#w-ln94205-18-p2s2w5</LM>
 </w.rf>
 <form>Preclík</form>
-<tag lemma="Preclík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Preclík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-18-p2s2w6">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-18-p4s1w8">
@@ -943,7 +943,7 @@
 <LM>w#w-ln94205-18-p4s1w9</LM>
 </w.rf>
 <form>Preclíka</form>
-<tag lemma="Preclík-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Preclík-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-18-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1345,7 +1345,7 @@
 <LM>w#w-ln94205-18-p4s3w21</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94205-18-p4s3w22">
 <src.rf>manual</src.rf>

@@ -56,7 +56,7 @@
 <LM>w#w-ln94205-34-p2s1Aw2</LM>
 </w.rf>
 <form>Dudek</form>
-<tag lemma="Dudek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-34-p2s1B">
@@ -74,7 +74,7 @@
 <LM>w#w-ln94205-34-p2s1Bw2</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94205-34-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžiče</form>
-<tag lemma="Karadžič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Karadžič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-34-p3s1w10">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln94205-34-p3s2w6</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94205-34-p3s2w7">
 <src.rf>manual</src.rf>
@@ -892,8 +892,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-34-p3s3w20">
@@ -910,7 +910,7 @@
 <LM>w#w-ln94205-34-p3s3w21</LM>
 </w.rf>
 <form>Kovandy</form>
-<tag lemma="Kovanda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kovanda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-34-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-ln94205-34-p4s1w16</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94205-34-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-ln94205-34-p4s2w28</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94205-34-p4s2w29">
 <src.rf>manual</src.rf>
@@ -1555,7 +1555,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžičovy</form>
-<tag lemma="Karadžičův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Karadžičův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94205-34-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1868,7 +1868,7 @@
 <LM>w#w-ln94205-34-p4s6w10</LM>
 </w.rf>
 <form>Srbům</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94205-34-p4s6w11">
 <src.rf>manual</src.rf>
@@ -2246,7 +2246,7 @@
 <LM>w#w-ln94205-34-p5s1w2</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94205-34-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2311,7 +2311,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžič</form>
-<tag lemma="Karadžič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karadžič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-34-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2562,7 +2562,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševič</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-34-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2888,7 +2888,7 @@
 <LM>w#w-ln94205-34-p5s6w6</LM>
 </w.rf>
 <form>Kozyreva</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-34-p5s6w7">
 <src.rf>manual</src.rf>
@@ -2921,7 +2921,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševičova</form>
-<tag lemma="Miloševičův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Miloševičův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94205-34-p5s6w11">
 <src.rf>manual</src.rf>
@@ -3056,7 +3056,7 @@
 <LM>w#w-ln94205-34-p5s8w4</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94205-34-p5s8w5">
 <src.rf>manual</src.rf>
@@ -3139,7 +3139,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševiče</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-34-p5s9w8">
 <src.rf>manual</src.rf>

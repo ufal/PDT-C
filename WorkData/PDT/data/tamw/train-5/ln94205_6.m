@@ -127,7 +127,7 @@
 <LM>w#w-ln94205-6-p2s1Bw2</LM>
 </w.rf>
 <form>Koubský</form>
-<tag lemma="Koubský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koubský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-6-p2s1C">
@@ -561,7 +561,7 @@
 </w.rf>
 <form>IBM</form>
 <tag>
-<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-1_:B_;m_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -620,8 +620,8 @@
 </w.rf>
 <form>System</form>
 <tag>
-<AM lemma="System_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="System_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="System_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="System_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="systém" src="auto" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
@@ -714,7 +714,7 @@
 </w.rf>
 <form>IBM</form>
 <tag>
-<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-1_:B_;m_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -725,8 +725,8 @@
 </w.rf>
 <form>System</form>
 <tag>
-<AM lemma="System_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="System_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="System_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="System_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="systém" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
@@ -1354,7 +1354,7 @@
 </w.rf>
 <form>dolarech</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP6-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP6-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
@@ -1399,7 +1399,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -1666,7 +1666,7 @@
 </w.rf>
 <form>IBM</form>
 <tag>
-<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-1_:B_;m_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1733,7 +1733,7 @@
 </w.rf>
 <form>CDC</form>
 <tag>
-<AM lemma="CDC-2_:B_;K_,t_^(Civil_Defence_Committee)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="CDC-2_:B_;m_,t_^(Civil_Defence_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CDC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1752,7 +1752,7 @@
 </w.rf>
 <form>RCA</form>
 <tag>
-<AM lemma="RCA-1_:B_;K_,t_^(Radio_Corporation_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="RCA-1_:B_;m_,t_^(Radio_Corporation_of_America)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="RCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1795,8 +1795,8 @@
 </w.rf>
 <form>Burroughs</form>
 <tag>
-<AM lemma="Burroughs_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Burroughs-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Burroughs_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Burroughs-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p3s6w19">
@@ -1814,9 +1814,9 @@
 </w.rf>
 <form>Amdahl</form>
 <tag>
-<AM lemma="Amdahl_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Amdahl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Amdahl-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Amdahl_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Amdahl_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Amdahl-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p3s6w21">
@@ -1834,8 +1834,8 @@
 </w.rf>
 <form>Cray</form>
 <tag>
-<AM lemma="Cray_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Cray_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Cray-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1846,7 +1846,7 @@
 </w.rf>
 <form>Research</form>
 <tag>
-<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="orig">NNISX-----A----</AM>
+<AM lemma="Research-1_;m_,t_^(souč._názvů,_např._IBM_Research)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Research-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1867,7 +1867,7 @@
 </w.rf>
 <form>IBM</form>
 <tag>
-<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-1_:B_;m_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1918,8 +1918,8 @@
 </w.rf>
 <form>System</form>
 <tag>
-<AM lemma="System_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="System_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="System_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="System_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="systém" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
@@ -4241,7 +4241,7 @@
 </w.rf>
 <form>DEC</form>
 <tag>
-<AM lemma="DEC-1_:B_;K_,t_^(Digital_Equipment_Corporation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DEC-1_:B_;m_,t_^(Digital_Equipment_Corporation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4260,8 +4260,8 @@
 </w.rf>
 <form>Hewlett</form>
 <tag>
-<AM lemma="Hewlett-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hewlett-1_;K_^(Hewlett-Packard)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="Hewlett-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hewlett-1_;m_^(Hewlett-Packard)" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s3w12">
@@ -4278,7 +4278,7 @@
 <LM>w#w-ln94205-6-p6s3w13</LM>
 </w.rf>
 <form>Packard</form>
-<tag lemma="Packard-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Packard-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-6-p6s3w14">
 <src.rf>manual</src.rf>
@@ -4920,9 +4920,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s8w7">
@@ -5307,7 +5307,7 @@
 </w.rf>
 <form>JSEP</form>
 <tag>
-<AM lemma="JSEP-1_:B_;R_;c_^(Jednotný_systém_elektronic._počítačů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JSEP-1_:B_;m_^(Jednotný_systém_elektronic._počítačů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="JSEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5326,7 +5326,7 @@
 </w.rf>
 <form>SMEP</form>
 <tag>
-<AM lemma="SMEP-1_:B_;R_^(Systém_malých_elektronických_počítačů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SMEP-1_:B_;m_^(Systém_malých_elektronických_počítačů)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SMEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5507,9 +5507,9 @@
 </w.rf>
 <form>RVHP</form>
 <tag>
-<AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="RVHP-1_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RVHP-1_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p6s11w22">
@@ -5601,7 +5601,7 @@
 </w.rf>
 <form>IBM</form>
 <tag>
-<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-1_:B_;m_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5676,7 +5676,7 @@
 </w.rf>
 <form>JSEP</form>
 <tag>
-<AM lemma="JSEP-1_:B_;R_;c_^(Jednotný_systém_elektronic._počítačů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JSEP-1_:B_;m_^(Jednotný_systém_elektronic._počítačů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="JSEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5730,7 +5730,7 @@
 </w.rf>
 <form>HP</form>
 <tag>
-<AM lemma="HP-1_:B_;K_,t_^(Hewlett_Packard)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="HP-1_:B_;m_,t_^(Hewlett_Packard)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="HP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5805,7 +5805,7 @@
 </w.rf>
 <form>SMEP</form>
 <tag>
-<AM lemma="SMEP-1_:B_;R_^(Systém_malých_elektronických_počítačů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SMEP-1_:B_;m_^(Systém_malých_elektronických_počítačů)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SMEP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

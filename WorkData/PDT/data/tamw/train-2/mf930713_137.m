@@ -27,7 +27,7 @@
 <LM>w#w-mf930713-137-p1s1w2</LM>
 </w.rf>
 <form>Interpespenziónu</form>
-<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Interpespenzión_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-137-p1s1w3">
 <src.rf>manual</src.rf>
@@ -94,7 +94,7 @@
 </w.rf>
 <form>kar</form>
 <tag>
-<AM lemma="kar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="kar-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -349,7 +349,7 @@
 <LM>w#w-mf930713-137-p2s2w13</LM>
 </w.rf>
 <form>Interpespenziónu</form>
-<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Interpespenzión_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s2w14">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-mf930713-137-p2s2w15</LM>
 </w.rf>
 <form>Hermanovou</form>
-<tag lemma="Hermanová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Hermanová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s2w16">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-mf930713-137-p2s5w11</LM>
 </w.rf>
 <form>Čermák</form>
-<tag lemma="Čermák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čermák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s5w12">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-137-p2s8w3">
@@ -989,7 +989,7 @@
 <LM>w#w-mf930713-137-p2s8w4</LM>
 </w.rf>
 <form>Hermanové</form>
-<tag lemma="Hermanová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hermanová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-mf930713-137-p2s9w5</LM>
 </w.rf>
 <form>Interpespenzión</form>
-<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interpespenzión_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1537,7 +1537,7 @@
 <LM>w#w-mf930713-137-p2s12w1</LM>
 </w.rf>
 <form>Interpespenzión</form>
-<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interpespenzión_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-137-p2s12w2">
 <src.rf>manual</src.rf>

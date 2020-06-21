@@ -29,7 +29,7 @@
 <LM>w#w-lnd94104-115-p1s2w1</LM>
 </w.rf>
 <form>Ostroj</form>
-<tag lemma="Ostroj_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ostroj_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-115-p1s2w2">
 <src.rf>manual</src.rf>
@@ -57,12 +57,12 @@
 <form_change>spell</form_change>
 <form>Štýrský</form>
 <tag>
-<AM lemma="Štýrský_;S" src="orig">AAIS1----1A----</AM>
-<AM lemma="Štýrský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Štýrský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Štýrský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Štýrský_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Štýrský_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Štýrský_;Y" src="orig">AAIS1----1A----</AM>
+<AM lemma="Štýrský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Štýrský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Štýrský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Štýrský_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Štýrský_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="štýrský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="štýrský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="štýrský" src="auto">AAFP5----1A---6</AM>

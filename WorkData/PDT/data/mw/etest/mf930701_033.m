@@ -70,8 +70,8 @@
 </w.rf>
 <form>rů</form>
 <tag>
-<AM lemma="rů-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rů-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rů-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rů-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-033-p2s1w4">
@@ -373,7 +373,7 @@
 <LM>w#w-mf930701-033-p2s3w11</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930701-033-p2s3w12">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-mf930701-033-p2s3w26</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930701-033-p2s3w27">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-mf930701-033-p2s4w9</LM>
 </w.rf>
 <form>Benzina</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-033-p2s4w10">
 <src.rf>manual</src.rf>

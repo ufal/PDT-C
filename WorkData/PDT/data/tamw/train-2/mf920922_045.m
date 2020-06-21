@@ -78,9 +78,9 @@
 </w.rf>
 <form>sob</form>
 <tag>
-<AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-045-p2s1w4">
@@ -164,7 +164,7 @@
 </w.rf>
 <form>DP</form>
 <tag>
-<AM lemma="DP-1_:B_;K_;b_;y_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DP-1_:B_;m_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="DP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -198,7 +198,7 @@
 <LM>w#w-mf920922-045-p2s2w12</LM>
 </w.rf>
 <form>Maršálkovi</form>
-<tag lemma="Maršálek_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Maršálek_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf920922-045-p2s2w13">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-mf920922-045-p2s2w19</LM>
 </w.rf>
 <form>Mládek</form>
-<tag lemma="Mládek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mládek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-045-p2s2w20">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-mf920922-045-p2s3w3</LM>
 </w.rf>
 <form>Maršálka</form>
-<tag lemma="Maršálek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maršálek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-045-p2s3w4">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 </w.rf>
 <form>DP</form>
 <tag>
-<AM lemma="DP-1_:B_;K_;b_;y_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DP-1_:B_;m_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="DP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

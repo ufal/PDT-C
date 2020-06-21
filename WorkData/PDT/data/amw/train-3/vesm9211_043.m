@@ -205,7 +205,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-043-p2s1w4">
@@ -224,7 +224,7 @@
 <form>Vilím</form>
 <tag>
 <AM lemma="Vilím_;Y_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vilím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vilím_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-043-p2s1w6">
@@ -781,7 +781,7 @@
 </w.rf>
 <form>Contents</form>
 <tag>
-<AM lemma="content_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="content_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Contents-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1446,8 +1446,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-043-p3s5w8">
@@ -3738,7 +3738,7 @@
 <LM>w#w-vesm9211-043-p8s1w4</LM>
 </w.rf>
 <form>Turčičová</form>
-<tag lemma="Turčičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Turčičová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-043-p8s1w5">
 <src.rf>manual</src.rf>

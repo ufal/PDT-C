@@ -38,7 +38,7 @@
 </w.rf>
 <form>Juniors</form>
 <tag>
-<AM lemma="Juniors_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Juniors_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Juniors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -58,7 +58,7 @@
 <form>Sao</form>
 <tag>
 <AM lemma="Sao_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Sao-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -163,7 +163,7 @@
 <form>Buenos</form>
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -236,7 +236,7 @@
 <form>Sao</form>
 <tag>
 <AM lemma="Sao_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Sao-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -507,7 +507,7 @@
 </w.rf>
 <form>Masters</form>
 <tag>
-<AM lemma="Masters_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Masters_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Masters-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -534,7 +534,7 @@
 </w.rf>
 <form>CONMEBOL</form>
 <tag>
-<AM lemma="CONMEBOL-1_:B_;K_,t_^(Confederatión_Sudamericana_de_Fútbol)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CONMEBOL-1_:B_;m_,t_^(Confederatión_Sudamericana_de_Fútbol)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CONMEBOL-77" src="manual">F%-------------</AM>
 <AM lemma="CONMEBOL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -555,7 +555,7 @@
 <LM>w#w-mf930709-090-p3s1Aw1</LM>
 </w.rf>
 <form>Pelého</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-090-p3s1Aw2">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-mf930709-090-p3s2w1</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-090-p3s2w2">
 <src.rf>manual</src.rf>

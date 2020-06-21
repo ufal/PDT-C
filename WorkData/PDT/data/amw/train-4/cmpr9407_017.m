@@ -508,7 +508,7 @@
 <LM>w#w-cmpr9407-017-p4s2w20</LM>
 </w.rf>
 <form>Kofa</form>
-<tag lemma="Kofa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kofa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-017-p4s2w21">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <form>Kubín</form>
 <tag>
 <AM lemma="Kubín-1_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kubín-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kubín-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -611,7 +611,7 @@
 <LM>w#w-cmpr9407-017-p8s1w1</LM>
 </w.rf>
 <form>Kofa</form>
-<tag lemma="Kofa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kofa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-017-p8s1w2">
 <src.rf>manual</src.rf>
@@ -1549,7 +1549,7 @@
 <LM>w#w-cmpr9407-017-p10s4w12</LM>
 </w.rf>
 <form>Kofa</form>
-<tag lemma="Kofa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kofa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-017-p10s4w13">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-cmpr9407-017-p12s2w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-017-p12s2w5">
 <src.rf>manual</src.rf>
@@ -2497,7 +2497,7 @@
 <LM>w#w-cmpr9407-017-p13s2w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-017-p13s2w11">
 <src.rf>manual</src.rf>
@@ -5351,7 +5351,7 @@
 <LM>w#w-cmpr9407-017-p18s1w2</LM>
 </w.rf>
 <form>Kofu</form>
-<tag lemma="Kofa_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Kofa_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9407-017-p18s1w3">
 <src.rf>manual</src.rf>
@@ -6430,7 +6430,7 @@
 <LM>w#w-cmpr9407-017-p20s1w3</LM>
 </w.rf>
 <form>Kofa</form>
-<tag lemma="Kofa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kofa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-017-p20s1w4">
 <src.rf>manual</src.rf>
@@ -6446,7 +6446,7 @@
 <LM>w#w-cmpr9407-017-p20s1w5</LM>
 </w.rf>
 <form>Baranova</form>
-<tag lemma="Baranův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Baranův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9407-017-p20s1w6">
 <src.rf>manual</src.rf>

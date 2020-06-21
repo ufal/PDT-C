@@ -127,7 +127,7 @@
 <LM>w#w-lnd94105-019-p1s3w7</LM>
 </w.rf>
 <form>Gaensel</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-019-p1s3w8">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-lnd94105-019-p1s5w5</LM>
 </w.rf>
 <form>Gaensela</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-019-p1s5w6">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-019-p1s6w2">
@@ -556,7 +556,7 @@
 <LM>w#w-lnd94105-019-p1s6w3</LM>
 </w.rf>
 <form>Gaensel</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-019-p1s6w4">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 </w.rf>
 <form>DVTV</form>
 <tag>
-<AM lemma="DVTV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DVTV_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DVTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -909,7 +909,7 @@
 <LM>w#w-lnd94105-019-p1s9w2</LM>
 </w.rf>
 <form>Gaensel</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-019-p1s9w3">
 <src.rf>manual</src.rf>

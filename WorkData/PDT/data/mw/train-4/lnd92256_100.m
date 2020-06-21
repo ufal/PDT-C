@@ -35,7 +35,7 @@
 <LM>w#w-lnd92256-100-p1s1w3</LM>
 </w.rf>
 <form>RŮŽIČKOVY</form>
-<tag lemma="Růžičkův_;S_^(*2a)" src="auto" selected="1">AUFP1M---------</tag>
+<tag lemma="Růžičkův_;Y_^(*2a)" src="auto" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-lnd92256-100-p1s1w4">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-lnd92256-100-p3s2w15</LM>
 </w.rf>
 <form>Stanleyova</form>
-<tag lemma="Stanleyův_;S_^(*2)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Stanleyův_;Y_^(*2)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd92256-100-p3s2w16">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 </w.rf>
 <form>Penguins</form>
 <tag>
-<AM lemma="Penguins_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Penguins_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Penguins-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -464,8 +464,8 @@
 </w.rf>
 <form>Brett</form>
 <tag>
-<AM lemma="Brett_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brett_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Brett_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brett_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-100-p3s4w14">
@@ -474,7 +474,7 @@
 <LM>w#w-lnd92256-100-p3s4w14</LM>
 </w.rf>
 <form>Hull</form>
-<tag lemma="Hull_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hull_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p3s4w15">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-lnd92256-100-p3s5w11</LM>
 </w.rf>
 <form>Lemieuxe</form>
-<tag lemma="Lemieux_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lemieux_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p3s5w12">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-lnd92256-100-p4s1w14</LM>
 </w.rf>
 <form>Lindros</form>
-<tag lemma="Lindros_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lindros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s1w15">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-lnd92256-100-p4s2w13</LM>
 </w.rf>
 <form>Oates</form>
-<tag lemma="Oates_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oates_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-lnd92256-100-p4s2w16</LM>
 </w.rf>
 <form>Růžička</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 <LM>w#w-lnd92256-100-p4s2w23</LM>
 </w.rf>
 <form>Kvartalnov</form>
-<tag lemma="Kvartalnov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kvartalnov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1136,7 +1136,7 @@
 <LM>w#w-lnd92256-100-p4s3w8</LM>
 </w.rf>
 <form>Kovalenko</form>
-<tag lemma="Kovalenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovalenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1476,8 +1476,8 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-100-p5s1w12">
@@ -1495,8 +1495,8 @@
 </w.rf>
 <form>Y</form>
 <tag>
-<AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Y-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Y-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Y-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-100-p5s1w14">
@@ -1514,7 +1514,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

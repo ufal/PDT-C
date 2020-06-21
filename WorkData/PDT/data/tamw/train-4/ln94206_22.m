@@ -78,8 +78,8 @@
 </w.rf>
 <form>škr</form>
 <tag>
-<AM lemma="škr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="škr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="škr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="škr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-22-p2s1Aw4">
@@ -178,7 +178,7 @@
 <LM>w#w-ln94206-22-p2s1Bw10</LM>
 </w.rf>
 <form>Hysus</form>
-<tag lemma="Hysus_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hysus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-22-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln94206-22-p2s2w7</LM>
 </w.rf>
 <form>Blažke</form>
-<tag lemma="Blažke_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažke_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-22-p2s2w8">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-ln94206-22-p3s2w10</LM>
 </w.rf>
 <form>Agrofarm</form>
-<tag lemma="Agrofarm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agrofarm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-22-p3s2w11">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln94206-22-p3s2w12</LM>
 </w.rf>
 <form>Agrovysočina</form>
-<tag lemma="Agrovysočina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Agrovysočina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-22-p3s2w13">
 <src.rf>manual</src.rf>

@@ -73,7 +73,7 @@
 </w.rf>
 <form>tk</form>
 <tag>
-<AM lemma="tk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="tk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>
@@ -271,7 +271,7 @@
 <form>Kohoutek</form>
 <tag>
 <AM lemma="kohoutek-1_^(^DI*4)_(pták)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kohoutek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kohoutek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-014-p3s2w23">
@@ -299,7 +299,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

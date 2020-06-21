@@ -77,7 +77,7 @@
 <LM>w#w-ln94206-73-p2s1Aw2</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-73-p2s1B">
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln94206-73-p4s3w3</LM>
 </w.rf>
 <form>Hasana</form>
-<tag lemma="Hasan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hasan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-73-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1549,7 +1549,7 @@
 <LM>w#w-ln94206-73-p4s5w13</LM>
 </w.rf>
 <form>Jásín</form>
-<tag lemma="Jásín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jásín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-73-p4s5w14">
 <src.rf>manual</src.rf>
@@ -2322,7 +2322,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2734,10 +2734,10 @@
 </w.rf>
 <form>POLISARIO</form>
 <tag>
-<AM lemma="POLISARIO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Polisario_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Polisario_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Polisario_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="POLISARIO_:B_;m" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Polisario_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Polisario_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Polisario_;m" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p6s2w11">
@@ -3264,7 +3264,7 @@
 <LM>w#w-ln94206-73-p7s2w7</LM>
 </w.rf>
 <form>Hasana</form>
-<tag lemma="Hasan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hasan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-73-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3379,10 +3379,10 @@
 </w.rf>
 <form>Bin</form>
 <tag>
-<AM lemma="Bin_;S_,t" src="orig">NNMSX-----A----</AM>
+<AM lemma="Bin_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="bin-2_,t_^(angl._koš,_válec)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Bin_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Bin_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Bin_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Bin_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p7s3w5">
@@ -3461,7 +3461,7 @@
 <LM>w#w-ln94206-73-p7s3w13</LM>
 </w.rf>
 <form>Nahda</form>
-<tag lemma="Nahda_;K_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag lemma="Nahda_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94206-73-p7s3w14">
 <src.rf>manual</src.rf>
@@ -3682,7 +3682,7 @@
 </w.rf>
 <form>Amnesty</form>
 <tag>
-<AM lemma="Amnesty_;K_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Amnesty_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Amnesty_^(Amnesty_International)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Amnesty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3694,8 +3694,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3715,9 +3715,9 @@
 </w.rf>
 <form>AI</form>
 <tag>
-<AM lemma="AI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AI_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AI_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Ai_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Ai_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="AI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3800,9 +3800,9 @@
 </w.rf>
 <form>AI</form>
 <tag>
-<AM lemma="AI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AI_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AI_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Ai_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Ai_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="AI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

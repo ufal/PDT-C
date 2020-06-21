@@ -329,7 +329,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-024-p3s3w8">
@@ -346,7 +346,7 @@
 <LM>w#w-lnd92254-024-p3s3w9</LM>
 </w.rf>
 <form>Vandlíkové</form>
-<tag lemma="Vandlíková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vandlíková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-024-p3s3w10">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-lnd92254-024-p3s7w14</LM>
 </w.rf>
 <form>Greenpeace</form>
-<tag lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="greenpeace_;m_,t_^(ekologické_hnutí)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92254-024-p3s7w15">
 <src.rf>manual</src.rf>

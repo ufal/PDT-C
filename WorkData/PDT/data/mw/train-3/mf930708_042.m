@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-042-p1s1w1</LM>
 </w.rf>
 <form>Richter</form>
-<tag lemma="Richter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Richter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-042-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-042-p1s1w3</LM>
 </w.rf>
 <form>Grieg</form>
-<tag lemma="Grieg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grieg_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-042-p2s1">
@@ -61,7 +61,7 @@
 <LM>w#w-mf930708-042-p2s1w3</LM>
 </w.rf>
 <form>vd</form>
-<tag lemma="vd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="vd-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-042-p2s1w4">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-mf930708-042-p2s1w10</LM>
 </w.rf>
 <form>Richter</form>
-<tag lemma="Richter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Richter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-042-p2s1w11">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-mf930708-042-p2s1w20</LM>
 </w.rf>
 <form>Dvořákově</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf930708-042-p2s1w21">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-mf930708-042-p2s2w11</LM>
 </w.rf>
 <form>Griegovi</form>
-<tag lemma="Grieg_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Grieg_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930708-042-p2s2w12">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 </w.rf>
 <form>FOK</form>
 <tag>
-<AM lemma="FOK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FOK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="FOK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

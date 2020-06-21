@@ -430,7 +430,7 @@
 </w.rf>
 <form>Trade</form>
 <tag>
-<AM lemma="Trade_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Trade_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="trade_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Trade-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -442,8 +442,8 @@
 </w.rf>
 <form>Centre</form>
 <tag>
-<AM lemma="Centre_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Centre_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Centre_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Centre_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="centr_^(sport:_přihrávka)" src="auto">NNIS5-----A----</AM>
 <AM lemma="centre_,t" src="auto">XX-------------</AM>
 <AM lemma="centre_,t" src="manual">NNXXX-----A----</AM>
@@ -1383,7 +1383,7 @@
 <LM>w#w-ln95049-103-p4s2w12</LM>
 </w.rf>
 <form>Vocelova</form>
-<tag lemma="Vocelův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Vocelův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95049-103-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1481,7 +1481,7 @@
 <LM>w#w-ln95049-103-p4s3w7</LM>
 </w.rf>
 <form>Interkamera</form>
-<tag lemma="Interkamera_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Interkamera_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-103-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1727,7 +1727,7 @@
 <LM>w#w-ln95049-103-p5s1w22</LM>
 </w.rf>
 <form>Zlámal</form>
-<tag lemma="Zlámal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlámal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-103-p5s1w23">
 <src.rf>manual</src.rf>

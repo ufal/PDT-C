@@ -78,7 +78,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -654,7 +654,7 @@
 <LM>w#w-mf920923-121-p3s2w2</LM>
 </w.rf>
 <form>Vranitzky</form>
-<tag lemma="Vranitzky_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vranitzky_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-121-p3s2w3">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1273,7 +1273,7 @@
 <LM>w#w-mf920923-121-p4s2w7</LM>
 </w.rf>
 <form>Lubbers</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-121-p4s2w8">
 <src.rf>manual</src.rf>

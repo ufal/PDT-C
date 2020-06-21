@@ -311,7 +311,7 @@
 <LM>w#w-mf930709-021-p2s1Bw29</LM>
 </w.rf>
 <form>Contex</form>
-<tag lemma="Contex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Contex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-mf930709-021-p2s2w2</LM>
 </w.rf>
 <form>Contexu</form>
-<tag lemma="Contex_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Contex_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s2w3">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-mf930709-021-p2s5w8</LM>
 </w.rf>
 <form>Contexu</form>
-<tag lemma="Contex_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Contex_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-mf930709-021-p2s7w3</LM>
 </w.rf>
 <form>Contexu</form>
-<tag lemma="Contex_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Contex_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-mf930709-021-p2s9w1</LM>
 </w.rf>
 <form>Contex</form>
-<tag lemma="Contex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Contex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-mf930709-021-p2s9w12</LM>
 </w.rf>
 <form>Enving</form>
-<tag lemma="Enving_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Enving_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s9w13">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-mf930709-021-p2s11w2</LM>
 </w.rf>
 <form>Contexu</form>
-<tag lemma="Contex_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Contex_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 <LM>w#w-mf930709-021-p2s11w20</LM>
 </w.rf>
 <form>Enving</form>
-<tag lemma="Enving_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Enving_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s11w21">
 <src.rf>manual</src.rf>
@@ -2013,7 +2013,7 @@
 <LM>w#w-mf930709-021-p2s13w2</LM>
 </w.rf>
 <form>Contexu</form>
-<tag lemma="Contex_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Contex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s13w3">
 <src.rf>manual</src.rf>

@@ -62,8 +62,8 @@
 </w.rf>
 <form>hd</form>
 <tag>
-<AM lemma="hd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hd-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hd-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hd-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-090-p2s1w4">
@@ -136,7 +136,7 @@
 <LM>w#w-mf930702-090-p2s1w12</LM>
 </w.rf>
 <form>Kočař</form>
-<tag lemma="Kočař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p2s1w13">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-mf930702-090-p2s1w14</LM>
 </w.rf>
 <form>Milichovský</form>
-<tag lemma="Milichovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Milichovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p2s1w15">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-mf930702-090-p2s1w16</LM>
 </w.rf>
 <form>Matula</form>
-<tag lemma="Matula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p2s1w17">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -317,7 +317,7 @@
 <LM>w#w-mf930702-090-p2s2w6</LM>
 </w.rf>
 <form>Seidl</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p2s2w7">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-mf930702-090-p3s2w14</LM>
 </w.rf>
 <form>Rider</form>
-<tag lemma="Rider_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rider_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-mf930702-090-p3s2w31</LM>
 </w.rf>
 <form>Rider</form>
-<tag lemma="Rider_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rider_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p3s2w32">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-mf930702-090-p3s3w1</LM>
 </w.rf>
 <form>Kočař</form>
-<tag lemma="Kočař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf930702-090-p3s4w3</LM>
 </w.rf>
 <form>Kořan</form>
-<tag lemma="Kořan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kořan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-mf930702-090-p3s4w9</LM>
 </w.rf>
 <form>Rider</form>
-<tag lemma="Rider_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rider_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-090-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1313,7 +1313,7 @@
 <LM>w#w-mf930702-090-p3s4w11</LM>
 </w.rf>
 <form>Simonsem</form>
-<tag lemma="Simons_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Simons_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-090-p3s4w12">
 <src.rf>manual</src.rf>

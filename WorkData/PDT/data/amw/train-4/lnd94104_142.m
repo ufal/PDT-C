@@ -111,7 +111,7 @@
 <LM>w#w-lnd94104-142-p1s3w6</LM>
 </w.rf>
 <form>Mečiarova</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd94104-142-p1s3w7">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-lnd94104-142-p1s3w19</LM>
 </w.rf>
 <form>Sabotů</form>
-<tag lemma="Sabota_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Sabota_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94104-142-p1s3w20">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-lnd94104-142-p1s8w10</LM>
 </w.rf>
 <form>Mečiarovy</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94104-142-p1s8w11">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-lnd94104-142-p1s9w5</LM>
 </w.rf>
 <form>Pittnera</form>
-<tag lemma="Pittner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pittner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-142-p1s9w6">
 <src.rf>manual</src.rf>

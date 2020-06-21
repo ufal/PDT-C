@@ -62,12 +62,12 @@
 </w.rf>
 <form>Kunce</form>
 <tag>
-<AM lemma="Kunce_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kunce_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kunka_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Kunka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p2s1Aw2">
@@ -92,7 +92,7 @@
 <LM>w#w-ln94202-97-p2s1Aw4</LM>
 </w.rf>
 <form>Čechem</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-97-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -143,8 +143,8 @@
 </w.rf>
 <form>tob</form>
 <tag>
-<AM lemma="tob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p2s1Bw4">
@@ -308,12 +308,12 @@
 </w.rf>
 <form>Kunce</form>
 <tag>
-<AM lemma="Kunce_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kunce_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kunka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Kunka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Kunc_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p2s1Cw19">
@@ -404,7 +404,7 @@
 <LM>w#w-ln94202-97-p2s2w10</LM>
 </w.rf>
 <form>Reichelem</form>
-<tag lemma="Reichel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Reichel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-97-p2s2w11">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln94202-97-p2s2w13</LM>
 </w.rf>
 <form>Guldou</form>
-<tag lemma="Gulda_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gulda_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-97-p2s2w14">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-ln94202-97-p2s2w16</LM>
 </w.rf>
 <form>Hockem</form>
-<tag lemma="Hocke_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hocke_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-97-p2s2w17">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94202-97-p2s3w4</LM>
 </w.rf>
 <form>Kingstona</form>
-<tag lemma="Kingston-2_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kingston-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-97-p2s3w5">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln94202-97-p2s3w9</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-97-p2s3w10">
 <src.rf>manual</src.rf>
@@ -641,12 +641,12 @@
 </w.rf>
 <form>Kunce</form>
 <tag>
-<AM lemma="Kunce_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kunce_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kunka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Kunka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Kunc_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p3s1w3">
@@ -1492,12 +1492,12 @@
 </w.rf>
 <form>Kunce</form>
 <tag>
-<AM lemma="Kunce_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kunce_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kunka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Kunka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Kunc_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kunc_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Kunc_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p3s5w8">
@@ -1679,8 +1679,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p3s5w30">
@@ -1706,8 +1706,8 @@
 </w.rf>
 <form>Izvestijí</form>
 <tag>
-<AM lemma="Izvestija_;K_;w_,t" src="auto">NNFP2-----A----</AM>
-<AM lemma="Izvestija_;K" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="auto">NNFP2-----A----</AM>
+<AM lemma="Izvestija_;m" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p3s5w33">
@@ -1783,8 +1783,8 @@
 </w.rf>
 <form>Hedosu</form>
 <tag>
-<AM lemma="Hedosu_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Hedosu_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Hedosu_;m_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Hedosu_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-97-p3s6w7">
@@ -1857,7 +1857,7 @@
 <LM>w#w-ln94202-97-p3s6w15</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-97-p3s6w16">
 <src.rf>manual</src.rf>
@@ -1897,7 +1897,7 @@
 <LM>w#w-ln94202-97-p3s6w20</LM>
 </w.rf>
 <form>Kuncemu</form>
-<tag lemma="Kunce_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kunce_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-97-p3s6w21">
 <src.rf>manual</src.rf>

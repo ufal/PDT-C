@@ -73,8 +73,8 @@
 </w.rf>
 <form>Sanchezová</form>
 <tag>
-<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-019-p2s1Aw3">
@@ -91,7 +91,7 @@
 <LM>w#w-ln95040-019-p2s1Aw4</LM>
 </w.rf>
 <form>Vicariová</form>
-<tag lemma="Vicariová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vicariová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-019-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -321,8 +321,8 @@
 </w.rf>
 <form>Sanchezová</form>
 <tag>
-<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-019-p2s1Cw20">
@@ -339,7 +339,7 @@
 <LM>w#w-ln95040-019-p2s1Cw21</LM>
 </w.rf>
 <form>Vicariová</form>
-<tag lemma="Vicariová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vicariová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-019-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 </w.rf>
 <form>WTA</form>
 <tag>
-<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WTA-1_:B_;m_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1047,8 +1047,8 @@
 </w.rf>
 <form>Sanchezová</form>
 <tag>
-<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-019-p4s1w3">
@@ -1065,7 +1065,7 @@
 <LM>w#w-ln95040-019-p4s1w4</LM>
 </w.rf>
 <form>Vicariová</form>
-<tag lemma="Vicariová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vicariová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-019-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-ln95040-019-p4s1w17</LM>
 </w.rf>
 <form>Selešové</form>
-<tag lemma="Selešová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Selešová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-019-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-ln95040-019-p4s1w21</LM>
 </w.rf>
 <form>Grafové</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-019-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1606,8 +1606,8 @@
 </w.rf>
 <form>Sanchezová</form>
 <tag>
-<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-019-p4s4w15">
@@ -1624,7 +1624,7 @@
 <LM>w#w-ln95040-019-p4s4w16</LM>
 </w.rf>
 <form>Vicariová</form>
-<tag lemma="Vicariová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vicariová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-019-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1865,7 +1865,7 @@
 <LM>w#w-ln95040-019-p4s6w8</LM>
 </w.rf>
 <form>Pierceovou</form>
-<tag lemma="Pierceová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Pierceová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95040-019-p4s6w9">
 <src.rf>manual</src.rf>
@@ -1937,7 +1937,7 @@
 <LM>w#w-ln95040-019-p4s6w17</LM>
 </w.rf>
 <form>Grafovou</form>
-<tag lemma="Grafová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Grafová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95040-019-p4s6w18">
 <src.rf>manual</src.rf>

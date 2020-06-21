@@ -27,7 +27,7 @@
 <LM>w#w-mf930703-023-p1s1w2</LM>
 </w.rf>
 <form>Adast</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-023-p1s1w3">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-mf930703-023-p2s1w11</LM>
 </w.rf>
 <form>Adast</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-023-p2s1w12">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <form>Hlavatý</form>
 <tag>
 <AM lemma="hlavatý" src="orig">AAMS1----1A----</AM>
-<AM lemma="Hlavatý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hlavatý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-023-p2s3w19">
@@ -1696,7 +1696,7 @@
 <LM>w#w-mf930703-023-p3s1w21</LM>
 </w.rf>
 <form>Adastu</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf930703-023-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <LM>w#w-mf930703-023-p3s4w1</LM>
 </w.rf>
 <form>Adast</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-023-p3s4w2">
 <src.rf>manual</src.rf>
@@ -2437,7 +2437,7 @@
 <LM>w#w-mf930703-023-p4s2w20</LM>
 </w.rf>
 <form>Adast</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-023-p4s2w21">
 <src.rf>manual</src.rf>
@@ -2608,7 +2608,7 @@
 </w.rf>
 <form>JmVaK</form>
 <tag>
-<AM lemma="JmVaK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JmVaK_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="JmVaK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2763,7 +2763,7 @@
 </w.rf>
 <form>JmVaK</form>
 <tag>
-<AM lemma="JmVaK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JmVaK_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="JmVaK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -62,7 +62,7 @@
 </w.rf>
 <form>tma</form>
 <tag>
-<AM lemma="tma-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="tma-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="tma" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -375,7 +375,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

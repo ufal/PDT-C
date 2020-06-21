@@ -86,8 +86,8 @@
 </w.rf>
 <form>il</form>
 <tag>
-<AM lemma="il-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="il-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="il-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="il-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p2s1Aw4">
@@ -139,7 +139,7 @@
 </w.rf>
 <form>KCF</form>
 <tag>
-<AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KCF_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -149,7 +149,7 @@
 <LM>w#w-ln94211-29-p2s1Bw5</LM>
 </w.rf>
 <form>Petrol</form>
-<tag lemma="Petrol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Petrol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -304,8 +304,8 @@
 </w.rf>
 <form>IOC</form>
 <tag>
-<AM lemma="IOC-3_:B_;K_,t_^(International_Oil_Consortium)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="IOC-1_:B_;K_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IOC-3_:B_;m_,t_^(International_Oil_Consortium)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="IOC-1_:B_;m_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IOC-2_:B_,t_^(input-output_controller)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="IOC_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IOC-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -342,7 +342,7 @@
 </w.rf>
 <form>Agip</form>
 <tag>
-<AM lemma="Agip_;K" src="orig" selected="1">NNISX-----A----</AM>
+<AM lemma="Agip_;m" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Agip_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Agip_;Y" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -362,8 +362,8 @@
 </w.rf>
 <form>Conoco</form>
 <tag>
-<AM lemma="Conoco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Conoco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Conoco_;m_,t" src="auto">NNNS1-----A----</AM>
+<AM lemma="Conoco_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p2s2w18">
@@ -381,8 +381,8 @@
 </w.rf>
 <form>Shell</form>
 <tag>
-<AM lemma="Shell_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Shell-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Shell_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Shell-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="shell" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="shell" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -401,7 +401,7 @@
 <LM>w#w-ln94211-29-p2s2w21</LM>
 </w.rf>
 <form>Total</form>
-<tag lemma="Total_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Total_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p2s2w22">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-ln94211-29-p2s2w28</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p2s2w29">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-ln94211-29-p2s2w36</LM>
 </w.rf>
 <form>Inekon</form>
-<tag lemma="Inekon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Inekon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p2s2w37">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 </w.rf>
 <form>KCF</form>
 <tag>
-<AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KCF_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -565,7 +565,7 @@
 <LM>w#w-ln94211-29-p3s1w2</LM>
 </w.rf>
 <form>Petrol</form>
-<tag lemma="Petrol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Petrol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s1w3">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-ln94211-29-p3s1w12</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s1w13">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-ln94211-29-p3s1w14</LM>
 </w.rf>
 <form>Inekon</form>
-<tag lemma="Inekon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Inekon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s1w15">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s2w5">
@@ -849,7 +849,7 @@
 <LM>w#w-ln94211-29-p3s2w6</LM>
 </w.rf>
 <form>Černík</form>
-<tag lemma="Černík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s2w7">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-ln94211-29-p3s2w13</LM>
 </w.rf>
 <form>Inekon</form>
-<tag lemma="Inekon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Inekon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s2w14">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 </w.rf>
 <form>KCF</form>
 <tag>
-<AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KCF_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -982,7 +982,7 @@
 <LM>w#w-ln94211-29-p3s3w8</LM>
 </w.rf>
 <form>Petrol</form>
-<tag lemma="Petrol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Petrol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1015,9 +1015,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s3w13">
@@ -1059,7 +1059,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1088,7 +1088,7 @@
 </w.rf>
 <form>KCF</form>
 <tag>
-<AM lemma="KCF_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KCF_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KCF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1098,7 +1098,7 @@
 <LM>w#w-ln94211-29-p3s4w3</LM>
 </w.rf>
 <form>Petrol</form>
-<tag lemma="Petrol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Petrol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1416,7 +1416,7 @@
 <LM>w#w-ln94211-29-p3s5w22</LM>
 </w.rf>
 <form>Černík</form>
-<tag lemma="Černík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s5w23">
 <src.rf>manual</src.rf>
@@ -1549,7 +1549,7 @@
 <LM>w#w-ln94211-29-p3s6w11</LM>
 </w.rf>
 <form>Inekon</form>
-<tag lemma="Inekon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Inekon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s6w12">
 <src.rf>manual</src.rf>
@@ -1602,7 +1602,7 @@
 <LM>w#w-ln94211-29-p3s7w5</LM>
 </w.rf>
 <form>Inekon</form>
-<tag lemma="Inekon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Inekon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s7w6">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-ln94211-29-p3s7w12</LM>
 </w.rf>
 <form>Černík</form>
-<tag lemma="Černík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s7w13">
 <src.rf>manual</src.rf>
@@ -1695,7 +1695,7 @@
 <LM>w#w-ln94211-29-p3s8w3</LM>
 </w.rf>
 <form>Inekonu</form>
-<tag lemma="Inekon_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Inekon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s8w4">
 <src.rf>manual</src.rf>

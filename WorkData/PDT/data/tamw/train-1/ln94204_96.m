@@ -191,7 +191,7 @@
 <LM>w#w-ln94204-96-p2s2w5</LM>
 </w.rf>
 <form>Gruši</form>
-<tag lemma="Gruša_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gruša_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-96-p2s2w6">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94204-96-p2s2w9</LM>
 </w.rf>
 <form>Součka</form>
-<tag lemma="Souček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Souček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-96-p2s2w10">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-ln94204-96-p2s2w15</LM>
 </w.rf>
 <form>Blair</form>
-<tag lemma="Blair_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blair_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-96-p2s2w16">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <form>Diviše</form>
 <tag>
 <AM lemma="Diviš_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Diviš_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Diviš_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-96-p2s2w19">
@@ -330,7 +330,7 @@
 <LM>w#w-ln94204-96-p2s2w22</LM>
 </w.rf>
 <form>Tesaře</form>
-<tag lemma="Tesař_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tesař_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-96-p2s2w23">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-ln94204-96-p2s5w5</LM>
 </w.rf>
 <form>Šiktance</form>
-<tag lemma="Šiktanc_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šiktanc_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-96-p2s5w6">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-ln94204-96-p2s6w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94204-96-p2s6w6">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-ln94204-96-p2s6w16</LM>
 </w.rf>
 <form>Hronovského</form>
-<tag lemma="Hronovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hronovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-96-p2s6w17">
 <src.rf>manual</src.rf>
@@ -968,10 +968,10 @@
 </w.rf>
 <form>šek</form>
 <tag>
-<AM lemma="šek-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šek-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="šek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="šek" src="auto">NNIS4-----A----</AM>
-<AM lemma="šek-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šek-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-96-p2s7w3">

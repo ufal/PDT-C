@@ -346,7 +346,7 @@
 <LM>w#w-lnd91301-102-p4s2w5</LM>
 </w.rf>
 <form>Sportky</form>
-<tag lemma="Sportka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sportka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-102-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1542,7 +1542,7 @@
 <LM>w#w-lnd91301-102-p6s1w11</LM>
 </w.rf>
 <form>Nyč</form>
-<tag lemma="Nyč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nyč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-102-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1591,7 +1591,7 @@
 <LM>w#w-lnd91301-102-p6s1w17</LM>
 </w.rf>
 <form>Benc</form>
-<tag lemma="Benc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-102-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1656,7 +1656,7 @@
 <LM>w#w-lnd91301-102-p6s1w25</LM>
 </w.rf>
 <form>Runggaldir</form>
-<tag lemma="Runggaldir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Runggaldir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-102-p6s1w26">
 <src.rf>manual</src.rf>
@@ -1765,7 +1765,7 @@
 <LM>w#w-lnd91301-102-p8s1w8</LM>
 </w.rf>
 <form>Inter</form>
-<tag lemma="Inter_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Inter_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91301-102-p8s1w9">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 </w.rf>
 <form>LUV</form>
 <tag>
-<AM lemma="LUV_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="LUV_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="LUV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1876,7 +1876,7 @@
 </w.rf>
 <form>DSV</form>
 <tag>
-<AM lemma="DSV_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DSV_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="DSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1887,7 +1887,7 @@
 </w.rf>
 <form>Alpine</form>
 <tag>
-<AM lemma="Alpine_;K" src="auto">NNNSX-----A----</AM>
+<AM lemma="Alpine_;m" src="auto">NNNXX-----A----</AM>
 <AM lemma="Alpine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1930,12 +1930,12 @@
 </w.rf>
 <form>Flavii</form>
 <tag>
-<AM lemma="Flavia_;K" src="orig" selected="1">NNFS3-----A----</AM>
+<AM lemma="Flavia_;m" src="orig" selected="1">NNFS3-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Flavius_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Flavius_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Flavius_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Flavius_;Y" src="auto">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-102-p8s1w28">
@@ -1945,7 +1945,7 @@
 </w.rf>
 <form>Solva</form>
 <tag>
-<AM lemma="Solva_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Solva_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Solva-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

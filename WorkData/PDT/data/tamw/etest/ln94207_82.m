@@ -5080,7 +5080,7 @@
 <LM>w#w-ln94207-82-p5s1Cw3</LM>
 </w.rf>
 <form>Altmann</form>
-<tag lemma="Altmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Altmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-82-p5s1Cw4">
 <src.rf>manual</src.rf>
@@ -5104,7 +5104,7 @@
 <LM>w#w-ln94207-82-p5s1Cw6</LM>
 </w.rf>
 <form>Šmídová</form>
-<tag lemma="Šmídová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šmídová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

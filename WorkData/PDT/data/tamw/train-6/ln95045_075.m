@@ -372,7 +372,7 @@
 <LM>w#w-ln95045-075-p2s2w10</LM>
 </w.rf>
 <form>Soukup</form>
-<tag lemma="Soukup_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soukup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-075-p2s2w11">
 <src.rf>manual</src.rf>

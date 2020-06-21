@@ -72,7 +72,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -309,7 +309,7 @@
 <LM>w#w-lnd92256-016-p3s2w27</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-016-p3s2w28">
 <src.rf>manual</src.rf>

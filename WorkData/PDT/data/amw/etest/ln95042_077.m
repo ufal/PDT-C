@@ -51,7 +51,7 @@
 <LM>w#w-ln95042-077-p1s1w5</LM>
 </w.rf>
 <form>McDonald</form>
-<tag lemma="McDonald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McDonald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-077-p1s1w6">
 <src.rf>manual</src.rf>
@@ -68,7 +68,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -226,7 +226,7 @@
 <LM>w#w-ln95042-077-p2s1Bw15</LM>
 </w.rf>
 <form>McDonald</form>
-<tag lemma="McDonald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McDonald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-077-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -344,7 +344,7 @@
 <LM>w#w-ln95042-077-p2s2w8</LM>
 </w.rf>
 <form>Prokšíková</form>
-<tag lemma="Prokšíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Prokšíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-077-p2s2w9">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-ln95042-077-p2s5w17</LM>
 </w.rf>
 <form>McDonald</form>
-<tag lemma="McDonald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McDonald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-077-p2s5w18">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

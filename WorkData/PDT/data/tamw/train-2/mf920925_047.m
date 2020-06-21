@@ -121,7 +121,7 @@
 <LM>w#w-mf920925-047-p2s2Bw3</LM>
 </w.rf>
 <form>Sokola</form>
-<tag lemma="Sokol-2_;K_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Sokol-2_;m_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920925-047-p2s2Bw4">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 </w.rf>
 <form>Arms</form>
 <tag>
-<AM lemma="Arm_;K_,t" src="orig">NNXPX-----A----</AM>
+<AM lemma="Arm_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Arms-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

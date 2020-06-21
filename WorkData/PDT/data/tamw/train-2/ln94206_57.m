@@ -20,8 +20,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p1s1w2">
@@ -117,8 +117,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p2s1Cw3">
@@ -271,7 +271,7 @@
 <LM>w#w-ln94206-57-p2s1Cw22</LM>
 </w.rf>
 <form>Špígl</form>
-<tag lemma="Špígl_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Špígl_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-57-p2s1Cw23">
 <src.rf>manual</src.rf>
@@ -346,8 +346,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p2s2w6">
@@ -399,7 +399,7 @@
 <LM>w#w-ln94206-57-p2s2w11</LM>
 </w.rf>
 <form>Levý</form>
-<tag lemma="Levý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Levý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-57-p2s2w12">
 <src.rf>manual</src.rf>
@@ -434,8 +434,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p3s1w4">
@@ -452,7 +452,7 @@
 <LM>w#w-ln94206-57-p3s1w5</LM>
 </w.rf>
 <form>Žežulková</form>
-<tag lemma="Žežulková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Žežulková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-57-p3s1w6">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-ln94206-57-p3s1w22</LM>
 </w.rf>
 <form>Špíglu</form>
-<tag lemma="Špígl_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Špígl_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-57-p3s1w23">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-ln94206-57-p3s2w11</LM>
 </w.rf>
 <form>Ransdorfa</form>
-<tag lemma="Ransdorf_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ransdorf_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-57-p3s2w12">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-ln94206-57-p4s1w22</LM>
 </w.rf>
 <form>Špíglu</form>
-<tag lemma="Špígl_;K" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Špígl_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94206-57-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-ln94206-57-p4s1w28</LM>
 </w.rf>
 <form>Žežulková</form>
-<tag lemma="Žežulková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Žežulková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-57-p4s1w29">
 <src.rf>manual</src.rf>

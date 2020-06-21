@@ -86,8 +86,8 @@
 </w.rf>
 <form>jsl</form>
 <tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-076-p2s1w4">
@@ -460,7 +460,7 @@
 <LM>w#w-mf930708-076-p2s3w19</LM>
 </w.rf>
 <form>Kahánek</form>
-<tag lemma="Kahánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kahánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s3w20">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-mf930708-076-p2s3w24</LM>
 </w.rf>
 <form>Zycha</form>
-<tag lemma="Zych_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Zych_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s3w25">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-mf930708-076-p2s4w11</LM>
 </w.rf>
 <form>Veselá</form>
-<tag lemma="Veselá_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Veselá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s4w12">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-mf930708-076-p2s4w21</LM>
 </w.rf>
 <form>Šnapková</form>
-<tag lemma="Šnapková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šnapková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s4w22">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-mf930708-076-p2s6w6</LM>
 </w.rf>
 <form>Morsutová</form>
-<tag lemma="Morsutová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Morsutová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s6w7">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-mf930708-076-p2s6w15</LM>
 </w.rf>
 <form>Procházková</form>
-<tag lemma="Procházková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Procházková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s6w16">
 <src.rf>manual</src.rf>

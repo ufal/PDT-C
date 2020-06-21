@@ -65,7 +65,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -76,7 +76,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -219,7 +219,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -230,7 +230,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1374,8 +1374,8 @@
 </w.rf>
 <form>Anděl</form>
 <tag>
-<AM lemma="Anděl_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anděl_;G_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Anděl_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Anděl_;G_;Y" src="manual">NNMS1-----A----</AM>
 <AM lemma="Anděl-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -1603,9 +1603,9 @@
 </w.rf>
 <form>Anděl</form>
 <tag>
-<AM lemma="Anděl_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Anděl_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Anděl_;G" src="manual">NNMS1-----A----</AM>
-<AM lemma="Anděl_;G_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Anděl_;G_;Y" src="manual">NNMS1-----A----</AM>
 <AM lemma="Anděl-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -1747,8 +1747,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-65-p3s10w11">
@@ -1775,9 +1775,9 @@
 <form>Háje</form>
 <tag>
 <AM lemma="Háje_;G" src="orig" selected="1">NNIP1-----A----</AM>
-<AM lemma="Háj_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Háj_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Háj_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Háj_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Háj_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Háj_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="háj_^(př._zelený_háj)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="háj_^(př._zelený_háj)" src="auto">NNIP4-----A----</AM>
 <AM lemma="háj_^(př._zelený_háj)" src="auto">NNIP5-----A----</AM>

@@ -321,7 +321,7 @@
 <LM>w#w-mf930702-115-p4s2w4</LM>
 </w.rf>
 <form>Zlenko</form>
-<tag lemma="Zlenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-115-p4s2w5">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-mf930702-115-p5s3w7</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-115-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2304,7 +2304,7 @@
 <LM>w#w-mf930702-115-p7s3w11</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-115-p7s3w12">
 <src.rf>manual</src.rf>

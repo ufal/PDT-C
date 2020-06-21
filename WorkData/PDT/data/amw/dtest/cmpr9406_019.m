@@ -78,8 +78,8 @@
 </w.rf>
 <form>PANASONIC</form>
 <tag>
-<AM lemma="Panasonic_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Panasonic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Panasonic_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Panasonic_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-019-p2s1w6">
@@ -88,7 +88,7 @@
 <LM>w#w-cmpr9406-019-p2s1w6</LM>
 </w.rf>
 <form>PANAFAX</form>
-<tag lemma="Panafax_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Panafax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-019-p2s1w7">
 <src.rf>manual</src.rf>
@@ -97,8 +97,8 @@
 </w.rf>
 <form>UF</form>
 <tag>
-<AM lemma="UF-98_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="UF_:B_;K_^(Sjednocená_fronta)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="UF-98_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UF_:B_;m_^(Sjednocená_fronta)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Ufa_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="UFO-1_:B_,h_,t_,x_^(unidentified_flying_object)" src="auto">NNNP2-----A----</AM>
 <AM lemma="uf" src="auto" recommended="1">II-------------</AM>
@@ -198,7 +198,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-019-p4s1w6">
@@ -572,7 +572,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-019-p8s2Aw6">

@@ -148,7 +148,7 @@
 <form>Care</form>
 <tag>
 <AM lemma="care-2_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Carus_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Carus_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="care_,t" src="auto">XX-------------</AM>
 <AM lemma="care_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Care-77" src="manual" selected="1">F%-------------</AM>
@@ -170,9 +170,9 @@
 <form>RC</form>
 <tag>
 <AM lemma="RC-4_:B_;m_,t_^(Responsible_Care)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RC-1_:B_;K_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RC-1_:B_;m_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RC-2_:B_;m_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="RC-3_:B_;m_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -276,9 +276,9 @@
 <form>RC</form>
 <tag>
 <AM lemma="RC-4_:B_;m_,t_^(Responsible_Care)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RC-1_:B_;K_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RC-1_:B_;m_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RC-2_:B_;m_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="RC-3_:B_;m_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -525,7 +525,7 @@
 <LM>w#w-ln95049-140-p3s1w10</LM>
 </w.rf>
 <form>Zíka</form>
-<tag lemma="Zíka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zíka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-140-p3s1w11">
 <src.rf>manual</src.rf>
@@ -559,9 +559,9 @@
 <form>RC</form>
 <tag>
 <AM lemma="RC-4_:B_;m_,t_^(Responsible_Care)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RC-1_:B_;K_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RC-1_:B_;m_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RC-2_:B_;m_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="RC-3_:B_;m_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -613,7 +613,7 @@
 </w.rf>
 <form>CEFIC</form>
 <tag>
-<AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFIC_:B_;m_,t_^(Mez._org._svazů_chemie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -762,7 +762,7 @@
 </w.rf>
 <form>ISO</form>
 <tag>
-<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-1_:B_;m_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ISO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -954,7 +954,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p4s1w2">
@@ -971,7 +971,7 @@
 <LM>w#w-ln95049-140-p4s1w3</LM>
 </w.rf>
 <form>Zíka</form>
-<tag lemma="Zíka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zíka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-140-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1117,9 +1117,9 @@
 <form>RC</form>
 <tag>
 <AM lemma="RC-4_:B_;m_,t_^(Responsible_Care)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RC-1_:B_;K_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RC-1_:B_;m_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RC-2_:B_;m_,t_^(Rotary_Club)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RC-3_:B_;m_,t_^(Radio_Collegium)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="RC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1465,7 +1465,7 @@
 <LM>w#w-ln95049-140-p6s1w2</LM>
 </w.rf>
 <form>Zíky</form>
-<tag lemma="Zíka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zíka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-140-p6s1w3">
 <src.rf>manual</src.rf>

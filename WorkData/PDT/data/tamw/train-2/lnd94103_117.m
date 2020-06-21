@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-117-p1s1Aw1</LM>
 </w.rf>
 <form>Musil</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 </w.rf>
 <form>di</form>
 <tag>
-<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di_;G_;Y_,t" src="auto">RR--X----------</AM>
 <AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -156,7 +156,7 @@
 <LM>w#w-lnd94103-117-p1s2Aw5</LM>
 </w.rf>
 <form>tob</form>
-<tag lemma="tob-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="tob-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-117-p1s2Aw6">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-lnd94103-117-p1s2Bw39</LM>
 </w.rf>
 <form>Musila</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s2Bw40">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 </w.rf>
 <form>Flames</form>
 <tag>
-<AM lemma="Flames_;K" src="orig">NNISX-----A----</AM>
+<AM lemma="Flames_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Flames-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -739,7 +739,7 @@
 </w.rf>
 <form>di</form>
 <tag>
-<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di_;G_;Y_,t" src="auto">RR--X----------</AM>
 <AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -826,7 +826,7 @@
 <LM>w#w-lnd94103-117-p1s3w8</LM>
 </w.rf>
 <form>Stanleyův</form>
-<tag lemma="Stanleyův_;S_^(*2)" src="auto" selected="1">AUIS4M---------</tag>
+<tag lemma="Stanleyův_;Y_^(*2)" src="auto" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd94103-117-p1s3w9">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 </w.rf>
 <form>Canuks</form>
 <tag>
-<AM lemma="Canuk_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Canuk_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Canuks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1281,7 +1281,7 @@
 <LM>w#w-lnd94103-117-p1s6w9</LM>
 </w.rf>
 <form>Reichla</form>
-<tag lemma="Reichl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reichl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s6w10">
 <src.rf>manual</src.rf>
@@ -1659,7 +1659,7 @@
 <LM>w#w-lnd94103-117-p1s9Bw2</LM>
 </w.rf>
 <form>Musil</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s9Bw3">
 <src.rf>manual</src.rf>
@@ -1723,7 +1723,7 @@
 <LM>w#w-lnd94103-117-p1s9Bw10</LM>
 </w.rf>
 <form>Reichla</form>
-<tag lemma="Reichl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reichl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s9Bw11">
 <src.rf>manual</src.rf>
@@ -2105,7 +2105,7 @@
 <LM>w#w-lnd94103-117-p1s12Aw15</LM>
 </w.rf>
 <form>Holíka</form>
-<tag lemma="Holík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Holík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s12Aw16">
 <src.rf>manual</src.rf>
@@ -2193,7 +2193,7 @@
 <LM>w#w-lnd94103-117-p1s12Bw2</LM>
 </w.rf>
 <form>Musil</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-117-p1s12Bw3">
 <src.rf>manual</src.rf>
@@ -2373,7 +2373,7 @@
 </w.rf>
 <form>di</form>
 <tag>
-<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di_;G_;Y_,t" src="auto">RR--X----------</AM>
 <AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

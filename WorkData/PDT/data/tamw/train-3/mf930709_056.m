@@ -21,7 +21,7 @@
 <form>Europa</form>
 <tag>
 <AM lemma="Europa-3_;m_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Europa-1_;S" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Europa-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Europa-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Europa_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Europa-77" src="manual" selected="1">F%-------------</AM>
@@ -35,7 +35,7 @@
 <form>Cantat</form>
 <tag>
 <AM lemma="Cantat_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Cantat_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cantat_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Cantat_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Cantat-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -410,7 +410,7 @@
 <LM>w#w-mf930709-056-p1s3w13</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="Alfa_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Alfa_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-056-p1s3w14">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 </w.rf>
 <form>Beat</form>
 <tag>
-<AM lemma="Beat_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Beat_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Beata_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="beat" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="beat" src="auto">NNIS4-----A----</AM>
@@ -458,7 +458,7 @@
 </w.rf>
 <form>AVU</form>
 <tag>
-<AM lemma="AVU_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AVU_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="AVU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

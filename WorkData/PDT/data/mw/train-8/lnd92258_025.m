@@ -451,7 +451,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-025-p3s4w6">
@@ -468,7 +468,7 @@
 <LM>w#w-lnd92258-025-p3s4w7</LM>
 </w.rf>
 <form>Friče</form>
-<tag lemma="Frič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Frič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-025-p3s4w8">
 <src.rf>manual</src.rf>

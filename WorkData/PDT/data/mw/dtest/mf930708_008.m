@@ -95,7 +95,7 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-008-p2s1w4">
@@ -548,7 +548,7 @@
 <LM>w#w-mf930708-008-p3s2w6</LM>
 </w.rf>
 <form>Pospíšilová</form>
-<tag lemma="Pospíšilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pospíšilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-008-p3s2w7">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-mf930708-008-p4s1w7</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-008-p4s1w8">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-mf930708-008-p4s1w11</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-008-p4s1w12">
 <src.rf>manual</src.rf>

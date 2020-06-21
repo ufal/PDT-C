@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-65-p1s1w1</LM>
 </w.rf>
 <form>Ames</form>
-<tag lemma="Ames_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ames_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-65-p1s1w2">
 <src.rf>manual</src.rf>
@@ -44,8 +44,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p1s1w5">
@@ -114,7 +114,7 @@
 <LM>w#w-ln94200-65-p2s1Bw4</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -211,8 +211,8 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-1_:B_;K_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw17">
@@ -223,7 +223,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw18">
@@ -240,7 +240,7 @@
 <LM>w#w-ln94200-65-p2s1Bw19</LM>
 </w.rf>
 <form>Ames</form>
-<tag lemma="Ames_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ames_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -313,8 +313,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw29">
@@ -376,8 +376,8 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CIA-1_:B_;K_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw36">
@@ -396,7 +396,7 @@
 <LM>w#w-ln94200-65-p2s2w1</LM>
 </w.rf>
 <form>Ames</form>
-<tag lemma="Ames_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ames_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-65-p2s2w2">
 <src.rf>manual</src.rf>
@@ -503,8 +503,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s3w8">
@@ -521,7 +521,7 @@
 <LM>w#w-ln94200-65-p2s3w9</LM>
 </w.rf>
 <form>Amese</form>
-<tag lemma="Ames_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ames_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-65-p2s3w10">
 <src.rf>manual</src.rf>
@@ -562,8 +562,8 @@
 </w.rf>
 <form>FBI</form>
 <tag>
-<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FBI_:B_;K_^(Fed._Bureau_of_Investigation)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBI_:B_;m_^(Fed._Bureau_of_Investigation)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-65-p2s3w15">
@@ -606,7 +606,7 @@
 <LM>w#w-ln94200-65-p2s4w4</LM>
 </w.rf>
 <form>Ames</form>
-<tag lemma="Ames_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ames_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-65-p2s4w5">
 <src.rf>manual</src.rf>

@@ -177,7 +177,7 @@
 </w.rf>
 <form>WHO</form>
 <tag>
-<AM lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WHO_:B_;U_;m_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -420,8 +420,8 @@
 </w.rf>
 <form>Jaime</form>
 <tag>
-<AM lemma="Jaime_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jaime_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jaime_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jaime_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-060-p2s3w4">
@@ -430,7 +430,7 @@
 <LM>w#w-lnd92258-060-p2s3w4</LM>
 </w.rf>
 <form>Paz</form>
-<tag lemma="Paz-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paz-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-060-p2s3w5">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-lnd92258-060-p2s3w5</LM>
 </w.rf>
 <form>Zamora</form>
-<tag lemma="Zamora_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zamora_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-060-p2s3w6">
 <src.rf>manual</src.rf>

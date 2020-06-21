@@ -32,7 +32,7 @@
 <form>Vydra</form>
 <tag>
 <AM lemma="vydra" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="Vydra_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Vydra_;Y" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-059-p1s1w3">
@@ -758,7 +758,7 @@
 <LM>w#w-ln95048-059-p3s1w1</LM>
 </w.rf>
 <form>Turnerova</form>
-<tag lemma="Turnerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Turnerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95048-059-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1672,7 +1672,7 @@
 <LM>w#w-ln95048-059-p5s1w23</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln95048-059-p5s1w24">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <LM>w#w-ln95048-059-p5s2w1</LM>
 </w.rf>
 <form>Turnerova</form>
-<tag lemma="Turnerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Turnerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95048-059-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2063,7 +2063,7 @@
 <LM>w#w-ln95048-059-p6s1w11</LM>
 </w.rf>
 <form>Turnerovy</form>
-<tag lemma="Turnerův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Turnerův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95048-059-p6s1w12">
 <src.rf>manual</src.rf>
@@ -2087,7 +2087,7 @@
 <LM>w#w-ln95048-059-p6s1w14</LM>
 </w.rf>
 <form>Peera</form>
-<tag lemma="Peer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Peer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-059-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2434,9 +2434,9 @@
 </w.rf>
 <form>Hones</form>
 <tag>
-<AM lemma="Hones_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hones_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hones-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hones_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hones_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hones-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-059-p6s2w40">
@@ -2917,7 +2917,7 @@
 <LM>w#w-ln95048-059-p8s1w1</LM>
 </w.rf>
 <form>Turnerova</form>
-<tag lemma="Turnerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Turnerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95048-059-p8s1w2">
 <src.rf>manual</src.rf>
@@ -3213,7 +3213,7 @@
 <LM>w#w-ln95048-059-p8s3w11</LM>
 </w.rf>
 <form>Peer</form>
-<tag lemma="Peer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-059-p8s3w12">
 <src.rf>manual</src.rf>
@@ -3253,7 +3253,7 @@
 <LM>w#w-ln95048-059-p8s3w16</LM>
 </w.rf>
 <form>Budvar</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-059-p8s3w17">
 <src.rf>manual</src.rf>
@@ -3523,11 +3523,11 @@
 </w.rf>
 <form>Honese</form>
 <tag>
-<AM lemma="Hones_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Hones_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Hones_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Hones_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hones-2_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Hones_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Hones_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Hones_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Hones_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Hones-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-059-p8s4w24">
@@ -3958,7 +3958,7 @@
 <LM>w#w-ln95048-059-p9s1w10</LM>
 </w.rf>
 <form>Turnerově</form>
-<tag lemma="Turnerův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Turnerův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln95048-059-p9s1w11">
 <src.rf>manual</src.rf>
@@ -4631,7 +4631,7 @@
 <LM>w#w-ln95048-059-p10s1w14</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-059-p10s1w15">
 <src.rf>manual</src.rf>
@@ -5169,7 +5169,7 @@
 <LM>w#w-ln95048-059-p10s3w25</LM>
 </w.rf>
 <form>Peer</form>
-<tag lemma="Peer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-059-p10s3w26">
 <src.rf>manual</src.rf>

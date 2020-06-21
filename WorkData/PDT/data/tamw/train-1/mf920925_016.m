@@ -61,7 +61,7 @@
 <LM>w#w-mf920925-016-p2s1w3</LM>
 </w.rf>
 <form>jem</form>
-<tag lemma="jem-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jem-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920925-016-p2s1w4">
 <src.rf>manual</src.rf>
@@ -188,7 +188,7 @@
 <LM>w#w-mf920925-016-p2s3w4</LM>
 </w.rf>
 <form>Fendrych</form>
-<tag lemma="Fendrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fendrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-016-p2s3w5">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -510,7 +510,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-016-p2s4w4">
@@ -527,7 +527,7 @@
 <LM>w#w-mf920925-016-p2s4w5</LM>
 </w.rf>
 <form>Fendrych</form>
-<tag lemma="Fendrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fendrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-016-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1104,7 +1104,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-016-p2s7w18">
@@ -1121,7 +1121,7 @@
 <LM>w#w-mf920925-016-p2s7w19</LM>
 </w.rf>
 <form>Fendrych</form>
-<tag lemma="Fendrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fendrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-016-p2s7w20">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-mf920925-016-p2s10w6</LM>
 </w.rf>
 <form>Kopřiva</form>
-<tag lemma="Kopřiva_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kopřiva_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-016-p2s10w7">
 <src.rf>manual</src.rf>
@@ -1552,7 +1552,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

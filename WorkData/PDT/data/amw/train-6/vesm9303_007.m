@@ -1225,7 +1225,7 @@
 <LM>w#w-vesm9303-007-p2s1w20</LM>
 </w.rf>
 <form>b</form>
-<tag lemma="b-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="b-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-vesm9303-007-p2s1w21">
 <src.rf>manual</src.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-vesm9303-007-p2s1w27</LM>
 </w.rf>
 <form>c</form>
-<tag lemma="c-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="c-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-vesm9303-007-p2s1w28">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <LM>w#w-vesm9303-007-p2s4w12</LM>
 </w.rf>
 <form>Leniny</form>
-<tag lemma="Lenin-2_;S" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Lenin-2_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-vesm9303-007-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1935,8 +1935,8 @@
 </w.rf>
 <form>Dzeržinské</form>
 <tag>
-<AM lemma="Dzeržinskij_;S" src="orig">NNMP4-----A----</AM>
-<AM lemma="Dzeržinský_;S" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
+<AM lemma="Dzeržinskij_;Y" src="orig">NNMP4-----A----</AM>
+<AM lemma="Dzeržinský_;Y" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 <AM lemma="dzeržinský" src="auto">AAFP1----1A----</AM>
 <AM lemma="dzeržinský" src="auto">AAFP4----1A----</AM>
 <AM lemma="dzeržinský" src="auto">AAFP5----1A----</AM>
@@ -2297,7 +2297,7 @@
 <LM>w#w-vesm9303-007-p2s4w59</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-vesm9303-007-p2s4w60">
 <src.rf>manual</src.rf>
@@ -2749,7 +2749,7 @@
 <LM>w#w-vesm9303-007-p2s6w15</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-vesm9303-007-p2s6w16">
 <src.rf>manual</src.rf>
@@ -2994,7 +2994,7 @@
 <LM>w#w-vesm9303-007-p3s1w2</LM>
 </w.rf>
 <form>Janoušek</form>
-<tag lemma="Janoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-007-p3s1w3">
 <src.rf>manual</src.rf>
@@ -3018,7 +3018,7 @@
 <LM>w#w-vesm9303-007-p3s1w5</LM>
 </w.rf>
 <form>Beran</form>
-<tag lemma="Beran_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beran_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-007-p3s1w6">
 <src.rf>manual</src.rf>
@@ -3042,7 +3042,7 @@
 <LM>w#w-vesm9303-007-p3s1w8</LM>
 </w.rf>
 <form>Vecek</form>
-<tag lemma="Vecek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vecek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-007-p3s1w9">
 <src.rf>manual</src.rf>
@@ -3066,7 +3066,7 @@
 <LM>w#w-vesm9303-007-p3s1w11</LM>
 </w.rf>
 <form>Ondříčková</form>
-<tag lemma="Ondříčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ondříčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -1459,7 +1459,7 @@
 <LM>w#w-ln94203-1-p4s1w20</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-1-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1613,7 +1613,7 @@
 <LM>w#w-ln94203-1-p4s2w18</LM>
 </w.rf>
 <form>aminocukrů</form>
-<tag lemma="aminocukr_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="aminocukr_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-1-p4s2w19">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 </w.rf>
 <form>Mir</form>
 <tag>
-<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
 <AM lemma="mír_^(opak_války)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -2512,7 +2512,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -2738,7 +2738,7 @@
 <LM>w#w-ln94203-1-p6s1w12</LM>
 </w.rf>
 <form>Barentsova</form>
-<tag lemma="Barentsův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Barentsův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94203-1-p6s1w13">
 <src.rf>manual</src.rf>
@@ -2788,7 +2788,7 @@
 <LM>w#w-ln94203-1-p6s2w2</LM>
 </w.rf>
 <form>Hauge</form>
-<tag lemma="Hauge_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hauge_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-1-p6s2w3">
 <src.rf>manual</src.rf>
@@ -2829,9 +2829,9 @@
 </w.rf>
 <form>Bellona</form>
 <tag>
-<AM lemma="Bellona_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="Bellon_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bellon_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Bellona_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bellon_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Bellon_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-1-p6s2w8">
@@ -3544,7 +3544,7 @@
 <LM>w#w-ln94203-1-p7s2w7</LM>
 </w.rf>
 <form>Solotkova</form>
-<tag lemma="Solotkov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Solotkov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-1-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3608,7 +3608,7 @@
 <LM>w#w-ln94203-1-p7s2w15</LM>
 </w.rf>
 <form>Hauge</form>
-<tag lemma="Hauge_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hauge_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-1-p7s2w16">
 <src.rf>manual</src.rf>
@@ -3704,7 +3704,7 @@
 <LM>w#w-ln94203-1-p7s2w27</LM>
 </w.rf>
 <form>Barentsově</form>
-<tag lemma="Barentsův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Barentsův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94203-1-p7s2w28">
 <src.rf>manual</src.rf>
@@ -4322,7 +4322,7 @@
 </w.rf>
 <form>bo</form>
 <tag>
-<AM lemma="bo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bo-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="bo-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

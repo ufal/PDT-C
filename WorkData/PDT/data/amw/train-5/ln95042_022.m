@@ -28,7 +28,7 @@
 </w.rf>
 <form>NLN</form>
 <tag>
-<AM lemma="NLN_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="NLN_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

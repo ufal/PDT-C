@@ -75,7 +75,7 @@
 <LM>w#w-ln94200-102-p2s1Bw2</LM>
 </w.rf>
 <form>Lindaurová</form>
-<tag lemma="Lindaurová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lindaurová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-102-p2s1C">
@@ -109,7 +109,7 @@
 <LM>w#w-ln94200-102-p2s1Cw4</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-102-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <form>Daniela</form>
 <tag>
 <AM lemma="Daniel_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Daniel_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Daniel_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-102-p2s4w6">
@@ -933,7 +933,7 @@
 <LM>w#w-ln94200-102-p2s6w14</LM>
 </w.rf>
 <form>Tigridův</form>
-<tag lemma="Tigridův-1_;S_^(*4-1)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Tigridův-1_;Y_^(*4-1)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln94200-102-p2s6w15">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-ln94200-102-p2s6w16</LM>
 </w.rf>
 <form>Kabát</form>
-<tag lemma="Kabát_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kabát_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-102-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 <LM>w#w-ln94200-102-p3s1w4</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-102-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1434,7 +1434,7 @@
 <form>Danielových</form>
 <tag>
 <AM lemma="Danielův_;Y_^(*2)" src="orig">AUMP2M---------</AM>
-<AM lemma="Danielův_;S_;Y_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
+<AM lemma="Danielův_;Y_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94200-102-p3s3w13">
@@ -1874,7 +1874,7 @@
 <LM>w#w-ln94200-102-p3s5w28</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-102-p3s5w29">
 <src.rf>manual</src.rf>
@@ -1906,7 +1906,7 @@
 <LM>w#w-ln94200-102-p3s5w32</LM>
 </w.rf>
 <form>Kabátův</form>
-<tag lemma="Kabátův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Kabátův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94200-102-p3s5w33">
 <src.rf>manual</src.rf>

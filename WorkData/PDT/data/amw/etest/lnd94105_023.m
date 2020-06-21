@@ -54,7 +54,7 @@
 </w.rf>
 <form>pet</form>
 <tag>
-<AM lemma="pet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -265,7 +265,7 @@
 <LM>w#w-lnd94105-023-p1s4w10</LM>
 </w.rf>
 <form>Šimánek</form>
-<tag lemma="Šimánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-023-p1s4w11">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

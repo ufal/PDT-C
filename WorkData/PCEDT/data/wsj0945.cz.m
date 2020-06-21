@@ -57,15 +57,15 @@
 </w.rf>
 <form>Hale</form>
 <tag>
-<AM lemma="Hal_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Hale-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hale-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Hale-1_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Hale-2_;Y_,t" src="auto">NNFSX-----A----</AM>
+<AM lemma="Hal_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Hale-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hale-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Hale-1_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Hale-2_;Y_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="hala" src="auto">NNFS3-----A----</AM>
 <AM lemma="hala" src="auto">NNFS6-----A----</AM>
 <AM lemma="halit" src="auto">VeYS------A-I--</AM>
-<AM lemma="Hale-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hale-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s0W3-Ta">
@@ -76,7 +76,7 @@
 <form>Milgrim</form>
 <tag>
 <AM lemma="Milgrim" src="auto">X@-------------</AM>
-<AM lemma="Milgrim_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Milgrim_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s0W4-Ta">
@@ -379,7 +379,7 @@
 <form>Milgrim</form>
 <tag>
 <AM lemma="Milgrim" src="auto">X@-------------</AM>
-<AM lemma="Milgrim_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Milgrim_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s1W2-Ta">
@@ -420,8 +420,8 @@
 </w.rf>
 <form>Bermana</form>
 <tag>
-<AM lemma="Berman_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Berman_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Berman_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Berman_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s1W6-Ta">

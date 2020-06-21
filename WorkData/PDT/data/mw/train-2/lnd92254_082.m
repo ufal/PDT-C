@@ -65,8 +65,8 @@
 <AM lemma="do_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ad-99_:B_;S" src="manual">NNXXX-----A---8</AM>
-<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ad-99_:B_;Y" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-082-p2s1w4">
@@ -125,7 +125,7 @@
 <LM>w#w-lnd92254-082-p2s2w5</LM>
 </w.rf>
 <form>Bonalyová</form>
-<tag lemma="Bonalyová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bonalyová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-082-p2s2w6">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-lnd92254-082-p2s2w13</LM>
 </w.rf>
 <form>Satoová</form>
-<tag lemma="Satoová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Satoová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-082-p2s2w14">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-lnd92254-082-p2s4w9</LM>
 </w.rf>
 <form>Kulované</form>
-<tag lemma="Kulovaná_;S_^(*1ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kulovaná_;Y_^(*1ý)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-082-p2s4w10">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-lnd92254-082-p2s4w25</LM>
 </w.rf>
 <form>Kovaříková</form>
-<tag lemma="Kovaříková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kovaříková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-082-p2s4w26">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-lnd92254-082-p2s4w27</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-082-p2s4w28">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <LM>w#w-lnd92254-082-p2s4w41</LM>
 </w.rf>
 <form>Rodninovové</form>
-<tag lemma="Rodninovová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Rodninovová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-082-p2s4w42">
 <src.rf>manual</src.rf>

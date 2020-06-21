@@ -325,7 +325,7 @@
 </w.rf>
 <form>Oravainen</form>
 <tag>
-<AM lemma="Oravainen_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oravainen_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oravainen_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Oravainen_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
@@ -344,7 +344,7 @@
 <LM>w#w-ln94208-113-p3s2w7</LM>
 </w.rf>
 <form>Viitala</form>
-<tag lemma="Viitala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Viitala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-113-p3s2w8">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-ln94208-113-p3s2w9</LM>
 </w.rf>
 <form>Parantainen</form>
-<tag lemma="Parantainen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Parantainen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-113-p3s2w10">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-ln94208-113-p3s2w11</LM>
 </w.rf>
 <form>Vepsalainen</form>
-<tag lemma="Vepsalainen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vepsalainen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-113-p3s2w12">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-ln94208-113-p3s2w13</LM>
 </w.rf>
 <form>Laitinen</form>
-<tag lemma="Laitinen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Laitinen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-113-p3s2w14">
 <src.rf>manual</src.rf>

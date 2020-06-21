@@ -454,7 +454,7 @@
 <LM>w#w-lnd91303-009-p2s2w14</LM>
 </w.rf>
 <form>Jelcinovi</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91303-009-p2s2w15">
 <src.rf>manual</src.rf>
@@ -1306,8 +1306,8 @@
 </w.rf>
 <form>Zviada</form>
 <tag>
-<AM lemma="Zviada_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Zviad_;Y_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Zviada_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zviad_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-009-p4s2w19">
@@ -1316,7 +1316,7 @@
 <LM>w#w-lnd91303-009-p4s2w19</LM>
 </w.rf>
 <form>Gamsachurdiu</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91303-009-p4s2w20">
 <src.rf>manual</src.rf>
@@ -2787,7 +2787,7 @@
 </w.rf>
 <form>KEBS</form>
 <tag>
-<AM lemma="KEBS-1_:B_;K_^(Konference_o_evrop._bezpečnosti_a_spolup.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KEBS-1_:B_;m_^(Konference_o_evrop._bezpečnosti_a_spolup.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KEBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2813,7 +2813,7 @@
 <LM>w#w-lnd91303-009-p7s3w17</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-lnd91303-009-p7s3w18">
 <src.rf>manual</src.rf>
@@ -3408,7 +3408,7 @@
 <LM>w#w-lnd91303-009-p8s3w17</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-009-p8s3w18">
 <src.rf>manual</src.rf>
@@ -3506,7 +3506,7 @@
 <LM>w#w-lnd91303-009-p8s4w5</LM>
 </w.rf>
 <form>Kravčuka</form>
-<tag lemma="Kravčuk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kravčuk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-009-p8s4w6">
 <src.rf>manual</src.rf>
@@ -3620,7 +3620,7 @@
 <LM>w#w-lnd91303-009-p8s5w1</LM>
 </w.rf>
 <form>Kravčuk</form>
-<tag lemma="Kravčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kravčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-009-p8s5w2">
 <src.rf>manual</src.rf>

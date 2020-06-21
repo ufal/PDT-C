@@ -37,7 +37,7 @@
 <form>Grant</form>
 <tag>
 <AM lemma="grant" src="orig">NNIS1-----A----</AM>
-<AM lemma="Grant-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Grant-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-020-p1s1w4">
@@ -46,7 +46,7 @@
 <LM>w#w-ln95044-020-p1s1w4</LM>
 </w.rf>
 <form>Jennings</form>
-<tag lemma="Jennings_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jennings_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-020-p1s1w5">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-ln95044-020-p1s1w12</LM>
 </w.rf>
 <form>Buffala</form>
-<tag lemma="Buffalo-2_;K_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95044-020-p1s1w13">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-ln95044-020-p1s1w14</LM>
 </w.rf>
 <form>Rayem</form>
-<tag lemma="Ray_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ray_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-020-p1s1w15">
 <src.rf>manual</src.rf>

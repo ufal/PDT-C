@@ -89,8 +89,8 @@
 </w.rf>
 <form>jsl</form>
 <tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-004-p2s1w4">
@@ -301,7 +301,7 @@
 <LM>w#w-mf920922-004-p2s2w24</LM>
 </w.rf>
 <form>Rozen</form>
-<tag lemma="Rozen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rozen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-004-p2s2w25">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-mf920922-004-p2s3w2</LM>
 </w.rf>
 <form>Rozen</form>
-<tag lemma="Rozen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rozen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-004-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-mf920922-004-p2s6w21</LM>
 </w.rf>
 <form>Rozen</form>
-<tag lemma="Rozen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rozen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-004-p2s6w22">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-mf920922-004-p2s6w27</LM>
 </w.rf>
 <form>Smejkal</form>
-<tag lemma="Smejkal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smejkal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-004-p2s6w28">
 <src.rf>manual</src.rf>
@@ -1386,7 +1386,7 @@
 <LM>w#w-mf920922-004-p2s8w2</LM>
 </w.rf>
 <form>Rozen</form>
-<tag lemma="Rozen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rozen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-004-p2s8w3">
 <src.rf>manual</src.rf>

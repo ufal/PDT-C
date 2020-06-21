@@ -56,7 +56,7 @@
 <LM>w#w-lnd94104-110-p1s2w1</LM>
 </w.rf>
 <form>Tarabiniová</form>
-<tag lemma="Tarabiniová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tarabiniová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-110-p1s2w2">
 <src.rf>manual</src.rf>

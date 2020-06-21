@@ -35,7 +35,7 @@
 <LM>w#w-lnd92255-033-p1s1w3</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-033-p1s1w4">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd92255-033-p1s2w18</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-033-p1s2w19">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-lnd92255-033-p1s3w5</LM>
 </w.rf>
 <form>Clintonovi</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd92255-033-p1s3w6">
 <src.rf>manual</src.rf>

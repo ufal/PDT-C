@@ -84,10 +84,10 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="jab-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jab-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jab_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="jab_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="jab-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-015-p3s1w4">
@@ -328,7 +328,7 @@
 </w.rf>
 <form>ÖAMTC</form>
 <tag>
-<AM lemma="ÖAMTC-1_:B_;K_,t_^(Öster._Autom.-Motorrad-und_Touring_Club)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÖAMTC-1_:B_;m_,t_^(Öster._Autom.-Motorrad-und_Touring_Club)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÖAMTC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -410,7 +410,7 @@
 <LM>w#w-lnd92259-015-p3s3w18</LM>
 </w.rf>
 <form>BESIPem</form>
-<tag lemma="BESIP_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="BESIP_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92259-015-p3s3w19">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-015-p3s5w32">
@@ -862,7 +862,7 @@
 <LM>w#w-lnd92259-015-p3s5w33</LM>
 </w.rf>
 <form>Špička</form>
-<tag lemma="Špička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-015-p3s5w34">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-lnd92259-015-p3s5w36</LM>
 </w.rf>
 <form>BESIPu</form>
-<tag lemma="BESIP_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="BESIP_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92259-015-p3s5w37">
 <src.rf>manual</src.rf>

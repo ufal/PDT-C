@@ -471,7 +471,7 @@
 <LM>w#w-mf930702-013-p2s2w11</LM>
 </w.rf>
 <form>Jelínka</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-013-p2s2w12">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-mf930702-013-p2s2w14</LM>
 </w.rf>
 <form>Solaře</form>
-<tag lemma="Solař_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Solař_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-013-p2s2w15">
 <src.rf>manual</src.rf>

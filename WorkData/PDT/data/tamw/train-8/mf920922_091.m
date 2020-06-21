@@ -233,7 +233,7 @@
 <LM>w#w-mf920922-091-p2s3w11</LM>
 </w.rf>
 <form>Fiat</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920922-091-p2s3w12">
 <src.rf>manual</src.rf>
@@ -388,10 +388,10 @@
 </w.rf>
 <form>fiatu</form>
 <tag>
-<AM lemma="Fiat-2_;R_^(vozidlo)" src="orig">NNIS6-----A----</AM>
-<AM lemma="fiat-1_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="fiat-1_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="fiat-1_;R" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Fiat-2_;m_^(vozidlo)" src="orig">NNIS6-----A----</AM>
+<AM lemma="fiat-1_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="fiat-1_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="fiat-1_;m" src="auto" recommended="1">NNIS6-----A---1</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto" selected="1">NNIS6-----A---1</AM>
 </tag>

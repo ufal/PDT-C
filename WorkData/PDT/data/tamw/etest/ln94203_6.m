@@ -19,7 +19,7 @@
 <LM>w#w-ln94203-6-p1s1w1</LM>
 </w.rf>
 <form>Ekoagrobanka</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-6-p1s1w2">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-ln94203-6-p2s1w9</LM>
 </w.rf>
 <form>Ekoagrobanka</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-6-p2s1w10">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln94203-6-p3s1w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94203-6-p3s1w4">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 </w.rf>
 <form>Panenková</form>
 <tag>
-<AM lemma="Panenková_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Panenková_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="panenkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="panenkový" src="auto">AANP1----1A----</AM>
@@ -238,7 +238,7 @@
 <LM>w#w-ln94203-6-p3s1w11</LM>
 </w.rf>
 <form>Ekoagrobanky</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-6-p3s1w12">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-ln94203-6-p3s2w8</LM>
 </w.rf>
 <form>Ekoagrobanky</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-6-p3s2w9">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-6-p3s4w8">
@@ -648,9 +648,9 @@
 </w.rf>
 <form>Panenkové</form>
 <tag>
-<AM lemma="Panenková_;S" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Panenka-1_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Panenka-1_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Panenková_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Panenka-1_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Panenka-1_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="panenkový" src="auto">AAFP1----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFP4----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFP5----1A----</AM>
@@ -1049,7 +1049,7 @@
 <LM>w#w-ln94203-6-p4s3w24</LM>
 </w.rf>
 <form>Ekoagrobanka</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-6-p4s3w25">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-6-p4s3w28">
@@ -1093,9 +1093,9 @@
 </w.rf>
 <form>Panenkové</form>
 <tag>
-<AM lemma="Panenková_;S" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Panenka-1_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Panenka-1_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Panenková_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Panenka-1_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Panenka-1_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="panenkový" src="auto">AAFP1----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFP4----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFP5----1A----</AM>
@@ -1302,7 +1302,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-6-p5s2w3">
@@ -1320,7 +1320,7 @@
 </w.rf>
 <form>Panenková</form>
 <tag>
-<AM lemma="Panenková_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Panenková_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="panenkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="panenkový" src="auto">AANP1----1A----</AM>
@@ -1642,7 +1642,7 @@
 <LM>w#w-ln94203-6-p6s1w1</LM>
 </w.rf>
 <form>Ekoagrobanka</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-6-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1804,7 +1804,7 @@
 <LM>w#w-ln94203-6-p6s2w6</LM>
 </w.rf>
 <form>Ekoagrobanky</form>
-<tag lemma="Ekoagrobanka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Ekoagrobanka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-6-p6s2w7">
 <src.rf>manual</src.rf>
@@ -2138,7 +2138,7 @@
 <LM>w#w-ln94203-6-p6s5w2</LM>
 </w.rf>
 <form>ip</form>
-<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ip-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-6-p6s5w3">
 <src.rf>manual</src.rf>

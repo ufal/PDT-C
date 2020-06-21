@@ -310,7 +310,7 @@
 <LM>w#w-cmpr9416-033-p8s1w2</LM>
 </w.rf>
 <form>Zajkr</form>
-<tag lemma="Zajkr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zajkr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-033-p10s1">
@@ -1554,7 +1554,7 @@
 <LM>w#w-cmpr9416-033-p13s1w13</LM>
 </w.rf>
 <form>Hybše</form>
-<tag lemma="Hybš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hybš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-033-p13s1w14">
 <src.rf>manual</src.rf>

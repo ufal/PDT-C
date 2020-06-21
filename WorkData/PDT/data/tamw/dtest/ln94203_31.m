@@ -92,8 +92,8 @@
 </w.rf>
 <form>COMPACTA</form>
 <tag>
-<AM lemma="Compacta_;R_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Compacta_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Compacta_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Compacta_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-31-p1s1w11">
@@ -118,7 +118,7 @@
 <LM>w#w-ln94203-31-p1s1w13</LM>
 </w.rf>
 <form>Koenig</form>
-<tag lemma="Koenig_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koenig_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-31-p1s1w14">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-ln94203-31-p1s1w15</LM>
 </w.rf>
 <form>Bauer</form>
-<tag lemma="Bauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-31-p1s1w16">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <form>Albert</form>
 <tag>
 <AM lemma="Albert-1_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Albert-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Albert-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-31-p1s1w18">
@@ -296,7 +296,7 @@
 <LM>w#w-ln94203-31-p1s3w3</LM>
 </w.rf>
 <form>Merta</form>
-<tag lemma="Merta-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merta-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-31-p1s3w4">
 <src.rf>manual</src.rf>
@@ -313,8 +313,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

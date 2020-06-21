@@ -110,7 +110,7 @@
 </w.rf>
 <form>jap</form>
 <tag>
-<AM lemma="jap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jap-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="jap-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -356,7 +356,7 @@
 <LM>w#w-ln94204-57-p2s2w11</LM>
 </w.rf>
 <form>Klose</form>
-<tag lemma="Klose_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-57-p2s2w12">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln94204-57-p3s3w6</LM>
 </w.rf>
 <form>Klose</form>
-<tag lemma="Klose_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-57-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1113,7 +1113,7 @@
 <LM>w#w-ln94204-57-p4s2w2</LM>
 </w.rf>
 <form>Morgan</form>
-<tag lemma="Morgan-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morgan-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-57-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1295,7 +1295,7 @@
 <LM>w#w-ln94204-57-p5s1w3</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94204-57-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1320,9 +1320,9 @@
 </w.rf>
 <form>Kloseových</form>
 <tag>
-<AM lemma="Kloseův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</AM>
-<AM lemma="Kloseová_;S" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Kloseová_;S" src="auto">NNFP6-----A----</AM>
+<AM lemma="Kloseův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</AM>
+<AM lemma="Kloseová_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Kloseová_;Y" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-57-p5s1w7">
@@ -1523,7 +1523,7 @@
 <LM>w#w-ln94204-57-p5s3w2</LM>
 </w.rf>
 <form>Klosea</form>
-<tag lemma="Klose_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-57-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1976,7 +1976,7 @@
 <LM>w#w-ln94204-57-p6s2w21</LM>
 </w.rf>
 <form>Morgan</form>
-<tag lemma="Morgan-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morgan-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-57-p6s2w22">
 <src.rf>manual</src.rf>
@@ -2164,7 +2164,7 @@
 <LM>w#w-ln94204-57-p6s4w9</LM>
 </w.rf>
 <form>Klosea</form>
-<tag lemma="Klose_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-57-p6s4w10">
 <src.rf>manual</src.rf>
@@ -2188,7 +2188,7 @@
 <LM>w#w-ln94204-57-p6s4w12</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94204-57-p6s4w13">
 <src.rf>manual</src.rf>

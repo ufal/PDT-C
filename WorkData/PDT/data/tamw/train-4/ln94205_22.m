@@ -69,7 +69,7 @@
 <LM>w#w-ln94205-22-p2s1Aw3</LM>
 </w.rf>
 <form>AROCO</form>
-<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aroco_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <LM>w#w-ln94205-22-p2s1Cw12</LM>
 </w.rf>
 <form>AROCO</form>
-<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aroco_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94205-22-p2s2w8</LM>
 </w.rf>
 <form>Strnad</form>
-<tag lemma="Strnad_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Strnad_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p2s2w9">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-ln94205-22-p3s2w1</LM>
 </w.rf>
 <form>AROCO</form>
-<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aroco_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-ln94205-22-p4s3w3</LM>
 </w.rf>
 <form>AROCA</form>
-<tag lemma="Aroco_;K" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Aroco_;m" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94205-22-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln94205-22-p4s3w15</LM>
 </w.rf>
 <form>AROCO</form>
-<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aroco_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 <LM>w#w-ln94205-22-p5s1w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94205-22-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-ln94205-22-p6s1w1</LM>
 </w.rf>
 <form>AROCO</form>
-<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aroco_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-22-p6s2w6">
@@ -1843,7 +1843,7 @@
 <LM>w#w-ln94205-22-p6s2w7</LM>
 </w.rf>
 <form>Strnada</form>
-<tag lemma="Strnad_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Strnad_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-22-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2135,7 +2135,7 @@
 <LM>w#w-ln94205-22-p7s2w2</LM>
 </w.rf>
 <form>AROCO</form>
-<tag lemma="Aroco_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aroco_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-22-p7s2w3">
 <src.rf>manual</src.rf>
@@ -2248,7 +2248,7 @@
 </w.rf>
 <form>Aroma</form>
 <tag>
-<AM lemma="Aroma_;K" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aroma_;m" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="aróma" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="aróma" src="auto">NNNS4-----A----</AM>
 <AM lemma="aróma" src="auto">NNNS5-----A----</AM>

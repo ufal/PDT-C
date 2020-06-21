@@ -78,8 +78,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s1w4">
@@ -305,7 +305,7 @@
 </w.rf>
 <form>PRUDOM</form>
 <tag>
-<AM lemma="PRUDOM_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PRUDOM_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PRUDOM_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PRUDOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -536,7 +536,7 @@
 </w.rf>
 <form>PRUDOM</form>
 <tag>
-<AM lemma="PRUDOM_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PRUDOM_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PRUDOM_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PRUDOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -555,7 +555,7 @@
 <LM>w#w-mf930708-095-p2s2w30</LM>
 </w.rf>
 <form>Barnáková</form>
-<tag lemma="Barnáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barnáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-095-p2s2w31">
 <src.rf>manual</src.rf>

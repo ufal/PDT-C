@@ -71,7 +71,7 @@
 <LM>w#w-lnd92257-033-p3s1w3</LM>
 </w.rf>
 <form>kp</form>
-<tag lemma="kp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kp-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92257-033-p3s1w4">
 <src.rf>manual</src.rf>

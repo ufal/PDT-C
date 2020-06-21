@@ -618,7 +618,7 @@
 <LM>w#w-cmpr9413-002-p5s1w2</LM>
 </w.rf>
 <form>Hybš</form>
-<tag lemma="Hybš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hybš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-002-p5s1w3">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-cmpr9413-002-p5s1w4</LM>
 </w.rf>
 <form>Stavomont</form>
-<tag lemma="Stavomont_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stavomont_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-002-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-cmpr9413-002-p7s1w2</LM>
 </w.rf>
 <form>Duží</form>
-<tag lemma="Duží_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Duží_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-002-p7s1w3">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 </w.rf>
 <form>ETS</form>
 <tag>
-<AM lemma="ETS-1_:B_;K_,t_^(Educational_Testing_Service)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ETS-1_:B_;m_,t_^(Educational_Testing_Service)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ETS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2035,7 +2035,7 @@
 <LM>w#w-cmpr9413-002-p9s1w2</LM>
 </w.rf>
 <form>Burda</form>
-<tag lemma="Burda_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-002-p9s1w3">
 <src.rf>manual</src.rf>
@@ -2375,7 +2375,7 @@
 <LM>w#w-cmpr9413-002-p11s1w2</LM>
 </w.rf>
 <form>Petrl</form>
-<tag lemma="Petrl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-002-p11s1w3">
 <src.rf>manual</src.rf>
@@ -2391,7 +2391,7 @@
 <LM>w#w-cmpr9413-002-p11s1w4</LM>
 </w.rf>
 <form>Baucomex</form>
-<tag lemma="Baucomex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baucomex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-002-p11s1w5">
 <src.rf>manual</src.rf>

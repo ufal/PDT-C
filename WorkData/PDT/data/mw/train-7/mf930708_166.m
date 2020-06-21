@@ -422,9 +422,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-166-p2s1w40">
@@ -459,7 +459,7 @@
 <LM>w#w-mf930708-166-p3s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930708-166-p3s1w4">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-mf930708-166-p3s1w4</LM>
 </w.rf>
 <form>Thorvald</form>
-<tag lemma="Thorvald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thorvald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-166-p3s1w5">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-mf930708-166-p3s1w5</LM>
 </w.rf>
 <form>Stoltenberg</form>
-<tag lemma="Stoltenberg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoltenberg_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-166-p3s1w6">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-mf930708-166-p4s1w8</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ES_:B_;m_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf930708-166-p4s1w9">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-mf930708-166-p4s1w27</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf930708-166-p4s1w28">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-mf930708-166-p5s1w8</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-166-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <LM>w#w-mf930708-166-p5s1w10</LM>
 </w.rf>
 <form>Karadžič</form>
-<tag lemma="Karadžič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karadžič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-166-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-mf930708-166-p6s4w6</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930708-166-p6s4w7">
 <src.rf>manual</src.rf>

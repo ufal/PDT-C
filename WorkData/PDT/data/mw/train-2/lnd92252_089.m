@@ -28,7 +28,7 @@
 </w.rf>
 <form>Rush</form>
 <tag>
-<AM lemma="Rush_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rush_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -57,7 +57,7 @@
 </w.rf>
 <form>Rush</form>
 <tag>
-<AM lemma="Rush_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rush_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -182,7 +182,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual">NNXXX-----A----</AM>
 <AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -295,7 +295,7 @@
 </w.rf>
 <form>Rushovi</form>
 <tag>
-<AM lemma="Rush_;S" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Rush_;Y" src="orig">NNMS3-----A---1</AM>
 <AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
@@ -567,7 +567,7 @@
 <form>Apollonu</form>
 <tag>
 <AM lemma="Apollon_;Y" src="orig">NNMS3-----A---1</AM>
-<AM lemma="Apollon-2_;K" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="Apollon-2_;m" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-089-p2s4w19">
@@ -722,7 +722,7 @@
 <LM>w#w-lnd92252-089-p2s5w14</LM>
 </w.rf>
 <form>Hunta</form>
-<tag lemma="Hunt_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hunt_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-089-p2s5w15">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 </w.rf>
 <form>Rush</form>
 <tag>
-<AM lemma="Rush_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rush_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -907,7 +907,7 @@
 </w.rf>
 <form>Rush</form>
 <tag>
-<AM lemma="Rush_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rush_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rush-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1085,7 +1085,7 @@
 <LM>w#w-lnd92252-089-p2s6w28</LM>
 </w.rf>
 <form>Huntův</form>
-<tag lemma="Huntův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Huntův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92252-089-p2s6w29">
 <src.rf>manual</src.rf>
@@ -1168,8 +1168,8 @@
 </w.rf>
 <form>řej</form>
 <tag>
-<AM lemma="řej-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="řej-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="řej-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="řej-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-089-p3s1w3">

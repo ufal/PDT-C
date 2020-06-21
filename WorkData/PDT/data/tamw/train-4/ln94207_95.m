@@ -27,7 +27,7 @@
 <LM>w#w-ln94207-95-p1s1w2</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-95-p2s1">
@@ -993,7 +993,7 @@
 <LM>w#w-ln94207-95-p3s1w17</LM>
 </w.rf>
 <form>VARGAS</form>
-<tag lemma="Vargas_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vargas_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-ln94207-95-p3s1w18</LM>
 </w.rf>
 <form>LLOSA</form>
-<tag lemma="Llosa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Llosa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 <LM>w#w-ln94207-95-p3s1w24</LM>
 </w.rf>
 <form>PANTALEÓN</form>
-<tag lemma="Pantaleón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pantaleón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <form>Odeonu</form>
 <tag>
 <AM lemma="Odeon_;Y" src="auto">NNIS2-----A----</AM>
-<AM lemma="Odeon-2_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p3s1w37">
@@ -1168,7 +1168,7 @@
 </w.rf>
 <form>ERM</form>
 <tag>
-<AM lemma="ERM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ERM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ERM_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ERM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2138,7 +2138,7 @@
 <LM>w#w-ln94207-95-p4s3w17</LM>
 </w.rf>
 <form>Vargas</form>
-<tag lemma="Vargas_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vargas_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p4s3w18">
 <src.rf>manual</src.rf>
@@ -2146,7 +2146,7 @@
 <LM>w#w-ln94207-95-p4s3w18</LM>
 </w.rf>
 <form>Llosa</form>
-<tag lemma="Llosa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Llosa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p4s3w19">
 <src.rf>manual</src.rf>
@@ -2292,7 +2292,7 @@
 <LM>w#w-ln94207-95-p4s4w9</LM>
 </w.rf>
 <form>Vargas</form>
-<tag lemma="Vargas_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vargas_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p4s4w10">
 <src.rf>manual</src.rf>
@@ -2300,7 +2300,7 @@
 <LM>w#w-ln94207-95-p4s4w10</LM>
 </w.rf>
 <form>Llosa</form>
-<tag lemma="Llosa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Llosa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p4s4w11">
 <src.rf>manual</src.rf>
@@ -3145,7 +3145,7 @@
 <LM>w#w-ln94207-95-p5s3w12</LM>
 </w.rf>
 <form>Pantaleón</form>
-<tag lemma="Pantaleón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pantaleón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p5s3w13">
 <src.rf>manual</src.rf>
@@ -4038,7 +4038,7 @@
 <LM>w#w-ln94207-95-p6s3w8</LM>
 </w.rf>
 <form>Pantaleóna</form>
-<tag lemma="Pantaleón_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pantaleón_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-95-p6s3w9">
 <src.rf>manual</src.rf>
@@ -4461,7 +4461,7 @@
 <LM>w#w-ln94207-95-p6s6w1</LM>
 </w.rf>
 <form>Švejk</form>
-<tag lemma="Švejk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švejk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p6s6w2">
 <src.rf>manual</src.rf>
@@ -4506,7 +4506,7 @@
 <LM>w#w-ln94207-95-p7s1w1</LM>
 </w.rf>
 <form>Pantaleónovy</form>
-<tag lemma="Pantaleónův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Pantaleónův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94207-95-p7s1w2">
 <src.rf>manual</src.rf>
@@ -4562,7 +4562,7 @@
 <LM>w#w-ln94207-95-p7s1w8</LM>
 </w.rf>
 <form>Vargase</form>
-<tag lemma="Vargas_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vargas_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-95-p7s1w9">
 <src.rf>manual</src.rf>
@@ -4570,7 +4570,7 @@
 <LM>w#w-ln94207-95-p7s1w9</LM>
 </w.rf>
 <form>Llosy</form>
-<tag lemma="Llosa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Llosa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-95-p7s1w10">
 <src.rf>manual</src.rf>
@@ -4993,7 +4993,7 @@
 <LM>w#w-ln94207-95-p7s3w2</LM>
 </w.rf>
 <form>Pantaleónově</form>
-<tag lemma="Pantaleónův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Pantaleónův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94207-95-p7s3w3">
 <src.rf>manual</src.rf>
@@ -5285,7 +5285,7 @@
 <LM>w#w-ln94207-95-p7s5w5</LM>
 </w.rf>
 <form>Cortázarova</form>
-<tag lemma="Cortázarův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Cortázarův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94207-95-p7s5w6">
 <src.rf>manual</src.rf>
@@ -5421,7 +5421,7 @@
 <LM>w#w-ln94207-95-p7s5w22</LM>
 </w.rf>
 <form>Medka</form>
-<tag lemma="Medek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Medek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-95-p7s5w23">
 <src.rf>manual</src.rf>
@@ -5461,7 +5461,7 @@
 <LM>w#w-ln94207-95-p8s1w2</LM>
 </w.rf>
 <form>Vargas</form>
-<tag lemma="Vargas_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vargas_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p8s1w3">
 <src.rf>manual</src.rf>
@@ -5469,7 +5469,7 @@
 <LM>w#w-ln94207-95-p8s1w3</LM>
 </w.rf>
 <form>Llosa</form>
-<tag lemma="Llosa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Llosa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p8s1w4">
 <src.rf>manual</src.rf>
@@ -5485,7 +5485,7 @@
 <LM>w#w-ln94207-95-p8s1w5</LM>
 </w.rf>
 <form>Pantaleón</form>
-<tag lemma="Pantaleón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pantaleón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p8s1w6">
 <src.rf>manual</src.rf>
@@ -5544,7 +5544,7 @@
 </w.rf>
 <form>ERM</form>
 <tag>
-<AM lemma="ERM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ERM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ERM_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ERM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -5669,7 +5669,7 @@
 <LM>w#w-ln94207-95-p8s3w3</LM>
 </w.rf>
 <form>Medek</form>
-<tag lemma="Medek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Medek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p8s3w4">
 <src.rf>manual</src.rf>

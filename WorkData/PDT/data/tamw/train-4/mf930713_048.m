@@ -199,7 +199,7 @@
 <LM>w#w-mf930713-048-p2s1Bw15</LM>
 </w.rf>
 <form>Koníčka</form>
-<tag lemma="Koníček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koníček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-048-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-mf930713-048-p2s3w25</LM>
 </w.rf>
 <form>Koníček</form>
-<tag lemma="Koníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-048-p2s3w26">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-mf930713-048-p2s4w4</LM>
 </w.rf>
 <form>Koníčka</form>
-<tag lemma="Koníček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koníček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-048-p2s4w5">
 <src.rf>manual</src.rf>

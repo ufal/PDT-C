@@ -1470,7 +1470,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-062-p4s2w13">
@@ -1489,7 +1489,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-062-p4s2w15">
@@ -1506,7 +1506,7 @@
 <LM>w#w-ln95047-062-p4s2w16</LM>
 </w.rf>
 <form>Bacha</form>
-<tag lemma="Bach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-062-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1626,7 +1626,7 @@
 <LM>w#w-ln95047-062-p4s2w31</LM>
 </w.rf>
 <form>Haydna</form>
-<tag lemma="Haydn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Haydn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-062-p4s2w32">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <LM>w#w-ln95047-062-p4s2w48</LM>
 </w.rf>
 <form>Wagnera</form>
-<tag lemma="Wagner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wagner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-062-p4s2w49">
 <src.rf>manual</src.rf>

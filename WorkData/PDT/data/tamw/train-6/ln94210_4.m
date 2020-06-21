@@ -127,7 +127,7 @@
 <LM>w#w-ln94210-4-p2s1Bw6</LM>
 </w.rf>
 <form>Koukala</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-4-p2s1Bw7">
 <src.rf>manual</src.rf>

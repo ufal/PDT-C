@@ -54,8 +54,8 @@
 </w.rf>
 <form>luč</form>
 <tag>
-<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-940-p2s1w4">
@@ -312,7 +312,7 @@
 </w.rf>
 <form>PNS</form>
 <tag>
-<AM lemma="PNS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PNS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="PNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -338,7 +338,7 @@
 <LM>w#w-lnd91303-940-p3s2Bw13</LM>
 </w.rf>
 <form>Rosenbergových</form>
-<tag lemma="Rosenbergův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Rosenbergův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-lnd91303-940-p3s2Bw14">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-lnd91303-940-p3s2Bw15</LM>
 </w.rf>
 <form>Purkyňově</form>
-<tag lemma="Purkyňův_;S_^(*3ně)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Purkyňův_;Y_^(*3ně)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd91303-940-p3s2Bw16">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-lnd91303-940-p3s2Bw17</LM>
 </w.rf>
 <form>Králově</form>
-<tag lemma="Králův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Králův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-lnd91303-940-p3s2Bw18">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-940-p3s4w11">
@@ -716,7 +716,7 @@
 <LM>w#w-lnd91303-940-p3s4w12</LM>
 </w.rf>
 <form>Koukalem</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-940-p3s4w13">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-lnd91303-940-p3s4w22</LM>
 </w.rf>
 <form>Šmahově</form>
-<tag lemma="Šmahův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Šmahův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd91303-940-p3s4w23">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-lnd91303-940-p3s6w7</LM>
 </w.rf>
 <form>Bosanka</form>
-<tag lemma="Bosanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bosanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-940-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 </w.rf>
 <form>PNS</form>
 <tag>
-<AM lemma="PNS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PNS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="PNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1086,7 +1086,7 @@
 <LM>w#w-lnd91303-940-p3s7w6</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd91303-940-p3s7w7">
 <src.rf>manual</src.rf>
@@ -1192,7 +1192,7 @@
 <LM>w#w-lnd91303-940-p3s8w4</LM>
 </w.rf>
 <form>Bosanku</form>
-<tag lemma="Bosanka_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Bosanka_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd91303-940-p3s8w5">
 <src.rf>manual</src.rf>

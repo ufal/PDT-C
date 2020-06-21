@@ -200,7 +200,7 @@
 </w.rf>
 <form>ČSFA</form>
 <tag>
-<AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSFA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd92251-115-p2s3w9</LM>
 </w.rf>
 <form>Řepka</form>
-<tag lemma="Řepka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Řepka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s3w10">
 <src.rf>manual</src.rf>
@@ -682,7 +682,7 @@
 <LM>w#w-lnd92251-115-p2s4w17</LM>
 </w.rf>
 <form>Mádl</form>
-<tag lemma="Mádl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mádl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s4w18">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-lnd92251-115-p2s5w23</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s5w24">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-lnd92251-115-p2s5w25</LM>
 </w.rf>
 <form>Poštulka</form>
-<tag lemma="Poštulka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poštulka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-lnd92251-115-p2s5w27</LM>
 </w.rf>
 <form>Hyravý</form>
-<tag lemma="Hyravý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hyravý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s5w28">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-lnd92251-115-p2s5w29</LM>
 </w.rf>
 <form>Klejch</form>
-<tag lemma="Klejch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klejch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s5w30">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-lnd92251-115-p2s7w13</LM>
 </w.rf>
 <form>Mádla</form>
-<tag lemma="Mádl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mádl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1467,8 +1467,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-115-p2s8w17">
@@ -1905,8 +1905,8 @@
 <form>ŠVÉD</form>
 <tag>
 <AM lemma="Švéd_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Švéd-2_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Švéd_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Švéd-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

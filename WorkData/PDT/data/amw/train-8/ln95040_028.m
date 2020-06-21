@@ -104,7 +104,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -172,8 +172,8 @@
 <form>Prokopa</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS2-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-028-p2s1Bw12">
@@ -198,7 +198,7 @@
 <LM>w#w-ln95040-028-p2s1Bw14</LM>
 </w.rf>
 <form>Poštulky</form>
-<tag lemma="Poštulka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Poštulka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-028-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -465,8 +465,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-028-p2s2w22">
@@ -518,8 +518,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-028-p3s1w5">
@@ -528,7 +528,7 @@
 <LM>w#w-ln95040-028-p3s1w5</LM>
 </w.rf>
 <form>Károlyi</form>
-<tag lemma="Károlyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Károlyi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-028-p3s1w6">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-ln95040-028-p3s1w16</LM>
 </w.rf>
 <form>Gottvalda</form>
-<tag lemma="Gottvald_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gottvald_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95040-028-p3s1w17">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-ln95040-028-p3s3w10</LM>
 </w.rf>
 <form>Dejmala</form>
-<tag lemma="Dejmal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dejmal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-028-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1118,8 +1118,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-028-p4s2w4">
@@ -1255,7 +1255,7 @@
 <form>Prokop</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS4-----A----</AM>
 <AM lemma="prokopnout" src="auto">VpYS----R-AAP-6</AM>

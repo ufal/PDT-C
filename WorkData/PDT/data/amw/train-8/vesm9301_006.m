@@ -87,8 +87,8 @@
 <form>ČERNÁ</form>
 <tag>
 <AM lemma="černý" src="auto">AAFS1----1A----</AM>
-<AM lemma="Černá_;S" src="manual">AAFS1----1A----</AM>
-<AM lemma="Černá_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Černá_;Y" src="manual">AAFS1----1A----</AM>
+<AM lemma="Černá_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2452,7 +2452,7 @@
 <LM>w#w-vesm9301-006-p5s5w22</LM>
 </w.rf>
 <form>nukleofilní</form>
-<tag lemma="nukleofilní_;H" src="orig" selected="1">AANP4----1A----</tag>
+<tag lemma="nukleofilní_;U" src="orig" selected="1">AANP4----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p5s5w23">
 <src.rf>manual</src.rf>
@@ -3628,7 +3628,7 @@
 <LM>w#w-vesm9301-006-p7s2w13</LM>
 </w.rf>
 <form>Sugimury</form>
-<tag lemma="Sugimura_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sugimura_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p7s2w14">
 <src.rf>manual</src.rf>
@@ -3918,7 +3918,7 @@
 <LM>w#w-vesm9301-006-p7s3w4</LM>
 </w.rf>
 <form>Amesovým</form>
-<tag lemma="Amesův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Amesův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-vesm9301-006-p7s3w5">
 <src.rf>manual</src.rf>
@@ -4102,7 +4102,7 @@
 <LM>w#w-vesm9301-006-p7s3w27</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="a-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-vesm9301-006-p7s3w28">
 <src.rf>manual</src.rf>
@@ -6424,7 +6424,7 @@
 <LM>w#w-vesm9301-006-p9s8w6</LM>
 </w.rf>
 <form>pyrolyzáty</form>
-<tag lemma="pyrolyzát_;H" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="pyrolyzát_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p9s8w7">
 <src.rf>manual</src.rf>
@@ -6853,7 +6853,7 @@
 <LM>w#w-vesm9301-006-p10s1w13</LM>
 </w.rf>
 <form>pyrolyzáty</form>
-<tag lemma="pyrolyzát_;H" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="pyrolyzát_;U" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s1w14">
 <src.rf>manual</src.rf>
@@ -6877,7 +6877,7 @@
 <LM>w#w-vesm9301-006-p10s1w16</LM>
 </w.rf>
 <form>aminy</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP4-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s1w17">
 <src.rf>manual</src.rf>
@@ -6893,7 +6893,7 @@
 <LM>w#w-vesm9301-006-p10s1w18</LM>
 </w.rf>
 <form>pyrido</form>
-<tag lemma="pyrido_;H" src="orig" selected="1">A2--------A----</tag>
+<tag lemma="pyrido_;U" src="orig" selected="1">A2--------A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s1w19">
 <src.rf>manual</src.rf>
@@ -6909,7 +6909,7 @@
 <LM>w#w-vesm9301-006-p10s1w20</LM>
 </w.rf>
 <form>imidazoly</form>
-<tag lemma="imidazol_;H" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="imidazol_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s1w21">
 <src.rf>manual</src.rf>
@@ -6925,7 +6925,7 @@
 <LM>w#w-vesm9301-006-p10s1w22</LM>
 </w.rf>
 <form>indoly</form>
-<tag lemma="indol_;H" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="indol_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s1w23">
 <src.rf>manual</src.rf>
@@ -6957,7 +6957,7 @@
 <LM>w#w-vesm9301-006-p10s1w26</LM>
 </w.rf>
 <form>chinoxaliny</form>
-<tag lemma="chinoxalin_;H" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="chinoxalin_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s1w27">
 <src.rf>manual</src.rf>
@@ -6989,7 +6989,7 @@
 <LM>w#w-vesm9301-006-p10s1w30</LM>
 </w.rf>
 <form>benzoxaziny</form>
-<tag lemma="benzoxazin_;H" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="benzoxazin_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s1w31">
 <src.rf>manual</src.rf>
@@ -7145,7 +7145,7 @@
 <LM>w#w-vesm9301-006-p10s3w2</LM>
 </w.rf>
 <form>aminy</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s3w3">
 <src.rf>manual</src.rf>
@@ -7177,7 +7177,7 @@
 <LM>w#w-vesm9301-006-p10s3w6</LM>
 </w.rf>
 <form>imidazochinolinové</form>
-<tag lemma="imidazochinolinový_;H" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="imidazochinolinový_;U" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p10s3w7">
 <src.rf>manual</src.rf>
@@ -7281,7 +7281,7 @@
 <LM>w#w-vesm9301-006-p10s3w20</LM>
 </w.rf>
 <form>Amesova</form>
-<tag lemma="Amesův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Amesův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-vesm9301-006-p10s3w21">
 <src.rf>manual</src.rf>
@@ -7713,16 +7713,16 @@
 <AM lemma="B-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="B-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="B-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="B-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="B-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="B-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="B-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="B-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p10s4w33">
@@ -7764,8 +7764,8 @@
 </w.rf>
 <form>a</form>
 <tag>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="a-33" src="orig">Q3-------------</AM>
+<AM lemma="a-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p10s4w38">
@@ -8558,7 +8558,7 @@
 <LM>w#w-vesm9301-006-p11s2w6</LM>
 </w.rf>
 <form>aminy</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p11s2w7">
 <src.rf>manual</src.rf>
@@ -8639,7 +8639,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -8963,7 +8963,7 @@
 <LM>w#w-vesm9301-006-p12s1w15</LM>
 </w.rf>
 <form>pyrolyzáty</form>
-<tag lemma="pyrolyzát_;H" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="pyrolyzát_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p12s1w16">
 <src.rf>manual</src.rf>
@@ -9865,7 +9865,7 @@
 <form>vivo</form>
 <tag>
 <AM lemma="vivo_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="vivo" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
+<AM lemma="vivo" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p12s6w38">
@@ -9924,7 +9924,7 @@
 <LM>w#w-vesm9301-006-p13s1w6</LM>
 </w.rf>
 <form>aminů</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p13s1w7">
 <src.rf>manual</src.rf>
@@ -10184,7 +10184,7 @@
 <LM>w#w-vesm9301-006-p13s3w6</LM>
 </w.rf>
 <form>pyrolyzáty</form>
-<tag lemma="pyrolyzát_;H" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="pyrolyzát_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p13s3w7">
 <src.rf>manual</src.rf>
@@ -10738,7 +10738,7 @@
 <LM>w#w-vesm9301-006-p14s1w9</LM>
 </w.rf>
 <form>aminů</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p14s1w10">
 <src.rf>manual</src.rf>
@@ -11133,7 +11133,7 @@
 <LM>w#w-vesm9301-006-p14s2w30</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-006-p14s2w31">
 <src.rf>manual</src.rf>
@@ -11299,7 +11299,7 @@
 <LM>w#w-vesm9301-006-p14s3w13</LM>
 </w.rf>
 <form>aminy</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p14s3w14">
 <src.rf>manual</src.rf>
@@ -11742,7 +11742,7 @@
 <LM>w#w-vesm9301-006-p15s1w17</LM>
 </w.rf>
 <form>aminy</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p15s1w18">
 <src.rf>manual</src.rf>
@@ -12072,8 +12072,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="orig">Q3-------------</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p15s2w35">
@@ -12134,7 +12134,7 @@
 <LM>w#w-vesm9301-006-p15s2w41</LM>
 </w.rf>
 <form>izoenzymu</form>
-<tag lemma="izoenzym_;H" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="izoenzym_;U" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p15s2w42">
 <src.rf>manual</src.rf>
@@ -12143,8 +12143,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="orig">Q3-------------</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p15s2w43">
@@ -12163,7 +12163,7 @@
 </w.rf>
 <form>IA</form>
 <tag>
-<AM lemma="IA" src="orig">NNNSX-----A----</AM>
+<AM lemma="IA" src="orig">NNNXX-----A----</AM>
 <AM lemma="Iowa_:B_;G_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="IA_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IA-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
@@ -12838,7 +12838,7 @@
 <LM>w#w-vesm9301-006-p15s5w15</LM>
 </w.rf>
 <form>aminů</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p15s5w16">
 <src.rf>manual</src.rf>
@@ -13017,26 +13017,26 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P" src="orig">NNNSX-----A----</AM>
+<AM lemma="P" src="orig">NNNXX-----A----</AM>
 <AM lemma="P-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="P-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="P-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="P-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="P-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="P-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="P-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="P-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="P-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="P-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="P-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="P-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="P-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="P-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="p-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
+<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p16s1w5">
@@ -13152,7 +13152,7 @@
 <LM>w#w-vesm9301-006-p16s1w18</LM>
 </w.rf>
 <form>aminů</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p16s1w19">
 <src.rf>manual</src.rf>
@@ -14101,7 +14101,7 @@
 <LM>w#w-vesm9301-006-p17s1w18</LM>
 </w.rf>
 <form>aminů</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p17s1w19">
 <src.rf>manual</src.rf>
@@ -14229,7 +14229,7 @@
 <LM>w#w-vesm9301-006-p17s2w8</LM>
 </w.rf>
 <form>imidazochinolin</form>
-<tag lemma="imidazochinolin_;H" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="imidazochinolin_;U" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p17s2w9">
 <src.rf>manual</src.rf>
@@ -14246,7 +14246,7 @@
 </w.rf>
 <form>IQ</form>
 <tag>
-<AM lemma="IQ_:B_;H" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IQ_:B_;U" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -14307,7 +14307,7 @@
 </w.rf>
 <form>IQ</form>
 <tag>
-<AM lemma="IQ_:B_;H" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IQ_:B_;U" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -14732,7 +14732,7 @@
 <LM>w#w-vesm9301-006-p18s1w9</LM>
 </w.rf>
 <form>aminů</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p18s1w10">
 <src.rf>manual</src.rf>
@@ -15672,7 +15672,7 @@
 <LM>w#w-vesm9301-006-p19s3w2</LM>
 </w.rf>
 <form>aminy</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p19s3w3">
 <src.rf>manual</src.rf>
@@ -15996,7 +15996,7 @@
 <LM>w#w-vesm9301-006-p19s5w15</LM>
 </w.rf>
 <form>karotenoidů</form>
-<tag lemma="karotenoid_;H" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="karotenoid_;U" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p19s5w16">
 <src.rf>manual</src.rf>
@@ -16044,7 +16044,7 @@
 <LM>w#w-vesm9301-006-p19s5w21</LM>
 </w.rf>
 <form>flavonoidy</form>
-<tag lemma="flavonoid_;H" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="flavonoid_;U" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p19s5w22">
 <src.rf>manual</src.rf>
@@ -16068,7 +16068,7 @@
 <LM>w#w-vesm9301-006-p19s5w24</LM>
 </w.rf>
 <form>peroxidázy</form>
-<tag lemma="peroxidáza_;H" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="peroxidáza_;U" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p19s5w25">
 <src.rf>manual</src.rf>
@@ -16174,7 +16174,7 @@
 <LM>w#w-vesm9301-006-p19s6w7</LM>
 </w.rf>
 <form>aminů</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p19s6w8">
 <src.rf>manual</src.rf>
@@ -16774,7 +16774,7 @@
 <LM>w#w-vesm9301-006-p20s2w5</LM>
 </w.rf>
 <form>aminům</form>
-<tag lemma="amin_;H" src="auto" selected="1">NNIP3-----A----</tag>
+<tag lemma="amin_;U" src="auto" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p20s2w6">
 <src.rf>manual</src.rf>
@@ -17096,7 +17096,7 @@
 <LM>w#w-vesm9301-006-p20s4w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-006-p20s4w15">
 <src.rf>manual</src.rf>
@@ -17564,7 +17564,7 @@
 <LM>w#w-vesm9301-006-p20s6w11</LM>
 </w.rf>
 <form>pyrolyzátů</form>
-<tag lemma="pyrolyzát_;H" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="pyrolyzát_;U" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-006-p20s6w12">
 <src.rf>manual</src.rf>
@@ -18349,26 +18349,26 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P" src="orig">NNNSX-----A----</AM>
+<AM lemma="P" src="orig">NNNXX-----A----</AM>
 <AM lemma="P-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="P-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="P-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="P-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="P-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="P-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="P-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="P-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="P-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="P-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="P-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="P-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="P-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="P-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="p-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
+<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p26s1w5">

@@ -51,7 +51,7 @@
 <LM>w#w-ln95044-141-p1s1w5</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p1s1w6">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln95044-141-p1s1w6</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p1s1w7">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95044-141-p2s1w2</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p2s1w3">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-ln95044-141-p2s1w3</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p2s1w4">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-141-p2s4w5">
@@ -430,7 +430,7 @@
 <LM>w#w-ln95044-141-p2s4w6</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p2s4w7">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-ln95044-141-p3s1w1</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p3s1w2">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln95044-141-p3s1w2</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p3s1w3">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 </w.rf>
 <form>Middle</form>
 <tag>
-<AM lemma="Middle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Middle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Middle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -840,9 +840,9 @@
 </w.rf>
 <form>Tennessee</form>
 <tag>
-<AM lemma="Tennessee_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tennessee-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tennessee-1_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tennessee_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tennessee-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Tennessee-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tennessee_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Tennessee-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -854,8 +854,8 @@
 </w.rf>
 <form>State</form>
 <tag>
-<AM lemma="State_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="State_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="State_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="State_;G_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="status" src="auto">NNIS5-----A----</AM>
 <AM lemma="State-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -867,7 +867,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1510,7 +1510,7 @@
 </w.rf>
 <form>Center</form>
 <tag>
-<AM lemma="Center_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Center_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="centrum" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="Center-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1534,7 +1534,7 @@
 </w.rf>
 <form>Study</form>
 <tag>
-<AM lemma="Study_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Study_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="stud" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="stud" src="auto">NNIP4-----A----</AM>
 <AM lemma="stud" src="auto">NNIP5-----A----</AM>
@@ -1560,7 +1560,7 @@
 </w.rf>
 <form>Public</form>
 <tag>
-<AM lemma="Public_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Public_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Public-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1571,7 +1571,7 @@
 </w.rf>
 <form>Choice</form>
 <tag>
-<AM lemma="Choice_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Choice_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Choice-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1598,7 +1598,7 @@
 </w.rf>
 <form>Harris</form>
 <tag>
-<AM lemma="Harris_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Harris_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Harris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1609,7 +1609,7 @@
 </w.rf>
 <form>University</form>
 <tag>
-<AM lemma="University_;K_,t_^(angl.,_v_názvech)" src="orig">NNFSX-----A----</AM>
+<AM lemma="University_;m_,t_^(angl.,_v_názvech)" src="orig">NNFXX-----A----</AM>
 <AM lemma="University-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1639,8 +1639,8 @@
 </w.rf>
 <form>Mason</form>
 <tag>
-<AM lemma="Mason_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mason_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Mason_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Mason_;Y" src="manual">NNMS1-----A----</AM>
 <AM lemma="Mason-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1651,7 +1651,7 @@
 </w.rf>
 <form>University</form>
 <tag>
-<AM lemma="University_;K_,t_^(angl.,_v_názvech)" src="orig">NNFSX-----A----</AM>
+<AM lemma="University_;m_,t_^(angl.,_v_názvech)" src="orig">NNFXX-----A----</AM>
 <AM lemma="University-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1797,7 +1797,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-141-p4s1w12">
@@ -1814,7 +1814,7 @@
 <LM>w#w-ln95044-141-p4s1w13</LM>
 </w.rf>
 <form>Buchananovi</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-141-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2093,7 +2093,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-141-p5s1w11">
@@ -2110,7 +2110,7 @@
 <LM>w#w-ln95044-141-p5s1w12</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2152,7 +2152,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-141-p5s1w18">
@@ -2169,7 +2169,7 @@
 <LM>w#w-ln95044-141-p5s1w19</LM>
 </w.rf>
 <form>Wicksella</form>
-<tag lemma="Wicksell_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wicksell_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-141-p5s1w20">
 <src.rf>manual</src.rf>
@@ -2555,7 +2555,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-141-p5s3w6">
@@ -2572,7 +2572,7 @@
 <LM>w#w-ln95044-141-p5s3w7</LM>
 </w.rf>
 <form>Wicksell</form>
-<tag lemma="Wicksell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wicksell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2654,7 +2654,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-141-p5s3w18">
@@ -2671,7 +2671,7 @@
 <LM>w#w-ln95044-141-p5s3w19</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p5s3w20">
 <src.rf>manual</src.rf>
@@ -2763,7 +2763,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-141-p6s1w2">
@@ -2780,7 +2780,7 @@
 <LM>w#w-ln95044-141-p6s1w3</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p6s1w4">
 <src.rf>manual</src.rf>
@@ -4618,7 +4618,7 @@
 <LM>w#w-ln95044-141-p8s1w55</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln95044-141-p8s1w56">
 <src.rf>manual</src.rf>
@@ -5102,7 +5102,7 @@
 <LM>w#w-ln95044-141-p9s1w11</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p9s1w12">
 <src.rf>manual</src.rf>
@@ -5588,7 +5588,7 @@
 <LM>w#w-ln95044-141-p9s4w11</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p9s4w12">
 <src.rf>manual</src.rf>
@@ -6264,7 +6264,7 @@
 <LM>w#w-ln95044-141-p10s2w6</LM>
 </w.rf>
 <form>Buchanana</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-141-p10s2w7">
 <src.rf>manual</src.rf>
@@ -6623,7 +6623,7 @@
 <LM>w#w-ln95044-141-p11s1w8</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p11s1w9">
 <src.rf>manual</src.rf>
@@ -6881,7 +6881,7 @@
 <LM>w#w-ln95044-141-p11s2w12</LM>
 </w.rf>
 <form>Franka</form>
-<tag lemma="Frank_;E_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Frank_;E_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-141-p11s2w13">
 <src.rf>manual</src.rf>
@@ -6889,7 +6889,7 @@
 <LM>w#w-ln95044-141-p11s2w13</LM>
 </w.rf>
 <form>Seidmana</form>
-<tag lemma="Seidman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seidman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-141-p11s2w14">
 <src.rf>manual</src.rf>

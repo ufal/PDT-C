@@ -19,7 +19,7 @@
 <LM>w#w-lnd92259-095-p1s1w1</LM>
 </w.rf>
 <form>Baresi</form>
-<tag lemma="Baresi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baresi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-095-p1s1w2">
 <src.rf>manual</src.rf>
@@ -96,7 +96,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -130,7 +130,7 @@
 <LM>w#w-lnd92259-095-p2s2w9</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92259-095-p2s2w10">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -355,9 +355,9 @@
 </w.rf>
 <form>Matarresem</form>
 <tag>
-<AM lemma="Matarres_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Matarrese_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Matarrese_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Matarres_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Matarrese_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Matarrese_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-095-p2s3w14">
@@ -432,7 +432,7 @@
 <LM>w#w-lnd92259-095-p2s4w8</LM>
 </w.rf>
 <form>Baresi</form>
-<tag lemma="Baresi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baresi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-095-p2s4w9">
 <src.rf>manual</src.rf>

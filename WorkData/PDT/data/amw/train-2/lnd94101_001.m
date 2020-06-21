@@ -210,8 +210,8 @@
 </w.rf>
 <form>ika</form>
 <tag>
-<AM lemma="ika-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ika-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ika-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ika-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-001-p1s1Dw4">
@@ -2912,7 +2912,7 @@
 <LM>w#w-lnd94101-001-p1s18w4</LM>
 </w.rf>
 <form>Vodičky</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-001-p1s18w5">
 <src.rf>manual</src.rf>

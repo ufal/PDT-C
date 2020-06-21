@@ -53,7 +53,7 @@
 <LM>w#w-lnd94103-107-p1s1Bw1</LM>
 </w.rf>
 <form>Charouz</form>
-<tag lemma="Charouz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Charouz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-107-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-lnd94103-107-p1s1Dw3</LM>
 </w.rf>
 <form>šc</form>
-<tag lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="šc-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-107-p1s1Dw4">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-lnd94103-107-p1s1Ew6</LM>
 </w.rf>
 <form>Charouz</form>
-<tag lemma="Charouz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Charouz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-107-p1s1Ew7">
 <src.rf>manual</src.rf>
@@ -291,9 +291,9 @@
 <form>Marlboro</form>
 <tag>
 <AM lemma="Marlbora_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-107-p1s1Ew11">
@@ -602,8 +602,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-107-p1s2w12">
@@ -636,7 +636,7 @@
 <LM>w#w-lnd94103-107-p1s2w15</LM>
 </w.rf>
 <form>Fordem</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS7-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd94103-107-p1s2w16">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 </w.rf>
 <form>Coswort</form>
 <tag>
-<AM lemma="Coswort_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coswort_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Coswort-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -656,7 +656,7 @@
 </w.rf>
 <form>Escorth</form>
 <tag>
-<AM lemma="Escorth_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Escorth_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Escorth-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -683,8 +683,8 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="N-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="N-33" src="orig">Q3-------------</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-107-p1s2w21">
@@ -941,7 +941,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-107-p1s3w26">
@@ -958,7 +958,7 @@
 <LM>w#w-lnd94103-107-p1s3w27</LM>
 </w.rf>
 <form>Charouz</form>
-<tag lemma="Charouz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Charouz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-107-p1s3w28">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

@@ -20,8 +20,8 @@
 </w.rf>
 <form>Sodexho</form>
 <tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p1s1w2">
@@ -203,8 +203,8 @@
 </w.rf>
 <form>Sodexho</form>
 <tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p2s1Cw4">
@@ -305,7 +305,7 @@
 </w.rf>
 <form>Merchant</form>
 <tag>
-<AM lemma="Merchant_;K_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Merchant_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Merchant-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -508,8 +508,8 @@
 </w.rf>
 <form>Sodexho</form>
 <tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p3s1w7">
@@ -550,7 +550,7 @@
 <LM>w#w-ln95047-137-p3s1w11</LM>
 </w.rf>
 <form>Eurestu</form>
-<tag lemma="Eurest_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Eurest_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95047-137-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1205,8 +1205,8 @@
 </w.rf>
 <form>Sodexha</form>
 <tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS2-----A----</AM>
-<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="Sodexho_;m_,t" src="orig">NNNS2-----A----</AM>
+<AM lemma="Sodexho_;m" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p5s1w3">
@@ -1501,7 +1501,7 @@
 <LM>w#w-ln95047-137-p5s2w20</LM>
 </w.rf>
 <form>Thomayerova</form>
-<tag lemma="Thomayerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Thomayerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95047-137-p5s2w21">
 <src.rf>manual</src.rf>
@@ -1646,8 +1646,8 @@
 </w.rf>
 <form>Sodexho</form>
 <tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p6s1w3">
@@ -1893,8 +1893,8 @@
 </w.rf>
 <form>Sodexha</form>
 <tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS2-----A----</AM>
-<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="Sodexho_;m_,t" src="orig">NNNS2-----A----</AM>
+<AM lemma="Sodexho_;m" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p6s3w4">
@@ -2132,8 +2132,8 @@
 </w.rf>
 <form>Sodexho</form>
 <tag>
-<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p7s1w6">

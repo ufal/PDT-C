@@ -386,8 +386,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-012-p2s2w2">
@@ -420,7 +420,7 @@
 <LM>w#w-ln95047-012-p2s2w5</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p2s2w6">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-ln95047-012-p2s2w10</LM>
 </w.rf>
 <form>BESIP</form>
-<tag lemma="BESIP_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="BESIP_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p2s2w11">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-ln95047-012-p2s6w1</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 <LM>w#w-ln95047-012-p2s11w16</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p2s11w17">
 <src.rf>manual</src.rf>
@@ -1796,7 +1796,7 @@
 <LM>w#w-ln95047-012-p3s1w5</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p3s1w6">
 <src.rf>manual</src.rf>
@@ -2265,7 +2265,7 @@
 <LM>w#w-ln95047-012-p3s4w11</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p3s4w12">
 <src.rf>manual</src.rf>
@@ -2733,7 +2733,7 @@
 <LM>w#w-ln95047-012-p3s6w22</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p3s6w23">
 <src.rf>manual</src.rf>

@@ -531,8 +531,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -717,7 +717,7 @@
 </w.rf>
 <form>European</form>
 <tag>
-<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="European_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="European-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -728,7 +728,7 @@
 </w.rf>
 <form>Business</form>
 <tag>
-<AM lemma="Business_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Business_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
@@ -741,7 +741,7 @@
 </w.rf>
 <form>Solutions</form>
 <tag>
-<AM lemma="Solution_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Solution_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Solutions-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1024,7 +1024,7 @@
 </w.rf>
 <form>money</form>
 <tag>
-<AM lemma="money_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="money_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="money-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

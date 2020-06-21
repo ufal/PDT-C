@@ -59,7 +59,7 @@
 <LM>w#w-mf930708-074-p1s1w6</LM>
 </w.rf>
 <form>Ekol</form>
-<tag lemma="Ekol_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="Ekol_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-074-p1s1w7">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <form>S</form>
 <tag>
 <AM lemma="s-1" src="orig">RR--7----------</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 </s>
@@ -107,7 +107,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -280,7 +280,7 @@
 <LM>w#w-mf930708-074-p2s2w3</LM>
 </w.rf>
 <form>Ekol</form>
-<tag lemma="Ekol_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="Ekol_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-074-p2s2w4">
 <src.rf>manual</src.rf>
@@ -299,8 +299,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-074-p2s3w2">
@@ -455,7 +455,7 @@
 <LM>w#w-mf930708-074-p2s4w6</LM>
 </w.rf>
 <form>Ekol</form>
-<tag lemma="Ekol_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="Ekol_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-074-p2s4w7">
 <src.rf>manual</src.rf>
@@ -474,8 +474,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-074-p2s5w2">
@@ -492,7 +492,7 @@
 <LM>w#w-mf930708-074-p2s5w3</LM>
 </w.rf>
 <form>Hoffmann</form>
-<tag lemma="Hoffmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hoffmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-074-p2s5w4">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-mf930708-074-p2s7w10</LM>
 </w.rf>
 <form>Hoffmann</form>
-<tag lemma="Hoffmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hoffmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-074-p2s7w11">
 <src.rf>manual</src.rf>

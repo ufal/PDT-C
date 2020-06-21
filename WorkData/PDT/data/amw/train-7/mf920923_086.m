@@ -236,7 +236,7 @@
 <LM>w#w-mf920923-086-p2s2w13</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-086-p2s2w14">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-mf920923-086-p2s4w12</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-086-p2s4w13">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-mf920923-086-p4s1Bw5</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-086-p4s1Bw6">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-mf920923-086-p4s2w7</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-086-p4s2w8">
 <src.rf>manual</src.rf>

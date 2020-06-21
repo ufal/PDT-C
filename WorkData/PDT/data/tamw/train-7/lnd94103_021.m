@@ -36,7 +36,7 @@
 </w.rf>
 <form>ČSOP</form>
 <tag>
-<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -89,8 +89,8 @@
 </w.rf>
 <form>črk</form>
 <tag>
-<AM lemma="črk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="črk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="črk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="črk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-021-p1s2w4">
@@ -348,7 +348,7 @@
 <LM>w#w-lnd94103-021-p1s4w4</LM>
 </w.rf>
 <form>Havlíčkově</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd94103-021-p1s4w5">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-021-p1s5w7">
@@ -468,7 +468,7 @@
 <LM>w#w-lnd94103-021-p1s5w8</LM>
 </w.rf>
 <form>Damohorského</form>
-<tag lemma="Damohorský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Damohorský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-021-p1s5w9">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 </w.rf>
 <form>ČSOP</form>
 <tag>
-<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -674,7 +674,7 @@
 </w.rf>
 <form>ČSOP</form>
 <tag>
-<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -767,7 +767,7 @@
 </w.rf>
 <form>ČSOP</form>
 <tag>
-<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1146,7 +1146,7 @@
 </w.rf>
 <form>ČSOP</form>
 <tag>
-<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1166,7 +1166,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-021-p1s9w10">
@@ -1183,7 +1183,7 @@
 <LM>w#w-lnd94103-021-p1s9w11</LM>
 </w.rf>
 <form>Moldan</form>
-<tag lemma="Moldan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moldan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-021-p1s9w12">
 <src.rf>manual</src.rf>

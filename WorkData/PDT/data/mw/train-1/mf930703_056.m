@@ -37,7 +37,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-056-p1s1w4">
@@ -55,7 +55,7 @@
 </w.rf>
 <form>Reu</form>
 <tag>
-<AM lemma="Rea_;S" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Rea_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS3-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS6-----A----</AM>
 <AM lemma="reum" src="auto">NNNS3-----A----</AM>
@@ -195,7 +195,7 @@
 </w.rf>
 <form>Rea</form>
 <tag>
-<AM lemma="Rea_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rea_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="reum" src="auto">NNNP1-----A----</AM>
 <AM lemma="reum" src="auto">NNNP4-----A----</AM>
@@ -438,7 +438,7 @@
 </w.rf>
 <form>Rea</form>
 <tag>
-<AM lemma="Rea_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rea_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="reum" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="reum" src="auto">NNNP4-----A----</AM>

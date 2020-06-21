@@ -167,7 +167,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-079-p2s1Aw15">
@@ -184,7 +184,7 @@
 <LM>w#w-ln95048-079-p2s1Aw16</LM>
 </w.rf>
 <form>Trněný</form>
-<tag lemma="Trněný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trněný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-079-p2s1B">
@@ -269,8 +269,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-079-p2s1Cw6">
@@ -394,8 +394,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-079-p3s1w2">
@@ -444,7 +444,7 @@
 <LM>w#w-ln95048-079-p3s1w7</LM>
 </w.rf>
 <form>Holáň</form>
-<tag lemma="Holáň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holáň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-079-p3s1w8">
 <src.rf>manual</src.rf>
@@ -583,8 +583,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-079-p3s2w17">
@@ -1118,8 +1118,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-079-p4s1w17">
@@ -1444,7 +1444,7 @@
 <LM>w#w-ln95048-079-p4s3w7</LM>
 </w.rf>
 <form>Holáň</form>
-<tag lemma="Holáň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holáň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-079-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1931,7 +1931,7 @@
 <LM>w#w-ln95048-079-p4s5w13</LM>
 </w.rf>
 <form>Holáň</form>
-<tag lemma="Holáň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holáň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-079-p4s5w14">
 <src.rf>manual</src.rf>
@@ -2094,8 +2094,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-079-p5s1w15">
@@ -2144,7 +2144,7 @@
 <LM>w#w-ln95048-079-p5s1w20</LM>
 </w.rf>
 <form>Trněný</form>
-<tag lemma="Trněný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trněný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-079-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2227,8 +2227,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-079-p5s2w11">
@@ -2311,7 +2311,7 @@
 <LM>w#w-ln95048-079-p5s3w1</LM>
 </w.rf>
 <form>Trněný</form>
-<tag lemma="Trněný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trněný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-079-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2792,7 +2792,7 @@
 <LM>w#w-ln95048-079-p5s6w10</LM>
 </w.rf>
 <form>dolarech</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95048-079-p5s6w11">
 <src.rf>manual</src.rf>
@@ -2872,7 +2872,7 @@
 <LM>w#w-ln95048-079-p5s6w20</LM>
 </w.rf>
 <form>Trněný</form>
-<tag lemma="Trněný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trněný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-079-p5s6w21">
 <src.rf>manual</src.rf>

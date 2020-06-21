@@ -820,8 +820,8 @@
 </w.rf>
 <form>z</form>
 <tag>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="z-33" src="orig">Q3-------------</AM>
+<AM lemma="z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p2s5w23">
@@ -1203,7 +1203,7 @@
 <LM>w#w-vesm9303-023-p3s1w40</LM>
 </w.rf>
 <form>Masaryka</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-023-p3s1w41">
 <src.rf>manual</src.rf>
@@ -3093,7 +3093,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p4s3w43">
@@ -3110,7 +3110,7 @@
 <LM>w#w-vesm9303-023-p4s3w44</LM>
 </w.rf>
 <form>Materna</form>
-<tag lemma="Materna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Materna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-023-p4s3w45">
 <src.rf>manual</src.rf>
@@ -3406,8 +3406,8 @@
 </w.rf>
 <form>z</form>
 <tag>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="z-33" src="orig">Q3-------------</AM>
+<AM lemma="z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s1w9">
@@ -4253,8 +4253,8 @@
 </w.rf>
 <form>z</form>
 <tag>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="z-33" src="orig">Q3-------------</AM>
+<AM lemma="z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s3w36">

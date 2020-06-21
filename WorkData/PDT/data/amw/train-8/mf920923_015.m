@@ -213,7 +213,7 @@
 <LM>w#w-mf920923-015-p2s1w17</LM>
 </w.rf>
 <form>Transporta</form>
-<tag lemma="Transporta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Transporta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-015-p2s1w18">
 <src.rf>manual</src.rf>
@@ -364,10 +364,10 @@
 </w.rf>
 <form>Thyssen</form>
 <tag>
-<AM lemma="Thyssen_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Thyssen_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Thyssen_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Thyssen-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Thyssen_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Thyssen_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Thyssen_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Thyssen-2_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-015-p2s1w36">
@@ -524,7 +524,7 @@
 <LM>w#w-mf920923-015-p2s3w11</LM>
 </w.rf>
 <form>Transporta</form>
-<tag lemma="Transporta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Transporta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-015-p2s3w12">
 <src.rf>manual</src.rf>

@@ -20,8 +20,8 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-47-p1s1w2">
@@ -39,8 +39,8 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-47-p1s1w4">
@@ -57,7 +57,7 @@
 <LM>w#w-ln94203-47-p1s1w5</LM>
 </w.rf>
 <form>Klausův</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94203-47-p1s1w6">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-ln94203-47-p2s1Bw3</LM>
 </w.rf>
 <form>škr</form>
-<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="škr-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-47-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln94203-47-p2s1Cw4</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-47-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -256,8 +256,8 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-47-p2s1Cw14">
@@ -275,8 +275,8 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-47-p2s1Cw16">
@@ -293,7 +293,7 @@
 <LM>w#w-ln94203-47-p2s1Cw17</LM>
 </w.rf>
 <form>Ambrozka</form>
-<tag lemma="Ambrozek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ambrozek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-47-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln94203-47-p3s1w1</LM>
 </w.rf>
 <form>Ambrozek</form>
-<tag lemma="Ambrozek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ambrozek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-47-p3s1w2">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln94203-47-p3s1w17</LM>
 </w.rf>
 <form>Bendovi</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-47-p3s1w18">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-ln94203-47-p4s1w2</LM>
 </w.rf>
 <form>Ambrozka</form>
-<tag lemma="Ambrozek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ambrozek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-47-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-ln94203-47-p4s2w1</LM>
 </w.rf>
 <form>Ambrozek</form>
-<tag lemma="Ambrozek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ambrozek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-47-p4s2w2">
 <src.rf>manual</src.rf>

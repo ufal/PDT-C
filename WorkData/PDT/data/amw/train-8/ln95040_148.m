@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-148-p1s1w1</LM>
 </w.rf>
 <form>Grafo</form>
-<tag lemma="Grafo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Grafo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-148-p1s1w2">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln95040-148-p3s1Bw4</LM>
 </w.rf>
 <form>Grafo</form>
-<tag lemma="Grafo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Grafo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-148-p3s1Bw5">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-148-p3s2w12">
@@ -550,7 +550,7 @@
 <LM>w#w-ln95040-148-p3s2w13</LM>
 </w.rf>
 <form>Šafránek</form>
-<tag lemma="Šafránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šafránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-148-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1797,7 +1797,7 @@
 <LM>w#w-ln95040-148-p5s6w11</LM>
 </w.rf>
 <form>Šafránka</form>
-<tag lemma="Šafránek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šafránek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-148-p5s6w12">
 <src.rf>manual</src.rf>
@@ -1869,7 +1869,7 @@
 <LM>w#w-ln95040-148-p5s6w20</LM>
 </w.rf>
 <form>Grafo</form>
-<tag lemma="Grafo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Grafo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-148-p5s6w21">
 <src.rf>manual</src.rf>
@@ -2116,7 +2116,7 @@
 </w.rf>
 <form>YSE</form>
 <tag>
-<AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="YSE_:B_;m_^(YSE_Holding,_fin._inst.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="YSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2183,9 +2183,9 @@
 </w.rf>
 <form>SIS</form>
 <tag>
-<AM lemma="SIS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SIS-1_:B_;K_^(Spořitelní_investiční_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SIS_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SIS-1_:B_;m_^(Spořitelní_investiční_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SIS-2_:B_;m_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
 <AM lemma="SIS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2238,7 +2238,7 @@
 <LM>w#w-ln95040-148-p6s3w16</LM>
 </w.rf>
 <form>Moravia</form>
-<tag lemma="Moravia-1_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Moravia-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-148-p6s3w17">
 <src.rf>manual</src.rf>
@@ -2332,7 +2332,7 @@
 <form>Creditanstalt</form>
 <tag>
 <AM lemma="Creditanstalt_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Creditanstalt_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Creditanstalt_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-148-p6s4Aw8">

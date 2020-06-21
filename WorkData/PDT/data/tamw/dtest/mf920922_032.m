@@ -43,7 +43,7 @@
 <LM>w#w-mf920922-032-p1s1w4</LM>
 </w.rf>
 <form>SVĚRÁK</form>
-<tag lemma="Svěrák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svěrák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-032-p1s1w5">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 </w.rf>
 <form>BBK</form>
 <tag>
-<AM lemma="BBK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="BBK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="BBK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1413,10 +1413,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>

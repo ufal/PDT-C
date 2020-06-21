@@ -1694,7 +1694,7 @@
 <LM>w#w-mf920925-013-p3s4w33</LM>
 </w.rf>
 <form>Novaková</form>
-<tag lemma="Novaková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novaková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-013-p3s4w34">
 <src.rf>manual</src.rf>
@@ -3161,7 +3161,7 @@
 <LM>w#w-mf920925-013-p4s8w34</LM>
 </w.rf>
 <form>Novaková</form>
-<tag lemma="Novaková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novaková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-013-p4s8w35">
 <src.rf>manual</src.rf>

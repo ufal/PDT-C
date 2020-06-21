@@ -526,7 +526,7 @@
 <LM>w#w-cmpr9407-037-p8s1w2</LM>
 </w.rf>
 <form>Zajkr</form>
-<tag lemma="Zajkr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zajkr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-037-p10s1">
@@ -1325,7 +1325,7 @@
 <LM>w#w-cmpr9407-037-p12s1w7</LM>
 </w.rf>
 <form>Vostatka</form>
-<tag lemma="Vostatek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vostatek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-037-p12s1w8">
 <src.rf>manual</src.rf>

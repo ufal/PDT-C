@@ -253,7 +253,7 @@
 <LM>w#w-mf920925-015-p1s2w4</LM>
 </w.rf>
 <form>Andrejčák</form>
-<tag lemma="Andrejčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andrejčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-015-p1s2w5">
 <src.rf>manual</src.rf>

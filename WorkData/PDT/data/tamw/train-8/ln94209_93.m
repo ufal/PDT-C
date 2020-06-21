@@ -53,7 +53,7 @@
 <LM>w#w-ln94209-93-p2s1Aw1</LM>
 </w.rf>
 <form>Komanický</form>
-<tag lemma="Komanický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komanický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 <LM>w#w-ln94209-93-p2s1Aw7</LM>
 </w.rf>
 <form>Jarabinský</form>
-<tag lemma="Jarabinský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jarabinský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-93-p2s1B">
@@ -131,8 +131,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p2s1Bw4">
@@ -287,7 +287,7 @@
 <LM>w#w-ln94209-93-p2s1Cw17</LM>
 </w.rf>
 <form>Komanického</form>
-<tag lemma="Komanický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komanický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-93-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln94209-93-p2s2w12</LM>
 </w.rf>
 <form>Linda</form>
-<tag lemma="Linda-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Linda-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p2s2w13">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <form>Unionu</form>
 <tag>
 <AM lemma="Union" src="auto">NNIS2-----A----</AM>
-<AM lemma="Union_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Union_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p2s2w16">
@@ -436,7 +436,7 @@
 <LM>w#w-ln94209-93-p2s2w17</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p2s2w18">
 <src.rf>manual</src.rf>
@@ -469,10 +469,10 @@
 </w.rf>
 <form>Kuma</form>
 <tag>
-<AM lemma="Kuma_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kuma_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kuma_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kuma-_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Kuma-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuma-_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kuma-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p2s2w22">
@@ -557,7 +557,7 @@
 <LM>w#w-ln94209-93-p2s4w2</LM>
 </w.rf>
 <form>Komanický</form>
-<tag lemma="Komanický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komanický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p2s4w3">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <form>Unionu</form>
 <tag>
 <AM lemma="Union" src="auto">NNIS2-----A----</AM>
-<AM lemma="Union_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Union_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p2s5w29">
@@ -965,7 +965,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p2s5w38">
@@ -982,7 +982,7 @@
 <LM>w#w-ln94209-93-p2s5w39</LM>
 </w.rf>
 <form>Komanického</form>
-<tag lemma="Komanický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komanický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-93-p2s5w40">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p2s5w41">
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln94209-93-p2s5w42</LM>
 </w.rf>
 <form>Zápotocký</form>
-<tag lemma="Zápotocký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zápotocký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p2s5w43">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-ln94209-93-p3s2w10</LM>
 </w.rf>
 <form>Komanický</form>
-<tag lemma="Komanický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komanický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1411,9 +1411,9 @@
 </w.rf>
 <form>Kuma</form>
 <tag>
-<AM lemma="Kuma_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kuma_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kuma_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kuma-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuma-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-93-p3s3w15">
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln94209-93-p3s3w18</LM>
 </w.rf>
 <form>Linda</form>
-<tag lemma="Linda-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Linda-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <LM>w#w-ln94209-93-p3s3w31</LM>
 </w.rf>
 <form>Komanického</form>
-<tag lemma="Komanický_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komanický_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-93-p3s3w32">
 <src.rf>manual</src.rf>
@@ -1778,7 +1778,7 @@
 <LM>w#w-ln94209-93-p3s6w2</LM>
 </w.rf>
 <form>Linda</form>
-<tag lemma="Linda-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Linda-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-93-p3s6w3">
 <src.rf>manual</src.rf>
@@ -2155,7 +2155,7 @@
 <LM>w#w-ln94209-93-p4s1w10</LM>
 </w.rf>
 <form>Jarabinským</form>
-<tag lemma="Jarabinský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jarabinský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-93-p4s1w11">
 <src.rf>manual</src.rf>

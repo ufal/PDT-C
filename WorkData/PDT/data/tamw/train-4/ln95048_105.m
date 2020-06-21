@@ -107,7 +107,7 @@
 <LM>w#w-ln95048-105-p2s1Bw5</LM>
 </w.rf>
 <form>Kanther</form>
-<tag lemma="Kanther_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kanther_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-105-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 </w.rf>
 <form>NSDAP</form>
 <tag>
-<AM lemma="NSDAP-1_:B_;K_,t_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NSDAP-1_:B_;m_,t_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NSDAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -633,7 +633,7 @@
 <LM>w#w-ln95048-105-p2s4w6</LM>
 </w.rf>
 <form>Busseho</form>
-<tag lemma="Busse_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Busse_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-105-p2s4w7">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 </w.rf>
 <form>NL</form>
 <tag>
-<AM lemma="NL-2_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NL-2_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NL_:B_^(Nizozemí)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NL_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="NL-88" src="manual" selected="1">BNXXX-----A----</AM>

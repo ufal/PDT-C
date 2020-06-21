@@ -53,7 +53,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-009-p1s1w6">
@@ -84,7 +84,7 @@
 </w.rf>
 <form>DER</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="DER-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -94,7 +94,7 @@
 <LM>w#w-lnd92254-009-p1s2w3</LM>
 </w.rf>
 <form>HARST</form>
-<tag lemma="Harst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Harst_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p1s2w4">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-lnd92254-009-p3s2w12</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p3s2w13">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-lnd92254-009-p3s2w20</LM>
 </w.rf>
 <form>Willem</form>
-<tag lemma="Willem_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Willem_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p3s2w21">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 </w.rf>
 <form>der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -613,7 +613,7 @@
 <LM>w#w-lnd92254-009-p3s2w23</LM>
 </w.rf>
 <form>Harst</form>
-<tag lemma="Harst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Harst_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p3s2w24">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-lnd92254-009-p3s2w28</LM>
 </w.rf>
 <form>Horák</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p3s2w29">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-lnd92254-009-p4s1w29</LM>
 </w.rf>
 <form>Korbela</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-lnd92254-009-p4s2w35</LM>
 </w.rf>
 <form>Korbel</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p4s2w36">
 <src.rf>manual</src.rf>
@@ -1298,9 +1298,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-009-p4s2w43">
@@ -1455,7 +1455,7 @@
 <LM>w#w-lnd92254-009-p5s1w2</LM>
 </w.rf>
 <form>Willem</form>
-<tag lemma="Willem_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Willem_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 </w.rf>
 <form>der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1485,7 +1485,7 @@
 <LM>w#w-lnd92254-009-p5s1w5</LM>
 </w.rf>
 <form>Harst</form>
-<tag lemma="Harst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Harst_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2325,7 +2325,7 @@
 <LM>w#w-lnd92254-009-p6s2w6</LM>
 </w.rf>
 <form>Korbela</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p6s2w7">
 <src.rf>manual</src.rf>
@@ -2397,7 +2397,7 @@
 <LM>w#w-lnd92254-009-p6s2w15</LM>
 </w.rf>
 <form>Davis</form>
-<tag lemma="Davis-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Davis-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p6s2w16">
 <src.rf>manual</src.rf>
@@ -2405,7 +2405,7 @@
 <LM>w#w-lnd92254-009-p6s2w16</LM>
 </w.rf>
 <form>Allemang</form>
-<tag lemma="Allemang_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Allemang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p6s2w17">
 <src.rf>manual</src.rf>
@@ -2446,9 +2446,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-009-p6s2w22">
@@ -3215,7 +3215,7 @@
 <LM>w#w-lnd92254-009-p7s3w18</LM>
 </w.rf>
 <form>Willem</form>
-<tag lemma="Willem_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Willem_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p7s3w19">
 <src.rf>manual</src.rf>
@@ -3235,7 +3235,7 @@
 </w.rf>
 <form>der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3245,7 +3245,7 @@
 <LM>w#w-lnd92254-009-p7s3w21</LM>
 </w.rf>
 <form>Harst</form>
-<tag lemma="Harst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Harst_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-009-p7s3w22">
 <src.rf>manual</src.rf>
@@ -3377,7 +3377,7 @@
 <LM>w#w-lnd92254-009-p8s1w2</LM>
 </w.rf>
 <form>SCHILDBERGER</form>
-<tag lemma="Schildberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schildberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

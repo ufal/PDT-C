@@ -74,10 +74,10 @@
 </w.rf>
 <form>pech</form>
 <tag>
-<AM lemma="pech-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pech-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
-<AM lemma="pech-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pech-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-36-p2s1Aw4">
@@ -112,7 +112,7 @@
 <LM>w#w-ln94210-36-p2s1Bw2</LM>
 </w.rf>
 <form>Nešpor</form>
-<tag lemma="Nešpor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nešpor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-36-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-ln94210-36-p2s3w2</LM>
 </w.rf>
 <form>Nešpor</form>
-<tag lemma="Nešpor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nešpor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-36-p2s3w3">
 <src.rf>manual</src.rf>

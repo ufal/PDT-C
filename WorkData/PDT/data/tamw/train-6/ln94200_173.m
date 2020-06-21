@@ -61,7 +61,7 @@
 <LM>w#w-ln94200-173-p2s1Aw2</LM>
 </w.rf>
 <form>Jaroš</form>
-<tag lemma="Jaroš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jaroš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-173-p2s1B">
@@ -72,7 +72,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Francois</form>
-<tag lemma="Francois_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francois_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -80,7 +80,7 @@
 <LM>w#w-ln94200-173-p2s1Bw2</LM>
 </w.rf>
 <form>Truffaut</form>
-<tag lemma="Truffaut_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Truffaut_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-ln94200-173-p2s1Bw7</LM>
 </w.rf>
 <form>Godard</form>
-<tag lemma="Godard_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Godard_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-ln94200-173-p2s1Bw10</LM>
 </w.rf>
 <form>Rivette</form>
-<tag lemma="Rivette_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rivette_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-ln94200-173-p2s1Bw13</LM>
 </w.rf>
 <form>Rohmer</form>
-<tag lemma="Rohmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rohmer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-ln94200-173-p2s1Bw16</LM>
 </w.rf>
 <form>Chabrol</form>
-<tag lemma="Chabrol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chabrol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <LM>w#w-ln94200-173-p2s6w25</LM>
 </w.rf>
 <form>Belmondův</form>
-<tag lemma="Belmondův_;S_^(*2o)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Belmondův_;Y_^(*2o)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94200-173-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-ln94200-173-p3s1w23</LM>
 </w.rf>
 <form>Rohmera</form>
-<tag lemma="Rohmer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rohmer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-173-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1712,7 +1712,7 @@
 <LM>w#w-ln94200-173-p3s3w1</LM>
 </w.rf>
 <form>Chabrolově</form>
-<tag lemma="Chabrolův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Chabrolův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln94200-173-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1856,7 +1856,7 @@
 <LM>w#w-ln94200-173-p3s3w19</LM>
 </w.rf>
 <form>Chabrol</form>
-<tag lemma="Chabrol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chabrol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p3s3w20">
 <src.rf>manual</src.rf>
@@ -2092,7 +2092,7 @@
 <LM>w#w-ln94200-173-p3s5w1</LM>
 </w.rf>
 <form>Chabrol</form>
-<tag lemma="Chabrol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chabrol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p3s5w2">
 <src.rf>manual</src.rf>
@@ -2311,7 +2311,7 @@
 <LM>w#w-ln94200-173-p3s6w17</LM>
 </w.rf>
 <form>Truffauta</form>
-<tag lemma="Truffaut_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Truffaut_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-173-p3s6w18">
 <src.rf>manual</src.rf>
@@ -2327,7 +2327,7 @@
 <LM>w#w-ln94200-173-p3s6w19</LM>
 </w.rf>
 <form>Godarda</form>
-<tag lemma="Godard_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Godard_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-173-p3s6w20">
 <src.rf>manual</src.rf>
@@ -2992,7 +2992,7 @@
 <LM>w#w-ln94200-173-p4s1w11</LM>
 </w.rf>
 <form>Chabrola</form>
-<tag lemma="Chabrol_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chabrol_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-173-p4s1w12">
 <src.rf>manual</src.rf>
@@ -3592,7 +3592,7 @@
 <LM>w#w-ln94200-173-p5s1w1</LM>
 </w.rf>
 <form>Chabrol</form>
-<tag lemma="Chabrol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chabrol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p5s1w2">
 <src.rf>manual</src.rf>
@@ -4286,7 +4286,7 @@
 <LM>w#w-ln94200-173-p5s3w23</LM>
 </w.rf>
 <form>Popaula</form>
-<tag lemma="Popaul_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Popaul_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-173-p5s3w24">
 <src.rf>manual</src.rf>
@@ -4496,7 +4496,7 @@
 <LM>w#w-ln94200-173-p5s4w3</LM>
 </w.rf>
 <form>Chabrolových</form>
-<tag lemma="Chabrolův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Chabrolův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln94200-173-p5s4w4">
 <src.rf>manual</src.rf>
@@ -4658,7 +4658,7 @@
 <LM>w#w-ln94200-173-p6s1w2</LM>
 </w.rf>
 <form>Chabrola</form>
-<tag lemma="Chabrol_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Chabrol_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-173-p6s1w3">
 <src.rf>manual</src.rf>
@@ -5283,7 +5283,7 @@
 </w.rf>
 <form>la</form>
 <tag>
-<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFSX----1A----</AM>
+<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
@@ -5561,7 +5561,7 @@
 <LM>w#w-ln94200-173-p7s1w55</LM>
 </w.rf>
 <form>Millerových</form>
-<tag lemma="Millerův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Millerův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln94200-173-p7s1w56">
 <src.rf>manual</src.rf>
@@ -5595,8 +5595,8 @@
 <form>Clichy</form>
 <tag>
 <AM lemma="Clichy_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Clichy_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Clichy_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Clichy_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Clichy_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Clichy-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -6334,7 +6334,7 @@
 <LM>w#w-ln94200-173-p7s6w12</LM>
 </w.rf>
 <form>Audranové</form>
-<tag lemma="Audranová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Audranová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-173-p7s6w13">
 <src.rf>manual</src.rf>
@@ -6375,15 +6375,15 @@
 </w.rf>
 <form>Chabrolových</form>
 <tag>
-<AM lemma="Chabrolův_;S_^(*2)" src="orig">AUIP3M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto" recommended="1" selected="1">AUFP2M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto">AUFP6M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto">AUIP2M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto">AUIP6M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto">AUMP2M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto">AUMP6M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto">AUNP2M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto">AUNP6M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="orig">AUIP3M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="auto" recommended="1" selected="1">AUFP2M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="auto">AUFP6M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="auto">AUIP2M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="auto">AUIP6M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="auto">AUMP2M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="auto">AUMP6M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="auto">AUNP2M---------</AM>
+<AM lemma="Chabrolův_;Y_^(*2)" src="auto">AUNP6M---------</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s6w18">
@@ -6456,7 +6456,7 @@
 <LM>w#w-ln94200-173-p7s6w26</LM>
 </w.rf>
 <form>Belmondo</form>
-<tag lemma="Belmondo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Belmondo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p7s6w27">
 <src.rf>manual</src.rf>
@@ -6496,7 +6496,7 @@
 <LM>w#w-ln94200-173-p7s6w31</LM>
 </w.rf>
 <form>Brialy</form>
-<tag lemma="Brialy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brialy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p7s6w32">
 <src.rf>manual</src.rf>
@@ -6521,10 +6521,10 @@
 </w.rf>
 <form>Yanne</form>
 <tag>
-<AM lemma="Yanne_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Yanne_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Yann_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Yanne_;Y_,t" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Yanne-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Yanne_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Yanne-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s6w35">
@@ -6549,7 +6549,7 @@
 <LM>w#w-ln94200-173-p7s6w37</LM>
 </w.rf>
 <form>Farrowová</form>
-<tag lemma="Farrowová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Farrowová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p7s6w38">
 <src.rf>manual</src.rf>
@@ -6565,7 +6565,7 @@
 <LM>w#w-ln94200-173-p7s6w39</LM>
 </w.rf>
 <form>Orson</form>
-<tag lemma="Orson_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Orson_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p7s6w40">
 <src.rf>manual</src.rf>
@@ -6573,7 +6573,7 @@
 <LM>w#w-ln94200-173-p7s6w40</LM>
 </w.rf>
 <form>Welles</form>
-<tag lemma="Welles_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Welles_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p7s6w41">
 <src.rf>manual</src.rf>
@@ -6597,7 +6597,7 @@
 <LM>w#w-ln94200-173-p7s6w43</LM>
 </w.rf>
 <form>Piccoli</form>
-<tag lemma="Piccoli_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piccoli_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-173-p7s6w44">
 <src.rf>manual</src.rf>

@@ -103,7 +103,7 @@
 <LM>w#w-ln94207-26-p2s1Bw4</LM>
 </w.rf>
 <form>Černomyrdin</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-26-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-ln94207-26-p2s1Bw18</LM>
 </w.rf>
 <form>Mironova</form>
-<tag lemma="Mironov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mironov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-26-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-ln94207-26-p2s2w3</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-26-p2s2w4">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln94207-26-p2s5w10</LM>
 </w.rf>
 <form>Mironova</form>
-<tag lemma="Mironov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mironov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-26-p2s5w11">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 </w.rf>
 <form>Moskovskije</form>
 <tag>
-<AM lemma="Moskovskije_;R_,t" src="orig">AAFP1----1A----</AM>
+<AM lemma="Moskovskije_;m_,t" src="orig">AAFP1----1A----</AM>
 <AM lemma="Moskovskije-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -732,7 +732,7 @@
 </w.rf>
 <form>novosti</form>
 <tag>
-<AM lemma="novosti_;R_,t" src="orig">NNFP1-----A----</AM>
+<AM lemma="novosti_;m_,t" src="orig">NNFP1-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFP5-----A----</AM>

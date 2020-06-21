@@ -45,7 +45,7 @@
 <LM>w#w-lnd92256-060-p2s1w1</LM>
 </w.rf>
 <form>Škodovy</form>
-<tag lemma="Škodův-3_;S_^(*4a-3)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Škodův-3_;Y_^(*4a-3)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-lnd92256-060-p2s1w2">
 <src.rf>manual</src.rf>
@@ -2604,7 +2604,7 @@
 <LM>w#w-lnd92256-060-p5s5w16</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-060-p5s5w17">
 <src.rf>manual</src.rf>
@@ -2644,7 +2644,7 @@
 <LM>w#w-lnd92256-060-p5s5w21</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-060-p5s5w22">
 <src.rf>manual</src.rf>
@@ -2714,8 +2714,8 @@
 <AM lemma="jakoby-2" src="orig">Db-------------</AM>
 <AM lemma="Jakob_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jakob_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Jakoby_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jakoby_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Jakoby_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jakoby_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="jakoby" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
@@ -3026,7 +3026,7 @@
 <LM>w#w-lnd92256-060-p6s1w32</LM>
 </w.rf>
 <form>Vrba</form>
-<tag lemma="Vrba_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vrba_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-060-p6s1w33">
 <src.rf>manual</src.rf>
@@ -3583,7 +3583,7 @@
 <LM>w#w-lnd92256-060-p7s2w17</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-060-p7s2w18">
 <src.rf>manual</src.rf>
@@ -3831,7 +3831,7 @@
 <LM>w#w-lnd92256-060-p7s2w47</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-060-p7s2w48">
 <src.rf>manual</src.rf>
@@ -4118,7 +4118,7 @@
 <LM>w#w-lnd92256-060-p7s4w8</LM>
 </w.rf>
 <form>Soudkové</form>
-<tag lemma="Soudek_;S" src="auto" selected="1">NNMP1-----A---1</tag>
+<tag lemma="Soudek_;Y" src="auto" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-lnd92256-060-p7s4w9">
 <src.rf>manual</src.rf>
@@ -4770,7 +4770,7 @@
 <LM>w#w-lnd92256-060-p9s1w2</LM>
 </w.rf>
 <form>KŘÍŽ</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

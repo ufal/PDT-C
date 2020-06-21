@@ -708,7 +708,7 @@
 </w.rf>
 <form>Corriere</form>
 <tag>
-<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Corriere_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -719,7 +719,7 @@
 </w.rf>
 <form>della</form>
 <tag>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="orig">RR--X----------</AM>
+<AM lemma="della_;m_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="orig">RR--X----------</AM>
 <AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -730,8 +730,8 @@
 </w.rf>
 <form>Serra</form>
 <tag>
-<AM lemma="Serra_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Serra_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Serra_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Serra_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Serra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -760,7 +760,7 @@
 <LM>w#w-ln94201-50-p2s5w15</LM>
 </w.rf>
 <form>Llerová</form>
-<tag lemma="Llerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Llerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-50-p2s5w16">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln94201-50-p2s5w20</LM>
 </w.rf>
 <form>Moraviovi</form>
-<tag lemma="Moravia-2_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Moravia-2_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94201-50-p2s5w21">
 <src.rf>manual</src.rf>

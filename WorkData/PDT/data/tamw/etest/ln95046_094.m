@@ -45,7 +45,7 @@
 <LM>w#w-ln95046-094-p2s1w3</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-094-p2s1w4">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95046-094-p2s2w4</LM>
 </w.rf>
 <form>Špaček</form>
-<tag lemma="Špaček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špaček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-094-p2s2w5">
 <src.rf>manual</src.rf>
@@ -264,8 +264,8 @@
 </w.rf>
 <form>VZP</form>
 <tag>
-<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-094-p2s2w15">
@@ -282,7 +282,7 @@
 <LM>w#w-ln95046-094-p2s2w16</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-094-p2s2w17">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-ln95046-094-p2s3w1</LM>
 </w.rf>
 <form>Špaček</form>
-<tag lemma="Špaček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špaček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-094-p2s3w2">
 <src.rf>manual</src.rf>

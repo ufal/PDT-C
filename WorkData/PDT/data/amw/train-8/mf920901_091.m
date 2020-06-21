@@ -27,7 +27,7 @@
 <LM>w#w-mf920901-091-p1s1w2</LM>
 </w.rf>
 <form>BARBER</form>
-<tag lemma="Barber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-091-p1s1w3">
 <src.rf>manual</src.rf>
@@ -80,7 +80,7 @@
 <LM>w#w-mf920901-091-p2s1w4</LM>
 </w.rf>
 <form>Barber</form>
-<tag lemma="Barber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-091-p2s1w5">
 <src.rf>manual</src.rf>
@@ -121,8 +121,8 @@
 </w.rf>
 <form>Acker</form>
 <tag>
-<AM lemma="Acker_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Acker_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Acker_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Acker_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-091-p2s1w10">
@@ -131,7 +131,7 @@
 <LM>w#w-mf920901-091-p2s1w10</LM>
 </w.rf>
 <form>Bilk</form>
-<tag lemma="Bilk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bilk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-091-p2s1w11">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 </w.rf>
 <form>Jazz</form>
 <tag>
-<AM lemma="Jazz_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Jazz_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Jazz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

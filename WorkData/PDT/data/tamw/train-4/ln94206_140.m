@@ -79,7 +79,7 @@
 <LM>w#w-ln94206-140-p2s1Bw2</LM>
 </w.rf>
 <form>Moudrý</form>
-<tag lemma="Moudrý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moudrý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-140-p2s1C">
@@ -2248,7 +2248,7 @@
 <LM>w#w-ln94206-140-p6s1w11</LM>
 </w.rf>
 <form>Hitlerovi</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94206-140-p6s1w12">
 <src.rf>manual</src.rf>

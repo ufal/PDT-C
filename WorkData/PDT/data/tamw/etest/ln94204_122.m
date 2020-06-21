@@ -37,7 +37,7 @@
 <LM>w#w-ln94204-122-p3s6w1</LM>
 </w.rf>
 <form>Zdráhal</form>
-<tag lemma="Zdráhal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zdráhal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-122-p3s6w2">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 <LM>w#w-ln94204-122-p3s7w3</LM>
 </w.rf>
 <form>Káňa</form>
-<tag lemma="Káňa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Káňa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-122-p3s7w4">
 <src.rf>manual</src.rf>
@@ -89,7 +89,7 @@
 <LM>w#w-ln94204-122-p3s10w1</LM>
 </w.rf>
 <form>Rosenberger</form>
-<tag lemma="Rosenberger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rosenberger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-122-p3s10w2">
 <src.rf>manual</src.rf>
@@ -166,8 +166,8 @@
 </w.rf>
 <form>NH</form>
 <tag>
-<AM lemma="NH_:B_;K_^(Nová_Huť)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NH_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NH_:B_;m_^(Nová_Huť)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NH_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -193,7 +193,7 @@
 <LM>w#w-ln94204-122-p11s1Bw10</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-122-p11s1Bw11">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-ln94204-122-p11s1Bw11</LM>
 </w.rf>
 <form>Bertrange</form>
-<tag lemma="Bertrange_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Bertrange_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-122-p11s1Bw12">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-mf930708-141-p1s1w6</LM>
 </w.rf>
 <form>Becherovky</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p1s1w7">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-mf930708-141-p2s1w9</LM>
 </w.rf>
 <form>Becher</form>
-<tag lemma="Becher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Becher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p2s1w10">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-mf930708-141-p2s3w11</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1260,7 +1260,7 @@
 <LM>w#w-mf930708-141-p3s4w9</LM>
 </w.rf>
 <form>Lupínek</form>
-<tag lemma="Lupínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lupínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-mf930708-141-p3s5w4</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-mf930708-141-p3s5w22</LM>
 </w.rf>
 <form>Becherovky</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p3s5w23">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-mf930708-141-p4s1w5</LM>
 </w.rf>
 <form>Becherovce</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-141-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 <LM>w#w-mf930708-141-p4s1w10</LM>
 </w.rf>
 <form>Underberg</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <LM>w#w-mf930708-141-p4s1w23</LM>
 </w.rf>
 <form>Becherů</form>
-<tag lemma="Becher_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Becher_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p4s1w24">
 <src.rf>manual</src.rf>
@@ -2063,7 +2063,7 @@
 <LM>w#w-mf930708-141-p4s2w8</LM>
 </w.rf>
 <form>becherovky</form>
-<tag lemma="becherovka_;R" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2127,7 +2127,7 @@
 <LM>w#w-mf930708-141-p4s2w16</LM>
 </w.rf>
 <form>becherovky</form>
-<tag lemma="becherovka_;R" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p4s2w17">
 <src.rf>manual</src.rf>
@@ -2278,7 +2278,7 @@
 <LM>w#w-mf930708-141-p4s4w1</LM>
 </w.rf>
 <form>Underberg</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p4s4w2">
 <src.rf>manual</src.rf>
@@ -2401,7 +2401,7 @@
 <LM>w#w-mf930708-141-p4s4w16</LM>
 </w.rf>
 <form>Becherovou</form>
-<tag lemma="Becherová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Becherová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930708-141-p4s4w17">
 <src.rf>manual</src.rf>
@@ -2614,7 +2614,7 @@
 <LM>w#w-mf930708-141-p4s5w15</LM>
 </w.rf>
 <form>becherovky</form>
-<tag lemma="becherovka_;R" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p4s5w16">
 <src.rf>manual</src.rf>
@@ -2707,7 +2707,7 @@
 <LM>w#w-mf930708-141-p5s1w3</LM>
 </w.rf>
 <form>Underbergu</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2747,7 +2747,7 @@
 <LM>w#w-mf930708-141-p5s1w8</LM>
 </w.rf>
 <form>Lupínek</form>
-<tag lemma="Lupínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lupínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2795,7 +2795,7 @@
 <LM>w#w-mf930708-141-p5s1w14</LM>
 </w.rf>
 <form>Jelínka</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s1w15">
 <src.rf>manual</src.rf>
@@ -2829,7 +2829,7 @@
 <LM>w#w-mf930708-141-p5s2w3</LM>
 </w.rf>
 <form>Underbergu</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2923,7 +2923,7 @@
 <LM>w#w-mf930708-141-p5s2w14</LM>
 </w.rf>
 <form>Lupínek</form>
-<tag lemma="Lupínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lupínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2941,7 +2941,7 @@
 <LM>w#w-mf930708-141-p5s3w1</LM>
 </w.rf>
 <form>Becherovka</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s3w2">
 <src.rf>manual</src.rf>
@@ -3098,7 +3098,7 @@
 <LM>w#w-mf930708-141-p5s4w1</LM>
 </w.rf>
 <form>Underberg</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s4w2">
 <src.rf>manual</src.rf>
@@ -3164,7 +3164,7 @@
 <LM>w#w-mf930708-141-p5s5w2</LM>
 </w.rf>
 <form>Underberg</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s5w3">
 <src.rf>manual</src.rf>
@@ -3340,7 +3340,7 @@
 <LM>w#w-mf930708-141-p5s5w24</LM>
 </w.rf>
 <form>Lupínek</form>
-<tag lemma="Lupínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lupínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s5w25">
 <src.rf>manual</src.rf>
@@ -3414,7 +3414,7 @@
 <LM>w#w-mf930708-141-p5s6w8</LM>
 </w.rf>
 <form>Underbergem</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS7-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930708-141-p5s6w9">
 <src.rf>manual</src.rf>
@@ -3662,7 +3662,7 @@
 <LM>w#w-mf930708-141-p6s2w8</LM>
 </w.rf>
 <form>Becherovce</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-141-p6s2w9">
 <src.rf>manual</src.rf>
@@ -3924,7 +3924,7 @@
 <LM>w#w-mf930708-141-p6s3w15</LM>
 </w.rf>
 <form>Underbergu</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p6s3w16">
 <src.rf>manual</src.rf>
@@ -3940,7 +3940,7 @@
 <LM>w#w-mf930708-141-p6s3w17</LM>
 </w.rf>
 <form>Becherovky</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p6s3w18">
 <src.rf>manual</src.rf>
@@ -3982,7 +3982,7 @@
 <LM>w#w-mf930708-141-p7s1w4</LM>
 </w.rf>
 <form>Becherovku</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930708-141-p7s1w5">
 <src.rf>manual</src.rf>
@@ -4049,7 +4049,7 @@
 <LM>w#w-mf930708-141-p7s1w12</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p7s1w13">
 <src.rf>manual</src.rf>
@@ -4294,7 +4294,7 @@
 <LM>w#w-mf930708-141-p7s2w6</LM>
 </w.rf>
 <form>Underbergu</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p7s2w7">
 <src.rf>manual</src.rf>
@@ -4408,7 +4408,7 @@
 <LM>w#w-mf930708-141-p7s3w9</LM>
 </w.rf>
 <form>Lupínek</form>
-<tag lemma="Lupínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lupínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p7s3w10">
 <src.rf>manual</src.rf>
@@ -4490,7 +4490,7 @@
 <LM>w#w-mf930708-141-p7s4w9</LM>
 </w.rf>
 <form>Becherovky</form>
-<tag lemma="Becherovka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Becherovka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-141-p7s4w10">
 <src.rf>manual</src.rf>
@@ -4570,7 +4570,7 @@
 <LM>w#w-mf930708-141-p7s4w19</LM>
 </w.rf>
 <form>becherovku</form>
-<tag lemma="becherovka_;R" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="becherovka_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930708-141-p7s4w20">
 <src.rf>manual</src.rf>
@@ -4631,7 +4631,7 @@
 <LM>w#w-mf930708-141-p7s5w3</LM>
 </w.rf>
 <form>Underberg</form>
-<tag lemma="Underberg_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Underberg_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-141-p7s5w4">
 <src.rf>manual</src.rf>
@@ -4671,7 +4671,7 @@
 <LM>w#w-mf930708-141-p7s5w8</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf930708-141-p7s5w9">
 <src.rf>manual</src.rf>

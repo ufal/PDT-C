@@ -1610,7 +1610,7 @@
 <LM>w#w-vesm9212-048-p4s1w2</LM>
 </w.rf>
 <form>FIALA</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-048-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 <LM>w#w-vesm9212-048-p4s1w5</LM>
 </w.rf>
 <form>SCHLEMMER</form>
-<tag lemma="Schlemmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schlemmer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-048-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-vesm9212-048-p4s1w13</LM>
 </w.rf>
 <form>Orbis</form>
-<tag lemma="Orbis_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Orbis_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-048-p4s1w14">
 <src.rf>manual</src.rf>

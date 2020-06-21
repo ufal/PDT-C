@@ -27,7 +27,7 @@
 <LM>w#w-mf920925-089-p1s1w2</LM>
 </w.rf>
 <form>NĚMCI</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920925-089-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf920925-089-p1s1w4</LM>
 </w.rf>
 <form>ČEŠI</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920925-089-p1s1w5">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-mf920925-089-p3s1Aw2</LM>
 </w.rf>
 <form>NĚMCI</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920925-089-p3s1Aw3">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf920925-089-p3s1Aw4</LM>
 </w.rf>
 <form>ČEŠI</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920925-089-p3s1Aw5">
 <src.rf>manual</src.rf>
@@ -1198,7 +1198,7 @@
 <LM>w#w-mf920925-089-p3s6w4</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1214,7 +1214,7 @@
 <LM>w#w-mf920925-089-p3s6w6</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-mf920925-089-p4s1w9</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p4s1w10">
 <src.rf>manual</src.rf>
@@ -3141,7 +3141,7 @@
 <LM>w#w-mf920925-089-p4s10w20</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf920925-089-p4s10w21">
 <src.rf>manual</src.rf>
@@ -3788,7 +3788,7 @@
 <LM>w#w-mf920925-089-p5s1w15</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p5s1w16">
 <src.rf>manual</src.rf>
@@ -3804,7 +3804,7 @@
 <LM>w#w-mf920925-089-p5s1w17</LM>
 </w.rf>
 <form>Čechům</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf920925-089-p5s1w18">
 <src.rf>manual</src.rf>
@@ -4498,7 +4498,7 @@
 </w.rf>
 <form>DNSAP</form>
 <tag>
-<AM lemma="DNSAP-1_:B_;K_,t_^(Deutsche_nationalsoz._Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DNSAP-1_:B_;m_,t_^(Deutsche_nationalsoz._Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNSAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4560,7 +4560,7 @@
 </w.rf>
 <form>DNP</form>
 <tag>
-<AM lemma="DNP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DNP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -4640,7 +4640,7 @@
 <LM>w#w-mf920925-089-p5s5w7</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p5s5w8">
 <src.rf>manual</src.rf>
@@ -5160,8 +5160,8 @@
 </w.rf>
 <form>Volkssport</form>
 <tag>
-<AM lemma="Volkssport_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Volkssport_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Volkssport_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Volkssport_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-089-p5s8w10">
@@ -5219,7 +5219,7 @@
 </w.rf>
 <form>SA</form>
 <tag>
-<AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5313,7 +5313,7 @@
 </w.rf>
 <form>NSDAP</form>
 <tag>
-<AM lemma="NSDAP-1_:B_;K_,t_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NSDAP-1_:B_;m_,t_^(Nationalsoz._Deutsche_Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NSDAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5347,7 +5347,7 @@
 <LM>w#w-mf920925-089-p5s8w31</LM>
 </w.rf>
 <form>Hitlerem</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-089-p5s8w32">
 <src.rf>manual</src.rf>
@@ -5520,7 +5520,7 @@
 <LM>w#w-mf920925-089-p5s9w20</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p5s9w21">
 <src.rf>manual</src.rf>
@@ -5601,8 +5601,8 @@
 </w.rf>
 <form>Volkssportu</form>
 <tag>
-<AM lemma="Volkssport_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Volkssport_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Volkssport_;m_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Volkssport_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-089-p5s9w31">
@@ -5911,7 +5911,7 @@
 <LM>w#w-mf920925-089-p5s11w2</LM>
 </w.rf>
 <form>HITLEROVOU</form>
-<tag lemma="Hitlerův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Hitlerův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-mf920925-089-p5s11w3">
 <src.rf>manual</src.rf>
@@ -5961,7 +5961,7 @@
 <LM>w#w-mf920925-089-p6s1w5</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-089-p6s1w6">
 <src.rf>manual</src.rf>
@@ -6203,7 +6203,7 @@
 <LM>w#w-mf920925-089-p6s3w15</LM>
 </w.rf>
 <form>Beneše</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p6s3w16">
 <src.rf>manual</src.rf>
@@ -6892,7 +6892,7 @@
 <LM>w#w-mf920925-089-p7s3w4</LM>
 </w.rf>
 <form>Lessinga</form>
-<tag lemma="Lessing_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lessing_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p7s3w5">
 <src.rf>manual</src.rf>
@@ -6956,7 +6956,7 @@
 <LM>w#w-mf920925-089-p7s3w12</LM>
 </w.rf>
 <form>Formise</form>
-<tag lemma="Formis_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Formis_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-089-p7s3w13">
 <src.rf>manual</src.rf>
@@ -7258,7 +7258,7 @@
 </w.rf>
 <form>DNSAP</form>
 <tag>
-<AM lemma="DNSAP-1_:B_;K_,t_^(Deutsche_nationalsoz._Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DNSAP-1_:B_;m_,t_^(Deutsche_nationalsoz._Arbeiterpartei)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNSAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7277,7 +7277,7 @@
 </w.rf>
 <form>DNP</form>
 <tag>
-<AM lemma="DNP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DNP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

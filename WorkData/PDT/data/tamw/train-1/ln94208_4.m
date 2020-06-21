@@ -68,11 +68,11 @@
 </w.rf>
 <form>pola</form>
 <tag>
-<AM lemma="Polo-2_;R_^(vozidlo)" src="orig">NNNS2-----A----</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP1-----A----</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP4-----A----</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP5-----A----</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto" selected="1">NNNS2-----A----</AM>
+<AM lemma="Polo-2_;m_^(vozidlo)" src="orig">NNNS2-----A----</AM>
+<AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP1-----A----</AM>
+<AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP4-----A----</AM>
+<AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP5-----A----</AM>
+<AM lemma="polo_;m_^(vozidlo)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP1-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP4-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP5-----A----</AM>

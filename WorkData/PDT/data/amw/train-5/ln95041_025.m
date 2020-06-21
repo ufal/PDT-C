@@ -35,7 +35,7 @@
 <LM>w#w-ln95041-025-p1s1w3</LM>
 </w.rf>
 <form>Ajaxu</form>
-<tag lemma="Ajax-1_;K_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ajax-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95041-025-p2s1A">
@@ -71,7 +71,7 @@
 <LM>w#w-ln95041-025-p2s1Bw2</LM>
 </w.rf>
 <form>Ajaxu</form>
-<tag lemma="Ajax-1_;K_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ajax-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95041-025-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-ln95041-025-p2s2w5</LM>
 </w.rf>
 <form>Blinda</form>
-<tag lemma="Blind_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Blind_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-025-p2s2w6">
 <src.rf>manual</src.rf>

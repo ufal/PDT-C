@@ -69,7 +69,7 @@
 <LM>w#w-mf920923-115-p1s1Bw1</LM>
 </w.rf>
 <form>JARUZELSKI</form>
-<tag lemma="Jaruzelski_;S" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Jaruzelski_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-mf920923-115-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 </w.rf>
 <form>ÚV</form>
 <tag>
-<AM lemma="ÚV_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -271,7 +271,7 @@
 </w.rf>
 <form>PSDS</form>
 <tag>
-<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PSDS-1_:B_;m_^(Polská_sjednocená_dělnická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PSDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -321,7 +321,7 @@
 <LM>w#w-mf920923-115-p2s2w25</LM>
 </w.rf>
 <form>Jaruzelski</form>
-<tag lemma="Jaruzelski_;S" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Jaruzelski_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-mf920923-115-p2s2w26">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-mf920923-115-p2s4w1</LM>
 </w.rf>
 <form>Jaruzelski</form>
-<tag lemma="Jaruzelski_;S" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Jaruzelski_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-mf920923-115-p2s4w2">
 <src.rf>manual</src.rf>

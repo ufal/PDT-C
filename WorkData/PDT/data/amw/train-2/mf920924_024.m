@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-024-p1s1w3</LM>
 </w.rf>
 <form>Škodu</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-024-p2s1">
@@ -62,8 +62,8 @@
 </w.rf>
 <form>hč</form>
 <tag>
-<AM lemma="hč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-024-p2s1w4">
@@ -122,7 +122,7 @@
 <LM>w#w-mf920924-024-p2s2w5</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-024-p2s2w6">
 <src.rf>manual</src.rf>
@@ -188,7 +188,7 @@
 <form>Škodovky</form>
 <tag>
 <AM lemma="škodovka" src="orig">NNFS2-----A----</AM>
-<AM lemma="Škodovka_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Škodovka_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-024-p2s2w14">
@@ -283,7 +283,7 @@
 <LM>w#w-mf920924-024-p2s2w24</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-024-p2s2w25">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-mf920924-024-p2s2w25</LM>
 </w.rf>
 <form>Energo</form>
-<tag lemma="Energo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Energo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920924-024-p2s2w26">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-mf920924-024-p2s2w27</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-024-p2s2w28">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-mf920924-024-p2s3w6</LM>
 </w.rf>
 <form>Siemensu</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920924-024-p2s3w7">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-mf920924-024-p2s4w10</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-024-p2s4w11">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 </w.rf>
 <form>Trnek</form>
 <tag>
-<AM lemma="Trnek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Trnek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="trnka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -608,7 +608,7 @@
 <LM>w#w-mf920924-024-p2s4w21</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-024-p2s4w22">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-mf920924-024-p2s6w4</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-024-p2s6w5">
 <src.rf>manual</src.rf>

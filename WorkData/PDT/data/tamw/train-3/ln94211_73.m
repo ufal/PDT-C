@@ -152,7 +152,7 @@
 </w.rf>
 <form>SDS</form>
 <tag>
-<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -413,7 +413,7 @@
 <LM>w#w-ln94211-73-p2s1Bw43</LM>
 </w.rf>
 <form>Berova</form>
-<tag lemma="Berov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Berov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-73-p2s1Bw44">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-ln94211-73-p2s2w2</LM>
 </w.rf>
 <form>Dimitrov</form>
-<tag lemma="Dimitrov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dimitrov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-73-p2s2w3">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 </w.rf>
 <form>SDS</form>
 <tag>
-<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -611,7 +611,7 @@
 </w.rf>
 <form>SDS</form>
 <tag>
-<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -736,7 +736,7 @@
 </w.rf>
 <form>SDS</form>
 <tag>
-<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -885,7 +885,7 @@
 </w.rf>
 <form>SDS</form>
 <tag>
-<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

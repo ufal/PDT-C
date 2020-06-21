@@ -1106,7 +1106,7 @@
 <LM>w#w-mf920901-082-p3s3w5</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-082-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1689,7 +1689,7 @@
 </w.rf>
 <form>ČSD</form>
 <tag>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1739,7 +1739,7 @@
 <LM>w#w-mf920901-082-p4s2w17</LM>
 </w.rf>
 <form>Bresfeld</form>
-<tag lemma="Bresfeld_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bresfeld_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-082-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2237,7 +2237,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2248,7 +2248,7 @@
 </w.rf>
 <form>Reichsbahn</form>
 <tag>
-<AM lemma="Reichsbahn_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Reichsbahn_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Reichsbahn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2886,7 +2886,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2896,7 +2896,7 @@
 <LM>w#w-mf920901-082-p4s9w7</LM>
 </w.rf>
 <form>Dubá</form>
-<tag lemma="Dubá_;G_;S_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dubá_;G_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-082-p4s9w8">
 <src.rf>manual</src.rf>

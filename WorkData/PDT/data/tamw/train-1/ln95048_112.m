@@ -95,7 +95,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -105,7 +105,7 @@
 <LM>w#w-ln95048-112-p2s1Aw6</LM>
 </w.rf>
 <form>Metall</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metall_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-112-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-ln95048-112-p2s1Bw3</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95048-112-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -756,7 +756,7 @@
 <LM>w#w-ln95048-112-p2s4w28</LM>
 </w.rf>
 <form>Metall</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metall_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-112-p2s4w29">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-ln95048-112-p3s6w1</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-112-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1891,7 +1891,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1901,7 +1901,7 @@
 <LM>w#w-ln95048-112-p4s1w12</LM>
 </w.rf>
 <form>Metallu</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metall_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-112-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2376,7 +2376,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2386,7 +2386,7 @@
 <LM>w#w-ln95048-112-p4s6w6</LM>
 </w.rf>
 <form>Metall</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metall_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-112-p4s6w7">
 <src.rf>manual</src.rf>
@@ -3152,8 +3152,8 @@
 </w.rf>
 <form>Werner</form>
 <tag>
-<AM lemma="Werner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Werner_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Werner_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Werner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p5s6w27">
@@ -3162,7 +3162,7 @@
 <LM>w#w-ln95048-112-p5s6w27</LM>
 </w.rf>
 <form>Neugebauer</form>
-<tag lemma="Neugebauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neugebauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-112-p5s6w28">
 <src.rf>manual</src.rf>
@@ -3547,7 +3547,7 @@
 <LM>w#w-ln95048-112-p6s2w26</LM>
 </w.rf>
 <form>Stammová</form>
-<tag lemma="Stammová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Stammová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-112-p6s2w27">
 <src.rf>manual</src.rf>
@@ -3564,7 +3564,7 @@
 </w.rf>
 <form>CSU</form>
 <tag>
-<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3732,8 +3732,8 @@
 </w.rf>
 <form>Rainer</form>
 <tag>
-<AM lemma="Rainer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rainer_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rainer_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rainer_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p6s3w19">
@@ -3742,7 +3742,7 @@
 <LM>w#w-ln95048-112-p6s3w19</LM>
 </w.rf>
 <form>Haungs</form>
-<tag lemma="Haungs_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haungs_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-112-p6s3w20">
 <src.rf>manual</src.rf>
@@ -3915,8 +3915,8 @@
 </w.rf>
 <form>Gesamtmetallem</form>
 <tag>
-<AM lemma="Gesamtmetall_;K_,t" src="orig">NNIS7-----A----</AM>
-<AM lemma="Gesamtmetall_;K" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Gesamtmetall_;m_,t" src="orig">NNIS7-----A----</AM>
+<AM lemma="Gesamtmetall_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p6s5w4">
@@ -4064,7 +4064,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4074,7 +4074,7 @@
 <LM>w#w-ln95048-112-p6s6w7</LM>
 </w.rf>
 <form>Metallu</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metall_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-112-p6s6w8">
 <src.rf>manual</src.rf>
@@ -4526,7 +4526,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4538,7 +4538,7 @@
 <form>Chemie</form>
 <tag>
 <AM lemma="chemie" src="orig">NNFS2-----A----</AM>
-<AM lemma="Chemie_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Chemie_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-112-p6s10w17">
@@ -4638,7 +4638,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4648,7 +4648,7 @@
 <LM>w#w-ln95048-112-p6s11w6</LM>
 </w.rf>
 <form>Metallu</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metall_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-112-p6s11w7">
 <src.rf>manual</src.rf>
@@ -4746,7 +4746,7 @@
 <LM>w#w-ln95048-112-p7s1w11</LM>
 </w.rf>
 <form>Kohla</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-112-p7s1w12">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd92253-036-p1s1w1</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-036-p1s1w2">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd92258-149-p1s1w2</LM>
 </w.rf>
 <form>SRBOVÉ</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p1s1w3">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 <LM>w#w-lnd92258-149-p3s2w2</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p3s2w3">
 <src.rf>manual</src.rf>
@@ -204,8 +204,8 @@
 </w.rf>
 <form>Tanjug</form>
 <tag>
-<AM lemma="Tanjug_:B_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tanjug_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tanjug_:B_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tanjug_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-149-p3s3w5">
@@ -501,7 +501,7 @@
 <LM>w#w-lnd92258-149-p4s1w21</LM>
 </w.rf>
 <form>Cyrus</form>
-<tag lemma="Cyrus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cyrus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p4s1w22">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-lnd92258-149-p4s1w22</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p4s1w23">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-lnd92258-149-p4s2w3</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-lnd92258-149-p4s3w9</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-lnd92258-149-p5s1w18</LM>
 </w.rf>
 <form>UNICEF</form>
-<tag lemma="UNICEF_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag lemma="UNICEF_:B_;m" src="auto" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-149-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1748,7 +1748,7 @@
 <LM>w#w-lnd92258-149-p6s1w7</LM>
 </w.rf>
 <form>Paniće</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1942,7 +1942,7 @@
 <LM>w#w-lnd92258-149-p6s2w7</LM>
 </w.rf>
 <form>Paniće</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-149-p6s2w8">
 <src.rf>manual</src.rf>

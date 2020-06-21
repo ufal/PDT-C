@@ -21,13 +21,13 @@
 <form>Taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="Tako-1_;G_;R" src="auto">NNNP7-----A----</AM>
+<AM lemma="Tako-1_;G_;m" src="auto">NNNP7-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -1085,7 +1085,7 @@
 </w.rf>
 <form>SNB</form>
 <tag>
-<AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SNB-1_:B_;m_^(Sbor_národní_bezpečnosti)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1485,7 +1485,7 @@
 <LM>w#w-lnd91301-044-p3s1w2</LM>
 </w.rf>
 <form>CHUDARA</form>
-<tag lemma="Chudara_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chudara_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

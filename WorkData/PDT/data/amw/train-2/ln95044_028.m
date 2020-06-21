@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-028-p1s1w1</LM>
 </w.rf>
 <form>Kubala</form>
-<tag lemma="Kubala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-028-p1s1w2">
 <src.rf>manual</src.rf>
@@ -96,7 +96,7 @@
 <LM>w#w-ln95044-028-p2s1Bw4</LM>
 </w.rf>
 <form>Kubala</form>
-<tag lemma="Kubala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-028-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-ln95044-028-p2s3w1</LM>
 </w.rf>
 <form>Kubala</form>
-<tag lemma="Kubala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-028-p2s3w2">
 <src.rf>manual</src.rf>

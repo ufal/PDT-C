@@ -20,7 +20,7 @@
 </w.rf>
 <form>PIB</form>
 <tag>
-<AM lemma="PIB-2_:B_;K_^(Pojišťovna_IPB)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PIB-2_:B_;m_^(Pojišťovna_IPB)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PIB-1_:B_,t_^(produit_intérieur_brut)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PIB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -172,7 +172,7 @@
 </w.rf>
 <form>IB</form>
 <tag>
-<AM lemma="IB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
@@ -291,7 +291,7 @@
 <LM>w#w-ln95044-010-p2s2w6</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IPB_:B_;m_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95044-010-p2s2w7">
 <src.rf>manual</src.rf>

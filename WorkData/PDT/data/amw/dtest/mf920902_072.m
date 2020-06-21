@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-072-p1s1w1</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-072-p1s1w2">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -325,7 +325,7 @@
 <LM>w#w-mf920902-072-p2s2w12</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-072-p2s2w13">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-mf920902-072-p2s2w39</LM>
 </w.rf>
 <form>Jacquemart</form>
-<tag lemma="Jacquemart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jacquemart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-072-p2s2w40">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-mf920902-072-p2s4w11</LM>
 </w.rf>
 <form>Berger</form>
-<tag lemma="Berger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-072-p2s4w12">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-mf920902-072-p2s4w17</LM>
 </w.rf>
 <form>Deboecka</form>
-<tag lemma="Deboeck_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Deboeck_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-072-p2s4w18">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-mf920902-072-p2s5w7</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-072-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf920902-072-p2s6w16</LM>
 </w.rf>
 <form>Rusnáka</form>
-<tag lemma="Rusnák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rusnák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-072-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf920902-072-p2s7w12</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-072-p2s7w13">
 <src.rf>manual</src.rf>

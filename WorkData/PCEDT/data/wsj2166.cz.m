@@ -25,9 +25,9 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="F-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="F-33" src="auto">Q3-------------</AM>
+<AM lemma="F-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="F-33" src="auto">Q3-------------</AM>
 <AM lemma="f-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -46,7 +46,7 @@
 </w.rf>
 <form>Kaplan</form>
 <tag>
-<AM lemma="Kaplan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kaplan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="kaplan" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -299,9 +299,9 @@
 <tag>
 <AM lemma="AM-88" src="auto" selected="1">BNXXX-----A----</AM>
 <AM lemma="Am-77_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="americium_:B_;H" src="auto">NNNXX-----A---8</AM>
+<AM lemma="americium_:B_;U" src="auto">NNNXX-----A---8</AM>
 <AM lemma="am-77" src="auto">F%-------------</AM>
-<AM lemma="am-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="am-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2166-001-p1s1W9-Ta">
@@ -312,7 +312,7 @@
 <form>International</form>
 <tag>
 <AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -324,9 +324,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -350,9 +350,9 @@
 <tag>
 <AM lemma="AM-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="Am-77_,t" src="auto">F%-------------</AM>
-<AM lemma="americium_:B_;H" src="auto">NNNXX-----A---8</AM>
+<AM lemma="americium_:B_;U" src="auto">NNNXX-----A---8</AM>
 <AM lemma="am-77" src="auto">F%-------------</AM>
-<AM lemma="am-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="am-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2166-001-p1s1W13-Ta">

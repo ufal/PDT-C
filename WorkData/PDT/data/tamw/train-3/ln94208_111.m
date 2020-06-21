@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-111-p1s1w1</LM>
 </w.rf>
 <form>Hořava</form>
-<tag lemma="Hořava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hořava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-111-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-ln94208-111-p1s1w3</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-111-p2s1A">
@@ -62,8 +62,8 @@
 </w.rf>
 <form>bra</form>
 <tag>
-<AM lemma="bra-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bra-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bra-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bra-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-111-p2s1Aw4">
@@ -106,7 +106,7 @@
 <LM>w#w-ln94208-111-p2s1Bw3</LM>
 </w.rf>
 <form>Růžičkovi</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS6-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-ln94208-111-p2s1Bw6</LM>
 </w.rf>
 <form>Jelínkovi</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln94208-111-p2s2w8</LM>
 </w.rf>
 <form>Hořava</form>
-<tag lemma="Hořava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hořava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s2w9">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -505,7 +505,7 @@
 <LM>w#w-ln94208-111-p2s3w27</LM>
 </w.rf>
 <form>Herstus</form>
-<tag lemma="Herstus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herstus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s3w28">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-ln94208-111-p2s4w1</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94208-111-p2s4w2">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-ln94208-111-p2s4w7</LM>
 </w.rf>
 <form>Kapulovského</form>
-<tag lemma="Kapulovský_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kapulovský_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s4w8">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-ln94208-111-p2s5w23</LM>
 </w.rf>
 <form>Herstus</form>
-<tag lemma="Herstus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herstus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s5w24">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-ln94208-111-p2s6w3</LM>
 </w.rf>
 <form>Nečase</form>
-<tag lemma="Nečas_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Nečas_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s6w4">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-ln94208-111-p2s6w5</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94208-111-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-ln94208-111-p2s7w6</LM>
 </w.rf>
 <form>Herstus</form>
-<tag lemma="Herstus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herstus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s7w7">
 <src.rf>manual</src.rf>

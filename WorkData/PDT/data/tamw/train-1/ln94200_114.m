@@ -333,7 +333,7 @@
 </w.rf>
 <form>Šin</form>
 <tag>
-<AM lemma="Šin_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Šin_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Šin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -344,8 +344,8 @@
 </w.rf>
 <form>Bet</form>
 <tag>
-<AM lemma="Bet_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Bet_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Bet_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Bet_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="beta" src="auto">NNFP2-----A----</AM>
 <AM lemma="Bet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -372,7 +372,7 @@
 <LM>w#w-ln94200-114-p2s2w11</LM>
 </w.rf>
 <form>Fatahu</form>
-<tag lemma="Fatah_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Fatah_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-114-p2s2w12">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-ln94200-114-p2s2w13</LM>
 </w.rf>
 <form>Arafata</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-114-p2s2w14">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 </w.rf>
 <form>Šin</form>
 <tag>
-<AM lemma="Šin_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Šin_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Šin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -717,8 +717,8 @@
 </w.rf>
 <form>Bet</form>
 <tag>
-<AM lemma="Bet_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Bet_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Bet_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Bet_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="beta" src="auto">NNFP2-----A----</AM>
 <AM lemma="Bet-77" src="manual" selected="1">F%-------------</AM>
 </tag>

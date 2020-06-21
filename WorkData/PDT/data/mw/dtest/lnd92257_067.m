@@ -303,7 +303,7 @@
 <LM>w#w-lnd92257-067-p2s2w15</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92257-067-p2s2w16">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <form>Koridor</form>
 <tag>
 <AM lemma="koridor" src="orig">NNIS4-----A----</AM>
-<AM lemma="Koridor_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Koridor_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-067-p2s3w10">
@@ -942,7 +942,7 @@
 <LM>w#w-lnd92257-067-p3s4w11</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92257-067-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-lnd92257-067-p4s1w2</LM>
 </w.rf>
 <form>VEREŠ</form>
-<tag lemma="Vereš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vereš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-067-p4s1w3">
 <src.rf>manual</src.rf>

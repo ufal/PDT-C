@@ -2643,7 +2643,7 @@
 <LM>w#w-ln95047-040-p4s1w1</LM>
 </w.rf>
 <form>Pollyana</form>
-<tag lemma="Pollyana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pollyana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-040-p4s1w2">
 <src.rf>manual</src.rf>

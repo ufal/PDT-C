@@ -19,7 +19,7 @@
 <LM>w#w-lnd92258-140-p1s1w1</LM>
 </w.rf>
 <form>LUHOVÝ</form>
-<tag lemma="Luhový_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Luhový_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-140-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-lnd92258-140-p3s1w3</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-140-p3s1w4">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd92258-140-p3s2w11</LM>
 </w.rf>
 <form>LUHOVÝ</form>
-<tag lemma="Luhový_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Luhový_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-140-p3s2w12">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-lnd92258-140-p3s2w21</LM>
 </w.rf>
 <form>Sportingu</form>
-<tag lemma="Sporting_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Sporting_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-140-p3s2w22">
 <src.rf>manual</src.rf>
@@ -461,8 +461,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-140-p3s2w28">
@@ -932,7 +932,7 @@
 </w.rf>
 <form>Vallecana</form>
 <tag>
-<AM lemma="Vallecana_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Vallecana_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Vallecana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -961,7 +961,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Logroněs</form>
-<tag lemma="Logroněs_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Logroněs_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-140-p4s3w18">
 <src.rf>manual</src.rf>
@@ -2506,7 +2506,7 @@
 <LM>w#w-lnd92258-140-p8s3w6</LM>
 </w.rf>
 <form>Dukle</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-140-p8s3w7">
 <src.rf>manual</src.rf>
@@ -2604,7 +2604,7 @@
 <LM>w#w-lnd92258-140-p9s1w2</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="šv-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-140-p9s1w3">
 <src.rf>manual</src.rf>

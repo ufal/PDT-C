@@ -91,7 +91,7 @@
 <LM>w#w-mf930703-076-p1s1w10</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-076-p2s1">
@@ -208,7 +208,7 @@
 <LM>w#w-mf930703-076-p2s1w14</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s1w15">
 <src.rf>manual</src.rf>
@@ -291,10 +291,10 @@
 </w.rf>
 <form>mercedesu</form>
 <tag>
-<AM lemma="Mercedes-2_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIS3-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS3-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-076-p2s2w8">
@@ -443,7 +443,7 @@
 <LM>w#w-mf930703-076-p2s3w13</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s3w14">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf930703-076-p2s5w12</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s5w13">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-mf930703-076-p2s7w17</LM>
 </w.rf>
 <form>Krause</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s7w18">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-mf930703-076-p2s8w2</LM>
 </w.rf>
 <form>Štěrba</form>
-<tag lemma="Štěrba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štěrba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1225,7 +1225,7 @@
 <LM>w#w-mf930703-076-p2s8w17</LM>
 </w.rf>
 <form>Fiat</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s8w18">
 <src.rf>manual</src.rf>
@@ -1251,7 +1251,7 @@
 <LM>w#w-mf930703-076-p2s9w2</LM>
 </w.rf>
 <form>Mráček</form>
-<tag lemma="Mráček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mráček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 </w.rf>
 <form>SPR</form>
 <tag>
-<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-1_:B_;m_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1319,7 +1319,7 @@
 </w.rf>
 <form>RSČ</form>
 <tag>
-<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-1_:B_;m_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1411,7 +1411,7 @@
 <LM>w#w-mf930703-076-p2s10w2</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-076-p2s10w3">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1559,11 +1559,11 @@
 </w.rf>
 <form>Raškovi</form>
 <tag>
-<AM lemma="Rašek_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Raška_;S" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
-<AM lemma="Raška_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Raškův_;S_^(*2a)" src="auto">AUMP1M---------</AM>
-<AM lemma="Raškův_;S_^(*2a)" src="auto">AUMP5M---------</AM>
+<AM lemma="Rašek_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Raška_;Y" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
+<AM lemma="Raška_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Raškův_;Y_^(*2a)" src="auto">AUMP1M---------</AM>
+<AM lemma="Raškův_;Y_^(*2a)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-mf930703-076-p2s10w21">
@@ -1581,7 +1581,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -396,7 +396,7 @@
 <LM>w#w-ln95040-132-p2s2w20</LM>
 </w.rf>
 <form>Rusenko</form>
-<tag lemma="Rusenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rusenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-132-p2s2w21">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <form>Body</form>
 <tag>
 <AM lemma="Body_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Body_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Body_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-132-p2s2w23">
@@ -554,7 +554,7 @@
 </w.rf>
 <form>WD</form>
 <tag>
-<AM lemma="WD_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="WD_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="WD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

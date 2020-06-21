@@ -398,7 +398,7 @@
 <LM>w#w-cmpr9416-036-p5s1w2</LM>
 </w.rf>
 <form>Pichl</form>
-<tag lemma="Pichl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pichl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-036-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1401,7 +1401,7 @@
 <form>Sony</form>
 <tag>
 <AM lemma="Sono_;G" src="orig">NNNP7-----A----</AM>
-<AM lemma="Sony_:B_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Sony_:B_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-036-p7s7w11">
@@ -2747,7 +2747,7 @@
 <LM>w#w-cmpr9416-036-p9s1w2</LM>
 </w.rf>
 <form>Souček</form>
-<tag lemma="Souček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Souček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-036-p9s1w3">
 <src.rf>manual</src.rf>
@@ -2774,9 +2774,9 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="AG_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="AG-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -2816,9 +2816,9 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="AG_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="AG-2_:B" src="manual">NNXXX-----A---8</AM>

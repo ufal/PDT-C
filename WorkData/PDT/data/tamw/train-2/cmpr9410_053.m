@@ -70,7 +70,7 @@
 </w.rf>
 <form>Westinghouse</form>
 <tag>
-<AM lemma="Westinghouse_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Westinghouse_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Westinghouse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -337,7 +337,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -876,7 +876,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1439,7 +1439,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1466,8 +1466,8 @@
 </w.rf>
 <form>Gabe</form>
 <tag>
-<AM lemma="Gabe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gabe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gabe_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gabe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-053-p5s2w30">
@@ -1476,7 +1476,7 @@
 <LM>w#w-cmpr9410-053-p5s2w30</LM>
 </w.rf>
 <form>Toth</form>
-<tag lemma="Toth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Toth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-053-p5s2w31">
 <src.rf>manual</src.rf>
@@ -1509,7 +1509,7 @@
 </w.rf>
 <form>Westinghouse</form>
 <tag>
-<AM lemma="Westinghouse_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Westinghouse_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="Westinghouse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1520,7 +1520,7 @@
 </w.rf>
 <form>Electric</form>
 <tag>
-<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Electric-1_;m_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1633,7 +1633,7 @@
 </w.rf>
 <form>Westinghouse</form>
 <tag>
-<AM lemma="Westinghouse_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Westinghouse_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Westinghouse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1774,7 +1774,7 @@
 </w.rf>
 <form>Westinghouse</form>
 <tag>
-<AM lemma="Westinghouse_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Westinghouse_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Westinghouse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1785,7 +1785,7 @@
 </w.rf>
 <form>Electric</form>
 <tag>
-<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Electric-1_;m_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1807,7 +1807,7 @@
 </w.rf>
 <form>republic</form>
 <tag>
-<AM lemma="republic_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="republic_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="republic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

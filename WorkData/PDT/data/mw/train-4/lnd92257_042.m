@@ -81,7 +81,7 @@
 <form>hop</form>
 <tag>
 <AM lemma="hop-1" src="auto">TT-------------</AM>
-<AM lemma="hop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-042-p3s1w4">

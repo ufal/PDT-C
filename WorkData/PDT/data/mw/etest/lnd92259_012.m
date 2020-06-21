@@ -78,7 +78,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -261,7 +261,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -551,7 +551,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

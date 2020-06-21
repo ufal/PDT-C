@@ -749,7 +749,7 @@
 <LM>w#w-cmpr9413-026-p4s1w1</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-026-p4s1w2">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <form>U</form>
 <tag>
 <AM lemma="U-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="U-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="U-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-026-p4s1w3">
@@ -776,7 +776,7 @@
 <LM>w#w-cmpr9413-026-p4s1w4</LM>
 </w.rf>
 <form>Villinger</form>
-<tag lemma="Villinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Villinger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-026-p4s1w5">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-cmpr9413-026-p4s1w11</LM>
 </w.rf>
 <form>DANZAS</form>
-<tag lemma="Danzas_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Danzas_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-026-p4s1w12">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

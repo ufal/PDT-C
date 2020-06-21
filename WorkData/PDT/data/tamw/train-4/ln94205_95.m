@@ -27,7 +27,7 @@
 <LM>w#w-ln94205-95-p1s1Aw2</LM>
 </w.rf>
 <form>Benhart</form>
-<tag lemma="Benhart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benhart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-95-p1s1Aw3">
 <src.rf>manual</src.rf>

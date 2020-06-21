@@ -20,7 +20,7 @@
 </w.rf>
 <form>Pink</form>
 <tag>
-<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink_;m_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -31,7 +31,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -66,7 +66,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Wright</form>
-<tag lemma="Wright_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wright_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-100-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -90,7 +90,7 @@
 <LM>w#w-ln94210-100-p1s1Aw9</LM>
 </w.rf>
 <form>Gilmour</form>
-<tag lemma="Gilmour_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gilmour_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-100-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Mason</form>
-<tag lemma="Mason_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mason_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-100-p1s1B">

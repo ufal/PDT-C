@@ -87,7 +87,7 @@
 <LM>w#w-ln94204-140-p2s1Bw2</LM>
 </w.rf>
 <form>Kolesárová</form>
-<tag lemma="Kolesárová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kolesárová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-140-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -104,10 +104,10 @@
 </w.rf>
 <form>Sme</form>
 <tag>
-<AM lemma="Sme_;K_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Sme_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
+<AM lemma="Sme_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
-<AM lemma="Sme_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="manual">NNNXX-----A----</AM>
 <AM lemma="Sme-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1584,7 +1584,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1942,7 +1942,7 @@
 <LM>w#w-ln94204-140-p4s6w9</LM>
 </w.rf>
 <form>Mečiarovy</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94204-140-p4s6w10">
 <src.rf>manual</src.rf>
@@ -3129,7 +3129,7 @@
 <LM>w#w-ln94204-140-p7s2w4</LM>
 </w.rf>
 <form>Mečiarova</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94204-140-p7s2w5">
 <src.rf>manual</src.rf>
@@ -4283,7 +4283,7 @@
 <LM>w#w-ln94204-140-p9s4w6</LM>
 </w.rf>
 <form>Moravčíka</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-140-p9s4w7">
 <src.rf>manual</src.rf>

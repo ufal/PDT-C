@@ -231,7 +231,7 @@
 </w.rf>
 <form>MTI</form>
 <tag>
-<AM lemma="MTI-2_:B_;K_,t_^(Magyar_Távirati_Iroda,_tisk._agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MTI-2_:B_;m_,t_^(Magyar_Távirati_Iroda,_tisk._agentura)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MTI-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="MTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -330,7 +330,7 @@
 <LM>w#w-lnd92256-076-p2s3w16</LM>
 </w.rf>
 <form>Scud</form>
-<tag lemma="Scud_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Scud_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-076-p2s3w17">
 <src.rf>manual</src.rf>

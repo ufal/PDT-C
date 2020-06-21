@@ -3645,7 +3645,7 @@
 <LM>w#w-ln95048-117-p6s4w14</LM>
 </w.rf>
 <form>Dubčekova</form>
-<tag lemma="Dubčekův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Dubčekův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95048-117-p6s4w15">
 <src.rf>manual</src.rf>
@@ -3885,7 +3885,7 @@
 <LM>w#w-ln95048-117-p6s8w4</LM>
 </w.rf>
 <form>Gorbačovovy</form>
-<tag lemma="Gorbačovův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Gorbačovův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95048-117-p6s8w5">
 <src.rf>manual</src.rf>
@@ -5946,7 +5946,7 @@
 <LM>w#w-ln95048-117-p8s2w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95048-117-p8s2w18">
 <src.rf>manual</src.rf>

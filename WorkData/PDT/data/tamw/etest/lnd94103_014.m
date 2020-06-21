@@ -86,8 +86,8 @@
 </w.rf>
 <form>dan</form>
 <tag>
-<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dan-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-014-p1s2w5">
@@ -443,15 +443,15 @@
 </w.rf>
 <form>Melky</form>
 <tag>
-<AM lemma="Melka_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Melek_;S" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="Melek_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Melka_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Melek_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Melek_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Melk_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Melk_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Melk_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Melk_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Melko_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Melko_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Melko_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Melko_;Y" src="auto">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-014-p1s4w9">
@@ -1218,7 +1218,7 @@
 <LM>w#w-lnd94103-014-p1s8w16</LM>
 </w.rf>
 <form>Melka</form>
-<tag lemma="Melek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Melek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-014-p1s8w17">
 <src.rf>manual</src.rf>

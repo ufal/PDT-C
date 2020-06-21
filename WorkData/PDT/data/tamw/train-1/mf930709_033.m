@@ -94,9 +94,9 @@
 </w.rf>
 <form>eko</form>
 <tag>
-<AM lemma="eko-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="eko-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="eko" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="eko-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="eko-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p2s1Aw4">
@@ -369,7 +369,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -624,7 +624,7 @@
 </w.rf>
 <form>CKP</form>
 <tag>
-<AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CKP_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -702,7 +702,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -898,7 +898,7 @@
 <form>Creditanstalt</form>
 <tag>
 <AM lemma="Creditanstalt_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Creditanstalt_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Creditanstalt_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p3s2w4">
@@ -1399,7 +1399,7 @@
 </w.rf>
 <form>CSPF</form>
 <tag>
-<AM lemma="CSPF_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSPF_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1458,7 +1458,7 @@
 </w.rf>
 <form>Alfa</form>
 <tag>
-<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 <AM lemma="alfa" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1861,7 +1861,7 @@
 </w.rf>
 <form>PVT</form>
 <tag>
-<AM lemma="PVT-1_:B_;K_^(Podnik_výpočetní_techniky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVT-1_:B_;m_^(Podnik_výpočetní_techniky)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PVT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1879,7 +1879,7 @@
 <LM>w#w-mf930709-033-p4s3w31</LM>
 </w.rf>
 <form>Fabián</form>
-<tag lemma="Fabián_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fabián_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-033-p4s3w32">
 <src.rf>manual</src.rf>

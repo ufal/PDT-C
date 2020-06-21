@@ -91,7 +91,7 @@
 <LM>w#w-ln94204-127-p1s1Aw10</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-127-p1s1Aw11">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-ln94204-127-p1s1Aw12</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-127-p1s1Aw13">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-ln94204-127-p1s1Aw20</LM>
 </w.rf>
 <form>Vrabec</form>
-<tag lemma="Vrabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vrabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-127-p1s1Aw21">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-ln94204-127-p1s1Aw24</LM>
 </w.rf>
 <form>Nedvěda</form>
-<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Nedvěd_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-127-p1s1B">
@@ -222,8 +222,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

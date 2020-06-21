@@ -48,8 +48,8 @@
 </w.rf>
 <form>István</form>
 <tag>
-<AM lemma="István_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="István_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="István_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="István_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-71-p2s1Bw2">
@@ -58,7 +58,7 @@
 <LM>w#w-ln94210-71-p2s1Bw2</LM>
 </w.rf>
 <form>Lékó</form>
-<tag lemma="Lékó_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lékó_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-71-p2s1C">
@@ -1156,7 +1156,7 @@
 <form>Talián</form>
 <tag>
 <AM lemma="Talián_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Talián_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Talián_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-71-p2s7w20">
@@ -1241,7 +1241,7 @@
 <form>Talián</form>
 <tag>
 <AM lemma="Talián_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Talián_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Talián_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-71-p3s1w2">
@@ -1525,7 +1525,7 @@
 <form>Talián</form>
 <tag>
 <AM lemma="Talián_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Talián_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Talián_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-71-p3s4w2">

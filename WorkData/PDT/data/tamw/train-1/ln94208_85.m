@@ -85,7 +85,7 @@
 <LM>w#w-ln94208-85-p2s1Aw2</LM>
 </w.rf>
 <form>Vavroušek</form>
-<tag lemma="Vavroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vavroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-85-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 <LM>w#w-ln94208-85-p3s3w29</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-85-p3s3w30">
 <src.rf>manual</src.rf>
@@ -2125,7 +2125,7 @@
 <LM>w#w-ln94208-85-p4s3w17</LM>
 </w.rf>
 <form>Bendy</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-85-p4s3w18">
 <src.rf>manual</src.rf>
@@ -3451,7 +3451,7 @@
 </w.rf>
 <form>OECD</form>
 <tag>
-<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-1_:B_;m_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OECD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

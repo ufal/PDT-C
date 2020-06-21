@@ -578,7 +578,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-036-p5s1w2">
@@ -596,8 +596,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-036-p5s1w4">
@@ -4717,7 +4717,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-036-p19s1w2">
@@ -4735,8 +4735,8 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-036-p19s1w4">
@@ -5892,7 +5892,7 @@
 <LM>w#w-cmpr9410-036-p23s1w2</LM>
 </w.rf>
 <form>Radoň</form>
-<tag lemma="Radoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-036-p24s1">
@@ -5934,7 +5934,7 @@
 <LM>w#w-cmpr9410-036-p24s1w5</LM>
 </w.rf>
 <form>Vácha</form>
-<tag lemma="Vácha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vácha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-036-p24s1w6">
 <src.rf>manual</src.rf>
@@ -5950,7 +5950,7 @@
 <LM>w#w-cmpr9410-036-p24s1w7</LM>
 </w.rf>
 <form>Malý</form>
-<tag lemma="Malý_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Malý_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-036-p24s1w8">
 <src.rf>manual</src.rf>
@@ -5983,8 +5983,8 @@
 </w.rf>
 <form>a</form>
 <tag>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
+<AM lemma="a-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-036-p24s1w12">

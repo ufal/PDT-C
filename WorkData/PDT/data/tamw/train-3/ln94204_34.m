@@ -29,7 +29,7 @@
 <form>Carlos</form>
 <tag>
 <AM lemma="Carlos-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carlos-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Carlos-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-34-p1s1w3">
@@ -497,7 +497,7 @@
 <form>Carlos</form>
 <tag>
 <AM lemma="Carlos-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carlos-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Carlos-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-34-p2s6w18">
@@ -587,8 +587,8 @@
 </w.rf>
 <form>InfoMatin</form>
 <tag>
-<AM lemma="InfoMatin_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="InfoMatin_;R" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="InfoMatin_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="InfoMatin_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-34-p2s6w29">
@@ -651,7 +651,7 @@
 <form>Carlos</form>
 <tag>
 <AM lemma="Carlos-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Carlos-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Carlos-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-34-p3s2w2">
@@ -753,8 +753,8 @@
 </w.rf>
 <form>Santé</form>
 <tag>
-<AM lemma="Santé_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Santé_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Santé_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Santé_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-34-p3s2w14">
@@ -863,7 +863,7 @@
 <LM>w#w-ln94204-34-p3s4w4</LM>
 </w.rf>
 <form>Decouty</form>
-<tag lemma="Decouty_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Decouty_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-34-p3s4w5">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <form>Carlosem</form>
 <tag>
 <AM lemma="Carlos-1_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Carlos-1_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Carlos-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-34-p3s4w11">

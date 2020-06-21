@@ -207,7 +207,7 @@
 </w.rf>
 <form>Floyd</form>
 <tag>
-<AM lemma="Floyd_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Floyd_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -430,8 +430,8 @@
 </w.rf>
 <form>Mediaworld</form>
 <tag>
-<AM lemma="Mediaworld_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mediaworld_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mediaworld_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mediaworld_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-132-p2s3w5">
@@ -653,7 +653,7 @@
 <LM>w#w-ln94200-132-p2s4w10</LM>
 </w.rf>
 <form>Desty</form>
-<tag lemma="Desta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Desta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-132-p2s4w11">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-ln94200-132-p2s5w9</LM>
 </w.rf>
 <form>Fisherem</form>
-<tag lemma="Fisher_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Fisher_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-132-p2s5w10">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-ln94200-132-p2s5w13</LM>
 </w.rf>
 <form>Brickmanem</form>
-<tag lemma="Brickman_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Brickman_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-132-p2s5w14">
 <src.rf>manual</src.rf>
@@ -848,8 +848,8 @@
 </w.rf>
 <form>Nelsona</form>
 <tag>
-<AM lemma="Nelson_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Nelson_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Nelson_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-132-p2s5w24">
@@ -858,7 +858,7 @@
 <LM>w#w-ln94200-132-p2s5w24</LM>
 </w.rf>
 <form>Mandelu</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-132-p2s5w25">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-16-p1s1w2</LM>
 </w.rf>
 <form>Tesle</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94210-16-p1s1w3">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-ln94210-16-p2s1Cw4</LM>
 </w.rf>
 <form>Tesly</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-16-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-ln94210-16-p4s1w6</LM>
 </w.rf>
 <form>Stuchlík</form>
-<tag lemma="Stuchlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stuchlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-16-p4s1w7">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-ln94210-16-p4s1w16</LM>
 </w.rf>
 <form>Tesly</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-16-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln94210-16-p4s4w8</LM>
 </w.rf>
 <form>Tesly</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-16-p4s4w9">
 <src.rf>manual</src.rf>
@@ -1456,7 +1456,7 @@
 <LM>w#w-ln94210-16-p6s1w1</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-16-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1928,7 +1928,7 @@
 <LM>w#w-ln94210-16-p6s3w18</LM>
 </w.rf>
 <form>Stuchlík</form>
-<tag lemma="Stuchlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stuchlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-16-p6s3w19">
 <src.rf>manual</src.rf>
@@ -2061,7 +2061,7 @@
 <LM>w#w-ln94210-16-p6s4w15</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-16-p6s4w16">
 <src.rf>manual</src.rf>
@@ -2215,7 +2215,7 @@
 <LM>w#w-ln94210-16-p7s1w1</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-16-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2464,7 +2464,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

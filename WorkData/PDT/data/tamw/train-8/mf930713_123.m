@@ -277,7 +277,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -434,7 +434,7 @@
 </w.rf>
 <form>Vněšekonombank</form>
 <tag>
-<AM lemma="Vněšekonombank_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Vněšekonombank_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Vněšekonombank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -452,7 +452,7 @@
 <LM>w#w-mf930713-123-p2s3w10</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf930713-123-p2s3w11">
 <src.rf>manual</src.rf>

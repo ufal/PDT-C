@@ -110,13 +110,13 @@
 </w.rf>
 <form>hop</form>
 <tag>
-<AM lemma="hop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hop" src="auto">II-------------</AM>
 <AM lemma="hop-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="hop-2_^(hip_hop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hop-2_^(hip_hop)" src="auto">NNIS4-----A----</AM>
 <AM lemma="hopnout" src="auto">VpYS----R-AAP-6</AM>
-<AM lemma="hop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-013-p1s2w4">
@@ -207,7 +207,7 @@
 <LM>w#w-lnd94101-013-p1s3w9</LM>
 </w.rf>
 <form>Procházka</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-013-p1s3w10">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-lnd94101-013-p1s4w13</LM>
 </w.rf>
 <form>Staropramen</form>
-<tag lemma="Staropramen_;R" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Staropramen_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94101-013-p1s4w14">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-lnd94101-013-p1s7w3</LM>
 </w.rf>
 <form>Hájek</form>
-<tag lemma="Hájek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hájek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-013-p1s7w4">
 <src.rf>manual</src.rf>
@@ -1095,7 +1095,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-013-p1s8w8">
@@ -1112,7 +1112,7 @@
 <LM>w#w-lnd94101-013-p1s8w9</LM>
 </w.rf>
 <form>Procházky</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-013-p1s8w10">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-013-p1s9w2">
@@ -1197,7 +1197,7 @@
 <LM>w#w-lnd94101-013-p1s9w3</LM>
 </w.rf>
 <form>Procházka</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-013-p1s9w4">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -311,8 +311,8 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-107-p2s3w9">
@@ -329,7 +329,7 @@
 <LM>w#w-ln95044-107-p2s3w10</LM>
 </w.rf>
 <form>Zuny</form>
-<tag lemma="Zuna_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zuna_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-107-p2s3w11">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-ln95044-107-p2s5w16</LM>
 </w.rf>
 <form>Zuna</form>
-<tag lemma="Zuna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zuna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-107-p2s5w17">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 </w.rf>
 <form>CAETS</form>
 <tag>
-<AM lemma="CAETS_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="CAETS_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="CAETS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1252,7 +1252,7 @@
 <LM>w#w-ln95044-107-p2s8w17</LM>
 </w.rf>
 <form>Wichterle</form>
-<tag lemma="Wichterle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wichterle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-107-p2s8w18">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-ln95044-107-p2s8w24</LM>
 </w.rf>
 <form>Saudek</form>
-<tag lemma="Saudek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saudek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-107-p2s8w25">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-107-p2s10w16">
@@ -1603,7 +1603,7 @@
 <LM>w#w-ln95044-107-p2s10w17</LM>
 </w.rf>
 <form>Zuna</form>
-<tag lemma="Zuna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zuna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-107-p2s10w18">
 <src.rf>manual</src.rf>

@@ -36,8 +36,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-108-p1s1Aw4">
@@ -54,7 +54,7 @@
 <LM>w#w-ln94206-108-p1s1Aw5</LM>
 </w.rf>
 <form>Bašus</form>
-<tag lemma="Bašus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bašus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-108-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-ln94206-108-p1s1Aw12</LM>
 </w.rf>
 <form>Toshiba</form>
-<tag lemma="Toshiba_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toshiba_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-108-p1s1Aw13">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-ln94206-108-p1s1Aw16</LM>
 </w.rf>
 <form>Tichou</form>
-<tag lemma="Tichá_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Tichá_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-108-p1s1Aw17">
 <src.rf>manual</src.rf>

@@ -83,7 +83,7 @@
 <LM>w#w-lnd91301-077-p1s1w9</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="K-6_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd91301-077-p1s1w10">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-lnd91301-077-p1s1w11</LM>
 </w.rf>
 <form>KAMEŠEM</form>
-<tag lemma="Kameš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kameš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91301-077-p2s1">
@@ -151,7 +151,7 @@
 <LM>w#w-lnd91301-077-p3s1w2</LM>
 </w.rf>
 <form>Kameše</form>
-<tag lemma="Kameš_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kameš_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-077-p3s1w3">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <form>Koláře</form>
 <tag>
 <AM lemma="kolář" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kolář_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kolář_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p3s1w19">
@@ -345,7 +345,7 @@
 <LM>w#w-lnd91301-077-p3s2w6</LM>
 </w.rf>
 <form>Martínek</form>
-<tag lemma="Martínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-077-p3s2w7">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd91301-077-p4s1w1</LM>
 </w.rf>
 <form>Pane</form>
-<tag lemma="Pan-1_;S" src="orig" selected="1">NNMS5-----A----</tag>
+<tag lemma="Pan-1_;Y" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-lnd91301-077-p4s1w2">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-lnd91301-077-p4s1w2</LM>
 </w.rf>
 <form>Kameši</form>
-<tag lemma="Kameš_;S" src="orig" selected="1">NNMS5-----A----</tag>
+<tag lemma="Kameš_;Y" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-lnd91301-077-p4s1w3">
 <src.rf>manual</src.rf>
@@ -648,8 +648,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p4s1w9">
@@ -896,8 +896,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p4s3w14">
@@ -1302,7 +1302,7 @@
 <LM>w#w-lnd91301-077-p5s2w12</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91301-077-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1852,7 +1852,7 @@
 </w.rf>
 <form>Louvre</form>
 <tag>
-<AM lemma="Louvre_;G" src="auto">NNISX-----A----</AM>
+<AM lemma="Louvre_;G" src="auto">NNIXX-----A----</AM>
 <AM lemma="Louvre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2802,8 +2802,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p6s1w16">
@@ -2838,7 +2838,7 @@
 <LM>w#w-lnd91301-077-p7s1w1</LM>
 </w.rf>
 <form>Pan</form>
-<tag lemma="Pan-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pan-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-077-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2848,7 +2848,7 @@
 <form>Kolář</form>
 <tag>
 <AM lemma="kolář" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kolář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kolář_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p7s1w3">
@@ -3091,7 +3091,7 @@
 <LM>w#w-lnd91301-077-p7s2w9</LM>
 </w.rf>
 <form>Škodou</form>
-<tag lemma="Škoda-3_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Škoda-3_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-077-p7s2w10">
 <src.rf>manual</src.rf>
@@ -3190,8 +3190,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p7s3w5">
@@ -3615,8 +3615,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p7s6w5">
@@ -4563,7 +4563,7 @@
 <form>Artfora</form>
 <tag>
 <AM lemma="Artforum_;Y" src="orig">NNNS2-----A----</AM>
-<AM lemma="Artforum_;K" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="Artforum_;m" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p11s2w16">
@@ -4791,8 +4791,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p11s3w16">
@@ -4909,7 +4909,7 @@
 <LM>w#w-lnd91301-077-p12s1w2</LM>
 </w.rf>
 <form>LINDAUROVÁ</form>
-<tag lemma="Lindaurová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lindaurová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-077-p12s1w3">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-46-p1s1w1</LM>
 </w.rf>
 <form>Šimáčkovi</form>
-<tag lemma="Šimáčkův_;S_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Šimáčkův_;Y_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94200-46-p1s1w2">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-ln94200-46-p2s1Aw2</LM>
 </w.rf>
 <form>Pšenička</form>
-<tag lemma="Pšenička-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pšenička-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-46-p2s1B">
@@ -313,7 +313,7 @@
 <LM>w#w-ln94200-46-p2s2w19</LM>
 </w.rf>
 <form>Šimáček</form>
-<tag lemma="Šimáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-46-p2s2w20">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-ln94200-46-p3s1w3</LM>
 </w.rf>
 <form>Šimáčka</form>
-<tag lemma="Šimáček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šimáček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-46-p3s1w4">
 <src.rf>manual</src.rf>
@@ -2138,7 +2138,7 @@
 <LM>w#w-ln94200-46-p5s1w14</LM>
 </w.rf>
 <form>Agrobankou</form>
-<tag lemma="Agrobanka_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Agrobanka_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94200-46-p5s1w15">
 <src.rf>manual</src.rf>
@@ -3184,7 +3184,7 @@
 <LM>w#w-ln94200-46-p8s2w5</LM>
 </w.rf>
 <form>Šimáčkovým</form>
-<tag lemma="Šimáčkův_;S_^(*3ek)" src="orig" selected="1">AUMP3M---------</tag>
+<tag lemma="Šimáčkův_;Y_^(*3ek)" src="orig" selected="1">AUMP3M---------</tag>
 </m>
 <m id="m-ln94200-46-p8s2w6">
 <src.rf>manual</src.rf>
@@ -3921,7 +3921,7 @@
 <LM>w#w-ln94200-46-p8s9w21</LM>
 </w.rf>
 <form>Šimáček</form>
-<tag lemma="Šimáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-46-p8s9w22">
 <src.rf>manual</src.rf>
@@ -4279,7 +4279,7 @@
 <LM>w#w-ln94200-46-p9s2w8</LM>
 </w.rf>
 <form>Šimáčková</form>
-<tag lemma="Šimáčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šimáčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-46-p9s2w9">
 <src.rf>manual</src.rf>
@@ -4697,7 +4697,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-46-p9s7w5">
@@ -4714,7 +4714,7 @@
 <LM>w#w-ln94200-46-p9s7w6</LM>
 </w.rf>
 <form>Šimáčka</form>
-<tag lemma="Šimáček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šimáček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-46-p9s7w7">
 <src.rf>manual</src.rf>
@@ -4738,7 +4738,7 @@
 <LM>w#w-ln94200-46-p9s7w9</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-46-p9s7w10">
 <src.rf>manual</src.rf>
@@ -4958,7 +4958,7 @@
 <LM>w#w-ln94200-46-p10s1w6</LM>
 </w.rf>
 <form>Šimáčkovi</form>
-<tag lemma="Šimáčkův_;S_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Šimáčkův_;Y_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94200-46-p10s1w7">
 <src.rf>manual</src.rf>
@@ -6202,7 +6202,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-46-p11s5w18">
@@ -6219,7 +6219,7 @@
 <LM>w#w-ln94200-46-p11s5w19</LM>
 </w.rf>
 <form>Šimáček</form>
-<tag lemma="Šimáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-46-p11s5w20">
 <src.rf>manual</src.rf>
@@ -6245,7 +6245,7 @@
 <LM>w#w-ln94200-46-p12s1w2</LM>
 </w.rf>
 <form>Šimáčkovi</form>
-<tag lemma="Šimáčkův_;S_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Šimáčkův_;Y_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94200-46-p12s1w3">
 <src.rf>manual</src.rf>
@@ -6590,7 +6590,7 @@
 <LM>w#w-ln94200-46-p12s6w2</LM>
 </w.rf>
 <form>Šimáček</form>
-<tag lemma="Šimáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-46-p12s6w3">
 <src.rf>manual</src.rf>

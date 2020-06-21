@@ -27,7 +27,7 @@
 <LM>w#w-ln94211-26-p1s1w2</LM>
 </w.rf>
 <form>Gore</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-26-p1s1w3">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 <LM>w#w-ln94211-26-p2s1Bw4</LM>
 </w.rf>
 <form>Gore</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-26-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -148,8 +148,8 @@
 <form>Shannonu</form>
 <tag>
 <AM lemma="Shannon_;G" src="orig" selected="1">NNIS6-----A----</AM>
-<AM lemma="Shannon_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Shannon_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Shannon_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Shannon_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94211-26-p2s1Bw9">
@@ -858,9 +858,9 @@
 </w.rf>
 <form>Sinn</form>
 <tag>
-<AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
+<AM lemma="SF-2`Sinn-1_;m_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Sinn_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sinn_;m_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
 <AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -871,11 +871,11 @@
 </w.rf>
 <form>Fein</form>
 <tag>
-<AM lemma="SF-2`Fein-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
+<AM lemma="SF-2`Fein-1_;m_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Fein_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fein_;m_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
 <AM lemma="Fein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

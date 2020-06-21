@@ -503,7 +503,7 @@
 <LM>w#w-lnd94101-025-p1s7w9</LM>
 </w.rf>
 <form>Kutláka</form>
-<tag lemma="Kutlák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kutlák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-025-p1s7w10">
 <src.rf>manual</src.rf>

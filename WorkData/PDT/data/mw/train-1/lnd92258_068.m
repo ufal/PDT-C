@@ -21,7 +21,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-068-p1s1w2">
@@ -40,7 +40,7 @@
 <LM>w#w-lnd92258-068-p1s2w1</LM>
 </w.rf>
 <form>JELCIN</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-068-p1s2w2">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <LM>w#w-lnd92258-068-p3s2w4</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-068-p3s2w5">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-lnd92258-068-p4s1w5</LM>
 </w.rf>
 <form>Chižu</form>
-<tag lemma="Chiža_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Chiža_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92258-068-p4s1w6">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-lnd92258-068-p4s2w1</LM>
 </w.rf>
 <form>Chiža</form>
-<tag lemma="Chiža_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chiža_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-068-p4s2w2">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-lnd92258-068-p4s4w1</LM>
 </w.rf>
 <form>Chiža</form>
-<tag lemma="Chiža_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chiža_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-068-p4s4w2">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 </w.rf>
 <form>OMON</form>
 <tag>
-<AM lemma="OMON_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OMON_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="OMON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1194,7 +1194,7 @@
 <LM>w#w-lnd92258-068-p4s7w5</LM>
 </w.rf>
 <form>Chiži</form>
-<tag lemma="Chiža_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chiža_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-068-p4s7w6">
 <src.rf>manual</src.rf>

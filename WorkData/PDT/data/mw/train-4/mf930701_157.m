@@ -165,7 +165,7 @@
 <LM>w#w-mf930701-157-p2s1w14</LM>
 </w.rf>
 <form>Džulemanovové</form>
-<tag lemma="Džulemanovová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Džulemanovová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930701-157-p2s1w15">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-mf930701-157-p2s6w25</LM>
 </w.rf>
 <form>Džulemanovová</form>
-<tag lemma="Džulemanovová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Džulemanovová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-157-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1530,8 +1530,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-157-p2s10w18">
@@ -2510,7 +2510,7 @@
 <LM>w#w-mf930701-157-p2s20w16</LM>
 </w.rf>
 <form>Denise</form>
-<tag lemma="Denis_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Denis_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-157-p2s20w17">
 <src.rf>manual</src.rf>

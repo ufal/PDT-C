@@ -403,7 +403,7 @@
 <LM>w#w-ln95049-122-p2s3w3</LM>
 </w.rf>
 <form>Observer</form>
-<tag lemma="Observer_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Observer_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-122-p2s3w4">
 <src.rf>manual</src.rf>

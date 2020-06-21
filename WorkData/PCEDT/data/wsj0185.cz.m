@@ -28,9 +28,9 @@
 </w.rf>
 <form>INTER</form>
 <tag>
-<AM lemma="Intrum_;K" src="auto">NNNP2-----A----</AM>
-<AM lemma="Inter_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Inter_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Intrum_;m" src="auto">NNNP2-----A----</AM>
+<AM lemma="Inter_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Inter_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="inter" src="auto">A2--------A----</AM>
 <AM lemma="INTER-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -96,7 +96,7 @@
 </w.rf>
 <form>Chandler</form>
 <tag>
-<AM lemma="Chandler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chandler_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Chandler-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -144,7 +144,7 @@
 <LM>w#w-wsj0185-001-p1s1W2</LM>
 </w.rf>
 <form>Chapman</form>
-<tag lemma="Chapman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Chapman_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0185-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -341,9 +341,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

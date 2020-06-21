@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-013-p1s1w2</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-013-p2s1">
@@ -69,7 +69,7 @@
 <LM>w#w-mf920922-013-p2s1w5</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s1w6">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-mf920922-013-p2s3w10</LM>
 </w.rf>
 <form>Jaguara</form>
-<tag lemma="Jaguar_;K_;R" src="auto" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Jaguar_;m" src="auto" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920922-013-p2s3w11">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-mf920922-013-p2s4w2</LM>
 </w.rf>
 <form>Benettonu</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s4w3">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-mf920922-013-p2s7w1</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s7w2">
 <src.rf>manual</src.rf>
@@ -942,8 +942,8 @@
 </w.rf>
 <form>Edizione</form>
 <tag>
-<AM lemma="Edizione_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Edizione_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Edizione_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Edizione_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-013-p2s7w10">
@@ -1058,7 +1058,7 @@
 <LM>w#w-mf920922-013-p2s8w2</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1248,7 +1248,7 @@
 </w.rf>
 <form>Colours</form>
 <tag>
-<AM lemma="Colour_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Colour_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Colours-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1269,7 +1269,7 @@
 <LM>w#w-mf920922-013-p2s9w16</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s9w17">
 <src.rf>manual</src.rf>
@@ -1478,8 +1478,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-013-p2s9w43">
@@ -1732,7 +1732,7 @@
 <LM>w#w-mf920922-013-p2s10Bw8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s10Bw9">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <LM>w#w-mf920922-013-p2s10Bw20</LM>
 </w.rf>
 <form>Benettonu</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s10Bw21">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-mf920922-013-p2s11w1</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-013-p2s11w2">
 <src.rf>manual</src.rf>

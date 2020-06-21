@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-159-p1s1w3</LM>
 </w.rf>
 <form>Szabo</form>
-<tag lemma="Szabo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Szabo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-159-p1s1w4">
 <src.rf>manual</src.rf>

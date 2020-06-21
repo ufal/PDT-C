@@ -265,7 +265,7 @@
 </w.rf>
 <form>OAJ</form>
 <tag>
-<AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OAJ-1_:B_;m_^(Organizace_africké_jednoty)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OAJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -318,9 +318,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-150-p2s2w5">
@@ -354,7 +354,7 @@
 </w.rf>
 <form>OAJ</form>
 <tag>
-<AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OAJ-1_:B_;m_^(Organizace_africké_jednoty)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OAJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

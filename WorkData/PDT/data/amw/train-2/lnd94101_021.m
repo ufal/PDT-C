@@ -78,8 +78,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-021-p1s2w4">
@@ -332,7 +332,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-021-p1s4w15">
@@ -349,7 +349,7 @@
 <LM>w#w-lnd94101-021-p1s4w16</LM>
 </w.rf>
 <form>Zalinský</form>
-<tag lemma="Zalinský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zalinský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-021-p1s4w17">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-lnd94101-021-p1s6w18</LM>
 </w.rf>
 <form>Kovošrot</form>
-<tag lemma="Kovošrot_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kovošrot_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-021-p1s6w19">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-lnd94101-021-p1s6w29</LM>
 </w.rf>
 <form>Babna</form>
-<tag lemma="Babna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Babna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-021-p1s6w30">
 <src.rf>manual</src.rf>
@@ -1273,7 +1273,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-021-p1s8w3">
@@ -1291,9 +1291,9 @@
 </w.rf>
 <form>Zelinského</form>
 <tag>
-<AM lemma="Zelinský_;S" src="orig">AAMS2----1A----</AM>
-<AM lemma="Zelinský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Zelinský_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Zelinský_;Y" src="orig">AAMS2----1A----</AM>
+<AM lemma="Zelinský_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Zelinský_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-021-p1s8w5">

@@ -29,7 +29,7 @@
 <LM>w#w-ln94205-122-p2s1w1</LM>
 </w.rf>
 <form>Pakosta</form>
-<tag lemma="Pakosta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pakosta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-122-p2s1w2">
 <src.rf>manual</src.rf>
@@ -45,7 +45,7 @@
 <LM>w#w-ln94205-122-p2s1w3</LM>
 </w.rf>
 <form>Palinek</form>
-<tag lemma="Palinek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palinek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-122-p2s1w4">
 <src.rf>manual</src.rf>

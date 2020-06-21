@@ -44,8 +44,8 @@
 </w.rf>
 <form>Abdulmalik</form>
 <tag>
-<AM lemma="Abdulmalik_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abdulmalik_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abdulmalik_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Abdulmalik_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-040-p1s1w5">
@@ -54,7 +54,7 @@
 <LM>w#w-lnd92253-040-p1s1w5</LM>
 </w.rf>
 <form>Abdullodžanov</form>
-<tag lemma="Abdullodžanov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abdullodžanov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-040-p1s1w6">
 <src.rf>manual</src.rf>

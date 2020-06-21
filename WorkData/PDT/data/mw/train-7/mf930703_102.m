@@ -328,7 +328,7 @@
 <LM>w#w-mf930703-102-p11s1w1</LM>
 </w.rf>
 <form>Sampras</form>
-<tag lemma="Sampras_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sampras_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-102-p11s1w2">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf930703-102-p11s1w3</LM>
 </w.rf>
 <form>Courier</form>
-<tag lemma="Courier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Courier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-102-p11s1w4">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-mf930703-102-p11s1w6</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-102-p12s1">

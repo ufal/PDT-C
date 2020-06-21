@@ -198,7 +198,7 @@
 <LM>w#w-mf920924-067-p1s2w4</LM>
 </w.rf>
 <form>Fiat</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-067-p1s2w5">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-mf920924-067-p1s2w11</LM>
 </w.rf>
 <form>Ladě</form>
-<tag lemma="Lada-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="Lada-1_;m_^(vozidlo)" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920924-067-p1s2w12">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-mf920924-067-p1s3w8</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-067-p1s3w9">
 <src.rf>manual</src.rf>

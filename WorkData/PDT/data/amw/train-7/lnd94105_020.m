@@ -77,7 +77,7 @@
 <LM>w#w-lnd94105-020-p1s2w3</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ria-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-020-p1s2w4">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-lnd94105-020-p1s5w4</LM>
 </w.rf>
 <form>Petrů</form>
-<tag lemma="Petrů_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Petrů_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd94105-020-p1s5w5">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd94105-020-p1s8w6</LM>
 </w.rf>
 <form>Petrů</form>
-<tag lemma="Petrů_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Petrů_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd94105-020-p1s8w7">
 <src.rf>manual</src.rf>
@@ -1280,9 +1280,9 @@
 </w.rf>
 <form>Schering</form>
 <tag>
-<AM lemma="Schering_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Schering_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schering-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Schering_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Schering_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Schering-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-020-p1s10w8">
@@ -1300,8 +1300,8 @@
 </w.rf>
 <form>Plough</form>
 <tag>
-<AM lemma="Plough_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Plough_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Plough_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Plough_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-020-p1s10w10">
@@ -1319,7 +1319,7 @@
 <LM>w#w-lnd94105-020-p1s10w11</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="USD_:B_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-020-p1s10w12">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-vesm9301-018-p2s1w2</LM>
 </w.rf>
 <form>HUDEC</form>
-<tag lemma="Hudec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hudec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-018-p3s1">
@@ -595,7 +595,7 @@
 <LM>w#w-vesm9301-018-p3s2w19</LM>
 </w.rf>
 <form>Orionu</form>
-<tag lemma="Orion-1_;K_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Orion-1_;m_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-018-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 </w.rf>
 <form>Mesartim</form>
 <tag>
-<AM lemma="Mesartim_;m_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Mesartim_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Mesartim_;G" src="manual" selected="1">NNXXX-----A----</AM>
 <AM lemma="Mesartim_;G_,t" src="manual">NNXXX-----A----</AM>
 </tag>
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>Alshain</form>
 <tag>
-<AM lemma="Alshain_;m_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Alshain_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Alshain_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Alshain_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Alshain_;G" src="manual" selected="1">NNXXX-----A----</AM>
@@ -1277,7 +1277,7 @@
 </w.rf>
 <form>Yildun</form>
 <tag>
-<AM lemma="Yildun_;m_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Yildun_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Yildun_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Yildun_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -1987,7 +1987,7 @@
 <LM>w#w-vesm9301-018-p5s4w13</LM>
 </w.rf>
 <form>Ptolemaiův</form>
-<tag lemma="Ptolemaiův_;S_^(*2os)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Ptolemaiův_;Y_^(*2os)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9301-018-p5s4w14">
 <src.rf>manual</src.rf>
@@ -1995,7 +1995,7 @@
 <LM>w#w-vesm9301-018-p5s4w14</LM>
 </w.rf>
 <form>Almagest</form>
-<tag lemma="Almagest_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Almagest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9301-018-p5s4w15">
 <src.rf>manual</src.rf>
@@ -2304,7 +2304,7 @@
 <LM>w#w-vesm9301-018-p5s5w25</LM>
 </w.rf>
 <form>Almagestu</form>
-<tag lemma="Almagest_;R" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Almagest_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9301-018-p5s5w26">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-mf920925-046-p1s1w2</LM>
 </w.rf>
 <form>bugině</form>
-<tag lemma="bugina_;R" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="bugina_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920925-046-p1s1w3">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-mf920925-046-p1s1w8</LM>
 </w.rf>
 <form>Bartoš</form>
-<tag lemma="Bartoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bartoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

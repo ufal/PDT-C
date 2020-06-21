@@ -103,7 +103,7 @@
 <LM>w#w-ln95049-029-p2s1Bw6</LM>
 </w.rf>
 <form>Karembeuem</form>
-<tag lemma="Karembeu_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Karembeu_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -234,7 +234,7 @@
 <LM>w#w-ln95049-029-p2s1Bw22</LM>
 </w.rf>
 <form>Loussouarn</form>
-<tag lemma="Loussouarn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loussouarn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -587,7 +587,7 @@
 <LM>w#w-ln95049-029-p2s4w1</LM>
 </w.rf>
 <form>Loussouarn</form>
-<tag lemma="Loussouarn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loussouarn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s4w2">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-ln95049-029-p2s5w6</LM>
 </w.rf>
 <form>Marraud</form>
-<tag lemma="Marraud_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marraud_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s5w7">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-ln95049-029-p2s5w9</LM>
 </w.rf>
 <form>Casagrande</form>
-<tag lemma="Casagrande_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Casagrande_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s5w10">
 <src.rf>manual</src.rf>

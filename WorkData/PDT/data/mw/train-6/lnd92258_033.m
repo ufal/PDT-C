@@ -36,8 +36,8 @@
 </w.rf>
 <form>ph</form>
 <tag>
-<AM lemma="ph-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ph-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ph-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ph-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-033-p1s1w4">
@@ -270,7 +270,7 @@
 <LM>w#w-lnd92258-033-p1s1w32</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-033-p1s1w33">
 <src.rf>manual</src.rf>
@@ -311,8 +311,8 @@
 </w.rf>
 <form>Magyar</form>
 <tag>
-<AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Magyar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>

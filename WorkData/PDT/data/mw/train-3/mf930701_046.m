@@ -700,9 +700,9 @@
 <form>c</form>
 <tag>
 <AM lemma="císařský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="c-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="c-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="c-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s3w5">
@@ -729,7 +729,7 @@
 <form>k</form>
 <tag>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="k-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="k-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s3w8">
@@ -877,7 +877,7 @@
 <LM>w#w-mf930701-046-p2s3w25</LM>
 </w.rf>
 <form>Otčenáška</form>
-<tag lemma="Otčenášek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Otčenášek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-046-p2s3w26">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-mf930701-046-p2s3w64</LM>
 </w.rf>
 <form>Šafránkové</form>
-<tag lemma="Šafránková_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Šafránková_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930701-046-p2s3w65">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-mf930701-046-p2s4w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930701-046-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1401,7 +1401,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s5w2">
@@ -1418,7 +1418,7 @@
 <LM>w#w-mf930701-046-p2s5w3</LM>
 </w.rf>
 <form>Otčenášek</form>
-<tag lemma="Otčenášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Otčenášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-046-p2s5w4">
 <src.rf>manual</src.rf>

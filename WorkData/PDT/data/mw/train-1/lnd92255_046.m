@@ -82,7 +82,7 @@
 <LM>w#w-lnd92255-046-p3s1w3</LM>
 </w.rf>
 <form>dos</form>
-<tag lemma="dos-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dos-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92255-046-p3s1w4">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-lnd92255-046-p3s2w11</LM>
 </w.rf>
 <form>Dolgoš</form>
-<tag lemma="Dolgoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dolgoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-046-p3s2w12">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd92255-046-p3s3w4</LM>
 </w.rf>
 <form>Dolgoše</form>
-<tag lemma="Dolgoš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dolgoš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-046-p3s3w5">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-046-p3s6w4">
@@ -736,7 +736,7 @@
 <LM>w#w-lnd92255-046-p3s6w5</LM>
 </w.rf>
 <form>Holomány</form>
-<tag lemma="Holomány_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holomány_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-046-p3s6w6">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-lnd92255-046-p3s8w2</LM>
 </w.rf>
 <form>Dolgoš</form>
-<tag lemma="Dolgoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dolgoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-046-p3s8w3">
 <src.rf>manual</src.rf>

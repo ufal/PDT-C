@@ -351,7 +351,7 @@
 </w.rf>
 <form>APA</form>
 <tag>
-<AM lemma="APA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="APA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="APA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Apa_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Apo_;G" src="auto">NNNS2-----A----</AM>
@@ -373,7 +373,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -391,7 +391,7 @@
 <LM>w#w-lnd92259-104-p3s3w9</LM>
 </w.rf>
 <form>Meyer</form>
-<tag lemma="Meyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meyer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-104-p3s3w10">
 <src.rf>manual</src.rf>

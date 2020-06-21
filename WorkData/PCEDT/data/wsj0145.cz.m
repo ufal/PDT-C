@@ -64,9 +64,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -188,7 +188,7 @@
 </w.rf>
 <form>National</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -199,11 +199,11 @@
 </w.rf>
 <form>Tyre</form>
 <tag>
-<AM lemma="Tyr_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyr_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyros_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -215,7 +215,7 @@
 <form>Service</form>
 <tag>
 <AM lemma="Service-77" src="auto" recommended="1" selected="1">F%-------------</AM>
-<AM lemma="Service_;K_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="Service_;m_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="servis" src="auto">NNXXX-----A----</AM>
 <AM lemma="service-77" src="auto">F%-------------</AM>
 </tag>
@@ -254,9 +254,9 @@
 </w.rf>
 <form>Michelin</form>
 <tag>
-<AM lemma="Michelin_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Michelin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Michelin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Michelin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -267,11 +267,11 @@
 </w.rf>
 <form>Tyre</form>
 <tag>
-<AM lemma="Tyr_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyr_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyros_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -417,9 +417,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -446,8 +446,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s1W14-Ta">
@@ -597,9 +597,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -756,8 +756,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -923,7 +923,7 @@
 </w.rf>
 <form>National</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -934,11 +934,11 @@
 </w.rf>
 <form>Tyre</form>
 <tag>
-<AM lemma="Tyr_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyr_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyros_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -950,7 +950,7 @@
 <form>Service</form>
 <tag>
 <AM lemma="Service-77" src="auto" selected="1">F%-------------</AM>
-<AM lemma="Service_;K_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="Service_;m_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="servis" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="service-77" src="auto">F%-------------</AM>
 </tag>
@@ -978,9 +978,9 @@
 </w.rf>
 <form>Michelin</form>
 <tag>
-<AM lemma="Michelin_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Michelin_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Michelin_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Michelin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -991,8 +991,8 @@
 </w.rf>
 <form>Investment</form>
 <tag>
-<AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Investment_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1118,9 +1118,9 @@
 </w.rf>
 <form>Michelin</form>
 <tag>
-<AM lemma="Michelin_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Michelin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Michelin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Michelin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1131,11 +1131,11 @@
 </w.rf>
 <form>Tyre</form>
 <tag>
-<AM lemma="Tyr_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyr_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyros_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1201,9 +1201,9 @@
 </w.rf>
 <form>Michelin</form>
 <tag>
-<AM lemma="Michelin_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Michelin_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Michelin_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Michelin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1214,14 +1214,14 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="S-33" src="auto">Q3-------------</AM>
 <AM lemma="S-77" src="auto">F%-------------</AM>
-<AM lemma="S-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto">RR--7----------</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="S-33" src="auto">Q3-------------</AM>
 <AM lemma="s-77_,t" src="auto">F%-------------</AM>
 <AM lemma="s-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
@@ -1246,12 +1246,12 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="A-33" src="auto">Q3-------------</AM>
 <AM lemma="A-77_^(př._a_la)" src="auto">F%-------------</AM>
-<AM lemma="A-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="ampér" src="auto">NNIXX-----A---8</AM>
 <AM lemma="a-1" src="auto">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="A-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
@@ -1298,10 +1298,10 @@
 </w.rf>
 <form>Michelin</form>
 <tag>
-<AM lemma="Michelin_;K_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Michelin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Michelin-1_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Michelin_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Michelin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Michelin-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s4W4-Ta">
@@ -1501,7 +1501,7 @@
 </w.rf>
 <form>National</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1512,11 +1512,11 @@
 </w.rf>
 <form>Tyre</form>
 <tag>
-<AM lemma="Tyr_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyr_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyros_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tyre_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tyre_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1645,8 +1645,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>

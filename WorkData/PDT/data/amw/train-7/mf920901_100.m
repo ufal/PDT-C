@@ -429,7 +429,7 @@
 <LM>w#w-mf920901-100-p3s1w8</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-100-p3s1w9">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-mf920901-100-p3s1w15</LM>
 </w.rf>
 <form>Landsbergisem</form>
-<tag lemma="Landsbergis_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Landsbergis_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920901-100-p3s1w16">
 <src.rf>manual</src.rf>

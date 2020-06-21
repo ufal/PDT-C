@@ -104,7 +104,7 @@
 </w.rf>
 <form>DAK</form>
 <tag>
-<AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DAK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -114,7 +114,7 @@
 <LM>w#w-mf920901-039-p2s2w4</LM>
 </w.rf>
 <form>Mova</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-039-p2s2w5">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-mf920901-039-p2s2w16</LM>
 </w.rf>
 <form>Pečírky</form>
-<tag lemma="Pečírka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pečírka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-039-p2s2w17">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 </w.rf>
 <form>DAK</form>
 <tag>
-<AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DAK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -402,7 +402,7 @@
 <LM>w#w-mf920901-039-p2s3w3</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-039-p2s3w4">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-mf920901-039-p2s4w25</LM>
 </w.rf>
 <form>Pečírka</form>
-<tag lemma="Pečírka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pečírka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-039-p2s4w26">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-mf920901-039-p2s5w1</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-039-p2s5w2">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf920901-039-p2s5w3</LM>
 </w.rf>
 <form>Start</form>
-<tag lemma="Start_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Start_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-039-p2s5w4">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-mf920901-039-p2s6w2</LM>
 </w.rf>
 <form>Pečírka</form>
-<tag lemma="Pečírka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pečírka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-039-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 <LM>w#w-mf920901-039-p2s6w12</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-039-p2s6w13">
 <src.rf>manual</src.rf>

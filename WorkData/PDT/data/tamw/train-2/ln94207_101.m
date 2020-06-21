@@ -61,7 +61,7 @@
 <form>Miranda</form>
 <tag>
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Miranda-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Miranda_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
@@ -230,7 +230,7 @@
 <form>Miranda</form>
 <tag>
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Miranda-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Miranda_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
@@ -370,7 +370,7 @@
 </w.rf>
 <form>Fairytales</form>
 <tag>
-<AM lemma="Fairytales_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Fairytales_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Fairytales-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -430,7 +430,7 @@
 <form>Miranda</form>
 <tag>
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Miranda-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Miranda_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
@@ -671,7 +671,7 @@
 </w.rf>
 <form>Carpets</form>
 <tag>
-<AM lemma="Carpets_;m_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -740,7 +740,7 @@
 </w.rf>
 <form>Fairytales</form>
 <tag>
-<AM lemma="Fairytales_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Fairytales_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Fairytales-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1068,7 +1068,7 @@
 <LM>w#w-ln94207-101-p3s2w29</LM>
 </w.rf>
 <form>Shakespearovy</form>
-<tag lemma="Shakespearův_;S_^(*2e)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Shakespearův_;Y_^(*2e)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94207-101-p3s2w30">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <form>Miranda</form>
 <tag>
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Miranda-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Miranda_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
@@ -1389,7 +1389,7 @@
 <LM>w#w-ln94207-101-p3s3Bw2</LM>
 </w.rf>
 <form>tse</form>
-<tag lemma="tse-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="tse-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-101-p3s3Bw3">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf920902-026-p1s1w3</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920902-026-p1s1w4">
 <src.rf>manual</src.rf>

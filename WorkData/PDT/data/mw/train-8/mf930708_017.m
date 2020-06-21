@@ -134,8 +134,8 @@
 </w.rf>
 <form>mazdu</form>
 <tag>
-<AM lemma="Mazda-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Mazda-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="mazda_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p2s1w10">
@@ -257,11 +257,11 @@
 </w.rf>
 <form>mazdy</form>
 <tag>
-<AM lemma="Mazda-2_;R_^(vozidlo)" src="orig">NNFS2-----A----</AM>
-<AM lemma="mazda_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="mazda_;R" src="auto">NNFP4-----A----</AM>
-<AM lemma="mazda_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Mazda-2_;m_^(vozidlo)" src="orig">NNFS2-----A----</AM>
+<AM lemma="mazda_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="mazda_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="mazda_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="mazda_;m" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p2s1w25">
@@ -458,7 +458,7 @@
 <LM>w#w-mf930708-017-p2s3w7</LM>
 </w.rf>
 <form>Kadeřábek</form>
-<tag lemma="Kadeřábek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kadeřábek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-017-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1175,8 +1175,8 @@
 </w.rf>
 <form>mazdu</form>
 <tag>
-<AM lemma="Mazda-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Mazda-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="mazda_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p4s3w7">

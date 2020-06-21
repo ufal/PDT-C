@@ -36,7 +36,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -373,7 +373,7 @@
 </w.rf>
 <form>Haarec</form>
 <tag>
-<AM lemma="Haarec_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haarec_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Haarec-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -418,7 +418,7 @@
 </w.rf>
 <form>Haarec</form>
 <tag>
-<AM lemma="Haarec_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haarec_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Haarec-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -822,7 +822,7 @@
 <LM>w#w-mf930713-152-p3s2w8</LM>
 </w.rf>
 <form>Jicchaka</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jicchak_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-152-p3s2w9">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-mf930713-152-p3s2w9</LM>
 </w.rf>
 <form>Rabina</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-152-p3s2w10">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -889,7 +889,7 @@
 <LM>w#w-mf930713-152-p3s2w16</LM>
 </w.rf>
 <form>Arafata</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-152-p3s2w17">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-mf930713-152-p4s1w1</LM>
 </w.rf>
 <form>Rabinův</form>
-<tag lemma="Rabinův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Rabinův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930713-152-p4s1w2">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-mf930713-152-p4s1w9</LM>
 </w.rf>
 <form>Arafatův</form>
-<tag lemma="Arafatův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Arafatův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930713-152-p4s1w10">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-mf930713-152-p4s1w12</LM>
 </w.rf>
 <form>Nabíl</form>
-<tag lemma="Nabíl_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nabíl_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-152-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-mf930713-152-p4s1w13</LM>
 </w.rf>
 <form>Šás</form>
-<tag lemma="Šás_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šás_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-152-p4s1w14">
 <src.rf>manual</src.rf>

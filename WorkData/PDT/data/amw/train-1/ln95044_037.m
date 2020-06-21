@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-037-p1s1w1</LM>
 </w.rf>
 <form>Sampras</form>
-<tag lemma="Sampras_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sampras_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-037-p1s1w2">
 <src.rf>manual</src.rf>
@@ -36,7 +36,7 @@
 </w.rf>
 <form>Davis</form>
 <tag>
-<AM lemma="Davis-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Davis-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Davis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -47,7 +47,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -200,7 +200,7 @@
 <LM>w#w-ln95044-037-p2s1Cw6</LM>
 </w.rf>
 <form>Sampras</form>
-<tag lemma="Sampras_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sampras_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-037-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-ln95044-037-p2s1Cw12</LM>
 </w.rf>
 <form>Davisova</form>
-<tag lemma="Davisův-2_;S_^(*4-2)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Davisův-2_;Y_^(*4-2)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95044-037-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln95044-037-p2s2w7</LM>
 </w.rf>
 <form>Gullikson</form>
-<tag lemma="Gullikson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gullikson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-037-p2s2w8">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-ln95044-037-p3s2w24</LM>
 </w.rf>
 <form>Davis</form>
-<tag lemma="Davis-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Davis-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-037-p3s2w25">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 </w.rf>
 <form>Cupu</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS6-----A----</AM>
 <AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -759,7 +759,7 @@
 <LM>w#w-ln95044-037-p3s2w33</LM>
 </w.rf>
 <form>Gullikson</form>
-<tag lemma="Gullikson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gullikson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-037-p3s2w34">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-ln95044-037-p4s1w9</LM>
 </w.rf>
 <form>Gulliksonova</form>
-<tag lemma="Gulliksonův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Gulliksonův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95044-037-p4s1w10">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln95044-037-p4s1w13</LM>
 </w.rf>
 <form>Samprasova</form>
-<tag lemma="Samprasův_;S_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Samprasův_;Y_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-ln95044-037-p4s1w14">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-ln95044-037-p4s2w9</LM>
 </w.rf>
 <form>Gullikson</form>
-<tag lemma="Gullikson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gullikson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-037-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1044,7 +1044,7 @@
 <LM>w#w-ln95044-037-p4s3w1</LM>
 </w.rf>
 <form>Sampras</form>
-<tag lemma="Sampras_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sampras_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-037-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-ln95044-037-p4s3w7</LM>
 </w.rf>
 <form>Courierem</form>
-<tag lemma="Courier_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Courier_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-037-p4s3w8">
 <src.rf>manual</src.rf>

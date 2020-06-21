@@ -100,7 +100,7 @@
 </w.rf>
 <form>Prague</form>
 <tag>
-<AM lemma="Prague_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Prague_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -112,9 +112,9 @@
 </w.rf>
 <form>Panthers</form>
 <tag>
-<AM lemma="Panthers_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Panthers_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Panthers_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Panthers_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Panthers_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Panthers_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Panthers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -133,7 +133,7 @@
 </w.rf>
 <form>Prague</form>
 <tag>
-<AM lemma="Prague_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Prague_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -145,9 +145,9 @@
 </w.rf>
 <form>Lions</form>
 <tag>
-<AM lemma="Lions_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Lions_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Lions_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Lions_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Lions_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Lions_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Lions-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -370,7 +370,7 @@
 </w.rf>
 <form>ČAAF</form>
 <tag>
-<AM lemma="ČAAF_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČAAF_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -406,7 +406,7 @@
 <LM>w#w-ln94208-115-p1s3Bw3</LM>
 </w.rf>
 <form>Zlatohlávek</form>
-<tag lemma="Zlatohlávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlatohlávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-115-p1s3Bw4">
 <src.rf>manual</src.rf>
@@ -423,8 +423,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

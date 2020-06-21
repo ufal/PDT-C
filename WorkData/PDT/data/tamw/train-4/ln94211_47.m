@@ -94,8 +94,8 @@
 </w.rf>
 <form>mrk</form>
 <tag>
-<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-47-p2s1Aw4">
@@ -399,7 +399,7 @@
 <LM>w#w-ln94211-47-p3s1w9</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-47-p3s1w10">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-ln94211-47-p3s3w8</LM>
 </w.rf>
 <form>Stráského</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-47-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-ln94211-47-p4s2w4</LM>
 </w.rf>
 <form>Stráského</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-47-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1951,7 +1951,7 @@
 <LM>w#w-ln94211-47-p5s2w45</LM>
 </w.rf>
 <form>Štambera</form>
-<tag lemma="Štambera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štambera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-47-p5s2w46">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 </w.rf>
 <form>ČMSS</form>
 <tag>
-<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

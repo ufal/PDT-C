@@ -237,11 +237,11 @@
 <form>Man</form>
 <tag>
 <AM lemma="Man-4_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Man-1_;m_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Man-1_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Man-3_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Man-3_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="man" src="auto">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 <AM lemma="Man-2_;G_,t" src="manual">NNXXX-----A----</AM>
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln95043-089-p2s7w17</LM>
 </w.rf>
 <form>companies</form>
-<tag lemma="company_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag lemma="company_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95043-089-p2s7w18">
 <src.rf>manual</src.rf>
@@ -2020,7 +2020,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -6874,8 +6874,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-089-p11s2w12">
@@ -7452,7 +7452,7 @@
 </w.rf>
 <form>names</form>
 <tag>
-<AM lemma="name_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="name_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="names_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="names-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -7722,7 +7722,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -8292,7 +8292,7 @@
 </w.rf>
 <form>ABB</form>
 <tag>
-<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB_:B_;m_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -8322,11 +8322,11 @@
 </w.rf>
 <form>Dutch</form>
 <tag>
-<AM lemma="Dutch_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Dutch-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Dutch-2_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Dutch-2_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dutch-2_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Dutch_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Dutch-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Dutch-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Dutch-2_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Dutch-2_;m_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Dutch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8357,7 +8357,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8443,7 +8443,7 @@
 </w.rf>
 <form>Handlowy</form>
 <tag>
-<AM lemma="Handlowy_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Handlowy_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Handlowy_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Handlowy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -8456,7 +8456,7 @@
 <form>w</form>
 <tag>
 <AM lemma="w_,t" src="orig">RR--6----------</AM>
-<AM lemma="w-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="w-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="w-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="w_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="w-77" src="manual" selected="1">F%-------------</AM>

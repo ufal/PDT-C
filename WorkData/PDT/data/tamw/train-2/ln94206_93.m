@@ -61,7 +61,7 @@
 <LM>w#w-ln94206-93-p2s1w1</LM>
 </w.rf>
 <form>Talichův</form>
-<tag lemma="Talichův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Talichův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94206-93-p2s1w2">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94206-93-p3s1w2</LM>
 </w.rf>
 <form>Moucha</form>
-<tag lemma="Moucha-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moucha-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-93-p3s1w3">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln94206-93-p3s1w5</LM>
 </w.rf>
 <form>Pinkava</form>
-<tag lemma="Pinkava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pinkava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-93-p3s1w6">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <form>Stano</form>
 <tag>
 <AM lemma="Stano_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stano_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stano_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-93-p3s1w9">
@@ -282,7 +282,7 @@
 <LM>w#w-ln94206-93-p3s1w11</LM>
 </w.rf>
 <form>Stratil</form>
-<tag lemma="Stratil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stratil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-93-p3s1w12">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-ln94206-93-p3s1w34</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94206-93-p3s1w35">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln94206-93-p4s1w7</LM>
 </w.rf>
 <form>Komárka</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-93-p4s1w8">
 <src.rf>manual</src.rf>
@@ -664,8 +664,8 @@
 </w.rf>
 <form>Chagall</form>
 <tag>
-<AM lemma="Chagall_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chagall-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Chagall_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Chagall-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-93-p4s1w16">

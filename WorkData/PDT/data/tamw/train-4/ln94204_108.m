@@ -96,7 +96,7 @@
 <LM>w#w-ln94204-108-p2s1w8</LM>
 </w.rf>
 <form>Hošek</form>
-<tag lemma="Hošek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hošek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-108-p2s1w9">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln94204-108-p3s1w12</LM>
 </w.rf>
 <form>Meindlinger</form>
-<tag lemma="Meindlinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meindlinger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-108-p3s1w13">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94204-108-p3s1w14</LM>
 </w.rf>
 <form>Kotzmann</form>
-<tag lemma="Kotzmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotzmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-108-p3s1w15">
 <src.rf>manual</src.rf>

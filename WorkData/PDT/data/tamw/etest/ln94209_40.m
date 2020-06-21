@@ -175,7 +175,7 @@
 <LM>w#w-ln94209-40-p2s2w5</LM>
 </w.rf>
 <form>Bromhexinu</form>
-<tag lemma="Bromhexin_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Bromhexin_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-40-p2s2w6">
 <src.rf>manual</src.rf>

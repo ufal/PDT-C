@@ -27,7 +27,7 @@
 <LM>w#w-ln94207-93-p1s1w2</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-93-p2s1C">
@@ -467,7 +467,7 @@
 </w.rf>
 <form>Bocca</form>
 <tag>
-<AM lemma="Bocca_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bocca_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bocca-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -478,7 +478,7 @@
 </w.rf>
 <form>della</form>
 <tag>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto">RR--X----------</AM>
+<AM lemma="della_;m_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto">RR--X----------</AM>
 <AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -489,7 +489,7 @@
 </w.rf>
 <form>veritá</form>
 <tag>
-<AM lemma="veritá_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="veritá_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="veritá-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

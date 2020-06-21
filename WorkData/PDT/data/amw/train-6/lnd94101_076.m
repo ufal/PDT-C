@@ -27,7 +27,7 @@
 <LM>w#w-lnd94101-076-p1s1Aw2</LM>
 </w.rf>
 <form>Minc</form>
-<tag lemma="Minc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Minc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-076-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-lnd94101-076-p1s1Bw4</LM>
 </w.rf>
 <form>Minc</form>
-<tag lemma="Minc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Minc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-076-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-lnd94101-076-p1s3w2</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-076-p1s3w3">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-lnd94101-076-p1s3w21</LM>
 </w.rf>
 <form>Minc</form>
-<tag lemma="Minc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Minc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-076-p1s3w22">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 </w.rf>
 <form>pal</form>
 <tag>
-<AM lemma="pal-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pal-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pálit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="pálit" src="auto">Vi-S---3--A-I-4</AM>
 </tag>

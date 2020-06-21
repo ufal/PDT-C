@@ -70,7 +70,7 @@
 </w.rf>
 <form>ITT</form>
 <tag>
-<AM lemma="ITT-1_:B_;K_,t_^(Inter._Telephone_and_Telgraph_Corporation)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ITT-1_:B_;m_,t_^(Inter._Telephone_and_Telgraph_Corporation)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ITT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -89,7 +89,7 @@
 </w.rf>
 <form>Cablevision</form>
 <tag>
-<AM lemma="Cablevision_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Cablevision_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Cablevision-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -100,7 +100,7 @@
 </w.rf>
 <form>Systems</form>
 <tag>
-<AM lemma="System_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="System_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -183,7 +183,7 @@
 </w.rf>
 <form>Viacom</form>
 <tag>
-<AM lemma="Viacom_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Viacom_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Viacom-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -194,7 +194,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Inc_:B_;m_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
@@ -224,7 +224,7 @@
 <form>Madison</form>
 <tag>
 <AM lemma="Madison_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Madison_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Madison_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Madison-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -281,7 +281,7 @@
 <LM>w#w-ln94204-13-p2s1w29</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="USD_:B_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-13-p2s1w30">
 <src.rf>manual</src.rf>

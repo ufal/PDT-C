@@ -152,7 +152,7 @@
 </w.rf>
 <form>dr</form>
 <tag>
-<AM lemma="dr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
@@ -450,7 +450,7 @@
 </w.rf>
 <form>ČSD</form>
 <tag>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -529,7 +529,7 @@
 <form>Paula</form>
 <tag>
 <AM lemma="Paul_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paul_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Paul_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p3s1w22">
@@ -1226,7 +1226,7 @@
 <form>Paula</form>
 <tag>
 <AM lemma="Paul_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Paul_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Paul_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p4s4w15">
@@ -2197,7 +2197,7 @@
 <form>Paul</form>
 <tag>
 <AM lemma="Paul_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paul_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Paul_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p6s2w20">
@@ -2458,7 +2458,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2768,7 +2768,7 @@
 <form>Paul</form>
 <tag>
 <AM lemma="Paul_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paul_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Paul_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p8s3w12">
@@ -3062,9 +3062,9 @@
 </w.rf>
 <form>SGP</form>
 <tag>
-<AM lemma="SGP-3_:B_;K_,t_^(rakouská_firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SGP-1_:B_;K_,t_^(zvuková_karta_Sound_Galaxy_NX_Pro_16)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="SGP-2_:B_;R_,t_^(Soukup_Graphic_Preprocessor)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SGP-3_:B_;m_,t_^(rakouská_firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SGP-1_:B_;m_,t_^(zvuková_karta_Sound_Galaxy_NX_Pro_16)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SGP-2_:B_;m_,t_^(Soukup_Graphic_Preprocessor)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SGP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3586,7 +3586,7 @@
 <form>Paul</form>
 <tag>
 <AM lemma="Paul_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paul_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Paul_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p10s1w19">

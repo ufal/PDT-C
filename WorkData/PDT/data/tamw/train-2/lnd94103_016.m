@@ -69,7 +69,7 @@
 <LM>w#w-lnd94103-016-p1s2w3</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ria-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-016-p1s2w4">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-lnd94103-016-p1s3w10</LM>
 </w.rf>
 <form>Rubáše</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-016-p1s3w11">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 </w.rf>
 <form>ČLK</form>
 <tag>
-<AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -598,7 +598,7 @@
 </w.rf>
 <form>ČLK</form>
 <tag>
-<AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -616,7 +616,7 @@
 <LM>w#w-lnd94103-016-p1s5w7</LM>
 </w.rf>
 <form>Svobody</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-016-p1s5w8">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-016-p1s6w2">
@@ -733,7 +733,7 @@
 <LM>w#w-lnd94103-016-p1s6w3</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-016-p1s6w4">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-lnd94103-016-p1s8w1</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-016-p1s8w2">
 <src.rf>manual</src.rf>
@@ -1822,7 +1822,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-016-p1s11w10">
@@ -1839,7 +1839,7 @@
 <LM>w#w-lnd94103-016-p1s11w11</LM>
 </w.rf>
 <form>Svobody</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-016-p1s11w12">
 <src.rf>manual</src.rf>
@@ -1872,7 +1872,7 @@
 </w.rf>
 <form>ČLK</form>
 <tag>
-<AM lemma="ČLK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

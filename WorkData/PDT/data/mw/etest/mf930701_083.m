@@ -975,7 +975,7 @@
 <form>Davida</form>
 <tag>
 <AM lemma="David_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="David_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="David_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-083-p2s6w10">
@@ -1376,7 +1376,7 @@
 <form>David</form>
 <tag>
 <AM lemma="David_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="David_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="David_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-083-p2s9w16">

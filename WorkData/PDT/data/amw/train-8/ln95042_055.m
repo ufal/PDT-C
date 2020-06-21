@@ -19,7 +19,7 @@
 <LM>w#w-ln95042-055-p1s1w1</LM>
 </w.rf>
 <form>Walesa</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-055-p1s1w2">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <LM>w#w-ln95042-055-p2s1Bw4</LM>
 </w.rf>
 <form>Sejmu</form>
-<tag lemma="Sejm_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Sejm_;m_,t" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln95042-055-p2s1Bw13</LM>
 </w.rf>
 <form>Oleksym</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walesa</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw29">
 <src.rf>manual</src.rf>

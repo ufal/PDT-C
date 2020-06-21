@@ -117,7 +117,7 @@
 <LM>w#w-mf930701-091-p2s1w3</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930701-091-p2s1w4">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-mf930701-091-p2s1w5</LM>
 </w.rf>
 <form>ben</form>
-<tag lemma="ben-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ben-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930701-091-p2s1w6">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-mf930701-091-p3s2w15</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930701-091-p3s2w16">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-mf930701-091-p3s2w16</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-091-p3s2w17">
 <src.rf>manual</src.rf>

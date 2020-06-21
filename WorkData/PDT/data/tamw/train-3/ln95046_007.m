@@ -742,7 +742,7 @@
 </w.rf>
 <form>Harvard</form>
 <tag>
-<AM lemma="Harvard-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Harvard-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Harvard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -753,7 +753,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -344,7 +344,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-003-p2s2w15">
@@ -361,7 +361,7 @@
 <LM>w#w-ln95041-003-p2s2w16</LM>
 </w.rf>
 <form>Obminského</form>
-<tag lemma="Obminskij_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Obminskij_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-003-p2s2w17">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-003-p3s4w21">
@@ -988,7 +988,7 @@
 <LM>w#w-ln95041-003-p3s4w22</LM>
 </w.rf>
 <form>Obminskij</form>
-<tag lemma="Obminskij_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Obminskij_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-003-p3s4w23">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-ln95041-003-p4s1w11</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-003-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-ln95041-003-p4s1w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-003-p4s1w17">
 <src.rf>manual</src.rf>

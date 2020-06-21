@@ -20,7 +20,7 @@
 </w.rf>
 <form>PPF</form>
 <tag>
-<AM lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PPF-1_:B_;m_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -99,7 +99,7 @@
 </w.rf>
 <form>PPF</form>
 <tag>
-<AM lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PPF-1_:B_;m_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -491,7 +491,7 @@
 </w.rf>
 <form>PPF</form>
 <tag>
-<AM lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PPF-1_:B_;m_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -646,7 +646,7 @@
 </w.rf>
 <form>IF</form>
 <tag>
-<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF_:B_;m_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -691,7 +691,7 @@
 </w.rf>
 <form>PPF</form>
 <tag>
-<AM lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PPF-1_:B_;m_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -726,7 +726,7 @@
 </w.rf>
 <form>IF</form>
 <tag>
-<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF_:B_;m_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

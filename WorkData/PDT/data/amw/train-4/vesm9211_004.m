@@ -45,7 +45,7 @@
 <LM>w#w-vesm9211-004-p2s1w2</LM>
 </w.rf>
 <form>ŠÍMA</form>
-<tag lemma="Šíma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šíma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-004-p3s1">
@@ -2398,7 +2398,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Lövtrup</form>
-<tag lemma="Lövtrup_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lövtrup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-004-p8s1w27">
 <src.rf>manual</src.rf>
@@ -3338,7 +3338,7 @@
 <LM>w#w-vesm9211-004-p10s1w6</LM>
 </w.rf>
 <form>Teilhard</form>
-<tag lemma="Teilhard_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Teilhard_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-004-p10s1w7">
 <src.rf>manual</src.rf>
@@ -3357,7 +3357,7 @@
 <LM>w#w-vesm9211-004-p10s1w8</LM>
 </w.rf>
 <form>Chardin</form>
-<tag lemma="Chardin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chardin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-004-p10s1w9">
 <src.rf>manual</src.rf>
@@ -4385,7 +4385,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-004-p12s2w25">
@@ -4403,7 +4403,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Lövtrup</form>
-<tag lemma="Lövtrup_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lövtrup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-004-p12s2w27">
 <src.rf>manual</src.rf>

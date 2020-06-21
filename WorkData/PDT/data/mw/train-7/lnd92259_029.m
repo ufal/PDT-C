@@ -1553,7 +1553,7 @@
 <LM>w#w-lnd92259-029-p5s2w5</LM>
 </w.rf>
 <form>Pastorové</form>
-<tag lemma="Pastorová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Pastorová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-029-p5s2w6">
 <src.rf>manual</src.rf>
@@ -3043,8 +3043,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-029-p7s1w3">

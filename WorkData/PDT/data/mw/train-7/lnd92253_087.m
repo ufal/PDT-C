@@ -183,7 +183,7 @@
 <LM>w#w-lnd92253-087-p2s2w5</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92253-087-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-lnd92253-087-p4s3w9</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd92253-087-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1752,7 +1752,7 @@
 <LM>w#w-lnd92253-087-p5s4w9</LM>
 </w.rf>
 <form>Masarykův</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92253-087-p5s4w10">
 <src.rf>manual</src.rf>
@@ -1809,7 +1809,7 @@
 </w.rf>
 <form>TGM</form>
 <tag>
-<AM lemma="TGM_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TGM_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1846,7 +1846,7 @@
 </w.rf>
 <form>TGM</form>
 <tag>
-<AM lemma="TGM_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TGM_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TGM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2118,7 +2118,7 @@
 <LM>w#w-lnd92253-087-p6s2w5</LM>
 </w.rf>
 <form>Benešově</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd92253-087-p6s2w6">
 <src.rf>manual</src.rf>
@@ -4642,7 +4642,7 @@
 <LM>w#w-lnd92253-087-p11s1w2</LM>
 </w.rf>
 <form>PŘÍHODA</form>
-<tag lemma="Příhoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Příhoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

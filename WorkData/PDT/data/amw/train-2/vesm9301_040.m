@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="Uma_;G" src="orig">NNFP7-----A----</AM>
 <AM lemma="umami" src="manual">NNXXX-----A----</AM>
-<AM lemma="umami_;H_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="umami_;U_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p1s1w2">
@@ -378,8 +378,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p2s1w41">
@@ -397,7 +397,7 @@
 </w.rf>
 <form>Membrane</form>
 <tag>
-<AM lemma="Membrane_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Membrane_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Membrane-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -408,7 +408,7 @@
 </w.rf>
 <form>Biol</form>
 <tag>
-<AM lemma="Biology_:B_;R_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Biology_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Biol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -599,7 +599,7 @@
 <LM>w#w-vesm9301-040-p2s3w22</LM>
 </w.rf>
 <form>adenosinmonofosfátu</form>
-<tag lemma="adenosinmonofosfát_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="adenosinmonofosfát_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-040-p2s3w23">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-vesm9301-040-p2s5w17</LM>
 </w.rf>
 <form>glutamát</form>
-<tag lemma="glutamát_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="glutamát_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9301-040-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1099,7 +1099,7 @@
 <form>Vede</form>
 <tag>
 <AM lemma="vést" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="Vede_;R" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Vede_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p2s5w29">
@@ -1238,7 +1238,7 @@
 <form>umami</form>
 <tag>
 <AM lemma="umami_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="umami_;H_^(pátá_chuť)" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
+<AM lemma="umami_;U_^(pátá_chuť)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p2s5w46">
@@ -1507,7 +1507,7 @@
 <LM>w#w-vesm9301-040-p2s7w15</LM>
 </w.rf>
 <form>glutamátem</form>
-<tag lemma="glutamát_;H" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="glutamát_;U" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9301-040-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1535,7 +1535,7 @@
 <form>Umami</form>
 <tag>
 <AM lemma="Uma_;G" src="orig">NNFP7-----A----</AM>
-<AM lemma="umami_;H_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="umami_;U_^(pátá_chuť)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-040-p2s8w2">
@@ -1660,7 +1660,7 @@
 <LM>w#w-vesm9301-040-p3s1w2</LM>
 </w.rf>
 <form>Schreiber</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-040-p4s1">

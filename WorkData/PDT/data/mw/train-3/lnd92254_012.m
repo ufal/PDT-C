@@ -568,7 +568,7 @@
 <LM>w#w-lnd92254-012-p3s4w3</LM>
 </w.rf>
 <form>Krantz</form>
-<tag lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krantz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-012-p3s4w4">
 <src.rf>manual</src.rf>
@@ -585,8 +585,8 @@
 </w.rf>
 <form>Vanderbilt</form>
 <tag>
-<AM lemma="Vanderbilt_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Vanderbilt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vanderbilt_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Vanderbilt_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Vanderbilt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -616,9 +616,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p3s4w9">
@@ -1173,7 +1173,7 @@
 <LM>w#w-lnd92254-012-p4s2w19</LM>
 </w.rf>
 <form>Krantz</form>
-<tag lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krantz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-012-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-lnd92254-012-p4s7w7</LM>
 </w.rf>
 <form>Krantz</form>
-<tag lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krantz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-012-p4s7w8">
 <src.rf>manual</src.rf>
@@ -2117,8 +2117,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p4s8w7">
@@ -2136,8 +2136,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p4s8w9">
@@ -2155,9 +2155,9 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual">NNIXX-----A----</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual">NNIXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p4s8w11">
@@ -2388,9 +2388,9 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual">NNIXX-----A----</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual">NNIXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-012-p4s9w6">
@@ -2783,7 +2783,7 @@
 <LM>w#w-lnd92254-012-p4s11w13</LM>
 </w.rf>
 <form>Krantz</form>
-<tag lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krantz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-012-p4s11w14">
 <src.rf>manual</src.rf>
@@ -3634,8 +3634,8 @@
 <form>HLA</form>
 <tag>
 <AM lemma="HLA_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="HLA_:B" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="Hla_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="HLA_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Hla_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="hnout" src="auto">VpQW---XR-AA--7</AM>
 <AM lemma="hnout_,h_,x" src="auto">VpQW---XR-AA---</AM>
 <AM lemma="HLA-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -4071,7 +4071,7 @@
 <LM>w#w-lnd92254-012-p5s7w31</LM>
 </w.rf>
 <form>Krantz</form>
-<tag lemma="Krantz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krantz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-012-p5s7w32">
 <src.rf>manual</src.rf>
@@ -4187,7 +4187,7 @@
 <LM>w#w-lnd92254-012-p6s1w2</LM>
 </w.rf>
 <form>RIEBAUEROVÁ</form>
-<tag lemma="Riebauerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Riebauerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -329,7 +329,7 @@
 <LM>w#w-ln94206-141-p2s2w10</LM>
 </w.rf>
 <form>Baránek</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-141-p2s2w11">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-ln94206-141-p3s1w4</LM>
 </w.rf>
 <form>Baránka</form>
-<tag lemma="Baránek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baránek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-141-p3s1w5">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -810,7 +810,7 @@
 <LM>w#w-ln94206-141-p4s1w29</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94206-141-p4s1w30">
 <src.rf>manual</src.rf>

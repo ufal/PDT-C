@@ -289,7 +289,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1411,7 +1411,7 @@
 <LM>w#w-lnd94101-098-p1s10w11</LM>
 </w.rf>
 <form>Dobsonových</form>
-<tag lemma="Dobsonův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Dobsonův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-lnd94101-098-p1s10w12">
 <src.rf>manual</src.rf>
@@ -1656,7 +1656,7 @@
 </w.rf>
 <form>ČHMÚ</form>
 <tag>
-<AM lemma="ČHMÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČHMÚ_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČHMÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1781,7 +1781,7 @@
 </w.rf>
 <form>UPIC</form>
 <tag>
-<AM lemma="UPIC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UPIC_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="UPIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

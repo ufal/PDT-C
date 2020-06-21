@@ -967,7 +967,7 @@
 <LM>w#w-lnd91303-068-p2s8w12</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-068-p2s8w13">
 <src.rf>manual</src.rf>
@@ -1407,7 +1407,7 @@
 <LM>w#w-lnd91303-068-p2s11w5</LM>
 </w.rf>
 <form>Kueter</form>
-<tag lemma="Kueter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kueter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-068-p2s11w6">
 <src.rf>manual</src.rf>
@@ -1434,7 +1434,7 @@
 <LM>w#w-lnd91303-068-p2s11w8</LM>
 </w.rf>
 <form>Heijningen</form>
-<tag lemma="Heijningen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Heijningen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-068-p2s11w9">
 <src.rf>manual</src.rf>
@@ -1690,7 +1690,7 @@
 <form>MATES</form>
 <tag>
 <AM lemma="mates" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mates_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mates_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-068-p4s1w3">

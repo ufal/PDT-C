@@ -19,7 +19,7 @@
 <LM>w#w-lnd94104-130-p1s1w1</LM>
 </w.rf>
 <form>Aero</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94104-130-p1s1w2">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-lnd94104-130-p1s4w4</LM>
 </w.rf>
 <form>Aero</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94104-130-p1s4w5">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-lnd94104-130-p1s5w10</LM>
 </w.rf>
 <form>Spolchemií</form>
-<tag lemma="Spolchemie_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Spolchemie_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94104-130-p1s5w11">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-lnd94104-130-p1s6w7</LM>
 </w.rf>
 <form>Dukly</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-130-p1s6w8">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-lnd94104-130-p1s6w10</LM>
 </w.rf>
 <form>Schenku</form>
-<tag lemma="Schenk_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Schenk_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd94104-130-p1s6w11">
 <src.rf>manual</src.rf>

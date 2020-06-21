@@ -249,7 +249,7 @@
 <LM>w#w-cmpr9413-051-p4s1w16</LM>
 </w.rf>
 <form>Březovský</form>
-<tag lemma="Březovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Březovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-051-p4s1w17">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-cmpr9413-051-p6s1w2</LM>
 </w.rf>
 <form>Kačer</form>
-<tag lemma="Kačer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kačer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-051-p8s1">
@@ -561,7 +561,7 @@
 <LM>w#w-cmpr9413-051-p8s2w2</LM>
 </w.rf>
 <form>Březovský</form>
-<tag lemma="Březovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Březovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-051-p8s2w3">
 <src.rf>manual</src.rf>
@@ -2568,7 +2568,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-051-p14s2w15">
@@ -2587,7 +2587,7 @@
 <form>Háša</form>
 <tag>
 <AM lemma="Háša_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Háša-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Háša-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-051-p14s2w17">
@@ -3878,7 +3878,7 @@
 <LM>w#w-cmpr9413-051-p17s5w7</LM>
 </w.rf>
 <form>polovic</form>
-<tag lemma="polovic" src="orig" selected="1">Cn-SX----------</tag>
+<tag lemma="polovic" src="orig" selected="1">Cn-XX----------</tag>
 </m>
 <m id="m-cmpr9413-051-p17s5w8">
 <src.rf>manual</src.rf>
@@ -4666,7 +4666,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-051-p20s2w16">
@@ -4685,7 +4685,7 @@
 <form>Háša</form>
 <tag>
 <AM lemma="Háša_;G" src="auto">NNMS1-----A----</AM>
-<AM lemma="Háša-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Háša-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-051-p20s2w18">

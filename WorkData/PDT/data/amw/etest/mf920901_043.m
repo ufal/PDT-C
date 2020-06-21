@@ -43,7 +43,7 @@
 <LM>w#w-mf920901-043-p1s1w4</LM>
 </w.rf>
 <form>Discolandu</form>
-<tag lemma="Discoland_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Discoland_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-043-p2s1">
@@ -70,8 +70,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-043-p2s1w4">
@@ -194,7 +194,7 @@
 <LM>w#w-mf920901-043-p2s2w13</LM>
 </w.rf>
 <form>Discoland</form>
-<tag lemma="Discoland_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Discoland_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-043-p2s2w14">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-mf920901-043-p2s3w24</LM>
 </w.rf>
 <form>Discolandu</form>
-<tag lemma="Discoland_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Discoland_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-043-p2s3w25">
 <src.rf>manual</src.rf>

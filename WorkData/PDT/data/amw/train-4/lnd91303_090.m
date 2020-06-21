@@ -51,7 +51,7 @@
 <LM>w#w-lnd91303-090-p2s1w5</LM>
 </w.rf>
 <form>HONZLEM</form>
-<tag lemma="Honzl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Honzl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p2s1w6">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 <LM>w#w-lnd91303-090-p3s1w24</LM>
 </w.rf>
 <form>Švanda</form>
-<tag lemma="Švanda_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švanda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p3s1w25">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-lnd91303-090-p4s1w2</LM>
 </w.rf>
 <form>Švanda</form>
-<tag lemma="Švanda_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švanda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p4s1w3">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-lnd91303-090-p4s1w14</LM>
 </w.rf>
 <form>Rázl</form>
-<tag lemma="Rázl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rázl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p4s1w15">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-lnd91303-090-p5s1w2</LM>
 </w.rf>
 <form>Švanda</form>
-<tag lemma="Švanda_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švanda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p5s1w3">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-lnd91303-090-p5s1w10</LM>
 </w.rf>
 <form>Albertville</form>
-<tag lemma="Albertville_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Albertville_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p5s1w11">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-lnd91303-090-p6s1w28</LM>
 </w.rf>
 <form>Cogne</form>
-<tag lemma="Cogne_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Cogne_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p6s1w29">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-lnd91303-090-p6s3w1</LM>
 </w.rf>
 <form>Švanda</form>
-<tag lemma="Švanda_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švanda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p6s3w2">
 <src.rf>manual</src.rf>
@@ -1571,7 +1571,7 @@
 <LM>w#w-lnd91303-090-p8s1w9</LM>
 </w.rf>
 <form>Nyč</form>
-<tag lemma="Nyč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nyč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p8s1w10">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-lnd91303-090-p8s1w11</LM>
 </w.rf>
 <form>Benc</form>
-<tag lemma="Benc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p8s1w12">
 <src.rf>manual</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-lnd91303-090-p8s1w13</LM>
 </w.rf>
 <form>Havrančíková</form>
-<tag lemma="Havrančíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Havrančíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p8s1w14">
 <src.rf>manual</src.rf>
@@ -1635,7 +1635,7 @@
 <LM>w#w-lnd91303-090-p8s1w17</LM>
 </w.rf>
 <form>Rázlem</form>
-<tag lemma="Rázl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rázl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p8s1w18">
 <src.rf>manual</src.rf>
@@ -1804,9 +1804,9 @@
 </w.rf>
 <form>Les</form>
 <tag>
-<AM lemma="Les-1_;K_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAXPX----1A----</AM>
-<AM lemma="Les-1_;K_,t_^(součást_cizích_jmen)" src="auto">XX-------------</AM>
+<AM lemma="Les-1_;m_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Les-1_;m_,t_^(součást_cizích_jmen)" src="auto">XX-------------</AM>
 <AM lemma="Les-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto">NNIS1-----A----</AM>

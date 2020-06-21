@@ -152,8 +152,8 @@
 </w.rf>
 <form>jaš</form>
 <tag>
-<AM lemma="jaš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jaš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jaš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jaš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-007-p3s1w4">
@@ -171,8 +171,8 @@
 </w.rf>
 <form>rk</form>
 <tag>
-<AM lemma="rk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-007-p3s1w6">
@@ -215,7 +215,7 @@
 <LM>w#w-lnd92253-007-p3s2w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-007-p3s2w4">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-lnd92253-007-p3s2w6</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-007-p3s2w7">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -845,8 +845,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-007-p4s1w12">
@@ -1683,7 +1683,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2397,7 +2397,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-007-p4s10w15">
@@ -2414,7 +2414,7 @@
 <LM>w#w-lnd92253-007-p4s10w16</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-007-p4s10w17">
 <src.rf>manual</src.rf>
@@ -2863,7 +2863,7 @@
 <LM>w#w-lnd92253-007-p5s3w5</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-007-p5s3w6">
 <src.rf>manual</src.rf>
@@ -3147,7 +3147,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4272,7 +4272,7 @@
 <LM>w#w-lnd92253-007-p7s2w5</LM>
 </w.rf>
 <form>Géci</form>
-<tag lemma="Géci_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Géci_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-007-p7s2w6">
 <src.rf>manual</src.rf>

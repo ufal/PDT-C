@@ -78,7 +78,7 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94203-131-p2s1Bw7</LM>
 </w.rf>
 <form>Mgeni</form>
-<tag lemma="Mgeni_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mgeni_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -306,8 +306,8 @@
 </w.rf>
 <form>Klaus</form>
 <tag>
-<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-131-p2s1Bw19">
@@ -464,7 +464,7 @@
 <LM>w#w-ln94203-131-p2s3w8</LM>
 </w.rf>
 <form>Nmirgem</form>
-<tag lemma="Nmirgem_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nmirgem_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s3w9">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 </w.rf>
 <form>Malu</form>
 <tag>
-<AM lemma="Malu_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Malu_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Mala_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="malo-2" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="malo-2" src="auto">NNNS6-----A----</AM>
@@ -708,7 +708,7 @@
 </w.rf>
 <form>malu</form>
 <tag>
-<AM lemma="malu_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="malu_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="malo-2" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="malo-2" src="auto">NNNS6-----A----</AM>
 <AM lemma="malu_;Y" src="manual" selected="1">NNMXX-----A----</AM>
@@ -1032,7 +1032,7 @@
 <LM>w#w-ln94203-131-p2s6w3</LM>
 </w.rf>
 <form>Say</form>
-<tag lemma="Say_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Say_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1040,7 +1040,7 @@
 <LM>w#w-ln94203-131-p2s6w4</LM>
 </w.rf>
 <form>Dooklin</form>
-<tag lemma="Dooklin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dooklin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-131-p2s6w5">
 <src.rf>manual</src.rf>

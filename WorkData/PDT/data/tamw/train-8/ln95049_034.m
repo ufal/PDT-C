@@ -27,7 +27,7 @@
 <LM>w#w-ln95049-034-p1s1w2</LM>
 </w.rf>
 <form>Nedvěd</form>
-<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nedvěd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

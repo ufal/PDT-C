@@ -128,8 +128,8 @@
 </w.rf>
 <form>ČD</form>
 <tag>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p2s1Bw9">
@@ -194,7 +194,7 @@
 <LM>w#w-ln94210-9-p2s1Bw16</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94210-9-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -341,8 +341,8 @@
 </w.rf>
 <form>ČD</form>
 <tag>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p2s2w8">
@@ -449,7 +449,7 @@
 <LM>w#w-ln94210-9-p2s3w6</LM>
 </w.rf>
 <form>Mandíka</form>
-<tag lemma="Mandík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mandík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-9-p2s3w7">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln94210-9-p4s1w21</LM>
 </w.rf>
 <form>Masarykovo</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94210-9-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-ln94210-9-p5s1w2</LM>
 </w.rf>
 <form>Mandíkových</form>
-<tag lemma="Mandíkův_;S_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Mandíkův_;Y_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-ln94210-9-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1672,8 +1672,8 @@
 </w.rf>
 <form>ČD</form>
 <tag>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p6s3w2">
@@ -1886,7 +1886,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p6s4w7">
@@ -1903,7 +1903,7 @@
 <LM>w#w-ln94210-9-p6s4w8</LM>
 </w.rf>
 <form>Mandíka</form>
-<tag lemma="Mandík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mandík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-9-p6s4w9">
 <src.rf>manual</src.rf>
@@ -1978,8 +1978,8 @@
 </w.rf>
 <form>ČD</form>
 <tag>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČD_:B_;m_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p7s1w5">

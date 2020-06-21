@@ -343,7 +343,7 @@
 <LM>w#w-mf920922-026-p2s2w12</LM>
 </w.rf>
 <form>Huňát</form>
-<tag lemma="Huňát_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Huňát_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-026-p2s2w13">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-mf920922-026-p2s6Bw7</LM>
 </w.rf>
 <form>Kropáček</form>
-<tag lemma="Kropáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kropáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-026-p2s6Bw8">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <LM>w#w-mf920922-026-p2s11w6</LM>
 </w.rf>
 <form>Huňát</form>
-<tag lemma="Huňát_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Huňát_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-026-p2s11w7">
 <src.rf>manual</src.rf>
@@ -2037,7 +2037,7 @@
 </w.rf>
 <form>Promotion</form>
 <tag>
-<AM lemma="Promotion_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Promotion_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Promotion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2048,7 +2048,7 @@
 </w.rf>
 <form>agency</form>
 <tag>
-<AM lemma="agency_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="agency_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="agency-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2066,7 +2066,7 @@
 <LM>w#w-mf920922-026-p2s12Bw12</LM>
 </w.rf>
 <form>Křemen</form>
-<tag lemma="Křemen-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křemen-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-026-p2s12Bw13">
 <src.rf>manual</src.rf>

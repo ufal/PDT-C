@@ -125,7 +125,7 @@
 <form>Loko</form>
 <tag>
 <AM lemma="Loko_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Loko_;G_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Loko_;G_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-109-p2s2w4">

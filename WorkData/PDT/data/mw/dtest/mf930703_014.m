@@ -28,8 +28,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-014-p1s1w3">
@@ -46,7 +46,7 @@
 <LM>w#w-mf930703-014-p1s1w4</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-014-p1s1w5">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-mf930703-014-p1s1w14</LM>
 </w.rf>
 <form>Bednarčíkovou</form>
-<tag lemma="Bednarčíková_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Bednarčíková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930703-014-p1s1w15">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-mf930703-014-p1s2w3</LM>
 </w.rf>
 <form>Zemanová</form>
-<tag lemma="Zemanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zemanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-014-p1s2w4">
 <src.rf>manual</src.rf>
@@ -193,8 +193,8 @@
 </w.rf>
 <form>Prager</form>
 <tag>
-<AM lemma="Prager_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="Prager_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Prager_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Prager_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Prager-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -205,7 +205,7 @@
 </w.rf>
 <form>Wochenblatt</form>
 <tag>
-<AM lemma="Wochenblatt_;R" src="orig">NNIXX-----A----</AM>
+<AM lemma="Wochenblatt_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Wochenblatt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -983,7 +983,7 @@
 </w.rf>
 <form>IVVM</form>
 <tag>
-<AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IVVM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1428,8 +1428,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-43-p4s3w12">
@@ -1698,7 +1698,7 @@
 <LM>w#w-ln94203-43-p4s5w16</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-43-p4s5w17">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <LM>w#w-ln94203-43-p4s5w23</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-43-p4s5w24">
 <src.rf>manual</src.rf>

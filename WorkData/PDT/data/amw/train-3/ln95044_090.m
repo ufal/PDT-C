@@ -62,7 +62,7 @@
 <LM>w#w-ln95044-090-p1s1w6</LM>
 </w.rf>
 <form>Chadimové</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95044-090-p2s1A">
@@ -127,7 +127,7 @@
 <LM>w#w-ln95044-090-p2s1Cw3</LM>
 </w.rf>
 <form>Chadimové</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-090-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-ln95044-090-p2s3w4</LM>
 </w.rf>
 <form>Hodoušek</form>
-<tag lemma="Hodoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hodoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-090-p2s3w5">
 <src.rf>manual</src.rf>
@@ -633,23 +633,23 @@
 </w.rf>
 <form>Čechově</form>
 <tag>
-<AM lemma="Čechův-2_;S_^(*4-2)" src="orig">AUFS6M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto" recommended="1">AUFS6M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUIS3M--------6</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUMS3M--------6</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUMS6M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUNS3M--------6</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUNS6M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto" selected="1">AUFS6M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUIS3M--------6</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUMS3M--------6</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUMS6M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUNS3M--------6</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUNS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4-2)" src="orig">AUFS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUFS3M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto" recommended="1">AUFS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUIS3M--------6</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUIS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUMS3M--------6</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUMS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS3M--------6</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUFS3M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto" selected="1">AUFS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUIS3M--------6</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUIS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUMS3M--------6</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUMS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUNS3M--------6</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m-ln95044-090-p2s4w17">
@@ -774,7 +774,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-090-p2s5w14">
@@ -791,7 +791,7 @@
 <LM>w#w-ln95044-090-p2s5w15</LM>
 </w.rf>
 <form>Chadimová</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-090-p2s5w16">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-090-p2s6w13">
@@ -924,7 +924,7 @@
 <LM>w#w-ln95044-090-p2s6w14</LM>
 </w.rf>
 <form>Chadimové</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-090-p2s6w15">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-ln95044-090-p3s1w8</LM>
 </w.rf>
 <form>Chadimovou</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95044-090-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1220,7 +1220,7 @@
 <LM>w#w-ln95044-090-p3s2w1</LM>
 </w.rf>
 <form>Chadimová</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-090-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1948,23 +1948,23 @@
 </w.rf>
 <form>Čechově</form>
 <tag>
-<AM lemma="Čechův-2_;S_^(*4-2)" src="orig">AUFS6M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto" recommended="1">AUFS6M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUIS3M--------6</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUMS3M--------6</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUMS6M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUNS3M--------6</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUNS6M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto" selected="1">AUFS6M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUIS3M--------6</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUMS3M--------6</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUMS6M---------</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUNS3M--------6</AM>
-<AM lemma="Čechův_;E_;S_^(*2)" src="auto">AUNS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4-2)" src="orig">AUFS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUFS3M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto" recommended="1">AUFS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUIS3M--------6</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUIS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUMS3M--------6</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUMS6M---------</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS3M--------6</AM>
+<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUFS3M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto" selected="1">AUFS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUIS3M--------6</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUIS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUMS3M--------6</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUMS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUNS3M--------6</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m-ln95044-090-p4s1w27">

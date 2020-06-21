@@ -35,7 +35,7 @@
 <LM>w#w-ln94201-90-p1s1w3</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-90-p1s1w4">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -237,7 +237,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-90-p2s2w20">
@@ -254,7 +254,7 @@
 <LM>w#w-ln94201-90-p2s2w21</LM>
 </w.rf>
 <form>Chocholoušek</form>
-<tag lemma="Chocholoušek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chocholoušek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-90-p2s2w22">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-ln94201-90-p2s3w3</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-90-p2s3w4">
 <src.rf>manual</src.rf>
@@ -433,8 +433,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-90-p2s3w22">
@@ -573,7 +573,7 @@
 <LM>w#w-ln94201-90-p2s4w6</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-90-p2s4w7">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <form>Prochaska</form>
 <tag>
 <AM lemma="Prochaska_;G" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prochaska-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prochaska-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-90-p2s4w18">
@@ -688,7 +688,7 @@
 <LM>w#w-ln94201-90-p2s4w20</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-90-p2s4w21">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-ln94201-90-p2s6w2</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-90-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94201-90-p2s6w19</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-90-p2s6w20">
 <src.rf>manual</src.rf>

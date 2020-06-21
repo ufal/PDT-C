@@ -600,7 +600,7 @@
 <LM>w#w-cmpr9407-001-p5s1w2</LM>
 </w.rf>
 <form>Herber</form>
-<tag lemma="Herber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-001-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-cmpr9407-001-p6s1w2</LM>
 </w.rf>
 <form>Pártl</form>
-<tag lemma="Pártl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pártl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-001-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1437,7 +1437,7 @@
 <LM>w#w-cmpr9407-001-p6s1w4</LM>
 </w.rf>
 <form>Tuzex</form>
-<tag lemma="Tuzex-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tuzex-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-001-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2166,7 +2166,7 @@
 <LM>w#w-cmpr9407-001-p6s5w12</LM>
 </w.rf>
 <form>Ampex</form>
-<tag lemma="Ampex_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ampex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-001-p6s5w13">
 <src.rf>manual</src.rf>
@@ -2796,7 +2796,7 @@
 <LM>w#w-cmpr9407-001-p7s1w2</LM>
 </w.rf>
 <form>Drutovský</form>
-<tag lemma="Drutovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drutovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-001-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2813,7 +2813,7 @@
 </w.rf>
 <form>Kornea</form>
 <tag>
-<AM lemma="Kornea_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kornea_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="kornea_;U" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -3779,7 +3779,7 @@
 <LM>w#w-cmpr9407-001-p8s1w2</LM>
 </w.rf>
 <form>Bureš</form>
-<tag lemma="Bureš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bureš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-001-p8s1w3">
 <src.rf>manual</src.rf>
@@ -3795,7 +3795,7 @@
 <LM>w#w-cmpr9407-001-p8s1w4</LM>
 </w.rf>
 <form>Svoda</form>
-<tag lemma="Svoda_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Svoda_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-001-p8s1w5">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-122-p1s1w1</LM>
 </w.rf>
 <form>Cantona</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-122-p1s1w2">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln94208-122-p2s1Bw5</LM>
 </w.rf>
 <form>Cantona</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-122-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94208-122-p2s3w2</LM>
 </w.rf>
 <form>Cantona</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-122-p2s3w3">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -691,7 +691,7 @@
 <LM>w#w-ln94208-122-p2s4w7</LM>
 </w.rf>
 <form>Cantonu</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-122-p2s4w8">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln94208-122-p2s4w13</LM>
 </w.rf>
 <form>Ferguson</form>
-<tag lemma="Ferguson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ferguson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-122-p2s4w14">
 <src.rf>manual</src.rf>

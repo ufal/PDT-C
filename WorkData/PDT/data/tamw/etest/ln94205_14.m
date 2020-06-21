@@ -159,7 +159,7 @@
 <LM>w#w-ln94205-14-p2s1Bw2</LM>
 </w.rf>
 <form>Pšenička</form>
-<tag lemma="Pšenička-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pšenička-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-14-p2s1C">
@@ -1678,7 +1678,7 @@
 <LM>w#w-ln94205-14-p4s4w2</LM>
 </w.rf>
 <form>Morávek</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-14-p4s4w3">
 <src.rf>manual</src.rf>

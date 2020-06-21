@@ -85,7 +85,7 @@
 <LM>w#w-ln94210-110-p2s1Aw2</LM>
 </w.rf>
 <form>Štěpánová</form>
-<tag lemma="Štěpánová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Štěpánová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-110-p2s1B">
@@ -144,7 +144,7 @@
 </w.rf>
 <form>MDP</form>
 <tag>
-<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-2_:B_;m_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -210,7 +210,7 @@
 <LM>w#w-ln94210-110-p2s1Bw15</LM>
 </w.rf>
 <form>LINHART</form>
-<tag lemma="Linhart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Linhart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-110-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln94210-110-p2s2w10</LM>
 </w.rf>
 <form>Vašinkou</form>
-<tag lemma="Vašinka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Vašinka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-110-p2s2w11">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 </w.rf>
 <form>Brak</form>
 <tag>
-<AM lemma="Brak_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Brak_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="braka_^(lovecký_pes)" src="auto">NNFP2-----A----</AM>
 <AM lemma="brak" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="brak" src="auto">NNIS4-----A----</AM>
@@ -401,7 +401,7 @@
 <LM>w#w-ln94210-110-p2s2w19</LM>
 </w.rf>
 <form>Morávkem</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-110-p2s2w20">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-ln94210-110-p4s1w10</LM>
 </w.rf>
 <form>Vedrala</form>
-<tag lemma="Vedral_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vedral_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-110-p4s1w11">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 </w.rf>
 <form>MDP</form>
 <tag>
-<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-2_:B_;m_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1703,7 +1703,7 @@
 </w.rf>
 <form>MDP</form>
 <tag>
-<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-2_:B_;m_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2673,7 +2673,7 @@
 </w.rf>
 <form>MDP</form>
 <tag>
-<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-2_:B_;m_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3610,7 +3610,7 @@
 </w.rf>
 <form>MDP</form>
 <tag>
-<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-2_:B_;m_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4151,7 +4151,7 @@
 </w.rf>
 <form>MDP</form>
 <tag>
-<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-2_:B_;m_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4236,7 +4236,7 @@
 <LM>w#w-ln94210-110-p13s1w13</LM>
 </w.rf>
 <form>Krejči</form>
-<tag lemma="Krejča_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Krejča_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-110-p13s1w14">
 <src.rf>manual</src.rf>
@@ -4458,7 +4458,7 @@
 <form>Adrie</form>
 <tag>
 <AM lemma="Adrie_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Adrie-2_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Adrie-2_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-110-p14s2w3">

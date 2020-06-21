@@ -53,7 +53,7 @@
 <LM>w#w-lnd92251-055-p2s1w3</LM>
 </w.rf>
 <form>dos</form>
-<tag lemma="dos-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dos-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92251-055-p2s1w4">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 </w.rf>
 <form>SDSS</form>
 <tag>
-<AM lemma="SDSS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SDSS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -360,7 +360,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-055-p2s2w12">
@@ -377,7 +377,7 @@
 <LM>w#w-lnd92251-055-p2s2w13</LM>
 </w.rf>
 <form>Volf</form>
-<tag lemma="Volf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Volf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-055-p2s2w14">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 </w.rf>
 <form>SDSS</form>
 <tag>
-<AM lemma="SDSS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SDSS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -424,15 +424,15 @@
 <form>p</form>
 <tag>
 <AM lemma="pan-1_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="p-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="p-33" src="auto">Q3-------------</AM>
 <AM lemma="p-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFSX-----A---8</AM>
+<AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="podnik_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
-<AM lemma="p-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-055-p2s3w5">
@@ -452,7 +452,7 @@
 </w.rf>
 <form>Vallo</form>
 <tag>
-<AM lemma="Vallo-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vallo-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Vallo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Vallo_;G" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="Vallo_;G" src="auto">NNNS5-----A----</AM>
@@ -715,7 +715,7 @@
 </w.rf>
 <form>SDSS</form>
 <tag>
-<AM lemma="SDSS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SDSS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SDSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

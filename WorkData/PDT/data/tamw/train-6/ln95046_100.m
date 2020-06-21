@@ -265,7 +265,7 @@
 <LM>w#w-ln95046-100-p2s2w10</LM>
 </w.rf>
 <form>Mathé</form>
-<tag lemma="Mathé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mathé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-100-p2s2w11">
 <src.rf>manual</src.rf>
@@ -322,8 +322,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s2w18">
@@ -438,7 +438,7 @@
 <LM>w#w-ln95046-100-p2s3w3</LM>
 </w.rf>
 <form>Mathé</form>
-<tag lemma="Mathé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mathé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-100-p2s3w4">
 <src.rf>manual</src.rf>
@@ -463,8 +463,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s3w7">
@@ -720,8 +720,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s4w15">
@@ -821,10 +821,10 @@
 </w.rf>
 <form>Mathé</form>
 <tag>
-<AM lemma="Mathé_;S" src="orig">NNMSX-----A----</AM>
-<AM lemma="Mathé_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mathé_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mathé_;S" src="auto" recommended="1" selected="1">NNMXX-----A----</AM>
+<AM lemma="Mathé_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Mathé_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mathé_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Mathé_;Y" src="auto" recommended="1" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s5w8">

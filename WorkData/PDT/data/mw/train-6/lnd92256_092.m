@@ -19,7 +19,7 @@
 <LM>w#w-lnd92256-092-p1s1w1</LM>
 </w.rf>
 <form>XTRALITE</form>
-<tag lemma="XTRALITE_;R" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="XTRALITE_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92256-092-p1s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <form>Scott</form>
 <tag>
 <AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scott-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Scott-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-092-p1s1w8">
@@ -240,8 +240,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-092-p2s1w3">
@@ -268,7 +268,7 @@
 <LM>w#w-lnd92256-092-p2s2w2</LM>
 </w.rf>
 <form>Mihaliček</form>
-<tag lemma="Mihaliček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mihaliček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

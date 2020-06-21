@@ -43,7 +43,7 @@
 <LM>w#w-mf920925-094-p1s1w4</LM>
 </w.rf>
 <form>Krůtu</form>
-<tag lemma="Krůta_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Krůta_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920925-094-p1s1w5">
 <src.rf>manual</src.rf>

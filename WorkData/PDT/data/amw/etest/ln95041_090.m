@@ -537,7 +537,7 @@
 <form>Mode</form>
 <tag>
 <AM lemma="mode_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Mode_;K_^(Depeche_Mode)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Mode_;m_^(Depeche_Mode)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="modus" src="auto">NNIS5-----A----</AM>
 <AM lemma="mód" src="auto">NNIS5-----A----</AM>
 <AM lemma="mode_,t" src="auto">XX-------------</AM>

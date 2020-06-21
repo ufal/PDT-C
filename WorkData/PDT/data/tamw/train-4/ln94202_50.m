@@ -340,7 +340,7 @@
 <LM>w#w-ln94202-50-p2s3w5</LM>
 </w.rf>
 <form>Munk</form>
-<tag lemma="Munk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Munk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-50-p2s3w6">
 <src.rf>manual</src.rf>

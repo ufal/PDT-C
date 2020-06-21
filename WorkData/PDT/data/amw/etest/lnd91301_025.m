@@ -70,8 +70,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-025-p2s1Aw6">
@@ -114,7 +114,7 @@
 <LM>w#w-lnd91301-025-p2s1Bw3</LM>
 </w.rf>
 <form>Jasénka</form>
-<tag lemma="Jasénka_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jasénka_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-025-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -276,15 +276,15 @@
 <AM lemma="F-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="F-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="F-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="F-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="F-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="F-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="F-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="F-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="F-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="F-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="F-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="F-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="F-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="F-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="F-33" src="auto">Q3-------------</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-025-p2s2w11">
@@ -310,7 +310,7 @@
 </w.rf>
 <form>ČTV</form>
 <tag>
-<AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTV-1_:B_;m_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -489,7 +489,7 @@
 </w.rf>
 <form>Cabel</form>
 <tag>
-<AM lemma="Cabel_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cabel_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Cabel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

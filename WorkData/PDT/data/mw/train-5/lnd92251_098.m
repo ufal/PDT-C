@@ -36,8 +36,8 @@
 </w.rf>
 <form>RVHP</form>
 <tag>
-<AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-1_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -194,8 +194,8 @@
 </w.rf>
 <form>RVHP</form>
 <tag>
-<AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-1_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -368,8 +368,8 @@
 </w.rf>
 <form>RVHP</form>
 <tag>
-<AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-1_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -670,8 +670,8 @@
 </w.rf>
 <form>RVHP</form>
 <tag>
-<AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-1_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -910,7 +910,7 @@
 <LM>w#w-lnd92251-098-p3s7w6</LM>
 </w.rf>
 <form>dolarech</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92251-098-p3s7w7">
 <src.rf>manual</src.rf>

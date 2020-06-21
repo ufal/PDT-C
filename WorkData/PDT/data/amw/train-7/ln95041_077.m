@@ -237,7 +237,7 @@
 <LM>w#w-ln95041-077-p2s1w23</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-077-p2s1w24">
 <src.rf>manual</src.rf>

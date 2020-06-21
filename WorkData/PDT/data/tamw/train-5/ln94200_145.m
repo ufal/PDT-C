@@ -27,7 +27,7 @@
 <LM>w#w-ln94200-145-p1s1Aw2</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-145-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 </w.rf>
 <form>IFK</form>
 <tag>
-<AM lemma="IFK_:B_;K_;w_^(švédký_sport._klub)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="IFK_:B_;m_^(švédký_sport._klub)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="IFK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -180,8 +180,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

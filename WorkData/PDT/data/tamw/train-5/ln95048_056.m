@@ -62,7 +62,7 @@
 </w.rf>
 <form>NLN</form>
 <tag>
-<AM lemma="NLN-1_:B_^(Nedělní_LN)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="NLN-1_:B_^(Nedělní_LN)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -186,7 +186,7 @@
 <LM>w#w-ln95048-056-p2s1Bw8</LM>
 </w.rf>
 <form>Paříka</form>
-<tag lemma="Pařík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pařík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-056-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-ln95048-056-p2s1Bw11</LM>
 </w.rf>
 <form>Poláčkovi</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95048-056-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln95048-056-p2s4w7</LM>
 </w.rf>
 <form>Poláčkem</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-056-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-ln95048-056-p4s2w12</LM>
 </w.rf>
 <form>Poláčka</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-056-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <LM>w#w-ln95048-056-p4s5w2</LM>
 </w.rf>
 <form>Poláček</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-056-p4s5w3">
 <src.rf>manual</src.rf>
@@ -2889,7 +2889,7 @@
 <LM>w#w-ln95048-056-p5s3w9</LM>
 </w.rf>
 <form>Poláček</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-056-p5s3w10">
 <src.rf>manual</src.rf>

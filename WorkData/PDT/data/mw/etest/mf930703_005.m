@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-005-p1s1w1</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-005-p1s1w2">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-mf930703-005-p2s1w9</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-005-p2s1w10">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-mf930703-005-p2s3w2</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-005-p2s3w3">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-mf930703-005-p2s4w30</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-005-p2s4w31">
 <src.rf>manual</src.rf>

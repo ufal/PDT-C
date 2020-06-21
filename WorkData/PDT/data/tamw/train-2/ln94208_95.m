@@ -95,7 +95,7 @@
 <LM>w#w-ln94208-95-p2s1Bw4</LM>
 </w.rf>
 <form>Morceli</form>
-<tag lemma="Morceli_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morceli_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-95-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln94208-95-p2s1Bw12</LM>
 </w.rf>
 <form>Joynerová</form>
-<tag lemma="Joynerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Joynerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-95-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94208-95-p2s1Bw14</LM>
 </w.rf>
 <form>Kerseeová</form>
-<tag lemma="Kerseeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kerseeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-95-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -425,7 +425,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -453,7 +453,7 @@
 <LM>w#w-ln94208-95-p3s1w2</LM>
 </w.rf>
 <form>Morceliho</form>
-<tag lemma="Morceli_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Morceli_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-95-p3s1w3">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -907,7 +907,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1087,7 +1087,7 @@
 <LM>w#w-ln94208-95-p4s2w4</LM>
 </w.rf>
 <form>Jackson</form>
-<tag lemma="Jackson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jackson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-95-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1341,7 +1341,7 @@
 <LM>w#w-ln94208-95-p4s4w6</LM>
 </w.rf>
 <form>Otteyová</form>
-<tag lemma="Otteyová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Otteyová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-95-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1513,7 +1513,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1545,7 +1545,7 @@
 <LM>w#w-ln94208-95-p4s5w10</LM>
 </w.rf>
 <form>Perecová</form>
-<tag lemma="Perecová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Perecová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-95-p4s5w11">
 <src.rf>manual</src.rf>

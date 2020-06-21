@@ -84,7 +84,7 @@
 <LM>w#w-mf920922-047-p4s1w1</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-047-p4s1w2">
 <src.rf>manual</src.rf>

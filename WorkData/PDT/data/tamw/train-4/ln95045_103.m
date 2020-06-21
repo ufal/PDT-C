@@ -138,7 +138,7 @@
 <LM>w#w-ln95045-103-p2s1Bw3</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-103-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-ln95045-103-p2s1Bw16</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-103-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 </w.rf>
 <form>STEM</form>
 <tag>
-<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM_:B_;m_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -553,7 +553,7 @@
 <LM>w#w-ln95045-103-p3s2w4</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-103-p3s2w5">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 </w.rf>
 <form>STEM</form>
 <tag>
-<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM_:B_;m_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1088,7 +1088,7 @@
 </w.rf>
 <form>STEM</form>
 <tag>
-<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM_:B_;m_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

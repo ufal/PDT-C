@@ -251,7 +251,7 @@
 <LM>w#w-ln94206-7-p2s2w12</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-7-p2s2w13">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 </w.rf>
 <form>ČSA</form>
 <tag>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -499,7 +499,7 @@
 <LM>w#w-ln94206-7-p2s3Bw15</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -555,7 +555,7 @@
 <LM>w#w-mf920924-013-p2s4w19</LM>
 </w.rf>
 <form>Huškeho</form>
-<tag lemma="Huške_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Huške_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-013-p2s4w20">
 <src.rf>manual</src.rf>

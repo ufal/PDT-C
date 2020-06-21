@@ -3953,7 +3953,7 @@
 <LM>w#w-lnd92257-090-p7s1w2</LM>
 </w.rf>
 <form>KVAČKOVÁ</form>
-<tag lemma="Kvačková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kvačková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

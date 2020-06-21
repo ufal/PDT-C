@@ -134,7 +134,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-085-p4s1w6">
@@ -646,7 +646,7 @@
 <LM>w#w-lnd91303-085-p7s1w16</LM>
 </w.rf>
 <form>Čaloun</form>
-<tag lemma="Čaloun_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čaloun_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s1w17">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-lnd91303-085-p7s1w18</LM>
 </w.rf>
 <form>Straka</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s1w19">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-lnd91303-085-p7s1w20</LM>
 </w.rf>
 <form>Procházka</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s1w21">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd91303-085-p7s4w13</LM>
 </w.rf>
 <form>Alinčem</form>
-<tag lemma="Alinč_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Alinč_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s4w14">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-lnd91303-085-p7s4w18</LM>
 </w.rf>
 <form>Ujčíkem</form>
-<tag lemma="Ujčík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ujčík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s4w19">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-lnd91303-085-p7s4w20</LM>
 </w.rf>
 <form>Zelenkou</form>
-<tag lemma="Zelenka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zelenka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s4w21">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-lnd91303-085-p7s5w2</LM>
 </w.rf>
 <form>Alinčova</form>
-<tag lemma="Alinčův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Alinčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd91303-085-p7s5w3">
 <src.rf>manual</src.rf>
@@ -1432,9 +1432,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-085-p7s6w27">
@@ -1694,7 +1694,7 @@
 <LM>w#w-lnd91303-085-p7s7w12</LM>
 </w.rf>
 <form>Procházka</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s7w13">
 <src.rf>manual</src.rf>
@@ -1710,7 +1710,7 @@
 <LM>w#w-lnd91303-085-p7s7w14</LM>
 </w.rf>
 <form>Straka</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s7w15">
 <src.rf>manual</src.rf>
@@ -1787,7 +1787,7 @@
 <LM>w#w-lnd91303-085-p7s8w7</LM>
 </w.rf>
 <form>Murín</form>
-<tag lemma="Murín_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murín_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s8w8">
 <src.rf>manual</src.rf>
@@ -1846,7 +1846,7 @@
 <LM>w#w-lnd91303-085-p7s8w14</LM>
 </w.rf>
 <form>Hniličkou</form>
-<tag lemma="Hnilička_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hnilička_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s8w15">
 <src.rf>manual</src.rf>
@@ -1865,9 +1865,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-085-p9s1w2">

@@ -26,7 +26,7 @@
 <form>Tomash</form>
 <tag>
 <AM lemma="Tomash" src="auto">X@-------------</AM>
-<AM lemma="Tomash_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tomash_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0227-001-p1s0W3-Ta">
@@ -166,9 +166,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -224,9 +224,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -294,8 +294,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0227-001-p1s0W20-Ta">
@@ -366,7 +366,7 @@
 <form>Dataproducts</form>
 <tag>
 <AM lemma="Dataproducts" src="auto">X@-------------</AM>
-<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Dataproducts_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0227-001-p1s1W3-Ta">
@@ -671,11 +671,11 @@
 </w.rf>
 <form>jak</form>
 <tag>
-<AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
+<AM lemma="jak-1_;U_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="jak-99_:B_;Y" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0227-001-p1s2W6-Ta">
@@ -705,7 +705,7 @@
 <form>Dataproducts</form>
 <tag>
 <AM lemma="Dataproducts" src="auto">X@-------------</AM>
-<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Dataproducts_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0227-001-p1s2W9-Ta">
@@ -732,7 +732,7 @@
 <form>Tomash</form>
 <tag>
 <AM lemma="Tomash" src="auto">X@-------------</AM>
-<AM lemma="Tomash_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tomash_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0227-001-p1s2W12-Ta">
@@ -882,7 +882,7 @@
 <form>Tomash</form>
 <tag>
 <AM lemma="Tomash" src="auto">X@-------------</AM>
-<AM lemma="Tomash_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tomash_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0227-001-p1s3W2-Ta">

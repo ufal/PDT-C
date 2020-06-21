@@ -19,7 +19,7 @@
 <LM>w#w-mf930702-039-p1s1w1</LM>
 </w.rf>
 <form>Hoffi</form>
-<tag lemma="Hoffi_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Hoffi_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930702-039-p1s1w2">
 <src.rf>manual</src.rf>
@@ -55,7 +55,7 @@
 <LM>w#w-mf930702-039-p3s1w1</LM>
 </w.rf>
 <form>Zakouřilova</form>
-<tag lemma="Zakouřilův_;S_^(*2)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Zakouřilův_;Y_^(*2)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930702-039-p3s1w2">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -235,7 +235,7 @@
 <LM>w#w-mf930702-039-p9s1w1</LM>
 </w.rf>
 <form>Hoffi</form>
-<tag lemma="Hoffi_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Hoffi_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930702-039-p9s1w2">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-mf930702-039-p10s1w1</LM>
 </w.rf>
 <form>Zakouřilova</form>
-<tag lemma="Zakouřilův_;S_^(*2)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Zakouřilův_;Y_^(*2)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930702-039-p10s1w2">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-mf930702-039-p14s1w1</LM>
 </w.rf>
 <form>Cinzano</form>
-<tag lemma="Cinzano_;R" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Cinzano_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930702-039-p14s1w2">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 </w.rf>
 <form>Ozbourne</form>
 <tag>
-<AM lemma="Ozbourne_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ozbourne_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Ozbourne-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -503,7 +503,7 @@
 </w.rf>
 <form>cream</form>
 <tag>
-<AM lemma="cream_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="cream_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="cream-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

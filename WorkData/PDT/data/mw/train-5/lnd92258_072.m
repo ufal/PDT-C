@@ -121,7 +121,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p3s1w3">
@@ -545,7 +545,7 @@
 <form>Majora</form>
 <tag>
 <AM lemma="major" src="orig">NNMS4-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p3s2w7">
@@ -857,7 +857,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p4s1w9">
@@ -1063,7 +1063,7 @@
 <form>Margaret</form>
 <tag>
 <AM lemma="Margaret_;Y_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Margaret_;Y" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
+<AM lemma="Margaret_;Y" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 <AM lemma="Margareta_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="margareta" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd92258-072-p4s1w34</LM>
 </w.rf>
 <form>Thatcherové</form>
-<tag lemma="Thatcherová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Thatcherová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-072-p4s1w35">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <form>Majorovi</form>
 <tag>
 <AM lemma="major" src="orig">NNMS3-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p5s1w8">
@@ -2273,8 +2273,8 @@
 <form>Majorova</form>
 <tag>
 <AM lemma="majorův_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Majorův_;S_^(*2)" src="manual">AUFS1M---------</AM>
-<AM lemma="Majorův_;S_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
+<AM lemma="Majorův_;Y_^(*2)" src="manual">AUFS1M---------</AM>
+<AM lemma="Majorův_;Y_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p6s1w28">
@@ -3637,7 +3637,7 @@
 <form>Majorovy</form>
 <tag>
 <AM lemma="majorův_^(*2)" src="orig">AUFP1M---------</AM>
-<AM lemma="Majorův_;S_^(*2)" src="manual" selected="1">AUFP1M---------</AM>
+<AM lemma="Majorův_;Y_^(*2)" src="manual" selected="1">AUFP1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p7s9w2">
@@ -3786,7 +3786,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p8s1w2">
@@ -3827,7 +3827,7 @@
 <LM>w#w-lnd92258-072-p8s1w6</LM>
 </w.rf>
 <form>Thatcherové</form>
-<tag lemma="Thatcherová_;S" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Thatcherová_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-072-p8s1w7">
 <src.rf>manual</src.rf>
@@ -4095,7 +4095,7 @@
 <LM>w#w-lnd92258-072-p8s3w3</LM>
 </w.rf>
 <form>Thatcherové</form>
-<tag lemma="Thatcherová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Thatcherová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-072-p8s3w4">
 <src.rf>manual</src.rf>
@@ -4325,7 +4325,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p8s5w5">
@@ -4400,7 +4400,7 @@
 <LM>w#w-lnd92258-072-p8s6w7</LM>
 </w.rf>
 <form>Nevilla</form>
-<tag lemma="Nevill_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nevill_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-072-p8s6w8">
 <src.rf>manual</src.rf>
@@ -4408,7 +4408,7 @@
 <LM>w#w-lnd92258-072-p8s6w8</LM>
 </w.rf>
 <form>Chamberlaina</form>
-<tag lemma="Chamberlain_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chamberlain_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-072-p8s6w9">
 <src.rf>manual</src.rf>
@@ -4424,7 +4424,7 @@
 <LM>w#w-lnd92258-072-p8s6w10</LM>
 </w.rf>
 <form>Stanleyho</form>
-<tag lemma="Stanley_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stanley_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-072-p8s6w11">
 <src.rf>manual</src.rf>
@@ -4432,7 +4432,7 @@
 <LM>w#w-lnd92258-072-p8s6w11</LM>
 </w.rf>
 <form>Baldwina</form>
-<tag lemma="Baldwin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baldwin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-072-p8s6w12">
 <src.rf>manual</src.rf>
@@ -4468,7 +4468,7 @@
 <form>Majora</form>
 <tag>
 <AM lemma="major" src="orig">NNMS2-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p8s7w4">
@@ -4643,7 +4643,7 @@
 <form>Majora</form>
 <tag>
 <AM lemma="major" src="orig">NNMS4-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p9s1w2">
@@ -5043,11 +5043,11 @@
 <form>EMS</form>
 <tag>
 <AM lemma="EMS-2_:B_,t_^(European_monetary_system)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EMS_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ems_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
-<AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
+<AM lemma="ems_;U_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5125,7 +5125,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p9s3w9">
@@ -5260,7 +5260,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p10s1w5">
@@ -5441,7 +5441,7 @@
 <form>Majorem</form>
 <tag>
 <AM lemma="major" src="orig">NNMS7-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p10s2w13">
@@ -5848,8 +5848,8 @@
 <form>Toryové</form>
 <tag>
 <AM lemma="toryové" src="orig">NNMP1-----A----</AM>
-<AM lemma="tory_;E_;p_,t" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="tory_;E_;p_,t" src="auto">NNMP5-----A----</AM>
+<AM lemma="tory_;E_,t" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="tory_;E_,t" src="auto">NNMP5-----A----</AM>
 <AM lemma="tory" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
@@ -6105,7 +6105,7 @@
 <form>Majora</form>
 <tag>
 <AM lemma="major" src="orig">NNMS4-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p10s7w2">
@@ -6336,7 +6336,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p10s9w10">
@@ -6487,7 +6487,7 @@
 <form>Majorova</form>
 <tag>
 <AM lemma="majorův_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="Majorův_;S_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
+<AM lemma="Majorův_;Y_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p11s1w2">
@@ -6667,7 +6667,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6983,7 +6983,7 @@
 <LM>w#w-lnd92258-072-p12s1w3</LM>
 </w.rf>
 <form>JUNGROVÁ</form>
-<tag lemma="Jungrová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jungrová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

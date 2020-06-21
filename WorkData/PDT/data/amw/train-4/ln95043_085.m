@@ -406,7 +406,7 @@
 <LM>w#w-ln95043-085-p1s3w18</LM>
 </w.rf>
 <form>Pekárek</form>
-<tag lemma="Pekárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pekárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-085-p1s3w19">
 <src.rf>manual</src.rf>

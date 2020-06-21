@@ -69,7 +69,7 @@
 <LM>w#w-lnd94101-023-p1s2w3</LM>
 </w.rf>
 <form>škr</form>
-<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="škr-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94101-023-p1s2w4">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -845,7 +845,7 @@
 </w.rf>
 <form>Lynch</form>
 <tag>
-<AM lemma="Lynch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lynch_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Lynch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -864,7 +864,7 @@
 </w.rf>
 <form>Salomon</form>
 <tag>
-<AM lemma="Salomon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Salomon_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Salomon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -875,7 +875,7 @@
 </w.rf>
 <form>Brothers</form>
 <tag>
-<AM lemma="Brother_;K_,t" src="orig">NNMP1-----A----</AM>
+<AM lemma="Brother_;m_,t" src="orig">NNMP1-----A----</AM>
 <AM lemma="Brothers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -902,7 +902,7 @@
 </w.rf>
 <form>Raiffeisen</form>
 <tag>
-<AM lemma="Raiffeisen_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Raiffeisen_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Raiffeisen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -913,7 +913,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -966,18 +966,18 @@
 </w.rf>
 <form>Marši</form>
 <tag>
-<AM lemma="Marš_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Marš_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Marš_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Marš_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Marš_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Marš_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Marš_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Marš_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Marš_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Marš_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Marš_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Marš_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Marš_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Marš_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="marš" src="auto">NNIP7-----A----</AM>
 <AM lemma="marš" src="auto">NNIS3-----A----</AM>
 <AM lemma="marš" src="auto">NNIS5-----A----</AM>
 <AM lemma="marš" src="auto">NNIS6-----A----</AM>
-<AM lemma="Marša_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Marša_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-023-p1s7w6">
@@ -1042,7 +1042,7 @@
 <LM>w#w-lnd94101-023-p1s7w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd94101-023-p1s7w14">
 <src.rf>manual</src.rf>

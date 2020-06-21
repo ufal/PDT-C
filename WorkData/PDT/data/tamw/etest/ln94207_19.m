@@ -71,7 +71,7 @@
 <LM>w#w-ln94207-19-p2s1Bw2</LM>
 </w.rf>
 <form>Steigerwald</form>
-<tag lemma="Steigerwald-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steigerwald-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-19-p2s1C">

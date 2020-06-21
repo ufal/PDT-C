@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-128-p1s1w1</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-128-p1s1w2">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-mf920902-128-p2s2w8</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-128-p2s2w9">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-mf920902-128-p2s2w10</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-128-p2s2w11">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-mf920902-128-p2s3w13</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-128-p2s3w14">
 <src.rf>manual</src.rf>

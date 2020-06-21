@@ -2866,7 +2866,7 @@
 <LM>w#w-ln95041-013-p3s12w13</LM>
 </w.rf>
 <form>stuyvesantku</form>
-<tag lemma="stuyvesantka_;R" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="stuyvesantka_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-013-p3s12w14">
 <src.rf>manual</src.rf>

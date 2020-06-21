@@ -67,7 +67,7 @@
 <LM>w#w-ln95048-080-p1s1w7</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="StB_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95048-080-p1s1w8">
 <src.rf>manual</src.rf>
@@ -92,8 +92,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -203,8 +203,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-080-p2s1Bw12">
@@ -229,7 +229,7 @@
 <LM>w#w-ln95048-080-p2s1Bw14</LM>
 </w.rf>
 <form>Stehlíka</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-080-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln95048-080-p2s1Bw20</LM>
 </w.rf>
 <form>Stehlíkovu</form>
-<tag lemma="Stehlíkův_;S_^(*2)" src="orig" selected="1">AUMS3M---------</tag>
+<tag lemma="Stehlíkův_;Y_^(*2)" src="orig" selected="1">AUMS3M---------</tag>
 </m>
 <m id="m-ln95048-080-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln95048-080-p2s1Bw24</LM>
 </w.rf>
 <form>Hulíkovi</form>
-<tag lemma="Hulík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hulík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-080-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -629,8 +629,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95048-080-p2s3w2">
@@ -738,7 +738,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -748,7 +748,7 @@
 <LM>w#w-ln95048-080-p3s1w6</LM>
 </w.rf>
 <form>Stehlíkovi</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-080-p3s1w7">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-ln95048-080-p3s2w1</LM>
 </w.rf>
 <form>Stehlík</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-080-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-ln95048-080-p4s1w1</LM>
 </w.rf>
 <form>Hulík</form>
-<tag lemma="Hulík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hulík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-080-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 <LM>w#w-ln95048-080-p4s1w6</LM>
 </w.rf>
 <form>Stehlík</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-080-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-ln95048-080-p4s3w1</LM>
 </w.rf>
 <form>Stehlík</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-080-p4s3w2">
 <src.rf>manual</src.rf>

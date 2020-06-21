@@ -351,7 +351,7 @@
 <LM>w#w-ln95047-083-p2s2w23</LM>
 </w.rf>
 <form>Špaček</form>
-<tag lemma="Špaček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špaček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-083-p2s2w24">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-ln95047-083-p2s4w5</LM>
 </w.rf>
 <form>Nejedlý</form>
-<tag lemma="Nejedlý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nejedlý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-083-p2s4w6">
 <src.rf>manual</src.rf>
@@ -3168,7 +3168,7 @@
 <LM>w#w-ln95047-083-p4s2w15</LM>
 </w.rf>
 <form>Nejedlého</form>
-<tag lemma="Nejedlý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nejedlý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-083-p4s2w16">
 <src.rf>manual</src.rf>
@@ -3445,7 +3445,7 @@
 <LM>w#w-ln95047-083-p4s3w17</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95047-083-p4s3w18">
 <src.rf>manual</src.rf>
@@ -3461,7 +3461,7 @@
 <LM>w#w-ln95047-083-p4s3w19</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95047-083-p4s3w20">
 <src.rf>manual</src.rf>
@@ -4605,7 +4605,7 @@
 <LM>w#w-ln95047-083-p5s1w2</LM>
 </w.rf>
 <form>Brokl</form>
-<tag lemma="Brokl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brokl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-083-p5s1w3">
 <src.rf>manual</src.rf>
@@ -4630,8 +4630,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-083-p5s1w6">
@@ -4784,7 +4784,7 @@
 <LM>w#w-ln95047-083-p5s1w24</LM>
 </w.rf>
 <form>Masaryk</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-083-p5s1w25">
 <src.rf>manual</src.rf>

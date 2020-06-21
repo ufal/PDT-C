@@ -109,7 +109,7 @@
 <LM>w#w-lnd92252-011-p2s1w4</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92252-011-p2s1w5">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd92252-011-p2s1w25</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP5-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP5-----A----</tag>
 </m>
 <m id="m-lnd92252-011-p2s1w26">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-lnd92252-011-p2s3w5</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-011-p2s3w6">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <AM lemma="Čech-1_;E" src="orig">NNMS7-----N----</AM>
 <AM lemma="Nečech" src="auto">NNMP4-----A----</AM>
 <AM lemma="Nečech" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="Čech_;E_;S" src="manual" selected="1">NNMP7-----N----</AM>
+<AM lemma="Čech_;E_;Y" src="manual" selected="1">NNMP7-----N----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p2s3w8">
@@ -691,7 +691,7 @@
 <LM>w#w-lnd92252-011-p3s1w7</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-011-p3s1w8">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-lnd92252-011-p3s1w10</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92252-011-p3s1w11">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-lnd92252-011-p3s1w14</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92252-011-p3s1w15">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-lnd92252-011-p3s1w18</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92252-011-p3s1w19">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-lnd92252-011-p3s1w22</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92252-011-p3s1w23">
 <src.rf>manual</src.rf>
@@ -3147,7 +3147,7 @@
 <LM>w#w-lnd92252-011-p8s1w2</LM>
 </w.rf>
 <form>SMETÁNKA</form>
-<tag lemma="Smetánka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetánka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

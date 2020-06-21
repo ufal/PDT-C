@@ -2829,8 +2829,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p6s1w6">
@@ -2856,8 +2856,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p6s1w9">
@@ -4433,7 +4433,7 @@
 <LM>w#w-ln95042-010-p9s1w2</LM>
 </w.rf>
 <form>salicylátů</form>
-<tag lemma="salicylát_;H" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="salicylát_;U" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95042-010-p9s1w3">
 <src.rf>manual</src.rf>
@@ -4449,7 +4449,7 @@
 <LM>w#w-ln95042-010-p9s1w4</LM>
 </w.rf>
 <form>acylpyrin</form>
-<tag lemma="acylpyrin_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="acylpyrin_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-010-p9s1w5">
 <src.rf>manual</src.rf>
@@ -4663,7 +4663,7 @@
 <LM>w#w-ln95042-010-p9s1w30</LM>
 </w.rf>
 <form>brufen</form>
-<tag lemma="brufen_;R" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="brufen_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95042-010-p9s1w31">
 <src.rf>manual</src.rf>

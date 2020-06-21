@@ -104,8 +104,8 @@
 </w.rf>
 <form>rk</form>
 <tag>
-<AM lemma="rk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-010-p3s1w4">
@@ -4223,7 +4223,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-010-p6s2w4">
@@ -4240,7 +4240,7 @@
 <LM>w#w-lnd92257-010-p6s2w5</LM>
 </w.rf>
 <form>Kalvody</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-010-p6s2w6">
 <src.rf>manual</src.rf>
@@ -4338,7 +4338,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-010-p6s2w18">
@@ -4355,7 +4355,7 @@
 <LM>w#w-lnd92257-010-p6s2w19</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-010-p6s2w20">
 <src.rf>manual</src.rf>

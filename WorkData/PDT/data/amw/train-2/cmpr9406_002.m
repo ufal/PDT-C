@@ -558,7 +558,7 @@
 <LM>w#w-cmpr9406-002-p6s1w2</LM>
 </w.rf>
 <form>Jánoška</form>
-<tag lemma="Jánoška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jánoška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-002-p8s1">
@@ -785,7 +785,7 @@
 <LM>w#w-cmpr9406-002-p8s2w5</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-002-p8s2w6">
 <src.rf>manual</src.rf>
@@ -1678,7 +1678,7 @@
 <LM>w#w-cmpr9406-002-p10s2w6</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-002-p10s2w7">
 <src.rf>manual</src.rf>
@@ -2377,7 +2377,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MF-2_:B_;m_^(min._financí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3009,7 +3009,7 @@
 <LM>w#w-cmpr9406-002-p15s1w8</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-002-p15s1w9">
 <src.rf>manual</src.rf>

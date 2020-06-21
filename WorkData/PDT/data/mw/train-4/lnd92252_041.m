@@ -39,7 +39,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-041-p2s1w2">
@@ -94,7 +94,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-041-p3s2w4">
@@ -219,26 +219,26 @@
 <form>Lady</form>
 <tag>
 <AM lemma="lady" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP1-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Lada-1_;K_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Lada-2_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP1-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
+<AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Lada-2_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lada-3_;G" src="auto">NNNP7-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Lada-4_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Lada-4_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="lad" src="auto">NNIP1-----A----</AM>
 <AM lemma="lad" src="auto">NNIP4-----A----</AM>
 <AM lemma="lad" src="auto">NNIP5-----A----</AM>
 <AM lemma="lad" src="auto">NNIP7-----A----</AM>
 <AM lemma="lada-1_^(louky)" src="auto">NNNP7-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP1-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
-<AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP1-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
+<AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
 <AM lemma="lady_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="lady" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
@@ -249,7 +249,7 @@
 <LM>w#w-lnd92252-041-p3s3w2</LM>
 </w.rf>
 <form>Thatcherová</form>
-<tag lemma="Thatcherová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Thatcherová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-041-p3s3w3">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-041-p3s6w8">
@@ -1036,7 +1036,7 @@
 <form>Majora</form>
 <tag>
 <AM lemma="major" src="orig">NNMS4-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-041-p3s10w10">

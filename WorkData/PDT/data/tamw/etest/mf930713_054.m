@@ -117,7 +117,7 @@
 <LM>w#w-mf930713-054-p2s1Aw3</LM>
 </w.rf>
 <form>jd</form>
-<tag lemma="jd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jd-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-054-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-mf930713-054-p2s1Bw16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930713-054-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-mf930713-054-p2s2w7</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-054-p2s2w8">
 <src.rf>manual</src.rf>
@@ -461,11 +461,11 @@
 </w.rf>
 <form>Juppé</form>
 <tag>
-<AM lemma="Juppé_;S_,t" src="orig">NNMSX-----A----</AM>
-<AM lemma="Juppé_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Juppé_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Juppé_;S" src="manual">NNMSX-----A----</AM>
-<AM lemma="Juppé_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Juppé_;Y_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Juppé_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Juppé_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Juppé_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Juppé_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-054-p2s2w16">
@@ -501,7 +501,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -750,7 +750,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -784,7 +784,7 @@
 <LM>w#w-mf930713-054-p2s4w16</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-054-p2s4w17">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-mf930713-054-p2s8w16</LM>
 </w.rf>
 <form>Juppé</form>
-<tag lemma="Juppé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juppé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-054-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1408,8 +1408,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930713-054-p2s9w12">

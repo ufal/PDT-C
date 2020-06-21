@@ -69,7 +69,7 @@
 <LM>w#w-cmpr9415-038-p3s1w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-038-p3s1w4">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Černomyrdina</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-038-p4s1w13">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-cmpr9415-038-p5s1w2</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-038-p6s1">
@@ -538,7 +538,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -712,7 +712,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1244,7 +1244,7 @@
 <LM>w#w-cmpr9415-038-p6s6w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-038-p6s6w14">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1726,7 +1726,7 @@
 <LM>w#w-cmpr9415-038-p8s2w23</LM>
 </w.rf>
 <form>Petříček</form>
-<tag lemma="Petříček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petříček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-038-p8s2w24">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-cmpr9415-038-p8s2w40</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-038-p8s2w41">
 <src.rf>manual</src.rf>
@@ -3081,7 +3081,7 @@
 <LM>w#w-cmpr9415-038-p11s2w38</LM>
 </w.rf>
 <form>Petříček</form>
-<tag lemma="Petříček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petříček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-038-p11s2w39">
 <src.rf>manual</src.rf>
@@ -4028,7 +4028,7 @@
 <LM>w#w-cmpr9415-038-p12s3w25</LM>
 </w.rf>
 <form>Petříček</form>
-<tag lemma="Petříček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petříček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-038-p12s3w26">
 <src.rf>manual</src.rf>
@@ -4348,7 +4348,7 @@
 <LM>w#w-cmpr9415-038-p14s3w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9415-038-p14s3w2">
 <src.rf>manual</src.rf>

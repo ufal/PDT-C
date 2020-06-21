@@ -650,7 +650,7 @@
 <LM>w#w-cmpr9406-065-p5s2w17</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p5s2w18">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-cmpr9406-065-p5s4w10</LM>
 </w.rf>
 <form>Energoaqua</form>
-<tag lemma="Energoaqua_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Energoaqua_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-065-p5s4w11">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <LM>w#w-cmpr9406-065-p11s1w7</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p11s1w8">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-cmpr9406-065-p11s2w14</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p11s2w15">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 <LM>w#w-cmpr9406-065-p11s3w6</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p11s3w7">
 <src.rf>manual</src.rf>
@@ -2060,7 +2060,7 @@
 <LM>w#w-cmpr9406-065-p11s4w21</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p11s4w22">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 <LM>w#w-cmpr9406-065-p11s6w10</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p11s6w11">
 <src.rf>manual</src.rf>
@@ -2734,7 +2734,7 @@
 <LM>w#w-cmpr9406-065-p14s1w14</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p14s1w15">
 <src.rf>manual</src.rf>
@@ -3690,7 +3690,7 @@
 <LM>w#w-cmpr9406-065-p15s2w9</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p15s2w10">
 <src.rf>manual</src.rf>
@@ -3878,7 +3878,7 @@
 <LM>w#w-cmpr9406-065-p15s4w3</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p15s4w4">
 <src.rf>manual</src.rf>
@@ -4232,7 +4232,7 @@
 <LM>w#w-cmpr9406-065-p17s2w12</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag lemma="RM_:B_;m_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p17s2w13">
 <src.rf>manual</src.rf>
@@ -4480,7 +4480,7 @@
 <LM>w#w-cmpr9406-065-p17s2w43</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-065-p17s2w44">
 <src.rf>manual</src.rf>
@@ -5732,7 +5732,7 @@
 <LM>w#w-cmpr9406-065-p20s1w2</LM>
 </w.rf>
 <form>Vopařil</form>
-<tag lemma="Vopařil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vopařil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-065-p21s1">
@@ -5758,7 +5758,7 @@
 <LM>w#w-cmpr9406-065-p21s1w3</LM>
 </w.rf>
 <form>Fišer</form>
-<tag lemma="Fišer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fišer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-065-p22s1">

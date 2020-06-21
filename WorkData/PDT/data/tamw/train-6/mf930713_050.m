@@ -110,7 +110,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mý-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -124,7 +124,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSNS5-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP4-S1------7</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYP4-S1------7</AM>
-<AM lemma="mý-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mý-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-050-p2s1Aw4">
@@ -240,7 +240,7 @@
 </w.rf>
 <form>HSDMS</form>
 <tag>
-<AM lemma="HSDMS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="HSDMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="HSDMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -258,7 +258,7 @@
 <LM>w#w-mf930713-050-p2s1Bw14</LM>
 </w.rf>
 <form>Kryčer</form>
-<tag lemma="Kryčer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kryčer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-050-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-mf930713-050-p2s5w3</LM>
 </w.rf>
 <form>Broulík</form>
-<tag lemma="Broulík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Broulík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-050-p2s5w4">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 </w.rf>
 <form>HSDMS</form>
 <tag>
-<AM lemma="HSDMS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="HSDMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="HSDMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -47,7 +47,7 @@
 </w.rf>
 <form>Animal</form>
 <tag>
-<AM lemma="Animal_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Animal_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Animal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -58,7 +58,7 @@
 </w.rf>
 <form>SOS</form>
 <tag>
-<AM lemma="SOS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOS_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
@@ -162,7 +162,7 @@
 <LM>w#w-lnd92257-021-p1s1w17</LM>
 </w.rf>
 <form>Kludský</form>
-<tag lemma="Kludský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kludský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-021-p1s1w18">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 </w.rf>
 <form>Animal</form>
 <tag>
-<AM lemma="Animal_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Animal_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Animal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -192,7 +192,7 @@
 </w.rf>
 <form>SOS</form>
 <tag>
-<AM lemma="SOS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOS_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>

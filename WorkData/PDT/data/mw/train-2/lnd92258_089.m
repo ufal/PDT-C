@@ -150,7 +150,7 @@
 <LM>w#w-lnd92258-089-p2s1w15</LM>
 </w.rf>
 <form>Paškeviče</form>
-<tag lemma="Paškevič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Paškevič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-089-p2s1w16">
 <src.rf>manual</src.rf>

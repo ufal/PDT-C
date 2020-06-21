@@ -79,7 +79,7 @@
 <LM>w#w-mf930709-047-p2s1w2</LM>
 </w.rf>
 <form>SUPER</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf930709-047-p2s1w3">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <form>NATURAL</form>
 <tag>
 <AM lemma="Natural_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="natural-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="natural-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-047-p2s1w5">
@@ -145,7 +145,7 @@
 </w.rf>
 <form>leva</form>
 <tag>
-<AM lemma="leva_;b_^(bulh._měna)" src="orig">NNNXX-----A----</AM>
+<AM lemma="leva_^(bulh._měna)" src="orig">NNNXX-----A----</AM>
 <AM lemma="leva_^(bulh._měna)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -175,7 +175,7 @@
 </w.rf>
 <form>leva</form>
 <tag>
-<AM lemma="leva_;b_^(bulh._měna)" src="orig">NNNXX-----A----</AM>
+<AM lemma="leva_^(bulh._měna)" src="orig">NNNXX-----A----</AM>
 <AM lemma="leva_^(bulh._měna)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

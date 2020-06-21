@@ -121,7 +121,7 @@
 <AM lemma="do_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-139-p2s1w4">
@@ -1629,7 +1629,7 @@
 <LM>w#w-mf930708-139-p4s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930708-139-p4s2w2">
 <src.rf>manual</src.rf>

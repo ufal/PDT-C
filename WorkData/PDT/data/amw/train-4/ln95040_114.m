@@ -44,7 +44,7 @@
 </w.rf>
 <form>ČMKOS</form>
 <tag>
-<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS_:B_;m_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -273,7 +273,7 @@
 <LM>w#w-ln95040-114-p3s1w6</LM>
 </w.rf>
 <form>Ryvola</form>
-<tag lemma="Ryvola_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ryvola_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-114-p3s1w7">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 </w.rf>
 <form>ČMKOS</form>
 <tag>
-<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS_:B_;m_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -390,7 +390,7 @@
 <LM>w#w-ln95040-114-p3s2w1</LM>
 </w.rf>
 <form>Ryvola</form>
-<tag lemma="Ryvola_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ryvola_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-114-p3s2w2">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-ln95040-114-p4s4w5</LM>
 </w.rf>
 <form>Dufka</form>
-<tag lemma="Dufek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dufek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-114-p4s4w6">
 <src.rf>manual</src.rf>

@@ -45,7 +45,7 @@
 <LM>w#w-ln94210-76-p2s1w3</LM>
 </w.rf>
 <form>Gazdík</form>
-<tag lemma="Gazdík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gazdík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-76-p2s1B">
@@ -63,7 +63,7 @@
 <LM>w#w-ln94210-76-p2s1w5</LM>
 </w.rf>
 <form>Aera</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-76-p2s1w6">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln94210-76-p2s1w8</LM>
 </w.rf>
 <form>Chalupníkovi</form>
-<tag lemma="Chalupník_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Chalupník_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94210-76-p2s1w9">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94210-76-p2s2w38</LM>
 </w.rf>
 <form>Chalupník</form>
-<tag lemma="Chalupník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chalupník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-76-p2s2w39">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln94210-76-p2s2w43</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Elbit_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-76-p2s2w44">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln94210-76-p2s3w2</LM>
 </w.rf>
 <form>Aeru</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94210-76-p2s3w3">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln94210-76-p3s1w5</LM>
 </w.rf>
 <form>Aero</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-76-p3s1w6">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-ln94210-76-p3s1w19</LM>
 </w.rf>
 <form>Chalupník</form>
-<tag lemma="Chalupník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chalupník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-76-p3s1w20">
 <src.rf>manual</src.rf>
@@ -972,8 +972,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="orig">Q3-------------</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-76-p3s1w27">
@@ -1057,7 +1057,7 @@
 <LM>w#w-ln94210-76-p3s1w36</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag lemma="Elbit_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Elbit_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94210-76-p3s1w37">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-ln94210-76-p3s2w5</LM>
 </w.rf>
 <form>Aero</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-76-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1349,8 +1349,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="orig">Q3-------------</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-76-p3s3w9">
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln94210-76-p3s3w13</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag lemma="Elbit_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Elbit_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94210-76-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1439,7 +1439,7 @@
 <LM>w#w-ln94210-76-p3s3w19</LM>
 </w.rf>
 <form>Aeru</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94210-76-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1625,7 +1625,7 @@
 <LM>w#w-ln94210-76-p3s4w9</LM>
 </w.rf>
 <form>Aero</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-76-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1675,7 +1675,7 @@
 <LM>w#w-ln94210-76-p3s5w1</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Elbit_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-76-p3s5w2">
 <src.rf>manual</src.rf>
@@ -2042,8 +2042,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="orig">Q3-------------</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-76-p3s6w13">
@@ -2378,7 +2378,7 @@
 <LM>w#w-ln94210-76-p4s1w6</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag lemma="Elbit_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Elbit_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94210-76-p4s1w7">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <LM>w#w-ln94210-76-p4s1w20</LM>
 </w.rf>
 <form>Kalouska</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-76-p4s1w21">
 <src.rf>manual</src.rf>
@@ -2515,7 +2515,7 @@
 </w.rf>
 <form>Eagle</form>
 <tag>
-<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2526,7 +2526,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2683,7 +2683,7 @@
 </w.rf>
 <form>Eagle</form>
 <tag>
-<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2694,7 +2694,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2977,8 +2977,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-76-p4s4w4">
@@ -3179,7 +3179,7 @@
 <LM>w#w-ln94210-76-p4s5w9</LM>
 </w.rf>
 <form>Kalouska</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-76-p4s5w10">
 <src.rf>manual</src.rf>
@@ -3382,7 +3382,7 @@
 </w.rf>
 <form>North</form>
 <tag>
-<AM lemma="North-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="North-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="North-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3393,7 +3393,7 @@
 </w.rf>
 <form>American</form>
 <tag>
-<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="orig">AAXXX----1A----</AM>
+<AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="orig">AAXXX----1A----</AM>
 <AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3423,7 +3423,7 @@
 </w.rf>
 <form>AlliedSignal</form>
 <tag>
-<AM lemma="AlliedSignal_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="AlliedSignal_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="AlliedSignal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3434,7 +3434,7 @@
 </w.rf>
 <form>Aerospace</form>
 <tag>
-<AM lemma="Aerospace_;K_,t_^(British_Aerospace)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Aerospace_;m_,t_^(British_Aerospace)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Aerospace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3452,7 +3452,7 @@
 <LM>w#w-ln94210-76-p5s1w13</LM>
 </w.rf>
 <form>Elbitem</form>
-<tag lemma="Elbit_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Elbit_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94210-76-p5s1w14">
 <src.rf>manual</src.rf>
@@ -3565,8 +3565,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="orig">Q3-------------</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-76-p5s1w28">

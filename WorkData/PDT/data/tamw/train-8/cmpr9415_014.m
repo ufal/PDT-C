@@ -62,7 +62,7 @@
 </w.rf>
 <form>Incentive</form>
 <tag>
-<AM lemma="Incentive_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Incentive_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Incentive-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -73,7 +73,7 @@
 </w.rf>
 <form>Travel</form>
 <tag>
-<AM lemma="Travela_;K" src="orig">NNFP2-----A----</AM>
+<AM lemma="Travela_;m" src="orig">NNFP2-----A----</AM>
 <AM lemma="Travel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -118,7 +118,7 @@
 </w.rf>
 <form>Lido</form>
 <tag>
-<AM lemma="Lido_;K" src="auto">NNNS1-----A----</AM>
+<AM lemma="Lido_;m" src="auto">NNNS1-----A----</AM>
 <AM lemma="Lido-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -129,7 +129,7 @@
 </w.rf>
 <form>di</form>
 <tag>
-<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di_;G_;Y_,t" src="auto">RR--X----------</AM>
 <AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -571,7 +571,7 @@
 </w.rf>
 <form>Lido</form>
 <tag>
-<AM lemma="Lido_;K" src="auto">NNNS1-----A----</AM>
+<AM lemma="Lido_;m" src="auto">NNNS1-----A----</AM>
 <AM lemma="Lido-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -582,7 +582,7 @@
 </w.rf>
 <form>di</form>
 <tag>
-<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di_;G_;Y_,t" src="auto">RR--X----------</AM>
 <AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -917,7 +917,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

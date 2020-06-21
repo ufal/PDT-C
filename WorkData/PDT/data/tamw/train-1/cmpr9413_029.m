@@ -1248,7 +1248,7 @@
 <LM>w#w-cmpr9413-029-p5s2w4</LM>
 </w.rf>
 <form>Kováře</form>
-<tag lemma="Kovář_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kovář_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-029-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1854,7 +1854,7 @@
 <LM>w#w-cmpr9413-029-p7s2w10</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9413-029-p7s2w11">
 <src.rf>manual</src.rf>
@@ -4336,7 +4336,7 @@
 </w.rf>
 <form>IB</form>
 <tag>
-<AM lemma="IB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>

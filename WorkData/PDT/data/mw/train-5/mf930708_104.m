@@ -21,7 +21,7 @@
 <form>Juventus</form>
 <tag>
 <AM lemma="Juventus" src="orig">NNIS1-----A----</AM>
-<AM lemma="Juventus_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Juventus_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-104-p1s1w2">
@@ -58,7 +58,7 @@
 <form>vlk</form>
 <tag>
 <AM lemma="vlk" src="orig">NNMS1-----A----</AM>
-<AM lemma="vlk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vlk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-104-p2s1w4">
@@ -85,7 +85,7 @@
 <form>Juventus</form>
 <tag>
 <AM lemma="Juventus" src="orig">NNIS1-----A----</AM>
-<AM lemma="Juventus_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Juventus_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-104-p2s1w7">
@@ -414,7 +414,7 @@
 <LM>w#w-mf930708-104-p2s2w12</LM>
 </w.rf>
 <form>Porrini</form>
-<tag lemma="Porrini_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Porrini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-104-p2s2w13">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf930708-104-p2s3w8</LM>
 </w.rf>
 <form>Fortunato</form>
-<tag lemma="Fortunato_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fortunato_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-104-p2s3w9">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-mf930708-104-p2s3w10</LM>
 </w.rf>
 <form>Francesconi</form>
-<tag lemma="Francesconi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francesconi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-104-p2s3w11">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-mf930708-104-p2s3w16</LM>
 </w.rf>
 <form>Baldini</form>
-<tag lemma="Baldini_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baldini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-104-p2s3w17">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <form>Giampaolo</form>
 <tag>
 <AM lemma="Giampaolo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Giampaolo_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Giampaolo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-104-p2s3w23">
@@ -734,7 +734,7 @@
 <LM>w#w-mf930708-104-p2s3w29</LM>
 </w.rf>
 <form>Piero</form>
-<tag lemma="Piero_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piero_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-104-p2s3w30">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <form>Juventus</form>
 <tag>
 <AM lemma="Juventus" src="orig">NNIS4-----A----</AM>
-<AM lemma="Juventus_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Juventus_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-104-p2s5w2">
@@ -973,7 +973,7 @@
 <LM>w#w-mf930708-104-p2s5w12</LM>
 </w.rf>
 <form>Fiat</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-104-p2s5w13">
 <src.rf>manual</src.rf>

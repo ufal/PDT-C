@@ -162,7 +162,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -173,7 +173,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -191,7 +191,7 @@
 <LM>w#w-ln94200-153-p2s1Aw16</LM>
 </w.rf>
 <form>Jankovič</form>
-<tag lemma="Jankovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jankovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-153-p2s1B">
@@ -211,7 +211,7 @@
 <form>Tobiáš</form>
 <tag>
 <AM lemma="Tobiáš_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tobiáš_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tobiáš_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p2s1Bw3">
@@ -287,7 +287,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -298,7 +298,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -939,7 +939,7 @@
 <LM>w#w-ln94200-153-p3s1w13</LM>
 </w.rf>
 <form>Maršíka</form>
-<tag lemma="Maršík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maršík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-153-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-ln94200-153-p4s1w50</LM>
 </w.rf>
 <form>Štraub</form>
-<tag lemma="Štraub_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štraub_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-153-p4s1w51">
 <src.rf>manual</src.rf>
@@ -1983,7 +1983,7 @@
 <LM>w#w-ln94200-153-p4s1w57</LM>
 </w.rf>
 <form>Hubem</form>
-<tag lemma="Hub_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hub_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-153-p4s1w58">
 <src.rf>manual</src.rf>
@@ -1999,7 +1999,7 @@
 <LM>w#w-ln94200-153-p4s1w59</LM>
 </w.rf>
 <form>Janků</form>
-<tag lemma="Janků_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Janků_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94200-153-p4s1w60">
 <src.rf>manual</src.rf>
@@ -2015,7 +2015,7 @@
 <LM>w#w-ln94200-153-p4s1w61</LM>
 </w.rf>
 <form>Juríkem</form>
-<tag lemma="Jurík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jurík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-153-p4s1w62">
 <src.rf>manual</src.rf>
@@ -2846,7 +2846,7 @@
 <LM>w#w-ln94200-153-p5s1w5</LM>
 </w.rf>
 <form>Jankoviče</form>
-<tag lemma="Jankovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jankovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-153-p5s1w6">
 <src.rf>manual</src.rf>
@@ -3169,7 +3169,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3180,7 +3180,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3773,7 +3773,7 @@
 <LM>w#w-ln94200-153-p5s7w11</LM>
 </w.rf>
 <form>Janků</form>
-<tag lemma="Janků_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Janků_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94200-153-p5s7w12">
 <src.rf>manual</src.rf>
@@ -3850,7 +3850,7 @@
 <LM>w#w-ln94200-153-p5s8w8</LM>
 </w.rf>
 <form>Kowalczyka</form>
-<tag lemma="Kowalczyk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kowalczyk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-153-p5s8w9">
 <src.rf>manual</src.rf>
@@ -4307,8 +4307,8 @@
 </w.rf>
 <form>Odense</form>
 <tag>
-<AM lemma="Odense_;K_^(klub)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Odense_;G" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
+<AM lemma="Odense_;m_^(klub)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Odense_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-153-p5s13w5">
@@ -4792,7 +4792,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4803,7 +4803,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4918,7 +4918,7 @@
 <LM>w#w-ln94200-153-p5s15w28</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-153-p5s15w29">
 <src.rf>manual</src.rf>
@@ -5065,7 +5065,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5076,7 +5076,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5263,7 +5263,7 @@
 <LM>w#w-ln94200-153-p6s3w9</LM>
 </w.rf>
 <form>Jankovič</form>
-<tag lemma="Jankovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jankovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-153-p6s3w10">
 <src.rf>manual</src.rf>

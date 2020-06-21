@@ -335,7 +335,7 @@
 <LM>w#w-lnd92252-043-p3s3w6</LM>
 </w.rf>
 <form>Rachmanu</form>
-<tag lemma="Rachman_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Rachman_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92252-043-p3s3w7">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-lnd92252-043-p3s3w7</LM>
 </w.rf>
 <form>Nabijevovi</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p3s3w8">
 <src.rf>manual</src.rf>
@@ -552,8 +552,8 @@
 </w.rf>
 <form>Safarali</form>
 <tag>
-<AM lemma="Safarali_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Safarali_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Safarali_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Safarali_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-043-p4s1w14">
@@ -562,7 +562,7 @@
 <LM>w#w-lnd92252-043-p4s1w14</LM>
 </w.rf>
 <form>Kendžajev</form>
-<tag lemma="Kendžajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kendžajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p4s1w15">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-lnd92252-043-p4s2w16</LM>
 </w.rf>
 <form>Rachmana</form>
-<tag lemma="Rachman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rachman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p4s2w17">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-lnd92252-043-p4s2w17</LM>
 </w.rf>
 <form>Nabijeva</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p4s2w18">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <LM>w#w-lnd92252-043-p4s3w1</LM>
 </w.rf>
 <form>Kendžajev</form>
-<tag lemma="Kendžajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kendžajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1699,7 +1699,7 @@
 <LM>w#w-lnd92252-043-p6s2w1</LM>
 </w.rf>
 <form>Kendžajev</form>
-<tag lemma="Kendžajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kendžajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p6s2w2">
 <src.rf>manual</src.rf>
@@ -1872,7 +1872,7 @@
 <LM>w#w-lnd92252-043-p6s3w1</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2202,7 +2202,7 @@
 <LM>w#w-lnd92252-043-p7s1w7</LM>
 </w.rf>
 <form>Radžabova</form>
-<tag lemma="Radžabov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Radžabov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p7s1w8">
 <src.rf>manual</src.rf>
@@ -2999,7 +2999,7 @@
 <LM>w#w-lnd92252-043-p9s3w14</LM>
 </w.rf>
 <form>Iskandarovově</form>
-<tag lemma="Iskandarovův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Iskandarovův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92252-043-p9s3w15">
 <src.rf>manual</src.rf>

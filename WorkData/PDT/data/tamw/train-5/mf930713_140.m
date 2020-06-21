@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-140-p1s1w3</LM>
 </w.rf>
 <form>Mobutu</form>
-<tag lemma="Mobutu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mobutu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p1s1w4">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-mf930713-140-p2s1w18</LM>
 </w.rf>
 <form>Mobutu</form>
-<tag lemma="Mobutu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mobutu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s1w19">
 <src.rf>manual</src.rf>
@@ -241,8 +241,8 @@
 </w.rf>
 <form>Seko</form>
 <tag>
-<AM lemma="Seko_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Seko_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Seko_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Seko_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-140-p2s1w21">
@@ -430,8 +430,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-140-p2s2w4">
@@ -717,7 +717,7 @@
 <LM>w#w-mf930713-140-p2s3w2</LM>
 </w.rf>
 <form>Mobutu</form>
-<tag lemma="Mobutu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mobutu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-mf930713-140-p2s5w8</LM>
 </w.rf>
 <form>Tchisekedi</form>
-<tag lemma="Tchisekedi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tchisekedi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1507,7 +1507,7 @@
 <LM>w#w-mf930713-140-p2s8w3</LM>
 </w.rf>
 <form>Tchisekedi</form>
-<tag lemma="Tchisekedi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tchisekedi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1864,8 +1864,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-140-p2s10w17">
@@ -1923,8 +1923,8 @@
 </w.rf>
 <form>Jonas</form>
 <tag>
-<AM lemma="Jonas_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jonas_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jonas_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jonas_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-140-p2s10w24">
@@ -1933,7 +1933,7 @@
 <LM>w#w-mf930713-140-p2s10w24</LM>
 </w.rf>
 <form>Savimbi</form>
-<tag lemma="Savimbi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Savimbi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s10w25">
 <src.rf>manual</src.rf>
@@ -1950,7 +1950,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2330,7 +2330,7 @@
 <LM>w#w-mf930713-140-p2s11w35</LM>
 </w.rf>
 <form>Mobutuovo</form>
-<tag lemma="Mobutuův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Mobutuův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-mf930713-140-p2s11w36">
 <src.rf>manual</src.rf>
@@ -2463,7 +2463,7 @@
 <LM>w#w-mf930713-140-p2s13w6</LM>
 </w.rf>
 <form>Mobutu</form>
-<tag lemma="Mobutu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mobutu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s13w7">
 <src.rf>manual</src.rf>

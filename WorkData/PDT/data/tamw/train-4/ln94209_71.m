@@ -413,7 +413,7 @@
 <LM>w#w-ln94209-71-p2s2w19</LM>
 </w.rf>
 <form>Papco</form>
-<tag lemma="Papco_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Papco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-71-p2s2w20">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <form>Roman</form>
 <tag>
 <AM lemma="Roman_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Roman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-71-p2s4w6">
@@ -672,7 +672,7 @@
 </w.rf>
 <form>SNG</form>
 <tag>
-<AM lemma="SNG_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNG_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNG_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="SNG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -715,7 +715,7 @@
 <LM>w#w-ln94209-71-p2s4w16</LM>
 </w.rf>
 <form>Žáryho</form>
-<tag lemma="Žáry_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Žáry_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-71-p2s4w17">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln94209-71-p2s4w19</LM>
 </w.rf>
 <form>Papca</form>
-<tag lemma="Papco_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Papco_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-71-p2s4w20">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln94209-71-p2s4w27</LM>
 </w.rf>
 <form>Tigridem</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94209-71-p2s4w28">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-ln94209-71-p3s1w13</LM>
 </w.rf>
 <form>Papco</form>
-<tag lemma="Papco_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Papco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-71-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1657,7 +1657,7 @@
 <LM>w#w-ln94209-71-p4s1w1</LM>
 </w.rf>
 <form>Papco</form>
-<tag lemma="Papco_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Papco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-71-p4s1w2">
 <src.rf>manual</src.rf>

@@ -1397,7 +1397,7 @@
 <LM>w#w-mf920922-008-p2s9w27</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920922-008-p2s9w28">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-mf920922-008-p2s10w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920922-008-p2s10w18">
 <src.rf>manual</src.rf>
@@ -2485,7 +2485,7 @@
 <LM>w#w-mf920922-008-p2s16w10</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-008-p2s16w11">
 <src.rf>manual</src.rf>
@@ -3113,7 +3113,7 @@
 <form>MAREK</form>
 <tag>
 <AM lemma="Marek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Marek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Marek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -7957,7 +7957,7 @@
 <LM>w#w-mf920922-008-p5s1w2</LM>
 </w.rf>
 <form>JEMELKA</form>
-<tag lemma="Jemelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jemelka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

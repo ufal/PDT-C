@@ -104,7 +104,7 @@
 <LM>w#w-mf930708-143-p2s1w5</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ouš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-143-p2s1w6">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-mf930708-143-p2s4w6</LM>
 </w.rf>
 <form>Vörösové</form>
-<tag lemma="Vörösová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vörösová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-143-p2s4w7">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-mf930708-143-p2s7w2</LM>
 </w.rf>
 <form>Vörösová</form>
-<tag lemma="Vörösová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vörösová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-143-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <LM>w#w-mf930708-143-p2s9w3</LM>
 </w.rf>
 <form>Vörösové</form>
-<tag lemma="Vörösová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vörösová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-143-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1547,7 +1547,7 @@
 <LM>w#w-mf930708-143-p2s11w4</LM>
 </w.rf>
 <form>Faltus</form>
-<tag lemma="Faltus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Faltus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-143-p2s11w5">
 <src.rf>manual</src.rf>
@@ -1938,7 +1938,7 @@
 <LM>w#w-mf930708-143-p2s13w21</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-143-p2s13w22">
 <src.rf>manual</src.rf>

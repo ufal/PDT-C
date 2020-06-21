@@ -69,7 +69,7 @@
 <LM>w#w-mf920902-065-p2s1w5</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;K" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-065-p2s1w6">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 </w.rf>
 <form>CK</form>
 <tag>
-<AM lemma="CK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="CK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -331,7 +331,7 @@
 <LM>w#w-mf920902-065-p2s3w7</LM>
 </w.rf>
 <form>Jedotour</form>
-<tag lemma="Jedotour_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Jedotour_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920902-065-p2s3w8">
 <src.rf>manual</src.rf>
@@ -348,8 +348,8 @@
 </w.rf>
 <form>OD</form>
 <tag>
-<AM lemma="OD_:B_;K_^(Obchodní_dům)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="OD_:B_;K_^(obchodní_dům)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="OD_:B_;m_^(Obchodní_dům)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OD_:B_;m_^(obchodní_dům)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Oda-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="od-1" src="auto">RR--2----------</AM>
 <AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
@@ -364,7 +364,7 @@
 <form>Prior</form>
 <tag>
 <AM lemma="Prior_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Prior_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Prior_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-065-p2s3w11">

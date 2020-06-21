@@ -104,7 +104,7 @@
 <LM>w#w-ln94200-2-p2s1w7</LM>
 </w.rf>
 <form>Polívky</form>
-<tag lemma="Polívka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Polívka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-2-p2s1w8">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln94200-2-p2s4w2</LM>
 </w.rf>
 <form>lr</form>
-<tag lemma="lr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="lr-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-2-p2s4w3">
 <src.rf>manual</src.rf>
@@ -650,8 +650,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-2-p2s4w6">

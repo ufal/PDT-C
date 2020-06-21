@@ -284,7 +284,7 @@
 <LM>w#w-ln95049-012-p2s2w9</LM>
 </w.rf>
 <form>Tuhý</form>
-<tag lemma="Tuhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tuhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-012-p2s2w10">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-012-p4s1w5">
@@ -765,7 +765,7 @@
 <LM>w#w-ln95049-012-p4s1w6</LM>
 </w.rf>
 <form>Tuhý</form>
-<tag lemma="Tuhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tuhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-012-p4s1w7">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 </w.rf>
 <form>OP</form>
 <tag>
-<AM lemma="OP-1_:B_;K_^(operační_program;_oděvní_podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="OP-1_:B_;m_^(operační_program;_oděvní_podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="OP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1356,7 +1356,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1375,8 +1375,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-012-p5s2w18">

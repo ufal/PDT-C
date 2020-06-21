@@ -220,7 +220,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-028-p4s1w19">
@@ -237,7 +237,7 @@
 <LM>w#w-lnd91303-028-p4s1w20</LM>
 </w.rf>
 <form>Macho</form>
-<tag lemma="Macho_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Macho_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-028-p4s1w21">
 <src.rf>manual</src.rf>

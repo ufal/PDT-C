@@ -949,7 +949,7 @@
 </w.rf>
 <form>Chem</form>
 <tag>
-<AM lemma="Chemical_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Chemical_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Chem-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -979,7 +979,7 @@
 </w.rf>
 <form>Eng</form>
 <tag>
-<AM lemma="Engineering_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Engineering_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Eng_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eng-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Eng-77" src="manual" selected="1">F%-------------</AM>
@@ -1000,7 +1000,7 @@
 </w.rf>
 <form>News</form>
 <tag>
-<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-1_;m_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1044,7 +1044,7 @@
 <form>č</form>
 <tag>
 <AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="č-99_:B_;S" src="manual">NNXXX-----A----</AM>
+<AM lemma="č-99_:B_;Y" src="manual">NNXXX-----A----</AM>
 <AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -1131,7 +1131,7 @@
 <LM>w#w-vesm9301-027-p2s1w2</LM>
 </w.rf>
 <form>Molík</form>
-<tag lemma="Molík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Molík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-027-p3s1">

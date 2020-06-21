@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-053-p1s1w1</LM>
 </w.rf>
 <form>Christopherův</form>
-<tag lemma="Christopherův_;S_;Y_^(*2)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Christopherův_;Y_^(*2)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd94103-053-p1s1w2">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 </w.rf>
 <form>Gur</form>
 <tag>
-<AM lemma="Gur-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gur-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gur_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Gur_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -172,8 +172,8 @@
 </w.rf>
 <form>Warren</form>
 <tag>
-<AM lemma="Warren_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Warren_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Warren_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Warren_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-053-p1s3w15">
@@ -182,7 +182,7 @@
 <LM>w#w-lnd94103-053-p1s3w15</LM>
 </w.rf>
 <form>Christopher</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-053-p1s3w16">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-lnd94103-053-p1s4Aw1</LM>
 </w.rf>
 <form>Christopher</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-053-p1s4Aw2">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-lnd94103-053-p1s4Aw12</LM>
 </w.rf>
 <form>Asadem</form>
-<tag lemma="Asad_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Asad_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94103-053-p1s4Aw13">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 </w.rf>
 <form>Gur</form>
 <tag>
-<AM lemma="Gur-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gur-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gur_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Gur_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -633,7 +633,7 @@
 <LM>w#w-lnd94103-053-p1s4Bw5</LM>
 </w.rf>
 <form>Christopher</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-053-p1s4Bw6">
 <src.rf>manual</src.rf>

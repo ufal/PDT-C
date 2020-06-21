@@ -1033,7 +1033,7 @@
 <LM>w#w-ln95044-074-p3s4w14</LM>
 </w.rf>
 <form>Podkolzin</form>
-<tag lemma="Podkolzin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Podkolzin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-074-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-ln95044-074-p3s5w11</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-074-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1270,7 +1270,7 @@
 <LM>w#w-ln95044-074-p4s1w2</LM>
 </w.rf>
 <form>Dudajev</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-074-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1318,7 +1318,7 @@
 <LM>w#w-ln95044-074-p4s1w8</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-074-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1625,11 +1625,11 @@
 </w.rf>
 <form>Kosov</form>
 <tag>
-<AM lemma="Kosov_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kosov_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kosov_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Kosov_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Kosovo_;G" src="auto">NNNP2-----A----</AM>
-<AM lemma="Kosov-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kosov-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-074-p5s1w5">
@@ -1994,7 +1994,7 @@
 <form>Kosova</form>
 <tag>
 <AM lemma="Kosovo_;G" src="orig">NNNS2-----A----</AM>
-<AM lemma="Kosov-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kosov-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-074-p5s2w6">
@@ -2151,7 +2151,7 @@
 <LM>w#w-ln95044-074-p6s1w2</LM>
 </w.rf>
 <form>Podkolzin</form>
-<tag lemma="Podkolzin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Podkolzin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-074-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2581,7 +2581,7 @@
 <LM>w#w-ln95044-074-p6s4w1</LM>
 </w.rf>
 <form>Podkolzin</form>
-<tag lemma="Podkolzin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Podkolzin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-074-p6s4w2">
 <src.rf>manual</src.rf>

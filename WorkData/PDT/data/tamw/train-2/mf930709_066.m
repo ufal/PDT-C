@@ -286,7 +286,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -473,7 +473,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1990,7 +1990,7 @@
 <LM>w#w-mf930709-066-p6s2Bw1</LM>
 </w.rf>
 <form>Nice</form>
-<tag lemma="Nice_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Nice_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-066-p6s2Bw2">
 <src.rf>manual</src.rf>
@@ -2098,7 +2098,7 @@
 </w.rf>
 <form>Celsia</form>
 <tag>
-<AM lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Celsius" src="manual">NNMXX-----A---8</AM>
 </tag>
 </m>
@@ -2119,8 +2119,8 @@
 </w.rf>
 <form>Costa</form>
 <tag>
-<AM lemma="Costa_;G_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Costa_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Costa_;G_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Costa_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Costa_;G_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="costa_,t" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Costa-77" src="manual" selected="1">F%-------------</AM>
@@ -2134,12 +2134,12 @@
 <form>Brava</form>
 <tag>
 <AM lemma="Brava_;G" src="orig">AAFS1----1A----</AM>
-<AM lemma="Bravo_;R" src="auto">NNNP1-----A----</AM>
-<AM lemma="Bravo_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="Bravo_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="Bravo_;R" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Bravo_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bravo_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Bravo_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="Bravo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Bravo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Bravo_;m" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Bravo_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Bravo_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Brava_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="brava_,t" src="manual">AAFS1----1A----</AM>
 <AM lemma="Brava-77" src="manual" selected="1">F%-------------</AM>

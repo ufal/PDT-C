@@ -70,8 +70,8 @@
 </w.rf>
 <form>mrk</form>
 <tag>
-<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-019-p1s2w4">
@@ -189,7 +189,7 @@
 <LM>w#w-lnd94103-019-p1s3w12</LM>
 </w.rf>
 <form>Radiožurnálu</form>
-<tag lemma="Radiožurnál_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Radiožurnál_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-019-p1s3w13">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-lnd94103-019-p1s4w11</LM>
 </w.rf>
 <form>Navrátila</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-019-p1s4w12">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-lnd94103-019-p1s6w7</LM>
 </w.rf>
 <form>Radiožurnálu</form>
-<tag lemma="Radiožurnál_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Radiožurnál_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-lnd94103-019-p1s6w8">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-lnd94103-019-p1s6w15</LM>
 </w.rf>
 <form>Navrátil</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-019-p1s6w16">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-lnd94103-019-p1s7w20</LM>
 </w.rf>
 <form>Kostlána</form>
-<tag lemma="Kostlán_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kostlán_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-019-p1s7w21">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-lnd94103-019-p1s8w14</LM>
 </w.rf>
 <form>Supraphonu</form>
-<tag lemma="Supraphon_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Supraphon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-019-p1s8w15">
 <src.rf>manual</src.rf>

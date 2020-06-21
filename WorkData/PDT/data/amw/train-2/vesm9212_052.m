@@ -735,7 +735,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-052-p2s3w37">
@@ -754,7 +754,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-052-p2s3w39">
@@ -771,7 +771,7 @@
 <LM>w#w-vesm9212-052-p2s3w40</LM>
 </w.rf>
 <form>Sperry</form>
-<tag lemma="Sperry_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sperry_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-052-p2s3w41">
 <src.rf>manual</src.rf>
@@ -1816,7 +1816,7 @@
 </w.rf>
 <form>Arch</form>
 <tag>
-<AM lemma="Archives_:B_;R_,t" src="orig">NNIPX-----A---8</AM>
+<AM lemma="Archives_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="arch" src="auto">NNIS1-----A----</AM>
 <AM lemma="arch" src="auto">NNIS4-----A----</AM>
 <AM lemma="archa" src="auto">NNFP2-----A----</AM>
@@ -1841,9 +1841,9 @@
 </w.rf>
 <form>Neurol</form>
 <tag>
-<AM lemma="Neurology_:B_;R_,t" src="orig">NNFSX-----A---8</AM>
-<AM lemma="Neurol_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Neurol_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Neurology_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Neurol_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Neurol_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="neurology_:B_,t" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Neurol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2673,7 +2673,7 @@
 <LM>w#w-vesm9212-052-p6s1w2</LM>
 </w.rf>
 <form>Koukolík</form>
-<tag lemma="Koukolík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukolík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-052-p7s1">

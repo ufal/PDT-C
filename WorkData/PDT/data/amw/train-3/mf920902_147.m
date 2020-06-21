@@ -464,7 +464,7 @@
 <LM>w#w-mf920902-147-p2s3w10</LM>
 </w.rf>
 <form>Dubynin</form>
-<tag lemma="Dubynin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubynin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-147-p2s3w11">
 <src.rf>manual</src.rf>

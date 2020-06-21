@@ -175,7 +175,7 @@
 <LM>w#w-ln94207-27-p2s1Bw14</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-27-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-ln94207-27-p2s2w21</LM>
 </w.rf>
 <form>Dudajevovy</form>
-<tag lemma="Dudajevův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Dudajevův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94207-27-p2s2w22">
 <src.rf>manual</src.rf>

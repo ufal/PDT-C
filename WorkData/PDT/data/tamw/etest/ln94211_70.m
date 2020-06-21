@@ -71,7 +71,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>EHS</form>
 <tag>
-<AM lemma="EHS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EHS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="EHS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -270,7 +270,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -727,7 +727,7 @@
 <LM>w#w-ln94211-70-p2s3w21</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94211-70-p2s3w22">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-ln94211-70-p3s2w4</LM>
 </w.rf>
 <form>Toynbee</form>
-<tag lemma="Toynbee_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Toynbee_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-70-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1542,7 +1542,7 @@
 <LM>w#w-ln94211-70-p3s6w8</LM>
 </w.rf>
 <form>Dahrendorf</form>
-<tag lemma="Dahrendorf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dahrendorf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-70-p3s6w9">
 <src.rf>manual</src.rf>
@@ -2583,7 +2583,7 @@
 <LM>w#w-ln94211-70-p3s9w6</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-70-p3s9w7">
 <src.rf>manual</src.rf>
@@ -3805,7 +3805,7 @@
 <LM>w#w-ln94211-70-p5s6w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94211-70-p5s6w17">
 <src.rf>manual</src.rf>
@@ -5029,7 +5029,7 @@
 <LM>w#w-ln94211-70-p7s6w24</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94211-70-p7s6w25">
 <src.rf>manual</src.rf>
@@ -5281,7 +5281,7 @@
 <LM>w#w-ln94211-70-p7s8w4</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-70-p7s8w5">
 <src.rf>manual</src.rf>

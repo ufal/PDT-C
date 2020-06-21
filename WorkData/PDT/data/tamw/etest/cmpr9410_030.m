@@ -101,7 +101,7 @@
 <LM>w#w-cmpr9410-030-p3s1w10</LM>
 </w.rf>
 <form>Solarmax</form>
-<tag lemma="Solarmax_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Solarmax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-030-p3s1w11">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-cmpr9410-030-p4s1w6</LM>
 </w.rf>
 <form>Malkovského</form>
-<tag lemma="Malkovský_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Malkovský_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-030-p4s1w7">
 <src.rf>manual</src.rf>

@@ -116,8 +116,8 @@
 </w.rf>
 <form>hv</form>
 <tag>
-<AM lemma="hv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-122-p2s1w4">
@@ -334,7 +334,7 @@
 <LM>w#w-mf920924-122-p2s3w13</LM>
 </w.rf>
 <form>Křenek</form>
-<tag lemma="Křenek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křenek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-122-p2s3w14">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-mf920924-122-p2s7w2</LM>
 </w.rf>
 <form>Křenek</form>
-<tag lemma="Křenek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křenek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-122-p2s7w3">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-ln94201-55-p1s1w6</LM>
 </w.rf>
 <form>Fürstenbergů</form>
-<tag lemma="Fürstenberg_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Fürstenberg_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-55-p1s1w7">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-ln94201-55-p1s1w11</LM>
 </w.rf>
 <form>Nibelunzích</form>
-<tag lemma="Nibelung_;S" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="Nibelung_;Y" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-ln94201-55-p1s1w12">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-mf920924-069-p1s1w5</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-069-p1s1w6">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf920924-069-p2s1w3</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s1w4">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-mf920924-069-p2s1w8</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s1w9">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-mf920924-069-p2s1w22</LM>
 </w.rf>
 <form>Ferencvarosz</form>
-<tag lemma="Ferencvarosz_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ferencvarosz_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s1w23">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf920924-069-p2s1w25</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s1w26">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-mf920924-069-p2s2w4</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s2w5">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-mf920924-069-p2s2w10</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s2w11">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-mf920924-069-p2s2w14</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s2w15">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-069-p2s3w13">
@@ -661,7 +661,7 @@
 <LM>w#w-mf920924-069-p2s3w14</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s3w15">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-mf920924-069-p2s4w12</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s4w13">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -861,7 +861,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -897,7 +897,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-069-p2s5Aw10">
@@ -986,7 +986,7 @@
 <LM>w#w-mf920924-069-p2s5Aw20</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s5Aw21">
 <src.rf>manual</src.rf>
@@ -1077,9 +1077,9 @@
 </w.rf>
 <form>PZ</form>
 <tag>
-<AM lemma="PZ_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PZ_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="PZ-1_:B_^(podzol,_klasifikace_půd)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="PZ-2_:B_;G_;K_^(podporované_zaměstnávání)" src="auto">NNNSX-----A---8</AM>
+<AM lemma="PZ-2_:B_;G_;m_^(podporované_zaměstnávání)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="PZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1146,7 +1146,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1172,7 +1172,7 @@
 <LM>w#w-mf920924-069-p2s5Bw17</LM>
 </w.rf>
 <form>Rybana</form>
-<tag lemma="Ryban_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ryban_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s5Bw18">
 <src.rf>manual</src.rf>
@@ -1326,7 +1326,7 @@
 <LM>w#w-mf920924-069-p2s6w16</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencváros_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-069-p2s6w17">
 <src.rf>manual</src.rf>

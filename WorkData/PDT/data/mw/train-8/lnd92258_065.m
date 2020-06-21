@@ -272,7 +272,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -332,8 +332,8 @@
 <form>Bennie</form>
 <tag>
 <AM lemma="Bennie_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bennie_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bennie_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Bennie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bennie_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Bennie-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -343,7 +343,7 @@
 <LM>w#w-lnd92258-065-p2s2w36</LM>
 </w.rf>
 <form>Boxerová</form>
-<tag lemma="Boxerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Boxerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-065-p2s2w37">
 <src.rf>manual</src.rf>

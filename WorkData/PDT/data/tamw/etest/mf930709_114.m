@@ -62,9 +62,9 @@
 </w.rf>
 <form>is</form>
 <tag>
-<AM lemma="is-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="is-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._je,_v_názvech_apod.)" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma="is-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="is-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-114-p2s1Aw4">
@@ -352,7 +352,7 @@
 <LM>w#w-mf930709-114-p2s2w9</LM>
 </w.rf>
 <form>Dyba</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-114-p2s2w10">
 <src.rf>manual</src.rf>

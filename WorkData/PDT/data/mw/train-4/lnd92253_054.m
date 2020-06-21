@@ -21,7 +21,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p1s1w2">
@@ -42,7 +42,7 @@
 <form>KARADŽIČ</form>
 <tag>
 <AM lemma="Karadžić" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karadžič_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Karadžič_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p1s2w2">
@@ -471,7 +471,7 @@
 <LM>w#w-lnd92253-054-p4s1w12</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd92253-054-p4s1w13">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-lnd92253-054-p4s1w13</LM>
 </w.rf>
 <form>Mika</form>
-<tag lemma="Mika_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mika_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-054-p4s1w14">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-lnd92253-054-p4s1w14</LM>
 </w.rf>
 <form>Magnussona</form>
-<tag lemma="Magnusson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Magnusson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-054-p4s1w15">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -909,7 +909,7 @@
 <LM>w#w-lnd92253-054-p5s1w3</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92253-054-p5s1w4">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-lnd92253-054-p5s1w5</LM>
 </w.rf>
 <form>Karadžić</form>
-<tag lemma="Karadžić_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karadžić_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-054-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1190,8 +1190,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p5s2w12">
@@ -1201,8 +1201,8 @@
 </w.rf>
 <form>Butruse</form>
 <tag>
-<AM lemma="Butrus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Butrus_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Butrus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Butrus_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p5s2w13">
@@ -1220,8 +1220,8 @@
 </w.rf>
 <form>Ghálího</form>
 <tag>
-<AM lemma="Ghálí_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ghálí_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Ghálí_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ghálí_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p5s2w15">
@@ -1369,9 +1369,9 @@
 </w.rf>
 <form>Bosanského</form>
 <tag>
-<AM lemma="Bosanský_;S" src="orig">AAIS2----1A----</AM>
-<AM lemma="Bosanský_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Bosanský_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Bosanský_;Y" src="orig">AAIS2----1A----</AM>
+<AM lemma="Bosanský_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Bosanský_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="bosanský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="bosanský" src="auto">AAMS2----1A----</AM>
 <AM lemma="bosanský" src="auto">AAMS4----1A----</AM>
@@ -1750,7 +1750,7 @@
 <LM>w#w-lnd92253-054-p7s1w4</LM>
 </w.rf>
 <form>Panić</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-054-p7s1w5">
 <src.rf>manual</src.rf>
@@ -2021,7 +2021,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2032,9 +2032,9 @@
 </w.rf>
 <form>Figaro</form>
 <tag>
-<AM lemma="Figaro-2_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Figaro_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Figaro_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Figaro-2_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Figaro_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Figaro_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Figaro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -65,8 +65,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-016-p1s2w4">
@@ -423,8 +423,8 @@
 </w.rf>
 <form>Barend</form>
 <tag>
-<AM lemma="Barend_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Barend_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Barend_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Barend_;Y" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-016-p1s4w18">
@@ -433,7 +433,7 @@
 <LM>w#w-lnd94104-016-p1s4w18</LM>
 </w.rf>
 <form>Cohen</form>
-<tag lemma="Cohen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cohen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-016-p1s4w19">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 <LM>w#w-lnd94104-016-p1s7w2</LM>
 </w.rf>
 <form>Barenda</form>
-<tag lemma="Barend_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Barend_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-016-p1s7w3">
 <src.rf>manual</src.rf>
@@ -1404,7 +1404,7 @@
 <form>Šťastný</form>
 <tag>
 <AM lemma="šťastný" src="orig">AAFP1----1A---6</AM>
-<AM lemma="Šťastný_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šťastný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-016-p1s9w7">

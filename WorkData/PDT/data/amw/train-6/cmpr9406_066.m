@@ -45,7 +45,7 @@
 <LM>w#w-cmpr9406-066-p3s1w1</LM>
 </w.rf>
 <form>Jaseka</form>
-<tag lemma="Jaseka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jaseka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-066-p4s1">
@@ -63,7 +63,7 @@
 <LM>w#w-cmpr9406-066-p4s1w2</LM>
 </w.rf>
 <form>Jaseka</form>
-<tag lemma="Jaseka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jaseka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-066-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-cmpr9406-066-p11s1w20</LM>
 </w.rf>
 <form>Seifert</form>
-<tag lemma="Seifert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seifert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-066-p11s1w21">
 <src.rf>manual</src.rf>

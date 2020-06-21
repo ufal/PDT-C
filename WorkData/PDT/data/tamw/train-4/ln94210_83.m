@@ -338,7 +338,7 @@
 <LM>w#w-ln94210-83-p2s2w9</LM>
 </w.rf>
 <form>Kristofa</form>
-<tag lemma="Kristof_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kristof_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-83-p2s2w10">
 <src.rf>manual</src.rf>
@@ -363,8 +363,8 @@
 </w.rf>
 <form>Wu</form>
 <tag>
-<AM lemma="Wu_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wu-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Wu_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Wu-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-83-p2s2w13">
@@ -373,7 +373,7 @@
 <LM>w#w-ln94210-83-p2s2w13</LM>
 </w.rf>
 <form>Dunnové</form>
-<tag lemma="Dunnová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dunnová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-83-p2s2w14">
 <src.rf>manual</src.rf>

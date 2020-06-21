@@ -665,7 +665,7 @@
 <LM>w#w-lnd92251-012-p2s4w6</LM>
 </w.rf>
 <form>Harwin</form>
-<tag lemma="Harwin_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Harwin_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-012-p2s4w7">
 <src.rf>manual</src.rf>
@@ -674,8 +674,8 @@
 </w.rf>
 <form>PLC</form>
 <tag>
-<AM lemma="PLC_:B_;K_,t_^(Public_Limited_Company)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="PLC_:B_;R_^(Programmable_Logic_Controller)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="PLC_:B_;m_,t_^(Public_Limited_Company)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PLC_:B_;m_^(Programmable_Logic_Controller)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="PLC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -704,7 +704,7 @@
 <LM>w#w-lnd92251-012-p2s4w10</LM>
 </w.rf>
 <form>Componente</form>
-<tag lemma="Componente_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Componente_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92251-012-p2s4w11">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-lnd92251-012-p2s5w1</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-012-p2s5w2">
 <src.rf>manual</src.rf>

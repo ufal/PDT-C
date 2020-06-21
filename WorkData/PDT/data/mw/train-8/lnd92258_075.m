@@ -59,7 +59,7 @@
 <LM>w#w-lnd92258-075-p1s1w6</LM>
 </w.rf>
 <form>NESCHOPNOSTI</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-075-p2s1">
@@ -70,8 +70,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p2s1w2">
@@ -187,8 +187,8 @@
 </w.rf>
 <form>Zetoru</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS2-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p3s1w13">
@@ -520,7 +520,7 @@
 <LM>w#w-lnd92258-075-p3s1w53</LM>
 </w.rf>
 <form>Otoupalíka</form>
-<tag lemma="Otoupalík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Otoupalík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p3s1w54">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-lnd92258-075-p3s1w71</LM>
 </w.rf>
 <form>Motokov</form>
-<tag lemma="Motokov_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Motokov_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p3s1w72">
 <src.rf>manual</src.rf>
@@ -1545,8 +1545,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p5s1w2">
@@ -1871,8 +1871,8 @@
 <form>Zetor</form>
 <tag>
 <AM lemma="Zetor-3_;Y" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Zetor_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Zetor_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Zetor_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="zetor_,l" src="auto">NNIS1-----A----</AM>
 <AM lemma="zetor_,l" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2004,9 +2004,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p5s2w50">
@@ -2330,8 +2330,8 @@
 </w.rf>
 <form>Zetoru</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS3-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS3-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p5s3w30">
@@ -2488,7 +2488,7 @@
 </w.rf>
 <form>ZVL</form>
 <tag>
-<AM lemma="ZVL_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ZVL_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ZVL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2507,7 +2507,7 @@
 </w.rf>
 <form>ZKL</form>
 <tag>
-<AM lemma="ZKL-1_:B_;K_^(Závody_kuličkových_ložisek)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZKL-1_:B_;m_^(Závody_kuličkových_ložisek)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZKL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2659,8 +2659,8 @@
 </w.rf>
 <form>Zetoru</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS6-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS6-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p5s4w7">
@@ -3127,7 +3127,7 @@
 <LM>w#w-lnd92258-075-p5s5w40</LM>
 </w.rf>
 <form>Otoupalíka</form>
-<tag lemma="Otoupalík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Otoupalík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p5s5w41">
 <src.rf>manual</src.rf>
@@ -4020,8 +4020,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p6s5w3">
@@ -4116,7 +4116,7 @@
 <LM>w#w-lnd92258-075-p6s6w8</LM>
 </w.rf>
 <form>Gottwald</form>
-<tag lemma="Gottwald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottwald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p6s6w9">
 <src.rf>manual</src.rf>
@@ -4460,7 +4460,7 @@
 <LM>w#w-lnd92258-075-p6s6w51</LM>
 </w.rf>
 <form>Motokovu</form>
-<tag lemma="Motokov_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Motokov_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p6s6w52">
 <src.rf>manual</src.rf>
@@ -4536,7 +4536,7 @@
 <LM>w#w-lnd92258-075-p7s1w1</LM>
 </w.rf>
 <form>Otoupalíkova</form>
-<tag lemma="Otoupalíkův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Otoupalíkův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92258-075-p7s1w2">
 <src.rf>manual</src.rf>
@@ -4683,8 +4683,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p7s2w4">
@@ -4805,7 +4805,7 @@
 <LM>w#w-lnd92258-075-p7s2w18</LM>
 </w.rf>
 <form>Motokovem</form>
-<tag lemma="Motokov_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Motokov_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p7s2w19">
 <src.rf>manual</src.rf>
@@ -4978,7 +4978,7 @@
 <LM>w#w-lnd92258-075-p7s3w15</LM>
 </w.rf>
 <form>Gottwald</form>
-<tag lemma="Gottwald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottwald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p7s3w16">
 <src.rf>manual</src.rf>
@@ -5067,8 +5067,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p7s3w27">
@@ -5431,8 +5431,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s2w2">
@@ -5641,8 +5641,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s4w3">
@@ -6157,7 +6157,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s7w5">
@@ -6174,7 +6174,7 @@
 <LM>w#w-lnd92258-075-p8s7w6</LM>
 </w.rf>
 <form>Gottwalda</form>
-<tag lemma="Gottwald_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gottwald_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p8s7w7">
 <src.rf>manual</src.rf>
@@ -6492,8 +6492,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s8w12">
@@ -6646,8 +6646,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s10w2">
@@ -6827,7 +6827,7 @@
 </w.rf>
 <form>SAME</form>
 <tag>
-<AM lemma="SAME_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SAME_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Sam_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="same_,t" src="auto" recommended="1">XX-------------</AM>
 <AM lemma="SAME-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -6903,7 +6903,7 @@
 <LM>w#w-lnd92258-075-p8s11w23</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Zetor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p8s11w24">
 <src.rf>manual</src.rf>
@@ -7080,7 +7080,7 @@
 </w.rf>
 <form>UŘ</form>
 <tag>
-<AM lemma="UŘ_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UŘ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="UŘ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7713,7 +7713,7 @@
 <LM>w#w-lnd92258-075-p8s14w28</LM>
 </w.rf>
 <form>Gottwalda</form>
-<tag lemma="Gottwald_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gottwald_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p8s14w29">
 <src.rf>manual</src.rf>
@@ -7764,8 +7764,8 @@
 </w.rf>
 <form>Zetoru</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS6-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS6-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p8s15w3">
@@ -7871,7 +7871,7 @@
 </w.rf>
 <form>ISO</form>
 <tag>
-<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-1_:B_;m_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ISO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -8028,8 +8028,8 @@
 </w.rf>
 <form>Zetoru</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS6-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS6-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p9s1w5">
@@ -8373,8 +8373,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p9s4w2">
@@ -8609,7 +8609,7 @@
 <LM>w#w-lnd92258-075-p9s5w10</LM>
 </w.rf>
 <form>Deere</form>
-<tag lemma="Deere_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Deere_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-075-p9s5w11">
 <src.rf>manual</src.rf>
@@ -8626,9 +8626,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p9s5w13">
@@ -9017,7 +9017,7 @@
 <LM>w#w-lnd92258-075-p10s1w2</LM>
 </w.rf>
 <form>CHMELÍČEK</form>
-<tag lemma="Chmelíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chmelíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

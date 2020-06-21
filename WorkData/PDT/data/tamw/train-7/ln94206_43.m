@@ -44,8 +44,8 @@
 </w.rf>
 <form>Mladé</form>
 <tag>
-<AM lemma="Mladá_;S" src="auto">NNFS6-----A----</AM>
-<AM lemma="Mladá_;G_;S" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Mladá_;Y" src="auto">NNFS6-----A----</AM>
+<AM lemma="Mladá_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p1s1w5">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>ika</form>
 <tag>
-<AM lemma="ika-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ika-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ika-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ika-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s1Aw4">
@@ -182,8 +182,8 @@
 </w.rf>
 <form>Mladá</form>
 <tag>
-<AM lemma="Mladá_;S" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mladá_;G_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mladá_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mladá_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s1Bw6">
@@ -519,7 +519,7 @@
 </w.rf>
 <form>REO</form>
 <tag>
-<AM lemma="REO_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="REO_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Reo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS5-----A----</AM>
@@ -542,8 +542,8 @@
 </w.rf>
 <form>RWE</form>
 <tag>
-<AM lemma="RWE_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="RWE_:B_;K_,t" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="RWE_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="RWE_:B_;m_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="RWE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -554,8 +554,8 @@
 </w.rf>
 <form>Entsorgung</form>
 <tag>
-<AM lemma="Entsorgung_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Entsorgung_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Entsorgung_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Entsorgung_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s2w25">
@@ -1257,7 +1257,7 @@
 <LM>w#w-ln94206-43-p3s2w38</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-43-p3s2w39">
 <src.rf>manual</src.rf>

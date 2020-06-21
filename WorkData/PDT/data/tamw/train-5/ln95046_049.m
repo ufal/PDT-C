@@ -69,7 +69,7 @@
 <LM>w#w-ln95046-049-p2s1w6</LM>
 </w.rf>
 <form>Becketta</form>
-<tag lemma="Beckett_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beckett_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-049-p2s1w7">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 </w.rf>
 <form>Editions</form>
 <tag>
-<AM lemma="Edition_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Edition_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Editions-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -318,7 +318,7 @@
 </w.rf>
 <form>Minuit</form>
 <tag>
-<AM lemma="Minuit_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Minuit_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Minuit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

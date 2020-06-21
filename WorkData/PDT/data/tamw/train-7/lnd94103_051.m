@@ -378,8 +378,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-051-p1s4w8">
@@ -413,7 +413,7 @@
 </w.rf>
 <form>UNAMIR</form>
 <tag>
-<AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="UNAMIR-1_:B_;m_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="UNAMIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -565,7 +565,7 @@
 </w.rf>
 <form>Famille</form>
 <tag>
-<AM lemma="Famille_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Famille_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Famille-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -701,7 +701,7 @@
 </w.rf>
 <form>UNAMIR</form>
 <tag>
-<AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="UNAMIR-1_:B_;m_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="UNAMIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

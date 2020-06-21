@@ -19,7 +19,7 @@
 <LM>w#w-lnd92254-091-p1s1w1</LM>
 </w.rf>
 <form>Holčákův</form>
-<tag lemma="Holčákův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Holčákův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92254-091-p1s1w2">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-lnd92254-091-p2s1w17</LM>
 </w.rf>
 <form>Holčák</form>
-<tag lemma="Holčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-091-p2s1w18">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 </w.rf>
 <form>Leger</form>
 <tag>
-<AM lemma="Leger_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Leger_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Leger-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -339,7 +339,7 @@
 </w.rf>
 <form>Law</form>
 <tag>
-<AM lemma="Law_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Law_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Law-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -350,7 +350,7 @@
 </w.rf>
 <form>Soziri</form>
 <tag>
-<AM lemma="Soziri_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Soziri_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Soziri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -425,7 +425,7 @@
 <LM>w#w-lnd92254-091-p2s3w12</LM>
 </w.rf>
 <form>Holčákovým</form>
-<tag lemma="Holčákův_;S_^(*2)" src="orig" selected="1">AUMS7M---------</tag>
+<tag lemma="Holčákův_;Y_^(*2)" src="orig" selected="1">AUMS7M---------</tag>
 </m>
 <m id="m-lnd92254-091-p2s3w13">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-lnd92254-091-p2s4w4</LM>
 </w.rf>
 <form>Quirinus</form>
-<tag lemma="Quirinus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Quirinus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-091-p2s4w5">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 </w.rf>
 <form>Law</form>
 <tag>
-<AM lemma="Law_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Law_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Law-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -788,7 +788,7 @@
 <LM>w#w-lnd92254-091-p2s5w12</LM>
 </w.rf>
 <form>Soziriho</form>
-<tag lemma="Soziri_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Soziri_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-091-p2s5w13">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-lnd92254-091-p2s6w10</LM>
 </w.rf>
 <form>Chaloupka</form>
-<tag lemma="Chaloupka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chaloupka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-091-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-lnd92254-091-p2s6w24</LM>
 </w.rf>
 <form>Holčáka</form>
-<tag lemma="Holčák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Holčák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92254-091-p2s6w25">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-lnd92254-091-p2s6w30</LM>
 </w.rf>
 <form>Chaloupkovi</form>
-<tag lemma="Chaloupka_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Chaloupka_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92254-091-p2s6w31">
 <src.rf>manual</src.rf>
@@ -1126,8 +1126,8 @@
 </w.rf>
 <form>mmz</form>
 <tag>
-<AM lemma="mmz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mmz-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mmz-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mmz-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-091-p3s1w3">

@@ -95,7 +95,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-080-p2s1Aw5">
@@ -112,7 +112,7 @@
 <LM>w#w-ln95047-080-p2s1Aw6</LM>
 </w.rf>
 <form>Schmögnerová</form>
-<tag lemma="Schmögnerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Schmögnerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-080-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-ln95047-080-p2s1Bw9</LM>
 </w.rf>
 <form>Černomyrdina</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-080-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-ln95047-080-p2s2w9</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-080-p2s2w10">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-ln95047-080-p2s2w26</LM>
 </w.rf>
 <form>Schmögnerová</form>
-<tag lemma="Schmögnerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Schmögnerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-080-p2s2w27">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-ln95047-080-p2s2w30</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95047-080-p2s2w31">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-ln95047-080-p3s1w21</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95047-080-p3s1w22">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-ln95047-080-p3s1w25</LM>
 </w.rf>
 <form>Mečiarova</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUNP1M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUNP1M---------</tag>
 </m>
 <m id="m-ln95047-080-p3s1w26">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-ln95047-080-p3s1w28</LM>
 </w.rf>
 <form>Černomyrdinově</form>
-<tag lemma="Černomyrdinův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Černomyrdinův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln95047-080-p3s1w29">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-ln95047-080-p4s1w2</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-080-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1231,7 +1231,7 @@
 <LM>w#w-ln95047-080-p5s1w2</LM>
 </w.rf>
 <form>Mečiarově</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln95047-080-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2394,7 +2394,7 @@
 <LM>w#w-ln95047-080-p6s3w19</LM>
 </w.rf>
 <form>Schmögnerová</form>
-<tag lemma="Schmögnerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Schmögnerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-080-p6s3w20">
 <src.rf>manual</src.rf>
@@ -2752,7 +2752,7 @@
 <LM>w#w-ln95047-080-p7s1w27</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95047-080-p7s1w28">
 <src.rf>manual</src.rf>
@@ -2899,7 +2899,7 @@
 </w.rf>
 <form>Electricité</form>
 <tag>
-<AM lemma="Electricité_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Electricité_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="electricité_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Electricité-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2922,21 +2922,21 @@
 </w.rf>
 <form>France</form>
 <tag>
-<AM lemma="France-2_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="France-2_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Franca_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franca_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="France-2_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3196,7 +3196,7 @@
 <LM>w#w-ln95047-080-p8s1w31</LM>
 </w.rf>
 <form>Moravčíkovy</form>
-<tag lemma="Moravčíkův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Moravčíkův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95047-080-p8s1w32">
 <src.rf>manual</src.rf>
@@ -3346,7 +3346,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3688,7 +3688,7 @@
 <LM>w#w-ln95047-080-p8s4w13</LM>
 </w.rf>
 <form>Černomyrdinovy</form>
-<tag lemma="Černomyrdinův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Černomyrdinův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95047-080-p8s4w14">
 <src.rf>manual</src.rf>
@@ -3746,7 +3746,7 @@
 <LM>w#w-ln95047-080-p8s5w1</LM>
 </w.rf>
 <form>Schmögnerová</form>
-<tag lemma="Schmögnerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Schmögnerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-080-p8s5w2">
 <src.rf>manual</src.rf>
@@ -4012,7 +4012,7 @@
 <LM>w#w-ln95047-080-p8s6w9</LM>
 </w.rf>
 <form>Mečiarův</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95047-080-p8s6w10">
 <src.rf>manual</src.rf>
@@ -4084,7 +4084,7 @@
 <LM>w#w-ln95047-080-p8s6w18</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95047-080-p8s6w19">
 <src.rf>manual</src.rf>

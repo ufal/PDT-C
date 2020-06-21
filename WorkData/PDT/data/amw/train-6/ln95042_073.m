@@ -53,7 +53,7 @@
 <LM>w#w-ln95042-073-p2s1w4</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ČT_:B_;m_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95042-073-p2s1w5">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln95042-073-p4s1w14</LM>
 </w.rf>
 <form>Záliše</form>
-<tag lemma="Záliš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Záliš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-073-p4s1w15">
 <src.rf>manual</src.rf>

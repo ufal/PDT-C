@@ -257,7 +257,7 @@
 <LM>w#w-lnd92259-103-p3s2w25</LM>
 </w.rf>
 <form>Atanasova</form>
-<tag lemma="Atanasov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Atanasov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-103-p3s2w26">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-lnd92259-103-p3s3w15</LM>
 </w.rf>
 <form>Ovčarova</form>
-<tag lemma="Ovčarov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ovčarov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-103-p3s3w16">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd92259-103-p3s5w12</LM>
 </w.rf>
 <form>leva</form>
-<tag lemma="leva_;b_^(bulh._měna)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="leva_^(bulh._měna)" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92259-103-p3s5w13">
 <src.rf>manual</src.rf>

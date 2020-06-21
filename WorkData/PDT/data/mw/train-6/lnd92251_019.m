@@ -118,7 +118,7 @@
 <LM>w#w-lnd92251-019-p1s1w13</LM>
 </w.rf>
 <form>Motl</form>
-<tag lemma="Motl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Motl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-019-p1s1w14">
 <src.rf>manual</src.rf>

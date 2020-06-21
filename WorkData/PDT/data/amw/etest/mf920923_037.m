@@ -53,7 +53,7 @@
 <LM>w#w-mf920923-037-p2s1w1</LM>
 </w.rf>
 <form>Ftalát</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p2s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-mf920923-037-p2s1w2</LM>
 </w.rf>
 <form>dibutylnatý</form>
-<tag lemma="dibutylnatý_;H" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920923-037-p2s1w3">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 </w.rf>
 <form>ČZPI</form>
 <tag>
-<AM lemma="ČZPI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČZPI_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -604,7 +604,7 @@
 <LM>w#w-mf920923-037-p3s1w7</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920923-037-p3s1w8">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-mf920923-037-p3s1w8</LM>
 </w.rf>
 <form>dibutylnatém</form>
-<tag lemma="dibutylnatý_;H" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf920923-037-p3s1w9">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 </w.rf>
 <form>ČZPI</form>
 <tag>
-<AM lemma="ČZPI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČZPI_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -910,7 +910,7 @@
 <LM>w#w-mf920923-037-p3s1w44</LM>
 </w.rf>
 <form>Zábojníková</form>
-<tag lemma="Zábojníková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zábojníková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p3s1w45">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-mf920923-037-p3s4w1</LM>
 </w.rf>
 <form>Ftalát</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-mf920923-037-p3s4w2</LM>
 </w.rf>
 <form>dibutylnatý</form>
-<tag lemma="dibutylnatý_;H" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920923-037-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1718,7 +1718,7 @@
 <LM>w#w-mf920923-037-p4s1w4</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-037-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1860,7 +1860,7 @@
 <LM>w#w-mf920923-037-p4s1w21</LM>
 </w.rf>
 <form>Dvořák</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p4s1w22">
 <src.rf>manual</src.rf>
@@ -2317,7 +2317,7 @@
 <LM>w#w-mf920923-037-p5s2w9</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-037-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2681,7 +2681,7 @@
 <LM>w#w-mf920923-037-p6s1w8</LM>
 </w.rf>
 <form>Zábojníková</form>
-<tag lemma="Zábojníková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zábojníková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p6s1w9">
 <src.rf>manual</src.rf>

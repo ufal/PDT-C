@@ -28,7 +28,7 @@
 </w.rf>
 <form>LE</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="LE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -39,7 +39,7 @@
 </w.rf>
 <form>MONDE</form>
 <tag>
-<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde_;m_^(Le_Monde)" src="orig">NNIXX-----A----</AM>
 <AM lemma="MONDE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -75,7 +75,7 @@
 <LM>w#w-lnd92256-117-p2s1w4</LM>
 </w.rf>
 <form>Jiránek</form>
-<tag lemma="Jiránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jiránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92256-117-p3s1">
@@ -102,7 +102,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -113,7 +113,7 @@
 </w.rf>
 <form>Monde</form>
 <tag>
-<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde_;m_^(Le_Monde)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -227,7 +227,7 @@
 <LM>w#w-lnd92256-117-p3s1w18</LM>
 </w.rf>
 <form>Jiránkovi</form>
-<tag lemma="Jiránek_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Jiránek_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd92256-117-p3s1w19">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-lnd92256-117-p3s2w6</LM>
 </w.rf>
 <form>Perrier</form>
-<tag lemma="Perrier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perrier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-117-p3s2w7">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-lnd92256-117-p3s2w14</LM>
 </w.rf>
 <form>Jiránkem</form>
-<tag lemma="Jiránek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jiránek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-117-p3s2w15">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-lnd92256-117-p3s3w7</LM>
 </w.rf>
 <form>Jiránkovy</form>
-<tag lemma="Jiránkův_;S_^(*3ek)" src="orig" selected="1">AUFP4M---------</tag>
+<tag lemma="Jiránkův_;Y_^(*3ek)" src="orig" selected="1">AUFP4M---------</tag>
 </m>
 <m id="m-lnd92256-117-p3s3w8">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-lnd92256-117-p3s4w10</LM>
 </w.rf>
 <form>Jiránek</form>
-<tag lemma="Jiránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jiránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-117-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-lnd92256-117-p4s1w3</LM>
 </w.rf>
 <form>jj</form>
-<tag lemma="jj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jj-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92256-117-p4s1w4">
 <src.rf>manual</src.rf>

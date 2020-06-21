@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-051-p1s1w1</LM>
 </w.rf>
 <form>Dvořák</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-051-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln95045-051-p2s1Bw4</LM>
 </w.rf>
 <form>Dvořáka</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-051-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-ln95045-051-p2s1Bw11</LM>
 </w.rf>
 <form>DOLEŽALOVA</form>
-<tag lemma="Doležalův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Doležalův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95045-051-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -207,11 +207,11 @@
 <tag>
 <AM lemma="as-2_^(nota)" src="orig">NNNXX-----A----</AM>
 <AM lemma="As-2_:B_,t_^(altostratus,_druh_oblaků)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="As-3_:B_;H_^(arsenicum,_arsen)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="As-3_:B_;U_^(arsenicum,_arsen)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Asa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="as-4_^(nota)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -245,7 +245,7 @@
 <LM>w#w-ln95045-051-p2s2w9</LM>
 </w.rf>
 <form>Dvořákova</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95045-051-p2s2w10">
 <src.rf>manual</src.rf>
@@ -366,9 +366,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-051-p2s2w25">
@@ -475,7 +475,7 @@
 <LM>w#w-ln95045-051-p3s1w1</LM>
 </w.rf>
 <form>Doležalovo</form>
-<tag lemma="Doležalův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Doležalův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95045-051-p3s1w2">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-ln95045-051-p3s2w1</LM>
 </w.rf>
 <form>Dvořákův</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95045-051-p3s2w2">
 <src.rf>manual</src.rf>
@@ -927,11 +927,11 @@
 <tag>
 <AM lemma="as-2_^(nota)" src="orig">NNNXX-----A----</AM>
 <AM lemma="As-2_:B_,t_^(altostratus,_druh_oblaků)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="As-3_:B_;H_^(arsenicum,_arsen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="As-3_:B_;U_^(arsenicum,_arsen)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Asa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="as-4_^(nota)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -981,7 +981,7 @@
 <LM>w#w-ln95045-051-p3s4w13</LM>
 </w.rf>
 <form>Dvořákových</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln95045-051-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1263,7 +1263,7 @@
 <LM>w#w-ln95045-051-p3s6w5</LM>
 </w.rf>
 <form>Dvořák</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-051-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-ln95045-051-p3s6w15</LM>
 </w.rf>
 <form>Čermákové</form>
-<tag lemma="Čermáková_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Čermáková_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95045-051-p3s6w16">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-ln95045-051-p3s7w5</LM>
 </w.rf>
 <form>Dvořák</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-051-p3s7w6">
 <src.rf>manual</src.rf>

@@ -326,7 +326,7 @@
 </w.rf>
 <form>Top</form>
 <tag>
-<AM lemma="Top_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Top_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="top-1_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="top-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="top-2" src="auto">NNIS4-----A----</AM>
@@ -449,7 +449,7 @@
 </w.rf>
 <form>ING</form>
 <tag>
-<AM lemma="ING_:B_;K_^(banka)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="ING_:B_;m_^(banka)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Ing-1_:B_^(inženýr)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Ing-2_:B_^(inženýrka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Inga_;G" src="auto">NNFP2-----A----</AM>
@@ -464,7 +464,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -482,7 +482,7 @@
 <LM>w#w-ln95045-110-p2s2w15</LM>
 </w.rf>
 <form>Struže</form>
-<tag lemma="Struž_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Struž_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-110-p2s2w16">
 <src.rf>manual</src.rf>
@@ -863,8 +863,8 @@
 </w.rf>
 <form>VŠE</form>
 <tag>
-<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w5">
@@ -949,9 +949,9 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="B-4_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="B-77" src="manual">F%-------------</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w15">
@@ -969,8 +969,8 @@
 </w.rf>
 <form>I</form>
 <tag>
-<AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w17">
@@ -992,17 +992,17 @@
 <AM lemma="G-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="G-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="G-0_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="G-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="G-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="G-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="G-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="G-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="G-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="G-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="G-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="G-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="G-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="G-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="g-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="G-33" src="auto">Q3-------------</AM>
 <AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="G-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w19">
@@ -1044,7 +1044,7 @@
 </w.rf>
 <form>Resources</form>
 <tag>
-<AM lemma="Resource_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Resource_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Resources-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1226,7 +1226,7 @@
 <LM>w#w-ln95045-110-p4s1w4</LM>
 </w.rf>
 <form>Struže</form>
-<tag lemma="Struž_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Struž_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-110-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1495,15 +1495,15 @@
 </w.rf>
 <form>Stružových</form>
 <tag>
-<AM lemma="Stružův_;S_^(*2)" src="orig">AUFS2M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto" recommended="1" selected="1">AUFP2M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto">AUFP6M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto">AUIP2M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto">AUIP6M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto">AUMP2M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto">AUMP6M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto">AUNP2M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto">AUNP6M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="orig">AUFS2M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="auto" recommended="1" selected="1">AUFP2M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="auto">AUFP6M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="auto">AUIP2M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="auto">AUIP6M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="auto">AUMP2M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="auto">AUMP6M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="auto">AUNP2M---------</AM>
+<AM lemma="Stružův_;Y_^(*2)" src="auto">AUNP6M---------</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p5s1w6">
@@ -1710,7 +1710,7 @@
 </w.rf>
 <form>Top</form>
 <tag>
-<AM lemma="Top_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Top_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="top-1_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="top-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="top-2" src="auto">NNIS4-----A----</AM>
@@ -1751,7 +1751,7 @@
 <LM>w#w-ln95045-110-p6s1w9</LM>
 </w.rf>
 <form>Struže</form>
-<tag lemma="Struž_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Struž_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-110-p6s1w10">
 <src.rf>manual</src.rf>

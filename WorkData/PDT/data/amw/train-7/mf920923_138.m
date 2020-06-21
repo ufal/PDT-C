@@ -136,7 +136,7 @@
 <form>Rouge</form>
 <tag>
 <AM lemma="Rouge_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Rouge_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Rouge_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Rouge-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -674,7 +674,7 @@
 <LM>w#w-mf920923-138-p2s4w12</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920923-138-p2s4w13">
 <src.rf>manual</src.rf>

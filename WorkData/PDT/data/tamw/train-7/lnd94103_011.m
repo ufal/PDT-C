@@ -94,9 +94,9 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-011-p1s2w4">
@@ -1402,7 +1402,7 @@
 <LM>w#w-lnd94103-011-p1s14w15</LM>
 </w.rf>
 <form>Král</form>
-<tag lemma="Král_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Král_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-011-p1s14w16">
 <src.rf>manual</src.rf>

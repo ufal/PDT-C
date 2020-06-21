@@ -36,7 +36,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -79,7 +79,7 @@
 </w.rf>
 <form>SBČ</form>
 <tag>
-<AM lemma="SBČ_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SBČ_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -89,7 +89,7 @@
 <LM>w#w-mf920924-146-p1s1w9</LM>
 </w.rf>
 <form>TOŠOVSKÝ</form>
-<tag lemma="Tošovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tošovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-146-p2s1">
@@ -150,7 +150,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -168,7 +168,7 @@
 <LM>w#w-mf920924-146-p2s2w7</LM>
 </w.rf>
 <form>Camdessusovi</form>
-<tag lemma="Camdessus_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Camdessus_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920924-146-p2s2w8">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -469,7 +469,7 @@
 <LM>w#w-mf920924-146-p3s1w13</LM>
 </w.rf>
 <form>Tošovský</form>
-<tag lemma="Tošovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tošovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-146-p3s1w14">
 <src.rf>manual</src.rf>
@@ -528,9 +528,9 @@
 </w.rf>
 <form>Sheraton</form>
 <tag>
-<AM lemma="Sheraton_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sheraton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sheraton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sheraton_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sheraton_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sheraton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-146-p4s1w7">
@@ -659,7 +659,7 @@
 <LM>w#w-mf920924-146-p4s1w22</LM>
 </w.rf>
 <form>Tošovský</form>
-<tag lemma="Tošovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tošovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-146-p4s1w23">
 <src.rf>manual</src.rf>

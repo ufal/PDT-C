@@ -243,7 +243,7 @@
 <form>der</form>
 <tag>
 <AM lemma="der-2_,t_^(obv._souč._německých_názvů,_urč._člen)" src="orig">AAMS1----1A----</AM>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="der_,t" src="auto">XX-------------</AM>
 <AM lemma="drát-2" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="drát-2" src="auto">Vi-S---3--A-I-4</AM>
@@ -257,7 +257,7 @@
 </w.rf>
 <form>Spiegel</form>
 <tag>
-<AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Spiegel-1_;m_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Spiegel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -472,7 +472,7 @@
 </w.rf>
 <form>Spiegel</form>
 <tag>
-<AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Spiegel-1_;m_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Spiegel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -682,7 +682,7 @@
 <LM>w#w-lnd92258-155-p3s4w27</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-155-p3s4w28">
 <src.rf>manual</src.rf>

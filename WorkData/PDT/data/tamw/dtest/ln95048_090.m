@@ -301,7 +301,7 @@
 <LM>w#w-ln95048-090-p2s1w32</LM>
 </w.rf>
 <form>Chvalovského</form>
-<tag lemma="Chvalovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chvalovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-090-p2s1w33">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -634,7 +634,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -929,18 +929,18 @@
 </w.rf>
 <form>Chvalovský</form>
 <tag>
-<AM lemma="Chvalovský_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS6-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-090-p2s6w11">
@@ -1247,7 +1247,7 @@
 <LM>w#w-ln95048-090-p2s7w16</LM>
 </w.rf>
 <form>Leška</form>
-<tag lemma="Leška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-090-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1303,7 +1303,7 @@
 <LM>w#w-ln95048-090-p2s7w23</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNFSX-----A----</tag>
+<tag lemma="Bohemians_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-090-p2s7w24">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-ln95048-090-p2s7w24</LM>
 </w.rf>
 <form>Lacina</form>
-<tag lemma="Lacina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lacina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-090-p2s7w25">
 <src.rf>manual</src.rf>
@@ -1417,7 +1417,7 @@
 <LM>w#w-ln95048-090-p2s8w3</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-090-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1425,7 +1425,7 @@
 <LM>w#w-ln95048-090-p2s8w4</LM>
 </w.rf>
 <form>Pavliska</form>
-<tag lemma="Pavliska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavliska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-090-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1932,18 +1932,18 @@
 </w.rf>
 <form>Chvalovský</form>
 <tag>
-<AM lemma="Chvalovský_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Chvalovská_;S" src="auto">NNFS6-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Chvalovský_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Chvalovská_;Y" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Chvalovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chvalovský_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-090-p2s11w11">
@@ -2322,7 +2322,7 @@
 <LM>w#w-ln95048-090-p2s12w17</LM>
 </w.rf>
 <form>Chvalovského</form>
-<tag lemma="Chvalovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chvalovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-090-p2s12w18">
 <src.rf>manual</src.rf>
@@ -2387,7 +2387,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

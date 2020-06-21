@@ -69,7 +69,7 @@
 <LM>w#w-ln94209-103-p2s1Aw3</LM>
 </w.rf>
 <form>mš</form>
-<tag lemma="mš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94209-103-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94209-103-p2s2w14</LM>
 </w.rf>
 <form>Slámová</form>
-<tag lemma="Slámová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Slámová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-103-p2s2w15">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-ln94209-103-p4s2w4</LM>
 </w.rf>
 <form>Potměšil</form>
-<tag lemma="Potměšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Potměšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-103-p4s2w5">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-ln94209-103-p4s4w3</LM>
 </w.rf>
 <form>Milcové</form>
-<tag lemma="Milcová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Milcová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-103-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1828,7 +1828,7 @@
 <LM>w#w-ln94209-103-p5s2w5</LM>
 </w.rf>
 <form>Boudy</form>
-<tag lemma="Bouda_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bouda_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-103-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-ln94209-103-p5s5w10</LM>
 </w.rf>
 <form>Potměšila</form>
-<tag lemma="Potměšil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Potměšil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-103-p5s5w11">
 <src.rf>manual</src.rf>
@@ -2548,7 +2548,7 @@
 <LM>w#w-ln94209-103-p5s8w13</LM>
 </w.rf>
 <form>Potměšil</form>
-<tag lemma="Potměšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Potměšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-103-p5s8w14">
 <src.rf>manual</src.rf>
@@ -3124,7 +3124,7 @@
 <LM>w#w-ln94209-103-p6s5w23</LM>
 </w.rf>
 <form>Potměšil</form>
-<tag lemma="Potměšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Potměšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-103-p6s5w24">
 <src.rf>manual</src.rf>

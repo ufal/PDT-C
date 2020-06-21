@@ -81,8 +81,8 @@
 </w.rf>
 <form>miš</form>
 <tag>
-<AM lemma="miš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="miš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="miš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="miš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-80-p2s1Aw4">
@@ -860,8 +860,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-80-p2s6w20">
@@ -894,7 +894,7 @@
 <LM>w#w-ln94205-80-p2s6w23</LM>
 </w.rf>
 <form>Pucher</form>
-<tag lemma="Pucher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pucher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-80-p2s6w24">
 <src.rf>manual</src.rf>

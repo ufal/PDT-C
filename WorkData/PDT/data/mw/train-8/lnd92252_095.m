@@ -83,7 +83,7 @@
 <LM>w#w-lnd92252-095-p1s1w9</LM>
 </w.rf>
 <form>PILNÉMU</form>
-<tag lemma="Pilný_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Pilný_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92252-095-p2s1">
@@ -200,7 +200,7 @@
 </w.rf>
 <form>EAA</form>
 <tag>
-<AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EAA-2_:B_;m_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -380,7 +380,7 @@
 <LM>w#w-lnd92252-095-p3s2w20</LM>
 </w.rf>
 <form>Zauliho</form>
-<tag lemma="Zauli_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zauli_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-095-p3s2w21">
 <src.rf>manual</src.rf>
@@ -397,8 +397,8 @@
 </w.rf>
 <form>EP</form>
 <tag>
-<AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP_;m_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EP_:B_;m_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -459,7 +459,7 @@
 </w.rf>
 <form>EAA</form>
 <tag>
-<AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EAA-2_:B_;m_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -493,7 +493,7 @@
 <LM>w#w-lnd92252-095-p3s3w6</LM>
 </w.rf>
 <form>Homén</form>
-<tag lemma="Homén_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Homén_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-095-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1330,7 +1330,7 @@
 </w.rf>
 <form>EAA</form>
 <tag>
-<AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EAA-2_:B_;m_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1357,8 +1357,8 @@
 </w.rf>
 <form>EP</form>
 <tag>
-<AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP_;m_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EP_:B_;m_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="EP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1377,8 +1377,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p4s3w13">
@@ -1966,8 +1966,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p4s6w42">
@@ -2499,8 +2499,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p4s10w7">
@@ -2608,7 +2608,7 @@
 </w.rf>
 <form>EAA</form>
 <tag>
-<AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EAA-2_:B_;m_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2822,7 +2822,7 @@
 <LM>w#w-lnd92252-095-p5s3w12</LM>
 </w.rf>
 <form>Duškovi</form>
-<tag lemma="Dušek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Dušek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92252-095-p5s3w13">
 <src.rf>manual</src.rf>
@@ -2879,7 +2879,7 @@
 </w.rf>
 <form>EAA</form>
 <tag>
-<AM lemma="EAA-2_:B_;K_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EAA-2_:B_;m_,t_^(European_Athletic_Association)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3168,7 +3168,7 @@
 <LM>w#w-lnd92252-095-p5s5w12</LM>
 </w.rf>
 <form>Poláček</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-095-p5s5w13">
 <src.rf>manual</src.rf>
@@ -3209,7 +3209,7 @@
 </w.rf>
 <form>ČSAU</form>
 <tag>
-<AM lemma="ČSAU_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSAU_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSAU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3227,7 +3227,7 @@
 <LM>w#w-lnd92252-095-p5s5w19</LM>
 </w.rf>
 <form>Pilnému</form>
-<tag lemma="Pilný_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Pilný_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92252-095-p5s5w20">
 <src.rf>manual</src.rf>
@@ -3343,7 +3343,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-095-p5s6w14">
@@ -3360,7 +3360,7 @@
 <LM>w#w-lnd92252-095-p5s6w15</LM>
 </w.rf>
 <form>Pilný</form>
-<tag lemma="Pilný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pilný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-095-p5s6w16">
 <src.rf>manual</src.rf>
@@ -3386,7 +3386,7 @@
 <LM>w#w-lnd92252-095-p6s1w2</LM>
 </w.rf>
 <form>šc</form>
-<tag lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="šc-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92252-095-p6s1w3">
 <src.rf>manual</src.rf>
@@ -3403,9 +3403,9 @@
 </w.rf>
 <form>z</form>
 <tag>
-<AM lemma="z-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="z-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="z-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
 </m>

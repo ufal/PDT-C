@@ -199,7 +199,7 @@
 <LM>w#w-lnd92251-091-p2s2w19</LM>
 </w.rf>
 <form>Thoma</form>
-<tag lemma="Thoma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thoma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-091-p2s2w20">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-lnd92251-091-p2s5w1</LM>
 </w.rf>
 <form>Thoma</form>
-<tag lemma="Thoma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thoma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-091-p2s5w2">
 <src.rf>manual</src.rf>

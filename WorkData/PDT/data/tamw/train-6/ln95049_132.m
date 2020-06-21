@@ -116,16 +116,16 @@
 </w.rf>
 <form>Fiatu</form>
 <tag>
-<AM lemma="Fiat-2_;K_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="Fiat_;K_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fiat_;K_;R" src="auto">NNIS6-----A---1</AM>
-<AM lemma="fiat-1_;R" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="fiat-1_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="fiat-1_;R" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Fiat-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
+<AM lemma="Fiat_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="Fiat_;m" src="auto">NNIS6-----A---1</AM>
+<AM lemma="fiat-1_;m" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="fiat-1_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="fiat-1_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Fiat_;K_;R" src="manual">NNIS2-----A----</AM>
-<AM lemma="Fiat_;K_;R" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Fiat_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Fiat_;m" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95049-132-p1s1w14">
@@ -134,7 +134,7 @@
 <LM>w#w-ln95049-132-p1s1w14</LM>
 </w.rf>
 <form>Barchetta</form>
-<tag lemma="Barchetta_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barchetta_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-132-p1s1w15">
 <src.rf>manual</src.rf>

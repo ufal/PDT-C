@@ -581,7 +581,7 @@
 <LM>w#w-ln95048-046-p2s5w17</LM>
 </w.rf>
 <form>Uličného</form>
-<tag lemma="Uličný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uličný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-046-p2s5w18">
 <src.rf>manual</src.rf>
@@ -870,8 +870,8 @@
 </w.rf>
 <form>Cida</form>
 <tag>
-<AM lemma="Cid_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Cid_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Cid_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Cid_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-046-p2s12w3">
@@ -970,7 +970,7 @@
 <LM>w#w-ln95048-046-p2s12w14</LM>
 </w.rf>
 <form>Díaze</form>
-<tag lemma="Díaz_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Díaz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-046-p2s12w15">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 <LM>w#w-ln95048-046-p2s12w16</LM>
 </w.rf>
 <form>Vivar</form>
-<tag lemma="Vivar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vivar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-046-p2s12w17">
 <src.rf>manual</src.rf>
@@ -1644,8 +1644,8 @@
 </w.rf>
 <form>Cidovi</form>
 <tag>
-<AM lemma="Cid_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Cid_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Cid_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Cid_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-046-p2s17w13">
@@ -1754,8 +1754,8 @@
 <form_change>spell</form_change>
 <form>Cidovi</form>
 <tag>
-<AM lemma="Cid_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Cid_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Cid_;Y" src="orig">NNMS6-----A----</AM>
+<AM lemma="Cid_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-046-p2s18w6">
@@ -1806,7 +1806,7 @@
 <form_change>spell</form_change>
 <form>chansons</form>
 <tag>
-<AM lemma="chanson_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="chanson_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="chansons-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1828,7 +1828,7 @@
 </w.rf>
 <form>gest</form>
 <tag>
-<AM lemma="gest_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="gest_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="gesto" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="gest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2350,8 +2350,8 @@
 </w.rf>
 <form>Cid</form>
 <tag>
-<AM lemma="Cid_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cid_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cid_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cid_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-046-p2s22w20">
@@ -2566,7 +2566,7 @@
 </w.rf>
 <form>Cela</form>
 <tag>
-<AM lemma="Cela_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cela_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="cela" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2609,8 +2609,8 @@
 </w.rf>
 <form>Cid</form>
 <tag>
-<AM lemma="Cid_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cid_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cid_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cid_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-046-p2s24w11">
@@ -2892,8 +2892,8 @@
 </w.rf>
 <form>Cidovi</form>
 <tag>
-<AM lemma="Cid_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Cid_;S_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Cid_;Y" src="orig">NNMS6-----A----</AM>
+<AM lemma="Cid_;Y" src="manual" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-046-p3s1w4">
@@ -2933,7 +2933,7 @@
 <LM>w#w-ln95048-046-p3s2w3</LM>
 </w.rf>
 <form>Práce</form>
-<tag lemma="Práce-1_;R_^(noviny)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Práce-1_;m_^(noviny)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-046-p3s2w4">
 <src.rf>manual</src.rf>
@@ -3015,7 +3015,7 @@
 <LM>w#w-ln95048-046-p3s3Aw6</LM>
 </w.rf>
 <form>Uličný</form>
-<tag lemma="Uličný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uličný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-046-p3s3Aw7">
 <src.rf>manual</src.rf>

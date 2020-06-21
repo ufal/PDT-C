@@ -93,7 +93,7 @@
 <LM>w#w-mf930702-001-p2s1w2</LM>
 </w.rf>
 <form>Filouš</form>
-<tag lemma="Filouš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Filouš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-001-p2s1w3">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-mf930702-001-p2s2w4</LM>
 </w.rf>
 <form>Kolaja</form>
-<tag lemma="Kolaja_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolaja_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-001-p2s2w5">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-mf930702-001-p2s6w3</LM>
 </w.rf>
 <form>Klausova</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930702-001-p2s6w4">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-mf930702-001-p2s6w16</LM>
 </w.rf>
 <form>Pospíšilová</form>
-<tag lemma="Pospíšilová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pospíšilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-001-p2s6w17">
 <src.rf>manual</src.rf>

@@ -153,8 +153,8 @@
 </w.rf>
 <form>ika</form>
 <tag>
-<AM lemma="ika-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ika-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ika-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ika-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-16-p2s1w14">
@@ -527,7 +527,7 @@
 <LM>w#w-ln94201-16-p3s1w6</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-16-p3s1w7">
 <src.rf>manual</src.rf>
@@ -670,8 +670,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-16-p3s1w24">
@@ -744,7 +744,7 @@
 <LM>w#w-ln94201-16-p3s1w32</LM>
 </w.rf>
 <form>Vavroušek</form>
-<tag lemma="Vavroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vavroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-16-p3s1w33">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-ln94201-16-p3s1w39</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-16-p3s1w40">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-16-p3s3w2">
@@ -1085,7 +1085,7 @@
 <LM>w#w-ln94201-16-p3s3w3</LM>
 </w.rf>
 <form>Vavroušek</form>
-<tag lemma="Vavroušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vavroušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-16-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <LM>w#w-ln94201-16-p4s1w3</LM>
 </w.rf>
 <form>Meadows</form>
-<tag lemma="Meadows_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meadows_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-16-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1675,9 +1675,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-16-p4s1w24">
@@ -1706,8 +1706,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-16-p4s1w27">
@@ -1992,7 +1992,7 @@
 <LM>w#w-ln94201-16-p5s1w6</LM>
 </w.rf>
 <form>Hermana</form>
-<tag lemma="Herman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Herman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-16-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2000,7 +2000,7 @@
 <LM>w#w-ln94201-16-p5s1w7</LM>
 </w.rf>
 <form>Verstappena</form>
-<tag lemma="Verstappen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Verstappen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-16-p5s1w8">
 <src.rf>manual</src.rf>

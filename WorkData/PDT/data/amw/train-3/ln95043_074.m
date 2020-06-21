@@ -147,7 +147,7 @@
 <LM>w#w-ln95043-074-p1s1w17</LM>
 </w.rf>
 <form>Havlíčkova</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95043-074-p1s1w18">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-ln95043-074-p1s1w26</LM>
 </w.rf>
 <form>Reynka</form>
-<tag lemma="Reynek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reynek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-074-p1s1w27">
 <src.rf>manual</src.rf>

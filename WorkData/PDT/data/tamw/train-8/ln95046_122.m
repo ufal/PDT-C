@@ -21,7 +21,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p1s1w2">
@@ -100,7 +100,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p2s1Bw4">
@@ -268,7 +268,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p3s1w7">
@@ -568,7 +568,7 @@
 <form>Svitu</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS2-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p3s4w5">
@@ -585,7 +585,7 @@
 <LM>w#w-ln95046-122-p3s4w6</LM>
 </w.rf>
 <form>Lukavského</form>
-<tag lemma="Lukavský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lukavský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-122-p3s4w7">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p3s5w18">
@@ -820,7 +820,7 @@
 <LM>w#w-ln95046-122-p3s5w19</LM>
 </w.rf>
 <form>Lukavský</form>
-<tag lemma="Lukavský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lukavský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-122-p3s5w20">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-ln95046-122-p4s1w9</LM>
 </w.rf>
 <form>Lukavského</form>
-<tag lemma="Lukavský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lukavský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-122-p4s1w10">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p4s1w20">
@@ -1085,7 +1085,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1560,7 +1560,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p6s1w16">
@@ -1705,7 +1705,7 @@
 <LM>w#w-ln95046-122-p6s2w5</LM>
 </w.rf>
 <form>Lukavského</form>
-<tag lemma="Lukavský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lukavský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-122-p6s2w6">
 <src.rf>manual</src.rf>
@@ -1784,7 +1784,7 @@
 <form>Svitu</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS2-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p7s1w3">
@@ -1987,7 +1987,7 @@
 <LM>w#w-ln95046-122-p7s2w7</LM>
 </w.rf>
 <form>Lukavského</form>
-<tag lemma="Lukavský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lukavský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-122-p7s2w8">
 <src.rf>manual</src.rf>
@@ -2071,7 +2071,7 @@
 <form>Svitu</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS2-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p8s1w5">
@@ -2168,7 +2168,7 @@
 <LM>w#w-ln95046-122-p8s1w16</LM>
 </w.rf>
 <form>Toma</form>
-<tag lemma="Toma-1_;G_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toma-1_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-122-p8s1w17">
 <src.rf>manual</src.rf>
@@ -2334,7 +2334,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p9s1w2">

@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-061-p1s1w1</LM>
 </w.rf>
 <form>Plener</form>
-<tag lemma="Plener_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plener_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-061-p1s1w2">
 <src.rf>manual</src.rf>

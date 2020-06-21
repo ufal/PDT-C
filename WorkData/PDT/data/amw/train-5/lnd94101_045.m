@@ -19,7 +19,7 @@
 <LM>w#w-lnd94101-045-p1s1w1</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-045-p1s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-lnd94101-045-p1s2w3</LM>
 </w.rf>
 <form>jpš</form>
-<tag lemma="jpš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jpš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94101-045-p1s2w4">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-lnd94101-045-p1s3Aw4</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-045-p1s3Aw5">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-lnd94101-045-p1s5w11</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-045-p1s5w12">
 <src.rf>manual</src.rf>

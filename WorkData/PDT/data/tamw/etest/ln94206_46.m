@@ -75,7 +75,7 @@
 <LM>w#w-ln94206-46-p1s1w8</LM>
 </w.rf>
 <form>Chlupově</form>
-<tag lemma="Chlupův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Chlupův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94206-46-p1s1w9">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-ln94206-46-p1s1w20</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-46-p1s1w21">
 <src.rf>manual</src.rf>
@@ -548,8 +548,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-46-p1s5w3">
@@ -574,7 +574,7 @@
 <LM>w#w-ln94206-46-p1s5w5</LM>
 </w.rf>
 <form>Třeštík</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

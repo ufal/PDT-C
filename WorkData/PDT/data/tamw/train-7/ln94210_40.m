@@ -52,8 +52,8 @@
 </w.rf>
 <form>ROH</form>
 <tag>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -525,8 +525,8 @@
 </w.rf>
 <form>ROH</form>
 <tag>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-40-p2s2w33">
@@ -666,8 +666,8 @@
 </w.rf>
 <form>ROH</form>
 <tag>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-40-p2s3w17">
@@ -702,7 +702,7 @@
 <LM>w#w-ln94210-40-p2s4w3</LM>
 </w.rf>
 <form>Vavroušková</form>
-<tag lemma="Vavroušková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vavroušková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-40-p2s4w4">
 <src.rf>manual</src.rf>
@@ -871,8 +871,8 @@
 </w.rf>
 <form>ROH</form>
 <tag>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-40-p2s4w25">
@@ -1044,8 +1044,8 @@
 </w.rf>
 <form>ROH</form>
 <tag>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-40-p2s5w21">

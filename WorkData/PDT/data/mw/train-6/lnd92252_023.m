@@ -269,7 +269,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-023-p3s3w5">
@@ -286,7 +286,7 @@
 <LM>w#w-lnd92252-023-p3s3w6</LM>
 </w.rf>
 <form>Kutláka</form>
-<tag lemma="Kutlák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kutlák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-023-p3s3w7">
 <src.rf>manual</src.rf>

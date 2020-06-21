@@ -250,7 +250,7 @@
 </w.rf>
 <form>Aglow</form>
 <tag>
-<AM lemma="Aglow_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Aglow_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Aglow-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -351,7 +351,7 @@
 </w.rf>
 <form>Aglow</form>
 <tag>
-<AM lemma="Aglow_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Aglow_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Aglow-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -394,9 +394,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-012-p3s3w13">
@@ -685,7 +685,7 @@
 </w.rf>
 <form>Aglow</form>
 <tag>
-<AM lemma="Aglow_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Aglow_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Aglow-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -743,7 +743,7 @@
 <LM>w#w-lnd92255-012-p3s5w9</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd92255-012-p3s5w10">
 <src.rf>manual</src.rf>

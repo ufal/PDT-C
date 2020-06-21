@@ -81,11 +81,11 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
-<AM lemma="les-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="les-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-083-p2s1w5">

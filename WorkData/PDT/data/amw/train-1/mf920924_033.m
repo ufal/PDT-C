@@ -258,7 +258,7 @@
 <LM>w#w-mf920924-033-p2s2w12</LM>
 </w.rf>
 <form>Geraščenko</form>
-<tag lemma="Geraščenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Geraščenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-033-p2s2w13">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-mf920924-033-p2s6w7</LM>
 </w.rf>
 <form>Gajdara</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-033-p2s6w8">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-mf920924-033-p2s7w5</LM>
 </w.rf>
 <form>Geraščenko</form>
-<tag lemma="Geraščenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Geraščenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-033-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 <LM>w#w-mf920924-033-p2s9w20</LM>
 </w.rf>
 <form>Gajdarovy</form>
-<tag lemma="Gajdarův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Gajdarův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920924-033-p2s9w21">
 <src.rf>manual</src.rf>

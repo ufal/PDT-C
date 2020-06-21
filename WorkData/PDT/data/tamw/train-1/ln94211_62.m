@@ -69,7 +69,7 @@
 <LM>w#w-ln94211-62-p2s1Aw3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="luč-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-62-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -178,8 +178,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-62-p2s1Bw12">
@@ -279,7 +279,7 @@
 <LM>w#w-ln94211-62-p2s1Bw23</LM>
 </w.rf>
 <form>Taurus</form>
-<tag lemma="Taurus_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Taurus_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-62-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94211-62-p2s2w6</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94211-62-p2s2w7">
 <src.rf>manual</src.rf>
@@ -404,8 +404,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-62-p2s3w8">

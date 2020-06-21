@@ -165,7 +165,7 @@
 <LM>w#w-mf920922-049-p2s1w15</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencvarosz_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ferencvarosz_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s1w16">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-mf920922-049-p2s1w27</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s1w28">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-mf920922-049-p2s1w29</LM>
 </w.rf>
 <form>Ferencváros</form>
-<tag lemma="Ferencváros_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s1w30">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-mf920922-049-p2s2w27</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s2w28">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 </w.rf>
 <form>NÉPSZABADSÁG</form>
 <tag>
-<AM lemma="Népszabadság_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Népszabadság_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="NÉPSZABADSÁG-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1081,7 +1081,7 @@
 <LM>w#w-mf920922-049-p2s4w23</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencvarosz_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ferencvarosz_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s4w24">
 <src.rf>manual</src.rf>

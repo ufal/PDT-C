@@ -214,7 +214,7 @@
 </w.rf>
 <form>Artama</form>
 <tag>
-<AM lemma="Artama_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Artama_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Art-1_;Y" src="auto" recommended="1">NNMP7-----A---6</AM>
 <AM lemma="Arto_;Y" src="auto">NNMP7-----A---6</AM>
 <AM lemma="art" src="auto">NNIP7-----A---6</AM>

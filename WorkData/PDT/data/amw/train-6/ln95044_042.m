@@ -43,7 +43,7 @@
 <LM>w#w-ln95044-042-p1s1w4</LM>
 </w.rf>
 <form>Obajdin</form>
-<tag lemma="Obajdin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Obajdin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-042-p1s1w5">
 <src.rf>manual</src.rf>
@@ -158,8 +158,8 @@
 </w.rf>
 <form>Jupp</form>
 <tag>
-<AM lemma="Jupp_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jupp_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jupp_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jupp_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-042-p1s2w4">
@@ -168,7 +168,7 @@
 <LM>w#w-ln95044-042-p1s2w4</LM>
 </w.rf>
 <form>Heynckes</form>
-<tag lemma="Heynckes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Heynckes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-042-p1s2w5">
 <src.rf>manual</src.rf>

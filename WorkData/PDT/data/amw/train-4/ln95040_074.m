@@ -214,7 +214,7 @@
 <LM>w#w-ln95040-074-p2s1w19</LM>
 </w.rf>
 <form>Aeroflot</form>
-<tag lemma="Aeroflot_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Aeroflot_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-074-p2s1w20">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-ln95040-074-p2s2w1</LM>
 </w.rf>
 <form>Aeroflot</form>
-<tag lemma="Aeroflot_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Aeroflot_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-074-p2s2w2">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 </w.rf>
 <form>Shannon</form>
 <tag>
-<AM lemma="Shannon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Shannon_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Shannon-2_;G" src="manual" selected="1">NNXS1-----A----</AM>
 </tag>
 </m>
@@ -1533,7 +1533,7 @@
 <LM>w#w-ln95040-074-p5s2w11</LM>
 </w.rf>
 <form>Castrův</form>
-<tag lemma="Castrův_;S_^(*2o)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Castrův_;Y_^(*2o)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95040-074-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1831,7 +1831,7 @@
 <LM>w#w-ln95040-074-p5s3w22</LM>
 </w.rf>
 <form>Aeroflot</form>
-<tag lemma="Aeroflot_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Aeroflot_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-074-p5s3w23">
 <src.rf>manual</src.rf>
@@ -1953,7 +1953,7 @@
 <LM>w#w-ln95040-074-p6s1w1</LM>
 </w.rf>
 <form>Aeroflot</form>
-<tag lemma="Aeroflot_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Aeroflot_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-074-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2034,7 +2034,7 @@
 </w.rf>
 <form>Shannon</form>
 <tag>
-<AM lemma="Shannon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Shannon_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Shannon-2_;G" src="manual" selected="1">NNXS1-----A----</AM>
 </tag>
 </m>
@@ -2215,7 +2215,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -3653,7 +3653,7 @@
 </w.rf>
 <form>Shannon</form>
 <tag>
-<AM lemma="Shannon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Shannon_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Shannon-2_;G" src="manual" selected="1">NNXS1-----A----</AM>
 </tag>
 </m>
@@ -4370,7 +4370,7 @@
 </w.rf>
 <form>Amnesty</form>
 <tag>
-<AM lemma="Amnesty_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Amnesty_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Amnesty_^(Amnesty_International)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Amnesty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -4382,8 +4382,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -4788,7 +4788,7 @@
 <LM>w#w-ln95040-074-p9s7w8</LM>
 </w.rf>
 <form>Castrovu</form>
-<tag lemma="Castrův_;S_^(*2o)" src="orig" selected="1">AUIS3M---------</tag>
+<tag lemma="Castrův_;Y_^(*2o)" src="orig" selected="1">AUIS3M---------</tag>
 </m>
 <m id="m-ln95040-074-p9s7w9">
 <src.rf>manual</src.rf>
@@ -5171,7 +5171,7 @@
 </w.rf>
 <form>Amnesty</form>
 <tag>
-<AM lemma="Amnesty_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Amnesty_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Amnesty_^(Amnesty_International)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Amnesty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -5183,8 +5183,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -5464,7 +5464,7 @@
 </w.rf>
 <form>Amnesty</form>
 <tag>
-<AM lemma="Amnesty_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Amnesty_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Amnesty_^(Amnesty_International)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Amnesty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -5476,8 +5476,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>

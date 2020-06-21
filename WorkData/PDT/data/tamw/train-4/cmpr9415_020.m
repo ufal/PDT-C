@@ -763,7 +763,7 @@
 <LM>w#w-cmpr9415-020-p10s1w2</LM>
 </w.rf>
 <form>Hovorková</form>
-<tag lemma="Hovorková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hovorková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-020-p10s1w3">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-mf920924-109-p1s1w6</LM>
 </w.rf>
 <form>PAVLASEM</form>
-<tag lemma="Pavlas_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pavlas_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920924-109-p1s1w7">
 <src.rf>manual</src.rf>

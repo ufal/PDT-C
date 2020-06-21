@@ -254,8 +254,8 @@
 </w.rf>
 <form>ZN</form>
 <tag>
-<AM lemma="ZN-2_:B_;R_^(Zdravotnické_noviny)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Zn-2_:B_;H_^(chem._prvek_zinek)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ZN-2_:B_;m_^(Zdravotnické_noviny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Zn-2_:B_;U_^(chem._prvek_zinek)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="značka_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ZN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

@@ -77,7 +77,7 @@
 <LM>w#w-mf920922-025-p2s1w6</LM>
 </w.rf>
 <form>KANTOR</form>
-<tag lemma="Kantor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kantor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s1w7">
 <src.rf>manual</src.rf>
@@ -110,8 +110,8 @@
 </w.rf>
 <form>CRICOT</form>
 <tag>
-<AM lemma="Cricot_;K_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cricot_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Cricot_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cricot_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-025-p2s1w11">
@@ -296,8 +296,8 @@
 </w.rf>
 <form>Cricot</form>
 <tag>
-<AM lemma="Cricot_;K_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cricot_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Cricot_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cricot_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-025-p2s3w2">
@@ -442,7 +442,7 @@
 <LM>w#w-mf920922-025-p2s3w19</LM>
 </w.rf>
 <form>Stankret</form>
-<tag lemma="Stankret_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Stankret_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s3w20">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-mf920922-025-p2s3w21</LM>
 </w.rf>
 <form>Kantorové</form>
-<tag lemma="Kantorová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kantorová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s3w22">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-mf920922-025-p2s4w1</LM>
 </w.rf>
 <form>Kantor</form>
-<tag lemma="Kantor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kantor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1697,7 +1697,7 @@
 <LM>w#w-mf920922-025-p2s9w10</LM>
 </w.rf>
 <form>Kantorovy</form>
-<tag lemma="Kantorův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Kantorův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-mf920922-025-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1737,7 +1737,7 @@
 <LM>w#w-mf920922-025-p2s9w15</LM>
 </w.rf>
 <form>Kantora</form>
-<tag lemma="Kantor_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kantor_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s9w16">
 <src.rf>manual</src.rf>
@@ -1835,7 +1835,7 @@
 <LM>w#w-mf920922-025-p2s10w2</LM>
 </w.rf>
 <form>Kantor</form>
-<tag lemma="Kantor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kantor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s10w3">
 <src.rf>manual</src.rf>
@@ -1963,7 +1963,7 @@
 <LM>w#w-mf920922-025-p2s10w19</LM>
 </w.rf>
 <form>Stankret</form>
-<tag lemma="Stankret_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Stankret_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s10w20">
 <src.rf>manual</src.rf>
@@ -1979,7 +1979,7 @@
 <LM>w#w-mf920922-025-p2s10w21</LM>
 </w.rf>
 <form>Kantorová</form>
-<tag lemma="Kantorová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kantorová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-025-p2s10w22">
 <src.rf>manual</src.rf>
@@ -2103,7 +2103,7 @@
 <LM>w#w-mf920922-025-p2s12w2</LM>
 </w.rf>
 <form>Kantorovo</form>
-<tag lemma="Kantorův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Kantorův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf920922-025-p2s12w3">
 <src.rf>manual</src.rf>
@@ -2298,8 +2298,8 @@
 </w.rf>
 <form>Cricot</form>
 <tag>
-<AM lemma="Cricot_;K_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cricot_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Cricot_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cricot_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-025-p2s13w20">

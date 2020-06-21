@@ -43,7 +43,7 @@
 <LM>w#w-mf930713-014-p1s1w4</LM>
 </w.rf>
 <form>Lopatka</form>
-<tag lemma="Lopatka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lopatka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-014-p2s1A">
@@ -127,7 +127,7 @@
 <LM>w#w-mf930713-014-p2s1Bw8</LM>
 </w.rf>
 <form>Lopatka</form>
-<tag lemma="Lopatka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lopatka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-014-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-mf930713-014-p2s6w30</LM>
 </w.rf>
 <form>Palacha</form>
-<tag lemma="Palach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Palach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-014-p2s6w31">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 </w.rf>
 <form>literárkách</form>
 <tag>
-<AM lemma="literárky_;R" src="orig">NNFP6-----A----</AM>
+<AM lemma="literárky_;m" src="orig">NNFP6-----A----</AM>
 <AM lemma="literárky_,h_^(literární_noviny)" src="auto" recommended="1">NNIP6-----A---1</AM>
 <AM lemma="literárky_^(literární_noviny)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
@@ -1423,7 +1423,7 @@
 <LM>w#w-mf930713-014-p2s9w20</LM>
 </w.rf>
 <form>Respektu</form>
-<tag lemma="Respekt_;R_^(časopis)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Respekt_;m_^(časopis)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930713-014-p2s9w21">
 <src.rf>manual</src.rf>

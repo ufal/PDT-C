@@ -882,7 +882,7 @@
 </w.rf>
 <form>OMON</form>
 <tag>
-<AM lemma="OMON_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OMON_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="OMON-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

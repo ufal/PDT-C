@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-110-p1s1w2</LM>
 </w.rf>
 <form>Uhrinovi</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930708-110-p1s1w3">
 <src.rf>manual</src.rf>
@@ -62,10 +62,10 @@
 </w.rf>
 <form>mn</form>
 <tag>
-<AM lemma="mn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mn-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
-<AM lemma="mn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mn-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-110-p2s1w4">
@@ -138,7 +138,7 @@
 <LM>w#w-mf930708-110-p2s1w12</LM>
 </w.rf>
 <form>Uhrina</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-110-p2s1w13">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -546,7 +546,7 @@
 <LM>w#w-mf930708-110-p2s3w13</LM>
 </w.rf>
 <form>Uhrin</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-110-p2s3w14">
 <src.rf>manual</src.rf>

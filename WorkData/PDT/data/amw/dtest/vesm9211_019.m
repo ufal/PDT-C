@@ -27,7 +27,7 @@
 <LM>w#w-vesm9211-019-p1s1w2</LM>
 </w.rf>
 <form>Russell</form>
-<tag lemma="Russell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Russell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-019-p1s1w3">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-vesm9211-019-p2s1w2</LM>
 </w.rf>
 <form>JEDINÁK</form>
-<tag lemma="Jedinák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jedinák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

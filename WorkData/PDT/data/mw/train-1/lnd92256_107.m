@@ -82,7 +82,7 @@
 <LM>w#w-lnd92256-107-p2s2w3</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-107-p2s2w4">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-lnd92256-107-p2s3w16</LM>
 </w.rf>
 <form>Wattenscheid</form>
-<tag lemma="Wattenscheid_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wattenscheid_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-107-p2s3w17">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-lnd92256-107-p2s4w4</LM>
 </w.rf>
 <form>Rufer</form>
-<tag lemma="Rufer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rufer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-107-p2s4w5">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-lnd92256-107-p2s5w1</LM>
 </w.rf>
 <form>Bratseth</form>
-<tag lemma="Bratseth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bratseth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-107-p2s5w2">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-lnd92256-107-p2s6w8</LM>
 </w.rf>
 <form>Bayer</form>
-<tag lemma="Bayer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bayer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-107-p2s6w9">
 <src.rf>manual</src.rf>

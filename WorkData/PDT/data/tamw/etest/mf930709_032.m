@@ -78,8 +78,8 @@
 </w.rf>
 <form>or</form>
 <tag>
-<AM lemma="or-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="or-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="or-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="or-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-032-p2s1Aw4">
@@ -97,9 +97,9 @@
 </w.rf>
 <form>tma</form>
 <tag>
-<AM lemma="tma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tma-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tma" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="tma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tma-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-032-p2s1Aw6">
@@ -199,7 +199,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -461,7 +461,7 @@
 <LM>w#w-mf930709-032-p3s1w8</LM>
 </w.rf>
 <form>Aero</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-032-p3s1w9">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -978,7 +978,7 @@
 <LM>w#w-mf930709-032-p4s1w5</LM>
 </w.rf>
 <form>Palace</form>
-<tag lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Palace-1_;m_^(př._hotel_Palace)" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930709-032-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2296,7 +2296,7 @@
 </w.rf>
 <form>PVT</form>
 <tag>
-<AM lemma="PVT-1_:B_;K_^(Podnik_výpočetní_techniky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVT-1_:B_;m_^(Podnik_výpočetní_techniky)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PVT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2527,7 +2527,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2941,7 +2941,7 @@
 <LM>w#w-mf930709-032-p7s2w14</LM>
 </w.rf>
 <form>Západokamene</form>
-<tag lemma="Západokámen_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Západokámen_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930709-032-p7s2w15">
 <src.rf>manual</src.rf>
@@ -3124,8 +3124,8 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-032-p8s1w12">
@@ -3457,8 +3457,8 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-032-p9s1w5">
@@ -3761,7 +3761,7 @@
 <LM>w#w-mf930709-032-p9s2w11</LM>
 </w.rf>
 <form>Finop</form>
-<tag lemma="Finop_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Finop_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-032-p9s2w12">
 <src.rf>manual</src.rf>
@@ -3907,7 +3907,7 @@
 <LM>w#w-mf930709-032-p10s1w7</LM>
 </w.rf>
 <form>Investa</form>
-<tag lemma="Investa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Investa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-032-p10s1w8">
 <src.rf>manual</src.rf>
@@ -4221,7 +4221,7 @@
 </w.rf>
 <form>RMS</form>
 <tag>
-<AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RMS-1_:B_;m_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

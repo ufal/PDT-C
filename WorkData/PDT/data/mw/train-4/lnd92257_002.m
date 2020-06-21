@@ -35,7 +35,7 @@
 <LM>w#w-lnd92257-002-p1s1w3</LM>
 </w.rf>
 <form>Benzina</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-002-p1s1w4">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-lnd92257-002-p1s1w28</LM>
 </w.rf>
 <form>Benziny</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92257-002-p1s1w29">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -421,7 +421,7 @@
 <LM>w#w-lnd92257-002-p3s1w5</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd92257-002-p3s1w6">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-lnd92257-002-p4s1w5</LM>
 </w.rf>
 <form>Natural</form>
-<tag lemma="natural-1_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="natural-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92257-002-p4s1w6">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-lnd92257-002-p5s1w5</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd92257-002-p5s1w6">
 <src.rf>manual</src.rf>

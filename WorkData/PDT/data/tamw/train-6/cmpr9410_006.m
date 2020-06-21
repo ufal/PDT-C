@@ -168,7 +168,7 @@
 <LM>w#w-cmpr9410-006-p3s1w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-006-p3s1w17">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-cmpr9410-006-p3s2w7</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-006-p3s2w8">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 <LM>w#w-cmpr9410-006-p3s2w11</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-006-p3s2w12">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-cmpr9410-006-p3s4w5</LM>
 </w.rf>
 <form>Luxe</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-006-p3s4w6">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-cmpr9410-006-p3s4w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-006-p3s4w19">
 <src.rf>manual</src.rf>

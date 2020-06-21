@@ -460,8 +460,8 @@
 </w.rf>
 <form>STA</form>
 <tag>
-<AM lemma="STA_:B_;K_,t_^(slovinská_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="STA_:B_;K_^(Slab_Track_Austria)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="STA_:B_;m_,t_^(slovinská_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STA_:B_;m_^(Slab_Track_Austria)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="sto-2`100" src="auto">NNNP1-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNP4-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNP5-----A----</AM>
@@ -769,8 +769,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-16-p3s1Aw11">
@@ -814,8 +814,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-16-p3s1Bw5">

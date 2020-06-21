@@ -46,8 +46,8 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="giga_;u_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p3s1w2">
@@ -489,8 +489,8 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="giga_;u_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p4s2w20">
@@ -626,8 +626,8 @@
 </w.rf>
 <form>Macintosh</form>
 <tag>
-<AM lemma="Macintosh-2_;R" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Macintosh_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p4s3w16">
@@ -702,7 +702,7 @@
 <LM>w#w-cmpr9413-025-p5s1w2</LM>
 </w.rf>
 <form>Winter</form>
-<tag lemma="Winter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Winter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-025-p6s1">
@@ -795,7 +795,7 @@
 <LM>w#w-cmpr9413-025-p6s1w11</LM>
 </w.rf>
 <form>Apple</form>
-<tag lemma="Apple_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Apple_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-025-p6s1w12">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-cmpr9413-025-p6s1w34</LM>
 </w.rf>
 <form>Prokeš</form>
-<tag lemma="Prokeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-025-p6s1w35">
 <src.rf>manual</src.rf>
@@ -1586,8 +1586,8 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="giga_;u_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p8s1w2">
@@ -1812,7 +1812,7 @@
 <LM>w#w-cmpr9413-025-p8s2w7</LM>
 </w.rf>
 <form>Apple</form>
-<tag lemma="Apple_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Apple_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-025-p8s2w8">
 <src.rf>manual</src.rf>
@@ -1821,8 +1821,8 @@
 </w.rf>
 <form>Macintosh</form>
 <tag>
-<AM lemma="Macintosh-2_;R" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Macintosh_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p8s2w9">
@@ -2196,8 +2196,8 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="giga_;u_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p9s2w11">
@@ -3888,7 +3888,7 @@
 <tag>
 <AM lemma="time_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="time_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="time_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Time-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3969,7 +3969,7 @@
 </w.rf>
 <form>Team</form>
 <tag>
-<AM lemma="Team_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Team_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="team_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="team_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="team_,t" src="manual">NNXXX-----A----</AM>
@@ -4238,8 +4238,8 @@
 </w.rf>
 <form>Macintosh</form>
 <tag>
-<AM lemma="Macintosh-2_;R" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Macintosh_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p13s5w18">
@@ -4984,7 +4984,7 @@
 <LM>w#w-cmpr9413-025-p16s1w8</LM>
 </w.rf>
 <form>ClarisWorks</form>
-<tag lemma="ClarisWorks_;R" src="orig" selected="1">NNIPX-----A----</tag>
+<tag lemma="ClarisWorks_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-025-p16s1w9">
 <src.rf>manual</src.rf>
@@ -5473,8 +5473,8 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="giga_;u_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p16s5w5">
@@ -5697,8 +5697,8 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="giga_;u_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p17s1w16">
@@ -6070,7 +6070,7 @@
 <LM>w#w-cmpr9413-025-p18s3w2</LM>
 </w.rf>
 <form>Prokeš</form>
-<tag lemma="Prokeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-025-p18s3w3">
 <src.rf>manual</src.rf>
@@ -6260,8 +6260,8 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;K" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="giga_;u_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p19s1w4">
@@ -6343,7 +6343,7 @@
 <LM>w#w-cmpr9413-025-p19s1w12</LM>
 </w.rf>
 <form>Ibsenova</form>
-<tag lemma="Ibsenův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Ibsenův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9413-025-p19s1w13">
 <src.rf>manual</src.rf>

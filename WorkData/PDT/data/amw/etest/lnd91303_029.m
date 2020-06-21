@@ -21,7 +21,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-029-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-lnd91303-029-p1s1w3</LM>
 </w.rf>
 <form>Čarnogurský</form>
-<tag lemma="Čarnogurský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čarnogurský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91303-029-p2s1">
@@ -1020,7 +1020,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-029-p4s3w2">
@@ -1037,7 +1037,7 @@
 <LM>w#w-lnd91303-029-p4s3w3</LM>
 </w.rf>
 <form>Čarnogurský</form>
-<tag lemma="Čarnogurský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čarnogurský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-029-p4s3w4">
 <src.rf>manual</src.rf>

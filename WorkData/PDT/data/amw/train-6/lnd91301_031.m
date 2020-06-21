@@ -63,7 +63,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-031-p3s1w2">
@@ -80,7 +80,7 @@
 <LM>w#w-lnd91301-031-p3s1w3</LM>
 </w.rf>
 <form>Mareček</form>
-<tag lemma="Mareček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mareček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p3s1w4">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-lnd91301-031-p4s1w3</LM>
 </w.rf>
 <form>fsch</form>
-<tag lemma="fsch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="fsch-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd91301-031-p4s1w4">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <LM>w#w-lnd91301-031-p5s1w2</LM>
 </w.rf>
 <form>Mareček</form>
-<tag lemma="Mareček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mareček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p5s1w3">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-lnd91301-031-p5s1w34</LM>
 </w.rf>
 <form>Veleta</form>
-<tag lemma="Veleta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veleta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p5s1w35">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-031-p5s2w10">
@@ -685,7 +685,7 @@
 <LM>w#w-lnd91301-031-p5s2w11</LM>
 </w.rf>
 <form>Mareček</form>
-<tag lemma="Mareček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mareček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p5s2w12">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 </w.rf>
 <form>GP</form>
 <tag>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="GP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1394,7 +1394,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-031-p5s4w2">
@@ -1411,7 +1411,7 @@
 <LM>w#w-lnd91301-031-p5s4w3</LM>
 </w.rf>
 <form>Mareček</form>
-<tag lemma="Mareček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mareček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-031-p5s4w4">
 <src.rf>manual</src.rf>

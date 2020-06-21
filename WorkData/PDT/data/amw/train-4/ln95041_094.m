@@ -268,7 +268,7 @@
 <LM>w#w-ln95041-094-p2s2w8</LM>
 </w.rf>
 <form>Vytlačil</form>
-<tag lemma="Vytlačil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vytlačil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-094-p2s2w9">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-ln95041-094-p2s4w2</LM>
 </w.rf>
 <form>Waltr</form>
-<tag lemma="Waltr_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waltr_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-094-p2s4w3">
 <src.rf>manual</src.rf>
@@ -428,8 +428,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-094-p2s4w9">
@@ -1089,7 +1089,7 @@
 <form>Vytlačila</form>
 <tag>
 <AM lemma="vytlačit" src="orig">VpQW----R-AAP--</AM>
-<AM lemma="Vytlačil_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Vytlačil_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-094-p2s8w3">
@@ -1199,7 +1199,7 @@
 <LM>w#w-ln95041-094-p2s9w7</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95041-094-p2s9w8">
 <src.rf>manual</src.rf>

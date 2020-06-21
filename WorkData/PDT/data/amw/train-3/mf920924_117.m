@@ -157,7 +157,7 @@
 <LM>w#w-mf920924-117-p2s2w11</LM>
 </w.rf>
 <form>Rybana</form>
-<tag lemma="Ryban_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ryban_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-117-p2s2w12">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-117-p2s4w2">
@@ -380,7 +380,7 @@
 <LM>w#w-mf920924-117-p2s4w3</LM>
 </w.rf>
 <form>Ryban</form>
-<tag lemma="Ryban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ryban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-117-p2s4w4">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-mf920924-117-p2s4w19</LM>
 </w.rf>
 <form>Füzese</form>
-<tag lemma="Füzes_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Füzes_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-117-p2s4w20">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -910,7 +910,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-117-p2s5w28">
@@ -927,7 +927,7 @@
 <LM>w#w-mf920924-117-p2s5w29</LM>
 </w.rf>
 <form>Ryban</form>
-<tag lemma="Ryban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ryban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-117-p2s5w30">
 <src.rf>manual</src.rf>

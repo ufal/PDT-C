@@ -192,8 +192,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-081-p2s1Bw13">
@@ -365,8 +365,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-081-p3s1w10">
@@ -489,7 +489,7 @@
 <LM>w#w-mf930713-081-p3s2w3</LM>
 </w.rf>
 <form>Muhammad</form>
-<tag lemma="Muhammad_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Muhammad_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-081-p3s2w4">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-mf930713-081-p3s2w4</LM>
 </w.rf>
 <form>Saíd</form>
-<tag lemma="Saíd_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saíd_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-081-p3s2w5">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-mf930713-081-p3s2w5</LM>
 </w.rf>
 <form>Sahháf</form>
-<tag lemma="Sahháf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sahháf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-081-p3s2w6">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-mf930713-081-p4s1w4</LM>
 </w.rf>
 <form>Gore</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-081-p4s1w5">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-mf930713-081-p4s1w19</LM>
 </w.rf>
 <form>Husajn</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-081-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-mf930713-081-p4s3w20</LM>
 </w.rf>
 <form>Gore</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-081-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1218,8 +1218,8 @@
 </w.rf>
 <form>Warren</form>
 <tag>
-<AM lemma="Warren_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Warren_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Warren_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Warren_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-081-p5s1w5">
@@ -1228,7 +1228,7 @@
 <LM>w#w-mf930713-081-p5s1w5</LM>
 </w.rf>
 <form>Christopher</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-081-p5s1w6">
 <src.rf>manual</src.rf>

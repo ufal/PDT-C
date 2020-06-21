@@ -240,7 +240,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -298,7 +298,7 @@
 <LM>w#w-mf920902-135-p2s1Bw13</LM>
 </w.rf>
 <form>Tobback</form>
-<tag lemma="Tobback_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tobback_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-135-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-mf920902-135-p2s3w20</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-135-p2s3w21">
 <src.rf>manual</src.rf>
@@ -3014,7 +3014,7 @@
 <LM>w#w-mf920902-135-p2s16w4</LM>
 </w.rf>
 <form>Eyskens</form>
-<tag lemma="Eyskens_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eyskens_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-135-p2s16w5">
 <src.rf>manual</src.rf>
@@ -4011,7 +4011,7 @@
 <LM>w#w-mf920902-135-p2s21w14</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-135-p2s21w15">
 <src.rf>manual</src.rf>

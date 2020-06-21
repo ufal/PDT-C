@@ -63,7 +63,7 @@
 <LM>w#w-ln94205-68-p2s1Bw2</LM>
 </w.rf>
 <form>Tomíček</form>
-<tag lemma="Tomíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-68-p2s1C">
@@ -386,7 +386,7 @@
 <LM>w#w-ln94205-68-p2s4w6</LM>
 </w.rf>
 <form>Medlíka</form>
-<tag lemma="Medlík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Medlík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-68-p2s4w7">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-ln94205-68-p3s1w1</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94205-68-p3s1w2">
 <src.rf>manual</src.rf>

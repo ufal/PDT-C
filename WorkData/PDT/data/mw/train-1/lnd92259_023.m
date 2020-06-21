@@ -203,7 +203,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-023-p2s1w19">
@@ -220,7 +220,7 @@
 <LM>w#w-lnd92259-023-p2s1w20</LM>
 </w.rf>
 <form>Buriánka</form>
-<tag lemma="Buriánek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Buriánek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-023-p2s1w21">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-023-p2s4w14">
@@ -648,7 +648,7 @@
 <LM>w#w-lnd92259-023-p2s4w15</LM>
 </w.rf>
 <form>Buriánka</form>
-<tag lemma="Buriánek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Buriánek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-023-p2s4w16">
 <src.rf>manual</src.rf>
@@ -835,8 +835,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-023-p2s5w8">
@@ -893,7 +893,7 @@
 <LM>w#w-lnd92259-023-p2s5w14</LM>
 </w.rf>
 <form>Horák</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-023-p2s5w15">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-lnd92259-023-p2s5w18</LM>
 </w.rf>
 <form>Zahradníček</form>
-<tag lemma="Zahradníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zahradníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-023-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1211,8 +1211,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-023-p2s6w13">
@@ -1347,8 +1347,8 @@
 </w.rf>
 <form>mlp</form>
 <tag>
-<AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mlp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mlp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-023-p3s1w3">

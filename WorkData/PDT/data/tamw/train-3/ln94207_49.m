@@ -53,7 +53,7 @@
 <LM>w#w-ln94207-49-p2s1w2</LM>
 </w.rf>
 <form>Juran</form>
-<tag lemma="Juran_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juran_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-49-p2s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln94207-49-p2s1w4</LM>
 </w.rf>
 <form>Kulkov</form>
-<tag lemma="Kulkov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kulkov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-49-p2s1w5">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -136,7 +136,7 @@
 <LM>w#w-ln94207-49-p2s1w12</LM>
 </w.rf>
 <form>Porto</form>
-<tag lemma="Porto_;G_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Porto_;G_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94207-49-p2s1w13">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-ln94207-49-p2s2w5</LM>
 </w.rf>
 <form>Benfiky</form>
-<tag lemma="Benfica_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benfica_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-49-p2s2w6">
 <src.rf>manual</src.rf>

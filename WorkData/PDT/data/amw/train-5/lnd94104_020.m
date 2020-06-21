@@ -447,8 +447,8 @@
 </w.rf>
 <form>ANASIA</form>
 <tag>
-<AM lemma="ANASIA_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Anasia_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="ANASIA_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Anasia_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-020-p1s5w15">

@@ -249,7 +249,7 @@
 <LM>w#w-cmpr9410-022-p4s2w5</LM>
 </w.rf>
 <form>Chodura</form>
-<tag lemma="Chodura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chodura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-022-p4s2w6">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-cmpr9410-022-p4s2w9</LM>
 </w.rf>
 <form>Chodura</form>
-<tag lemma="Chodura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chodura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-022-p4s2w10">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-cmpr9410-022-p6s1w2</LM>
 </w.rf>
 <form>Hábík</form>
-<tag lemma="Hábík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hábík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-022-p8s1">
@@ -1702,7 +1702,7 @@
 </w.rf>
 <form>CMC</form>
 <tag>
-<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;m_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CMC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

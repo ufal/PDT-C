@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-021-p1s1w3</LM>
 </w.rf>
 <form>Pardavého</form>
-<tag lemma="Pardavý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pardavý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-021-p2s1A">
@@ -271,7 +271,7 @@
 <LM>w#w-ln95047-021-p2s2w16</LM>
 </w.rf>
 <form>Pardavý</form>
-<tag lemma="Pardavý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pardavý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-021-p2s2w17">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln95047-021-p2s2w28</LM>
 </w.rf>
 <form>Čunderlíkoví</form>
-<tag lemma="Čunderlík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Čunderlík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-021-p2s2w29">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln95047-021-p2s3w1</LM>
 </w.rf>
 <form>Pardavý</form>
-<tag lemma="Pardavý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pardavý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-021-p2s3w2">
 <src.rf>manual</src.rf>

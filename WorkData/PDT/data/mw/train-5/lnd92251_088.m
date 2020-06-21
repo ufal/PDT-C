@@ -43,7 +43,7 @@
 <LM>w#w-lnd92251-088-p1s1w4</LM>
 </w.rf>
 <form>Musil</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-088-p2s1">
@@ -77,7 +77,7 @@
 <LM>w#w-lnd92251-088-p2s1w4</LM>
 </w.rf>
 <form>pd</form>
-<tag lemma="pd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="pd-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92251-088-p2s1w5">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-lnd92251-088-p2s2w11</LM>
 </w.rf>
 <form>Žáka</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s2w12">
 <src.rf>manual</src.rf>
@@ -453,8 +453,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNMPX-----A----</AM>
-<AM lemma="Bohemians_;Y_;K" src="manual" selected="1">NNMPX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Bohemians_;Y_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-088-p2s4w8">
@@ -521,7 +521,7 @@
 <LM>w#w-lnd92251-088-p2s5w1</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="L-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92251-088-p2s5w2">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-lnd92251-088-p2s5w4</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s5w5">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-lnd92251-088-p2s6w10</LM>
 </w.rf>
 <form>Žák</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s6w11">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-lnd92251-088-p2s6w25</LM>
 </w.rf>
 <form>Beneše</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s6w26">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-lnd92251-088-p2s7w9</LM>
 </w.rf>
 <form>Musila</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s7w10">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-lnd92251-088-p2s7w21</LM>
 </w.rf>
 <form>Žák</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s7w22">
 <src.rf>manual</src.rf>

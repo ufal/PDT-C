@@ -62,13 +62,13 @@
 </w.rf>
 <form>fil</form>
 <tag>
-<AM lemma="fil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="fil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-101-p2s1w4">
@@ -127,7 +127,7 @@
 <LM>w#w-mf920922-101-p2s2w5</LM>
 </w.rf>
 <form>Balzerc</form>
-<tag lemma="Balzerc_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Balzerc_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s2w6">
 <src.rf>manual</src.rf>
@@ -152,8 +152,8 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Z-33" src="orig">Q3-------------</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-101-p2s2w9">
@@ -500,7 +500,7 @@
 </w.rf>
 <form>BVV</form>
 <tag>
-<AM lemma="BVV_:B_;K" src="orig">NNIPX-----A---8</AM>
+<AM lemma="BVV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -804,7 +804,7 @@
 <LM>w#w-mf920922-101-p2s8w7</LM>
 </w.rf>
 <form>opely</form>
-<tag lemma="opel_;R_^(auto)" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="opel_;m_^(auto)" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s8w8">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-mf920922-101-p2s8w9</LM>
 </w.rf>
 <form>fiaty</form>
-<tag lemma="fiat-1_;R" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="fiat-1_;m" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s8w10">
 <src.rf>manual</src.rf>
@@ -837,11 +837,11 @@
 </w.rf>
 <form>fordy</form>
 <tag>
-<AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIP1-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
-<AM lemma="ford_;R" src="auto">NNIP4-----A----</AM>
-<AM lemma="ford_;R" src="auto">NNIP5-----A----</AM>
-<AM lemma="ford_;R" src="auto">NNIP7-----A----</AM>
+<AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIP1-----A----</AM>
+<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
+<AM lemma="ford_;m" src="auto">NNIP4-----A----</AM>
+<AM lemma="ford_;m" src="auto">NNIP5-----A----</AM>
+<AM lemma="ford_;m" src="auto">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-101-p2s8w12">
@@ -859,11 +859,11 @@
 </w.rf>
 <form>mercedesy</form>
 <tag>
-<AM lemma="Mercedes-2_;R_^(vozidlo)" src="orig">NNIP1-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP4-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP5-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP7-----A----</AM>
+<AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP1-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP4-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP5-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-101-p2s8w14">
@@ -880,7 +880,7 @@
 <LM>w#w-mf920922-101-p2s8w15</LM>
 </w.rf>
 <form>nissany</form>
-<tag lemma="nissan_;R_^(vozidlo)" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="nissan_;m_^(vozidlo)" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s8w16">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-mf920922-101-p2s9w3</LM>
 </w.rf>
 <form>Laštovka</form>
-<tag lemma="Laštovka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Laštovka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s9w4">
 <src.rf>manual</src.rf>

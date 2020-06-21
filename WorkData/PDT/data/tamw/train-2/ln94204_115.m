@@ -39,8 +39,8 @@
 </w.rf>
 <form>Ketila</form>
 <tag>
-<AM lemma="Ketil_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ketil_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ketil_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ketil_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p1s1w4">
@@ -49,7 +49,7 @@
 <LM>w#w-ln94204-115-p1s1w4</LM>
 </w.rf>
 <form>Ulvanga</form>
-<tag lemma="Ulvang_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ulvang_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-115-p2s1A">
@@ -150,8 +150,8 @@
 </w.rf>
 <form>Vegarda</form>
 <tag>
-<AM lemma="Vegard_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vegard_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Vegard_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Vegard_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p2s1Bw11">
@@ -160,7 +160,7 @@
 <LM>w#w-ln94204-115-p2s1Bw11</LM>
 </w.rf>
 <form>Ulvanga</form>
-<tag lemma="Ulvang_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ulvang_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-115-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -169,8 +169,8 @@
 </w.rf>
 <form>Ketilovi</form>
 <tag>
-<AM lemma="Ketil_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Ketil_;S_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Ketil_;Y" src="orig">NNMS6-----A----</AM>
+<AM lemma="Ketil_;Y" src="manual" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p2s1Bw13">
@@ -386,8 +386,8 @@
 </w.rf>
 <form>Ketila</form>
 <tag>
-<AM lemma="Ketil_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ketil_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ketil_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ketil_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p2s2w9">
@@ -396,7 +396,7 @@
 <LM>w#w-ln94204-115-p2s2w9</LM>
 </w.rf>
 <form>Ulvanga</form>
-<tag lemma="Ulvang_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ulvang_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-115-p2s2w10">
 <src.rf>manual</src.rf>
@@ -559,8 +559,8 @@
 </w.rf>
 <form>Ketilu</form>
 <tag>
-<AM lemma="Ketil_;S" src="orig">NNMS6-----A---1</AM>
-<AM lemma="Ketil_;S_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
+<AM lemma="Ketil_;Y" src="orig">NNMS6-----A---1</AM>
+<AM lemma="Ketil_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p2s3w4">
@@ -569,7 +569,7 @@
 <LM>w#w-ln94204-115-p2s3w4</LM>
 </w.rf>
 <form>Ulvangovi</form>
-<tag lemma="Ulvang_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Ulvang_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94204-115-p2s3w5">
 <src.rf>manual</src.rf>

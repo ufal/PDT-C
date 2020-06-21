@@ -385,7 +385,7 @@
 <LM>w#w-ln94206-78-p2s3w3</LM>
 </w.rf>
 <form>Pentagonu</form>
-<tag lemma="Pentagon_;G_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pentagon_;G_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-78-p2s3w4">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-119-p1s1w4</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-119-p2s1A">
@@ -78,8 +78,8 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Wild_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Wild_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Wild_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="wild_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -91,7 +91,7 @@
 </w.rf>
 <form>Duck</form>
 <tag>
-<AM lemma="Duck_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Duck_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Duck_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Duck_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="duck_,t" src="manual">NNXXX-----A----</AM>
@@ -131,7 +131,7 @@
 </w.rf>
 <form>SPT</form>
 <tag>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94211-119-p2s1Bw3</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-119-p2s1Bw4">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-134-p1s1w1</LM>
 </w.rf>
 <form>Andrejčák</form>
-<tag lemma="Andrejčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andrejčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-134-p1s1w2">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-mf920922-134-p2s3w27</LM>
 </w.rf>
 <form>Andrejčák</form>
-<tag lemma="Andrejčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andrejčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-134-p2s3w28">
 <src.rf>manual</src.rf>

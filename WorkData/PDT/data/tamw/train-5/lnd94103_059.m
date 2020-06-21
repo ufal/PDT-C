@@ -121,7 +121,7 @@
 <LM>w#w-lnd94103-059-p1s1Dw2</LM>
 </w.rf>
 <form>Ehl</form>
-<tag lemma="Ehl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ehl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-059-p1s1E">
@@ -283,7 +283,7 @@
 <LM>w#w-lnd94103-059-p1s1Ew20</LM>
 </w.rf>
 <form>Calderón</form>
-<tag lemma="Calderón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Calderón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s1Ew21">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-lnd94103-059-p1s1Ew21</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s1Ew22">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 </w.rf>
 <form>ARENA</form>
 <tag>
-<AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ARENA-1_:B_;m_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ARENA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -555,7 +555,7 @@
 <LM>w#w-lnd94103-059-p1s2w31</LM>
 </w.rf>
 <form>Martího</form>
-<tag lemma="Martí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Martí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s2w32">
 <src.rf>manual</src.rf>
@@ -572,8 +572,8 @@
 </w.rf>
 <form>FMLN</form>
 <tag>
-<AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -798,9 +798,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s4w10">
@@ -840,8 +840,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s5w2">
@@ -1053,7 +1053,7 @@
 </w.rf>
 <form>ARENA</form>
 <tag>
-<AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ARENA-1_:B_;m_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ARENA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1080,8 +1080,8 @@
 </w.rf>
 <form>FMLN</form>
 <tag>
-<AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1363,7 +1363,7 @@
 <LM>w#w-lnd94103-059-p1s8w16</LM>
 </w.rf>
 <form>Calderón</form>
-<tag lemma="Calderón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Calderón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s8w17">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-lnd94103-059-p1s8w17</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s8w18">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 </w.rf>
 <form>ARENA</form>
 <tag>
-<AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ARENA-1_:B_;m_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ARENA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1415,8 +1415,8 @@
 </w.rf>
 <form>Rubén</form>
 <tag>
-<AM lemma="Rubén_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rubén_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rubén_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rubén_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s8w23">
@@ -1425,7 +1425,7 @@
 <LM>w#w-lnd94103-059-p1s8w23</LM>
 </w.rf>
 <form>Zamora</form>
-<tag lemma="Zamora_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zamora_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s8w24">
 <src.rf>manual</src.rf>
@@ -1442,8 +1442,8 @@
 </w.rf>
 <form>FMLN</form>
 <tag>
-<AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1562,7 +1562,7 @@
 <LM>w#w-lnd94103-059-p1s10w1</LM>
 </w.rf>
 <form>Calderón</form>
-<tag lemma="Calderón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Calderón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s10w2">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 <LM>w#w-lnd94103-059-p1s10w2</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s10w3">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 <LM>w#w-lnd94103-059-p1s10w10</LM>
 </w.rf>
 <form>Zamora</form>
-<tag lemma="Zamora_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zamora_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s10w11">
 <src.rf>manual</src.rf>
@@ -1784,8 +1784,8 @@
 </w.rf>
 <form>FMLN</form>
 <tag>
-<AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1804,7 +1804,7 @@
 <LM>w#w-lnd94103-059-p1s11Aw14</LM>
 </w.rf>
 <form>Villalobos</form>
-<tag lemma="Villalobos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Villalobos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s11Aw15">
 <src.rf>manual</src.rf>
@@ -1926,7 +1926,7 @@
 <LM>w#w-lnd94103-059-p1s11Bw1</LM>
 </w.rf>
 <form>Calderón</form>
-<tag lemma="Calderón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Calderón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s11Bw2">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 <LM>w#w-lnd94103-059-p1s11Bw2</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s11Bw3">
 <src.rf>manual</src.rf>
@@ -2177,8 +2177,8 @@
 </w.rf>
 <form>FMLN</form>
 <tag>
-<AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FMLN_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="FMLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2320,7 +2320,7 @@
 <LM>w#w-lnd94103-059-p1s14w11</LM>
 </w.rf>
 <form>Salaverría</form>
-<tag lemma="Salaverría_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Salaverría_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s14w12">
 <src.rf>manual</src.rf>
@@ -2413,7 +2413,7 @@
 <LM>w#w-lnd94103-059-p1s15w1</LM>
 </w.rf>
 <form>Calderón</form>
-<tag lemma="Calderón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Calderón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s15w2">
 <src.rf>manual</src.rf>
@@ -2421,7 +2421,7 @@
 <LM>w#w-lnd94103-059-p1s15w2</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s15w3">
 <src.rf>manual</src.rf>
@@ -3238,7 +3238,7 @@
 </w.rf>
 <form>ARENA</form>
 <tag>
-<AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ARENA-1_:B_;m_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ARENA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

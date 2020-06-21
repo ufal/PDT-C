@@ -161,7 +161,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-055-p2s1Bw14">
@@ -178,7 +178,7 @@
 <LM>w#w-ln95049-055-p2s1Bw15</LM>
 </w.rf>
 <form>Vorlíčka</form>
-<tag lemma="Vorlíček_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vorlíček_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-055-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -196,7 +196,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-055-p2s1Bw18">
@@ -213,7 +213,7 @@
 <LM>w#w-ln95049-055-p2s1Bw19</LM>
 </w.rf>
 <form>Weissmanna</form>
-<tag lemma="Weissmann_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Weissmann_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-055-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-055-p2s2w7">
@@ -290,7 +290,7 @@
 <LM>w#w-ln95049-055-p2s2w8</LM>
 </w.rf>
 <form>Kýhos</form>
-<tag lemma="Kýhos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kýhos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-055-p2s2w9">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-055-p2s2w13">
@@ -344,7 +344,7 @@
 <LM>w#w-ln95049-055-p2s2w14</LM>
 </w.rf>
 <form>Hübl</form>
-<tag lemma="Hübl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hübl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-055-p2s2w15">
 <src.rf>manual</src.rf>

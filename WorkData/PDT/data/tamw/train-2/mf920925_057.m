@@ -19,7 +19,7 @@
 <LM>w#w-mf920925-057-p1s1w1</LM>
 </w.rf>
 <form>Změlík</form>
-<tag lemma="Změlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Změlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-057-p1s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf920925-057-p2s1w4</LM>
 </w.rf>
 <form>Změlík</form>
-<tag lemma="Změlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Změlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s1w5">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-mf920925-057-p2s2w4</LM>
 </w.rf>
 <form>Oelmana</form>
-<tag lemma="Oelman_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Oelman_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s2w5">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf920925-057-p2s4w9</LM>
 </w.rf>
 <form>Szabóem</form>
-<tag lemma="Szabó_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Szabó_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s4w10">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-mf920925-057-p2s8w19</LM>
 </w.rf>
 <form>Bugár</form>
-<tag lemma="Bugár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bugár_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s8w20">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-mf920925-057-p2s10Bw2</LM>
 </w.rf>
 <form>Změlík</form>
-<tag lemma="Změlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Změlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s10Bw3">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1258,7 +1258,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1641,7 +1641,7 @@
 <LM>w#w-mf920925-057-p2s15w11</LM>
 </w.rf>
 <form>Změlík</form>
-<tag lemma="Změlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Změlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s15w12">
 <src.rf>manual</src.rf>
@@ -1694,7 +1694,7 @@
 <LM>w#w-mf920925-057-p2s16w2</LM>
 </w.rf>
 <form>Křížek</form>
-<tag lemma="Křížek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křížek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s16w3">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -2028,7 +2028,7 @@
 <LM>w#w-mf920925-057-p2s19w3</LM>
 </w.rf>
 <form>Změlík</form>
-<tag lemma="Změlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Změlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s19w4">
 <src.rf>manual</src.rf>
@@ -2076,7 +2076,7 @@
 <LM>w#w-mf920925-057-p2s19w9</LM>
 </w.rf>
 <form>Szabóem</form>
-<tag lemma="Szabó_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Szabó_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-057-p2s19w10">
 <src.rf>manual</src.rf>

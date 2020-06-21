@@ -632,11 +632,11 @@
 </w.rf>
 <form>Royal</form>
 <tag>
-<AM lemma="Royal_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Royal_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
-<AM lemma="Royal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Royal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-025-p5s3w19">
@@ -661,7 +661,7 @@
 <LM>w#w-cmpr9407-025-p5s3w21</LM>
 </w.rf>
 <form>Košťál</form>
-<tag lemma="Košťál_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Košťál_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-025-p5s3w22">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-cmpr9407-025-p7s3w8</LM>
 </w.rf>
 <form>Kouby</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-025-p7s3w9">
 <src.rf>manual</src.rf>
@@ -3293,11 +3293,11 @@
 </w.rf>
 <form>Royal</form>
 <tag>
-<AM lemma="Royal_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Royal_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
-<AM lemma="Royal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Royal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-025-p10s1w7">

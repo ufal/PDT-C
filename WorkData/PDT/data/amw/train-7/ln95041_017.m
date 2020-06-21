@@ -560,7 +560,7 @@
 <LM>w#w-ln95041-017-p2s5Aw6</LM>
 </w.rf>
 <form>Karolčíková</form>
-<tag lemma="Karolčíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Karolčíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-017-p2s5Aw7">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-ln95041-017-p2s10w16</LM>
 </w.rf>
 <form>Eder</form>
-<tag lemma="Eder_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eder_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-017-p2s10w17">
 <src.rf>manual</src.rf>
@@ -1657,7 +1657,7 @@
 <LM>w#w-ln95041-017-p3s1w8</LM>
 </w.rf>
 <form>Kuliš</form>
-<tag lemma="Kuliš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuliš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-017-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <LM>w#w-ln95041-017-p3s2w10</LM>
 </w.rf>
 <form>Karolčíková</form>
-<tag lemma="Karolčíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Karolčíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-017-p3s2w11">
 <src.rf>manual</src.rf>
@@ -2524,7 +2524,7 @@
 <LM>w#w-ln95041-017-p4s1w6</LM>
 </w.rf>
 <form>Kuliš</form>
-<tag lemma="Kuliš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuliš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-017-p4s1w7">
 <src.rf>manual</src.rf>

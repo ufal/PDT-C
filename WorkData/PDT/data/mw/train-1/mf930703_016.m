@@ -86,10 +86,10 @@
 </w.rf>
 <form>kar</form>
 <tag>
-<AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
-<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-016-p2s1w4">
@@ -229,7 +229,7 @@
 <LM>w#w-mf930703-016-p2s1w20</LM>
 </w.rf>
 <form>Interpespenziónu</form>
-<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Interpespenzión_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-016-p2s1w21">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930703-016-p2s1w24</LM>
 </w.rf>
 <form>Hermanová</form>
-<tag lemma="Hermanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hermanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-016-p2s1w25">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-mf930703-016-p3s5w3</LM>
 </w.rf>
 <form>Hermanovou</form>
-<tag lemma="Hermanová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Hermanová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930703-016-p3s5w4">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-mf930703-016-p4s1w3</LM>
 </w.rf>
 <form>Interpespenziónu</form>
-<tag lemma="Interpespenzión_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Interpespenzión_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-016-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1464,7 +1464,7 @@
 <LM>w#w-mf930703-016-p4s4w6</LM>
 </w.rf>
 <form>Hermanová</form>
-<tag lemma="Hermanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hermanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-016-p4s4w7">
 <src.rf>manual</src.rf>

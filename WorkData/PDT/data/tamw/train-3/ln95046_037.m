@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-037-p1s1w1</LM>
 </w.rf>
 <form>Terrex</form>
-<tag lemma="Terrex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Terrex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-037-p1s1w2">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln95046-037-p2s1Bw7</LM>
 </w.rf>
 <form>Terrex</form>
-<tag lemma="Terrex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Terrex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-037-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -581,8 +581,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95046-037-p2s4w24">
@@ -623,7 +623,7 @@
 <LM>w#w-ln95046-037-p2s4w28</LM>
 </w.rf>
 <form>Sahula</form>
-<tag lemma="Sahula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sahula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-037-p2s4w29">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-ln95046-037-p2s5w5</LM>
 </w.rf>
 <form>Terrex</form>
-<tag lemma="Terrex_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Terrex_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95046-037-p2s5w6">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 </w.rf>
 <form>STES</form>
 <tag>
-<AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="STES-1_:B_;m_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="STES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -781,7 +781,7 @@
 </w.rf>
 <form>STES</form>
 <tag>
-<AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="STES-1_:B_;m_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="STES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -874,8 +874,8 @@
 </w.rf>
 <form>ČSA</form>
 <tag>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-037-p2s6w11">
@@ -925,7 +925,7 @@
 </w.rf>
 <form>Air</form>
 <tag>
-<AM lemma="Air_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Air_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -935,7 +935,7 @@
 <LM>w#w-ln95046-037-p2s6w17</LM>
 </w.rf>
 <form>Terrex</form>
-<tag lemma="Terrex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Terrex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-037-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1299,7 +1299,7 @@
 <LM>w#w-ln95046-037-p2s8w9</LM>
 </w.rf>
 <form>Terrexu</form>
-<tag lemma="Terrex_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Terrex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-037-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1332,8 +1332,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95046-037-p2s8w14">

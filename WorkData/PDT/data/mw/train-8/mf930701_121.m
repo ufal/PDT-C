@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-121-p1s1w1</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-121-p1s1w2">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-mf930701-121-p2s1w7</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-121-p2s1w8">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-mf930701-121-p2s1w13</LM>
 </w.rf>
 <form>Sokola</form>
-<tag lemma="Sokol-2_;K_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Sokol-2_;m_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf930701-121-p2s1w14">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-mf930701-121-p2s3w11</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-121-p2s3w12">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf930701-121-p2s5w17</LM>
 </w.rf>
 <form>Zelinky</form>
-<tag lemma="Zelinka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zelinka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-121-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-mf930701-121-p2s9w1</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-121-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1334,7 +1334,7 @@
 <LM>w#w-mf930701-121-p2s12w4</LM>
 </w.rf>
 <form>Sokola</form>
-<tag lemma="Sokol-2_;K_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Sokol-2_;m_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf930701-121-p2s12w5">
 <src.rf>manual</src.rf>
@@ -1790,7 +1790,7 @@
 <LM>w#w-mf930701-121-p2s16w15</LM>
 </w.rf>
 <form>Vyzinu</form>
-<tag lemma="Vyzina_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vyzina_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-121-p2s16w16">
 <src.rf>manual</src.rf>
@@ -1888,7 +1888,7 @@
 <LM>w#w-mf930701-121-p2s17w11</LM>
 </w.rf>
 <form>Smetanova</form>
-<tag lemma="Smetanův_;S_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930701-121-p2s17w12">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-mf930701-121-p2s17w14</LM>
 </w.rf>
 <form>Kinclová</form>
-<tag lemma="Kinclová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kinclová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-121-p2s17w15">
 <src.rf>manual</src.rf>
@@ -2302,7 +2302,7 @@
 <LM>w#w-mf930701-121-p2s20w17</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-121-p2s20w18">
 <src.rf>manual</src.rf>

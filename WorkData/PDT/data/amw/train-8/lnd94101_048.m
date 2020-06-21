@@ -1295,7 +1295,7 @@
 <LM>w#w-lnd94101-048-p1s9w11</LM>
 </w.rf>
 <form>Tošovský</form>
-<tag lemma="Tošovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tošovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-048-p1s9w12">
 <src.rf>manual</src.rf>

@@ -84,8 +84,8 @@
 </w.rf>
 <form>fsch</form>
 <tag>
-<AM lemma="fsch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fsch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fsch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fsch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-034-p3s1w4">

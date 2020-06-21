@@ -77,7 +77,7 @@
 <LM>w#w-ln94207-51-p2s1Aw3</LM>
 </w.rf>
 <form>mmz</form>
-<tag lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mmz-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-51-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-ln94207-51-p2s2w19</LM>
 </w.rf>
 <form>Gerschově</form>
-<tag lemma="Gerschův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Gerschův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94207-51-p2s2w20">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -565,7 +565,7 @@
 </w.rf>
 <form>Sorbit</form>
 <tag>
-<AM lemma="Sorbit_;Y" src="orig">NNMSX-----A----</AM>
+<AM lemma="Sorbit_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Sorbit" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sorbit" src="auto">NNIS4-----A----</AM>
 <AM lemma="sorbit" src="auto" recommended="1">NNIS1-----A----</AM>
@@ -581,7 +581,7 @@
 <form>Skala</form>
 <tag>
 <AM lemma="Skal_;Y" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Skala_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Skala_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Skala-77" src="manual">F%-------------</AM>
 </tag>
 </m>

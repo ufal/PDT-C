@@ -93,7 +93,7 @@
 <LM>w#w-mf930709-052-p2s1Aw4</LM>
 </w.rf>
 <form>ŠEVČÍK</form>
-<tag lemma="Ševčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-052-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-mf930709-052-p2s1Bw2</LM>
 </w.rf>
 <form>Ševčík</form>
-<tag lemma="Ševčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-052-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -4206,7 +4206,7 @@
 <LM>w#w-mf930709-052-p2s29w13</LM>
 </w.rf>
 <form>Kramář</form>
-<tag lemma="Kramář_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kramář_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-052-p2s29w14">
 <src.rf>manual</src.rf>
@@ -5596,7 +5596,7 @@
 <LM>w#w-mf930709-052-p2s38w11</LM>
 </w.rf>
 <form>Knížákem</form>
-<tag lemma="Knížák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Knížák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930709-052-p2s38w12">
 <src.rf>manual</src.rf>

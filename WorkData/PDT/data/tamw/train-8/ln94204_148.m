@@ -421,8 +421,8 @@
 </w.rf>
 <form>Jethro</form>
 <tag>
-<AM lemma="Jethro_;K" src="orig">NNMXX-----A----</AM>
-<AM lemma="Jethro_;K_^(Jethro_Tull)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Jethro_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Jethro_;m_^(Jethro_Tull)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Jethro_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -432,7 +432,7 @@
 <LM>w#w-ln94204-148-p2s3w10</LM>
 </w.rf>
 <form>Tull</form>
-<tag lemma="Tull_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tull_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-148-p2s3w11">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln94204-148-p2s3w12</LM>
 </w.rf>
 <form>Abrahams</form>
-<tag lemma="Abrahams_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abrahams_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-148-p2s3w13">
 <src.rf>manual</src.rf>
@@ -828,8 +828,8 @@
 </w.rf>
 <form>gb</form>
 <tag>
-<AM lemma="gb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="gb-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="gb-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gb-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-148-p2s6w3">

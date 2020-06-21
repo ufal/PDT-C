@@ -20,9 +20,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-099-p1s1Aw2">
@@ -255,7 +255,7 @@
 <LM>w#w-lnd94105-099-p1s4w3</LM>
 </w.rf>
 <form>Michajlova</form>
-<tag lemma="Michajlov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Michajlov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-099-p1s4w4">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd94105-099-p1s6w11</LM>
 </w.rf>
 <form>Hebert</form>
-<tag lemma="Hebert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hebert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-099-p1s6w12">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-lnd94105-099-p1s6w14</LM>
 </w.rf>
 <form>Bjakinovu</form>
-<tag lemma="Bjakinův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Bjakinův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd94105-099-p1s6w15">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-lnd94105-099-p1s6w19</LM>
 </w.rf>
 <form>Kovalenkovu</form>
-<tag lemma="Kovalenkův_;S_^(*2o)" src="auto" selected="1">AUFS4M---------</tag>
+<tag lemma="Kovalenkův_;Y_^(*2o)" src="auto" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd94105-099-p1s6w20">
 <src.rf>manual</src.rf>

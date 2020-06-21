@@ -290,7 +290,7 @@
 </w.rf>
 <form>Sieng</form>
 <tag>
-<AM lemma="Sieng_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sieng_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Sieng-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -301,7 +301,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -312,7 +312,7 @@
 </w.rf>
 <form>Presse</form>
 <tag>
-<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-1_;m_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -921,7 +921,7 @@
 <LM>w#w-lnd94105-047-p1s10w7</LM>
 </w.rf>
 <form>Sihanukoví</form>
-<tag lemma="Sihanukoví_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Sihanukoví_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd94105-047-p1s10w8">
 <src.rf>manual</src.rf>

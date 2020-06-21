@@ -447,7 +447,7 @@
 </w.rf>
 <form>Free</form>
 <tag>
-<AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -778,8 +778,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-024-p3s4w31">

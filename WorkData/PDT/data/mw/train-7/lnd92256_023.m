@@ -36,7 +36,7 @@
 </w.rf>
 <form>SOS</form>
 <tag>
-<AM lemma="SOS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOS_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
@@ -188,7 +188,7 @@
 </w.rf>
 <form>SOS</form>
 <tag>
-<AM lemma="SOS_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="SOS_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS4-----A----</AM>
@@ -348,7 +348,7 @@
 </w.rf>
 <form>SOS</form>
 <tag>
-<AM lemma="SOS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOS_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SOS_:B" src="auto" recommended="1">TT------------8</AM>
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>

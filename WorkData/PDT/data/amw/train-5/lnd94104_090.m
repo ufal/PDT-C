@@ -35,7 +35,7 @@
 <LM>w#w-lnd94104-090-p1s1w3</LM>
 </w.rf>
 <form>Lindaurová</form>
-<tag lemma="Lindaurová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lindaurová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s1w4">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-lnd94104-090-p1s7w9</LM>
 </w.rf>
 <form>Prokopové</form>
-<tag lemma="Prokopová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Prokopová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s7w10">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-lnd94104-090-p1s7w12</LM>
 </w.rf>
 <form>Kafkové</form>
-<tag lemma="Kafková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kafková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s7w13">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-lnd94104-090-p1s7w15</LM>
 </w.rf>
 <form>Tesařové</form>
-<tag lemma="Tesařová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tesařová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s7w16">
 <src.rf>manual</src.rf>
@@ -2093,7 +2093,7 @@
 <LM>w#w-lnd94104-090-p1s16w10</LM>
 </w.rf>
 <form>Hendrycha</form>
-<tag lemma="Hendrych_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hendrych_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s16w11">
 <src.rf>manual</src.rf>
@@ -2183,7 +2183,7 @@
 <LM>w#w-lnd94104-090-p1s17w1</LM>
 </w.rf>
 <form>Hendrych</form>
-<tag lemma="Hendrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hendrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s17w2">
 <src.rf>manual</src.rf>
@@ -2313,7 +2313,7 @@
 <LM>w#w-lnd94104-090-p1s18w5</LM>
 </w.rf>
 <form>Načeradským</form>
-<tag lemma="Načeradský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Načeradský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s18w6">
 <src.rf>manual</src.rf>
@@ -2880,18 +2880,18 @@
 </w.rf>
 <form>Borovský</form>
 <tag>
-<AM lemma="Borovský_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Borovská_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFS6-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto" selected="1">NNMS1-----A----</AM>
-<AM lemma="Borovský_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Borovský_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Borovský_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="borovský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="borovský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="borovský" src="auto">AAFP5----1A---6</AM>
@@ -2939,7 +2939,7 @@
 <LM>w#w-lnd94104-090-p1s21w20</LM>
 </w.rf>
 <form>Jebavý</form>
-<tag lemma="Jebavý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jebavý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s21w21">
 <src.rf>manual</src.rf>
@@ -2963,7 +2963,7 @@
 <LM>w#w-lnd94104-090-p1s21w23</LM>
 </w.rf>
 <form>Ohrabková</form>
-<tag lemma="Ohrabková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ohrabková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s21w24">
 <src.rf>manual</src.rf>
@@ -2987,7 +2987,7 @@
 <LM>w#w-lnd94104-090-p1s21w26</LM>
 </w.rf>
 <form>Lacina</form>
-<tag lemma="Lacina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lacina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-090-p1s21w27">
 <src.rf>manual</src.rf>

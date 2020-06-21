@@ -94,9 +94,9 @@
 </w.rf>
 <form>sob</form>
 <tag>
-<AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-092-p2s1Aw4">
@@ -359,7 +359,7 @@
 <LM>w#w-mf930713-092-p2s3w7</LM>
 </w.rf>
 <form>Brůžka</form>
-<tag lemma="Brůžek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brůžek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-092-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 <LM>w#w-mf930713-092-p2s8w24</LM>
 </w.rf>
 <form>Brůžek</form>
-<tag lemma="Brůžek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brůžek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-092-p2s8w25">
 <src.rf>manual</src.rf>
@@ -1270,7 +1270,7 @@
 <LM>w#w-mf930713-092-p2s9w15</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-092-p2s9w16">
 <src.rf>manual</src.rf>

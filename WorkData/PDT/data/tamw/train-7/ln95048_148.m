@@ -21,7 +21,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-148-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-ln95048-148-p1s1w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-148-p1s1w4">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-148-p2s1Bw17">
@@ -283,7 +283,7 @@
 <LM>w#w-ln95048-148-p2s1Bw18</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-148-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95048-148-p3s1w15</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-148-p3s1w16">
 <src.rf>manual</src.rf>
@@ -710,8 +710,8 @@
 </w.rf>
 <form>Henning</form>
 <tag>
-<AM lemma="Henning_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Henning_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Henning_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Henning_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-148-p3s2w10">
@@ -720,7 +720,7 @@
 <LM>w#w-ln95048-148-p3s2w10</LM>
 </w.rf>
 <form>Voscherau</form>
-<tag lemma="Voscherau_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Voscherau_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-148-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1153,7 +1153,7 @@
 <LM>w#w-ln95048-148-p4s3w1</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-148-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1374,7 +1374,7 @@
 <LM>w#w-ln95048-148-p4s4w6</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-148-p4s4w7">
 <src.rf>manual</src.rf>

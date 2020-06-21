@@ -117,7 +117,7 @@
 <LM>w#w-mf920901-104-p1s1Bw5</LM>
 </w.rf>
 <form>PANIČ</form>
-<tag lemma="Panič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Panič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-104-p2s1">
@@ -249,7 +249,7 @@
 <LM>w#w-mf920901-104-p2s2w14</LM>
 </w.rf>
 <form>Paničovi</form>
-<tag lemma="Panič_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Panič_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920901-104-p2s2w15">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-mf920901-104-p4s2w4</LM>
 </w.rf>
 <form>Paniče</form>
-<tag lemma="Panič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Panič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-104-p4s2w5">
 <src.rf>manual</src.rf>

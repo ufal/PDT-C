@@ -582,7 +582,7 @@
 <LM>w#w-ln95049-061-p2s3w13</LM>
 </w.rf>
 <form>Mikoláška</form>
-<tag lemma="Mikolášek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mikolášek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-061-p2s3w14">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-ln95049-061-p3s1w1</LM>
 </w.rf>
 <form>Mikolášek</form>
-<tag lemma="Mikolášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikolášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-061-p3s1w2">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-ln95049-061-p3s1w16</LM>
 </w.rf>
 <form>Nedvědem</form>
-<tag lemma="Nedvěd_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Nedvěd_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-061-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 <LM>w#w-ln95049-061-p3s5w1</LM>
 </w.rf>
 <form>Mikoláškovy</form>
-<tag lemma="Mikoláškův_;S_^(*3ek)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Mikoláškův_;Y_^(*3ek)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln95049-061-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 <LM>w#w-ln95049-061-p3s8w8</LM>
 </w.rf>
 <form>Mikolášek</form>
-<tag lemma="Mikolášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikolášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-061-p3s8w9">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-ln95049-061-p3s8w22</LM>
 </w.rf>
 <form>Bontonu</form>
-<tag lemma="Bonton_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Bonton_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-061-p3s8w23">
 <src.rf>manual</src.rf>
@@ -1764,7 +1764,7 @@
 <LM>w#w-ln95049-061-p3s9w6</LM>
 </w.rf>
 <form>Mikolášek</form>
-<tag lemma="Mikolášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikolášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-061-p3s9w7">
 <src.rf>manual</src.rf>
@@ -2267,7 +2267,7 @@
 <LM>w#w-ln95049-061-p3s13w5</LM>
 </w.rf>
 <form>Mikolášek</form>
-<tag lemma="Mikolášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikolášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-061-p3s13w6">
 <src.rf>manual</src.rf>
@@ -2753,7 +2753,7 @@
 <LM>w#w-ln95049-061-p4s4w9</LM>
 </w.rf>
 <form>Mikoláškovi</form>
-<tag lemma="Mikoláškův_;S_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Mikoláškův_;Y_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln95049-061-p4s4w10">
 <src.rf>manual</src.rf>
@@ -2974,7 +2974,7 @@
 <LM>w#w-ln95049-061-p4s5w6</LM>
 </w.rf>
 <form>Mikolášek</form>
-<tag lemma="Mikolášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikolášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-061-p4s5w7">
 <src.rf>manual</src.rf>
@@ -3254,7 +3254,7 @@
 <LM>w#w-ln95049-061-p4s7w6</LM>
 </w.rf>
 <form>Mikolášek</form>
-<tag lemma="Mikolášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikolášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-061-p4s7w7">
 <src.rf>manual</src.rf>
@@ -3406,7 +3406,7 @@
 <LM>w#w-ln95049-061-p4s7w25</LM>
 </w.rf>
 <form>Michaela</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-061-p4s7w26">
 <src.rf>manual</src.rf>
@@ -3414,7 +3414,7 @@
 <LM>w#w-ln95049-061-p4s7w26</LM>
 </w.rf>
 <form>Kocába</form>
-<tag lemma="Kocáb_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kocáb_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-061-p4s7w27">
 <src.rf>manual</src.rf>
@@ -3544,7 +3544,7 @@
 <LM>w#w-ln95049-061-p5s1w15</LM>
 </w.rf>
 <form>Mikoláška</form>
-<tag lemma="Mikolášek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mikolášek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-061-p5s1w16">
 <src.rf>manual</src.rf>

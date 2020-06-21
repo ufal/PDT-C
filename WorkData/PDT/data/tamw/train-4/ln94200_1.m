@@ -27,7 +27,7 @@
 <LM>w#w-ln94200-1-p1s1w2</LM>
 </w.rf>
 <form>Bacon</form>
-<tag lemma="Bacon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bacon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-1-p2s1">
@@ -53,7 +53,7 @@
 <LM>w#w-ln94200-1-p2s1w3</LM>
 </w.rf>
 <form>Bacon</form>
-<tag lemma="Bacon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bacon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-1-p2s1w4">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln94200-1-p2s3w1</LM>
 </w.rf>
 <form>Bacon</form>
-<tag lemma="Bacon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bacon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-1-p2s3w2">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln94200-1-p2s5w1</LM>
 </w.rf>
 <form>Baconova</form>
-<tag lemma="Baconův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Baconův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94200-1-p2s5w2">
 <src.rf>manual</src.rf>
@@ -668,8 +668,8 @@
 </w.rf>
 <form>pz</form>
 <tag>
-<AM lemma="pz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pz-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pz-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pz-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-1-p2s6w3">
@@ -695,8 +695,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-1-p2s6w6">

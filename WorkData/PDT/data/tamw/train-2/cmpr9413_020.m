@@ -592,7 +592,7 @@
 <LM>w#w-cmpr9413-020-p4s2w18</LM>
 </w.rf>
 <form>Klaka</form>
-<tag lemma="Klak_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klak_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-020-p4s2w19">
 <src.rf>manual</src.rf>
@@ -6514,7 +6514,7 @@
 <LM>w#w-cmpr9413-020-p15s1w10</LM>
 </w.rf>
 <form>Klaka</form>
-<tag lemma="Klak_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klak_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-020-p15s1w11">
 <src.rf>manual</src.rf>

@@ -62,8 +62,8 @@
 </w.rf>
 <form>MARTELL</form>
 <tag>
-<AM lemma="Martell_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Martell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Martell_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Martell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p1s1Bw2">
@@ -155,8 +155,8 @@
 </w.rf>
 <form>Martell</form>
 <tag>
-<AM lemma="Martell_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Martell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Martell_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Martell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s1w4">
@@ -416,7 +416,7 @@
 <LM>w#w-mf920925-048-p2s2w18</LM>
 </w.rf>
 <form>Menierová</form>
-<tag lemma="Menierová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Menierová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s2w19">
 <src.rf>manual</src.rf>
@@ -459,8 +459,8 @@
 </w.rf>
 <form>Martell</form>
 <tag>
-<AM lemma="Martell_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Martell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Martell_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Martell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s3w5">
@@ -558,9 +558,9 @@
 </w.rf>
 <form>Century</form>
 <tag>
-<AM lemma="Century_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Century_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Century-77" src="manual">F%-------------</AM>
-<AM lemma="Century_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Century_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s3w17">
@@ -588,8 +588,8 @@
 </w.rf>
 <form>Martell</form>
 <tag>
-<AM lemma="Martell_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Martell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Martell_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Martell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s4Aw3">
@@ -742,7 +742,7 @@
 <LM>w#w-mf920925-048-p2s4Aw21</LM>
 </w.rf>
 <form>Hloušek</form>
-<tag lemma="Hloušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hloušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s4Aw22">
 <src.rf>manual</src.rf>
@@ -961,10 +961,10 @@
 </w.rf>
 <form>Martellu</form>
 <tag>
-<AM lemma="Martell-2_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Martell_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Martell_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Martell_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Martell-2_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Martell_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Martell_;Y" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Martell_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s4Bw9">
@@ -981,7 +981,7 @@
 <LM>w#w-mf920925-048-p2s4Bw10</LM>
 </w.rf>
 <form>Martell</form>
-<tag lemma="Martell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s4Bw11">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1381,7 +1381,7 @@
 <LM>w#w-mf920925-048-p2s4Cw20</LM>
 </w.rf>
 <form>Menierová</form>
-<tag lemma="Menierová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Menierová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s4Cw21">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <LM>w#w-mf920925-048-p2s5w2</LM>
 </w.rf>
 <form>Holub</form>
-<tag lemma="Holub_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holub_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1499,7 +1499,7 @@
 </w.rf>
 <form>Seagram</form>
 <tag>
-<AM lemma="Seagram_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Seagram_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Seagram_;G_,t_^(Seragram_Building)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Seagram_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Seagram-77" src="manual" selected="1">F%-------------</AM>
@@ -1512,7 +1512,7 @@
 </w.rf>
 <form>Company</form>
 <tag>
-<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1539,9 +1539,9 @@
 </w.rf>
 <form>Martell</form>
 <tag>
-<AM lemma="Martell-2_;K" src="orig">NNIS4-----A----</AM>
-<AM lemma="Martell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Martell_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Martell-2_;m" src="orig">NNIS4-----A----</AM>
+<AM lemma="Martell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Martell_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s5w11">
@@ -1692,8 +1692,8 @@
 </w.rf>
 <form>Martell</form>
 <tag>
-<AM lemma="Martell_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Martell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Martell_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Martell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s6w2">
@@ -1711,7 +1711,7 @@
 </w.rf>
 <form>Seagram</form>
 <tag>
-<AM lemma="Seagram_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Seagram_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Seagram_;G_,t_^(Seragram_Building)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Seagram-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1976,9 +1976,9 @@
 </w.rf>
 <form>Century</form>
 <tag>
-<AM lemma="Century_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Century_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Century-77" src="manual">F%-------------</AM>
-<AM lemma="Century_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Century_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s8w3">
@@ -2271,7 +2271,7 @@
 <LM>w#w-mf920925-048-p2s10w13</LM>
 </w.rf>
 <form>Hloušek</form>
-<tag lemma="Hloušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hloušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s10w14">
 <src.rf>manual</src.rf>
@@ -2720,7 +2720,7 @@
 <LM>w#w-mf920925-048-p2s12w23</LM>
 </w.rf>
 <form>Váňou</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s12w24">
 <src.rf>manual</src.rf>
@@ -2824,8 +2824,8 @@
 </w.rf>
 <form>King</form>
 <tag>
-<AM lemma="King_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="King_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="King_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="King_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s12w36">
@@ -2853,8 +2853,8 @@
 <form>Pacha</form>
 <tag>
 <AM lemma="Pacha-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Pacho_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Pacho_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Pacho_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Pacho_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s12w39">
@@ -2876,7 +2876,7 @@
 </w.rf>
 <form>Fercé</form>
 <tag>
-<AM lemma="Fercé_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Fercé_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Fercé-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3245,7 +3245,7 @@
 <LM>w#w-mf920925-048-p2s14w13</LM>
 </w.rf>
 <form>Armitage</form>
-<tag lemma="Armitage_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Armitage_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s14w14">
 <src.rf>manual</src.rf>
@@ -3423,7 +3423,7 @@
 <LM>w#w-mf920925-048-p2s15w14</LM>
 </w.rf>
 <form>Laskov</form>
-<tag lemma="Laskov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Laskov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-048-p2s15w15">
 <src.rf>manual</src.rf>
@@ -3538,8 +3538,8 @@
 </w.rf>
 <form>Martell</form>
 <tag>
-<AM lemma="Martell_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Martell-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Martell_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Martell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s16w12">

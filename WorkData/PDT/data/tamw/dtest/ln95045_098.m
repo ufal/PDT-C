@@ -319,7 +319,7 @@
 <LM>w#w-ln95045-098-p2s2w7</LM>
 </w.rf>
 <form>Bartošek</form>
-<tag lemma="Bartošek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bartošek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-098-p2s2w8">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln95045-098-p3s1w2</LM>
 </w.rf>
 <form>Bartošek</form>
-<tag lemma="Bartošek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bartošek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-098-p3s1w3">
 <src.rf>manual</src.rf>

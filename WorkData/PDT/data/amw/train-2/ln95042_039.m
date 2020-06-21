@@ -287,7 +287,7 @@
 <LM>w#w-ln95042-039-p2s2w10</LM>
 </w.rf>
 <form>Stanovského</form>
-<tag lemma="Stanovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stanovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-039-p2s2w11">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-ln95042-039-p2s6w12</LM>
 </w.rf>
 <form>Stanovský</form>
-<tag lemma="Stanovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stanovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-039-p2s6w13">
 <src.rf>manual</src.rf>

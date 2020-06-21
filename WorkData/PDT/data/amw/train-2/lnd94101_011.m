@@ -56,7 +56,7 @@
 <LM>w#w-lnd94101-011-p1s1Bw2</LM>
 </w.rf>
 <form>Stoniš</form>
-<tag lemma="Stoniš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoniš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94101-011-p1s1C">
@@ -463,7 +463,7 @@
 <LM>w#w-lnd94101-011-p1s4w1</LM>
 </w.rf>
 <form>Klausův</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd94101-011-p1s4w2">
 <src.rf>manual</src.rf>

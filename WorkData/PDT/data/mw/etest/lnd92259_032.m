@@ -68,7 +68,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -130,7 +130,7 @@
 <LM>w#w-lnd92259-032-p3s1w3</LM>
 </w.rf>
 <form>kp</form>
-<tag lemma="kp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kp-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-032-p3s1w4">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-lnd92259-032-p3s2w21</LM>
 </w.rf>
 <form>Meriho</form>
-<tag lemma="Meri_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Meri_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-032-p3s2w22">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -367,7 +367,7 @@
 <LM>w#w-lnd92259-032-p3s2w27</LM>
 </w.rf>
 <form>Mamedova</form>
-<tag lemma="Mamedov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mamedov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-032-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-032-p4s3w8">
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd92259-032-p4s3w9</LM>
 </w.rf>
 <form>Meri</form>
-<tag lemma="Meri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-032-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-lnd92259-032-p4s3w18</LM>
 </w.rf>
 <form>Mamedův</form>
-<tag lemma="Mamedův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Mamedův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd92259-032-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-032-p4s5w5">
@@ -1353,7 +1353,7 @@
 <LM>w#w-lnd92259-032-p4s5w6</LM>
 </w.rf>
 <form>Meri</form>
-<tag lemma="Meri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-032-p4s5w7">
 <src.rf>manual</src.rf>

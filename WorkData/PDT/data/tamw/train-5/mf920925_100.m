@@ -80,7 +80,7 @@
 </w.rf>
 <form>ALDANA</form>
 <tag>
-<AM lemma="Aldana_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Aldana_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -204,7 +204,7 @@
 <LM>w#w-mf920925-100-p4s2w6</LM>
 </w.rf>
 <form>Castra</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-100-p4s2w7">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-100-p4s2w30">
@@ -414,7 +414,7 @@
 </w.rf>
 <form>Aldany</form>
 <tag>
-<AM lemma="Aldana_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Aldana_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
@@ -484,7 +484,7 @@
 </w.rf>
 <form>Aldana</form>
 <tag>
-<AM lemma="Aldana_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Aldana_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -552,7 +552,7 @@
 </w.rf>
 <form>ÚV</form>
 <tag>
-<AM lemma="ÚV_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -682,7 +682,7 @@
 </w.rf>
 <form>Aldana</form>
 <tag>
-<AM lemma="Aldana_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Aldana_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -773,7 +773,7 @@
 <LM>w#w-mf920925-100-p4s4w12</LM>
 </w.rf>
 <form>Castrových</form>
-<tag lemma="Castrův_;S_^(*2o)" src="orig" selected="1">AUMP6M---------</tag>
+<tag lemma="Castrův_;Y_^(*2o)" src="orig" selected="1">AUMP6M---------</tag>
 </m>
 <m id="m-mf920925-100-p4s4w13">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 </w.rf>
 <form>England</form>
 <tag>
-<AM lemma="England_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="England_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="England-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -90,8 +90,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-038-p1s1w10">
@@ -120,8 +120,8 @@
 </w.rf>
 <form>Med</form>
 <tag>
-<AM lemma="Medicine_:B_;R_,t" src="orig">NNFSX-----A---8</AM>
-<AM lemma="Med_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Medicine_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Med_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Meda_;G_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="med" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="med" src="auto">NNIS4-----A----</AM>
@@ -311,9 +311,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9301-038-p1s1w36">
@@ -1263,7 +1263,7 @@
 <LM>w#w-vesm9301-038-p3s1w2</LM>
 </w.rf>
 <form>Schreiber</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-038-p4s1">

@@ -63,7 +63,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-013-p2s1w2">
@@ -80,7 +80,7 @@
 <LM>w#w-mf930713-013-p2s1w3</LM>
 </w.rf>
 <form>Bauer</form>
-<tag lemma="Bauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-013-p2s1w4">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-mf930713-013-p2s1w9</LM>
 </w.rf>
 <form>Weinstein</form>
-<tag lemma="Weinstein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Weinstein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-013-p2s1w10">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 </w.rf>
 <form>NG</form>
 <tag>
-<AM lemma="NG_:B_;K_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NG_:B_;m_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1180,7 +1180,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1190,7 +1190,7 @@
 <LM>w#w-mf930713-013-p4s5w12</LM>
 </w.rf>
 <form>Corbusierova</form>
-<tag lemma="Corbusierův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Corbusierův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930713-013-p4s5w13">
 <src.rf>manual</src.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-mf930713-013-p4s5w37</LM>
 </w.rf>
 <form>Vybíral</form>
-<tag lemma="Vybíral_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vybíral_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-013-p4s5w38">
 <src.rf>manual</src.rf>
@@ -1648,7 +1648,7 @@
 <LM>w#w-mf930713-013-p4s6w26</LM>
 </w.rf>
 <form>Loos</form>
-<tag lemma="Loos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-013-p4s6w27">
 <src.rf>manual</src.rf>
@@ -1672,7 +1672,7 @@
 <LM>w#w-mf930713-013-p4s6w29</LM>
 </w.rf>
 <form>Hoffmann</form>
-<tag lemma="Hoffmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hoffmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-013-p4s6w30">
 <src.rf>manual</src.rf>
@@ -1696,7 +1696,7 @@
 <LM>w#w-mf930713-013-p4s6w32</LM>
 </w.rf>
 <form>Bauer</form>
-<tag lemma="Bauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-013-p4s6w33">
 <src.rf>manual</src.rf>
@@ -1731,7 +1731,7 @@
 <LM>w#w-mf930713-013-p4s6w36</LM>
 </w.rf>
 <form>Olbrich</form>
-<tag lemma="Olbrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Olbrich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-013-p4s6w37">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-mf930713-013-p5s1w2</LM>
 </w.rf>
 <form>VOLF</form>
-<tag lemma="Volf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Volf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -59,7 +59,7 @@
 <LM>w#w-lnd94103-144-p1s1w6</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94103-144-p1s1w7">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-lnd94103-144-p1s2w3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kva-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94103-144-p1s2w4">
 <src.rf>manual</src.rf>
@@ -290,8 +290,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-144-p1s4w6">
@@ -444,7 +444,7 @@
 <LM>w#w-lnd94103-144-p1s4w24</LM>
 </w.rf>
 <form>Masarykovy</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94103-144-p1s4w25">
 <src.rf>manual</src.rf>
@@ -2251,7 +2251,7 @@
 <LM>w#w-lnd94103-144-p1s14w5</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94103-144-p1s14w6">
 <src.rf>manual</src.rf>
@@ -2391,7 +2391,7 @@
 <LM>w#w-lnd94103-144-p1s16Aw6</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94103-144-p1s16Aw7">
 <src.rf>manual</src.rf>
@@ -2538,8 +2538,8 @@
 </w.rf>
 <form>AMU</form>
 <tag>
-<AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;K_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-144-p1s16Bw7">
@@ -2710,7 +2710,7 @@
 <LM>w#w-lnd94103-144-p1s17w10</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94103-144-p1s17w11">
 <src.rf>manual</src.rf>

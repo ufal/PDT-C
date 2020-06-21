@@ -1405,10 +1405,10 @@
 <form>Novo</form>
 <tag>
 <AM lemma="Novo_;G_,t" src="orig">AANS1----1A----</AM>
-<AM lemma="Nova_;K_^(televize)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Novo_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Novo_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Novo_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Nova_;m_^(televize)" src="auto">NNFS5-----A----</AM>
+<AM lemma="Novo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Novo_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Novo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="nova" src="auto">NNFS5-----A----</AM>
 <AM lemma="novo-2_^(př._na_novo)" src="auto">NNNS4-----A----</AM>
 <AM lemma="Novo-77" src="manual" selected="1">F%-------------</AM>

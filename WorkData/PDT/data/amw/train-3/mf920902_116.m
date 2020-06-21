@@ -70,8 +70,8 @@
 </w.rf>
 <form>jh</form>
 <tag>
-<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jh-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-116-p2s1w4">
@@ -1213,7 +1213,7 @@
 <LM>w#w-mf920902-116-p3s1w9</LM>
 </w.rf>
 <form>Vlacha</form>
-<tag lemma="Vlach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vlach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-116-p3s1w10">
 <src.rf>manual</src.rf>

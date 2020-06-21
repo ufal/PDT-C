@@ -57,7 +57,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>PETRŮ</form>
-<tag lemma="Petrů_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Petrů_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94200-35-p2s1w5">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-35-p4s1w2">
@@ -553,7 +553,7 @@
 <LM>w#w-ln94200-35-p4s1w3</LM>
 </w.rf>
 <form>Petrů</form>
-<tag lemma="Petrů_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrů_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-35-p4s1w4">
 <src.rf>manual</src.rf>
@@ -594,8 +594,8 @@
 </w.rf>
 <form>ČVUT</form>
 <tag>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČVUT-1_:B_;K_^(České_vysoké_učení_technické)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČVUT-1_:B_;m_^(České_vysoké_učení_technické)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-35-p4s1w9">
@@ -1385,9 +1385,9 @@
 </w.rf>
 <form>hm</form>
 <tag>
-<AM lemma="hm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hm-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hm" src="auto" recommended="1">II-------------</AM>
-<AM lemma="hm-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hm-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-35-p5s2Bw3">
@@ -1422,7 +1422,7 @@
 <LM>w#w-ln94200-35-p5s2Cw3</LM>
 </w.rf>
 <form>Hula</form>
-<tag lemma="Hula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-35-p5s2Cw4">
 <src.rf>manual</src.rf>
@@ -1439,8 +1439,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

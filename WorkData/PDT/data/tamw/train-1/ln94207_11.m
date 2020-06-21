@@ -695,7 +695,7 @@
 <LM>w#w-ln94207-11-p4s2w8</LM>
 </w.rf>
 <form>Duhy</form>
-<tag lemma="Duha_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Duha_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-11-p4s2w9">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 </w.rf>
 <form>PNS</form>
 <tag>
-<AM lemma="PNS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PNS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="PNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

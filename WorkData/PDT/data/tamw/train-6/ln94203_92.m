@@ -65,7 +65,7 @@
 </w.rf>
 <form>Twenty</form>
 <tag>
-<AM lemma="Twenty_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Twenty_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="twenty_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Twenty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -85,7 +85,7 @@
 </w.rf>
 <form>Seven</form>
 <tag>
-<AM lemma="Seven_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Seven_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="seven_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Seven-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -171,7 +171,7 @@
 </w.rf>
 <form>Twenty</form>
 <tag>
-<AM lemma="Twenty_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Twenty_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Twenty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -190,7 +190,7 @@
 </w.rf>
 <form>Seven</form>
 <tag>
-<AM lemma="Seven_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Seven_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="Seven-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -260,7 +260,7 @@
 </w.rf>
 <form>It</form>
 <tag>
-<AM lemma="it_,t_^(angl._to)" src="orig">PPNSX--3-------</AM>
+<AM lemma="it_,t_^(angl._to)" src="orig">PPNXX--3-------</AM>
 <AM lemma="It-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -301,7 +301,7 @@
 </w.rf>
 <form>Me</form>
 <tag>
-<AM lemma="I-2_,t_^(angl._zájmeno_já)" src="auto">PP-SX--1-------</AM>
+<AM lemma="I-2_,t_^(angl._zájmeno_já)" src="auto">PP-XX--1-------</AM>
 <AM lemma="Me-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -485,7 +485,7 @@
 </w.rf>
 <form>Twenty</form>
 <tag>
-<AM lemma="Twenty_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Twenty_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="twenty_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Twenty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -505,7 +505,7 @@
 </w.rf>
 <form>Seven</form>
 <tag>
-<AM lemma="Seven_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Seven_;m_,t" src="orig">ClXXX----------</AM>
 <AM lemma="seven_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Seven-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -605,8 +605,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-92-p2s2w23">
@@ -946,7 +946,7 @@
 </w.rf>
 <form>nd</form>
 <tag>
-<AM lemma="nd_;K_,t" src="orig">CrXXX----------</AM>
+<AM lemma="nd_;m_,t" src="orig">CrXXX----------</AM>
 <AM lemma="nd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -957,7 +957,7 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1024,8 +1024,8 @@
 </w.rf>
 <form>Technoboys</form>
 <tag>
-<AM lemma="Technoboy_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Technoboys_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Technoboy_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Technoboys_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Technoboys-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1052,7 +1052,7 @@
 </w.rf>
 <form>Amigos</form>
 <tag>
-<AM lemma="Amigo_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Amigo_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Amigos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1080,7 +1080,7 @@
 <LM>w#w-ln94203-92-p2s4w2</LM>
 </w.rf>
 <form>tse</form>
-<tag lemma="tse-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="tse-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-92-p2s4w3">
 <src.rf>manual</src.rf>

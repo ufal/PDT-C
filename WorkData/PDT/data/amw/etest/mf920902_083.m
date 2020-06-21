@@ -30,7 +30,7 @@
 <LM>w#w-mf920902-083-p1s1w2</LM>
 </w.rf>
 <form>Grijse</form>
-<tag lemma="Grijse_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grijse_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-083-p1s1w3">
 <src.rf>manual</src.rf>
@@ -161,9 +161,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-083-p2s1w12">
@@ -201,7 +201,7 @@
 <LM>w#w-mf920902-083-p2s2w3</LM>
 </w.rf>
 <form>Grijse</form>
-<tag lemma="Grijse_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grijse_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-083-p2s2w4">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-mf920902-083-p2s2w5</LM>
 </w.rf>
 <form>Anderlecht</form>
-<tag lemma="Anderlecht_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Anderlecht_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-083-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-mf920902-083-p2s10Bw6</LM>
 </w.rf>
 <form>Thyse</form>
-<tag lemma="Thys_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Thys_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-083-p2s10Bw7">
 <src.rf>manual</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-mf920902-083-p2s10Bw17</LM>
 </w.rf>
 <form>Himstem</form>
-<tag lemma="Himst_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Himst_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-083-p2s10Bw18">
 <src.rf>manual</src.rf>
@@ -1749,9 +1749,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-083-p2s12Bw15">
@@ -2136,7 +2136,7 @@
 <LM>w#w-mf920902-083-p2s15Bw8</LM>
 </w.rf>
 <form>Gerets</form>
-<tag lemma="Gerets_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gerets_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-083-p2s15Bw9">
 <src.rf>manual</src.rf>
@@ -2152,7 +2152,7 @@
 <LM>w#w-mf920902-083-p2s15Bw10</LM>
 </w.rf>
 <form>Ceulemans</form>
-<tag lemma="Ceulemans_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ceulemans_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-083-p2s15Bw11">
 <src.rf>manual</src.rf>
@@ -2887,7 +2887,7 @@
 <LM>w#w-mf920902-083-p2s20Bw6</LM>
 </w.rf>
 <form>Grijse</form>
-<tag lemma="Grijse_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grijse_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-083-p2s20Bw7">
 <src.rf>manual</src.rf>
@@ -3017,7 +3017,7 @@
 <LM>w#w-mf920902-083-p2s20Cw12</LM>
 </w.rf>
 <form>Skuhravého</form>
-<tag lemma="Skuhravý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Skuhravý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-083-p2s20Cw13">
 <src.rf>manual</src.rf>
@@ -3689,7 +3689,7 @@
 <form>Albert</form>
 <tag>
 <AM lemma="Albert-1_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Albert-1_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Albert-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-083-p2s26w13">

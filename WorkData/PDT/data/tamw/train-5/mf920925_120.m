@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-120-p1s1w3</LM>
 </w.rf>
 <form>Pelé</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p1s1w4">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-mf920925-120-p2s2w3</LM>
 </w.rf>
 <form>Color</form>
-<tag lemma="Color-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Color-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1274,7 +1274,7 @@
 <LM>w#w-mf920925-120-p6s1w5</LM>
 </w.rf>
 <form>Pelé</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p6s1w6">
 <src.rf>manual</src.rf>
@@ -3113,7 +3113,7 @@
 <LM>w#w-mf920925-120-p12s1w5</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p12s1w6">
 <src.rf>manual</src.rf>
@@ -3316,7 +3316,7 @@
 <LM>w#w-mf920925-120-p13s1w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p13s1w3">
 <src.rf>manual</src.rf>
@@ -3807,7 +3807,7 @@
 <LM>w#w-mf920925-120-p14s1w4</LM>
 </w.rf>
 <form>Arantes</form>
-<tag lemma="Arantes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arantes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p14s1w5">
 <src.rf>manual</src.rf>
@@ -3828,7 +3828,7 @@
 <LM>w#w-mf920925-120-p14s1w6</LM>
 </w.rf>
 <form>Nascimento</form>
-<tag lemma="Nascimento_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nascimento_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p14s1w7">
 <src.rf>manual</src.rf>
@@ -3884,7 +3884,7 @@
 <LM>w#w-mf920925-120-p14s1w13</LM>
 </w.rf>
 <form>Pelého</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920925-120-p14s1w14">
 <src.rf>manual</src.rf>
@@ -4119,7 +4119,7 @@
 <LM>w#w-mf920925-120-p14s3w11</LM>
 </w.rf>
 <form>Pelém</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-120-p14s3w12">
 <src.rf>manual</src.rf>
@@ -4169,7 +4169,7 @@
 <LM>w#w-mf920925-120-p15s1w5</LM>
 </w.rf>
 <form>Pelém</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-120-p15s1w6">
 <src.rf>manual</src.rf>
@@ -4269,7 +4269,7 @@
 <LM>w#w-mf920925-120-p15s3w1</LM>
 </w.rf>
 <form>Pelé</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p15s3w2">
 <src.rf>manual</src.rf>
@@ -4301,7 +4301,7 @@
 <LM>w#w-mf920925-120-p15s3w5</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920925-120-p15s3w6">
 <src.rf>manual</src.rf>
@@ -4317,7 +4317,7 @@
 <LM>w#w-mf920925-120-p15s3w7</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cola_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p15s3w8">
 <src.rf>manual</src.rf>
@@ -4395,7 +4395,7 @@
 <LM>w#w-mf920925-120-p15s4w6</LM>
 </w.rf>
 <form>Pelé</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p15s4w7">
 <src.rf>manual</src.rf>
@@ -4562,7 +4562,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5533,7 +5533,7 @@
 <LM>w#w-mf920925-120-p20s1w7</LM>
 </w.rf>
 <form>Pelé</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p20s1w8">
 <src.rf>manual</src.rf>

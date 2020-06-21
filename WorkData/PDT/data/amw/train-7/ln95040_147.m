@@ -196,7 +196,7 @@
 <LM>w#w-ln95040-147-p3s1Bw5</LM>
 </w.rf>
 <form>Maška</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-147-p3s1Bw6">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95040-147-p3s1Bw11</LM>
 </w.rf>
 <form>Severy</form>
-<tag lemma="Severa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Severa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-147-p3s1Bw12">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -283,7 +283,7 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -775,7 +775,7 @@
 <LM>w#w-ln95040-147-p4s2w4</LM>
 </w.rf>
 <form>Doubrava</form>
-<tag lemma="Doubrava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doubrava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-147-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 <LM>w#w-ln95040-147-p5s1w17</LM>
 </w.rf>
 <form>Doubrava</form>
-<tag lemma="Doubrava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doubrava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-ln95040-147-p5s1w18</LM>
 </w.rf>
 <form>Maškův</form>
-<tag lemma="Maškův_;S_^(*3ek)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Maškův_;Y_^(*3ek)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95040-147-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-ln95040-147-p5s1w20</LM>
 </w.rf>
 <form>Severův</form>
-<tag lemma="Severův_;S_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Severův_;Y_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95040-147-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1279,7 +1279,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1534,7 +1534,7 @@
 <LM>w#w-ln95040-147-p5s4w20</LM>
 </w.rf>
 <form>Doubrava</form>
-<tag lemma="Doubrava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doubrava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s4w21">
 <src.rf>manual</src.rf>
@@ -1560,7 +1560,7 @@
 <LM>w#w-ln95040-147-p5s5w2</LM>
 </w.rf>
 <form>Mašek</form>
-<tag lemma="Mašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s5w3">
 <src.rf>manual</src.rf>

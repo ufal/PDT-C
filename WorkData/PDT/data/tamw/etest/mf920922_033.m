@@ -202,7 +202,7 @@
 </w.rf>
 <form>ZD</form>
 <tag>
-<AM lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ZD_:B_;m_^(zemědělské_družstvo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ZD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -392,8 +392,8 @@
 </w.rf>
 <form>Monet</form>
 <tag>
-<AM lemma="Monet_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Monet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Monet_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Monet-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-033-p11s1w2">

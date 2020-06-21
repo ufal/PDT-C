@@ -69,7 +69,7 @@
 <LM>w#w-lnd92258-125-p2s1w3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ber-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-125-p2s1w4">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-lnd92258-125-p2s2w2</LM>
 </w.rf>
 <form>Čekan</form>
-<tag lemma="Čekan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čekan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-125-p2s2w3">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-lnd92258-125-p2s2w6</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-125-p2s2w7">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 </w.rf>
 <form>ČMFL</form>
 <tag>
-<AM lemma="ČMFL_:B_;K_;w_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ČMFL_:B_;m_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČMFL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -571,7 +571,7 @@
 <LM>w#w-lnd92258-125-p2s5w2</LM>
 </w.rf>
 <form>Čekan</form>
-<tag lemma="Čekan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čekan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-125-p2s5w3">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-lnd92258-125-p2s6w29</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-125-p2s6w30">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <form>Starým</form>
 <tag>
 <AM lemma="starý-1_^(manžel)" src="orig">NNMS7-----A----</AM>
-<AM lemma="Starý_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Starý_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-125-p2s7w8">
@@ -1250,7 +1250,7 @@
 <form>Starým</form>
 <tag>
 <AM lemma="starý-1_^(manžel)" src="orig">NNMS7-----A----</AM>
-<AM lemma="Starý_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Starý_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-125-p2s9w15">
@@ -1512,7 +1512,7 @@
 <form>Starým</form>
 <tag>
 <AM lemma="starý-1_^(manžel)" src="orig">NNMS7-----A----</AM>
-<AM lemma="Starý_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Starý_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-125-p2s10w31">

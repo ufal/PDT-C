@@ -90,7 +90,7 @@
 <LM>w#w-mf920901-035-p2s2w5</LM>
 </w.rf>
 <form>Béresovy</form>
-<tag lemma="Béresův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Béresův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-mf920901-035-p2s2w6">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-mf920901-035-p2s3w8</LM>
 </w.rf>
 <form>Kříž</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-035-p2s3w9">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-mf920901-035-p2s4w11</LM>
 </w.rf>
 <form>Béresových</form>
-<tag lemma="Béresův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Béresův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-mf920901-035-p2s4w12">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-035-p2s5w10">
@@ -506,7 +506,7 @@
 <LM>w#w-mf920901-035-p2s5w11</LM>
 </w.rf>
 <form>Kříže</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-035-p2s5w12">
 <src.rf>manual</src.rf>

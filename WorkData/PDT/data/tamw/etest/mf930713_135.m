@@ -61,7 +61,7 @@
 <LM>w#w-mf930713-135-p2s1Aw3</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jh-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-135-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-mf930713-135-p2s2w34</LM>
 </w.rf>
 <form>Spring</form>
-<tag lemma="Spring_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Spring_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-135-p2s2w35">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-29-p1s1w1</LM>
 </w.rf>
 <form>Ghálí</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-29-p1s1w2">
 <src.rf>manual</src.rf>
@@ -110,8 +110,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-29-p2s1Bw4">
@@ -120,7 +120,7 @@
 <LM>w#w-ln94204-29-p2s1Bw4</LM>
 </w.rf>
 <form>Butrus</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Butrus_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-29-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-ln94204-29-p2s1Bw5</LM>
 </w.rf>
 <form>Butrus</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Butrus_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-29-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-ln94204-29-p2s1Bw7</LM>
 </w.rf>
 <form>Ghálí</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-29-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -305,8 +305,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-29-p2s1Bw28">
@@ -416,7 +416,7 @@
 <LM>w#w-ln94204-29-p2s2w1</LM>
 </w.rf>
 <form>Ghálí</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-29-p2s2w2">
 <src.rf>manual</src.rf>
@@ -726,8 +726,8 @@
 </w.rf>
 <form>Strobe</form>
 <tag>
-<AM lemma="Strobe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-29-p2s3w20">
@@ -736,7 +736,7 @@
 <LM>w#w-ln94204-29-p2s3w20</LM>
 </w.rf>
 <form>Talbott</form>
-<tag lemma="Talbott_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talbott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-29-p2s3w21">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-ln94204-29-p2s3w27</LM>
 </w.rf>
 <form>Deutch</form>
-<tag lemma="Deutch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Deutch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-29-p2s3w28">
 <src.rf>manual</src.rf>

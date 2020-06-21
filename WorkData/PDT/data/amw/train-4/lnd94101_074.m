@@ -35,7 +35,7 @@
 <LM>w#w-lnd94101-074-p1s1Aw3</LM>
 </w.rf>
 <form>Foll</form>
-<tag lemma="Foll_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foll_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-074-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-lnd94101-074-p1s2w9</LM>
 </w.rf>
 <form>Ráže</form>
-<tag lemma="Ráž_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ráž_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-074-p1s2w10">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-lnd94101-074-p1s4w17</LM>
 </w.rf>
 <form>Henke</form>
-<tag lemma="Henke_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Henke_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-074-p1s4w18">
 <src.rf>manual</src.rf>
@@ -1283,7 +1283,7 @@
 <LM>w#w-lnd94101-074-p1s7w16</LM>
 </w.rf>
 <form>Medvecká</form>
-<tag lemma="Medvecká_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Medvecká_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-074-p1s7w17">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-lnd94101-074-p1s8w7</LM>
 </w.rf>
 <form>Cupák</form>
-<tag lemma="Cupák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cupák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-074-p1s8w8">
 <src.rf>manual</src.rf>
@@ -1473,7 +1473,7 @@
 <LM>w#w-lnd94101-074-p1s8w16</LM>
 </w.rf>
 <form>Hlaváčová</form>
-<tag lemma="Hlaváčová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hlaváčová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-074-p1s8w17">
 <src.rf>manual</src.rf>
@@ -2529,7 +2529,7 @@
 <LM>w#w-lnd94101-074-p1s12w4</LM>
 </w.rf>
 <form>Formana</form>
-<tag lemma="Forman-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Forman-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-074-p1s12w5">
 <src.rf>manual</src.rf>
@@ -2545,7 +2545,7 @@
 <LM>w#w-lnd94101-074-p1s12w6</LM>
 </w.rf>
 <form>Páralův</form>
-<tag lemma="Páralův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Páralův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd94101-074-p1s12w7">
 <src.rf>manual</src.rf>

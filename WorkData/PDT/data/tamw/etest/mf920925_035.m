@@ -78,8 +78,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-035-p2s1w5">
@@ -455,8 +455,8 @@
 </w.rf>
 <form>Čéčova</form>
 <tag>
-<AM lemma="Čéčov_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Čéčova_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Čéčov_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Čéčova_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-035-p2s4w10">

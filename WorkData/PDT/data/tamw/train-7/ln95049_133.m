@@ -3211,7 +3211,7 @@
 <LM>w#w-ln95049-133-p6s6w2</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-133-p6s6w3">
 <src.rf>manual</src.rf>

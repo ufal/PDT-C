@@ -221,7 +221,7 @@
 <LM>w#w-ln95046-076-p2s2w8</LM>
 </w.rf>
 <form>Falbra</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-076-p2s2w9">
 <src.rf>manual</src.rf>
@@ -2193,8 +2193,8 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-076-p3s4w3">
@@ -2212,8 +2212,8 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-076-p3s4w5">
@@ -2454,7 +2454,7 @@
 <LM>w#w-ln95046-076-p3s6w2</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-076-p3s6w3">
 <src.rf>manual</src.rf>
@@ -2511,8 +2511,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-076-p3s6w10">
@@ -2555,7 +2555,7 @@
 <LM>w#w-ln95046-076-p3s7w4</LM>
 </w.rf>
 <form>Falbrovi</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95046-076-p3s7w5">
 <src.rf>manual</src.rf>
@@ -3279,7 +3279,7 @@
 <LM>w#w-ln95046-076-p4s4w2</LM>
 </w.rf>
 <form>Falbr</form>
-<tag lemma="Falbr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falbr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-076-p4s4w3">
 <src.rf>manual</src.rf>
@@ -3335,7 +3335,7 @@
 <LM>w#w-ln95046-076-p4s4w9</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-076-p4s4w10">
 <src.rf>manual</src.rf>

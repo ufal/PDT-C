@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-11-p1s1w1</LM>
 </w.rf>
 <form>Lockheed</form>
-<tag lemma="Lockheed_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lockheed_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-11-p1s1w2">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-ln94204-11-p2s1Bw7</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94204-11-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln94204-11-p2s1Bw18</LM>
 </w.rf>
 <form>Lockheed</form>
-<tag lemma="Lockheed_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lockheed_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-11-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 </w.rf>
 <form>Corp</form>
 <tag>
-<AM lemma="Corporation_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Corporation_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -273,7 +273,7 @@
 </w.rf>
 <form>Corp</form>
 <tag>
-<AM lemma="Corporation_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Corporation_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

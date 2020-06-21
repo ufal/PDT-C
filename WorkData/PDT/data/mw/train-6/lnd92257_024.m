@@ -680,7 +680,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1224,7 +1224,7 @@
 <LM>w#w-lnd92257-024-p2s7w1</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-024-p2s7w2">
 <src.rf>manual</src.rf>

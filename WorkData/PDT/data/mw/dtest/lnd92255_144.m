@@ -75,7 +75,7 @@
 <LM>w#w-lnd92255-144-p1s1w8</LM>
 </w.rf>
 <form>Kische</form>
-<tag lemma="Kisch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kisch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-144-p1s1w9">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 </w.rf>
 <form>Der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -249,7 +249,7 @@
 </w.rf>
 <form>Spiegel</form>
 <tag>
-<AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Spiegel-1_;m_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Spiegel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -276,8 +276,8 @@
 </w.rf>
 <form>Gruner</form>
 <tag>
-<AM lemma="Gruner_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Gruner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gruner_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gruner_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gruner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -296,8 +296,8 @@
 </w.rf>
 <form>Jahr</form>
 <tag>
-<AM lemma="Jahr_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jahr_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jahr_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Jahr_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jahr-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -348,7 +348,7 @@
 </w.rf>
 <form>Stern</form>
 <tag>
-<AM lemma="Stern_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Stern_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Stern-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -408,7 +408,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-144-p1s2w31">
@@ -427,7 +427,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-144-p1s2w33">
@@ -444,7 +444,7 @@
 <LM>w#w-lnd92255-144-p1s2w34</LM>
 </w.rf>
 <form>Kische</form>
-<tag lemma="Kisch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kisch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-144-p1s2w35">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-lnd92255-144-p1s3w8</LM>
 </w.rf>
 <form>Goldstücker</form>
-<tag lemma="Goldstücker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goldstücker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-144-p1s3w9">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-lnd92255-144-p2s1w3</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-144-p2s1w4">
 <src.rf>manual</src.rf>
@@ -576,8 +576,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

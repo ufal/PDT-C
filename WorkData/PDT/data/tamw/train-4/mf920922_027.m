@@ -353,7 +353,7 @@
 <form>Pavel</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-027-p2s2w23">
@@ -362,7 +362,7 @@
 <LM>w#w-mf920922-027-p2s2w23</LM>
 </w.rf>
 <form>Pobříslo</form>
-<tag lemma="Pobříslo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pobříslo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-027-p2s2w24">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-027-p2s4w6">
@@ -636,7 +636,7 @@
 <LM>w#w-mf920922-027-p2s4w7</LM>
 </w.rf>
 <form>Pobřísla</form>
-<tag lemma="Pobříslo_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pobříslo_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920922-027-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1812,7 +1812,7 @@
 <LM>w#w-mf920922-027-p3s1Bw10</LM>
 </w.rf>
 <form>Nekolný</form>
-<tag lemma="Nekolný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekolný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-027-p3s1Bw11">
 <src.rf>manual</src.rf>
@@ -1845,8 +1845,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-027-p3s1Bw15">
@@ -2519,7 +2519,7 @@
 </w.rf>
 <form>MK</form>
 <tag>
-<AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MK-1_:B_;m_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

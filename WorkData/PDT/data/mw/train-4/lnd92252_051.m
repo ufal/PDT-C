@@ -627,7 +627,7 @@
 <LM>w#w-lnd92252-051-p3s4w2</LM>
 </w.rf>
 <form>Sokurovových</form>
-<tag lemma="Sokurovův_;S_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Sokurovův_;Y_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-lnd92252-051-p3s4w3">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-lnd92252-051-p3s4w16</LM>
 </w.rf>
 <form>Lopušanského</form>
-<tag lemma="Lopušanský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lopušanský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-051-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-lnd92252-051-p3s6w4</LM>
 </w.rf>
 <form>Lopušanského</form>
-<tag lemma="Lopušanský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lopušanský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-051-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-lnd92252-051-p4s1w2</LM>
 </w.rf>
 <form>gk</form>
-<tag lemma="gk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="gk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92252-051-p4s1w3">
 <src.rf>manual</src.rf>

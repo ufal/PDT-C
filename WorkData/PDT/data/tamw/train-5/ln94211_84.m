@@ -202,7 +202,7 @@
 <LM>w#w-ln94211-84-p2s1Bw17</LM>
 </w.rf>
 <form>Cillerová</form>
-<tag lemma="Cillerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cillerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-84-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln94211-84-p2s3w21</LM>
 </w.rf>
 <form>Cillerové</form>
-<tag lemma="Cillerová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Cillerová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-84-p2s3w22">
 <src.rf>manual</src.rf>

@@ -686,7 +686,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-114-p2s3w5">
@@ -1023,7 +1023,7 @@
 </w.rf>
 <form>Der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1034,7 +1034,7 @@
 </w.rf>
 <form>Tagesspiegel</form>
 <tag>
-<AM lemma="Tagesspiegel_;R_,t_^(př._něm._noviny)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tagesspiegel_;m_,t_^(př._něm._noviny)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Tagesspiegel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1346,7 +1346,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-114-p4s3w11">
@@ -1933,7 +1933,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1954,7 +1954,7 @@
 </w.rf>
 <form>Berliner</form>
 <tag>
-<AM lemma="Berliner_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Berliner_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Berliner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1965,9 +1965,9 @@
 </w.rf>
 <form>Morgenpost</form>
 <tag>
-<AM lemma="Morgenpost_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Morgenpost_;R_,t_^(Prager_Morgenpost,_noviny)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Morgenpost_;R_,t_^(Prager_Morgenpost,_noviny)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Morgenpost_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Morgenpost_;m_,t_^(Prager_Morgenpost,_noviny)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Morgenpost_;m_,t_^(Prager_Morgenpost,_noviny)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Morgenpost-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2294,7 +2294,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2492,7 +2492,7 @@
 <LM>w#w-mf920923-114-p6s4w7</LM>
 </w.rf>
 <form>Mitterrandovo</form>
-<tag lemma="Mitterrandův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Mitterrandův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf920923-114-p6s4w8">
 <src.rf>manual</src.rf>
@@ -2961,9 +2961,9 @@
 </w.rf>
 <form>Handelsblatt</form>
 <tag>
-<AM lemma="Handelsblatt_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Handelsblatt_;R_^(časopis)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Handelsblatt_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Handelsblatt_;m_^(časopis)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Handelsblatt_;m_^(časopis)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Handelsblatt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

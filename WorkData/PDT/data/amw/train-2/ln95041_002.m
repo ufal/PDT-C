@@ -4962,7 +4962,7 @@
 <form>favorita</form>
 <tag>
 <AM lemma="favorit-2" src="orig">NNMS4-----A----</AM>
-<AM lemma="favorit-1_;R_^(vozidlo)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="favorit-1_;m_^(vozidlo)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-002-p8s4w16">

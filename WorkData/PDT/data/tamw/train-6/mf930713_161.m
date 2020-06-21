@@ -183,7 +183,7 @@
 <LM>w#w-mf930713-161-p2s1Bw8</LM>
 </w.rf>
 <form>Kose</form>
-<tag lemma="Kos-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kos-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf930713-161-p2s1Bw15</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-mf930713-161-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 </w.rf>
 <form>Music</form>
 <tag>
-<AM lemma="Music_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Music_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="music_,t_^(př._pop_music)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Music-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -616,7 +616,7 @@
 <LM>w#w-mf930713-161-p2s2w36</LM>
 </w.rf>
 <form>Ondruch</form>
-<tag lemma="Ondruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s2w37">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-mf930713-161-p2s3w10</LM>
 </w.rf>
 <form>Kose</form>
-<tag lemma="Kos-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kos-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s3w11">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-mf930713-161-p2s5w3</LM>
 </w.rf>
 <form>Kos</form>
-<tag lemma="Kos-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kos-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s5w4">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-mf930713-161-p2s5w11</LM>
 </w.rf>
 <form>Ondruch</form>
-<tag lemma="Ondruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1472,7 +1472,7 @@
 <LM>w#w-mf930713-161-p2s8w2</LM>
 </w.rf>
 <form>Ondruch</form>
-<tag lemma="Ondruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s8w3">
 <src.rf>manual</src.rf>
@@ -2078,7 +2078,7 @@
 <LM>w#w-mf930713-161-p2s14w3</LM>
 </w.rf>
 <form>Ondrucha</form>
-<tag lemma="Ondruch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ondruch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s14w4">
 <src.rf>manual</src.rf>
@@ -2356,10 +2356,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -2541,7 +2541,7 @@
 <LM>w#w-mf930713-161-p2s18w2</LM>
 </w.rf>
 <form>Kos</form>
-<tag lemma="Kos-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kos-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s18w3">
 <src.rf>manual</src.rf>
@@ -2730,7 +2730,7 @@
 <LM>w#w-mf930713-161-p2s20w10</LM>
 </w.rf>
 <form>Ondruch</form>
-<tag lemma="Ondruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s20w11">
 <src.rf>manual</src.rf>
@@ -2860,7 +2860,7 @@
 <LM>w#w-mf930713-161-p2s21w15</LM>
 </w.rf>
 <form>Kos</form>
-<tag lemma="Kos-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kos-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-161-p2s21w16">
 <src.rf>manual</src.rf>

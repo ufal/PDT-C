@@ -335,7 +335,7 @@
 <LM>w#w-ln95046-086-p2s1Bw30</LM>
 </w.rf>
 <form>Koháček</form>
-<tag lemma="Koháček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koháček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95046-086-p2s1Bw33</LM>
 </w.rf>
 <form>Payne</form>
-<tag lemma="Payne_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Payne_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -384,8 +384,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-086-p2s1Bw37">
@@ -796,7 +796,7 @@
 <LM>w#w-ln95046-086-p3s2w2</LM>
 </w.rf>
 <form>Skočovský</form>
-<tag lemma="Skočovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skočovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p3s2w3">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 </w.rf>
 <form>ČMUS</form>
 <tag>
-<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS_:B_;m_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1017,7 +1017,7 @@
 <LM>w#w-ln95046-086-p3s3w2</LM>
 </w.rf>
 <form>Koháček</form>
-<tag lemma="Koháček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koháček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-ln95046-086-p3s4w8</LM>
 </w.rf>
 <form>Koháček</form>
-<tag lemma="Koháček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koháček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-ln95046-086-p3s5w27</LM>
 </w.rf>
 <form>Pěnička</form>
-<tag lemma="Pěnička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pěnička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p3s5w28">
 <src.rf>manual</src.rf>
@@ -1761,8 +1761,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-086-p3s5w30">
@@ -2015,7 +2015,7 @@
 <LM>w#w-ln95046-086-p4s1w12</LM>
 </w.rf>
 <form>Jegly</form>
-<tag lemma="Jegla_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jegla_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-086-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2039,7 +2039,7 @@
 <LM>w#w-ln95046-086-p4s1w15</LM>
 </w.rf>
 <form>Štembery</form>
-<tag lemma="Štembera_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Štembera_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-086-p4s1w16">
 <src.rf>manual</src.rf>
@@ -2064,7 +2064,7 @@
 </w.rf>
 <form>ČMUS</form>
 <tag>
-<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS_:B_;m_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

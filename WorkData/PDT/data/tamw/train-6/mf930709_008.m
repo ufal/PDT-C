@@ -19,7 +19,7 @@
 <LM>w#w-mf930709-008-p1s1w1</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-008-p1s1w2">
 <src.rf>manual</src.rf>
@@ -129,9 +129,9 @@
 </w.rf>
 <form>km</form>
 <tag>
-<AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="km-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="km-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-008-p2s1Aw4">
@@ -149,8 +149,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="čtk_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="čtk_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-008-p2s1Aw6">
@@ -323,7 +323,7 @@
 <LM>w#w-mf930709-008-p2s2w4</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-008-p2s2w5">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-mf930709-008-p3s1w1</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-008-p3s1w2">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-mf930709-008-p3s3w22</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-008-p3s3w23">
 <src.rf>manual</src.rf>
@@ -1256,7 +1256,7 @@
 <LM>w#w-mf930709-008-p4s2w7</LM>
 </w.rf>
 <form>Pešek</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-008-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1521,7 +1521,7 @@
 <form>Ivica</form>
 <tag>
 <AM lemma="Ivica_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Ivica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ivica_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ivica-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1532,7 +1532,7 @@
 </w.rf>
 <form>Brestovanská</form>
 <tag>
-<AM lemma="Brestovanská_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Brestovanská_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="brestovanský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="brestovanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="brestovanský" src="auto">AANP1----1A----</AM>

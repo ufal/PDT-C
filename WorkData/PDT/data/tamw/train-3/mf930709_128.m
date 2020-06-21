@@ -55,7 +55,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-128-p2s1w4">
@@ -72,7 +72,7 @@
 <LM>w#w-mf930709-128-p2s1w5</LM>
 </w.rf>
 <form>Finna</form>
-<tag lemma="Finn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Finn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-128-p2s1w6">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-mf930709-128-p4s1w2</LM>
 </w.rf>
 <form>Superchannel</form>
-<tag lemma="Superchannel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Superchannel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-128-p4s1w3">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-mf930709-128-p4s1w8</LM>
 </w.rf>
 <form>Superchannel</form>
-<tag lemma="Superchannel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Superchannel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-128-p4s1w9">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-mf930709-128-p4s1w14</LM>
 </w.rf>
 <form>Calimero</form>
-<tag lemma="Calimero_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Calimero_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-128-p4s1w15">
 <src.rf>manual</src.rf>

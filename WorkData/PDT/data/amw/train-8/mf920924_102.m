@@ -43,7 +43,7 @@
 <LM>w#w-mf920924-102-p2s1w4</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-102-p2s1w5">
 <src.rf>manual</src.rf>
@@ -254,13 +254,13 @@
 </w.rf>
 <form>Jankový</form>
 <tag>
-<AM lemma="Jankový_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Janková_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Janková_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Janková_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Janková_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Janková_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Janková_;S" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Jankový_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Janková_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Janková_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Janková_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Janková_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Janková_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Janková_;Y" src="auto">NNFS6-----A---6</AM>
 <AM lemma="jankový" src="auto">AAFP1----1A---6</AM>
 <AM lemma="jankový" src="auto">AAFP4----1A---6</AM>
 <AM lemma="jankový" src="auto">AAFP5----1A---6</AM>
@@ -300,7 +300,7 @@
 <LM>w#w-mf920924-102-p2s2w14</LM>
 </w.rf>
 <form>Chadim</form>
-<tag lemma="Chadim_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chadim_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-102-p2s2w15">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-mf920924-102-p2s2w17</LM>
 </w.rf>
 <form>Vavrečkou</form>
-<tag lemma="Vavrečka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Vavrečka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920924-102-p2s2w18">
 <src.rf>manual</src.rf>
@@ -380,8 +380,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Zetor_;R_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-102-p6s1w2">

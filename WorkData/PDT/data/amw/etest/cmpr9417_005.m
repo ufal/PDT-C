@@ -1640,8 +1640,8 @@
 </w.rf>
 <form>RVHP</form>
 <tag>
-<AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-1_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="RVHP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3734,7 +3734,7 @@
 <form>Spolana</form>
 <tag>
 <AM lemma="Spolana" src="orig">NNFS1-----A----</AM>
-<AM lemma="Spolana_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Spolana_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w10">
@@ -3759,7 +3759,7 @@
 <LM>w#w-cmpr9417-005-p11s2w12</LM>
 </w.rf>
 <form>Fosfa</form>
-<tag lemma="Fosfa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fosfa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w13">
 <src.rf>manual</src.rf>
@@ -3783,7 +3783,7 @@
 <LM>w#w-cmpr9417-005-p11s2w15</LM>
 </w.rf>
 <form>Lovochemie</form>
-<tag lemma="Lovochemie_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lovochemie_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w16">
 <src.rf>manual</src.rf>
@@ -3807,7 +3807,7 @@
 <LM>w#w-cmpr9417-005-p11s2w18</LM>
 </w.rf>
 <form>Synthesia</form>
-<tag lemma="Synthesia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Synthesia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w19">
 <src.rf>manual</src.rf>
@@ -3967,7 +3967,7 @@
 <LM>w#w-cmpr9417-005-p11s2w38</LM>
 </w.rf>
 <form>Precheza</form>
-<tag lemma="Precheza_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Precheza_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w39">
 <src.rf>manual</src.rf>
@@ -3991,7 +3991,7 @@
 <LM>w#w-cmpr9417-005-p11s2w41</LM>
 </w.rf>
 <form>Colorlak</form>
-<tag lemma="Colorlak_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Colorlak_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w42">
 <src.rf>manual</src.rf>
@@ -5654,7 +5654,7 @@
 <tag>
 <AM lemma="GMP_:B_,t_^(certifikát_správné_výrobní_praxe)" src="orig">NNXXX-----A----</AM>
 <AM lemma="GMP-1_:B_,t_^(gouverneur_militaire_de_Paris)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="guanosinmonofosfát_:B_;H" src="auto">NNIXX-----A---8</AM>
+<AM lemma="guanosinmonofosfát_:B_;U" src="auto">NNIXX-----A---8</AM>
 <AM lemma="GMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6900,7 +6900,7 @@
 <LM>w#w-cmpr9417-005-p16s5w12</LM>
 </w.rf>
 <form>Tonasa</form>
-<tag lemma="Tonaso_;K" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Tonaso_;m" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p16s5w13">
 <src.rf>manual</src.rf>
@@ -6958,7 +6958,7 @@
 <LM>w#w-cmpr9417-005-p17s1w2</LM>
 </w.rf>
 <form>Haaszová</form>
-<tag lemma="Haaszová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Haaszová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p17s1w3">
 <src.rf>manual</src.rf>
@@ -6984,7 +6984,7 @@
 <LM>w#w-cmpr9417-005-p18s1w2</LM>
 </w.rf>
 <form>Mráček</form>
-<tag lemma="Mráček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mráček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-005-p19s1">

@@ -1295,7 +1295,7 @@
 <LM>w#w-vesm9303-015-p2s6w22</LM>
 </w.rf>
 <form>vranka</form>
-<tag lemma="vranka-2_;L_^(ryba_Cottus)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vranka-2_;U_^(ryba_Cottus)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w23">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-vesm9303-015-p3s2w16</LM>
 </w.rf>
 <form>vranky</form>
-<tag lemma="vranka-2_;L_^(ryba_Cottus)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="vranka-2_;U_^(ryba_Cottus)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p3s2w17">
 <src.rf>manual</src.rf>
@@ -2076,7 +2076,7 @@
 <LM>w#w-vesm9303-015-p4s1w2</LM>
 </w.rf>
 <form>LORENZ</form>
-<tag lemma="Lorenz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lorenz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2108,7 +2108,7 @@
 <LM>w#w-vesm9303-015-p4s1w6</LM>
 </w.rf>
 <form>Mündla</form>
-<tag lemma="Mündl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mündl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p4s1w7">
 <src.rf>manual</src.rf>
@@ -2167,7 +2167,7 @@
 <LM>w#w-vesm9303-015-p4s1w13</LM>
 </w.rf>
 <form>Lorenzem</form>
-<tag lemma="Lorenz_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lorenz_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p4s1w14">
 <src.rf>manual</src.rf>

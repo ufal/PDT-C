@@ -62,10 +62,10 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
-<AM lemma="mas-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mas-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-005-p1s1Bw4">
@@ -230,7 +230,7 @@
 <form>Breda</form>
 <tag>
 <AM lemma="Breda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Breda_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Breda_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-005-p1s1Cw19">
@@ -977,7 +977,7 @@
 </w.rf>
 <form>DPMO</form>
 <tag>
-<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-1_:B_;m_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="DPMO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -995,7 +995,7 @@
 <LM>w#w-mf920902-005-p1s7w18</LM>
 </w.rf>
 <form>Pavelek</form>
-<tag lemma="Pavelek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavelek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-005-p1s7w19">
 <src.rf>manual</src.rf>

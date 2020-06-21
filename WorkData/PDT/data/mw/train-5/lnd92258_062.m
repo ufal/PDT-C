@@ -386,7 +386,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -397,7 +397,7 @@
 </w.rf>
 <form>Monde</form>
 <tag>
-<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde_;m_^(Le_Monde)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -439,7 +439,7 @@
 <LM>w#w-lnd92258-062-p3s3w14</LM>
 </w.rf>
 <form>Mérieuxův</form>
-<tag lemma="Mérieuxův_;K" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Mérieuxův_;m" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92258-062-p3s3w15">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-lnd92258-062-p3s4w11</LM>
 </w.rf>
 <form>Kouchner</form>
-<tag lemma="Kouchner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kouchner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-062-p3s4w12">
 <src.rf>manual</src.rf>

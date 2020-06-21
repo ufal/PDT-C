@@ -126,7 +126,7 @@
 <LM>w#w-mf920902-076-p1s1w14</LM>
 </w.rf>
 <form>Máčala</form>
-<tag lemma="Máčala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Máčala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-076-p1s1w15">
 <src.rf>manual</src.rf>

@@ -20,7 +20,7 @@
 </w.rf>
 <form>Streetball</form>
 <tag>
-<AM lemma="streetball_;w_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="streetball_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="streetball" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -65,8 +65,8 @@
 </w.rf>
 <form>šc</form>
 <tag>
-<AM lemma="šc-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šc-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šc-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šc-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-120-p2s1Aw4">
@@ -321,9 +321,9 @@
 <form>streetballu</form>
 <tag>
 <AM lemma="streetball_,t" src="orig">NNIS6-----A----</AM>
-<AM lemma="streetball_;w_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="streetball_;w_,t" src="auto">NNIS3-----A----</AM>
-<AM lemma="streetball_;w_,t" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="streetball_,t" src="auto">NNIS2-----A----</AM>
+<AM lemma="streetball_,t" src="auto">NNIS3-----A----</AM>
+<AM lemma="streetball_,t" src="auto" recommended="1">NNIS6-----A---1</AM>
 <AM lemma="streetball" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
@@ -510,9 +510,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-120-p2s2w30">
@@ -555,7 +555,7 @@
 <LM>w#w-ln94206-120-p2s3w4</LM>
 </w.rf>
 <form>Adidas</form>
-<tag lemma="Adidas_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Adidas_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-120-p2s3w5">
 <src.rf>manual</src.rf>
@@ -596,8 +596,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-120-p2s3w10">

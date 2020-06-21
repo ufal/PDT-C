@@ -144,13 +144,13 @@
 </w.rf>
 <form>top</form>
 <tag>
-<AM lemma="top-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="top-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="top-1_,h_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="top-2" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="top-2" src="auto">NNIS4-----A----</AM>
 <AM lemma="topit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="topit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="top-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="top-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p3s1w4">
@@ -355,7 +355,7 @@
 <form>Hotelinvest</form>
 <tag>
 <AM lemma="Hotelinvest" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotelinvest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hotelinvest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p4s1w24">
@@ -388,7 +388,7 @@
 <LM>w#w-lnd91301-016-p4s1w27</LM>
 </w.rf>
 <form>Warimpex</form>
-<tag lemma="Warimpex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Warimpex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91301-016-p4s1w28">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-lnd91301-016-p4s1w29</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91301-016-p4s1w30">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p5s2Bw16">
@@ -806,7 +806,7 @@
 </w.rf>
 <form>Slaný</form>
 <tag>
-<AM lemma="Slaný_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Slaný_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Slaný-1_;G" src="auto">NNIP1-----A---6</AM>
 <AM lemma="Slaný-1_;G" src="auto">NNIP4-----A---6</AM>
 <AM lemma="Slaný-1_;G" src="auto">NNIP5-----A---6</AM>
@@ -835,7 +835,7 @@
 <AM lemma="slaný" src="auto">AANS1----1A---6</AM>
 <AM lemma="slaný" src="auto">AANS4----1A---6</AM>
 <AM lemma="slaný" src="auto">AANS5----1A---6</AM>
-<AM lemma="Slaný-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Slaný-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p5s2Bw18">
@@ -877,7 +877,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MF-2_:B_;m_^(min._financí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1301,8 +1301,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p6s1w30">
@@ -1363,7 +1363,7 @@
 <form>Hotelinvest</form>
 <tag>
 <AM lemma="Hotelinvest" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotelinvest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hotelinvest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p6s2w6">
@@ -1536,7 +1536,7 @@
 <form>Hotelinvest</form>
 <tag>
 <AM lemma="Hotelinvest" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotelinvest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hotelinvest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p6s3w16">
@@ -1697,7 +1697,7 @@
 <form>Hotelinvestu</form>
 <tag>
 <AM lemma="Hotelinvest" src="orig">NNIS3-----A----</AM>
-<AM lemma="Hotelinvest_;K" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="Hotelinvest_;m" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p6s4w6">
@@ -1854,7 +1854,7 @@
 <form>Hotelinvest</form>
 <tag>
 <AM lemma="Hotelinvest" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotelinvest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hotelinvest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p6s5w2">
@@ -2093,8 +2093,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p7s1w21">
@@ -2227,8 +2227,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p7s1w37">
@@ -2409,7 +2409,7 @@
 <form>Hotelinvestu</form>
 <tag>
 <AM lemma="Hotelinvest" src="orig">NNIS2-----A----</AM>
-<AM lemma="Hotelinvest_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Hotelinvest_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p7s2w17">
@@ -2444,7 +2444,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p7s2w21">
@@ -2461,7 +2461,7 @@
 <LM>w#w-lnd91301-016-p7s2w22</LM>
 </w.rf>
 <form>Čarnogurského</form>
-<tag lemma="Čarnogurský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čarnogurský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-016-p7s2w23">
 <src.rf>manual</src.rf>
@@ -3017,7 +3017,7 @@
 <LM>w#w-lnd91301-016-p7s6w6</LM>
 </w.rf>
 <form>Warimpex</form>
-<tag lemma="Warimpex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Warimpex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91301-016-p7s6w7">
 <src.rf>manual</src.rf>
@@ -3166,7 +3166,7 @@
 <form>Hotelinvestu</form>
 <tag>
 <AM lemma="Hotelinvest" src="orig">NNIS3-----A----</AM>
-<AM lemma="Hotelinvest_;K" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="Hotelinvest_;m" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-016-p7s6w25">
@@ -3265,7 +3265,7 @@
 <LM>w#w-lnd91301-016-p7s7w7</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91301-016-p7s7w8">
 <src.rf>manual</src.rf>

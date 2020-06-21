@@ -52,7 +52,7 @@
 <LM>w#w-ln95048-049-p1s1w5</LM>
 </w.rf>
 <form>Soukup</form>
-<tag lemma="Soukup_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soukup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-049-p1s1w6">
 <src.rf>manual</src.rf>
@@ -400,8 +400,8 @@
 </w.rf>
 <form>Arbese</form>
 <tag>
-<AM lemma="Arbes_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Arbes_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Arbes_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Arbes_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-049-p1s3w30">

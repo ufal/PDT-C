@@ -53,7 +53,7 @@
 <LM>w#w-cmpr9407-028-p3s1w1</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Warner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p3s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9407-028-p3s1w2</LM>
 </w.rf>
 <form>Lambert</form>
-<tag lemma="Lambert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lambert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-028-p4s1">
@@ -95,7 +95,7 @@
 <LM>w#w-cmpr9407-028-p4s1w4</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Warner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p4s1w5">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-cmpr9407-028-p4s1w5</LM>
 </w.rf>
 <form>Lambert</form>
-<tag lemma="Lambert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lambert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p4s1w6">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-cmpr9407-028-p4s1w15</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Warner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p4s1w16">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-cmpr9407-028-p5s1w6</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="USD_:B_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-028-p5s1w7">
 <src.rf>manual</src.rf>
@@ -788,8 +788,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-028-p5s3w6">
@@ -977,7 +977,7 @@
 <LM>w#w-cmpr9407-028-p5s4w8</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Warner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s4w9">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-cmpr9407-028-p5s4w9</LM>
 </w.rf>
 <form>Lambert</form>
-<tag lemma="Lambert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lambert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s4w10">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-cmpr9407-028-p5s5w10</LM>
 </w.rf>
 <form>Chiclets</form>
-<tag lemma="Chiclets_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Chiclets_;m_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s5w11">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-cmpr9407-028-p5s5w12</LM>
 </w.rf>
 <form>Trident</form>
-<tag lemma="Trident_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Trident_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s5w13">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 <LM>w#w-cmpr9407-028-p5s5w15</LM>
 </w.rf>
 <form>Halls</form>
-<tag lemma="Halls_;R" src="orig" selected="1">NNIPX-----A----</tag>
+<tag lemma="Halls_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s5w16">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-cmpr9407-028-p5s6w11</LM>
 </w.rf>
 <form>Schick</form>
-<tag lemma="Schick_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schick_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s6w12">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-cmpr9407-028-p5s6w13</LM>
 </w.rf>
 <form>Wilkinson</form>
-<tag lemma="Wilkinson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wilkinson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s6w14">
 <src.rf>manual</src.rf>
@@ -1592,7 +1592,7 @@
 <LM>w#w-cmpr9407-028-p6s1w29</LM>
 </w.rf>
 <form>Christopher</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p6s1w30">
 <src.rf>manual</src.rf>
@@ -1600,7 +1600,7 @@
 <LM>w#w-cmpr9407-028-p6s1w30</LM>
 </w.rf>
 <form>Taylor</form>
-<tag lemma="Taylor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Taylor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p6s1w31">
 <src.rf>manual</src.rf>
@@ -1624,7 +1624,7 @@
 <LM>w#w-cmpr9407-028-p6s1w33</LM>
 </w.rf>
 <form>Lambert</form>
-<tag lemma="Lambert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lambert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p6s1w34">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <LM>w#w-cmpr9407-028-p6s1w34</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Warner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p6s1w35">
 <src.rf>manual</src.rf>
@@ -1828,7 +1828,7 @@
 <LM>w#w-cmpr9407-028-p7s1w3</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Warner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p7s1w4">
 <src.rf>manual</src.rf>
@@ -1836,7 +1836,7 @@
 <LM>w#w-cmpr9407-028-p7s1w4</LM>
 </w.rf>
 <form>Lambert</form>
-<tag lemma="Lambert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lambert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p7s1w5">
 <src.rf>manual</src.rf>
@@ -1845,7 +1845,7 @@
 </w.rf>
 <form>Central</form>
 <tag>
-<AM lemma="Central_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Central_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Central-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

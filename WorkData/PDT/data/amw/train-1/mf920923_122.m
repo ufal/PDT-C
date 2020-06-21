@@ -707,8 +707,8 @@
 <form>Bosanski</form>
 <tag>
 <AM lemma="Bosanski_;G_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bosanský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Bosanský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Bosanský_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Bosanský_;Y" src="auto">NNMS5-----A---1</AM>
 <AM lemma="bosanský_,t" src="manual">AAXXX----1A---1</AM>
 <AM lemma="Bosanski-77" src="manual" selected="1">F%-------------</AM>
 </tag>

@@ -526,7 +526,7 @@
 <LM>w#w-cmpr9413-052-p4s4w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9413-052-p4s4w5">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-cmpr9413-052-p6s1w2</LM>
 </w.rf>
 <form>Jánoška</form>
-<tag lemma="Jánoška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jánoška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-052-p8s1">
@@ -895,7 +895,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -5445,7 +5445,7 @@
 <form>Malý</form>
 <tag>
 <AM lemma="malý" src="orig">AAMS1----1A----</AM>
-<AM lemma="Malý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Malý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-052-p23s1w9">
@@ -8459,7 +8459,7 @@
 </w.rf>
 <form>Guardian</form>
 <tag>
-<AM lemma="Guardian_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Guardian_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Guardian-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8867,7 +8867,7 @@
 </w.rf>
 <form>ÚKP</form>
 <tag>
-<AM lemma="ÚKP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚKP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

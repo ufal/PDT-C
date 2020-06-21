@@ -556,8 +556,8 @@
 </w.rf>
 <form>Abdalláhu</form>
 <tag>
-<AM lemma="Abdalláh_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Abdalláh_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Abdalláh_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Abdalláh_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-060-p1s5w9">
@@ -566,7 +566,7 @@
 <LM>w#w-lnd94101-060-p1s5w9</LM>
 </w.rf>
 <form>Sálihovi</form>
-<tag lemma="Sálih_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Sálih_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94101-060-p1s5w10">
 <src.rf>manual</src.rf>
@@ -631,8 +631,8 @@
 </w.rf>
 <form>Sálima</form>
 <tag>
-<AM lemma="Sálim_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Sálim_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Sálim_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Sálim_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-060-p1s5w18">
@@ -641,7 +641,7 @@
 <LM>w#w-lnd94101-060-p1s5w18</LM>
 </w.rf>
 <form>Bajda</form>
-<tag lemma="Bajda-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bajda-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-060-p1s5w19">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-lnd94101-060-p1s6w2</LM>
 </w.rf>
 <form>Sálih</form>
-<tag lemma="Sálih_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sálih_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-060-p1s6w3">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-ln95040-023-p2s1w2</LM>
 </w.rf>
 <form>Atkinson</form>
-<tag lemma="Atkinson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Atkinson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-023-p2s1w3">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -153,7 +153,7 @@
 </w.rf>
 <form>Villa</form>
 <tag>
-<AM lemma="Villa-1_;S_^(např._Francisco_Villa,_mexic.revolucionář)" src="orig">NNMS1-----A----</AM>
+<AM lemma="Villa-1_;Y_^(např._Francisco_Villa,_mexic.revolucionář)" src="orig">NNMS1-----A----</AM>
 <AM lemma="Villa-3_;G_^(součást_gegraf._názvů_např._Villa_Adriana)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -252,9 +252,9 @@
 <form>City</form>
 <tag>
 <AM lemma="City_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -374,7 +374,7 @@
 <LM>w#w-ln95040-023-p2s2w12</LM>
 </w.rf>
 <form>Neal</form>
-<tag lemma="Neal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-023-p2s2w13">
 <src.rf>manual</src.rf>

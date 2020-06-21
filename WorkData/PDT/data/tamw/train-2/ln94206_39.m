@@ -119,7 +119,7 @@
 <LM>w#w-ln94206-39-p2s1Bw6</LM>
 </w.rf>
 <form>Koula</form>
-<tag lemma="Koula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-39-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -408,7 +408,7 @@
 <LM>w#w-ln94206-39-p2s2w6</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-39-p2s2w7">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-ln94206-39-p2s3w8</LM>
 </w.rf>
 <form>Koula</form>
-<tag lemma="Koula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-39-p2s3w9">
 <src.rf>manual</src.rf>

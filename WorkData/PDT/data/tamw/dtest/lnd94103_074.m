@@ -79,7 +79,7 @@
 <LM>w#w-lnd94103-074-p1s1Cw2</LM>
 </w.rf>
 <form>Krčálová</form>
-<tag lemma="Krčálová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krčálová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-074-p1s1D">
@@ -225,7 +225,7 @@
 <LM>w#w-lnd94103-074-p1s1Dw18</LM>
 </w.rf>
 <form>Liazu</form>
-<tag lemma="Liaz_;K_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Liaz_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s1Dw19">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -375,7 +375,7 @@
 </w.rf>
 <form>ČZ</form>
 <tag>
-<AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="ČZ_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
 <AM lemma="ČZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -697,7 +697,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1073,7 +1073,7 @@
 <LM>w#w-lnd94103-074-p1s7w10</LM>
 </w.rf>
 <form>Raška</form>
-<tag lemma="Raška_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Raška_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s7w11">
 <src.rf>manual</src.rf>
@@ -1269,8 +1269,8 @@
 <form>LA</form>
 <tag>
 <AM lemma="LA-1_:B_;G_^(Latinská_Amerika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LA_:B_;G_;K" src="auto">NNNSX-----A---8</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFSX----1A----</AM>
+<AM lemma="LA_:B_;G_;m" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
@@ -1887,7 +1887,7 @@
 <LM>w#w-lnd94103-074-p1s12w13</LM>
 </w.rf>
 <form>Omnipol</form>
-<tag lemma="Omnipol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Omnipol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s12w14">
 <src.rf>manual</src.rf>
@@ -2009,7 +2009,7 @@
 <LM>w#w-lnd94103-074-p1s13w14</LM>
 </w.rf>
 <form>Sellier</form>
-<tag lemma="Sellier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sellier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s13w15">
 <src.rf>manual</src.rf>
@@ -2025,7 +2025,7 @@
 <LM>w#w-lnd94103-074-p1s13w16</LM>
 </w.rf>
 <form>Bellot</form>
-<tag lemma="Bellot_;K_^(Sellier_&amp;_Bellot)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bellot_;m_^(Sellier_&amp;_Bellot)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s13w17">
 <src.rf>manual</src.rf>
@@ -2447,7 +2447,7 @@
 <LM>w#w-lnd94103-074-p1s16w14</LM>
 </w.rf>
 <form>Liaz</form>
-<tag lemma="Liaz_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Liaz_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s16w15">
 <src.rf>manual</src.rf>
@@ -3013,7 +3013,7 @@
 <LM>w#w-lnd94103-074-p1s19w12</LM>
 </w.rf>
 <form>Mitop</form>
-<tag lemma="Mitop_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mitop_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s19w13">
 <src.rf>manual</src.rf>
@@ -3179,7 +3179,7 @@
 <LM>w#w-lnd94103-074-p1s21w2</LM>
 </w.rf>
 <form>Pospíšil</form>
-<tag lemma="Pospíšil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíšil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-074-p1s21w3">
 <src.rf>manual</src.rf>
@@ -3236,7 +3236,7 @@
 </w.rf>
 <form>All</form>
 <tag>
-<AM lemma="All_;K_,t" src="orig">PLXXX----------</AM>
+<AM lemma="All_;m_,t" src="orig">PLXXX----------</AM>
 <AM lemma="All-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3255,7 +3255,7 @@
 </w.rf>
 <form>Impex</form>
 <tag>
-<AM lemma="Impex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Impex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Impex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3386,7 +3386,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -3445,7 +3445,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

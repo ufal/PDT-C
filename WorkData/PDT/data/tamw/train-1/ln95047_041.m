@@ -69,7 +69,7 @@
 <LM>w#w-ln95047-041-p2s1w6</LM>
 </w.rf>
 <form>Shöenfelt</form>
-<tag lemma="Shöenfelt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shöenfelt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-041-p2s1w7">
 <src.rf>manual</src.rf>
@@ -174,14 +174,14 @@
 </w.rf>
 <form>Roxy</form>
 <tag>
-<AM lemma="Roxy_;K" src="orig">NNNXX-----A----</AM>
+<AM lemma="Roxy_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Roxa_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Roxa_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Roxa_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Roxy-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Roxy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-041-p2s1w20">
@@ -259,7 +259,7 @@
 </w.rf>
 <form>Wide</form>
 <tag>
-<AM lemma="Wide_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Wide_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Wide-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -281,12 +281,12 @@
 </w.rf>
 <form>Cage</form>
 <tag>
-<AM lemma="Cage-2_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Cage_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cage_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cage_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cage_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cage_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Cage-2_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Cage_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cage_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cage_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cage_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Cage_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Cage-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -443,7 +443,7 @@
 </w.rf>
 <form>Ambivalency</form>
 <tag>
-<AM lemma="Ambivalency_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Ambivalency_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ambivalency-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

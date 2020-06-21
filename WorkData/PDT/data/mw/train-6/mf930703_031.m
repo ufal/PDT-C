@@ -70,9 +70,9 @@
 </w.rf>
 <form>vl</form>
 <tag>
-<AM lemma="vl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vládní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="vl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-031-p2s1w4">

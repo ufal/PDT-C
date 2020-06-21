@@ -93,7 +93,7 @@
 <LM>w#w-ln94204-160-p2s1Aw2</LM>
 </w.rf>
 <form>Konečný</form>
-<tag lemma="Konečný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Konečný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-160-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94204-160-p2s1Aw6</LM>
 </w.rf>
 <form>Komero</form>
-<tag lemma="Komero_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Komero_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-160-p2s1B">

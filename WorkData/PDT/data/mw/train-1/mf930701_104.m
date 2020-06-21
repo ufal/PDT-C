@@ -182,7 +182,7 @@
 </w.rf>
 <form>ČVS</form>
 <tag>
-<AM lemma="ČVS-2_:B_;K_^(Český_volejbalový_svaz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ČVS-2_:B_;m_^(Český_volejbalový_svaz)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -201,7 +201,7 @@
 </w.rf>
 <form>SVS</form>
 <tag>
-<AM lemma="SVS-1_:B_;K_^(Svaz_vysokoškolského_studentstva)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SVS-1_:B_;m_^(Svaz_vysokoškolského_studentstva)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -357,7 +357,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -410,7 +410,7 @@
 </w.rf>
 <form>ČVS</form>
 <tag>
-<AM lemma="ČVS-2_:B_;K_^(Český_volejbalový_svaz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ČVS-2_:B_;m_^(Český_volejbalový_svaz)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -428,7 +428,7 @@
 <LM>w#w-mf930701-104-p2s2w4</LM>
 </w.rf>
 <form>Žižka</form>
-<tag lemma="Žižka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žižka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-104-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1292,7 +1292,7 @@
 <LM>w#w-mf930701-104-p2s9w12</LM>
 </w.rf>
 <form>Aero</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-104-p2s9w13">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-mf930701-104-p2s9w16</LM>
 </w.rf>
 <form>Schenk</form>
-<tag lemma="Schenk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schenk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-104-p2s9w17">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-mf930701-104-p2s9w19</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-104-p2s9w20">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1384,7 +1384,7 @@
 </w.rf>
 <form>MCHZ</form>
 <tag>
-<AM lemma="MCHZ-1_:B_;K_^(Moravské_chemické_závody)" src="auto">NNIPX-----A---8</AM>
+<AM lemma="MCHZ-1_:B_;m_^(Moravské_chemické_závody)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MCHZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1439,7 +1439,7 @@
 <form>Olymp</form>
 <tag>
 <AM lemma="Olymp_;G" src="orig">NNIS4-----A----</AM>
-<AM lemma="Olymp_;G_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Olymp_;G_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s9w30">
@@ -1740,7 +1740,7 @@
 <LM>w#w-mf930701-104-p2s11w8</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930701-104-p2s11w9">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 </w.rf>
 <form>KPS</form>
 <tag>
-<AM lemma="KPS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="KPS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="KPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1796,7 +1796,7 @@
 <form>Olymp</form>
 <tag>
 <AM lemma="Olymp_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Olymp_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Olymp_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s11w15">
@@ -1832,7 +1832,7 @@
 <LM>w#w-mf930701-104-p2s11w18</LM>
 </w.rf>
 <form>BIESSE</form>
-<tag lemma="Biesse_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Biesse_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-104-p2s11w19">
 <src.rf>manual</src.rf>

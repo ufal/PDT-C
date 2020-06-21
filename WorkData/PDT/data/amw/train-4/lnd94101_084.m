@@ -19,7 +19,7 @@
 <LM>w#w-lnd94101-084-p1s1w1</LM>
 </w.rf>
 <form>Völlerův</form>
-<tag lemma="Völlerův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Völlerův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd94101-084-p1s1w2">
 <src.rf>manual</src.rf>
@@ -80,8 +80,8 @@
 </w.rf>
 <form>Berti</form>
 <tag>
-<AM lemma="Berti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Berti_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Berti_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Berti_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-084-p1s3w5">
@@ -90,7 +90,7 @@
 <LM>w#w-lnd94101-084-p1s3w5</LM>
 </w.rf>
 <form>Vogts</form>
-<tag lemma="Vogts_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vogts_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-084-p1s3w6">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-lnd94101-084-p1s3w12</LM>
 </w.rf>
 <form>Völlera</form>
-<tag lemma="Völler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Völler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-084-p1s3w13">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-lnd94101-084-p1s5w1</LM>
 </w.rf>
 <form>Völler</form>
-<tag lemma="Völler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Völler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-084-p1s5w2">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -539,7 +539,7 @@
 <LM>w#w-lnd94101-084-p1s6w15</LM>
 </w.rf>
 <form>Vogts</form>
-<tag lemma="Vogts_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vogts_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-084-p1s6w16">
 <src.rf>manual</src.rf>

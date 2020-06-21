@@ -102,8 +102,8 @@
 </w.rf>
 <form>mrk</form>
 <tag>
-<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-54-p2s1Aw4">
@@ -503,8 +503,8 @@
 </w.rf>
 <form>MHD</form>
 <tag>
-<AM lemma="MHD" src="orig">NNFSX-----A----</AM>
-<AM lemma="MHD_:B" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="MHD" src="orig">NNFXX-----A----</AM>
+<AM lemma="MHD_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MHD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -555,8 +555,8 @@
 </w.rf>
 <form>MHD</form>
 <tag>
-<AM lemma="MHD" src="orig">NNFSX-----A----</AM>
-<AM lemma="MHD_:B" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="MHD" src="orig">NNFXX-----A----</AM>
+<AM lemma="MHD_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MHD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -600,7 +600,7 @@
 <LM>w#w-ln94205-54-p2s4w4</LM>
 </w.rf>
 <form>Kočárníka</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-54-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln94205-54-p3s2w3</LM>
 </w.rf>
 <form>Rubáš</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-54-p3s2w4">
 <src.rf>manual</src.rf>

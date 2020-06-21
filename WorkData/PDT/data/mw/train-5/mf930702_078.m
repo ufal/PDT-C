@@ -614,7 +614,7 @@
 </w.rf>
 <form>Häcken</form>
 <tag>
-<AM lemma="Häcken_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Häcken_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Häcken-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -640,7 +640,7 @@
 <LM>w#w-mf930702-078-p3s3w4</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930702-078-p3s3w5">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-mf930702-078-p3s4w3</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s4w4">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <LM>w#w-mf930702-078-p3s5w1</LM>
 </w.rf>
 <form>Rapid</form>
-<tag lemma="Rapid_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rapid_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s5w2">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-mf930702-078-p3s5w4</LM>
 </w.rf>
 <form>Halmstads</form>
-<tag lemma="Halmstads_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Halmstads_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s5w5">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-mf930702-078-p3s7w1</LM>
 </w.rf>
 <form>Rapid</form>
-<tag lemma="Rapid_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rapid_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s7w2">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-mf930702-078-p3s8w1</LM>
 </w.rf>
 <form>Trelleborgs</form>
-<tag lemma="Trelleborgs_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Trelleborgs_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s8w2">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 </w.rf>
 <form>Austria</form>
 <tag>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Austria_Wien)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Austria_;m_,t_^(fotbalový_klub_Austria_Wien)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Austria-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1018,8 +1018,8 @@
 </w.rf>
 <form>Odense</form>
 <tag>
-<AM lemma="Odense_;K_^(klub)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Odense_;G" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
+<AM lemma="Odense_;m_^(klub)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Odense_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s10w2">
@@ -1036,7 +1036,7 @@
 <LM>w#w-mf930702-078-p3s10w3</LM>
 </w.rf>
 <form>Videoton</form>
-<tag lemma="Videoton_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Videoton_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s10w4">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-mf930702-078-p3s11w3</LM>
 </w.rf>
 <form>Bayer</form>
-<tag lemma="Bayer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bayer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s11w4">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-mf930702-078-p3s12w3</LM>
 </w.rf>
 <form>Maccabi</form>
-<tag lemma="Maccabi_;K" src="auto" selected="1">NNISX-----A----</tag>
+<tag lemma="Maccabi_;m" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s12w4">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <form>Bochum</form>
 <tag>
 <AM lemma="Bochum_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Boch_;S" src="auto">NNMP3-----A---6</AM>
+<AM lemma="Boch_;Y" src="auto">NNMP3-----A---6</AM>
 <AM lemma="Bochum_;G" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Bochum_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Bochum_;G" src="auto">NNIS1-----A----</AM>
@@ -1289,8 +1289,8 @@
 </w.rf>
 <form>Y</form>
 <tag>
-<AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Y-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Y-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Y-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s14w4">
@@ -1308,19 +1308,19 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-4_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="B-4_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="B-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="B-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="B-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="B-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="B-5_:B_;G" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="B-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="B-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="B-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="B-33" src="auto">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s14w6">
@@ -1388,7 +1388,7 @@
 </w.rf>
 <form>Wiener</form>
 <tag>
-<AM lemma="Wiener_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wiener_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Wiener-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1433,7 +1433,7 @@
 <LM>w#w-mf930702-078-p3s15w8</LM>
 </w.rf>
 <form>Interpohár</form>
-<tag lemma="Interpohár_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interpohár_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s15w9">
 <src.rf>manual</src.rf>

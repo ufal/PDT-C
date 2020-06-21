@@ -387,7 +387,7 @@
 <LM>w#w-mf920901-096-p2s1w31</LM>
 </w.rf>
 <form>Klerka</form>
-<tag lemma="Klerk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klerk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-096-p2s1w32">
 <src.rf>manual</src.rf>
@@ -1925,7 +1925,7 @@
 <LM>w#w-mf920901-096-p7s2w8</LM>
 </w.rf>
 <form>Waddington</form>
-<tag lemma="Waddington_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waddington_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-096-p7s2w9">
 <src.rf>manual</src.rf>
@@ -1992,7 +1992,7 @@
 <LM>w#w-mf920901-096-p7s2w16</LM>
 </w.rf>
 <form>Klerka</form>
-<tag lemma="Klerk_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Klerk_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-096-p7s2w17">
 <src.rf>manual</src.rf>
@@ -2296,7 +2296,7 @@
 <LM>w#w-mf920901-096-p8s1w30</LM>
 </w.rf>
 <form>Klerka</form>
-<tag lemma="Klerk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klerk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-096-p8s1w31">
 <src.rf>manual</src.rf>

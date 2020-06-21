@@ -648,7 +648,7 @@
 </w.rf>
 <form>Alma</form>
 <tag>
-<AM lemma="Alma_;G_^(Alma-Ata)" src="auto">NNFSX-----A----</AM>
+<AM lemma="Alma_;G_^(Alma-Ata)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Alma-2_^(Alma-Ata)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>

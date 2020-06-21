@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-088-p1s1w1</LM>
 </w.rf>
 <form>Basile</form>
-<tag lemma="Basile_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basile_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-088-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-ln95048-088-p1s1w3</LM>
 </w.rf>
 <form>Atletika</form>
-<tag lemma="Atletico_;K" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Atletico_;m" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-088-p2s1A">
@@ -119,7 +119,7 @@
 <LM>w#w-ln95048-088-p2s1Bw8</LM>
 </w.rf>
 <form>Basile</form>
-<tag lemma="Basile_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basile_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-088-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 </w.rf>
 <form>Atletico</form>
 <tag>
-<AM lemma="Atletico_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Atletico_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Atletico-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -215,7 +215,7 @@
 <LM>w#w-ln95048-088-p2s2w1</LM>
 </w.rf>
 <form>Basile</form>
-<tag lemma="Basile_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Basile_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-088-p2s2w2">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <form>Alessandra</form>
 <tag>
 <AM lemma="Alessandro_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Alessandro_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Alessandro_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-088-p2s2w18">
@@ -397,7 +397,7 @@
 <LM>w#w-ln95048-088-p2s2w23</LM>
 </w.rf>
 <form>Gil</form>
-<tag lemma="Gil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-088-p2s2w24">
 <src.rf>manual</src.rf>

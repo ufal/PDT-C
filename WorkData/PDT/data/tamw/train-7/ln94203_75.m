@@ -29,7 +29,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p1s1w3">
@@ -46,7 +46,7 @@
 <LM>w#w-ln94203-75-p1s1w4</LM>
 </w.rf>
 <form>Kaddáfího</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-75-p2s1A">
@@ -160,7 +160,7 @@
 <LM>w#w-ln94203-75-p2s1Aw14</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-75-p2s1Aw15">
 <src.rf>manual</src.rf>
@@ -233,8 +233,8 @@
 </w.rf>
 <form>Idríse</form>
 <tag>
-<AM lemma="Idrís_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Idrís_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Idrís_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Idrís_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p2s1Aw24">
@@ -770,7 +770,7 @@
 <LM>w#w-ln94203-75-p3s3w5</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-75-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1113,7 +1113,7 @@
 <LM>w#w-ln94203-75-p4s2w5</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-75-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <LM>w#w-ln94203-75-p4s4w4</LM>
 </w.rf>
 <form>Kaddáfího</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-75-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1776,9 +1776,9 @@
 <form>džamáhíríji</form>
 <tag>
 <AM lemma="džamáhíríje" src="orig">NNFS4-----A----</AM>
-<AM lemma="džamáhíríja_;p" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="džamáhíríja_;p" src="auto">NNFS6-----A----</AM>
-<AM lemma="džamáhíríja_;p" src="manual">NNFS4-----A----</AM>
+<AM lemma="džamáhíríja" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="džamáhíríja" src="auto">NNFS6-----A----</AM>
+<AM lemma="džamáhíríja" src="manual">NNFS4-----A----</AM>
 <AM lemma="džamáhíríja" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -1830,7 +1830,7 @@
 <LM>w#w-ln94203-75-p4s6w5</LM>
 </w.rf>
 <form>Kaddáfího</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-75-p4s6w6">
 <src.rf>manual</src.rf>
@@ -2302,7 +2302,7 @@
 <LM>w#w-ln94203-75-p5s1w4</LM>
 </w.rf>
 <form>Kaddáfího</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-75-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2442,7 +2442,7 @@
 <LM>w#w-ln94203-75-p5s2w7</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-75-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2534,11 +2534,11 @@
 </w.rf>
 <form>PanAm</form>
 <tag>
-<AM lemma="PanAm_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="PanAm_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Panama_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="panama" src="auto">NNFP2-----A----</AM>
-<AM lemma="PanAm_;K_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="PanAm_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PanAm_;m_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="PanAm_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p5s2w19">
@@ -2625,8 +2625,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p5s3w4">
@@ -2846,9 +2846,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p6s1w4">
@@ -2919,9 +2919,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p6s2w2">
@@ -3114,7 +3114,7 @@
 <LM>w#w-ln94203-75-p6s2w25</LM>
 </w.rf>
 <form>Reagan</form>
-<tag lemma="Reagan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reagan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-75-p6s2w26">
 <src.rf>manual</src.rf>
@@ -3170,7 +3170,7 @@
 <LM>w#w-ln94203-75-p6s2w32</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94203-75-p6s2w33">
 <src.rf>manual</src.rf>
@@ -3479,7 +3479,7 @@
 <LM>w#w-ln94203-75-p7s2w9</LM>
 </w.rf>
 <form>Kaddáfímu</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-75-p7s2w10">
 <src.rf>manual</src.rf>

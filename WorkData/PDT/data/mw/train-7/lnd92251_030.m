@@ -20,7 +20,7 @@
 </w.rf>
 <form>INVEX</form>
 <tag>
-<AM lemma="Invex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Invex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="INVEX-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -31,7 +31,7 @@
 </w.rf>
 <form>COMPUTER</form>
 <tag>
-<AM lemma="Computer_;m_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Computer_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="computer" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer" src="auto">NNIS4-----A----</AM>
 <AM lemma="COMPUTER-77" src="manual" selected="1">F%-------------</AM>
@@ -72,7 +72,7 @@
 </w.rf>
 <form>INVEX</form>
 <tag>
-<AM lemma="Invex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Invex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="INVEX-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -83,7 +83,7 @@
 </w.rf>
 <form>NOVELTIES</form>
 <tag>
-<AM lemma="Novelty_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Novelty_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="NOVELTIES-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -154,8 +154,8 @@
 </w.rf>
 <form>jak</form>
 <tag>
-<AM lemma="jak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
+<AM lemma="jak-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jak-1_;U_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
@@ -526,7 +526,7 @@
 </w.rf>
 <form>INVEX</form>
 <tag>
-<AM lemma="Invex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Invex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="INVEX-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -574,7 +574,7 @@
 <LM>w#w-lnd92251-030-p3s4w27</LM>
 </w.rf>
 <form>Pavlonová</form>
-<tag lemma="Pavlonová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pavlonová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-030-p3s4w28">
 <src.rf>manual</src.rf>
@@ -1481,10 +1481,10 @@
 </w.rf>
 <form>BVV</form>
 <tag>
-<AM lemma="BVV_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BVV_:B_;K" src="auto">NNIPX-----A---8</AM>
-<AM lemma="BVV_:B_;K" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BVV_:B_;K" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="BVV_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BVV_:B_;m" src="auto">NNIXX-----A---8</AM>
+<AM lemma="BVV_:B_;m" src="auto">NNIXX-----A---8</AM>
+<AM lemma="BVV_:B_;m" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1625,7 +1625,7 @@
 </w.rf>
 <form>Invex</form>
 <tag>
-<AM lemma="Invex_;K" src="orig">NNIS4-----A----</AM>
+<AM lemma="Invex_;m" src="orig">NNIS4-----A----</AM>
 <AM lemma="Invex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2676,7 +2676,7 @@
 </w.rf>
 <form>Invex</form>
 <tag>
-<AM lemma="Invex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Invex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Invex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2695,7 +2695,7 @@
 </w.rf>
 <form>Novelties</form>
 <tag>
-<AM lemma="Novelty_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Novelty_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Novelties-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3147,7 +3147,7 @@
 <form>Papež</form>
 <tag>
 <AM lemma="papež" src="orig">NNMS1-----A----</AM>
-<AM lemma="Papež_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Papež_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-030-p7s4w3">
@@ -3417,7 +3417,7 @@
 <LM>w#w-lnd92251-030-p7s5w4</LM>
 </w.rf>
 <form>Teslu</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92251-030-p7s5w5">
 <src.rf>manual</src.rf>
@@ -3521,7 +3521,7 @@
 <LM>w#w-lnd92251-030-p7s5w17</LM>
 </w.rf>
 <form>TAMARA</form>
-<tag lemma="Tamara-2_;R_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-030-p7s5w18">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-lnd91301-099-p1s1w4</LM>
 </w.rf>
 <form>Pivoňky</form>
-<tag lemma="Pivoňka_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pivoňka_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91301-099-p2s1">
@@ -53,7 +53,7 @@
 <LM>w#w-lnd91301-099-p2s1w1</LM>
 </w.rf>
 <form>WASHINGTON</form>
-<tag lemma="Washington-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Washington-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-099-p2s1w2">
 <src.rf>manual</src.rf>
@@ -80,7 +80,7 @@
 </w.rf>
 <form>Washington</form>
 <tag>
-<AM lemma="Washington-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Washington-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Washington-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -91,7 +91,7 @@
 </w.rf>
 <form>Capitals</form>
 <tag>
-<AM lemma="Capitals_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Capitals_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Capitals-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -103,7 +103,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-099-p3s1w5">
@@ -120,7 +120,7 @@
 <LM>w#w-lnd91301-099-p3s1w6</LM>
 </w.rf>
 <form>Pivoňka</form>
-<tag lemma="Pivoňka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pivoňka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-099-p3s1w7">
 <src.rf>manual</src.rf>
@@ -161,7 +161,7 @@
 </w.rf>
 <form>NY</form>
 <tag>
-<AM lemma="NY_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="NY_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="NY_:B_;G_^(New_York)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="NY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -173,7 +173,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -216,8 +216,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-099-p3s1w18">
@@ -301,7 +301,7 @@
 </w.rf>
 <form>Capitals</form>
 <tag>
-<AM lemma="Capitals_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Capitals_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Capitals-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -553,7 +553,7 @@
 <LM>w#w-lnd91301-099-p3s3w1</LM>
 </w.rf>
 <form>Pivoňka</form>
-<tag lemma="Pivoňka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pivoňka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-099-p3s3w2">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-lnd91301-099-p3s4w3</LM>
 </w.rf>
 <form>Kurri</form>
-<tag lemma="Kurri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kurri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-099-p3s4w4">
 <src.rf>manual</src.rf>
@@ -978,8 +978,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-099-p3s4w25">

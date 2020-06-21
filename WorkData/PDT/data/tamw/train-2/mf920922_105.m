@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-105-p1s1w2</LM>
 </w.rf>
 <form>Turrellem</form>
-<tag lemma="Turrell_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Turrell_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-105-p1s1w3">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-mf920922-105-p2s1w2</LM>
 </w.rf>
 <form>Jamese</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s1w3">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-mf920922-105-p2s1w3</LM>
 </w.rf>
 <form>Turrella</form>
-<tag lemma="Turrell_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Turrell_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s1w4">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 </w.rf>
 <form>Cells</form>
 <tag>
-<AM lemma="Cell_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Cell_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Cells-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1488,11 +1488,11 @@
 <form>Close</form>
 <tag>
 <AM lemma="close_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Clos_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Clos_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Clos_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Close_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Close_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Clos_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Clos_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Clos_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Close_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Close_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Close-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2017,7 +2017,7 @@
 <LM>w#w-mf920922-105-p2s19w9</LM>
 </w.rf>
 <form>Turrell</form>
-<tag lemma="Turrell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Turrell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s19w10">
 <src.rf>manual</src.rf>
@@ -2596,7 +2596,7 @@
 <LM>w#w-mf920922-105-p2s23Aw7</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s23Aw8">
 <src.rf>manual</src.rf>
@@ -2604,7 +2604,7 @@
 <LM>w#w-mf920922-105-p2s23Aw8</LM>
 </w.rf>
 <form>Turrell</form>
-<tag lemma="Turrell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Turrell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-105-p2s23Aw9">
 <src.rf>manual</src.rf>

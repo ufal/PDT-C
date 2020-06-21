@@ -829,7 +829,7 @@
 <LM>w#w-cmpr9415-021-p4s5w9</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-021-p4s5w10">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1622,7 +1622,7 @@
 </w.rf>
 <form>DKK</form>
 <tag>
-<AM lemma="DKK_:B_;b_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DKK_:B_^(dánská_koruna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="DKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1698,7 +1698,7 @@
 <LM>w#w-cmpr9415-021-p6s5w8</LM>
 </w.rf>
 <form>Havlíčkově</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-cmpr9415-021-p6s5w9">
 <src.rf>manual</src.rf>

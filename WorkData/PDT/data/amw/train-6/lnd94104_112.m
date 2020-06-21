@@ -19,7 +19,7 @@
 <LM>w#w-lnd94104-112-p1s2w1</LM>
 </w.rf>
 <form>Temesvariová</form>
-<tag lemma="Temesvariová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Temesvariová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-112-p1s2w2">
 <src.rf>manual</src.rf>
@@ -63,7 +63,7 @@
 <LM>w#w-lnd94104-112-p1s5w1</LM>
 </w.rf>
 <form>Navrátilová</form>
-<tag lemma="Navrátilová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Navrátilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-112-p1s5w2">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd94103-077-p1s1w2</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-lnd94103-077-p1s1w4</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cola_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-077-p1s1B">
@@ -139,7 +139,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -197,7 +197,7 @@
 <LM>w#w-lnd94103-077-p1s1w22</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s1w23">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-lnd94103-077-p1s1w24</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cola_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s1w25">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-lnd94103-077-p1s2w4</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w5">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-lnd94103-077-p1s2w6</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cola_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w7">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 </w.rf>
 <form>Refreshments</form>
 <tag>
-<AM lemma="Refreshment_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Refreshment_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Refreshments-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -299,7 +299,7 @@
 </w.rf>
 <form>CCRM</form>
 <tag>
-<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CCRM_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CCRM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -325,7 +325,7 @@
 <LM>w#w-lnd94103-077-p1s2w12</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w13">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-lnd94103-077-p1s2w14</LM>
 </w.rf>
 <form>Colu</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Cola_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w15">
 <src.rf>manual</src.rf>
@@ -358,8 +358,8 @@
 </w.rf>
 <form>Fantu</form>
 <tag>
-<AM lemma="Fanta_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Fanta_;R" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Fanta_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Fanta_;m" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s2w17">
@@ -377,11 +377,11 @@
 </w.rf>
 <form>Sprite</form>
 <tag>
-<AM lemma="Sprite_;R_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="Sprite_;m_,t" src="orig">NNIS4-----A----</AM>
 <AM lemma="sprite" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS5-----A----</AM>
 <AM lemma="sprite" src="manual">NNIS4-----A----</AM>
-<AM lemma="Sprite_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Sprite_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s2w19">
@@ -674,7 +674,7 @@
 </w.rf>
 <form>CCRM</form>
 <tag>
-<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CCRM_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CCRM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -855,7 +855,7 @@
 </w.rf>
 <form>CCRM</form>
 <tag>
-<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CCRM_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="CCRM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -996,11 +996,11 @@
 </w.rf>
 <form>dr</form>
 <tag>
-<AM lemma="dr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s6w3">

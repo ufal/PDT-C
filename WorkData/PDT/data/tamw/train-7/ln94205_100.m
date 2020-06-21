@@ -133,7 +133,7 @@
 <LM>w#w-ln94205-100-p2s1w10</LM>
 </w.rf>
 <form>Kafky</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-100-p2s1w11">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 </w.rf>
 <form>Musica</form>
 <tag>
-<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Musica_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -299,7 +299,7 @@
 </w.rf>
 <form>Florea</form>
 <tag>
-<AM lemma="Florea_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Florea_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Florea-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -617,7 +617,7 @@
 <LM>w#w-ln94205-100-p5s1w7</LM>
 </w.rf>
 <form>Heydové</form>
-<tag lemma="Heydová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Heydová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-100-p5s1w8">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln94205-100-p6s1w4</LM>
 </w.rf>
 <form>Hajeka</form>
-<tag lemma="Hajek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hajek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-100-p6s1w5">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-ln94205-100-p6s1w15</LM>
 </w.rf>
 <form>Miro</form>
-<tag lemma="Miro_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Miro_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-100-p6s1w16">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-ln94205-100-p6s1w20</LM>
 </w.rf>
 <form>Rocha</form>
-<tag lemma="Roch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Roch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-100-p6s1w21">
 <src.rf>manual</src.rf>

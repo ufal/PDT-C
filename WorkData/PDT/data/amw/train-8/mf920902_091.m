@@ -101,7 +101,7 @@
 <LM>w#w-mf920902-091-p2s1w4</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-091-p2s1w5">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-mf920902-091-p2s2w9</LM>
 </w.rf>
 <form>Duky</form>
-<tag lemma="Duka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Duka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-091-p2s2w10">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-mf920902-091-p2s2w10</LM>
 </w.rf>
 <form>Zólyomiho</form>
-<tag lemma="Zólyomi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zólyomi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-091-p2s2w11">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-091-p2s3w16">
@@ -733,7 +733,7 @@
 <LM>w#w-mf920902-091-p2s3w17</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-091-p2s3w18">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 <LM>w#w-mf920902-091-p2s4Bw3</LM>
 </w.rf>
 <form>Rózsa</form>
-<tag lemma="Rózsa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rózsa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-091-p2s4Bw4">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 </w.rf>
 <form>Együttélés</form>
 <tag>
-<AM lemma="Együttélés_;K_;p_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Együttélés_;m_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="Együttélés-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1113,7 +1113,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-091-p2s4Bw11">
@@ -1130,7 +1130,7 @@
 <LM>w#w-mf920902-091-p2s4Bw12</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-091-p2s4Bw13">
 <src.rf>manual</src.rf>
@@ -1377,7 +1377,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-091-p2s5w21">
@@ -1394,7 +1394,7 @@
 <LM>w#w-mf920902-091-p2s5w22</LM>
 </w.rf>
 <form>Rózsa</form>
-<tag lemma="Rózsa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rózsa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-091-p2s5w23">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-091-p2s6w2">
@@ -1431,7 +1431,7 @@
 <LM>w#w-mf920902-091-p2s6w3</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-091-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1842,7 +1842,7 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

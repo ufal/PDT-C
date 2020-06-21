@@ -144,8 +144,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p2s1Bw4">
@@ -181,7 +181,7 @@
 <LM>w#w-ln94210-82-p2s1Bw7</LM>
 </w.rf>
 <form>Lovász</form>
-<tag lemma="Lovász_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lovász_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-82-p2s1C">
@@ -850,7 +850,7 @@
 <LM>w#w-ln94210-82-p3s1w2</LM>
 </w.rf>
 <form>Melescanu</form>
-<tag lemma="Melescanu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Melescanu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-82-p3s1w3">
 <src.rf>manual</src.rf>
@@ -939,8 +939,8 @@
 </w.rf>
 <form>MTV</form>
 <tag>
-<AM lemma="MTV-2_:B_;K_;y_^(Maďarská_TV)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="MTV-2_:B_;m_^(Maďarská_TV)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MTV-1_:B_;m_^(TV_stanice_USA)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1193,8 +1193,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p3s2w23">
@@ -1767,12 +1767,12 @@
 </w.rf>
 <form>Damoklův</form>
 <tag>
-<AM lemma="Damokles_;S_;Y_^(*2es)" src="orig">AUIS1M---------</AM>
-<AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
-<AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto">AUIS4M---------</AM>
-<AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto">AUIS5M---------</AM>
-<AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto">AUMS1M---------</AM>
-<AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto">AUMS5M---------</AM>
+<AM lemma="Damokles_;Y_^(*2es)" src="orig">AUIS1M---------</AM>
+<AM lemma="Damoklův_;Y_^(*2es)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
+<AM lemma="Damoklův_;Y_^(*2es)" src="auto">AUIS4M---------</AM>
+<AM lemma="Damoklův_;Y_^(*2es)" src="auto">AUIS5M---------</AM>
+<AM lemma="Damoklův_;Y_^(*2es)" src="auto">AUMS1M---------</AM>
+<AM lemma="Damoklův_;Y_^(*2es)" src="auto">AUMS5M---------</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p3s4w29">
@@ -1871,7 +1871,7 @@
 <LM>w#w-ln94210-82-p3s5w10</LM>
 </w.rf>
 <form>Horna</form>
-<tag lemma="Horn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Horn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-82-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1985,7 +1985,7 @@
 <LM>w#w-ln94210-82-p3s6w6</LM>
 </w.rf>
 <form>Melescana</form>
-<tag lemma="Melescanu_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Melescanu_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-82-p3s6w7">
 <src.rf>manual</src.rf>
@@ -2054,7 +2054,7 @@
 <LM>w#w-ln94210-82-p4s1w2</LM>
 </w.rf>
 <form>Kovács</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-82-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2476,7 +2476,7 @@
 <LM>w#w-ln94210-82-p4s5w3</LM>
 </w.rf>
 <form>Göncz</form>
-<tag lemma="Göncz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Göncz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-82-p4s5w4">
 <src.rf>manual</src.rf>
@@ -3235,7 +3235,7 @@
 <LM>w#w-ln94210-82-p5s1w2</LM>
 </w.rf>
 <form>Melescanova</form>
-<tag lemma="Melescanův_;S_^(*2u)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Melescanův_;Y_^(*2u)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94210-82-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3477,7 +3477,7 @@
 <LM>w#w-ln94210-82-p5s2w24</LM>
 </w.rf>
 <form>Melescanu</form>
-<tag lemma="Melescanu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Melescanu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-82-p5s2w25">
 <src.rf>manual</src.rf>
@@ -3493,7 +3493,7 @@
 <LM>w#w-ln94210-82-p5s2w26</LM>
 </w.rf>
 <form>Kovács</form>
-<tag lemma="Kovács_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovács_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-82-p5s2w27">
 <src.rf>manual</src.rf>

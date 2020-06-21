@@ -69,7 +69,7 @@
 <LM>w#w-mf930713-022-p2s1w6</LM>
 </w.rf>
 <form>Holm</form>
-<tag lemma="Holm_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holm_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-022-p2s1w7">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf930713-022-p2s1w8</LM>
 </w.rf>
 <form>Järryd</form>
-<tag lemma="Järryd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Järryd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-022-p2s1w9">
 <src.rf>manual</src.rf>
@@ -187,10 +187,10 @@
 </w.rf>
 <form>Rusedski</form>
 <tag>
-<AM lemma="Rusedski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rusedský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
-<AM lemma="Rusedský_;S" src="auto">NNMS5-----A---1</AM>
-<AM lemma="Rusedski_;S_,s_^(^DD**Rusedský)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rusedski_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rusedský_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Rusedský_;Y" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Rusedski_;Y_,s_^(^DD**Rusedský)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-022-p3s1w9">
@@ -243,11 +243,11 @@
 </w.rf>
 <form>Frana</form>
 <tag>
-<AM lemma="Frana_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Fran_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Fran_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Frano_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Frano_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Frana_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fran_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Fran_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Frano_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Frano_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-022-p3s1w15">
@@ -267,7 +267,7 @@
 <tag>
 <AM lemma="Argentina_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Arga-2_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Argo-1_;K" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="Argo-1_;m" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="Argentina_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>

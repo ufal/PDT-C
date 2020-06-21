@@ -258,7 +258,7 @@
 <LM>w#w-mf930713-142-p2s2w4</LM>
 </w.rf>
 <form>Leaotová</form>
-<tag lemma="Leaotová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Leaotová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-142-p2s2w5">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 </w.rf>
 <form>Mare</form>
 <tag>
-<AM lemma="Mare_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Mare_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Mare-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1089,7 +1089,7 @@
 </w.rf>
 <form>lei</form>
 <tag>
-<AM lemma="lei_;b_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="lei_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
@@ -1704,7 +1704,7 @@
 </w.rf>
 <form>Evenimentul</form>
 <tag>
-<AM lemma="Evenimentul_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Evenimentul_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Evenimentul-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1715,7 +1715,7 @@
 </w.rf>
 <form>zilei</form>
 <tag>
-<AM lemma="zilei_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="zilei_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="zilei-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

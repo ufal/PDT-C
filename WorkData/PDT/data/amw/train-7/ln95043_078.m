@@ -180,7 +180,7 @@
 <form_change>spell</form_change>
 <form>Different</form>
 <tag>
-<AM lemma="Different_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Different_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Different-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -191,7 +191,7 @@
 </w.rf>
 <form>Life</form>
 <tag>
-<AM lemma="Life_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Life_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Life-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

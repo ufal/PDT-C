@@ -51,7 +51,7 @@
 <LM>w#w-mf930702-031-p1s1w5</LM>
 </w.rf>
 <form>Metrostav</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p1s1w6">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-mf930702-031-p2s1w9</LM>
 </w.rf>
 <form>Metrostav</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p2s1w10">
 <src.rf>manual</src.rf>
@@ -198,8 +198,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p2s1w17">
@@ -209,9 +209,9 @@
 </w.rf>
 <form>Invest</form>
 <tag>
-<AM lemma="Investa_;K" src="orig">NNFP2-----A----</AM>
+<AM lemma="Investa_;m" src="orig">NNFP2-----A----</AM>
 <AM lemma="Invest-77" src="manual">F%-------------</AM>
-<AM lemma="Invest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Invest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p2s1w18">
@@ -342,7 +342,7 @@
 <LM>w#w-mf930702-031-p2s2w15</LM>
 </w.rf>
 <form>Metrostavu</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-031-p2s2w16">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-mf930702-031-p2s4w8</LM>
 </w.rf>
 <form>Metrostav</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p2s4w9">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-mf930702-031-p3s2w1</LM>
 </w.rf>
 <form>Metrostav</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p3s2w2">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-mf930702-031-p3s3w1</LM>
 </w.rf>
 <form>Metrostav</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p3s3w2">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-mf930702-031-p3s4w4</LM>
 </w.rf>
 <form>Meyer</form>
-<tag lemma="Meyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meyer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-mf930702-031-p3s4w17</LM>
 </w.rf>
 <form>Metrostavu</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-031-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1097,8 +1097,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p4s1w5">
@@ -1108,8 +1108,8 @@
 </w.rf>
 <form>Investu</form>
 <tag>
-<AM lemma="Investa_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Invest_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Investa_;m" src="orig">NNFS4-----A----</AM>
+<AM lemma="Invest_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p4s1w6">
@@ -1216,7 +1216,7 @@
 <LM>w#w-mf930702-031-p4s2w10</LM>
 </w.rf>
 <form>Metrostavu</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-031-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1256,7 +1256,7 @@
 <LM>w#w-mf930702-031-p4s2w15</LM>
 </w.rf>
 <form>Hesse</form>
-<tag lemma="Hess_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hess_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-031-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1283,8 +1283,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p4s3w3">
@@ -1294,8 +1294,8 @@
 </w.rf>
 <form>Invest</form>
 <tag>
-<AM lemma="Investa_;K" src="orig">NNFP2-----A----</AM>
-<AM lemma="Invest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Investa_;m" src="orig">NNFP2-----A----</AM>
+<AM lemma="Invest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p4s3w4">
@@ -1450,7 +1450,7 @@
 <LM>w#w-mf930702-031-p4s4w13</LM>
 </w.rf>
 <form>Metrostavu</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-031-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1468,7 +1468,7 @@
 <form>Škorpil</form>
 <tag>
 <AM lemma="škorpil" src="orig">NNMS1-----A----</AM>
-<AM lemma="Škorpil_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Škorpil_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p4s4w16">
@@ -1577,7 +1577,7 @@
 <LM>w#w-mf930702-031-p5s1w5</LM>
 </w.rf>
 <form>Meyer</form>
-<tag lemma="Meyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meyer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-031-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1634,8 +1634,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p5s1w13">
@@ -1645,8 +1645,8 @@
 </w.rf>
 <form>Invest</form>
 <tag>
-<AM lemma="Investa_;K" src="orig">NNFP2-----A----</AM>
-<AM lemma="Invest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Investa_;m" src="orig">NNFP2-----A----</AM>
+<AM lemma="Invest_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p5s1w14">
@@ -1841,7 +1841,7 @@
 <LM>w#w-mf930702-031-p5s2w8</LM>
 </w.rf>
 <form>Metrostavu</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-031-p5s2w9">
 <src.rf>manual</src.rf>
@@ -1990,7 +1990,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2035,7 +2035,7 @@
 <LM>w#w-mf930702-031-p6s1w9</LM>
 </w.rf>
 <form>Choděry</form>
-<tag lemma="Choděra_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Choděra_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-031-p6s1w10">
 <src.rf>manual</src.rf>

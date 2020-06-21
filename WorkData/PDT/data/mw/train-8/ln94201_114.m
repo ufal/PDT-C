@@ -53,7 +53,7 @@
 <LM>w#w-ln94201-114-p2s1w2</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p2s1w3">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln94201-114-p2s1w5</LM>
 </w.rf>
 <form>Dvorský</form>
-<tag lemma="Dvorský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvorský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p2s1w6">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-ln94201-114-p3s1w2</LM>
 </w.rf>
 <form>Austenová</form>
-<tag lemma="Austenová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Austenová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p3s1w3">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-ln94201-114-p3s3w7</LM>
 </w.rf>
 <form>Kondrysové</form>
-<tag lemma="Kondrysová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kondrysová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-114-p3s3w8">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-ln94201-114-p4s1w2</LM>
 </w.rf>
 <form>Stašek</form>
-<tag lemma="Stašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p4s1w3">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-ln94201-114-p4s2w10</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-114-p4s2w11">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-ln94201-114-p5s1w2</LM>
 </w.rf>
 <form>Vargas</form>
-<tag lemma="Vargas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vargas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p5s1w3">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln94201-114-p5s1w3</LM>
 </w.rf>
 <form>Llosa</form>
-<tag lemma="Llosa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Llosa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p5s1w4">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-ln94201-114-p5s1w5</LM>
 </w.rf>
 <form>Pantaleón</form>
-<tag lemma="Pantaleón_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pantaleón_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-ln94201-114-p5s3w6</LM>
 </w.rf>
 <form>Medka</form>
-<tag lemma="Medek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Medek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-114-p5s3w7">
 <src.rf>manual</src.rf>

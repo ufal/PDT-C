@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-92-p1s1w2</LM>
 </w.rf>
 <form>Redl</form>
-<tag lemma="Redl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Redl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-92-p1s1w3">
 <src.rf>manual</src.rf>
@@ -68,9 +68,9 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-2_:B_;K_^(AG_Flek)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="AG-2_:B_;m_^(AG_Flek)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="AG-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -157,7 +157,7 @@
 <form>Hradišťanem</form>
 <tag>
 <AM lemma="Hradišťan" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hradišťan_;K" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Hradišťan_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-92-p1s1w18">
@@ -192,7 +192,7 @@
 <LM>w#w-ln94204-92-p1s2w3</LM>
 </w.rf>
 <form>Hula</form>
-<tag lemma="Hula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-92-p1s2w4">
 <src.rf>manual</src.rf>
@@ -209,8 +209,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

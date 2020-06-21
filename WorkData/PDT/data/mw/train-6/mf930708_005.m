@@ -62,8 +62,8 @@
 </w.rf>
 <form>rg</form>
 <tag>
-<AM lemma="rg-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rg-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rg-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rg-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-005-p2s1w4">
@@ -81,9 +81,9 @@
 </w.rf>
 <form>vl</form>
 <tag>
-<AM lemma="vl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vládní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="vl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-005-p2s1w6">
@@ -401,7 +401,7 @@
 <LM>w#w-mf930708-005-p2s2w8</LM>
 </w.rf>
 <form>Pilip</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-005-p2s2w9">
 <src.rf>manual</src.rf>

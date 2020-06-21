@@ -246,7 +246,7 @@
 </w.rf>
 <form>ZVS</form>
 <tag>
-<AM lemma="ZVS-1_:B_;K_^(Závody_všeobecného_strojírenství)" src="auto">NNIPX-----A---8</AM>
+<AM lemma="ZVS-1_:B_;m_^(Závody_všeobecného_strojírenství)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ZVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -274,7 +274,7 @@
 <LM>w#w-mf920902-115-p2s2w1</LM>
 </w.rf>
 <form>Adast</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s2w2">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 </w.rf>
 <form>ZVS</form>
 <tag>
-<AM lemma="ZVS-1_:B_;K_^(Závody_všeobecného_strojírenství)" src="auto">NNIPX-----A---8</AM>
+<AM lemma="ZVS-1_:B_;m_^(Závody_všeobecného_strojírenství)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ZVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -846,7 +846,7 @@
 <LM>w#w-mf920902-115-p2s4w14</LM>
 </w.rf>
 <form>Adastu</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s4w15">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-mf920902-115-p2s4w16</LM>
 </w.rf>
 <form>Došek</form>
-<tag lemma="Došek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Došek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s4w17">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-mf920902-115-p2s5w3</LM>
 </w.rf>
 <form>Adast</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-mf920902-115-p2s7w1</LM>
 </w.rf>
 <form>Adast</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1676,7 +1676,7 @@
 <LM>w#w-mf920902-115-p2s9w6</LM>
 </w.rf>
 <form>Andrejčákovi</form>
-<tag lemma="Andrejčák_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Andrejčák_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1724,7 +1724,7 @@
 <LM>w#w-mf920902-115-p2s9w12</LM>
 </w.rf>
 <form>Adastu</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s9w13">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-mf920902-115-p2s11w2</LM>
 </w.rf>
 <form>Adastu</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s11w3">
 <src.rf>manual</src.rf>
@@ -2089,7 +2089,7 @@
 </w.rf>
 <form>ZVS</form>
 <tag>
-<AM lemma="ZVS-1_:B_;K_^(Závody_všeobecného_strojírenství)" src="auto">NNIPX-----A---8</AM>
+<AM lemma="ZVS-1_:B_;m_^(Závody_všeobecného_strojírenství)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ZVS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2222,7 +2222,7 @@
 </w.rf>
 <form>ČSA</form>
 <tag>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2531,7 +2531,7 @@
 <LM>w#w-mf920902-115-p2s13w11</LM>
 </w.rf>
 <form>Čalfovy</form>
-<tag lemma="Čalfův_;S_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Čalfův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920902-115-p2s13w12">
 <src.rf>manual</src.rf>

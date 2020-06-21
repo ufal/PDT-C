@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-064-p1s1w1</LM>
 </w.rf>
 <form>Binič</form>
-<tag lemma="Binič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Binič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-064-p1s1w2">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-mf920902-064-p2s1w8</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s1w9">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-mf920902-064-p2s1w21</LM>
 </w.rf>
 <form>Biniče</form>
-<tag lemma="Binič_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Binič_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s1w22">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-mf920902-064-p2s2Aw18</LM>
 </w.rf>
 <form>Biniče</form>
-<tag lemma="Binič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Binič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s2Aw19">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-mf920902-064-p2s2Bw6</LM>
 </w.rf>
 <form>Biničově</form>
-<tag lemma="Biničův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Biničův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-mf920902-064-p2s2Bw7">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-mf920902-064-p2s5Aw2</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s5Aw3">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-mf920902-064-p2s5Aw5</LM>
 </w.rf>
 <form>Pavlík</form>
-<tag lemma="Pavlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s5Aw6">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 <LM>w#w-mf920902-064-p2s5Bw9</LM>
 </w.rf>
 <form>Petržela</form>
-<tag lemma="Petržela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petržela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s5Bw10">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 <LM>w#w-mf920902-064-p2s5Bw15</LM>
 </w.rf>
 <form>Biničovu</form>
-<tag lemma="Biničův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Biničův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf920902-064-p2s5Bw16">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-mf920902-064-p2s6w3</LM>
 </w.rf>
 <form>Dragiša</form>
-<tag lemma="Dragiša_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dragiša_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-mf920902-064-p2s7Aw25</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s7Aw26">
 <src.rf>manual</src.rf>
@@ -1645,7 +1645,7 @@
 <LM>w#w-mf920902-064-p2s7Bw2</LM>
 </w.rf>
 <form>Biničova</form>
-<tag lemma="Biničův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Biničův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920902-064-p2s7Bw3">
 <src.rf>manual</src.rf>
@@ -1901,7 +1901,7 @@
 <LM>w#w-mf920902-064-p2s7Bw34</LM>
 </w.rf>
 <form>Discoland</form>
-<tag lemma="Discoland_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Discoland_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s7Bw35">
 <src.rf>manual</src.rf>

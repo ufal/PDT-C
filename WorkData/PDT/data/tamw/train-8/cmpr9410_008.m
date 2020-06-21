@@ -1832,7 +1832,7 @@
 <LM>w#w-cmpr9410-008-p9s1w2</LM>
 </w.rf>
 <form>Juřeník</form>
-<tag lemma="Juřeník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juřeník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-008-p9s1w3">
 <src.rf>manual</src.rf>
@@ -2388,7 +2388,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3563,7 +3563,7 @@
 <LM>w#w-cmpr9410-008-p14s1w2</LM>
 </w.rf>
 <form>Martikán</form>
-<tag lemma="Martikán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martikán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-008-p14s1w3">
 <src.rf>manual</src.rf>
@@ -3752,8 +3752,8 @@
 </w.rf>
 <form>Home</form>
 <tag>
-<AM lemma="Home-2_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Home_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Home-2_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Home_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Home-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4789,7 +4789,7 @@
 <LM>w#w-cmpr9410-008-p18s1w4</LM>
 </w.rf>
 <form>Raszkovi</form>
-<tag lemma="Raszkův_;S_^(*2a)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Raszkův_;Y_^(*2a)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-cmpr9410-008-p18s1w5">
 <src.rf>manual</src.rf>
@@ -6275,7 +6275,7 @@
 <LM>w#w-cmpr9410-008-p24s1w2</LM>
 </w.rf>
 <form>Jupa</form>
-<tag lemma="Jupa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jupa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-008-p24s1w3">
 <src.rf>manual</src.rf>
@@ -6775,7 +6775,7 @@
 </w.rf>
 <form>IN</form>
 <tag>
-<AM lemma="IN_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IN_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ina_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="in-1_,t_^(angl._v)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="in-2_,h_,t" src="auto">AAXXX----1A----</AM>
@@ -7189,7 +7189,7 @@
 <LM>w#w-cmpr9410-008-p27s1w2</LM>
 </w.rf>
 <form>Haleš</form>
-<tag lemma="Haleš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haleš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-008-p27s1w3">
 <src.rf>manual</src.rf>
@@ -8590,7 +8590,7 @@
 <LM>w#w-cmpr9410-008-p32s1w2</LM>
 </w.rf>
 <form>Pospíchal</form>
-<tag lemma="Pospíchal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pospíchal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-008-p32s1w3">
 <src.rf>manual</src.rf>

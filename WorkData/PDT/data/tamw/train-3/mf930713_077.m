@@ -128,7 +128,7 @@
 <LM>w#w-mf930713-077-p2s1Bw7</LM>
 </w.rf>
 <form>Richterovy</form>
-<tag lemma="Richterův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Richterův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf930713-077-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 </w.rf>
 <form>NHK</form>
 <tag>
-<AM lemma="NHK-1_:B_;K_,t_^(Nippon_Hoso_Kyokai)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="NHK-1_:B_;m_,t_^(Nippon_Hoso_Kyokai)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="NHK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

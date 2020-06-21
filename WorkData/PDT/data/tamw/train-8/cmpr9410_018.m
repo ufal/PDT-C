@@ -1603,7 +1603,7 @@
 </w.rf>
 <form>Panorama</form>
 <tag>
-<AM lemma="Panorama_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Panorama_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="panorama_,s_^(^DD**panoráma)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -1709,7 +1709,7 @@
 <LM>w#w-cmpr9410-018-p7s3w24</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-018-p7s3w25">
 <src.rf>manual</src.rf>
@@ -4024,7 +4024,7 @@
 </w.rf>
 <form>IH</form>
 <tag>
-<AM lemma="IH_:B_;K_^(Interhotel)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IH_:B_;m_^(Interhotel)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4035,7 +4035,7 @@
 </w.rf>
 <form>Golf</form>
 <tag>
-<AM lemma="Golf_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Golf_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="golf-1_^(sport)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -4256,7 +4256,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4997,7 +4997,7 @@
 <LM>w#w-cmpr9410-018-p17s1w2</LM>
 </w.rf>
 <form>Peterka</form>
-<tag lemma="Peterka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peterka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-018-p17s1w3">
 <src.rf>manual</src.rf>
@@ -5021,7 +5021,7 @@
 <LM>w#w-cmpr9410-018-p17s1w5</LM>
 </w.rf>
 <form>Havlíková</form>
-<tag lemma="Havlíková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Havlíková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-018-p18s1">

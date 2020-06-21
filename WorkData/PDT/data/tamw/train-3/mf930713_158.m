@@ -138,7 +138,7 @@
 <LM>w#w-mf930713-158-p1s1w15</LM>
 </w.rf>
 <form>Katz</form>
-<tag lemma="Katz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Katz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-158-p1s1w16">
 <src.rf>manual</src.rf>

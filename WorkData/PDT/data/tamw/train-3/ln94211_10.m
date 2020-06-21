@@ -73,7 +73,7 @@
 <LM>w#w-ln94211-10-p1s1w7</LM>
 </w.rf>
 <form>Desta</form>
-<tag lemma="Desta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Desta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-10-p1s1w8">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <LM>w#w-ln94211-10-p1s1w14</LM>
 </w.rf>
 <form>Desty</form>
-<tag lemma="Desta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Desta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-10-p1s1w15">
 <src.rf>manual</src.rf>
@@ -220,8 +220,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

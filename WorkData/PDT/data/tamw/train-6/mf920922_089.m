@@ -127,7 +127,7 @@
 <LM>w#w-mf920922-089-p2s1w3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="bar-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-089-p2s1w4">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-089-p2s3w7">
@@ -390,7 +390,7 @@
 <LM>w#w-mf920922-089-p2s3w8</LM>
 </w.rf>
 <form>Brunová</form>
-<tag lemma="Brunová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Brunová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-089-p2s3w9">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94206-23-p1s1w1</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p1s1w2">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-ln94206-23-p1s1w7</LM>
 </w.rf>
 <form>Umformtechnik</form>
-<tag lemma="Umformtechnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Umformtechnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p1s1w8">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln94206-23-p2s1Bw2</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln94206-23-p2s1Bw9</LM>
 </w.rf>
 <form>Umformtechnik</form>
-<tag lemma="Umformtechnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Umformtechnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 </w.rf>
 <form>UTE</form>
 <tag>
-<AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="UTE_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="UTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -300,7 +300,7 @@
 <LM>w#w-ln94206-23-p2s2w9</LM>
 </w.rf>
 <form>Hudce</form>
-<tag lemma="Hudec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hudec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-23-p2s2w10">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94206-23-p4s1w16</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p4s1w17">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 </w.rf>
 <form>UTE</form>
 <tag>
-<AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="UTE_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="UTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1062,7 +1062,7 @@
 <LM>w#w-ln94206-23-p4s3w9</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1159,7 +1159,7 @@
 <LM>w#w-ln94206-23-p5s1w3</LM>
 </w.rf>
 <form>Umformtechniku</form>
-<tag lemma="Umformtechnik_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Umformtechnik_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-23-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-ln94206-23-p5s1w8</LM>
 </w.rf>
 <form>Hudce</form>
-<tag lemma="Hudec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hudec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-23-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-ln94206-23-p5s2w7</LM>
 </w.rf>
 <form>Hudec</form>
-<tag lemma="Hudec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hudec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 <LM>w#w-ln94206-23-p5s4w4</LM>
 </w.rf>
 <form>Umformtechnik</form>
-<tag lemma="Umformtechnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Umformtechnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p5s4w5">
 <src.rf>manual</src.rf>
@@ -1848,7 +1848,7 @@
 <LM>w#w-ln94206-23-p6s1w2</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-23-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1996,7 +1996,7 @@
 </w.rf>
 <form>UTE</form>
 <tag>
-<AM lemma="UTE_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="UTE_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="UTE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2048,7 +2048,7 @@
 <LM>w#w-ln94206-23-p6s2w4</LM>
 </w.rf>
 <form>Škodě</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-23-p6s2w5">
 <src.rf>manual</src.rf>
@@ -2136,7 +2136,7 @@
 <LM>w#w-ln94206-23-p6s2w15</LM>
 </w.rf>
 <form>Umformtechnik</form>
-<tag lemma="Umformtechnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Umformtechnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p6s2w16">
 <src.rf>manual</src.rf>

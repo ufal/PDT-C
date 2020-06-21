@@ -21,7 +21,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-143-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-lnd92255-143-p1s1w3</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-143-p1s1w4">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-lnd92255-143-p2s2w15</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-143-p2s2w16">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-lnd92255-143-p2s3w11</LM>
 </w.rf>
 <form>Vranitzkým</form>
-<tag lemma="Vranitzký_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Vranitzký_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92255-143-p2s3w12">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd92255-143-p2s3w16</LM>
 </w.rf>
 <form>Fischerem</form>
-<tag lemma="Fischer_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Fischer_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92255-143-p2s3w17">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-88-p1s1w2</LM>
 </w.rf>
 <form>Kučma</form>
-<tag lemma="Kučma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kučma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p1s1w3">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln94204-88-p2s1Bw4</LM>
 </w.rf>
 <form>Kučma</form>
-<tag lemma="Kučma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kučma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-ln94204-88-p3s1w6</LM>
 </w.rf>
 <form>Zvjahilskyj</form>
-<tag lemma="Zvjahilskyj_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zvjahilskyj_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p3s1w7">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln94204-88-p3s2w1</LM>
 </w.rf>
 <form>Zvjahilskyj</form>
-<tag lemma="Zvjahilskyj_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zvjahilskyj_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p3s2w2">
 <src.rf>manual</src.rf>

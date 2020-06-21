@@ -172,7 +172,7 @@
 <LM>w#w-vesm9303-037-p1s1w20</LM>
 </w.rf>
 <form>Chabrabártym</form>
-<tag lemma="Chabrabárty_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Chabrabárty_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-vesm9303-037-p1s1w21">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 </w.rf>
 <form>Erbová</form>
 <tag>
-<AM lemma="Erbová_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Erbová_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="erbový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="erbový" src="auto">AAFS5----1A----</AM>
 <AM lemma="erbový" src="auto">AANP1----1A----</AM>
@@ -1135,7 +1135,7 @@
 <LM>w#w-vesm9303-037-p3s2w5</LM>
 </w.rf>
 <form>Omeljanski</form>
-<tag lemma="Omeljanski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Omeljanski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-037-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-vesm9303-037-p3s2w7</LM>
 </w.rf>
 <form>Söhngen</form>
-<tag lemma="Söhngen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Söhngen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-037-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 <LM>w#w-vesm9303-037-p3s3w9</LM>
 </w.rf>
 <form>Barker</form>
-<tag lemma="Barker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-037-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1519,7 +1519,7 @@
 </w.rf>
 <form>CO</form>
 <tag>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2672,7 +2672,7 @@
 <LM>w#w-vesm9303-037-p7s1w4</LM>
 </w.rf>
 <form>Řeháček</form>
-<tag lemma="Řeháček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Řeháček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-037-p7s1w5">
 <src.rf>manual</src.rf>

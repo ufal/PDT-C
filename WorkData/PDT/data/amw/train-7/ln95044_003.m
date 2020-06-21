@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-003-p1s1w2</LM>
 </w.rf>
 <form>petry</form>
-<tag lemma="petra-1_;R" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="petra-1_;m" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95044-003-p1s1w3">
 <src.rf>manual</src.rf>
@@ -181,8 +181,8 @@
 </w.rf>
 <form>Morris</form>
 <tag>
-<AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Morris-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Morris-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-003-p2s1Bw15">
@@ -239,7 +239,7 @@
 <LM>w#w-ln95044-003-p2s1Bw21</LM>
 </w.rf>
 <form>petry</form>
-<tag lemma="petra-1_;R" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="petra-1_;m" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95044-003-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-ln95044-003-p2s1Bw46</LM>
 </w.rf>
 <form>Reemtsma</form>
-<tag lemma="Reemtsma_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Reemtsma_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-003-p2s1Bw47">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 </w.rf>
 <form>Slovak</form>
 <tag>
-<AM lemma="Slovak_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Slovak_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Slovak-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -459,8 +459,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -472,7 +472,7 @@
 </w.rf>
 <form>Tabacco</form>
 <tag>
-<AM lemma="Tabacco_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tabacco_;m_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="Tabacco-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -692,7 +692,7 @@
 <LM>w#w-ln95044-003-p2s2w26</LM>
 </w.rf>
 <form>Republika</form>
-<tag lemma="Republika_;R_^(časopis)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Republika_;m_^(časopis)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-003-p2s2w27">
 <src.rf>manual</src.rf>

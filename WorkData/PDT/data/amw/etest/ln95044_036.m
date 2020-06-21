@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-036-p1s1w1</LM>
 </w.rf>
 <form>Baggio</form>
-<tag lemma="Baggio_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baggio_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-036-p1s1w2">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <LM>w#w-ln95044-036-p2s1Bw3</LM>
 </w.rf>
 <form>Baggia</form>
-<tag lemma="Baggio_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baggio_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-036-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <form>Juventusu</form>
 <tag>
 <AM lemma="Juventus" src="orig">NNIS2-----A----</AM>
-<AM lemma="Juventus_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Juventus_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-036-p2s2w6">
@@ -324,7 +324,7 @@
 <LM>w#w-ln95044-036-p2s2w24</LM>
 </w.rf>
 <form>Sampdorií</form>
-<tag lemma="Sampdoria_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sampdoria_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95044-036-p2s2w25">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-ln95044-036-p2s4w5</LM>
 </w.rf>
 <form>Baggio</form>
-<tag lemma="Baggio_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baggio_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-036-p2s4w6">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-ln95044-036-p2s4w9</LM>
 </w.rf>
 <form>Interem</form>
-<tag lemma="Inter_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Inter_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95044-036-p2s4w10">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <form>Juventus</form>
 <tag>
 <AM lemma="Juventus" src="orig">NNIS1-----A----</AM>
-<AM lemma="Juventus_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Juventus_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-036-p2s5w7">

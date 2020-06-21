@@ -85,7 +85,7 @@
 <LM>w#w-ln95041-037-p2s1Aw3</LM>
 </w.rf>
 <form>ipo</form>
-<tag lemma="ipo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ipo-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln95041-037-p2s1Aw4">
 <src.rf>manual</src.rf>

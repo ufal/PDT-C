@@ -53,7 +53,7 @@
 <LM>w#w-cmpr9406-050-p3s1w2</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-050-p3s1w3">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-cmpr9406-050-p3s3w4</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-050-p3s3w5">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-cmpr9406-050-p3s5w14</LM>
 </w.rf>
 <form>Greenwaldovi</form>
-<tag lemma="Greenwald_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Greenwald_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9406-050-p3s5w15">
 <src.rf>manual</src.rf>

@@ -29,8 +29,8 @@
 <form>Christie</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Christie_;S_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christie_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Christie-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-061-p1s1w3">
@@ -47,7 +47,7 @@
 <LM>w#w-mf920902-061-p1s1w4</LM>
 </w.rf>
 <form>Lewis</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lewis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-061-p1s1w5">
 <src.rf>manual</src.rf>
@@ -72,7 +72,7 @@
 </w.rf>
 <form>DOLARŮ</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -158,7 +158,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -175,8 +175,8 @@
 </w.rf>
 <form>Linford</form>
 <tag>
-<AM lemma="Linford_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Linford_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Linford_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Linford_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-061-p2s1w9">
@@ -187,8 +187,8 @@
 <form>Christie</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Christie_;S_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christie_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Christie-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-061-p2s1w10">
@@ -333,7 +333,7 @@
 <LM>w#w-mf920902-061-p2s1w27</LM>
 </w.rf>
 <form>Lewisem</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lewis_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-061-p2s1w28">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -782,7 +782,7 @@
 <LM>w#w-mf920902-061-p2s4Aw16</LM>
 </w.rf>
 <form>Kinga</form>
-<tag lemma="king_;L" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="king_;U" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-061-p2s4Aw17">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <form>Christie</form>
 <tag>
 <AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christie-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-061-p2s5w2">
@@ -1101,7 +1101,7 @@
 <LM>w#w-mf920902-061-p2s5w11</LM>
 </w.rf>
 <form>Adenikenovi</form>
-<tag lemma="Adeniken_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Adeniken_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-061-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 <LM>w#w-mf920902-061-p2s5w13</LM>
 </w.rf>
 <form>Lewis</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lewis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-061-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-mf920902-061-p2s5w21</LM>
 </w.rf>
 <form>Mitchellem</form>
-<tag lemma="Mitchell_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mitchell_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-061-p2s5w22">
 <src.rf>manual</src.rf>

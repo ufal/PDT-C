@@ -378,8 +378,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-005-p2s2w6">
@@ -481,7 +481,7 @@
 </w.rf>
 <form>Šutek</form>
 <tag>
-<AM lemma="Šutek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šutek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Šutka_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -882,7 +882,7 @@
 <LM>w#w-ln95044-005-p3s1w26</LM>
 </w.rf>
 <form>Chemitex</form>
-<tag lemma="Chemitex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemitex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95044-005-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 <LM>w#w-ln95044-005-p5s1w19</LM>
 </w.rf>
 <form>Tošovského</form>
-<tag lemma="Tošovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tošovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-005-p5s1w20">
 <src.rf>manual</src.rf>
@@ -2473,7 +2473,7 @@
 </w.rf>
 <form>Šutek</form>
 <tag>
-<AM lemma="Šutek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šutek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Šutka_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

@@ -44,8 +44,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-140-p1s1w5">
@@ -1279,7 +1279,7 @@
 <LM>w#w-ln94200-140-p6s1w6</LM>
 </w.rf>
 <form>Kuklety</form>
-<tag lemma="Kukleta_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kukleta_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-140-p6s1w7">
 <src.rf>manual</src.rf>

@@ -52,7 +52,7 @@
 <LM>w#w-lnd94104-038-p1s1Bw2</LM>
 </w.rf>
 <form>Martínková</form>
-<tag lemma="Martínková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Martínková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-038-p1s1C">
@@ -1834,7 +1834,7 @@
 <LM>w#w-lnd94104-038-p1s16w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-038-p1s16w3">
 <src.rf>manual</src.rf>
@@ -2208,7 +2208,7 @@
 <LM>w#w-lnd94104-038-p1s19Aw6</LM>
 </w.rf>
 <form>Vlach</form>
-<tag lemma="Vlach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-038-p1s19Aw7">
 <src.rf>manual</src.rf>

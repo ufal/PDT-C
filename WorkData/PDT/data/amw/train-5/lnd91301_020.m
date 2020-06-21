@@ -289,7 +289,7 @@
 <LM>w#w-lnd91301-020-p3s2w18</LM>
 </w.rf>
 <form>Amasia</form>
-<tag lemma="Amasia_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Amasia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-020-p3s2w19">
 <src.rf>manual</src.rf>

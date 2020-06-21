@@ -388,7 +388,7 @@
 </w.rf>
 <form>Koukol</form>
 <tag>
-<AM lemma="Koukol_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Koukol_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="koukol" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="koukol" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1053,8 +1053,8 @@
 </w.rf>
 <form>Koukola</form>
 <tag>
-<AM lemma="Koukol_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Koukola_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Koukol_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Koukola_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-076-p2s8w3">

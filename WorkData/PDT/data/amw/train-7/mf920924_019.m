@@ -1851,7 +1851,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2815,7 +2815,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3020,7 +3020,7 @@
 <LM>w#w-mf920924-019-p8s1w2</LM>
 </w.rf>
 <form>KORBEL</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-019-p9s1">
@@ -3540,7 +3540,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3958,9 +3958,9 @@
 </w.rf>
 <form>HC</form>
 <tag>
-<AM lemma="HC-3_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HC-3_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HC-1_:B_^(hockey_club)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="HC-2_:B_;K_,t_^(House_of_Commons)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="HC-2_:B_;m_,t_^(House_of_Commons)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="HC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3970,7 +3970,7 @@
 <LM>w#w-mf920924-019-p11s3w17</LM>
 </w.rf>
 <form>Gorin</form>
-<tag lemma="Gorin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gorin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-019-p11s3w18">
 <src.rf>manual</src.rf>
@@ -6126,7 +6126,7 @@
 <LM>w#w-mf920924-019-p14s1w2</LM>
 </w.rf>
 <form>SLAVÍK</form>
-<tag lemma="Slavík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slavík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

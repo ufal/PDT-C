@@ -72,7 +72,7 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -82,7 +82,7 @@
 <LM>w#w-lnd94101-063-p1s3w3</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-063-p1s3w4">
 <src.rf>manual</src.rf>
@@ -90,7 +90,7 @@
 <LM>w#w-lnd94101-063-p1s3w4</LM>
 </w.rf>
 <form>Woolsey</form>
-<tag lemma="Woolsey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Woolsey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-063-p1s3w5">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-lnd94101-063-p1s4w8</LM>
 </w.rf>
 <form>Ames</form>
-<tag lemma="Ames_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ames_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-063-p1s4w9">
 <src.rf>manual</src.rf>
@@ -301,9 +301,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-063-p1s4w18">
@@ -386,7 +386,7 @@
 <LM>w#w-lnd94101-063-p1s5w9</LM>
 </w.rf>
 <form>Woolsey</form>
-<tag lemma="Woolsey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Woolsey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-063-p1s5w10">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -822,7 +822,7 @@
 </w.rf>
 <form>CIA</form>
 <tag>
-<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;m_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

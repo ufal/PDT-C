@@ -1113,7 +1113,7 @@
 <LM>w#w-ln95044-085-p3s4w14</LM>
 </w.rf>
 <form>Rychetský</form>
-<tag lemma="Rychetský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rychetský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-085-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-ln95044-085-p3s4w16</LM>
 </w.rf>
 <form>Pithart</form>
-<tag lemma="Pithart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pithart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-085-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-ln95044-085-p3s4w18</LM>
 </w.rf>
 <form>Brunner</form>
-<tag lemma="Brunner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brunner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-085-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1988,7 +1988,7 @@
 <LM>w#w-ln95044-085-p4s6w5</LM>
 </w.rf>
 <form>Müllera</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-085-p4s6w6">
 <src.rf>manual</src.rf>
@@ -3279,8 +3279,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-085-p6s2w5">
@@ -3298,7 +3298,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-1_:B_;m_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3357,7 +3357,7 @@
 </w.rf>
 <form>OF</form>
 <tag>
-<AM lemma="OF_:B_;K_;p_^(Občanské_fórum)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OF_:B_;m_^(Občanské_fórum)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="OF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3415,7 +3415,7 @@
 <LM>w#w-ln95044-085-p6s2w20</LM>
 </w.rf>
 <form>Klausovi</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95044-085-p6s2w21">
 <src.rf>manual</src.rf>
@@ -3830,7 +3830,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-1_:B_;m_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

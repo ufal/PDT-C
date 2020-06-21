@@ -79,8 +79,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-41-p1s1w9">
@@ -885,7 +885,7 @@
 <LM>w#w-ln94207-41-p3s1w19</LM>
 </w.rf>
 <form>Kisslingová</form>
-<tag lemma="Kisslingová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kisslingová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-41-p3s1w20">
 <src.rf>manual</src.rf>
@@ -2455,7 +2455,7 @@
 <LM>w#w-ln94207-41-p5s1w4</LM>
 </w.rf>
 <form>Krotkého</form>
-<tag lemma="Krotký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Krotký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-41-p5s1w5">
 <src.rf>manual</src.rf>

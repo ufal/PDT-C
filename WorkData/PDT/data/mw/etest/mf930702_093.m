@@ -86,8 +86,8 @@
 </w.rf>
 <form>hč</form>
 <tag>
-<AM lemma="hč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-093-p2s1w4">
@@ -816,7 +816,7 @@
 <LM>w#w-mf930702-093-p3s2w13</LM>
 </w.rf>
 <form>Immig</form>
-<tag lemma="Immig_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Immig_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-093-p3s2w14">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln95040-026-p1s1w3</LM>
 </w.rf>
 <form>Kubíka</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95040-026-p2s1A">
@@ -105,7 +105,7 @@
 <form>Voda</form>
 <tag>
 <AM lemma="voda" src="orig">NNFS1-----A----</AM>
-<AM lemma="Voda-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Voda-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-026-p2s1Bw7">
@@ -178,7 +178,7 @@
 <LM>w#w-ln95040-026-p2s1Bw15</LM>
 </w.rf>
 <form>Kubíka</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95040-026-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <form>Voda</form>
 <tag>
 <AM lemma="voda" src="orig">NNFS1-----A----</AM>
-<AM lemma="Voda-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Voda-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-026-p2s2w17">
@@ -340,7 +340,7 @@
 <LM>w#w-ln95040-026-p2s3w1</LM>
 </w.rf>
 <form>Kubíkovi</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95040-026-p2s3w2">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln95040-026-p2s4w7</LM>
 </w.rf>
 <form>Vodovi</form>
-<tag lemma="Voda-1_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Voda-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95040-026-p2s4w8">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-ln95040-026-p2s4w28</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-026-p2s4w29">
 <src.rf>manual</src.rf>

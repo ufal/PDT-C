@@ -28,7 +28,7 @@
 </w.rf>
 <form>Teheran</form>
 <tag>
-<AM lemma="Teheran_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Teheran_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Teheran-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -39,7 +39,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -93,7 +93,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -788,7 +788,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -972,13 +972,13 @@
 </w.rf>
 <form>As</form>
 <tag>
-<AM lemma="As-4_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="As-4_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="As-2_:B_,t_^(altostratus,_druh_oblaků)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="As-3_:B_;H_^(arsenicum,_arsen)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="As-3_:B_;U_^(arsenicum,_arsen)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Asa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="as-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="As-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -998,7 +998,7 @@
 </w.rf>
 <form>Safir</form>
 <tag>
-<AM lemma="Safir_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Safir_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Safira_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="safir_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Safir-77" src="manual" selected="1">F%-------------</AM>
@@ -1043,7 +1043,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1538,9 +1538,9 @@
 </w.rf>
 <form>Libération</form>
 <tag>
-<AM lemma="Libération_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Libération_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Libération_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Libération_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Libération_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Libération_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-038-p5s2w12">
@@ -1773,7 +1773,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1784,7 +1784,7 @@
 </w.rf>
 <form>Quotidien</form>
 <tag>
-<AM lemma="Quotidien_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Quotidien_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Quotidien-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1806,11 +1806,11 @@
 </w.rf>
 <form>Paris</form>
 <tag>
-<AM lemma="Paris-2_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Paris-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paris-2_;G" src="auto">NNFSX-----A----</AM>
-<AM lemma="Paris-3_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
-<AM lemma="Paris_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-2_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Paris-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-2_;G" src="auto">NNFXX-----A----</AM>
+<AM lemma="Paris-3_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Paris_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Paris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

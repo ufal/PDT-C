@@ -739,7 +739,7 @@
 <LM>w#w-cmpr9417-013-p7s3w7</LM>
 </w.rf>
 <form>Expo</form>
-<tag lemma="Expo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Expo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-013-p7s3w8">
 <src.rf>manual</src.rf>
@@ -2274,8 +2274,8 @@
 <form>EUR</form>
 <tag>
 <AM lemma="EUR_:B_^(certifikát)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="euro-2_:B_;b_^(evr._měna)" src="auto">Xx-------------</AM>
-<AM lemma="euro-2_;b_^(evr._měna)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="euro-2_:B_^(evr._měna)" src="auto">Xx-------------</AM>
+<AM lemma="euro-2_^(evr._měna)" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="EUR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2303,8 +2303,8 @@
 <form>EUR</form>
 <tag>
 <AM lemma="EUR_:B_^(certifikát)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="euro-2_:B_;b_^(evr._měna)" src="auto">Xx-------------</AM>
-<AM lemma="euro-2_;b_^(evr._měna)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="euro-2_:B_^(evr._měna)" src="auto">Xx-------------</AM>
+<AM lemma="euro-2_^(evr._měna)" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="EUR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3377,7 +3377,7 @@
 <LM>w#w-cmpr9417-013-p14s1w8</LM>
 </w.rf>
 <form>Masarykova</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9417-013-p14s1w9">
 <src.rf>manual</src.rf>

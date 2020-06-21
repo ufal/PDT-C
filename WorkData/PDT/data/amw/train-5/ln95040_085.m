@@ -232,7 +232,7 @@
 </w.rf>
 <form>Jediot</form>
 <tag>
-<AM lemma="Jediot_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Jediot_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Jediot-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>Achronot</form>
 <tag>
-<AM lemma="Achronot_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Achronot_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Achronot-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -286,8 +286,8 @@
 </w.rf>
 <form>Amr</form>
 <tag>
-<AM lemma="Amr_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Amr_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Amr_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Amr_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-085-p2s1Bw26">
@@ -297,9 +297,9 @@
 </w.rf>
 <form>Músá</form>
 <tag>
-<AM lemma="Músá_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Músá_;S_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Músá_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Músá_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Músá_;Y_,t" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Músá_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-085-p2s1Bw27">
@@ -891,7 +891,7 @@
 </w.rf>
 <form>NPT</form>
 <tag>
-<AM lemma="NPT-1_:B_;R_,t_^(Nonproliferation_Treaty)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NPT-1_:B_;m_,t_^(Nonproliferation_Treaty)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -917,7 +917,7 @@
 <LM>w#w-ln95040-085-p3s2w14</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln95040-085-p3s2w15">
 <src.rf>manual</src.rf>

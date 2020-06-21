@@ -51,7 +51,7 @@
 <LM>w#w-ln95047-126-p1s1w5</LM>
 </w.rf>
 <form>Tatru</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-126-p1s1w6">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln95047-126-p2s1Bw8</LM>
 </w.rf>
 <form>Tatru</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-126-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln95047-126-p2s1Bw21</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95047-126-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln95047-126-p2s1Bw27</LM>
 </w.rf>
 <form>Beneda</form>
-<tag lemma="Beneda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-ln95047-126-p4s1w4</LM>
 </w.rf>
 <form>Procházka</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p4s1w5">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-ln95047-126-p4s2w1</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95047-126-p4s2w2">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-ln95047-126-p4s3w1</LM>
 </w.rf>
 <form>Beneda</form>
-<tag lemma="Beneda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p4s3w2">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-ln95047-126-p4s3w5</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln95047-126-p5s1w2</LM>
 </w.rf>
 <form>Benedy</form>
-<tag lemma="Beneda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Beneda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-126-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-ln95047-126-p5s2w1</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-ln95047-126-p5s2w16</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-126-p5s2w17">
 <src.rf>manual</src.rf>
@@ -1362,7 +1362,7 @@
 <LM>w#w-ln95047-126-p5s3w1</LM>
 </w.rf>
 <form>Beneda</form>
-<tag lemma="Beneda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1395,8 +1395,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-126-p5s3w6">
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln95047-126-p5s3w8</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-126-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 <LM>w#w-ln95047-126-p5s4w18</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-126-p5s4w19">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 <LM>w#w-ln95047-126-p5s6w11</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p5s6w12">
 <src.rf>manual</src.rf>
@@ -1857,7 +1857,7 @@
 <LM>w#w-ln95047-126-p6s1w1</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1988,7 +1988,7 @@
 <LM>w#w-ln95047-126-p6s2w2</LM>
 </w.rf>
 <form>Biocelu</form>
-<tag lemma="Biocel_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Biocel_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95047-126-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1997,7 +1997,7 @@
 </w.rf>
 <form>Paskov</form>
 <tag>
-<AM lemma="Paskov-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paskov-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Paskov-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -2177,7 +2177,7 @@
 <LM>w#w-ln95047-126-p6s3w1</LM>
 </w.rf>
 <form>Biocel</form>
-<tag lemma="Biocel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Biocel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2307,7 +2307,7 @@
 <LM>w#w-ln95047-126-p7s1w3</LM>
 </w.rf>
 <form>Biocel</form>
-<tag lemma="Biocel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Biocel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-126-p7s1w4">
 <src.rf>manual</src.rf>

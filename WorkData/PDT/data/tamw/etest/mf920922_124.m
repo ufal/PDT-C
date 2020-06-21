@@ -351,7 +351,7 @@
 <LM>w#w-mf920922-124-p2s2w28</LM>
 </w.rf>
 <form>Delorsem</form>
-<tag lemma="Delors_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Delors_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-124-p2s2w29">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-mf920922-124-p4s1w3</LM>
 </w.rf>
 <form>Delors</form>
-<tag lemma="Delors_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Delors_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-124-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1621,7 +1621,7 @@
 <LM>w#w-mf920922-124-p5s1w8</LM>
 </w.rf>
 <form>Delorsova</form>
-<tag lemma="Delorsův_;S_^(*2)" src="orig" selected="1">AUNP1M---------</tag>
+<tag lemma="Delorsův_;Y_^(*2)" src="orig" selected="1">AUNP1M---------</tag>
 </m>
 <m id="m-mf920922-124-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 </w.rf>
 <form>Catharine</form>
 <tag>
-<AM lemma="Catharine_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Catharine_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Catharine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -2037,7 +2037,7 @@
 <LM>w#w-mf920922-124-p6s1w6</LM>
 </w.rf>
 <form>Lalumierová</form>
-<tag lemma="Lalumierová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lalumierová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-124-p6s1w7">
 <src.rf>manual</src.rf>
@@ -3760,7 +3760,7 @@
 <LM>w#w-mf920922-124-p8s1w46</LM>
 </w.rf>
 <form>Pflimlin</form>
-<tag lemma="Pflimlin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pflimlin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-124-p8s1w47">
 <src.rf>manual</src.rf>
@@ -4686,7 +4686,7 @@
 <LM>w#w-mf920922-124-p11s1w12</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-124-p11s1w13">
 <src.rf>manual</src.rf>

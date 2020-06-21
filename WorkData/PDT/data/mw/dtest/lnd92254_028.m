@@ -355,7 +355,7 @@
 <LM>w#w-lnd92254-028-p2s1w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-028-p2s1w3">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-lnd92254-028-p2s1w5</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-028-p2s1w6">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -965,7 +965,7 @@
 <LM>w#w-lnd92254-028-p3s1w36</LM>
 </w.rf>
 <form>Attali</form>
-<tag lemma="Attali_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Attali_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-028-p3s1w37">
 <src.rf>manual</src.rf>

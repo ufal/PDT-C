@@ -27,7 +27,7 @@
 <LM>w#w-lnd94103-110-p1s1Aw2</LM>
 </w.rf>
 <form>Senna</form>
-<tag lemma="Senna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Senna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-110-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-lnd94103-110-p1s1Aw7</LM>
 </w.rf>
 <form>williamsu</form>
-<tag lemma="Williams-2_;R_,t_^(vozidlo)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Williams-2_;m_,t_^(vozidlo)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-110-p1s1B">
@@ -86,8 +86,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

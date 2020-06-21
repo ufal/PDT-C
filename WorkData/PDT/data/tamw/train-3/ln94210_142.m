@@ -94,8 +94,8 @@
 </w.rf>
 <form>bo</form>
 <tag>
-<AM lemma="bo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bo-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bo-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bo-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-142-p2s1Aw4">
@@ -255,7 +255,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -698,7 +698,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

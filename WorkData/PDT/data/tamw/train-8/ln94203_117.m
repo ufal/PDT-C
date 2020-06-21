@@ -19,7 +19,7 @@
 <LM>w#w-ln94203-117-p1s1w1</LM>
 </w.rf>
 <form>Binič</form>
-<tag lemma="Binič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Binič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-117-p1s1w2">
 <src.rf>manual</src.rf>
@@ -62,7 +62,7 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ber-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -106,7 +106,7 @@
 <LM>w#w-ln94203-117-p2s1Bw3</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-117-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-ln94203-117-p2s1Bw6</LM>
 </w.rf>
 <form>Binič</form>
-<tag lemma="Binič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Binič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-117-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 </w.rf>
 <form>CZ</form>
 <tag>
-<AM lemma="CZ-2_:B_;K_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="CZ-2_:B_;m_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="CZ-1_:B_^(ISO_2p._zkratka_pro_Českou_rep.)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="CZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -346,7 +346,7 @@
 <LM>w#w-ln94203-117-p2s3w4</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94203-117-p2s3w5">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln94203-117-p2s4w1</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94203-117-p2s4w2">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-ln94203-117-p2s4w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-117-p2s4w15">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln94203-117-p2s4w17</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-117-p2s4w18">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-ln94203-117-p2s4w21</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-117-p2s4w22">
 <src.rf>manual</src.rf>

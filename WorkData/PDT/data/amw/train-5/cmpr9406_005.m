@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9406-005-p1s1w3</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p1s1w4">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-cmpr9406-005-p3s1w8</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p3s1w9">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <form>Greenwaldem</form>
 <tag>
 <AM lemma="Greenwald_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Greenwald-2_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Greenwald-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p3s1w18">
@@ -655,7 +655,7 @@
 <LM>w#w-cmpr9406-005-p5s1w3</LM>
 </w.rf>
 <form>Kaňa</form>
-<tag lemma="Kaňa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaňa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p5s1w4">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-cmpr9406-005-p5s1w6</LM>
 </w.rf>
 <form>Winter</form>
-<tag lemma="Winter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Winter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-005-p7s1">
@@ -946,7 +946,7 @@
 </w.rf>
 <form>GSR</form>
 <tag>
-<AM lemma="GSR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1081,10 +1081,10 @@
 </w.rf>
 <form>Greenwald</form>
 <tag>
-<AM lemma="Greenwald_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Greenwald_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Greenwald-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Greenwald-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p7s3w4">
@@ -1181,7 +1181,7 @@
 <LM>w#w-cmpr9406-005-p7s3w15</LM>
 </w.rf>
 <form>Chrysler</form>
-<tag lemma="Chrysler-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chrysler-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p7s3w16">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-cmpr9406-005-p7s3w20</LM>
 </w.rf>
 <form>Iacoccou</form>
-<tag lemma="Iacocca_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Iacocca_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p7s3w21">
 <src.rf>manual</src.rf>
@@ -1604,7 +1604,7 @@
 <LM>w#w-cmpr9406-005-p8s2w26</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p8s2w27">
 <src.rf>manual</src.rf>
@@ -2473,7 +2473,7 @@
 <LM>w#w-cmpr9406-005-p12s2w21</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p12s2w22">
 <src.rf>manual</src.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-cmpr9406-005-p14s2w14</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p14s2w15">
 <src.rf>manual</src.rf>
@@ -3226,7 +3226,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3604,7 +3604,7 @@
 <LM>w#w-cmpr9406-005-p14s7w6</LM>
 </w.rf>
 <form>Tatru</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p14s7w7">
 <src.rf>manual</src.rf>
@@ -3988,7 +3988,7 @@
 <LM>w#w-cmpr9406-005-p16s1w7</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p16s1w8">
 <src.rf>manual</src.rf>
@@ -5194,11 +5194,11 @@
 </w.rf>
 <form>tatry</form>
 <tag>
-<AM lemma="Tatra-2_;R_^(vozidlo)" src="orig">NNFS2-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP4-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="tatra_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Tatra-2_;m_^(vozidlo)" src="orig">NNFS2-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="tatra_;m" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p21s1w9">
@@ -6961,7 +6961,7 @@
 <LM>w#w-cmpr9406-005-p25s1w3</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p25s1w4">
 <src.rf>manual</src.rf>
@@ -6985,7 +6985,7 @@
 <LM>w#w-cmpr9406-005-p25s1w6</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p25s1w7">
 <src.rf>manual</src.rf>
@@ -7263,7 +7263,7 @@
 <LM>w#w-cmpr9406-005-p26s1w10</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p26s1w11">
 <src.rf>manual</src.rf>
@@ -7924,8 +7924,8 @@
 </w.rf>
 <form>tater</form>
 <tag>
-<AM lemma="Tatra-2_;R_^(vozidlo)" src="orig">NNFP2-----A----</AM>
-<AM lemma="tatra_;R" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
+<AM lemma="Tatra-2_;m_^(vozidlo)" src="orig">NNFP2-----A----</AM>
+<AM lemma="tatra_;m" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p27s2w4">
@@ -8212,7 +8212,7 @@
 <LM>w#w-cmpr9406-005-p28s2w5</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p28s2w6">
 <src.rf>manual</src.rf>
@@ -8984,8 +8984,8 @@
 </w.rf>
 <form>tatra</form>
 <tag>
-<AM lemma="Tatra-2_;R_^(vozidlo)" src="orig">NNFS1-----A----</AM>
-<AM lemma="tatra_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tatra-2_;m_^(vozidlo)" src="orig">NNFS1-----A----</AM>
+<AM lemma="tatra_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p28s10w8">
@@ -9403,11 +9403,11 @@
 </w.rf>
 <form>tatry</form>
 <tag>
-<AM lemma="Tatra-2_;R_^(vozidlo)" src="orig">NNFP4-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="tatra_;R" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFS2-----A----</AM>
+<AM lemma="Tatra-2_;m_^(vozidlo)" src="orig">NNFP4-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="tatra_;m" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p30s2w9">
@@ -9566,8 +9566,8 @@
 </w.rf>
 <form>tatru</form>
 <tag>
-<AM lemma="Tatra-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="tatra_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Tatra-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="tatra_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p30s3w13">
@@ -9592,7 +9592,7 @@
 <LM>w#w-cmpr9406-005-p30s3w15</LM>
 </w.rf>
 <form>Deutz</form>
-<tag lemma="Deutz_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Deutz_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p30s3w16">
 <src.rf>manual</src.rf>
@@ -9813,11 +9813,11 @@
 </w.rf>
 <form>tatry</form>
 <tag>
-<AM lemma="Tatra-2_;R_^(vozidlo)" src="orig">NNFP4-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="tatra_;R" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFS2-----A----</AM>
+<AM lemma="Tatra-2_;m_^(vozidlo)" src="orig">NNFP4-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="tatra_;m" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p31s1w8">
@@ -10114,7 +10114,7 @@
 <LM>w#w-cmpr9406-005-p32s4w2</LM>
 </w.rf>
 <form>Kamazu</form>
-<tag lemma="Kamaz_;K_;R" src="auto" selected="1">NNIS3-----A----</tag>
+<tag lemma="Kamaz_;m" src="auto" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p32s4w3">
 <src.rf>manual</src.rf>
@@ -10202,7 +10202,7 @@
 <LM>w#w-cmpr9406-005-p32s4w14</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p32s4w15">
 <src.rf>manual</src.rf>
@@ -10292,7 +10292,7 @@
 <LM>w#w-cmpr9406-005-p33s1w10</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p33s1w11">
 <src.rf>manual</src.rf>
@@ -10318,7 +10318,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t_^(např._cash_flow)" src="orig">AAXXX----1A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -10491,7 +10491,7 @@
 <LM>w#w-cmpr9406-005-p34s2w3</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p34s2w4">
 <src.rf>manual</src.rf>
@@ -10690,7 +10690,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t_^(např._cash_flow)" src="orig">AAXXX----1A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -10943,7 +10943,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t_^(např._cash_flow)" src="orig">AAXXX----1A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -11203,7 +11203,7 @@
 <LM>w#w-cmpr9406-005-p35s1w6</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p35s1w7">
 <src.rf>manual</src.rf>
@@ -11243,7 +11243,7 @@
 <LM>w#w-cmpr9406-005-p35s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-005-p35s1w12">
 <src.rf>manual</src.rf>
@@ -12109,7 +12109,7 @@
 <LM>w#w-cmpr9406-005-p37s1w2</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p37s1w3">
 <src.rf>manual</src.rf>
@@ -13009,7 +13009,7 @@
 <LM>w#w-cmpr9406-005-p39s1w8</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p39s1w9">
 <src.rf>manual</src.rf>
@@ -13208,7 +13208,7 @@
 <LM>w#w-cmpr9406-005-p40s2w1</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p40s2w2">
 <src.rf>manual</src.rf>
@@ -13538,7 +13538,7 @@
 <LM>w#w-cmpr9406-005-p41s1w6</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p41s1w7">
 <src.rf>manual</src.rf>
@@ -14683,7 +14683,7 @@
 <LM>w#w-cmpr9406-005-p45s1w6</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p45s1w7">
 <src.rf>manual</src.rf>
@@ -14731,7 +14731,7 @@
 <LM>w#w-cmpr9406-005-p45s1w12</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p45s1w13">
 <src.rf>manual</src.rf>
@@ -15071,11 +15071,11 @@
 </w.rf>
 <form>tatry</form>
 <tag>
-<AM lemma="Tatra-2_;R_^(vozidlo)" src="orig">NNFS2-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP1-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP4-----A----</AM>
-<AM lemma="tatra_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="tatra_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Tatra-2_;m_^(vozidlo)" src="orig">NNFS2-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="tatra_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="tatra_;m" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p47s1w9">
@@ -15618,7 +15618,7 @@
 <LM>w#w-cmpr9406-005-p50s3w1</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p50s3w2">
 <src.rf>manual</src.rf>
@@ -16658,7 +16658,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t_^(např._cash_flow)" src="orig">AAXXX----1A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -16835,7 +16835,7 @@
 <LM>w#w-cmpr9406-005-p55s1w8</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p55s1w9">
 <src.rf>manual</src.rf>
@@ -16979,7 +16979,7 @@
 <LM>w#w-cmpr9406-005-p55s1w26</LM>
 </w.rf>
 <form>Chryslera</form>
-<tag lemma="Chrysler-1_;K_;R" src="auto" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Chrysler-1_;m" src="auto" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-cmpr9406-005-p55s1w27">
 <src.rf>manual</src.rf>
@@ -17165,7 +17165,7 @@
 <LM>w#w-cmpr9406-005-p56s3w3</LM>
 </w.rf>
 <form>Chrysleru</form>
-<tag lemma="Chrysler-1_;K_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Chrysler-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p56s3w4">
 <src.rf>manual</src.rf>
@@ -17353,7 +17353,7 @@
 <LM>w#w-cmpr9406-005-p56s5w3</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p56s5w4">
 <src.rf>manual</src.rf>
@@ -17467,7 +17467,7 @@
 <LM>w#w-cmpr9406-005-p56s6w9</LM>
 </w.rf>
 <form>Chrysler</form>
-<tag lemma="Chrysler-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chrysler-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p56s6w10">
 <src.rf>manual</src.rf>
@@ -17507,7 +17507,7 @@
 <LM>w#w-cmpr9406-005-p56s6w14</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p56s6w15">
 <src.rf>manual</src.rf>
@@ -17605,7 +17605,7 @@
 <LM>w#w-cmpr9406-005-p56s7w11</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p56s7w12">
 <src.rf>manual</src.rf>
@@ -17791,7 +17791,7 @@
 <LM>w#w-cmpr9406-005-p57s1w12</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p57s1w13">
 <src.rf>manual</src.rf>
@@ -18075,7 +18075,7 @@
 <LM>w#w-cmpr9406-005-p58s2w11</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p58s2w12">
 <src.rf>manual</src.rf>
@@ -18413,7 +18413,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -18424,7 +18424,7 @@
 </w.rf>
 <form>Airlines</form>
 <tag>
-<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto">NNFPX-----A----</AM>
+<AM lemma="Airlines_;m_,t_^(souč._názvů,_např._American_A.)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -18670,7 +18670,7 @@
 <LM>w#w-cmpr9406-005-p59s3w10</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p59s3w11">
 <src.rf>manual</src.rf>
@@ -18809,8 +18809,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-005-p60s1w17">
@@ -18935,7 +18935,7 @@
 <LM>w#w-cmpr9406-005-p62s1w8</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p62s1w9">
 <src.rf>manual</src.rf>
@@ -19155,7 +19155,7 @@
 <LM>w#w-cmpr9406-005-p63s1w11</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p63s1w12">
 <src.rf>manual</src.rf>

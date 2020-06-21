@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9415-012-p2s1w3</LM>
 </w.rf>
 <form>Goldair</form>
-<tag lemma="Goldair_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Goldair_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-012-p3s1">
@@ -154,8 +154,8 @@
 </w.rf>
 <form>Kronos</form>
 <tag>
-<AM lemma="Kronos_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kronos-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kronos_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kronos-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p4s1w6">
@@ -801,9 +801,9 @@
 </w.rf>
 <form>Thessaloniki</form>
 <tag>
-<AM lemma="Thessaloniki_;u_,t_^(název_festivalu)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Thessaloniki_;G_;K_,s_^(^DD**Tesalonika)" src="manual">NNNS2-----A----</AM>
-<AM lemma="Thessaloniki_;G_;K_,s_^(^DD**Tesalonika)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Thessaloniki_,t_^(název_festivalu)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Thessaloniki_;G_;m_,s_^(^DD**Tesalonika)" src="manual">NNNS2-----A----</AM>
+<AM lemma="Thessaloniki_;G_;m_,s_^(^DD**Tesalonika)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p9s3w11">
@@ -923,7 +923,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

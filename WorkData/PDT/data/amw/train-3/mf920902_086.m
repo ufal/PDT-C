@@ -261,7 +261,7 @@
 </w.rf>
 <form>ATP</form>
 <tag>
-<AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ATP-1_:B_;m_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ATP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -272,7 +272,7 @@
 </w.rf>
 <form>Tour</form>
 <tag>
-<AM lemma="Tour_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Tour-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -316,7 +316,7 @@
 <LM>w#w-mf920902-086-p1s32w1</LM>
 </w.rf>
 <form>Složil</form>
-<tag lemma="Složil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Složil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-086-p1s32w2">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-mf920902-086-p1s32w3</LM>
 </w.rf>
 <form>Šrejber</form>
-<tag lemma="Šrejber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrejber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-086-p1s32w4">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-mf920902-086-p1s34w1</LM>
 </w.rf>
 <form>Složil</form>
-<tag lemma="Složil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Složil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-086-p1s34w2">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-mf920902-086-p1s34w3</LM>
 </w.rf>
 <form>Šrejber</form>
-<tag lemma="Šrejber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrejber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-086-p1s34w4">
 <src.rf>manual</src.rf>

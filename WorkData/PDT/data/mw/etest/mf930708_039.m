@@ -20,7 +20,7 @@
 </w.rf>
 <form>Voest</form>
 <tag>
-<AM lemma="Voest_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Voest_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Voest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -31,8 +31,8 @@
 </w.rf>
 <form>Alpine</form>
 <tag>
-<AM lemma="Alpine_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Alpine_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Alpine_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Alpine_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Alpine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -84,7 +84,7 @@
 <LM>w#w-mf930708-039-p2s1w1</LM>
 </w.rf>
 <form>Paskov</form>
-<tag lemma="Paskov-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paskov-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-039-p2s1w2">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 </w.rf>
 <form>Voest</form>
 <tag>
-<AM lemma="Voest_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Voest_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Voest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -195,8 +195,8 @@
 </w.rf>
 <form>Alpine</form>
 <tag>
-<AM lemma="Alpine_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Alpine_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Alpine_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Alpine_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Alpine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -284,7 +284,7 @@
 <LM>w#w-mf930708-039-p2s1w24</LM>
 </w.rf>
 <form>Paskov</form>
-<tag lemma="Paskov-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paskov-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-039-p2s1w25">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-mf930708-039-p2s4w6</LM>
 </w.rf>
 <form>Nesita</form>
-<tag lemma="Nesit_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nesit_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-039-p2s4w7">
 <src.rf>manual</src.rf>

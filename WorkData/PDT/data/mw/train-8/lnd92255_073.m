@@ -304,7 +304,7 @@
 </w.rf>
 <form>VOX</form>
 <tag>
-<AM lemma="Vox_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Vox_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="VOX-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -315,7 +315,7 @@
 </w.rf>
 <form>POPULI</form>
 <tag>
-<AM lemma="Populi_;K_,t" src="orig">NNMP2-----A----</AM>
+<AM lemma="Populi_;m_,t" src="orig">NNMP2-----A----</AM>
 <AM lemma="POPULI-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

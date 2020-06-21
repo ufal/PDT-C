@@ -120,9 +120,9 @@
 </w.rf>
 <form>Les</form>
 <tag>
-<AM lemma="Les-1_;K_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAXPX----1A----</AM>
-<AM lemma="Les-1_;K_,t_^(součást_cizích_jmen)" src="auto">XX-------------</AM>
+<AM lemma="Les-1_;m_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Les-1_;m_,t_^(součást_cizích_jmen)" src="auto">XX-------------</AM>
 <AM lemma="Les-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto">NNIS1-----A----</AM>
@@ -139,7 +139,7 @@
 </w.rf>
 <form>Affaires</form>
 <tag>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="orig">NNNPX-----A----</AM>
+<AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="orig">NNNXX-----A----</AM>
 <AM lemma="affaires_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Affaires-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -739,7 +739,7 @@
 </w.rf>
 <form>Pírek</form>
 <tag>
-<AM lemma="Pírek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pírek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pírko" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -776,8 +776,8 @@
 </w.rf>
 <form>ČSA</form>
 <tag>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-005-p9s1w5">
@@ -1493,8 +1493,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-005-p11s2w18">
@@ -2082,7 +2082,7 @@
 <LM>w#w-cmpr9415-005-p11s6w13</LM>
 </w.rf>
 <form>Pratt</form>
-<tag lemma="Pratt-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pratt-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p11s6w14">
 <src.rf>manual</src.rf>
@@ -2098,7 +2098,7 @@
 <LM>w#w-cmpr9415-005-p11s6w15</LM>
 </w.rf>
 <form>Whitney</form>
-<tag lemma="Whitney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Whitney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p11s6w16">
 <src.rf>manual</src.rf>
@@ -2130,7 +2130,7 @@
 <LM>w#w-cmpr9415-005-p11s6w19</LM>
 </w.rf>
 <form>Canstar</form>
-<tag lemma="Canstar_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Canstar_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p11s6w20">
 <src.rf>manual</src.rf>
@@ -2155,8 +2155,8 @@
 </w.rf>
 <form>Daishowa</form>
 <tag>
-<AM lemma="Daishowa_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Daishowa_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Daishowa_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Daishowa_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-005-p11s6w23">
@@ -2282,9 +2282,9 @@
 </w.rf>
 <form>Les</form>
 <tag>
-<AM lemma="Les-1_;K_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAXPX----1A----</AM>
-<AM lemma="Les-1_;K_,t_^(součást_cizích_jmen)" src="auto">XX-------------</AM>
+<AM lemma="Les-1_;m_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Les-1_;m_,t_^(součást_cizích_jmen)" src="auto">XX-------------</AM>
 <AM lemma="Les-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto">NNIS1-----A----</AM>
@@ -2300,8 +2300,8 @@
 </w.rf>
 <form>Affaires</form>
 <tag>
-<AM lemma="Affaire-2_;K_,t" src="orig">NNFPX-----A----</AM>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="auto" recommended="1">NNNPX-----A----</AM>
+<AM lemma="Affaire-2_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="affaires_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Affaires-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2608,7 +2608,7 @@
 <LM>w#w-cmpr9415-005-p13s5w3</LM>
 </w.rf>
 <form>Bell</form>
-<tag lemma="Bell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p13s5w4">
 <src.rf>manual</src.rf>
@@ -2789,7 +2789,7 @@
 <LM>w#w-cmpr9415-005-p14s1w6</LM>
 </w.rf>
 <form>Bombardier</form>
-<tag lemma="Bombardier_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bombardier_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p14s1w7">
 <src.rf>manual</src.rf>

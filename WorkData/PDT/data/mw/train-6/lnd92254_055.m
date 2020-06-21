@@ -130,7 +130,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -399,7 +399,7 @@
 </w.rf>
 <form>UPK</form>
 <tag>
-<AM lemma="UPK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="UPK_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="UPK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -425,7 +425,7 @@
 <LM>w#w-lnd92254-055-p3s3w11</LM>
 </w.rf>
 <form>Talabáního</form>
-<tag lemma="Talabání_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Talabání_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s3w12">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -795,7 +795,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1165,7 +1165,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

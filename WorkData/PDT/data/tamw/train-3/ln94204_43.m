@@ -86,8 +86,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-43-p2s1Aw4">
@@ -578,8 +578,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-43-p4s1w12">
@@ -963,8 +963,8 @@
 </w.rf>
 <form>Konstruktiva</form>
 <tag>
-<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva_;Y_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-43-p6s1w4">

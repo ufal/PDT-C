@@ -663,8 +663,8 @@
 </w.rf>
 <form>Curtis</form>
 <tag>
-<AM lemma="Curtis-2_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Curtis-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Curtis-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Curtis-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-115-p2s4w12">
@@ -673,7 +673,7 @@
 <LM>w#w-ln94200-115-p2s4w12</LM>
 </w.rf>
 <form>Simmons</form>
-<tag lemma="Simmons_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Simmons_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-115-p2s4w13">
 <src.rf>manual</src.rf>

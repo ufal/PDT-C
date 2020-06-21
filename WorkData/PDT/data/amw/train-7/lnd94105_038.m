@@ -43,7 +43,7 @@
 <LM>w#w-lnd94105-038-p1s1Aw4</LM>
 </w.rf>
 <form>Kopečnou</form>
-<tag lemma="Kopečná_;S_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Kopečná_;Y_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94105-038-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-lnd94105-038-p1s6w2</LM>
 </w.rf>
 <form>js</form>
-<tag lemma="js-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="js-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-038-p1s6w3">
 <src.rf>manual</src.rf>

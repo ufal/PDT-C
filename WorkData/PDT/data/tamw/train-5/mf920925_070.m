@@ -864,7 +864,7 @@
 <LM>w#w-mf920925-070-p5s1w7</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-070-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-mf920925-070-p5s3w11</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-070-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1874,7 +1874,7 @@
 </w.rf>
 <form>ČSD</form>
 <tag>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2865,7 +2865,7 @@
 <LM>w#w-mf920925-070-p5s10w6</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-070-p5s10w7">
 <src.rf>manual</src.rf>

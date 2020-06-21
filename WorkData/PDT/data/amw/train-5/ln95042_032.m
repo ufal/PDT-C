@@ -35,7 +35,7 @@
 <LM>w#w-ln95042-032-p1s1w3</LM>
 </w.rf>
 <form>Romária</form>
-<tag lemma="Romário_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Romário_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-032-p2s1A">
@@ -95,7 +95,7 @@
 <LM>w#w-ln95042-032-p2s1Bw5</LM>
 </w.rf>
 <form>Romária</form>
-<tag lemma="Romário_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Romário_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-032-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95042-032-p2s2w9</LM>
 </w.rf>
 <form>Ricarda</form>
-<tag lemma="Ricardo_;S_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ricardo_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-032-p2s2w10">
 <src.rf>manual</src.rf>
@@ -274,9 +274,9 @@
 </w.rf>
 <form>Teixeiry</form>
 <tag>
-<AM lemma="Teixeira_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Teixeir_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Teixeir_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Teixeira_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Teixeir_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Teixeir_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-032-p2s2w11">
@@ -313,7 +313,7 @@
 <LM>w#w-ln95042-032-p2s2w14</LM>
 </w.rf>
 <form>Zagalem</form>
-<tag lemma="Zagal_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zagal_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95042-032-p2s2w15">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln95042-032-p2s3w3</LM>
 </w.rf>
 <form>Romáriův</form>
-<tag lemma="Romáriův_;S_^(*2o)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Romáriův_;Y_^(*2o)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95042-032-p2s3w4">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-ln95042-032-p2s4w6</LM>
 </w.rf>
 <form>Atletico</form>
-<tag lemma="Atletico_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Atletico_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95042-032-p2s4w7">
 <src.rf>manual</src.rf>
@@ -454,8 +454,8 @@
 </w.rf>
 <form>Mineiro</form>
 <tag>
-<AM lemma="Mineiro_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mineiro-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mineiro_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mineiro-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-032-p2s4w8">
@@ -464,7 +464,7 @@
 <LM>w#w-ln95042-032-p2s4w8</LM>
 </w.rf>
 <form>Reinaldo</form>
-<tag lemma="Reinaldo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reinaldo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-032-p2s4w9">
 <src.rf>manual</src.rf>

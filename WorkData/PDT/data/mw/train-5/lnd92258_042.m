@@ -260,7 +260,7 @@
 <LM>w#w-lnd92258-042-p4s1w3</LM>
 </w.rf>
 <form>mlp</form>
-<tag lemma="mlp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mlp-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-042-p4s1w4">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <form>Papoušek</form>
 <tag>
 <AM lemma="papoušek" src="orig">NNMS1-----A----</AM>
-<AM lemma="Papoušek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Papoušek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-042-p5s1w42">
@@ -1662,7 +1662,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-042-p6s1w23">
@@ -1679,7 +1679,7 @@
 <LM>w#w-lnd92258-042-p6s1w24</LM>
 </w.rf>
 <form>Papoušek</form>
-<tag lemma="Papoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Papoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-042-p6s1w25">
 <src.rf>manual</src.rf>
@@ -2436,7 +2436,7 @@
 <LM>w#w-lnd92258-042-p7s3w22</LM>
 </w.rf>
 <form>Sperátová</form>
-<tag lemma="Sperátová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sperátová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-042-p7s3w23">
 <src.rf>manual</src.rf>

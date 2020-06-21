@@ -20,7 +20,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
 <AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -39,7 +39,7 @@
 </w.rf>
 <form>Connel</form>
 <tag>
-<AM lemma="Connel_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Connel_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Connel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

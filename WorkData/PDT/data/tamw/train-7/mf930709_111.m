@@ -78,7 +78,7 @@
 </w.rf>
 <form>do</form>
 <tag>
-<AM lemma="do-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
 </tag>
@@ -147,7 +147,7 @@
 <LM>w#w-mf930709-111-p2s1Bw6</LM>
 </w.rf>
 <form>Pivečkův</form>
-<tag lemma="Pivečkův_;S_^(*2a)" src="auto" selected="1">AUIS4M---------</tag>
+<tag lemma="Pivečkův_;Y_^(*2a)" src="auto" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-mf930709-111-p2s1Bw7">
 <src.rf>manual</src.rf>

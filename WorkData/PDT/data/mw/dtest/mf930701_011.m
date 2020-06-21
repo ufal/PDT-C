@@ -270,8 +270,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-011-p2s1w23">
@@ -378,7 +378,7 @@
 <LM>w#w-mf930701-011-p3s1w6</LM>
 </w.rf>
 <form>Borkovce</form>
-<tag lemma="Borkovec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Borkovec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-011-p3s1w7">
 <src.rf>manual</src.rf>

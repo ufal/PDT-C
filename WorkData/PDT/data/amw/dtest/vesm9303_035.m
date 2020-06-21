@@ -27,7 +27,7 @@
 <LM>w#w-vesm9303-035-p1s1w2</LM>
 </w.rf>
 <form>Laplaceova</form>
-<tag lemma="Laplaceův_;S_^(*2)" src="auto" selected="1">AUMS2M---------</tag>
+<tag lemma="Laplaceův_;Y_^(*2)" src="auto" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-vesm9303-035-p1s1w3">
 <src.rf>manual</src.rf>
@@ -53,7 +53,7 @@
 <LM>w#w-vesm9303-035-p2s1w2</LM>
 </w.rf>
 <form>KŮRKA</form>
-<tag lemma="Kůrka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kůrka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-035-p3s1">
@@ -153,7 +153,7 @@
 <LM>w#w-vesm9303-035-p4s1w1</LM>
 </w.rf>
 <form>Laplaceův</form>
-<tag lemma="Laplaceův_;S_^(*2)" src="auto" selected="1">AUMS1M---------</tag>
+<tag lemma="Laplaceův_;Y_^(*2)" src="auto" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-vesm9303-035-p4s1w2">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-vesm9303-035-p4s2w25</LM>
 </w.rf>
 <form>Turingova</form>
-<tag lemma="Turingův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Turingův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-vesm9303-035-p4s2w26">
 <src.rf>manual</src.rf>

@@ -999,8 +999,8 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual">Q3-------------</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-062-p4s5w4">
@@ -1017,7 +1017,7 @@
 <LM>w#w-lnd92251-062-p4s5w5</LM>
 </w.rf>
 <form>Hurd</form>
-<tag lemma="Hurd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hurd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-062-p4s5w6">
 <src.rf>manual</src.rf>
@@ -1229,8 +1229,8 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual">Q3-------------</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-062-p4s6w9">
@@ -1247,7 +1247,7 @@
 <LM>w#w-lnd92251-062-p4s6w10</LM>
 </w.rf>
 <form>Peacocková</form>
-<tag lemma="Peacocková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Peacocková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-062-p4s6w11">
 <src.rf>manual</src.rf>
@@ -1644,7 +1644,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1843,8 +1843,8 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="G-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual">Q3-------------</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-062-p5s2w14">
@@ -1861,7 +1861,7 @@
 <LM>w#w-lnd92251-062-p5s2w15</LM>
 </w.rf>
 <form>Rostböllovou</form>
-<tag lemma="Rostböllová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Rostböllová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92251-062-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 <form>Lux</form>
 <tag>
 <AM lemma="lux-2_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lux_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lux_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="lux" src="auto">NNIS1-----A----</AM>
 <AM lemma="lux" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Lux-77" src="manual" selected="1">F%-------------</AM>

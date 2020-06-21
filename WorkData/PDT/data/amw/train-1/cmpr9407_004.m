@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9407-004-p2s1w2</LM>
 </w.rf>
 <form>Jirásek</form>
-<tag lemma="Jirásek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jirásek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p2s1w3">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-cmpr9407-004-p4s1w17</LM>
 </w.rf>
 <form>Alcar</form>
-<tag lemma="Alcar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Alcar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p4s1w18">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-cmpr9407-004-p5s1w1</LM>
 </w.rf>
 <form>Alcar</form>
-<tag lemma="Alcar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Alcar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p5s1w2">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-cmpr9407-004-p6s1w3</LM>
 </w.rf>
 <form>Jiráska</form>
-<tag lemma="Jirásek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jirásek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p6s1w4">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-cmpr9407-004-p6s3w3</LM>
 </w.rf>
 <form>Alcaru</form>
-<tag lemma="Alcar_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Alcar_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p6s3w4">
 <src.rf>manual</src.rf>
@@ -1852,7 +1852,7 @@
 <LM>w#w-cmpr9407-004-p9s2w1</LM>
 </w.rf>
 <form>Alcar</form>
-<tag lemma="Alcar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Alcar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p9s2w2">
 <src.rf>manual</src.rf>
@@ -2444,7 +2444,7 @@
 <LM>w#w-cmpr9407-004-p10s3w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-004-p10s3w2">
 <src.rf>manual</src.rf>
@@ -2903,7 +2903,7 @@
 <LM>w#w-cmpr9407-004-p11s1w9</LM>
 </w.rf>
 <form>Jirásek</form>
-<tag lemma="Jirásek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jirásek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p11s1w10">
 <src.rf>manual</src.rf>
@@ -3316,7 +3316,7 @@
 <LM>w#w-cmpr9407-004-p13s3w7</LM>
 </w.rf>
 <form>Alcaru</form>
-<tag lemma="Alcar_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Alcar_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p13s3w8">
 <src.rf>manual</src.rf>
@@ -3482,7 +3482,7 @@
 <LM>w#w-cmpr9407-004-p14s1w12</LM>
 </w.rf>
 <form>Jirásek</form>
-<tag lemma="Jirásek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jirásek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p14s1w13">
 <src.rf>manual</src.rf>
@@ -3917,7 +3917,7 @@
 <LM>w#w-cmpr9407-004-p15s3w6</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p15s3w7">
 <src.rf>manual</src.rf>
@@ -4345,7 +4345,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Farský</form>
-<tag lemma="Farský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-004-p17s1">
@@ -4371,7 +4371,7 @@
 <LM>w#w-cmpr9407-004-p17s1w3</LM>
 </w.rf>
 <form>Alcar</form>
-<tag lemma="Alcar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Alcar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-004-p17s1w4">
 <src.rf>manual</src.rf>
@@ -4419,7 +4419,7 @@
 <LM>w#w-cmpr9407-004-p17s1w9</LM>
 </w.rf>
 <form>Husova</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9407-004-p17s1w10">
 <src.rf>manual</src.rf>

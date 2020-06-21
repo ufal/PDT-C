@@ -1165,7 +1165,7 @@
 <LM>w#w-ln95047-132-p3s2w12</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-132-p3s2w13">
 <src.rf>manual</src.rf>

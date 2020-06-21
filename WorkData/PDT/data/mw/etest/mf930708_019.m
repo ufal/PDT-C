@@ -102,8 +102,8 @@
 </w.rf>
 <form>iv</form>
 <tag>
-<AM lemma="iv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="iv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="iv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="iv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-019-p2s1w4">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-019-p2s1w6">
@@ -325,7 +325,7 @@
 <LM>w#w-mf930708-019-p2s2w6</LM>
 </w.rf>
 <form>Seifrem</form>
-<tag lemma="Seifr_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Seifr_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930708-019-p2s2w7">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

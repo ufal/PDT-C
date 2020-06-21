@@ -28,8 +28,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-66-p1s1w3">
@@ -55,8 +55,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-66-p1s1w6">
@@ -89,7 +89,7 @@
 <LM>w#w-ln94202-66-p1s1w9</LM>
 </w.rf>
 <form>Rühe</form>
-<tag lemma="Rühe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rühe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-66-p2s1A">
@@ -150,8 +150,8 @@
 </w.rf>
 <form>Volkera</form>
 <tag>
-<AM lemma="Volker_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Volker_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Volker_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Volker_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-66-p2s1Bw6">
@@ -160,7 +160,7 @@
 <LM>w#w-ln94202-66-p2s1Bw6</LM>
 </w.rf>
 <form>Rüheho</form>
-<tag lemma="Rühe_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rühe_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-66-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 </w.rf>
 <form>Handelsblatt</form>
 <tag>
-<AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Handelsblatt_;m_^(časopis)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Handelsblatt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -349,7 +349,7 @@
 <LM>w#w-ln94202-66-p2s2w7</LM>
 </w.rf>
 <form>Rühe</form>
-<tag lemma="Rühe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rühe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-66-p2s2w8">
 <src.rf>manual</src.rf>
@@ -502,8 +502,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-66-p2s2w27">
@@ -674,7 +674,7 @@
 <LM>w#w-ln94202-66-p2s3w20</LM>
 </w.rf>
 <form>Rühe</form>
-<tag lemma="Rühe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rühe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-66-p2s3w21">
 <src.rf>manual</src.rf>

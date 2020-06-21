@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-043-p1s1w1</LM>
 </w.rf>
 <form>Ghedina</form>
-<tag lemma="Ghedina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ghedina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-043-p1s1w2">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 <form>Whistler</form>
 <tag>
 <AM lemma="Whistler-2_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Whistler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Whistler_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="whistler_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Whistler-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -162,7 +162,7 @@
 <LM>w#w-ln95049-043-p2s1Cw2</LM>
 </w.rf>
 <form>Ghedina</form>
-<tag lemma="Ghedina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ghedina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-043-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -188,7 +188,7 @@
 <form>Whistler</form>
 <tag>
 <AM lemma="Whistler-2_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Whistler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Whistler_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="whistler_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Whistler-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -559,7 +559,7 @@
 <LM>w#w-ln95049-043-p2s3w4</LM>
 </w.rf>
 <form>Kjus</form>
-<tag lemma="Kjus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kjus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-043-p2s3w5">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln95049-043-p2s3w9</LM>
 </w.rf>
 <form>Ortlieb</form>
-<tag lemma="Ortlieb_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ortlieb_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-043-p2s3w10">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln95049-043-p3s1w2</LM>
 </w.rf>
 <form>Ertlová</form>
-<tag lemma="Ertlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ertlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-043-p3s1w3">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 </w.rf>
 <form>Garmisch</form>
 <tag>
-<AM lemma="Garmisch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Garmisch_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Garmisch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1259,7 +1259,7 @@
 <LM>w#w-ln95049-043-p4s3w5</LM>
 </w.rf>
 <form>Ertlová</form>
-<tag lemma="Ertlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ertlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-043-p4s3w6">
 <src.rf>manual</src.rf>

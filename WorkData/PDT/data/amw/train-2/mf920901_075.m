@@ -62,9 +62,9 @@
 </w.rf>
 <form>sch</form>
 <tag>
-<AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-075-p2s1w4">
@@ -203,7 +203,7 @@
 <LM>w#w-mf920901-075-p2s2w15</LM>
 </w.rf>
 <form>Izros</form>
-<tag lemma="Izros_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Izros_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-075-p2s2w16">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <form>Žáček</form>
 <tag>
 <AM lemma="žáček" src="orig">NNMS1-----A----</AM>
-<AM lemma="Žáček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Žáček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-075-p2s3w8">

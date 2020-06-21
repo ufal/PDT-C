@@ -96,7 +96,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -107,7 +107,7 @@
 </w.rf>
 <form>Bahn</form>
 <tag>
-<AM lemma="Bahn_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bahn_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bahn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -118,7 +118,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -177,7 +177,7 @@
 </w.rf>
 <form>Welt</form>
 <tag>
-<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -200,8 +200,8 @@
 </w.rf>
 <form>Sonntag</form>
 <tag>
-<AM lemma="Sonntag_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Sonntag_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sonntag_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Sonntag_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Sonntag-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

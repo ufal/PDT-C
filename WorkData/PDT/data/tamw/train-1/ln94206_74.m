@@ -292,8 +292,8 @@
 </w.rf>
 <form>Kamanda</form>
 <tag>
-<AM lemma="Kamanda_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kamanda_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kamanda_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamanda_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-74-p2s1Bw27">
@@ -303,7 +303,7 @@
 </w.rf>
 <form>Wa</form>
 <tag>
-<AM lemma="Wa_;S" src="orig" selected="1">NNMSX-----A----</AM>
+<AM lemma="Wa_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Wa_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94206-74-p2s1Bw28</LM>
 </w.rf>
 <form>Kamanda</form>
-<tag lemma="Kamanda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kamanda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-74-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-ln94206-74-p2s2w23</LM>
 </w.rf>
 <form>Kamanda</form>
-<tag lemma="Kamanda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kamanda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-74-p2s2w24">
 <src.rf>manual</src.rf>

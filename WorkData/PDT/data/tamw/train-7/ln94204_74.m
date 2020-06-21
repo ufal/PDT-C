@@ -38,9 +38,9 @@
 </w.rf>
 <form>Perca</form>
 <tag>
-<AM lemma="Perca_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Perca_;L_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Perca-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Perca_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Perca_;U_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Perca-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-74-p2s1w3">
@@ -245,8 +245,8 @@
 </w.rf>
 <form>jop</form>
 <tag>
-<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-74-p2s2w3">

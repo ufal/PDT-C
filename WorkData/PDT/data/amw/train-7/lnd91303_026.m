@@ -140,7 +140,7 @@
 </w.rf>
 <form>PKC</form>
 <tag>
-<AM lemma="PKC_:B_;K_^(Pražské_kulturní_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PKC_:B_;m_^(Pražské_kulturní_centrum)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="PKC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -345,7 +345,7 @@
 </w.rf>
 <form>FAMU</form>
 <tag>
-<AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FAMU_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

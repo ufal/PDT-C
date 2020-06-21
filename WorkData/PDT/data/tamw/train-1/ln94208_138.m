@@ -172,7 +172,7 @@
 </w.rf>
 <form>Professional</form>
 <tag>
-<AM lemma="Professional_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Professional_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Professional-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -183,7 +183,7 @@
 </w.rf>
 <form>Commando</form>
 <tag>
-<AM lemma="Commando_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Commando_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Commando-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -203,7 +203,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-138-p1s1Aw24">
@@ -221,7 +221,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Venclíka</form>
-<tag lemma="Venclík_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Venclík_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-138-p1s1B">
@@ -248,7 +248,7 @@
 <LM>w#w-ln94208-138-p1s1Bw3</LM>
 </w.rf>
 <form>Merta</form>
-<tag lemma="Merta-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merta-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-138-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -265,8 +265,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

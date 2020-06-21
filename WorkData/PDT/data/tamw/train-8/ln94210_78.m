@@ -31,7 +31,7 @@
 <LM>w#w-ln94210-78-p1s1w2</LM>
 </w.rf>
 <form>Gore</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-78-p1s1w3">
 <src.rf>manual</src.rf>
@@ -124,8 +124,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-78-p2s1Bw8">
@@ -273,9 +273,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-78-p2s2w6">
@@ -295,7 +295,7 @@
 <LM>w#w-ln94210-78-p2s2w7</LM>
 </w.rf>
 <form>Gore</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-78-p2s2w8">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln94210-78-p2s3w1</LM>
 </w.rf>
 <form>Gore</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-78-p2s3w2">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 </w.rf>
 <form>WHO</form>
 <tag>
-<AM lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WHO_:B_;U_;m_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WHO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -578,8 +578,8 @@
 </w.rf>
 <form>Hiroši</form>
 <tag>
-<AM lemma="Hiroši_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hiroši_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hiroši_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hiroši_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-78-p2s4w10">
@@ -588,7 +588,7 @@
 <LM>w#w-ln94210-78-p2s4w10</LM>
 </w.rf>
 <form>Nakadžima</form>
-<tag lemma="Nakadžima_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nakadžima_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-78-p2s4w11">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-ln94210-78-p2s5w7</LM>
 </w.rf>
 <form>Nakadžimovy</form>
-<tag lemma="Nakadžimův_;S_^(*2a)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Nakadžimův_;Y_^(*2a)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94210-78-p2s5w8">
 <src.rf>manual</src.rf>
@@ -924,8 +924,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-78-p2s6w5">

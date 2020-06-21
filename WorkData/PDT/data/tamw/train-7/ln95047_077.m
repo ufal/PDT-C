@@ -168,8 +168,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-077-p2s1Bw13">
@@ -342,9 +342,9 @@
 </w.rf>
 <form>Zinni</form>
 <tag>
-<AM lemma="Zinni_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Zinn_;S" src="auto" recommended="1">NNMP1-----A---1</AM>
-<AM lemma="Zinn_;S" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Zinni_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zinn_;Y" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Zinn_;Y" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95047-077-p2s2w8">
@@ -698,9 +698,9 @@
 </w.rf>
 <form>Zinni</form>
 <tag>
-<AM lemma="Zinni_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Zinn_;S" src="auto" recommended="1">NNMP1-----A---1</AM>
-<AM lemma="Zinn_;S" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Zinni_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zinn_;Y" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Zinn_;Y" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95047-077-p2s4w2">

@@ -27,7 +27,7 @@
 <LM>w#w-lnd94103-097-p1s1w2</LM>
 </w.rf>
 <form>Dvořáka</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94103-097-p1s1w3">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-lnd94103-097-p1s1w5</LM>
 </w.rf>
 <form>Smetanu</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94103-097-p1s1w6">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-lnd94103-097-p1s1w8</LM>
 </w.rf>
 <form>Wihanovo</form>
-<tag lemma="Wihanův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Wihanův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd94103-097-p1s1w9">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-lnd94103-097-p1s4w4</LM>
 </w.rf>
 <form>Braillo</form>
-<tag lemma="Braillo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Braillo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-097-p1s4w5">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 </w.rf>
 <form>FOK</form>
 <tag>
-<AM lemma="FOK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FOK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="FOK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd92255-133-p1s1w1</LM>
 </w.rf>
 <form>Svanův</form>
-<tag lemma="Svanův_;S_^(*2a)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Svanův_;Y_^(*2a)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92255-133-p1s1w2">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-lnd92255-133-p2s2w10</LM>
 </w.rf>
 <form>Svan</form>
-<tag lemma="Svan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-133-p2s2w11">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92255-133-p2s3w16</LM>
 </w.rf>
 <form>Vasově</form>
-<tag lemma="Vasův_;S_^(*2a)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Vasův_;Y_^(*2a)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd92255-133-p2s3w17">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -642,7 +642,7 @@
 </w.rf>
 <form>ZOH</form>
 <tag>
-<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92255-133-p2s5w11</LM>
 </w.rf>
 <form>Vasův</form>
-<tag lemma="Vasův_;S_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Vasův_;Y_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd92255-133-p2s5w12">
 <src.rf>manual</src.rf>

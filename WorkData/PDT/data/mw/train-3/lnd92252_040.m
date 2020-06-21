@@ -350,8 +350,8 @@
 <form>Action</form>
 <tag>
 <AM lemma="Action_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Action_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Action_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Action_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Action_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Action-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -442,9 +442,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-040-p2s4w26">
@@ -642,7 +642,7 @@
 <LM>w#w-lnd92252-040-p2s5w6</LM>
 </w.rf>
 <form>Halla</form>
-<tag lemma="Hall_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hall_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92252-040-p2s5w7">
 <src.rf>manual</src.rf>
@@ -715,9 +715,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-040-p2s5w16">

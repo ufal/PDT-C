@@ -188,7 +188,7 @@
 <LM>w#w-ln94205-90-p2s1Bw4</LM>
 </w.rf>
 <form>Gebhart</form>
-<tag lemma="Gebhart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gebhart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -248,8 +248,8 @@
 </w.rf>
 <form>AV</form>
 <tag>
-<AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AV_:B_;K_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-90-p2s1Bw12">
@@ -370,7 +370,7 @@
 <LM>w#w-ln94205-90-p2s1Cw13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94205-90-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-ln94205-90-p2s3w9</LM>
 </w.rf>
 <form>Foche</form>
-<tag lemma="Foche_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foche_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p2s3w10">
 <src.rf>manual</src.rf>
@@ -1370,7 +1370,7 @@
 <LM>w#w-ln94205-90-p3s3w6</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1925,7 +1925,7 @@
 <LM>w#w-ln94205-90-p4s1Aw18</LM>
 </w.rf>
 <form>Chamberlaina</form>
-<tag lemma="Chamberlain_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chamberlain_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-90-p4s1Aw19">
 <src.rf>manual</src.rf>
@@ -2321,7 +2321,7 @@
 <LM>w#w-ln94205-90-p4s2w27</LM>
 </w.rf>
 <form>Hitlera</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-90-p4s2w28">
 <src.rf>manual</src.rf>
@@ -2629,7 +2629,7 @@
 <LM>w#w-ln94205-90-p5s1w17</LM>
 </w.rf>
 <form>Stalinem</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-90-p5s1w18">
 <src.rf>manual</src.rf>
@@ -2645,7 +2645,7 @@
 <LM>w#w-ln94205-90-p5s1w19</LM>
 </w.rf>
 <form>Hitlerem</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-90-p5s1w20">
 <src.rf>manual</src.rf>
@@ -3633,7 +3633,7 @@
 <LM>w#w-ln94205-90-p7s3w1</LM>
 </w.rf>
 <form>Chamberlain</form>
-<tag lemma="Chamberlain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chamberlain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p7s3w2">
 <src.rf>manual</src.rf>
@@ -3692,7 +3692,7 @@
 <LM>w#w-ln94205-90-p7s3w8</LM>
 </w.rf>
 <form>Hitlerovi</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94205-90-p7s3w9">
 <src.rf>manual</src.rf>
@@ -3772,7 +3772,7 @@
 <LM>w#w-ln94205-90-p7s3w18</LM>
 </w.rf>
 <form>Henderson</form>
-<tag lemma="Henderson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Henderson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p7s3w19">
 <src.rf>manual</src.rf>
@@ -4118,7 +4118,7 @@
 <LM>w#w-ln94205-90-p7s5w23</LM>
 </w.rf>
 <form>Chamberlain</form>
-<tag lemma="Chamberlain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chamberlain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p7s5w24">
 <src.rf>manual</src.rf>
@@ -4200,7 +4200,7 @@
 <LM>w#w-ln94205-90-p7s6w7</LM>
 </w.rf>
 <form>Chamberlainův</form>
-<tag lemma="Chamberlainův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Chamberlainův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94205-90-p7s6w8">
 <src.rf>manual</src.rf>
@@ -4266,7 +4266,7 @@
 <LM>w#w-ln94205-90-p8s1w1</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p8s1w2">
 <src.rf>manual</src.rf>
@@ -4531,7 +4531,7 @@
 </w.rf>
 <form>Weiss</form>
 <tag>
-<AM lemma="Weiss_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Weiss_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Weiss-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4798,7 +4798,7 @@
 <LM>w#w-ln94205-90-p8s3w30</LM>
 </w.rf>
 <form>Chamberlain</form>
-<tag lemma="Chamberlain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chamberlain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p8s3w31">
 <src.rf>manual</src.rf>
@@ -5545,7 +5545,7 @@
 <LM>w#w-ln94205-90-p9s4w3</LM>
 </w.rf>
 <form>Hitlera</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-90-p9s4w4">
 <src.rf>manual</src.rf>
@@ -5601,7 +5601,7 @@
 <LM>w#w-ln94205-90-p9s4w10</LM>
 </w.rf>
 <form>Göring</form>
-<tag lemma="Göring_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Göring_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p9s4w11">
 <src.rf>manual</src.rf>
@@ -6050,7 +6050,7 @@
 <LM>w#w-ln94205-90-p9s7w1</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p9s7w2">
 <src.rf>manual</src.rf>
@@ -7104,7 +7104,7 @@
 <LM>w#w-ln94205-90-p10s3w8</LM>
 </w.rf>
 <form>Mussolini</form>
-<tag lemma="Mussolini_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mussolini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p10s3w9">
 <src.rf>manual</src.rf>
@@ -7402,7 +7402,7 @@
 <LM>w#w-ln94205-90-p10s4w21</LM>
 </w.rf>
 <form>Hitlerovi</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94205-90-p10s4w22">
 <src.rf>manual</src.rf>
@@ -7418,7 +7418,7 @@
 <LM>w#w-ln94205-90-p10s4w23</LM>
 </w.rf>
 <form>Ribbentropovi</form>
-<tag lemma="Ribbentrop_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ribbentrop_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94205-90-p10s4w24">
 <src.rf>manual</src.rf>
@@ -7928,7 +7928,7 @@
 <LM>w#w-ln94205-90-p12s1w4</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p12s1w5">
 <src.rf>manual</src.rf>
@@ -8984,7 +8984,7 @@
 <LM>w#w-ln94205-90-p14s2w5</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p14s2w6">
 <src.rf>manual</src.rf>
@@ -9512,7 +9512,7 @@
 <LM>w#w-ln94205-90-p14s5w2</LM>
 </w.rf>
 <form>Hitlerovy</form>
-<tag lemma="Hitlerův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Hitlerův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94205-90-p14s5w3">
 <src.rf>manual</src.rf>
@@ -10398,7 +10398,7 @@
 <LM>w#w-ln94205-90-p14s8w8</LM>
 </w.rf>
 <form>Ribbentropa</form>
-<tag lemma="Ribbentrop_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ribbentrop_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-90-p14s8w9">
 <src.rf>manual</src.rf>
@@ -10810,7 +10810,7 @@
 <LM>w#w-ln94205-90-p14s10w8</LM>
 </w.rf>
 <form>Coulondre</form>
-<tag lemma="Coulondre_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Coulondre_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p14s10w9">
 <src.rf>manual</src.rf>
@@ -11079,7 +11079,7 @@
 <LM>w#w-ln94205-90-p14s11w3</LM>
 </w.rf>
 <form>Hitler</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-90-p14s11w4">
 <src.rf>manual</src.rf>
@@ -11518,9 +11518,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-90-p14s13w12">
@@ -11949,7 +11949,7 @@
 <LM>w#w-ln94205-90-p15s1w18</LM>
 </w.rf>
 <form>Hitlerem</form>
-<tag lemma="Hitler_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hitler_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-90-p15s1w19">
 <src.rf>manual</src.rf>
@@ -11965,7 +11965,7 @@
 <LM>w#w-ln94205-90-p15s1w20</LM>
 </w.rf>
 <form>Stalinem</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-90-p15s1w21">
 <src.rf>manual</src.rf>

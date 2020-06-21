@@ -1696,7 +1696,7 @@
 <LM>w#w-vesm9301-008-p4s5w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-008-p4s5w18">
 <src.rf>manual</src.rf>
@@ -2570,7 +2570,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-008-p6s1w7">
@@ -2589,7 +2589,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-008-p6s1w9">
@@ -2606,7 +2606,7 @@
 <LM>w#w-vesm9301-008-p6s1w10</LM>
 </w.rf>
 <form>Boltera</form>
-<tag lemma="Bolter_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bolter_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9301-008-p6s1w11">
 <src.rf>manual</src.rf>
@@ -2638,7 +2638,7 @@
 <LM>w#w-vesm9301-008-p6s1w14</LM>
 </w.rf>
 <form>Bolter</form>
-<tag lemma="Bolter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-008-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2718,7 +2718,7 @@
 </w.rf>
 <form>Hypertext</form>
 <tag>
-<AM lemma="Hypertext" src="orig">NNISX-----A----</AM>
+<AM lemma="Hypertext" src="orig">NNIXX-----A----</AM>
 <AM lemma="hypertext-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hypertext-1" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hypertext-77" src="manual" selected="1">F%-------------</AM>
@@ -2762,7 +2762,7 @@
 </w.rf>
 <form>History</form>
 <tag>
-<AM lemma="history_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="history_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="History-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2804,7 +2804,7 @@
 <LM>w#w-vesm9301-008-p6s3w1</LM>
 </w.rf>
 <form>Bolter</form>
-<tag lemma="Bolter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-008-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2984,7 +2984,7 @@
 <LM>w#w-vesm9301-008-p6s5w1</LM>
 </w.rf>
 <form>Bolter</form>
-<tag lemma="Bolter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-008-p6s5w2">
 <src.rf>manual</src.rf>
@@ -3391,7 +3391,7 @@
 <form>ib</form>
 <tag>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
-<AM lemma="ib-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ib-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

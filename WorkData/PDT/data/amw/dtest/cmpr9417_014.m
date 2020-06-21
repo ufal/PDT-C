@@ -369,7 +369,7 @@
 <LM>w#w-cmpr9417-014-p5s3w12</LM>
 </w.rf>
 <form>Hrouzem</form>
-<tag lemma="Hrouz_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hrouz_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9417-014-p5s3w13">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-cmpr9417-014-p5s3w14</LM>
 </w.rf>
 <form>Soluny</form>
-<tag lemma="Soluna_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Soluna_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9417-014-p5s3w15">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-cmpr9417-014-p7s4w5</LM>
 </w.rf>
 <form>Soluna</form>
-<tag lemma="Soluna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Soluna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-014-p7s4w6">
 <src.rf>manual</src.rf>
@@ -2351,7 +2351,7 @@
 </w.rf>
 <form>HRD</form>
 <tag>
-<AM lemma="HRD_:B_;K_,t_^(Hoge_Raad_voor_Diamant)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HRD_:B_;m_,t_^(Hoge_Raad_voor_Diamant)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hrd" src="auto" recommended="1">ACYS------A----</AM>
 <AM lemma="HRD_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="HRD-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2372,7 +2372,7 @@
 </w.rf>
 <form>GIA</form>
 <tag>
-<AM lemma="GIA_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GIA_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GIA_:B_,t" src="manual">NNXXX-----A---8</AM>
 <AM lemma="GIA_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="GIA-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2393,7 +2393,7 @@
 </w.rf>
 <form>IGI</form>
 <tag>
-<AM lemma="IGI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IGI_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IGI_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IGI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3556,7 +3556,7 @@
 <LM>w#w-cmpr9417-014-p16s2w5</LM>
 </w.rf>
 <form>bagety</form>
-<tag lemma="bageta_;R" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="bageta_;m" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9417-014-p16s2w6">
 <src.rf>manual</src.rf>
@@ -3917,7 +3917,7 @@
 <LM>w#w-cmpr9417-014-p16s5w3</LM>
 </w.rf>
 <form>bagety</form>
-<tag lemma="bageta_;R" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="bageta_;m" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9417-014-p16s5w4">
 <src.rf>manual</src.rf>
@@ -4104,7 +4104,7 @@
 <LM>w#w-cmpr9417-014-p17s1w13</LM>
 </w.rf>
 <form>Soluně</form>
-<tag lemma="Soluna_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Soluna_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9417-014-p17s1w14">
 <src.rf>manual</src.rf>
@@ -4369,7 +4369,7 @@
 <LM>w#w-cmpr9417-014-p18s3w3</LM>
 </w.rf>
 <form>Soluna</form>
-<tag lemma="Soluna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Soluna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-014-p18s3w4">
 <src.rf>manual</src.rf>

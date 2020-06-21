@@ -509,7 +509,7 @@
 <LM>w#w-mf920922-011-p1s3w8</LM>
 </w.rf>
 <form>dolarech</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920922-011-p1s3w9">
 <src.rf>manual</src.rf>
@@ -1285,7 +1285,7 @@
 </w.rf>
 <form>CBNC</form>
 <tag>
-<AM lemma="CBNC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="CBNC_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="CBNC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1426,7 +1426,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1761,8 +1761,8 @@
 </w.rf>
 <form>Giesecke</form>
 <tag>
-<AM lemma="Giesecke_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Giesecke_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Giesecke_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Giesecke_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-011-p1s13w4">
@@ -1780,8 +1780,8 @@
 </w.rf>
 <form>Devrient</form>
 <tag>
-<AM lemma="Devrient_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Devrient_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Devrient_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Devrient_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-011-p1s13w6">
@@ -2450,8 +2450,8 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFSX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFSX----1A----</AM>
+<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFXX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
@@ -2466,7 +2466,7 @@
 </w.rf>
 <form>Rue</form>
 <tag>
-<AM lemma="Rue_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Rue_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Rue-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2829,7 +2829,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2851,7 +2851,7 @@
 </w.rf>
 <form>England</form>
 <tag>
-<AM lemma="England_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="England_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="England-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2883,8 +2883,8 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFSX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFSX----1A----</AM>
+<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFXX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
@@ -2899,7 +2899,7 @@
 </w.rf>
 <form>Rue</form>
 <tag>
-<AM lemma="Rue_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Rue_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Rue-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

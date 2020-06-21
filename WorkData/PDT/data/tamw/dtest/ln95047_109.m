@@ -19,7 +19,7 @@
 <LM>w#w-ln95047-109-p1s1w1</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-109-p1s1w2">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95047-109-p2s1Bw11</LM>
 </w.rf>
 <form>Sagner</form>
-<tag lemma="Sagner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sagner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-109-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -1780,7 +1780,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-109-p5s5w35">
@@ -1797,7 +1797,7 @@
 <LM>w#w-ln95047-109-p5s5w36</LM>
 </w.rf>
 <form>Sagner</form>
-<tag lemma="Sagner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sagner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-109-p5s5w37">
 <src.rf>manual</src.rf>
@@ -1961,7 +1961,7 @@
 <LM>w#w-ln95047-109-p6s1w4</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-109-p6s1w5">
 <src.rf>manual</src.rf>

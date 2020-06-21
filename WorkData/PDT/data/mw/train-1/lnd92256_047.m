@@ -193,7 +193,7 @@
 <LM>w#w-lnd92256-047-p1s1w21</LM>
 </w.rf>
 <form>Kňažko</form>
-<tag lemma="Kňažko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kňažko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-047-p1s1w22">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-lnd92256-047-p1s2w27</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-047-p1s2w28">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-035-p1s1w1</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95045-035-p1s1w2">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 </w.rf>
 <form>Boby</form>
 <tag>
-<AM lemma="Boby_;K_^(Boby_Brno_firma_a_FC)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Boby_;m_^(Boby_Brno_firma_a_FC)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Bob_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bob_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Boba_;G" src="auto">NNFP1-----A----</AM>
@@ -268,7 +268,7 @@
 <AM lemma="Boba_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Bobo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bobo_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Boby_;K" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Boby_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Boby_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Boby_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="bob" src="auto">NNIP1-----A----</AM>
@@ -307,7 +307,7 @@
 <LM>w#w-ln95045-035-p2s1Bw28</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95045-035-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln95045-035-p2s2w26</LM>
 </w.rf>
 <form>Kroupa</form>
-<tag lemma="Kroupa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kroupa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-035-p2s2w27">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95045-035-p2s3w7</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95045-035-p2s3w8">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln95045-035-p2s4w21</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95045-035-p2s4w22">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-ln95045-035-p2s5w8</LM>
 </w.rf>
 <form>Kroupy</form>
-<tag lemma="Kroupa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kroupa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-035-p2s5w9">
 <src.rf>manual</src.rf>

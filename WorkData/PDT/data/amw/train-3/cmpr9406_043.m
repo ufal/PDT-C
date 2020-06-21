@@ -194,7 +194,7 @@
 <LM>w#w-cmpr9406-043-p4s1w8</LM>
 </w.rf>
 <form>Nekima</form>
-<tag lemma="Nekima_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nekima_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-043-p4s1w9">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-cmpr9406-043-p5s1w2</LM>
 </w.rf>
 <form>Fürstová</form>
-<tag lemma="Fürstová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fürstová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-043-p6s1">
@@ -3153,7 +3153,7 @@
 <LM>w#w-cmpr9406-043-p12s1w15</LM>
 </w.rf>
 <form>Nekima</form>
-<tag lemma="Nekima_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nekima_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-043-p12s1w16">
 <src.rf>manual</src.rf>
@@ -4316,7 +4316,7 @@
 <LM>w#w-cmpr9406-043-p15s1w4</LM>
 </w.rf>
 <form>Nekima</form>
-<tag lemma="Nekima_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nekima_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-043-p15s1w5">
 <src.rf>manual</src.rf>
@@ -6460,7 +6460,7 @@
 <LM>w#w-cmpr9406-043-p20s1w3</LM>
 </w.rf>
 <form>Nekima</form>
-<tag lemma="Nekima_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nekima_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-043-p20s1w4">
 <src.rf>manual</src.rf>

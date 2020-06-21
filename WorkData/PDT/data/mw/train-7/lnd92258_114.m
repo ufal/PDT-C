@@ -120,7 +120,7 @@
 <LM>w#w-lnd92258-114-p2s1w11</LM>
 </w.rf>
 <form>GIGONOVÉ</form>
-<tag lemma="Gigonová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Gigonová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s1w12">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-lnd92258-114-p2s1w21</LM>
 </w.rf>
 <form>Linhartovy</form>
-<tag lemma="Linhartův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Linhartův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92258-114-p2s1w22">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-lnd92258-114-p2s1w26</LM>
 </w.rf>
 <form>Stalinovým</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-lnd92258-114-p2s1w27">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-114-p2s3w7">
@@ -552,7 +552,7 @@
 <LM>w#w-lnd92258-114-p2s3w8</LM>
 </w.rf>
 <form>Gigonové</form>
-<tag lemma="Gigonová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Gigonová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s3w9">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 <LM>w#w-lnd92258-114-p2s3w21</LM>
 </w.rf>
 <form>Řečických</form>
-<tag lemma="Řečický_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Řečický_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s3w22">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-114-p2s7w21">
@@ -1531,7 +1531,7 @@
 <LM>w#w-lnd92258-114-p2s7w22</LM>
 </w.rf>
 <form>Gigonové</form>
-<tag lemma="Gigonová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Gigonová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s7w23">
 <src.rf>manual</src.rf>
@@ -1693,7 +1693,7 @@
 <LM>w#w-lnd92258-114-p2s8w7</LM>
 </w.rf>
 <form>Gigonová</form>
-<tag lemma="Gigonová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gigonová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s8w8">
 <src.rf>manual</src.rf>
@@ -1923,7 +1923,7 @@
 <LM>w#w-lnd92258-114-p4s1w3</LM>
 </w.rf>
 <form>Merta</form>
-<tag lemma="Merta-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merta-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-114-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1939,7 +1939,7 @@
 <LM>w#w-lnd92258-114-p4s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-114-p4s1w6">
 <src.rf>manual</src.rf>

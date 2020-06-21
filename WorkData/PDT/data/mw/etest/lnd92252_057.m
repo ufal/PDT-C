@@ -197,7 +197,7 @@
 <LM>w#w-lnd92252-057-p2s1w3</LM>
 </w.rf>
 <form>Kemel</form>
-<tag lemma="Kemel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kemel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

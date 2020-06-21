@@ -193,7 +193,7 @@
 <LM>w#w-mf930713-020-p3s3w2</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s3w3">
 <src.rf>manual</src.rf>
@@ -582,8 +582,8 @@
 </w.rf>
 <form>fordů</form>
 <tag>
-<AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
+<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s6w3">
@@ -662,9 +662,9 @@
 </w.rf>
 <form>ford</form>
 <tag>
-<AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
+<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="ford_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s7w4">
@@ -682,9 +682,9 @@
 </w.rf>
 <form>ford</form>
 <tag>
-<AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
+<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="ford_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s7w6">
@@ -808,7 +808,7 @@
 </w.rf>
 <form>escortům</form>
 <tag>
-<AM lemma="Escort-2_;R_^(vozidlo)" src="orig">NNIP3-----A----</AM>
+<AM lemma="Escort-2_;m_^(vozidlo)" src="orig">NNIP3-----A----</AM>
 <AM lemma="escort_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
@@ -834,7 +834,7 @@
 <LM>w#w-mf930713-020-p3s8w17</LM>
 </w.rf>
 <form>Trajboldovi</form>
-<tag lemma="Trajboldův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Trajboldův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930713-020-p3s8w18">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-mf930713-020-p3s9w3</LM>
 </w.rf>
 <form>Blahnova</form>
-<tag lemma="Blahnův_;S_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Blahnův_;Y_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930713-020-p3s9w4">
 <src.rf>manual</src.rf>
@@ -877,8 +877,8 @@
 </w.rf>
 <form>sierra</form>
 <tag>
-<AM lemma="Sierra-2_;R_^(vozidlo)" src="orig">NNFS1-----A----</AM>
-<AM lemma="sierra_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sierra-2_;m_^(vozidlo)" src="orig">NNFS1-----A----</AM>
+<AM lemma="sierra_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s9w5">
@@ -1141,7 +1141,7 @@
 <LM>w#w-mf930713-020-p3s12w4</LM>
 </w.rf>
 <form>Křeček</form>
-<tag lemma="Křeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s12w5">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-mf930713-020-p3s12w27</LM>
 </w.rf>
 <form>Blahnu</form>
-<tag lemma="Blahna_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Blahna_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s12w28">
 <src.rf>manual</src.rf>
@@ -1389,7 +1389,7 @@
 <LM>w#w-mf930713-020-p3s12w35</LM>
 </w.rf>
 <form>Valouška</form>
-<tag lemma="Valoušek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Valoušek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s12w36">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 <LM>w#w-mf930713-020-p3s13w17</LM>
 </w.rf>
 <form>Motorsport</form>
-<tag lemma="motorsport_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="motorsport_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s13w18">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <LM>w#w-mf930713-020-p3s13w18</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s13w19">
 <src.rf>manual</src.rf>
@@ -1685,8 +1685,8 @@
 </w.rf>
 <form>VW</form>
 <tag>
-<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s14w15">
@@ -1755,7 +1755,7 @@
 <LM>w#w-mf930713-020-p3s15w2</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s15w3">
 <src.rf>manual</src.rf>
@@ -2097,7 +2097,7 @@
 <LM>w#w-mf930713-020-p3s18w4</LM>
 </w.rf>
 <form>Motorsport</form>
-<tag lemma="motorsport_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="motorsport_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s18w5">
 <src.rf>manual</src.rf>
@@ -2105,7 +2105,7 @@
 <LM>w#w-mf930713-020-p3s18w5</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s18w6">
 <src.rf>manual</src.rf>
@@ -2121,7 +2121,7 @@
 <LM>w#w-mf930713-020-p3s18w7</LM>
 </w.rf>
 <form>Janeba</form>
-<tag lemma="Janeba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janeba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s18w8">
 <src.rf>manual</src.rf>
@@ -2218,9 +2218,9 @@
 </w.rf>
 <form>VW</form>
 <tag>
-<AM lemma="VW-2_:B_;K_,t_^(název_firmy_Volkswagen)" src="orig">NNFXX-----A----</AM>
-<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="VW-2_:B_;m_,t_^(název_firmy_Volkswagen)" src="orig">NNFXX-----A----</AM>
+<AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;m_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s18w20">
@@ -2699,7 +2699,7 @@
 <LM>w#w-mf930713-020-p3s21w11</LM>
 </w.rf>
 <form>Sibera</form>
-<tag lemma="Sibera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sibera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s21w12">
 <src.rf>manual</src.rf>
@@ -2715,7 +2715,7 @@
 <LM>w#w-mf930713-020-p3s21w13</LM>
 </w.rf>
 <form>Triner</form>
-<tag lemma="Triner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Triner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-020-p3s21w14">
 <src.rf>manual</src.rf>

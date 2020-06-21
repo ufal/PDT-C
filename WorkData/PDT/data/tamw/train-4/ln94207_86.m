@@ -32,7 +32,7 @@
 <LM>w#w-ln94207-86-p1s1w2</LM>
 </w.rf>
 <form>Posse</form>
-<tag lemma="Posse_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Posse_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-86-p1s1w3">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-ln94207-86-p1s2Aw6</LM>
 </w.rf>
 <form>Bermúdezem</form>
-<tag lemma="Bermúdez_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Bermúdez_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-86-p1s2Aw7">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 </w.rf>
 <form>Iberoamericana</form>
 <tag>
-<AM lemma="Iberoamericana_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Iberoamericana_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Iberoamericana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -398,7 +398,7 @@
 </w.rf>
 <form>pragensia</form>
 <tag>
-<AM lemma="pragensia_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="pragensia_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="pragenzia_,x" src="auto">NNNP1-----A----</AM>
 <AM lemma="pragenzia_,x" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="pragenzia_,x" src="auto">NNNP5-----A----</AM>

@@ -314,7 +314,7 @@
 <LM>w#w-ln95041-055-p2s2w6</LM>
 </w.rf>
 <form>Kňažko</form>
-<tag lemma="Kňažko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kňažko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-055-p2s2w7">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln95041-055-p2s2w13</LM>
 </w.rf>
 <form>Mečiarovo</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95041-055-p2s2w14">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -677,7 +677,7 @@
 <LM>w#w-ln95041-055-p2s3w14</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-055-p2s3w15">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln95041-055-p2s4w1</LM>
 </w.rf>
 <form>Kňažko</form>
-<tag lemma="Kňažko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kňažko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-055-p2s4w2">
 <src.rf>manual</src.rf>

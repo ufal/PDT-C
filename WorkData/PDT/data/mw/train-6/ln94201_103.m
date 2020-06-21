@@ -711,7 +711,7 @@
 <form>AB</form>
 <tag>
 <AM lemma="AB-98_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -746,7 +746,7 @@
 <form>AB</form>
 <tag>
 <AM lemma="AB-98_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2032,7 +2032,7 @@
 <LM>w#w-ln94201-103-p8s2w9</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-103-p8s2w10">
 <src.rf>manual</src.rf>
@@ -2194,7 +2194,7 @@
 <LM>w#w-ln94201-103-p8s3w19</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-103-p8s3w20">
 <src.rf>manual</src.rf>

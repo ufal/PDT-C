@@ -712,9 +712,9 @@
 </w.rf>
 <form>KOLAKOWSKI</form>
 <tag>
-<AM lemma="Kolakowski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kolakowský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Kolakowský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Kolakowski_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kolakowský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Kolakowský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9303-016-p2s1w3">
@@ -804,7 +804,7 @@
 </w.rf>
 <form>ČSAV</form>
 <tag>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

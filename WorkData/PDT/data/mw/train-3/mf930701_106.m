@@ -85,7 +85,7 @@
 <LM>w#w-mf930701-106-p1s2w6</LM>
 </w.rf>
 <form>HINGISOVÉ</form>
-<tag lemma="Hingisová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hingisová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-106-p2s1">
@@ -191,7 +191,7 @@
 <LM>w#w-mf930701-106-p2s1w13</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930701-106-p2s1w14">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf930701-106-p2s2w6</LM>
 </w.rf>
 <form>Hingisové</form>
-<tag lemma="Hingisová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hingisová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-106-p2s2w7">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 </w.rf>
 <form>Garros</form>
 <tag>
-<AM lemma="Garros_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Garros_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Garros-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -506,7 +506,7 @@
 <LM>w#w-mf930701-106-p2s2w29</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930701-106-p2s2w30">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 </w.rf>
 <form>IMG</form>
 <tag>
-<AM lemma="IMG-1_:B_;K_,t_^(International_Management_Group)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IMG-1_:B_;m_,t_^(International_Management_Group)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IMG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -788,7 +788,7 @@
 <LM>w#w-mf930701-106-p3s1w28</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-106-p3s1w29">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-mf930701-106-p4s1w24</LM>
 </w.rf>
 <form>Hingisová</form>
-<tag lemma="Hingisová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hingisová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-106-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1040,7 +1040,7 @@
 <LM>w#w-mf930701-106-p4s2w5</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930701-106-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1392,7 +1392,7 @@
 <LM>w#w-mf930701-106-p5s1w15</LM>
 </w.rf>
 <form>Navrátilová</form>
-<tag lemma="Navrátilová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Navrátilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-106-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1456,7 +1456,7 @@
 <LM>w#w-mf930701-106-p5s1w23</LM>
 </w.rf>
 <form>Hingisové</form>
-<tag lemma="Hingisová_;S" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Hingisová_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-106-p5s1w24">
 <src.rf>manual</src.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-mf930701-106-p6s1w1</LM>
 </w.rf>
 <form>Hingisovou</form>
-<tag lemma="Hingisová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Hingisová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-106-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1751,7 +1751,7 @@
 <LM>w#w-mf930701-106-p6s1w11</LM>
 </w.rf>
 <form>Nemšákové</form>
-<tag lemma="Nemšáková_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Nemšáková_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930701-106-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1807,7 +1807,7 @@
 <LM>w#w-mf930701-106-p6s1w18</LM>
 </w.rf>
 <form>Bolettieri</form>
-<tag lemma="Bolettieri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolettieri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-106-p6s1w19">
 <src.rf>manual</src.rf>
@@ -1825,7 +1825,7 @@
 <LM>w#w-mf930701-106-p6s2w1</LM>
 </w.rf>
 <form>Agassiho</form>
-<tag lemma="Agassi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Agassi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-106-p6s2w2">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 <LM>w#w-mf930701-106-p6s2w16</LM>
 </w.rf>
 <form>Kurnikovovou</form>
-<tag lemma="Kurnikovová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Kurnikovová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-106-p6s2w17">
 <src.rf>manual</src.rf>
@@ -1969,7 +1969,7 @@
 <LM>w#w-mf930701-106-p6s2w19</LM>
 </w.rf>
 <form>Williamsovou</form>
-<tag lemma="Williamsová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Williamsová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-106-p6s2w20">
 <src.rf>manual</src.rf>
@@ -2099,7 +2099,7 @@
 <LM>w#w-mf930701-106-p7s1w12</LM>
 </w.rf>
 <form>Bolettieri</form>
-<tag lemma="Bolettieri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolettieri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-106-p7s1w13">
 <src.rf>manual</src.rf>
@@ -2641,7 +2641,7 @@
 </w.rf>
 <form>Daily</form>
 <tag>
-<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-1_;m_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

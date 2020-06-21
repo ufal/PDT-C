@@ -251,7 +251,7 @@
 </w.rf>
 <form>review</form>
 <tag>
-<AM lemma="review_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="review_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="review-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -969,7 +969,7 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-1_;m_,t_^(souč._názvů,_např._Science)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1099,7 +1099,7 @@
 <LM>w#w-vesm9211-002-p3s2Bw7</LM>
 </w.rf>
 <form>Alzheimerově</form>
-<tag lemma="Alzheimerův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Alzheimerův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-vesm9211-002-p3s2Bw8">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <LM>w#w-vesm9211-002-p3s3w15</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9211-002-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1481,8 +1481,8 @@
 <form_change>spell</form_change>
 <form>Johnse</form>
 <tag>
-<AM lemma="Johns_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Johns_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Johns_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Johns_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-002-p3s4w9">
@@ -1491,7 +1491,7 @@
 <LM>w#w-vesm9211-002-p3s4w9</LM>
 </w.rf>
 <form>Hopkinse</form>
-<tag lemma="Hopkins_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hopkins_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-002-p3s4w10">
 <src.rf>manual</src.rf>
@@ -2130,7 +2130,7 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3110,7 +3110,7 @@
 <LM>w#w-vesm9211-002-p5s4w11</LM>
 </w.rf>
 <form>Heyrovského</form>
-<tag lemma="Heyrovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Heyrovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-002-p5s4w12">
 <src.rf>manual</src.rf>
@@ -3793,7 +3793,7 @@
 </w.rf>
 <form>Koryta</form>
 <tag>
-<AM lemma="Koryta_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Koryta_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="koryto" src="auto">NNNP1-----A----</AM>
 <AM lemma="koryto" src="auto">NNNP4-----A----</AM>
 <AM lemma="koryto" src="auto">NNNP5-----A----</AM>

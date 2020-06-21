@@ -973,7 +973,7 @@
 </w.rf>
 <form>NKA</form>
 <tag>
-<AM lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NKA-1_:B_;m_^(Německá_korespondeční_akademie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2312,8 +2312,8 @@
 </w.rf>
 <form>Hippokrates</form>
 <tag>
-<AM lemma="Hippokrates_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hippokrates_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hippokrates_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hippokrates_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-041-p12s9w2">
@@ -2492,7 +2492,7 @@
 <LM>w#w-cmpr9417-041-p12s10w1</LM>
 </w.rf>
 <form>Kretschmer</form>
-<tag lemma="Kretschmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kretschmer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-041-p12s10w2">
 <src.rf>manual</src.rf>
@@ -2702,7 +2702,7 @@
 <LM>w#w-cmpr9417-041-p12s11w1</LM>
 </w.rf>
 <form>Jung</form>
-<tag lemma="Jung_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jung_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-041-p12s11w2">
 <src.rf>manual</src.rf>
@@ -3045,7 +3045,7 @@
 </w.rf>
 <form>NKA</form>
 <tag>
-<AM lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NKA-1_:B_;m_^(Německá_korespondeční_akademie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3096,7 +3096,7 @@
 </w.rf>
 <form>Bertelsmann</form>
 <tag>
-<AM lemma="Bertelsmann_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bertelsmann_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Bertelsmann-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

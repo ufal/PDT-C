@@ -500,7 +500,7 @@
 <LM>w#w-mf930701-163-p2s3w16</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930701-163-p2s3w17">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-mf930701-163-p4s1w9</LM>
 </w.rf>
 <form>Džulemanovové</form>
-<tag lemma="Džulemanovová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Džulemanovová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-163-p4s1w10">
 <src.rf>manual</src.rf>

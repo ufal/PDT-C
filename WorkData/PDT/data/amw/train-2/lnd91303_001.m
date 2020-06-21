@@ -919,7 +919,7 @@
 <form>JANÍČEK</form>
 <tag>
 <AM lemma="Janíček_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Janíček_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Janíček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

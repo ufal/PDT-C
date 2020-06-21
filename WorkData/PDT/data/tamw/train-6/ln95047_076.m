@@ -439,8 +439,8 @@
 <AM lemma="Galo_;Y_,t" src="orig">NNMS2-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Gal_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Galus_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Galus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Galus_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Galus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="gala-1" src="auto">NNNXX-----A----</AM>
 <AM lemma="gala-2" src="auto">AAXXX----1A----</AM>
 <AM lemma="Galo_;Y" src="manual" selected="1">NNMS2-----A----</AM>
@@ -452,7 +452,7 @@
 <LM>w#w-ln95047-076-p2s3w6</LM>
 </w.rf>
 <form>Leoroa</form>
-<tag lemma="Leoro_;S_,t" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Leoro_;Y_,t" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-076-p2s3w7">
 <src.rf>manual</src.rf>
@@ -634,8 +634,8 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-076-p2s5w4">
@@ -652,7 +652,7 @@
 <LM>w#w-ln95047-076-p2s5w5</LM>
 </w.rf>
 <form>Fujimori</form>
-<tag lemma="Fujimori_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fujimori_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-076-p2s5w6">
 <src.rf>manual</src.rf>

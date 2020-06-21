@@ -63,7 +63,7 @@
 <LM>w#w-ln94202-118-p2s1Bw2</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94202-118-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -113,7 +113,7 @@
 <form>Filipe</form>
 <tag>
 <AM lemma="Filipe_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Filipe_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Filipe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-118-p2s1Bw9">
@@ -270,9 +270,9 @@
 <form>Gandary</form>
 <tag>
 <AM lemma="Gandara_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Gandara_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Gandara_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Gandara_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Gandara_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Gandara_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Gandara_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Gandara-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

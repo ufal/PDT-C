@@ -53,7 +53,7 @@
 <LM>w#w-ln94200-92-p2s1Aw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mot-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94200-92-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln94200-92-p2s1Bw32</LM>
 </w.rf>
 <form>Prefizol</form>
-<tag lemma="Prefizol_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Prefizol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-92-p2s1Bw33">
 <src.rf>manual</src.rf>

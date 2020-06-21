@@ -203,7 +203,7 @@
 <LM>w#w-lnd91301-095-p3s1w18</LM>
 </w.rf>
 <form>Haraouiho</form>
-<tag lemma="Haraoui_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Haraoui_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-095-p3s1w19">
 <src.rf>manual</src.rf>
@@ -236,11 +236,11 @@
 </w.rf>
 <form>Paris</form>
 <tag>
-<AM lemma="Parid_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Paris-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paris-2_;G" src="auto" selected="1">NNFSX-----A----</AM>
-<AM lemma="Paris-3_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Paris_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Parid_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Paris-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-2_;G" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Paris-3_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Paris_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-095-p3s1w23">
@@ -431,7 +431,7 @@
 <LM>w#w-lnd91301-095-p3s2Aw18</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91301-095-p3s2Aw19">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-095-p3s2Aw20">
@@ -458,7 +458,7 @@
 <LM>w#w-lnd91301-095-p3s2Aw21</LM>
 </w.rf>
 <form>Čaniga</form>
-<tag lemma="Čaniga_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čaniga_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-095-p3s2Aw22">
 <src.rf>manual</src.rf>

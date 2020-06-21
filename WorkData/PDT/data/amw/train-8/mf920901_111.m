@@ -396,7 +396,7 @@
 <LM>w#w-mf920901-111-p2s2w3</LM>
 </w.rf>
 <form>Nabijev</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-111-p2s2w4">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-mf920901-111-p2s2w23</LM>
 </w.rf>
 <form>Akbara</form>
-<tag lemma="Akbar_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Akbar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-111-p2s2w24">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-mf920901-111-p2s2w24</LM>
 </w.rf>
 <form>Mirzojeva</form>
-<tag lemma="Mirzojev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mirzojev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-111-p2s2w25">
 <src.rf>manual</src.rf>

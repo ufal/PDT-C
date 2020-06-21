@@ -36,7 +36,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Liege</form>
-<tag lemma="Liege_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Liege_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-90-p1s1w4">
 <src.rf>manual</src.rf>
@@ -70,7 +70,7 @@
 <LM>w#w-ln94208-90-p2s1Aw2</LM>
 </w.rf>
 <form>Hájková</form>
-<tag lemma="Hájková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hájková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-90-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Liege</form>
-<tag lemma="Liege_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Liege_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-90-p2s1B">
@@ -138,7 +138,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Liege</form>
-<tag lemma="Liege_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Liege_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-90-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-ln94208-90-p3s1w25</LM>
 </w.rf>
 <form>Haulota</form>
-<tag lemma="Haulot_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Haulot_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-90-p3s1w26">
 <src.rf>manual</src.rf>
@@ -695,9 +695,9 @@
 </w.rf>
 <form>UNESCO</form>
 <tag>
-<AM lemma="UNESCO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="UNESCO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Unesco_:B_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Unesco_:B_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="UNESCO-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -1096,7 +1096,7 @@
 <LM>w#w-ln94208-90-p5s1w9</LM>
 </w.rf>
 <form>Kacema</form>
-<tag lemma="Kacem_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kacem_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-90-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-ln94208-90-p5s4w10</LM>
 </w.rf>
 <form>Pokorný</form>
-<tag lemma="Pokorný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pokorný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-90-p5s4w11">
 <src.rf>manual</src.rf>
@@ -1614,7 +1614,7 @@
 <LM>w#w-ln94208-90-p5s4w25</LM>
 </w.rf>
 <form>Emmanuela</form>
-<tag lemma="Emmanuel_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Emmanuel_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-90-p5s4w26">
 <src.rf>manual</src.rf>

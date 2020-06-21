@@ -53,7 +53,7 @@
 <LM>w#w-ln95047-073-p2s1Aw1</LM>
 </w.rf>
 <form>Nábatijá</form>
-<tag lemma="Nábatijá_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Nábatijá_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95047-073-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 </w.rf>
 <form>SLA</form>
 <tag>
-<AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SLA-1_:B_;m_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -691,7 +691,7 @@
 <tag>
 <AM lemma="at_;m_,t" src="orig">TT-------------</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
-<AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="atmosféra_:B_;U_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="at_,t" src="manual">RR--X----------</AM>
 <AM lemma="at-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -880,7 +880,7 @@
 <LM>w#w-ln95047-073-p3s3w6</LM>
 </w.rf>
 <form>Hizballáhu</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s3w7">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-ln95047-073-p3s4w1</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1203,7 +1203,7 @@
 </w.rf>
 <form>SLA</form>
 <tag>
-<AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SLA-1_:B_;m_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1362,8 +1362,8 @@
 </w.rf>
 <form>Jicchak</form>
 <tag>
-<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-073-p3s6w9">
@@ -1372,7 +1372,7 @@
 <LM>w#w-ln95047-073-p3s6w9</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-ln95047-073-p3s7w1</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s7w2">
 <src.rf>manual</src.rf>
@@ -1684,7 +1684,7 @@
 </w.rf>
 <form>SLA</form>
 <tag>
-<AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SLA-1_:B_;m_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1712,7 +1712,7 @@
 <LM>w#w-ln95047-073-p3s9w2</LM>
 </w.rf>
 <form>Rabina</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s9w3">
 <src.rf>manual</src.rf>
@@ -1832,7 +1832,7 @@
 <LM>w#w-ln95047-073-p3s9w17</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s9w18">
 <src.rf>manual</src.rf>
@@ -2207,8 +2207,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-073-p3s12w6">

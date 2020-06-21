@@ -35,7 +35,7 @@
 <LM>w#w-lnd92252-013-p1s1w3</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-013-p1s1w4">
 <src.rf>manual</src.rf>
@@ -52,8 +52,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -433,7 +433,7 @@
 <LM>w#w-lnd92252-013-p4s2w35</LM>
 </w.rf>
 <form>Lobkowicz</form>
-<tag lemma="Lobkowicz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lobkowicz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-013-p4s2w36">
 <src.rf>manual</src.rf>
@@ -1057,8 +1057,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-013-p5s5w20">
@@ -1075,7 +1075,7 @@
 <LM>w#w-lnd92252-013-p5s5w21</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-013-p5s5w22">
 <src.rf>manual</src.rf>
@@ -1941,7 +1941,7 @@
 <LM>w#w-lnd92252-013-p6s1w20</LM>
 </w.rf>
 <form>Štěpánek</form>
-<tag lemma="Štěpánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štěpánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-013-p6s1w21">
 <src.rf>manual</src.rf>
@@ -2152,7 +2152,7 @@
 <LM>w#w-lnd92252-013-p6s2w8</LM>
 </w.rf>
 <form>Hofstetter</form>
-<tag lemma="Hofstetter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofstetter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-013-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2322,7 +2322,7 @@
 <LM>w#w-lnd92252-013-p7s1w2</LM>
 </w.rf>
 <form>POJSLOVÁ</form>
-<tag lemma="Pojslová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pojslová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

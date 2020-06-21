@@ -175,7 +175,7 @@
 <LM>w#w-ln94206-12-p2s1Bw14</LM>
 </w.rf>
 <form>Koryna</form>
-<tag lemma="Koryna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Koryna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-12-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-ln94206-12-p3s1w2</LM>
 </w.rf>
 <form>Koryně</form>
-<tag lemma="Koryna_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Koryna_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-12-p3s1w3">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-ln94206-12-p3s3w32</LM>
 </w.rf>
 <form>Plaček</form>
-<tag lemma="Plaček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plaček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-12-p3s3w33">
 <src.rf>manual</src.rf>

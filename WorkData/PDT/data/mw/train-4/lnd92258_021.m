@@ -21,7 +21,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-021-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-lnd92258-021-p1s1w3</LM>
 </w.rf>
 <form>INDRUCH</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-021-p1s1w4">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-lnd92258-021-p3s1w3</LM>
 </w.rf>
 <form>fsch</form>
-<tag lemma="fsch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="fsch-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-021-p3s1w4">
 <src.rf>manual</src.rf>
@@ -153,8 +153,8 @@
 </w.rf>
 <form>Lotar</form>
 <tag>
-<AM lemma="Lotar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lotar_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lotar_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lotar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-021-p3s2w2">
@@ -163,7 +163,7 @@
 <LM>w#w-lnd92258-021-p3s2w2</LM>
 </w.rf>
 <form>Indruch</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-021-p3s2w3">
 <src.rf>manual</src.rf>
@@ -188,7 +188,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -494,7 +494,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-021-p3s3w11">
@@ -511,7 +511,7 @@
 <LM>w#w-lnd92258-021-p3s3w12</LM>
 </w.rf>
 <form>Indrucha</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-021-p3s3w13">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-021-p3s4w2">
@@ -612,7 +612,7 @@
 <LM>w#w-lnd92258-021-p3s4w3</LM>
 </w.rf>
 <form>Indruch</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-021-p3s4w4">
 <src.rf>manual</src.rf>
@@ -799,8 +799,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-021-p3s5w3">
@@ -979,7 +979,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-021-p3s5w25">
@@ -996,7 +996,7 @@
 <LM>w#w-lnd92258-021-p3s5w26</LM>
 </w.rf>
 <form>Indrucha</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-021-p3s5w27">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-021-p3s6w10">
@@ -1129,7 +1129,7 @@
 <LM>w#w-lnd92258-021-p3s6w11</LM>
 </w.rf>
 <form>Indruch</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-021-p3s6w12">
 <src.rf>manual</src.rf>

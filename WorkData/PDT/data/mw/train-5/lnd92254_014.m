@@ -44,7 +44,7 @@
 </w.rf>
 <form>Akihito</form>
 <tag>
-<AM lemma="Akihito_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Akihito_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Akihito_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -725,7 +725,7 @@
 </w.rf>
 <form>DFNS</form>
 <tag>
-<AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DFNS_:B_;m_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DFNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -840,7 +840,7 @@
 </w.rf>
 <form>DFNS</form>
 <tag>
-<AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DFNS_:B_;m_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DFNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -928,8 +928,8 @@
 </w.rf>
 <form>Ilieska</form>
 <tag>
-<AM lemma="Iliescu_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Iliescu_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Iliescu_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Iliescu_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-014-p2s2w9">
@@ -1303,7 +1303,7 @@
 </w.rf>
 <form>Schweriner</form>
 <tag>
-<AM lemma="Schweriner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Schweriner_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Schweriner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1314,7 +1314,7 @@
 </w.rf>
 <form>Volkszeitung</form>
 <tag>
-<AM lemma="Volkszeitung_;R_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Volkszeitung_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Volkszeitung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

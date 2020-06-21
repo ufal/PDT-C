@@ -793,7 +793,7 @@
 <LM>w#w-cmpr9417-029-p6s1w3</LM>
 </w.rf>
 <form>Kruppa</form>
-<tag lemma="Krupp_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Krupp_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-029-p7s1">
@@ -870,7 +870,7 @@
 <LM>w#w-cmpr9417-029-p7s1w9</LM>
 </w.rf>
 <form>Kruppa</form>
-<tag lemma="Krupp_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Krupp_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-cmpr9417-029-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-cmpr9417-029-p7s5w8</LM>
 </w.rf>
 <form>Krupp</form>
-<tag lemma="Krupp_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krupp_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-029-p7s5w9">
 <src.rf>manual</src.rf>
@@ -1701,7 +1701,7 @@
 <LM>w#w-cmpr9417-029-p8s1w6</LM>
 </w.rf>
 <form>Wickham</form>
-<tag lemma="Wickham_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wickham_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-029-p8s1w7">
 <src.rf>manual</src.rf>
@@ -3079,8 +3079,8 @@
 </w.rf>
 <form>a</form>
 <tag>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="a-33" src="orig">Q3-------------</AM>
+<AM lemma="a-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-029-p13s1w2">
@@ -3588,8 +3588,8 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="b-33" src="orig">Q3-------------</AM>
+<AM lemma="b-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-029-p14s1w2">
@@ -5467,7 +5467,7 @@
 <LM>w#w-cmpr9417-029-p21s1w2</LM>
 </w.rf>
 <form>Kunášek</form>
-<tag lemma="Kunášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-029-p21s1w3">
 <src.rf>manual</src.rf>

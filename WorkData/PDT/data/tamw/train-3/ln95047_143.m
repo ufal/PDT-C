@@ -231,7 +231,7 @@
 <LM>w#w-ln95047-143-p2s1Bw6</LM>
 </w.rf>
 <form>Novým</form>
-<tag lemma="Nový_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Nový_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95047-143-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln95047-143-p2s2w3</LM>
 </w.rf>
 <form>Nového</form>
-<tag lemma="Nový_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nový_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-143-p2s2w4">
 <src.rf>manual</src.rf>
@@ -3904,7 +3904,7 @@
 </w.rf>
 <form>DPH</form>
 <tag>
-<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

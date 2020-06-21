@@ -288,7 +288,7 @@
 </w.rf>
 <form>UEPS</form>
 <tag>
-<AM lemma="UEPS_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEPS_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -316,7 +316,7 @@
 <form>Michel</form>
 <tag>
 <AM lemma="Michel_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Michel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Michel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-084-p4s1w20">
@@ -1061,7 +1061,7 @@
 <form>Michel</form>
 <tag>
 <AM lemma="Michel_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Michel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Michel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-084-p4s5Bw3">
@@ -2045,7 +2045,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

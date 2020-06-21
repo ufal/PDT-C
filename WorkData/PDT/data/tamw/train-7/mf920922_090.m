@@ -55,8 +55,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-090-p1s1Aw6">
@@ -212,7 +212,7 @@
 </w.rf>
 <form>WIP</form>
 <tag>
-<AM lemma="WIP-1_:B_;K_,t_^(Wirtschaftspartai)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WIP-1_:B_;m_,t_^(Wirtschaftspartai)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="WIP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -439,7 +439,7 @@
 </w.rf>
 <form>Czechoslowak</form>
 <tag>
-<AM lemma="Czechoslowak_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czechoslowak_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Czechoslowak-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -450,7 +450,7 @@
 </w.rf>
 <form>Models</form>
 <tag>
-<AM lemma="Model_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Model_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Models-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -469,11 +469,11 @@
 </w.rf>
 <form>Marine</form>
 <tag>
-<AM lemma="Marine_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Marine_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Marin_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS5-----A----</AM>
-<AM lemma="Marine-1_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Marine-1_;m_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Marine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -485,7 +485,7 @@
 <form>Travel</form>
 <tag>
 <AM lemma="Travel_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Travela_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Travela_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="travel_,t" src="auto">XX-------------</AM>
 <AM lemma="travel_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Travel-77" src="manual" selected="1">F%-------------</AM>
@@ -737,11 +737,11 @@
 </w.rf>
 <form>Marine</form>
 <tag>
-<AM lemma="Marine_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Marine_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Marin_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS5-----A----</AM>
-<AM lemma="Marine-1_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Marine-1_;m_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Marine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -924,7 +924,7 @@
 <LM>w#w-mf920922-090-p1s4w20</LM>
 </w.rf>
 <form>Škňouřil</form>
-<tag lemma="Škňouřil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Škňouřil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-090-p1s4w21">
 <src.rf>manual</src.rf>
@@ -957,8 +957,8 @@
 </w.rf>
 <form>MT</form>
 <tag>
-<AM lemma="MT_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Mt_:B_^(Matoušovo_evangelium)" src="auto">NNNSX-----A---8</AM>
+<AM lemma="MT_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Mt_:B_^(Matoušovo_evangelium)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="mountain_:B_,t" src="auto">NNFXX-----A---8</AM>
 <AM lemma="mountain_:B_,t_,x" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="MT_:B" src="manual">NNXXX-----A---8</AM>
@@ -1005,7 +1005,7 @@
 <AM lemma="Velká_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Velká_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Velká_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Velký_;S" src="auto">NNMP4-----A----</AM>
+<AM lemma="Velký_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="velký" src="auto">AAFP1----1A----</AM>
 <AM lemma="velký" src="auto">AAFP4----1A----</AM>
 <AM lemma="velký" src="auto">AAFP5----1A----</AM>

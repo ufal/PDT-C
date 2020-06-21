@@ -48,7 +48,7 @@
 <LM>w#w-lnd92254-052-p1s2w1</LM>
 </w.rf>
 <form>HIZBALLÁH</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92254-052-p2s1">
@@ -368,7 +368,7 @@
 <LM>w#w-lnd92254-052-p3s3w11</LM>
 </w.rf>
 <form>Bikáa</form>
-<tag lemma="Bikáa_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Bikáa_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92254-052-p3s3w12">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <form_change>spell</form_change>
 <form>Demokratické</form>
 <tag>
-<AM lemma="Demokratická_;K" src="orig">AAFS2----1A----</AM>
+<AM lemma="Demokratická_;m" src="orig">AAFS2----1A----</AM>
 <AM lemma="demokratický" src="auto">AAFP1----1A----</AM>
 <AM lemma="demokratický" src="auto">AAFP4----1A----</AM>
 <AM lemma="demokratický" src="auto">AAFP5----1A----</AM>
@@ -490,7 +490,7 @@
 <LM>w#w-lnd92254-052-p3s4w10</LM>
 </w.rf>
 <form>Hizballáhu</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92254-052-p3s4w11">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-lnd92254-052-p3s5w9</LM>
 </w.rf>
 <form>raketomety</form>
-<tag lemma="raketomet_;R" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="raketomet_;m" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-lnd92254-052-p3s5w10">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-lnd92254-052-p3s7w13</LM>
 </w.rf>
 <form>Hizballáhu</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92254-052-p3s7w14">
 <src.rf>manual</src.rf>

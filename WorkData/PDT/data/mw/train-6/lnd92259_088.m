@@ -185,8 +185,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-088-p2s1w17">
@@ -573,7 +573,7 @@
 <LM>w#w-lnd92259-088-p2s3w6</LM>
 </w.rf>
 <form>Fuchse</form>
-<tag lemma="Fuchs_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fuchs_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-088-p2s3w7">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-lnd92259-088-p2s3w8</LM>
 </w.rf>
 <form>Vrby</form>
-<tag lemma="Vrba_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vrba_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-088-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1228,9 +1228,9 @@
 </w.rf>
 <form>ps</form>
 <tag>
-<AM lemma="ps-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ps-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ps-2`pikosekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ps-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ps-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-088-p3s1w3">

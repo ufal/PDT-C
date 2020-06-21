@@ -45,7 +45,7 @@
 <form>Miranda</form>
 <tag>
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Miranda-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Miranda-3_;Y" src="manual">NNFS1-----A----</AM>
 <AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
@@ -106,7 +106,7 @@
 </w.rf>
 <form>Katharine</form>
 <tag>
-<AM lemma="Katharine_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Katharine_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Katharine_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -116,7 +116,7 @@
 <LM>w#w-ln94207-100-p1s1Aw10</LM>
 </w.rf>
 <form>Blakeová</form>
-<tag lemma="Blakeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blakeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-100-p1s1Aw11">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>McKevittová</form>
-<tag lemma="McKevittová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="McKevittová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-100-p1s1B">
@@ -168,7 +168,7 @@
 <LM>w#w-ln94207-100-p1s1Bw2</LM>
 </w.rf>
 <form>Mute</form>
-<tag lemma="Mute_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mute_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-100-p1s1Bw3">
 <src.rf>manual</src.rf>

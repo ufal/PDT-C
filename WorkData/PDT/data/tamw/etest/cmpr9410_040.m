@@ -305,7 +305,7 @@
 <LM>w#w-cmpr9410-040-p3s3w3</LM>
 </w.rf>
 <form>Seger</form>
-<tag lemma="Seger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-040-p3s3w4">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-cmpr9410-040-p3s3w18</LM>
 </w.rf>
 <form>VŠE</form>
-<tag lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="VŠE_:B_;m_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-040-p3s3w19">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-cmpr9410-040-p5s1w2</LM>
 </w.rf>
 <form>Vachulková</form>
-<tag lemma="Vachulková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vachulková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-040-p7s1">

@@ -3001,7 +3001,7 @@
 <LM>w#w-cmpr9413-040-p11s2Aw27</LM>
 </w.rf>
 <form>Ekostavby</form>
-<tag lemma="Ekostavba_;K" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="Ekostavba_;m" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw28">
 <src.rf>manual</src.rf>
@@ -3017,7 +3017,7 @@
 <LM>w#w-cmpr9413-040-p11s2Aw29</LM>
 </w.rf>
 <form>Lesostavby</form>
-<tag lemma="Lesostavby_;K" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="Lesostavby_;m" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s2Aw30">
 <src.rf>manual</src.rf>
@@ -3232,7 +3232,7 @@
 <LM>w#w-cmpr9413-040-p11s3w4</LM>
 </w.rf>
 <form>Armabeton</form>
-<tag lemma="Armabeton_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Armabeton_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s3w5">
 <src.rf>manual</src.rf>
@@ -3248,7 +3248,7 @@
 <LM>w#w-cmpr9413-040-p11s3w6</LM>
 </w.rf>
 <form>Metrostav</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s3w7">
 <src.rf>manual</src.rf>
@@ -3321,7 +3321,7 @@
 </w.rf>
 <form>IPS</form>
 <tag>
-<AM lemma="IPS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4597,7 +4597,7 @@
 <LM>w#w-cmpr9413-040-p15s1w2</LM>
 </w.rf>
 <form>Veverková</form>
-<tag lemma="Veverková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Veverková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p15s1w3">
 <src.rf>manual</src.rf>
@@ -4621,7 +4621,7 @@
 <LM>w#w-cmpr9413-040-p15s1w5</LM>
 </w.rf>
 <form>Trávníček</form>
-<tag lemma="Trávníček_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trávníček_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-040-p16s1">

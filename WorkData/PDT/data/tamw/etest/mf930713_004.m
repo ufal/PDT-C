@@ -19,7 +19,7 @@
 <LM>w#w-mf930713-004-p1s1w1</LM>
 </w.rf>
 <form>Běťák</form>
-<tag lemma="Běťák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Běťák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-004-p2s1">
@@ -63,7 +63,7 @@
 <LM>w#w-mf930713-004-p3s1w1</LM>
 </w.rf>
 <form>Běťák</form>
-<tag lemma="Běťák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Běťák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-004-p3s2">
@@ -209,7 +209,7 @@
 <LM>w#w-mf930713-004-p3s2w18</LM>
 </w.rf>
 <form>Běták</form>
-<tag lemma="Běták_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Běták_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s2w19">
 <src.rf>manual</src.rf>
@@ -250,8 +250,8 @@
 </w.rf>
 <form>t</form>
 <tag>
-<AM lemma="t-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="t-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="t-33" src="orig">Q3-------------</AM>
+<AM lemma="t-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s2w24">
@@ -342,7 +342,7 @@
 <LM>w#w-mf930713-004-p3s3w8</LM>
 </w.rf>
 <form>Beták</form>
-<tag lemma="Beták_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beták_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s3w9">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <form>Bet</form>
 <tag>
 <AM lemma="Bet" src="orig" selected="1">NNXXX-----A----</AM>
-<AM lemma="Bet_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Bet_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="beta" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -453,7 +453,7 @@
 <LM>w#w-mf930713-004-p3s3w21</LM>
 </w.rf>
 <form>Bětík</form>
-<tag lemma="Bětík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bětík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s3w22">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <form>Betík</form>
 <tag>
 <AM lemma="Betíi" src="orig">NNXXX-----A----</AM>
-<AM lemma="Betík_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Betík_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s3w24">
@@ -497,7 +497,7 @@
 <LM>w#w-mf930713-004-p3s3w26</LM>
 </w.rf>
 <form>Betáš</form>
-<tag lemma="Betáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Betáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s3w27">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-mf930713-004-p3s3w28</LM>
 </w.rf>
 <form>Betuš</form>
-<tag lemma="Betuš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Betuš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s3w29">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-mf930713-004-p3s6w7</LM>
 </w.rf>
 <form>Beťák</form>
-<tag lemma="Beťák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beťák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s6w8">
 <src.rf>manual</src.rf>
@@ -930,8 +930,8 @@
 <tag>
 <AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="t-2_^(přípona)" src="manual">NNXXX-----A----</AM>
-<AM lemma="t-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
-<AM lemma="t-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="t-33" src="manual">Q3-------------</AM>
+<AM lemma="t-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s6w26">
@@ -1526,7 +1526,7 @@
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
 <AM lemma="a-5_^(přípona)" src="manual">NNXXX-----A----</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="a-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s10w16">
@@ -1674,7 +1674,7 @@
 </w.rf>
 <form>Elišebah</form>
 <tag>
-<AM lemma="Elišebah_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Elišebah_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Elišebah-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1709,7 +1709,7 @@
 </w.rf>
 <form>Elišewah</form>
 <tag>
-<AM lemma="Elišewah_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Elišewah_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Elišewah-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1783,7 +1783,7 @@
 <LM>w#w-mf930713-004-p3s14w6</LM>
 </w.rf>
 <form>Kopečného</form>
-<tag lemma="Kopečný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kopečný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-004-p3s14w7">
 <src.rf>manual</src.rf>

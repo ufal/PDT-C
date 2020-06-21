@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-046-p1s1Aw1</LM>
 </w.rf>
 <form>Agroplast</form>
-<tag lemma="Agroplast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agroplast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-046-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf920922-046-p2s1w3</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ina-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-046-p2s1w4">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-mf920922-046-p2s1w5</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ouš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-046-p2s1w6">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf920922-046-p2s2w26</LM>
 </w.rf>
 <form>Glezga</form>
-<tag lemma="Glezgo_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Glezgo_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s2w27">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-mf920922-046-p2s2w35</LM>
 </w.rf>
 <form>Agroplast</form>
-<tag lemma="Agroplast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agroplast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s2w36">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf920922-046-p2s3w2</LM>
 </w.rf>
 <form>Agroplast</form>
-<tag lemma="Agroplast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agroplast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s3w3">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-mf920922-046-p2s5w17</LM>
 </w.rf>
 <form>Agroplast</form>
-<tag lemma="Agroplast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agroplast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s5w18">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-mf920922-046-p2s6w2</LM>
 </w.rf>
 <form>Kavan</form>
-<tag lemma="Kavan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kavan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-mf920922-046-p2s6w10</LM>
 </w.rf>
 <form>Agroplast</form>
-<tag lemma="Agroplast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agroplast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-mf920922-046-p2s8Bw7</LM>
 </w.rf>
 <form>Stricha</form>
-<tag lemma="Strich_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Strich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-046-p2s8Bw8">
 <src.rf>manual</src.rf>
@@ -1640,8 +1640,8 @@
 </w.rf>
 <form>Berkut</form>
 <tag>
-<AM lemma="Berkut_;K" src="orig" selected="1">NNXXX-----A----</AM>
-<AM lemma="Berkut_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Berkut_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Berkut_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-046-p2s10w12">

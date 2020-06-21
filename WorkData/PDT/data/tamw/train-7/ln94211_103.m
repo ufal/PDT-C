@@ -669,8 +669,8 @@
 </w.rf>
 <form>Yamaha</form>
 <tag>
-<AM lemma="Yamaha-2_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Yamaha_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Yamaha-2_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Yamaha_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-103-p2s3w14">
@@ -777,7 +777,7 @@
 <LM>w#w-ln94211-103-p2s4w12</LM>
 </w.rf>
 <form>Andela</form>
-<tag lemma="Andel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Andel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-103-p2s4w13">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-ln94211-103-p2s5w12</LM>
 </w.rf>
 <form>Lorée</form>
-<tag lemma="Lorée_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Lorée_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-103-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-ln94211-103-p2s5w19</LM>
 </w.rf>
 <form>Otari</form>
-<tag lemma="Otari_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Otari_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94211-103-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1523,7 +1523,7 @@
 <form>Ferko</form>
 <tag>
 <AM lemma="Ferko_;Y_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ferko_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ferko_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-103-p4s2w6">

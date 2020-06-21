@@ -109,7 +109,7 @@
 <LM>w#w-ln94201-46-p2s1w6</LM>
 </w.rf>
 <form>Chakrapong</form>
-<tag lemma="Chakrapong_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chakrapong_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s1w7">
 <src.rf>manual</src.rf>
@@ -142,8 +142,8 @@
 </w.rf>
 <form>Sihanuka</form>
 <tag>
-<AM lemma="Sihanuk_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Sihanuk_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Sihanuk_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Sihanuk_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-46-p2s1w11">
@@ -559,8 +559,8 @@
 </w.rf>
 <form>Chan</form>
 <tag>
-<AM lemma="Chan-1_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Chan-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chan-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Chan-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-46-p2s4w6">
@@ -569,7 +569,7 @@
 <LM>w#w-ln94201-46-p2s4w6</LM>
 </w.rf>
 <form>Youran</form>
-<tag lemma="Youran_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Youran_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s4w7">
 <src.rf>manual</src.rf>

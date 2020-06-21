@@ -215,7 +215,7 @@
 <LM>w#w-ln95041-072-p2s1Bw17</LM>
 </w.rf>
 <form>Vopálenské</form>
-<tag lemma="Vopálenská_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vopálenská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-072-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln95041-072-p3s1w11</LM>
 </w.rf>
 <form>Kužely</form>
-<tag lemma="Kužela_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kužela_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-072-p3s1w12">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-ln95041-072-p3s1w15</LM>
 </w.rf>
 <form>Vopálenskou</form>
-<tag lemma="Vopálenská_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Vopálenská_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-072-p3s1w16">
 <src.rf>manual</src.rf>
@@ -516,8 +516,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-072-p3s2w9">
@@ -542,7 +542,7 @@
 <LM>w#w-ln95041-072-p3s2w11</LM>
 </w.rf>
 <form>Vopálenské</form>
-<tag lemma="Vopálenská_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vopálenská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-072-p3s2w12">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-ln95041-072-p3s2w18</LM>
 </w.rf>
 <form>Korbel</form>
-<tag lemma="Korbel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korbel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-072-p3s2w19">
 <src.rf>manual</src.rf>

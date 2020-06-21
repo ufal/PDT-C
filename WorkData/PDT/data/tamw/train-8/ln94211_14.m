@@ -381,7 +381,7 @@
 <LM>w#w-ln94211-14-p2s2w11</LM>
 </w.rf>
 <form>Slavíček</form>
-<tag lemma="Slavíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slavíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-14-p2s2w12">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln94211-14-p2s2w17</LM>
 </w.rf>
 <form>Netík</form>
-<tag lemma="Netík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Netík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-14-p2s2w18">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 </w.rf>
 <form>Začal</form>
 <tag>
-<AM lemma="Začal_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Začal_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -821,7 +821,7 @@
 </w.rf>
 <form>Začal</form>
 <tag>
-<AM lemma="Začal_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Začal_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -1225,7 +1225,7 @@
 <LM>w#w-ln94211-14-p4s2w11</LM>
 </w.rf>
 <form>Budvar</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-14-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-ln94211-14-p4s2w13</LM>
 </w.rf>
 <form>Starobrno</form>
-<tag lemma="Starobrno_;R_^(značka_piva)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Starobrno_;m_^(značka_piva)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94211-14-p4s2w14">
 <src.rf>manual</src.rf>

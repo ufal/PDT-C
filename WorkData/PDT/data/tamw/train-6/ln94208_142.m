@@ -62,7 +62,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -280,7 +280,7 @@
 <LM>w#w-ln94208-142-p2s2w8</LM>
 </w.rf>
 <form>Somola</form>
-<tag lemma="Somol_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Somol_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-142-p2s2w9">
 <src.rf>manual</src.rf>

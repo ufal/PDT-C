@@ -388,7 +388,7 @@
 <LM>w#w-lnd92259-044-p2s1w21</LM>
 </w.rf>
 <form>Vodově</form>
-<tag lemma="Vodův-1_;S_^(*4a-1)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Vodův-1_;Y_^(*4a-1)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92259-044-p2s1w22">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>

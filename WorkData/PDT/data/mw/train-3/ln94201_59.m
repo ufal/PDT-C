@@ -337,7 +337,7 @@
 <LM>w#w-ln94201-59-p1s4w3</LM>
 </w.rf>
 <form>Homola</form>
-<tag lemma="Homola_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Homola_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

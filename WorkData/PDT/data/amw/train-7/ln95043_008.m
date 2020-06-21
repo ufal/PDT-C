@@ -219,7 +219,7 @@
 <LM>w#w-ln95043-008-p2s1Bw14</LM>
 </w.rf>
 <form>Cviertna</form>
-<tag lemma="Cviertna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cviertna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-008-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-ln95043-008-p2s3w14</LM>
 </w.rf>
 <form>Žemlíka</form>
-<tag lemma="Žemlík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Žemlík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-008-p2s3w15">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 </w.rf>
 <form>VTJ</form>
 <tag>
-<AM lemma="VTJ_:B_;K_^(vojenská_tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VTJ_:B_;m_^(vojenská_tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="VTJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -848,7 +848,7 @@
 <LM>w#w-ln95043-008-p3s2w5</LM>
 </w.rf>
 <form>Faldyna</form>
-<tag lemma="Faldyna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Faldyna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-008-p3s2w6">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-ln95043-008-p3s2w12</LM>
 </w.rf>
 <form>Grygar</form>
-<tag lemma="Grygar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grygar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-008-p3s2w13">
 <src.rf>manual</src.rf>
@@ -2266,7 +2266,7 @@
 <LM>w#w-ln95043-008-p3s11w29</LM>
 </w.rf>
 <form>Cviertna</form>
-<tag lemma="Cviertna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cviertna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-008-p3s11w30">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln95047-088-p1s1w4</LM>
 </w.rf>
 <form>Mejstříkově</form>
-<tag lemma="Mejstříkův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Mejstříkův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln95047-088-p1s1w5">
 <src.rf>manual</src.rf>
@@ -140,7 +140,7 @@
 <LM>w#w-ln95047-088-p2s1Cw5</LM>
 </w.rf>
 <form>Chadimovou</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95047-088-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <LM>w#w-ln95047-088-p2s1Cw10</LM>
 </w.rf>
 <form>Mejstřík</form>
-<tag lemma="Mejstřík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mejstřík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-088-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-088-p2s3w8">
@@ -502,7 +502,7 @@
 <LM>w#w-ln95047-088-p2s3w9</LM>
 </w.rf>
 <form>Chadimová</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-088-p2s3w10">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln95047-088-p3s1w2</LM>
 </w.rf>
 <form>Mejstříkově</form>
-<tag lemma="Mejstříkův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Mejstříkův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln95047-088-p3s1w3">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-088-p4s1w6">
@@ -848,7 +848,7 @@
 <LM>w#w-ln95047-088-p4s1w7</LM>
 </w.rf>
 <form>Chadimová</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-088-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1098,7 +1098,7 @@
 <LM>w#w-ln95047-088-p4s2w18</LM>
 </w.rf>
 <form>Chadimové</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-088-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 <LM>w#w-ln95047-088-p5s1w1</LM>
 </w.rf>
 <form>Mejstřík</form>
-<tag lemma="Mejstřík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mejstřík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-088-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1600,7 +1600,7 @@
 <LM>w#w-ln95047-088-p5s3w24</LM>
 </w.rf>
 <form>Chadimové</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-088-p5s3w25">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-ln95047-088-p5s3w29</LM>
 </w.rf>
 <form>Chadimovou</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95047-088-p5s3w30">
 <src.rf>manual</src.rf>
@@ -1714,7 +1714,7 @@
 <LM>w#w-ln95047-088-p6s1w1</LM>
 </w.rf>
 <form>Chadimová</form>
-<tag lemma="Chadimová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chadimová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-088-p6s1w2">
 <src.rf>manual</src.rf>

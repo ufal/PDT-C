@@ -466,7 +466,7 @@
 <LM>w#w-cmpr9416-013-p5s3w2</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p5s3w3">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-cmpr9416-013-p6s1w11</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1140,7 +1140,7 @@
 <LM>w#w-cmpr9416-013-p7s1w6</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1719,7 +1719,7 @@
 <LM>w#w-cmpr9416-013-p8s1w2</LM>
 </w.rf>
 <form>Kuklová</form>
-<tag lemma="Kuklová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kuklová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p8s1w3">
 <src.rf>manual</src.rf>
@@ -2879,7 +2879,7 @@
 <LM>w#w-cmpr9416-013-p13s1w2</LM>
 </w.rf>
 <form>Králová</form>
-<tag lemma="Králová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Králová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p13s1w3">
 <src.rf>manual</src.rf>
@@ -4536,7 +4536,7 @@
 <LM>w#w-cmpr9416-013-p19s1w2</LM>
 </w.rf>
 <form>Dvořák</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-013-p19s1w3">
 <src.rf>manual</src.rf>

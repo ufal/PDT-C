@@ -69,7 +69,7 @@
 <LM>w#w-ln95048-115-p2s1w6</LM>
 </w.rf>
 <form>Holbrooke</form>
-<tag lemma="Holbrooke_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holbrooke_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-115-p2s1w7">
 <src.rf>manual</src.rf>
@@ -1774,7 +1774,7 @@
 </w.rf>
 <form>Achbár</form>
 <tag>
-<AM lemma="Achbár_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Achbár_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Achbár-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2284,8 +2284,8 @@
 </w.rf>
 <form>Strobe</form>
 <tag>
-<AM lemma="Strobe_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-115-p6s1w27">
@@ -2294,7 +2294,7 @@
 <LM>w#w-ln95048-115-p6s1w27</LM>
 </w.rf>
 <form>Talbott</form>
-<tag lemma="Talbott_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talbott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-115-p6s1w28">
 <src.rf>manual</src.rf>

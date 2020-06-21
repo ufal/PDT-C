@@ -141,7 +141,7 @@
 <LM>w#w-ln94209-80-p2s1Bw11</LM>
 </w.rf>
 <form>Hnízdil</form>
-<tag lemma="Hnízdil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hnízdil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-80-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln94209-80-p2s1Bw20</LM>
 </w.rf>
 <form>Kejvala</form>
-<tag lemma="Kejval_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kejval_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-80-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln94209-80-p2s4w3</LM>
 </w.rf>
 <form>Hnízdil</form>
-<tag lemma="Hnízdil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hnízdil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-80-p2s4w4">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-ln94209-80-p2s6w3</LM>
 </w.rf>
 <form>Stárek</form>
-<tag lemma="Stárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-80-p2s6w4">
 <src.rf>manual</src.rf>

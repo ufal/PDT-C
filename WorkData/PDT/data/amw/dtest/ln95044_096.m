@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-096-p1s1w1</LM>
 </w.rf>
 <form>Dřímal</form>
-<tag lemma="Dřímal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dřímal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-096-p1s1w2">
 <src.rf>manual</src.rf>
@@ -52,7 +52,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -229,7 +229,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -362,7 +362,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -380,7 +380,7 @@
 <LM>w#w-ln95044-096-p2s2w4</LM>
 </w.rf>
 <form>Dřímal</form>
-<tag lemma="Dřímal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dřímal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-096-p2s2w5">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -685,7 +685,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -711,7 +711,7 @@
 <LM>w#w-ln95044-096-p2s3w18</LM>
 </w.rf>
 <form>Dřímal</form>
-<tag lemma="Dřímal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dřímal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-096-p2s3w19">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -959,7 +959,7 @@
 </w.rf>
 <form>MNS</form>
 <tag>
-<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS_:B_;m_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

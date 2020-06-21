@@ -75,7 +75,7 @@
 <LM>w#w-ln94211-77-p1s1Aw8</LM>
 </w.rf>
 <form>Dudajev</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-77-p1s1Aw9">
 <src.rf>manual</src.rf>
@@ -216,10 +216,10 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
 <AM lemma="Reuter-77" src="manual">F%-------------</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 </s>

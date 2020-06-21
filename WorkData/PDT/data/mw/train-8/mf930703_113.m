@@ -86,8 +86,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-113-p2s1w4">
@@ -434,7 +434,7 @@
 <LM>w#w-mf930703-113-p2s2w23</LM>
 </w.rf>
 <form>Černé</form>
-<tag lemma="Černá_;S_^(*1ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Černá_;Y_^(*1ý)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-113-p2s2w24">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-mf930703-113-p2s4w15</LM>
 </w.rf>
 <form>polovic</form>
-<tag lemma="polovic" src="orig" selected="1">Cn-SX----------</tag>
+<tag lemma="polovic" src="orig" selected="1">Cn-XX----------</tag>
 </m>
 <m id="m-mf930703-113-p2s4w16">
 <src.rf>manual</src.rf>

@@ -44,8 +44,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -123,8 +123,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -324,8 +324,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -387,7 +387,7 @@
 </w.rf>
 <form>Price</form>
 <tag>
-<AM lemma="Price-2_;K_,t_^(Price_Waterhouse)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Price-2_;m_,t_^(Price_Waterhouse)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Price_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="price_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Price-77" src="manual" selected="1">F%-------------</AM>
@@ -400,7 +400,7 @@
 </w.rf>
 <form>Waterhouse</form>
 <tag>
-<AM lemma="Waterhouse_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Waterhouse_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="waterhouse_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Waterhouse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -419,7 +419,7 @@
 <LM>w#w-ln94200-27-p3s1w13</LM>
 </w.rf>
 <form>Ernst</form>
-<tag lemma="Ernst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ernst_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-27-p3s1w14">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln94200-27-p3s1w15</LM>
 </w.rf>
 <form>Young</form>
-<tag lemma="Young_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Young_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-27-p3s1w16">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -545,8 +545,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -1423,7 +1423,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1566,8 +1566,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m_^(AB_Banka)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -1661,7 +1661,7 @@
 </w.rf>
 <form>ČS</form>
 <tag>
-<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČS-1_:B_;m_^(Česká_spořitelna)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

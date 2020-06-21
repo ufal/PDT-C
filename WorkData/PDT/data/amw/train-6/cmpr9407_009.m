@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9407-009-p3s1w6</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-009-p3s1w7">
 <src.rf>manual</src.rf>

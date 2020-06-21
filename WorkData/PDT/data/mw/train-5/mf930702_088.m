@@ -61,7 +61,7 @@
 <LM>w#w-mf930702-088-p2s1w3</LM>
 </w.rf>
 <form>šá</form>
-<tag lemma="šá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="šá-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-088-p2s1w4">
 <src.rf>manual</src.rf>
@@ -94,7 +94,7 @@
 </w.rf>
 <form>SKP</form>
 <tag>
-<AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SKP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -192,7 +192,7 @@
 <LM>w#w-mf930702-088-p2s1w19</LM>
 </w.rf>
 <form>Nadzamem</form>
-<tag lemma="Nadzam_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Nadzam_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-088-p2s1w20">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <form>Voda</form>
 <tag>
 <AM lemma="voda" src="orig">NNFS1-----A----</AM>
-<AM lemma="Voda-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Voda-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-088-p2s2w15">
@@ -558,7 +558,7 @@
 <LM>w#w-mf930702-088-p2s3w15</LM>
 </w.rf>
 <form>Duklou</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930702-088-p2s3w16">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-mf930702-088-p2s3w28</LM>
 </w.rf>
 <form>Dukla</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-088-p2s3w29">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-mf930702-088-p2s4w5</LM>
 </w.rf>
 <form>Beneš</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-088-p2s4w6">
 <src.rf>manual</src.rf>
@@ -918,8 +918,8 @@
 </w.rf>
 <form>Vody</form>
 <tag>
-<AM lemma="Voda-1_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Voda-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Voda-1_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Voda-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-088-p2s5w12">

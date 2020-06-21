@@ -45,7 +45,7 @@
 <LM>w#w-ln94200-101-p2s1Aw2</LM>
 </w.rf>
 <form>Steigerwald</form>
-<tag lemma="Steigerwald-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steigerwald-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-101-p2s1B">
@@ -272,7 +272,7 @@
 <form>Domažlický</form>
 <tag>
 <AM lemma="domažlický" src="orig">AAMS1----1A----</AM>
-<AM lemma="Domažlický_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Domažlický_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-101-p2s3w11">
@@ -384,7 +384,7 @@
 <LM>w#w-ln94200-101-p2s3w23</LM>
 </w.rf>
 <form>Hašek</form>
-<tag lemma="Hašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-101-p2s3w24">
 <src.rf>manual</src.rf>
@@ -2785,7 +2785,7 @@
 <form>Domažlický</form>
 <tag>
 <AM lemma="domažlický" src="orig">AAMS1----1A----</AM>
-<AM lemma="Domažlický_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Domažlický_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-101-p4s10w13">

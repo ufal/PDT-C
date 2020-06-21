@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-059-p1s1w5</LM>
 </w.rf>
 <form>Černík</form>
-<tag lemma="Černík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-059-p1s1w6">
 <src.rf>manual</src.rf>

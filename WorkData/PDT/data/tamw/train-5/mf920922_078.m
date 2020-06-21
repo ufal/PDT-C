@@ -79,7 +79,7 @@
 <LM>w#w-mf920922-078-p3s1w4</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-078-p3s1w5">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-mf920922-078-p3s1w9</LM>
 </w.rf>
 <form>Havlovi</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920922-078-p3s1w10">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-mf920922-078-p3s1w14</LM>
 </w.rf>
 <form>Lebeděv</form>
-<tag lemma="Lebeděv_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lebeděv_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-078-p3s1w15">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-mf920922-078-p4s1w13</LM>
 </w.rf>
 <form>Palouš</form>
-<tag lemma="Palouš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palouš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-078-p4s1w14">
 <src.rf>manual</src.rf>

@@ -60,7 +60,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNNXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNNXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -339,7 +339,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNNXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNNXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -400,8 +400,8 @@
 </w.rf>
 <form>Werner</form>
 <tag>
-<AM lemma="Werner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Werner_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Werner_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Werner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-118-p2s3w7">
@@ -410,7 +410,7 @@
 <LM>w#w-mf920923-118-p2s3w7</LM>
 </w.rf>
 <form>Fasslabend</form>
-<tag lemma="Fasslabend_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fasslabend_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-118-p2s3w8">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNNXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNNXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1125,7 +1125,7 @@
 <LM>w#w-mf920923-118-p4s2w13</LM>
 </w.rf>
 <form>Kubiš</form>
-<tag lemma="Kubiš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubiš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-118-p4s2w14">
 <src.rf>manual</src.rf>

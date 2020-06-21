@@ -33,8 +33,8 @@
 <tag>
 <AM lemma="ECO_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="ECO_:B" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Eco_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Eco_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eco_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="ECO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -140,8 +140,8 @@
 <tag>
 <AM lemma="ECO_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="ECO_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Eco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Eco_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Eco_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="ECO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -320,7 +320,7 @@
 </w.rf>
 <form>ABF</form>
 <tag>
-<AM lemma="ABF_:B_;K" src="auto">NNFSX-----A---8</AM>
+<AM lemma="ABF_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ABF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -745,8 +745,8 @@
 <tag>
 <AM lemma="ECO_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="ECO_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Eco_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Eco_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Eco_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="ECO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

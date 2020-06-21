@@ -341,7 +341,7 @@
 <LM>w#w-mf920923-027-p2s2w6</LM>
 </w.rf>
 <form>Brauera</form>
-<tag lemma="Brauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-027-p2s2w7">
 <src.rf>manual</src.rf>
@@ -358,8 +358,8 @@
 </w.rf>
 <form>Ernsta</form>
 <tag>
-<AM lemma="Ernst_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ernst_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-027-p2s2w9">
@@ -368,7 +368,7 @@
 <LM>w#w-mf920923-027-p2s2w9</LM>
 </w.rf>
 <form>Fuchse</form>
-<tag lemma="Fuchs_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fuchs_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-027-p2s2w10">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-mf920923-027-p2s2w12</LM>
 </w.rf>
 <form>Hausnera</form>
-<tag lemma="Hausner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hausner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-027-p2s2w13">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-mf920923-027-p2s2w15</LM>
 </w.rf>
 <form>Lehmdena</form>
-<tag lemma="Lehmden_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lehmden_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-027-p2s2w16">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-mf920923-027-p3s4w17</LM>
 </w.rf>
 <form>Hausner</form>
-<tag lemma="Hausner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hausner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-027-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1231,7 +1231,7 @@
 <LM>w#w-mf920923-027-p3s5w9</LM>
 </w.rf>
 <form>akrylem</form>
-<tag lemma="akryl_;R" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="akryl_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920923-027-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1558,8 +1558,8 @@
 <tag>
 <AM lemma="as-2_,t_^(angl._spojka)" src="orig">J,-------------</AM>
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="as-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="as-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1856,7 +1856,7 @@
 <LM>w#w-mf920923-027-p4s1w5</LM>
 </w.rf>
 <form>Hausnerem</form>
-<tag lemma="Hausner_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hausner_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920923-027-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1899,7 +1899,7 @@
 <LM>w#w-mf920923-027-p4s1w10</LM>
 </w.rf>
 <form>Brauer</form>
-<tag lemma="Brauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-027-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1971,7 +1971,7 @@
 <LM>w#w-mf920923-027-p4s1w19</LM>
 </w.rf>
 <form>Boschovými</form>
-<tag lemma="Boschův_;S_^(*2)" src="orig" selected="1">AUFP7M---------</tag>
+<tag lemma="Boschův_;Y_^(*2)" src="orig" selected="1">AUFP7M---------</tag>
 </m>
 <m id="m-mf920923-027-p4s1w20">
 <src.rf>manual</src.rf>
@@ -2104,7 +2104,7 @@
 </w.rf>
 <form>Chromy</form>
 <tag>
-<AM lemma="Chromy_;S" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Chromy_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="chróm" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="chróm" src="auto">NNIP4-----A----</AM>
 <AM lemma="chróm" src="auto">NNIP5-----A----</AM>

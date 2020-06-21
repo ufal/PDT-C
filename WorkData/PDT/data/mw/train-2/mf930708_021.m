@@ -105,10 +105,10 @@
 </w.rf>
 <form>kar</form>
 <tag>
-<AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
-<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-021-p2s1w4">
@@ -279,7 +279,7 @@
 <LM>w#w-mf930708-021-p2s2w7</LM>
 </w.rf>
 <form>Sumcová</form>
-<tag lemma="Sumcová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sumcová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-021-p2s2w8">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf930708-021-p2s2w15</LM>
 </w.rf>
 <form>Piťha</form>
-<tag lemma="Piťha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piťha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-021-p2s2w16">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-mf930708-021-p3s2w5</LM>
 </w.rf>
 <form>Buriánka</form>
-<tag lemma="Buriánek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Buriánek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-021-p3s2w6">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-mf930708-021-p3s3w10</LM>
 </w.rf>
 <form>Bartošek</form>
-<tag lemma="Bartošek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bartošek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-021-p3s3w11">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 <LM>w#w-mf930708-021-p4s1w7</LM>
 </w.rf>
 <form>Sumcové</form>
-<tag lemma="Sumcová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sumcová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930708-021-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-mf930708-021-p4s2w2</LM>
 </w.rf>
 <form>Dobšík</form>
-<tag lemma="Dobšík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobšík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-021-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 <LM>w#w-mf930708-021-p5s1w5</LM>
 </w.rf>
 <form>Dobšíka</form>
-<tag lemma="Dobšík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dobšík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-021-p5s1w6">
 <src.rf>manual</src.rf>

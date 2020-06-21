@@ -20,7 +20,7 @@
 </w.rf>
 <form>ODU</form>
 <tag>
-<AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ODU_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -39,7 +39,7 @@
 </w.rf>
 <form>DS</form>
 <tag>
-<AM lemma="DS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="DS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="DS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -248,7 +248,7 @@
 </w.rf>
 <form>ODU</form>
 <tag>
-<AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ODU_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -266,7 +266,7 @@
 <LM>w#w-lnd92257-087-p2s3w5</LM>
 </w.rf>
 <form>Mikloše</form>
-<tag lemma="Mikloš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mikloš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-087-p2s3w6">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 </w.rf>
 <form>DS</form>
 <tag>
-<AM lemma="DS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="DS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="DS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -309,7 +309,7 @@
 <LM>w#w-lnd92257-087-p2s3w10</LM>
 </w.rf>
 <form>Mattoše</form>
-<tag lemma="Mattoš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mattoš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-087-p2s3w11">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-lnd92257-087-p2s4w2</LM>
 </w.rf>
 <form>Mikloš</form>
-<tag lemma="Mikloš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikloš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-087-p2s4w3">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 </w.rf>
 <form>ODU</form>
 <tag>
-<AM lemma="ODU_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ODU_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ODU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

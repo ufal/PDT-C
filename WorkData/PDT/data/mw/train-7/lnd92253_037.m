@@ -141,7 +141,7 @@
 <LM>w#w-lnd92253-037-p2s1w10</LM>
 </w.rf>
 <form>Kounicově</form>
-<tag lemma="Kounicův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Kounicův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92253-037-p2s1w11">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-lnd92253-037-p2s1w36</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-037-p2s1w37">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-lnd92253-037-p2s1w41</LM>
 </w.rf>
 <form>Šimsa</form>
-<tag lemma="Šimsa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimsa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-037-p2s1w42">
 <src.rf>manual</src.rf>

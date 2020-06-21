@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-012-p1s1w1</LM>
 </w.rf>
 <form>Littbarski</form>
-<tag lemma="Littbarski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Littbarski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-012-p1s1w2">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95043-012-p2s1w7</LM>
 </w.rf>
 <form>Littbarskému</form>
-<tag lemma="Littbarski_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Littbarski_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95043-012-p2s1w8">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -845,7 +845,7 @@
 </w.rf>
 <form>la</form>
 <tag>
-<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFSX----1A----</AM>
+<AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="orig">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
@@ -927,7 +927,7 @@
 <LM>w#w-ln95043-012-p4s1w15</LM>
 </w.rf>
 <form>Littbarského</form>
-<tag lemma="Littbarski_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Littbarski_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-012-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1116,8 +1116,8 @@
 <tag>
 <AM lemma="Michele_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Michel_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Michele-1_;Y_^(žena)" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
-<AM lemma="Michele-2_;Y_^(muž)" src="auto">NNMSX-----A----</AM>
+<AM lemma="Michele-1_;Y_^(žena)" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
+<AM lemma="Michele-2_;Y_^(muž)" src="auto">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-012-p4s2w19">
@@ -1436,7 +1436,7 @@
 <LM>w#w-ln95043-012-p4s5w16</LM>
 </w.rf>
 <form>Littbarski</form>
-<tag lemma="Littbarski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Littbarski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-012-p4s5w17">
 <src.rf>manual</src.rf>
@@ -1537,7 +1537,7 @@
 <LM>w#w-ln95043-012-p5s1w4</LM>
 </w.rf>
 <form>Littbarského</form>
-<tag lemma="Littbarski_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Littbarski_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-012-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1939,7 +1939,7 @@
 <LM>w#w-ln95043-012-p5s5w10</LM>
 </w.rf>
 <form>Littbarski</form>
-<tag lemma="Littbarski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Littbarski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-012-p5s5w11">
 <src.rf>manual</src.rf>

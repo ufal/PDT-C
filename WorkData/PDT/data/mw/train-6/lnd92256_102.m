@@ -298,7 +298,7 @@
 <LM>w#w-lnd92256-102-p2s3w4</LM>
 </w.rf>
 <form>Kirkpatrick</form>
-<tag lemma="Kirkpatrick_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kirkpatrick_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-102-p2s3w5">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-lnd92256-102-p2s6w2</LM>
 </w.rf>
 <form>Kirkpatrick</form>
-<tag lemma="Kirkpatrick_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kirkpatrick_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-102-p2s6w3">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-lnd92256-102-p2s6w4</LM>
 </w.rf>
 <form>Mikovu</form>
-<tag lemma="Mikův_;S_;Y_,t_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Mikův_;Y_,t_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd92256-102-p2s6w5">
 <src.rf>manual</src.rf>

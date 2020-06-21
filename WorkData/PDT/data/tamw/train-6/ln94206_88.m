@@ -61,7 +61,7 @@
 <LM>w#w-ln94206-88-p2s1Aw2</LM>
 </w.rf>
 <form>Steigerwald</form>
-<tag lemma="Steigerwald-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steigerwald-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-88-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-ln94206-88-p3s3w12</LM>
 </w.rf>
 <form>Klausův</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94206-88-p3s3w13">
 <src.rf>manual</src.rf>
@@ -2377,7 +2377,7 @@
 <LM>w#w-ln94206-88-p4s2w45</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-88-p4s2w46">
 <src.rf>manual</src.rf>
@@ -4864,7 +4864,7 @@
 <LM>w#w-ln94206-88-p6s1w5</LM>
 </w.rf>
 <form>Klausově</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln94206-88-p6s1w6">
 <src.rf>manual</src.rf>
@@ -5118,7 +5118,7 @@
 <LM>w#w-ln94206-88-p6s4w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94206-88-p6s4w6">
 <src.rf>manual</src.rf>

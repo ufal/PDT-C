@@ -78,8 +78,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-122-p2s1Aw4">
@@ -96,7 +96,7 @@
 <LM>w#w-mf930713-122-p2s1Aw5</LM>
 </w.rf>
 <form>or</form>
-<tag lemma="or-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="or-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930713-122-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -147,7 +147,7 @@
 </w.rf>
 <form>ADAST</form>
 <tag>
-<AM lemma="ADAST_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ADAST_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ADAST-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -552,7 +552,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -610,7 +610,7 @@
 <LM>w#w-mf930713-122-p3s1w13</LM>
 </w.rf>
 <form>ADASTu</form>
-<tag lemma="Adast_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Adast_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-122-p3s1w14">
 <src.rf>manual</src.rf>

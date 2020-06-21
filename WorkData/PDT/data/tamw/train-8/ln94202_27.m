@@ -69,7 +69,7 @@
 <LM>w#w-ln94202-27-p2s1Aw2</LM>
 </w.rf>
 <form>Kvačková</form>
-<tag lemma="Kvačková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kvačková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-27-p2s1B">
@@ -95,7 +95,7 @@
 <LM>w#w-ln94202-27-p2s1Bw3</LM>
 </w.rf>
 <form>Pilip</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-27-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -112,8 +112,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-27-p2s1Bw6">

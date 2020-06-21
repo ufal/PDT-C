@@ -69,7 +69,7 @@
 <LM>w#w-mf920902-118-p2s1w4</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="bar-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920902-118-p2s1w5">
 <src.rf>manual</src.rf>

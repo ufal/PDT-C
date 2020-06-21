@@ -169,7 +169,7 @@
 </w.rf>
 <form>NLN</form>
 <tag>
-<AM lemma="NLN-2_:B_;R_^(Nedělní_Lidové_Noviny)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="NLN-2_:B_;m_^(Nedělní_Lidové_Noviny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -913,12 +913,12 @@
 <form>Raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
@@ -1986,7 +1986,7 @@
 <AM lemma="máť_,s" src="auto">NNFS3-----A----</AM>
 <AM lemma="máť_,s" src="auto">NNFS5-----A----</AM>
 <AM lemma="máť_,s" src="auto">NNFS6-----A----</AM>
-<AM lemma="máť" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="máť" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p3s8w3">
@@ -3636,7 +3636,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p8s1w2">
@@ -3654,8 +3654,8 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p8s1w4">

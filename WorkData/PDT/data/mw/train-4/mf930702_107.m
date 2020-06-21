@@ -1499,14 +1499,14 @@
 </w.rf>
 <form>Dan</form>
 <tag>
-<AM lemma="Dan_;K_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Dan_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dan_;Y_,h" src="auto">NNMS1-----A----</AM>
 <AM lemma="Dana_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS1-----A----</AM>
 <AM lemma="dan-2_^(mistrovský_stupeň_v_džudu_a_karate)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="dan-2_^(mistrovský_stupeň_v_džudu_a_karate)" src="auto">NNIS4-----A----</AM>
-<AM lemma="dan-99_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Dan-2_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="dan-99_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Dan-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-107-p6s2w10">
@@ -1563,7 +1563,7 @@
 <LM>w#w-mf930702-107-p6s2w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930702-107-p6s2w17">
 <src.rf>manual</src.rf>

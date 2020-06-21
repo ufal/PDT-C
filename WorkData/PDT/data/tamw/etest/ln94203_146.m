@@ -159,7 +159,7 @@
 <LM>w#w-ln94203-146-p2s1Bw2</LM>
 </w.rf>
 <form>Pšenička</form>
-<tag lemma="Pšenička-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pšenička-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-146-p2s1C">
@@ -1210,7 +1210,7 @@
 <form>ECU</form>
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1475,7 +1475,7 @@
 <LM>w#w-ln94203-146-p5s2w7</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-146-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1524,7 +1524,7 @@
 </w.rf>
 <form>CEFTA</form>
 <tag>
-<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CEFTA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1633,7 +1633,7 @@
 <LM>w#w-ln94203-146-p5s3w5</LM>
 </w.rf>
 <form>Koncoš</form>
-<tag lemma="Koncoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koncoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-146-p5s3w6">
 <src.rf>manual</src.rf>

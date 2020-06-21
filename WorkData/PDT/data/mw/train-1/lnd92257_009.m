@@ -420,8 +420,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-009-p2s2w25">
@@ -659,7 +659,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1398,7 +1398,7 @@
 <LM>w#w-lnd92257-009-p3s3w18</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92257-009-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <form>Owen</form>
 <tag>
 <AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Owen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-009-p3s4w4">
@@ -1494,7 +1494,7 @@
 <LM>w#w-lnd92257-009-p3s4w5</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-009-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1636,7 +1636,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1702,7 +1702,7 @@
 <LM>w#w-lnd92257-009-p3s5w9</LM>
 </w.rf>
 <form>Karadžićovým</form>
-<tag lemma="Karadžićův_;S_^(*2)" src="orig" selected="1">AUFP3M---------</tag>
+<tag lemma="Karadžićův_;Y_^(*2)" src="orig" selected="1">AUFP3M---------</tag>
 </m>
 <m id="m-lnd92257-009-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1734,7 +1734,7 @@
 <LM>w#w-lnd92257-009-p3s5w13</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92257-009-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-lnd92257-009-p3s5w21</LM>
 </w.rf>
 <form>Paniće</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-009-p3s5w22">
 <src.rf>manual</src.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-lnd92257-009-p3s5w23</LM>
 </w.rf>
 <form>Čosiće</form>
-<tag lemma="Čosić_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Čosić_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-009-p3s5w24">
 <src.rf>manual</src.rf>
@@ -3143,7 +3143,7 @@
 <LM>w#w-lnd92257-009-p4s3w44</LM>
 </w.rf>
 <form>Milošević</form>
-<tag lemma="Milošević_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Milošević_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-009-p4s3w45">
 <src.rf>manual</src.rf>
@@ -3177,7 +3177,7 @@
 <LM>w#w-lnd92257-009-p5s1w3</LM>
 </w.rf>
 <form>ČERNÝ</form>
-<tag lemma="Černý_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černý_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

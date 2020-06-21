@@ -1656,7 +1656,7 @@
 <LM>w#w-vesm9303-001-p4s1w17</LM>
 </w.rf>
 <form>Boltzmanna</form>
-<tag lemma="Boltzmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Boltzmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-001-p4s1w18">
 <src.rf>manual</src.rf>
@@ -3901,7 +3901,7 @@
 <LM>w#w-vesm9303-001-p6s2w12</LM>
 </w.rf>
 <form>Koteckého</form>
-<tag lemma="Kotecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-001-p6s2w13">
 <src.rf>manual</src.rf>
@@ -5184,7 +5184,7 @@
 <LM>w#w-vesm9303-001-p7s6w5</LM>
 </w.rf>
 <form>Koteckého</form>
-<tag lemma="Kotecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-001-p7s6w6">
 <src.rf>manual</src.rf>
@@ -6633,7 +6633,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-001-p9s1w3">
@@ -6650,7 +6650,7 @@
 <LM>w#w-vesm9303-001-p9s1w4</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94206-131-p1s1w1</LM>
 </w.rf>
 <form>Knoflíček</form>
-<tag lemma="Knoflíček-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knoflíček-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-131-p1s1w2">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln94206-131-p1s1w6</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-131-p2s1A">
@@ -86,8 +86,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-131-p2s1Aw4">
@@ -189,7 +189,7 @@
 <LM>w#w-ln94206-131-p2s1Bw10</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-131-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln94206-131-p2s1Bw13</LM>
 </w.rf>
 <form>Knoflíček</form>
-<tag lemma="Knoflíček-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knoflíček-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-131-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln94206-131-p2s2w16</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-131-p2s2w17">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-ln94206-131-p2s4w9</LM>
 </w.rf>
 <form>Knoflíček</form>
-<tag lemma="Knoflíček-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knoflíček-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-131-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1401,7 +1401,7 @@
 <LM>w#w-ln94206-131-p3s3Bw3</LM>
 </w.rf>
 <form>Knoflíček</form>
-<tag lemma="Knoflíček-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knoflíček-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-131-p3s3Bw4">
 <src.rf>manual</src.rf>
@@ -1995,7 +1995,7 @@
 <LM>w#w-ln94206-131-p6s2w12</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94206-131-p6s2w13">
 <src.rf>manual</src.rf>

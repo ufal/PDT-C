@@ -120,7 +120,7 @@
 </w.rf>
 <form>THERMIE</form>
 <tag>
-<AM lemma="THERMIE_:B_;K_,t" src="orig">NNIXX-----A---8</AM>
+<AM lemma="THERMIE_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="THERMIE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

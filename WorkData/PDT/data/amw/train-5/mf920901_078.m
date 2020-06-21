@@ -47,7 +47,7 @@
 <form>Navarov</form>
 <tag>
 <AM lemma="Navarov-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Navarov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Navarov_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-078-p2s1w2">
@@ -64,7 +64,7 @@
 <LM>w#w-mf920901-078-p2s1w3</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ouš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920901-078-p2s1w4">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <form>Navarov</form>
 <tag>
 <AM lemma="Navarov-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Navarov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Navarov_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-078-p2s2w19">

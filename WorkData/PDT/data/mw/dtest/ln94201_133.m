@@ -1584,7 +1584,7 @@
 <LM>w#w-ln94201-133-p4s1w2</LM>
 </w.rf>
 <form>ikr</form>
-<tag lemma="ikr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ikr-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94201-133-p4s1w3">
 <src.rf>manual</src.rf>

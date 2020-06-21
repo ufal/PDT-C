@@ -69,7 +69,7 @@
 <LM>w#w-ln94205-72-p2s1Aw2</LM>
 </w.rf>
 <form>Kvačková</form>
-<tag lemma="Kvačková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kvačková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-72-p2s1B">
@@ -899,7 +899,7 @@
 </w.rf>
 <form>PSJ</form>
 <tag>
-<AM lemma="PSJ_:B_;K" src="auto">NNFSX-----A---8</AM>
+<AM lemma="PSJ_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PSJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -925,7 +925,7 @@
 <LM>w#w-ln94205-72-p3s2w27</LM>
 </w.rf>
 <form>Metrostav</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-72-p3s2w28">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-ln94205-72-p3s2w29</LM>
 </w.rf>
 <form>Konstruktiva</form>
-<tag lemma="Konstruktiva_;K_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Konstruktiva_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-72-p3s2w30">
 <src.rf>manual</src.rf>
@@ -1315,7 +1315,7 @@
 <LM>w#w-ln94205-72-p3s6w13</LM>
 </w.rf>
 <form>Konstruktiva</form>
-<tag lemma="Konstruktiva_;K_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Konstruktiva_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-72-p3s6w14">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 <LM>w#w-ln94205-72-p3s6w31</LM>
 </w.rf>
 <form>Janková</form>
-<tag lemma="Janková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Janková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-72-p3s6w32">
 <src.rf>manual</src.rf>
@@ -2636,7 +2636,7 @@
 <LM>w#w-ln94205-72-p4s8w5</LM>
 </w.rf>
 <form>Sadil</form>
-<tag lemma="Sadil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-72-p4s8w6">
 <src.rf>manual</src.rf>
@@ -2736,10 +2736,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>

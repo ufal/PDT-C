@@ -159,7 +159,7 @@
 <LM>w#w-mf920902-078-p2s4w14</LM>
 </w.rf>
 <form>Stejskalův</form>
-<tag lemma="Stejskalův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Stejskalův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf920902-078-p2s4w15">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-mf920902-078-p4s1w1</LM>
 </w.rf>
 <form>Švarc</form>
-<tag lemma="Švarc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švarc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-078-p4s1w2">
 <src.rf>manual</src.rf>

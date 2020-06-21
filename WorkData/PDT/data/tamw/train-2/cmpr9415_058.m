@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9415-058-p3s1w1</LM>
 </w.rf>
 <form>Vars</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p3s1w2">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-cmpr9415-058-p4s1w10</LM>
 </w.rf>
 <form>Vars</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p4s1w11">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-cmpr9415-058-p4s1w14</LM>
 </w.rf>
 <form>Přeček</form>
-<tag lemma="Přeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p4s1w15">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-cmpr9415-058-p4s3w9</LM>
 </w.rf>
 <form>Varsu</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p4s3w10">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-cmpr9415-058-p6s1w2</LM>
 </w.rf>
 <form>Winter</form>
-<tag lemma="Winter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Winter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-058-p8s1">
@@ -1225,7 +1225,7 @@
 <LM>w#w-cmpr9415-058-p10s1w1</LM>
 </w.rf>
 <form>Vars</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p10s1w2">
 <src.rf>manual</src.rf>
@@ -1771,7 +1771,7 @@
 <LM>w#w-cmpr9415-058-p11s1w7</LM>
 </w.rf>
 <form>Autovars</form>
-<tag lemma="Autovars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Autovars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p11s1w8">
 <src.rf>manual</src.rf>
@@ -1804,7 +1804,7 @@
 </w.rf>
 <form>General</form>
 <tag>
-<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-1_;m_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
 <AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1815,7 +1815,7 @@
 </w.rf>
 <form>Motors</form>
 <tag>
-<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-1_;m_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1901,7 +1901,7 @@
 <LM>w#w-cmpr9415-058-p11s3w1</LM>
 </w.rf>
 <form>Varsumat</form>
-<tag lemma="Varsumat_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Varsumat_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p11s3w2">
 <src.rf>manual</src.rf>
@@ -1981,7 +1981,7 @@
 <LM>w#w-cmpr9415-058-p11s3w11</LM>
 </w.rf>
 <form>Vesumat</form>
-<tag lemma="Vesumat_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vesumat_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p11s3w12">
 <src.rf>manual</src.rf>
@@ -2055,7 +2055,7 @@
 <LM>w#w-cmpr9415-058-p11s4w1</LM>
 </w.rf>
 <form>Musicvars</form>
-<tag lemma="Musicvars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Musicvars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p11s4w2">
 <src.rf>manual</src.rf>
@@ -2267,7 +2267,7 @@
 <LM>w#w-cmpr9415-058-p12s1w1</LM>
 </w.rf>
 <form>Varset</form>
-<tag lemma="Varset_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Varset_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p12s1w2">
 <src.rf>manual</src.rf>
@@ -2445,7 +2445,7 @@
 <LM>w#w-cmpr9415-058-p12s2w1</LM>
 </w.rf>
 <form>Energovars</form>
-<tag lemma="Energovars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Energovars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p12s2w2">
 <src.rf>manual</src.rf>
@@ -2462,8 +2462,8 @@
 </w.rf>
 <form>Dobré</form>
 <tag>
-<AM lemma="Dobrá_;S" src="auto">NNFS6-----A----</AM>
-<AM lemma="Dobrá_;G_;S" src="manual">NNFS6-----A----</AM>
+<AM lemma="Dobrá_;Y" src="auto">NNFS6-----A----</AM>
+<AM lemma="Dobrá_;G_;Y" src="manual">NNFS6-----A----</AM>
 <AM lemma="Dobrá-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -2645,7 +2645,7 @@
 <LM>w#w-cmpr9415-058-p12s4w1</LM>
 </w.rf>
 <form>Ekovars</form>
-<tag lemma="Ekovars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ekovars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p12s4w2">
 <src.rf>manual</src.rf>
@@ -2719,7 +2719,7 @@
 <LM>w#w-cmpr9415-058-p12s5w2</LM>
 </w.rf>
 <form>Vars</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p12s5w3">
 <src.rf>manual</src.rf>
@@ -3221,7 +3221,7 @@
 <LM>w#w-cmpr9415-058-p13s2w11</LM>
 </w.rf>
 <form>Vars</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p13s2w12">
 <src.rf>manual</src.rf>
@@ -3255,7 +3255,7 @@
 <LM>w#w-cmpr9415-058-p13s3w3</LM>
 </w.rf>
 <form>Autovarsu</form>
-<tag lemma="Autovars_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Autovars_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p13s3w4">
 <src.rf>manual</src.rf>
@@ -3643,7 +3643,7 @@
 <LM>w#w-cmpr9415-058-p14s1w4</LM>
 </w.rf>
 <form>Proxis</form>
-<tag lemma="Proxis_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Proxis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-058-p15s1">
@@ -3661,7 +3661,7 @@
 <LM>w#w-cmpr9415-058-p15s1w2</LM>
 </w.rf>
 <form>Varsu</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p15s1w3">
 <src.rf>manual</src.rf>
@@ -3857,7 +3857,7 @@
 <LM>w#w-cmpr9415-058-p15s3w3</LM>
 </w.rf>
 <form>Přeček</form>
-<tag lemma="Přeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p15s3w4">
 <src.rf>manual</src.rf>
@@ -4141,7 +4141,7 @@
 <LM>w#w-cmpr9415-058-p16s1w4</LM>
 </w.rf>
 <form>Proxis</form>
-<tag lemma="Proxis_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Proxis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p16s1w5">
 <src.rf>manual</src.rf>
@@ -4485,7 +4485,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4630,7 +4630,7 @@
 <LM>w#w-cmpr9415-058-p16s6w9</LM>
 </w.rf>
 <form>Varset</form>
-<tag lemma="Varset_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Varset_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p16s6w10">
 <src.rf>manual</src.rf>
@@ -4728,7 +4728,7 @@
 <LM>w#w-cmpr9415-058-p16s7w7</LM>
 </w.rf>
 <form>Kredo</form>
-<tag lemma="Kredo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kredo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p16s7w8">
 <src.rf>manual</src.rf>
@@ -5070,7 +5070,7 @@
 <LM>w#w-cmpr9415-058-p17s3w3</LM>
 </w.rf>
 <form>Přeček</form>
-<tag lemma="Přeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p17s3w4">
 <src.rf>manual</src.rf>
@@ -5190,7 +5190,7 @@
 <LM>w#w-cmpr9415-058-p17s3w18</LM>
 </w.rf>
 <form>Varsem</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p17s3w19">
 <src.rf>manual</src.rf>
@@ -5224,7 +5224,7 @@
 <LM>w#w-cmpr9415-058-p18s1w3</LM>
 </w.rf>
 <form>Vars</form>
-<tag lemma="Vars_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vars_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-058-p18s1w4">
 <src.rf>manual</src.rf>
@@ -5529,7 +5529,7 @@
 </w.rf>
 <form>foto</form>
 <tag>
-<AM lemma="foto" src="orig">NNNSX-----A----</AM>
+<AM lemma="foto" src="orig">NNNXX-----A----</AM>
 <AM lemma="foto" src="auto">NNNS1-----A----</AM>
 <AM lemma="foto" src="auto">NNNS4-----A----</AM>
 <AM lemma="foto" src="auto">NNNS5-----A----</AM>

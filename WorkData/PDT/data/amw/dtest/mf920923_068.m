@@ -179,7 +179,7 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -197,7 +197,7 @@
 <LM>w#w-mf920923-068-p3s1w18</LM>
 </w.rf>
 <form>Gašparovič</form>
-<tag lemma="Gašparovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gašparovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-068-p3s1w19">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-mf920923-068-p3s1w25</LM>
 </w.rf>
 <form>Sher</form>
-<tag lemma="Sher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-068-p3s1w26">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 </w.rf>
 <form>SNR</form>
 <tag>
-<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;m_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

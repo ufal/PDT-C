@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-104-p1s1Aw2</LM>
 </w.rf>
 <form>Mahenovi</form>
-<tag lemma="Mahen_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Mahen_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-104-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -52,13 +52,13 @@
 </w.rf>
 <form>fil</form>
 <tag>
-<AM lemma="fil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="fil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-104-p1s1Aw6">
@@ -157,7 +157,7 @@
 <LM>w#w-mf920902-104-p1s1Bw10</LM>
 </w.rf>
 <form>Mahen</form>
-<tag lemma="Mahen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mahen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-104-p1s1Bw11">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-mf920902-104-p1s2w5</LM>
 </w.rf>
 <form>Mahenovy</form>
-<tag lemma="Mahenův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Mahenův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920902-104-p1s2w6">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-mf920902-104-p1s2w8</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf920902-104-p1s2w9">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-mf920902-104-p1s3w12</LM>
 </w.rf>
 <form>Mahena</form>
-<tag lemma="Mahen_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mahen_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-104-p1s3w13">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-mf920902-104-p1s4w10</LM>
 </w.rf>
 <form>Mahena</form>
-<tag lemma="Mahen_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mahen_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-104-p1s4w11">
 <src.rf>manual</src.rf>

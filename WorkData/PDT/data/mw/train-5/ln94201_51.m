@@ -594,8 +594,8 @@
 <form>Hammadí</form>
 <tag>
 <AM lemma="Hammadí_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Hammadí_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hammadí_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Hammadí_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hammadí_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Hammadí-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -727,7 +727,7 @@
 <LM>w#w-ln94201-51-p2s4w9</LM>
 </w.rf>
 <form>Gamá</form>
-<tag lemma="Gamá_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Gamá_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94201-51-p2s4w10">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-ln94201-51-p2s4w12</LM>
 </w.rf>
 <form>islamíja</form>
-<tag lemma="islamíja_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="islamíja_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94201-51-p2s4w13">
 <src.rf>manual</src.rf>

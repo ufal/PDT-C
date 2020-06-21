@@ -419,11 +419,11 @@
 </w.rf>
 <form>Sandu</form>
 <tag>
-<AM lemma="Sandu-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Sand_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Sand_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Sandu-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sand_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Sand_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Sanda_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Sandu_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Sandu_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-084-p2s2w18">
@@ -522,7 +522,7 @@
 <LM>w#w-mf930702-084-p2s3w11</LM>
 </w.rf>
 <form>Zlatko</form>
-<tag lemma="Zlatko_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlatko_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-084-p2s3w12">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-mf930702-084-p2s3w12</LM>
 </w.rf>
 <form>Arambašič</form>
-<tag lemma="Arambašič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arambašič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-084-p2s3w13">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-mf930702-084-p2s3w28</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930702-084-p2s3w29">
 <src.rf>manual</src.rf>

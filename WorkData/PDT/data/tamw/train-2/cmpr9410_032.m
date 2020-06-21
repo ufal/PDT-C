@@ -959,7 +959,7 @@
 <LM>w#w-cmpr9410-032-p4s1w15</LM>
 </w.rf>
 <form>biohrnce</form>
-<tag lemma="biohrnec_;L" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="biohrnec_;U" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-cmpr9410-032-p4s1w16">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <form>Axiom</form>
 <tag>
 <AM lemma="axiom" src="orig">NNIS1-----A----</AM>
-<AM lemma="Axiom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Axiom_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-032-p4s1w20">
@@ -1026,7 +1026,7 @@
 <LM>w#w-cmpr9410-032-p4s1w23</LM>
 </w.rf>
 <form>Markest</form>
-<tag lemma="Markest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Markest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-032-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 <LM>w#w-cmpr9410-032-p4s2w16</LM>
 </w.rf>
 <form>biohrnce</form>
-<tag lemma="biohrnec_;L" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="biohrnec_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-032-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 </w.rf>
 <form>Axiom</form>
 <tag>
-<AM lemma="Axiom_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Axiom_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="axiom" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="axiom" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1592,7 +1592,7 @@
 <LM>w#w-cmpr9410-032-p5s2w3</LM>
 </w.rf>
 <form>biohrnec</form>
-<tag lemma="biohrnec_;L" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="biohrnec_;U" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-032-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-cmpr9410-032-p5s2w22</LM>
 </w.rf>
 <form>Markest</form>
-<tag lemma="Markest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Markest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-032-p5s2w23">
 <src.rf>manual</src.rf>
@@ -3566,7 +3566,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-032-p9s1w10">
@@ -3585,7 +3585,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-032-p9s1w12">
@@ -4109,7 +4109,7 @@
 <LM>w#w-cmpr9410-032-p13s1w2</LM>
 </w.rf>
 <form>Lánský</form>
-<tag lemma="Lánský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lánský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

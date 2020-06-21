@@ -403,8 +403,8 @@
 <form>Ešera</form>
 <tag>
 <AM lemma="Ešera_;G" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="Ešer_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ešer_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Ešer_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ešer_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-097-p2s3w17">

@@ -835,7 +835,7 @@
 <LM>w#w-cmpr9413-010-p8s1w2</LM>
 </w.rf>
 <form>Hořejš</form>
-<tag lemma="Hořejš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hořejš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-010-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-cmpr9413-010-p10s1w2</LM>
 </w.rf>
 <form>Gebarowský</form>
-<tag lemma="Gebarowský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gebarowský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-010-p11s1">
@@ -1048,8 +1048,8 @@
 </w.rf>
 <form>J</form>
 <tag>
-<AM lemma="J-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="J-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="J-33" src="orig">Q3-------------</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-010-p11s1w4">
@@ -1067,8 +1067,8 @@
 </w.rf>
 <form>G</form>
 <tag>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="G-33" src="orig">Q3-------------</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-010-p11s1w6">

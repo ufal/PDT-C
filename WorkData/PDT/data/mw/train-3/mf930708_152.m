@@ -134,10 +134,10 @@
 </w.rf>
 <form>Chul</form>
 <tag>
-<AM lemma="Chul_;S" src="orig">NNXXX-----A----</AM>
+<AM lemma="Chul_;Y" src="orig">NNXXX-----A----</AM>
 <AM lemma="choulit" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="choulit" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="Chul_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chul_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-152-p2s1w11">
@@ -148,8 +148,8 @@
 <form>Hyun</form>
 <tag>
 <AM lemma="Hyun_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Hyun_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hyun_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Hyun_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hyun_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-152-p2s1w12">
@@ -254,7 +254,7 @@
 <LM>w#w-mf930708-152-p2s1w25</LM>
 </w.rf>
 <form>Samsung</form>
-<tag lemma="Samsung_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Samsung_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-152-p2s1w26">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-mf930708-152-p3s3w7</LM>
 </w.rf>
 <form>Samsungu</form>
-<tag lemma="Samsung_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Samsung_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-152-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-mf930708-152-p3s12w7</LM>
 </w.rf>
 <form>Samsung</form>
-<tag lemma="Samsung_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Samsung_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-152-p3s12w8">
 <src.rf>manual</src.rf>
@@ -1884,7 +1884,7 @@
 <LM>w#w-mf930708-152-p4s1w15</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-152-p4s1w16">
 <src.rf>manual</src.rf>
@@ -2025,10 +2025,10 @@
 </w.rf>
 <form>Chul</form>
 <tag>
-<AM lemma="Chul_;S" src="orig">NNXXX-----A----</AM>
+<AM lemma="Chul_;Y" src="orig">NNXXX-----A----</AM>
 <AM lemma="choulit" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="choulit" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="Chul_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chul_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-152-p4s3w4">
@@ -2039,8 +2039,8 @@
 <form>Hyun</form>
 <tag>
 <AM lemma="Hyun_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Hyun_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hyun_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Hyun_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hyun_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-152-p4s3w5">

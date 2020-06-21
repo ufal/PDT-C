@@ -198,8 +198,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-81-p2s1Bw17">
@@ -348,7 +348,7 @@
 </w.rf>
 <form>Kok</form>
 <tag>
-<AM lemma="Kok_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kok_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="koka" src="auto">NNFP2-----A----</AM>
 <AM lemma="kok" src="auto">NNIS1-----A----</AM>
 <AM lemma="kok" src="auto" recommended="1">NNIS4-----A----</AM>
@@ -569,7 +569,7 @@
 </w.rf>
 <form>Kok</form>
 <tag>
-<AM lemma="Kok_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kok_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="koka" src="auto">NNFP2-----A----</AM>
 <AM lemma="kok" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kok" src="auto">NNIS4-----A----</AM>
@@ -666,7 +666,7 @@
 <LM>w#w-ln94205-81-p2s3w1</LM>
 </w.rf>
 <form>Kokova</form>
-<tag lemma="Kokův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Kokův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94205-81-p2s3w2">
 <src.rf>manual</src.rf>
@@ -739,8 +739,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-81-p2s3w11">

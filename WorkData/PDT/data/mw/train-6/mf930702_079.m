@@ -85,7 +85,7 @@
 <LM>w#w-mf930702-079-p2s1w6</LM>
 </w.rf>
 <form>Coubertin</form>
-<tag lemma="Coubertin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Coubertin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-079-p2s1w7">
 <src.rf>manual</src.rf>
@@ -153,9 +153,9 @@
 </w.rf>
 <form>sokolům</form>
 <tag>
-<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMP3-----A----</AM>
-<AM lemma="sokol-2_;K_^(organizace)" src="manual">NNMP3-----A----</AM>
-<AM lemma="sokol-2_;K_^(organizace)" src="manual">NNMP3-----A----</AM>
+<AM lemma="sokol-1_;U_^(pták)" src="auto">NNMP3-----A----</AM>
+<AM lemma="sokol-2_;m_^(organizace)" src="manual">NNMP3-----A----</AM>
+<AM lemma="sokol-2_;m_^(organizace)" src="manual">NNMP3-----A----</AM>
 <AM lemma="sokol-1" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
@@ -474,7 +474,7 @@
 <LM>w#w-mf930702-079-p2s2w20</LM>
 </w.rf>
 <form>Řezníček</form>
-<tag lemma="Řezníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Řezníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-079-p2s2w21">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 </w.rf>
 <form>ČOS</form>
 <tag>
-<AM lemma="ČOS_:B_;K_^(Česká_obec_sokolská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOS_:B_;m_^(Česká_obec_sokolská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -518,7 +518,7 @@
 <LM>w#w-mf930702-079-p2s2w25</LM>
 </w.rf>
 <form>Doutlík</form>
-<tag lemma="Doutlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doutlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-079-p2s2w26">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 </w.rf>
 <form>ČOS</form>
 <tag>
-<AM lemma="ČOS_:B_;K_^(Česká_obec_sokolská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOS_:B_;m_^(Česká_obec_sokolská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -562,7 +562,7 @@
 <LM>w#w-mf930702-079-p2s2w30</LM>
 </w.rf>
 <form>Šikola</form>
-<tag lemma="Šikola_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šikola_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-079-p2s2w31">
 <src.rf>manual</src.rf>

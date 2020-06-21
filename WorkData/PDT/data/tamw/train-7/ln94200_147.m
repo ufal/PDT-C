@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-147-p1s1w1</LM>
 </w.rf>
 <form>Bělkevič</form>
-<tag lemma="Bělkevič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bělkevič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-147-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln94200-147-p2s1Bw5</LM>
 </w.rf>
 <form>Bělkevič</form>
-<tag lemma="Bělkevič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bělkevič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-147-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -195,7 +195,7 @@
 </w.rf>
 <form>Hibernians</form>
 <tag>
-<AM lemma="Hibernian_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Hibernian_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Hibernians-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -206,7 +206,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -217,7 +217,7 @@
 </w.rf>
 <form>Valleta</form>
 <tag>
-<AM lemma="Valleta_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Valleta_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Valleta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -270,7 +270,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

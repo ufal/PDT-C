@@ -53,7 +53,7 @@
 <LM>w#w-ln94207-17-p2s1w2</LM>
 </w.rf>
 <form>Mlynárik</form>
-<tag lemma="Mlynárik_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mlynárik_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-17-p2s1w3">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94207-17-p2s1w24</LM>
 </w.rf>
 <form>Šedovič</form>
-<tag lemma="Šedovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šedovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-17-p2s1w25">
 <src.rf>manual</src.rf>
@@ -470,8 +470,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-17-p2s1w54">
@@ -546,7 +546,7 @@
 <LM>w#w-ln94207-17-p2s2w5</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94207-17-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1751,7 +1751,7 @@
 <LM>w#w-ln94207-17-p5s3w9</LM>
 </w.rf>
 <form>Slota</form>
-<tag lemma="Slota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-17-p5s3w10">
 <src.rf>manual</src.rf>
@@ -1776,7 +1776,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2005,7 +2005,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2289,7 +2289,7 @@
 <LM>w#w-ln94207-17-p6s1w1</LM>
 </w.rf>
 <form>Slotův</form>
-<tag lemma="Slotův_;S_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Slotův_;Y_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94207-17-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2356,7 +2356,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2599,7 +2599,7 @@
 <LM>w#w-ln94207-17-p6s3w1</LM>
 </w.rf>
 <form>Slota</form>
-<tag lemma="Slota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-17-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2711,7 +2711,7 @@
 <LM>w#w-ln94207-17-p6s3w15</LM>
 </w.rf>
 <form>Vnuka</form>
-<tag lemma="Vnuk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vnuk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-17-p6s3w16">
 <src.rf>manual</src.rf>
@@ -2727,7 +2727,7 @@
 <LM>w#w-ln94207-17-p6s3w17</LM>
 </w.rf>
 <form>Ďurici</form>
-<tag lemma="Ďurica_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ďurica_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-17-p6s3w18">
 <src.rf>manual</src.rf>
@@ -2752,7 +2752,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2893,7 +2893,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3066,7 +3066,7 @@
 <LM>w#w-ln94207-17-p6s4w27</LM>
 </w.rf>
 <form>Rázus</form>
-<tag lemma="Rázus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rázus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-17-p6s4w28">
 <src.rf>manual</src.rf>
@@ -3175,7 +3175,7 @@
 <LM>w#w-ln94207-17-p6s5w4</LM>
 </w.rf>
 <form>Slotovu</form>
-<tag lemma="Slotův_;S_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Slotův_;Y_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94207-17-p6s5w5">
 <src.rf>manual</src.rf>
@@ -3184,7 +3184,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3606,7 +3606,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3931,7 +3931,7 @@
 </w.rf>
 <form>SNP</form>
 <tag>
-<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-1_:B_;m_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4049,7 +4049,7 @@
 </w.rf>
 <form>Flóra</form>
 <tag>
-<AM lemma="Flóra_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Flóra_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="flóra" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -4068,7 +4068,7 @@
 </w.rf>
 <form>Justícia</form>
 <tag>
-<AM lemma="Justícia_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Justícia_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Justícia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4094,7 +4094,7 @@
 <LM>w#w-ln94207-17-p7s4w31</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94207-17-p7s4w32">
 <src.rf>manual</src.rf>
@@ -4111,9 +4111,9 @@
 </w.rf>
 <form>Viestovou</form>
 <tag>
-<AM lemma="Viestová_;S" src="orig">AUFS7M---------</AM>
-<AM lemma="Viestův_;S_^(*2)" src="auto" recommended="1">AUFS7M---------</AM>
-<AM lemma="Viestová_;S" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Viestová_;Y" src="orig">AUFS7M---------</AM>
+<AM lemma="Viestův_;Y_^(*2)" src="auto" recommended="1">AUFS7M---------</AM>
+<AM lemma="Viestová_;Y" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-17-p7s4w34">
@@ -4130,7 +4130,7 @@
 <LM>w#w-ln94207-17-p7s4w35</LM>
 </w.rf>
 <form>Burešovou</form>
-<tag lemma="Burešová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Burešová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-17-p7s4w36">
 <src.rf>manual</src.rf>
@@ -4173,7 +4173,7 @@
 <LM>w#w-ln94207-17-p7s4w40</LM>
 </w.rf>
 <form>Kochem</form>
-<tag lemma="Koch_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Koch_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-17-p7s4w41">
 <src.rf>manual</src.rf>
@@ -4327,7 +4327,7 @@
 <LM>w#w-ln94207-17-p8s1w18</LM>
 </w.rf>
 <form>Slotovi</form>
-<tag lemma="Slota_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Slota_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94207-17-p8s1w19">
 <src.rf>manual</src.rf>

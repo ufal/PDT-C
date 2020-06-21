@@ -44,7 +44,7 @@
 </w.rf>
 <form>OK</form>
 <tag>
-<AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OK-2_:B_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -81,11 +81,11 @@
 </w.rf>
 <form>bod</form>
 <tag>
-<AM lemma="bod-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bod-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
 <AM lemma="bodnout" src="auto">VpYS----R-AAP-6</AM>
-<AM lemma="bod-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bod-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-100-p1s1Bw4">
@@ -461,7 +461,7 @@
 </w.rf>
 <form>Tvs</form>
 <tag>
-<AM lemma="Tvs_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Tvs_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Tvs-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -487,7 +487,7 @@
 <LM>w#w-mf920922-100-p1s3w17</LM>
 </w.rf>
 <form>Philips</form>
-<tag lemma="Philips_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Philips_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-100-p1s3w18">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 </w.rf>
 <form>OK</form>
 <tag>
-<AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OK-2_:B_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

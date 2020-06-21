@@ -28,8 +28,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-63-p1s1w3">
@@ -66,7 +66,7 @@
 <LM>w#w-ln94206-63-p2s1Bw2</LM>
 </w.rf>
 <form>Jakl</form>
-<tag lemma="Jakl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jakl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-63-p2s1C">
@@ -181,7 +181,7 @@
 <LM>w#w-ln94206-63-p2s1Cw15</LM>
 </w.rf>
 <form>Kalvody</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-63-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -1423,7 +1423,7 @@
 <LM>w#w-ln94206-63-p2s8w1</LM>
 </w.rf>
 <form>Kalvodovy</form>
-<tag lemma="Kalvodův_;S_^(*2a)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Kalvodův_;Y_^(*2a)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94206-63-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1511,7 +1511,7 @@
 <LM>w#w-ln94206-63-p2s9w3</LM>
 </w.rf>
 <form>Kalvodu</form>
-<tag lemma="Kalvoda_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kalvoda_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-63-p2s9w4">
 <src.rf>manual</src.rf>

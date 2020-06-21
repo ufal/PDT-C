@@ -958,7 +958,7 @@
 <form>KOLÁŘ</form>
 <tag>
 <AM lemma="kolář" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kolář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kolář_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-011-p2s1w3">

@@ -104,7 +104,7 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -307,7 +307,7 @@
 </w.rf>
 <form>Frontiers</form>
 <tag>
-<AM lemma="frontier_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="frontier_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="frontiers_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Frontiers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -730,7 +730,7 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2183,7 +2183,7 @@
 <LM>w#w-ln95048-068-p3s4w12</LM>
 </w.rf>
 <form>Snow</form>
-<tag lemma="Snow_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Snow_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-068-p3s4w13">
 <src.rf>manual</src.rf>
@@ -2599,7 +2599,7 @@
 <LM>w#w-ln95048-068-p3s8w10</LM>
 </w.rf>
 <form>Kantovi</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95048-068-p3s8w11">
 <src.rf>manual</src.rf>
@@ -2616,9 +2616,9 @@
 </w.rf>
 <form>Joyceovi</form>
 <tag>
-<AM lemma="Joyce_;S" src="orig" selected="1">NNMS6-----A----</AM>
-<AM lemma="Joyceův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
-<AM lemma="Joyceův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Joyce_;Y" src="orig" selected="1">NNMS6-----A----</AM>
+<AM lemma="Joyceův_;Y_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
+<AM lemma="Joyceův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-ln95048-068-p3s8w13">
@@ -2635,7 +2635,7 @@
 <LM>w#w-ln95048-068-p3s8w14</LM>
 </w.rf>
 <form>Miróovi</form>
-<tag lemma="Miró_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Miró_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95048-068-p3s8w15">
 <src.rf>manual</src.rf>
@@ -3016,7 +3016,7 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

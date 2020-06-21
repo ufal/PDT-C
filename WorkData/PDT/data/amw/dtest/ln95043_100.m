@@ -682,7 +682,7 @@
 <LM>w#w-ln95043-100-p2s6w4</LM>
 </w.rf>
 <form>Safea</form>
-<tag lemma="Safea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Safea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-100-p2s6w5">
 <src.rf>manual</src.rf>

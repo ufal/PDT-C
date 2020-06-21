@@ -84,7 +84,7 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -204,7 +204,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -589,7 +589,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -680,7 +680,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -837,7 +837,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1150,7 +1150,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1482,7 +1482,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1688,7 +1688,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1934,7 +1934,7 @@
 <LM>w#w-ln95046-123-p3s2w8</LM>
 </w.rf>
 <form>Karosa</form>
-<tag lemma="Karosa_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Karosa_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-123-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1942,7 +1942,7 @@
 <LM>w#w-ln95046-123-p3s2w9</LM>
 </w.rf>
 <form>Vysoké</form>
-<tag lemma="Vysoký-1_;K" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="Vysoký-1_;m" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95046-123-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1966,7 +1966,7 @@
 <LM>w#w-ln95046-123-p3s2w12</LM>
 </w.rf>
 <form>Strojobal</form>
-<tag lemma="Strojobal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Strojobal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-123-p3s2w13">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 </w.rf>
 <form>ISIN</form>
 <tag>
-<AM lemma="ISIN_:B_;b_^(Mez._norma_identifikace_cenných_papírů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ISIN_:B_^(Mez._norma_identifikace_cenných_papírů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ISIN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2314,7 +2314,7 @@
 </w.rf>
 <form>BIC</form>
 <tag>
-<AM lemma="BIC-2_:B_;K_,t_^(Bureau_Inter._du_Commerce_et_de_l'Indust.)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="BIC-2_:B_;m_,t_^(Bureau_Inter._du_Commerce_et_de_l'Indust.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="BIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2358,9 +2358,9 @@
 <tag>
 <AM lemma="code_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cod_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Code-1_;K" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="Code-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Code-2_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Code-1_;m" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Code-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Code-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Code-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2507,7 +2507,7 @@
 </w.rf>
 <form>ISIN</form>
 <tag>
-<AM lemma="ISIN_:B_;b_^(Mez._norma_identifikace_cenných_papírů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ISIN_:B_^(Mez._norma_identifikace_cenných_papírů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ISIN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3594,7 +3594,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3747,7 +3747,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3766,23 +3766,23 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-4_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="S-4_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="S-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="S-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="S-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="S-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="S-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="S-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="S-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="States_:B_;G_,t_^(United_States_ve_zkr._apod.)" src="auto">NNIPX-----A---8</AM>
+<AM lemma="S-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="S-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="S-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="S-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="States_:B_;G_,t_^(United_States_ve_zkr._apod.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto">RR--7----------</AM>
 <AM lemma="s-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
+<AM lemma="S-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="auto">NNXXX-----A----</AM>
 <AM lemma="s-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="scriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
@@ -3791,7 +3791,7 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-123-p6s2w18">
@@ -4540,7 +4540,7 @@
 <LM>w#w-ln95046-123-p8s1w19</LM>
 </w.rf>
 <form>Armabeton</form>
-<tag lemma="Armabeton_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Armabeton_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-123-p8s1w20">
 <src.rf>manual</src.rf>
@@ -4634,7 +4634,7 @@
 </w.rf>
 <form>SEPAP</form>
 <tag>
-<AM lemma="Sepap_:B_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sepap_:B_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="SEPAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4693,7 +4693,7 @@
 </w.rf>
 <form>SSŽ</form>
 <tag>
-<AM lemma="SSŽ-1_:B_;K_^(Stavby_silnic_a_železnic)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SSŽ-1_:B_;m_^(Stavby_silnic_a_železnic)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SSŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

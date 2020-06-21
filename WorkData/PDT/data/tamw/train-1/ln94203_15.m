@@ -27,7 +27,7 @@
 <LM>w#w-ln94203-15-p1s1w2</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-15-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln94203-15-p1s1w4</LM>
 </w.rf>
 <form>Siemensem</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-15-p2s1A">
@@ -69,7 +69,7 @@
 <LM>w#w-ln94203-15-p2s1Aw3</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ma-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-15-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 </w.rf>
 <form>SPT</form>
 <tag>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -251,7 +251,7 @@
 <LM>w#w-ln94203-15-p2s1Bw20</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-15-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-ln94203-15-p2s1Bw23</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-15-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

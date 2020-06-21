@@ -366,7 +366,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -727,7 +727,7 @@
 </w.rf>
 <form>FNM</form>
 <tag>
-<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-1_:B_;m_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FNM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -860,7 +860,7 @@
 </w.rf>
 <form>MZ</form>
 <tag>
-<AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MZ_:B_;m_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -946,7 +946,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-089-p3s7w9">
@@ -963,7 +963,7 @@
 <LM>w#w-lnd92253-089-p3s7w10</LM>
 </w.rf>
 <form>Prince</form>
-<tag lemma="Princ_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Princ_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-089-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1317,7 +1317,7 @@
 </w.rf>
 <form>MZ</form>
 <tag>
-<AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MZ_:B_;m_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1505,7 +1505,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-089-p3s10w29">
@@ -1522,7 +1522,7 @@
 <LM>w#w-lnd92253-089-p3s10w30</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-089-p3s10w31">
 <src.rf>manual</src.rf>

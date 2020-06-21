@@ -20,7 +20,7 @@
 </w.rf>
 <form>Stock</form>
 <tag>
-<AM lemma="Stock_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Stock_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Stock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -31,7 +31,7 @@
 </w.rf>
 <form>Consult</form>
 <tag>
-<AM lemma="Consult_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Consult_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Consult-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -86,7 +86,7 @@
 </w.rf>
 <form>Stock</form>
 <tag>
-<AM lemma="Stock_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Stock_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Stock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -97,7 +97,7 @@
 </w.rf>
 <form>Consult</form>
 <tag>
-<AM lemma="Consult_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Consult_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Consult-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

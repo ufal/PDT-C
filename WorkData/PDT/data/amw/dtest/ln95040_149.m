@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-149-p1s1w1</LM>
 </w.rf>
 <form>Setuza</form>
-<tag lemma="Setuza_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Setuza_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-149-p1s1w2">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-ln95040-149-p3s1Bw13</LM>
 </w.rf>
 <form>Setuza</form>
-<tag lemma="Setuza_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Setuza_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-149-p3s1Bw14">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln95040-149-p3s2w7</LM>
 </w.rf>
 <form>Setuzy</form>
-<tag lemma="Setuza_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Setuza_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-149-p3s2w8">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-ln95040-149-p3s3w7</LM>
 </w.rf>
 <form>Růžička</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-149-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-ln95040-149-p5s1w4</LM>
 </w.rf>
 <form>Setuzy</form>
-<tag lemma="Setuza_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Setuza_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-149-p5s1w5">
 <src.rf>manual</src.rf>

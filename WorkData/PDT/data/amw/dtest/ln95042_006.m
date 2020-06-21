@@ -278,7 +278,7 @@
 </w.rf>
 <form>World</form>
 <tag>
-<AM lemma="World_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="World_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -289,7 +289,7 @@
 </w.rf>
 <form>Coin</form>
 <tag>
-<AM lemma="Coin_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coin_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Coin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -300,7 +300,7 @@
 </w.rf>
 <form>News</form>
 <tag>
-<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-1_;m_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -574,8 +574,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95042-006-p3s1w15">
@@ -1456,7 +1456,7 @@
 <LM>w#w-ln95042-006-p3s6w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95042-006-p3s6w3">
 <src.rf>manual</src.rf>

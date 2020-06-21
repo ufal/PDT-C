@@ -59,7 +59,7 @@
 <LM>w#w-mf920924-079-p1s1w6</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920924-079-p1s1w7">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 </w.rf>
 <form>Challenger</form>
 <tag>
-<AM lemma="Challenger_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Challenger_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Challenger-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -195,7 +195,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-079-p1s1w23">
@@ -456,7 +456,7 @@
 <LM>w#w-mf920924-079-p1s3w4</LM>
 </w.rf>
 <form>Bombaroter</form>
-<tag lemma="Bombaroter_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Bombaroter_;m" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920924-079-p1s3w5">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 </w.rf>
 <form>Challenger</form>
 <tag>
-<AM lemma="Challenger_;R" src="orig">NNIS4-----A----</AM>
+<AM lemma="Challenger_;m" src="orig">NNIS4-----A----</AM>
 <AM lemma="Challenger-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -587,7 +587,7 @@
 <LM>w#w-mf920924-079-p1s3w20</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-079-p1s3w21">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-mf920924-079-p1s4w2</LM>
 </w.rf>
 <form>peo</form>
-<tag lemma="peo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="peo-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920924-079-p1s4w3">
 <src.rf>manual</src.rf>

@@ -1871,7 +1871,7 @@
 <LM>w#w-ln95048-165-p3s5w15</LM>
 </w.rf>
 <form>Selika</form>
-<tag lemma="Seliko_;K" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Seliko_;m" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95048-165-p3s5w16">
 <src.rf>manual</src.rf>
@@ -2570,7 +2570,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2991,7 +2991,7 @@
 </w.rf>
 <form>IF</form>
 <tag>
-<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF_:B_;m_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3003,7 +3003,7 @@
 <form>Živnobanky</form>
 <tag>
 <AM lemma="Živnobanka_;Y" src="orig">NNFS2-----A----</AM>
-<AM lemma="Živnobanka_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Živnobanka_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p5s1w22">
@@ -3029,7 +3029,7 @@
 </w.rf>
 <form>IF</form>
 <tag>
-<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF_:B_;m_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3056,7 +3056,7 @@
 </w.rf>
 <form>IN</form>
 <tag>
-<AM lemma="Investiční_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Investiční_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Ina_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="in-1_,t_^(angl._v)" src="auto">RR--X----------</AM>
 <AM lemma="in-2_,h_,t" src="auto">AAXXX----1A----</AM>
@@ -3286,7 +3286,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3563,8 +3563,8 @@
 </w.rf>
 <form>KB</form>
 <tag>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;m_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-165-p7s1w9">

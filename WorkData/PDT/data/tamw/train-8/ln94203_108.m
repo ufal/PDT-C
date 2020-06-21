@@ -36,7 +36,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-108-p2s1A">
@@ -88,7 +88,7 @@
 <LM>w#w-ln94203-108-p2s1Bw4</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-108-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln94203-108-p2s2w12</LM>
 </w.rf>
 <form>Banesto</form>
-<tag lemma="Banesto_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Banesto_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-108-p2s2w13">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-ln94203-108-p3s1w1</LM>
 </w.rf>
 <form>Indurain</form>
-<tag lemma="Indurain_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indurain_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-108-p3s1w2">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 </w.rf>
 <form>UCI</form>
 <tag>
-<AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UCI-1_:B_;m_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -647,7 +647,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -771,7 +771,7 @@
 <LM>w#w-ln94203-108-p3s2w4</LM>
 </w.rf>
 <form>Indurainův</form>
-<tag lemma="Indurainův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Indurainův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94203-108-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-ln94203-108-p3s5w12</LM>
 </w.rf>
 <form>Indurainovým</form>
-<tag lemma="Indurainův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Indurainův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-ln94203-108-p3s5w13">
 <src.rf>manual</src.rf>

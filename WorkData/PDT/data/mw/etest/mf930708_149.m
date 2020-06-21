@@ -113,7 +113,7 @@
 <AM lemma="do_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-149-p2s1w4">
@@ -943,7 +943,7 @@
 <LM>w#w-mf930708-149-p3s4w30</LM>
 </w.rf>
 <form>Pivečka</form>
-<tag lemma="Pivečka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pivečka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-149-p3s4w31">
 <src.rf>manual</src.rf>
@@ -1659,7 +1659,7 @@
 <LM>w#w-mf930708-149-p5s2w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-149-p5s2w14">
 <src.rf>manual</src.rf>

@@ -187,8 +187,8 @@
 </w.rf>
 <form>Luigi</form>
 <tag>
-<AM lemma="Luigi_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Luigi_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Luigi_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Luigi_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-121-p2s1Bw15">
@@ -197,7 +197,7 @@
 <LM>w#w-ln95049-121-p2s1Bw15</LM>
 </w.rf>
 <form>Scalfaro</form>
-<tag lemma="Scalfaro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scalfaro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-121-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-ln95049-121-p2s2w8</LM>
 </w.rf>
 <form>Havlem</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-121-p2s2w9">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln95049-121-p2s3w9</LM>
 </w.rf>
 <form>Uhdem</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-121-p2s3w10">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln95049-121-p2s3w14</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-121-p2s3w15">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-ln95049-121-p2s5w3</LM>
 </w.rf>
 <form>Scalfaro</form>
-<tag lemma="Scalfaro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scalfaro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-121-p2s5w4">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-ln95049-121-p2s5w5</LM>
 </w.rf>
 <form>Masarykovu</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95049-121-p2s5w6">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-mf920925-056-p3s1w4</LM>
 </w.rf>
 <form>Becker</form>
-<tag lemma="Becker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Becker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-056-p3s1w5">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-mf920925-056-p3s1w17</LM>
 </w.rf>
 <form>Bresnik</form>
-<tag lemma="Bresnik_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bresnik_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-056-p3s1w18">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-mf920925-056-p3s1w23</LM>
 </w.rf>
 <form>Hlaska</form>
-<tag lemma="Hlasek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hlasek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920925-056-p3s1w24">
 <src.rf>manual</src.rf>

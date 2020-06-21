@@ -35,7 +35,7 @@
 <LM>w#w-lnd92259-009-p1s1w3</LM>
 </w.rf>
 <form>BUSH</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w4">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-lnd92259-009-p1s2w1</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-009-p1s2w2">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-lnd92259-009-p1s3w6</LM>
 </w.rf>
 <form>Tillotson</form>
-<tag lemma="Tillotson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tillotson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-009-p1s3w7">
 <src.rf>manual</src.rf>
@@ -331,8 +331,8 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-009-p2s1w3">
@@ -350,7 +350,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

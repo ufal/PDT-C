@@ -526,8 +526,8 @@
 </w.rf>
 <form>Ruud</form>
 <tag>
-<AM lemma="Ruud_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ruud_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ruud_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ruud_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-006-p1s6w3">
@@ -536,7 +536,7 @@
 <LM>w#w-lnd94104-006-p1s6w3</LM>
 </w.rf>
 <form>Lubbers</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-006-p1s6w4">
 <src.rf>manual</src.rf>
@@ -733,8 +733,8 @@
 </w.rf>
 <form>Ruud</form>
 <tag>
-<AM lemma="Ruud_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ruud_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ruud_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ruud_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-006-p1s8w5">
@@ -743,7 +743,7 @@
 <LM>w#w-lnd94104-006-p1s8w5</LM>
 </w.rf>
 <form>Lubbers</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-006-p1s8w6">
 <src.rf>manual</src.rf>

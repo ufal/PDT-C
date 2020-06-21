@@ -666,7 +666,7 @@
 </w.rf>
 <form>YMCY</form>
 <tag>
-<AM lemma="YMCA_:B_;K_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="YMCA_:B_;m_,t" src="orig">NNFS2-----A----</AM>
 <AM lemma="YMCY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -799,7 +799,7 @@
 <LM>w#w-mf920923-044-p2s4w30</LM>
 </w.rf>
 <form>Sokola</form>
-<tag lemma="Sokol-2_;K_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Sokol-2_;m_^(organizace)" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920923-044-p2s4w31">
 <src.rf>manual</src.rf>

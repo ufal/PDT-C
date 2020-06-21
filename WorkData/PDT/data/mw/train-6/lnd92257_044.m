@@ -495,7 +495,7 @@
 </w.rf>
 <form>Džazíra</form>
 <tag>
-<AM lemma="Džazíra_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="Džazíra_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="Džazíra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

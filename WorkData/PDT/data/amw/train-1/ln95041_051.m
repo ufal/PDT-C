@@ -51,7 +51,7 @@
 <LM>w#w-ln95041-051-p1s1w5</LM>
 </w.rf>
 <form>Zykmunda</form>
-<tag lemma="Zykmund_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zykmund_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95041-051-p2s1">
@@ -149,7 +149,7 @@
 <LM>w#w-ln95041-051-p2s1w12</LM>
 </w.rf>
 <form>Zykmunda</form>
-<tag lemma="Zykmund_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zykmund_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-051-p2s1w13">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-ln95041-051-p2s4w10</LM>
 </w.rf>
 <form>Zykmund</form>
-<tag lemma="Zykmund_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zykmund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-051-p2s4w11">
 <src.rf>manual</src.rf>
@@ -696,8 +696,8 @@
 </w.rf>
 <form>Ra</form>
 <tag>
-<AM lemma="Ra_;K" src="orig" selected="1">NNFXX-----A----</AM>
-<AM lemma="Ra-2_:B_;H_^(radium)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="Ra_;m" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ra-2_:B_;U_^(radium)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ra_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ra-1_:B_,t_^(radiatus,_druh_oblaku)" src="auto">NNIXX-----A---8</AM>
 </tag>
@@ -1017,7 +1017,7 @@
 <LM>w#w-ln95041-051-p2s7w15</LM>
 </w.rf>
 <form>informelu</form>
-<tag lemma="informel_;u" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="informel" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95041-051-p2s7w16">
 <src.rf>manual</src.rf>

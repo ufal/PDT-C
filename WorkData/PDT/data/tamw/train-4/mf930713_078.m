@@ -51,7 +51,7 @@
 <LM>w#w-mf930713-078-p1s1w5</LM>
 </w.rf>
 <form>Juppé</form>
-<tag lemma="Juppé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Juppé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-078-p1s1w6">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-mf920925-039-p1s1w4</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-039-p1s1w5">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-mf920925-039-p1s1w11</LM>
 </w.rf>
 <form>Kňažko</form>
-<tag lemma="Kňažko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kňažko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-039-p1s1w12">
 <src.rf>manual</src.rf>

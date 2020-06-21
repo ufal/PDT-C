@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-75-p1s1w1</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-75-p1s1w2">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-ln94200-75-p2s2w13</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-75-p2s2w14">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-75-p2s3w12">
@@ -401,7 +401,7 @@
 <LM>w#w-ln94200-75-p2s3w13</LM>
 </w.rf>
 <form>Dlouhým</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-75-p2s3w14">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-75-p2s3w18">
@@ -452,7 +452,7 @@
 <LM>w#w-ln94200-75-p2s3w19</LM>
 </w.rf>
 <form>Wiesheu</form>
-<tag lemma="Wiesheu_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Wiesheu_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94200-75-p2s3w20">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94200-75-p3s1w13</LM>
 </w.rf>
 <form>Wiesheua</form>
-<tag lemma="Wiesheu_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wiesheu_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-75-p3s1w14">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-ln94200-75-p3s3w1</LM>
 </w.rf>
 <form>Wiesheu</form>
-<tag lemma="Wiesheu_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Wiesheu_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94200-75-p3s3w2">
 <src.rf>manual</src.rf>

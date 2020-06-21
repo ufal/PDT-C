@@ -77,7 +77,7 @@
 <LM>w#w-lnd92259-106-p2s1w1</LM>
 </w.rf>
 <form>Panić</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p2s1w2">
 <src.rf>manual</src.rf>
@@ -128,9 +128,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-106-p3s1w4">
@@ -189,7 +189,7 @@
 <LM>w#w-lnd92259-106-p3s2w5</LM>
 </w.rf>
 <form>Panić</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p3s2w6">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-lnd92259-106-p3s2w28</LM>
 </w.rf>
 <form>Miloševićem</form>
-<tag lemma="Milošević_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Milošević_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p3s2w29">
 <src.rf>manual</src.rf>
@@ -656,8 +656,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-106-p4s1w35">
@@ -676,7 +676,7 @@
 <LM>w#w-lnd92259-106-p4s2w1</LM>
 </w.rf>
 <form>Panićovi</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p4s2w2">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-lnd92259-106-p4s3w17</LM>
 </w.rf>
 <form>Paniće</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-lnd92259-106-p4s4w2</LM>
 </w.rf>
 <form>Panić</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd92259-106-p4s4w4</LM>
 </w.rf>
 <form>Cosić</form>
-<tag lemma="Cosić_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cosić_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-lnd92259-106-p5s1w9</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1272,7 +1272,7 @@
 <LM>w#w-lnd92259-106-p5s1w14</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1418,7 +1418,7 @@
 <LM>w#w-lnd92259-106-p5s2w3</LM>
 </w.rf>
 <form>Tanjug</form>
-<tag lemma="Tanjug_:B_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tanjug_:B_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1482,7 +1482,7 @@
 <LM>w#w-lnd92259-106-p5s2w11</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p5s2w12">
 <src.rf>manual</src.rf>

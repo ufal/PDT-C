@@ -96,8 +96,8 @@
 </w.rf>
 <form>Werner</form>
 <tag>
-<AM lemma="Werner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Werner_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Werner_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Werner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-093-p3s1w7">
@@ -108,7 +108,7 @@
 <form>Günthör</form>
 <tag>
 <AM lemma="Günthör_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Günthör_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Günthör_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-093-p3s1w8">
@@ -377,7 +377,7 @@
 <LM>w#w-lnd91301-093-p3s3w9</LM>
 </w.rf>
 <form>Heinzer</form>
-<tag lemma="Heinzer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Heinzer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-093-p3s3w10">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-lnd91301-093-p3s3w15</LM>
 </w.rf>
 <form>Zünnd</form>
-<tag lemma="Zünnd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zünnd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-093-p3s3w16">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-lnd91301-093-p3s4w12</LM>
 </w.rf>
 <form>Bournissenová</form>
-<tag lemma="Bournissenová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bournissenová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-093-p3s4w13">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-lnd91301-093-p3s4w15</LM>
 </w.rf>
 <form>Prottiovou</form>
-<tag lemma="Prottiová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Prottiová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-093-p3s4w16">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-lnd91301-093-p3s4w19</LM>
 </w.rf>
 <form>Schneiderovou</form>
-<tag lemma="Schneiderová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Schneiderová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-093-p3s4w20">
 <src.rf>manual</src.rf>

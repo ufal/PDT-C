@@ -43,7 +43,7 @@
 <LM>w#w-mf920922-069-p1s1w4</LM>
 </w.rf>
 <form>Auriol</form>
-<tag lemma="Auriol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Auriol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-069-p2s1">
@@ -181,7 +181,7 @@
 <LM>w#w-mf920922-069-p2s1w17</LM>
 </w.rf>
 <form>Auriol</form>
-<tag lemma="Auriol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Auriol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w18">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-mf920922-069-p2s1w19</LM>
 </w.rf>
 <form>Occelli</form>
-<tag lemma="Occelli_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Occelli_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w20">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 </w.rf>
 <form>Fr</form>
 <tag>
-<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
 <AM lemma="Fr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -315,7 +315,7 @@
 <LM>w#w-mf920922-069-p2s1w33</LM>
 </w.rf>
 <form>Kankkunen</form>
-<tag lemma="Kankkunen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kankkunen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w34">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-mf920922-069-p2s1w35</LM>
 </w.rf>
 <form>Piironen</form>
-<tag lemma="Piironen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piironen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w36">
 <src.rf>manual</src.rf>
@@ -383,9 +383,9 @@
 </w.rf>
 <form>Lancia</form>
 <tag>
-<AM lemma="Lancia-1_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
-<AM lemma="lancia_;K_;R" src="auto">NNFS1-----A---1</AM>
+<AM lemma="Lancia-1_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Lancia_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="lancia_;m" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920922-069-p2s1w42">
@@ -469,7 +469,7 @@
 <LM>w#w-mf920922-069-p2s1w51</LM>
 </w.rf>
 <form>Sainz</form>
-<tag lemma="Sainz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sainz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w52">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-mf920922-069-p2s1w53</LM>
 </w.rf>
 <form>Moya</form>
-<tag lemma="Moya_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moya_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w54">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-mf920922-069-p2s1w58</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w59">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-mf920922-069-p2s1w59</LM>
 </w.rf>
 <form>Celica</form>
-<tag lemma="Celica-1_;R_^(Toyota_C.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Celica-1_;m_^(Toyota_C.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-069-p2s1w60">
 <src.rf>manual</src.rf>

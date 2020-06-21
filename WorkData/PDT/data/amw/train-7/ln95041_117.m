@@ -20,11 +20,11 @@
 </w.rf>
 <form>Elektro</form>
 <tag>
-<AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Elektrický_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto" selected="1">NNNS1-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Elektro_;m" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS4-----A----</AM>
@@ -46,7 +46,7 @@
 <LM>w#w-ln95041-117-p1s1w3</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-117-p1s1w4">
 <src.rf>manual</src.rf>
@@ -89,11 +89,11 @@
 </w.rf>
 <form>ETA</form>
 <tag>
-<AM lemma="ETA-1_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ETA_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Eta-2_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="ETA-1_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ETA_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Eta-2_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Eto_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Eto_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -238,11 +238,11 @@
 </w.rf>
 <form>Elektro</form>
 <tag>
-<AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Elektrický_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Elektro_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS1-----A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS4-----A----</AM>
@@ -264,7 +264,7 @@
 <LM>w#w-ln95041-117-p2s1Dw7</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-117-p2s1Dw8">
 <src.rf>manual</src.rf>
@@ -1587,11 +1587,11 @@
 </w.rf>
 <form>Elektro</form>
 <tag>
-<AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Elektrický_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto" selected="1">NNNS1-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Elektro_;m" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS4-----A----</AM>
@@ -1613,7 +1613,7 @@
 <LM>w#w-ln95041-117-p5s1w3</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-117-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1670,11 +1670,11 @@
 </w.rf>
 <form>ETA</form>
 <tag>
-<AM lemma="ETA-1_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ETA_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Eta-2_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="ETA-1_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ETA_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Eta-2_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Eto_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Eto_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2986,11 +2986,11 @@
 </w.rf>
 <form>Elektro</form>
 <tag>
-<AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Elektrický_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto" selected="1">NNNS1-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Elektro_;m" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS4-----A----</AM>
@@ -3012,7 +3012,7 @@
 <LM>w#w-ln95041-117-p7s1w3</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-117-p7s1w4">
 <src.rf>manual</src.rf>
@@ -3251,7 +3251,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3452,11 +3452,11 @@
 </w.rf>
 <form>Elektro</form>
 <tag>
-<AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Elektrický_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Elektro_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Elektro_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS1-----A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS4-----A----</AM>
@@ -3478,7 +3478,7 @@
 <LM>w#w-ln95041-117-p8s1w4</LM>
 </w.rf>
 <form>Pragy</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-117-p8s1w5">
 <src.rf>manual</src.rf>

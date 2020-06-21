@@ -261,7 +261,7 @@
 <LM>w#w-ln94203-95-p2s1w22</LM>
 </w.rf>
 <form>Ortenova</form>
-<tag lemma="Ortenův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Ortenův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94203-95-p2s1w23">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94203-95-p3s1w5</LM>
 </w.rf>
 <form>Ortenův</form>
-<tag lemma="Ortenův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Ortenův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln94203-95-p3s1w6">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-ln94203-95-p3s1w8</LM>
 </w.rf>
 <form>Ornest</form>
-<tag lemma="Ornest_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ornest_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-95-p3s1w9">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-ln94203-95-p3s1w14</LM>
 </w.rf>
 <form>Křížková</form>
-<tag lemma="Křížková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Křížková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-95-p3s1w15">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-ln94203-95-p3s1w17</LM>
 </w.rf>
 <form>Justl</form>
-<tag lemma="Justl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Justl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-95-p3s1w18">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-ln94203-95-p3s1w20</LM>
 </w.rf>
 <form>Matys</form>
-<tag lemma="Matys_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matys_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-95-p3s1w21">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-ln94203-95-p3s2w21</LM>
 </w.rf>
 <form>Orten</form>
-<tag lemma="Orten_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Orten_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-95-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1777,10 +1777,10 @@
 </w.rf>
 <form>šek</form>
 <tag>
-<AM lemma="šek-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šek-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="šek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="šek" src="auto">NNIS4-----A----</AM>
-<AM lemma="šek-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šek-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-95-p4s3w3">

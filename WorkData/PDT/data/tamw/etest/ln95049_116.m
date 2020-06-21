@@ -123,7 +123,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -134,7 +134,7 @@
 </w.rf>
 <form>Metall</form>
 <tag>
-<AM lemma="Metall_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Metall_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Metall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -144,7 +144,7 @@
 <LM>w#w-ln95049-116-p2s1Bw7</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-ln95049-116-p2s1Bw8</LM>
 </w.rf>
 <form>Knuth</form>
-<tag lemma="Knuth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knuth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 </w.rf>
 <form>Gesamtmetall</form>
 <tag>
-<AM lemma="Gesamtmetall_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gesamtmetall_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Gesamtmetall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -894,7 +894,7 @@
 <LM>w#w-ln95049-116-p2s6w14</LM>
 </w.rf>
 <form>Gottschol</form>
-<tag lemma="Gottschol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottschol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-116-p2s6w15">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1002,7 +1002,7 @@
 </w.rf>
 <form>Metall</form>
 <tag>
-<AM lemma="Metall_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Metall_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Metall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

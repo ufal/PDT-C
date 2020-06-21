@@ -244,7 +244,7 @@
 <LM>w#w-mf930713-138-p2s1w23</LM>
 </w.rf>
 <form>Oranžský</form>
-<tag lemma="Oranžský_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oranžský_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-138-p2s1w24">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1223,7 +1223,7 @@
 <LM>w#w-mf930713-138-p4s1w29</LM>
 </w.rf>
 <form>Thatcherová</form>
-<tag lemma="Thatcherová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Thatcherová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-138-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2035,7 +2035,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3426,7 +3426,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3730,7 +3730,7 @@
 <LM>w#w-mf930713-138-p8s3w17</LM>
 </w.rf>
 <form>Wilsey</form>
-<tag lemma="Wilsey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wilsey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-138-p8s3w18">
 <src.rf>manual</src.rf>
@@ -3861,7 +3861,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4127,7 +4127,7 @@
 </w.rf>
 <form>Munster</form>
 <tag>
-<AM lemma="Munster_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Munster_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Munster-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -4601,12 +4601,12 @@
 <AM lemma="Ir_;E" src="orig">NNMP1-----A----</AM>
 <AM lemma="Ir_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Ir_;E" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Irová_;S" src="auto">NNFP1-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFP4-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS2-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS3-----A----</AM>
-<AM lemma="Irová_;S" src="auto">NNFS6-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP1-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP4-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFP5-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS2-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Irová_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-138-p9s5w11">
@@ -5291,7 +5291,7 @@
 <LM>w#w-mf930713-138-p11s1w2</LM>
 </w.rf>
 <form>HARANTOVÁ</form>
-<tag lemma="Harantová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Harantová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-138-p12s1">
@@ -5591,7 +5591,7 @@
 <LM>w#w-mf930713-138-p16s1w2</LM>
 </w.rf>
 <form>Tarasjuk</form>
-<tag lemma="Tarasjuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tarasjuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-138-p17s1">

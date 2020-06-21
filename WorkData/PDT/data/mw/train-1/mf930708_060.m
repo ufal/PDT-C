@@ -893,7 +893,7 @@
 <LM>w#w-mf930708-060-p2s6w14</LM>
 </w.rf>
 <form>BERÁNKEM</form>
-<tag lemma="Beránek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Beránek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930708-060-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-mf930708-060-p2s11w21</LM>
 </w.rf>
 <form>Jurečka</form>
-<tag lemma="Jurečka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jurečka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-060-p2s11w22">
 <src.rf>manual</src.rf>

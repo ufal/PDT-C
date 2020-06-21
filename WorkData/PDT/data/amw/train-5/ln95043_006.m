@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-006-p1s1w2</LM>
 </w.rf>
 <form>Žák</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-006-p1s1w3">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln95043-006-p1s1w13</LM>
 </w.rf>
 <form>Lok</form>
-<tag lemma="Lokomotiva_:B_;K_^(sport.:_souč._názvu_klubu)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Lokomotiva_:B_;m_^(sport.:_souč._názvu_klubu)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95043-006-p1s1w14">
 <src.rf>manual</src.rf>

@@ -817,7 +817,7 @@
 <LM>w#w-cmpr9417-017-p4s4w6</LM>
 </w.rf>
 <form>Šíblová</form>
-<tag lemma="Šíblová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šíblová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-017-p4s4w7">
 <src.rf>manual</src.rf>

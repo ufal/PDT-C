@@ -78,7 +78,7 @@
 <LM>w#w-ln95045-065-p2s1Aw3</LM>
 </w.rf>
 <form>Kovaljov</form>
-<tag lemma="Kovaljov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovaljov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-065-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -95,8 +95,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-065-p2s1Aw6">
@@ -408,7 +408,7 @@
 <LM>w#w-ln95045-065-p2s2w10</LM>
 </w.rf>
 <form>Kovaljova</form>
-<tag lemma="Kovaljov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kovaljov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-065-p2s2w11">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-065-p2s3w3">
@@ -493,7 +493,7 @@
 <LM>w#w-ln95045-065-p2s3w4</LM>
 </w.rf>
 <form>Kovaljov</form>
-<tag lemma="Kovaljov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovaljov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-065-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1605,7 +1605,7 @@
 <LM>w#w-ln95045-065-p3s1w1</LM>
 </w.rf>
 <form>Kovaljov</form>
-<tag lemma="Kovaljov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovaljov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-065-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1694,8 +1694,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-065-p3s1w13">
@@ -1943,7 +1943,7 @@
 <LM>w#w-ln95045-065-p3s3w16</LM>
 </w.rf>
 <form>Kovaljov</form>
-<tag lemma="Kovaljov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovaljov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-065-p3s3w17">
 <src.rf>manual</src.rf>
@@ -2138,8 +2138,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-065-p3s4w6">
@@ -3035,7 +3035,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

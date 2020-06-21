@@ -916,7 +916,7 @@
 <LM>w#w-cmpr9417-009-p8s1w2</LM>
 </w.rf>
 <form>Pečev</form>
-<tag lemma="Pečev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pečev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-009-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -1459,7 +1459,7 @@
 <LM>w#w-cmpr9417-009-p13s1w4</LM>
 </w.rf>
 <form>Gebarowský</form>
-<tag lemma="Gebarowský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gebarowský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-009-p13s1w5">
 <src.rf>manual</src.rf>

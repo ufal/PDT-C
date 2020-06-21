@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-083-p1s1w2</LM>
 </w.rf>
 <form>Vlk</form>
-<tag lemma="Vlk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-083-p1s1w3">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95043-083-p2s1Bw12</LM>
 </w.rf>
 <form>Vlk</form>
-<tag lemma="Vlk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-083-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln95043-083-p2s3w11</LM>
 </w.rf>
 <form>Vlk</form>
-<tag lemma="Vlk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-083-p2s3w12">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-ln95043-083-p2s3w26</LM>
 </w.rf>
 <form>Škarvada</form>
-<tag lemma="Škarvada_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Škarvada_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-083-p2s3w27">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln95043-083-p2s3w34</LM>
 </w.rf>
 <form>Graubner</form>
-<tag lemma="Graubner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Graubner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-083-p2s3w35">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <form>Santa</form>
 <tag>
 <AM lemma="santa_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Santa-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Santa-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Santa-3_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Santo_;G_^(Santo_Domingo)" src="auto">NNNS2-----A----</AM>
 <AM lemma="Santa-1_,t_^(Santa_Claus)" src="auto" recommended="1">AAXXX----1A----</AM>
@@ -862,10 +862,10 @@
 </w.rf>
 <form>Croce</form>
 <tag>
-<AM lemma="Croce_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Croce_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Croce_;G_,t" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Croce_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Croce_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Croce_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Croce_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Croce-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

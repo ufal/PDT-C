@@ -87,7 +87,7 @@
 <LM>w#w-mf920901-038-p2s2w3</LM>
 </w.rf>
 <form>Zedek</form>
-<tag lemma="Zedek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zedek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s2w4">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-mf920901-038-p2s4w12</LM>
 </w.rf>
 <form>Matula</form>
-<tag lemma="Matula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s4w13">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-mf920901-038-p2s5w2</LM>
 </w.rf>
 <form>Zedek</form>
-<tag lemma="Zedek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zedek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1229,7 +1229,7 @@
 <LM>w#w-mf920901-038-p2s10w2</LM>
 </w.rf>
 <form>Zedek</form>
-<tag lemma="Zedek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zedek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s10w3">
 <src.rf>manual</src.rf>

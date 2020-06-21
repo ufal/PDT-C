@@ -43,7 +43,7 @@
 <LM>w#w-lnd94105-037-p1s17w4</LM>
 </w.rf>
 <form>Berlusconi</form>
-<tag lemma="Berlusconi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berlusconi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s17w5">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-lnd94105-037-p1s17w6</LM>
 </w.rf>
 <form>Bossi</form>
-<tag lemma="Bossi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bossi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s17w7">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-lnd94105-037-p1s17w11</LM>
 </w.rf>
 <form>Finiho</form>
-<tag lemma="Fini_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fini_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s17w12">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-lnd94105-037-p1s19w6</LM>
 </w.rf>
 <form>Kahn</form>
-<tag lemma="Kahn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kahn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s19w7">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -676,7 +676,7 @@
 <LM>w#w-lnd94105-037-p1s24w9</LM>
 </w.rf>
 <form>Penem</form>
-<tag lemma="Pen_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pen_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s24w10">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-lnd94105-037-p1s24w11</LM>
 </w.rf>
 <form>Heiderem</form>
-<tag lemma="Heider_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Heider_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s24w12">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-lnd94105-037-p1s24w13</LM>
 </w.rf>
 <form>Žirinovským</form>
-<tag lemma="Žirinovský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Žirinovský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s24w14">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-lnd94105-037-p1s24w15</LM>
 </w.rf>
 <form>Schönhuberem</form>
-<tag lemma="Schönhuber_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Schönhuber_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s24w16">
 <src.rf>manual</src.rf>

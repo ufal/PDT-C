@@ -231,7 +231,7 @@
 <LM>w#w-ln95042-050-p2s1Bw21</LM>
 </w.rf>
 <form>Dausa</form>
-<tag lemma="Dausa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dausa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-050-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95042-050-p2s3w14</LM>
 </w.rf>
 <form>Helms</form>
-<tag lemma="Helms_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Helms_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-050-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1035,9 +1035,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-050-p2s5w22">

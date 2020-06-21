@@ -85,7 +85,7 @@
 <LM>w#w-mf930701-022-p2s1w4</LM>
 </w.rf>
 <form>Benziny</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-022-p2s1w5">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 </w.rf>
 <form>ÖMV</form>
 <tag>
-<AM lemma="ÖMV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÖMV_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -299,7 +299,7 @@
 </w.rf>
 <form>BP</form>
 <tag>
-<AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BP-1_:B_;m_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -317,7 +317,7 @@
 <LM>w#w-mf930701-022-p2s2w19</LM>
 </w.rf>
 <form>Conoco</form>
-<tag lemma="Conoco_;K_,t" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Conoco_;m_,t" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-022-p2s2w20">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-mf930701-022-p3s1w29</LM>
 </w.rf>
 <form>Conoco</form>
-<tag lemma="Conoco_;K_,t" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Conoco_;m_,t" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-022-p3s1w30">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-mf930701-022-p3s1w32</LM>
 </w.rf>
 <form>Ingelson</form>
-<tag lemma="Ingelson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ingelson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-022-p3s1w33">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-mf930701-022-p3s2w1</LM>
 </w.rf>
 <form>Conoco</form>
-<tag lemma="Conoco_;K_,t" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Conoco_;m_,t" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-022-p3s2w2">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -900,7 +900,7 @@
 </w.rf>
 <form>Petroleum</form>
 <tag>
-<AM lemma="Petroleum_;K_,t" src="orig">NNNSX-----A----</AM>
+<AM lemma="Petroleum_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1581,7 +1581,7 @@
 </w.rf>
 <form>ÖMV</form>
 <tag>
-<AM lemma="ÖMV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÖMV_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1599,7 +1599,7 @@
 <LM>w#w-mf930701-022-p5s1w8</LM>
 </w.rf>
 <form>Drozdová</form>
-<tag lemma="Drozdová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Drozdová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-022-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1770,7 +1770,7 @@
 </w.rf>
 <form>ÖMV</form>
 <tag>
-<AM lemma="ÖMV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÖMV_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2234,7 +2234,7 @@
 <LM>w#w-mf930701-022-p6s1w2</LM>
 </w.rf>
 <form>Drozdová</form>
-<tag lemma="Drozdová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Drozdová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-022-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2397,7 +2397,7 @@
 </w.rf>
 <form>ÖMV</form>
 <tag>
-<AM lemma="ÖMV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÖMV_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ÖMV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2537,7 +2537,7 @@
 <LM>w#w-mf930701-022-p7s1w2</LM>
 </w.rf>
 <form>HANDL</form>
-<tag lemma="Handl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Handl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-022-p7s1w3">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd91301-091-p1s1w1</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p1s1w2">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-lnd91301-091-p2s1w7</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w8">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="orig">C}-------------</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-091-p2s1w9">
@@ -120,7 +120,7 @@
 <LM>w#w-lnd91301-091-p2s1w10</LM>
 </w.rf>
 <form>Ježkem</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w11">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-lnd91301-091-p2s1w21</LM>
 </w.rf>
 <form>Přibyla</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w22">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-lnd91301-091-p2s1w24</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w25">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-lnd91301-091-p2s2w4</LM>
 </w.rf>
 <form>Kubíček</form>
-<tag lemma="Kubíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s2w5">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-lnd91301-091-p2s2w20</LM>
 </w.rf>
 <form>Prudnikov</form>
-<tag lemma="Prudnikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prudnikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s2w21">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-lnd91301-091-p2s2w22</LM>
 </w.rf>
 <form>Vahala</form>
-<tag lemma="Vahala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vahala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s2w23">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <form>Bubeníka</form>
 <tag>
 <AM lemma="bubeník" src="orig">NNMS4-----A----</AM>
-<AM lemma="Bubeník_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Bubeník_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-091-p2s2w28">
@@ -657,7 +657,7 @@
 <LM>w#w-lnd91301-091-p2s2w39</LM>
 </w.rf>
 <form>Vaniak</form>
-<tag lemma="Vaniak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vaniak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s2w40">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-lnd91301-091-p2s3w5</LM>
 </w.rf>
 <form>Přibyla</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s3w6">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-lnd91301-091-p2s4w2</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1042,8 +1042,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-091-p3s1w3">

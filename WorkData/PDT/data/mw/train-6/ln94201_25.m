@@ -62,9 +62,9 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-25-p2s1w4">

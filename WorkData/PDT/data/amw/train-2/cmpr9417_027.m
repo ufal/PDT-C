@@ -37,7 +37,7 @@
 <form>Oldřicha</form>
 <tag>
 <AM lemma="Oldřich_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Oldřich_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Oldřich_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -772,8 +772,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-027-p3s2w50">
@@ -3098,7 +3098,7 @@
 <LM>w#w-cmpr9417-027-p8s1w2</LM>
 </w.rf>
 <form>Choděra</form>
-<tag lemma="Choděra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Choděra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-027-p9s1">

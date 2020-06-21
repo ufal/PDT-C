@@ -35,7 +35,7 @@
 <LM>w#w-lnd92257-062-p1s1Aw3</LM>
 </w.rf>
 <form>Kemel</form>
-<tag lemma="Kemel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kemel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

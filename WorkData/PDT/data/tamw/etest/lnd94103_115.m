@@ -43,7 +43,7 @@
 <LM>w#w-lnd94103-115-p1s1w4</LM>
 </w.rf>
 <form>Kickeru</form>
-<tag lemma="Kicker_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Kicker_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-115-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-lnd94103-115-p1s1w5</LM>
 </w.rf>
 <form>Kuka</form>
-<tag lemma="Kuka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-115-p1s2">
@@ -94,11 +94,11 @@
 </w.rf>
 <form>mel</form>
 <tag>
-<AM lemma="mel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mel-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mel-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-115-p1s2w6">
@@ -319,7 +319,7 @@
 <form>Pavlu</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS3-----A---1</AM>
-<AM lemma="Pavel_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94103-115-p1s3w26">
@@ -328,7 +328,7 @@
 <LM>w#w-lnd94103-115-p1s3w26</LM>
 </w.rf>
 <form>Kukovi</form>
-<tag lemma="Kuka_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kuka_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94103-115-p1s3w27">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <form>Kaiserslauternu</form>
 <tag>
 <AM lemma="Kaiserslautern" src="orig">NNIS2-----A----</AM>
-<AM lemma="Kaiserslautern-2_;K" src="manual">NNIS2-----A----</AM>
+<AM lemma="Kaiserslautern-2_;m" src="manual">NNIS2-----A----</AM>
 <AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -453,8 +453,8 @@
 </w.rf>
 <form>Kicker</form>
 <tag>
-<AM lemma="Kicker_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Kicker_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kicker_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Kicker_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-115-p1s3w42">
@@ -473,7 +473,7 @@
 <LM>w#w-lnd94103-115-p1s4w1</LM>
 </w.rf>
 <form>Kuka</form>
-<tag lemma="Kuka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-115-p1s4w2">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-lnd94103-115-p1s5w4</LM>
 </w.rf>
 <form>Bayern</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-115-p1s5w5">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-lnd94103-115-p1s5w16</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-115-p1s5w17">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-lnd94103-115-p1s5w19</LM>
 </w.rf>
 <form>Kuka</form>
-<tag lemma="Kuka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-115-p1s5w20">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-lnd94103-115-p1s6w4</LM>
 </w.rf>
 <form>Kubíkovi</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94103-115-p1s6w5">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-lnd94103-115-p1s6w10</LM>
 </w.rf>
 <form>Kuka</form>
-<tag lemma="Kuka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-115-p1s6w11">
 <src.rf>manual</src.rf>

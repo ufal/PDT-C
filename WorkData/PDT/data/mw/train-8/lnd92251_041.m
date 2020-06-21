@@ -62,8 +62,8 @@
 </w.rf>
 <form>luč</form>
 <tag>
-<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-041-p2s1w4">
@@ -258,7 +258,7 @@
 <LM>w#w-lnd92251-041-p2s2w22</LM>
 </w.rf>
 <form>Tučkově</form>
-<tag lemma="Tučkův_;S_^(*3ek)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Tučkův_;Y_^(*3ek)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92251-041-p2s2w23">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-lnd92251-041-p2s4w2</LM>
 </w.rf>
 <form>Třísky</form>
-<tag lemma="Tříska_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tříska_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-041-p2s4w3">
 <src.rf>manual</src.rf>

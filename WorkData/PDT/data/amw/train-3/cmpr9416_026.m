@@ -734,7 +734,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-026-p4s1w3">
 <src.rf>manual</src.rf>

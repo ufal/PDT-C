@@ -28,7 +28,7 @@
 </w.rf>
 <form>American</form>
 <tag>
-<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -332,7 +332,7 @@
 </w.rf>
 <form>Gray</form>
 <tag>
-<AM lemma="Gray_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gray-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -343,7 +343,7 @@
 </w.rf>
 <form>Seifert</form>
 <tag>
-<AM lemma="Seifert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Seifert_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Seifert-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -480,9 +480,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -606,9 +606,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

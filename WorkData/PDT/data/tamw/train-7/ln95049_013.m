@@ -86,8 +86,8 @@
 </w.rf>
 <form>toh</form>
 <tag>
-<AM lemma="toh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="toh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="toh-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="toh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-013-p2s1Aw6">
@@ -105,8 +105,8 @@
 </w.rf>
 <form>vet</form>
 <tag>
-<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-013-p2s1Aw8">
@@ -318,8 +318,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-013-p2s3w2">
@@ -411,7 +411,7 @@
 <LM>w#w-ln95049-013-p2s3w12</LM>
 </w.rf>
 <form>Gjuričová</form>
-<tag lemma="Gjuričová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gjuričová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-013-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-ln95049-013-p4s2w18</LM>
 </w.rf>
 <form>Gjuričová</form>
-<tag lemma="Gjuričová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gjuričová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-013-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 <LM>w#w-ln95049-013-p4s4w4</LM>
 </w.rf>
 <form>Danihel</form>
-<tag lemma="Danihel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Danihel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-013-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-ln95049-013-p5s1w1</LM>
 </w.rf>
 <form>Gjuričová</form>
-<tag lemma="Gjuričová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gjuričová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-013-p5s1w2">
 <src.rf>manual</src.rf>

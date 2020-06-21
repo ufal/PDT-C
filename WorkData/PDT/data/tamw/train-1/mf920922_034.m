@@ -450,7 +450,7 @@
 <LM>w#w-mf920922-034-p1s3w2</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="nak-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920922-034-p1s3w3">
 <src.rf>manual</src.rf>

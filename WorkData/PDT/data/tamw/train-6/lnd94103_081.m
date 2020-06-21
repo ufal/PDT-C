@@ -35,7 +35,7 @@
 <LM>w#w-lnd94103-081-p1s1w3</LM>
 </w.rf>
 <form>Dental</form>
-<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s1w4">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-lnd94103-081-p1s3w5</LM>
 </w.rf>
 <form>Dental</form>
-<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s3w6">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-lnd94103-081-p1s4w8</LM>
 </w.rf>
 <form>Kodešová</form>
-<tag lemma="Kodešová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kodešová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s4w9">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-lnd94103-081-p1s6w13</LM>
 </w.rf>
 <form>Dental</form>
-<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s6w14">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 <LM>w#w-lnd94103-081-p1s9w12</LM>
 </w.rf>
 <form>Dental</form>
-<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s9w13">
 <src.rf>manual</src.rf>
@@ -1472,7 +1472,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-081-p1s13w9">
@@ -1489,7 +1489,7 @@
 <LM>w#w-lnd94103-081-p1s13w10</LM>
 </w.rf>
 <form>Kodešové</form>
-<tag lemma="Kodešová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kodešová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s13w11">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <LM>w#w-lnd94103-081-p1s13w18</LM>
 </w.rf>
 <form>Denfos</form>
-<tag lemma="Denfos_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Denfos_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s13w19">
 <src.rf>manual</src.rf>
@@ -1650,7 +1650,7 @@
 <LM>w#w-lnd94103-081-p1s13w29</LM>
 </w.rf>
 <form>Klička</form>
-<tag lemma="Klička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s13w30">
 <src.rf>manual</src.rf>
@@ -1803,13 +1803,13 @@
 </w.rf>
 <form>RIF</form>
 <tag>
-<AM lemma="RIF_;K" src="orig">NNIS3-----A----</AM>
-<AM lemma="RIF_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="RIF_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="RIF_;m" src="orig">NNIS3-----A----</AM>
+<AM lemma="RIF_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="RIF_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="rif" src="auto">NNIS1-----A----</AM>
 <AM lemma="rif" src="auto">NNIS4-----A----</AM>
 <AM lemma="RIF_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="RIF_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="RIF_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="RIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1828,7 +1828,7 @@
 </w.rf>
 <form>NIF</form>
 <tag>
-<AM lemma="NIF-1_:B_;K_^(Nadační_investiční_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NIF-1_:B_;m_^(Nadační_investiční_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="NIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1888,7 +1888,7 @@
 <LM>w#w-lnd94103-081-p1s14w6</LM>
 </w.rf>
 <form>Dental</form>
-<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s14w7">
 <src.rf>manual</src.rf>
@@ -2707,7 +2707,7 @@
 <LM>w#w-lnd94103-081-p1s20w1</LM>
 </w.rf>
 <form>Dental</form>
-<tag lemma="Dental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s20w2">
 <src.rf>manual</src.rf>
@@ -2982,7 +2982,7 @@
 <LM>w#w-lnd94103-081-p1s21w8</LM>
 </w.rf>
 <form>Calcidentu</form>
-<tag lemma="Calcident_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Calcident_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-081-p1s21w9">
 <src.rf>manual</src.rf>
@@ -2999,11 +2999,11 @@
 </w.rf>
 <form>Repinu</form>
 <tag>
-<AM lemma="Repin_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Repin_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Repin_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="Repin_;R" src="manual">NNIS2-----A----</AM>
-<AM lemma="Repin-2_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Repin_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Repin_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Repin_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Repin_;m" src="manual">NNIS2-----A----</AM>
+<AM lemma="Repin-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-081-p1s21w11">

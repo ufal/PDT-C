@@ -182,7 +182,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2152,7 +2152,7 @@
 <LM>w#w-lnd92251-036-p9s1w2</LM>
 </w.rf>
 <form>Tomčo</form>
-<tag lemma="Tomčo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomčo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-036-p9s1w3">
 <src.rf>manual</src.rf>

@@ -21,7 +21,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-038-p1s1w2">
@@ -40,7 +40,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-038-p1s1w4">
@@ -57,7 +57,7 @@
 <LM>w#w-mf920925-038-p1s1w5</LM>
 </w.rf>
 <form>KOTAS</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-038-p1s1w6">
 <src.rf>manual</src.rf>

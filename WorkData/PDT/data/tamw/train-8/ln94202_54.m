@@ -20,7 +20,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -39,7 +39,7 @@
 </w.rf>
 <form>ČMSS</form>
 <tag>
-<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -418,7 +418,7 @@
 </w.rf>
 <form>ČMSS</form>
 <tag>
-<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -453,7 +453,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -471,7 +471,7 @@
 <LM>w#w-ln94202-54-p2s2w15</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-54-p2s2w16">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 </w.rf>
 <form>ČMSS</form>
 <tag>
-<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -660,7 +660,7 @@
 <LM>w#w-ln94202-54-p2s3w22</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-54-p2s3w23">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-ln94202-54-p2s4w11</LM>
 </w.rf>
 <form>Trnky</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-54-p2s4w12">
 <src.rf>manual</src.rf>
@@ -943,8 +943,8 @@
 </w.rf>
 <form>KSČM</form>
 <tag>
-<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;m_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-54-p2s4w30">
@@ -962,7 +962,7 @@
 </w.rf>
 <form>SPR</form>
 <tag>
-<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-1_:B_;m_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -981,7 +981,7 @@
 </w.rf>
 <form>RSČ</form>
 <tag>
-<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-1_:B_;m_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1002,7 +1002,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -82,8 +82,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-017-p1s2w4">
@@ -1077,7 +1077,7 @@
 <form>Mládka</form>
 <tag>
 <AM lemma="mládek" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mládek_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mládek_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-017-p1s11w5">
@@ -1759,7 +1759,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-017-p1s15w15">
@@ -1776,7 +1776,7 @@
 <LM>w#w-lnd94104-017-p1s15w16</LM>
 </w.rf>
 <form>Mládek</form>
-<tag lemma="Mládek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mládek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-017-p1s15w17">
 <src.rf>manual</src.rf>

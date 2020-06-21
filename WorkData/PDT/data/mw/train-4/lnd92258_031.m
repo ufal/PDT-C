@@ -123,7 +123,7 @@
 <LM>w#w-lnd92258-031-p1s1w14</LM>
 </w.rf>
 <form>Paniće</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-031-p1s1w15">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-lnd92258-031-p1s6w6</LM>
 </w.rf>
 <form>Panićovi</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92258-031-p1s6w7">
 <src.rf>manual</src.rf>

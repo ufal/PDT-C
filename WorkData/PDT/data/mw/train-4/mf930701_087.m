@@ -1636,7 +1636,7 @@
 <LM>w#w-mf930701-087-p7s1w9</LM>
 </w.rf>
 <form>Pepina</form>
-<tag lemma="Pepin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pepin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-087-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1837,7 +1837,7 @@
 <LM>w#w-mf930701-087-p7s4w6</LM>
 </w.rf>
 <form>Osohová</form>
-<tag lemma="Osohová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Osohová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-087-p7s4w7">
 <src.rf>manual</src.rf>

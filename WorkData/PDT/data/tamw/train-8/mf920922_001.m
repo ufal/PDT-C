@@ -556,7 +556,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-001-p1s7Aw7">
@@ -574,8 +574,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-001-p1s7Aw9">
@@ -759,7 +759,7 @@
 <LM>w#w-mf920922-001-p1s8w15</LM>
 </w.rf>
 <form>Marlboro</form>
-<tag lemma="Marlboro_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Marlboro_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920922-001-p1s8w16">
 <src.rf>manual</src.rf>

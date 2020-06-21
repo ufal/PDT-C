@@ -3104,7 +3104,7 @@
 <LM>w#w-vesm9303-013-p4s1w2</LM>
 </w.rf>
 <form>FLAMMARION</form>
-<tag lemma="Flammarion_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Flammarion_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-013-p4s1w3">
 <src.rf>manual</src.rf>
@@ -3161,7 +3161,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p5s2w2">
@@ -3180,7 +3180,7 @@
 <form>Otto</form>
 <tag>
 <AM lemma="Otto_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Otto_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Otto_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p5s2w4">

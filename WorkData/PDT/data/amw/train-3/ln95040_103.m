@@ -27,7 +27,7 @@
 <LM>w#w-ln95040-103-p1s1w2</LM>
 </w.rf>
 <form>Wonka</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p1s1w3">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 </w.rf>
 <form>HOS</form>
 <tag>
-<AM lemma="HOS-1_:B_;K_^(Hnutí_za_občanskou_svobodu)" src="orig">NNIS1-----A----</AM>
+<AM lemma="HOS-1_:B_;m_^(Hnutí_za_občanskou_svobodu)" src="orig">NNIS1-----A----</AM>
 <AM lemma="HOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -204,7 +204,7 @@
 <LM>w#w-ln95040-103-p2s1Cw2</LM>
 </w.rf>
 <form>Wonka</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-ln95040-103-p3s1w6</LM>
 </w.rf>
 <form>Vacka</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-103-p3s1w7">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-ln95040-103-p3s1w7</LM>
 </w.rf>
 <form>Wonka</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p3s1w8">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-ln95040-103-p3s3w4</LM>
 </w.rf>
 <form>Wonka</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p3s3w5">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-ln95040-103-p3s5w1</LM>
 </w.rf>
 <form>Vacek</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-ln95040-103-p3s5w11</LM>
 </w.rf>
 <form>Wonkově</form>
-<tag lemma="Wonkův_;S_^(*2a)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Wonkův_;Y_^(*2a)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95040-103-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1242,7 +1242,7 @@
 <LM>w#w-ln95040-103-p4s1w2</LM>
 </w.rf>
 <form>Wonka</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <LM>w#w-ln95040-103-p4s2w5</LM>
 </w.rf>
 <form>Wonka</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1774,7 +1774,7 @@
 <LM>w#w-ln95040-103-p5s1w4</LM>
 </w.rf>
 <form>Wonky</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-103-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1871,7 +1871,7 @@
 </w.rf>
 <form>HOS</form>
 <tag>
-<AM lemma="HOS-1_:B_;K_^(Hnutí_za_občanskou_svobodu)" src="orig">NNIS1-----A----</AM>
+<AM lemma="HOS-1_:B_;m_^(Hnutí_za_občanskou_svobodu)" src="orig">NNIS1-----A----</AM>
 <AM lemma="HOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2112,7 +2112,7 @@
 <LM>w#w-ln95040-103-p5s3w16</LM>
 </w.rf>
 <form>Wonka</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p5s3w17">
 <src.rf>manual</src.rf>
@@ -2394,7 +2394,7 @@
 <LM>w#w-ln95040-103-p5s4w19</LM>
 </w.rf>
 <form>Wonky</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-103-p5s4w20">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <LM>w#w-ln95040-103-p5s4w31</LM>
 </w.rf>
 <form>Kincl</form>
-<tag lemma="Kincl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kincl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p5s4w32">
 <src.rf>manual</src.rf>

@@ -44,7 +44,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -96,7 +96,7 @@
 <LM>w#w-ln95045-027-p2s1Aw2</LM>
 </w.rf>
 <form>Leška</form>
-<tag lemma="Leška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-ln95045-027-p2s1Aw5</LM>
 </w.rf>
 <form>Pelta</form>
-<tag lemma="Pelta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -587,7 +587,7 @@
 <LM>w#w-ln95045-027-p2s4w2</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s4w3">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95045-027-p2s4w4</LM>
 </w.rf>
 <form>Leška</form>
-<tag lemma="Leška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s4w5">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln95045-027-p2s4w9</LM>
 </w.rf>
 <form>Pelta</form>
-<tag lemma="Pelta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln95045-027-p2s6w30</LM>
 </w.rf>
 <form>Pelta</form>
-<tag lemma="Pelta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s6w31">
 <src.rf>manual</src.rf>
@@ -1482,7 +1482,7 @@
 <LM>w#w-ln95045-027-p2s9w12</LM>
 </w.rf>
 <form>Leška</form>
-<tag lemma="Leška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s9w13">
 <src.rf>manual</src.rf>
@@ -1716,7 +1716,7 @@
 <LM>w#w-ln95045-027-p2s10w11</LM>
 </w.rf>
 <form>Leška</form>
-<tag lemma="Leška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s10w12">
 <src.rf>manual</src.rf>
@@ -1732,7 +1732,7 @@
 <LM>w#w-ln95045-027-p2s10w13</LM>
 </w.rf>
 <form>Pelta</form>
-<tag lemma="Pelta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s10w14">
 <src.rf>manual</src.rf>
@@ -2207,7 +2207,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2320,7 +2320,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2609,7 +2609,7 @@
 <LM>w#w-ln95045-027-p2s17w1</LM>
 </w.rf>
 <form>Leška</form>
-<tag lemma="Leška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s17w2">
 <src.rf>manual</src.rf>
@@ -2697,7 +2697,7 @@
 <LM>w#w-ln95045-027-p2s17w12</LM>
 </w.rf>
 <form>Pelta</form>
-<tag lemma="Pelta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s17w13">
 <src.rf>manual</src.rf>
@@ -3044,7 +3044,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3062,7 +3062,7 @@
 <LM>w#w-ln95045-027-p2s20w4</LM>
 </w.rf>
 <form>Sahula</form>
-<tag lemma="Sahula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sahula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s20w5">
 <src.rf>manual</src.rf>
@@ -3432,7 +3432,7 @@
 <LM>w#w-ln95045-027-p2s21w12</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s21w13">
 <src.rf>manual</src.rf>
@@ -3624,7 +3624,7 @@
 <LM>w#w-ln95045-027-p2s21w36</LM>
 </w.rf>
 <form>Sahuly</form>
-<tag lemma="Sahula_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sahula_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s21w37">
 <src.rf>manual</src.rf>
@@ -3786,7 +3786,7 @@
 <LM>w#w-ln95045-027-p2s22w9</LM>
 </w.rf>
 <form>Kopecký</form>
-<tag lemma="Kopecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kopecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s22w10">
 <src.rf>manual</src.rf>
@@ -3858,7 +3858,7 @@
 <LM>w#w-ln95045-027-p2s22w18</LM>
 </w.rf>
 <form>Macela</form>
-<tag lemma="Macela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Macela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-027-p2s22w19">
 <src.rf>manual</src.rf>

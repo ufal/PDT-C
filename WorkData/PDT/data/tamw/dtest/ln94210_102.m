@@ -91,7 +91,7 @@
 <LM>w#w-ln94210-102-p2s1w10</LM>
 </w.rf>
 <form>Štrassera</form>
-<tag lemma="Štrasser_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Štrasser_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-102-p2s1w11">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94210-102-p2s2w4</LM>
 </w.rf>
 <form>Štrasserův</form>
-<tag lemma="Štrasserův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Štrasserův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94210-102-p2s2w5">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln94210-102-p2s2w19</LM>
 </w.rf>
 <form>Kadlečíkovi</form>
-<tag lemma="Kadlečík_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kadlečík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94210-102-p2s2w20">
 <src.rf>manual</src.rf>

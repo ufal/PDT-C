@@ -13,7 +13,7 @@
 </w.rf>
 <form>Horník</form>
 <tag>
-<AM lemma="Horník_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Horník_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="horník" src="auto" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -38,9 +38,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t_^(př._a_la)" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový_:B" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

@@ -610,7 +610,7 @@
 </w.rf>
 <form>TTI</form>
 <tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -621,8 +621,8 @@
 </w.rf>
 <form>Therm</form>
 <tag>
-<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Therm_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p4s5w12">
@@ -649,7 +649,7 @@
 <LM>w#w-cmpr9413-049-p5s1w2</LM>
 </w.rf>
 <form>Složil</form>
-<tag lemma="Složil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Složil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-049-p6s1">
@@ -675,7 +675,7 @@
 <LM>w#w-cmpr9413-049-p6s1w3</LM>
 </w.rf>
 <form>Kluziewicz</form>
-<tag lemma="Kluziewicz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kluziewicz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-049-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2522,7 +2522,7 @@
 </w.rf>
 <form>TTI</form>
 <tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2533,8 +2533,8 @@
 </w.rf>
 <form>Therm</form>
 <tag>
-<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Therm_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p11s3w4">
@@ -3059,7 +3059,7 @@
 <LM>w#w-cmpr9413-049-p12s1w10</LM>
 </w.rf>
 <form>Kluziewicz</form>
-<tag lemma="Kluziewicz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kluziewicz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-049-p12s1w11">
 <src.rf>manual</src.rf>
@@ -4373,7 +4373,7 @@
 </w.rf>
 <form>TTI</form>
 <tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4384,8 +4384,8 @@
 </w.rf>
 <form>Therm</form>
 <tag>
-<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Therm_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p15s1w3">
@@ -4534,7 +4534,7 @@
 <LM>w#w-cmpr9413-049-p15s3w1</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-049-p15s3w2">
 <src.rf>manual</src.rf>
@@ -4691,7 +4691,7 @@
 </w.rf>
 <form>TTI</form>
 <tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4702,12 +4702,12 @@
 </w.rf>
 <form>Therm</form>
 <tag>
-<AM lemma="Therm_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Therm_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Therm_;K_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Therm_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Therm_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Therm_;m_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="therm_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="therm_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Therm_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p16s1w4">
@@ -5311,7 +5311,7 @@
 <LM>w#w-cmpr9413-049-p16s4w19</LM>
 </w.rf>
 <form>Kluziewicz</form>
-<tag lemma="Kluziewicz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kluziewicz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-049-p16s4w20">
 <src.rf>manual</src.rf>
@@ -5330,7 +5330,7 @@
 </w.rf>
 <form>TTI</form>
 <tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5341,8 +5341,8 @@
 </w.rf>
 <form>Therm</form>
 <tag>
-<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Therm_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p17s1w3">
@@ -5575,7 +5575,7 @@
 </w.rf>
 <form>TTI</form>
 <tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5586,8 +5586,8 @@
 </w.rf>
 <form>Therm</form>
 <tag>
-<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Therm_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p17s3w3">
@@ -5914,7 +5914,7 @@
 </w.rf>
 <form>TTI</form>
 <tag>
-<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5925,8 +5925,8 @@
 </w.rf>
 <form>Therm</form>
 <tag>
-<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Therm_;m_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p21s1Bw10">

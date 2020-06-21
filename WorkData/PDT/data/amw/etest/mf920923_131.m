@@ -202,10 +202,10 @@
 </w.rf>
 <form>Alaf</form>
 <tag>
-<AM lemma="Alaf_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alaf_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Alaf_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Alaf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alaf_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alaf_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Alaf_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Alaf-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-131-p2s2w14">
@@ -416,7 +416,7 @@
 <LM>w#w-mf920923-131-p3s1w4</LM>
 </w.rf>
 <form>Rabinovič</form>
-<tag lemma="Rabinovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabinovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-131-p3s1w5">
 <src.rf>manual</src.rf>

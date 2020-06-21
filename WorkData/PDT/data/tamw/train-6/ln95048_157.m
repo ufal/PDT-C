@@ -225,8 +225,8 @@
 <form>AMBIENTE</form>
 <tag>
 <AM lemma="Ambiente_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ambiente_;K" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Ambiente_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Ambiente_;m" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Ambiente_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-157-p2s1Bw19">
@@ -457,7 +457,7 @@
 <LM>w#w-ln95048-157-p2s3w11</LM>
 </w.rf>
 <form>Praktik</form>
-<tag lemma="Praktik_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Praktik_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-157-p2s3w12">
 <src.rf>manual</src.rf>
@@ -506,8 +506,8 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-1_:B_;m_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -671,7 +671,7 @@
 <LM>w#w-ln95048-157-p3s1w15</LM>
 </w.rf>
 <form>Laštovičky</form>
-<tag lemma="Laštovička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Laštovička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-157-p3s1w16">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-ln95048-157-p3s1w24</LM>
 </w.rf>
 <form>Kafky</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-157-p3s1w25">
 <src.rf>manual</src.rf>
@@ -786,8 +786,8 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-1_:B_;m_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

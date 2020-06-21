@@ -303,7 +303,7 @@
 <form>POLÁKA</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-63-p2s1Cw9">
@@ -352,7 +352,7 @@
 <LM>w#w-ln94209-63-p2s1Cw14</LM>
 </w.rf>
 <form>JASANSKÉHO</form>
-<tag lemma="Jasanský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jasanský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-63-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 </w.rf>
 <form>Window</form>
 <tag>
-<AM lemma="Window_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Window_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Window-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -404,9 +404,9 @@
 </w.rf>
 <form>Gallery</form>
 <tag>
-<AM lemma="Gallery_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Galler_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Galler_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Gallery_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Galler_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Galler_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="gallery_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gallery-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -768,7 +768,7 @@
 <LM>w#w-ln94209-63-p3s2w14</LM>
 </w.rf>
 <form>Nietzscheho</form>
-<tag lemma="Nietzsche_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nietzsche_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-63-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1775,7 +1775,7 @@
 <form>Polákův</form>
 <tag>
 <AM lemma="Polákův_;E_^(*2)" src="auto">AUIS4M---------</AM>
-<AM lemma="Polákův_;E_;S_^(*2)" src="manual" selected="1">AUIS4M---------</AM>
+<AM lemma="Polákův_;E_;Y_^(*2)" src="manual" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-ln94209-63-p3s8w5">
@@ -1793,7 +1793,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jasanského</form>
-<tag lemma="Jasanský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jasanský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-63-p3s8w7">
 <src.rf>manual</src.rf>
@@ -1867,7 +1867,7 @@
 <LM>w#w-ln94209-63-p3s9Aw2</LM>
 </w.rf>
 <form>Lindaurová</form>
-<tag lemma="Lindaurová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lindaurová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-63-p3s9B">
@@ -1937,7 +1937,7 @@
 <form>Polák</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-63-p3s10w3">
@@ -1962,7 +1962,7 @@
 <LM>w#w-ln94209-63-p3s10w5</LM>
 </w.rf>
 <form>Jasanský</form>
-<tag lemma="Jasanský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jasanský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-63-p3s10w6">
 <src.rf>manual</src.rf>
@@ -1981,7 +1981,7 @@
 </w.rf>
 <form>Window</form>
 <tag>
-<AM lemma="Window_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Window_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Window-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1992,9 +1992,9 @@
 </w.rf>
 <form>Gallery</form>
 <tag>
-<AM lemma="Gallery_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Galler_;S" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="Galler_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Gallery_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Galler_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Galler_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="gallery_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Gallery-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2025,7 +2025,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2036,7 +2036,7 @@
 </w.rf>
 <form>Council</form>
 <tag>
-<AM lemma="Council_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Council_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Council_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Council_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="council_,t" src="manual">NNXXX-----A----</AM>

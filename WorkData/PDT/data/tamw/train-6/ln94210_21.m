@@ -77,7 +77,7 @@
 <LM>w#w-ln94210-21-p2s1Aw3</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ma-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-21-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 </w.rf>
 <form>KGHM</form>
 <tag>
-<AM lemma="KGHM_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGHM_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KGHM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -285,7 +285,7 @@
 <LM>w#w-ln94210-21-p2s2w7</LM>
 </w.rf>
 <form>Sedzikowski</form>
-<tag lemma="Sedzikowski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sedzikowski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-21-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 </w.rf>
 <form>KGHM</form>
 <tag>
-<AM lemma="KGHM_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGHM_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KGHM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1062,7 +1062,7 @@
 <LM>w#w-ln94210-21-p4s1w14</LM>
 </w.rf>
 <form>Metraco</form>
-<tag lemma="Metraco_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Metraco_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-21-p4s1w15">
 <src.rf>manual</src.rf>

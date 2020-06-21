@@ -36,7 +36,7 @@
 </w.rf>
 <form>dolary</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP4-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP4-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
@@ -49,7 +49,7 @@
 </w.rf>
 <form>GRAND</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="GRAND-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -60,7 +60,7 @@
 </w.rf>
 <form>PRIX</form>
 <tag>
-<AM lemma="Prix-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prix-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="PRIX-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -117,9 +117,9 @@
 </w.rf>
 <form>vit</form>
 <tag>
-<AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vit-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
-<AM lemma="vit-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vit-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-125-p2s1w4">
@@ -161,7 +161,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -172,7 +172,7 @@
 </w.rf>
 <form>Prix</form>
 <tag>
-<AM lemma="Prix-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prix-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -268,7 +268,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -632,7 +632,7 @@
 <AM lemma="Oslo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Oslo_;G" src="auto" recommended="1" selected="1">NNNSX-----A---1</AM>
+<AM lemma="Oslo_;G" src="auto" recommended="1" selected="1">NNNXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930701-125-p2s3w34">
@@ -1171,7 +1171,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1279,7 +1279,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1290,7 +1290,7 @@
 </w.rf>
 <form>Prix</form>
 <tag>
-<AM lemma="Prix-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prix-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1381,7 +1381,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

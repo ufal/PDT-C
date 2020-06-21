@@ -472,7 +472,7 @@
 <LM>w#w-lnd92256-111-p9s2w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-111-p9s2w2">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-lnd92256-111-p11s2w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-111-p11s2w2">
 <src.rf>manual</src.rf>

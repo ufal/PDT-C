@@ -272,7 +272,7 @@
 <LM>w#w-ln94206-70-p2s2w6</LM>
 </w.rf>
 <form>Tatralov</form>
-<tag lemma="Tatralov_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tatralov_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-70-p2s2w7">
 <src.rf>manual</src.rf>

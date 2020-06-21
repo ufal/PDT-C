@@ -55,7 +55,7 @@
 <LM>w#w-ln94207-15-p2s1Bw2</LM>
 </w.rf>
 <form>Tomíček</form>
-<tag lemma="Tomíček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tomíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-15-p2s1C">

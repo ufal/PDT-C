@@ -124,7 +124,7 @@
 <LM>w#w-lnd92256-018-p1s1w14</LM>
 </w.rf>
 <form>Tigridovi</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92256-018-p1s1w15">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 <LM>w#w-lnd92256-018-p1s1w19</LM>
 </w.rf>
 <form>Petránkem</form>
-<tag lemma="Petránek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Petránek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-018-p1s1w20">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-lnd92256-018-p2s1w4</LM>
 </w.rf>
 <form>Mihaliček</form>
-<tag lemma="Mihaliček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mihaliček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-018-p2s1w5">
 <src.rf>manual</src.rf>
@@ -289,8 +289,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

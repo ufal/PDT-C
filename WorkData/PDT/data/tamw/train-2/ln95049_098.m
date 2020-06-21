@@ -28,8 +28,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-098-p1s1w3">
@@ -39,7 +39,7 @@
 </w.rf>
 <form>Kuča</form>
 <tag>
-<AM lemma="Kuča_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuča_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kuča" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -124,8 +124,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-098-p2s1Aw4">
@@ -200,7 +200,7 @@
 <LM>w#w-ln95049-098-p2s1Bw7</LM>
 </w.rf>
 <form>Kučovi</form>
-<tag lemma="Kuč_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Kuč_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95049-098-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-ln95049-098-p2s1Bw18</LM>
 </w.rf>
 <form>Kučovi</form>
-<tag lemma="Kuč_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Kuč_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95049-098-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-ln95049-098-p2s2w9</LM>
 </w.rf>
 <form>Seat</form>
-<tag lemma="Seat-2_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Seat-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-098-p2s2w10">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-ln95049-098-p2s2w10</LM>
 </w.rf>
 <form>Toledo</form>
-<tag lemma="Toledo_;G_;R_^(vozidlo,město)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Toledo_;G_;m_^(vozidlo,město)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-098-p2s2w11">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-ln95049-098-p2s2w26</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-098-p2s2w27">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-ln95049-098-p3s1w3</LM>
 </w.rf>
 <form>Toledo</form>
-<tag lemma="Toledo_;G_;R_^(vozidlo,město)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Toledo_;G_;m_^(vozidlo,město)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-098-p3s1w4">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 </w.rf>
 <form>Kuča</form>
 <tag>
-<AM lemma="Kuča_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuča_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kuča" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -748,7 +748,7 @@
 <LM>w#w-ln95049-098-p3s2w1</LM>
 </w.rf>
 <form>Škodu</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95049-098-p3s2w2">
 <src.rf>manual</src.rf>
@@ -789,8 +789,8 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-098-p3s2w7">
@@ -905,7 +905,7 @@
 <LM>w#w-ln95049-098-p3s3w2</LM>
 </w.rf>
 <form>Kučové</form>
-<tag lemma="Kuč_;S" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="Kuč_;Y" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-ln95049-098-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1094,13 +1094,13 @@
 </w.rf>
 <form>Kuči</form>
 <tag>
-<AM lemma="Kuča_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Kuč_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Kuč_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Kuč_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Kuč_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Kuč_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Kuč_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Kuča_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kuč_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Kuč_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Kuč_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Kuč_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Kuč_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Kuč_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="kuča" src="auto">NNFP1-----A----</AM>
 <AM lemma="kuča" src="auto">NNFP4-----A----</AM>
 <AM lemma="kuča" src="auto">NNFP5-----A----</AM>
@@ -1222,7 +1222,7 @@
 </w.rf>
 <form>Kuča</form>
 <tag>
-<AM lemma="Kuča_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuča_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kuča" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1267,8 +1267,8 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-098-p3s7w5">

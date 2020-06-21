@@ -721,7 +721,7 @@
 <LM>w#w-cmpr9410-024-p6s1w2</LM>
 </w.rf>
 <form>Kubín</form>
-<tag lemma="Kubín-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubín-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-024-p8s1">
@@ -952,7 +952,7 @@
 <LM>w#w-cmpr9410-024-p8s2w15</LM>
 </w.rf>
 <form>Lanciger</form>
-<tag lemma="Lanciger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lanciger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-024-p8s2w16">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 </w.rf>
 <form>Inform</form>
 <tag>
-<AM lemma="Inform_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Inform_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Inform-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4548,7 +4548,7 @@
 </w.rf>
 <form>Inform</form>
 <tag>
-<AM lemma="Inform_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Inform_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Inform-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

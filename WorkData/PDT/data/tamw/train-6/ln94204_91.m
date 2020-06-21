@@ -311,7 +311,7 @@
 </w.rf>
 <form>IRA</form>
 <tag>
-<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -799,7 +799,7 @@
 <LM>w#w-ln94204-91-p4s1w9</LM>
 </w.rf>
 <form>Cvetanov</form>
-<tag lemma="Cvetanov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cvetanov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-91-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1285,7 +1285,7 @@
 <LM>w#w-ln94204-91-p5s2w28</LM>
 </w.rf>
 <form>Melničuk</form>
-<tag lemma="Melničuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Melničuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-91-p5s2w29">
 <src.rf>manual</src.rf>
@@ -1570,8 +1570,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-91-p6s2w6">
@@ -1605,8 +1605,8 @@
 </w.rf>
 <form>Muhammad</form>
 <tag>
-<AM lemma="Muhammad_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Muhammad_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Muhammad_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Muhammad_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-91-p6s2w10">
@@ -1616,7 +1616,7 @@
 </w.rf>
 <form>Chán</form>
 <tag>
-<AM lemma="Chán_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chán_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="chán" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>

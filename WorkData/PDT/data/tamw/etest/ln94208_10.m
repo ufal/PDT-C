@@ -62,7 +62,7 @@
 <LM>w#w-ln94208-10-p1s1w6</LM>
 </w.rf>
 <form>Keynesem</form>
-<tag lemma="Keynes_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Keynes_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-10-p2s1A">
@@ -80,7 +80,7 @@
 <LM>w#w-ln94208-10-p2s1Aw2</LM>
 </w.rf>
 <form>Luňák</form>
-<tag lemma="Luňák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Luňák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-10-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln94208-10-p2s1Cw23</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94208-10-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln94208-10-p3s3w6</LM>
 </w.rf>
 <form>Klausovi</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94208-10-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 </w.rf>
 <form>Maynard</form>
 <tag>
-<AM lemma="Maynard_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Maynard_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Maynard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1258,7 +1258,7 @@
 <LM>w#w-ln94208-10-p4s1w3</LM>
 </w.rf>
 <form>Keynes</form>
-<tag lemma="Keynes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keynes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-10-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1808,7 +1808,7 @@
 <LM>w#w-ln94208-10-p4s4w4</LM>
 </w.rf>
 <form>Keynes</form>
-<tag lemma="Keynes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keynes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-10-p4s4w5">
 <src.rf>manual</src.rf>
@@ -2002,7 +2002,7 @@
 <LM>w#w-ln94208-10-p5s1w1</LM>
 </w.rf>
 <form>Keynes</form>
-<tag lemma="Keynes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keynes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-10-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2254,7 +2254,7 @@
 <LM>w#w-ln94208-10-p5s3w6</LM>
 </w.rf>
 <form>Keynese</form>
-<tag lemma="Keynes_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Keynes_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-10-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2467,7 +2467,7 @@
 <LM>w#w-ln94208-10-p5s4w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94208-10-p5s4w18">
 <src.rf>manual</src.rf>
@@ -2863,7 +2863,7 @@
 <LM>w#w-ln94208-10-p6s1w10</LM>
 </w.rf>
 <form>Keynesova</form>
-<tag lemma="Keynesův_;S_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
+<tag lemma="Keynesův_;Y_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
 </m>
 <m id="m-ln94208-10-p6s1w11">
 <src.rf>manual</src.rf>
@@ -2956,7 +2956,7 @@
 <LM>w#w-ln94208-10-p6s2w4</LM>
 </w.rf>
 <form>Keynesově</form>
-<tag lemma="Keynesův_;S_^(*2)" src="orig" selected="1">AUMS6M---------</tag>
+<tag lemma="Keynesův_;Y_^(*2)" src="orig" selected="1">AUMS6M---------</tag>
 </m>
 <m id="m-ln94208-10-p6s2w5">
 <src.rf>manual</src.rf>
@@ -3233,7 +3233,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -3827,7 +3827,7 @@
 <LM>w#w-ln94208-10-p7s4w5</LM>
 </w.rf>
 <form>Clintonovi</form>
-<tag lemma="Clintonův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Clintonův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94208-10-p7s4w6">
 <src.rf>manual</src.rf>
@@ -3939,7 +3939,7 @@
 <LM>w#w-ln94208-10-p7s4w19</LM>
 </w.rf>
 <form>Bushovy</form>
-<tag lemma="Bushův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Bushův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94208-10-p7s4w20">
 <src.rf>manual</src.rf>

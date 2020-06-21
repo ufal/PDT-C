@@ -45,7 +45,7 @@
 <LM>w#w-ln95046-029-p2s1w3</LM>
 </w.rf>
 <form>Ivaniševič</form>
-<tag lemma="Ivaniševič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ivaniševič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-029-p2s1w4">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln95046-029-p2s1w15</LM>
 </w.rf>
 <form>Larssonovi</form>
-<tag lemma="Larsson_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Larsson_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95046-029-p2s1w16">
 <src.rf>manual</src.rf>

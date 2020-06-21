@@ -62,8 +62,8 @@
 </w.rf>
 <form>tnt</form>
 <tag>
-<AM lemma="tnt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tnt-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tnt-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tnt-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-012-p1s1Bw4">
@@ -550,7 +550,7 @@
 <LM>w#w-mf920902-012-p1s3w21</LM>
 </w.rf>
 <form>Jankozs</form>
-<tag lemma="Jankozs_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jankozs_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-012-p1s3w22">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 </w.rf>
 <form>OVaK</form>
 <tag>
-<AM lemma="OVaK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OVaK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="OVaK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

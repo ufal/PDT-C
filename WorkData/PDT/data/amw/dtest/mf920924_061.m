@@ -73,13 +73,13 @@
 </w.rf>
 <form>fil</form>
 <tag>
-<AM lemma="fil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="fil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-061-p2s1w4">
@@ -229,8 +229,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-061-p2s2w15">
@@ -389,8 +389,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-061-p2s3w6">

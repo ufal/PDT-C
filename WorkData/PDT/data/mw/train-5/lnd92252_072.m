@@ -138,7 +138,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-072-p1s2w7">
@@ -155,7 +155,7 @@
 <LM>w#w-lnd92252-072-p1s2w8</LM>
 </w.rf>
 <form>Schwarzenberga</form>
-<tag lemma="Schwarzenberg_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schwarzenberg_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-072-p1s2w9">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-072-p1s2w15">
@@ -222,7 +222,7 @@
 <LM>w#w-lnd92252-072-p1s2w16</LM>
 </w.rf>
 <form>Künnla</form>
-<tag lemma="Kühnl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kühnl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-072-p1s2w17">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-072-p1s2w28">
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92252-072-p1s2w29</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-072-p1s2w30">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-072-p1s2w32">
@@ -364,7 +364,7 @@
 <LM>w#w-lnd92252-072-p1s2w33</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-072-p1s2w34">
 <src.rf>manual</src.rf>

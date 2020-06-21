@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-023-p1s1w2</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920902-023-p1s1w3">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-mf920902-023-p2s4w2</LM>
 </w.rf>
 <form>Benzina</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1604,7 +1604,7 @@
 <LM>w#w-mf920902-023-p2s10w3</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920902-023-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1923,7 +1923,7 @@
 <LM>w#w-mf920902-023-p2s13w7</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920902-023-p2s13w8">
 <src.rf>manual</src.rf>
@@ -2642,7 +2642,7 @@
 <LM>w#w-mf920902-023-p2s16w13</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s16w14">
 <src.rf>manual</src.rf>
@@ -2658,7 +2658,7 @@
 <LM>w#w-mf920902-023-p2s16w15</LM>
 </w.rf>
 <form>Hejskové</form>
-<tag lemma="Hejsková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hejsková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s16w16">
 <src.rf>manual</src.rf>
@@ -2895,7 +2895,7 @@
 <LM>w#w-mf920902-023-p2s18w21</LM>
 </w.rf>
 <form>Hejsková</form>
-<tag lemma="Hejsková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hejsková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s18w22">
 <src.rf>manual</src.rf>

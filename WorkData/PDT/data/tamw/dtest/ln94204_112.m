@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-112-p1s1w1</LM>
 </w.rf>
 <form>Mansell</form>
-<tag lemma="Mansell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-112-p1s1w2">
 <src.rf>manual</src.rf>
@@ -52,8 +52,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="F-33" src="orig">Q3-------------</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-112-p1s1w6">
@@ -123,7 +123,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -197,7 +197,7 @@
 <LM>w#w-ln94204-112-p2s1Bw14</LM>
 </w.rf>
 <form>Mansell</form>
-<tag lemma="Mansell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-112-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94204-112-p2s1Bw19</LM>
 </w.rf>
 <form>Williams</form>
-<tag lemma="Williams-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Williams-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-112-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-ln94204-112-p2s1Bw21</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-112-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln94204-112-p2s2w8</LM>
 </w.rf>
 <form>Franka</form>
-<tag lemma="Frank_;E_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Frank_;E_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-112-p2s2w9">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln94204-112-p2s2w9</LM>
 </w.rf>
 <form>Williamse</form>
-<tag lemma="Williams-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Williams-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-112-p2s2w10">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln94204-112-p2s3w1</LM>
 </w.rf>
 <form>Mansell</form>
-<tag lemma="Mansell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-112-p2s3w2">
 <src.rf>manual</src.rf>

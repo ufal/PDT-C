@@ -72,7 +72,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -285,7 +285,7 @@
 <LM>w#w-lnd92251-042-p3s2w24</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92251-042-p3s2w25">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-lnd92251-042-p3s3w14</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-042-p3s3w15">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 </w.rf>
 <form>VSŽ</form>
 <tag>
-<AM lemma="VSŽ_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="VSŽ_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VSŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -459,7 +459,7 @@
 </w.rf>
 <form>ZŤS</form>
 <tag>
-<AM lemma="ZŤS-1_:B_;K_,t_^(Závody_ťažkého_strojárstva)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZŤS-1_:B_;m_,t_^(Závody_ťažkého_strojárstva)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZŤS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -583,7 +583,7 @@
 <LM>w#w-lnd92251-042-p3s4w5</LM>
 </w.rf>
 <form>Motokov</form>
-<tag lemma="Motokov_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Motokov_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-042-p3s4w6">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-lnd92251-042-p3s4w7</LM>
 </w.rf>
 <form>Koospol</form>
-<tag lemma="Koospol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Koospol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-042-p3s4w8">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-lnd92251-042-p3s4w9</LM>
 </w.rf>
 <form>Centrotex</form>
-<tag lemma="Centrotex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Centrotex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-042-p3s4w10">
 <src.rf>manual</src.rf>

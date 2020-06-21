@@ -348,7 +348,7 @@
 <LM>w#w-lnd91301-036-p3s2w19</LM>
 </w.rf>
 <form>Pezl</form>
-<tag lemma="Pezl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pezl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-036-p3s2w20">
 <src.rf>manual</src.rf>

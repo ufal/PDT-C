@@ -2166,7 +2166,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -4565,7 +4565,7 @@
 <LM>w#w-lnd92259-083-p6s1w4</LM>
 </w.rf>
 <form>CVETLEROVÁ</form>
-<tag lemma="Cvetlerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cvetlerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92259-083-p7s1">

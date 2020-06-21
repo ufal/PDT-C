@@ -166,7 +166,7 @@
 <LM>w#w-lnd92256-068-p3s2w8</LM>
 </w.rf>
 <form>Mercalliho</form>
-<tag lemma="Mercalli_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mercalli_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-068-p3s2w9">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd92256-068-p3s3w15</LM>
 </w.rf>
 <form>Richterovy</form>
-<tag lemma="Richterův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Richterův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92256-068-p3s3w16">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-lnd92256-068-p3s6w9</LM>
 </w.rf>
 <form>Richterovy</form>
-<tag lemma="Richterův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Richterův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92256-068-p3s6w10">
 <src.rf>manual</src.rf>

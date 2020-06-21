@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-014-p1s1w1</LM>
 </w.rf>
 <form>Čalfovi</form>
-<tag lemma="Čalfův_;S_^(*2a)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Čalfův_;Y_^(*2a)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln95040-014-p1s1w2">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln95040-014-p1s1w4</LM>
 </w.rf>
 <form>Chemapolu</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95040-014-p2s1A">
@@ -106,7 +106,7 @@
 <LM>w#w-ln95040-014-p2s1Bw5</LM>
 </w.rf>
 <form>Čalfa</form>
-<tag lemma="Čalfa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čalfa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-014-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-ln95040-014-p2s1Bw12</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-014-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -191,7 +191,7 @@
 <LM>w#w-ln95040-014-p2s2w1</LM>
 </w.rf>
 <form>Čalfa</form>
-<tag lemma="Čalfa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čalfa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-014-p2s2w2">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln95040-014-p3s1w3</LM>
 </w.rf>
 <form>Čalfa</form>
-<tag lemma="Čalfa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čalfa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s1w4">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln95040-014-p3s1w12</LM>
 </w.rf>
 <form>Chemapolu</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s1w13">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln95040-014-p3s2w7</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s2w8">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln95040-014-p3s3w1</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s3w2">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln95040-014-p3s4w5</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s4w6">
 <src.rf>manual</src.rf>

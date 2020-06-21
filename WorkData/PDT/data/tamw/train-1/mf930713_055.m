@@ -85,7 +85,7 @@
 <LM>w#w-mf930713-055-p2s1w3</LM>
 </w.rf>
 <form>Kotík</form>
-<tag lemma="Kotík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-055-p2s1w4">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-mf930713-055-p2s3w10</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-055-p2s3w11">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-mf930713-055-p2s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930713-055-p2s4w2">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-mf930713-055-p2s4w22</LM>
 </w.rf>
 <form>Kotíkových</form>
-<tag lemma="Kotíkův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Kotíkův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf930713-055-p2s4w23">
 <src.rf>manual</src.rf>
@@ -745,9 +745,9 @@
 </w.rf>
 <form>Arca</form>
 <tag>
-<AM lemma="Arca_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Arco_;K" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Arca_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Arca_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Arco_;m" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Arca_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-055-p2s4w30">
@@ -756,7 +756,7 @@
 <LM>w#w-mf930713-055-p2s4w30</LM>
 </w.rf>
 <form>Jimfa</form>
-<tag lemma="Jimfa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jimfa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-055-p2s4w31">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-mf930713-055-p2s5w20</LM>
 </w.rf>
 <form>Kressa</form>
-<tag lemma="Kressa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kressa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-055-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-mf930713-055-p3s1w10</LM>
 </w.rf>
 <form>Kotíkovy</form>
-<tag lemma="Kotíkův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Kotíkův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf930713-055-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-mf930713-055-p3s3w3</LM>
 </w.rf>
 <form>Kotík</form>
-<tag lemma="Kotík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-055-p3s3w4">
 <src.rf>manual</src.rf>
@@ -2025,7 +2025,7 @@
 <LM>w#w-mf930713-055-p3s4w11</LM>
 </w.rf>
 <form>Kotíkovy</form>
-<tag lemma="Kotíkův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Kotíkův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-mf930713-055-p3s4w12">
 <src.rf>manual</src.rf>
@@ -2243,7 +2243,7 @@
 <LM>w#w-mf930713-055-p3s5w10</LM>
 </w.rf>
 <form>Kotíkovy</form>
-<tag lemma="Kotíkův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Kotíkův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf930713-055-p3s5w11">
 <src.rf>manual</src.rf>
@@ -2535,7 +2535,7 @@
 <LM>w#w-mf930713-055-p3s7w3</LM>
 </w.rf>
 <form>Kotíka</form>
-<tag lemma="Kotík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-055-p3s7w4">
 <src.rf>manual</src.rf>

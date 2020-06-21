@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-169-p1s1w4</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930701-169-p1s1w5">
 <src.rf>manual</src.rf>
@@ -1329,7 +1329,7 @@
 <LM>w#w-mf930701-169-p5s1w27</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930701-169-p5s1w28">
 <src.rf>manual</src.rf>
@@ -1666,7 +1666,7 @@
 <LM>w#w-mf930701-169-p6s3w3</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-169-p6s3w4">
 <src.rf>manual</src.rf>
@@ -1714,7 +1714,7 @@
 <LM>w#w-mf930701-169-p6s3w9</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-169-p6s3w10">
 <src.rf>manual</src.rf>
@@ -1844,7 +1844,7 @@
 <LM>w#w-mf930701-169-p6s4w8</LM>
 </w.rf>
 <form>dolary</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf930701-169-p6s4w9">
 <src.rf>manual</src.rf>
@@ -2040,7 +2040,7 @@
 <form>Fast</form>
 <tag>
 <AM lemma="fast_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Fast_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fast_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Fast-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2175,7 +2175,7 @@
 <LM>w#w-mf930701-169-p7s1w25</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930701-169-p7s1w26">
 <src.rf>manual</src.rf>
@@ -2599,7 +2599,7 @@
 <LM>w#w-mf930701-169-p8s1w6</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930701-169-p8s1w7">
 <src.rf>manual</src.rf>
@@ -3280,7 +3280,7 @@
 <LM>w#w-mf930701-169-p10s1w4</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 </s>
 <s id="m-mf930701-169-p11s1">
@@ -3306,7 +3306,7 @@
 <LM>w#w-mf930701-169-p11s1w3</LM>
 </w.rf>
 <form>MAFA</form>
-<tag lemma="Mafa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mafa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-169-p11s1w4">
 <src.rf>manual</src.rf>
@@ -3330,7 +3330,7 @@
 <LM>w#w-mf930701-169-p11s1w6</LM>
 </w.rf>
 <form>RŮŽIČKA</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

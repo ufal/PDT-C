@@ -378,7 +378,7 @@
 </w.rf>
 <form>CIS</form>
 <tag>
-<AM lemma="CIS-2_:B_;K_^(Cestovní_informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIS-2_:B_;m_^(Cestovní_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -389,7 +389,7 @@
 </w.rf>
 <form>Plus</form>
 <tag>
-<AM lemma="Plus_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Plus_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
 <AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto">J*-------------</AM>
@@ -476,7 +476,7 @@
 </w.rf>
 <form>UNIDO</form>
 <tag>
-<AM lemma="UNIDO-1_:B_;K_,t_^(United_Nations_Idustr._Develop._Organ.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNIDO-1_:B_;m_,t_^(United_Nations_Idustr._Develop._Organ.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNIDO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1186,7 +1186,7 @@
 </w.rf>
 <form>CIS</form>
 <tag>
-<AM lemma="CIS-2_:B_;K_^(Cestovní_informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIS-2_:B_;m_^(Cestovní_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1197,7 +1197,7 @@
 </w.rf>
 <form>Plus</form>
 <tag>
-<AM lemma="Plus_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Plus_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
 <AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto">J*-------------</AM>

@@ -204,7 +204,7 @@
 </w.rf>
 <form>ČSKOS</form>
 <tag>
-<AM lemma="ČSKOS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČSKOS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ČSKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -297,7 +297,7 @@
 </w.rf>
 <form>ČSKOS</form>
 <tag>
-<AM lemma="ČSKOS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČSKOS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ČSKOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

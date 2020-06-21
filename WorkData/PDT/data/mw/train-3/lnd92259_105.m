@@ -19,7 +19,7 @@
 <LM>w#w-lnd92259-105-p1s1w1</LM>
 </w.rf>
 <form>JELCIN</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-105-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +27,7 @@
 <LM>w#w-lnd92259-105-p1s1w2</LM>
 </w.rf>
 <form>LANDSBERGISOVI</form>
-<tag lemma="Landsbergis_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Landsbergis_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 </s>
 <s id="m-lnd92259-105-p2s1">
@@ -259,7 +259,7 @@
 <LM>w#w-lnd92259-105-p3s3w6</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-105-p3s3w7">
 <src.rf>manual</src.rf>
@@ -292,8 +292,8 @@
 </w.rf>
 <form>Vytautasovi</form>
 <tag>
-<AM lemma="Vytautas_;S" src="orig">NNMS3-----A---1</AM>
-<AM lemma="Vytautas_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Vytautas_;Y" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Vytautas_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92259-105-p3s3w11">
@@ -302,7 +302,7 @@
 <LM>w#w-lnd92259-105-p3s3w11</LM>
 </w.rf>
 <form>Landsbergisovi</form>
-<tag lemma="Landsbergis_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Landsbergis_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92259-105-p3s3w12">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-lnd92259-105-p3s4w3</LM>
 </w.rf>
 <form>Baltfax</form>
-<tag lemma="Baltfax_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baltfax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-105-p3s4w4">
 <src.rf>manual</src.rf>
@@ -408,7 +408,7 @@
 <LM>w#w-lnd92259-105-p3s4w12</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-105-p3s4w13">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-lnd92259-105-p3s4w14</LM>
 </w.rf>
 <form>Landsbergisovi</form>
-<tag lemma="Landsbergis_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Landsbergis_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92259-105-p3s4w15">
 <src.rf>manual</src.rf>

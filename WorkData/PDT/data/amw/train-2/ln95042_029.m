@@ -396,7 +396,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -446,7 +446,7 @@
 <LM>w#w-ln95042-029-p2s2w19</LM>
 </w.rf>
 <form>Villebonem</form>
-<tag lemma="Villebon_;K_,t" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Villebon_;m_,t" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-029-p2s2w20">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <form>CEV</form>
 <tag>
 <AM lemma="CEV_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Ceva_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Ceva_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="CEV_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CEV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1261,7 +1261,7 @@
 <form>Teplý</form>
 <tag>
 <AM lemma="teplý" src="orig">AAMS1----1A----</AM>
-<AM lemma="Teplý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Teplý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-029-p3s6w23">
@@ -1466,7 +1466,7 @@
 <LM>w#w-ln95042-029-p4s2w13</LM>
 </w.rf>
 <form>Villebon</form>
-<tag lemma="Villebon_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Villebon_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-029-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 <LM>w#w-ln95042-029-p4s4w18</LM>
 </w.rf>
 <form>Mitáč</form>
-<tag lemma="Mitáč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mitáč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-029-p4s4w19">
 <src.rf>manual</src.rf>

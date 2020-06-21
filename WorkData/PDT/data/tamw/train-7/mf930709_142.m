@@ -527,7 +527,7 @@
 </w.rf>
 <form>OAJ</form>
 <tag>
-<AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OAJ-1_:B_;m_^(Organizace_africké_jednoty)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OAJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -652,7 +652,7 @@
 </w.rf>
 <form>OAJ</form>
 <tag>
-<AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OAJ-1_:B_;m_^(Organizace_africké_jednoty)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OAJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4856,7 +4856,7 @@
 <LM>w#w-mf930709-142-p9s3w2</LM>
 </w.rf>
 <form>GEDLU</form>
-<tag lemma="Gedlu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gedlu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-142-p10s1">

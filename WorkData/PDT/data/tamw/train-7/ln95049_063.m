@@ -69,7 +69,7 @@
 <LM>w#w-ln95049-063-p2s1w2</LM>
 </w.rf>
 <form>Suchánek</form>
-<tag lemma="Suchánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suchánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-063-p2s1w3">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <tag>
 <AM lemma="ex-3_,t_^(ex_libris)" src="orig">AAXXX----1A----</AM>
 <AM lemma="ex-1_^(vypít_na_ex,_můj_ex[manžel])" src="auto">NNXXX-----A----</AM>
-<AM lemma="ex-2_;R_,t_^(lat.,_advokát_ex_offo)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="ex-2_;m_,t_^(lat.,_advokát_ex_offo)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="Ex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -257,7 +257,7 @@
 <LM>w#w-ln95049-063-p3s1w6</LM>
 </w.rf>
 <form>Váši</form>
-<tag lemma="Váša_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Váša_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-063-p3s1w7">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <form_change>spell</form_change>
 <form>poémes</form>
 <tag>
-<AM lemma="poémes_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="poémes_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="poémes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -363,7 +363,7 @@
 <LM>w#w-ln95049-063-p3s1w18</LM>
 </w.rf>
 <form>Maťa</form>
-<tag lemma="Maťa_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maťa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-063-p3s1w19">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-ln95049-063-p4s1w3</LM>
 </w.rf>
 <form>Svěrák</form>
-<tag lemma="Svěrák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svěrák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-063-p4s1w4">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-ln95049-063-p4s1w7</LM>
 </w.rf>
 <form>Uhlíř</form>
-<tag lemma="Uhlíř_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhlíř_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-063-p4s1w8">
 <src.rf>manual</src.rf>

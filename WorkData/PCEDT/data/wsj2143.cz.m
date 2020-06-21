@@ -109,9 +109,9 @@
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
 <AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
 <AM lemma="s-77_,t" src="auto">F%-------------</AM>
-<AM lemma="s-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="s-33" src="auto">Q3-------------</AM>
 <AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
@@ -153,8 +153,8 @@
 </w.rf>
 <form>Central</form>
 <tag>
-<AM lemma="Central_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Central_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Central-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -272,9 +272,9 @@
 </w.rf>
 <form>Centralu</form>
 <tag>
-<AM lemma="Central_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS6-----A----</AM>
+<AM lemma="Central_;m" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s1W3-Ta">
@@ -389,9 +389,9 @@
 </w.rf>
 <form>Sterlingu</form>
 <tag>
-<AM lemma="Sterling_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Sterling_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Sterling_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Sterling_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Sterling_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Sterling_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="sterling" src="auto">NNIS2-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS3-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS5-----A----</AM>
@@ -472,7 +472,7 @@
 <form>Amcoreu</form>
 <tag>
 <AM lemma="Amcoreu" src="auto">X@-------------</AM>
-<AM lemma="Amcore_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Amcore_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s1W18-Ta">
@@ -484,8 +484,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -534,9 +534,9 @@
 </w.rf>
 <form>Centralu</form>
 <tag>
-<AM lemma="Central_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS6-----A----</AM>
+<AM lemma="Central_;m" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s1W23-Ta">
@@ -548,8 +548,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -593,7 +593,7 @@
 <form>Amcore</form>
 <tag>
 <AM lemma="Amcore" src="auto">X@-------------</AM>
-<AM lemma="Amcore_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Amcore_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s1W29-Ta">
@@ -683,8 +683,8 @@
 </w.rf>
 <form>Central</form>
 <tag>
-<AM lemma="Central_;K" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Central_;K" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Central_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Central_;m" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s2W8-Ta">
@@ -737,7 +737,7 @@
 <form>Amcore</form>
 <tag>
 <AM lemma="Amcore" src="auto">X@-------------</AM>
-<AM lemma="Amcore_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Amcore_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s3W2-Ta">
@@ -948,9 +948,9 @@
 </w.rf>
 <form>Centralu</form>
 <tag>
-<AM lemma="Central_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Central_;K" src="auto">NNIS6-----A----</AM>
+<AM lemma="Central_;m" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="Central_;m" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s4W4-Ta">

@@ -602,7 +602,7 @@
 <LM>w#w-cmpr9415-044-p5s1w14</LM>
 </w.rf>
 <form>Ježkem</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-044-p5s1w15">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-cmpr9415-044-p7s1w2</LM>
 </w.rf>
 <form>Kaňa</form>
-<tag lemma="Kaňa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaňa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-044-p7s1w3">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-cmpr9415-044-p7s1w5</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-044-p9s1">
@@ -3963,10 +3963,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -6213,7 +6213,7 @@
 <LM>w#w-cmpr9415-044-p25s2w5</LM>
 </w.rf>
 <form>Pragolaktosu</form>
-<tag lemma="Pragolaktos_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pragolaktos_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-044-p25s2w6">
 <src.rf>manual</src.rf>

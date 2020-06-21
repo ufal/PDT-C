@@ -139,7 +139,7 @@
 <form>rublů</form>
 <tag>
 <AM lemma="rubl" src="orig">NNIP2-----A----</AM>
-<AM lemma="rubl_;b" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="rubl" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-118-p4s2w3">
@@ -229,7 +229,7 @@
 <form>super</form>
 <tag>
 <AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="super-1_;R" src="manual">NNIS4-----A----</AM>
+<AM lemma="super-1_;m" src="manual">NNIS4-----A----</AM>
 <AM lemma="super-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -273,7 +273,7 @@
 <form>rublů</form>
 <tag>
 <AM lemma="rubl" src="orig">NNIP2-----A----</AM>
-<AM lemma="rubl_;b" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="rubl" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-118-p4s2w18">
@@ -631,7 +631,7 @@
 <LM>w#w-mf920922-118-p4s5w10</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-118-p4s5w11">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <form>rublů</form>
 <tag>
 <AM lemma="rubl" src="orig">NNIP2-----A----</AM>
-<AM lemma="rubl_;b" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="rubl" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-118-p4s6w13">
@@ -898,7 +898,7 @@
 <LM>w#w-mf920922-118-p4s6w17</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920922-118-p4s6w18">
 <src.rf>manual</src.rf>

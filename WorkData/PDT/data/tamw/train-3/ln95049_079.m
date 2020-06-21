@@ -362,8 +362,8 @@
 </w.rf>
 <form>Rafík</form>
 <tag>
-<AM lemma="Rafík_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rafík_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rafík_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rafík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-079-p2s2w8">
@@ -372,7 +372,7 @@
 <LM>w#w-ln95049-079-p2s2w8</LM>
 </w.rf>
 <form>Harírí</form>
-<tag lemma="Harírí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Harírí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-079-p2s2w9">
 <src.rf>manual</src.rf>

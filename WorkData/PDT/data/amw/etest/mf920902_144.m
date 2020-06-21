@@ -348,8 +348,8 @@
 <form>Ešery</form>
 <tag>
 <AM lemma="Ešery_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Ešer_;S" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="Ešer_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Ešer_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Ešer_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Ešery_;G" src="manual">NNFP1-----A----</AM>
 <AM lemma="Ešera_;G" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
@@ -548,7 +548,7 @@
 <LM>w#w-mf920902-144-p3s1w4</LM>
 </w.rf>
 <form>Kavsadze</form>
-<tag lemma="Kavsadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kavsadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-144-p3s1w5">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-mf920902-144-p3s1w43</LM>
 </w.rf>
 <form>Gamsachurdii</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-144-p3s1w44">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-mf920902-144-p3s2w13</LM>
 </w.rf>
 <form>Kavsadze</form>
-<tag lemma="Kavsadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kavsadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-144-p3s2w14">
 <src.rf>manual</src.rf>

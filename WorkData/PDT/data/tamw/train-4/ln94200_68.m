@@ -70,10 +70,10 @@
 </w.rf>
 <form>pech</form>
 <tag>
-<AM lemma="pech-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pech-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
-<AM lemma="pech-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pech-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-68-p2s1Aw4">
@@ -896,7 +896,7 @@
 <LM>w#w-ln94200-68-p3s3w25</LM>
 </w.rf>
 <form>Beneš</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-68-p3s3w26">
 <src.rf>manual</src.rf>
@@ -1622,7 +1622,7 @@
 <LM>w#w-ln94200-68-p3s9w7</LM>
 </w.rf>
 <form>Agrobance</form>
-<tag lemma="Agrobanka_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Agrobanka_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-68-p3s9w8">
 <src.rf>manual</src.rf>

@@ -285,7 +285,7 @@
 <LM>w#w-lnd92256-030-p1s2w7</LM>
 </w.rf>
 <form>Francová</form>
-<tag lemma="Francová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Francová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-030-p1s2w8">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-lnd92256-030-p1s2w34</LM>
 </w.rf>
 <form>Traspol</form>
-<tag lemma="Traspol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Traspol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-030-p1s2w35">
 <src.rf>manual</src.rf>

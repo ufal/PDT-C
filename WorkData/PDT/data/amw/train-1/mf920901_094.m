@@ -139,7 +139,7 @@
 <LM>w#w-mf920901-094-p4s2w6</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-094-p4s2w7">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf920901-094-p5s2w29</LM>
 </w.rf>
 <form>Chatíb</form>
-<tag lemma="Chatíb_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chatíb_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-094-p5s2w30">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94203-20-p1s1w4</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-20-p1s1w5">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln94203-20-p2s1Bw23</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-20-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln94203-20-p2s2w14</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-20-p2s2w15">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegovičovi</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln94203-20-p2s2w21">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-20-p3s1w17">
@@ -639,7 +639,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševičem</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-20-p3s1w19">
 <src.rf>manual</src.rf>
@@ -752,9 +752,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-20-p3s1w33">
@@ -829,7 +829,7 @@
 <LM>w#w-ln94203-20-p4s1w8</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94203-20-p4s1w9">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 <LM>w#w-ln94203-20-p4s2w12</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-20-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1053,8 +1053,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-20-p4s2w20">
@@ -1104,7 +1104,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Milosevičovo</form>
-<tag lemma="Miloševičův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Miloševičův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln94203-20-p4s2w26">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 <LM>w#w-ln94203-20-p4s2w30</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94203-20-p4s2w31">
 <src.rf>manual</src.rf>
@@ -1384,7 +1384,7 @@
 </w.rf>
 <form>Ivo</form>
 <tag>
-<AM lemma="Ivo_;Y" src="orig">NNMSX-----A----</AM>
+<AM lemma="Ivo_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Iva_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS2-----A---1</AM>
@@ -1392,7 +1392,7 @@
 <AM lemma="Ivo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS7-----A---1</AM>
-<AM lemma="Ivo_;Y" src="manual" selected="1">NNMSX-----A---1</AM>
+<AM lemma="Ivo_;Y" src="manual" selected="1">NNMXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94203-20-p4s4w7">
@@ -1401,7 +1401,7 @@
 <LM>w#w-ln94203-20-p4s4w7</LM>
 </w.rf>
 <form>Sanadera</form>
-<tag lemma="Sanader_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sanader_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-20-p4s4w8">
 <src.rf>manual</src.rf>
@@ -1436,7 +1436,7 @@
 <LM>w#w-ln94203-20-p4s4w11</LM>
 </w.rf>
 <form>Tudjman</form>
-<tag lemma="Tudjman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tudjman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-20-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1468,7 +1468,7 @@
 <LM>w#w-ln94203-20-p4s4w15</LM>
 </w.rf>
 <form>Kozyrevem</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-20-p4s4w16">
 <src.rf>manual</src.rf>

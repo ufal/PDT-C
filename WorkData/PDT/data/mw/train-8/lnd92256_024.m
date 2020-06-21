@@ -205,7 +205,7 @@
 <LM>w#w-lnd92256-024-p1s2w11</LM>
 </w.rf>
 <form>Jungmannově</form>
-<tag lemma="Jungmannův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Jungmannův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-lnd92256-024-p1s2w12">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln94207-42-p1s1w3</LM>
 </w.rf>
 <form>Sirakova</form>
-<tag lemma="Sirakov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Sirakov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-42-p2s1A">
@@ -80,7 +80,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -122,7 +122,7 @@
 <LM>w#w-ln94207-42-p2s1Bw8</LM>
 </w.rf>
 <form>Sirakova</form>
-<tag lemma="Sirakov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Sirakov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-42-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -147,7 +147,7 @@
 </w.rf>
 <form>Sofia</form>
 <tag>
-<AM lemma="Sofie-1_;K" src="orig">NNFS1-----A---1</AM>
+<AM lemma="Sofie-1_;m" src="orig">NNFS1-----A---1</AM>
 <AM lemma="Sofie-1_;G" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="Sofie-2_;Y" src="auto">NNFS1-----A---1</AM>
 </tag>
@@ -263,7 +263,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -281,7 +281,7 @@
 <LM>w#w-ln94207-42-p2s1Bw27</LM>
 </w.rf>
 <form>Olimpijí</form>
-<tag lemma="Olimpija_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Olimpija_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-42-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-ln94207-42-p2s2w5</LM>
 </w.rf>
 <form>Jorgen</form>
-<tag lemma="Jorgen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jorgen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-42-p2s2w6">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln94207-42-p2s2w6</LM>
 </w.rf>
 <form>Petterson</form>
-<tag lemma="Petterson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petterson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-42-p2s2w7">
 <src.rf>manual</src.rf>

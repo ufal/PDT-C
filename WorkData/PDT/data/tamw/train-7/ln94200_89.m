@@ -48,7 +48,7 @@
 <LM>w#w-ln94200-89-p2s1Aw1</LM>
 </w.rf>
 <form>Špindlerův</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94200-89-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -73,8 +73,8 @@
 </w.rf>
 <form>jop</form>
 <tag>
-<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-89-p2s1Aw5">
@@ -141,7 +141,7 @@
 <LM>w#w-ln94200-89-p2s1Bw6</LM>
 </w.rf>
 <form>Špindlerově</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94200-89-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-89-p2s1Bw12">
@@ -201,8 +201,8 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-89-p2s1Bw14">
@@ -622,7 +622,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-89-p2s3w30">
@@ -640,8 +640,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-89-p2s3w32">

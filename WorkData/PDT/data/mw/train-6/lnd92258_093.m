@@ -53,7 +53,7 @@
 <LM>w#w-lnd92258-093-p2s1w3</LM>
 </w.rf>
 <form>Tito</form>
-<tag lemma="Tito_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tito_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-093-p2s1w4">
 <src.rf>manual</src.rf>
@@ -95,8 +95,8 @@
 <form>Brioni</form>
 <tag>
 <AM lemma="Brioni_;G" src="orig" selected="1">NNNXX-----A----</AM>
-<AM lemma="Brioni_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Brioni_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Brioni_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Brioni_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-093-p2s1w9">
@@ -137,7 +137,7 @@
 <LM>w#w-lnd92258-093-p2s1w13</LM>
 </w.rf>
 <form>Kádárovou</form>
-<tag lemma="Kádárův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Kádárův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-lnd92258-093-p2s1w14">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-lnd92258-093-p2s2w7</LM>
 </w.rf>
 <form>Nagy</form>
-<tag lemma="Nagy-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nagy-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-093-p2s2w8">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-lnd92258-093-p2s4w1</LM>
 </w.rf>
 <form>Kádár</form>
-<tag lemma="Kádár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kádár_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-093-p2s4w2">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-lnd92258-093-p2s4w16</LM>
 </w.rf>
 <form>Nagyovi</form>
-<tag lemma="Nagy-2_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Nagy-2_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92258-093-p2s4w17">
 <src.rf>manual</src.rf>

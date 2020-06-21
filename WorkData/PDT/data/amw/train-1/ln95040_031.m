@@ -316,7 +316,7 @@
 <LM>w#w-ln95040-031-p2s2w18</LM>
 </w.rf>
 <form>Kellyho</form>
-<tag lemma="Kelly_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kelly_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-031-p2s2w19">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <form>Jol</form>
 <tag>
 <AM lemma="jola" src="orig">NNFP2-----A----</AM>
-<AM lemma="Jol_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jol_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-031-p2s4w9">

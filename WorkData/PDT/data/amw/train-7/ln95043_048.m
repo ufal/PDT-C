@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-048-p1s1w1</LM>
 </w.rf>
 <form>Lebeď</form>
-<tag lemma="Lebeď_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lebeď_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-048-p1s1w2">
 <src.rf>manual</src.rf>
@@ -200,9 +200,9 @@
 </w.rf>
 <form>Time</form>
 <tag>
-<AM lemma="Time_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Time_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="time_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="time_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Time-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -244,7 +244,7 @@
 <LM>w#w-ln95043-048-p2s1Bw19</LM>
 </w.rf>
 <form>Lebeď</form>
-<tag lemma="Lebeď_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lebeď_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-048-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -1242,7 +1242,7 @@
 <LM>w#w-ln95043-048-p2s9w1</LM>
 </w.rf>
 <form>Lebeď</form>
-<tag lemma="Lebeď_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lebeď_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-048-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-ln95043-048-p2s10w14</LM>
 </w.rf>
 <form>Gračova</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-048-p2s10w15">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Roxy-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Roxy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s1w4">
@@ -94,7 +94,7 @@
 <LM>w#w-lnd94103-099-p1s2w5</LM>
 </w.rf>
 <form>Shakespearova</form>
-<tag lemma="Shakespearův_;S_^(*2e)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Shakespearův_;Y_^(*2e)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-lnd94103-099-p1s2w6">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-lnd94103-099-p1s2w10</LM>
 </w.rf>
 <form>Nebeského</form>
-<tag lemma="Nebeský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nebeský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-099-p1s2w11">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Roxy-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Roxy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s2w21">
@@ -297,7 +297,7 @@
 <LM>w#w-lnd94103-099-p1s3w8</LM>
 </w.rf>
 <form>Linhartovy</form>
-<tag lemma="Linhartův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Linhartův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94103-099-p1s3w9">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-lnd94103-099-p1s4w6</LM>
 </w.rf>
 <form>Jarošové</form>
-<tag lemma="Jarošová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Jarošová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-099-p1s4w7">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-lnd94103-099-p1s4w18</LM>
 </w.rf>
 <form>Beránek</form>
-<tag lemma="Beránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-099-p1s4w19">
 <src.rf>manual</src.rf>
@@ -903,9 +903,9 @@
 </w.rf>
 <form>ola</form>
 <tag>
-<AM lemma="ola-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ola-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ola-77" src="manual">F%-------------</AM>
-<AM lemma="ola-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ola-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s8w3">

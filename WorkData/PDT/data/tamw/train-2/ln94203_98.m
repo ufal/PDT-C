@@ -69,7 +69,7 @@
 <LM>w#w-ln94203-98-p2s1Aw2</LM>
 </w.rf>
 <form>Imrych</form>
-<tag lemma="Imrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Imrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-98-p2s1B">
@@ -537,7 +537,7 @@
 <LM>w#w-ln94203-98-p2s2w33</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-98-p2s2w34">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-ln94203-98-p3s3w17</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-98-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1494,7 +1494,7 @@
 <LM>w#w-ln94203-98-p3s7w3</LM>
 </w.rf>
 <form>Svobody</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-98-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1930,7 +1930,7 @@
 <LM>w#w-ln94203-98-p3s9w15</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-98-p3s9w16">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <LM>w#w-ln94203-98-p4s1w2</LM>
 </w.rf>
 <form>Lawson</form>
-<tag lemma="Lawson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lawson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-98-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2565,7 +2565,7 @@
 <LM>w#w-ln94203-98-p4s4w13</LM>
 </w.rf>
 <form>Lawson</form>
-<tag lemma="Lawson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lawson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-98-p4s4w14">
 <src.rf>manual</src.rf>
@@ -3133,7 +3133,7 @@
 <LM>w#w-ln94203-98-p5s4w38</LM>
 </w.rf>
 <form>Lawson</form>
-<tag lemma="Lawson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lawson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-98-p5s4w39">
 <src.rf>manual</src.rf>
@@ -3239,7 +3239,7 @@
 <LM>w#w-ln94203-98-p6s1w12</LM>
 </w.rf>
 <form>Schreiber</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-98-p6s1w13">
 <src.rf>manual</src.rf>
@@ -3678,7 +3678,7 @@
 <LM>w#w-ln94203-98-p6s3w23</LM>
 </w.rf>
 <form>Schreiber</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-98-p6s3w24">
 <src.rf>manual</src.rf>

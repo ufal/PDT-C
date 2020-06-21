@@ -78,8 +78,8 @@
 </w.rf>
 <form>jpk</form>
 <tag>
-<AM lemma="jpk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jpk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jpk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jpk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-018-p2s1w4">
@@ -435,7 +435,7 @@
 </w.rf>
 <form>Air</form>
 <tag>
-<AM lemma="Air_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Air_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -445,7 +445,7 @@
 <LM>w#w-mf930702-018-p3s1w20</LM>
 </w.rf>
 <form>Terrex</form>
-<tag lemma="Terrex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Terrex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-018-p3s1w21">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-mf930702-018-p4s1w2</LM>
 </w.rf>
 <form>Slovairu</form>
-<tag lemma="Slovair_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovair_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-018-p4s1w3">
 <src.rf>manual</src.rf>

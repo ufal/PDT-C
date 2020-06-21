@@ -468,7 +468,7 @@
 </w.rf>
 <form>Zapatovské</form>
 <tag>
-<AM lemma="Zapatovský_;K" src="orig">AAFS2----1A----</AM>
+<AM lemma="Zapatovský_;m" src="orig">AAFS2----1A----</AM>
 <AM lemma="zapatovský" src="auto">AAFP1----1A----</AM>
 <AM lemma="zapatovský" src="auto">AAFP4----1A----</AM>
 <AM lemma="zapatovský" src="auto">AAFP5----1A----</AM>
@@ -531,7 +531,7 @@
 </w.rf>
 <form>EZLN</form>
 <tag>
-<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EZLN_:B_;m_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EZLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -669,7 +669,7 @@
 <form>Casas</form>
 <tag>
 <AM lemma="Casas_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Casas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Casas_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Casas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -751,7 +751,7 @@
 <LM>w#w-ln95044-082-p2s4w22</LM>
 </w.rf>
 <form>Ruize</form>
-<tag lemma="Ruiz_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruiz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-082-p2s4w23">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 </w.rf>
 <form>EZLN</form>
 <tag>
-<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EZLN_:B_;m_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EZLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

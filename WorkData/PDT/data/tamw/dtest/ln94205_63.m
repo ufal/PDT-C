@@ -618,7 +618,7 @@
 <LM>w#w-ln94205-63-p3s1w25</LM>
 </w.rf>
 <form>Marlboro</form>
-<tag lemma="Marlboro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Marlboro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-63-p3s1w26">
 <src.rf>manual</src.rf>

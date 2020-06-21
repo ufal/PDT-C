@@ -213,7 +213,7 @@
 <LM>w#w-mf930701-159-p2s1w18</LM>
 </w.rf>
 <form>Gusejnov</form>
-<tag lemma="Gusejnov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gusejnov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-159-p2s1w19">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-mf930701-159-p3s1w1</LM>
 </w.rf>
 <form>Gusejnov</form>
-<tag lemma="Gusejnov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gusejnov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-159-p3s1w2">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf930701-159-p3s1w23</LM>
 </w.rf>
 <form>Elčibeje</form>
-<tag lemma="Elčibej_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Elčibej_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-159-p3s1w24">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-mf930701-159-p4s1w1</LM>
 </w.rf>
 <form>Gusejnov</form>
-<tag lemma="Gusejnov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gusejnov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-159-p4s1w2">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-mf930701-159-p4s1w26</LM>
 </w.rf>
 <form>Gejdara</form>
-<tag lemma="Gejdar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gejdar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-159-p4s1w27">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-mf930701-159-p4s1w27</LM>
 </w.rf>
 <form>Alijeva</form>
-<tag lemma="Alijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Alijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-159-p4s1w28">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-mf930701-159-p5s1w3</LM>
 </w.rf>
 <form>Elčibej</form>
-<tag lemma="Elčibej_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Elčibej_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-159-p5s1w4">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-mf930701-159-p5s1w8</LM>
 </w.rf>
 <form>Gusejnov</form>
-<tag lemma="Gusejnov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gusejnov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-159-p5s1w9">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-mf930701-159-p5s1w18</LM>
 </w.rf>
 <form>Alijeva</form>
-<tag lemma="Alijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Alijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-159-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-mf930701-159-p5s2w1</LM>
 </w.rf>
 <form>Gusejnova</form>
-<tag lemma="Gusejnov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gusejnov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-159-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 </w.rf>
 <form>UPI</form>
 <tag>
-<AM lemma="UPI-1_:B_;K_,t_^(United_Press_International)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="UPI-1_:B_;m_,t_^(United_Press_International)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="UPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1314,7 +1314,7 @@
 <LM>w#w-mf930701-159-p5s3w21</LM>
 </w.rf>
 <form>Elčibejův</form>
-<tag lemma="Elčibejův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Elčibejův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930701-159-p5s3w22">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-mf930701-159-p5s4w2</LM>
 </w.rf>
 <form>Alijevův</form>
-<tag lemma="Alijevův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Alijevův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930701-159-p5s4w3">
 <src.rf>manual</src.rf>
@@ -1372,7 +1372,7 @@
 <LM>w#w-mf930701-159-p5s4w5</LM>
 </w.rf>
 <form>Gusejnův</form>
-<tag lemma="Gusejnův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Gusejnův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930701-159-p5s4w6">
 <src.rf>manual</src.rf>

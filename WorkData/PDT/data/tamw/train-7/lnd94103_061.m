@@ -2303,7 +2303,7 @@
 <LM>w#w-lnd94103-061-p1s13w4</LM>
 </w.rf>
 <form>Zámka</form>
-<tag lemma="Zámek-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zámek-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-061-p1s13w5">
 <src.rf>manual</src.rf>

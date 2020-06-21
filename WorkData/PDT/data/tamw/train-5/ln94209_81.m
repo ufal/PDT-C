@@ -89,7 +89,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -138,7 +138,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -207,7 +207,7 @@
 <tag>
 <AM lemma="Ťing_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Ťing" src="manual">S2--------A----</AM>
-<AM lemma="Ťing-2_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ťing-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw19">
@@ -228,7 +228,7 @@
 <AM lemma="i-5_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="i-2" src="auto">TT-------------</AM>
-<AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="i-33" src="auto">Q3-------------</AM>
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="i_;Y" src="manual">NNFXX-----A----</AM>
@@ -342,7 +342,7 @@
 <LM>w#w-ln94209-81-p2s2w7</LM>
 </w.rf>
 <form>Thomsonové</form>
-<tag lemma="Thomsonová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Thomsonová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-81-p2s2w8">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-ln94209-81-p2s3w3</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="Černá_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Černá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-81-p2s3w4">
 <src.rf>manual</src.rf>
@@ -892,14 +892,14 @@
 </w.rf>
 <form>Taj</form>
 <tag>
-<AM lemma="Taj_;S" src="orig">NNFXX-----A----</AM>
+<AM lemma="Taj_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="taj" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="taj" src="auto">NNIS4-----A----</AM>
 <AM lemma="tajit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="tajit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="tát" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="tát" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="Taj_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Taj_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-81-p2s5w4">

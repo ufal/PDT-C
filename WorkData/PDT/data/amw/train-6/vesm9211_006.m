@@ -860,7 +860,7 @@
 </w.rf>
 <form>ČSAV</form>
 <tag>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6550,7 +6550,7 @@
 <LM>w#w-vesm9211-006-p11s1w1</LM>
 </w.rf>
 <form>Dš</form>
-<tag lemma="Dš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="Dš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 </s>
 </mdata>

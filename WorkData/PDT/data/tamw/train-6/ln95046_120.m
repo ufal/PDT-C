@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-120-p1s1w1</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-120-p1s1w2">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-ln95046-120-p1s1w5</LM>
 </w.rf>
 <form>Sharan</form>
-<tag lemma="Sharan_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sharan_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95046-120-p2s1A">
@@ -119,7 +119,7 @@
 <LM>w#w-ln95046-120-p2s1Bw6</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-120-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln95046-120-p2s1Bw11</LM>
 </w.rf>
 <form>Sharan</form>
-<tag lemma="Sharan_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sharan_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-120-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-ln95046-120-p3s1w4</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln95046-120-p3s1w5">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln95046-120-p4s1w1</LM>
 </w.rf>
 <form>Sharan</form>
-<tag lemma="Sharan_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sharan_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-120-p4s1w2">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-ln95046-120-p4s2w5</LM>
 </w.rf>
 <form>Sharan</form>
-<tag lemma="Sharan_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sharan_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-120-p4s2w6">
 <src.rf>manual</src.rf>
@@ -925,9 +925,9 @@
 </w.rf>
 <form>GL</form>
 <tag>
-<AM lemma="GL-2_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GL-2_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GL-1_:B_^(glejová_půda)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="GL-2_;B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="GL-2" src="manual">NNXXX-----A---8</AM>
 <AM lemma="GL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1135,7 +1135,7 @@
 <form>super</form>
 <tag>
 <AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Super-1_;R_^(druh_benzínu)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Super-1_;m_^(druh_benzínu)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p4s4w19">

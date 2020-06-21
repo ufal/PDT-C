@@ -183,7 +183,7 @@
 <LM>w#w-mf930713-042-p2s1Bw13</LM>
 </w.rf>
 <form>Pavlíka</form>
-<tag lemma="Pavlík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavlík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-042-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-mf930713-042-p4s1w7</LM>
 </w.rf>
 <form>Socha</form>
-<tag lemma="Socha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Socha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-042-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1906,7 +1906,7 @@
 <LM>w#w-mf930713-042-p5s1w8</LM>
 </w.rf>
 <form>Pavlík</form>
-<tag lemma="Pavlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-042-p5s1w9">
 <src.rf>manual</src.rf>

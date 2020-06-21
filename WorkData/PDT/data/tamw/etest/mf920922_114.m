@@ -160,7 +160,7 @@
 </w.rf>
 <form>DNP</form>
 <tag>
-<AM lemma="DNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DNP_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -318,7 +318,7 @@
 </w.rf>
 <form>RTL</form>
 <tag>
-<AM lemma="RTL-1_:B_;K_;y_^(TV_stanice_Lucembursko)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RTL-1_:B_;m_^(TV_stanice_Lucembursko)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RTL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -467,7 +467,7 @@
 </w.rf>
 <form>DNP</form>
 <tag>
-<AM lemma="DNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DNP_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -479,8 +479,8 @@
 </w.rf>
 <form>Thomas</form>
 <tag>
-<AM lemma="Thomas_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Thomas_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Thomas_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Thomas_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-114-p2s4w6">
@@ -489,7 +489,7 @@
 <LM>w#w-mf920922-114-p2s4w6</LM>
 </w.rf>
 <form>Dienel</form>
-<tag lemma="Dienel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dienel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-114-p2s4w7">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 </w.rf>
 <form>SA</form>
 <tag>
-<AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -621,7 +621,7 @@
 </w.rf>
 <form>DNP</form>
 <tag>
-<AM lemma="DNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DNP_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DNP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -763,8 +763,8 @@
 </w.rf>
 <form>Eckart</form>
 <tag>
-<AM lemma="Eckart_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Eckart_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Eckart_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eckart_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-114-p2s5w8">
@@ -773,7 +773,7 @@
 <LM>w#w-mf920922-114-p2s5w8</LM>
 </w.rf>
 <form>Werthebach</form>
-<tag lemma="Werthebach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Werthebach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-114-p2s5w9">
 <src.rf>manual</src.rf>

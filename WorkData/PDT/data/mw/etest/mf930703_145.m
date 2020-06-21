@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-145-p1s1w1</LM>
 </w.rf>
 <form>Kommersant</form>
-<tag lemma="Kommersant_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kommersant_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-145-p1s1w2">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-mf930703-145-p2s1w6</LM>
 </w.rf>
 <form>Kommersant</form>
-<tag lemma="Kommersant_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kommersant_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-145-p2s1w7">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-mf930703-145-p3s1w7</LM>
 </w.rf>
 <form>Kommersantu</form>
-<tag lemma="Kommersant_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Kommersant_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-145-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-mf930703-145-p4s1w2</LM>
 </w.rf>
 <form>Kargašina</form>
-<tag lemma="Kargašin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kargašin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-145-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1958,7 +1958,7 @@
 <LM>w#w-mf930703-145-p4s5w20</LM>
 </w.rf>
 <form>Kargašin</form>
-<tag lemma="Kargašin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kargašin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-145-p4s5w21">
 <src.rf>manual</src.rf>

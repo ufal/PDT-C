@@ -102,7 +102,7 @@
 </w.rf>
 <form>ČBS</form>
 <tag>
-<AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČBS_:B_;m_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -162,9 +162,9 @@
 </w.rf>
 <form>SBA</form>
 <tag>
-<AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SBA-3_:B_;m_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="SBA-3_:B_;K_^(" src="manual">NNFXX-----A---8</AM>
+<AM lemma="SBA-3_:B_;m_^(" src="manual">NNFXX-----A---8</AM>
 <AM lemma="SBA-2_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="SBA-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SBA-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -395,7 +395,7 @@
 </w.rf>
 <form>FIBA</form>
 <tag>
-<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -407,7 +407,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-081-p2s2w14">
@@ -424,7 +424,7 @@
 <LM>w#w-lnd92253-081-p2s2w15</LM>
 </w.rf>
 <form>Stankovičovi</form>
-<tag lemma="Stankovič_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Stankovič_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92253-081-p2s2w16">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -891,7 +891,7 @@
 </w.rf>
 <form>FIBA</form>
 <tag>
-<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1282,7 +1282,7 @@
 </w.rf>
 <form>ČBS</form>
 <tag>
-<AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČBS_:B_;m_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1422,7 +1422,7 @@
 </w.rf>
 <form>SBA</form>
 <tag>
-<AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SBA-3_:B_;m_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SBA-2_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="SBA-2_:B" src="manual">NNXXX-----A---8</AM>
@@ -1641,7 +1641,7 @@
 </w.rf>
 <form>FIBA</form>
 <tag>
-<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2488,7 +2488,7 @@
 </w.rf>
 <form>ČBS</form>
 <tag>
-<AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČBS_:B_;m_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2508,7 +2508,7 @@
 </w.rf>
 <form>SBA</form>
 <tag>
-<AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SBA-3_:B_;m_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SBA-3_:B_" src="manual">NNFXX-----A---8</AM>
 <AM lemma="SBA-2_:B" src="manual">NNXXX-----A----</AM>
@@ -2639,7 +2639,7 @@
 <LM>w#w-lnd92253-081-p3s1w2</LM>
 </w.rf>
 <form>DRTINOVÁ</form>
-<tag lemma="Drtinová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Drtinová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

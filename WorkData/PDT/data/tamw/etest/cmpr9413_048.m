@@ -522,7 +522,7 @@
 <LM>w#w-cmpr9413-048-p5s1w2</LM>
 </w.rf>
 <form>Zajkr</form>
-<tag lemma="Zajkr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zajkr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-048-p6s1">
@@ -828,7 +828,7 @@
 <LM>w#w-cmpr9413-048-p6s3w6</LM>
 </w.rf>
 <form>Zemana</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p6s3w7">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-cmpr9413-048-p7s4w30</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p7s4w31">
 <src.rf>manual</src.rf>
@@ -4085,7 +4085,7 @@
 <LM>w#w-cmpr9413-048-p16s1w5</LM>
 </w.rf>
 <form>dvanáctsettrojkou</form>
-<tag lemma="dvanáctsettrojka_;R_,h" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="dvanáctsettrojka_;m_,h" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p16s1w6">
 <src.rf>manual</src.rf>
@@ -5424,7 +5424,7 @@
 <LM>w#w-cmpr9413-048-p21s1w8</LM>
 </w.rf>
 <form>Jeka</form>
-<tag lemma="Jeka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jeka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p21s1w9">
 <src.rf>manual</src.rf>
@@ -5655,7 +5655,7 @@
 <LM>w#w-cmpr9413-048-p21s3w2</LM>
 </w.rf>
 <form>Jeka</form>
-<tag lemma="Jeka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jeka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p21s3w3">
 <src.rf>manual</src.rf>
@@ -5753,7 +5753,7 @@
 <LM>w#w-cmpr9413-048-p22s1w7</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p22s1w8">
 <src.rf>manual</src.rf>

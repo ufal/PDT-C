@@ -61,7 +61,7 @@
 <form>PAVLA</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-026-p1s1w7">
@@ -70,7 +70,7 @@
 <LM>w#w-mf920923-026-p1s1w7</LM>
 </w.rf>
 <form>RICHTRA</form>
-<tag lemma="Richtr_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Richtr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920923-026-p2s1">
@@ -82,7 +82,7 @@
 <form>Pavel</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-026-p2s1w2">
@@ -91,7 +91,7 @@
 <LM>w#w-mf920923-026-p2s1w2</LM>
 </w.rf>
 <form>Richter</form>
-<tag lemma="Richter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Richter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-026-p2s1w3">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-mf920923-026-p2s2w4</LM>
 </w.rf>
 <form>Švehlík</form>
-<tag lemma="Švehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-026-p2s2w5">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <form>Pavel</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-026-p2s4w10">
@@ -509,7 +509,7 @@
 <LM>w#w-mf920923-026-p2s4w10</LM>
 </w.rf>
 <form>Richter</form>
-<tag lemma="Richter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Richter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-026-p2s4w11">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 </w.rf>
 <form>Records</form>
 <tag>
-<AM lemma="Record_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Record_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Records-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -843,7 +843,7 @@
 <LM>w#w-mf920923-026-p3s1w10</LM>
 </w.rf>
 <form>Chadimy</form>
-<tag lemma="Chadima_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chadima_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-026-p3s1w11">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -1541,7 +1541,7 @@
 <LM>w#w-mf920923-026-p6s3w2</LM>
 </w.rf>
 <form>Holeček</form>
-<tag lemma="Holeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-026-p6s3w3">
 <src.rf>manual</src.rf>
@@ -2017,7 +2017,7 @@
 </w.rf>
 <form>Age</form>
 <tag>
-<AM lemma="age_,t" src="orig">NNXSX-----A----</AM>
+<AM lemma="age_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Age-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2181,7 +2181,7 @@
 <LM>w#w-mf920923-026-p8s3w10</LM>
 </w.rf>
 <form>Janotou</form>
-<tag lemma="Janota_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Janota_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920923-026-p8s3w11">
 <src.rf>manual</src.rf>
@@ -3061,7 +3061,7 @@
 <form>Pavlem</form>
 <tag>
 <AM lemma="Pavel-1_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Pavel_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-026-p10s2w10">
@@ -3070,7 +3070,7 @@
 <LM>w#w-mf920923-026-p10s2w10</LM>
 </w.rf>
 <form>Fajtem</form>
-<tag lemma="Fajt_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Fajt_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920923-026-p10s2w11">
 <src.rf>manual</src.rf>
@@ -4436,7 +4436,7 @@
 <LM>w#w-mf920923-026-p12s6w4</LM>
 </w.rf>
 <form>Švehlíka</form>
-<tag lemma="Švehlík_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Švehlík_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920923-026-p12s6w5">
 <src.rf>manual</src.rf>

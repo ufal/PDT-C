@@ -149,7 +149,7 @@
 <LM>w#w-ln94209-12-p2s1Bw10</LM>
 </w.rf>
 <form>Tisova</form>
-<tag lemma="Tisův_;S_^(*2o)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Tisův_;Y_^(*2o)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94209-12-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-ln94209-12-p2s2w6</LM>
 </w.rf>
 <form>Hradil</form>
-<tag lemma="Hradil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hradil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-12-p2s2w7">
 <src.rf>manual</src.rf>
@@ -363,8 +363,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-12-p2s2w16">

@@ -21,7 +21,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-028-p1s1w2">
@@ -40,7 +40,7 @@
 <LM>w#w-lnd92252-028-p1s2w1</LM>
 </w.rf>
 <form>KOVÁČ</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-028-p1s2w2">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -191,7 +191,7 @@
 <LM>w#w-lnd92252-028-p3s2w10</LM>
 </w.rf>
 <form>Kováče</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-028-p3s2w11">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <form>Vihorlat</form>
 <tag>
 <AM lemma="Vihorlat_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vihorlat_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Vihorlat_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-028-p3s3w15">
@@ -673,7 +673,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-028-p3s4w2">
@@ -690,7 +690,7 @@
 <LM>w#w-lnd92252-028-p3s4w3</LM>
 </w.rf>
 <form>Kováč</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-028-p3s4w4">
 <src.rf>manual</src.rf>

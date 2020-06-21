@@ -73,9 +73,9 @@
 </w.rf>
 <form>rep</form>
 <tag>
-<AM lemma="rep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rep-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="rep-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rep-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-065-p2s1Aw4">
@@ -366,7 +366,7 @@
 <LM>w#w-mf930713-065-p2s1Bw34</LM>
 </w.rf>
 <form>Mišíkovi</form>
-<tag lemma="Mišík_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Mišík_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930713-065-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf930713-065-p2s3w2</LM>
 </w.rf>
 <form>Mišík</form>
-<tag lemma="Mišík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mišík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-065-p2s3w3">
 <src.rf>manual</src.rf>

@@ -537,7 +537,7 @@
 <LM>w#w-mf920902-126-p2s3Bw27</LM>
 </w.rf>
 <form>Reniho</form>
-<tag lemma="Reni_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reni_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-126-p2s3Bw28">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-mf920902-126-p3s1w2</LM>
 </w.rf>
 <form>Reni</form>
-<tag lemma="Reni_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reni_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-126-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-mf920902-126-p3s3w12</LM>
 </w.rf>
 <form>Reniho</form>
-<tag lemma="Reni_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reni_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-126-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1175,8 +1175,8 @@
 </w.rf>
 <form>Simon</form>
 <tag>
-<AM lemma="Simon_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Simon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Simon_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Simon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-126-p3s4w8">
@@ -1185,7 +1185,7 @@
 <LM>w#w-mf920902-126-p3s4w8</LM>
 </w.rf>
 <form>Vouet</form>
-<tag lemma="Vouet_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vouet_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-126-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1468,7 +1468,7 @@
 <LM>w#w-mf920902-126-p3s5w14</LM>
 </w.rf>
 <form>Vouet</form>
-<tag lemma="Vouet_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vouet_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-126-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1635,7 +1635,7 @@
 <LM>w#w-mf920902-126-p3s6Aw18</LM>
 </w.rf>
 <form>Reniho</form>
-<tag lemma="Reni_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reni_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-126-p3s6Aw19">
 <src.rf>manual</src.rf>
@@ -1770,8 +1770,8 @@
 </w.rf>
 <form>Salome</form>
 <tag>
-<AM lemma="Salome_;S" src="auto">NNFXX-----A----</AM>
-<AM lemma="Salome_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Salome_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Salome_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-126-p3s6Bw10">

@@ -1284,7 +1284,7 @@
 <LM>w#w-ln95040-095-p2s7w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95040-095-p2s7w2">
 <src.rf>manual</src.rf>

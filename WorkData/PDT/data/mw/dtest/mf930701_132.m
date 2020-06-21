@@ -118,7 +118,7 @@
 </w.rf>
 <form>KRNAP</form>
 <tag>
-<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -515,7 +515,7 @@
 </w.rf>
 <form>KRNAP</form>
 <tag>
-<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1082,7 +1082,7 @@
 </w.rf>
 <form>KRNAP</form>
 <tag>
-<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1364,7 +1364,7 @@
 </w.rf>
 <form>KRNAP</form>
 <tag>
-<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1642,7 +1642,7 @@
 <LM>w#w-mf930701-132-p2s12w8</LM>
 </w.rf>
 <form>Špindlerova</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930701-132-p2s12w9">
 <src.rf>manual</src.rf>

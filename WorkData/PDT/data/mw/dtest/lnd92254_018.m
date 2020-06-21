@@ -19,7 +19,7 @@
 <LM>w#w-lnd92254-018-p1s1w1</LM>
 </w.rf>
 <form>LEKSELLŮV</form>
-<tag lemma="Leksellův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Leksellův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92254-018-p1s1w2">
 <src.rf>manual</src.rf>

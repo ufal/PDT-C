@@ -36,7 +36,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -205,7 +205,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -266,7 +266,7 @@
 <LM>w#w-lnd92251-013-p3s2w23</LM>
 </w.rf>
 <form>Moravčíkem</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92251-013-p3s2w24">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -546,7 +546,7 @@
 </w.rf>
 <form>SL</form>
 <tag>
-<AM lemma="SL_:B_;K_^(Sněmovna_lidu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SL_:B_;m_^(Sněmovna_lidu)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SL_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
@@ -568,7 +568,7 @@
 <LM>w#w-lnd92251-013-p3s4w7</LM>
 </w.rf>
 <form>Horáka</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-013-p3s4w8">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

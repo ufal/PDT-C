@@ -77,7 +77,7 @@
 <LM>w#w-ln95045-029-p2s1Aw5</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95045-029-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln95045-029-p2s1Bw1</LM>
 </w.rf>
 <form>Sydney</form>
-<tag lemma="Sydney_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Sydney_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95045-029-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95045-029-p2s1Cw20</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95045-029-p2s1Cw21">
 <src.rf>manual</src.rf>
@@ -662,8 +662,8 @@
 </w.rf>
 <form>Craig</form>
 <tag>
-<AM lemma="Craig_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Craig_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Craig_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Craig_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-029-p2s3w12">
@@ -672,7 +672,7 @@
 <LM>w#w-ln95045-029-p2s3w12</LM>
 </w.rf>
 <form>McLatchey</form>
-<tag lemma="McLatchey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McLatchey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-029-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-ln95045-029-p3s3w24</LM>
 </w.rf>
 <form>McLatchey</form>
-<tag lemma="McLatchey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McLatchey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-029-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <LM>w#w-ln95045-029-p4s1w25</LM>
 </w.rf>
 <form>McLatchey</form>
-<tag lemma="McLatchey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McLatchey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-029-p4s1w26">
 <src.rf>manual</src.rf>

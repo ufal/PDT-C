@@ -51,7 +51,7 @@
 <LM>w#w-ln95045-021-p1s1w5</LM>
 </w.rf>
 <form>Hardaway</form>
-<tag lemma="Hardaway_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hardaway_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-021-p1s1w6">
 <src.rf>manual</src.rf>

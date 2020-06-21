@@ -506,8 +506,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-059-p3s2w13">
@@ -643,7 +643,7 @@
 <LM>w#w-ln95049-059-p4s2w5</LM>
 </w.rf>
 <form>Kaliny</form>
-<tag lemma="Kalina_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalina_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-059-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-ln95049-059-p4s6w2</LM>
 </w.rf>
 <form>Kaliny</form>
-<tag lemma="Kalina_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalina_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-059-p4s6w3">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-ln95049-059-p4s7w9</LM>
 </w.rf>
 <form>Kalina</form>
-<tag lemma="Kalina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-059-p4s7w10">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-ln95049-059-p5s3w23</LM>
 </w.rf>
 <form>Kalina</form>
-<tag lemma="Kalina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-059-p5s3w24">
 <src.rf>manual</src.rf>
@@ -1819,7 +1819,7 @@
 <LM>w#w-ln95049-059-p5s4w22</LM>
 </w.rf>
 <form>Yatesové</form>
-<tag lemma="Yatesová_;S" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Yatesová_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95049-059-p5s4w23">
 <src.rf>manual</src.rf>
@@ -1844,9 +1844,9 @@
 </w.rf>
 <form>Chandos</form>
 <tag>
-<AM lemma="Chandos_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Chandos_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chandos-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Chandos_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Chandos_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chandos-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-059-p5s4w26">
@@ -2159,7 +2159,7 @@
 <AM lemma="Il_,t_^(it._člen)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Ilo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="il-2_,t_^(it._člen)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="il-99_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="il-99_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="il-1_,t_^(it._člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="Il-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2171,7 +2171,7 @@
 </w.rf>
 <form>Seminario</form>
 <tag>
-<AM lemma="Seminario_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Seminario_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Seminario-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2182,8 +2182,8 @@
 </w.rf>
 <form>Musicale</form>
 <tag>
-<AM lemma="Musicale_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Musical_;K" src="auto">NNIS5-----A----</AM>
+<AM lemma="Musicale_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Musical_;m" src="auto">NNIS5-----A----</AM>
 <AM lemma="musicale_,t" src="auto" recommended="1">XX-------------</AM>
 <AM lemma="Musicale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2218,7 +2218,7 @@
 <LM>w#w-ln95049-059-p7s1w15</LM>
 </w.rf>
 <form>Lesnem</form>
-<tag lemma="Lesne_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lesne_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-059-p7s1w16">
 <src.rf>manual</src.rf>
@@ -2664,7 +2664,7 @@
 <LM>w#w-ln95049-059-p7s4w21</LM>
 </w.rf>
 <form>Kalina</form>
-<tag lemma="Kalina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-059-p7s4w22">
 <src.rf>manual</src.rf>
@@ -2779,8 +2779,8 @@
 </w.rf>
 <form>Diapason</form>
 <tag>
-<AM lemma="Diapason_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Diapason_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Diapason_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Diapason_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-059-p7s5w14">

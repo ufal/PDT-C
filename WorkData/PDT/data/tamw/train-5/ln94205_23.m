@@ -20,8 +20,8 @@
 </w.rf>
 <form>Žoska</form>
 <tag>
-<AM lemma="Žosky_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Žosky_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Žoska_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p1s1w2">
@@ -206,8 +206,8 @@
 </w.rf>
 <form>Žoska</form>
 <tag>
-<AM lemma="Žosky_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Žosky_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Žoska_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p2s1Bw16">
@@ -290,7 +290,7 @@
 <LM>w#w-ln94205-23-p2s2w7</LM>
 </w.rf>
 <form>Tauš</form>
-<tag lemma="Tauš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tauš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-23-p2s2w8">
 <src.rf>manual</src.rf>
@@ -347,8 +347,8 @@
 </w.rf>
 <form>Žoska</form>
 <tag>
-<AM lemma="Žosky_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Žosky_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Žoska_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p3s1w6">
@@ -791,7 +791,7 @@
 <LM>w#w-ln94205-23-p3s5w10</LM>
 </w.rf>
 <form>Tauš</form>
-<tag lemma="Tauš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tauš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-23-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1137,8 +1137,8 @@
 </w.rf>
 <form>Žosku</form>
 <tag>
-<AM lemma="Žosky_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Žosky_;m" src="orig">NNFS4-----A----</AM>
+<AM lemma="Žoska_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p4s3w6">
@@ -1222,8 +1222,8 @@
 </w.rf>
 <form>Žoska</form>
 <tag>
-<AM lemma="Žosky_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Žosky_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Žoska_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p4s4w2">
@@ -1391,7 +1391,7 @@
 </w.rf>
 <form>IPF</form>
 <tag>
-<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

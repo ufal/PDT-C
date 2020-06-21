@@ -248,7 +248,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -985,7 +985,7 @@
 <LM>w#w-ln94203-115-p9s4w5</LM>
 </w.rf>
 <form>Sportky</form>
-<tag lemma="Sportka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sportka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-115-p9s4w6">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln94203-115-p9s5w5</LM>
 </w.rf>
 <form>Sportky</form>
-<tag lemma="Sportka_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sportka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-115-p9s5w6">
 <src.rf>manual</src.rf>

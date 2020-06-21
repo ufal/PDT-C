@@ -231,7 +231,7 @@
 <LM>w#w-ln94209-7-p2s1Bw19</LM>
 </w.rf>
 <form>Spolchemie</form>
-<tag lemma="Spolchemie_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Spolchemie_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-7-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-ln94209-7-p3s2w8</LM>
 </w.rf>
 <form>Spolchemii</form>
-<tag lemma="Spolchemie_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Spolchemie_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94209-7-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln94209-7-p4s3w1</LM>
 </w.rf>
 <form>Spolchemie</form>
-<tag lemma="Spolchemie_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Spolchemie_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-7-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-ln94209-7-p5s2w5</LM>
 </w.rf>
 <form>Spolchemií</form>
-<tag lemma="Spolchemie_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Spolchemie_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94209-7-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-7-p5s2w22">
@@ -1496,7 +1496,7 @@
 <LM>w#w-ln94209-7-p5s2w23</LM>
 </w.rf>
 <form>Rytíře</form>
-<tag lemma="Rytíř_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rytíř_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-7-p5s2w24">
 <src.rf>manual</src.rf>

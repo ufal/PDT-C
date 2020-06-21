@@ -256,7 +256,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -275,7 +275,7 @@
 </w.rf>
 <form>TKSR</form>
 <tag>
-<AM lemma="TKSR_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TKSR_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TKSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

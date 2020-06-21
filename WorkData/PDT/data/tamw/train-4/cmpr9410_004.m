@@ -195,7 +195,7 @@
 <LM>w#w-cmpr9410-004-p4s1w2</LM>
 </w.rf>
 <form>Doucek</form>
-<tag lemma="Doucek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doucek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-004-p4s1w3">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -432,7 +432,7 @@
 <LM>w#w-cmpr9410-004-p5s1w27</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9410-004-p5s1w28">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -532,7 +532,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1351,7 +1351,7 @@
 </w.rf>
 <form>IEC</form>
 <tag>
-<AM lemma="IEC-1_:B_;K_,t_^(International_Electrotechnical_Commission)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IEC-1_:B_;m_,t_^(International_Electrotechnical_Commission)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3271,7 +3271,7 @@
 <form>Testcomem</form>
 <tag>
 <AM lemma="Testcom_;Y" src="orig">NNIS7-----A----</AM>
-<AM lemma="Testcom_;K" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Testcom_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-004-p15s1w7">
@@ -3452,12 +3452,12 @@
 <AM lemma="CB-9_:B_,t_^(Civil_Band)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CB-10_:B_,t_^(County_Borough,_statutární_město)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CB-11_:B_,t_^(currency_bond,_cenný_papír)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="CB-12_:B_;K_,t_^(Citibank)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CB-12_:B_;m_,t_^(Citibank)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="CB-13_:B_,t_^(compte_bancaire,_bankovní_účet)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CB-14_:B_^(chlorbrommetanový_hasicí_přístroj)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CB-15_:B_,t_^(course_de_la_bourse,_burzovní_kurz)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="cb-3_:B_,t_^(contrabass)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Cb-4_:B_;H_^(columbium,_niob)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Cb-4_:B_;U_^(columbium,_niob)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Cb-5_:B_,t_^(cumulonimbus,_dešťová_kupa_[druh_oblaku])" src="auto">NNIXX-----A---8</AM>
 <AM lemma="contrabasso_:B_,t_^(kontrabas)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="cb-1_:B_,t_^(cashbook,_pokladní_kniha)" src="auto">NNFXX-----A---8</AM>
@@ -4584,7 +4584,7 @@
 <LM>w#w-cmpr9410-004-p21s1w2</LM>
 </w.rf>
 <form>Homolka</form>
-<tag lemma="Homolka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Homolka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-004-p21s1w3">
 <src.rf>manual</src.rf>

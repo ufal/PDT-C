@@ -53,7 +53,7 @@
 <LM>w#w-vesm9211-058-p2s1w2</LM>
 </w.rf>
 <form>KOMÁREK</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-058-p3s1">
@@ -312,7 +312,7 @@
 </w.rf>
 <form>Age</form>
 <tag>
-<AM lemma="Age_;m_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Age_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Age-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1390,7 +1390,7 @@
 </w.rf>
 <form>Age</form>
 <tag>
-<AM lemma="Age_;m_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Age_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Age-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2324,7 +2324,7 @@
 </w.rf>
 <form>Messe</form>
 <tag>
-<AM lemma="Messe_,t_^(německy_mše)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Messe_,t_^(německy_mše)" src="orig">NNFXX-----A----</AM>
 <AM lemma="missa_,t_,x_^(mše)" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="missa_,t_,x_^(mše)" src="auto">NNFS6-----A----</AM>
 <AM lemma="Messe_,t" src="manual">NNXXX-----A----</AM>
@@ -3195,7 +3195,7 @@
 <LM>w#w-vesm9211-058-p4s4w14</LM>
 </w.rf>
 <form>Guerrickovy</form>
-<tag lemma="Guerrickův_;S_^(*2)" src="orig" selected="1">AUIP4M---------</tag>
+<tag lemma="Guerrickův_;Y_^(*2)" src="orig" selected="1">AUIP4M---------</tag>
 </m>
 <m id="m-vesm9211-058-p4s4w15">
 <src.rf>manual</src.rf>
@@ -3373,7 +3373,7 @@
 <LM>w#w-vesm9211-058-p4s5w12</LM>
 </w.rf>
 <form>Faradayovu</form>
-<tag lemma="Faradayův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Faradayův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9211-058-p4s5w13">
 <src.rf>manual</src.rf>
@@ -3607,7 +3607,7 @@
 <LM>w#w-vesm9211-058-p4s6w27</LM>
 </w.rf>
 <form>plesiosaura</form>
-<tag lemma="pleziosaurus_;L" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="pleziosaurus_;U" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-058-p4s6w28">
 <src.rf>manual</src.rf>
@@ -4353,7 +4353,7 @@
 </w.rf>
 <form>Age</form>
 <tag>
-<AM lemma="Age_;m_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Age_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Age-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4742,7 +4742,7 @@
 </w.rf>
 <form>Age</form>
 <tag>
-<AM lemma="Age_;m_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Age_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Age-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4770,7 +4770,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-058-p5s3w12">
@@ -4787,7 +4787,7 @@
 <LM>w#w-vesm9211-058-p5s3w13</LM>
 </w.rf>
 <form>Capra</form>
-<tag lemma="Capra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Capra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-058-p5s3w14">
 <src.rf>manual</src.rf>
@@ -5230,10 +5230,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>

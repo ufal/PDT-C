@@ -2125,7 +2125,7 @@
 <LM>w#w-lnd92251-054-p4s2w8</LM>
 </w.rf>
 <form>Balzer</form>
-<tag lemma="Balzer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balzer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-054-p4s2w9">
 <src.rf>manual</src.rf>
@@ -4294,7 +4294,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-054-p6s1w12">
@@ -4311,7 +4311,7 @@
 <LM>w#w-lnd92251-054-p6s1w13</LM>
 </w.rf>
 <form>Motejlem</form>
-<tag lemma="Motejl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Motejl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92251-054-p6s1w14">
 <src.rf>manual</src.rf>
@@ -5250,7 +5250,7 @@
 <LM>w#w-lnd92251-054-p7s1w2</LM>
 </w.rf>
 <form>VYBULKA</form>
-<tag lemma="Vybulka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vybulka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -452,7 +452,7 @@
 <LM>w#w-lnd94103-148-p1s4w16</LM>
 </w.rf>
 <form>Zenkl</form>
-<tag lemma="Zenkl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zenkl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-148-p1s4w17">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-lnd94103-148-p1s5w36</LM>
 </w.rf>
 <form>Zenkl</form>
-<tag lemma="Zenkl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zenkl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-148-p1s5w37">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-lnd94103-148-p1s8w1</LM>
 </w.rf>
 <form>Zenkl</form>
-<tag lemma="Zenkl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zenkl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-148-p1s8w2">
 <src.rf>manual</src.rf>

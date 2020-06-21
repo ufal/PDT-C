@@ -81,7 +81,7 @@
 <LM>w#w-mf920925-093-p4s1w5</LM>
 </w.rf>
 <form>Čič</form>
-<tag lemma="Čič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-093-p4s1w6">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 <LM>w#w-mf920925-093-p4s1w8</LM>
 </w.rf>
 <form>Macek</form>
-<tag lemma="Macek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Macek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-093-p4s1w9">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-mf920925-093-p4s2w20</LM>
 </w.rf>
 <form>Macka</form>
-<tag lemma="Macek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Macek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-093-p4s2w21">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-mf920925-093-p4s2w24</LM>
 </w.rf>
 <form>Čalfova</form>
-<tag lemma="Čalfův_;S_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Čalfův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf920925-093-p4s2w25">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-mf920925-093-p4s3w19</LM>
 </w.rf>
 <form>Stráský</form>
-<tag lemma="Stráský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stráský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-093-p4s3w20">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-mf920925-093-p4s3w24</LM>
 </w.rf>
 <form>Baudyš</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-093-p4s3w25">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-mf920925-093-p5s5w11</LM>
 </w.rf>
 <form>Čalfova</form>
-<tag lemma="Čalfův_;S_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Čalfův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf920925-093-p5s5w12">
 <src.rf>manual</src.rf>
@@ -1715,7 +1715,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3716,7 +3716,7 @@
 <LM>w#w-mf920925-093-p7s10w10</LM>
 </w.rf>
 <form>Mackovi</form>
-<tag lemma="Macek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Macek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920925-093-p7s10w11">
 <src.rf>manual</src.rf>
@@ -4240,7 +4240,7 @@
 <LM>w#w-mf920925-093-p7s12w15</LM>
 </w.rf>
 <form>Macek</form>
-<tag lemma="Macek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Macek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-093-p7s12w16">
 <src.rf>manual</src.rf>

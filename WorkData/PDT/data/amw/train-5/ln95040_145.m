@@ -183,7 +183,7 @@
 </w.rf>
 <form>DRAM</form>
 <tag>
-<AM lemma="DRAM_:B_;c_,t_^(Dyn._Random_access_memory)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DRAM_:B_,t_^(Dyn._Random_access_memory)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DRAM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -276,7 +276,7 @@
 </w.rf>
 <form>NEC</form>
 <tag>
-<AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="NEC-1_:B_;m_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="NEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -614,7 +614,7 @@
 <LM>w#w-ln95040-145-p4s1w12</LM>
 </w.rf>
 <form>Shakespearova</form>
-<tag lemma="Shakespearův_;S_^(*2e)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Shakespearův_;Y_^(*2e)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95040-145-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 </w.rf>
 <form>NEC</form>
 <tag>
-<AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="NEC-1_:B_;m_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="NEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1098,7 +1098,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p5s1w7">
@@ -1115,7 +1115,7 @@
 <LM>w#w-ln95040-145-p5s1w8</LM>
 </w.rf>
 <form>Sasakiho</form>
-<tag lemma="Sasaki_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sasaki_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-145-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 </w.rf>
 <form>DRAM</form>
 <tag>
-<AM lemma="DRAM_:B_;c_,t_^(Dyn._Random_access_memory)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DRAM_:B_,t_^(Dyn._Random_access_memory)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DRAM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1491,7 +1491,7 @@
 </w.rf>
 <form>NEC</form>
 <tag>
-<AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="NEC-1_:B_;m_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="NEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1574,7 +1574,7 @@
 <LM>w#w-ln95040-145-p6s2w12</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95040-145-p6s2w13">
 <src.rf>manual</src.rf>
@@ -1617,9 +1617,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p7s1w5">
@@ -1716,7 +1716,7 @@
 <LM>w#w-ln95040-145-p7s1w16</LM>
 </w.rf>
 <form>Hitachi</form>
-<tag lemma="Hitachi_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Hitachi_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95040-145-p7s1w17">
 <src.rf>manual</src.rf>
@@ -1732,7 +1732,7 @@
 <LM>w#w-ln95040-145-p7s1w18</LM>
 </w.rf>
 <form>Toshiba</form>
-<tag lemma="Toshiba_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toshiba_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-145-p7s1w19">
 <src.rf>manual</src.rf>
@@ -1860,7 +1860,7 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

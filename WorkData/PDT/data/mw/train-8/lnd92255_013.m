@@ -212,7 +212,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-013-p3s2w16">
@@ -229,7 +229,7 @@
 <LM>w#w-lnd92255-013-p3s2w17</LM>
 </w.rf>
 <form>Tuchyni</form>
-<tag lemma="Tuchyňa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tuchyňa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-013-p3s2w18">
 <src.rf>manual</src.rf>
@@ -302,7 +302,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -341,7 +341,7 @@
 <LM>w#w-lnd92255-013-p3s3w2</LM>
 </w.rf>
 <form>Tuchyňa</form>
-<tag lemma="Tuchyňa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tuchyňa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-013-p3s3w3">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-013-p3s5w2">
@@ -688,7 +688,7 @@
 <LM>w#w-lnd92255-013-p3s5w3</LM>
 </w.rf>
 <form>Tuchyňa</form>
-<tag lemma="Tuchyňa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tuchyňa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-013-p3s5w4">
 <src.rf>manual</src.rf>

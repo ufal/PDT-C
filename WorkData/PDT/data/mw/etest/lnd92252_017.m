@@ -79,7 +79,7 @@
 <LM>w#w-lnd92252-017-p3s1w3</LM>
 </w.rf>
 <form>fsch</form>
-<tag lemma="fsch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="fsch-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92252-017-p3s1w4">
 <src.rf>manual</src.rf>
@@ -154,8 +154,8 @@
 </w.rf>
 <form>MK</form>
 <tag>
-<AM lemma="MK-2_:B_;K_^(Mladí_konzervativci)" src="orig">NNMPX-----A---8</AM>
-<AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="MK-2_:B_;m_^(Mladí_konzervativci)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MK-1_:B_;m_^(min._kultury)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="MK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -320,8 +320,8 @@
 </w.rf>
 <form>MK</form>
 <tag>
-<AM lemma="MK-2_:B_;K_^(Mladí_konzervativci)" src="orig">NNMPX-----A---8</AM>
-<AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="MK-2_:B_;m_^(Mladí_konzervativci)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MK-1_:B_;m_^(min._kultury)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="MK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -503,7 +503,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-017-p3s4w9">
@@ -520,7 +520,7 @@
 <LM>w#w-lnd92252-017-p3s4w10</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-017-p3s4w11">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 </w.rf>
 <form>KDS</form>
 <tag>
-<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS_:B_;m_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -565,7 +565,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-017-p3s4w16">
@@ -582,7 +582,7 @@
 <LM>w#w-lnd92252-017-p3s4w17</LM>
 </w.rf>
 <form>Honajzer</form>
-<tag lemma="Honajzer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Honajzer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-017-p3s4w18">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -627,7 +627,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-017-p3s4w23">
@@ -644,7 +644,7 @@
 <LM>w#w-lnd92252-017-p3s4w24</LM>
 </w.rf>
 <form>Dvořák</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-017-p3s4w25">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 </w.rf>
 <form>KAN</form>
 <tag>
-<AM lemma="KAN_:B_;K_;p_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KAN_:B_;m_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KAN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -721,7 +721,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-017-p3s4w34">
@@ -738,7 +738,7 @@
 <LM>w#w-lnd92252-017-p3s4w35</LM>
 </w.rf>
 <form>Mencl</form>
-<tag lemma="Mencl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mencl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-017-p3s4w36">
 <src.rf>manual</src.rf>

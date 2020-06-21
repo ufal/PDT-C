@@ -652,7 +652,7 @@
 <LM>w#w-lnd92251-039-p3s2w15</LM>
 </w.rf>
 <form>Omega</form>
-<tag lemma="Omega_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Omega_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-039-p3s2w16">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-lnd92251-039-p3s2w17</LM>
 </w.rf>
 <form>Musilově</form>
-<tag lemma="Musilův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Musilův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92251-039-p3s2w18">
 <src.rf>manual</src.rf>

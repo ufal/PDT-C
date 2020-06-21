@@ -507,7 +507,7 @@
 <LM>w#w-lnd94104-071-p1s3w18</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-071-p1s3w19">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <form>Žaludem</form>
 <tag>
 <AM lemma="žalud-2" src="auto">NNIS7-----A----</AM>
-<AM lemma="Žalud_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Žalud_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-071-p1s3w21">
@@ -543,7 +543,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -579,7 +579,7 @@
 <LM>w#w-lnd94104-071-p1s4w2</LM>
 </w.rf>
 <form>Stoniš</form>
-<tag lemma="Stoniš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoniš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-071-p1s4w3">
 <src.rf>manual</src.rf>
@@ -2343,7 +2343,7 @@
 </w.rf>
 <form>PHARE</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="PHARE_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
@@ -2461,7 +2461,7 @@
 </w.rf>
 <form>PHARE</form>
 <tag>
-<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="PHARE_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
@@ -9035,7 +9035,7 @@
 <LM>w#w-lnd94104-071-p1s68w7</LM>
 </w.rf>
 <form>Privum</form>
-<tag lemma="Privum_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Privum_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-071-p1s68w8">
 <src.rf>manual</src.rf>
@@ -9149,7 +9149,7 @@
 <LM>w#w-lnd94104-071-p1s69Aw7</LM>
 </w.rf>
 <form>Mladá</form>
-<tag lemma="Mladá_;S" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mladá_;Y" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-071-p1s69Aw8">
 <src.rf>manual</src.rf>
@@ -9818,7 +9818,7 @@
 <form>Merta</form>
 <tag>
 <AM lemma="Merta-2_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Merta-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Merta-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

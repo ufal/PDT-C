@@ -54,11 +54,11 @@
 </w.rf>
 <form>hoj</form>
 <tag>
-<AM lemma="hoj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hoj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="hoj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hoj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-027-p2s1w4">
@@ -146,7 +146,7 @@
 <LM>w#w-lnd92255-027-p2s3w2</LM>
 </w.rf>
 <form>Podešvu</form>
-<tag lemma="Podešva_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Podešva_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92255-027-p2s3w3">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-lnd92255-027-p2s4w2</LM>
 </w.rf>
 <form>Graziani</form>
-<tag lemma="Graziani_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Graziani_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-027-p2s4w3">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-lnd92255-027-p2s6w2</LM>
 </w.rf>
 <form>Graziani</form>
-<tag lemma="Graziani_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Graziani_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-027-p2s6w3">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd92255-027-p2s7w2</LM>
 </w.rf>
 <form>Podešva</form>
-<tag lemma="Podešva_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Podešva_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-027-p2s7w3">
 <src.rf>manual</src.rf>

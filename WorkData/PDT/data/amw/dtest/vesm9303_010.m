@@ -92,7 +92,7 @@
 </w.rf>
 <form>NASA</form>
 <tag>
-<AM lemma="NASA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NASA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="NASA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -226,7 +226,7 @@
 </w.rf>
 <form>Bios</form>
 <tag>
-<AM lemma="BIOS_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="BIOS_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Bios-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -362,7 +362,7 @@
 <LM>w#w-vesm9303-010-p1s2w14</LM>
 </w.rf>
 <form>Heinleinově</form>
-<tag lemma="Heinleinův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Heinleinův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-vesm9303-010-p1s2w15">
 <src.rf>manual</src.rf>
@@ -613,9 +613,9 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
-<AM lemma="Nature-1_;K_^(časopis)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_^(časopis)" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-010-p1s3Aw2">
@@ -683,9 +683,9 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
-<AM lemma="Nature-1_;K_^(časopis)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_^(časopis)" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-010-p1s3Bw2">
@@ -1680,7 +1680,7 @@
 <LM>w#w-vesm9303-010-p1s8w2</LM>
 </w.rf>
 <form>Walsh</form>
-<tag lemma="Walsh_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walsh_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-010-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1816,7 +1816,7 @@
 <LM>w#w-vesm9303-010-p1s8w19</LM>
 </w.rf>
 <form>Oglesbyho</form>
-<tag lemma="Oglesby_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Oglesby_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-010-p1s8w20">
 <src.rf>manual</src.rf>
@@ -1832,7 +1832,7 @@
 <LM>w#w-vesm9303-010-p1s8w21</LM>
 </w.rf>
 <form>Saltzmana</form>
-<tag lemma="Saltzman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Saltzman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-010-p1s8w22">
 <src.rf>manual</src.rf>
@@ -1849,9 +1849,9 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
-<AM lemma="Nature-1_;K_^(časopis)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_^(časopis)" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-010-p1s8w24">
@@ -2377,9 +2377,9 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
-<AM lemma="Nature-1_;K_^(časopis)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_^(časopis)" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-010-p1s10Aw2">
@@ -3038,7 +3038,7 @@
 </w.rf>
 <form>Vipera</form>
 <tag>
-<AM lemma="Vipera_;L_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Vipera_;U_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Vipera-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3049,7 +3049,7 @@
 </w.rf>
 <form>berus</form>
 <tag>
-<AM lemma="berus_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="berus_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="berus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3142,7 +3142,7 @@
 </w.rf>
 <form>Sr</form>
 <tag>
-<AM lemma="Sr_:B_;H" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Sr_:B_;U" src="orig">NNNXX-----A---8</AM>
 <AM lemma="steradián_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
@@ -3389,8 +3389,8 @@
 </w.rf>
 <form>Nature</form>
 <tag>
-<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Nature-1_;K_^(časopis)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-1_;m_^(časopis)" src="manual">NNIXX-----A----</AM>
 <AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3596,7 +3596,7 @@
 <LM>w#w-vesm9303-010-p1s16Cw12</LM>
 </w.rf>
 <form>Caldeiry</form>
-<tag lemma="Caldeira_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Caldeira_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-010-p1s16Cw13">
 <src.rf>manual</src.rf>
@@ -3612,7 +3612,7 @@
 <LM>w#w-vesm9303-010-p1s16Cw14</LM>
 </w.rf>
 <form>Kastingse</form>
-<tag lemma="Kastings_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kastings_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-010-p1s16Cw15">
 <src.rf>manual</src.rf>

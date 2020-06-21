@@ -62,7 +62,7 @@
 </w.rf>
 <form>NLN</form>
 <tag>
-<AM lemma="NLN_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="NLN_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln94200-139-p4s1w4</LM>
 </w.rf>
 <form>Planerové</form>
-<tag lemma="Planerová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Planerová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-139-p4s1w5">
 <src.rf>manual</src.rf>

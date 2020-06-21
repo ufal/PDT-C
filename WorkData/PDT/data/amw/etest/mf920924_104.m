@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-104-p1s1w2</LM>
 </w.rf>
 <form>Hrdina</form>
-<tag lemma="Hrdina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrdina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p1s1w3">
 <src.rf>manual</src.rf>
@@ -44,8 +44,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-104-p1s1w5">
@@ -465,7 +465,7 @@
 <LM>w#w-mf920924-104-p2s3w27</LM>
 </w.rf>
 <form>Stanley</form>
-<tag lemma="Stanley_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stanley_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s3w28">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 </w.rf>
 <form>Cupu</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
 <AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -492,7 +492,7 @@
 <LM>w#w-mf920924-104-p2s3w30</LM>
 </w.rf>
 <form>Hrdina</form>
-<tag lemma="Hrdina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrdina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s3w31">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NHL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -819,7 +819,7 @@
 <LM>w#w-mf920924-104-p2s5w8</LM>
 </w.rf>
 <form>Hajdušek</form>
-<tag lemma="Hajdušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hajdušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s5w9">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-mf920924-104-p2s5w10</LM>
 </w.rf>
 <form>Pěnička</form>
-<tag lemma="Pěnička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pěnička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s5w11">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-mf920924-104-p2s5w14</LM>
 </w.rf>
 <form>Honc</form>
-<tag lemma="Honc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Honc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s5w15">
 <src.rf>manual</src.rf>
@@ -925,12 +925,12 @@
 <form>EC</form>
 <tag>
 <AM lemma="EC-98_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EC-1_:B_;K_,t_^(Episcopal_Church)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EC-2_:B_;K_,t_^(European_Council)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EC-3_:B_;K_,t_^(European_Council)" src="auto">NNFXX-----A----</AM>
+<AM lemma="EC-1_:B_;m_,t_^(Episcopal_Church)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-2_:B_;m_,t_^(European_Council)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-3_:B_;m_,t_^(European_Council)" src="auto">NNFXX-----A----</AM>
 <AM lemma="EC-4_:B_,t_^(Executive_Committee)" src="auto">NNIXX-----A----</AM>
 <AM lemma="EC-5_:B_,t_^(Executive_Council)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="EC-6_:B_;K_,t_^(European_Communities)" src="auto">NNNPX-----A----</AM>
+<AM lemma="EC-6_:B_;m_,t_^(European_Communities)" src="auto">NNNXX-----A----</AM>
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EC-7_:B" src="manual">NNXXX-----A---8</AM>
@@ -959,7 +959,7 @@
 <LM>w#w-mf920924-104-p2s5w24</LM>
 </w.rf>
 <form>Hrdinův</form>
-<tag lemma="Hrdinův_;S_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Hrdinův_;Y_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-mf920924-104-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1161,7 +1161,7 @@
 <LM>w#w-mf920924-104-p2s7w3</LM>
 </w.rf>
 <form>Hajduškem</form>
-<tag lemma="Hajdušek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hajdušek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-mf920924-104-p2s7w10</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <LM>w#w-mf920924-104-p2s12Aw2</LM>
 </w.rf>
 <form>Hrdina</form>
-<tag lemma="Hrdina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrdina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s12Aw3">
 <src.rf>manual</src.rf>
@@ -2181,7 +2181,7 @@
 <LM>w#w-mf920924-104-p2s13w6</LM>
 </w.rf>
 <form>Hrdina</form>
-<tag lemma="Hrdina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrdina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s13w7">
 <src.rf>manual</src.rf>
@@ -2233,8 +2233,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-104-p2s14w4">

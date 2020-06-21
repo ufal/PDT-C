@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-074-p1s1w2</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-074-p1s1w3">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-074-p1s1w5</LM>
 </w.rf>
 <form>Gregor</form>
-<tag lemma="Gregor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gregor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-074-p1s1w6">
 <src.rf>manual</src.rf>

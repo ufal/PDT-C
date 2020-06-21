@@ -419,7 +419,7 @@
 <LM>w#w-ln94208-97-p3s1w4</LM>
 </w.rf>
 <form>Stewart</form>
-<tag lemma="Stewart-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stewart-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-97-p3s1w5">
 <src.rf>manual</src.rf>

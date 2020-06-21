@@ -325,7 +325,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -344,7 +344,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -752,7 +752,7 @@
 <LM>w#w-mf920924-141-p3s5w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-141-p3s5w14">
 <src.rf>manual</src.rf>

@@ -352,7 +352,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-042-p2s4w8">
@@ -369,7 +369,7 @@
 <LM>w#w-lnd92254-042-p2s4w9</LM>
 </w.rf>
 <form>Pucherny</form>
-<tag lemma="Pucherna_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pucherna_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-042-p2s4w10">
 <src.rf>manual</src.rf>

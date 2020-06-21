@@ -167,7 +167,7 @@
 <LM>w#w-ln95046-010-p2s1Bw14</LM>
 </w.rf>
 <form>Wonky</form>
-<tag lemma="Wonka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wonka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-010-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-ln95046-010-p3s3w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95046-010-p3s3w12">
 <src.rf>manual</src.rf>
@@ -2668,8 +2668,8 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-010-p5s2w14">
@@ -3566,16 +3566,16 @@
 </w.rf>
 <form>CH</form>
 <tag>
-<AM lemma="Ch-4_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Ch-4_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ch-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Ch-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Ch-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ch-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="Ch-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="Ch-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Ch-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ch-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ch-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="Ch-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Ch-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Ch-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Ch-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="Ch-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ch-8_:B_,x_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="CH-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="ch-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
@@ -3706,7 +3706,7 @@
 <LM>w#w-ln95046-010-p6s3w8</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-010-p6s3w9">
 <src.rf>manual</src.rf>

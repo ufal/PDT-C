@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-56-p1s1w1</LM>
 </w.rf>
 <form>Mandelík</form>
-<tag lemma="Mandelík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandelík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-56-p1s1w2">
 <src.rf>manual</src.rf>
@@ -70,8 +70,8 @@
 </w.rf>
 <form>il</form>
 <tag>
-<AM lemma="il-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="il-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="il-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="il-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p2s1Aw4">
@@ -89,8 +89,8 @@
 </w.rf>
 <form>haš</form>
 <tag>
-<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="haš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p2s1Aw6">
@@ -496,8 +496,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p2s3w4">
@@ -546,7 +546,7 @@
 <LM>w#w-ln94204-56-p2s3w9</LM>
 </w.rf>
 <form>Mandelík</form>
-<tag lemma="Mandelík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandelík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-56-p2s3w10">
 <src.rf>manual</src.rf>
@@ -563,8 +563,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p2s3w12">
@@ -860,7 +860,7 @@
 <LM>w#w-ln94204-56-p3s2w19</LM>
 </w.rf>
 <form>Mandelík</form>
-<tag lemma="Mandelík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandelík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-56-p3s2w20">
 <src.rf>manual</src.rf>
@@ -919,8 +919,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p4s1w7">
@@ -1392,8 +1392,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p5s4w6">
@@ -1981,8 +1981,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p6s3w10">
@@ -2164,8 +2164,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p6s5w2">
@@ -2297,11 +2297,11 @@
 </w.rf>
 <form>Budinského</form>
 <tag>
-<AM lemma="Budinský_;S" src="orig">AAMS2----1A----</AM>
-<AM lemma="Budinski_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Budinski_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Budinský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Budinský_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Budinský_;Y" src="orig">AAMS2----1A----</AM>
+<AM lemma="Budinski_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Budinski_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Budinský_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Budinský_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p6s6w9">
@@ -2319,8 +2319,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p6s6w11">
@@ -2550,9 +2550,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p7s2w13">
@@ -2772,9 +2772,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p7s3w22">
@@ -2810,18 +2810,18 @@
 </w.rf>
 <form>Budinský</form>
 <tag>
-<AM lemma="Budinský_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Budinská_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Budinská_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Budinská_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Budinská_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Budinská_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Budinská_;S" src="auto">NNFS6-----A---6</AM>
-<AM lemma="Budinský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Budinský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Budinský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Budinský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Budinský_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Budinský_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Budinská_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Budinská_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Budinská_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Budinská_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Budinská_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Budinská_;Y" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Budinský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Budinský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Budinský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Budinský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Budinský_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-56-p7s4w2">

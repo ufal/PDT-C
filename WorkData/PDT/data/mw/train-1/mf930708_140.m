@@ -109,7 +109,7 @@
 <LM>w#w-mf930708-140-p2s1w4</LM>
 </w.rf>
 <form>hai</form>
-<tag lemma="hai-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="hai-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-140-p2s1w5">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930708-140-p2s1w23</LM>
 </w.rf>
 <form>Garamond</form>
-<tag lemma="Garamond_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Garamond_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-140-p2s1w24">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-mf930708-140-p2s2w12</LM>
 </w.rf>
 <form>Garamond</form>
-<tag lemma="Garamond_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Garamond_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-140-p2s2w13">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-mf930708-140-p3s1w10</LM>
 </w.rf>
 <form>Kittlera</form>
-<tag lemma="Kittler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kittler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-140-p3s1w11">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-mf930708-140-p3s1w19</LM>
 </w.rf>
 <form>Garamondu</form>
-<tag lemma="Garamond_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Garamond_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-140-p3s1w20">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-mf930708-140-p3s2w6</LM>
 </w.rf>
 <form>Hradecký</form>
-<tag lemma="Hradecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hradecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-140-p3s2w7">
 <src.rf>manual</src.rf>

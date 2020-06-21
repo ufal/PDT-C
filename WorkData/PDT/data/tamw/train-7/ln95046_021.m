@@ -27,7 +27,7 @@
 <LM>w#w-ln95046-021-p1s1w2</LM>
 </w.rf>
 <form>Jágrova</form>
-<tag lemma="Jágrův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Jágrův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95046-021-p1s1w3">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95046-021-p2s1Bw4</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -158,8 +158,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-021-p2s1Bw12">
@@ -433,7 +433,7 @@
 <LM>w#w-ln95046-021-p2s2w18</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s2w19">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln95046-021-p2s2w29</LM>
 </w.rf>
 <form>Nolan</form>
-<tag lemma="Nolan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nolan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s2w30">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-ln95046-021-p2s3w9</LM>
 </w.rf>
 <form>Straka</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s3w10">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -912,7 +912,7 @@
 <LM>w#w-ln95046-021-p2s5w12</LM>
 </w.rf>
 <form>Karpovcev</form>
-<tag lemma="Karpovcev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karpovcev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-ln95046-021-p2s6w9</LM>
 </w.rf>
 <form>Olczyk</form>
-<tag lemma="Olczyk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Olczyk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s6w10">
 <src.rf>manual</src.rf>

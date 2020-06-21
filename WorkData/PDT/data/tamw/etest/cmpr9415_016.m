@@ -1207,7 +1207,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-016-p8s1w2">
@@ -1225,8 +1225,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-016-p8s1w4">
@@ -2000,7 +2000,7 @@
 <LM>w#w-cmpr9415-016-p10s1w6</LM>
 </w.rf>
 <form>Choděra</form>
-<tag lemma="Choděra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Choděra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-016-p11s1">

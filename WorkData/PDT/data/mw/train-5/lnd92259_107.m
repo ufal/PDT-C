@@ -178,7 +178,7 @@
 <LM>w#w-lnd92259-107-p2s1w15</LM>
 </w.rf>
 <form>Galilei</form>
-<tag lemma="Galilei_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-107-p2s1w16">
 <src.rf>manual</src.rf>
@@ -4728,7 +4728,7 @@
 <LM>w#w-lnd92259-107-p9s1w2</LM>
 </w.rf>
 <form>VEIS</form>
-<tag lemma="Veis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

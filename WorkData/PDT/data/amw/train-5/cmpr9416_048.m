@@ -109,7 +109,7 @@
 <LM>w#w-cmpr9416-048-p3s1w3</LM>
 </w.rf>
 <form>Techagro</form>
-<tag lemma="Techagro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Techagro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p3s1w4">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-cmpr9416-048-p5s3w21</LM>
 </w.rf>
 <form>Washingtonova</form>
-<tag lemma="Washingtonův-1_;S_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Washingtonův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9416-048-p5s3w22">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-cmpr9416-048-p6s1w5</LM>
 </w.rf>
 <form>TECHAGRO</form>
-<tag lemma="Techagro_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Techagro_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2061,7 +2061,7 @@
 <LM>w#w-cmpr9416-048-p8s3w11</LM>
 </w.rf>
 <form>Riegrova</form>
-<tag lemma="Riegrův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Riegrův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9416-048-p8s3w12">
 <src.rf>manual</src.rf>
@@ -2469,8 +2469,8 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-2_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-2_:B_;m_^(tělovýchovná_jednota)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-048-p10s1w36">
@@ -3467,7 +3467,7 @@
 <LM>w#w-cmpr9416-048-p13s1w57</LM>
 </w.rf>
 <form>Valy</form>
-<tag lemma="Vala_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vala_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p13s1w58">
 <src.rf>manual</src.rf>
@@ -3741,7 +3741,7 @@
 </w.rf>
 <form>Industriekontakte</form>
 <tag>
-<AM lemma="Industriekontakt_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Industriekontakt_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Industriekontakte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3752,7 +3752,7 @@
 </w.rf>
 <form>Janowsky</form>
 <tag>
-<AM lemma="Janowsky_;K_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Janowsky_;m_,t" src="orig">NNMS1-----A----</AM>
 <AM lemma="Janowsky-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3813,7 +3813,7 @@
 <LM>w#w-cmpr9416-048-p15s2w10</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="Alfa_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Alfa_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p15s2w11">
 <src.rf>manual</src.rf>
@@ -3829,7 +3829,7 @@
 <LM>w#w-cmpr9416-048-p15s2w12</LM>
 </w.rf>
 <form>Omega</form>
-<tag lemma="Omega_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Omega_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p15s2w13">
 <src.rf>manual</src.rf>
@@ -3846,7 +3846,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3866,7 +3866,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-048-p15s2w17">
@@ -3885,7 +3885,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-048-p15s2w19">
@@ -4287,7 +4287,7 @@
 <LM>w#w-cmpr9416-048-p17s2w2</LM>
 </w.rf>
 <form>Agnar</form>
-<tag lemma="Agnar_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Agnar_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-cmpr9416-048-p17s2w3">
 <src.rf>manual</src.rf>
@@ -4296,7 +4296,7 @@
 </w.rf>
 <form>Bohemia</form>
 <tag>
-<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4307,7 +4307,7 @@
 </w.rf>
 <form>Tools</form>
 <tag>
-<AM lemma="Tool_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Tool_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Tools-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

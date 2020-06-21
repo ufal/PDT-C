@@ -70,8 +70,8 @@
 </w.rf>
 <form>luč</form>
 <tag>
-<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-090-p2s1Aw4">
@@ -270,7 +270,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-090-p2s2w7">
@@ -288,8 +288,8 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-090-p2s2w9">
@@ -314,7 +314,7 @@
 <LM>w#w-ln95049-090-p2s2w11</LM>
 </w.rf>
 <form>Fiatu</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95049-090-p2s2w12">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-ln95049-090-p2s2w12</LM>
 </w.rf>
 <form>Panda</form>
-<tag lemma="Panda_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Panda_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-090-p2s2w13">
 <src.rf>manual</src.rf>

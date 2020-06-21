@@ -137,7 +137,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -156,8 +156,8 @@
 </w.rf>
 <form>Golden</form>
 <tag>
-<AM lemma="Golden-2_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Golden_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Golden-2_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Golden_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="golden_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Golden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -169,8 +169,8 @@
 </w.rf>
 <form>State</form>
 <tag>
-<AM lemma="State_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="State_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="State_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="State_;G_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="status" src="auto">NNIS5-----A----</AM>
 <AM lemma="state_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="State-77" src="manual" selected="1">F%-------------</AM>
@@ -183,7 +183,7 @@
 </w.rf>
 <form>Warriors</form>
 <tag>
-<AM lemma="Warrior_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Warrior_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="warriors_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Warriors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -407,7 +407,7 @@
 </w.rf>
 <form>Golden</form>
 <tag>
-<AM lemma="Golden_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Golden_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="golden_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Golden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -419,8 +419,8 @@
 </w.rf>
 <form>State</form>
 <tag>
-<AM lemma="State_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="State_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="State_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="State_;G_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="status" src="auto">NNIS5-----A----</AM>
 <AM lemma="state_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="State-77" src="manual" selected="1">F%-------------</AM>
@@ -577,9 +577,9 @@
 </w.rf>
 <form>Clippers</form>
 <tag>
-<AM lemma="Clipper_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Clippers_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Clippers_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Clipper_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Clippers_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Clippers_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Clippers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -699,7 +699,7 @@
 </w.rf>
 <form>Knicks</form>
 <tag>
-<AM lemma="Knick_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Knick_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Knicks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

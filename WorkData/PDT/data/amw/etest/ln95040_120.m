@@ -233,7 +233,7 @@
 <LM>w#w-ln95040-120-p2s2w7</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-120-p2s2w8">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-ln95040-120-p2s4w4</LM>
 </w.rf>
 <form>Koukala</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-120-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-ln95040-120-p2s6w13</LM>
 </w.rf>
 <form>Smetanově</form>
-<tag lemma="Smetanův_;S_^(*2a)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95040-120-p2s6w14">
 <src.rf>manual</src.rf>

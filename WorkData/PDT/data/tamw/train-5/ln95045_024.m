@@ -36,7 +36,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -129,7 +129,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -151,7 +151,7 @@
 </w.rf>
 <form>Magic</form>
 <tag>
-<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magica_;m_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
 <AM lemma="Magic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -583,7 +583,7 @@
 <LM>w#w-ln95045-024-p3s2w8</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95045-024-p3s2w9">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln95045-024-p3s2w10</LM>
 </w.rf>
 <form>Neal</form>
-<tag lemma="Neal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-024-p3s2w11">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-ln95045-024-p3s2w17</LM>
 </w.rf>
 <form>Hardaway</form>
-<tag lemma="Hardaway_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hardaway_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-024-p3s2w18">
 <src.rf>manual</src.rf>

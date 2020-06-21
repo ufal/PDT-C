@@ -36,8 +36,8 @@
 </w.rf>
 <form>Academia</form>
 <tag>
-<AM lemma="Academia-1_;K_^(české_akad._nakladatelství)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Academia_;K_^(české_akad._nakladatelství)" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Academia-1_;m_^(české_akad._nakladatelství)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Academia_;m_^(české_akad._nakladatelství)" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Academia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -210,8 +210,8 @@
 </w.rf>
 <form>Academia</form>
 <tag>
-<AM lemma="Academia-1_;K_^(české_akad._nakladatelství)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Academia_;K_^(české_akad._nakladatelství)" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Academia-1_;m_^(české_akad._nakladatelství)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Academia_;m_^(české_akad._nakladatelství)" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Academia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -535,7 +535,7 @@
 <LM>w#w-ln95049-064-p2s2w28</LM>
 </w.rf>
 <form>Palackého</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-064-p2s2w29">
 <src.rf>manual</src.rf>
@@ -786,9 +786,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-064-p2s3w25">

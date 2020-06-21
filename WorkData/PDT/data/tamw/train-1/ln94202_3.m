@@ -229,7 +229,7 @@
 <LM>w#w-ln94202-3-p2s1Cw2</LM>
 </w.rf>
 <form>Kudlák</form>
-<tag lemma="Kudlák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kudlák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-3-p2s1Cw3">
 <src.rf>manual</src.rf>

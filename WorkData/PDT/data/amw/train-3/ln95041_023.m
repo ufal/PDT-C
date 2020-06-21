@@ -90,7 +90,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -110,7 +110,7 @@
 <form>Prokop</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS4-----A----</AM>
 <AM lemma="prokopnout" src="auto">VpYS----R-AAP-6</AM>
@@ -130,7 +130,7 @@
 <LM>w#w-ln95041-023-p2s1Aw8</LM>
 </w.rf>
 <form>Poštulkou</form>
-<tag lemma="Poštulka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Poštulka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-023-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -407,7 +407,7 @@
 <LM>w#w-ln95041-023-p2s2w20</LM>
 </w.rf>
 <form>Poštulky</form>
-<tag lemma="Poštulka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Poštulka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-023-p2s2w21">
 <src.rf>manual</src.rf>
@@ -433,8 +433,8 @@
 <form>Prokopa</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS2-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p2s2w24">
@@ -656,8 +656,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p3s1w6">
@@ -869,8 +869,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p4s1w15">
@@ -1183,7 +1183,7 @@
 <LM>w#w-ln95041-023-p4s2w36</LM>
 </w.rf>
 <form>Gottvald</form>
-<tag lemma="Gottvald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottvald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-023-p4s2w37">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <LM>w#w-ln95041-023-p5s1w8</LM>
 </w.rf>
 <form>Nápravník</form>
-<tag lemma="Nápravník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nápravník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-023-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1569,7 +1569,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1613,8 +1613,8 @@
 <form>Prokopa</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS2-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p6s1w17">
@@ -1631,7 +1631,7 @@
 <LM>w#w-ln95041-023-p6s1w18</LM>
 </w.rf>
 <form>Poštulky</form>
-<tag lemma="Poštulka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Poštulka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-023-p6s1w19">
 <src.rf>manual</src.rf>
@@ -1680,7 +1680,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1778,8 +1778,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p6s1w36">
@@ -1788,7 +1788,7 @@
 <LM>w#w-ln95041-023-p6s1w36</LM>
 </w.rf>
 <form>Károlyi</form>
-<tag lemma="Károlyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Károlyi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-023-p6s1w37">
 <src.rf>manual</src.rf>
@@ -2005,10 +2005,10 @@
 <form>Prokopovi</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS3-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto">NNMS6-----A----</AM>
-<AM lemma="Prokopův_;S_;Y_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Prokopův_;S_;Y_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Prokopův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Prokopův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p7s1w8">
@@ -2025,7 +2025,7 @@
 <LM>w#w-ln95041-023-p7s1w9</LM>
 </w.rf>
 <form>Poštulkou</form>
-<tag lemma="Poštulka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Poštulka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-023-p7s1w10">
 <src.rf>manual</src.rf>
@@ -2101,7 +2101,7 @@
 <form>Prokop</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prokop_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS4-----A----</AM>
 <AM lemma="prokopnout" src="auto">VpYS----R-AAP-6</AM>

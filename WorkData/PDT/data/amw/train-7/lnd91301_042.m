@@ -162,7 +162,7 @@
 <LM>w#w-lnd91301-042-p3s1w13</LM>
 </w.rf>
 <form>Hřebík</form>
-<tag lemma="Hřebík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hřebík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s1w14">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd91301-042-p3s3w8</LM>
 </w.rf>
 <form>BMW</form>
-<tag lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="BMW_:B_;m_^(vozidlo)" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-lnd91301-042-p3s6w31</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s6w32">
 <src.rf>manual</src.rf>

@@ -55,7 +55,7 @@
 <LM>w#w-ln94211-72-p2s1Bw2</LM>
 </w.rf>
 <form>Pečinka</form>
-<tag lemma="Pečinka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pečinka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-72-p2s1C">
@@ -1194,7 +1194,7 @@
 <LM>w#w-ln94211-72-p3s4w32</LM>
 </w.rf>
 <form>Peroutka</form>
-<tag lemma="Peroutka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peroutka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-72-p3s4w33">
 <src.rf>manual</src.rf>

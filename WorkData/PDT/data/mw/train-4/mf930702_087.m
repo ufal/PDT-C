@@ -19,7 +19,7 @@
 <LM>w#w-mf930702-087-p1s1w1</LM>
 </w.rf>
 <form>Taxisův</form>
-<tag lemma="Taxisův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Taxisův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930702-087-p1s1w2">
 <src.rf>manual</src.rf>
@@ -70,9 +70,9 @@
 </w.rf>
 <form>vit</form>
 <tag>
-<AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vit-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
-<AM lemma="vit-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vit-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-087-p2s1w4">
@@ -105,7 +105,7 @@
 <LM>w#w-mf930702-087-p2s1w7</LM>
 </w.rf>
 <form>Taxisův</form>
-<tag lemma="Taxisův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Taxisův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf930702-087-p2s1w8">
 <src.rf>manual</src.rf>

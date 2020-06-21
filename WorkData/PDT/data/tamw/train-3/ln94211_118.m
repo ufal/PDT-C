@@ -94,11 +94,11 @@
 </w.rf>
 <form>dr</form>
 <tag>
-<AM lemma="dr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p2s1Aw4">
@@ -206,8 +206,8 @@
 </w.rf>
 <form>ČOI</form>
 <tag>
-<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p2s1Bw12">
@@ -397,8 +397,8 @@
 </w.rf>
 <form>ČOI</form>
 <tag>
-<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p2s3w6">
@@ -557,8 +557,8 @@
 </w.rf>
 <form>ČOI</form>
 <tag>
-<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p3s1w3">
@@ -575,7 +575,7 @@
 <LM>w#w-ln94211-118-p3s1w4</LM>
 </w.rf>
 <form>Čáslavský</form>
-<tag lemma="Čáslavský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čáslavský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-118-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-ln94211-118-p4s2w22</LM>
 </w.rf>
 <form>Čáslavský</form>
-<tag lemma="Čáslavský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čáslavský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-118-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1285,8 +1285,8 @@
 </w.rf>
 <form>ČOI</form>
 <tag>
-<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČOI_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;m_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p4s4w5">
@@ -1632,7 +1632,7 @@
 <LM>w#w-ln94211-118-p4s6w11</LM>
 </w.rf>
 <form>Labeny</form>
-<tag lemma="Labena_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Labena_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-118-p4s6w12">
 <src.rf>manual</src.rf>

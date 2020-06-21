@@ -95,7 +95,7 @@
 <LM>w#w-ln94204-110-p2s1Bw5</LM>
 </w.rf>
 <form>Bělkevič</form>
-<tag lemma="Bělkevič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bělkevič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -235,7 +235,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -246,8 +246,8 @@
 </w.rf>
 <form>Hibernians</form>
 <tag>
-<AM lemma="Hibernian_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Hibernian_;K" src="manual" selected="1">NNMPX-----A----</AM>
+<AM lemma="Hibernian_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Hibernian_;m" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw24">
@@ -481,7 +481,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -499,7 +499,7 @@
 <LM>w#w-ln94204-110-p2s3w7</LM>
 </w.rf>
 <form>Bělkevičův</form>
-<tag lemma="Bělkevičův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Bělkevičův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94204-110-p2s3w8">
 <src.rf>manual</src.rf>

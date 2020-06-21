@@ -28,7 +28,7 @@
 </w.rf>
 <form>LUNSZ</form>
 <tag>
-<AM lemma="LUNSZ_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LUNSZ_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LUNSZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -133,7 +133,7 @@
 <LM>w#w-ln95045-078-p2s1Cw4</LM>
 </w.rf>
 <form>Zifčák</form>
-<tag lemma="Zifčák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zifčák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 </w.rf>
 <form>LUNSZ</form>
 <tag>
-<AM lemma="LUNSZ_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LUNSZ_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LUNSZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -281,7 +281,7 @@
 </w.rf>
 <form>ÚV</form>
 <tag>
-<AM lemma="ÚV_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ÚV-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -294,8 +294,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw24">
@@ -314,7 +314,7 @@
 <form>Štěpán</form>
 <tag>
 <AM lemma="Štěpán_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Štěpán_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štěpán_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw26">
@@ -794,7 +794,7 @@
 <LM>w#w-ln95045-078-p3s1w11</LM>
 </w.rf>
 <form>Zifčáka</form>
-<tag lemma="Zifčák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zifčák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-078-p3s1w12">
 <src.rf>manual</src.rf>

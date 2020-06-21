@@ -120,7 +120,7 @@
 <LM>w#w-mf920924-075-p2s1w9</LM>
 </w.rf>
 <form>BERKA</form>
-<tag lemma="Berka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-075-p3s1">

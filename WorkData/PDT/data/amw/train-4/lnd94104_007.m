@@ -78,8 +78,8 @@
 </w.rf>
 <form>ge</form>
 <tag>
-<AM lemma="ge-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ge-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ge-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ge-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-007-p1s2w4">
@@ -328,7 +328,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -365,8 +365,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-007-p1s5w4">
@@ -1439,7 +1439,7 @@
 <LM>w#w-lnd94104-007-p1s13Bw18</LM>
 </w.rf>
 <form>Kablo</form>
-<tag lemma="Kablo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kablo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94104-007-p1s13Bw19">
 <src.rf>manual</src.rf>
@@ -1599,7 +1599,7 @@
 </w.rf>
 <form>EGAP</form>
 <tag>
-<AM lemma="EGAP_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="EGAP_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="EGAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1700,7 +1700,7 @@
 </w.rf>
 <form>EGAP</form>
 <tag>
-<AM lemma="EGAP_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="EGAP_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="EGAP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -164,8 +164,8 @@
 </w.rf>
 <form>AMU</form>
 <tag>
-<AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;K_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s21w20">
@@ -409,8 +409,8 @@
 </w.rf>
 <form>AMU</form>
 <tag>
-<AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;K_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s22w21">
@@ -563,8 +563,8 @@
 </w.rf>
 <form>AMU</form>
 <tag>
-<AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;K_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s24w6">
@@ -864,8 +864,8 @@
 </w.rf>
 <form>AMU</form>
 <tag>
-<AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;K_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s25w29">
@@ -1344,8 +1344,8 @@
 </w.rf>
 <form>AMU</form>
 <tag>
-<AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;K_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s28w11">
@@ -1967,8 +1967,8 @@
 </w.rf>
 <form>AMU</form>
 <tag>
-<AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;K_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s32w12">
@@ -2415,8 +2415,8 @@
 </w.rf>
 <form>AMU</form>
 <tag>
-<AM lemma="AMU_:B_;K" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU_:B_;K_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AMU_:B_;m_^(Akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-068-p1s36w6">

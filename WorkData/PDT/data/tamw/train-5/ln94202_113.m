@@ -27,7 +27,7 @@
 <LM>w#w-ln94202-113-p1s1w2</LM>
 </w.rf>
 <form>Šimurka</form>
-<tag lemma="Šimurka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimurka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-113-p1s1w3">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-ln94202-113-p2s1Aw2</LM>
 </w.rf>
 <form>Viktorii</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-ln94202-113-p2s1Aw9</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-113-p2s1B">
@@ -153,7 +153,7 @@
 <LM>w#w-ln94202-113-p2s1Cw2</LM>
 </w.rf>
 <form>Viktorii</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-ln94202-113-p2s2w3</LM>
 </w.rf>
 <form>Pařízka</form>
-<tag lemma="Pařízek-1_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pařízek-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s2w4">
 <src.rf>manual</src.rf>
@@ -327,8 +327,8 @@
 </w.rf>
 <form>Bohemians</form>
 <tag>
-<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bohemians_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemians_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-113-p2s2w14">
@@ -345,7 +345,7 @@
 <LM>w#w-ln94202-113-p2s2w15</LM>
 </w.rf>
 <form>Šimurku</form>
-<tag lemma="Šimurka_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Šimurka_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s2w16">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-ln94202-113-p2s4w4</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s4w5">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-ln94202-113-p2s5w2</LM>
 </w.rf>
 <form>Šimurka</form>
-<tag lemma="Šimurka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimurka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s5w3">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-ln94202-113-p2s5w11</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s5w12">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-ln94202-113-p3s1w33</LM>
 </w.rf>
 <form>Kotrba</form>
-<tag lemma="Kotrba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotrba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-113-p3s1w34">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-ln94202-113-p3s3w1</LM>
 </w.rf>
 <form>Sopka</form>
-<tag lemma="Sopko_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Sopko_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-113-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1099,7 +1099,7 @@
 <LM>w#w-ln94202-113-p3s3w7</LM>
 </w.rf>
 <form>Gundu</form>
-<tag lemma="Gunda_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gunda_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-113-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-ln94202-113-p3s3w11</LM>
 </w.rf>
 <form>Frýdek</form>
-<tag lemma="Frýdek-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frýdek-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-113-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln94202-113-p3s3w21</LM>
 </w.rf>
 <form>Budku</form>
-<tag lemma="Budka_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Budka_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-113-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-ln94202-113-p3s4w6</LM>
 </w.rf>
 <form>Borovička</form>
-<tag lemma="Borovička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borovička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-113-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1379,9 +1379,9 @@
 </w.rf>
 <form>Viktorkou</form>
 <tag>
-<AM lemma="Viktorka_;K" src="orig">NNFS7-----A----</AM>
+<AM lemma="Viktorka_;m" src="orig">NNFS7-----A----</AM>
 <AM lemma="Viktorka-1_;Y_^(ženské_jméno)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto" selected="1">NNFS7-----A----</AM>
+<AM lemma="Viktorka-2_;m_,l_^(jméno_sport.klubu)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-113-p3s5w4">

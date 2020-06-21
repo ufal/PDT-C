@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-056-p1s1w2</LM>
 </w.rf>
 <form>Navrátil</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-056-p2s1">
@@ -79,7 +79,7 @@
 <LM>w#w-mf920924-056-p3s1w2</LM>
 </w.rf>
 <form>Navrátil</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-056-p4s1">
@@ -679,7 +679,7 @@
 <LM>w#w-mf920924-056-p6s1w13</LM>
 </w.rf>
 <form>Navrátil</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-056-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1303,7 +1303,7 @@
 <LM>w#w-mf920924-056-p7s1w4</LM>
 </w.rf>
 <form>Navrátila</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-056-p7s1w5">
 <src.rf>manual</src.rf>
@@ -2048,7 +2048,7 @@
 </w.rf>
 <form>NETOČNÝ</form>
 <tag>
-<AM lemma="Netočný_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Netočný_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="točný" src="auto">AAFP1----1N---6</AM>
 <AM lemma="točný" src="auto">AAFP4----1N---6</AM>
 <AM lemma="točný" src="auto">AAFP5----1N---6</AM>
@@ -2106,7 +2106,7 @@
 <LM>w#w-mf920924-056-p9s1w4</LM>
 </w.rf>
 <form>KEPAČ</form>
-<tag lemma="Kepač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kepač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

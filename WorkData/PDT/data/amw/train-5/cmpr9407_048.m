@@ -150,7 +150,7 @@
 </w.rf>
 <form>SPT</form>
 <tag>
-<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SPT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -160,7 +160,7 @@
 <LM>w#w-cmpr9407-048-p3s1w10</LM>
 </w.rf>
 <form>TELECOM</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-048-p4s1">
@@ -218,7 +218,7 @@
 <LM>w#w-cmpr9407-048-p4s1w7</LM>
 </w.rf>
 <form>RAYSA</form>
-<tag lemma="RAYSA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="RAYSA_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-048-p4s1w8">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-cmpr9407-048-p4s3w1</LM>
 </w.rf>
 <form>RAYSA</form>
-<tag lemma="RAYSA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="RAYSA_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-048-p4s3w2">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-cmpr9407-048-p6s1w2</LM>
 </w.rf>
 <form>Jánoška</form>
-<tag lemma="Jánoška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jánoška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-048-p8s1">
@@ -804,7 +804,7 @@
 <LM>w#w-cmpr9407-048-p8s1w7</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-048-p8s1w8">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-cmpr9407-048-p8s1w8</LM>
 </w.rf>
 <form>TELECOM</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-048-p8s1w9">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-cmpr9407-048-p11s2w2</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-048-p11s2w3">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-cmpr9407-048-p11s2w3</LM>
 </w.rf>
 <form>TELECOM</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-048-p11s2w4">
 <src.rf>manual</src.rf>
@@ -2566,7 +2566,7 @@
 <LM>w#w-cmpr9407-048-p15s1w47</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-048-p15s1w48">
 <src.rf>manual</src.rf>
@@ -2574,7 +2574,7 @@
 <LM>w#w-cmpr9407-048-p15s1w48</LM>
 </w.rf>
 <form>TELECOM</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-048-p15s1w49">
 <src.rf>manual</src.rf>
@@ -3596,7 +3596,7 @@
 <LM>w#w-cmpr9407-048-p18s1w12</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-048-p18s1w13">
 <src.rf>manual</src.rf>
@@ -3604,7 +3604,7 @@
 <LM>w#w-cmpr9407-048-p18s1w13</LM>
 </w.rf>
 <form>TELECOM</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-048-p18s1w14">
 <src.rf>manual</src.rf>
@@ -6002,7 +6002,7 @@
 <LM>w#w-cmpr9407-048-p25s3w9</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-048-p25s3w10">
 <src.rf>manual</src.rf>
@@ -6010,7 +6010,7 @@
 <LM>w#w-cmpr9407-048-p25s3w10</LM>
 </w.rf>
 <form>TELECOM</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-048-p25s3w11">
 <src.rf>manual</src.rf>
@@ -6122,7 +6122,7 @@
 <LM>w#w-cmpr9407-048-p25s3w24</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-048-p25s3w25">
 <src.rf>manual</src.rf>
@@ -6439,7 +6439,7 @@
 <LM>w#w-cmpr9407-048-p26s1w17</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="SPT-1_:B_;m_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-cmpr9407-048-p26s1w18">
 <src.rf>manual</src.rf>
@@ -6448,7 +6448,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>TELECOM</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-048-p26s1w19">
 <src.rf>manual</src.rf>

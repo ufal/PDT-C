@@ -333,7 +333,7 @@
 <LM>w#w-lnd92253-090-p1s1w32</LM>
 </w.rf>
 <form>TIGRID</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-090-p1s1w33">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 </w.rf>
 <form>red</form>
 <tag>
-<AM lemma="red-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="red-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>

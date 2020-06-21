@@ -191,7 +191,7 @@
 <LM>w#w-ln95044-073-p2s2w4</LM>
 </w.rf>
 <form>Černomyrdin</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-073-p2s2w5">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-ln95044-073-p2s5w8</LM>
 </w.rf>
 <form>Černomyrdina</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-073-p2s5w9">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-ln95044-073-p2s8w11</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95044-073-p2s8w12">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walesa</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-073-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-ln95044-073-p3s2w5</LM>
 </w.rf>
 <form>Černomyrdinem</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-073-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-ln95044-073-p3s4w8</LM>
 </w.rf>
 <form>Černomyrdin</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-073-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1683,7 +1683,7 @@
 <LM>w#w-ln95044-073-p3s4w44</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95044-073-p3s4w45">
 <src.rf>manual</src.rf>
@@ -1834,7 +1834,7 @@
 <LM>w#w-ln95044-073-p3s6w7</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95044-073-p3s6w8">
 <src.rf>manual</src.rf>
@@ -2099,7 +2099,7 @@
 <LM>w#w-ln95044-073-p3s9w18</LM>
 </w.rf>
 <form>Černomyrdin</form>
-<tag lemma="Černomyrdin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černomyrdin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-073-p3s9w19">
 <src.rf>manual</src.rf>
@@ -2205,7 +2205,7 @@
 <LM>w#w-ln95044-073-p4s1w3</LM>
 </w.rf>
 <form>Černomyrdinovy</form>
-<tag lemma="Černomyrdinův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Černomyrdinův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95044-073-p4s1w4">
 <src.rf>manual</src.rf>
@@ -2902,7 +2902,7 @@
 <LM>w#w-ln95044-073-p5s1w35</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95044-073-p5s1w36">
 <src.rf>manual</src.rf>
@@ -3859,7 +3859,7 @@
 <LM>w#w-ln95044-073-p5s7w16</LM>
 </w.rf>
 <form>Fjodorov</form>
-<tag lemma="Fjodorov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fjodorov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-073-p5s7w17">
 <src.rf>manual</src.rf>
@@ -4270,7 +4270,7 @@
 <LM>w#w-ln95044-073-p5s11w11</LM>
 </w.rf>
 <form>Žirinovského</form>
-<tag lemma="Žirinovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Žirinovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-073-p5s11w12">
 <src.rf>manual</src.rf>
@@ -4533,7 +4533,7 @@
 <LM>w#w-ln95044-073-p5s13w8</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-073-p5s13w9">
 <src.rf>manual</src.rf>
@@ -5361,7 +5361,7 @@
 <LM>w#w-ln95044-073-p6s7w11</LM>
 </w.rf>
 <form>Ačalova</form>
-<tag lemma="Ačalov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ačalov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-073-p6s7w12">
 <src.rf>manual</src.rf>
@@ -5783,7 +5783,7 @@
 <LM>w#w-ln95044-073-p6s9Bw8</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-073-p6s9Bw9">
 <src.rf>manual</src.rf>
@@ -5945,7 +5945,7 @@
 <LM>w#w-ln95044-073-p6s10w18</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95044-073-p6s10w19">
 <src.rf>manual</src.rf>
@@ -6075,7 +6075,7 @@
 <LM>w#w-ln95044-073-p6s11w3</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-073-p6s11w4">
 <src.rf>manual</src.rf>
@@ -6737,7 +6737,7 @@
 <LM>w#w-ln95044-073-p7s1w3</LM>
 </w.rf>
 <form>Jelcinovi</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-073-p7s1w4">
 <src.rf>manual</src.rf>
@@ -7125,7 +7125,7 @@
 <LM>w#w-ln95044-073-p8s1w4</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-073-p8s1w5">
 <src.rf>manual</src.rf>
@@ -7215,7 +7215,7 @@
 <LM>w#w-ln95044-073-p8s2w2</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-073-p8s2w3">
 <src.rf>manual</src.rf>
@@ -7650,7 +7650,7 @@
 <LM>w#w-ln95044-073-p8s6w2</LM>
 </w.rf>
 <form>Žirinovského</form>
-<tag lemma="Žirinovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Žirinovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-073-p8s6w3">
 <src.rf>manual</src.rf>
@@ -7977,7 +7977,7 @@
 <LM>w#w-ln95044-073-p8s8w15</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95044-073-p8s8w16">
 <src.rf>manual</src.rf>
@@ -8457,7 +8457,7 @@
 <LM>w#w-ln95044-073-p8s12w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95044-073-p8s12w15">
 <src.rf>manual</src.rf>

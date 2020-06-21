@@ -101,7 +101,7 @@
 <LM>w#w-ln94200-15-p2s1w9</LM>
 </w.rf>
 <form>Passera</form>
-<tag lemma="Passer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Passer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-15-p2s1w10">
 <src.rf>manual</src.rf>
@@ -694,9 +694,9 @@
 </w.rf>
 <form>mt</form>
 <tag>
-<AM lemma="mt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mt-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mountain_:B_,t_,x" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="mt-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mt-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-15-p2s5w3">
@@ -722,8 +722,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-15-p2s5w6">

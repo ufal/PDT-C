@@ -67,7 +67,7 @@
 <LM>w#w-ln94206-111-p1s1w7</LM>
 </w.rf>
 <form>Indopol</form>
-<tag lemma="Indopol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Indopol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-111-p1s1w8">
 <src.rf>manual</src.rf>
@@ -85,9 +85,9 @@
 </w.rf>
 <form>Sikorski</form>
 <tag>
-<AM lemma="Sikorski_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Sikorský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Sikorský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Sikorski_;Y" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Sikorský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Sikorský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94206-111-p1s1w10">
@@ -145,8 +145,8 @@
 </w.rf>
 <form>LUX</form>
 <tag>
-<AM lemma="Lux_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lux-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Lux_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lux-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-111-p1s1w17">
@@ -181,7 +181,7 @@
 <LM>w#w-ln94206-111-p1s2w3</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-111-p1s2w4">
 <src.rf>manual</src.rf>
@@ -198,8 +198,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

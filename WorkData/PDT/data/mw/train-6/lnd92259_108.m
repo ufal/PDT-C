@@ -164,7 +164,7 @@
 <LM>w#w-lnd92259-108-p1s1w18</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-108-p1s1w19">
 <src.rf>manual</src.rf>

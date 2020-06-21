@@ -86,8 +86,8 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wild_;K_,t_^(angl._divoká)" src="manual">NNFXX-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;m_,t_^(angl._divoká)" src="manual">NNFXX-----A----</AM>
 <AM lemma="wild_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -99,10 +99,10 @@
 </w.rf>
 <form>Duck</form>
 <tag>
-<AM lemma="Duck-2_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Duck-2_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Duck_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Duck_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Duck_;K_,t_^(angl._kachna)" src="manual">NNFXX-----A----</AM>
+<AM lemma="Duck_;m_,t_^(angl._kachna)" src="manual">NNFXX-----A----</AM>
 <AM lemma="duck_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Duck-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -780,7 +780,7 @@
 <LM>w#w-ln94204-132-p2s5Aw9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="s-33" src="auto" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94204-132-p2s5Aw10">
 <src.rf>manual</src.rf>
@@ -837,8 +837,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-33" src="orig">Q3-------------</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-132-p2s5Aw17">
@@ -1194,7 +1194,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-132-p3s1w13">
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln94204-132-p3s1w14</LM>
 </w.rf>
 <form>Komenského</form>
-<tag lemma="Komenský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komenský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-132-p3s1w15">
 <src.rf>manual</src.rf>

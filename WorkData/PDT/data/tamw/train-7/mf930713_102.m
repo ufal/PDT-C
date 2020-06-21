@@ -313,7 +313,7 @@
 <LM>w#w-mf930713-102-p2s2w7</LM>
 </w.rf>
 <form>Hladík</form>
-<tag lemma="Hladík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hladík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-102-p2s2w8">
 <src.rf>manual</src.rf>

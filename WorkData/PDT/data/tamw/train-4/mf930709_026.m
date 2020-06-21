@@ -29,7 +29,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="IPF_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -411,7 +411,7 @@
 </w.rf>
 <form>AISIF</form>
 <tag>
-<AM lemma="AISIF_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AISIF_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AISIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -437,7 +437,7 @@
 <LM>w#w-mf930709-026-p2s2w18</LM>
 </w.rf>
 <form>Rintel</form>
-<tag lemma="Rintel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rintel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-026-p2s2w19">
 <src.rf>manual</src.rf>

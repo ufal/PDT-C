@@ -336,7 +336,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-010-p2s1w2">
@@ -354,8 +354,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-010-p2s1w4">
@@ -776,9 +776,9 @@
 </w.rf>
 <form>kor</form>
 <tag>
-<AM lemma="kor-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kor-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kora_,a" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="kor-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kor-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-010-p3s1w3">

@@ -361,7 +361,7 @@
 <LM>w#w-lnd92259-036-p2s1w3</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-036-p2s1w4">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-lnd92259-036-p2s1w5</LM>
 </w.rf>
 <form>Karadžić</form>
-<tag lemma="Karadžić_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karadžić_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-036-p2s1w6">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-lnd92259-036-p2s2w4</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92259-036-p2s2w5">
 <src.rf>manual</src.rf>

@@ -135,7 +135,7 @@
 <LM>w#w-lnd92251-031-p3s1w3</LM>
 </w.rf>
 <form>rk</form>
-<tag lemma="rk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="rk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92251-031-p3s1w4">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -751,7 +751,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-031-p4s1w12">
@@ -768,7 +768,7 @@
 <LM>w#w-lnd92251-031-p4s1w13</LM>
 </w.rf>
 <form>Pavlíkové</form>
-<tag lemma="Pavlíková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Pavlíková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-031-p4s1w14">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1225,7 +1225,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-031-p4s3w4">
@@ -1242,7 +1242,7 @@
 <LM>w#w-lnd92251-031-p4s3w5</LM>
 </w.rf>
 <form>Pavlíkové</form>
-<tag lemma="Pavlíková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Pavlíková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-031-p4s3w6">
 <src.rf>manual</src.rf>

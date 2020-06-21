@@ -643,7 +643,7 @@
 <LM>w#w-mf930701-035-p2s5w7</LM>
 </w.rf>
 <form>Vávra</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-035-p2s5w8">
 <src.rf>manual</src.rf>

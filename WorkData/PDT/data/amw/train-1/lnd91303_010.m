@@ -191,8 +191,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s1w14">
@@ -226,7 +226,7 @@
 </w.rf>
 <form>GRU</form>
 <tag>
-<AM lemma="GRU_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GRU_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Grus_:B_;G_,t_^(Jeřáb,_souhvězdí)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GRU_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="GRU-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -401,7 +401,7 @@
 </w.rf>
 <form>Corriere</form>
 <tag>
-<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Corriere_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="corriere_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -414,7 +414,7 @@
 <form>della</form>
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della_;m_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -425,9 +425,9 @@
 </w.rf>
 <form>Sera</form>
 <tag>
-<AM lemma="Sera-2_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Ser_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ser_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Sera-2_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ser_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP4-----A----</AM>
@@ -799,7 +799,7 @@
 <LM>w#w-lnd91303-010-p5s4w24</LM>
 </w.rf>
 <form>Husajn</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-010-p5s4w25">
 <src.rf>manual</src.rf>
@@ -1555,7 +1555,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

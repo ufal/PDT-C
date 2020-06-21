@@ -191,7 +191,7 @@
 <LM>w#w-ln95046-017-p2s1Bw15</LM>
 </w.rf>
 <form>Trachtovi</form>
-<tag lemma="Trachta_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Trachta_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95046-017-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-ln95046-017-p2s6w28</LM>
 </w.rf>
 <form>Trachta</form>
-<tag lemma="Trachta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trachta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-017-p2s6w29">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 <LM>w#w-ln95046-017-p2s8w7</LM>
 </w.rf>
 <form>Straka</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-017-p2s8w8">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-ln95046-017-p2s8w15</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-017-p2s8w16">
 <src.rf>manual</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-ln95046-017-p2s10w8</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-017-p2s10w9">
 <src.rf>manual</src.rf>

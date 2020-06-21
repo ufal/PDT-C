@@ -27,7 +27,7 @@
 <LM>w#w-ln95046-032-p1s1w2</LM>
 </w.rf>
 <form>Agassi</form>
-<tag lemma="Agassi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Agassi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-032-p1s1w3">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <LM>w#w-ln95046-032-p1s1w21</LM>
 </w.rf>
 <form>Apellem</form>
-<tag lemma="Apell_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Apell_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-032-p1s1w22">
 <src.rf>manual</src.rf>

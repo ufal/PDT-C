@@ -299,7 +299,7 @@
 <LM>w#w-mf920925-091-p4s2w4</LM>
 </w.rf>
 <form>Kaliny</form>
-<tag lemma="Kalina_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kalina_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-091-p4s2w5">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -711,8 +711,8 @@
 <form>SER</form>
 <tag>
 <AM lemma="SER_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SER_:B_^(specifická_spotřeba_energie)" src="auto">NNFSX-----A---8</AM>
-<AM lemma="Ser_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="SER_:B_^(specifická_spotřeba_energie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Sero_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="srát" src="auto">Vi-S---2--A-I--</AM>
@@ -771,7 +771,7 @@
 <LM>w#w-mf920925-091-p5s1w2</LM>
 </w.rf>
 <form>Vonka</form>
-<tag lemma="Vonka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vonka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-091-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1199,8 +1199,8 @@
 <form>SER</form>
 <tag>
 <AM lemma="SER_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SER_:B_^(specifická_spotřeba_energie)" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="Ser_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="SER_:B_^(specifická_spotřeba_energie)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="srát" src="auto">Vi-S---2--A-I--</AM>
@@ -1234,8 +1234,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p6s2w16">
@@ -1260,7 +1260,7 @@
 <LM>w#w-mf920925-091-p6s2w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920925-091-p6s2w19">
 <src.rf>manual</src.rf>
@@ -1488,8 +1488,8 @@
 <form>SER</form>
 <tag>
 <AM lemma="SER_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SER_:B_^(specifická_spotřeba_energie)" src="auto" recommended="1">NNFSX-----A---8</AM>
-<AM lemma="Ser_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="SER_:B_^(specifická_spotřeba_energie)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Ser_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="srát" src="auto">Vi-S---2--A-I--</AM>
@@ -1506,8 +1506,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p6s3w6">
@@ -1562,7 +1562,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p7s1w2">
@@ -1580,8 +1580,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-9_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-9_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p7s1w4">
@@ -1786,7 +1786,7 @@
 <LM>w#w-mf920925-091-p8s2w20</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="č-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="č-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920925-091-p8s2w21">
 <src.rf>manual</src.rf>
@@ -1818,7 +1818,7 @@
 <LM>w#w-mf920925-091-p8s2w24</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="s-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920925-091-p8s2w25">
 <src.rf>manual</src.rf>
@@ -2162,16 +2162,16 @@
 <tag>
 <AM lemma="BR_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BR-5_:B_,t_^(bank_rate,_diskontní_sazba)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="BR-6_:B_;R_,t_^(Bill_of_Rights,_britská_ústava_z_r._1689)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="BR-8_:B_;K_,t_^(British_Railways)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BR-6_:B_;m_,t_^(Bill_of_Rights,_britská_ústava_z_r._1689)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BR-8_:B_;m_,t_^(British_Railways)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BR-9_:B_^(biosférická_rezervace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BR-10_:B_^(bojový_rozkaz)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="BR-11_:B_;K_,t_^(Bundesrat,_spolková_rada)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BR-11_:B_;m_,t_^(Bundesrat,_spolková_rada)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BR_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="br-7_:B_,t_^(bills_receivable,_směnečné_pohledávky)" src="auto">NNFPX-----A---8</AM>
-<AM lemma="Br-4_:B_;H_^(bromum,_brom)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="br-7_:B_,t_^(bills_receivable,_směnečné_pohledávky)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Br-4_:B_;U_^(bromum,_brom)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Britain_:B_;G_,t_^(Britain,_Británie)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="British_:B_;K_,t_^(British,_britský)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="British_:B_;m_,t_^(British,_britský)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="br-1_:B_,t_^(brand,_obchodní_značka,_známka,_jakost,...)" src="auto">NNFXX-----A---8</AM>
@@ -2312,8 +2312,8 @@
 <AM lemma="PL-2_:B_,t_^(public_law_=_veřejné_právo)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="PL-3_:B_^(podílový_list)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="PL-4_:B_^(pohonné_látky)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PL-5_:B_;K_^(Právo_lidu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PL-6_:B_;K_,t_^(tisková_agentura_Prensa_Latina)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PL-5_:B_;m_^(Právo_lidu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PL-6_:B_;m_,t_^(tisková_agentura_Prensa_Latina)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="plurál_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PL-7_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PL-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2408,7 +2408,7 @@
 </w.rf>
 <form>ČSD</form>
 <tag>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2427,7 +2427,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2446,8 +2446,8 @@
 </w.rf>
 <form>ČSA</form>
 <tag>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s5w12">
@@ -4045,7 +4045,7 @@
 <LM>w#w-mf920925-091-p9s1w4</LM>
 </w.rf>
 <form>Hrkal</form>
-<tag lemma="Hrkal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrkal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-091-p9s1w5">
 <src.rf>manual</src.rf>

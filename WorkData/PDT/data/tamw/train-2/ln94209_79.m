@@ -27,7 +27,7 @@
 <LM>w#w-ln94209-79-p1s1w2</LM>
 </w.rf>
 <form>Dubovského</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-79-p1s1w3">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -162,7 +162,7 @@
 <LM>w#w-ln94209-79-p2s1Bw13</LM>
 </w.rf>
 <form>Dubovský</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-79-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-ln94209-79-p2s2w10</LM>
 </w.rf>
 <form>Real</form>
-<tag lemma="Real_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Real_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-79-p2s2w11">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-ln94209-79-p2s3w5</LM>
 </w.rf>
 <form>Venglošovi</form>
-<tag lemma="Vengloš_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Vengloš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln94209-79-p2s3w6">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -520,7 +520,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -621,7 +621,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -719,7 +719,7 @@
 <LM>w#w-ln94209-79-p2s5w16</LM>
 </w.rf>
 <form>Dubovský</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-79-p2s5w17">
 <src.rf>manual</src.rf>

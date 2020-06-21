@@ -654,7 +654,7 @@
 <form>Zachová</form>
 <tag>
 <AM lemma="zachovat" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="Zachová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Zachová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-080-p2s3w20">
@@ -928,7 +928,7 @@
 <LM>w#w-mf930708-080-p2s7w3</LM>
 </w.rf>
 <form>Zachové</form>
-<tag lemma="Zachová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Zachová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-080-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-mf930708-080-p3s1w2</LM>
 </w.rf>
 <form>Dluhoš</form>
-<tag lemma="Dluhoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dluhoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-080-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1519,7 +1519,7 @@
 <LM>w#w-mf930708-080-p3s2w16</LM>
 </w.rf>
 <form>Dluhoš</form>
-<tag lemma="Dluhoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dluhoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-080-p3s2w17">
 <src.rf>manual</src.rf>
@@ -2189,7 +2189,7 @@
 <LM>w#w-mf930708-080-p4s2w29</LM>
 </w.rf>
 <form>Dluhoš</form>
-<tag lemma="Dluhoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dluhoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-080-p4s2w30">
 <src.rf>manual</src.rf>
@@ -2665,7 +2665,7 @@
 <LM>w#w-mf930708-080-p5s2w37</LM>
 </w.rf>
 <form>Dluhoš</form>
-<tag lemma="Dluhoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dluhoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-080-p5s2w38">
 <src.rf>manual</src.rf>
@@ -2920,7 +2920,7 @@
 <form>Zachová</form>
 <tag>
 <AM lemma="zachovat" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="Zachová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Zachová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-080-p6s1w31">
@@ -3298,7 +3298,7 @@
 <form>Zachová</form>
 <tag>
 <AM lemma="zachovat" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="Zachová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Zachová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-080-p6s3w31">

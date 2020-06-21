@@ -454,7 +454,7 @@
 <LM>w#w-ln95044-110-p2s2w7</LM>
 </w.rf>
 <form>Rubáš</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-110-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-ln95044-110-p4s2w2</LM>
 </w.rf>
 <form>Rubáše</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-110-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1579,7 +1579,7 @@
 <LM>w#w-ln95044-110-p4s6w1</LM>
 </w.rf>
 <form>Rubáš</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-110-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1765,7 +1765,7 @@
 <LM>w#w-ln95044-110-p4s7w1</LM>
 </w.rf>
 <form>Rubáš</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-110-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2260,7 +2260,7 @@
 <LM>w#w-ln95044-110-p5s2w1</LM>
 </w.rf>
 <form>Rubáš</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-110-p5s2w2">
 <src.rf>manual</src.rf>

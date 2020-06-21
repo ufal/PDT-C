@@ -311,7 +311,7 @@
 <LM>w#w-mf920901-108-p2s3w10</LM>
 </w.rf>
 <form>Glück</form>
-<tag lemma="Glück_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Glück_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-108-p2s3w11">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -801,7 +801,7 @@
 <LM>w#w-mf920901-108-p4s1w19</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920901-108-p4s1w20">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-mf920901-108-p4s2w15</LM>
 </w.rf>
 <form>Glückových</form>
-<tag lemma="Glückův_;S_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Glückův_;Y_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-mf920901-108-p4s2w16">
 <src.rf>manual</src.rf>

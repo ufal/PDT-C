@@ -273,7 +273,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-018-p3s3w10">
@@ -290,7 +290,7 @@
 <LM>w#w-lnd92252-018-p3s3w11</LM>
 </w.rf>
 <form>Hromada</form>
-<tag lemma="Hromada-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hromada-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-018-p3s3w12">
 <src.rf>manual</src.rf>

@@ -515,9 +515,9 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-36-p2s4w3">
@@ -1073,9 +1073,9 @@
 </w.rf>
 <form>Sole</form>
 <tag>
-<AM lemma="Sole_;K" src="orig" selected="1">NNXXX-----A----</AM>
-<AM lemma="Solo-1_;K" src="auto">NNNS6-----A----</AM>
-<AM lemma="Solus_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Sole_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Solo-1_;m" src="auto">NNNS6-----A----</AM>
+<AM lemma="Solus_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="sol-2_^(solný_roztok)" src="auto">NNIS5-----A----</AM>
 <AM lemma="sol-3_^(měna_v_Peru)" src="auto">NNIS5-----A----</AM>
 <AM lemma="solit" src="auto">VeYS------A-I--</AM>

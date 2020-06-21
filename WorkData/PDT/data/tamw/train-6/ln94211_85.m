@@ -225,7 +225,7 @@
 <LM>w#w-ln94211-85-p2s2w9</LM>
 </w.rf>
 <form>Chlystuna</form>
-<tag lemma="Chlystun_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chlystun_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-85-p2s2w10">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-ln94211-85-p2s2w18</LM>
 </w.rf>
 <form>Espym</form>
-<tag lemma="Espy_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Espy_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-85-p2s2w19">
 <src.rf>manual</src.rf>

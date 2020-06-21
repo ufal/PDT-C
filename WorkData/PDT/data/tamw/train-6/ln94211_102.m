@@ -35,7 +35,7 @@
 <LM>w#w-ln94211-102-p1s1w3</LM>
 </w.rf>
 <form>Kunderou</form>
-<tag lemma="Kundera_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kundera_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-102-p1s1w4">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln94211-102-p2s1w6</LM>
 </w.rf>
 <form>Uhdeová</form>
-<tag lemma="Uhdeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Uhdeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s1w7">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln94211-102-p2s1w20</LM>
 </w.rf>
 <form>Kunderou</form>
-<tag lemma="Kundera_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kundera_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s1w21">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94211-102-p2s3w17</LM>
 </w.rf>
 <form>Kundera</form>
-<tag lemma="Kundera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kundera_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s3w18">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-ln94211-102-p2s4w2</LM>
 </w.rf>
 <form>Kunderovým</form>
-<tag lemma="Kunderův_;S_^(*2a)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Kunderův_;Y_^(*2a)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-ln94211-102-p2s4w3">
 <src.rf>manual</src.rf>
@@ -844,8 +844,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-102-p2s4w21">
@@ -854,7 +854,7 @@
 <LM>w#w-ln94211-102-p2s4w21</LM>
 </w.rf>
 <form>Uhdeová</form>
-<tag lemma="Uhdeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Uhdeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s4w22">
 <src.rf>manual</src.rf>
@@ -1210,7 +1210,7 @@
 <LM>w#w-ln94211-102-p2s6w12</LM>
 </w.rf>
 <form>Škvoreckých</form>
-<tag lemma="Škvorecký_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Škvorecký_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 </w.rf>
 <form>šek</form>
 <tag>
-<AM lemma="šek-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="šek-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="šek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="šek" src="auto">NNIS4-----A----</AM>
 </tag>

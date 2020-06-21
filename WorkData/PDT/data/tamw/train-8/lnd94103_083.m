@@ -20,7 +20,7 @@
 </w.rf>
 <form>ZVVZ</form>
 <tag>
-<AM lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZVVZ-1_:B_;m_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZVVZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -123,7 +123,7 @@
 </w.rf>
 <form>ZVVZ</form>
 <tag>
-<AM lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZVVZ-1_:B_;m_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZVVZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -480,7 +480,7 @@
 </w.rf>
 <form>ZVVZ</form>
 <tag>
-<AM lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZVVZ-1_:B_;m_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZVVZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -498,7 +498,7 @@
 <LM>w#w-lnd94103-083-p1s5w9</LM>
 </w.rf>
 <form>Mácha</form>
-<tag lemma="Mácha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mácha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-083-p1s5w10">
 <src.rf>manual</src.rf>

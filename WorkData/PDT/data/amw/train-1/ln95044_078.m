@@ -290,7 +290,7 @@
 <LM>w#w-ln95044-078-p2s2w9</LM>
 </w.rf>
 <form>Bambasová</form>
-<tag lemma="Bambasová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bambasová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-078-p2s2w10">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln95044-078-p2s2w18</LM>
 </w.rf>
 <form>Kuchár</form>
-<tag lemma="Kuchár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuchár_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-078-p2s2w19">
 <src.rf>manual</src.rf>
@@ -406,8 +406,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-078-p2s2w24">
@@ -441,9 +441,9 @@
 </w.rf>
 <form>Petrovskij</form>
 <tag>
-<AM lemma="Petrovský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Petrovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Petrovský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Petrovský_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Petrovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Petrovský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95044-078-p2s2w28">
@@ -637,8 +637,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-078-p2s3w15">
@@ -730,8 +730,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-078-p2s4w11">
@@ -852,7 +852,7 @@
 <LM>w#w-ln95044-078-p2s4w25</LM>
 </w.rf>
 <form>Bati</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-078-p2s4w26">
 <src.rf>manual</src.rf>

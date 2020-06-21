@@ -51,7 +51,7 @@
 <LM>w#w-ln95045-033-p1s1w5</LM>
 </w.rf>
 <form>Srstka</form>
-<tag lemma="Srstka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Srstka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-033-p1s1w6">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln95045-033-p1s1w13</LM>
 </w.rf>
 <form>Lukeš</form>
-<tag lemma="Lukeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lukeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-033-p1s1w14">
 <src.rf>manual</src.rf>

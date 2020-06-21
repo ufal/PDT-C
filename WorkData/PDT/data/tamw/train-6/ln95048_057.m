@@ -37,7 +37,7 @@
 <form>Krombožinec</form>
 <tag>
 <AM lemma="Krombožinec" src="orig">NNIS1-----A----</AM>
-<AM lemma="Krombožinec_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Krombožinec_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="krombožinec_,a" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -74,7 +74,7 @@
 </w.rf>
 <form>NLN</form>
 <tag>
-<AM lemma="NLN-2_:B_;R_^(Nedělní_Lidové_Noviny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NLN-2_:B_;m_^(Nedělní_Lidové_Noviny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -241,8 +241,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95048-057-p2s2w5">
@@ -675,7 +675,7 @@
 <LM>w#w-ln95048-057-p2s4w11</LM>
 </w.rf>
 <form>Měšťan</form>
-<tag lemma="Měšťan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Měšťan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1756,7 +1756,7 @@
 <LM>w#w-ln95048-057-p2s7w36</LM>
 </w.rf>
 <form>Měšťana</form>
-<tag lemma="Měšťan_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Měšťan_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s7w37">
 <src.rf>manual</src.rf>
@@ -3330,7 +3330,7 @@
 <LM>w#w-ln95048-057-p2s14w15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95048-057-p2s14w16">
 <src.rf>manual</src.rf>
@@ -3678,7 +3678,7 @@
 <LM>w#w-ln95048-057-p2s16w7</LM>
 </w.rf>
 <form>Radeckém</form>
-<tag lemma="Radecký_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Radecký_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s16w8">
 <src.rf>manual</src.rf>
@@ -3872,7 +3872,7 @@
 <LM>w#w-ln95048-057-p2s17w23</LM>
 </w.rf>
 <form>Čechy</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s17w24">
 <src.rf>manual</src.rf>
@@ -4098,7 +4098,7 @@
 <LM>w#w-ln95048-057-p2s18w16</LM>
 </w.rf>
 <form>Radeckého</form>
-<tag lemma="Radecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Radecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s18w17">
 <src.rf>manual</src.rf>
@@ -4414,7 +4414,7 @@
 <LM>w#w-ln95048-057-p2s20w10</LM>
 </w.rf>
 <form>Procházka</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s20w11">
 <src.rf>manual</src.rf>
@@ -4462,7 +4462,7 @@
 <LM>w#w-ln95048-057-p2s20w16</LM>
 </w.rf>
 <form>Čehona</form>
-<tag lemma="Čehona_;S_,h" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čehona_;Y_,h" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-057-p2s20w17">
 <src.rf>manual</src.rf>

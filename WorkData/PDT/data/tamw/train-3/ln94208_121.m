@@ -20,7 +20,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -107,7 +107,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94208-121-p2s2w3</LM>
 </w.rf>
 <form>Evans</form>
-<tag lemma="Evans_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Evans_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-121-p2s2w4">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 </w.rf>
 <form>Babba</form>
 <tag>
-<AM lemma="Babb_;S" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Babb_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Babbo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Babbo_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -530,7 +530,7 @@
 <LM>w#w-ln94208-121-p2s3w22</LM>
 </w.rf>
 <form>Scalesem</form>
-<tag lemma="Scales_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Scales_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-121-p2s3w23">
 <src.rf>manual</src.rf>

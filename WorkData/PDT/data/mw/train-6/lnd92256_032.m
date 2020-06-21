@@ -54,8 +54,8 @@
 </w.rf>
 <form>luč</form>
 <tag>
-<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-032-p2s1w4">
@@ -388,7 +388,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-032-p2s3w2">
@@ -405,7 +405,7 @@
 <LM>w#w-lnd92256-032-p2s3w3</LM>
 </w.rf>
 <form>Šimáček</form>
-<tag lemma="Šimáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-032-p2s3w4">
 <src.rf>manual</src.rf>

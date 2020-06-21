@@ -20,8 +20,8 @@
 </w.rf>
 <form>Šemíkův</form>
 <tag>
-<AM lemma="Šemíkův_;S_^(*2)" src="auto">AUIS1M---------</AM>
-<AM lemma="Šemíkův_;S_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+<AM lemma="Šemíkův_;Y_^(*2)" src="auto">AUIS1M---------</AM>
+<AM lemma="Šemíkův_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
 </tag>
 </m>
 <m id="m-mf930709-050-p1s1w2">
@@ -65,7 +65,7 @@
 </w.rf>
 <form>Šemík</form>
 <tag>
-<AM lemma="Šemík_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šemík_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Šemík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -137,8 +137,8 @@
 </w.rf>
 <form>md</form>
 <tag>
-<AM lemma="md-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="md-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="md-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="md-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-050-p3s2Aw4">
@@ -156,8 +156,8 @@
 </w.rf>
 <form>spa</form>
 <tag>
-<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="spa-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="spa-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-050-p3s2Aw6">
@@ -284,7 +284,7 @@
 </w.rf>
 <form>Šemík</form>
 <tag>
-<AM lemma="Šemík_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šemík_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Šemík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -655,7 +655,7 @@
 <LM>w#w-mf930709-050-p3s5w10</LM>
 </w.rf>
 <form>Brikcius</form>
-<tag lemma="Brikcius_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brikcius_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-050-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-mf930709-050-p3s6w23</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930709-050-p3s6w24">
 <src.rf>manual</src.rf>

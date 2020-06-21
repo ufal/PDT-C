@@ -64,7 +64,7 @@
 </w.rf>
 <form>DBV</form>
 <tag>
-<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DBV-1_:B_;m_,t_^(Deutscher_Bäderverband)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -75,7 +75,7 @@
 </w.rf>
 <form>Cycles</form>
 <tag>
-<AM lemma="Cycle_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Cycle_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cycles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -370,7 +370,7 @@
 </w.rf>
 <form>DBV</form>
 <tag>
-<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DBV-1_:B_;m_,t_^(Deutscher_Bäderverband)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="DBV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -381,7 +381,7 @@
 </w.rf>
 <form>Cycles</form>
 <tag>
-<AM lemma="Cycle_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Cycle_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cycles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -689,7 +689,7 @@
 <LM>w#w-cmpr9415-037-p8s1w1</LM>
 </w.rf>
 <form>Seliku</form>
-<tag lemma="Seliko_;K" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="Seliko_;m" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-cmpr9415-037-p8s1w2">
 <src.rf>manual</src.rf>

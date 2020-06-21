@@ -37,8 +37,8 @@
 </w.rf>
 <form>Striker</form>
 <tag>
-<AM lemma="Striker_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Striker_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Striker_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Striker_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -176,9 +176,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s2w14">
@@ -212,8 +212,8 @@
 </w.rf>
 <form>Striker</form>
 <tag>
-<AM lemma="Striker_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Striker_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Striker_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Striker_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s2w18">
@@ -433,7 +433,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -454,8 +454,8 @@
 </w.rf>
 <form>Striker</form>
 <tag>
-<AM lemma="Striker_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Striker_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Striker_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Striker_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s4w2">
@@ -686,8 +686,8 @@
 </w.rf>
 <form>Strikerova</form>
 <tag>
-<AM lemma="Strikerův_;S_^(*2)" src="orig">AUMS4M---------</AM>
-<AM lemma="Strikerův_;S_;Y_^(*2)" src="manual" selected="1">AUMS4M---------</AM>
+<AM lemma="Strikerův_;Y_^(*2)" src="orig">AUMS4M---------</AM>
+<AM lemma="Strikerův_;Y_^(*2)" src="manual" selected="1">AUMS4M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s5w16">
@@ -843,9 +843,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s6w12">

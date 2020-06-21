@@ -58,7 +58,7 @@
 <form>for</form>
 <tag>
 <AM lemma="fórum" src="orig">NNNP2-----A----</AM>
-<AM lemma="for-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="for-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-025-p2s1w4">
@@ -153,7 +153,7 @@
 <LM>w#w-lnd92255-025-p2s2w9</LM>
 </w.rf>
 <form>Invex</form>
-<tag lemma="Invex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Invex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-025-p2s2w10">
 <src.rf>manual</src.rf>

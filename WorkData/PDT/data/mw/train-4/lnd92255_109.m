@@ -1113,11 +1113,11 @@
 <form>h</form>
 <tag>
 <AM lemma="h-8_:B_^(ost._zkratka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="h-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="h-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="hodina_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="hodina_:B_,x" src="auto">NNFXX-----A---9</AM>
-<AM lemma="h-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="h-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-109-p3s4w23">

@@ -27,7 +27,7 @@
 <LM>w#w-ln94211-42-p1s1w2</LM>
 </w.rf>
 <form>Žák</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-42-p1s1w3">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln94211-42-p2s1w6</LM>
 </w.rf>
 <form>Žák</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-42-p2s1w7">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94211-42-p2s1w9</LM>
 </w.rf>
 <form>Žákovi</form>
-<tag lemma="Žákův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Žákův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94211-42-p2s1w10">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln94211-42-p2s2w13</LM>
 </w.rf>
 <form>Žákových</form>
-<tag lemma="Žákův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Žákův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-ln94211-42-p2s2w14">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln94211-42-p2s2w21</LM>
 </w.rf>
 <form>Žáka</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-42-p2s2w22">
 <src.rf>manual</src.rf>
@@ -416,8 +416,8 @@
 </w.rf>
 <form>KGB</form>
 <tag>
-<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-42-p2s2w25">
@@ -471,7 +471,7 @@
 <LM>w#w-ln94211-42-p2s3w2</LM>
 </w.rf>
 <form>Žák</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-42-p2s3w3">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-ln94211-42-p2s3w5</LM>
 </w.rf>
 <form>Čechem</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-42-p2s3w6">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 </w.rf>
 <form>DAK</form>
 <tag>
-<AM lemma="DAK_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="DAK_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -825,7 +825,7 @@
 <LM>w#w-ln94211-42-p2s5w14</LM>
 </w.rf>
 <form>Čubovi</form>
-<tag lemma="Čuba-1_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Čuba-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94211-42-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln94211-42-p2s6w17</LM>
 </w.rf>
 <form>Žák</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-42-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln94211-42-p2s7w15</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-42-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-42-p2s7w23">
@@ -1318,7 +1318,7 @@
 <LM>w#w-ln94211-42-p2s7w24</LM>
 </w.rf>
 <form>Žákem</form>
-<tag lemma="Žák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Žák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-42-p2s7w25">
 <src.rf>manual</src.rf>

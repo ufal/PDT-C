@@ -61,7 +61,7 @@
 <LM>w#w-ln94208-109-p2s1Aw3</LM>
 </w.rf>
 <form>mmz</form>
-<tag lemma="mmz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mmz-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94208-109-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94208-109-p2s1Bw12</LM>
 </w.rf>
 <form>Blesku</form>
-<tag lemma="Blesk_;K_;R_^(noviny)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Blesk_;m_^(noviny)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-ln94208-109-p2s2w6</LM>
 </w.rf>
 <form>Dobrovolného</form>
-<tag lemma="Dobrovolný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dobrovolný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s2w7">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-ln94208-109-p2s2w11</LM>
 </w.rf>
 <form>Demeleho</form>
-<tag lemma="Demele_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Demele_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s2w12">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <form>Skala</form>
 <tag>
 <AM lemma="Skala_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Skala_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Skala_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Skal_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -564,7 +564,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-109-p2s4w9">
@@ -581,7 +581,7 @@
 <LM>w#w-ln94208-109-p2s4w10</LM>
 </w.rf>
 <form>Dobrovolným</form>
-<tag lemma="Dobrovolný_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dobrovolný_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s4w11">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln94208-109-p2s4w31</LM>
 </w.rf>
 <form>Crlou</form>
-<tag lemma="Crla_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Crla_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s4w32">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 </w.rf>
 <form>Pat</form>
 <tag>
-<AM lemma="Pat_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pat_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Pat-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1039,7 +1039,7 @@
 </w.rf>
 <form>Skree</form>
 <tag>
-<AM lemma="Skree_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Skree_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Skree-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1057,7 +1057,7 @@
 <LM>w#w-ln94208-109-p2s6w7</LM>
 </w.rf>
 <form>Blesk</form>
-<tag lemma="Blesk_;K_;R_^(noviny)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Blesk_;m_^(noviny)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s6w8">
 <src.rf>manual</src.rf>

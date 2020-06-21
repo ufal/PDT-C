@@ -71,7 +71,7 @@
 <form>OD</form>
 <tag>
 <AM lemma="OD_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="OD_:B_;K_^(obchodní_dům)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="OD_:B_;m_^(obchodní_dům)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Oda-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="od-1" src="auto">RR--2----------</AM>
 <AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
@@ -85,8 +85,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-4_:B_;m" src="orig">AAXXX----1A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-70-p2s1w8">
@@ -104,10 +104,10 @@
 </w.rf>
 <form>Mart</form>
 <tag>
-<AM lemma="Mart_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mart_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mart_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mart_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Marta" src="auto">NNFP2-----A----</AM>
-<AM lemma="Mart-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mart-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-70-p2s1w10">

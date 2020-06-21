@@ -431,7 +431,7 @@
 <LM>w#w-lnd92254-031-p2s1w7</LM>
 </w.rf>
 <form>Cyruse</form>
-<tag lemma="Cyrus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Cyrus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-031-p2s1w8">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-lnd92254-031-p2s1w8</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-031-p2s1w9">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-lnd92254-031-p2s1w15</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-031-p2s1w16">
 <src.rf>manual</src.rf>
@@ -513,8 +513,8 @@
 <form_change>spell</form_change>
 <form>Karadžić</form>
 <tag>
-<AM lemma="Karadžić_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karadžić_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Karadžić_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Karadžić_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-031-p2s1w18">
@@ -674,7 +674,7 @@
 <LM>w#w-lnd92254-031-p2s2w9</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-031-p2s2w10">
 <src.rf>manual</src.rf>

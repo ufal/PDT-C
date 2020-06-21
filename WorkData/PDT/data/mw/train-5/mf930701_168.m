@@ -126,7 +126,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -249,7 +249,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -920,7 +920,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1052,7 +1052,7 @@
 <LM>w#w-mf930701-168-p3s5w15</LM>
 </w.rf>
 <form>Benešových</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf930701-168-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1813,7 +1813,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1914,7 +1914,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2247,7 +2247,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2710,7 +2710,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

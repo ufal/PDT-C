@@ -314,7 +314,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -333,7 +333,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -553,7 +553,7 @@
 <LM>w#w-ln95046-068-p2s3w15</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-068-p2s3w16">
 <src.rf>manual</src.rf>

@@ -151,9 +151,9 @@
 <form>Maríi</form>
 <tag>
 <AM lemma="María_;Y" src="orig" selected="1">NNFS4-----A----</AM>
-<AM lemma="María_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="María_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="María_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="María_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="María_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="María_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw11">
@@ -162,7 +162,7 @@
 <LM>w#w-ln94205-83-p2s1Bw11</LM>
 </w.rf>
 <form>Idoyauovou</form>
-<tag lemma="Idoyauová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Idoyauová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -171,8 +171,8 @@
 </w.rf>
 <form>Lópezovou</form>
 <tag>
-<AM lemma="Lópezová_;S" src="orig" selected="1">NNFS4-----A----</AM>
-<AM lemma="Lópezův_;S_^(*2)" src="auto" recommended="1">AUFS7M---------</AM>
+<AM lemma="Lópezová_;Y" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="Lópezův_;Y_^(*2)" src="auto" recommended="1">AUFS7M---------</AM>
 </tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw13">
@@ -189,7 +189,7 @@
 <LM>w#w-ln94205-83-p2s1Bw14</LM>
 </w.rf>
 <form>Rianovou</form>
-<tag lemma="Rianová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Rianová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 </w.rf>
 <form>ETA</form>
 <tag>
-<AM lemma="ETA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ETA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -833,7 +833,7 @@
 </w.rf>
 <form>ETA</form>
 <tag>
-<AM lemma="ETA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ETA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

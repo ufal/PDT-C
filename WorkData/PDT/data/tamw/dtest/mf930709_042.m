@@ -59,7 +59,7 @@
 <LM>w#w-mf930709-042-p1s1w6</LM>
 </w.rf>
 <form>Stock</form>
-<tag lemma="Stock_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stock_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-042-p2s1A">
@@ -242,7 +242,7 @@
 <LM>w#w-mf930709-042-p2s1Bw20</LM>
 </w.rf>
 <form>Stock</form>
-<tag lemma="Stock_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stock_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-042-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf930709-042-p2s1Bw36</LM>
 </w.rf>
 <form>Hlinovský</form>
-<tag lemma="Hlinovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hlinovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-042-p2s1Bw37">
 <src.rf>manual</src.rf>

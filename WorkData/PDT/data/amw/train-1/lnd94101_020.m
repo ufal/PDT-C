@@ -409,7 +409,7 @@
 <LM>w#w-lnd94101-020-p1s3w31</LM>
 </w.rf>
 <form>Guinnessovy</form>
-<tag lemma="Guinnessův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Guinnessův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94101-020-p1s3w32">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-lnd94101-020-p1s3w41</LM>
 </w.rf>
 <form>Ságner</form>
-<tag lemma="Ságner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ságner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-020-p1s3w42">
 <src.rf>manual</src.rf>

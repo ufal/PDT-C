@@ -208,7 +208,7 @@
 </w.rf>
 <form>Det</form>
 <tag>
-<AM lemma="Det_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Det_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Det-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -219,7 +219,7 @@
 </w.rf>
 <form>Norske</form>
 <tag>
-<AM lemma="Norske_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Norske_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Norske-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -230,10 +230,10 @@
 </w.rf>
 <form>Veritas</form>
 <tag>
-<AM lemma="Veritas_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Veritas_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Veritas_;R" src="auto">NNIS4-----A----</AM>
-<AM lemma="Veritas_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Veritas_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Veritas_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Veritas_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Veritas_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-110-p2s1Bw21">

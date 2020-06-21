@@ -210,7 +210,7 @@
 <LM>w#w-ln94203-62-p2s1Bw16</LM>
 </w.rf>
 <form>Polonia</form>
-<tag lemma="Polonia_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Polonia_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-62-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-ln94203-62-p2s3w8</LM>
 </w.rf>
 <form>Cubala</form>
-<tag lemma="Cubala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cubala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-62-p2s3w9">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94203-62-p3s2w6</LM>
 </w.rf>
 <form>Polonia</form>
-<tag lemma="Polonia_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Polonia_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-62-p3s2w7">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-ln94203-62-p4s1w3</LM>
 </w.rf>
 <form>Polonia</form>
-<tag lemma="Polonia_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Polonia_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-62-p4s1w4">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-ln94203-62-p4s1w8</LM>
 </w.rf>
 <form>Grauso</form>
-<tag lemma="Grauso_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grauso_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-62-p4s1w9">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Lycie</form>
-<tag lemma="Lycie_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Lycie_;m_,t" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-62-p4s1w14">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 </w.rf>
 <form>Unione</form>
 <tag>
-<AM lemma="Unione_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Unione_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Union" src="auto">NNIS5-----A----</AM>
 <AM lemma="union" src="auto">NNIS5-----A----</AM>
 <AM lemma="unione_,t" src="auto" recommended="1">XX-------------</AM>
@@ -914,7 +914,7 @@
 </w.rf>
 <form>RTV</form>
 <tag>
-<AM lemma="RTV_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RTV_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

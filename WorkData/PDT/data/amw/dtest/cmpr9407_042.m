@@ -810,7 +810,7 @@
 <LM>w#w-cmpr9407-042-p6s1w2</LM>
 </w.rf>
 <form>Kouba</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p6s1w3">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-cmpr9407-042-p8s1w2</LM>
 </w.rf>
 <form>Vachulková</form>
-<tag lemma="Vachulková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vachulková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-042-p25s1">
@@ -1008,7 +1008,7 @@
 <LM>w#w-cmpr9407-042-p25s2w19</LM>
 </w.rf>
 <form>Kouba</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p25s2w20">
 <src.rf>manual</src.rf>
@@ -1335,7 +1335,7 @@
 <LM>w#w-cmpr9407-042-p26s1w9</LM>
 </w.rf>
 <form>Kouby</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p26s1w10">
 <src.rf>manual</src.rf>
@@ -2031,7 +2031,7 @@
 <LM>w#w-cmpr9407-042-p37s1w27</LM>
 </w.rf>
 <form>Real</form>
-<tag lemma="Real_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Real_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p37s1w28">
 <src.rf>manual</src.rf>
@@ -2047,7 +2047,7 @@
 <LM>w#w-cmpr9407-042-p37s1w29</LM>
 </w.rf>
 <form>Janeček</form>
-<tag lemma="Janeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p37s1w30">
 <src.rf>manual</src.rf>
@@ -2424,7 +2424,7 @@
 <LM>w#w-cmpr9407-042-p37s2w20</LM>
 </w.rf>
 <form>Kouba</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p37s2w21">
 <src.rf>manual</src.rf>
@@ -2652,7 +2652,7 @@
 <LM>w#w-cmpr9407-042-p38s2w6</LM>
 </w.rf>
 <form>Kouba</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p38s2w7">
 <src.rf>manual</src.rf>
@@ -4607,7 +4607,7 @@
 <LM>w#w-cmpr9407-042-p42s1w13</LM>
 </w.rf>
 <form>Halbich</form>
-<tag lemma="Halbich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Halbich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p42s1w14">
 <src.rf>manual</src.rf>
@@ -4672,8 +4672,8 @@
 </w.rf>
 <form>GAVLAS</form>
 <tag>
-<AM lemma="Gavlas_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gavlas-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Gavlas_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gavlas-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-042-p42s1w22">
@@ -5374,7 +5374,7 @@
 <LM>w#w-cmpr9407-042-p45s1w3</LM>
 </w.rf>
 <form>Kouby</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p45s1w4">
 <src.rf>manual</src.rf>
@@ -5942,7 +5942,7 @@
 <LM>w#w-cmpr9407-042-p46s3w6</LM>
 </w.rf>
 <form>Koubovi</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p46s3w7">
 <src.rf>manual</src.rf>
@@ -7964,7 +7964,7 @@
 <LM>w#w-cmpr9407-042-p51s1w11</LM>
 </w.rf>
 <form>Halbich</form>
-<tag lemma="Halbich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Halbich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p51s1w12">
 <src.rf>manual</src.rf>
@@ -7989,8 +7989,8 @@
 </w.rf>
 <form>GAVLAS</form>
 <tag>
-<AM lemma="Gavlas_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gavlas-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Gavlas_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gavlas-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-042-p51s1w15">
@@ -8363,7 +8363,7 @@
 <LM>w#w-cmpr9407-042-p51s3w6</LM>
 </w.rf>
 <form>Janeček</form>
-<tag lemma="Janeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p51s3w7">
 <src.rf>manual</src.rf>
@@ -9282,7 +9282,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-042-p56s1w7">
@@ -10017,8 +10017,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-042-p57s1w31">
@@ -10345,7 +10345,7 @@
 <LM>w#w-cmpr9407-042-p57s3w21</LM>
 </w.rf>
 <form>Kouba</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p57s3w22">
 <src.rf>manual</src.rf>
@@ -10789,8 +10789,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-042-p57s7w5">
@@ -11495,7 +11495,7 @@
 <LM>w#w-cmpr9407-042-p63s3w19</LM>
 </w.rf>
 <form>Kouby</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p63s3w20">
 <src.rf>manual</src.rf>
@@ -12008,7 +12008,7 @@
 <LM>w#w-cmpr9407-042-p65s2w6</LM>
 </w.rf>
 <form>Koubovi</form>
-<tag lemma="Kouba_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kouba_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9407-042-p65s2w7">
 <src.rf>manual</src.rf>

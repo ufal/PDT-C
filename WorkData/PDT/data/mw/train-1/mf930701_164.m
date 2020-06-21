@@ -179,8 +179,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p3s1w9">
@@ -305,7 +305,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -406,7 +406,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -481,7 +481,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -967,7 +967,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p4s3w8">
@@ -984,7 +984,7 @@
 <LM>w#w-mf930701-164-p4s3w9</LM>
 </w.rf>
 <form>Moravčíka</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-164-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1347,7 +1347,7 @@
 <LM>w#w-mf930701-164-p6s1w6</LM>
 </w.rf>
 <form>Zieleniece</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-164-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1838,7 +1838,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1966,7 +1966,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

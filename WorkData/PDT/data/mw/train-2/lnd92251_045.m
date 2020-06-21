@@ -297,7 +297,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-045-p3s3w9">
@@ -314,7 +314,7 @@
 <LM>w#w-lnd92251-045-p3s3w10</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p3s3w11">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-045-p4s1w6">
@@ -383,7 +383,7 @@
 <LM>w#w-lnd92251-045-p4s1w7</LM>
 </w.rf>
 <form>Solibajev</form>
-<tag lemma="Solibajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Solibajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p4s1w8">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-lnd92251-045-p4s3w2</LM>
 </w.rf>
 <form>Solibajeva</form>
-<tag lemma="Solibajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Solibajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p4s3w3">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-lnd92251-045-p4s3w22</LM>
 </w.rf>
 <form>Safarova</form>
-<tag lemma="Safarov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Safarov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p4s3w23">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-045-p5s2w3">
@@ -1208,7 +1208,7 @@
 <LM>w#w-lnd92251-045-p5s2w4</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-045-p5s2w18">
@@ -1331,7 +1331,7 @@
 <LM>w#w-lnd92251-045-p5s2w19</LM>
 </w.rf>
 <form>Jelcinem</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p5s2w20">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 <LM>w#w-lnd92251-045-p5s4w9</LM>
 </w.rf>
 <form>Vorobjov</form>
-<tag lemma="Vorobjov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vorobjov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p5s4w10">
 <src.rf>manual</src.rf>

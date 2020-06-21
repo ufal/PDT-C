@@ -91,8 +91,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-099-p2s2w5">
@@ -269,7 +269,7 @@
 <LM>w#w-lnd92259-099-p2s2w26</LM>
 </w.rf>
 <form>Nováka</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-099-p2s2w27">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-lnd92259-099-p2s2w29</LM>
 </w.rf>
 <form>Müllera</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-099-p2s2w30">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd92259-099-p2s3w6</LM>
 </w.rf>
 <form>Vejvoda</form>
-<tag lemma="Vejvoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vejvoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-099-p2s3w7">
 <src.rf>manual</src.rf>

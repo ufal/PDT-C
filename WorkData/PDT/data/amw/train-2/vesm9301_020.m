@@ -115,7 +115,7 @@
 <LM>w#w-vesm9301-020-p1s1w13</LM>
 </w.rf>
 <form>vlasovec</form>
-<tag lemma="vlasovec-1_;L_^(hlíst_Dracunculus)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="vlasovec-1_;U_^(hlíst_Dracunculus)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-020-p1s1w14">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-vesm9301-020-p2s2w3</LM>
 </w.rf>
 <form>vlasovec</form>
-<tag lemma="vlasovec-1_;L_^(hlíst_Dracunculus)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="vlasovec-1_;U_^(hlíst_Dracunculus)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-020-p2s2w4">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <form>Dracunculus</form>
 <tag>
 <AM lemma="dracunculus_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dracunculus_;L_,t" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Dracunculus_;U_,t" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Dracunculus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -348,7 +348,7 @@
 </w.rf>
 <form>medinensis</form>
 <tag>
-<AM lemma="medinensis_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="medinensis_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="medinensis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -620,7 +620,7 @@
 <LM>w#w-vesm9301-020-p2s4Bw5</LM>
 </w.rf>
 <form>vlasovcům</form>
-<tag lemma="vlasovec-1_;L_^(hlíst_Dracunculus)" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="vlasovec-1_;U_^(hlíst_Dracunculus)" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-vesm9301-020-p2s4Bw6">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1167,7 +1167,7 @@
 <LM>w#w-vesm9301-020-p2s7w7</LM>
 </w.rf>
 <form>buchanek</form>
-<tag lemma="buchanka_;L_^(živočich)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="buchanka_;U_^(živočich)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9301-020-p2s7w8">
 <src.rf>manual</src.rf>
@@ -2569,7 +2569,7 @@
 <LM>w#w-vesm9301-020-p3s5w8</LM>
 </w.rf>
 <form>Aeskulapova</form>
-<tag lemma="Aeskulapův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Aeskulapův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9301-020-p3s5w9">
 <src.rf>manual</src.rf>
@@ -3683,7 +3683,7 @@
 <LM>w#w-vesm9301-020-p5s1w17</LM>
 </w.rf>
 <form>buchanek</form>
-<tag lemma="buchanka_;L_^(živočich)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="buchanka_;U_^(živočich)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9301-020-p5s1w18">
 <src.rf>manual</src.rf>
@@ -3882,7 +3882,7 @@
 <LM>w#w-vesm9301-020-p5s3w12</LM>
 </w.rf>
 <form>vlasovec</form>
-<tag lemma="vlasovec-1_;L_^(hlíst_Dracunculus)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="vlasovec-1_;U_^(hlíst_Dracunculus)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-020-p5s3w13">
 <src.rf>manual</src.rf>
@@ -4490,7 +4490,7 @@
 <LM>w#w-vesm9301-020-p6s2w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-020-p6s2w13">
 <src.rf>manual</src.rf>
@@ -4686,7 +4686,7 @@
 <LM>w#w-vesm9301-020-p6s3w16</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-020-p6s3w17">
 <src.rf>manual</src.rf>
@@ -4759,7 +4759,7 @@
 </w.rf>
 <form>naira</form>
 <tag>
-<AM lemma="naira_;b_,t_^(měnová_jednotka)" src="auto">NNFS1-----A----</AM>
+<AM lemma="naira_,t_^(měnová_jednotka)" src="auto">NNFS1-----A----</AM>
 <AM lemma="naira" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -5232,7 +5232,7 @@
 </w.rf>
 <form>TDR</form>
 <tag>
-<AM lemma="TDR_:B_;R_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TDR_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5243,7 +5243,7 @@
 </w.rf>
 <form>News</form>
 <tag>
-<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-1_;m_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5458,8 +5458,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-020-p7s2w12">
@@ -5783,7 +5783,7 @@
 <LM>w#w-vesm9301-020-p8s1w2</LM>
 </w.rf>
 <form>Chalupský</form>
-<tag lemma="Chalupský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chalupský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-020-p9s1">

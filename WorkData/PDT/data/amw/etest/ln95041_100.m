@@ -19,7 +19,7 @@
 <LM>w#w-ln95041-100-p1s1w1</LM>
 </w.rf>
 <form>Markovič</form>
-<tag lemma="Markovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Markovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-100-p1s1w2">
 <src.rf>manual</src.rf>
@@ -36,8 +36,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-100-p1s1w4">
@@ -114,7 +114,7 @@
 <LM>w#w-ln95041-100-p2s1Bw4</LM>
 </w.rf>
 <form>Markoviče</form>
-<tag lemma="Markovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Markovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-100-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-ln95041-100-p2s2w6</LM>
 </w.rf>
 <form>Paczelt</form>
-<tag lemma="Paczelt_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Paczelt_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-100-p2s2w7">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-ln95041-100-p2s2w14</LM>
 </w.rf>
 <form>Markovičova</form>
-<tag lemma="Markovičův_;S_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
+<tag lemma="Markovičův_;Y_^(*2)" src="orig" selected="1">AUNP4M---------</tag>
 </m>
 <m id="m-ln95041-100-p2s2w15">
 <src.rf>manual</src.rf>
@@ -381,8 +381,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-100-p2s2w25">
@@ -399,7 +399,7 @@
 <LM>w#w-ln95041-100-p2s2w26</LM>
 </w.rf>
 <form>Mathé</form>
-<tag lemma="Mathé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mathé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-100-p2s2w27">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln95041-100-p2s3w12</LM>
 </w.rf>
 <form>Paczelt</form>
-<tag lemma="Paczelt_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Paczelt_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-100-p2s3w13">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-ln95041-100-p2s3w22</LM>
 </w.rf>
 <form>Markoviče</form>
-<tag lemma="Markovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Markovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-100-p2s3w23">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln95041-100-p2s4w5</LM>
 </w.rf>
 <form>Markovič</form>
-<tag lemma="Markovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Markovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-100-p2s4w6">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-122-p1s1w3</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-122-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln95047-122-p1s1w4</LM>
 </w.rf>
 <form>Herriot</form>
-<tag lemma="Herriot_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herriot_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-122-p2s1A">
@@ -226,7 +226,7 @@
 <LM>w#w-ln95047-122-p2s1Bw20</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-122-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-ln95047-122-p2s1Bw21</LM>
 </w.rf>
 <form>Herriot</form>
-<tag lemma="Herriot_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herriot_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-122-p2s1Bw22">
 <src.rf>manual</src.rf>

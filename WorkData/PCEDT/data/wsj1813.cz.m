@@ -16,7 +16,7 @@
 <LM>w#w-wsj1813-001-p1s0W1</LM>
 </w.rf>
 <form>Christopher</form>
-<tag lemma="Christopher_;S_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Christopher_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1813-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24,7 +24,7 @@
 <LM>w#w-wsj1813-001-p1s0W2</LM>
 </w.rf>
 <form>Whittington</form>
-<tag lemma="Whittington_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Whittington_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1813-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -231,9 +231,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -322,8 +322,8 @@
 </w.rf>
 <form>Morgan</form>
 <tag>
-<AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="morgan-2_;U" src="auto">NNMS1-----A----</AM>
 <AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -334,7 +334,7 @@
 </w.rf>
 <form>Grenfell</form>
 <tag>
-<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -584,8 +584,8 @@
 </w.rf>
 <form>Whittingtona</form>
 <tag>
-<AM lemma="Whittington_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Whittington_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Whittington_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Whittington_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s1W4-Ta">
@@ -713,8 +713,8 @@
 </w.rf>
 <form>Anthony</form>
 <tag>
-<AM lemma="Anthon_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Anthon_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Anthon_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Anthon_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="auto">NNMS5-----A----</AM>
 <AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="auto">NNMXX-----A----</AM>
@@ -729,7 +729,7 @@
 <tag>
 <AM lemma="Richmond_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Richmond_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Richmond-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Richmond-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s1W13-Ta">
@@ -746,7 +746,7 @@
 <LM>w#w-wsj1813-001-p1s1W14</LM>
 </w.rf>
 <form>Watson</form>
-<tag lemma="Watson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Watson_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1813-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -795,8 +795,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -957,8 +957,8 @@
 </w.rf>
 <form>Whittingtona</form>
 <tag>
-<AM lemma="Whittington_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Whittington_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Whittington_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Whittington_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s2W4-Ta">
@@ -995,8 +995,8 @@
 </w.rf>
 <form>Morgan</form>
 <tag>
-<AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="morgan-2_;U" src="auto">NNMS1-----A----</AM>
 <AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1007,7 +1007,7 @@
 </w.rf>
 <form>Grenfell</form>
 <tag>
-<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1110,7 +1110,7 @@
 <LM>w#w-wsj1813-001-p1s2W14</LM>
 </w.rf>
 <form>Webb</form>
-<tag lemma="Webb_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Webb_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1813-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1159,8 +1159,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -1291,7 +1291,7 @@
 </w.rf>
 <form>Pan</form>
 <tag>
-<AM lemma="Pan-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pan-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1301,7 +1301,7 @@
 <LM>w#w-wsj1813-001-p1s3W2</LM>
 </w.rf>
 <form>Whittington</form>
-<tag lemma="Whittington_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Whittington_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1813-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1438,7 +1438,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSFSXFS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>

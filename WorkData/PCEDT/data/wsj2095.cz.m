@@ -164,7 +164,7 @@
 </w.rf>
 <form>jejíž</form>
 <tag>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1FSXFS3-------</AM>
+<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1FXXFS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1IS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>McGill</form>
 <tag>
-<AM lemma="McGill_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="McGill_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="McGill-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -532,7 +532,7 @@
 <LM>w#w-wsj2095-001-p1s0W40</LM>
 </w.rf>
 <form>McGill</form>
-<tag lemma="McGill_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="McGill_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2095-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-wsj2095-001-p1s1W2</LM>
 </w.rf>
 <form>McGill</form>
-<tag lemma="McGill_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="McGill_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2095-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -614,8 +614,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -731,7 +731,7 @@
 <form>BroadBeach</form>
 <tag>
 <AM lemma="BroadBeach" src="auto">X@-------------</AM>
-<AM lemma="BroadBeach_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BroadBeach_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2095-001-p1s1W18-Ta">
@@ -842,8 +842,8 @@
 <form>k</form>
 <tag>
 <AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
-<AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="k-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="k-33" src="auto">Q3-------------</AM>
+<AM lemma="k-33" src="auto">Q3-------------</AM>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
 </tag>
@@ -1145,7 +1145,7 @@
 <LM>w#w-wsj2095-001-p1s2W34</LM>
 </w.rf>
 <form>McGill</form>
-<tag lemma="McGill_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="McGill_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2095-001-p1s2W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1220,12 +1220,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
@@ -1341,7 +1341,7 @@
 <form>BroadBeach</form>
 <tag>
 <AM lemma="BroadBeach" src="auto">X@-------------</AM>
-<AM lemma="BroadBeach_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BroadBeach_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2095-001-p1s3W12-Ta">
@@ -1413,7 +1413,7 @@
 <LM>w#w-wsj2095-001-p1s3W18</LM>
 </w.rf>
 <form>McGill</form>
-<tag lemma="McGill_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="McGill_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2095-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1465,8 +1465,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -1572,7 +1572,7 @@
 <form>BroadBeach</form>
 <tag>
 <AM lemma="BroadBeach" src="auto">X@-------------</AM>
-<AM lemma="BroadBeach_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BroadBeach_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2095-001-p1s4W3-Ta">
@@ -1987,7 +1987,7 @@
 <form>BroadBeach</form>
 <tag>
 <AM lemma="BroadBeach" src="auto">X@-------------</AM>
-<AM lemma="BroadBeach_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="BroadBeach_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2095-001-p1s5W4-Ta">
@@ -2104,9 +2104,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-113-p1s1w1</LM>
 </w.rf>
 <form>Pivoňkův</form>
-<tag lemma="Pivoňkův_;S_^(*2a)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Pivoňkův_;Y_^(*2a)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd94103-113-p1s1w2">
 <src.rf>manual</src.rf>
@@ -140,7 +140,7 @@
 </w.rf>
 <form>Rangers</form>
 <tag>
-<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -237,8 +237,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-113-p1s3w18">
@@ -264,7 +264,7 @@
 </w.rf>
 <form>Islanders</form>
 <tag>
-<AM lemma="Islanders_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="Islanders_;m" src="auto">NNXXX-----A----</AM>
 <AM lemma="Islanders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -387,7 +387,7 @@
 </w.rf>
 <form>Capitals</form>
 <tag>
-<AM lemma="Capitals_;K" src="orig">NNISX-----A----</AM>
+<AM lemma="Capitals_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Capitals-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd94103-113-p1s4w10</LM>
 </w.rf>
 <form>Pivoňka</form>
-<tag lemma="Pivoňka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pivoňka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-113-p1s4w11">
 <src.rf>manual</src.rf>
@@ -790,8 +790,8 @@
 </w.rf>
 <form>Bruins</form>
 <tag>
-<AM lemma="Bruin_;K_,t" src="orig">NNMPX-----A----</AM>
-<AM lemma="Bruins_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Bruin_;m_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Bruins_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Bruins-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -971,7 +971,7 @@
 <LM>w#w-lnd94103-113-p1s6w9</LM>
 </w.rf>
 <form>Brodeurovy</form>
-<tag lemma="Brodeurův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Brodeurův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94103-113-p1s6w10">
 <src.rf>manual</src.rf>
@@ -988,8 +988,8 @@
 </w.rf>
 <form>Brian</form>
 <tag>
-<AM lemma="Brian_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brian_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Brian_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brian_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-113-p1s6w12">
@@ -999,8 +999,8 @@
 </w.rf>
 <form>Smolinski</form>
 <tag>
-<AM lemma="Smolinský_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Smolinski_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Smolinský_;Y" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Smolinski_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-113-p1s6w13">
@@ -1025,7 +1025,7 @@
 <LM>w#w-lnd94103-113-p1s6w15</LM>
 </w.rf>
 <form>Shaw</form>
-<tag lemma="Shaw_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shaw_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-113-p1s6w16">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <LM>w#w-lnd94103-113-p1s7w9</LM>
 </w.rf>
 <form>Nicholls</form>
-<tag lemma="Nicholls_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nicholls_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-113-p1s7w10">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 </w.rf>
 <form>Rutherfordu</form>
 <tag>
-<AM lemma="Rutherford-1_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Rutherford-1_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Rutherford-3_;G" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
@@ -1217,7 +1217,7 @@
 <LM>w#w-lnd94103-113-p1s8w11</LM>
 </w.rf>
 <form>Casey</form>
-<tag lemma="Casey_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Casey_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-113-p1s8w12">
 <src.rf>manual</src.rf>

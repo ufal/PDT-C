@@ -247,7 +247,7 @@
 <LM>w#w-ln94202-24-p2s1Bw21</LM>
 </w.rf>
 <form>Adams</form>
-<tag lemma="Adams_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Adams_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-24-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94202-24-p2s2w1</LM>
 </w.rf>
 <form>Adams</form>
-<tag lemma="Adams_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Adams_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-24-p2s2w2">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln94202-24-p2s2w14</LM>
 </w.rf>
 <form>Humem</form>
-<tag lemma="Hume_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hume_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-24-p2s2w15">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-mf930702-012-p2s1w3</LM>
 </w.rf>
 <form>jkl</form>
-<tag lemma="jkl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jkl-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-012-p2s1w4">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 </w.rf>
 <form>DEMA</form>
 <tag>
-<AM lemma="DEMA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEMA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="dema" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNP1-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNP4-----A----</AM>
@@ -584,9 +584,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-012-p2s4w19">
@@ -603,7 +603,7 @@
 <LM>w#w-mf930702-012-p2s4w20</LM>
 </w.rf>
 <form>Bushe</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-012-p2s4w21">
 <src.rf>manual</src.rf>
@@ -782,9 +782,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-012-p3s1w22">

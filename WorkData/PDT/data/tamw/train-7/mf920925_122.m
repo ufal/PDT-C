@@ -193,7 +193,7 @@
 <LM>w#w-mf920925-122-p4s1w15</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-122-p4s1w16">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-mf920925-122-p4s1w22</LM>
 </w.rf>
 <form>Pavlova</form>
-<tag lemma="Pavlov_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pavlov_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920925-122-p4s1w23">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-mf920925-122-p4s3w1</LM>
 </w.rf>
 <form>Pavlov</form>
-<tag lemma="Pavlov_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavlov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-122-p4s3w2">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS4-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS4-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -835,7 +835,7 @@
 <LM>w#w-mf920925-122-p4s5w1</LM>
 </w.rf>
 <form>Pavlov</form>
-<tag lemma="Pavlov_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavlov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-122-p4s5w2">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-mf920925-122-p4s5w10</LM>
 </w.rf>
 <form>Klausovi</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920925-122-p4s5w11">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-mf920925-122-p4s6w2</LM>
 </w.rf>
 <form>Pavlov</form>
-<tag lemma="Pavlov_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavlov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-122-p4s6w3">
 <src.rf>manual</src.rf>
@@ -1187,7 +1187,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS3-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS3-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
@@ -1320,7 +1320,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -1625,7 +1625,7 @@
 </w.rf>
 <form>dolar</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS1-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

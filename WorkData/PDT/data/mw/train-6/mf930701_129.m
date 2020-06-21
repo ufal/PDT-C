@@ -65,8 +65,8 @@
 <AM lemma="do_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual">NNXXX-----A---8</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="manual">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s1w4">
@@ -256,7 +256,7 @@
 <tag>
 <AM lemma="Marco_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Marco_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Marco-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marco-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s2w4">
@@ -469,7 +469,7 @@
 <form>Athos</form>
 <tag>
 <AM lemma="Athos_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Athos-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Athos-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s3w26">
@@ -611,11 +611,11 @@
 </w.rf>
 <form>Marko</form>
 <tag>
-<AM lemma="Marco_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Marco_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Marko_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Marko_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="marka" src="auto">NNFS5-----A----</AM>
-<AM lemma="Marko-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marko-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s5w4">
@@ -788,7 +788,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -858,7 +858,7 @@
 <form>Marco</form>
 <tag>
 <AM lemma="Marco_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marco-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marco-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s7w7">
@@ -959,7 +959,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1060,7 +1060,7 @@
 </w.rf>
 <form>ZPS</form>
 <tag>
-<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ZPS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf930701-129-p3s2w4</LM>
 </w.rf>
 <form>Zbožínka</form>
-<tag lemma="Zbožínek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zbožínek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-129-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1136,7 +1136,7 @@
 <form>Marco</form>
 <tag>
 <AM lemma="Marco_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Marco-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marco-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p3s2w11">

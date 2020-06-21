@@ -697,7 +697,7 @@
 <LM>w#w-cmpr9406-042-p4s1w2</LM>
 </w.rf>
 <form>Schmidt</form>
-<tag lemma="Schmidt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schmidt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-042-p4s1w3">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-cmpr9406-042-p4s1w4</LM>
 </w.rf>
 <form>Chiari</form>
-<tag lemma="Chiari_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chiari_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-042-p4s1w5">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <form>Creditanstalt</form>
 <tag>
 <AM lemma="Creditanstalt_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Creditanstalt_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Creditanstalt_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-042-p4s1w9">

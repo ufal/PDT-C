@@ -101,7 +101,7 @@
 <LM>w#w-lnd94104-029-p1s2w3</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="haš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-029-p1s2w4">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <form>Colombo</form>
 <tag>
 <AM lemma="Colombo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Colombo-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Colombo-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-029-p1s4w18">
@@ -800,7 +800,7 @@
 <form>Colombo</form>
 <tag>
 <AM lemma="Colombo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Colombo-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Colombo-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-029-p1s6w24">
@@ -918,8 +918,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-029-p1s8w2">
@@ -1166,8 +1166,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-029-p1s9w4">

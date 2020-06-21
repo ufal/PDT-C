@@ -20,9 +20,9 @@
 </w.rf>
 <form>Ikarus</form>
 <tag>
-<AM lemma="Ikarus_;S" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="manual">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;m_^(vozidlo)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;m_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p1s1w2">
@@ -116,11 +116,11 @@
 </w.rf>
 <form>Ikarus</form>
 <tag>
-<AM lemma="Ikarus-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;S" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;S" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ikarus-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ikarus_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s1Bw4">
@@ -416,7 +416,7 @@
 </w.rf>
 <form>HUF</form>
 <tag>
-<AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HUF_:B_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -452,7 +452,7 @@
 </w.rf>
 <form>ATS</form>
 <tag>
-<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS_:B_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ATS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -533,7 +533,7 @@
 <LM>w#w-ln95044-136-p2s3w7</LM>
 </w.rf>
 <form>Mikö</form>
-<tag lemma="Mikö_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mikö_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-136-p2s3w8">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 </w.rf>
 <form>Héti</form>
 <tag>
-<AM lemma="Héti_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Héti_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Héti-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -593,7 +593,7 @@
 </w.rf>
 <form>Világgazdaság</form>
 <tag>
-<AM lemma="Világgazdaság_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Világgazdaság_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Világgazdaság-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -646,11 +646,11 @@
 </w.rf>
 <form>Ikarus</form>
 <tag>
-<AM lemma="Ikarus-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;S" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;S" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ikarus-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ikarus_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s4w5">
@@ -734,7 +734,7 @@
 </w.rf>
 <form>HUF</form>
 <tag>
-<AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HUF_:B_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -815,7 +815,7 @@
 </w.rf>
 <form>HUF</form>
 <tag>
-<AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HUF_:B_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -924,9 +924,9 @@
 </w.rf>
 <form>AV</form>
 <tag>
-<AM lemma="AV-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Ava_;G_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="AV-2_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AV_:B_;m_^(Akademie_věd)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Ava_;G_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="AV-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AV-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AV-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -939,7 +939,7 @@
 </w.rf>
 <form>Rt</form>
 <tag>
-<AM lemma="Rt_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Rt_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Rt-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1014,11 +1014,11 @@
 </w.rf>
 <form>Ikarus</form>
 <tag>
-<AM lemma="Ikarus-2_;R_^(vozidlo)" src="orig">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;S" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;S" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ikarus-2_;m_^(vozidlo)" src="orig">NNIS4-----A----</AM>
+<AM lemma="Ikarus_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ikarus_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s6w23">
@@ -1061,7 +1061,7 @@
 </w.rf>
 <form>HUF</form>
 <tag>
-<AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HUF_:B_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HUF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

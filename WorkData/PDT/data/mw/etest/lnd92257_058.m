@@ -949,7 +949,7 @@
 <LM>w#w-lnd92257-058-p3s4w51</LM>
 </w.rf>
 <form>Torricelliho</form>
-<tag lemma="Torricelli_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Torricelli_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-058-p3s4w52">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 <LM>w#w-lnd92257-058-p3s6w5</LM>
 </w.rf>
 <form>Torricelliho</form>
-<tag lemma="Torricelli_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Torricelli_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-058-p3s6w6">
 <src.rf>manual</src.rf>

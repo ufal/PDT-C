@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-033-p1s1w2</LM>
 </w.rf>
 <form>Morávek</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-033-p1s1w3">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-ln95043-033-p1s1w10</LM>
 </w.rf>
 <form>Pitínského</form>
-<tag lemma="Pitínský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pitínský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-033-p1s1w11">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-ln95043-033-p1s1w14</LM>
 </w.rf>
 <form>Örkényho</form>
-<tag lemma="Örkény_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Örkény_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-033-p1s1w15">
 <src.rf>manual</src.rf>

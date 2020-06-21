@@ -27,7 +27,7 @@
 <LM>w#w-ln95040-030-p1s1w2</LM>
 </w.rf>
 <form>Interpoháru</form>
-<tag lemma="Interpohár_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Interpohár_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-030-p1s1w3">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Interpoháru</form>
-<tag lemma="Interpohár_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Interpohár_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-030-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -526,7 +526,7 @@
 <LM>w#w-ln95040-030-p2s2w31</LM>
 </w.rf>
 <form>Interpoháru</form>
-<tag lemma="Interpohár_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Interpohár_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95040-030-p2s2w32">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -678,8 +678,8 @@
 </w.rf>
 <form>Baťa</form>
 <tag>
-<AM lemma="Baťa_;K_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Baťa_;S_;K" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Baťa_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Baťa_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-030-p2s2w50">
@@ -705,7 +705,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

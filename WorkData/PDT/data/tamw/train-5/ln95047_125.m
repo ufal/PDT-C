@@ -53,7 +53,7 @@
 <LM>w#w-ln95047-125-p2s1Aw1</LM>
 </w.rf>
 <form>Digital</form>
-<tag lemma="Digital_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Digital_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-125-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -102,7 +102,7 @@
 </w.rf>
 <form>PC</form>
 <tag>
-<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-1_:B_;m_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="PC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -304,7 +304,7 @@
 </w.rf>
 <form>Digital</form>
 <tag>
-<AM lemma="Digital_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Digital_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Digital-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -315,7 +315,7 @@
 </w.rf>
 <form>Equipment</form>
 <tag>
-<AM lemma="Equipment_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Equipment_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Equipment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -326,7 +326,7 @@
 </w.rf>
 <form>Corporation</form>
 <tag>
-<AM lemma="Corporation_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Corporation_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Corporation-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -385,9 +385,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-125-p2s1Dw28">
@@ -446,7 +446,7 @@
 <LM>w#w-ln95047-125-p3s1w6</LM>
 </w.rf>
 <form>Celebris</form>
-<tag lemma="Celebris_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Celebris_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-125-p3s1w7">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-ln95047-125-p3s3w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95047-125-p3s3w2">
 <src.rf>manual</src.rf>
@@ -796,8 +796,8 @@
 </w.rf>
 <form>Prioris</form>
 <tag>
-<AM lemma="Prioris_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Prioris_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Prioris_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Prioris_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-125-p3s4w5">
@@ -833,7 +833,7 @@
 <LM>w#w-ln95047-125-p3s4w8</LM>
 </w.rf>
 <form>Digital</form>
-<tag lemma="Digital_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Digital_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-125-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1134,8 +1134,8 @@
 </w.rf>
 <form>HiNote</form>
 <tag>
-<AM lemma="HiNote_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="HiNote_;R" src="manual">NNIXX-----A----</AM>
+<AM lemma="HiNote_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="HiNote_;m" src="manual">NNIXX-----A----</AM>
 <AM lemma="HiNote-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1146,7 +1146,7 @@
 </w.rf>
 <form>Ultra</form>
 <tag>
-<AM lemma="Ultra_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ultra_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="ultra" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="ultra_,h_,s" src="auto">A2--------A----</AM>
 <AM lemma="Ultra-77" src="manual" selected="1">F%-------------</AM>
@@ -1400,7 +1400,7 @@
 <LM>w#w-ln95047-125-p5s1w6</LM>
 </w.rf>
 <form>Digital</form>
-<tag lemma="Digital_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Digital_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-125-p5s1w7">
 <src.rf>manual</src.rf>

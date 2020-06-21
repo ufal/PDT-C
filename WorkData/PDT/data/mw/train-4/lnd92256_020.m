@@ -19,7 +19,7 @@
 <LM>w#w-lnd92256-020-p1s1w1</LM>
 </w.rf>
 <form>IKEA</form>
-<tag lemma="Ikea_;K_^(švéd._nábytk._firma)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ikea_;m_^(švéd._nábytk._firma)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-020-p1s1w2">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 <LM>w#w-lnd92256-020-p3s2w5</LM>
 </w.rf>
 <form>IKEA</form>
-<tag lemma="Ikea_;K_^(švéd._nábytk._firma)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ikea_;m_^(švéd._nábytk._firma)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-020-p3s2w6">
 <src.rf>manual</src.rf>
@@ -149,17 +149,17 @@
 <AM lemma="Bill_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Bill_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bill_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Billa_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Billa_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Billa_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Billa_;K" src="auto">NNFS2-----A----</AM>
+<AM lemma="Billa_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Billa_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Billa_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Billa_;m" src="auto">NNFS2-----A----</AM>
 <AM lemma="Billy_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Billy_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="bill_,t" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="bill_,t" src="auto">NNIP4-----A----</AM>
 <AM lemma="bill_,t" src="auto">NNIP5-----A----</AM>
 <AM lemma="bill_,t" src="auto">NNIP7-----A----</AM>
-<AM lemma="Billy-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Billy-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-020-p3s2w11">
@@ -234,7 +234,7 @@
 <LM>w#w-lnd92256-020-p3s3w4</LM>
 </w.rf>
 <form>Hudlová</form>
-<tag lemma="Hudlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hudlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-020-p3s3w5">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-lnd92256-020-p3s5w38</LM>
 </w.rf>
 <form>IKEA</form>
-<tag lemma="Ikea_;K_^(švéd._nábytk._firma)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ikea_;m_^(švéd._nábytk._firma)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-020-p3s5w39">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-lnd92256-020-p3s5w42</LM>
 </w.rf>
 <form>Wacinger</form>
-<tag lemma="Wacinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wacinger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-020-p3s5w43">
 <src.rf>manual</src.rf>

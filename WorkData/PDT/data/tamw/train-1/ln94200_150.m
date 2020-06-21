@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-150-p1s1w3</LM>
 </w.rf>
 <form>Teleaxisem</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94200-150-p1s1w4">
 <src.rf>manual</src.rf>
@@ -68,7 +68,7 @@
 </w.rf>
 <form>ČTS</form>
 <tag>
-<AM lemma="ČTS_:B_;K_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČTS_:B_;m_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČTS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -98,10 +98,10 @@
 </w.rf>
 <form>ad</form>
 <tag>
-<AM lemma="ad-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ad-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-150-p2s1Aw4">
@@ -200,7 +200,7 @@
 <LM>w#w-ln94200-150-p2s1Bw10</LM>
 </w.rf>
 <form>Teleaxis</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-150-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 </w.rf>
 <form>ČTS</form>
 <tag>
-<AM lemma="ČTS_:B_;K_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČTS_:B_;m_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČTS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -260,7 +260,7 @@
 <LM>w#w-ln94200-150-p2s1Bw17</LM>
 </w.rf>
 <form>Matzenauera</form>
-<tag lemma="Matzenauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Matzenauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-150-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-ln94200-150-p2s1Bw27</LM>
 </w.rf>
 <form>Teleaxisu</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-150-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-ln94200-150-p2s1Bw29</LM>
 </w.rf>
 <form>Kovarčíkem</form>
-<tag lemma="Kovarčík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kovarčík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-150-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 </w.rf>
 <form>ČTS</form>
 <tag>
-<AM lemma="ČTS_:B_;K_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČTS_:B_;m_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČTS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -498,7 +498,7 @@
 <LM>w#w-ln94200-150-p2s2w16</LM>
 </w.rf>
 <form>Kodeš</form>
-<tag lemma="Kodeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kodeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-150-p2s2w17">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-ln94200-150-p2s2w19</LM>
 </w.rf>
 <form>Teleaxis</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-150-p2s2w20">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-ln94200-150-p3s1w7</LM>
 </w.rf>
 <form>Kodešovy</form>
-<tag lemma="Kodešův_;S_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Kodešův_;Y_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln94200-150-p3s1w8">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-ln94200-150-p3s1w13</LM>
 </w.rf>
 <form>Teleaxisu</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-150-p3s1w14">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-150-p3s1w20">
@@ -738,7 +738,7 @@
 <LM>w#w-ln94200-150-p3s1w21</LM>
 </w.rf>
 <form>Matzenauera</form>
-<tag lemma="Matzenauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Matzenauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-150-p3s1w22">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-150-p3s1w24">
@@ -773,7 +773,7 @@
 <LM>w#w-ln94200-150-p3s1w25</LM>
 </w.rf>
 <form>Kovarčíkem</form>
-<tag lemma="Kovarčík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kovarčík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-150-p3s1w26">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 </w.rf>
 <form>ČTS</form>
 <tag>
-<AM lemma="ČTS_:B_;K_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČTS_:B_;m_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČTS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ČTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1159,7 +1159,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-150-p3s3w29">
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln94200-150-p3s3w30</LM>
 </w.rf>
 <form>Matzenauer</form>
-<tag lemma="Matzenauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matzenauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-150-p3s3w31">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln94200-150-p3s3w37</LM>
 </w.rf>
 <form>Teleaxisu</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94200-150-p3s3w38">
 <src.rf>manual</src.rf>

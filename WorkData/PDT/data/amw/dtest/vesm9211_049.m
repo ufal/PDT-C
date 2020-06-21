@@ -830,7 +830,7 @@
 <LM>w#w-vesm9211-049-p2s1w2</LM>
 </w.rf>
 <form>HAVLÍČEK</form>
-<tag lemma="Havlíček_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havlíček_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-049-p2s1w3">
 <src.rf>manual</src.rf>
@@ -839,18 +839,18 @@
 </w.rf>
 <form>BOROVSKÝ</form>
 <tag>
-<AM lemma="Borovský_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Borovská_;S" src="auto">NNFP1-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFP4-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFP5-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFS2-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFS3-----A---6</AM>
-<AM lemma="Borovská_;S" src="auto">NNFS6-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Borovský_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Borovský_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Borovská_;Y" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Borovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Borovský_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="borovský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="borovský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="borovský" src="auto">AAFP5----1A---6</AM>

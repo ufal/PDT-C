@@ -274,7 +274,7 @@
 <LM>w#w-lnd92257-055-p3s1Aw23</LM>
 </w.rf>
 <form>Mars</form>
-<tag lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p3s1Aw24">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-lnd92257-055-p4s1Aw4</LM>
 </w.rf>
 <form>Rjabov</form>
-<tag lemma="Rjabov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rjabov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p4s1Aw5">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-lnd92257-055-p2s1Bw2</LM>
 </w.rf>
 <form>Eccles</form>
-<tag lemma="Eccles_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eccles_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-lnd92257-055-p2s1Bw4</LM>
 </w.rf>
 <form>Williamsová</form>
-<tag lemma="Williamsová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Williamsová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-lnd92257-055-p2s1Bw8</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 </w.rf>
 <form>Daily</form>
 <tag>
-<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-1_;m_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -757,7 +757,7 @@
 </w.rf>
 <form>Mail</form>
 <tag>
-<AM lemma="Mail_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Mail_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Maila_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="mail" src="auto">NNIS1-----A----</AM>
 <AM lemma="mail" src="auto">NNIS4-----A----</AM>
@@ -1032,7 +1032,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1043,7 +1043,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1300,7 +1300,7 @@
 <LM>w#w-lnd92257-055-p2s1Dw2</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p2s1Dw3">
 <src.rf>manual</src.rf>
@@ -1360,7 +1360,7 @@
 </w.rf>
 <form>Guardian</form>
 <tag>
-<AM lemma="Guardian_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Guardian_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Guardian-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1579,7 +1579,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-055-p2s1Ew3">
@@ -1596,7 +1596,7 @@
 <LM>w#w-lnd92257-055-p2s1Ew4</LM>
 </w.rf>
 <form>Leonidov</form>
-<tag lemma="Leonidov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leonidov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p2s1Ew5">
 <src.rf>manual</src.rf>
@@ -1621,7 +1621,7 @@
 </w.rf>
 <form>Litěraturnaja</form>
 <tag>
-<AM lemma="Litěraturnaja_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Litěraturnaja_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Litěraturnaja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1632,7 +1632,7 @@
 </w.rf>
 <form>Gazeta</form>
 <tag>
-<AM lemma="Gazeta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazeta_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Gazeta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2014,13 +2014,13 @@
 <form>Taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="Tako-1_;G_;R" src="auto">NNNP7-----A----</AM>
+<AM lemma="Tako-1_;G_;m" src="auto">NNNP7-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Tako-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -2275,7 +2275,7 @@
 <LM>w#w-lnd92257-055-p2s1Fw2</LM>
 </w.rf>
 <form>Stow</form>
-<tag lemma="Stow_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stow_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p2s1Fw3">
 <src.rf>manual</src.rf>
@@ -2283,7 +2283,7 @@
 <LM>w#w-lnd92257-055-p2s1Fw3</LM>
 </w.rf>
 <form>Terrengly</form>
-<tag lemma="Terrengly_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Terrengly_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p2s1Fw4">
 <src.rf>manual</src.rf>
@@ -2604,7 +2604,7 @@
 <LM>w#w-lnd92257-055-p5s1Bw2</LM>
 </w.rf>
 <form>Lazović</form>
-<tag lemma="Lazović_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lazović_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-055-p5s1Bw3">
 <src.rf>manual</src.rf>

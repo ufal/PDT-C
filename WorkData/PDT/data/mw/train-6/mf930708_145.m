@@ -68,7 +68,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -96,7 +96,7 @@
 <form>Vlček</form>
 <tag>
 <AM lemma="vlček" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vlček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vlček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -124,8 +124,8 @@
 </w.rf>
 <form>iv</form>
 <tag>
-<AM lemma="iv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="iv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="iv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="iv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-145-p2s1w4">
@@ -240,7 +240,7 @@
 <form>Vlčka</form>
 <tag>
 <AM lemma="vlček" src="orig">NNMS2-----A----</AM>
-<AM lemma="Vlček_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Vlček_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-145-p2s1w18">
@@ -258,7 +258,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -644,7 +644,7 @@
 <form>Vlček</form>
 <tag>
 <AM lemma="vlček" src="orig">NNMS1-----A----</AM>
-<AM lemma="Vlček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vlček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-145-p4s1w2">
@@ -718,7 +718,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -827,7 +827,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -877,7 +877,7 @@
 <LM>w#w-mf930708-145-p4s2w14</LM>
 </w.rf>
 <form>Cepla</form>
-<tag lemma="Cepl_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cepl_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-145-p4s2w15">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -962,7 +962,7 @@
 <LM>w#w-mf930708-145-p4s3w1</LM>
 </w.rf>
 <form>Cepl</form>
-<tag lemma="Cepl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cepl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-145-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1019,8 +1019,8 @@
 </w.rf>
 <form>c</form>
 <tag>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="c-33" src="orig">Q3-------------</AM>
+<AM lemma="c-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-145-p4s3w9">
@@ -1077,7 +1077,7 @@
 <LM>w#w-mf930708-145-p4s3w15</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-145-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-mf930708-145-p4s4w3</LM>
 </w.rf>
 <form>Cepla</form>
-<tag lemma="Cepl_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cepl_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-145-p4s4w4">
 <src.rf>manual</src.rf>

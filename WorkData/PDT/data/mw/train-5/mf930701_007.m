@@ -69,7 +69,7 @@
 <LM>w#w-mf930701-007-p2s1w2</LM>
 </w.rf>
 <form>Kysilky</form>
-<tag lemma="Kysilka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kysilka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-007-p2s1w3">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf930701-007-p3s3w1</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Zetor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-007-p3s3w2">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <form>Prášila</form>
 <tag>
 <AM lemma="prášil" src="orig">NNMS2-----A----</AM>
-<AM lemma="Prášil_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Prášil_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-007-p3s3w5">
@@ -857,7 +857,7 @@
 <LM>w#w-mf930701-007-p4s2w6</LM>
 </w.rf>
 <form>Neuwirthová</form>
-<tag lemma="Neuwirthová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Neuwirthová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-007-p4s2w7">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-mf930701-007-p4s3w4</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-007-p4s3w5">
 <src.rf>manual</src.rf>

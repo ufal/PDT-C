@@ -69,7 +69,7 @@
 <LM>w#w-ln94202-76-p2s1w2</LM>
 </w.rf>
 <form>Dudek</form>
-<tag lemma="Dudek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-76-p2s1B">
@@ -223,7 +223,7 @@
 <LM>w#w-ln94202-76-p2s1w21</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p2s1w22">
 <src.rf>manual</src.rf>
@@ -328,8 +328,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-76-p2s1w35">
@@ -348,7 +348,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-76-p2s1w37">
@@ -365,7 +365,7 @@
 <LM>w#w-ln94202-76-p2s1w38</LM>
 </w.rf>
 <form>Caban</form>
-<tag lemma="Caban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Caban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p2s1w39">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 </w.rf>
 <form>El</form>
 <tag>
-<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="el-1_,t_^(šp._člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -418,7 +418,7 @@
 </w.rf>
 <form>Tiempo</form>
 <tag>
-<AM lemma="Tiempo_;R_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tiempo_;m_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="tiempo_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Tiempo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -430,9 +430,9 @@
 </w.rf>
 <form>Latino</form>
 <tag>
-<AM lemma="Latino_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Latino_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="latina" src="auto">NNFS5-----A----</AM>
-<AM lemma="latino_;u" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="latino" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="latino_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Latino-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -696,7 +696,7 @@
 <LM>w#w-ln94202-76-p3s1w27</LM>
 </w.rf>
 <form>Castrovi</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-76-p3s1w28">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln94202-76-p4s1w2</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1060,7 +1060,7 @@
 <LM>w#w-ln94202-76-p4s2w1</LM>
 </w.rf>
 <form>Castrovi</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-76-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-ln94202-76-p4s5w2</LM>
 </w.rf>
 <form>Castrovy</form>
-<tag lemma="Castrův_;S_^(*2o)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Castrův_;Y_^(*2o)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94202-76-p4s5w3">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <LM>w#w-ln94202-76-p5s1w5</LM>
 </w.rf>
 <form>Castrovo</form>
-<tag lemma="Castrův_;S_^(*2o)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Castrův_;Y_^(*2o)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln94202-76-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1908,7 +1908,7 @@
 <LM>w#w-ln94202-76-p5s3w11</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p5s3w12">
 <src.rf>manual</src.rf>
@@ -2048,7 +2048,7 @@
 <LM>w#w-ln94202-76-p6s1w2</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2484,7 +2484,7 @@
 <LM>w#w-ln94202-76-p6s3w18</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p6s3w19">
 <src.rf>manual</src.rf>
@@ -2589,9 +2589,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-76-p6s3w32">
@@ -2650,7 +2650,7 @@
 <LM>w#w-ln94202-76-p7s1w6</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p7s1w7">
 <src.rf>manual</src.rf>
@@ -2788,7 +2788,7 @@
 <LM>w#w-ln94202-76-p7s2w11</LM>
 </w.rf>
 <form>Clintonovi</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94202-76-p7s2w12">
 <src.rf>manual</src.rf>
@@ -3035,7 +3035,7 @@
 <LM>w#w-ln94202-76-p7s4w7</LM>
 </w.rf>
 <form>Castrovi</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94202-76-p7s4w8">
 <src.rf>manual</src.rf>
@@ -3189,7 +3189,7 @@
 <LM>w#w-ln94202-76-p8s1w10</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p8s1w11">
 <src.rf>manual</src.rf>
@@ -3330,9 +3330,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-76-p8s1w28">
@@ -3495,7 +3495,7 @@
 <LM>w#w-ln94202-76-p9s1w3</LM>
 </w.rf>
 <form>Cabana</form>
-<tag lemma="Caban_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Caban_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-76-p9s1w4">
 <src.rf>manual</src.rf>
@@ -3615,7 +3615,7 @@
 <LM>w#w-ln94202-76-p9s1w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-76-p9s1w19">
 <src.rf>manual</src.rf>
@@ -3722,9 +3722,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-76-p9s2w13">
@@ -3751,7 +3751,7 @@
 <LM>w#w-ln94202-76-p9s3w1</LM>
 </w.rf>
 <form>Caban</form>
-<tag lemma="Caban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Caban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p9s3w2">
 <src.rf>manual</src.rf>
@@ -3823,7 +3823,7 @@
 <LM>w#w-ln94202-76-p9s3w10</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-76-p9s3w11">
 <src.rf>manual</src.rf>
@@ -4346,9 +4346,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-76-p9s8w10">
@@ -4455,7 +4455,7 @@
 <LM>w#w-ln94202-76-p10s1w2</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-76-p10s1w3">
 <src.rf>manual</src.rf>
@@ -4912,7 +4912,7 @@
 <LM>w#w-ln94202-76-p10s4w7</LM>
 </w.rf>
 <form>Clintonově</form>
-<tag lemma="Clintonův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Clintonův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94202-76-p10s4w8">
 <src.rf>manual</src.rf>

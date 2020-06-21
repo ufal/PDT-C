@@ -358,7 +358,7 @@
 <LM>w#w-ln94202-16-p3s1w6</LM>
 </w.rf>
 <form>Smolarka</form>
-<tag lemma="Smolarek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smolarek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-16-p3s1w7">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-ln94202-16-p4s1w11</LM>
 </w.rf>
 <form>Smolarek</form>
-<tag lemma="Smolarek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smolarek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-16-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-ln94202-16-p5s3w2</LM>
 </w.rf>
 <form>Smolarka</form>
-<tag lemma="Smolarek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smolarek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-16-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <LM>w#w-ln94202-16-p7s1w3</LM>
 </w.rf>
 <form>Smolarka</form>
-<tag lemma="Smolarek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smolarek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-16-p7s1w4">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 <LM>w#w-ln94202-16-p7s2w18</LM>
 </w.rf>
 <form>Smolarek</form>
-<tag lemma="Smolarek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smolarek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-16-p7s2w19">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-036-p1s1w3</LM>
 </w.rf>
 <form>Paarům</form>
-<tag lemma="Paar_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Paar_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-036-p2s1">
@@ -207,7 +207,7 @@
 <LM>w#w-mf920925-036-p2s2w19</LM>
 </w.rf>
 <form>Paarů</form>
-<tag lemma="Paar_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Paar_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-036-p2s2w20">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 </w.rf>
 <form>ČSAV</form>
 <tag>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -462,7 +462,7 @@
 <LM>w#w-mf920925-036-p2s4w9</LM>
 </w.rf>
 <form>Alšovy</form>
-<tag lemma="Alšův-2_;S_^(*5eš-2)" src="auto" selected="1">AUFS2M---------</tag>
+<tag lemma="Alšův-2_;Y_^(*5eš-2)" src="auto" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920925-036-p2s4w10">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-mf920925-036-p2s5w2</LM>
 </w.rf>
 <form>Paarů</form>
-<tag lemma="Paar_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Paar_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-036-p2s5w3">
 <src.rf>manual</src.rf>

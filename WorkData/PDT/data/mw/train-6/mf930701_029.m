@@ -94,8 +94,8 @@
 </w.rf>
 <form>šim</form>
 <tag>
-<AM lemma="šim-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šim-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šim-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šim-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s1w4">
@@ -145,7 +145,7 @@
 </w.rf>
 <form>IB</form>
 <tag>
-<AM lemma="IB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
@@ -749,7 +749,7 @@
 </w.rf>
 <form>IB</form>
 <tag>
-<AM lemma="IB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
@@ -1008,7 +1008,7 @@
 <form>Tesař</form>
 <tag>
 <AM lemma="tesař" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tesař_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tesař_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-029-p2s6w8">
@@ -1363,7 +1363,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1446,7 +1446,7 @@
 </w.rf>
 <form>IB</form>
 <tag>
-<AM lemma="IB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
@@ -1873,7 +1873,7 @@
 </w.rf>
 <form>IB</form>
 <tag>
-<AM lemma="IB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
@@ -2103,7 +2103,7 @@
 </w.rf>
 <form>IB</form>
 <tag>
-<AM lemma="IB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IB_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>

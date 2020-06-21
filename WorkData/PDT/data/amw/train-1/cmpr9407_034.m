@@ -55,7 +55,7 @@
 <LM>w#w-cmpr9407-034-p4s1w1</LM>
 </w.rf>
 <form>Moravanu</form>
-<tag lemma="Moravan-1_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Moravan-1_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-cmpr9407-034-p4s1w2">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-cmpr9407-034-p5s1w3</LM>
 </w.rf>
 <form>Moravan</form>
-<tag lemma="Moravan-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Moravan-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-034-p5s1w4">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-cmpr9407-034-p8s1w3</LM>
 </w.rf>
 <form>Nedbálků</form>
-<tag lemma="Nedbálek_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Nedbálek_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-034-p8s1w4">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-cmpr9407-034-p8s1w5</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-034-p8s1w6">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <LM>w#w-cmpr9407-034-p10s1w4</LM>
 </w.rf>
 <form>Nedbálků</form>
-<tag lemma="Nedbálek_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Nedbálek_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-034-p10s1w5">
 <src.rf>manual</src.rf>

@@ -1296,7 +1296,7 @@
 </w.rf>
 <form>Iškariotský</form>
 <tag>
-<AM lemma="Iškariotský_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Iškariotský_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="iškariotský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="iškariotský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="iškariotský" src="auto">AAFP5----1A---6</AM>
@@ -4242,7 +4242,7 @@
 <LM>w#w-ln95048-062-p3s23w22</LM>
 </w.rf>
 <form>Kosmas</form>
-<tag lemma="Kosmas_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kosmas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-062-p3s23w23">
 <src.rf>manual</src.rf>
@@ -4398,7 +4398,7 @@
 <LM>w#w-ln95048-062-p3s24Bw3</LM>
 </w.rf>
 <form>Kosmovým</form>
-<tag lemma="Kosmův_;S_^(*2a)" src="auto" selected="1">AUMS7M---------</tag>
+<tag lemma="Kosmův_;Y_^(*2a)" src="auto" selected="1">AUMS7M---------</tag>
 </m>
 <m id="m-ln95048-062-p3s24Bw4">
 <src.rf>manual</src.rf>

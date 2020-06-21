@@ -125,7 +125,7 @@
 <LM>w#w-ln95042-049-p2s1Bw6</LM>
 </w.rf>
 <form>Emmanuelli</form>
-<tag lemma="Emmanuelli_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Emmanuelli_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-049-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-ln95042-049-p2s3w7</LM>
 </w.rf>
 <form>Emmanuellimu</form>
-<tag lemma="Emmanuelli_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Emmanuelli_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95042-049-p2s3w8">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln95042-049-p2s3w13</LM>
 </w.rf>
 <form>Laignelovi</form>
-<tag lemma="Laignel_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Laignel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95042-049-p2s3w14">
 <src.rf>manual</src.rf>

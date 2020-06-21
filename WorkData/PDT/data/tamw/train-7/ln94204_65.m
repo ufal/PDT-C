@@ -62,8 +62,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-65-p2s1Aw5">
@@ -122,7 +122,7 @@
 <LM>w#w-ln94204-65-p2s1Bw5</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-65-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 </w.rf>
 <form>Tichá</form>
 <tag>
-<AM lemma="Tichá_;S" src="auto">NNFS1-----A----</AM>
+<AM lemma="Tichá_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Tichá-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -514,8 +514,8 @@
 </w.rf>
 <form>mazdu</form>
 <tag>
-<AM lemma="Mazda-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Mazda-2_;m_^(vozidlo)" src="orig">NNFS4-----A----</AM>
+<AM lemma="mazda_;m" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-65-p2s3w7">

@@ -28,7 +28,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -107,7 +107,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -144,7 +144,7 @@
 <LM>w#w-lnd92253-082-p2s2w10</LM>
 </w.rf>
 <form>Samaranch</form>
-<tag lemma="Samaranch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Samaranch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-082-p2s2w11">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-082-p2s4w6">
@@ -329,7 +329,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-082-p2s4w8">
@@ -346,7 +346,7 @@
 <LM>w#w-lnd92253-082-p2s4w9</LM>
 </w.rf>
 <form>Samaranche</form>
-<tag lemma="Samaranch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Samaranch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-082-p2s4w10">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -626,7 +626,7 @@
 <LM>w#w-lnd92253-082-p2s6w1</LM>
 </w.rf>
 <form>Samaranch</form>
-<tag lemma="Samaranch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Samaranch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-082-p2s6w2">
 <src.rf>manual</src.rf>

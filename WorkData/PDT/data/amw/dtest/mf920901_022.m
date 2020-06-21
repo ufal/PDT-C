@@ -70,8 +70,8 @@
 </w.rf>
 <form>zj</form>
 <tag>
-<AM lemma="zj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="zj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="zj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-022-p2s1w4">
@@ -155,7 +155,7 @@
 </w.rf>
 <form>FMPSV</form>
 <tag>
-<AM lemma="FMPSV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FMPSV_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="FMPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -254,8 +254,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-022-p2s2w21">
@@ -273,7 +273,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -327,7 +327,7 @@
 <form>Macek</form>
 <tag>
 <AM lemma="macek" src="orig">NNMS1-----A----</AM>
-<AM lemma="Macek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Macek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-022-p2s3w6">
@@ -930,7 +930,7 @@
 </w.rf>
 <form>FMPSV</form>
 <tag>
-<AM lemma="FMPSV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FMPSV_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="FMPSV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1005,7 +1005,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

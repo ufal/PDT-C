@@ -21,7 +21,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-047-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-lnd94104-047-p1s1w3</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-047-p1s1w4">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 <LM>w#w-lnd94104-047-p1s2w3</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="em-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-047-p1s2w4">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-lnd94104-047-p1s3w3</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-047-p1s3w4">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-lnd94104-047-p1s4w7</LM>
 </w.rf>
 <form>Pilipem</form>
-<tag lemma="Pilip_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pilip_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-047-p1s4w8">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-lnd94104-047-p1s4w13</LM>
 </w.rf>
 <form>Tigridem</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-047-p1s4w14">
 <src.rf>manual</src.rf>

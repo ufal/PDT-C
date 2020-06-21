@@ -27,7 +27,7 @@
 <LM>w#w-mf930702-043-p1s1w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-043-p1s1w3">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-mf930702-043-p2s1w3</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-043-p2s1w4">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -188,7 +188,7 @@
 </w.rf>
 <form>Theatre</form>
 <tag>
-<AM lemma="Theatre_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Theatre_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Theatre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -199,7 +199,7 @@
 </w.rf>
 <form>Company</form>
 <tag>
-<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -218,7 +218,7 @@
 </w.rf>
 <form>BFTC</form>
 <tag>
-<AM lemma="BFTC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BFTC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BFTC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -334,7 +334,7 @@
 <LM>w#w-mf930702-043-p2s2w3</LM>
 </w.rf>
 <form>Patersona</form>
-<tag lemma="Paterson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Paterson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-043-p2s2w4">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-mf930702-043-p2s2w13</LM>
 </w.rf>
 <form>Havlovy</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUFP4M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUFP4M---------</tag>
 </m>
 <m id="m-mf930702-043-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 </w.rf>
 <form>Kiss</form>
 <tag>
-<AM lemma="Kiss_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kiss_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kiss-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

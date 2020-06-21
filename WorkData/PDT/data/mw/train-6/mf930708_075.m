@@ -83,7 +83,7 @@
 <LM>w#w-mf930708-075-p1s1w9</LM>
 </w.rf>
 <form>Horvátových</form>
-<tag lemma="Horvátův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Horvátův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-mf930708-075-p1s1w10">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-mf930708-075-p1s3w2</LM>
 </w.rf>
 <form>Horvátovi</form>
-<tag lemma="Horvátův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Horvátův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930708-075-p1s3w3">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 <LM>w#w-mf930708-075-p1s10w2</LM>
 </w.rf>
 <form>Horvátových</form>
-<tag lemma="Horvátův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Horvátův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-mf930708-075-p1s10w3">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-44-p1s1Aw2</LM>
 </w.rf>
 <form>Fendrych</form>
-<tag lemma="Fendrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fendrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-44-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-ln94210-44-p1s1Aw8</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-44-p1s1B">
@@ -95,7 +95,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-44-p1s1Bw3">
@@ -112,7 +112,7 @@
 <LM>w#w-ln94210-44-p1s1Bw4</LM>
 </w.rf>
 <form>Zlatohlávek</form>
-<tag lemma="Zlatohlávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zlatohlávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

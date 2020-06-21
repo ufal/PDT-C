@@ -500,7 +500,7 @@
 <LM>w#w-ln95047-096-p2s2w17</LM>
 </w.rf>
 <form>Henych</form>
-<tag lemma="Henych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Henych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-096-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-096-p4s1w3">
@@ -1081,7 +1081,7 @@
 <LM>w#w-ln95047-096-p4s1w4</LM>
 </w.rf>
 <form>Henycha</form>
-<tag lemma="Henych_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Henych_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-096-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1538,7 +1538,7 @@
 <LM>w#w-ln95047-096-p4s5w3</LM>
 </w.rf>
 <form>Henych</form>
-<tag lemma="Henych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Henych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-096-p4s5w4">
 <src.rf>manual</src.rf>

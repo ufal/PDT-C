@@ -63,7 +63,7 @@
 <LM>w#w-ln95047-087-p2s1Bw2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-087-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -2912,8 +2912,8 @@
 </w.rf>
 <form>Thomas</form>
 <tag>
-<AM lemma="Thomas_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Thomas_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Thomas_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Thomas_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-087-p5s3w11">
@@ -2930,7 +2930,7 @@
 <LM>w#w-ln95047-087-p5s3w12</LM>
 </w.rf>
 <form>Edison</form>
-<tag lemma="Edison_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Edison_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-087-p5s3w13">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <LM>w#w-lnd92257-031-p3s1w3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="luč-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92257-031-p3s1w4">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-lnd92257-031-p3s6w8</LM>
 </w.rf>
 <form>Strauss</form>
-<tag lemma="Strauss_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Strauss_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s6w9">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 </w.rf>
 <form>MARA</form>
 <tag>
-<AM lemma="mara_;L" src="orig">NNFS1-----A----</AM>
+<AM lemma="mara_;U" src="orig">NNFS1-----A----</AM>
 <AM lemma="MARA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1064,7 +1064,7 @@
 </w.rf>
 <form>OSIEK</form>
 <tag>
-<AM lemma="OSIEK_;R" src="orig">NNXXX-----A----</AM>
+<AM lemma="OSIEK_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="OSIEK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

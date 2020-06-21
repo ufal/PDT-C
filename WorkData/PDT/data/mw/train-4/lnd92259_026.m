@@ -261,7 +261,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-026-p3s3w10">
@@ -278,7 +278,7 @@
 <LM>w#w-lnd92259-026-p3s3w11</LM>
 </w.rf>
 <form>Zelenky</form>
-<tag lemma="Zelenka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zelenka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-026-p3s3w12">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-026-p3s6w5">
@@ -768,7 +768,7 @@
 <LM>w#w-lnd92259-026-p3s6w6</LM>
 </w.rf>
 <form>Hořínka</form>
-<tag lemma="Hořínek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hořínek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-026-p3s6w7">
 <src.rf>manual</src.rf>

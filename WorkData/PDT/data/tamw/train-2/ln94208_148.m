@@ -523,7 +523,7 @@
 <LM>w#w-ln94208-148-p3s2w4</LM>
 </w.rf>
 <form>Béra</form>
-<tag lemma="Bér_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bér_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-148-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <LM>w#w-ln94208-148-p5s4Bw2</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ma-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94208-148-p5s4Bw3">
 <src.rf>manual</src.rf>

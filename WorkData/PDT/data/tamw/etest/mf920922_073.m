@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-073-p1s1w2</LM>
 </w.rf>
 <form>Hapal</form>
-<tag lemma="Hapal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hapal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-073-p1s1w3">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-mf920922-073-p2s1w2</LM>
 </w.rf>
 <form>Hapal</form>
-<tag lemma="Hapal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hapal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-073-p2s1w3">
 <src.rf>manual</src.rf>
@@ -94,8 +94,8 @@
 </w.rf>
 <form>Bayer</form>
 <tag>
-<AM lemma="Bayer_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bayer-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bayer_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bayer-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-073-p2s1w7">

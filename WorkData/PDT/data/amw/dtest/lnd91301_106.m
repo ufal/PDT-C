@@ -72,9 +72,9 @@
 </w.rf>
 <form>Francesco</form>
 <tag>
-<AM lemma="Francesco_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Francesco_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Francesco_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Francesco_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Francesco_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-106-p3s1w4">
@@ -83,7 +83,7 @@
 <LM>w#w-lnd91301-106-p3s1w4</LM>
 </w.rf>
 <form>Cossiga</form>
-<tag lemma="Cossiga_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cossiga_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-106-p3s1w5">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-lnd91301-106-p3s1w14</LM>
 </w.rf>
 <form>Doviho</form>
-<tag lemma="Dovi_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dovi_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-106-p3s1w15">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-lnd91301-106-p3s2w1</LM>
 </w.rf>
 <form>Dovi</form>
-<tag lemma="Dovi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dovi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-106-p3s2w2">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-lnd91301-106-p3s3w14</LM>
 </w.rf>
 <form>Cossigu</form>
-<tag lemma="Cossiga_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cossiga_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-106-p3s3w15">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-lnd91301-106-p3s5w14</LM>
 </w.rf>
 <form>Rognoni</form>
-<tag lemma="Rognoni_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rognoni_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-106-p3s5w15">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-lnd91301-106-p3s5w18</LM>
 </w.rf>
 <form>Scoti</form>
-<tag lemma="Scoti_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scoti_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-106-p3s5w19">
 <src.rf>manual</src.rf>

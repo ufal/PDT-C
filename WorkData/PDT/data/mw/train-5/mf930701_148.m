@@ -86,9 +86,9 @@
 </w.rf>
 <form>km</form>
 <tag>
-<AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="km-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="km-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-148-p2s1w4">
@@ -454,7 +454,7 @@
 </w.rf>
 <form>Želenický</form>
 <tag>
-<AM lemma="Želenický_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Želenický_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP5----1A---6</AM>
@@ -536,7 +536,7 @@
 <LM>w#w-mf930701-148-p2s4w6</LM>
 </w.rf>
 <form>Kubeše</form>
-<tag lemma="Kubeš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kubeš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-148-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1315,7 +1315,7 @@
 </w.rf>
 <form>coca</form>
 <tag>
-<AM lemma="coca_;L_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="coca_;U_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="coca" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
@@ -1447,7 +1447,7 @@
 <LM>w#w-mf930701-148-p3s5w5</LM>
 </w.rf>
 <form>Šmehlík</form>
-<tag lemma="Šmehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-148-p3s5w6">
 <src.rf>manual</src.rf>

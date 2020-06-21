@@ -1170,7 +1170,7 @@
 </w.rf>
 <form>ZOH</form>
 <tag>
-<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1326,7 +1326,7 @@
 <LM>w#w-cmpr9415-059-p8s1w17</LM>
 </w.rf>
 <form>LAllier</form>
-<tag lemma="LAllier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="LAllier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-059-p8s1w18">
 <src.rf>manual</src.rf>
@@ -3253,7 +3253,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -4184,7 +4184,7 @@
 </w.rf>
 <form>foto</form>
 <tag>
-<AM lemma="foto" src="orig">NNNSX-----A----</AM>
+<AM lemma="foto" src="orig">NNNXX-----A----</AM>
 <AM lemma="foto" src="auto">NNNS1-----A----</AM>
 <AM lemma="foto" src="auto">NNNS4-----A----</AM>
 <AM lemma="foto" src="auto">NNNS5-----A----</AM>

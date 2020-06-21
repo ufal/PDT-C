@@ -20,7 +20,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -115,7 +115,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -339,7 +339,7 @@
 <LM>w#w-ln95044-035-p2s2w10</LM>
 </w.rf>
 <form>Superpoháru</form>
-<tag lemma="Superpohár_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Superpohár_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-035-p2s2w11">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 </w.rf>
 <form>Fabia</form>
 <tag>
-<AM lemma="Fabius_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Fabius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Fabio_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
@@ -658,7 +658,7 @@
 <LM>w#w-ln95044-035-p3s1w8</LM>
 </w.rf>
 <form>Capella</form>
-<tag lemma="Capello_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Capello_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-035-p3s1w9">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-ln95044-035-p3s1w21</LM>
 </w.rf>
 <form>Sacchiho</form>
-<tag lemma="Sacchi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sacchi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-035-p3s1w22">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -914,7 +914,7 @@
 <LM>w#w-ln95044-035-p3s2w17</LM>
 </w.rf>
 <form>Pescarou</form>
-<tag lemma="Pescara_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Pescara_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95044-035-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-ln95044-035-p3s3w8</LM>
 </w.rf>
 <form>Maldiniho</form>
-<tag lemma="Maldini_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maldini_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-035-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 <LM>w#w-ln95044-035-p4s1w6</LM>
 </w.rf>
 <form>Zemanem</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-035-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1133,7 +1133,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1292,7 +1292,7 @@
 <LM>w#w-ln95044-035-p4s2w8</LM>
 </w.rf>
 <form>Signori</form>
-<tag lemma="Signori_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Signori_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-035-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-ln95044-035-p4s3w19</LM>
 </w.rf>
 <form>Batistuta</form>
-<tag lemma="Batistuta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Batistuta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-035-p4s3w20">
 <src.rf>manual</src.rf>
@@ -1513,7 +1513,7 @@
 <LM>w#w-ln95044-035-p4s3w21</LM>
 </w.rf>
 <form>Fiorentiny</form>
-<tag lemma="Fiorentina_;K_;w_,t" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fiorentina_;m_,t" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-035-p4s3w22">
 <src.rf>manual</src.rf>

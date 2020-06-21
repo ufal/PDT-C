@@ -62,8 +62,8 @@
 </w.rf>
 <form>bra</form>
 <tag>
-<AM lemma="bra-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bra-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bra-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bra-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-104-p1s2w4">
@@ -114,7 +114,7 @@
 <LM>w#w-lnd94104-104-p1s3w4</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-104-p1s3w5">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-lnd94104-104-p1s3w16</LM>
 </w.rf>
 <form>Setikovský</form>
-<tag lemma="Setikovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Setikovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-104-p1s3w17">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-lnd94104-104-p1s4w17</LM>
 </w.rf>
 <form>Sýkorou</form>
-<tag lemma="Sýkora_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Sýkora_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-104-p1s4w18">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-lnd94104-104-p1s4w20</LM>
 </w.rf>
 <form>Pitnerem</form>
-<tag lemma="Pitner_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pitner_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-104-p1s4w21">
 <src.rf>manual</src.rf>

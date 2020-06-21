@@ -214,9 +214,9 @@
 </w.rf>
 <form>Moravia</form>
 <tag>
-<AM lemma="Moravia-1_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Moravia-1_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Moravia-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Moravia-1_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Moravia-1_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Moravia-2_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-003-p3s2w16">
@@ -438,9 +438,9 @@
 </w.rf>
 <form>Moravia</form>
 <tag>
-<AM lemma="Moravia-1_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Moravia-1_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Moravia-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Moravia-1_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Moravia-1_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Moravia-2_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-003-p3s5w11">

@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-074-p1s1w4</LM>
 </w.rf>
 <form>Kuka</form>
-<tag lemma="Kuka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-074-p1s1w5">
 <src.rf>manual</src.rf>

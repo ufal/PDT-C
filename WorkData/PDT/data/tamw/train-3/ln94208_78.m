@@ -30,8 +30,8 @@
 </w.rf>
 <form>Rubens</form>
 <tag>
-<AM lemma="Rubens_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rubens_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rubens_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rubens_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-78-p2s1w2">
@@ -40,7 +40,7 @@
 <LM>w#w-ln94208-78-p2s1w2</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ricupero_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-78-p2s1w3">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94208-78-p2s1w29</LM>
 </w.rf>
 <form>Cardosa</form>
-<tag lemma="Cardoso_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Cardoso_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-78-p2s1w30">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-ln94208-78-p3s1w2</LM>
 </w.rf>
 <form>Chasbulatov</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-78-p3s1w3">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-ln94208-78-p3s1w34</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-78-p3s1w35">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-ln94208-78-p3s2w9</LM>
 </w.rf>
 <form>Dudajeva</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-78-p3s2w10">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-ln94208-78-p4s1w31</LM>
 </w.rf>
 <form>Bohl</form>
-<tag lemma="Bohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-78-p4s1w32">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-ln94208-78-p7s2w7</LM>
 </w.rf>
 <form>Gorbačova</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-78-p7s2w8">
 <src.rf>manual</src.rf>

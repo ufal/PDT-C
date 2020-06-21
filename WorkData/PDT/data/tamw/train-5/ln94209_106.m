@@ -28,7 +28,7 @@
 </w.rf>
 <form>Šroubková</form>
 <tag>
-<AM lemma="Šroubková_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Šroubková_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="šroubkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="šroubkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="šroubkový" src="auto">AANP1----1A----</AM>
@@ -66,7 +66,7 @@
 <LM>w#w-ln94209-106-p1s1w6</LM>
 </w.rf>
 <form>Inreka</form>
-<tag lemma="Inreka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Inreka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-106-p1s1w7">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-ln94209-106-p1s2w3</LM>
 </w.rf>
 <form>Vopálková</form>
-<tag lemma="Vopálková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vopálková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-106-p1s2w4">
 <src.rf>manual</src.rf>
@@ -325,8 +325,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

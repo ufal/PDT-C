@@ -1498,7 +1498,7 @@
 <LM>w#w-ln94210-6-p6s3w2</LM>
 </w.rf>
 <form>av</form>
-<tag lemma="av-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="av-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-6-p6s3w3">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-mf930708-067-p1s2w2</LM>
 </w.rf>
 <form>GÜRTLER</form>
-<tag lemma="Gürtler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gürtler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-067-p1s2w3">
 <src.rf>manual</src.rf>
@@ -232,8 +232,8 @@
 </w.rf>
 <form>EPA</form>
 <tag>
-<AM lemma="EPA-3_:B_;K_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EPA-3_:B_;m_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EPA-1_:B_;m_,t_^(Environmental_Protection_Agency)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EPA_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -245,7 +245,7 @@
 </w.rf>
 <form>Larnaca</form>
 <tag>
-<AM lemma="Larnaca_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Larnaca_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Larnaka_;G" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -295,7 +295,7 @@
 <LM>w#w-mf930708-067-p2s1w19</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-067-p2s1w20">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf930708-067-p2s1w22</LM>
 </w.rf>
 <form>Gürtler</form>
-<tag lemma="Gürtler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gürtler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-067-p2s1w23">
 <src.rf>manual</src.rf>
@@ -2795,7 +2795,7 @@
 <LM>w#w-mf930708-067-p6s2w23</LM>
 </w.rf>
 <form>Gmoch</form>
-<tag lemma="Gmoch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gmoch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-067-p6s2w24">
 <src.rf>manual</src.rf>
@@ -2819,7 +2819,7 @@
 <LM>w#w-mf930708-067-p6s2w26</LM>
 </w.rf>
 <form>Appolonu</form>
-<tag lemma="Appolon_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Appolon_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930708-067-p6s2w27">
 <src.rf>manual</src.rf>
@@ -2828,7 +2828,7 @@
 </w.rf>
 <form>Nikosia</form>
 <tag>
-<AM lemma="Nikosia_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Nikosia_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Nikosia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2911,7 +2911,7 @@
 <LM>w#w-mf930708-067-p6s2w37</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-067-p6s2w38">
 <src.rf>manual</src.rf>
@@ -3025,7 +3025,7 @@
 <LM>w#w-mf930708-067-p7s1w12</LM>
 </w.rf>
 <form>Horvatha</form>
-<tag lemma="Horvath_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Horvath_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-067-p7s1w13">
 <src.rf>manual</src.rf>
@@ -3041,7 +3041,7 @@
 <LM>w#w-mf930708-067-p7s1w14</LM>
 </w.rf>
 <form>Fitzela</form>
-<tag lemma="Fitzel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Fitzel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-067-p7s1w15">
 <src.rf>manual</src.rf>
@@ -3160,8 +3160,8 @@
 </w.rf>
 <form>EPA</form>
 <tag>
-<AM lemma="EPA-3_:B_;K_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EPA-1_:B_;K_,t_^(Environmental_Protection_Agency)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EPA-3_:B_;m_^(sport._klub)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EPA-1_:B_;m_,t_^(Environmental_Protection_Agency)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EPA_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3230,7 +3230,7 @@
 <LM>w#w-mf930708-067-p8s3w1</LM>
 </w.rf>
 <form>Fitzel</form>
-<tag lemma="Fitzel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fitzel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-067-p8s3w2">
 <src.rf>manual</src.rf>
@@ -3294,7 +3294,7 @@
 <LM>w#w-mf930708-067-p8s3w9</LM>
 </w.rf>
 <form>Horváth</form>
-<tag lemma="Horváth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horváth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-067-p8s3w10">
 <src.rf>manual</src.rf>
@@ -3644,7 +3644,7 @@
 <LM>w#w-mf930708-067-p8s6w1</LM>
 </w.rf>
 <form>Horvath</form>
-<tag lemma="Horvath_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horvath_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-067-p8s6w2">
 <src.rf>manual</src.rf>
@@ -5825,7 +5825,7 @@
 <LM>w#w-mf930708-067-p14s2w13</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930708-067-p14s2w14">
 <src.rf>manual</src.rf>
@@ -5881,7 +5881,7 @@
 <LM>w#w-mf930708-067-p14s2w20</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-067-p14s2w21">
 <src.rf>manual</src.rf>

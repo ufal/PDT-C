@@ -4717,8 +4717,8 @@
 </w.rf>
 <form>Las</form>
 <tag>
-<AM lemma="Las-1_;K_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Las_:B_;G" src="auto">NNISX-----A---8</AM>
+<AM lemma="Las-1_;m_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Las_:B_;G" src="auto">NNIXX-----A---8</AM>
 <AM lemma="las_,t" src="auto">XX-------------</AM>
 <AM lemma="laso" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="las-1_,t^(šp._člen)" src="manual">AAXXX----1A----</AM>
@@ -6422,7 +6422,7 @@
 </w.rf>
 <form>Incentive</form>
 <tag>
-<AM lemma="Incentive_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Incentive_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Incentive-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -6433,7 +6433,7 @@
 </w.rf>
 <form>Travel</form>
 <tag>
-<AM lemma="Travela_;K" src="orig">NNFP2-----A----</AM>
+<AM lemma="Travela_;m" src="orig">NNFP2-----A----</AM>
 <AM lemma="Travel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -7140,7 +7140,7 @@
 </w.rf>
 <form>HaK</form>
 <tag>
-<AM lemma="HaK_:B_;K_^(nakladatelství)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="HaK_:B_;m_^(nakladatelství)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="HaK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7158,7 +7158,7 @@
 <LM>w#w-cmpr9415-025-p17s1w8</LM>
 </w.rf>
 <form>Teleshopping</form>
-<tag lemma="Teleshopping_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Teleshopping_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-025-p17s1w9">
 <src.rf>manual</src.rf>
@@ -14276,7 +14276,7 @@
 <LM>w#w-cmpr9415-025-p65s3w1</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-025-p65s3w2">
 <src.rf>manual</src.rf>
@@ -14292,7 +14292,7 @@
 <LM>w#w-cmpr9415-025-p65s3w3</LM>
 </w.rf>
 <form>Rekrea</form>
-<tag lemma="Rekrea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rekrea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-025-p65s3w4">
 <src.rf>manual</src.rf>
@@ -15409,7 +15409,7 @@
 <LM>w#w-cmpr9415-025-p68s1w2</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

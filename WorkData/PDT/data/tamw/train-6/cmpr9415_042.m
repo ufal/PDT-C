@@ -540,7 +540,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._MS-DOS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MS-8_:B_;m_,t_^(Microsoft,_např._MS-DOS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -558,7 +558,7 @@
 <LM>w#w-cmpr9415-042-p5s1w17</LM>
 </w.rf>
 <form>DOS</form>
-<tag lemma="DOS_;R" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="DOS_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p5s1w18">
 <src.rf>manual</src.rf>
@@ -647,8 +647,8 @@
 </w.rf>
 <form>Microsoft</form>
 <tag>
-<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
-<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p5s2w10">
@@ -693,7 +693,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -728,7 +728,7 @@
 </w.rf>
 <form>Stac</form>
 <tag>
-<AM lemma="Stac_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Stac_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Stac-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -739,7 +739,7 @@
 </w.rf>
 <form>Elektronics</form>
 <tag>
-<AM lemma="Elektronics_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Elektronics_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Elektronics-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -750,7 +750,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -869,8 +869,8 @@
 </w.rf>
 <form>Microsoft</form>
 <tag>
-<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
-<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p7s1w2">
@@ -929,7 +929,7 @@
 <form>Stacker</form>
 <tag>
 <AM lemma="stacker" src="orig">NNIS1-----A----</AM>
-<AM lemma="Stacker_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stacker_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p7s1w9">
@@ -955,7 +955,7 @@
 </w.rf>
 <form>Stac</form>
 <tag>
-<AM lemma="Stac_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stac_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Stac-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -1104,8 +1104,8 @@
 </w.rf>
 <form>Microsoft</form>
 <tag>
-<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
-<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p7s2w10">
@@ -1150,7 +1150,7 @@
 </w.rf>
 <form>Space</form>
 <tag>
-<AM lemma="Space_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Space_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Space-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1201,7 +1201,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-8_:B_;K_;c_,t_^(Microsoft,_např._MS-DOS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MS-8_:B_;m_,t_^(Microsoft,_např._MS-DOS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1219,7 +1219,7 @@
 <LM>w#w-cmpr9415-042-p7s2w22</LM>
 </w.rf>
 <form>DOS</form>
-<tag lemma="DOS_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="DOS_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p7s2w23">
 <src.rf>manual</src.rf>
@@ -1249,8 +1249,8 @@
 </w.rf>
 <form>Microsoft</form>
 <tag>
-<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
-<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p8s1w3">
@@ -1270,7 +1270,7 @@
 <LM>w#w-cmpr9415-042-p8s1w4</LM>
 </w.rf>
 <form>Stac</form>
-<tag lemma="Stac_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stac_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p8s1w5">
 <src.rf>manual</src.rf>
@@ -4224,7 +4224,7 @@
 <LM>w#w-cmpr9415-042-p21s1w2</LM>
 </w.rf>
 <form>Kunášek</form>
-<tag lemma="Kunášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-042-p21s1w3">
 <src.rf>manual</src.rf>

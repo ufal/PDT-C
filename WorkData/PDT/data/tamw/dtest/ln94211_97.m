@@ -27,7 +27,7 @@
 <LM>w#w-ln94211-97-p1s1Aw2</LM>
 </w.rf>
 <form>Ivanov</form>
-<tag lemma="Ivanov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ivanov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-97-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -89,7 +89,7 @@
 <LM>w#w-ln94211-97-p1s1Aw9</LM>
 </w.rf>
 <form>Werichovi</form>
-<tag lemma="Werich_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Werich_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94211-97-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-ln94211-97-p1s1Bw3</LM>
 </w.rf>
 <form>Matoušek</form>
-<tag lemma="Matoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -27,7 +27,7 @@
 <LM>w#w-ln95040-018-p1s1w2</LM>
 </w.rf>
 <form>Sanchezová</form>
-<tag lemma="Sanchezová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sanchezová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-018-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln95040-018-p1s1w4</LM>
 </w.rf>
 <form>Vicariová</form>
-<tag lemma="Vicariová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vicariová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

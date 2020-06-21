@@ -81,9 +81,9 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vin-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="vin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vin-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-077-p2s1w4">
@@ -421,8 +421,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-2_:B_^(Civilní_ochrana-obrana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="co-1" src="auto">PQ--1----------</AM>
 <AM lemma="co-1" src="auto">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
@@ -478,7 +478,7 @@
 <LM>w#w-mf920923-077-p2s3w13</LM>
 </w.rf>
 <form>Maťuš</form>
-<tag lemma="Maťuš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maťuš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-077-p2s3w14">
 <src.rf>manual</src.rf>
@@ -716,8 +716,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-2_:B_^(Civilní_ochrana-obrana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="co-1" src="auto">PQ--1----------</AM>
 <AM lemma="co-1" src="auto">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
@@ -948,7 +948,7 @@
 <LM>w#w-mf920923-077-p2s7w11</LM>
 </w.rf>
 <form>Valášek</form>
-<tag lemma="Valášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-077-p2s7w12">
 <src.rf>manual</src.rf>

@@ -109,7 +109,7 @@
 <LM>w#w-ln94203-42-p2s1Aw3</LM>
 </w.rf>
 <form>ljď</form>
-<tag lemma="ljď-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ljď-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-42-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln94203-42-p2s2w12</LM>
 </w.rf>
 <form>Herman</form>
-<tag lemma="Herman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-42-p2s2w13">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-ln94203-42-p2s3w10</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-42-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1228,7 +1228,7 @@
 <LM>w#w-ln94203-42-p4s1w17</LM>
 </w.rf>
 <form>Grocholewski</form>
-<tag lemma="Grocholewski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grocholewski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-42-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-ln94203-42-p4s1w28</LM>
 </w.rf>
 <form>Vlkem</form>
-<tag lemma="Vlk_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Vlk_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-42-p4s1w29">
 <src.rf>manual</src.rf>

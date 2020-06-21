@@ -585,7 +585,7 @@
 <form>Holínek</form>
 <tag>
 <AM lemma="holínka" src="orig">NNFP2-----A----</AM>
-<AM lemma="Holínek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Holínek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-013-p8s1w3">
@@ -1304,7 +1304,7 @@
 <LM>w#w-cmpr9406-013-p10s1w2</LM>
 </w.rf>
 <form>Gebarowský</form>
-<tag lemma="Gebarowský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gebarowský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-013-p11s1">

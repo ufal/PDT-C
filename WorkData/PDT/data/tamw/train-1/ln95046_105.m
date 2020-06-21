@@ -126,7 +126,7 @@
 <AM lemma="day_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dao_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Dao_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Day_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Day_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="day_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Day-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -258,13 +258,13 @@
 </w.rf>
 <form>Baden</form>
 <tag>
-<AM lemma="Baden-2_;S" src="orig">NNXXX-----A----</AM>
+<AM lemma="Baden-2_;Y" src="orig">NNXXX-----A----</AM>
 <AM lemma="Baden_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Baden_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Baden_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="baden_;L_^(geologické_období)" src="auto">NNIS1-----A----</AM>
-<AM lemma="baden_;L_^(geologické_období)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Baden_;S" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="Baden_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="baden_;U_^(geologické_období)" src="auto">NNIS1-----A----</AM>
+<AM lemma="baden_;U_^(geologické_období)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Baden_;Y" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw23">
@@ -281,7 +281,7 @@
 <LM>w#w-ln95046-105-p2s1Bw24</LM>
 </w.rf>
 <form>Powellových</form>
-<tag lemma="Powellův-1_;S_^(*4-1)" src="auto" selected="1">AUMP2M---------</tag>
+<tag lemma="Powellův-1_;Y_^(*4-1)" src="auto" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -428,8 +428,8 @@
 </w.rf>
 <form>Klamovku</form>
 <tag>
-<AM lemma="Klamovka_;R_;g_^(jméno_huti)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Klamovka_;G_;K" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Klamovka_;m_^(jméno_huti)" src="auto">NNFS4-----A----</AM>
+<AM lemma="Klamovka_;G_;m" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-105-p2s2w18">

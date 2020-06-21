@@ -170,7 +170,7 @@
 <LM>w#w-mf930708-071-p3s1w5</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="lík-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-071-p3s1w6">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <form>Říman</form>
 <tag>
 <AM lemma="Říman_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Říman_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Říman_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-071-p4s2w10">

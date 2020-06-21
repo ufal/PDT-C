@@ -1958,7 +1958,7 @@
 </w.rf>
 <form>König</form>
 <tag>
-<AM lemma="König_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="König_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="König-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2518,7 +2518,7 @@
 <LM>w#w-vesm9301-017-p4s4w8</LM>
 </w.rf>
 <form>Adams</form>
-<tag lemma="Adams_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Adams_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-017-p4s4w9">
 <src.rf>manual</src.rf>
@@ -3116,7 +3116,7 @@
 <LM>w#w-vesm9301-017-p5s1w6</LM>
 </w.rf>
 <form>Ságlová</form>
-<tag lemma="Ságlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ságlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9301-017-p5s1w7">
 <src.rf>manual</src.rf>
@@ -4236,7 +4236,7 @@
 <LM>w#w-vesm9301-017-p7s1w2</LM>
 </w.rf>
 <form>Fiala</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

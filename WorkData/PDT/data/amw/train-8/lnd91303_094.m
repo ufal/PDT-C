@@ -61,7 +61,7 @@
 <LM>w#w-lnd91303-094-p2s1Aw3</LM>
 </w.rf>
 <form>Hopmanova</form>
-<tag lemma="Hopmanův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Hopmanův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd91303-094-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-lnd91303-094-p2s1Aw12</LM>
 </w.rf>
 <form>Sukovou</form>
-<tag lemma="Suková_;S_;w" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Suková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91303-094-p2s1Aw13">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <form>Nováček</form>
 <tag>
 <AM lemma="nováček" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nováček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nováček_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-094-p2s1Bw29">
@@ -642,8 +642,8 @@
 </w.rf>
 <form>Suková</form>
 <tag>
-<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
-<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-094-p2s3w15">

@@ -103,7 +103,7 @@
 </w.rf>
 <form>Pico</form>
 <tag>
-<AM lemma="Pico_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Pico_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Pico-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95049-028-p2s1w17</LM>
 </w.rf>
 <form>Ribeiro</form>
-<tag lemma="Ribeiro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ribeiro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-028-p2s1w18">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-ln95049-028-p3s1w1</LM>
 </w.rf>
 <form>Lothar</form>
-<tag lemma="Lothar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lothar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-028-p3s1w2">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-ln95049-028-p3s1w2</LM>
 </w.rf>
 <form>Matthäus</form>
-<tag lemma="Matthäus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matthäus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-028-p3s1w3">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln95049-028-p3s1w6</LM>
 </w.rf>
 <form>Bayernu</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-028-p3s1w7">
 <src.rf>manual</src.rf>
@@ -570,8 +570,8 @@
 </w.rf>
 <form>Premiere</form>
 <tag>
-<AM lemma="Premiere_;K_,t" src="auto">NNFSX-----A----</AM>
-<AM lemma="Premiere_;K" src="manual" selected="1">NNFSX-----A----</AM>
+<AM lemma="Premiere_;m_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Premiere_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-028-p3s2w9">
@@ -590,7 +590,7 @@
 <LM>w#w-ln95049-028-p3s3w1</LM>
 </w.rf>
 <form>Matthäus</form>
-<tag lemma="Matthäus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matthäus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-028-p3s3w2">
 <src.rf>manual</src.rf>
@@ -655,9 +655,9 @@
 </w.rf>
 <form>Arminií</form>
 <tag>
-<AM lemma="Arminia_;K_,t" src="orig">NNFS7-----A----</AM>
-<AM lemma="Arminie_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Arminie_;K" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
+<AM lemma="Arminia_;m_,t" src="orig">NNFS7-----A----</AM>
+<AM lemma="Arminie_;m" src="auto">NNFP2-----A----</AM>
+<AM lemma="Arminie_;m" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-028-p3s3w10">

@@ -30,7 +30,7 @@
 </w.rf>
 <form>FMN</form>
 <tag>
-<AM lemma="FNM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FMN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -242,7 +242,7 @@
 <tag>
 <AM lemma="TOZ-3_^(druh_úvěrů)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TOZ-1_:B_^(Tyršův_odznak_zdatnosti)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="TOZ-2_:B_;K_,t_^(Tovarišč._po_sovmestnoj_obrabotke_zemli)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="TOZ-2_:B_;m_,t_^(Tovarišč._po_sovmestnoj_obrabotke_zemli)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="TOZ-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="TOZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

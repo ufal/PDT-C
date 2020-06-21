@@ -51,7 +51,7 @@
 <LM>w#w-ln94211-17-p1s1w5</LM>
 </w.rf>
 <form>Alufinal</form>
-<tag lemma="Alufinal_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Alufinal_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-17-p2s1A">
@@ -141,7 +141,7 @@
 <LM>w#w-ln94211-17-p2s1Bw6</LM>
 </w.rf>
 <form>Alcan</form>
-<tag lemma="Alcan_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Alcan_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-17-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94211-17-p2s1Bw9</LM>
 </w.rf>
 <form>Alufinal</form>
-<tag lemma="Alufinal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Alufinal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-17-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -358,8 +358,8 @@
 </w.rf>
 <form>Alufinal</form>
 <tag>
-<AM lemma="Alufinal_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Alufinal_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Alufinal_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Alufinal_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p3s1w4">
@@ -376,7 +376,7 @@
 <LM>w#w-ln94211-17-p3s1w5</LM>
 </w.rf>
 <form>Voldana</form>
-<tag lemma="Voldan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Voldan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-17-p3s1w6">
 <src.rf>manual</src.rf>
@@ -434,9 +434,9 @@
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p3s1w12">
@@ -445,7 +445,7 @@
 <LM>w#w-ln94211-17-p3s1w12</LM>
 </w.rf>
 <form>Magvašiho</form>
-<tag lemma="Magvaši_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Magvaši_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-17-p3s1w13">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-ln94211-17-p3s1w18</LM>
 </w.rf>
 <form>Alcanu</form>
-<tag lemma="Alcan_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Alcan_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-17-p3s1w19">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-ln94211-17-p3s1w22</LM>
 </w.rf>
 <form>Alufinal</form>
-<tag lemma="Alufinal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Alufinal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-17-p3s1w23">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln94211-17-p4s1w7</LM>
 </w.rf>
 <form>Voldana</form>
-<tag lemma="Voldan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Voldan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-17-p4s1w8">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-ln94211-17-p4s1w29</LM>
 </w.rf>
 <form>Alufinal</form>
-<tag lemma="Alufinal_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Alufinal_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94211-17-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1048,8 +1048,8 @@
 </w.rf>
 <form>Audi</form>
 <tag>
-<AM lemma="Audi-1_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Audi-1_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Audi_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln94211-17-p4s2w21</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-17-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-ln94211-17-p5s1w1</LM>
 </w.rf>
 <form>Alufinal</form>
-<tag lemma="Alufinal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Alufinal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-17-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1689,7 +1689,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

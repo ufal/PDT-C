@@ -112,8 +112,8 @@
 </w.rf>
 <form>brp</form>
 <tag>
-<AM lemma="brp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="brp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="brp-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="brp-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s1w4">
@@ -487,12 +487,12 @@
 </w.rf>
 <form>Fiatu</form>
 <tag>
-<AM lemma="Fiat-2_;K_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="Fiat_;K_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="Fiat_;K_;R" src="auto">NNIS6-----A---1</AM>
-<AM lemma="fiat-1_;R" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
-<AM lemma="fiat-1_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="fiat-1_;R" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Fiat-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
+<AM lemma="Fiat_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="Fiat_;m" src="auto">NNIS6-----A---1</AM>
+<AM lemma="fiat-1_;m" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="fiat-1_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="fiat-1_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS6-----A---1</AM>
 </tag>
@@ -551,7 +551,7 @@
 <LM>w#w-mf920924-060-p2s3w14</LM>
 </w.rf>
 <form>Lada</form>
-<tag lemma="Lada-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lada-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s3w15">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 <LM>w#w-mf920924-060-p2s4w12</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1697,8 +1697,8 @@
 </w.rf>
 <form>favoritů</form>
 <tag>
-<AM lemma="Favorit-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="Favorit-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
+<AM lemma="favorit-1_;m" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1724,7 +1724,7 @@
 <LM>w#w-mf920924-060-p2s11w7</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s11w8">
 <src.rf>manual</src.rf>
@@ -1733,7 +1733,7 @@
 </w.rf>
 <form>Prima</form>
 <tag>
-<AM lemma="Prima_;K_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Prima_;m_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
 <AM lemma="prima-2_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Prima-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1752,7 +1752,7 @@
 <LM>w#w-mf920924-060-p2s11w10</LM>
 </w.rf>
 <form>Forman</form>
-<tag lemma="Forman-2_;R_^(vozidlo)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Forman-2_;m_^(vozidlo)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s11w11">
 <src.rf>manual</src.rf>
@@ -1761,7 +1761,7 @@
 </w.rf>
 <form>Prima</form>
 <tag>
-<AM lemma="Prima_;K_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Prima_;m_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
 <AM lemma="prima_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="prima-2_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Prima-77" src="manual" selected="1">F%-------------</AM>
@@ -1781,7 +1781,7 @@
 <LM>w#w-mf920924-060-p2s11w13</LM>
 </w.rf>
 <form>Forman</form>
-<tag lemma="Forman-2_;R_^(vozidlo)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Forman-2_;m_^(vozidlo)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s11w14">
 <src.rf>manual</src.rf>
@@ -1790,9 +1790,9 @@
 </w.rf>
 <form>Excellent</form>
 <tag>
-<AM lemma="Excellent_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Excellent_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Excellent_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Excellent_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Excellent_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Excellent_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="excellent_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Excellent-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1856,7 +1856,7 @@
 <LM>w#w-mf920924-060-p2s11w21</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s11w22">
 <src.rf>manual</src.rf>
@@ -1883,10 +1883,10 @@
 </w.rf>
 <form>CS</form>
 <tag>
-<AM lemma="CS-4_:B_;K_^(např._CS_Autolada)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="CS-4_:B_;m_^(např._CS_Autolada)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CS-2_:B_,t_^(Computer_Science)" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="cesium_:B_;H" src="auto">NNNXX-----A---8</AM>
+<AM lemma="cesium_:B_;U" src="auto">NNNXX-----A---8</AM>
 <AM lemma="cirrostratus_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1897,7 +1897,7 @@
 <LM>w#w-mf920924-060-p2s12w3</LM>
 </w.rf>
 <form>Autolada</form>
-<tag lemma="Autolada_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Autolada_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s12w4">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-mf920924-060-p2s12w6</LM>
 </w.rf>
 <form>Samaru</form>
-<tag lemma="Samara-2_;R_^(vozidlo)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Samara-2_;m_^(vozidlo)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s12w7">
 <src.rf>manual</src.rf>
@@ -2164,7 +2164,7 @@
 </w.rf>
 <form>BESO</form>
 <tag>
-<AM lemma="Beso_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Beso_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="BESO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2254,7 +2254,7 @@
 <LM>w#w-mf920924-060-p2s14w18</LM>
 </w.rf>
 <form>Chevrolety</form>
-<tag lemma="Chevrolet_;K_;R" src="auto" selected="1">NNIP4-----A----</tag>
+<tag lemma="Chevrolet_;m" src="auto" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s14w19">
 <src.rf>manual</src.rf>
@@ -2263,8 +2263,8 @@
 </w.rf>
 <form>Corvette</form>
 <tag>
-<AM lemma="Corvette_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Corvette_;R" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Corvette_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Corvette_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s14w20">

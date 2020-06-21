@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9415-015-p2s1w3</LM>
 </w.rf>
 <form>Firotour</form>
-<tag lemma="Firotour_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Firotour_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-015-p3s1">

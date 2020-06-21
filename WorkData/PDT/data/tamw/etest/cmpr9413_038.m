@@ -110,7 +110,7 @@
 </w.rf>
 <form>YSE</form>
 <tag>
-<AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="YSE_:B_;m_^(YSE_Holding,_fin._inst.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="YSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -978,7 +978,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-038-p5s1w36">
@@ -995,7 +995,7 @@
 <LM>w#w-cmpr9413-038-p5s1w37</LM>
 </w.rf>
 <form>Roháček</form>
-<tag lemma="Roháček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roháček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p5s1w38">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-038-p5s1w42">
@@ -1046,7 +1046,7 @@
 <LM>w#w-cmpr9413-038-p5s1w43</LM>
 </w.rf>
 <form>Argaláš</form>
-<tag lemma="Argaláš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Argaláš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p5s1w44">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-038-p5s1w49">
@@ -1105,7 +1105,7 @@
 <LM>w#w-cmpr9413-038-p5s1w50</LM>
 </w.rf>
 <form>Báša</form>
-<tag lemma="Báša_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Báša_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p5s1w51">
 <src.rf>manual</src.rf>
@@ -1415,7 +1415,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w19">
@@ -1432,7 +1432,7 @@
 <LM>w#w-cmpr9413-038-p6s1w20</LM>
 </w.rf>
 <form>Perutková</form>
-<tag lemma="Perutková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Perutková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w21">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w25">
@@ -1483,7 +1483,7 @@
 <LM>w#w-cmpr9413-038-p6s1w26</LM>
 </w.rf>
 <form>Argaláš</form>
-<tag lemma="Argaláš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Argaláš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w27">
 <src.rf>manual</src.rf>
@@ -1597,7 +1597,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w41">
@@ -1614,7 +1614,7 @@
 <LM>w#w-cmpr9413-038-p6s1w42</LM>
 </w.rf>
 <form>Prajzler</form>
-<tag lemma="Prajzler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prajzler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w43">
 <src.rf>manual</src.rf>
@@ -1656,7 +1656,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w48">
@@ -1673,7 +1673,7 @@
 <LM>w#w-cmpr9413-038-p6s1w49</LM>
 </w.rf>
 <form>Adami</form>
-<tag lemma="Adami_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Adami_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-038-p6s1w50">
 <src.rf>manual</src.rf>

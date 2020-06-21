@@ -61,7 +61,7 @@
 <LM>w#w-mf920923-085-p1s1Bw3</LM>
 </w.rf>
 <form>jpk</form>
-<tag lemma="jpk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jpk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920923-085-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-mf920923-085-p1s3w4</LM>
 </w.rf>
 <form>Horová</form>
-<tag lemma="Horová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Horová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-085-p1s3w5">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-mf920923-085-p1s4w25</LM>
 </w.rf>
 <form>Jabůrek</form>
-<tag lemma="Jabůrek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jabůrek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-085-p1s4w26">
 <src.rf>manual</src.rf>

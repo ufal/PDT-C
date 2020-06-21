@@ -927,7 +927,7 @@
 </w.rf>
 <form>ČZ</form>
 <tag>
-<AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="ČZ_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
 <AM lemma="ČZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -937,7 +937,7 @@
 <LM>w#w-cmpr9407-045-p5s3w8</LM>
 </w.rf>
 <form>Cagiva</form>
-<tag lemma="Cagiva_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cagiva_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-045-p5s3w9">
 <src.rf>manual</src.rf>

@@ -316,7 +316,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -431,7 +431,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -589,7 +589,7 @@
 </w.rf>
 <form>Merode</form>
 <tag>
-<AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -792,7 +792,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -837,7 +837,7 @@
 </w.rf>
 <form>BBC</form>
 <tag>
-<AM lemma="BBC_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BBC_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -949,7 +949,7 @@
 </w.rf>
 <form>Merode</form>
 <tag>
-<AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94204-121-p3s4w13</LM>
 </w.rf>
 <form>Biltmore</form>
-<tag lemma="Biltmore_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Biltmore_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-121-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1638,10 +1638,10 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s2w5">
@@ -1705,7 +1705,7 @@
 </w.rf>
 <form>Merode</form>
 <tag>
-<AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -1930,7 +1930,7 @@
 <LM>w#w-ln94204-121-p4s4w8</LM>
 </w.rf>
 <form>Daly</form>
-<tag lemma="Daly_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daly_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-121-p4s4w9">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2075,7 +2075,7 @@
 </w.rf>
 <form>Merode</form>
 <tag>
-<AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -2197,7 +2197,7 @@
 <LM>w#w-ln94204-121-p4s5w19</LM>
 </w.rf>
 <form>Daly</form>
-<tag lemma="Daly_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daly_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-121-p4s5w20">
 <src.rf>manual</src.rf>
@@ -2540,7 +2540,7 @@
 <LM>w#w-ln94204-121-p4s8w14</LM>
 </w.rf>
 <form>Daly</form>
-<tag lemma="Daly_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Daly_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-121-p4s8w15">
 <src.rf>manual</src.rf>
@@ -2570,7 +2570,7 @@
 </w.rf>
 <form>Merode</form>
 <tag>
-<AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -2871,7 +2871,7 @@
 </w.rf>
 <form>Merode</form>
 <tag>
-<AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

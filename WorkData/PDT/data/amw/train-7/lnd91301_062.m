@@ -43,7 +43,7 @@
 <LM>w#w-lnd91301-062-p1s1w4</LM>
 </w.rf>
 <form>Keating</form>
-<tag lemma="Keating_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keating_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p1s1w5">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-lnd91301-062-p2s1w21</LM>
 </w.rf>
 <form>Seiters</form>
-<tag lemma="Seiters_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seiters_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p2s1w22">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <form>Lao</form>
 <tag>
 <AM lemma="Lao_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lao_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lao_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-062-p3s1w4">
@@ -750,7 +750,7 @@
 <form>Šan</form>
 <tag>
 <AM lemma="Šan-1_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šan-1_;Y_;E" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Šan-1_;E_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-062-p3s1w5">
@@ -1320,7 +1320,7 @@
 <LM>w#w-lnd91301-062-p4s1w13</LM>
 </w.rf>
 <form>Ceaušeska</form>
-<tag lemma="Ceaušescu_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ceaušescu_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2114,7 +2114,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-062-p6s1w21">
@@ -2131,7 +2131,7 @@
 <LM>w#w-lnd91301-062-p6s1w22</LM>
 </w.rf>
 <form>Perec</form>
-<tag lemma="Perec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p6s1w23">
 <src.rf>manual</src.rf>
@@ -2688,7 +2688,7 @@
 <form>Inkatha</form>
 <tag>
 <AM lemma="Inkatha_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Inkatha_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Inkatha_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-062-p7s3w20">
@@ -2747,7 +2747,7 @@
 <LM>w#w-lnd91301-062-p8s1w6</LM>
 </w.rf>
 <form>Honecker</form>
-<tag lemma="Honecker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Honecker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-062-p8s1w7">
 <src.rf>manual</src.rf>

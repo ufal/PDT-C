@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-022-p1s1w1</LM>
 </w.rf>
 <form>Slovnaft</form>
-<tag lemma="Slovnaft_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovnaft_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-022-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-mf920922-022-p2s1w4</LM>
 </w.rf>
 <form>Slovnaft</form>
-<tag lemma="Slovnaft_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovnaft_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s1w5">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf920922-022-p2s2w9</LM>
 </w.rf>
 <form>Handelsblatt</form>
-<tag lemma="Handelsblatt_;R_^(časopis)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Handelsblatt_;m_^(časopis)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s2w10">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-mf920922-022-p2s2w12</LM>
 </w.rf>
 <form>Slovnaftu</form>
-<tag lemma="Slovnaft_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovnaft_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s2w13">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-mf920922-022-p2s2w14</LM>
 </w.rf>
 <form>Mlynár</form>
-<tag lemma="Mlynár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mlynár_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s2w15">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-mf920922-022-p2s3w12</LM>
 </w.rf>
 <form>Slovnaftu</form>
-<tag lemma="Slovnaft_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Slovnaft_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s3w13">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-mf920922-022-p2s4w2</LM>
 </w.rf>
 <form>Mlynára</form>
-<tag lemma="Mlynár_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mlynár_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s4w3">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-mf920922-022-p2s4w5</LM>
 </w.rf>
 <form>Slovnaftu</form>
-<tag lemma="Slovnaft_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovnaft_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s4w6">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-mf920922-022-p2s4w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s4w15">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-mf920922-022-p2s5w5</LM>
 </w.rf>
 <form>Mlynára</form>
-<tag lemma="Mlynár_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mlynár_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s5w6">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-mf920922-022-p2s5w10</LM>
 </w.rf>
 <form>Slovnaftu</form>
-<tag lemma="Slovnaft_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovnaft_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-022-p2s5w11">
 <src.rf>manual</src.rf>

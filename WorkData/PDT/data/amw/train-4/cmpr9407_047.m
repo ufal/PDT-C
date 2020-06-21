@@ -822,7 +822,7 @@
 <LM>w#w-cmpr9407-047-p5s2w27</LM>
 </w.rf>
 <form>Desta</form>
-<tag lemma="Desta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Desta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p5s2w28">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-cmpr9407-047-p5s2w30</LM>
 </w.rf>
 <form>Lada</form>
-<tag lemma="Lada-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lada-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p5s2w31">
 <src.rf>manual</src.rf>
@@ -1097,9 +1097,9 @@
 </w.rf>
 <form>ŽĎAS</form>
 <tag>
-<AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="orig">NNIS1-----A----</AM>
-<AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="auto" selected="1">NNIS1-----A---8</AM>
-<AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="auto">NNIS4-----A---8</AM>
+<AM lemma="ŽĎAS-1_:B_;m_^(Žďárské_strojírny)" src="orig">NNIS1-----A----</AM>
+<AM lemma="ŽĎAS-1_:B_;m_^(Žďárské_strojírny)" src="auto" selected="1">NNIS1-----A---8</AM>
+<AM lemma="ŽĎAS-1_:B_;m_^(Žďárské_strojírny)" src="auto">NNIS4-----A---8</AM>
 <AM lemma="Žďas_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Žďas_;Y" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1222,7 +1222,7 @@
 <LM>w#w-cmpr9407-047-p6s1w43</LM>
 </w.rf>
 <form>ČZ</form>
-<tag lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="ČZ_:B_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w44">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-cmpr9407-047-p6s1w53</LM>
 </w.rf>
 <form>Frigera</form>
-<tag lemma="Frigera_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Frigera_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w54">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-cmpr9407-047-p6s1w67</LM>
 </w.rf>
 <form>Dioptra</form>
-<tag lemma="Dioptra_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dioptra_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w68">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-cmpr9407-047-p6s1w70</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w71">
 <src.rf>manual</src.rf>
@@ -1500,16 +1500,16 @@
 <AM lemma="C-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
-<AM lemma="C-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="C-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="C-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="C-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="C-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="C-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w78">
@@ -2048,7 +2048,7 @@
 <LM>w#w-cmpr9407-047-p9s3w3</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p9s3w4">
 <src.rf>manual</src.rf>
@@ -3081,7 +3081,7 @@
 <LM>w#w-cmpr9407-047-p10s3w26</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p10s3w27">
 <src.rf>manual</src.rf>

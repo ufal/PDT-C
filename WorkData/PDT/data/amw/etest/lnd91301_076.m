@@ -39,8 +39,8 @@
 </w.rf>
 <form>Pola</form>
 <tag>
-<AM lemma="Polo_;R_^(vozidlo)" src="auto">NNNP1-----A----</AM>
-<AM lemma="Polo-1_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Polo_;m_^(vozidlo)" src="auto">NNNP1-----A----</AM>
+<AM lemma="Polo-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -67,7 +67,7 @@
 <LM>w#w-lnd91301-076-p2s1Aw3</LM>
 </w.rf>
 <form>Furtwängler</form>
-<tag lemma="Furtwängler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Furtwängler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <form>Walterovi</form>
 <tag>
 <AM lemma="Walter_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Walter_;Y_;S" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Walter_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s1Aw31">
@@ -322,7 +322,7 @@
 <LM>w#w-lnd91301-076-p2s1Aw34</LM>
 </w.rf>
 <form>Livelymu</form>
-<tag lemma="Lively_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Lively_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s1Aw35">
 <src.rf>manual</src.rf>
@@ -355,8 +355,8 @@
 </w.rf>
 <form>Polo</form>
 <tag>
-<AM lemma="Polo_;R_^(vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Polo-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polo_;m_^(vozidlo)" src="auto">NNNS1-----A----</AM>
+<AM lemma="Polo-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s1Aw39">
@@ -399,7 +399,7 @@
 <LM>w#w-lnd91301-076-p2s1Bw3</LM>
 </w.rf>
 <form>Decca</form>
-<tag lemma="Decca_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Decca_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 </w.rf>
 <form>World</form>
 <tag>
-<AM lemma="World_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="World_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -810,7 +810,7 @@
 <LM>w#w-lnd91301-076-p2s2Aw9</LM>
 </w.rf>
 <form>Bachovi</form>
-<tag lemma="Bach_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Bach_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Aw10">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-lnd91301-076-p2s2Aw11</LM>
 </w.rf>
 <form>Händelovi</form>
-<tag lemma="Händel_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Händel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Aw12">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-lnd91301-076-p2s2Aw13</LM>
 </w.rf>
 <form>Chopinovi</form>
-<tag lemma="Chopin_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Chopin_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Aw14">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-lnd91301-076-p2s2Aw16</LM>
 </w.rf>
 <form>Straussovi</form>
-<tag lemma="Strauss_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Strauss_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Aw17">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-lnd91301-076-p2s2Bw8</LM>
 </w.rf>
 <form>Rubinstein</form>
-<tag lemma="Rubinstein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubinstein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Bw9">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 </w.rf>
 <form>RCA</form>
 <tag>
-<AM lemma="RCA-1_:B_;K_,t_^(Radio_Corporation_of_America)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RCA-1_:B_;m_,t_^(Radio_Corporation_of_America)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RCA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1098,7 +1098,7 @@
 </w.rf>
 <form>Chopin</form>
 <tag>
-<AM lemma="Chopin_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Chopin_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Chopin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1109,7 +1109,7 @@
 </w.rf>
 <form>Collection</form>
 <tag>
-<AM lemma="Collection_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Collection_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Collection-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1185,7 +1185,7 @@
 <LM>w#w-lnd91301-076-p2s2Cw7</LM>
 </w.rf>
 <form>Supraphonetu</form>
-<tag lemma="Supraphonet_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Supraphonet_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw8">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw18">
@@ -1284,7 +1284,7 @@
 <LM>w#w-lnd91301-076-p2s2Cw19</LM>
 </w.rf>
 <form>Schumanna</form>
-<tag lemma="Schumann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schumann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw20">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw22">
@@ -1319,7 +1319,7 @@
 <LM>w#w-lnd91301-076-p2s2Cw23</LM>
 </w.rf>
 <form>Schuberta</form>
-<tag lemma="Schubert_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schubert_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw24">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-lnd91301-076-p2s2Cw27</LM>
 </w.rf>
 <form>Snítil</form>
-<tag lemma="Snítil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Snítil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw28">
 <src.rf>manual</src.rf>
@@ -1415,7 +1415,7 @@
 <LM>w#w-lnd91301-076-p2s2Cw35</LM>
 </w.rf>
 <form>Schubertovi</form>
-<tag lemma="Schubert_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Schubert_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw36">
 <src.rf>manual</src.rf>
@@ -1464,8 +1464,8 @@
 </w.rf>
 <form>Gramophonu</form>
 <tag>
-<AM lemma="Gramophon_;R_,t" src="orig">NNIS6-----A----</AM>
-<AM lemma="Gramophon_;R" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Gramophon_;m_,t" src="orig">NNIS6-----A----</AM>
+<AM lemma="Gramophon_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s2Cw42">
@@ -1608,7 +1608,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -1732,7 +1732,7 @@
 <LM>w#w-lnd91301-076-p2s3Aw11</LM>
 </w.rf>
 <form>Janáčka</form>
-<tag lemma="Janáček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Janáček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s3Aw12">
 <src.rf>manual</src.rf>
@@ -1748,7 +1748,7 @@
 <LM>w#w-lnd91301-076-p2s3Aw13</LM>
 </w.rf>
 <form>Firkušný</form>
-<tag lemma="Firkušný_;S" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="Firkušný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s3Aw14">
 <src.rf>manual</src.rf>
@@ -1772,7 +1772,7 @@
 <LM>w#w-lnd91301-076-p2s3Aw16</LM>
 </w.rf>
 <form>Mackerras</form>
-<tag lemma="Mackerras_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mackerras_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s3Aw17">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-lnd91301-076-p2s3Bw4</LM>
 </w.rf>
 <form>Francescatti</form>
-<tag lemma="Francescatti_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francescatti_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s3Bw5">
 <src.rf>manual</src.rf>
@@ -2140,9 +2140,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s4w7">
@@ -2184,7 +2184,7 @@
 </w.rf>
 <form>CBS</form>
 <tag>
-<AM lemma="CBS_:B_;K_,t_^(am._televizní_společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CBS_:B_;m_,t_^(am._televizní_společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2284,7 +2284,7 @@
 <LM>w#w-lnd91301-076-p2s5Aw6</LM>
 </w.rf>
 <form>Supraphon</form>
-<tag lemma="Supraphon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Supraphon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s5Aw7">
 <src.rf>manual</src.rf>
@@ -2336,7 +2336,7 @@
 <LM>w#w-lnd91301-076-p2s5Aw12</LM>
 </w.rf>
 <form>Paganiniho</form>
-<tag lemma="Paganini_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Paganini_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-076-p2s5Aw13">
 <src.rf>manual</src.rf>
@@ -2362,7 +2362,7 @@
 <form>Saint</form>
 <tag>
 <AM lemma="Saint_;Y_,t_^(v_cizích_názvech)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Saint_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Saint_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-076-p2s5Aw16">
@@ -2380,7 +2380,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Saënsovým</form>
-<tag lemma="Saënsův_;S_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Saënsův_;Y_^(*2)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-lnd91301-076-p2s5Aw18">
 <src.rf>manual</src.rf>
@@ -2512,8 +2512,8 @@
 <AM lemma="Vera_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vera_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vera_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="very_,t" src="auto">XX-------------</AM>
 <AM lemma="Very-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2575,7 +2575,7 @@
 <LM>w#w-lnd91301-076-p2s5Bw18</LM>
 </w.rf>
 <form>Sukovými</form>
-<tag lemma="Sukův_;S_^(*2)" src="orig" selected="1">AUNP7M---------</tag>
+<tag lemma="Sukův_;Y_^(*2)" src="orig" selected="1">AUNP7M---------</tag>
 </m>
 <m id="m-lnd91301-076-p2s5Bw19">
 <src.rf>manual</src.rf>
@@ -2591,7 +2591,7 @@
 <LM>w#w-lnd91301-076-p2s5Bw20</LM>
 </w.rf>
 <form>Bartókovými</form>
-<tag lemma="Bartókův_;S_^(*2)" src="orig" selected="1">AUNP7M---------</tag>
+<tag lemma="Bartókův_;Y_^(*2)" src="orig" selected="1">AUNP7M---------</tag>
 </m>
 <m id="m-lnd91301-076-p2s5Bw21">
 <src.rf>manual</src.rf>
@@ -2607,7 +2607,7 @@
 <LM>w#w-lnd91301-076-p2s5Bw22</LM>
 </w.rf>
 <form>Dvořákovými</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUIP7M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUIP7M---------</tag>
 </m>
 <m id="m-lnd91301-076-p2s5Bw23">
 <src.rf>manual</src.rf>
@@ -2689,7 +2689,7 @@
 <LM>w#w-lnd91301-076-p3s1w2</LM>
 </w.rf>
 <form>JEHNE</form>
-<tag lemma="Jehne_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jehne_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

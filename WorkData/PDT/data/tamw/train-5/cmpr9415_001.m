@@ -587,7 +587,7 @@
 <LM>w#w-cmpr9415-001-p5s1w2</LM>
 </w.rf>
 <form>Somol</form>
-<tag lemma="Somol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Somol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p5s1w3">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-cmpr9415-001-p5s1w19</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-cmpr9415-001-p6s1w2</LM>
 </w.rf>
 <form>Lalomde</form>
-<tag lemma="Lalomde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lalomde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1165,7 +1165,7 @@
 </w.rf>
 <form>Désudry</form>
 <tag>
-<AM lemma="Désudry_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Désudry_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Désudry-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1177,8 +1177,8 @@
 <form_change>spell</form_change>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1834,7 +1834,7 @@
 <LM>w#w-cmpr9415-001-p7s1w2</LM>
 </w.rf>
 <form>Soucy</form>
-<tag lemma="Soucy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soucy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2575,7 +2575,7 @@
 </w.rf>
 <form>Okrouhlý</form>
 <tag>
-<AM lemma="Okrouhlý_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Okrouhlý_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="okrouhlý" src="auto">AAFP1----1A---6</AM>
 <AM lemma="okrouhlý" src="auto">AAFP4----1A---6</AM>
 <AM lemma="okrouhlý" src="auto">AAFP5----1A---6</AM>
@@ -3452,7 +3452,7 @@
 <LM>w#w-cmpr9415-001-p9s1w2</LM>
 </w.rf>
 <form>Zikovsky</form>
-<tag lemma="Zikovsky_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zikovsky_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p9s1w3">
 <src.rf>manual</src.rf>
@@ -3508,7 +3508,7 @@
 </w.rf>
 <form>Pearson</form>
 <tag>
-<AM lemma="Pearson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pearson_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Pearson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4059,7 +4059,7 @@
 <LM>w#w-cmpr9415-001-p10s1w2</LM>
 </w.rf>
 <form>Korn</form>
-<tag lemma="Korn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Korn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-001-p10s1w3">
 <src.rf>manual</src.rf>
@@ -4092,7 +4092,7 @@
 </w.rf>
 <form>FKIM</form>
 <tag>
-<AM lemma="FKIM_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FKIM_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="FKIM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

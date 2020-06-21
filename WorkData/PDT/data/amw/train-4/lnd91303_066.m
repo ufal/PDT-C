@@ -1898,7 +1898,7 @@
 <LM>w#w-lnd91303-066-p5s1w4</LM>
 </w.rf>
 <form>VORLA</form>
-<tag lemma="Vorel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vorel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-066-p5s1w5">
 <src.rf>manual</src.rf>

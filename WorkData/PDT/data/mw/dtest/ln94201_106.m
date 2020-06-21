@@ -70,7 +70,7 @@
 <LM>w#w-ln94201-106-p1s1w7</LM>
 </w.rf>
 <form>NOVA</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94201-106-p2s1">
@@ -112,7 +112,7 @@
 <LM>w#w-ln94201-106-p2s1w5</LM>
 </w.rf>
 <form>Veis</form>
-<tag lemma="Veis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p2s1w6">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-ln94201-106-p3s1w2</LM>
 </w.rf>
 <form>Veis</form>
-<tag lemma="Veis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-ln94201-106-p3s1w64</LM>
 </w.rf>
 <form>Krajinové</form>
-<tag lemma="Krajina-1_;S" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Krajina-1_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p3s1w65">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-ln94201-106-p3s1w66</LM>
 </w.rf>
 <form>Černí</form>
-<tag lemma="Černý_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Černý_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p3s1w67">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln94201-106-p3s1w68</LM>
 </w.rf>
 <form>Morávkové</form>
-<tag lemma="Morávek_;S" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="Morávek_;Y" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-ln94201-106-p3s1w69">
 <src.rf>manual</src.rf>
@@ -2198,7 +2198,7 @@
 </w.rf>
 <form>Morning</form>
 <tag>
-<AM lemma="Morning_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Morning_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Morning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2209,7 +2209,7 @@
 </w.rf>
 <form>Star</form>
 <tag>
-<AM lemma="Star_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Star_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="star" src="auto">NNFXX-----A----</AM>
 <AM lemma="star" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
@@ -2247,7 +2247,7 @@
 </w.rf>
 <form>Vörwarts</form>
 <tag>
-<AM lemma="Vorwärts_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Vorwärts_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Vörwarts-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2421,7 +2421,7 @@
 <LM>w#w-ln94201-106-p4s2w2</LM>
 </w.rf>
 <form>Tlučhoř</form>
-<tag lemma="Tlučhoř_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tlučhoř_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2461,7 +2461,7 @@
 <LM>w#w-ln94201-106-p4s2w7</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p4s2w8">
 <src.rf>manual</src.rf>
@@ -2754,7 +2754,7 @@
 </w.rf>
 <form>TN</form>
 <tag>
-<AM lemma="TN-1_:B_;R_^(Televizní_noviny)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="TN-1_:B_;m_^(Televizní_noviny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2926,7 +2926,7 @@
 <LM>w#w-ln94201-106-p4s5w13</LM>
 </w.rf>
 <form>Tlučhoř</form>
-<tag lemma="Tlučhoř_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tlučhoř_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p4s5w14">
 <src.rf>manual</src.rf>
@@ -3005,7 +3005,7 @@
 <LM>w#w-ln94201-106-p5s1w5</LM>
 </w.rf>
 <form>NOVA</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p5s1w6">
 <src.rf>manual</src.rf>
@@ -4009,7 +4009,7 @@
 <LM>w#w-ln94201-106-p6s4w16</LM>
 </w.rf>
 <form>Vlka</form>
-<tag lemma="Vlk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vlk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-106-p6s4w17">
 <src.rf>manual</src.rf>
@@ -4130,8 +4130,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-106-p6s4w32">
@@ -4148,7 +4148,7 @@
 <LM>w#w-ln94201-106-p6s4w33</LM>
 </w.rf>
 <form>Akašiho</form>
-<tag lemma="Akaši_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Akaši_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-106-p6s4w34">
 <src.rf>manual</src.rf>
@@ -4609,7 +4609,7 @@
 </w.rf>
 <form>Broadcasting</form>
 <tag>
-<AM lemma="Broadcasting_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Broadcasting_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="broadcasting_,t_^(vysílání)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="broadcasting_,t_^(vysílání)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Broadcasting-77" src="manual" selected="1">F%-------------</AM>
@@ -4622,7 +4622,7 @@
 </w.rf>
 <form>Company</form>
 <tag>
-<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4648,7 +4648,7 @@
 <LM>w#w-ln94201-106-p7s2w9</LM>
 </w.rf>
 <form>Čapek</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p7s2w10">
 <src.rf>manual</src.rf>
@@ -6068,10 +6068,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -6334,7 +6334,7 @@
 <LM>w#w-ln94201-106-p8s1w12</LM>
 </w.rf>
 <form>NOVY</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-106-p8s1w13">
 <src.rf>manual</src.rf>
@@ -7300,7 +7300,7 @@
 <LM>w#w-ln94201-106-p9s1w4</LM>
 </w.rf>
 <form>Novy</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-106-p9s1w5">
 <src.rf>manual</src.rf>
@@ -7750,7 +7750,7 @@
 <LM>w#w-ln94201-106-p9s3w17</LM>
 </w.rf>
 <form>Rather</form>
-<tag lemma="Rather_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rather_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-106-p9s3w18">
 <src.rf>manual</src.rf>
@@ -8835,7 +8835,7 @@
 <LM>w#w-ln94201-106-p11s5w14</LM>
 </w.rf>
 <form>Kerriganovou</form>
-<tag lemma="Kerriganová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Kerriganová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94201-106-p11s5w15">
 <src.rf>manual</src.rf>
@@ -8851,7 +8851,7 @@
 <LM>w#w-ln94201-106-p11s5w16</LM>
 </w.rf>
 <form>Hardingovou</form>
-<tag lemma="Hardingová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Hardingová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94201-106-p11s5w17">
 <src.rf>manual</src.rf>

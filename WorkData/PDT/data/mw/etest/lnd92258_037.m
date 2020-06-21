@@ -336,7 +336,7 @@
 </w.rf>
 <form>FOS</form>
 <tag>
-<AM lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="orig">NNFP2-----A----</AM>
+<AM lemma="fosa_;U_^(živočich,_cibetkovitá_šelma)" src="orig">NNFP2-----A----</AM>
 <AM lemma="FOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -347,7 +347,7 @@
 </w.rf>
 <form>PHGN</form>
 <tag>
-<AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
+<AM lemma="PHGN_:B_;m_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
 <AM lemma="PHGN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -34,7 +34,7 @@
 <form>Borrelia</form>
 <tag>
 <AM lemma="Borrelia_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Borrelia_;L_,t" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
+<AM lemma="Borrelia_;U_,t" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-013-p1s1w3">
@@ -44,7 +44,7 @@
 </w.rf>
 <form>burgdorferi</form>
 <tag>
-<AM lemma="burgdorferi_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="burgdorferi_;U_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="burgdorferi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

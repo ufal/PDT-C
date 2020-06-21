@@ -175,7 +175,7 @@
 <LM>w#w-ln94202-33-p2s1Bw16</LM>
 </w.rf>
 <form>Špak</form>
-<tag lemma="Špak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-33-p2s1Bw17">
 <src.rf>manual</src.rf>

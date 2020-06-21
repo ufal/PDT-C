@@ -104,8 +104,8 @@
 </w.rf>
 <form>haš</form>
 <tag>
-<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="haš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-21-p2s1Bw4">
@@ -123,8 +123,8 @@
 </w.rf>
 <form>če</form>
 <tag>
-<AM lemma="če-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="če-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="če-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="če-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-21-p2s1Bw6">
@@ -389,7 +389,7 @@
 <LM>w#w-ln94209-21-p2s1Cw30</LM>
 </w.rf>
 <form>Ortman</form>
-<tag lemma="Ortman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ortman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-21-p2s1Cw31">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-ln94209-21-p2s2w30</LM>
 </w.rf>
 <form>Ortman</form>
-<tag lemma="Ortman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ortman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-21-p2s2w31">
 <src.rf>manual</src.rf>

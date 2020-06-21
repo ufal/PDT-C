@@ -35,7 +35,7 @@
 <LM>w#w-ln95045-039-p1s1w3</LM>
 </w.rf>
 <form>Othello</form>
-<tag lemma="Othello_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Othello_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95045-039-p2s1A">
@@ -71,7 +71,7 @@
 <LM>w#w-ln95045-039-p2s1Bw3</LM>
 </w.rf>
 <form>Shakespearovou</form>
-<tag lemma="Shakespearův_;S_^(*2e)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Shakespearův_;Y_^(*2e)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln95045-039-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln95045-039-p2s1Bw5</LM>
 </w.rf>
 <form>OTHELLO</form>
-<tag lemma="Othello_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Othello_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-039-p2s1Bw11">
@@ -148,7 +148,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-039-p2s1Bw13">
@@ -165,7 +165,7 @@
 <LM>w#w-ln95045-039-p2s1Bw14</LM>
 </w.rf>
 <form>Tyla</form>
-<tag lemma="Tyl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tyl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-039-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln95045-039-p2s2w13</LM>
 </w.rf>
 <form>Burian</form>
-<tag lemma="Burian_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burian_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p2s2w14">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-ln95045-039-p2s2w17</LM>
 </w.rf>
 <form>Glogr</form>
-<tag lemma="Glogr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Glogr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p2s2w18">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-ln95045-039-p2s2w21</LM>
 </w.rf>
 <form>Bejblíka</form>
-<tag lemma="Bejblík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bejblík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-039-p2s2w22">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-ln95045-039-p3s1w2</LM>
 </w.rf>
 <form>Bejblíkův</form>
-<tag lemma="Bejblíkův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Bejblíkův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95045-039-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1845,7 +1845,7 @@
 <LM>w#w-ln95045-039-p4s4w10</LM>
 </w.rf>
 <form>Othella</form>
-<tag lemma="Othello_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Othello_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-039-p4s4w11">
 <src.rf>manual</src.rf>
@@ -2089,7 +2089,7 @@
 <form>Brabantia</form>
 <tag>
 <AM lemma="Brabantio_;Y" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Brabantia_;K" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Brabantia_;m" src="auto" recommended="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95045-039-p4s5w18">
@@ -2106,7 +2106,7 @@
 <LM>w#w-ln95045-039-p4s5w19</LM>
 </w.rf>
 <form>Othella</form>
-<tag lemma="Othello_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Othello_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-039-p4s5w20">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <LM>w#w-ln95045-039-p5s1w19</LM>
 </w.rf>
 <form>Othella</form>
-<tag lemma="Othello_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Othello_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-039-p5s1w20">
 <src.rf>manual</src.rf>
@@ -2514,7 +2514,7 @@
 <LM>w#w-ln95045-039-p5s1w22</LM>
 </w.rf>
 <form>Mucha</form>
-<tag lemma="Mucha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mucha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p5s1w23">
 <src.rf>manual</src.rf>
@@ -2646,7 +2646,7 @@
 <LM>w#w-ln95045-039-p5s3w1</LM>
 </w.rf>
 <form>Muchův</form>
-<tag lemma="Muchův_;S_^(*2a)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Muchův_;Y_^(*2a)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln95045-039-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2654,7 +2654,7 @@
 <LM>w#w-ln95045-039-p5s3w2</LM>
 </w.rf>
 <form>Othello</form>
-<tag lemma="Othello_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Othello_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p5s3w3">
 <src.rf>manual</src.rf>
@@ -2862,7 +2862,7 @@
 <LM>w#w-ln95045-039-p5s3w28</LM>
 </w.rf>
 <form>Munzarová</form>
-<tag lemma="Munzarová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Munzarová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p5s3w29">
 <src.rf>manual</src.rf>
@@ -3290,7 +3290,7 @@
 <LM>w#w-ln95045-039-p5s5w33</LM>
 </w.rf>
 <form>Othello</form>
-<tag lemma="Othello_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Othello_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p5s5w34">
 <src.rf>manual</src.rf>
@@ -3412,7 +3412,7 @@
 <LM>w#w-ln95045-039-p6s1w11</LM>
 </w.rf>
 <form>Brendlová</form>
-<tag lemma="Brendlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Brendlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p6s1w12">
 <src.rf>manual</src.rf>
@@ -3622,7 +3622,7 @@
 <LM>w#w-ln95045-039-p6s2w2</LM>
 </w.rf>
 <form>Pavlovský</form>
-<tag lemma="Pavlovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavlovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p6s2w3">
 <src.rf>manual</src.rf>
@@ -4108,9 +4108,9 @@
 </w.rf>
 <form>Machalická</form>
 <tag>
-<AM lemma="Machalický_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Machalická_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Machalická_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Machalický_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Machalická_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Machalická_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
 </s>
@@ -4131,7 +4131,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-039-p6s5w5">
@@ -4150,7 +4150,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-039-p6s5w7">
@@ -4167,7 +4167,7 @@
 <LM>w#w-ln95045-039-p6s5w8</LM>
 </w.rf>
 <form>Tyla</form>
-<tag lemma="Tyl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tyl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-039-p6s5w9">
 <src.rf>manual</src.rf>
@@ -4201,7 +4201,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-039-p6s5w13">
@@ -4218,7 +4218,7 @@
 <LM>w#w-ln95045-039-p6s5w14</LM>
 </w.rf>
 <form>Shakespeare</form>
-<tag lemma="Shakespeare_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shakespeare_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p6s5w15">
 <src.rf>manual</src.rf>
@@ -4234,7 +4234,7 @@
 <LM>w#w-ln95045-039-p6s5w16</LM>
 </w.rf>
 <form>Othello</form>
-<tag lemma="Othello_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Othello_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-039-p6s5w17">
 <src.rf>manual</src.rf>

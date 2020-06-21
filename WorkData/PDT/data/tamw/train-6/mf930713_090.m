@@ -546,7 +546,7 @@
 <LM>w#w-mf930713-090-p2s3w17</LM>
 </w.rf>
 <form>Jurečková</form>
-<tag lemma="Jurečková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jurečková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-090-p2s3w18">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-mf930713-090-p2s6w7</LM>
 </w.rf>
 <form>Jurečkovi</form>
-<tag lemma="Jurečkův_;S_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Jurečkův_;Y_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930713-090-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1161,7 +1161,7 @@
 <LM>w#w-mf930713-090-p2s9w14</LM>
 </w.rf>
 <form>Jurečková</form>
-<tag lemma="Jurečková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jurečková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-090-p2s9w15">
 <src.rf>manual</src.rf>

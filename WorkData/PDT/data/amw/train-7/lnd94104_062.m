@@ -61,7 +61,7 @@
 <LM>w#w-lnd94104-062-p1s1Bw2</LM>
 </w.rf>
 <form>Krištofová</form>
-<tag lemma="Krištofová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krištofová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-062-p1s1C">
@@ -276,7 +276,7 @@
 <LM>w#w-lnd94104-062-p1s2w7</LM>
 </w.rf>
 <form>Gerin</form>
-<tag lemma="Gerin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gerin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s2w8">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-lnd94104-062-p1s3w17</LM>
 </w.rf>
 <form>Habyarimana</form>
-<tag lemma="Habyarimana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Habyarimana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s3w18">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 </w.rf>
 <form>FPR</form>
 <tag>
-<AM lemma="FPR-2_:B_;K_,t_^(Rwandská_vlastenecká_fronta)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FPR-2_:B_;m_,t_^(Rwandská_vlastenecká_fronta)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FPR-1_:B_,t_^(floating_point_register)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="FPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1068,7 +1068,7 @@
 <LM>w#w-lnd94104-062-p1s6w16</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-062-p1s6w17">
 <src.rf>manual</src.rf>
@@ -1101,7 +1101,7 @@
 </w.rf>
 <form>UNHCR</form>
 <tag>
-<AM lemma="UNHCR_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UNHCR_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="UNHCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1208,7 +1208,7 @@
 </w.rf>
 <form>UNHCR</form>
 <tag>
-<AM lemma="UNHCR_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UNHCR_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="UNHCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1502,7 +1502,7 @@
 <LM>w#w-lnd94104-062-p1s8w14</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-062-p1s8w15">
 <src.rf>manual</src.rf>
@@ -1535,7 +1535,7 @@
 </w.rf>
 <form>UNAMIR</form>
 <tag>
-<AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNAMIR-1_:B_;m_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNAMIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2209,7 +2209,7 @@
 <form>Rotha</form>
 <tag>
 <AM lemma="Roth" src="orig">NNMS2-----A----</AM>
-<AM lemma="Roth_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Roth_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s12w4">
@@ -2251,7 +2251,7 @@
 </w.rf>
 <form>Human</form>
 <tag>
-<AM lemma="Human_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Human_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Human-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2262,7 +2262,7 @@
 </w.rf>
 <form>Rights</form>
 <tag>
-<AM lemma="Rights_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Rights_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Rights-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2273,7 +2273,7 @@
 </w.rf>
 <form>Watch</form>
 <tag>
-<AM lemma="Watch_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Watch_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Watch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2887,7 +2887,7 @@
 </w.rf>
 <form>UNAMIR</form>
 <tag>
-<AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNAMIR-1_:B_;m_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNAMIR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3466,7 +3466,7 @@
 <LM>w#w-lnd94104-062-p1s18w7</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-062-p1s18w8">
 <src.rf>manual</src.rf>
@@ -3870,7 +3870,7 @@
 <LM>w#w-lnd94104-062-p1s20w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-062-p1s20w4">
 <src.rf>manual</src.rf>

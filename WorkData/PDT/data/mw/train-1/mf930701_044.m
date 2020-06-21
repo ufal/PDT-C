@@ -190,8 +190,8 @@
 </w.rf>
 <form>Gargantua</form>
 <tag>
-<AM lemma="Gargantua_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Gargantua-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gargantua_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gargantua-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-044-p1s2w4">
@@ -402,7 +402,7 @@
 <LM>w#w-mf930701-044-p1s3w5</LM>
 </w.rf>
 <form>Polanského</form>
-<tag lemma="Polanský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Polanský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-044-p1s3w6">
 <src.rf>manual</src.rf>

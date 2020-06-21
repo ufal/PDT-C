@@ -2165,7 +2165,7 @@
 <LM>w#w-ln95043-001-p4s2w8</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95043-001-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2536,7 +2536,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-001-p4s5w16">
@@ -2553,7 +2553,7 @@
 <LM>w#w-ln95043-001-p4s5w17</LM>
 </w.rf>
 <form>Vesterbyho</form>
-<tag lemma="Vesterby_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vesterby_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-001-p4s5w18">
 <src.rf>manual</src.rf>

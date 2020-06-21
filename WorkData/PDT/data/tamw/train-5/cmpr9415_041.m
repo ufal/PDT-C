@@ -733,9 +733,9 @@
 <form>City</form>
 <tag>
 <AM lemma="city_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -3871,7 +3871,7 @@
 <LM>w#w-cmpr9415-041-p10s1w2</LM>
 </w.rf>
 <form>Lánský</form>
-<tag lemma="Lánský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lánský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

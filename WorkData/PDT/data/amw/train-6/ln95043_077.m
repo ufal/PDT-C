@@ -849,7 +849,7 @@
 <form>Suis</form>
 <tag>
 <AM lemma="Suis_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="suis_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="suis_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Suis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

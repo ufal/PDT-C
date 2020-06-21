@@ -104,7 +104,7 @@
 <LM>w#w-ln94201-58-p2s1w2</LM>
 </w.rf>
 <form>Černoušková</form>
-<tag lemma="Černoušková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Černoušková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-58-p2s1w3">
 <src.rf>manual</src.rf>
@@ -526,9 +526,9 @@
 </w.rf>
 <form>Österreich</form>
 <tag>
-<AM lemma="Österreich_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Österreich_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Österreich_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Österreich_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Österreich_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Österreich_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Österreich-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -539,9 +539,9 @@
 </w.rf>
 <form>Werbung</form>
 <tag>
-<AM lemma="Werbung_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Werbung_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Werbung_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Werbung_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Werbung_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Werbung_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Werbung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1549,7 +1549,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1624,7 +1624,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1889,7 +1889,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -3156,9 +3156,9 @@
 </w.rf>
 <form>Österreich</form>
 <tag>
-<AM lemma="Österreich_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Österreich_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Österreich_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Österreich_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Österreich_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Österreich_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Österreich-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3169,9 +3169,9 @@
 </w.rf>
 <form>Werbung</form>
 <tag>
-<AM lemma="Werbung_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Werbung_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Werbung_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Werbung_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Werbung_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Werbung_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Werbung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

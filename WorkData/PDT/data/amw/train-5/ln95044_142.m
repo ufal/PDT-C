@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-142-p1s1w1</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-142-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-142-p1s1w2</LM>
 </w.rf>
 <form>Buchanan</form>
-<tag lemma="Buchanan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchanan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-142-p1s1w3">
 <src.rf>manual</src.rf>

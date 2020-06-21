@@ -188,7 +188,7 @@
 <LM>w#w-lnd91303-017-p4s1w15</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-017-p4s1w16">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-lnd91303-017-p4s2w7</LM>
 </w.rf>
 <form>Gorbačova</form>
-<tag lemma="Gorbačov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gorbačov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91303-017-p4s2w8">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-017-p4s3w5">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-lnd91303-017-p4s3w10</LM>
 </w.rf>
 <form>Husajn</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-017-p4s3w11">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <tag>
 <AM lemma="Norman-4_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Norman-1_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Norman-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Norman-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Norman-3_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Norman-3_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -466,9 +466,9 @@
 </w.rf>
 <form>Schwarzkopf</form>
 <tag>
-<AM lemma="Schwarzkopf_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Schwarzkopf-2_;S" src="manual">NNIS1-----A----</AM>
-<AM lemma="Schwarzkopf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Schwarzkopf_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Schwarzkopf-2_;Y" src="manual">NNIS1-----A----</AM>
+<AM lemma="Schwarzkopf-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-017-p4s4w6">

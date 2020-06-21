@@ -135,7 +135,7 @@
 <LM>w#w-ln94202-137-p2s1Bw2</LM>
 </w.rf>
 <form>Krčálová</form>
-<tag lemma="Krčálová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krčálová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-137-p2s1C">
@@ -560,7 +560,7 @@
 <LM>w#w-ln94202-137-p3s1w21</LM>
 </w.rf>
 <form>Fantík</form>
-<tag lemma="Fantík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fantík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-137-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-ln94202-137-p5s3w10</LM>
 </w.rf>
 <form>Fantík</form>
-<tag lemma="Fantík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fantík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-137-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1828,7 +1828,7 @@
 <LM>w#w-ln94202-137-p6s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94202-137-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2320,7 +2320,7 @@
 <LM>w#w-ln94202-137-p6s4w23</LM>
 </w.rf>
 <form>Fantík</form>
-<tag lemma="Fantík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fantík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-137-p6s4w24">
 <src.rf>manual</src.rf>
@@ -3427,7 +3427,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-137-p7s7w10">
@@ -3444,7 +3444,7 @@
 <LM>w#w-ln94202-137-p7s7w11</LM>
 </w.rf>
 <form>Fantík</form>
-<tag lemma="Fantík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fantík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-137-p7s7w12">
 <src.rf>manual</src.rf>
@@ -4022,7 +4022,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-137-p9s3w17">
@@ -4039,7 +4039,7 @@
 <LM>w#w-ln94202-137-p9s3w18</LM>
 </w.rf>
 <form>Fantík</form>
-<tag lemma="Fantík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fantík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-137-p9s3w19">
 <src.rf>manual</src.rf>

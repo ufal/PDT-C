@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-052-p1s1w1</LM>
 </w.rf>
 <form>Grussmann</form>
-<tag lemma="Grussmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grussmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-052-p1s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +53,7 @@
 <LM>w#w-mf920923-052-p2s1w2</LM>
 </w.rf>
 <form>Grussmann</form>
-<tag lemma="Grussmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grussmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-052-p2s1w3">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-mf920923-052-p2s2w9</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-052-p2s2w10">
 <src.rf>manual</src.rf>
@@ -192,9 +192,9 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-1_:B_;K_^(tělovýchovná_jednota)" src="manual">NNXXX-----A----</AM>
-<AM lemma="TJ-2_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="manual">NNXXX-----A----</AM>
+<AM lemma="TJ-2_:B_;m_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-052-p2s2w13">
@@ -245,7 +245,7 @@
 <LM>w#w-mf920923-052-p2s3w4</LM>
 </w.rf>
 <form>Betisu</form>
-<tag lemma="Betis_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Betis_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-052-p2s3w5">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-mf920923-052-p2s3w23</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920923-052-p2s3w24">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf920923-052-p2s4w13</LM>
 </w.rf>
 <form>Baník</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-052-p2s4w14">
 <src.rf>manual</src.rf>

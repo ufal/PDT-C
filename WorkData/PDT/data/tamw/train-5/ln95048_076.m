@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-076-p1s1w2</LM>
 </w.rf>
 <form>Spejbla</form>
-<tag lemma="Spejbl_;S_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Spejbl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-076-p1s1w3">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-ln95048-076-p1s2Aw2</LM>
 </w.rf>
 <form>Spejbl</form>
-<tag lemma="Spejbl_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Spejbl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-076-p1s2Aw3">
 <src.rf>manual</src.rf>
@@ -318,8 +318,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="orig">Q3-------------</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-076-p1s2Aw21">
@@ -329,8 +329,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-076-p1s2Aw22">
@@ -348,8 +348,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="orig">Q3-------------</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-076-p1s2Aw24">
@@ -509,7 +509,7 @@
 <LM>w#w-ln95048-076-p1s3w2</LM>
 </w.rf>
 <form>Kirschner</form>
-<tag lemma="Kirschner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kirschner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-076-p1s3w3">
 <src.rf>manual</src.rf>

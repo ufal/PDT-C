@@ -35,7 +35,7 @@
 <LM>w#w-lnd92251-057-p1s1w3</LM>
 </w.rf>
 <form>Odehnal</form>
-<tag lemma="Odehnal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Odehnal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-057-p1s1w4">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-lnd92251-057-p1s3w1</LM>
 </w.rf>
 <form>Turana</form>
-<tag lemma="Turan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Turan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-057-p1s3w2">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-lnd92251-057-p1s3w3</LM>
 </w.rf>
 <form>Zelenkou</form>
-<tag lemma="Zelenka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Zelenka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92251-057-p1s3w4">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-lnd92251-057-p1s3w10</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92251-057-p1s3w11">
 <src.rf>manual</src.rf>
@@ -326,8 +326,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-2_:B_;m_^(Lidové_noviny,_nakl.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-057-p2s1w3">
@@ -352,7 +352,7 @@
 <LM>w#w-lnd92251-057-p2s1w5</LM>
 </w.rf>
 <form>Merta</form>
-<tag lemma="Merta-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merta-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

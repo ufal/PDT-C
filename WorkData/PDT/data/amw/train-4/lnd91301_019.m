@@ -35,7 +35,7 @@
 <LM>w#w-lnd91301-019-p1s1w3</LM>
 </w.rf>
 <form>Inteco</form>
-<tag lemma="Inteco_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Inteco_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91301-019-p1s1w4">
 <src.rf>manual</src.rf>
@@ -54,7 +54,7 @@
 <tag>
 <AM lemma="Arbien_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Arbien_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Arbien_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Arbien_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -82,8 +82,8 @@
 </w.rf>
 <form>jak</form>
 <tag>
-<AM lemma="jak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
+<AM lemma="jak-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jak-1_;U_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
@@ -219,9 +219,9 @@
 <form>INTECO</form>
 <tag>
 <AM lemma="INTECO_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Inteco_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Inteco_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Inteco_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Inteco_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Inteco_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Inteco_;m" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s1w15">
@@ -303,8 +303,8 @@
 </w.rf>
 <form>ARBIEN</form>
 <tag>
-<AM lemma="ARBIEN_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="ARBIEN_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="ARBIEN_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="ARBIEN_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s1w25">
@@ -575,8 +575,8 @@
 </w.rf>
 <form>Wanzl</form>
 <tag>
-<AM lemma="Wanzl_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wanzl_;K_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Wanzl_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wanzl_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w17">
@@ -666,8 +666,8 @@
 </w.rf>
 <form>Frigomac</form>
 <tag>
-<AM lemma="Frigomac_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Frigomac_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Frigomac_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Frigomac_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w28">
@@ -717,8 +717,8 @@
 </w.rf>
 <form>Laska</form>
 <tag>
-<AM lemma="Laska-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Laska-1_;K_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Laska-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Laska-1_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w34">
@@ -761,7 +761,7 @@
 <form>Berkel</form>
 <tag>
 <AM lemma="Berkel_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Berkel_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Berkel_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w39">
@@ -827,8 +827,8 @@
 </w.rf>
 <form>OZAP</form>
 <tag>
-<AM lemma="OZAP_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="OZAP_;K" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="OZAP_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OZAP_;m" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w47">
@@ -887,7 +887,7 @@
 <form>Alba</form>
 <tag>
 <AM lemma="alba" src="orig">NNFS1-----A----</AM>
-<AM lemma="Alba_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alba_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w54">
@@ -912,7 +912,7 @@
 <LM>w#w-lnd91301-019-p3s2w56</LM>
 </w.rf>
 <form>Frigela</form>
-<tag lemma="Frigela_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Frigela_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-019-p3s2w57">
 <src.rf>manual</src.rf>
@@ -937,8 +937,8 @@
 </w.rf>
 <form>Merkuria</form>
 <tag>
-<AM lemma="Merkurie_;K" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Merkuria_;K_,s_^(^DD**Merkurie)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Merkurie_;m" src="orig">NNFS1-----A---1</AM>
+<AM lemma="Merkuria_;m_,s_^(^DD**Merkurie)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w60">
@@ -1009,7 +1009,7 @@
 </w.rf>
 <form>BVV</form>
 <tag>
-<AM lemma="BVV_:B_;K" src="orig">NNIPX-----A---8</AM>
+<AM lemma="BVV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="BVV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1046,7 +1046,7 @@
 <LM>w#w-lnd91301-019-p3s3w10</LM>
 </w.rf>
 <form>Svobody</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-019-p3s3w11">
 <src.rf>manual</src.rf>

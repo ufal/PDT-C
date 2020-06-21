@@ -53,7 +53,7 @@
 <LM>w#w-ln95043-096-p2s1w4</LM>
 </w.rf>
 <form>Hyundai</form>
-<tag lemma="Hyundai_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hyundai_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-096-p2s1w5">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-ln95043-096-p2s2w11</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95043-096-p2s2w12">
 <src.rf>manual</src.rf>
@@ -326,11 +326,11 @@
 </w.rf>
 <form>Saab</form>
 <tag>
-<AM lemma="Saab-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Saab_;K" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Saab_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="saab_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="saab_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Saab-2_;m_^(vozidlo)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Saab_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Saab_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="saab_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="saab_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-096-p3s1w5">
@@ -492,7 +492,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -578,11 +578,11 @@
 </w.rf>
 <form>Saab</form>
 <tag>
-<AM lemma="Saab-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Saab_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Saab_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="saab_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="saab_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Saab-2_;m_^(vozidlo)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Saab_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Saab_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="saab_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="saab_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-096-p3s2w9">

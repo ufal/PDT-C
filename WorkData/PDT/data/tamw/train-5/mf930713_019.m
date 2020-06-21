@@ -93,7 +93,7 @@
 <LM>w#w-mf930713-019-p2s1Bw3</LM>
 </w.rf>
 <form>Mercer</form>
-<tag lemma="Mercer-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mercer-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-019-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-mf930713-019-p2s1Bw11</LM>
 </w.rf>
 <form>Fergusona</form>
-<tag lemma="Ferguson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ferguson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-019-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-mf930713-019-p2s2w10</LM>
 </w.rf>
 <form>Fergusonovi</form>
-<tag lemma="Ferguson_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ferguson_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930713-019-p2s2w11">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-mf930713-019-p2s2w12</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930713-019-p2s2w13">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf930713-019-p2s3w4</LM>
 </w.rf>
 <form>Mercera</form>
-<tag lemma="Mercer-2_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mercer-2_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930713-019-p2s3w5">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-mf930713-019-p2s3w11</LM>
 </w.rf>
 <form>Bowem</form>
-<tag lemma="Bowe_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Bowe_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-019-p2s3w12">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-mf930713-019-p2s4w4</LM>
 </w.rf>
 <form>Ferguson</form>
-<tag lemma="Ferguson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ferguson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-019-p2s4w5">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-mf930713-019-p2s5w18</LM>
 </w.rf>
 <form>Mercer</form>
-<tag lemma="Mercer-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mercer-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-019-p2s5w19">
 <src.rf>manual</src.rf>

@@ -36,7 +36,7 @@
 </w.rf>
 <form>ZOH</form>
 <tag>
-<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -187,7 +187,7 @@
 </w.rf>
 <form>MOV</form>
 <tag>
-<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV_:B_;m_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MOV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -253,7 +253,7 @@
 <LM>w#w-ln94207-47-p2s1Bw23</LM>
 </w.rf>
 <form>Hodler</form>
-<tag lemma="Hodler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hodler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-47-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 </w.rf>
 <form>ZOH</form>
 <tag>
-<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

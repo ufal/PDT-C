@@ -19,7 +19,7 @@
 <LM>w#w-mf930709-120-p1s1w1</LM>
 </w.rf>
 <form>Voleník</form>
-<tag lemma="Voleník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Voleník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-120-p1s1w2">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-mf930709-120-p1s1w6</LM>
 </w.rf>
 <form>Peřich</form>
-<tag lemma="Peřich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peřich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-120-p1s1w7">
 <src.rf>manual</src.rf>

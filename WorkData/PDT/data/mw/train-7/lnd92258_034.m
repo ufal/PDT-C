@@ -107,7 +107,7 @@
 <LM>w#w-lnd92258-034-p1s1w12</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-034-p1s1w13">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -273,7 +273,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -429,7 +429,7 @@
 <LM>w#w-lnd92258-034-p1s3w9</LM>
 </w.rf>
 <form>Savvin</form>
-<tag lemma="Savvin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Savvin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-034-p1s3w10">
 <src.rf>manual</src.rf>

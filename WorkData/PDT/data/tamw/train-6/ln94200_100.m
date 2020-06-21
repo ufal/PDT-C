@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-100-p1s1w1</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-100-p1s1w2">
 <src.rf>manual</src.rf>
@@ -88,10 +88,10 @@
 </w.rf>
 <form>Motýl</form>
 <tag>
-<AM lemma="Motýl_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Motýl_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="motýl" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Motýl-1_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Motýl_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Motýl-1_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Motýl_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -166,7 +166,7 @@
 <LM>w#w-ln94200-100-p2s1w12</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s1w13">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-ln94200-100-p2s1w18</LM>
 </w.rf>
 <form>Shelby</form>
-<tag lemma="Shelby_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shelby_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s1w19">
 <src.rf>manual</src.rf>
@@ -239,8 +239,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-100-p2s1w22">
@@ -677,7 +677,7 @@
 <LM>w#w-ln94200-100-p2s3w18</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s3w19">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-ln94200-100-p2s4w7</LM>
 </w.rf>
 <form>Tatry</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 </w.rf>
 <form>GSR</form>
 <tag>
-<AM lemma="GSR_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1370,7 +1370,7 @@
 <LM>w#w-ln94200-100-p2s6w9</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <LM>w#w-ln94200-100-p2s7w4</LM>
 </w.rf>
 <form>Dlouhého</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <LM>w#w-ln94200-100-p2s7w8</LM>
 </w.rf>
 <form>Liaz</form>
-<tag lemma="Liaz_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Liaz_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1575,7 +1575,7 @@
 <LM>w#w-ln94200-100-p2s7w10</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1639,7 +1639,7 @@
 <LM>w#w-ln94200-100-p2s7w18</LM>
 </w.rf>
 <form>Liaz</form>
-<tag lemma="Liaz_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Liaz_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1663,7 +1663,7 @@
 <LM>w#w-ln94200-100-p2s7w21</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s7w22">
 <src.rf>manual</src.rf>
@@ -1809,7 +1809,7 @@
 <LM>w#w-ln94200-100-p2s8w15</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s8w16">
 <src.rf>manual</src.rf>
@@ -1948,7 +1948,7 @@
 </w.rf>
 <form>GSR</form>
 <tag>
-<AM lemma="GSR_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1966,7 +1966,7 @@
 <LM>w#w-ln94200-100-p2s9w8</LM>
 </w.rf>
 <form>Tatru</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94200-100-p2s9w9">
 <src.rf>manual</src.rf>
@@ -2380,7 +2380,7 @@
 <form>cash</form>
 <tag>
 <AM lemma="cash_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

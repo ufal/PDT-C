@@ -69,7 +69,7 @@
 <LM>w#w-ln94209-33-p2s1Aw4</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="vet-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94209-33-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln94209-33-p2s1Bw10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw11">
 <src.rf>manual</src.rf>

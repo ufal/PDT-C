@@ -52,8 +52,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-989-p1s1w6">
@@ -340,7 +340,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-989-p1s3w4">
@@ -365,7 +365,7 @@
 <LM>w#w-lnd94101-989-p1s3w6</LM>
 </w.rf>
 <form>Puschacher</form>
-<tag lemma="Puschacher_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Puschacher_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-989-p1s3w7">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-lnd94101-989-p1s3w16</LM>
 </w.rf>
 <form>Smirnova</form>
-<tag lemma="Smirnov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smirnov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-989-p1s3w17">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-lnd94101-989-p1s11Bw3</LM>
 </w.rf>
 <form>Simonds</form>
-<tag lemma="Simonds_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Simonds_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-989-p1s11Bw4">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-lnd94101-989-p1s11Bw9</LM>
 </w.rf>
 <form>Nosov</form>
-<tag lemma="Nosov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nosov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-989-p1s11Bw10">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-lnd94101-989-p1s11Bw11</LM>
 </w.rf>
 <form>Karabanov</form>
-<tag lemma="Karabanov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Karabanov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-989-p1s11Bw12">
 <src.rf>manual</src.rf>

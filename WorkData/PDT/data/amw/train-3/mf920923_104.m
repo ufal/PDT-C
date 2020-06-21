@@ -1497,7 +1497,7 @@
 <LM>w#w-mf920923-104-p4s1w32</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-104-p4s1w33">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 <LM>w#w-mf920923-104-p5s1w9</LM>
 </w.rf>
 <form>Sandner</form>
-<tag lemma="Sandner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sandner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-104-p5s1w10">
 <src.rf>manual</src.rf>
@@ -3214,7 +3214,7 @@
 <LM>w#w-mf920923-104-p7s4w23</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-104-p7s4w24">
 <src.rf>manual</src.rf>
@@ -3685,7 +3685,7 @@
 <LM>w#w-mf920923-104-p8s2w19</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-104-p8s2w20">
 <src.rf>manual</src.rf>
@@ -3805,8 +3805,8 @@
 </w.rf>
 <form>Klaus</form>
 <tag>
-<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-104-p9s1w2">
@@ -3815,7 +3815,7 @@
 <LM>w#w-mf920923-104-p9s1w2</LM>
 </w.rf>
 <form>Hofbauer</form>
-<tag lemma="Hofbauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofbauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-104-p9s1w3">
 <src.rf>manual</src.rf>
@@ -4473,7 +4473,7 @@
 <LM>w#w-mf920923-104-p10s1w22</LM>
 </w.rf>
 <form>Hofbauer</form>
-<tag lemma="Hofbauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofbauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-104-p10s1w23">
 <src.rf>manual</src.rf>
@@ -4680,7 +4680,7 @@
 <LM>w#w-mf920923-104-p11s1w4</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-104-p11s1w5">
 <src.rf>manual</src.rf>
@@ -4746,7 +4746,7 @@
 <LM>w#w-mf920923-104-p11s2w4</LM>
 </w.rf>
 <form>Hofbauera</form>
-<tag lemma="Hofbauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hofbauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-104-p11s2w5">
 <src.rf>manual</src.rf>
@@ -4762,7 +4762,7 @@
 <LM>w#w-mf920923-104-p11s2w6</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-104-p11s2w7">
 <src.rf>manual</src.rf>

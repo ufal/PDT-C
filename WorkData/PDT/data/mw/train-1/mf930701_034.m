@@ -172,8 +172,8 @@
 </w.rf>
 <form>Toll</form>
 <tag>
-<AM lemma="Toll_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Toll_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Toll_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Toll_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Toll-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -184,7 +184,7 @@
 </w.rf>
 <form>Motorway</form>
 <tag>
-<AM lemma="Motorway_;K" src="orig">NNFSX-----A----</AM>
+<AM lemma="Motorway_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Motorway-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -206,7 +206,7 @@
 </w.rf>
 <form>Republic</form>
 <tag>
-<AM lemma="Republic_;K_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Republic_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Republic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -225,7 +225,7 @@
 </w.rf>
 <form>TMCR</form>
 <tag>
-<AM lemma="TMCR_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TMCR_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TMCR_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="TMCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -557,7 +557,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-3`500" src="orig">C}-------------</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s3w18">
@@ -823,7 +823,7 @@
 </w.rf>
 <form>TMCR</form>
 <tag>
-<AM lemma="TMCR_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TMCR_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TMCR_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="TMCR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -882,7 +882,7 @@
 <LM>w#w-mf930701-034-p2s5w10</LM>
 </w.rf>
 <form>Holzmann</form>
-<tag lemma="Holzmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holzmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-034-p2s5w11">
 <src.rf>manual</src.rf>
@@ -891,9 +891,9 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A----</AM>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A----</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -967,7 +967,7 @@
 </w.rf>
 <form>Transroute</form>
 <tag>
-<AM lemma="Transroute_;K_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Transroute_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Transroute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -978,8 +978,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -991,7 +991,7 @@
 </w.rf>
 <form>SA</form>
 <tag>
-<AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1010,7 +1010,7 @@
 </w.rf>
 <form>Beugnet</form>
 <tag>
-<AM lemma="Beugnet_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Beugnet_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Beugnet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1021,7 +1021,7 @@
 </w.rf>
 <form>SA</form>
 <tag>
-<AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1056,7 +1056,7 @@
 </w.rf>
 <form>Cogefarimpresit</form>
 <tag>
-<AM lemma="Cogefarimpresit_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Cogefarimpresit_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Cogefarimpresit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1067,7 +1067,7 @@
 </w.rf>
 <form>SpA</form>
 <tag>
-<AM lemma="SpA_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SpA_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Spa_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="SpA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

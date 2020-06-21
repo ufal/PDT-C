@@ -223,7 +223,7 @@
 <LM>w#w-mf930701-054-p2s2w7</LM>
 </w.rf>
 <form>Clamence</form>
-<tag lemma="Clamence_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Clamence_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-054-p2s2w8">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-mf930701-054-p2s4w8</LM>
 </w.rf>
 <form>Procházky</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-054-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-mf930701-054-p2s13w14</LM>
 </w.rf>
 <form>Malíka</form>
-<tag lemma="Malík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Malík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-054-p2s13w15">
 <src.rf>manual</src.rf>
@@ -2498,7 +2498,7 @@
 </w.rf>
 <form>reggae</form>
 <tag>
-<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -2553,7 +2553,7 @@
 <LM>w#w-mf930701-054-p2s26w5</LM>
 </w.rf>
 <form>Babalet</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-054-p2s26w6">
 <src.rf>manual</src.rf>
@@ -2569,7 +2569,7 @@
 <LM>w#w-mf930701-054-p2s26w7</LM>
 </w.rf>
 <form>Hypnotix</form>
-<tag lemma="Hypnotix_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hypnotix_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-054-p2s26w8">
 <src.rf>manual</src.rf>
@@ -2635,7 +2635,7 @@
 <LM>w#w-mf930701-054-p3s1w2</LM>
 </w.rf>
 <form>STRAKA</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-054-p4s1">

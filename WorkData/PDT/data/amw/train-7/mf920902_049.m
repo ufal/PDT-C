@@ -35,7 +35,7 @@
 <LM>w#w-mf920902-049-p1s1w3</LM>
 </w.rf>
 <form>BMW</form>
-<tag lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="BMW_:B_;m_^(vozidlo)" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920902-049-p1s1w4">
 <src.rf>manual</src.rf>
@@ -124,8 +124,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-049-p1s1w15">
@@ -134,7 +134,7 @@
 <LM>w#w-mf920902-049-p1s1w15</LM>
 </w.rf>
 <form>Dubček</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-049-p1s1w16">
 <src.rf>manual</src.rf>

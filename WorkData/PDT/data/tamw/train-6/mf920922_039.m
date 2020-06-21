@@ -136,7 +136,7 @@
 </w.rf>
 <form>ČZPI</form>
 <tag>
-<AM lemma="ČZPI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČZPI_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČZPI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -422,7 +422,7 @@
 <LM>w#w-mf920922-039-p2s4w13</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-039-p2s4w14">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-mf920922-039-p2s4w14</LM>
 </w.rf>
 <form>dibutylnatého</form>
-<tag lemma="dibutylnatý_;H" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920922-039-p2s4w15">
 <src.rf>manual</src.rf>

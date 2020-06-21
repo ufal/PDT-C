@@ -137,7 +137,7 @@
 <LM>w#w-mf920924-135-p1s1w15</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-135-p1s1w16">
 <src.rf>manual</src.rf>

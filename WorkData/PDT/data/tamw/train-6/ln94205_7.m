@@ -220,7 +220,7 @@
 </w.rf>
 <form>Oppenheimer</form>
 <tag>
-<AM lemma="Oppenheimer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oppenheimer_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Oppenheimer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -242,7 +242,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -269,7 +269,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Inc_:B_;m_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
@@ -346,7 +346,7 @@
 </w.rf>
 <form>Republic</form>
 <tag>
-<AM lemma="Republic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Republic_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Republic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -357,7 +357,7 @@
 </w.rf>
 <form>Fund</form>
 <tag>
-<AM lemma="Fund_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Fund_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Fund-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -376,7 +376,7 @@
 </w.rf>
 <form>Inc</form>
 <tag>
-<AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Inc_:B_;m_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
@@ -822,10 +822,10 @@
 </w.rf>
 <form>CS</form>
 <tag>
-<AM lemma="CS-3_:B_;K_,t_^(Credit_Suisse)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CS-3_:B_;m_,t_^(Credit_Suisse)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CS-2_:B_,t_^(Computer_Science)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="cesium_:B_;H" src="auto">NNNXX-----A---8</AM>
+<AM lemma="cesium_:B_;U" src="auto">NNNXX-----A---8</AM>
 <AM lemma="cirrostratus_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="CS-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="manual">NNXXX-----A----</AM>
@@ -839,7 +839,7 @@
 </w.rf>
 <form>First</form>
 <tag>
-<AM lemma="First_;K_,t" src="orig">CrXXX----------</AM>
+<AM lemma="First_;m_,t" src="orig">CrXXX----------</AM>
 <AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -941,8 +941,8 @@
 </w.rf>
 <form>Worth</form>
 <tag>
-<AM lemma="Worth_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Worth_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Worth_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Worth_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="worth_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Worth-77" src="manual" selected="1">F%-------------</AM>
 </tag>

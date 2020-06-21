@@ -877,7 +877,7 @@
 <LM>w#w-mf920902-033-p2s6w22</LM>
 </w.rf>
 <form>Laciny</form>
-<tag lemma="Lacina_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lacina_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s6w23">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-mf920902-033-p2s7w2</LM>
 </w.rf>
 <form>Ouředník</form>
-<tag lemma="Ouředník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ouředník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1373,9 +1373,9 @@
 </w.rf>
 <form>Volvox</form>
 <tag>
-<AM lemma="Volvox_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Volvox_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Volvox_;m_^(nakl_Volvox_Globator)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Volvox_;m_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-033-p2s9w10">
@@ -1384,7 +1384,7 @@
 <LM>w#w-mf920902-033-p2s9w10</LM>
 </w.rf>
 <form>Globator</form>
-<tag lemma="Globator_;K_^(nakl._Volvox_Globator)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Globator_;m_^(nakl._Volvox_Globator)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1818,7 +1818,7 @@
 <LM>w#w-mf920902-033-p2s11w1</LM>
 </w.rf>
 <form>Ouředník</form>
-<tag lemma="Ouředník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ouředník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s11w2">
 <src.rf>manual</src.rf>
@@ -2590,7 +2590,7 @@
 <LM>w#w-mf920902-033-p2s14w19</LM>
 </w.rf>
 <form>Wernische</form>
-<tag lemma="Wernisch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wernisch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s14w20">
 <src.rf>manual</src.rf>
@@ -2608,7 +2608,7 @@
 <form>Holuba</form>
 <tag>
 <AM lemma="holub" src="orig">NNMS2-----A----</AM>
-<AM lemma="Holub_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Holub_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-033-p2s14w22">
@@ -2625,7 +2625,7 @@
 <LM>w#w-mf920902-033-p2s14w23</LM>
 </w.rf>
 <form>Skácela</form>
-<tag lemma="Skácel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Skácel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s14w24">
 <src.rf>manual</src.rf>
@@ -2641,7 +2641,7 @@
 <LM>w#w-mf920902-033-p2s14w25</LM>
 </w.rf>
 <form>Gruši</form>
-<tag lemma="Gruša_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gruša_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s14w26">
 <src.rf>manual</src.rf>
@@ -3043,7 +3043,7 @@
 <LM>w#w-mf920902-033-p2s16w2</LM>
 </w.rf>
 <form>Wernisch</form>
-<tag lemma="Wernisch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wernisch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s16w3">
 <src.rf>manual</src.rf>
@@ -3121,7 +3121,7 @@
 <LM>w#w-mf920902-033-p2s17w4</LM>
 </w.rf>
 <form>Ouředníkových</form>
-<tag lemma="Ouředníkův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Ouředníkův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf920902-033-p2s17w5">
 <src.rf>manual</src.rf>

@@ -216,7 +216,7 @@
 <LM>w#w-vesm9211-048-p2s1w2</LM>
 </w.rf>
 <form>LORENZ</form>
-<tag lemma="Lorenz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lorenz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-048-p2s1w3">
 <src.rf>manual</src.rf>

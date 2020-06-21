@@ -44,7 +44,7 @@
 </w.rf>
 <form>ND</form>
 <tag>
-<AM lemma="ND_:B_;K_^(Nár._divadlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ND_:B_;m_^(Nár._divadlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ND-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -266,7 +266,7 @@
 <LM>w#w-ln94205-37-p2s1Bw24</LM>
 </w.rf>
 <form>Themos</form>
-<tag lemma="Themos_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Themos_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-37-p2s1Bw25">
 <src.rf>manual</src.rf>

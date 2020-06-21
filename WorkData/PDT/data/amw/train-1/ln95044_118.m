@@ -47,7 +47,7 @@
 <form>Mlynář</form>
 <tag>
 <AM lemma="mlynář" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mlynář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mlynář_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-118-p2s1w4">
@@ -88,7 +88,7 @@
 <LM>w#w-ln95044-118-p2s1w8</LM>
 </w.rf>
 <form>Trnka</form>
-<tag lemma="Trnka_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trnka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-118-p2s1w9">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-ln95044-118-p2s1w16</LM>
 </w.rf>
 <form>Ľupták</form>
-<tag lemma="Ľupták_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ľupták_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-118-p2s1w17">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-ln95044-118-p2s1w18</LM>
 </w.rf>
 <form>Slota</form>
-<tag lemma="Slota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-118-p2s1w19">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <form>Mlynář</form>
 <tag>
 <AM lemma="mlynář" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mlynář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mlynář_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-118-p2s7w8">
@@ -1950,7 +1950,7 @@
 <form>Mlynář</form>
 <tag>
 <AM lemma="mlynář" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mlynář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mlynář_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-118-p3s3w3">
@@ -2044,13 +2044,13 @@
 </w.rf>
 <form>Nato</form>
 <tag>
-<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNS1-----A----</AM>
-<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNS5-----A----</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNS1-----A----</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNS5-----A----</AM>
 <AM lemma="nato" src="auto">Db-------------</AM>
-<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="manual">NNNXX-----A----</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual">NNNXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-118-p3s5w3">
@@ -2355,7 +2355,7 @@
 <form>Mlynář</form>
 <tag>
 <AM lemma="mlynář" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mlynář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mlynář_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-118-p3s8w13">
@@ -3724,8 +3724,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-118-p5s2w11">

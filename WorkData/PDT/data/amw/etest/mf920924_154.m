@@ -80,7 +80,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -386,7 +386,7 @@
 <LM>w#w-mf920924-154-p3s2w18</LM>
 </w.rf>
 <form>Rezá</form>
-<tag lemma="Rezá_;Y" src="auto" selected="1">NNMSX-----A----</tag>
+<tag lemma="Rezá_;Y" src="auto" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-mf920924-154-p3s2w19">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-mf920924-154-p3s2w19</LM>
 </w.rf>
 <form>Amrolláhí</form>
-<tag lemma="Amrolláhí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amrolláhí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-154-p3s2w20">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

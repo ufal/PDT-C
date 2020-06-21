@@ -537,9 +537,9 @@
 </w.rf>
 <form>Hořeňovská</form>
 <tag>
-<AM lemma="Hořeňovský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hořeňovská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Hořeňovská_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Hořeňovský_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Hořeňovská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hořeňovská_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-016-p4s1w14">
@@ -3887,9 +3887,9 @@
 </w.rf>
 <form>Hořeňovská</form>
 <tag>
-<AM lemma="Hořeňovský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hořeňovská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Hořeňovská_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Hořeňovský_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Hořeňovská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hořeňovská_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-016-p16s2w5">
@@ -4274,9 +4274,9 @@
 </w.rf>
 <form>Hořeňovská</form>
 <tag>
-<AM lemma="Hořeňovský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Hořeňovská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Hořeňovská_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Hořeňovský_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Hořeňovská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hořeňovská_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-016-p18s2w16">
@@ -5697,7 +5697,7 @@
 <form>Farský</form>
 <tag>
 <AM lemma="farský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Farský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Farský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

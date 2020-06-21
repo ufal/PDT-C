@@ -225,7 +225,7 @@
 <LM>w#w-cmpr9415-048-p4s1w13</LM>
 </w.rf>
 <form>Ostroji</form>
-<tag lemma="Ostroj_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Ostroj_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p4s1w14">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-cmpr9415-048-p4s3w4</LM>
 </w.rf>
 <form>Ostroj</form>
-<tag lemma="Ostroj_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ostroj_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p4s3w5">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-cmpr9415-048-p4s3w6</LM>
 </w.rf>
 <form>Hansen</form>
-<tag lemma="Hansen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hansen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p4s3w7">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 </w.rf>
 <form>Reinders</form>
 <tag>
-<AM lemma="Reinders_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Reinders_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Reinders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1333,7 +1333,7 @@
 <LM>w#w-cmpr9415-048-p8s1w10</LM>
 </w.rf>
 <form>Šimeček</form>
-<tag lemma="Šimeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p8s1w11">
 <src.rf>manual</src.rf>
@@ -3711,7 +3711,7 @@
 <LM>w#w-cmpr9415-048-p13s1w8</LM>
 </w.rf>
 <form>Šimeček</form>
-<tag lemma="Šimeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p13s1w9">
 <src.rf>manual</src.rf>
@@ -5108,7 +5108,7 @@
 <LM>w#w-cmpr9415-048-p16s6w9</LM>
 </w.rf>
 <form>Šimeček</form>
-<tag lemma="Šimeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p16s6w10">
 <src.rf>manual</src.rf>
@@ -5329,7 +5329,7 @@
 <LM>w#w-cmpr9415-048-p16s8w12</LM>
 </w.rf>
 <form>Siemense</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p16s8w13">
 <src.rf>manual</src.rf>
@@ -5837,7 +5837,7 @@
 <LM>w#w-cmpr9415-048-p18s1w3</LM>
 </w.rf>
 <form>Ostroj</form>
-<tag lemma="Ostroj_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ostroj_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-048-p18s1w4">
 <src.rf>manual</src.rf>
@@ -5854,8 +5854,8 @@
 </w.rf>
 <form>Hansen</form>
 <tag>
-<AM lemma="Hansen_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hansen_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hansen_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hansen_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-048-p18s1w6">
@@ -5873,7 +5873,7 @@
 </w.rf>
 <form>Reinders</form>
 <tag>
-<AM lemma="Reinders_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Reinders_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Reinders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -72,7 +72,7 @@
 <form>Špačka</form>
 <tag>
 <AM lemma="špaček-1_^(živ.)" src="auto">NNMS4-----A----</AM>
-<AM lemma="Špaček_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Špaček_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2103,8 +2103,8 @@
 </w.rf>
 <form>kš</form>
 <tag>
-<AM lemma="kš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-053-p4s1w3">

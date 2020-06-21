@@ -35,7 +35,7 @@
 <LM>w#w-lnd94105-006-p1s1w3</LM>
 </w.rf>
 <form>Bohemie</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-006-p1s1w4">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-lnd94105-006-p1s2w3</LM>
 </w.rf>
 <form>ip</form>
-<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ip-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-006-p1s2w4">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd94105-006-p1s3w7</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94105-006-p1s3w8">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 </w.rf>
 <form>BB</form>
 <tag>
-<AM lemma="BB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="BB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -236,7 +236,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -321,7 +321,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -339,7 +339,7 @@
 <LM>w#w-lnd94105-006-p1s4w8</LM>
 </w.rf>
 <form>Kavánek</form>
-<tag lemma="Kavánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kavánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-006-p1s4w9">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -536,7 +536,7 @@
 <LM>w#w-lnd94105-006-p1s5w23</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94105-006-p1s5w24">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 </w.rf>
 <form>BB</form>
 <tag>
-<AM lemma="BB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="BB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -638,7 +638,7 @@
 <LM>w#w-lnd94105-006-p1s6w11</LM>
 </w.rf>
 <form>Bohemie</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-006-p1s6w12">
 <src.rf>manual</src.rf>

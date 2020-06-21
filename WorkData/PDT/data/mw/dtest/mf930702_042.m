@@ -229,7 +229,7 @@
 <LM>w#w-mf930702-042-p2s1w25</LM>
 </w.rf>
 <form>Snellincka</form>
-<tag lemma="Snellinck_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Snellinck_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-042-p2s1w26">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <form>Abraham</form>
 <tag>
 <AM lemma="Abrahám_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abraham_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abraham_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-042-p2s1w33">
@@ -296,7 +296,7 @@
 <LM>w#w-mf930702-042-p2s1w33</LM>
 </w.rf>
 <form>Janssens</form>
-<tag lemma="Janssens_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janssens_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-042-p2s1w34">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-mf930702-042-p2s2w5</LM>
 </w.rf>
 <form>Papca</form>
-<tag lemma="Papco_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Papco_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-042-p2s2w6">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf930702-042-p2s3w11</LM>
 </w.rf>
 <form>Hunyadyho</form>
-<tag lemma="Hunyady_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hunyady_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-042-p2s3w12">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-mf930702-042-p2s4w7</LM>
 </w.rf>
 <form>Jordense</form>
-<tag lemma="Jordens_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jordens_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-042-p2s4w8">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 </w.rf>
 <form>Odysseus</form>
 <tag>
-<AM lemma="Odysseus_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Odysseus_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Odysseus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>

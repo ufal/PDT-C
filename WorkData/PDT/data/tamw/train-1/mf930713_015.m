@@ -19,7 +19,7 @@
 <LM>w#w-mf930713-015-p1s1w1</LM>
 </w.rf>
 <form>IndyCar</form>
-<tag lemma="Indycar_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Indycar_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930713-015-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-015-p1s1w3</LM>
 </w.rf>
 <form>Mansell</form>
-<tag lemma="Mansell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-015-p2s1A">
@@ -111,7 +111,7 @@
 <LM>w#w-mf930713-015-p2s1Bw7</LM>
 </w.rf>
 <form>IndyCar</form>
-<tag lemma="Indycar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Indycar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-015-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -144,8 +144,8 @@
 </w.rf>
 <form>Nigel</form>
 <tag>
-<AM lemma="Nigel_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nigel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nigel_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nigel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-015-p2s1Bw12">
@@ -154,7 +154,7 @@
 <LM>w#w-mf930713-015-p2s1Bw12</LM>
 </w.rf>
 <form>Mansell</form>
-<tag lemma="Mansell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-015-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-mf930713-015-p2s2w3</LM>
 </w.rf>
 <form>Mansell</form>
-<tag lemma="Mansell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansell_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-015-p2s2w4">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf930713-015-p2s2w17</LM>
 </w.rf>
 <form>IndyCar</form>
-<tag lemma="Indycar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Indycar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-015-p2s2w18">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -529,7 +529,7 @@
 <form>Tracym</form>
 <tag>
 <AM lemma="Tracy_;Y_,t" src="auto">NNMS7-----A----</AM>
-<AM lemma="Tracy_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Tracy_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-015-p2s2w35">
@@ -571,8 +571,8 @@
 </w.rf>
 <form>Emersonem</form>
 <tag>
-<AM lemma="Emerson_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Emerson_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Emerson_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Emerson_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-015-p2s2w40">
@@ -581,7 +581,7 @@
 <LM>w#w-mf930713-015-p2s2w40</LM>
 </w.rf>
 <form>Fittipaldim</form>
-<tag lemma="Fittipaldi_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Fittipaldi_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-015-p2s2w41">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-mf930713-015-p2s3w16</LM>
 </w.rf>
 <form>Fittipaldim</form>
-<tag lemma="Fittipaldi_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Fittipaldi_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-015-p2s3w17">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf930713-015-p3s6w1</LM>
 </w.rf>
 <form>Andretti</form>
-<tag lemma="Andretti_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andretti_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-015-p3s6w2">
 <src.rf>manual</src.rf>
@@ -849,8 +849,8 @@
 <form>Tracy</form>
 <tag>
 <AM lemma="Tracy_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tracy_;Y_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Tracy_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tracy_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Tracy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-015-p3s7w2">

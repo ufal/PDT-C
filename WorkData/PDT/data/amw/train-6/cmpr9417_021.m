@@ -755,7 +755,7 @@
 <LM>w#w-cmpr9417-021-p4s1w2</LM>
 </w.rf>
 <form>Dreyer</form>
-<tag lemma="Dreyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dreyer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-021-p4s1w3">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 </w.rf>
 <form>Hansen</form>
 <tag>
-<AM lemma="Hansen_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hansen_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Hansen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -815,7 +815,7 @@
 </w.rf>
 <form>Reinders</form>
 <tag>
-<AM lemma="Reinders_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Reinders_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Reinders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -78,9 +78,9 @@
 </w.rf>
 <form>hm</form>
 <tag>
-<AM lemma="hm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hm-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hm" src="auto" recommended="1">II-------------</AM>
-<AM lemma="hm-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hm-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-39-p2s1w4">
@@ -353,7 +353,7 @@
 <LM>w#w-ln94203-39-p2s1w36</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-39-p2s1w37">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-ln94203-39-p2s1w39</LM>
 </w.rf>
 <form>Hesoun</form>
-<tag lemma="Hesoun_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hesoun_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-39-p2s1w40">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-ln94203-39-p2s2w3</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-39-p2s2w4">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-ln94203-39-p2s3w9</LM>
 </w.rf>
 <form>Vodičky</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-39-p2s3w10">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-ln94203-39-p2s4w3</LM>
 </w.rf>
 <form>Hesoun</form>
-<tag lemma="Hesoun_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hesoun_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-39-p2s4w4">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-136-p1s1w5</LM>
 </w.rf>
 <form>Oramem</form>
-<tag lemma="Oramo_;K" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="Oramo_;m" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-136-p2s1">
@@ -77,7 +77,7 @@
 <LM>w#w-mf930701-136-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jsl-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930701-136-p2s1w4">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-mf930701-136-p2s1w13</LM>
 </w.rf>
 <form>Oramo</form>
-<tag lemma="Oramo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Oramo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-136-p2s1w14">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-mf930701-136-p2s1w15</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-136-p2s1w16">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-mf930701-136-p2s4w4</LM>
 </w.rf>
 <form>Oramo</form>
-<tag lemma="Oramo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Oramo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-136-p2s4w5">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-mf930701-136-p2s5w6</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-136-p2s5w7">
 <src.rf>manual</src.rf>

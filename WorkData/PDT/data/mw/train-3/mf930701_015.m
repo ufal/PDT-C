@@ -68,8 +68,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p1s1w8">
@@ -498,7 +498,7 @@
 <LM>w#w-mf930701-015-p2s1w2</LM>
 </w.rf>
 <form>trabantu</form>
-<tag lemma="trabant_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="trabant_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-015-p2s1w3">
 <src.rf>manual</src.rf>
@@ -547,8 +547,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p2s1w9">
@@ -654,8 +654,8 @@
 </w.rf>
 <form>trabantem</form>
 <tag>
-<AM lemma="Trabant-2_;R_^(vozidlo)" src="orig">NNIS7-----A----</AM>
-<AM lemma="trabant_;R" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
+<AM lemma="Trabant-2_;m_^(vozidlo)" src="orig">NNIS7-----A----</AM>
+<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p2s1w22">
@@ -855,10 +855,10 @@
 </w.rf>
 <form>trabantu</form>
 <tag>
-<AM lemma="Trabant-2_;R_^(vozidlo)" src="orig">NNIS6-----A----</AM>
-<AM lemma="trabant_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="trabant_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="trabant_;R" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="Trabant-2_;m_^(vozidlo)" src="orig">NNIS6-----A----</AM>
+<AM lemma="trabant_;m" src="auto">NNIS2-----A----</AM>
+<AM lemma="trabant_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p2s4w4">

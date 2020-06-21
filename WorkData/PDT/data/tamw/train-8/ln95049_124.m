@@ -28,7 +28,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walensa</form>
-<tag lemma="Walensa_;S_^(Lech_Walesa)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walensa_;Y_^(Lech_Walesa)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-124-p1s1w3">
 <src.rf>manual</src.rf>
@@ -68,7 +68,7 @@
 <LM>w#w-ln95049-124-p1s1w7</LM>
 </w.rf>
 <form>Oleksyho</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-124-p1s1w8">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walensa</form>
-<tag lemma="Walensa_;S_^(Lech_Walesa)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walensa_;Y_^(Lech_Walesa)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -261,8 +261,8 @@
 </w.rf>
 <form>Sejmu</form>
 <tag>
-<AM lemma="Sejm_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Sejm_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Sejm_;m_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sejm_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-124-p2s1Bw21">
@@ -279,7 +279,7 @@
 <LM>w#w-ln95049-124-p2s1Bw22</LM>
 </w.rf>
 <form>Oleksym</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Wałęsy</form>
-<tag lemma="Wałęsa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Wałęsa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s3w10">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walesa</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s4w2">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-ln95049-124-p2s4w6</LM>
 </w.rf>
 <form>Oleksyho</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s4w7">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-ln95049-124-p2s5w2</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s5w3">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walensou</form>
-<tag lemma="Walensa_;S_^(Lech_Walesa)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Walensa_;Y_^(Lech_Walesa)" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1042,7 +1042,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walesa</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-ln95049-124-p2s6w3</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-ln95049-124-p2s7w6</LM>
 </w.rf>
 <form>Pawlaka</form>
-<tag lemma="Pawlak_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pawlak_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-124-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1173,8 +1173,8 @@
 </w.rf>
 <form>Sejm</form>
 <tag>
-<AM lemma="Sejm_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sejm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sejm_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sejm_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-124-p2s7w9">

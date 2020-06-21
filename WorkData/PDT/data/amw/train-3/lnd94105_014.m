@@ -36,8 +36,8 @@
 </w.rf>
 <form>mš</form>
 <tag>
-<AM lemma="mš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-014-p1s1w4">
@@ -461,7 +461,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -738,7 +738,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1876,7 +1876,7 @@
 <LM>w#w-lnd94105-014-p1s14w3</LM>
 </w.rf>
 <form>Cudlín</form>
-<tag lemma="Cudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cudlín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-014-p1s14w4">
 <src.rf>manual</src.rf>
@@ -1893,8 +1893,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

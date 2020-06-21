@@ -223,7 +223,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-021-p3s1w22">
@@ -240,7 +240,7 @@
 <LM>w#w-lnd91303-021-p3s1w23</LM>
 </w.rf>
 <form>Farkota</form>
-<tag lemma="Farkota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farkota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-021-p3s1w24">
 <src.rf>manual</src.rf>

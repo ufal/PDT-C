@@ -39,7 +39,7 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Coors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -131,10 +131,10 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="K-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="auto">Q3-------------</AM>
+<AM lemma="K-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="k-1" src="auto">RR--3----------</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="K-33" src="auto">Q3-------------</AM>
 <AM lemma="k-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
@@ -154,7 +154,7 @@
 <LM>w#w-wsj1045-001-p1s0W14</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -266,9 +266,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -287,7 +287,7 @@
 </w.rf>
 <form>tak</form>
 <tag>
-<AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1" selected="1">Db-------------</AM>
@@ -312,9 +312,9 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="H-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="H-33" src="auto">Q3-------------</AM>
+<AM lemma="H-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="H-33" src="auto">Q3-------------</AM>
 <AM lemma="h-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="hodina" src="auto">NNFXX-----A---8</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
@@ -335,9 +335,9 @@
 </w.rf>
 <form>Coorse</form>
 <tag>
-<AM lemma="Coors_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Coors_;S" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s0W29-Ta">
@@ -409,7 +409,7 @@
 <LM>w#w-wsj1045-001-p1s1W3</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -484,8 +484,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -637,7 +637,7 @@
 <LM>w#w-wsj1045-001-p1s2W7</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -794,7 +794,7 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Coors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -903,9 +903,9 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coors-2_;m" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s2W29-Ta">
@@ -1031,9 +1031,9 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
-<AM lemma="Coors-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Coors-2_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s3W4-Ta">
@@ -1192,9 +1192,9 @@
 </w.rf>
 <form>Coorse</form>
 <tag>
-<AM lemma="Coors_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Coors_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s3W20-Ta">
@@ -1252,9 +1252,9 @@
 </w.rf>
 <form>Coorse</form>
 <tag>
-<AM lemma="Coors_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Coors_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s3W25-Ta">
@@ -1274,7 +1274,7 @@
 <tag>
 <AM lemma="Peter_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Peter_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petera_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Petera_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s3W27-Ta">
@@ -1284,9 +1284,9 @@
 </w.rf>
 <form>Coorse</form>
 <tag>
-<AM lemma="Coors_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Coors_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s3W28-Ta">
@@ -1326,9 +1326,9 @@
 </w.rf>
 <form>Coorse</form>
 <tag>
-<AM lemma="Coors_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Coors_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Coors_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s3W31-Ta">
@@ -1653,9 +1653,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -1725,9 +1725,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -1932,7 +1932,7 @@
 <AM lemma="Peter_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s7W4-Ta">
@@ -1943,9 +1943,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -2021,7 +2021,7 @@
 <LM>w#w-wsj1045-001-p1s8W2</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2091,7 +2091,7 @@
 <AM lemma="Peter_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s9W4-Ta">
@@ -2153,9 +2153,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -2246,7 +2246,7 @@
 <AM lemma="Peter_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1045-001-p1s10W2-Ta">
@@ -2255,7 +2255,7 @@
 <LM>w#w-wsj1045-001-p1s10W2</LM>
 </w.rf>
 <form>Coors</form>
-<tag lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1045-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2283,7 +2283,7 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Coors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2419,8 +2419,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -2483,8 +2483,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -2601,7 +2601,7 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Coors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2727,7 +2727,7 @@
 </w.rf>
 <form>Coors</form>
 <tag>
-<AM lemma="Coors_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coors_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Coors-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2907,8 +2907,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>

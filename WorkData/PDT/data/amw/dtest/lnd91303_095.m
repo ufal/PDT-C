@@ -182,8 +182,8 @@
 </w.rf>
 <form>Skogsport</form>
 <tag>
-<AM lemma="Skogsport_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Skogsport_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Skogsport_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Skogsport_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-095-p2s1w19">
@@ -282,7 +282,7 @@
 <LM>w#w-lnd91303-095-p2s2w11</LM>
 </w.rf>
 <form>Kozák</form>
-<tag lemma="Kozák_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozák_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-095-p2s2w12">
 <src.rf>manual</src.rf>

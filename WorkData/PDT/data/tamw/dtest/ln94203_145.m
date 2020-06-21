@@ -56,7 +56,7 @@
 <LM>w#w-ln94203-145-p2s1Aw2</LM>
 </w.rf>
 <form>Krčálová</form>
-<tag lemma="Krčálová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krčálová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-145-p2s1B">
@@ -992,7 +992,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MF-2_:B_;m_^(min._financí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln94203-145-p4s1w12</LM>
 </w.rf>
 <form>Zemanové</form>
-<tag lemma="Zemanová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Zemanová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-145-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1560,7 +1560,7 @@
 <LM>w#w-ln94203-145-p5s2w3</LM>
 </w.rf>
 <form>Zemanové</form>
-<tag lemma="Zemanová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Zemanová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-145-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2018,7 +2018,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-145-p7s1w11">
@@ -2035,7 +2035,7 @@
 <LM>w#w-ln94203-145-p7s1w12</LM>
 </w.rf>
 <form>Zemanové</form>
-<tag lemma="Zemanová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Zemanová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-145-p7s1w13">
 <src.rf>manual</src.rf>
@@ -2327,7 +2327,7 @@
 <LM>w#w-ln94203-145-p7s2w31</LM>
 </w.rf>
 <form>Zemanová</form>
-<tag lemma="Zemanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zemanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-145-p7s2w32">
 <src.rf>manual</src.rf>
@@ -2704,7 +2704,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MF-2_:B_;m_^(min._financí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

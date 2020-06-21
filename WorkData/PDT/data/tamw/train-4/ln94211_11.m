@@ -385,7 +385,7 @@
 </w.rf>
 <form>Inform</form>
 <tag>
-<AM lemma="Inform_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Inform_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Inform-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -396,7 +396,7 @@
 </w.rf>
 <form>Mail</form>
 <tag>
-<AM lemma="Mail_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mail_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Maila_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="mail" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="mail" src="auto">NNIS4-----A----</AM>
@@ -471,7 +471,7 @@
 </w.rf>
 <form>Inform</form>
 <tag>
-<AM lemma="Inform_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Inform_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Inform-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -482,7 +482,7 @@
 </w.rf>
 <form>Katalog</form>
 <tag>
-<AM lemma="Katalog_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Katalog_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="katalog" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="katalog" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -598,8 +598,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -611,7 +611,7 @@
 </w.rf>
 <form>Business</form>
 <tag>
-<AM lemma="Business_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Business_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="business-2_,t" src="manual">AAXXX----1A----</AM>
@@ -625,7 +625,7 @@
 </w.rf>
 <form>Consultants</form>
 <tag>
-<AM lemma="Consultants_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Consultants_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="consultants_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Consultants-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -656,7 +656,7 @@
 </w.rf>
 <form>Business</form>
 <tag>
-<AM lemma="Business_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Business_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="business-2_,t" src="manual">AAXXX----1A----</AM>
@@ -670,9 +670,9 @@
 </w.rf>
 <form>Investment</form>
 <tag>
-<AM lemma="Investment_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Investment_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Investment_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="investment_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -684,7 +684,7 @@
 </w.rf>
 <form>Fund</form>
 <tag>
-<AM lemma="Fund_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Fund_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Fund-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -833,8 +833,8 @@
 </w.rf>
 <form>mav</form>
 <tag>
-<AM lemma="mav-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mav-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mav-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mav-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-11-p3s3Aw3">
@@ -945,7 +945,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -999,7 +999,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1010,7 +1010,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

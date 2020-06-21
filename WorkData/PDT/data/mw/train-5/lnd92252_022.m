@@ -297,7 +297,7 @@
 <form>Bojar</form>
 <tag>
 <AM lemma="bojar" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bojar_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bojar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-022-p2s2w14">
@@ -322,7 +322,7 @@
 <LM>w#w-lnd92252-022-p2s2w16</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-lnd92252-022-p3s1w2</LM>
 </w.rf>
 <form>RIEBAUEROVÁ</form>
-<tag lemma="Riebauerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Riebauerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

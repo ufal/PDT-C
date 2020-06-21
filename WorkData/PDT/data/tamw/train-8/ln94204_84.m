@@ -447,7 +447,7 @@
 <LM>w#w-ln94204-84-p2s2w22</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-84-p2s2w23">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-ln94204-84-p2s2w28</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-84-p2s2w29">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-ln94204-84-p3s2w4</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-84-p3s2w5">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-ln94204-84-p3s2w10</LM>
 </w.rf>
 <form>Schauspielhausu</form>
-<tag lemma="Schauspielhaus_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Schauspielhaus_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94204-84-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln94204-84-p4s2w18</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-84-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-ln94204-84-p4s2w23</LM>
 </w.rf>
 <form>Interfax</form>
-<tag lemma="Interfax_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interfax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-84-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1975,7 +1975,7 @@
 </w.rf>
 <form>Rossijskaja</form>
 <tag>
-<AM lemma="Rossijskij_;R_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Rossijskij_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="Rossijskaja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

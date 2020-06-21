@@ -167,7 +167,7 @@
 <LM>w#w-ln95047-006-p2s1Bw12</LM>
 </w.rf>
 <form>Staropramen</form>
-<tag lemma="Staropramen_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Staropramen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-006-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln95047-006-p2s2w7</LM>
 </w.rf>
 <form>Kmínek</form>
-<tag lemma="Kmínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kmínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-006-p2s2w8">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-ln95047-006-p3s2w2</LM>
 </w.rf>
 <form>Staropramen</form>
-<tag lemma="Staropramen_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Staropramen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-006-p3s2w3">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-ln95047-006-p3s2w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95047-006-p3s2w17">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-13-p1s1w1</LM>
 </w.rf>
 <form>Westinghouse</form>
-<tag lemma="Westinghouse_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Westinghouse_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-13-p1s1w2">
 <src.rf>manual</src.rf>
@@ -70,7 +70,7 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="am-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="am-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
 </tag>
 </m>
@@ -147,14 +147,14 @@
 </w.rf>
 <form>Westinghouse</form>
 <tag>
-<AM lemma="Westinghouse_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Westinghouse_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Westinghouse_;K" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="Westinghouse_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Westinghouse_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Westinghouse_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Westinghouse_;K" src="auto">NNIS6-----A----</AM>
-<AM lemma="Westinghouse_;K" src="auto">NNIS7-----A----</AM>
+<AM lemma="Westinghouse_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Westinghouse_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Westinghouse_;m" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Westinghouse_;m" src="auto">NNIS3-----A----</AM>
+<AM lemma="Westinghouse_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Westinghouse_;m" src="auto">NNIS5-----A----</AM>
+<AM lemma="Westinghouse_;m" src="auto">NNIS6-----A----</AM>
+<AM lemma="Westinghouse_;m" src="auto">NNIS7-----A----</AM>
 <AM lemma="Westinghouse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -165,7 +165,7 @@
 </w.rf>
 <form>Electric</form>
 <tag>
-<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Electric-1_;m_,t_^(souč._názvů,_např._General_E.)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -176,7 +176,7 @@
 </w.rf>
 <form>Corporation</form>
 <tag>
-<AM lemma="Corporation_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Corporation_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Corporation-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -195,7 +195,7 @@
 </w.rf>
 <form>WEC</form>
 <tag>
-<AM lemma="WEC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WEC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="WEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -213,7 +213,7 @@
 <LM>w#w-ln94208-13-p2s1Bw13</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-13-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-13-p2s1Bw15">
@@ -240,7 +240,7 @@
 <LM>w#w-ln94208-13-p2s1Bw16</LM>
 </w.rf>
 <form>Jordan</form>
-<tag lemma="Jordan-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jordan-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-13-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -440,7 +440,7 @@
 <LM>w#w-ln94208-13-p3s1w2</LM>
 </w.rf>
 <form>Jordanova</form>
-<tag lemma="Jordanův-1_;S_^(*4-1)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Jordanův-1_;Y_^(*4-1)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94208-13-p3s1w3">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -969,7 +969,7 @@
 <LM>w#w-ln94208-13-p4s3w6</LM>
 </w.rf>
 <form>Westinghouse</form>
-<tag lemma="Westinghouse_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Westinghouse_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-13-p4s3w7">
 <src.rf>manual</src.rf>

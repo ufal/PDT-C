@@ -158,8 +158,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-042-p2s1w18">
@@ -332,8 +332,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-042-p2s2w18">
@@ -801,9 +801,9 @@
 <form>Evry</form>
 <tag>
 <AM lemma="Evra_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Evra_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Evra_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Evra_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Evra_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Evra_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Evra_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Evry_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Evry_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -1482,9 +1482,9 @@
 </w.rf>
 <form>PLA</form>
 <tag>
-<AM lemma="PLA-2_:B_;K_,t_^(Lidová_osvobozenecká_armáda)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PLA-2_:B_;m_,t_^(Lidová_osvobozenecká_armáda)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PLA-1_:B_,t_^(programmable_logic_array)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Pla_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pla_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="PLA-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PLA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1642,9 +1642,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-042-p6s1w3">
@@ -1661,7 +1661,7 @@
 <LM>w#w-ln95043-042-p6s1w4</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-042-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1709,7 +1709,7 @@
 <LM>w#w-ln95043-042-p6s1w10</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-042-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1960,7 +1960,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

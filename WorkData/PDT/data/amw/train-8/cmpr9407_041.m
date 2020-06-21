@@ -1153,7 +1153,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1259,7 +1259,7 @@
 <LM>w#w-cmpr9407-041-p5s2w25</LM>
 </w.rf>
 <form>Wienerberger</form>
-<tag lemma="Wienerberger_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wienerberger_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-041-p5s2w26">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 </w.rf>
 <form>Voest</form>
 <tag>
-<AM lemma="Voest_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Voest_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Voest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1311,8 +1311,8 @@
 </w.rf>
 <form>Alpine</form>
 <tag>
-<AM lemma="Alpine_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Alpine_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Alpine_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Alpine_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Alpine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1378,7 +1378,7 @@
 <LM>w#w-cmpr9407-041-p5s2w39</LM>
 </w.rf>
 <form>Spak</form>
-<tag lemma="Spak-2_;K_^(název_firmy)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Spak-2_;m_^(název_firmy)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-041-p5s2w40">
 <src.rf>manual</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-cmpr9407-041-p5s2w45</LM>
 </w.rf>
 <form>Leicam</form>
-<tag lemma="Leicam_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Leicam_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-041-p5s2w46">
 <src.rf>manual</src.rf>
@@ -1579,7 +1579,7 @@
 </w.rf>
 <form>ASEA</form>
 <tag>
-<AM lemma="ASEA-1_:B_;K_,t_^(Allmänna_svenska_elektriska_aktiebolaget)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ASEA-1_:B_;m_,t_^(Allmänna_svenska_elektriska_aktiebolaget)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ASEA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1598,7 +1598,7 @@
 </w.rf>
 <form>OTIS</form>
 <tag>
-<AM lemma="Otis_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Otis_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="OTIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

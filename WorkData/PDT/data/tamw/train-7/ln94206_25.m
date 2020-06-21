@@ -310,7 +310,7 @@
 <LM>w#w-ln94206-25-p2s2w7</LM>
 </w.rf>
 <form>Knotka</form>
-<tag lemma="Knotek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Knotek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-25-p2s2w8">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-ln94206-25-p4s1w7</LM>
 </w.rf>
 <form>Laktosu</form>
-<tag lemma="Laktos_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Laktos_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-25-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1950,7 +1950,7 @@
 <LM>w#w-ln94206-25-p6s3w20</LM>
 </w.rf>
 <form>Pudík</form>
-<tag lemma="Pudík_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pudík_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-25-p6s3w21">
 <src.rf>manual</src.rf>
@@ -1983,7 +1983,7 @@
 </w.rf>
 <form>Bon</form>
 <tag>
-<AM lemma="Bon_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bon_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="bon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bon" src="auto">NNIS4-----A----</AM>
 <AM lemma="bona" src="auto">NNFP2-----A----</AM>
@@ -2091,7 +2091,7 @@
 <LM>w#w-ln94206-25-p6s3w37</LM>
 </w.rf>
 <form>Duola</form>
-<tag lemma="Duola_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Duola_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-25-p6s3w38">
 <src.rf>manual</src.rf>

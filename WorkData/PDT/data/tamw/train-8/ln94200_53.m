@@ -69,7 +69,7 @@
 <LM>w#w-ln94200-53-p2s1w6</LM>
 </w.rf>
 <form>Corfin</form>
-<tag lemma="Corfin_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Corfin_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-53-p2s1w7">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 </w.rf>
 <form>Made</form>
 <tag>
-<AM lemma="Made_;R" src="orig">AAXXX----1A----</AM>
+<AM lemma="Made_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto">XX-------------</AM>
@@ -426,7 +426,7 @@
 <LM>w#w-ln94200-53-p2s2Bw19</LM>
 </w.rf>
 <form>Trepon</form>
-<tag lemma="Trepon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Trepon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-53-p2s2Bw20">
 <src.rf>manual</src.rf>

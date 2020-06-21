@@ -83,7 +83,7 @@
 <LM>w#w-lnd94104-032-p1s1w9</LM>
 </w.rf>
 <form>Sabotů</form>
-<tag lemma="Sabota_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Sabota_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94104-032-p1s1w10">
 <src.rf>manual</src.rf>
@@ -124,8 +124,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-032-p1s1w15">
@@ -352,7 +352,7 @@
 <LM>w#w-lnd94104-032-p1s2w9</LM>
 </w.rf>
 <form>Rumla</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-032-p1s2w10">
 <src.rf>manual</src.rf>

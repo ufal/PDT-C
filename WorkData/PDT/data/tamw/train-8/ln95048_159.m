@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-159-p1s1w1</LM>
 </w.rf>
 <form>Lufthansa</form>
-<tag lemma="Lufthansa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lufthansa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-159-p1s1w2">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 </w.rf>
 <form>Lufthansa</form>
 <tag>
-<AM lemma="Lufthansa_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lufthansa_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Lufthansa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -155,7 +155,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95048-159-p2s2w8</LM>
 </w.rf>
 <form>Lufthansa</form>
-<tag lemma="Lufthansa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lufthansa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-159-p2s2w9">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95048-159-p2s2w10</LM>
 </w.rf>
 <form>Condor</form>
-<tag lemma="Condor_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Condor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-159-p2s2w11">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 </w.rf>
 <form>Lufthansa</form>
 <tag>
-<AM lemma="Lufthansa_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lufthansa_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Lufthansa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -275,7 +275,7 @@
 </w.rf>
 <form>Cityline</form>
 <tag>
-<AM lemma="Cityline_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Cityline_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Cityline-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -678,7 +678,7 @@
 <LM>w#w-ln95048-159-p3s1w5</LM>
 </w.rf>
 <form>Lufthansa</form>
-<tag lemma="Lufthansa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lufthansa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-159-p3s1w6">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 </w.rf>
 <form>Lufthansa</form>
 <tag>
-<AM lemma="Lufthansa_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lufthansa_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Lufthansa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -978,7 +978,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1244,7 +1244,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

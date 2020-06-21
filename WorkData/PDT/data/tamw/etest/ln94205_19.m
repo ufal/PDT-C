@@ -51,7 +51,7 @@
 <LM>w#w-ln94205-19-p1s1w5</LM>
 </w.rf>
 <form>Teslu</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-19-p1s1w6">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94205-19-p2s1Bw14</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln94205-19-p2s2w12</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p2s2w13">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-ln94205-19-p2s3w11</LM>
 </w.rf>
 <form>Kordač</form>
-<tag lemma="Kordač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kordač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p2s3w12">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 </w.rf>
 <form>JVB</form>
 <tag>
-<AM lemma="JVB_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="JVB_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="JVB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -584,7 +584,7 @@
 <LM>w#w-ln94205-19-p3s1w10</LM>
 </w.rf>
 <form>Luxon</form>
-<tag lemma="Luxon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Luxon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1246,7 +1246,7 @@
 <LM>w#w-ln94205-19-p4s1w19</LM>
 </w.rf>
 <form>Kordač</form>
-<tag lemma="Kordač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kordač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-ln94205-19-p5s1w3</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 <LM>w#w-ln94205-19-p5s1w9</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-ln94205-19-p5s3w10</LM>
 </w.rf>
 <form>Tesly</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-19-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1783,7 +1783,7 @@
 <LM>w#w-ln94205-19-p5s3w21</LM>
 </w.rf>
 <form>Osram</form>
-<tag lemma="Osram_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Osram_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p5s3w22">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <form>Merkur</form>
 <tag>
 <AM lemma="merkur" src="orig">NNIS1-----A----</AM>
-<AM lemma="Merkur-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Merkur-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-19-p5s3w24">
@@ -1842,7 +1842,7 @@
 <LM>w#w-ln94205-19-p5s3w28</LM>
 </w.rf>
 <form>Luma</form>
-<tag lemma="Luma_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Luma_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p5s3w29">
 <src.rf>manual</src.rf>
@@ -1883,8 +1883,8 @@
 </w.rf>
 <form>Leuci</form>
 <tag>
-<AM lemma="Leuci_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Leuci_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Leuci_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Leuci_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-19-p5s3w34">
@@ -3095,7 +3095,7 @@
 <LM>w#w-ln94205-19-p9s1w3</LM>
 </w.rf>
 <form>Kordače</form>
-<tag lemma="Kordač_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kordač_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-19-p9s1w4">
 <src.rf>manual</src.rf>
@@ -3897,7 +3897,7 @@
 <LM>w#w-ln94205-19-p11s1w8</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-19-p11s1w9">
 <src.rf>manual</src.rf>

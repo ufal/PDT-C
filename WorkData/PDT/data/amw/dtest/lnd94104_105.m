@@ -27,7 +27,7 @@
 <LM>w#w-lnd94104-105-p1s1w2</LM>
 </w.rf>
 <form>Ballesteros</form>
-<tag lemma="Ballesteros_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ballesteros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-105-p1s2">
@@ -54,7 +54,7 @@
 </w.rf>
 <form>tom</form>
 <tag>
-<AM lemma="tom-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="tom-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
 </tag>
 </m>
@@ -106,7 +106,7 @@
 <LM>w#w-lnd94104-105-p1s3w4</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s3w5">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-lnd94104-105-p1s3w16</LM>
 </w.rf>
 <form>Volvo</form>
-<tag lemma="Volvo_;K_;R" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Volvo_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s3w17">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 </w.rf>
 <form>Ryder</form>
 <tag>
-<AM lemma="Ryder_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ryder_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Ryder-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -401,7 +401,7 @@
 <LM>w#w-lnd94104-105-p1s4w6</LM>
 </w.rf>
 <form>Teleaxis</form>
-<tag lemma="Teleaxis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Teleaxis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s4w7">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-lnd94104-105-p1s5w9</LM>
 </w.rf>
 <form>Ballesterose</form>
-<tag lemma="Ballesteros_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ballesteros_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s5w10">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-lnd94104-105-p1s5w11</LM>
 </w.rf>
 <form>Cooka</form>
-<tag lemma="Cook_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Cook_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s5w12">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd94104-105-p1s5w13</LM>
 </w.rf>
 <form>Jansena</form>
-<tag lemma="Jansen_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jansen_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s5w14">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-lnd94104-105-p1s5w17</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s5w18">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-lnd94104-105-p1s6w2</LM>
 </w.rf>
 <form>Ballesteros</form>
-<tag lemma="Ballesteros_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ballesteros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s6w3">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-lnd94103-078-p1s1w4</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-078-p1s2">
@@ -70,11 +70,11 @@
 </w.rf>
 <form>dr</form>
 <tag>
-<AM lemma="dr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-078-p1s2w4">
@@ -432,7 +432,7 @@
 </w.rf>
 <form>DSP</form>
 <tag>
-<AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="DSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -929,7 +929,7 @@
 </w.rf>
 <form>DSP</form>
 <tag>
-<AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="DSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1326,7 +1326,7 @@
 </w.rf>
 <form>DSP</form>
 <tag>
-<AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="DSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1496,7 +1496,7 @@
 </w.rf>
 <form>DSP</form>
 <tag>
-<AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="DSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1561,16 +1561,16 @@
 <AM lemma="D-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="D-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="D-3`500" src="auto">C}-------------</AM>
-<AM lemma="D-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="D-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="D-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="D-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="D-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="D-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="D-9_:B_;S" src="auto">NNXXX-----A---8</AM>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="D-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="D-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="D-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="D-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="D-33" src="auto">Q3-------------</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-078-p1s14w12">
@@ -1966,7 +1966,7 @@
 </w.rf>
 <form>DSP</form>
 <tag>
-<AM lemma="DSP_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="DSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

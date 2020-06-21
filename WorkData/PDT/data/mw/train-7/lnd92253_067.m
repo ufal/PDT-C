@@ -421,7 +421,7 @@
 <LM>w#w-lnd92253-067-p1s5w1</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-067-p1s5w2">
 <src.rf>manual</src.rf>

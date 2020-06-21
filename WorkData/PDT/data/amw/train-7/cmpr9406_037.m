@@ -367,7 +367,7 @@
 <LM>w#w-cmpr9406-037-p4s3w3</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-037-p4s3w4">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-cmpr9406-037-p6s1w2</LM>
 </w.rf>
 <form>Zajkr</form>
-<tag lemma="Zajkr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zajkr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-037-p8s1">
@@ -1751,7 +1751,7 @@
 <LM>w#w-cmpr9406-037-p11s4w9</LM>
 </w.rf>
 <form>Půhoný</form>
-<tag lemma="Půhoný_;S" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="Půhoný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-037-p11s4w10">
 <src.rf>manual</src.rf>
@@ -3894,7 +3894,7 @@
 <LM>w#w-cmpr9406-037-p17s4w13</LM>
 </w.rf>
 <form>Půhoný</form>
-<tag lemma="Půhoný_;S" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="Půhoný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-037-p17s4w14">
 <src.rf>manual</src.rf>
@@ -4522,7 +4522,7 @@
 <LM>w#w-cmpr9406-037-p18s6w14</LM>
 </w.rf>
 <form>Půhoný</form>
-<tag lemma="Půhoný_;S" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="Půhoný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-037-p18s6w15">
 <src.rf>manual</src.rf>
@@ -6025,7 +6025,7 @@
 <LM>w#w-cmpr9406-037-p23s5w21</LM>
 </w.rf>
 <form>Půhoný</form>
-<tag lemma="Půhoný_;S" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="Půhoný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-037-p23s5w22">
 <src.rf>manual</src.rf>
@@ -6149,7 +6149,7 @@
 <LM>w#w-cmpr9406-037-p25s1w13</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-037-p25s1w14">
 <src.rf>manual</src.rf>
@@ -6337,7 +6337,7 @@
 <LM>w#w-cmpr9406-037-p25s3w3</LM>
 </w.rf>
 <form>Kovačky</form>
-<tag lemma="Kovačka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kovačka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-037-p25s3w4">
 <src.rf>manual</src.rf>
@@ -6420,7 +6420,7 @@
 <LM>w#w-cmpr9406-037-p25s3w13</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-037-p25s3w14">
 <src.rf>manual</src.rf>
@@ -6725,7 +6725,7 @@
 <LM>w#w-cmpr9406-037-p26s1w4</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-037-p26s1w5">
 <src.rf>manual</src.rf>

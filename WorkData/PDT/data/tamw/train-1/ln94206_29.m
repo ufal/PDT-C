@@ -88,7 +88,7 @@
 <LM>w#w-ln94206-29-p2s1Aw3</LM>
 </w.rf>
 <form>teb</form>
-<tag lemma="teb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="teb-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-29-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -139,8 +139,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-29-p2s1Bw5">
@@ -281,7 +281,7 @@
 <LM>w#w-ln94206-29-p2s1Bw21</LM>
 </w.rf>
 <form>Duda</form>
-<tag lemma="Duda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Duda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-29-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-ln94206-29-p2s2w2</LM>
 </w.rf>
 <form>Duda</form>
-<tag lemma="Duda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Duda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-29-p2s2w3">
 <src.rf>manual</src.rf>
@@ -642,8 +642,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-29-p2s5w2">
@@ -774,7 +774,7 @@
 <LM>w#w-ln94206-29-p2s6w4</LM>
 </w.rf>
 <form>Indopol</form>
-<tag lemma="Indopol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Indopol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-29-p2s6w5">
 <src.rf>manual</src.rf>

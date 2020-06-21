@@ -77,7 +77,7 @@
 <LM>w#w-ln94207-117-p2s1w2</LM>
 </w.rf>
 <form>Foll</form>
-<tag lemma="Foll_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foll_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-117-p2s1w3">
 <src.rf>manual</src.rf>
@@ -137,10 +137,10 @@
 <form>Porte</form>
 <tag>
 <AM lemma="Porte_;G" src="orig">NNFXX-----A----</AM>
-<AM lemma="Port_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Porte-1_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="Porte-2_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="Porte-3_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Port_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Porte-1_;G_;m" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Porte-2_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Porte-3_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="port" src="auto">NNIS5-----A----</AM>
 <AM lemma="Porte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -297,7 +297,7 @@
 <form>Porter</form>
 <tag>
 <AM lemma="Porter_;m_,t" src="orig">Vf--------A----</AM>
-<AM lemma="Porter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Porter_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="porter" src="auto">NNMS1-----A----</AM>
 <AM lemma="porter_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Porter-77" src="manual" selected="1">F%-------------</AM>
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln94207-117-p2s6w24</LM>
 </w.rf>
 <form>Renoira</form>
-<tag lemma="Renoir_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Renoir_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-117-p2s6w25">
 <src.rf>manual</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-ln94207-117-p2s6w40</LM>
 </w.rf>
 <form>Felliniho</form>
-<tag lemma="Fellini_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fellini_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-117-p2s6w41">
 <src.rf>manual</src.rf>
@@ -1441,7 +1441,7 @@
 <form>Porter</form>
 <tag>
 <AM lemma="Porter_;m_,t" src="orig">Vf--------A----</AM>
-<AM lemma="Porter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Porter_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="porter" src="auto">NNMS1-----A----</AM>
 <AM lemma="porter_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Porter-77" src="manual" selected="1">F%-------------</AM>
@@ -1582,7 +1582,7 @@
 </w.rf>
 <form>Made</form>
 <tag>
-<AM lemma="Made_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Made_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto" recommended="1">XX-------------</AM>
@@ -1616,7 +1616,7 @@
 </w.rf>
 <form>Publicity</form>
 <tag>
-<AM lemma="Publicity_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Publicity_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="publicita" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="publicita" src="auto">NNFP4-----A----</AM>
 <AM lemma="publicita" src="auto">NNFP5-----A----</AM>

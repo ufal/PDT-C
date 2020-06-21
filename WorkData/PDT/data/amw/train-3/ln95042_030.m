@@ -21,7 +21,7 @@
 <form>Klatovský</form>
 <tag>
 <AM lemma="klatovský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Klatovský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klatovský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-ln95042-030-p1s1w3</LM>
 </w.rf>
 <form>Franc</form>
-<tag lemma="Franc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-030-p1s1w4">
 <src.rf>manual</src.rf>
@@ -65,9 +65,9 @@
 </w.rf>
 <form>GP</form>
 <tag>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="GP-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s1Aw2">
@@ -225,7 +225,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -236,7 +236,7 @@
 </w.rf>
 <form>Prix</form>
 <tag>
-<AM lemma="Prix-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prix-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -477,7 +477,7 @@
 <form>Klatovský</form>
 <tag>
 <AM lemma="klatovský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Klatovský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klatovský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s2Aw25">
@@ -502,7 +502,7 @@
 <LM>w#w-ln95042-030-p2s2Aw27</LM>
 </w.rf>
 <form>Franc</form>
-<tag lemma="Franc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-030-p2s2Aw28">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <form>Klatovský</form>
 <tag>
 <AM lemma="klatovský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Klatovský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klatovský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s2Bw7">
@@ -604,9 +604,9 @@
 </w.rf>
 <form>GP</form>
 <tag>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="GP-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s2Bw12">
@@ -663,7 +663,7 @@
 <LM>w#w-ln95042-030-p2s2Bw18</LM>
 </w.rf>
 <form>Franc</form>
-<tag lemma="Franc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-030-p2s2Bw19">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -749,7 +749,7 @@
 </w.rf>
 <form>Prix</form>
 <tag>
-<AM lemma="Prix-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Prix-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -870,9 +870,9 @@
 </w.rf>
 <form>GP</form>
 <tag>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="GP-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s4w4">
@@ -977,7 +977,7 @@
 <LM>w#w-ln95042-030-p2s4w16</LM>
 </w.rf>
 <form>Nikulina</form>
-<tag lemma="Nikulin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nikulin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-030-p2s4w17">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-ln95042-030-p2s4w18</LM>
 </w.rf>
 <form>Balašova</form>
-<tag lemma="Balašov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Balašov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-030-p2s4w19">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-ln95042-030-p2s5w1</LM>
 </w.rf>
 <form>Nikulin</form>
-<tag lemma="Nikulin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nikulin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-030-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-ln95042-030-p2s6w1</LM>
 </w.rf>
 <form>Balašov</form>
-<tag lemma="Balašov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balašov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-030-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1306,9 +1306,9 @@
 </w.rf>
 <form>GP</form>
 <tag>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="GP-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s8Aw5">
@@ -1473,7 +1473,7 @@
 <form>Klatovský</form>
 <tag>
 <AM lemma="klatovský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Klatovský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klatovský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s8Bw3">
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln95042-030-p2s8Bw4</LM>
 </w.rf>
 <form>Franc</form>
-<tag lemma="Franc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-030-p2s8Bw5">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <form>Klatovský</form>
 <tag>
 <AM lemma="klatovský" src="orig">AAMS1----1A----</AM>
-<AM lemma="Klatovský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klatovský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s9w5">
@@ -1884,7 +1884,7 @@
 <form>Špinka</form>
 <tag>
 <AM lemma="špinka-3_,h_^(lakomec)" src="orig">NNMS1-----A----</AM>
-<AM lemma="Špinka-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Špinka-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s9w35">

@@ -83,7 +83,7 @@
 <LM>w#w-ln94203-36-p1s1w9</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94203-36-p1s1w10">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-ln94203-36-p1s3w3</LM>
 </w.rf>
 <form>Plíšek</form>
-<tag lemma="Plíšek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plíšek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

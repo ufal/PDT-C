@@ -197,7 +197,7 @@
 <LM>w#w-ln94200-29-p2s1Bw11</LM>
 </w.rf>
 <form>Severosklo</form>
-<tag lemma="Severosklo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Severosklo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-29-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln94200-29-p2s3w12</LM>
 </w.rf>
 <form>Bioma</form>
-<tag lemma="Bioma_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bioma_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-29-p2s3w13">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-ln94200-29-p2s5w13</LM>
 </w.rf>
 <form>PRAGA</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Praga_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-29-p2s6">
@@ -1013,7 +1013,7 @@
 <LM>w#w-ln94200-29-p2s8w13</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94200-29-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1651,7 +1651,7 @@
 <LM>w#w-ln94200-29-p2s13w11</LM>
 </w.rf>
 <form>SAFINA</form>
-<tag lemma="Safina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Safina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-29-p2s14">
@@ -1859,7 +1859,7 @@
 <LM>w#w-ln94200-29-p2s15w11</LM>
 </w.rf>
 <form>Kovohutě</form>
-<tag lemma="Kovohutě_;K" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="Kovohutě_;m" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94200-29-p2s15w12">
 <src.rf>manual</src.rf>

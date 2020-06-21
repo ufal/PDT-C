@@ -578,7 +578,7 @@
 </w.rf>
 <form>ESVO</form>
 <tag>
-<AM lemma="ESVO_:B_;K_^(Evropské_sdružení_volného_obchodu)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ESVO_:B_;m_^(Evropské_sdružení_volného_obchodu)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ESVO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ESVO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

@@ -224,9 +224,9 @@
 </w.rf>
 <form>Schenka</form>
 <tag>
-<AM lemma="Schenka_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Schenk_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Schenk_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Schenka_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Schenk_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Schenk_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-104-p2s2w7">
@@ -711,8 +711,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-104-p2s5w14">
@@ -769,7 +769,7 @@
 <LM>w#w-ln94205-104-p2s5w20</LM>
 </w.rf>
 <form>Čvančara</form>
-<tag lemma="Čvančara_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čvančara_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-104-p2s5w21">
 <src.rf>manual</src.rf>
@@ -934,9 +934,9 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-104-p2s7w3">

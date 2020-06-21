@@ -553,7 +553,7 @@
 <LM>w#w-mf930708-049-p2s4w5</LM>
 </w.rf>
 <form>Koblása</form>
-<tag lemma="Koblása_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koblása_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-049-p2s4w6">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-mf930708-049-p2s4w8</LM>
 </w.rf>
 <form>Winklerová</form>
-<tag lemma="Winklerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Winklerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-049-p2s4w9">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-mf930708-049-p2s4w11</LM>
 </w.rf>
 <form>Haberland</form>
-<tag lemma="Haberland_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haberland_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-049-p2s4w12">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-mf930708-049-p2s4w16</LM>
 </w.rf>
 <form>Preclík</form>
-<tag lemma="Preclík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Preclík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-049-p2s4w17">
 <src.rf>manual</src.rf>

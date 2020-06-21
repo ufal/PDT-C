@@ -260,7 +260,7 @@
 <LM>w#w-mf920923-061-p4s1Aw15</LM>
 </w.rf>
 <form>Třesohlavý</form>
-<tag lemma="Třesohlavý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Třesohlavý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-061-p4s1Aw16">
 <src.rf>manual</src.rf>

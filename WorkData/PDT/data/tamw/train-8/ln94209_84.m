@@ -128,7 +128,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -304,7 +304,7 @@
 <LM>w#w-ln94209-84-p2s2w7</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-84-p2s2w8">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln94209-84-p2s2w12</LM>
 </w.rf>
 <form>Frinta</form>
-<tag lemma="Frinta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frinta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-84-p2s2w13">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln94209-84-p2s2w17</LM>
 </w.rf>
 <form>Švec</form>
-<tag lemma="Švec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-84-p2s2w18">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-ln94209-84-p2s2w22</LM>
 </w.rf>
 <form>Mazouch</form>
-<tag lemma="Mazouch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mazouch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-84-p2s2w23">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-ln94209-84-p2s2w27</LM>
 </w.rf>
 <form>Gruber</form>
-<tag lemma="Gruber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gruber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-84-p2s2w28">
 <src.rf>manual</src.rf>

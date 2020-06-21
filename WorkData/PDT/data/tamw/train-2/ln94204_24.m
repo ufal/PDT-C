@@ -20,7 +20,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -131,7 +131,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -452,7 +452,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -760,7 +760,7 @@
 <LM>w#w-ln94204-24-p4s2w8</LM>
 </w.rf>
 <form>Skády</form>
-<tag lemma="Skáda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Skáda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-24-p4s2w9">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <form>Chalupek</form>
 <tag>
 <AM lemma="Chalupky_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Chalupek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chalupek_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Chalupki_;G" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>

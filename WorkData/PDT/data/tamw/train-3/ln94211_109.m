@@ -120,7 +120,7 @@
 <LM>w#w-ln94211-109-p2s1w5</LM>
 </w.rf>
 <form>Haydnovy</form>
-<tag lemma="Haydnův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Haydnův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94211-109-p2s1w6">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 </w.rf>
 <form>Amsterdam</form>
 <tag>
-<AM lemma="Amsterodam_;G_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Amsterodam_;G_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Amsterodam_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amsterodam_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Amsterdam-77" src="manual" selected="1">F%-------------</AM>
@@ -403,11 +403,11 @@
 </w.rf>
 <form>fortepiano</form>
 <tag>
-<AM lemma="fortepiano_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="fortepiano_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="fortepiano-1_,s_,t" src="auto">NNNS1-----A----</AM>
 <AM lemma="fortepiano-1_,s_,t" src="auto">NNNS4-----A----</AM>
 <AM lemma="fortepiano-1_,s_,t" src="auto">NNNS5-----A----</AM>
-<AM lemma="fortepiano-2_;u_,t" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="fortepiano-2_,t" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="fortepiano_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="fortepiano-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -439,7 +439,7 @@
 </w.rf>
 <form>Collegium</form>
 <tag>
-<AM lemma="Collegium_;K" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Collegium_;m" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNP3-----A---6</AM>
 <AM lemma="kolegium_,a_,x" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNS4-----A----</AM>
@@ -470,7 +470,7 @@
 </w.rf>
 <form>Musica</form>
 <tag>
-<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Musica_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
 <AM lemma="musica_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -482,7 +482,7 @@
 </w.rf>
 <form>Historica</form>
 <tag>
-<AM lemma="Historica_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Historica_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="historica_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Historica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -494,8 +494,8 @@
 </w.rf>
 <form>Viva</form>
 <tag>
-<AM lemma="Viva_;K_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Viva_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Viva_;m_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Viva_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Viva-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -521,7 +521,7 @@
 <LM>w#w-ln94211-109-p2s2w21</LM>
 </w.rf>
 <form>Kašpar</form>
-<tag lemma="Kašpar_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kašpar_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-109-p2s2w22">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-ln94211-109-p3s1w2</LM>
 </w.rf>
 <form>Haydn</form>
-<tag lemma="Haydn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Haydn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-109-p3s1w3">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-ln94211-109-p3s3w15</LM>
 </w.rf>
 <form>Morzina</form>
-<tag lemma="Morzin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Morzin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-109-p3s3w16">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-ln94211-109-p3s4w2</LM>
 </w.rf>
 <form>Morzinově</form>
-<tag lemma="Morzinův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Morzinův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94211-109-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-ln94211-109-p3s5w8</LM>
 </w.rf>
 <form>Haydnovo</form>
-<tag lemma="Haydnův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Haydnův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln94211-109-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-ln94211-109-p3s5w19</LM>
 </w.rf>
 <form>Haydnovy</form>
-<tag lemma="Haydnův_;S_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
+<tag lemma="Haydnův_;Y_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
 </m>
 <m id="m-ln94211-109-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-ln94211-109-p4s2w6</LM>
 </w.rf>
 <form>Haydnovy</form>
-<tag lemma="Haydnův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Haydnův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94211-109-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1486,7 +1486,7 @@
 <LM>w#w-ln94211-109-p4s2w11</LM>
 </w.rf>
 <form>Haydna</form>
-<tag lemma="Haydn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Haydn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-109-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2018,10 +2018,10 @@
 </w.rf>
 <form>lub</form>
 <tag>
-<AM lemma="lub-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lub-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lub" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="lub" src="auto">NNIS4-----A----</AM>
-<AM lemma="lub-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lub-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-109-p4s6w3">

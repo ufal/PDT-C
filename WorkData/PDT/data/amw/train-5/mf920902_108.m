@@ -160,7 +160,7 @@
 </w.rf>
 <form>sch</form>
 <tag>
-<AM lemma="sch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="sch-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>
@@ -334,7 +334,7 @@
 <LM>w#w-mf920902-108-p2s3w6</LM>
 </w.rf>
 <form>Novákovým</form>
-<tag lemma="Novákův_;S_^(*2)" src="orig" selected="1">AUMP3M---------</tag>
+<tag lemma="Novákův_;Y_^(*2)" src="orig" selected="1">AUMP3M---------</tag>
 </m>
 <m id="m-mf920902-108-p2s3w7">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-mf920902-108-p2s7w19</LM>
 </w.rf>
 <form>Nováková</form>
-<tag lemma="Nováková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nováková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-108-p2s7w20">
 <src.rf>manual</src.rf>

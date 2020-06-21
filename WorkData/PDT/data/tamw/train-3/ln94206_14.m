@@ -69,7 +69,7 @@
 <LM>w#w-ln94206-14-p2s1Aw2</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="Hrabě_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrabě_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-14-p2s1B">

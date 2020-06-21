@@ -78,8 +78,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-118-p1s2w4">
@@ -179,7 +179,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -377,7 +377,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -629,7 +629,7 @@
 <LM>w#w-lnd94105-118-p1s5w30</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-118-p1s5w31">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-lnd94105-118-p1s6w6</LM>
 </w.rf>
 <form>Uhrina</form>
-<tag lemma="Uhrin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Uhrin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-118-p1s6w7">
 <src.rf>manual</src.rf>

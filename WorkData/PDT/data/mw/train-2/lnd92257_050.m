@@ -122,8 +122,8 @@
 </w.rf>
 <form>Süleyman</form>
 <tag>
-<AM lemma="Süleyman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Süleyman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Süleyman_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Süleyman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-050-p3s2w4">
@@ -132,7 +132,7 @@
 <LM>w#w-lnd92257-050-p3s2w4</LM>
 </w.rf>
 <form>Demirel</form>
-<tag lemma="Demirel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Demirel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-050-p3s2w5">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -623,9 +623,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-050-p3s4w3">
@@ -965,7 +965,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1074,7 +1074,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

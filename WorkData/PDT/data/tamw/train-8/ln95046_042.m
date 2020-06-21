@@ -96,7 +96,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -122,7 +122,7 @@
 <LM>w#w-ln95046-042-p2s1Bw9</LM>
 </w.rf>
 <form>Giacominelliho</form>
-<tag lemma="Giacominelli_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Giacominelli_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-042-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln95046-042-p2s1Bw21</LM>
 </w.rf>
 <form>Spagnoly</form>
-<tag lemma="Spagnola_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Spagnola_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-042-p2s1Bw22">
 <src.rf>manual</src.rf>

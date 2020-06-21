@@ -956,8 +956,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-118-p4s3w10">
@@ -1611,8 +1611,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-118-p6s2w6">
@@ -1718,7 +1718,7 @@
 </w.rf>
 <form>Gallegose</form>
 <tag>
-<AM lemma="Gallegos-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gallegos-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gallegos_;G" src="auto" recommended="1">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -1933,7 +1933,7 @@
 </w.rf>
 <form>Gallegose</form>
 <tag>
-<AM lemma="Gallegos-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gallegos-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gallegos_;G" src="auto" recommended="1">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -1991,7 +1991,7 @@
 <LM>w#w-mf930702-118-p6s5w10</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf930702-118-p6s5w11">
 <src.rf>manual</src.rf>

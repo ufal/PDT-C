@@ -751,7 +751,7 @@
 <LM>w#w-ln95047-034-p3s2w11</LM>
 </w.rf>
 <form>Pouzar</form>
-<tag lemma="Pouzar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pouzar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-034-p3s2w12">
 <src.rf>manual</src.rf>

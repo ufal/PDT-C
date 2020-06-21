@@ -20,8 +20,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p1s1w2">
@@ -72,7 +72,7 @@
 <LM>w#w-ln95042-095-p2s1Aw1</LM>
 </w.rf>
 <form>Pragoimpex</form>
-<tag lemma="Pragoimpex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoimpex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 </w.rf>
 <form>Pragoimpex</form>
 <tag>
-<AM lemma="Pragoimpex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Pragoimpex_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Pragoimpex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -168,7 +168,7 @@
 </w.rf>
 <form>Stahlhandel</form>
 <tag>
-<AM lemma="Stahlhandel_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Stahlhandel_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Stahlhandel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -243,8 +243,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p2s1Cw14">
@@ -294,8 +294,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p2s1Cw20">
@@ -424,7 +424,7 @@
 <LM>w#w-ln95042-095-p2s1Cw35</LM>
 </w.rf>
 <form>Müllerová</form>
-<tag lemma="Müllerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Müllerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s1Cw36">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-ln95042-095-p2s1Cw37</LM>
 </w.rf>
 <form>Dahmenová</form>
-<tag lemma="Dahmenová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dahmenová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s1Cw38">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <form>Stehlík</form>
 <tag>
 <AM lemma="stehlík" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stehlík_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stehlík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p2s1Cw41">
@@ -500,8 +500,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p2s1Cw45">
@@ -733,7 +733,7 @@
 <LM>w#w-ln95042-095-p2s3w1</LM>
 </w.rf>
 <form>Poldovka</form>
-<tag lemma="Poldovka_;K_,h" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poldovka_;m_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s3w2">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-ln95042-095-p2s3w11</LM>
 </w.rf>
 <form>Pragoimpexu</form>
-<tag lemma="Pragoimpex_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pragoimpex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s3w12">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p2s4w5">
@@ -874,7 +874,7 @@
 <LM>w#w-ln95042-095-p2s4w6</LM>
 </w.rf>
 <form>Müllerové</form>
-<tag lemma="Müllerová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Müllerová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s4w7">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <LM>w#w-ln95042-095-p2s4w8</LM>
 </w.rf>
 <form>Dahmenové</form>
-<tag lemma="Dahmenová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dahmenová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s4w9">
 <src.rf>manual</src.rf>
@@ -907,8 +907,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p2s4w11">
@@ -1095,7 +1095,7 @@
 <LM>w#w-ln95042-095-p3s1w1</LM>
 </w.rf>
 <form>Pragoimpex</form>
-<tag lemma="Pragoimpex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoimpex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-095-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p4s1w2">
@@ -1367,7 +1367,7 @@
 <LM>w#w-ln95042-095-p4s1w3</LM>
 </w.rf>
 <form>Stehlík</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-095-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1626,8 +1626,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p4s2w17">
@@ -1803,8 +1803,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p5s1w17">
@@ -1901,7 +1901,7 @@
 <LM>w#w-ln95042-095-p5s1w28</LM>
 </w.rf>
 <form>Pragoimpex</form>
-<tag lemma="Pragoimpex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoimpex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-095-p5s1w29">
 <src.rf>manual</src.rf>
@@ -2130,7 +2130,7 @@
 <LM>w#w-ln95042-095-p5s3w5</LM>
 </w.rf>
 <form>Pragoimpex</form>
-<tag lemma="Pragoimpex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragoimpex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-095-p5s3w6">
 <src.rf>manual</src.rf>
@@ -2310,8 +2310,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p6s1w3">
@@ -2628,8 +2628,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p6s3w11">
@@ -2849,8 +2849,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-095-p7s1w17">

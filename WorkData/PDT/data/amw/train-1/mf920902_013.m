@@ -69,7 +69,7 @@
 <LM>w#w-mf920902-013-p1s1Bw3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jsl-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920902-013-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 </w.rf>
 <form>Free</form>
 <tag>
-<AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -791,7 +791,7 @@
 </w.rf>
 <form>Free</form>
 <tag>
-<AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -802,7 +802,7 @@
 </w.rf>
 <form>zone</form>
 <tag>
-<AM lemma="zone_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="zone_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="zone-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -828,7 +828,7 @@
 <LM>w#w-mf920902-013-p1s6w27</LM>
 </w.rf>
 <form>Rohan</form>
-<tag lemma="Rohan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rohan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-013-p1s6w28">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 </w.rf>
 <form>Free</form>
 <tag>
-<AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

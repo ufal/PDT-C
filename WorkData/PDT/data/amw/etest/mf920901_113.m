@@ -621,7 +621,7 @@
 <LM>w#w-mf920901-113-p3s1w3</LM>
 </w.rf>
 <form>Lübbenau</form>
-<tag lemma="Lübbenau_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Lübbenau_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920901-113-p3s1w4">
 <src.rf>manual</src.rf>

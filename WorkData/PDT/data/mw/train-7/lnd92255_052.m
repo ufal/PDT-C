@@ -104,8 +104,8 @@
 </w.rf>
 <form>ph</form>
 <tag>
-<AM lemma="ph-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ph-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ph-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ph-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-052-p3s1w4">
@@ -268,7 +268,7 @@
 <LM>w#w-lnd92255-052-p3s2w18</LM>
 </w.rf>
 <form>Soudka</form>
-<tag lemma="Soudek_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Soudek_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-052-p3s2w19">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-lnd92255-052-p3s4w16</LM>
 </w.rf>
 <form>Ježek</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-052-p3s4w17">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-lnd92255-052-p3s5w2</LM>
 </w.rf>
 <form>Soudek</form>
-<tag lemma="Soudek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soudek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-052-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-052-p3s8w7">
@@ -1126,7 +1126,7 @@
 <LM>w#w-lnd92255-052-p3s8w8</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-052-p3s8w9">
 <src.rf>manual</src.rf>

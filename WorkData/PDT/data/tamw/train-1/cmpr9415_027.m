@@ -892,7 +892,7 @@
 </w.rf>
 <form>Groupe</form>
 <tag>
-<AM lemma="Groupe_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Groupe_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Groupe-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -903,7 +903,7 @@
 </w.rf>
 <form>Charbonnages</form>
 <tag>
-<AM lemma="Charbonnage_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Charbonnage_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Charbonnages-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -925,21 +925,21 @@
 </w.rf>
 <form>France</form>
 <tag>
-<AM lemma="France-2_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="France-2_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Franca_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franca_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Franc_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMP4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="France-1_;S" src="auto">NNMS1-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Franc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMP4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS1-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="France-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="France-2_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1034,8 +1034,8 @@
 </w.rf>
 <form>Koh</form>
 <tag>
-<AM lemma="Koh_;K_^(Koh-i-noor)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Koh_;K_^(Koh-i-noor)" src="auto" recommended="1" selected="1">A2--------A----</AM>
+<AM lemma="Koh_;m_^(Koh-i-noor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="Koh_;m_^(Koh-i-noor)" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p6s1w8">
@@ -1053,10 +1053,10 @@
 </w.rf>
 <form>i</form>
 <tag>
-<AM lemma="i_;K_^(Koh-i-noor)" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="i_;m_^(Koh-i-noor)" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="i-1" src="auto">J^-------------</AM>
 <AM lemma="i-2" src="auto">TT-------------</AM>
-<AM lemma="i-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="i-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
@@ -1075,7 +1075,7 @@
 <LM>w#w-cmpr9415-027-p6s1w11</LM>
 </w.rf>
 <form>noor</form>
-<tag lemma="noor_;K_^(Koh-i-noor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="noor_;m_^(Koh-i-noor)" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-027-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-cmpr9415-027-p6s1w12</LM>
 </w.rf>
 <form>Hardtmuth</form>
-<tag lemma="Hardtmuth_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hardtmuth_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-027-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1692,18 +1692,18 @@
 </w.rf>
 <form>Porsche</form>
 <tag>
-<AM lemma="Porsche-1_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="porsche_;R" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="auto" selected="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS1-----A----</AM>
+<AM lemma="porsche_;m" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1731,19 +1731,19 @@
 </w.rf>
 <form>Porsche</form>
 <tag>
-<AM lemma="Porsche-1_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="porsche_;R" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNXXX-----A----</AM>
-<AM lemma="Porsche-1_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="auto" selected="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS1-----A----</AM>
+<AM lemma="porsche_;m" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p8s1w4">
@@ -1923,8 +1923,8 @@
 </w.rf>
 <form>Porsche</form>
 <tag>
-<AM lemma="porsche_;R" src="orig">NNNS1-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="porsche_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="Porsche-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p8s2w11">
@@ -1942,7 +1942,7 @@
 </w.rf>
 <form>JIPO</form>
 <tag>
-<AM lemma="JIPO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="JIPO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="JIPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2078,7 +2078,7 @@
 </w.rf>
 <form>JIPO</form>
 <tag>
-<AM lemma="JIPO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="JIPO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="JIPO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2261,18 +2261,18 @@
 </w.rf>
 <form>Porsche</form>
 <tag>
-<AM lemma="Porsche-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS1-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS2-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS4-----A----</AM>
-<AM lemma="porsche_;R" src="auto">NNNS5-----A----</AM>
-<AM lemma="porsche_;R" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-2_;m_^(vozidlo)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="auto" selected="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Porsche-3_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP1-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS1-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS2-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="porsche_;m" src="auto">NNNS5-----A----</AM>
+<AM lemma="porsche_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p8s4w15">

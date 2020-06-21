@@ -62,8 +62,8 @@
 </w.rf>
 <form>jap</form>
 <tag>
-<AM lemma="jap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jap-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jap-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jap-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-42-p2s1Aw4">
@@ -255,7 +255,7 @@
 <LM>w#w-ln94210-42-p2s2w8</LM>
 </w.rf>
 <form>Fendrych</form>
-<tag lemma="Fendrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fendrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-42-p2s2w9">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln94210-42-p2s3w21</LM>
 </w.rf>
 <form>Fendrycha</form>
-<tag lemma="Fendrych_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fendrych_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-42-p2s3w22">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94210-42-p3s1w5</LM>
 </w.rf>
 <form>Novotného</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-42-p3s1w6">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-ln94210-42-p3s2w1</LM>
 </w.rf>
 <form>Novotný</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-42-p3s2w2">
 <src.rf>manual</src.rf>

@@ -545,7 +545,7 @@
 </w.rf>
 <form>Chemical</form>
 <tag>
-<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Chemical-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -556,7 +556,7 @@
 </w.rf>
 <form>Engineering</form>
 <tag>
-<AM lemma="Engineering_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Engineering_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Engineering-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -640,7 +640,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-033-p5s1w15">
@@ -657,7 +657,7 @@
 <LM>w#w-cmpr9413-033-p5s1w16</LM>
 </w.rf>
 <form>Wade</form>
-<tag lemma="Wade_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wade_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-033-p5s1w17">
 <src.rf>manual</src.rf>
@@ -4785,7 +4785,7 @@
 <LM>w#w-cmpr9413-033-p35s1w2</LM>
 </w.rf>
 <form>Kunášek</form>
-<tag lemma="Kunášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-033-p35s1w3">
 <src.rf>manual</src.rf>
@@ -4819,7 +4819,7 @@
 <LM>w#w-cmpr9413-033-p36s1w1</LM>
 </w.rf>
 <form>JAMES</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-033-p36s1w2">
 <src.rf>manual</src.rf>
@@ -4827,7 +4827,7 @@
 <LM>w#w-cmpr9413-033-p36s1w2</LM>
 </w.rf>
 <form>BOND</form>
-<tag lemma="Bond_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bond_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-033-p36s1w3">
 <src.rf>manual</src.rf>

@@ -45,7 +45,7 @@
 <LM>w#w-lnd92258-052-p2s1w2</LM>
 </w.rf>
 <form>LANGOŠE</form>
-<tag lemma="Langoš_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Langoš_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-052-p3s1">

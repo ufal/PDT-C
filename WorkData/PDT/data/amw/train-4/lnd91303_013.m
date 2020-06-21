@@ -2051,7 +2051,7 @@
 <LM>w#w-lnd91303-013-p4s2w7</LM>
 </w.rf>
 <form>dolarech</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd91303-013-p4s2w8">
 <src.rf>manual</src.rf>
@@ -2197,7 +2197,7 @@
 <LM>w#w-lnd91303-013-p4s3w1</LM>
 </w.rf>
 <form>Chaim</form>
-<tag lemma="Chaim_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chaim_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-013-p4s3w2">
 <src.rf>manual</src.rf>
@@ -2206,7 +2206,7 @@
 </w.rf>
 <form>Assa</form>
 <tag>
-<AM lemma="Assa_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Assa_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Asso_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Asso_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Asso_;G" src="auto">NNNP5-----A----</AM>
@@ -3004,7 +3004,7 @@
 </w.rf>
 <form>Be</form>
 <tag>
-<AM lemma="Be_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Be_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Be_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._být,_v_názvech_apod.)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="Be-77" src="manual" selected="1">F%-------------</AM>
@@ -3017,8 +3017,8 @@
 </w.rf>
 <form>Machane</form>
 <tag>
-<AM lemma="Machane_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Machan_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Machane_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Machan_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="Machane-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3087,7 +3087,7 @@
 <LM>w#w-lnd91303-013-p5s4w16</LM>
 </w.rf>
 <form>Šachor</form>
-<tag lemma="Šachor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šachor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-013-p5s4w17">
 <src.rf>manual</src.rf>
@@ -5220,7 +5220,7 @@
 </w.rf>
 <form>Jediot</form>
 <tag>
-<AM lemma="Jediot_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Jediot_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Jediot-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5231,7 +5231,7 @@
 </w.rf>
 <form>Achronot</form>
 <tag>
-<AM lemma="Achronot_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Achronot_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Achronot-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -5249,7 +5249,7 @@
 <LM>w#w-lnd91303-013-p8s2w25</LM>
 </w.rf>
 <form>Išai</form>
-<tag lemma="Išai_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Išai_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-013-p8s2w26">
 <src.rf>manual</src.rf>
@@ -5480,7 +5480,7 @@
 <LM>w#w-lnd91303-013-p9s1w2</LM>
 </w.rf>
 <form>HOFFMANOVÁ</form>
-<tag lemma="Hoffmanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hoffmanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-013-p9s1w3">
 <src.rf>manual</src.rf>

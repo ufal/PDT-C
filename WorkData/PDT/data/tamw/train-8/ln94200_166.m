@@ -102,7 +102,7 @@
 </w.rf>
 <form>js</form>
 <tag>
-<AM lemma="js-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="js-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="js-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -436,10 +436,10 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LN-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="LN-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-166-p2s3w5">
@@ -504,7 +504,7 @@
 <LM>w#w-ln94200-166-p2s3w12</LM>
 </w.rf>
 <form>Vacek</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-166-p2s3w13">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-ln94200-166-p2s6w2</LM>
 </w.rf>
 <form>Vackových</form>
-<tag lemma="Vackův_;S_^(*3ek)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Vackův_;Y_^(*3ek)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln94200-166-p2s6w3">
 <src.rf>manual</src.rf>

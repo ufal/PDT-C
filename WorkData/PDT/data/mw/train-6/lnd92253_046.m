@@ -19,7 +19,7 @@
 <LM>w#w-lnd92253-046-p1s1w1</LM>
 </w.rf>
 <form>KADDÁFÍ</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-046-p1s1w2">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-lnd92253-046-p3s2w19</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-046-p3s2w20">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-lnd92253-046-p3s3w25</LM>
 </w.rf>
 <form>Kaddáfího</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-046-p3s3w26">
 <src.rf>manual</src.rf>
@@ -778,8 +778,8 @@
 </w.rf>
 <form>Haját</form>
 <tag>
-<AM lemma="Haját-2_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Haját_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haját-2_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haját_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Haját-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

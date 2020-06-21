@@ -263,7 +263,7 @@
 <form>Antall</form>
 <tag>
 <AM lemma="Antall_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Antall_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Antall_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-115-p3s1Bw20">

@@ -128,8 +128,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-61-p2s1Bw5">
@@ -203,8 +203,8 @@
 </w.rf>
 <form>Süleyman</form>
 <tag>
-<AM lemma="Süleyman_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Süleyman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Süleyman_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Süleyman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-61-p2s1Bw14">
@@ -213,7 +213,7 @@
 <LM>w#w-ln94203-61-p2s1Bw14</LM>
 </w.rf>
 <form>Demirel</form>
-<tag lemma="Demirel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Demirel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-61-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-ln94203-61-p2s1Bw18</LM>
 </w.rf>
 <form>Husajn</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-61-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln94203-61-p2s2w3</LM>
 </w.rf>
 <form>Demirelovy</form>
-<tag lemma="Demirelův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Demirelův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94203-61-p2s2w4">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln94203-61-p3s1w15</LM>
 </w.rf>
 <form>Husajn</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-61-p3s1w16">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-ln94203-61-p3s2w1</LM>
 </w.rf>
 <form>Demirel</form>
-<tag lemma="Demirel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Demirel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-61-p3s2w2">
 <src.rf>manual</src.rf>

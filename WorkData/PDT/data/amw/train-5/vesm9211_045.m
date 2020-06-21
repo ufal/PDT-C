@@ -1497,7 +1497,7 @@
 <AM lemma="o-1" src="orig">RV--6----------</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="o-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="o-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
@@ -1688,8 +1688,8 @@
 </w.rf>
 <form>Winston</form>
 <tag>
-<AM lemma="Winston_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Winston_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Winston_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Winston_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-045-p3s3Bw30">
@@ -1698,7 +1698,7 @@
 <LM>w#w-vesm9211-045-p3s3Bw30</LM>
 </w.rf>
 <form>Churchill</form>
-<tag lemma="Churchill_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Churchill_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-045-p3s3Bw31">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 </w.rf>
 <form>čtyřiadevadesáti</form>
 <tag>
-<AM lemma="čtyřiadevadesát`94" src="orig">NNMSX-----A----</AM>
+<AM lemma="čtyřiadevadesát`94" src="orig">NNMXX-----A----</AM>
 <AM lemma="čtyřiadevadesát`94" src="auto" recommended="1" selected="1">Cn-P2----------</AM>
 <AM lemma="čtyřiadevadesát`94" src="auto">Cn-P3----------</AM>
 <AM lemma="čtyřiadevadesát`94" src="auto">Cn-P6----------</AM>
@@ -4030,7 +4030,7 @@
 <LM>w#w-vesm9211-045-p5s5w6</LM>
 </w.rf>
 <form>Kubišta</form>
-<tag lemma="Kubišta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubišta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-045-p5s5w7">
 <src.rf>manual</src.rf>

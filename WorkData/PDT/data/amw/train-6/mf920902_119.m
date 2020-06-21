@@ -61,7 +61,7 @@
 <LM>w#w-mf920902-119-p2s1w3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="bar-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920902-119-p2s1w4">
 <src.rf>manual</src.rf>
@@ -208,11 +208,11 @@
 </w.rf>
 <form>Mitsubishi</form>
 <tag>
-<AM lemma="Mitsubishi-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Mitsubishi_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="mitsubishi_;R" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="mitsubishi_;R_^(vozidlo)" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mitsubishi_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mitsubishi-2_;m_^(vozidlo)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mitsubishi_;m" src="auto">NNXXX-----A----</AM>
+<AM lemma="mitsubishi_;m" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="mitsubishi_;m_^(vozidlo)" src="auto">NNXXX-----A----</AM>
+<AM lemma="Mitsubishi_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-119-p2s2w17">
@@ -466,7 +466,7 @@
 <tag>
 <AM lemma="ARO_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ARO_:B_;U_^(anesteziologicko-resuscitační_oddělení)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Ara_;K_^(obchod,_firma,_továrna)" src="auto">NNFS5-----A----</AM>
+<AM lemma="Ara_;m_^(obchod,_firma,_továrna)" src="auto">NNFS5-----A----</AM>
 <AM lemma="ara_,l" src="auto">NNMS5-----A----</AM>
 <AM lemma="ARO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

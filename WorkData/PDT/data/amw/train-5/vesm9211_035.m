@@ -350,7 +350,7 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-1_;m_,t_^(souč._názvů,_např._Science)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -428,7 +428,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-035-p2s1w3">
@@ -445,7 +445,7 @@
 <LM>w#w-vesm9211-035-p2s1w4</LM>
 </w.rf>
 <form>Charlson</form>
-<tag lemma="Charlson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Charlson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-035-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 </w.rf>
 <form>Chem</form>
 <tag>
-<AM lemma="Chem_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Chem_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Chem-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1335,7 +1335,7 @@
 </w.rf>
 <form>Eng</form>
 <tag>
-<AM lemma="Eng_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Eng_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Eng_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eng-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1355,7 +1355,7 @@
 </w.rf>
 <form>News</form>
 <tag>
-<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-1_;m_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1447,7 +1447,7 @@
 <LM>w#w-vesm9211-035-p3s6w2</LM>
 </w.rf>
 <form>Molík</form>
-<tag lemma="Molík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Molík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -319,7 +319,7 @@
 <LM>w#w-mf920901-033-p2s2w10</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="C-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920901-033-p2s2w11">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-mf920901-033-p2s2w22</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="C-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920901-033-p2s2w23">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-mf920901-033-p2s4w7</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="C-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920901-033-p2s4w8">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -554,7 +554,7 @@
 <LM>w#w-mf920901-033-p2s4w15</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="C-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920901-033-p2s4w16">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -735,7 +735,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -1271,7 +1271,7 @@
 <LM>w#w-mf920901-033-p4s1w8</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="C-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920901-033-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-mf920901-033-p4s1w18</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="C-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920901-033-p4s1w19">
 <src.rf>manual</src.rf>

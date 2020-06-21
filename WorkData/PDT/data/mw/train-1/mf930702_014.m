@@ -94,9 +94,9 @@
 </w.rf>
 <form>mik</form>
 <tag>
-<AM lemma="mik-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mik-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mik" src="auto" recommended="1">II-------------</AM>
-<AM lemma="mik-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mik-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-014-p2s1w4">
@@ -335,7 +335,7 @@
 </w.rf>
 <form>OFT</form>
 <tag>
-<AM lemma="OFT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OFT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="OFT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -630,7 +630,7 @@
 <LM>w#w-mf930702-014-p2s3w19</LM>
 </w.rf>
 <form>Witting</form>
-<tag lemma="Witting_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Witting_;m" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-014-p2s3w20">
 <src.rf>manual</src.rf>

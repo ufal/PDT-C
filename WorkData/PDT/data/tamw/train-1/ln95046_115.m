@@ -44,8 +44,8 @@
 </w.rf>
 <form>Fantu</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS4-----A----</AM>
-<AM lemma="Fanta_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Fanta-2_;m" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="Fanta_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="fant" src="auto">NNIS2-----A----</AM>
 <AM lemma="fant" src="auto">NNIS3-----A----</AM>
 <AM lemma="fant" src="auto">NNIS6-----A----</AM>
@@ -66,10 +66,10 @@
 </w.rf>
 <form>Sprite</form>
 <tag>
-<AM lemma="Sprite_;R_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="Sprite_;m_,t" src="orig">NNIS4-----A----</AM>
 <AM lemma="sprite" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS5-----A----</AM>
-<AM lemma="Sprite_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Sprite_;m" src="manual" selected="1">NNIS4-----A----</AM>
 <AM lemma="sprite" src="manual">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -140,8 +140,8 @@
 </w.rf>
 <form>Coca</form>
 <tag>
-<AM lemma="Coca_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="Coca_;R_;K" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p2s1Bw7">
@@ -159,8 +159,8 @@
 </w.rf>
 <form>Cola</form>
 <tag>
-<AM lemma="Cola_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cola_;R_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p2s1Bw9">
@@ -250,10 +250,10 @@
 </w.rf>
 <form>Fanty</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Fanta_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Fanta_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Fanta_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Fanta-2_;m" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fanta_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Fanta_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Fanta_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="fant" src="auto">NNIP1-----A----</AM>
 <AM lemma="fant" src="auto">NNIP4-----A----</AM>
 <AM lemma="fant" src="auto">NNIP5-----A----</AM>
@@ -291,10 +291,10 @@
 </w.rf>
 <form>Sprite</form>
 <tag>
-<AM lemma="Sprite_;R_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="Sprite_;m_,t" src="orig">NNIS4-----A----</AM>
 <AM lemma="sprite" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS5-----A----</AM>
-<AM lemma="Sprite_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sprite_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p2s1Bw24">
@@ -346,10 +346,10 @@
 </w.rf>
 <form>Fanty</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Fanta_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Fanta_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Fanta_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Fanta-2_;m" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fanta_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Fanta_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Fanta_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="fant" src="auto">NNIP1-----A----</AM>
 <AM lemma="fant" src="auto">NNIP4-----A----</AM>
 <AM lemma="fant" src="auto">NNIP5-----A----</AM>
@@ -562,8 +562,8 @@
 </w.rf>
 <form>Fanta</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="Fanta_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fanta-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fanta_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p3s3w2">
@@ -663,11 +663,11 @@
 </w.rf>
 <form>Spritu</form>
 <tag>
-<AM lemma="Sprite_;R_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sprite_;m_,t" src="orig">NNIS2-----A----</AM>
 <AM lemma="sprite" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS3-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS6-----A----</AM>
-<AM lemma="Sprite_;R" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Sprite_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p3s4w3">
@@ -701,9 +701,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p3s4w7">
@@ -819,8 +819,8 @@
 </w.rf>
 <form>Coca</form>
 <tag>
-<AM lemma="Coca_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="Coca_;R_;K" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p3s5w5">
@@ -838,8 +838,8 @@
 </w.rf>
 <form>Cola</form>
 <tag>
-<AM lemma="Cola_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cola_;R_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p3s5w7">

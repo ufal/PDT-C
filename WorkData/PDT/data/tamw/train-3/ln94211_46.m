@@ -201,7 +201,7 @@
 <LM>w#w-ln94211-46-p2s1Cw10</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-46-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 </w.rf>
 <form>ČMSS</form>
 <tag>
-<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČMSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

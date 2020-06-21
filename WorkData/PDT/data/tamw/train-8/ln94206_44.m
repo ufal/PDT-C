@@ -77,7 +77,7 @@
 <LM>w#w-ln94206-44-p2s1Aw3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kva-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-44-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1882,7 +1882,7 @@
 <LM>w#w-ln94206-44-p6s1w17</LM>
 </w.rf>
 <form>Koucký</form>
-<tag lemma="Koucký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koucký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-44-p6s1w18">
 <src.rf>manual</src.rf>

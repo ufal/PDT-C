@@ -317,8 +317,8 @@
 <form>Ešera</form>
 <tag>
 <AM lemma="Ešera_;G" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="Ešer_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ešer_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Ešer_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ešer_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-070-p3s3w13">
@@ -647,7 +647,7 @@
 <LM>w#w-lnd92259-070-p3s7w7</LM>
 </w.rf>
 <form>Ševardnadzeho</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-070-p3s7w8">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-lnd92259-070-p3s8w5</LM>
 </w.rf>
 <form>Kitovani</form>
-<tag lemma="Kitovani_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kitovani_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-070-p3s8w6">
 <src.rf>manual</src.rf>

@@ -70,8 +70,8 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="r-33" src="auto">Q3-------------</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
@@ -238,7 +238,7 @@
 <LM>w#w-mf930702-003-p2s2w5</LM>
 </w.rf>
 <form>Vlčkovi</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930702-003-p2s2w6">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-mf930702-003-p2s2w7</LM>
 </w.rf>
 <form>Mráčkovi</form>
-<tag lemma="Mráček_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Mráček_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930702-003-p2s2w8">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-mf930702-003-p2s2w9</LM>
 </w.rf>
 <form>Krausovi</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf930702-003-p2s2w10">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <LM>w#w-mf930702-003-p2s2w11</LM>
 </w.rf>
 <form>Raškovi</form>
-<tag lemma="Raška_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Raška_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930702-003-p2s2w12">
 <src.rf>manual</src.rf>
@@ -302,7 +302,7 @@
 <LM>w#w-mf930702-003-p2s2w13</LM>
 </w.rf>
 <form>Štěrbovi</form>
-<tag lemma="Štěrba_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Štěrba_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930702-003-p2s2w14">
 <src.rf>manual</src.rf>

@@ -13,7 +13,7 @@
 </w.rf>
 <form>Spousta</form>
 <tag>
-<AM lemma="Spousta_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Spousta_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="spousta" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -65,7 +65,7 @@
 </w.rf>
 <form>tak</form>
 <tag>
-<AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
 <AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
@@ -97,8 +97,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -109,7 +109,7 @@
 <form>Ivce</form>
 <tag>
 <AM lemma="Ivce" src="auto">X@-------------</AM>
-<AM lemma="Ivka_;K" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Ivka_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m983-d-id122109">

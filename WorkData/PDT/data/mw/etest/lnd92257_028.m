@@ -78,7 +78,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -481,7 +481,7 @@
 </w.rf>
 <form>Hochschülerschaft</form>
 <tag>
-<AM lemma="Hochschülerschaft_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Hochschülerschaft_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Hochschülerschaft-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -492,7 +492,7 @@
 </w.rf>
 <form>Alternativreferat</form>
 <tag>
-<AM lemma="Alternativreferat_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Alternativreferat_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Alternativreferat-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -721,8 +721,8 @@
 </w.rf>
 <form>Ekocentru</form>
 <tag>
-<AM lemma="Ekocentrum_;K_;z" src="auto">NNNS6-----A----</AM>
-<AM lemma="Ekocentrum_;K" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="Ekocentrum_;m" src="auto">NNNS6-----A----</AM>
+<AM lemma="Ekocentrum_;m" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-028-p2s4w23">

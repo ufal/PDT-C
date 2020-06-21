@@ -523,7 +523,7 @@
 <LM>w#w-lnd92256-025-p2s1w17</LM>
 </w.rf>
 <form>Hlavatý</form>
-<tag lemma="Hlavatý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hlavatý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-025-p2s1w18">
 <src.rf>manual</src.rf>

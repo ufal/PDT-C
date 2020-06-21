@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-092-p1s1w1</LM>
 </w.rf>
 <form>Ueda</form>
-<tag lemma="Ueda_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ueda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p1s1w2">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95048-092-p2s1Aw7</LM>
 </w.rf>
 <form>aprilie</form>
-<tag lemma="Aprilia_;R_^(motocykl)" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="Aprilia_;m_^(motocykl)" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-092-p2s1B">
@@ -308,9 +308,9 @@
 </w.rf>
 <form>Aprilia</form>
 <tag>
-<AM lemma="Aprilia_;R_^(motorka)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Aprilia_;m_^(motorka)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Aprilia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Aprilia_;R_^(motocykl)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Aprilia_;m_^(motocykl)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s2w8">
@@ -359,7 +359,7 @@
 <LM>w#w-ln95048-092-p2s2w13</LM>
 </w.rf>
 <form>Hondy</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s2w14">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln95048-092-p2s2w21</LM>
 </w.rf>
 <form>Ueda</form>
-<tag lemma="Ueda_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ueda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s2w22">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-ln95048-092-p2s3w4</LM>
 </w.rf>
 <form>Doohana</form>
-<tag lemma="Doohan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Doohan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s3w5">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln95048-092-p2s3w6</LM>
 </w.rf>
 <form>Schwantze</form>
-<tag lemma="Schwantz_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schwantz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s3w7">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-ln95048-092-p2s3w10</LM>
 </w.rf>
 <form>Reggianiho</form>
-<tag lemma="Reggiani_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reggiani_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s3w11">
 <src.rf>manual</src.rf>
@@ -594,9 +594,9 @@
 </w.rf>
 <form>Aprilia</form>
 <tag>
-<AM lemma="Aprilia_;R_^(motorka)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Aprilia_;m_^(motorka)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Aprilia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Aprilia_;R_^(motocykl)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Aprilia_;m_^(motocykl)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s3w13">
@@ -704,7 +704,7 @@
 <LM>w#w-ln95048-092-p2s3w25</LM>
 </w.rf>
 <form>Cadalora</form>
-<tag lemma="Cadalora_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cadalora_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s3w26">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-ln95048-092-p2s3w28</LM>
 </w.rf>
 <form>Abe</form>
-<tag lemma="Abe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s3w29">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-ln95048-092-p2s3w32</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="Yamaha-2_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Yamaha-2_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s3w33">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-ln95048-092-p2s4w9</LM>
 </w.rf>
 <form>Sakata</form>
-<tag lemma="Sakata_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sakata_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s4w10">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln95048-092-p2s4w11</LM>
 </w.rf>
 <form>aprilii</form>
-<tag lemma="Aprilia_;R_^(motocykl)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Aprilia_;m_^(motocykl)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s4w12">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln95048-092-p2s4w23</LM>
 </w.rf>
 <form>Bayelovi</form>
-<tag lemma="Bayel_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Bayel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1120,7 +1120,7 @@
 <form>Eastern</form>
 <tag>
 <AM lemma="Eastern_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Eastern_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eastern_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="eastern_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Eastern-77" src="manual" selected="1">F%-------------</AM>
 </tag>

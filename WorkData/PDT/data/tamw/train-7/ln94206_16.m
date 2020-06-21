@@ -167,7 +167,7 @@
 <LM>w#w-ln94206-16-p2s1Bw2</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="Hrabě_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrabě_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-16-p2s1C">
@@ -541,7 +541,7 @@
 <LM>w#w-ln94206-16-p2s3w12</LM>
 </w.rf>
 <form>Brůžek</form>
-<tag lemma="Brůžek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brůžek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-16-p2s3w13">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-ln94206-16-p2s3w17</LM>
 </w.rf>
 <form>Strabag</form>
-<tag lemma="Strabag_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Strabag_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-16-p2s3w18">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-ln94206-16-p2s3w18</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94206-16-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-16-p3s3w3">
@@ -1044,7 +1044,7 @@
 <LM>w#w-ln94206-16-p3s3w4</LM>
 </w.rf>
 <form>Brůžek</form>
-<tag lemma="Brůžek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brůžek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-16-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1957,7 +1957,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-16-p4s5w31">
@@ -1974,7 +1974,7 @@
 <LM>w#w-ln94206-16-p4s5w32</LM>
 </w.rf>
 <form>Brůžek</form>
-<tag lemma="Brůžek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brůžek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-16-p4s5w33">
 <src.rf>manual</src.rf>
@@ -2353,7 +2353,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-16-p5s3w3">
@@ -2370,7 +2370,7 @@
 <LM>w#w-ln94206-16-p5s3w4</LM>
 </w.rf>
 <form>Brůžka</form>
-<tag lemma="Brůžek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brůžek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-16-p5s3w5">
 <src.rf>manual</src.rf>
@@ -3343,7 +3343,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-16-p6s5w15">
@@ -3360,7 +3360,7 @@
 <LM>w#w-ln94206-16-p6s5w16</LM>
 </w.rf>
 <form>Brůžek</form>
-<tag lemma="Brůžek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brůžek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-16-p6s5w17">
 <src.rf>manual</src.rf>
@@ -3752,7 +3752,7 @@
 <LM>w#w-ln94206-16-p8s1w4</LM>
 </w.rf>
 <form>Strabag</form>
-<tag lemma="Strabag_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Strabag_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-16-p8s1w5">
 <src.rf>manual</src.rf>
@@ -4139,7 +4139,7 @@
 <LM>w#w-ln94206-16-p8s3w9</LM>
 </w.rf>
 <form>Gradua</form>
-<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gradua_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-16-p8s3w10">
 <src.rf>manual</src.rf>

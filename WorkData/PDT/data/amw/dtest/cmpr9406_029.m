@@ -99,7 +99,7 @@
 <LM>w#w-cmpr9406-029-p2s1Aw8</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-029-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 </w.rf>
 <form>GSR</form>
 <tag>
-<AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR_:B_;m_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -328,7 +328,7 @@
 <LM>w#w-cmpr9406-029-p3s1w9</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-029-p3s1w10">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 </w.rf>
 <form>GSR</form>
 <tag>
-<AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR_:B_;m_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -537,7 +537,7 @@
 </w.rf>
 <form>Greenwald</form>
 <tag>
-<AM lemma="Greenwald-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Greenwald-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -588,7 +588,7 @@
 <LM>w#w-cmpr9406-029-p4s1w19</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-029-p4s1w20">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-cmpr9406-029-p4s2w21</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-029-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-cmpr9406-029-p4s4w6</LM>
 </w.rf>
 <form>Greenwalda</form>
-<tag lemma="Greenwald-2_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Greenwald-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 </w.rf>
 <form>GSR</form>
 <tag>
-<AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR_:B_;m_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1277,8 +1277,8 @@
 </w.rf>
 <form>Tatra</form>
 <tag>
-<AM lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tatra_;K_;R_^(auto;mléko)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tatra_;m_^(auto;;mléko)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Tatra_;m_^(auto;mléko)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w37">

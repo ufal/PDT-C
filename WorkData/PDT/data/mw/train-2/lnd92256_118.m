@@ -21,7 +21,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-118-p1s1w2">
@@ -40,7 +40,7 @@
 <LM>w#w-lnd92256-118-p1s2w1</LM>
 </w.rf>
 <form>KLAUS</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-118-p1s2w2">
 <src.rf>manual</src.rf>
@@ -82,7 +82,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-118-p1s2w7">
@@ -99,7 +99,7 @@
 <LM>w#w-lnd92256-118-p1s2w8</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-118-p1s2w9">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-lnd92256-118-p1s2w13</LM>
 </w.rf>
 <form>Rašínově</form>
-<tag lemma="Rašínův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Rašínův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-lnd92256-118-p1s2w14">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-118-p1s3w30">
@@ -400,7 +400,7 @@
 <LM>w#w-lnd92256-118-p1s3w31</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-118-p1s3w32">
 <src.rf>manual</src.rf>

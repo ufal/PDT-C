@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-085-p1s1Aw3</LM>
 </w.rf>
 <form>Radolského</form>
-<tag lemma="Radolský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Radolský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-085-p1s1B">
@@ -61,7 +61,7 @@
 <LM>w#w-mf930709-085-p1s1Bw3</LM>
 </w.rf>
 <form>VIKTORII</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -121,10 +121,10 @@
 </w.rf>
 <form>mn</form>
 <tag>
-<AM lemma="mn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mn-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
-<AM lemma="mn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mn-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-085-p1s1Cw4">
@@ -351,7 +351,7 @@
 <LM>w#w-mf930709-085-p1s1Dw26</LM>
 </w.rf>
 <form>Radolský</form>
-<tag lemma="Radolský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radolský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s1Dw27">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-5_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-085-p1s1Dw38">
@@ -676,7 +676,7 @@
 <LM>w#w-mf930709-085-p1s2w26</LM>
 </w.rf>
 <form>Radolský</form>
-<tag lemma="Radolský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radolský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s2w27">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-mf930709-085-p1s3w20</LM>
 </w.rf>
 <form>Nešický</form>
-<tag lemma="Nešický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nešický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s3w21">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-mf930709-085-p1s3w22</LM>
 </w.rf>
 <form>Navrátil</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s3w23">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <form>Samec</form>
 <tag>
 <AM lemma="samec" src="orig">NNMS1-----A----</AM>
-<AM lemma="Samec_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Samec_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-085-p1s3w25">
@@ -1429,7 +1429,7 @@
 <LM>w#w-mf930709-085-p1s5w24</LM>
 </w.rf>
 <form>Viktorií</form>
-<tag lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s5w25">
 <src.rf>manual</src.rf>

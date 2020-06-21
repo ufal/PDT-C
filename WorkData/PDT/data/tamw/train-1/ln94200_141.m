@@ -70,8 +70,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-141-p1s2w3">
@@ -148,7 +148,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-141-p2s1w4">
@@ -838,7 +838,7 @@
 <LM>w#w-ln94200-141-p4s1w12</LM>
 </w.rf>
 <form>Hofhanzl</form>
-<tag lemma="Hofhanzl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofhanzl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-141-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1345,9 +1345,9 @@
 </w.rf>
 <form>Klindery</form>
 <tag>
-<AM lemma="Klindera_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Klinder_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Klinder_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Klindera_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Klinder_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Klinder_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-141-p5s1w5">

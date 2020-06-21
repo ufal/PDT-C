@@ -263,7 +263,7 @@
 <LM>w#w-lnd92252-014-p2s1w10</LM>
 </w.rf>
 <form>Richterovy</form>
-<tag lemma="Richterův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Richterův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92252-014-p2s1w11">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-lnd92252-014-p4s1w24</LM>
 </w.rf>
 <form>Mubarak</form>
-<tag lemma="Mubarak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mubarak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-014-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-014-p5s1w16">
@@ -1089,7 +1089,7 @@
 <LM>w#w-lnd92252-014-p5s1w17</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-014-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-lnd92252-014-p5s1w22</LM>
 </w.rf>
 <form>Levonem</form>
-<tag lemma="Levon_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Levon_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92252-014-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1138,7 +1138,7 @@
 </w.rf>
 <form>Ter</form>
 <tag>
-<AM lemma="Ter-2_;S" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ter-2_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Ter_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ter_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="tera_^(budhistický_chrám)" src="auto">NNFP2-----A----</AM>
@@ -1158,7 +1158,7 @@
 <LM>w#w-lnd92252-014-p5s1w25</LM>
 </w.rf>
 <form>Petrosjanem</form>
-<tag lemma="Petrosjan_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Petrosjan_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92252-014-p5s1w26">
 <src.rf>manual</src.rf>
@@ -2232,7 +2232,7 @@
 <LM>w#w-lnd92252-014-p9s1w8</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd92252-014-p9s1w9">
 <src.rf>manual</src.rf>
@@ -2476,7 +2476,7 @@
 <LM>w#w-lnd92252-014-p10s1w5</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-014-p10s1w6">
 <src.rf>manual</src.rf>

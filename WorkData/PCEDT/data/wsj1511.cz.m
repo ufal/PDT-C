@@ -28,8 +28,8 @@
 </w.rf>
 <form>SIERRA</form>
 <tag>
-<AM lemma="Sierra_;G_;R" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="sierra_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Sierra_;G_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="sierra_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 <AM lemma="SIERRA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -308,7 +308,7 @@
 <tag>
 <AM lemma="Tucson_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tucson_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tucson_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tucson_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s1W3-Ta">
@@ -319,8 +319,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s1W4-Ta">
@@ -536,9 +536,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -671,7 +671,7 @@
 </w.rf>
 <form>Oppenheimer</form>
 <tag>
-<AM lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Oppenheimer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Oppenheimer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

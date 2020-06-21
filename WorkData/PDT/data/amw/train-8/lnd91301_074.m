@@ -60,7 +60,7 @@
 </w.rf>
 <form>ČBD</form>
 <tag>
-<AM lemma="ČBD_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČBD_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČBD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -143,8 +143,8 @@
 </w.rf>
 <form>FEČEM</form>
 <tag>
-<AM lemma="Feč_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Fečo_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Feč_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Fečo_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-074-p1s1w17">
@@ -186,9 +186,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-074-p1s1w22">
@@ -296,8 +296,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -310,9 +310,9 @@
 <form>Ballet</form>
 <tag>
 <AM lemma="Ballet_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ballet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ballet_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ballet_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ballet_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Ballet_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ballet_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="ballet_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Ballet-77" src="manual" selected="1">F%-------------</AM>
 </tag>

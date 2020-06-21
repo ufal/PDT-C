@@ -356,7 +356,7 @@
 <LM>w#w-ln95045-046-p2s2w18</LM>
 </w.rf>
 <form>Bohdalová</form>
-<tag lemma="Bohdalová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bohdalová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-046-p2s2w19">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-ln95045-046-p2s4w16</LM>
 </w.rf>
 <form>Machatého</form>
-<tag lemma="Machatý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Machatý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-046-p2s4w17">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-ln95045-046-p2s4w18</LM>
 </w.rf>
 <form>Erotikon</form>
-<tag lemma="Erotikon_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Erotikon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-046-p2s4w19">
 <src.rf>manual</src.rf>

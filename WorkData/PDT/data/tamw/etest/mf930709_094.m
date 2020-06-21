@@ -77,7 +77,7 @@
 <LM>w#w-mf930709-094-p1s2w2</LM>
 </w.rf>
 <form>KOČAŘ</form>
-<tag lemma="Kočař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-094-p1s2w3">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 </w.rf>
 <form>pa</form>
 <tag>
-<AM lemma="pa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pa-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>
@@ -601,13 +601,13 @@
 </w.rf>
 <form>FINA</form>
 <tag>
-<AM lemma="FINA_:B_;K_,t_^(Mezinárodní_plavecká_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FINA_:B_;m_,t_^(Mezinárodní_plavecká_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Fin_;E" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Fin_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fina_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fino_;K_^(aperitiv)" src="auto">NNNS2-----A----</AM>
-<AM lemma="Fino_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Fino_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Fina_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Fino_;m_^(aperitiv)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Fino_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Fino_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="FINA_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="FINA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -974,7 +974,7 @@
 <LM>w#w-mf930709-094-p2s5w9</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="Černá_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Černá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf930709-094-p2s5w23</LM>
 </w.rf>
 <form>Šandou</form>
-<tag lemma="Šanda_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Šanda_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s5w24">
 <src.rf>manual</src.rf>
@@ -1360,7 +1360,7 @@
 <LM>w#w-mf930709-094-p2s6w25</LM>
 </w.rf>
 <form>Kočař</form>
-<tag lemma="Kočař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <LM>w#w-mf930709-094-p2s8w2</LM>
 </w.rf>
 <form>Kočař</form>
-<tag lemma="Kočař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1774,7 +1774,7 @@
 <LM>w#w-mf930709-094-p2s10w2</LM>
 </w.rf>
 <form>Kyněra</form>
-<tag lemma="Kyněra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kyněra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s10w3">
 <src.rf>manual</src.rf>
@@ -1822,7 +1822,7 @@
 <LM>w#w-mf930709-094-p2s10w8</LM>
 </w.rf>
 <form>Šplíchalové</form>
-<tag lemma="Šplíchalová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Šplíchalová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s10w9">
 <src.rf>manual</src.rf>
@@ -2154,7 +2154,7 @@
 <LM>w#w-mf930709-094-p2s12w15</LM>
 </w.rf>
 <form>Adlerová</form>
-<tag lemma="Adlerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Adlerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s12w16">
 <src.rf>manual</src.rf>
@@ -2902,7 +2902,7 @@
 <LM>w#w-mf930709-094-p2s16w27</LM>
 </w.rf>
 <form>Kočař</form>
-<tag lemma="Kočař_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočař_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s16w28">
 <src.rf>manual</src.rf>
@@ -3210,7 +3210,7 @@
 <LM>w#w-mf930709-094-p2s18w10</LM>
 </w.rf>
 <form>Adlerová</form>
-<tag lemma="Adlerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Adlerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-094-p2s18w11">
 <src.rf>manual</src.rf>

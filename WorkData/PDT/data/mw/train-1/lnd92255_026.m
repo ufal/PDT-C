@@ -80,11 +80,11 @@
 </w.rf>
 <form>hoj</form>
 <tag>
-<AM lemma="hoj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hoj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="hoj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hoj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-026-p3s1w4">
@@ -685,7 +685,7 @@
 </w.rf>
 <form>SEC</form>
 <tag>
-<AM lemma="SEC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SEC_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="síci" src="auto">Vi-S---2--A----</AM>
 <AM lemma="síci" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="s-2`sekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
@@ -773,7 +773,7 @@
 <LM>w#w-lnd92255-026-p3s7w1</LM>
 </w.rf>
 <form>Mikrosoft</form>
-<tag lemma="Mikrosoft_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mikrosoft_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-026-p3s7w2">
 <src.rf>manual</src.rf>

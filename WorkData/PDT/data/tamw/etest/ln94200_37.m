@@ -61,7 +61,7 @@
 <LM>w#w-ln94200-37-p2s1w2</LM>
 </w.rf>
 <form>Schwalbe</form>
-<tag lemma="Schwalbe_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schwalbe_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p2s1w3">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln94200-37-p3s1w2</LM>
 </w.rf>
 <form>Sculley</form>
-<tag lemma="Sculley_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sculley_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s1w3">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s1w6">
@@ -720,7 +720,7 @@
 <LM>w#w-ln94200-37-p3s1w7</LM>
 </w.rf>
 <form>Byrne</form>
-<tag lemma="Byrne_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Byrne_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s1w8">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-ln94200-37-p3s1w12</LM>
 </w.rf>
 <form>Pepsi</form>
-<tag lemma="Pepsi_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Pepsi_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-37-p3s1w13">
 <src.rf>manual</src.rf>
@@ -777,12 +777,12 @@
 </w.rf>
 <form>Apple</form>
 <tag>
-<AM lemma="Apple_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Apple_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Apple_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Apple_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS5-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s1w15">
@@ -819,7 +819,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1055,7 +1055,7 @@
 <LM>w#w-ln94200-37-p3s2w14</LM>
 </w.rf>
 <form>PepsiCo</form>
-<tag lemma="PepsiCo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="PepsiCo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-ln94200-37-p3s3w9</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="auto" selected="1">AAXXX----1A----</tag>
+<tag lemma="Coca_;m" src="auto" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-37-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-ln94200-37-p3s3w11</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cola_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <LM>w#w-ln94200-37-p3s3w13</LM>
 </w.rf>
 <form>PepsiCo</form>
-<tag lemma="PepsiCo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="PepsiCo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1329,7 +1329,7 @@
 <LM>w#w-ln94200-37-p3s3w25</LM>
 </w.rf>
 <form>Pepsi</form>
-<tag lemma="Pepsi_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Pepsi_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln94200-37-p3s3w26">
 <src.rf>manual</src.rf>
@@ -1442,13 +1442,13 @@
 </w.rf>
 <form>Coky</form>
 <tag>
-<AM lemma="Coca-2_;K_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Coca-2_;m_,t" src="orig">NNFS2-----A----</AM>
 <AM lemma="cok_^(cokna)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="cok_^(cokna)" src="auto">NNIP4-----A----</AM>
 <AM lemma="cok_^(cokna)" src="auto">NNIP5-----A----</AM>
 <AM lemma="cok_^(cokna)" src="auto">NNIP7-----A----</AM>
-<AM lemma="Coka-2_;R" src="manual">NNFS2-----A----</AM>
-<AM lemma="Coka_;R" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Coka-2_;m" src="manual">NNFS2-----A----</AM>
+<AM lemma="Coka_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s3w40">
@@ -1524,13 +1524,13 @@
 </w.rf>
 <form>Apple</form>
 <tag>
-<AM lemma="Apple_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Apple_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Apple_;K" src="manual">NNIXX-----A----</AM>
-<AM lemma="Apple_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Apple_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS5-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s4w9">
@@ -1610,11 +1610,11 @@
 </w.rf>
 <form>Apple</form>
 <tag>
-<AM lemma="Apple_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Apple_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Apple_;K" src="auto" selected="1">NNISX-----A----</AM>
+<AM lemma="Apple_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS5-----A----</AM>
+<AM lemma="Apple_;m" src="auto" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s4w18">
@@ -1631,7 +1631,7 @@
 <LM>w#w-ln94200-37-p3s4w19</LM>
 </w.rf>
 <form>Jobse</form>
-<tag lemma="Jobs_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jobs_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s4w20">
 <src.rf>manual</src.rf>
@@ -2062,12 +2062,12 @@
 </w.rf>
 <form>Apple</form>
 <tag>
-<AM lemma="Apple_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Apple_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Apple_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Apple_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS5-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s7w4">
@@ -2244,7 +2244,7 @@
 <LM>w#w-ln94200-37-p3s7w25</LM>
 </w.rf>
 <form>PepsiCo</form>
-<tag lemma="PepsiCo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="PepsiCo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-37-p3s7w26">
 <src.rf>manual</src.rf>
@@ -2269,11 +2269,11 @@
 </w.rf>
 <form>Apple</form>
 <tag>
-<AM lemma="Apple_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Apple_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIS5-----A----</AM>
+<AM lemma="Apple_;m" src="auto">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s7w29">

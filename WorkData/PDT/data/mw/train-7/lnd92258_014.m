@@ -83,13 +83,13 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="r-33" src="auto">Q3-------------</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ručení_:B" src="auto">NNNS7-----A---8</AM>
-<AM lemma="r-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="r-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-014-p3s1w4">
@@ -389,9 +389,9 @@
 </w.rf>
 <form>AMAVET</form>
 <tag>
-<AM lemma="AMAVET_:B_;K_^(Asociace_pro_mládež,_vědu_a_techniku)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto">NNIS4-----A----</AM>
+<AM lemma="AMAVET_:B_;m_^(Asociace_pro_mládež,_vědu_a_techniku)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Amavet_:B_;m_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Amavet_:B_;m_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto">NNIS4-----A----</AM>
 <AM lemma="AMAVET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1051,9 +1051,9 @@
 </w.rf>
 <form>AMAVET</form>
 <tag>
-<AM lemma="AMAVET_:B_;K_^(Asociace_pro_mládež,_vědu_a_techniku)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto">NNIS4-----A----</AM>
+<AM lemma="AMAVET_:B_;m_^(Asociace_pro_mládež,_vědu_a_techniku)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Amavet_:B_;m_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Amavet_:B_;m_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto">NNIS4-----A----</AM>
 <AM lemma="AMAVET-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

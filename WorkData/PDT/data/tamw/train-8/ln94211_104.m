@@ -104,7 +104,7 @@
 <LM>w#w-ln94211-104-p2s1w5</LM>
 </w.rf>
 <form>Noiret</form>
-<tag lemma="Noiret_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Noiret_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s1w6">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-ln94211-104-p2s1w10</LM>
 </w.rf>
 <form>Tavernier</form>
-<tag lemma="Tavernier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tavernier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s1w11">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-ln94211-104-p2s1w19</LM>
 </w.rf>
 <form>Artagnana</form>
-<tag lemma="Artagnan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Artagnan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s1w20">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln94211-104-p2s3w9</LM>
 </w.rf>
 <form>Marais</form>
-<tag lemma="Marais_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marais_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s3w10">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 <LM>w#w-ln94211-104-p2s5w28</LM>
 </w.rf>
 <form>Knittl</form>
-<tag lemma="Knittl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knittl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s5w29">
 <src.rf>manual</src.rf>

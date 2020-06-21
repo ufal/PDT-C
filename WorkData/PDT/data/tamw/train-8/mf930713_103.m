@@ -778,7 +778,7 @@
 <LM>w#w-mf930713-103-p2s14w17</LM>
 </w.rf>
 <form>Pontoni</form>
-<tag lemma="Pontoni_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pontoni_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w18">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-mf930713-103-p2s14w19</LM>
 </w.rf>
 <form>Arnould</form>
-<tag lemma="Arnould_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arnould_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w20">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-mf930713-103-p2s14w21</LM>
 </w.rf>
 <form>Kluge</form>
-<tag lemma="Kluge_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kluge_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w22">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-mf930713-103-p2s14w23</LM>
 </w.rf>
 <form>Frischknecht</form>
-<tag lemma="Frischknecht_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frischknecht_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w24">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-mf930713-103-p2s14w26</LM>
 </w.rf>
 <form>Bie</form>
-<tag lemma="Bie_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w27">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-mf930713-103-p2s14w28</LM>
 </w.rf>
 <form>Baars</form>
-<tag lemma="Baars_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baars_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w29">
 <src.rf>manual</src.rf>
@@ -1614,7 +1614,7 @@
 </w.rf>
 <form>UCI</form>
 <tag>
-<AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UCI-1_:B_;m_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

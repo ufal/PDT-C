@@ -373,7 +373,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -495,7 +495,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1385,7 +1385,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1566,7 +1566,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1742,7 +1742,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2557,7 +2557,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2876,7 +2876,7 @@
 </w.rf>
 <form>Economic</form>
 <tag>
-<AM lemma="Economic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Economic_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Economic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2898,7 +2898,7 @@
 </w.rf>
 <form>Cultural</form>
 <tag>
-<AM lemma="Cultural_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Cultural_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Cultural-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2909,7 +2909,7 @@
 </w.rf>
 <form>Office</form>
 <tag>
-<AM lemma="Office-1_;K_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Office-1_;m_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Office-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

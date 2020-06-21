@@ -449,7 +449,7 @@
 <LM>w#w-ln95047-063-p2s3Aw9</LM>
 </w.rf>
 <form>Třeštíka</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-063-p2s3Aw10">
 <src.rf>manual</src.rf>
@@ -506,8 +506,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-063-p2s3Aw17">
@@ -566,7 +566,7 @@
 <LM>w#w-ln95047-063-p2s3Bw1</LM>
 </w.rf>
 <form>Třeštíkův</form>
-<tag lemma="Třeštíkův-1_;S_^(*4-1)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Třeštíkův-1_;Y_^(*4-1)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95047-063-p2s3Bw2">
 <src.rf>manual</src.rf>
@@ -1965,7 +1965,7 @@
 <LM>w#w-ln95047-063-p4s1w1</LM>
 </w.rf>
 <form>Třeštík</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2545,7 +2545,7 @@
 <LM>w#w-ln95047-063-p4s3w15</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2561,7 +2561,7 @@
 <LM>w#w-ln95047-063-p4s3w17</LM>
 </w.rf>
 <form>Jirásek</form>
-<tag lemma="Jirásek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jirásek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p4s3w18">
 <src.rf>manual</src.rf>
@@ -2601,7 +2601,7 @@
 <LM>w#w-ln95047-063-p4s3w22</LM>
 </w.rf>
 <form>Nejedlý</form>
-<tag lemma="Nejedlý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nejedlý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p4s3w23">
 <src.rf>manual</src.rf>
@@ -2675,7 +2675,7 @@
 <LM>w#w-ln95047-063-p5s1w8</LM>
 </w.rf>
 <form>Třeštíkovo</form>
-<tag lemma="Třeštíkův-1_;S_^(*4-1)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Třeštíkův-1_;Y_^(*4-1)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95047-063-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2817,7 +2817,7 @@
 <LM>w#w-ln95047-063-p5s1w25</LM>
 </w.rf>
 <form>Nejedlý</form>
-<tag lemma="Nejedlý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nejedlý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p5s1w26">
 <src.rf>manual</src.rf>
@@ -2921,7 +2921,7 @@
 <LM>w#w-ln95047-063-p5s1w38</LM>
 </w.rf>
 <form>Palackému</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-063-p5s1w39">
 <src.rf>manual</src.rf>
@@ -2955,7 +2955,7 @@
 <LM>w#w-ln95047-063-p5s2w3</LM>
 </w.rf>
 <form>Třeštíka</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-063-p5s2w4">
 <src.rf>manual</src.rf>
@@ -3435,7 +3435,7 @@
 <LM>w#w-ln95047-063-p6s2w7</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p6s2w8">
 <src.rf>manual</src.rf>
@@ -3789,7 +3789,7 @@
 <LM>w#w-ln95047-063-p6s3w8</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p6s3w9">
 <src.rf>manual</src.rf>
@@ -4097,7 +4097,7 @@
 <LM>w#w-ln95047-063-p6s5w4</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p6s5w5">
 <src.rf>manual</src.rf>
@@ -4562,7 +4562,7 @@
 <LM>w#w-ln95047-063-p6s8w1</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-063-p6s8w2">
 <src.rf>manual</src.rf>
@@ -4706,7 +4706,7 @@
 <LM>w#w-ln95047-063-p6s8w19</LM>
 </w.rf>
 <form>Nejedlého</form>
-<tag lemma="Nejedlý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nejedlý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-063-p6s8w20">
 <src.rf>manual</src.rf>
@@ -4812,7 +4812,7 @@
 <LM>w#w-ln95047-063-p7s1w12</LM>
 </w.rf>
 <form>Třeštíka</form>
-<tag lemma="Třeštík-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Třeštík-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-063-p7s1w13">
 <src.rf>manual</src.rf>

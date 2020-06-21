@@ -344,7 +344,7 @@
 <LM>w#w-mf930703-022-p2s2w6</LM>
 </w.rf>
 <form>Jortner</form>
-<tag lemma="Jortner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jortner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-022-p2s2w7">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-mf930703-022-p3s1w7</LM>
 </w.rf>
 <form>Jortner</form>
-<tag lemma="Jortner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jortner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-022-p3s1w8">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-mf930703-022-p3s2w11</LM>
 </w.rf>
 <form>Weizmanova</form>
-<tag lemma="Weizmanův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Weizmanův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930703-022-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1988,7 +1988,7 @@
 <LM>w#w-mf930703-022-p5s1w8</LM>
 </w.rf>
 <form>Jortner</form>
-<tag lemma="Jortner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jortner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-022-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2817,7 +2817,7 @@
 <LM>w#w-mf930703-022-p6s1w8</LM>
 </w.rf>
 <form>Jortnera</form>
-<tag lemma="Jortner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jortner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-022-p6s1w9">
 <src.rf>manual</src.rf>
@@ -3422,7 +3422,7 @@
 <LM>w#w-mf930703-022-p7s2w8</LM>
 </w.rf>
 <form>Jortner</form>
-<tag lemma="Jortner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jortner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-022-p7s2w9">
 <src.rf>manual</src.rf>
@@ -3619,7 +3619,7 @@
 <LM>w#w-mf930703-022-p7s3w8</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-022-p7s3w9">
 <src.rf>manual</src.rf>
@@ -3627,7 +3627,7 @@
 <LM>w#w-mf930703-022-p7s3w9</LM>
 </w.rf>
 <form>Bergmann</form>
-<tag lemma="Bergmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bergmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-022-p7s3w10">
 <src.rf>manual</src.rf>
@@ -3707,7 +3707,7 @@
 <LM>w#w-mf930703-022-p7s3w19</LM>
 </w.rf>
 <form>Kafky</form>
-<tag lemma="Kafka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kafka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-022-p7s3w20">
 <src.rf>manual</src.rf>

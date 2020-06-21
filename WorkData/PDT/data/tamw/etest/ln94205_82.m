@@ -289,7 +289,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -468,7 +468,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -681,8 +681,8 @@
 </w.rf>
 <form>Lamín</form>
 <tag>
-<AM lemma="Lamín_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Lamín_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lamín_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lamín_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-82-p2s4w4">
@@ -691,7 +691,7 @@
 <LM>w#w-ln94205-82-p2s4w4</LM>
 </w.rf>
 <form>Ziruál</form>
-<tag lemma="Ziruál_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ziruál_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-82-p2s4w5">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln94205-82-p2s4w18</LM>
 </w.rf>
 <form>Kaddáfího</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-82-p2s4w19">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-ln94205-82-p2s4w23</LM>
 </w.rf>
 <form>Bašírem</form>
-<tag lemma="Bašír_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Bašír_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-82-p2s4w24">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

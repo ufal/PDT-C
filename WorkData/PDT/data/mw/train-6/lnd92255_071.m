@@ -294,7 +294,7 @@
 <LM>w#w-lnd92255-071-p1s2w23</LM>
 </w.rf>
 <form>Velkem</form>
-<tag lemma="Velek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Velek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92255-071-p1s2w24">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1464,7 +1464,7 @@
 <LM>w#w-lnd92255-071-p3s1w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92255-071-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-lnd92255-071-p4s3w11</LM>
 </w.rf>
 <form>Kunert</form>
-<tag lemma="Kunert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-071-p4s3w12">
 <src.rf>manual</src.rf>
@@ -3514,7 +3514,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5271,7 +5271,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7246,7 +7246,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -7493,7 +7493,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -10343,7 +10343,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -11962,7 +11962,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -11999,7 +11999,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -13031,9 +13031,9 @@
 <form_change>spell</form_change>
 <form>swift</form>
 <tag>
-<AM lemma="swift_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="swift_;R_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="swift_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="swift_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="swift_;m_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="swift_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="swift-77" src="manual" selected="1">F%-------------</AM>
 <AM lemma="swift_;m_^(vozidlo)" src="manual">NNIS1-----A----</AM>
 </tag>
@@ -13053,7 +13053,7 @@
 </w.rf>
 <form>reuter</form>
 <tag>
-<AM lemma="reuter_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="reuter_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="reuter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -15885,7 +15885,7 @@
 <LM>w#w-lnd92255-071-p23s1w2</LM>
 </w.rf>
 <form>POLIŠENSKÝ</form>
-<tag lemma="Polišenský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polišenský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

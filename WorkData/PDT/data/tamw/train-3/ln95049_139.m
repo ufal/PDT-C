@@ -35,7 +35,7 @@
 <LM>w#w-ln95049-139-p1s1w3</LM>
 </w.rf>
 <form>Agronetu</form>
-<tag lemma="Agronet_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Agronet_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-139-p1s1w4">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln95049-139-p2s1Bw4</LM>
 </w.rf>
 <form>Agronet</form>
-<tag lemma="Agronet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agronet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-139-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln95049-139-p2s2w3</LM>
 </w.rf>
 <form>Jarolímka</form>
-<tag lemma="Jarolímek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jarolímek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-139-p2s2w4">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln95049-139-p2s2w5</LM>
 </w.rf>
 <form>Agronetu</form>
-<tag lemma="Agronet_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Agronet_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-139-p2s2w6">
 <src.rf>manual</src.rf>

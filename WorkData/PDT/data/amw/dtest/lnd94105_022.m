@@ -53,7 +53,7 @@
 <LM>w#w-lnd94105-022-p1s1Bw2</LM>
 </w.rf>
 <form>Lér</form>
-<tag lemma="Lér_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lér_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94105-022-p1s1C">
@@ -586,7 +586,7 @@
 <LM>w#w-lnd94105-022-p1s3w6</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94105-022-p1s3w7">
 <src.rf>manual</src.rf>
@@ -1319,8 +1319,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-022-p1s9w2">
@@ -1369,7 +1369,7 @@
 <LM>w#w-lnd94105-022-p1s9w7</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94105-022-p1s9w8">
 <src.rf>manual</src.rf>

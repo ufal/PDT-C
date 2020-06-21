@@ -19,7 +19,7 @@
 <LM>w#w-ln95041-049-p1s1w1</LM>
 </w.rf>
 <form>Ebenův</form>
-<tag lemma="Ebenův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Ebenův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95041-049-p1s1w2">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln95041-049-p2s2w8</LM>
 </w.rf>
 <form>paedagogika</form>
-<tag lemma="paedagogika_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="paedagogika_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-ln95041-049-p2s2w9">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -914,7 +914,7 @@
 <LM>w#w-ln95041-049-p2s6w12</LM>
 </w.rf>
 <form>Dvořák</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s6w13">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-ln95041-049-p2s6w21</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s6w22">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-ln95041-049-p2s7w18</LM>
 </w.rf>
 <form>Ebena</form>
-<tag lemma="Eben_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Eben_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1214,7 +1214,7 @@
 <LM>w#w-ln95041-049-p2s8w2</LM>
 </w.rf>
 <form>Eben</form>
-<tag lemma="Eben_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eben_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s8w3">
 <src.rf>manual</src.rf>

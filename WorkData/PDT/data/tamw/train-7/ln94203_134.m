@@ -79,7 +79,7 @@
 <LM>w#w-ln94203-134-p2s1Bw2</LM>
 </w.rf>
 <form>Hoffman</form>
-<tag lemma="Hoffman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hoffman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-134-p2s1C">

@@ -173,7 +173,7 @@
 <LM>w#w-mf930701-116-p1s2w12</LM>
 </w.rf>
 <form>Pakosta</form>
-<tag lemma="Pakosta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pakosta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-116-p1s2w13">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-mf930701-116-p1s2w17</LM>
 </w.rf>
 <form>Džavoronok</form>
-<tag lemma="Džavoronok_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Džavoronok_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-116-p1s2w18">
 <src.rf>manual</src.rf>

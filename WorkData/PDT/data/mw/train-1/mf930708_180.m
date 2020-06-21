@@ -67,7 +67,7 @@
 <LM>w#w-mf930708-180-p1s1w7</LM>
 </w.rf>
 <form>Kravčuk</form>
-<tag lemma="Kravčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kravčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-180-p2s1">
@@ -109,7 +109,7 @@
 <LM>w#w-mf930708-180-p2s1w5</LM>
 </w.rf>
 <form>Kravčuk</form>
-<tag lemma="Kravčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kravčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-180-p2s1w6">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-mf930708-180-p2s3w1</LM>
 </w.rf>
 <form>Kravčuk</form>
-<tag lemma="Kravčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kravčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-180-p2s3w2">
 <src.rf>manual</src.rf>

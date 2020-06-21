@@ -245,8 +245,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-010-p2s2w3">
@@ -591,7 +591,7 @@
 </w.rf>
 <form>PIAT</form>
 <tag>
-<AM lemma="PIAT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PIAT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PIAT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -668,7 +668,7 @@
 </w.rf>
 <form>PIADC</form>
 <tag>
-<AM lemma="PIADC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PIADC_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PIADC_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PIADC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -704,10 +704,10 @@
 </w.rf>
 <form>Bouygues</form>
 <tag>
-<AM lemma="Bouygues_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Bouygues_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bouygues-2_;K_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Bouygues-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bouygues_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Bouygues_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bouygues-2_;m_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bouygues-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-010-p4s2w13">
@@ -725,7 +725,7 @@
 </w.rf>
 <form>British</form>
 <tag>
-<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British_;m_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
 <AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -736,7 +736,7 @@
 </w.rf>
 <form>Aerospace</form>
 <tag>
-<AM lemma="Aerospace_;K_,t_^(British_Aerospace)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Aerospace_;m_,t_^(British_Aerospace)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Aerospace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -877,7 +877,7 @@
 </w.rf>
 <form>PIAT</form>
 <tag>
-<AM lemma="PIAT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PIAT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PIAT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1319,7 +1319,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

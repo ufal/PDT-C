@@ -191,7 +191,7 @@
 <LM>w#w-ln94210-35-p2s1Bw15</LM>
 </w.rf>
 <form>Blechou</form>
-<tag lemma="Blecha-1_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Blecha-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-35-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -217,9 +217,9 @@
 <form>Lípy</form>
 <tag>
 <AM lemma="Lípa_;G" src="orig">NNFS2-----A----</AM>
-<AM lemma="Lípa-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Lípa-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Lípa-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Lípa-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Lípa-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Lípa-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="lípa" src="auto">NNFP1-----A----</AM>
 <AM lemma="lípa" src="auto">NNFP4-----A----</AM>
 <AM lemma="lípa" src="auto">NNFP5-----A----</AM>
@@ -248,7 +248,7 @@
 <LM>w#w-ln94210-35-p2s1Bw21</LM>
 </w.rf>
 <form>Červeným</form>
-<tag lemma="Červený_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Červený_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-35-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-ln94210-35-p2s5w1</LM>
 </w.rf>
 <form>Blecha</form>
-<tag lemma="Blecha-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blecha-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-35-p2s5w2">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-ln94210-35-p2s5w10</LM>
 </w.rf>
 <form>Červený</form>
-<tag lemma="Červený_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Červený_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-35-p2s5w11">
 <src.rf>manual</src.rf>

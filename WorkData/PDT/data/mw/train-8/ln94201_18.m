@@ -93,7 +93,7 @@
 <LM>w#w-ln94201-18-p2s1w3</LM>
 </w.rf>
 <form>jop</form>
-<tag lemma="jop-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jop-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94201-18-p2s1w4">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln94201-18-p2s2w18</LM>
 </w.rf>
 <form>Baudyš</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-18-p2s2w19">
 <src.rf>manual</src.rf>
@@ -400,8 +400,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-18-p2s2w24">
@@ -929,7 +929,7 @@
 <LM>w#w-ln94201-18-p3s2w36</LM>
 </w.rf>
 <form>EBA</form>
-<tag lemma="EBA_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="EBA_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94201-18-p3s2w37">
 <src.rf>manual</src.rf>
@@ -1124,9 +1124,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-18-p3s3w24">
@@ -1300,7 +1300,7 @@
 <LM>w#w-ln94201-18-p4s1w16</LM>
 </w.rf>
 <form>Baudyš</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-18-p4s1w17">
 <src.rf>manual</src.rf>

@@ -228,7 +228,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -284,7 +284,7 @@
 </w.rf>
 <form>NBS</form>
 <tag>
-<AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBS_:B_;m_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -137,7 +137,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-125-p2s1Bw10">
@@ -156,7 +156,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-125-p2s1Bw12">
@@ -173,7 +173,7 @@
 <LM>w#w-ln95040-125-p2s1Bw13</LM>
 </w.rf>
 <form>Pavlova</form>
-<tag lemma="Pavlov_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavlov_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-125-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln95040-125-p3s6w3</LM>
 </w.rf>
 <form>Vaněk</form>
-<tag lemma="Vaněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vaněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-125-p3s6w4">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 </w.rf>
 <form>DP</form>
 <tag>
-<AM lemma="DP-1_:B_;K_;b_;y_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DP-1_:B_;m_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="DP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1163,7 +1163,7 @@
 </w.rf>
 <form>DP</form>
 <tag>
-<AM lemma="DP-1_:B_;K_;b_;y_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DP-1_:B_;m_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="DP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1181,7 +1181,7 @@
 <LM>w#w-ln95040-125-p3s9w6</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-125-p3s9w7">
 <src.rf>manual</src.rf>
@@ -1522,7 +1522,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-125-p3s11w3">
@@ -1539,7 +1539,7 @@
 <LM>w#w-ln95040-125-p3s11w4</LM>
 </w.rf>
 <form>Blažka</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-125-p3s11w5">
 <src.rf>manual</src.rf>

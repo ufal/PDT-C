@@ -417,7 +417,7 @@
 <LM>w#w-mf920924-031-p2s2w18</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-031-p2s2w19">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-mf920924-031-p2s3w10</LM>
 </w.rf>
 <form>Baca</form>
-<tag lemma="Baco_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baco_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-031-p2s3w11">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-mf920924-031-p2s4w4</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-031-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-mf920924-031-p2s6w15</LM>
 </w.rf>
 <form>Flekal</form>
-<tag lemma="Flekal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Flekal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-031-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1234,7 +1234,7 @@
 <LM>w#w-mf920924-031-p2s7w2</LM>
 </w.rf>
 <form>Baco</form>
-<tag lemma="Baco_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-031-p2s7w3">
 <src.rf>manual</src.rf>

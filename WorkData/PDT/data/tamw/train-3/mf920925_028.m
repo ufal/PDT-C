@@ -1500,7 +1500,7 @@
 <LM>w#w-mf920925-028-p2s12w11</LM>
 </w.rf>
 <form>Mototechny</form>
-<tag lemma="Mototechna_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Mototechna_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-028-p2s12w12">
 <src.rf>manual</src.rf>
@@ -3178,7 +3178,7 @@
 </w.rf>
 <form>dolary</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP7-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP7-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>

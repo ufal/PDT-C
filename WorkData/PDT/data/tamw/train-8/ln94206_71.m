@@ -64,7 +64,7 @@
 <LM>w#w-ln94206-71-p2s1Aw2</LM>
 </w.rf>
 <form>Mišauer</form>
-<tag lemma="Mišauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mišauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-71-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 <LM>w#w-ln94206-71-p2s1Bw7</LM>
 </w.rf>
 <form>Kováče</form>
-<tag lemma="Kováč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kováč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-71-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-71-p2s2w4">
@@ -287,7 +287,7 @@
 <LM>w#w-ln94206-71-p2s2w5</LM>
 </w.rf>
 <form>Gašparovič</form>
-<tag lemma="Gašparovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gašparovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-71-p2s2w6">
 <src.rf>manual</src.rf>

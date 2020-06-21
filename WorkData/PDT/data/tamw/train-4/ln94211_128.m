@@ -152,7 +152,7 @@
 </w.rf>
 <form>NBS</form>
 <tag>
-<AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBS_:B_;m_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -211,8 +211,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-128-p2s1Bw18">
@@ -302,7 +302,7 @@
 </w.rf>
 <form>NBS</form>
 <tag>
-<AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBS_:B_;m_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -320,7 +320,7 @@
 <LM>w#w-ln94211-128-p2s1Bw30</LM>
 </w.rf>
 <form>Masára</form>
-<tag lemma="Masár_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Masár_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-128-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 </w.rf>
 <form>NBS</form>
 <tag>
-<AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBS_:B_;m_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -631,7 +631,7 @@
 <LM>w#w-ln94211-128-p3s2w5</LM>
 </w.rf>
 <form>Masár</form>
-<tag lemma="Masár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masár_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-128-p3s2w6">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 </w.rf>
 <form>NBS</form>
 <tag>
-<AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBS_:B_;m_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1370,7 +1370,7 @@
 <LM>w#w-ln94211-128-p6s1w25</LM>
 </w.rf>
 <form>Masár</form>
-<tag lemma="Masár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masár_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-128-p6s1w26">
 <src.rf>manual</src.rf>
@@ -1590,7 +1590,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

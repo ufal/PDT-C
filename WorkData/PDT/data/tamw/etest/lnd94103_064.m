@@ -71,7 +71,7 @@
 <LM>w#w-lnd94103-064-p1s1Aw7</LM>
 </w.rf>
 <form>Brokl</form>
-<tag lemma="Brokl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brokl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-064-p1s1C">
@@ -391,7 +391,7 @@
 <LM>w#w-lnd94103-064-p1s3w5</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s3w6">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-lnd94103-064-p1s6Aw4</LM>
 </w.rf>
 <form>Obermanna</form>
-<tag lemma="Obermann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Obermann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s6Aw5">
 <src.rf>manual</src.rf>
@@ -1522,11 +1522,11 @@
 </w.rf>
 <form>Pehe</form>
 <tag>
-<AM lemma="Pehe_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Pehe_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Pehe_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Pehe_;S" src="manual">NNMSX-----A----</AM>
-<AM lemma="Pehe_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Pehe_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Pehe_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pehe_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Pehe_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Pehe_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-064-p1s6Aw8">
@@ -1583,7 +1583,7 @@
 <LM>w#w-lnd94103-064-p1s6Aw14</LM>
 </w.rf>
 <form>Süssmuthové</form>
-<tag lemma="Süssmuthová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Süssmuthová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s6Aw15">
 <src.rf>manual</src.rf>
@@ -1631,7 +1631,7 @@
 <LM>w#w-lnd94103-064-p1s6Aw20</LM>
 </w.rf>
 <form>Němcích</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP6-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s6Aw21">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <LM>w#w-lnd94103-064-p1s6Aw36</LM>
 </w.rf>
 <form>Uhde</form>
-<tag lemma="Uhde_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Uhde_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s6Aw37">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-lnd94103-064-p1s6Aw57</LM>
 </w.rf>
 <form>Süssmuthové</form>
-<tag lemma="Süssmuthová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Süssmuthová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s6Aw58">
 <src.rf>manual</src.rf>
@@ -2241,7 +2241,7 @@
 <LM>w#w-lnd94103-064-p1s6Bw21</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s6Bw22">
 <src.rf>manual</src.rf>
@@ -2543,7 +2543,7 @@
 <LM>w#w-lnd94103-064-p1s9w5</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s9w6">
 <src.rf>manual</src.rf>
@@ -3413,7 +3413,7 @@
 <LM>w#w-lnd94103-064-p1s11Bw61</LM>
 </w.rf>
 <form>Kohla</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s11Bw62">
 <src.rf>manual</src.rf>
@@ -3675,7 +3675,7 @@
 </w.rf>
 <form>CSU</form>
 <tag>
-<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3725,7 +3725,7 @@
 <LM>w#w-lnd94103-064-p1s12w33</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s12w34">
 <src.rf>manual</src.rf>
@@ -3767,7 +3767,7 @@
 <LM>w#w-lnd94103-064-p1s13w2</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s13w3">
 <src.rf>manual</src.rf>
@@ -4345,7 +4345,7 @@
 <LM>w#w-lnd94103-064-p1s14w27</LM>
 </w.rf>
 <form>Süssmuthová</form>
-<tag lemma="Süssmuthová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Süssmuthová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s14w28">
 <src.rf>manual</src.rf>
@@ -4411,7 +4411,7 @@
 <LM>w#w-lnd94103-064-p1s15w7</LM>
 </w.rf>
 <form>Kohlovi</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s15w8">
 <src.rf>manual</src.rf>
@@ -5946,7 +5946,7 @@
 </w.rf>
 <form>CSU</form>
 <tag>
-<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6052,7 +6052,7 @@
 <LM>w#w-lnd94103-064-p1s22w39</LM>
 </w.rf>
 <form>Steuber</form>
-<tag lemma="Steuber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steuber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s22w40">
 <src.rf>manual</src.rf>
@@ -6076,7 +6076,7 @@
 <LM>w#w-lnd94103-064-p1s22w42</LM>
 </w.rf>
 <form>Straussův</form>
-<tag lemma="Straussův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Straussův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-lnd94103-064-p1s22w43">
 <src.rf>manual</src.rf>
@@ -6149,7 +6149,7 @@
 </w.rf>
 <form>CSU</form>
 <tag>
-<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6176,7 +6176,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -6534,7 +6534,7 @@
 <LM>w#w-lnd94103-064-p1s24w16</LM>
 </w.rf>
 <form>Neubauera</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-064-p1s24w17">
 <src.rf>manual</src.rf>
@@ -6591,7 +6591,7 @@
 </w.rf>
 <form>CSU</form>
 <tag>
-<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

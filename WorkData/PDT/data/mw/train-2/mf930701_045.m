@@ -36,7 +36,7 @@
 </w.rf>
 <form>ČF</form>
 <tag>
-<AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČF_:B_;m_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -72,7 +72,7 @@
 <LM>w#w-mf930701-045-p2s1w3</LM>
 </w.rf>
 <form>vd</form>
-<tag lemma="vd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="vd-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930701-045-p2s1w4">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 </w.rf>
 <form>ČF</form>
 <tag>
-<AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČF_:B_;m_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -325,7 +325,7 @@
 <form>Kantor</form>
 <tag>
 <AM lemma="kantor" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kantor_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kantor_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-045-p2s2w10">
@@ -508,7 +508,7 @@
 </w.rf>
 <form>ČF</form>
 <tag>
-<AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČF_:B_;m_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -756,7 +756,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-045-p2s5w10">
@@ -773,7 +773,7 @@
 <LM>w#w-mf930701-045-p2s5w11</LM>
 </w.rf>
 <form>Kantor</form>
-<tag lemma="Kantor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kantor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-045-p2s5w12">
 <src.rf>manual</src.rf>

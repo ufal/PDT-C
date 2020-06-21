@@ -1610,7 +1610,7 @@
 <LM>w#w-ln95048-061-p5s3w10</LM>
 </w.rf>
 <form>Pšeničkovi</form>
-<tag lemma="Pšenička-2_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Pšenička-2_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln95048-061-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1827,9 +1827,9 @@
 </w.rf>
 <form>Kůstkové</form>
 <tag>
-<AM lemma="Kůstková_;S" src="orig">NNFS6-----A----</AM>
-<AM lemma="Kůstka_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Kůstka_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Kůstková_;Y" src="orig">NNFS6-----A----</AM>
+<AM lemma="Kůstka_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Kůstka_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="kůstkový" src="auto">AAFP1----1A----</AM>
 <AM lemma="kůstkový" src="auto">AAFP4----1A----</AM>
 <AM lemma="kůstkový" src="auto">AAFP5----1A----</AM>
@@ -1846,7 +1846,7 @@
 <AM lemma="kůstkový" src="auto">AANS1----1A----</AM>
 <AM lemma="kůstkový" src="auto">AANS4----1A----</AM>
 <AM lemma="kůstkový" src="auto">AANS5----1A----</AM>
-<AM lemma="Kůstková_;S_^(*3a)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Kůstková_;Y_^(*3a)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-061-p5s3w38">
@@ -1880,8 +1880,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-061-p5s3w42">
@@ -2152,10 +2152,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -3144,7 +3144,7 @@
 <LM>w#w-ln95048-061-p7s5w14</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-061-p7s5w15">
 <src.rf>manual</src.rf>

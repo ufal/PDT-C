@@ -44,7 +44,7 @@
 </w.rf>
 <form>Mc</form>
 <tag>
-<AM lemma="Mc_;S_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Mc_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Mc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -54,7 +54,7 @@
 <LM>w#w-ln94203-7-p1s1Aw5</LM>
 </w.rf>
 <form>Cartneyho</form>
-<tag lemma="Cartney_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Cartney_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-7-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 </w.rf>
 <form>Handelsblatt</form>
 <tag>
-<AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Handelsblatt_;m_^(časopis)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Handelsblatt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

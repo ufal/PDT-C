@@ -19,7 +19,7 @@
 <LM>w#w-lnd92258-120-p1s1w1</LM>
 </w.rf>
 <form>Nykänen</form>
-<tag lemma="Nykänen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nykänen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-120-p1s1w2">
 <src.rf>manual</src.rf>
@@ -168,8 +168,8 @@
 </w.rf>
 <form>Matti</form>
 <tag>
-<AM lemma="Matti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Matti_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Matti_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Matti_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-120-p2s2w15">
@@ -178,7 +178,7 @@
 <LM>w#w-lnd92258-120-p2s2w15</LM>
 </w.rf>
 <form>Nykänen</form>
-<tag lemma="Nykänen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nykänen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-120-p2s2w16">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-lnd92258-120-p2s3w1</LM>
 </w.rf>
 <form>Nykänen</form>
-<tag lemma="Nykänen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nykänen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-120-p2s3w2">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-lnd92258-120-p2s5w21</LM>
 </w.rf>
 <form>Nykänen</form>
-<tag lemma="Nykänen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nykänen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-120-p2s5w22">
 <src.rf>manual</src.rf>

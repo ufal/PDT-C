@@ -35,7 +35,7 @@
 <LM>w#w-ln94207-35-p1s1Aw3</LM>
 </w.rf>
 <form>Hamrová</form>
-<tag lemma="Hamrová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hamrová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-35-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -68,7 +68,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Šmuclerem</form>
-<tag lemma="Šmucler_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Šmucler_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-35-p1s1B">
@@ -95,7 +95,7 @@
 <LM>w#w-ln94207-35-p1s1Bw3</LM>
 </w.rf>
 <form>Merta</form>
-<tag lemma="Merta-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merta-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-35-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -112,8 +112,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

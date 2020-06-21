@@ -95,7 +95,7 @@
 <form>Randolph</form>
 <tag>
 <AM lemma="Randolph_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Randolph_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Randolph_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-080-p2s1w7">
@@ -264,7 +264,7 @@
 <LM>w#w-mf930702-080-p2s1w27</LM>
 </w.rf>
 <form>Jonesovi</form>
-<tag lemma="Jones_;S" src="auto" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Jones_;Y" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930702-080-p2s1w28">
 <src.rf>manual</src.rf>

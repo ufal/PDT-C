@@ -270,10 +270,10 @@
 </w.rf>
 <form>FIL</form>
 <tag>
-<AM lemma="Fil_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Fil_;SFIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Fil_;SFIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNFXX-----A---8</AM>
-<AM lemma="FIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="Fil_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fil_;YFIL-1_:B_;m_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Fil_;YFIL-1_:B_;m_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="FIL-1_:B_;m_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNFXX-----A---8</AM>
 <AM lemma="FIL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -299,7 +299,7 @@
 <LM>w#w-mf920922-076-p2s1w32</LM>
 </w.rf>
 <form>Isatische</form>
-<tag lemma="Isatisch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Isatisch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-076-p2s1w33">
 <src.rf>manual</src.rf>
@@ -520,12 +520,12 @@
 </w.rf>
 <form>FIL</form>
 <tag>
-<AM lemma="FIL-1_:B_;K_,t_^(Fédération_Internat._de_Luge_de_Course)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="FIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="FIL-2_:B_;K_,t_^(Federazione_Italiana_del_Lavoro)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Fil_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="fil_;b_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="FIL-1_:B_;m_,t_^(Fédération_Internat._de_Luge_de_Course)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIL-1_:B_;m_,t_^(Fédération_Internat._de_Luige_de_Course)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FIL-2_:B_;m_,t_^(Federazione_Italiana_del_Lavoro)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Fil_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="fil_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto">NNFXX-----A---8</AM>
@@ -565,7 +565,7 @@
 <LM>w#w-mf920922-076-p2s3w12</LM>
 </w.rf>
 <form>Kříže</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-076-p2s3w13">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf920922-076-p2s3w21</LM>
 </w.rf>
 <form>Musilem</form>
-<tag lemma="Musil_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Musil_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-076-p2s3w22">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-mf920922-076-p2s4w3</LM>
 </w.rf>
 <form>Isatisch</form>
-<tag lemma="Isatisch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Isatisch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-076-p2s4w4">
 <src.rf>manual</src.rf>

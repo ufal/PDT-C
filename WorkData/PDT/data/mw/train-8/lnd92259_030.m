@@ -54,8 +54,8 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="r-33" src="auto">Q3-------------</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
@@ -246,7 +246,7 @@
 <LM>w#w-lnd92259-030-p2s2w21</LM>
 </w.rf>
 <form>FESTO</form>
-<tag lemma="Festo_;R" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Festo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92259-030-p2s2w22">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-lnd92259-030-p2s2w22</LM>
 </w.rf>
 <form>DIDACTIC</form>
-<tag lemma="Didactic_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Didactic_;m" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-lnd92259-030-p2s2w23">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 </w.rf>
 <form>VUT</form>
 <tag>
-<AM lemma="VUT_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="VUT_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="VUT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

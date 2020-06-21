@@ -170,7 +170,7 @@
 <LM>w#w-lnd92256-002-p3s2w8</LM>
 </w.rf>
 <form>Benzina</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-002-p3s2w9">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-lnd92256-002-p3s7w13</LM>
 </w.rf>
 <form>Slovnaftu</form>
-<tag lemma="Slovnaft_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovnaft_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92256-002-p3s7w14">
 <src.rf>manual</src.rf>

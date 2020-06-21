@@ -1513,7 +1513,7 @@
 <LM>w#w-ln95046-095-p3s9w1</LM>
 </w.rf>
 <form>Drutěva</form>
-<tag lemma="Drutěva_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Drutěva_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-095-p3s9w2">
 <src.rf>manual</src.rf>
@@ -2044,7 +2044,7 @@
 <LM>w#w-ln95046-095-p4s1w1</LM>
 </w.rf>
 <form>Drutěva</form>
-<tag lemma="Drutěva_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Drutěva_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-095-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2255,7 +2255,7 @@
 </w.rf>
 <form>Nálevková</form>
 <tag>
-<AM lemma="Nálevková_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Nálevková_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="nálevkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="nálevkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="nálevkový" src="auto">AANP1----1A----</AM>
@@ -2309,7 +2309,7 @@
 <LM>w#w-ln95046-095-p4s2w14</LM>
 </w.rf>
 <form>Drutěvy</form>
-<tag lemma="Drutěva_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Drutěva_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-095-p4s2w15">
 <src.rf>manual</src.rf>
@@ -2765,7 +2765,7 @@
 <LM>w#w-ln95046-095-p4s6w1</LM>
 </w.rf>
 <form>Drutěva</form>
-<tag lemma="Drutěva_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Drutěva_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-095-p4s6w2">
 <src.rf>manual</src.rf>

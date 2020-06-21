@@ -193,9 +193,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p2s2w7">
@@ -220,7 +220,7 @@
 <LM>w#w-vesm9212-038-p2s2w9</LM>
 </w.rf>
 <form>Angertová</form>
-<tag lemma="Angertová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Angertová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9212-038-p2s2w10">
 <src.rf>manual</src.rf>
@@ -500,8 +500,8 @@
 </w.rf>
 <form>Acanthurus</form>
 <tag>
-<AM lemma="Acanthurus_;L_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Acanthurus_;L" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Acanthurus_;U_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Acanthurus_;U" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p2s4w11">
@@ -913,8 +913,8 @@
 </w.rf>
 <form>RNA</form>
 <tag>
-<AM lemma="RNA_:B_;L_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RNA_:B_;L_^(molekula_RNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RNA_:B_;U_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="RNA_:B_;U_^(molekula_RNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p2s6w21">
@@ -1007,7 +1007,7 @@
 <form>Clostridium</form>
 <tag>
 <AM lemma="Clostridium" src="orig">NNNS1-----A----</AM>
-<AM lemma="Clostridium_;L" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Clostridium_;U" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p2s7w11">
@@ -1113,8 +1113,8 @@
 </w.rf>
 <form>Epulopiscium</form>
 <tag>
-<AM lemma="Epulopiscium_;L_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Epulopiscium_;L" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Epulopiscium_;U_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Epulopiscium_;U" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p3s1w12">
@@ -1266,8 +1266,8 @@
 <form>zelenými</form>
 <tag>
 <AM lemma="zelený" src="orig">AAFP7----1A----</AM>
-<AM lemma="zelený_;O" src="manual">AAFP7----1A----</AM>
-<AM lemma="zelený_;Oo" src="manual">AAFP7----1A----</AM>
+<AM lemma="zelený" src="manual">AAFP7----1A----</AM>
+<AM lemma="zelenýo" src="manual">AAFP7----1A----</AM>
 <AM lemma="zelený_;o" src="manual" selected="1">AAFP7----1A----</AM>
 </tag>
 </m>
@@ -1562,7 +1562,7 @@
 <LM>w#w-vesm9212-038-p3s4w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-038-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1662,8 +1662,8 @@
 </w.rf>
 <form>Epulopiscium</form>
 <tag>
-<AM lemma="Epulopiscium_;L_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Epulopiscium_;L" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Epulopiscium_;U_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Epulopiscium_;U" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p3s4w21">
@@ -1681,7 +1681,7 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-1_;m_,t_^(souč._názvů,_např._Science)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1757,7 +1757,7 @@
 <LM>w#w-vesm9212-038-p4s1w2</LM>
 </w.rf>
 <form>Chalupský</form>
-<tag lemma="Chalupský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chalupský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-038-p5s1">

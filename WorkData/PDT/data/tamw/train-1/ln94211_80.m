@@ -226,8 +226,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-80-p2s1Cw13">
@@ -489,8 +489,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-80-p3s1w4">
@@ -984,8 +984,8 @@
 </w.rf>
 <form>Henninga</form>
 <tag>
-<AM lemma="Henning_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Henning_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Henning_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Henning_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-80-p3s3w5">
@@ -994,7 +994,7 @@
 <LM>w#w-ln94211-80-p3s3w5</LM>
 </w.rf>
 <form>Melbera</form>
-<tag lemma="Melber_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Melber_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-80-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1805,7 +1805,7 @@
 <LM>w#w-ln94211-80-p5s2w20</LM>
 </w.rf>
 <form>Guttmachera</form>
-<tag lemma="Guttmacher_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Guttmacher_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-80-p5s2w21">
 <src.rf>manual</src.rf>

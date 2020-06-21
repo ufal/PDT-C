@@ -45,7 +45,7 @@
 <LM>w#w-mf920923-019-p2s1Aw2</LM>
 </w.rf>
 <form>Brahms</form>
-<tag lemma="Brahms_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brahms_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-019-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-mf920923-019-p2s1Bw6</LM>
 </w.rf>
 <form>Brahms</form>
-<tag lemma="Brahms_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brahms_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-019-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-mf920923-019-p2s2w3</LM>
 </w.rf>
 <form>Supraphonu</form>
-<tag lemma="Supraphon_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Supraphon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-019-p2s2w4">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-mf920923-019-p2s2w8</LM>
 </w.rf>
 <form>Brahmsovy</form>
-<tag lemma="Brahmsův_;S_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
+<tag lemma="Brahmsův_;Y_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
 </m>
 <m id="m-mf920923-019-p2s2w9">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-mf920923-019-p2s2w11</LM>
 </w.rf>
 <form>Haydnovo</form>
-<tag lemma="Haydnův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Haydnův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-mf920923-019-p2s2w12">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf920923-019-p3s1Aw4</LM>
 </w.rf>
 <form>Formanů</form>
-<tag lemma="Forman-1_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Forman-1_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-019-p3s1Aw5">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <form>Hugo</form>
 <tag>
 <AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hugo-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hugo-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-019-p3s1Bw7">
@@ -496,7 +496,7 @@
 <LM>w#w-mf920923-019-p3s1Bw7</LM>
 </w.rf>
 <form>Formanové</form>
-<tag lemma="Forman-1_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Forman-1_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-019-p3s1Bw8">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-mf920923-019-p3s2w5</LM>
 </w.rf>
 <form>Jandy</form>
-<tag lemma="Janda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Janda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-019-p3s2w6">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <form_change>spell</form_change>
 <form>Ľahká</form>
 <tag>
-<AM lemma="Ľahký_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Ľahký_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="Ľahká-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -924,7 +924,7 @@
 </w.rf>
 <form>Zoon</form>
 <tag>
-<AM lemma="Zoon_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zoon_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="zoon_,t_^(řec.)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -985,7 +985,7 @@
 </w.rf>
 <form>Swans</form>
 <tag>
-<AM lemma="Swan_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Swan_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Swans-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1100,7 +1100,7 @@
 <LM>w#w-mf920923-019-p4s2w20</LM>
 </w.rf>
 <form>Galás</form>
-<tag lemma="Galás_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Galás_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf920923-019-p4s2w21">
 <src.rf>manual</src.rf>

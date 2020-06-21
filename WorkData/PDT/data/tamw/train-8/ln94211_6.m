@@ -121,10 +121,10 @@
 </w.rf>
 <form>OK</form>
 <tag>
-<AM lemma="OK_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="OK_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="OK-1_:B_,t_^(angl._ou_kej)" src="auto">Db------------8</AM>
-<AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-3_;K_^(televizní_program_OK3)" src="auto">NNXXX-----A----</AM>
+<AM lemma="OK-2_:B_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OK-3_;m_^(televizní_program_OK3)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Oka_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="oko" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -145,7 +145,7 @@
 </w.rf>
 <form>Tours</form>
 <tag>
-<AM lemma="Tours_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Tours_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Tours_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tours_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Tours-77" src="manual" selected="1">F%-------------</AM>
@@ -415,7 +415,7 @@
 <LM>w#w-ln94211-6-p2s2w26</LM>
 </w.rf>
 <form>Trejtnar</form>
-<tag lemma="Trejtnar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trejtnar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-6-p2s2w27">
 <src.rf>manual</src.rf>
@@ -530,10 +530,10 @@
 </w.rf>
 <form>OK</form>
 <tag>
-<AM lemma="OK_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="OK_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="OK-1_:B_,t_^(angl._ou_kej)" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-3_;K_^(televizní_program_OK3)" src="auto">NNXXX-----A----</AM>
+<AM lemma="OK-2_:B_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OK-3_;m_^(televizní_program_OK3)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Oka_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="oko" src="auto">NNNP2-----A----</AM>
 <AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -554,7 +554,7 @@
 </w.rf>
 <form>Matkat</form>
 <tag>
-<AM lemma="Matkat_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Matkat_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Matkat-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -858,8 +858,8 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_:B_;G" src="orig">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-6-p3s3w16">
@@ -879,10 +879,10 @@
 </w.rf>
 <form>OK</form>
 <tag>
-<AM lemma="OK_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="OK_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="OK-1_:B_,t_^(angl._ou_kej)" src="auto">Db------------8</AM>
-<AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="OK-3_;K_^(televizní_program_OK3)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="OK-2_:B_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OK-3_;m_^(televizní_program_OK3)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Oka_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="oko" src="auto">NNNP2-----A----</AM>
 <AM lemma="OK-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -903,7 +903,7 @@
 </w.rf>
 <form>Tours</form>
 <tag>
-<AM lemma="Tours_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Tours_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Tours_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tours_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Tours-77" src="manual" selected="1">F%-------------</AM>
@@ -1125,7 +1125,7 @@
 <LM>w#w-ln94211-6-p4s1w11</LM>
 </w.rf>
 <form>Orion</form>
-<tag lemma="Orion-1_;K_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Orion-1_;m_^(továrna_na_sladkosti;;souhvězdí)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-6-p4s1w12">
 <src.rf>manual</src.rf>

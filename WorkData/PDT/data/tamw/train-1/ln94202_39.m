@@ -61,7 +61,7 @@
 <LM>w#w-ln94202-39-p2s1Aw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mot-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-39-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-39-p2s1Bw19">
@@ -245,7 +245,7 @@
 <LM>w#w-ln94202-39-p2s1Bw20</LM>
 </w.rf>
 <form>Valáška</form>
-<tag lemma="Valášek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Valášek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-39-p2s1Bw21">
 <src.rf>manual</src.rf>

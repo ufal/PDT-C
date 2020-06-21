@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-134-p1s1w2</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-134-p1s1w3">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-ln95044-134-p2s1Bw2</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-134-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-ln95044-134-p3s1w5</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95044-134-p3s1w6">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -634,7 +634,7 @@
 <LM>w#w-ln95044-134-p3s3w4</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95044-134-p3s3w5">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -755,7 +755,7 @@
 <LM>w#w-ln95044-134-p4s1w7</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95044-134-p4s1w8">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -858,7 +858,7 @@
 </w.rf>
 <form>Japan</form>
 <tag>
-<AM lemma="Japan_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Japan_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="japan" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="japan" src="auto">NNIS4-----A----</AM>
 <AM lemma="Japan-77" src="manual" selected="1">F%-------------</AM>
@@ -929,8 +929,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-134-p4s2w4">
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln95044-134-p4s2w16</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95044-134-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

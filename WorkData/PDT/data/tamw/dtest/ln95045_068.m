@@ -53,7 +53,7 @@
 <LM>w#w-ln95045-068-p2s1w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-068-p2s1w3">
 <src.rf>manual</src.rf>
@@ -1104,7 +1104,7 @@
 </w.rf>
 <form>CSU</form>
 <tag>
-<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3434,7 +3434,7 @@
 <LM>w#w-ln95045-068-p3s12w16</LM>
 </w.rf>
 <form>Weiszäckera</form>
-<tag lemma="Weiszäcker_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Weiszäcker_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-068-p3s12w17">
 <src.rf>manual</src.rf>
@@ -3450,7 +3450,7 @@
 <LM>w#w-ln95045-068-p3s12w18</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-068-p3s12w19">
 <src.rf>manual</src.rf>
@@ -3538,7 +3538,7 @@
 <LM>w#w-ln95045-068-p3s12w29</LM>
 </w.rf>
 <form>Kohlem</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95045-068-p3s12w30">
 <src.rf>manual</src.rf>
@@ -3894,7 +3894,7 @@
 <LM>w#w-ln95045-068-p4s1w15</LM>
 </w.rf>
 <form>Benešových</form>
-<tag lemma="Benešův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Benešův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln95045-068-p4s1w16">
 <src.rf>manual</src.rf>

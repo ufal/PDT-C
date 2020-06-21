@@ -19,7 +19,7 @@
 <LM>w#w-ln94203-12-p1s1w1</LM>
 </w.rf>
 <form>Škodě</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94203-12-p1s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-ln94203-12-p2s1Aw4</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ma-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94203-12-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln94203-12-p2s1Bw10</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-12-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-ln94203-12-p2s2w12</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-12-p2s2w13">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-ln94203-12-p3s1w3</LM>
 </w.rf>
 <form>Škody</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-12-p3s1w4">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <form>ŠkoFIN</form>
 <tag>
 <AM lemma="Škofin_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Škofin_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Škofin_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-12-p3s1w11">
@@ -553,7 +553,7 @@
 <LM>w#w-ln94203-12-p3s2w1</LM>
 </w.rf>
 <form>Favority</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94203-12-p3s2w2">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln94203-12-p3s3w6</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-12-p3s3w7">
 <src.rf>manual</src.rf>

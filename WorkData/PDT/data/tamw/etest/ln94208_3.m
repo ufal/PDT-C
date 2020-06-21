@@ -61,7 +61,7 @@
 <LM>w#w-ln94208-3-p2s1Aw2</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -140,7 +140,7 @@
 <LM>w#w-ln94208-3-p2s1Bw2</LM>
 </w.rf>
 <form>Pudil</form>
-<tag lemma="Pudil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pudil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-3-p2s1C">
@@ -158,7 +158,7 @@
 <LM>w#w-ln94208-3-p2s1Cw2</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-ln94208-3-p2s3w14</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p2s3w15">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln94208-3-p2s3w19</LM>
 </w.rf>
 <form>Tvrdíkem</form>
-<tag lemma="Tvrdík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Tvrdík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-3-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1079,7 +1079,7 @@
 <LM>w#w-ln94208-3-p3s4w11</LM>
 </w.rf>
 <form>Mazda</form>
-<tag lemma="Mazda_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mazda_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-ln94208-3-p4s2w1</LM>
 </w.rf>
 <form>Seat</form>
-<tag lemma="Seat-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Seat-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1631,7 +1631,7 @@
 <LM>w#w-ln94208-3-p5s3w1</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2073,11 +2073,11 @@
 </w.rf>
 <form>mazdy</form>
 <tag>
-<AM lemma="Mazda-2_;R_^(vozidlo)" src="orig">NNFP1-----A----</AM>
-<AM lemma="mazda_;R" src="auto" selected="1">NNFP1-----A----</AM>
-<AM lemma="mazda_;R" src="auto">NNFP4-----A----</AM>
-<AM lemma="mazda_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Mazda-2_;m_^(vozidlo)" src="orig">NNFP1-----A----</AM>
+<AM lemma="mazda_;m" src="auto" selected="1">NNFP1-----A----</AM>
+<AM lemma="mazda_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="mazda_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="mazda_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-3-p5s6w27">
@@ -2348,7 +2348,7 @@
 <LM>w#w-ln94208-3-p5s9w6</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p5s9w7">
 <src.rf>manual</src.rf>
@@ -2356,7 +2356,7 @@
 <LM>w#w-ln94208-3-p5s9w7</LM>
 </w.rf>
 <form>Micra</form>
-<tag lemma="Micra_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Micra_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p5s9w8">
 <src.rf>manual</src.rf>
@@ -3351,7 +3351,7 @@
 <LM>w#w-ln94208-3-p7s3w4</LM>
 </w.rf>
 <form>Micra</form>
-<tag lemma="Micra_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Micra_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p7s3w5">
 <src.rf>manual</src.rf>
@@ -3537,7 +3537,7 @@
 <LM>w#w-ln94208-3-p7s4w9</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p7s4w10">
 <src.rf>manual</src.rf>
@@ -3545,7 +3545,7 @@
 <LM>w#w-ln94208-3-p7s4w10</LM>
 </w.rf>
 <form>Maxima</form>
-<tag lemma="Maxima_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Maxima_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p7s4w11">
 <src.rf>manual</src.rf>
@@ -3602,9 +3602,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-3-p7s4w18">

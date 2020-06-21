@@ -53,7 +53,7 @@
 <LM>w#w-vesm9301-043-p2s1w2</LM>
 </w.rf>
 <form>KRATOCHVÍL</form>
-<tag lemma="Kratochvíl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kratochvíl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-043-p3s1">
@@ -3124,8 +3124,8 @@
 <form>Matky</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP5-----A----</AM>
@@ -4127,7 +4127,7 @@
 <LM>w#w-vesm9301-043-p9s2w2</LM>
 </w.rf>
 <form>Hérakleitových</form>
-<tag lemma="Hérakleitův_;S_^(*2os)" src="auto" selected="1">AUFP2M---------</tag>
+<tag lemma="Hérakleitův_;Y_^(*2os)" src="auto" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-vesm9301-043-p9s2w3">
 <src.rf>manual</src.rf>

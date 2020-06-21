@@ -248,7 +248,7 @@
 </w.rf>
 <form>SOS</form>
 <tag>
-<AM lemma="SOS-3_:B_;K_^(Sdružení_obrany_spotřebitelů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOS-3_:B_;m_^(Sdružení_obrany_spotřebitelů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
@@ -498,7 +498,7 @@
 </w.rf>
 <form>SOS</form>
 <tag>
-<AM lemma="SOS-3_:B_;K_^(Sdružení_obrany_spotřebitelů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOS-3_:B_;m_^(Sdružení_obrany_spotřebitelů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
@@ -519,7 +519,7 @@
 <LM>w#w-ln94205-12-p3s1w5</LM>
 </w.rf>
 <form>Škuty</form>
-<tag lemma="Škuta_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Škuta_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-12-p3s1w6">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 </w.rf>
 <form>SOS</form>
 <tag>
-<AM lemma="SOS-3_:B_;K_^(Sdružení_obrany_spotřebitelů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SOS-3_:B_;m_^(Sdružení_obrany_spotřebitelů)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS4-----A----</AM>
@@ -1251,7 +1251,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-12-p5s1w5">
@@ -1268,7 +1268,7 @@
 <LM>w#w-ln94205-12-p5s1w6</LM>
 </w.rf>
 <form>Škuta</form>
-<tag lemma="Škuta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Škuta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-12-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1546,7 +1546,7 @@
 <LM>w#w-ln94205-12-p5s4w4</LM>
 </w.rf>
 <form>Škuty</form>
-<tag lemma="Škuta_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Škuta_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-12-p5s4w5">
 <src.rf>manual</src.rf>

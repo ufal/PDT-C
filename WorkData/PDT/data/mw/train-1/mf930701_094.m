@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-094-p2s1w3</LM>
 </w.rf>
 <form>Jaroš</form>
-<tag lemma="Jaroš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jaroš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s1w4">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf930701-094-p2s3w15</LM>
 </w.rf>
 <form>Jaroš</form>
-<tag lemma="Jaroš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jaroš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s3w16">
 <src.rf>manual</src.rf>
@@ -256,8 +256,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-094-p2s3w18">
@@ -590,7 +590,7 @@
 <LM>w#w-mf930701-094-p2s5w2</LM>
 </w.rf>
 <form>Jaroš</form>
-<tag lemma="Jaroš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jaroš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s5w3">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-mf930701-094-p2s7w9</LM>
 </w.rf>
 <form>Jaroše</form>
-<tag lemma="Jaroš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jaroš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-1_:B_^(značení_evr._silnic)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-094-p2s8w21">
@@ -1830,7 +1830,7 @@
 <LM>w#w-mf930701-094-p2s13w18</LM>
 </w.rf>
 <form>Mika</form>
-<tag lemma="Mika_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mika_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s13w19">
 <src.rf>manual</src.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-mf930701-094-p2s16w2</LM>
 </w.rf>
 <form>Jaroš</form>
-<tag lemma="Jaroš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jaroš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s16w3">
 <src.rf>manual</src.rf>

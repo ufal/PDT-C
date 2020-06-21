@@ -61,7 +61,7 @@
 <LM>w#w-ln95044-032-p2s1w3</LM>
 </w.rf>
 <form>Klinsmann</form>
-<tag lemma="Klinsmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klinsmann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-032-p2s1w4">
 <src.rf>manual</src.rf>
@@ -102,10 +102,10 @@
 </w.rf>
 <form>Berti</form>
 <tag>
-<AM lemma="Berti_;S_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Berti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Berti_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Berti_;Y_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Berti_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Berti_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Berti_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Berti_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-032-p2s1w9">
@@ -114,7 +114,7 @@
 <LM>w#w-ln95044-032-p2s1w9</LM>
 </w.rf>
 <form>Vogstem</form>
-<tag lemma="Vogst_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Vogst_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-032-p2s1w10">
 <src.rf>manual</src.rf>
@@ -203,8 +203,8 @@
 </w.rf>
 <form>Lothar</form>
 <tag>
-<AM lemma="Lothar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lothar_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lothar_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lothar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-032-p2s1w21">
@@ -213,7 +213,7 @@
 <LM>w#w-ln95044-032-p2s1w21</LM>
 </w.rf>
 <form>Matthäus</form>
-<tag lemma="Matthäus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matthäus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-032-p2s1w22">
 <src.rf>manual</src.rf>

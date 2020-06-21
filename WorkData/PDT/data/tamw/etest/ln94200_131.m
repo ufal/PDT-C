@@ -57,12 +57,12 @@
 <AM lemma="Cod_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Cod_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Cod_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Coda_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Coda_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Coda_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Coda_;K" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Cody_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Cody_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Coda_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Coda_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Coda_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Coda_;m" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Cody_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Cody_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Cody-2_;Y" src="manual">NNFS1-----A----</AM>
 <AM lemma="Cody-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
@@ -73,7 +73,7 @@
 <LM>w#w-ln94200-131-p1s1Aw6</LM>
 </w.rf>
 <form>Zamorová</form>
-<tag lemma="Zamorová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zamorová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-131-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -97,7 +97,7 @@
 <LM>w#w-ln94200-131-p1s1Aw9</LM>
 </w.rf>
 <form>Stoweová</form>
-<tag lemma="Stoweová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Stoweová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-131-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94200-131-p1s1Bw2</LM>
 </w.rf>
 <form>Lucernafilm</form>
-<tag lemma="Lucernafilm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lucernafilm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-131-p1s1Bw3">
 <src.rf>manual</src.rf>

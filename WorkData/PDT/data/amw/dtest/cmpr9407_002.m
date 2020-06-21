@@ -621,9 +621,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-002-p4s3w13">
@@ -1635,7 +1635,7 @@
 <LM>w#w-cmpr9407-002-p10s2w27</LM>
 </w.rf>
 <form>Chutharatkul</form>
-<tag lemma="Chutharatkul_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chutharatkul_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p10s2w28">
 <src.rf>manual</src.rf>
@@ -2674,9 +2674,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-002-p10s9w12">
@@ -3441,7 +3441,7 @@
 <LM>w#w-cmpr9407-002-p12s1w25</LM>
 </w.rf>
 <form>Chutcharatkul</form>
-<tag lemma="Chutcharatkul_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chutcharatkul_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p12s1w26">
 <src.rf>manual</src.rf>
@@ -4894,7 +4894,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -5485,7 +5485,7 @@
 <LM>w#w-cmpr9407-002-p15s7w15</LM>
 </w.rf>
 <form>Amatakkulchai</form>
-<tag lemma="Amatakkulchai_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amatakkulchai_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p15s7w16">
 <src.rf>manual</src.rf>
@@ -7381,7 +7381,7 @@
 <LM>w#w-cmpr9407-002-p18s3w12</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p18s3w13">
 <src.rf>manual</src.rf>
@@ -8123,7 +8123,7 @@
 </w.rf>
 <form>Castle</form>
 <tag>
-<AM lemma="Castle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Castle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Castle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8134,7 +8134,7 @@
 </w.rf>
 <form>Peak</form>
 <tag>
-<AM lemma="Peak_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Peak_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Peak_;G_,t_^(štít,_vrchol,_v_názvech_hor)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Peak-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -8372,7 +8372,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -8448,7 +8448,7 @@
 <LM>w#w-cmpr9407-002-p21s3w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w9">
 <src.rf>manual</src.rf>
@@ -8557,7 +8557,7 @@
 <LM>w#w-cmpr9407-002-p21s3w21</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w22">
 <src.rf>manual</src.rf>
@@ -8581,7 +8581,7 @@
 <LM>w#w-cmpr9407-002-p21s3w24</LM>
 </w.rf>
 <form>Stephen</form>
-<tag lemma="Stephen_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stephen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w25">
 <src.rf>manual</src.rf>
@@ -8589,7 +8589,7 @@
 <LM>w#w-cmpr9407-002-p21s3w25</LM>
 </w.rf>
 <form>Liu</form>
-<tag lemma="Liu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Liu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w26">
 <src.rf>manual</src.rf>
@@ -8638,7 +8638,7 @@
 </w.rf>
 <form>Castle</form>
 <tag>
-<AM lemma="Castle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Castle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Castle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -8649,7 +8649,7 @@
 </w.rf>
 <form>Peak</form>
 <tag>
-<AM lemma="Peak_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Peak_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Peak_;G_,t_^(štít,_vrchol,_v_názvech_hor)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Peak-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -9150,7 +9150,7 @@
 </w.rf>
 <form>Nan</form>
 <tag>
-<AM lemma="Nana_;S" src="orig">NNFP2-----A----</AM>
+<AM lemma="Nana_;Y" src="orig">NNFP2-----A----</AM>
 <AM lemma="nan_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Nan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -9162,9 +9162,9 @@
 </w.rf>
 <form>Yang</form>
 <tag>
-<AM lemma="Yang_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Yang_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Yanga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Yang_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Yang_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="yang_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Yang-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -9792,7 +9792,7 @@
 <LM>w#w-cmpr9407-002-p22s5w27</LM>
 </w.rf>
 <form>Tuangsitthisombat</form>
-<tag lemma="Tuangsitthisombat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tuangsitthisombat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p22s5w28">
 <src.rf>manual</src.rf>
@@ -9833,7 +9833,7 @@
 </w.rf>
 <form>Nan</form>
 <tag>
-<AM lemma="Nana_;S" src="orig">NNFP2-----A----</AM>
+<AM lemma="Nana_;Y" src="orig">NNFP2-----A----</AM>
 <AM lemma="nan_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Nan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -9845,9 +9845,9 @@
 </w.rf>
 <form>Yang</form>
 <tag>
-<AM lemma="Yang_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Yang_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Yanga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Yang_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Yang_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="yang_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Yang-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -10172,7 +10172,7 @@
 <LM>w#w-cmpr9407-002-p22s6w35</LM>
 </w.rf>
 <form>Killy</form>
-<tag lemma="Killy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Killy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-002-p22s6w36">
 <src.rf>manual</src.rf>

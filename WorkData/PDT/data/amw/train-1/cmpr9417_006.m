@@ -465,7 +465,7 @@
 <LM>w#w-cmpr9417-006-p5s2w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9417-006-p5s2w13">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-cmpr9417-006-p5s3w6</LM>
 </w.rf>
 <form>řapíkatý</form>
-<tag lemma="řapíkatý_;L" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="řapíkatý_;U" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-cmpr9417-006-p5s3w7">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-cmpr9417-006-p5s3w11</LM>
 </w.rf>
 <form>mangold</form>
-<tag lemma="mangold_;L" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="mangold_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-006-p5s3w12">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-cmpr9417-006-p5s3w13</LM>
 </w.rf>
 <form>polníček</form>
-<tag lemma="polníček_;L" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="polníček_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-006-p5s3w14">
 <src.rf>manual</src.rf>
@@ -4052,7 +4052,7 @@
 <LM>w#w-cmpr9417-006-p22s1w2</LM>
 </w.rf>
 <form>Vávra</form>
-<tag lemma="Vávra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vávra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

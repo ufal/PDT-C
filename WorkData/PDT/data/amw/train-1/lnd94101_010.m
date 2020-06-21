@@ -108,7 +108,7 @@
 </w.rf>
 <form>Natal</form>
 <tag>
-<AM lemma="Natal_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Natal_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -244,9 +244,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

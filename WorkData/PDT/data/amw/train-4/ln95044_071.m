@@ -420,7 +420,7 @@
 </w.rf>
 <form>CSA</form>
 <tag>
-<AM lemma="CSA-1_:B_;K_,t_^(Confédération_Syndicale_Africaine)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CSA-1_:B_;m_,t_^(Confédération_Syndicale_Africaine)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="CSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -439,7 +439,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -450,8 +450,8 @@
 </w.rf>
 <form>Tribune</form>
 <tag>
-<AM lemma="Tribune_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Tribune_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Tribune_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tribune_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tribune-77" src="manual" selected="1">F%-------------</AM>
 </tag>

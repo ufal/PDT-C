@@ -129,7 +129,7 @@
 <LM>w#w-lnd92256-110-p3s2w6</LM>
 </w.rf>
 <form>Richterovy</form>
-<tag lemma="Richterův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Richterův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92256-110-p3s2w7">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <form>Ar</form>
 <tag>
 <AM lemma="Ar_;G_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ara_;K_^(obchod,_firma,_továrna)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Ara_;m_^(obchod,_firma,_továrna)" src="auto">NNFP2-----A----</AM>
 <AM lemma="ar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="ar" src="auto">NNIS4-----A----</AM>
 <AM lemma="Ar-77" src="manual" selected="1">F%-------------</AM>
@@ -834,7 +834,7 @@
 <LM>w#w-lnd92256-110-p3s8w15</LM>
 </w.rf>
 <form>Richterovy</form>
-<tag lemma="Richterův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Richterův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92256-110-p3s8w16">
 <src.rf>manual</src.rf>

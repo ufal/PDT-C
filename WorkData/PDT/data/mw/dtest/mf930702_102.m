@@ -27,7 +27,7 @@
 <LM>w#w-mf930702-102-p1s1w2</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-102-p1s1w3">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 <LM>w#w-mf930702-102-p2s1w4</LM>
 </w.rf>
 <form>Čedok</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930702-102-p2s1w5">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 </w.rf>
 <form>cestovná</form>
 <tag>
-<AM lemma="cestovný_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="cestovný_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="cestovné" src="auto">NNNP1-----A----</AM>
 <AM lemma="cestovné" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="cestovné" src="auto">NNNP5-----A----</AM>
@@ -482,7 +482,7 @@
 </w.rf>
 <form>kancelária</form>
 <tag>
-<AM lemma="kancelária_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="kancelária_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="kancelária-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -501,7 +501,7 @@
 </w.rf>
 <form>SCK</form>
 <tag>
-<AM lemma="SCK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SCK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SCK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -553,7 +553,7 @@
 <LM>w#w-mf930702-102-p2s6w5</LM>
 </w.rf>
 <form>Čedoku</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-102-p2s6w6">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf930702-102-p2s6w7</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-102-p2s6w8">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-mf930702-102-p4s1w3</LM>
 </w.rf>
 <form>Urbana</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-102-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-mf930702-102-p4s2w11</LM>
 </w.rf>
 <form>Čedoku</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-102-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1277,7 +1277,7 @@
 <LM>w#w-mf930702-102-p4s4w2</LM>
 </w.rf>
 <form>Čedoku</form>
-<tag lemma="Čedok_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Čedok_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-102-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <LM>w#w-mf930702-102-p4s5w14</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-102-p4s5w15">
 <src.rf>manual</src.rf>

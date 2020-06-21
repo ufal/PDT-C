@@ -316,7 +316,7 @@
 <LM>w#w-lnd94103-003-p1s4w8</LM>
 </w.rf>
 <form>Rolečkové</form>
-<tag lemma="Rolečková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Rolečková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-003-p1s4w9">
 <src.rf>manual</src.rf>

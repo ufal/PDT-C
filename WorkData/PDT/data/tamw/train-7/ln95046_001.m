@@ -171,7 +171,7 @@
 </w.rf>
 <form>ESVO</form>
 <tag>
-<AM lemma="ESVO_:B_;K_^(Evropské_sdružení_volného_obchodu)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ESVO_:B_;m_^(Evropské_sdružení_volného_obchodu)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ESVO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="ESVO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -363,7 +363,7 @@
 <LM>w#w-ln95046-001-p3s1w14</LM>
 </w.rf>
 <form>Bízka</form>
-<tag lemma="Bízek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bízek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-001-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

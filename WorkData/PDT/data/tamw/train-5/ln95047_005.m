@@ -293,7 +293,7 @@
 </w.rf>
 <form>ČECHROS</form>
 <tag>
-<AM lemma="ČECHROS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČECHROS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ČECHROS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -353,7 +353,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-005-p2s2w17">
@@ -370,7 +370,7 @@
 <LM>w#w-ln95047-005-p2s2w18</LM>
 </w.rf>
 <form>Obminskij</form>
-<tag lemma="Obminskij_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Obminskij_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-005-p2s2w19">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 </w.rf>
 <form>ČECHROS</form>
 <tag>
-<AM lemma="ČECHROS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČECHROS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ČECHROS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -886,7 +886,7 @@
 <LM>w#w-ln95047-005-p4s1w22</LM>
 </w.rf>
 <form>Uljanovsku</form>
-<tag lemma="Uljanovsk_;S" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Uljanovsk_;Y" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95047-005-p4s1w23">
 <src.rf>manual</src.rf>

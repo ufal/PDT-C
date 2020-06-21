@@ -60,7 +60,7 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -139,7 +139,7 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -407,7 +407,7 @@
 <LM>w#w-ln94204-159-p2s2w11</LM>
 </w.rf>
 <form>Dlouhým</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-159-p2s2w12">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -507,7 +507,7 @@
 </w.rf>
 <form>Din</form>
 <tag>
-<AM lemma="Din_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Din_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Dina_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -536,7 +536,7 @@
 </w.rf>
 <form>Din</form>
 <tag>
-<AM lemma="Din_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Din_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Dina_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -683,7 +683,7 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1030,7 +1030,7 @@
 </w.rf>
 <form>Din</form>
 <tag>
-<AM lemma="Din_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Din_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Dina_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1210,7 +1210,7 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1348,7 +1348,7 @@
 <LM>w#w-ln94204-159-p6s1w20</LM>
 </w.rf>
 <form>Motorlet</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-159-p6s1w21">
 <src.rf>manual</src.rf>
@@ -1463,8 +1463,8 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="USAID-88_;K_,t_^(United_States_Agency_for_Inter._Devel." src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="USAID-88_;m_,t_^(United_States_Agency_for_Inter._Devel." src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-159-p7s1w6">
@@ -1724,7 +1724,7 @@
 </w.rf>
 <form>USAID</form>
 <tag>
-<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="USAID-1_:B_;m_,t_^(United_States_Agency_for_Inter._Devel.)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="USAID-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1815,7 +1815,7 @@
 <LM>w#w-ln94204-159-p8s1w14</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag lemma="USD_:B_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94204-159-p8s1w15">
 <src.rf>manual</src.rf>

@@ -94,8 +94,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-026-p2s1w4">
@@ -113,8 +113,8 @@
 </w.rf>
 <form>peo</form>
 <tag>
-<AM lemma="peo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="peo-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="peo-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="peo-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-026-p2s1w6">
@@ -285,7 +285,7 @@
 <LM>w#w-mf920925-026-p2s3w6</LM>
 </w.rf>
 <form>Mubarak</form>
-<tag lemma="Mubarak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mubarak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-026-p2s3w7">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-mf920925-026-p2s5w6</LM>
 </w.rf>
 <form>Lada</form>
-<tag lemma="Lada-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lada-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-026-p2s5w7">
 <src.rf>manual</src.rf>
@@ -963,8 +963,8 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="StB_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-026-p3s2w16">
@@ -1047,7 +1047,7 @@
 <LM>w#w-mf920925-026-p4s1w9</LM>
 </w.rf>
 <form>Thomayerovy</form>
-<tag lemma="Thomayerův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Thomayerův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920925-026-p4s1w10">
 <src.rf>manual</src.rf>

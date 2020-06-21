@@ -62,8 +62,8 @@
 </w.rf>
 <form>jh</form>
 <tag>
-<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jh-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-024-p2s1Aw4">
@@ -372,7 +372,7 @@
 <LM>w#w-mf930709-024-p2s2w23</LM>
 </w.rf>
 <form>Prestol</form>
-<tag lemma="Prestol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Prestol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-024-p2s2w24">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-mf930709-024-p2s4Aw6</LM>
 </w.rf>
 <form>Škodu</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-024-p2s4Aw7">
 <src.rf>manual</src.rf>

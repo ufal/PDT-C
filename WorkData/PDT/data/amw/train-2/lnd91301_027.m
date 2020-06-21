@@ -107,7 +107,7 @@
 <LM>w#w-lnd91301-027-p1s1w12</LM>
 </w.rf>
 <form>Kopeckého</form>
-<tag lemma="Kopecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kopecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-027-p1s1w13">
 <src.rf>manual</src.rf>
@@ -117,8 +117,8 @@
 <form_change>spell</form_change>
 <form>Herkules</form>
 <tag>
-<AM lemma="Herkules-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Herkules-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Herkules-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Herkules-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-027-p1s1w14">
@@ -289,7 +289,7 @@
 <LM>w#w-lnd91301-027-p1s2w14</LM>
 </w.rf>
 <form>Kroba</form>
-<tag lemma="Krob_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Krob_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-027-p1s2w15">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <form>Glanc</form>
 <tag>
 <AM lemma="glanc" src="orig">NNIS1-----A----</AM>
-<AM lemma="Glanc_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Glanc_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-027-p2s1Aw17">
@@ -1104,7 +1104,7 @@
 <form>Glanc</form>
 <tag>
 <AM lemma="glanc" src="orig">NNIS1-----A----</AM>
-<AM lemma="Glanc_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Glanc_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-027-p2s2w9">

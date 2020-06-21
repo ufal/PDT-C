@@ -159,7 +159,7 @@
 <LM>w#w-ln95041-106-p2s1Bw9</LM>
 </w.rf>
 <form>Svěráka</form>
-<tag lemma="Svěrák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svěrák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-106-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln95041-106-p2s2w9</LM>
 </w.rf>
 <form>Vachler</form>
-<tag lemma="Vachler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vachler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-106-p2s2w10">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 </w.rf>
 <form>Company</form>
 <tag>
-<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -641,7 +641,7 @@
 <LM>w#w-ln95041-106-p2s3w28</LM>
 </w.rf>
 <form>Faust</form>
-<tag lemma="Faust_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Faust_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-106-p2s3w29">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-ln95041-106-p2s3w36</LM>
 </w.rf>
 <form>Čonkina</form>
-<tag lemma="Čonkin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čonkin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-106-p2s3w37">
 <src.rf>manual</src.rf>

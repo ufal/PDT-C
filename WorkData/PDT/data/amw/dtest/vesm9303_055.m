@@ -102,8 +102,8 @@
 </w.rf>
 <form>c</form>
 <tag>
-<AM lemma="c-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="c-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="c-33" src="orig">Q3-------------</AM>
+<AM lemma="c-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-055-p2s1w6">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>k</form>
 <tag>
-<AM lemma="k-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="k-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="k-33" src="orig">Q3-------------</AM>
+<AM lemma="k-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-055-p2s1w8">
@@ -1314,12 +1314,12 @@
 <tag>
 <AM lemma="tak_:B" src="orig">Db------------8</AM>
 <AM lemma="t-1`tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="t-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="t-33" src="auto">Q3-------------</AM>
 <AM lemma="t-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto" recommended="1">PDXXX---------8</AM>
-<AM lemma="t-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="t-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-055-p2s5w6">
@@ -2533,7 +2533,7 @@
 <LM>w#w-vesm9303-055-p4s7w13</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9303-055-p4s7w14">
 <src.rf>manual</src.rf>

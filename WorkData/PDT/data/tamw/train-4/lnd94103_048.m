@@ -179,7 +179,7 @@
 <LM>w#w-lnd94103-048-p1s3w13</LM>
 </w.rf>
 <form>Baudyš</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-048-p1s3w14">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-lnd94103-048-p1s3w16</LM>
 </w.rf>
 <form>Kanis</form>
-<tag lemma="Kanis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kanis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-048-p1s3w17">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-lnd94103-048-p1s4w29</LM>
 </w.rf>
 <form>Baudyš</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-048-p1s4w30">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-lnd94103-048-p1s6w5</LM>
 </w.rf>
 <form>Kanis</form>
-<tag lemma="Kanis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kanis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-048-p1s6w6">
 <src.rf>manual</src.rf>

@@ -159,7 +159,7 @@
 <LM>w#w-mf930703-074-p2s2w4</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ina-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930703-074-p2s2w5">
 <src.rf>manual</src.rf>

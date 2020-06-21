@@ -232,7 +232,7 @@
 </w.rf>
 <form>Mecsekuran</form>
 <tag>
-<AM lemma="Mecsekuran_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mecsekuran_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Mecsekuran-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>Kft</form>
 <tag>
-<AM lemma="Kft_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Kft_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Kft-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -261,7 +261,7 @@
 <LM>w#w-ln95047-123-p2s2w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95047-123-p2s2w13">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 </w.rf>
 <form>Mecseki</form>
 <tag>
-<AM lemma="Mecseki_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mecseki_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mecseki-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -297,7 +297,7 @@
 </w.rf>
 <form>Ercbanyaszati</form>
 <tag>
-<AM lemma="Ercbanyaszati_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ercbanyaszati_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Ercbanyaszati-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -308,7 +308,7 @@
 </w.rf>
 <form>Vallálat</form>
 <tag>
-<AM lemma="Vallálat_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Vallálat_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Vallálat-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -425,8 +425,8 @@
 </w.rf>
 <form>Hewlett</form>
 <tag>
-<AM lemma="Hewlett-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hewlett-1_;K_^(Hewlett-Packard)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="Hewlett-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hewlett-1_;m_^(Hewlett-Packard)" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-123-p3s1w5">
@@ -443,7 +443,7 @@
 <LM>w#w-ln95047-123-p3s1w6</LM>
 </w.rf>
 <form>Packard</form>
-<tag lemma="Packard-1_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Packard-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-123-p3s1w7">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

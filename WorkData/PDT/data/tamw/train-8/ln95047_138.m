@@ -1351,7 +1351,7 @@
 <LM>w#w-ln95047-138-p6s2w11</LM>
 </w.rf>
 <form>Nejdecko</form>
-<tag lemma="Nejdecko_;G_;R" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nejdecko_;G_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-138-p6s2w12">
 <src.rf>manual</src.rf>

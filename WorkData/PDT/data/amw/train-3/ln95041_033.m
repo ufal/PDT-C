@@ -19,7 +19,7 @@
 <LM>w#w-ln95041-033-p1s1w1</LM>
 </w.rf>
 <form>Lubina</form>
-<tag lemma="Lubina_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubina_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-033-p1s1w2">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-ln95041-033-p2s1Bw8</LM>
 </w.rf>
 <form>Lubina</form>
-<tag lemma="Lubina_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubina_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-033-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-ln95041-033-p2s2w15</LM>
 </w.rf>
 <form>Martigni</form>
-<tag lemma="Martigni_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Martigni_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95041-033-p2s2w16">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-ln95041-033-p2s3w16</LM>
 </w.rf>
 <form>Rosolem</form>
-<tag lemma="Rosol-1_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rosol-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-033-p2s3w17">
 <src.rf>manual</src.rf>

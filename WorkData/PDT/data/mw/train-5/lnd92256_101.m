@@ -19,7 +19,7 @@
 <LM>w#w-lnd92256-101-p1s1w1</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-101-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-lnd92256-101-p1s1w3</LM>
 </w.rf>
 <form>Časka</form>
-<tag lemma="Časko_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Časko_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92256-101-p2s1">
@@ -62,8 +62,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-101-p2s1w4">
@@ -130,7 +130,7 @@
 <LM>w#w-lnd92256-101-p2s2w6</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92256-101-p2s2w7">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-lnd92256-101-p2s2w8</LM>
 </w.rf>
 <form>Časka</form>
-<tag lemma="Časko_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Časko_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-101-p2s2w9">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-lnd92256-101-p2s2w15</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-101-p2s2w16">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-lnd92256-101-p2s2w22</LM>
 </w.rf>
 <form>Nehoda</form>
-<tag lemma="Nehoda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nehoda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-101-p2s2w23">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-lnd92256-101-p2s4w5</LM>
 </w.rf>
 <form>Pavliskou</form>
-<tag lemma="Pavliska_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Pavliska_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-101-p2s4w6">
 <src.rf>manual</src.rf>

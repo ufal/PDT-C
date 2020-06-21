@@ -87,7 +87,7 @@
 <LM>w#w-ln95047-130-p2s1Bw4</LM>
 </w.rf>
 <form>Robusta</form>
-<tag lemma="Robusta_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Robusta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-130-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -242,7 +242,7 @@
 <LM>w#w-ln95047-130-p2s1Bw23</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95047-130-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-ln95047-130-p5s1w7</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95047-130-p5s1w8">
 <src.rf>manual</src.rf>

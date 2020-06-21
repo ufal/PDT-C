@@ -51,7 +51,7 @@
 <LM>w#w-ln94204-49-p1s1w5</LM>
 </w.rf>
 <form>Bendou</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-49-p2s1A">
@@ -169,7 +169,7 @@
 <LM>w#w-ln94204-49-p2s1Cw9</LM>
 </w.rf>
 <form>Bendy</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-49-p2s1Cw10">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-ln94204-49-p2s2w11</LM>
 </w.rf>
 <form>Haisová</form>
-<tag lemma="Haisová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Haisová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-49-p2s2w12">
 <src.rf>manual</src.rf>

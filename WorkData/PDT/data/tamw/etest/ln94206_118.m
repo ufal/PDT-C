@@ -72,10 +72,10 @@
 </w.rf>
 <form>Šance</form>
 <tag>
-<AM lemma="Šance_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Šanc_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Šanc_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šanc_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Šance_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Šanc_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Šanc_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Šanc_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="šance" src="auto">NNFP1-----A----</AM>
 <AM lemma="šance" src="auto">NNFP4-----A----</AM>
 <AM lemma="šance" src="auto">NNFP5-----A----</AM>

@@ -46,7 +46,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -218,7 +218,7 @@
 <LM>w#w-lnd92255-139-p3s2w17</LM>
 </w.rf>
 <form>Tótha</form>
-<tag lemma="Tóth_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tóth_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-139-p3s2w18">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd92255-139-p3s2w24</LM>
 </w.rf>
 <form>Tkáče</form>
-<tag lemma="Tkáč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tkáč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-139-p3s2w25">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -451,9 +451,9 @@
 </w.rf>
 <form>TK</form>
 <tag>
-<AM lemma="TK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Tk_:B_;K" src="auto">NNISX-----A---8</AM>
+<AM lemma="Tk_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="tknout" src="auto">VpYS----R-AAI-6</AM>
 <AM lemma="TK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -477,7 +477,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s3w10">
@@ -494,7 +494,7 @@
 <LM>w#w-lnd92255-139-p3s3w11</LM>
 </w.rf>
 <form>Tóth</form>
-<tag lemma="Tóth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tóth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-139-p3s3w12">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 </w.rf>
 <form>BERD</form>
 <tag>
-<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD_:B_;m_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="BERD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -975,7 +975,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s5w5">
@@ -992,7 +992,7 @@
 <LM>w#w-lnd92255-139-p3s5w6</LM>
 </w.rf>
 <form>Tótha</form>
-<tag lemma="Tóth_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tóth_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-139-p3s5w7">
 <src.rf>manual</src.rf>

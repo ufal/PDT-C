@@ -52,9 +52,9 @@
 </w.rf>
 <form>forda</form>
 <tag>
-<AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS4-----A---6</AM>
-<AM lemma="ford_;R" src="auto">NNIS2-----A---1</AM>
-<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS4-----A---6</AM>
+<AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIS4-----A---6</AM>
+<AM lemma="ford_;m" src="auto">NNIS2-----A---1</AM>
+<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIS4-----A---6</AM>
 </tag>
 </m>
 </s>
@@ -90,8 +90,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-110-p2s1Aw5">
@@ -167,8 +167,8 @@
 </w.rf>
 <form>fordem</form>
 <tag>
-<AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS7-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
+<AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIS7-----A----</AM>
+<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-110-p2s1Bw8">

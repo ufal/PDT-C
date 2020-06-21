@@ -588,7 +588,7 @@
 <LM>w#w-lnd92259-078-p4s1w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92259-078-p4s1w19">
 <src.rf>manual</src.rf>
@@ -815,9 +815,9 @@
 </w.rf>
 <form>PACOVSKÁ</form>
 <tag>
-<AM lemma="Pacovský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pacovská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Pacovská_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Pacovský_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Pacovská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pacovská_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="pacovský" src="auto">AAFS1----1A----</AM>
 <AM lemma="pacovský" src="auto">AAFS5----1A----</AM>
 <AM lemma="pacovský" src="auto">AANP1----1A----</AM>
@@ -1089,7 +1089,7 @@
 <LM>w#w-lnd92259-078-p4s3w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92259-078-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-078-p4s5w13">
@@ -1369,9 +1369,9 @@
 </w.rf>
 <form>Pacovská</form>
 <tag>
-<AM lemma="Pacovský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pacovská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
-<AM lemma="Pacovská_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Pacovský_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Pacovská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pacovská_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="pacovský" src="auto">AAFS1----1A----</AM>
 <AM lemma="pacovský" src="auto">AAFS5----1A----</AM>
 <AM lemma="pacovský" src="auto">AANP1----1A----</AM>
@@ -2991,7 +2991,7 @@
 <LM>w#w-lnd92259-078-p5s1w17</LM>
 </w.rf>
 <form>Pacovské</form>
-<tag lemma="Pacovský_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Pacovský_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92259-078-p5s1w18">
 <src.rf>manual</src.rf>
@@ -3073,7 +3073,7 @@
 <LM>w#w-lnd92259-078-p5s2w6</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92259-078-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3301,7 +3301,7 @@
 <LM>w#w-lnd92259-078-p6s1w2</LM>
 </w.rf>
 <form>LINDAUROVÁ</form>
-<tag lemma="Lindaurová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lindaurová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

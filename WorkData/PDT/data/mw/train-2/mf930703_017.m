@@ -28,7 +28,7 @@
 </w.rf>
 <form>Rovná</form>
 <tag>
-<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -89,7 +89,7 @@
 </w.rf>
 <form>Rovná</form>
 <tag>
-<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -108,8 +108,8 @@
 </w.rf>
 <form>bar</form>
 <tag>
-<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p2s1w4">
@@ -207,7 +207,7 @@
 </w.rf>
 <form>Rovná</form>
 <tag>
-<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -287,7 +287,7 @@
 <LM>w#w-mf930703-017-p2s2w1</LM>
 </w.rf>
 <form>Agropodnik</form>
-<tag lemma="Agropodnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agropodnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-017-p2s2w2">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 </w.rf>
 <form>Rovné</form>
 <tag>
-<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -567,7 +567,7 @@
 <LM>w#w-mf930703-017-p3s1w7</LM>
 </w.rf>
 <form>Agropodniku</form>
-<tag lemma="Agropodnik_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Agropodnik_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-017-p3s1w8">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-mf930703-017-p3s2w1</LM>
 </w.rf>
 <form>Agropodnik</form>
-<tag lemma="Agropodnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agropodnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-017-p3s2w2">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-mf930703-017-p3s2w10</LM>
 </w.rf>
 <form>Rovná</form>
-<tag lemma="Rovná_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rovná_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-017-p3s2w11">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 </w.rf>
 <form>Rovné</form>
 <tag>
-<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -865,7 +865,7 @@
 <LM>w#w-mf930703-017-p3s3w6</LM>
 </w.rf>
 <form>Kříž</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-017-p3s3w7">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 </w.rf>
 <form>Rovná</form>
 <tag>
-<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1012,7 +1012,7 @@
 <LM>w#w-mf930703-017-p3s4w11</LM>
 </w.rf>
 <form>Agropodnik</form>
-<tag lemma="Agropodnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agropodnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-017-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 <LM>w#w-mf930703-017-p4s1w26</LM>
 </w.rf>
 <form>Agropodnik</form>
-<tag lemma="Agropodnik_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Agropodnik_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-017-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 </w.rf>
 <form>Rovná</form>
 <tag>
-<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

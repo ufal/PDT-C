@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-133-p1s1w1</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-133-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-mf920902-133-p3s1w1</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-133-p3s1w2">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-mf920902-133-p4s2w18</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-133-p4s2w19">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-mf920902-133-p4s3w13</LM>
 </w.rf>
 <form>Kaddáfí</form>
-<tag lemma="Kaddáfí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kaddáfí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-133-p4s3w14">
 <src.rf>manual</src.rf>
@@ -623,10 +623,10 @@
 </w.rf>
 <form>PanAm</form>
 <tag>
-<AM lemma="PanAm_;K_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="PanAm_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Panama_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="panama" src="auto">NNFP2-----A----</AM>
-<AM lemma="PanAm_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PanAm_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-133-p4s3w41">
@@ -708,9 +708,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-133-p4s3w51">
@@ -787,8 +787,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-133-p4s3w60">

@@ -611,7 +611,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-026-p2s3w14">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-lnd91301-026-p3s1w21</LM>
 </w.rf>
 <form>Taizé</form>
-<tag lemma="Taizé_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Taizé_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91301-026-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1286,7 +1286,7 @@
 <LM>w#w-lnd91301-026-p4s1w19</LM>
 </w.rf>
 <form>Čalfu</form>
-<tag lemma="Čalfa_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Čalfa_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-026-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-026-p4s2w8">
@@ -1468,7 +1468,7 @@
 <LM>w#w-lnd91301-026-p4s2w9</LM>
 </w.rf>
 <form>Čalfa</form>
-<tag lemma="Čalfa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čalfa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-026-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1786,7 +1786,7 @@
 </w.rf>
 <form>ZTS</form>
 <tag>
-<AM lemma="ZTS_:B_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="ZTS_:B_;m" src="auto">NNIXX-----A----</AM>
 <AM lemma="ZTS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -28,7 +28,7 @@
 </w.rf>
 <form>PRUDOM</form>
 <tag>
-<AM lemma="PRUDOM_:B_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="PRUDOM_:B_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="PRUDOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -207,7 +207,7 @@
 </w.rf>
 <form>OPBH</form>
 <tag>
-<AM lemma="OPBH_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="OPBH_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OPBH_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="OPBH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

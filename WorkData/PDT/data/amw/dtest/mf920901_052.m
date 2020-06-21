@@ -69,7 +69,7 @@
 <LM>w#w-mf920901-052-p1s2w1</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="FIFA_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf920901-052-p1s2w2">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-mf920901-052-p1s2w9</LM>
 </w.rf>
 <form>MARADONA</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-052-p2s1">
@@ -195,7 +195,7 @@
 </w.rf>
 <form>AS</form>
 <tag>
-<AM lemma="AS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="AS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -302,8 +302,8 @@
 </w.rf>
 <form>Diega</form>
 <tag>
-<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Diego_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Diego_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p2s1w22">
@@ -312,7 +312,7 @@
 <LM>w#w-mf920901-052-p2s1w22</LM>
 </w.rf>
 <form>Maradony</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-052-p2s1w23">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -522,7 +522,7 @@
 <LM>w#w-mf920901-052-p3s1w11</LM>
 </w.rf>
 <form>Maradony</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-052-p3s1w12">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -840,7 +840,7 @@
 <form>Zen</form>
 <tag>
 <AM lemma="zen" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zen_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p4s1w5">
@@ -857,7 +857,7 @@
 <LM>w#w-mf920901-052-p4s1w6</LM>
 </w.rf>
 <form>Ruffinen</form>
-<tag lemma="Ruffinen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruffinen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-052-p4s1w7">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 </w.rf>
 <form>AS</form>
 <tag>
-<AM lemma="AS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="AS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -992,7 +992,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1050,7 +1050,7 @@
 <LM>w#w-mf920901-052-p4s1w30</LM>
 </w.rf>
 <form>Maradony</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-052-p4s1w31">
 <src.rf>manual</src.rf>
@@ -1198,7 +1198,7 @@
 <LM>w#w-mf920901-052-p5s1w2</LM>
 </w.rf>
 <form>Maradonu</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-052-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1330,7 +1330,7 @@
 <form>Zen</form>
 <tag>
 <AM lemma="zen" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zen_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-052-p5s2w4">
@@ -1339,7 +1339,7 @@
 <LM>w#w-mf920901-052-p5s2w4</LM>
 </w.rf>
 <form>Ruffinen</form>
-<tag lemma="Ruffinen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruffinen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-052-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1444,7 +1444,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1496,7 +1496,7 @@
 <LM>w#w-mf920901-052-p6s1w4</LM>
 </w.rf>
 <form>Maradonu</form>
-<tag lemma="Maradona_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Maradona_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-052-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1618,7 +1618,7 @@
 <LM>w#w-mf920901-052-p6s2w12</LM>
 </w.rf>
 <form>Bilarda</form>
-<tag lemma="Bilard_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bilard_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-052-p6s2w13">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1884,7 +1884,7 @@
 <LM>w#w-mf920901-052-p7s2w22</LM>
 </w.rf>
 <form>Maradonův</form>
-<tag lemma="Maradonův_;S_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Maradonův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-mf920901-052-p7s2w23">
 <src.rf>manual</src.rf>
@@ -1911,7 +1911,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

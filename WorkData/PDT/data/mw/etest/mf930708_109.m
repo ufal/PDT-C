@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-109-p1s1w1</LM>
 </w.rf>
 <form>Ondruš</form>
-<tag lemma="Ondruš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondruš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p1s1w2">
 <src.rf>manual</src.rf>
@@ -81,8 +81,8 @@
 </w.rf>
 <form>cg</form>
 <tag>
-<AM lemma="cg-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="cg-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="cg-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="cg-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-109-p2s1w4">
@@ -131,7 +131,7 @@
 <LM>w#w-mf930708-109-p2s1w9</LM>
 </w.rf>
 <form>Ajax</form>
-<tag lemma="Ajax-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ajax-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s1w10">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-mf930708-109-p2s1w20</LM>
 </w.rf>
 <form>Dubovského</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s1w21">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-mf930708-109-p2s1w26</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s1w27">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-mf930708-109-p2s2w1</LM>
 </w.rf>
 <form>Dubovského</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s2w2">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-mf930708-109-p2s2w4</LM>
 </w.rf>
 <form>Ondruš</form>
-<tag lemma="Ondruš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondruš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s2w5">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-mf930708-109-p2s2w19</LM>
 </w.rf>
 <form>Ajaxu</form>
-<tag lemma="Ajax-1_;K_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ajax-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s2w20">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-mf930708-109-p2s3w2</LM>
 </w.rf>
 <form>Ondruš</form>
-<tag lemma="Ondruš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondruš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s3w3">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-mf930708-109-p2s3w21</LM>
 </w.rf>
 <form>Ajaxu</form>
-<tag lemma="Ajax-1_;K_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ajax-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s3w22">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-mf930708-109-p2s3w23</LM>
 </w.rf>
 <form>Gaal</form>
-<tag lemma="Gaal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s3w24">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-mf930708-109-p2s4w2</LM>
 </w.rf>
 <form>Dubovský</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s4w3">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-mf930708-109-p2s7w2</LM>
 </w.rf>
 <form>Ajax</form>
-<tag lemma="Ajax-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ajax-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s7w3">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1000,7 +1000,7 @@
 <LM>w#w-mf930708-109-p2s7w11</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <LM>w#w-mf930708-109-p2s8w12</LM>
 </w.rf>
 <form>Dubovským</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930708-109-p2s8w13">
 <src.rf>manual</src.rf>
@@ -1221,8 +1221,8 @@
 </w.rf>
 <form>šá</form>
 <tag>
-<AM lemma="šá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šá-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šá-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šá-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-109-p3s1w4">
@@ -1271,7 +1271,7 @@
 <LM>w#w-mf930708-109-p3s1w9</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-109-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1295,7 +1295,7 @@
 <LM>w#w-mf930708-109-p3s1w12</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1343,7 +1343,7 @@
 <LM>w#w-mf930708-109-p3s1w18</LM>
 </w.rf>
 <form>Ondruš</form>
-<tag lemma="Ondruš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondruš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1431,7 +1431,7 @@
 <LM>w#w-mf930708-109-p3s1w29</LM>
 </w.rf>
 <form>Ajaxem</form>
-<tag lemma="Ajax-1_;K_;R" src="auto" selected="1">NNIS7-----A----</tag>
+<tag lemma="Ajax-1_;m" src="auto" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930708-109-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-mf930708-109-p3s2w7</LM>
 </w.rf>
 <form>Dubovský</form>
-<tag lemma="Dubovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-109-p3s2w8">
 <src.rf>manual</src.rf>

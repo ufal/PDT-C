@@ -103,7 +103,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hanák_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-105-p2s1w10">
@@ -1208,7 +1208,7 @@
 <LM>w#w-ln94201-105-p3s5w4</LM>
 </w.rf>
 <form>Dutschke</form>
-<tag lemma="Dutschke_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dutschke_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-105-p3s5w5">
 <src.rf>manual</src.rf>
@@ -2168,7 +2168,7 @@
 <LM>w#w-ln94201-105-p5s3w7</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-105-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2257,7 +2257,7 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3186,11 +3186,11 @@
 </w.rf>
 <form>Cervantesovi</form>
 <tag>
-<AM lemma="Cervantes_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Cervantes_;S" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
-<AM lemma="Cervantes_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Cervantesův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Cervantesův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Cervantes_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Cervantes_;Y" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Cervantes_;Y" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Cervantesův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Cervantesův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-ln94201-105-p6s3w21">
@@ -3267,7 +3267,7 @@
 <LM>w#w-ln94201-105-p6s5w2</LM>
 </w.rf>
 <form>Gorbačovově</form>
-<tag lemma="Gorbačovův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Gorbačovův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-ln94201-105-p6s5w3">
 <src.rf>manual</src.rf>

@@ -130,7 +130,7 @@
 <form>BÁBA</form>
 <tag>
 <AM lemma="bába" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bába_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bába_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -515,7 +515,7 @@
 <form>Bába</form>
 <tag>
 <AM lemma="bába" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bába_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bába_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-095-p2s3Bw8">
@@ -596,7 +596,7 @@
 <LM>w#w-mf920901-095-p2s3Bw17</LM>
 </w.rf>
 <form>Jeszenszkého</form>
-<tag lemma="Jeszenszký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jeszenszký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-095-p2s3Bw18">
 <src.rf>manual</src.rf>
@@ -655,8 +655,8 @@
 </w.rf>
 <form>Magyar</form>
 <tag>
-<AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Magyar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Magyar_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1088,7 +1088,7 @@
 <form>Bába</form>
 <tag>
 <AM lemma="bába" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bába_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bába_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-095-p2s6w24">

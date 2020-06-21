@@ -2459,7 +2459,7 @@
 </w.rf>
 <form>NKA</form>
 <tag>
-<AM lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NKA-1_:B_;m_^(Německá_korespondeční_akademie)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NKA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2510,7 +2510,7 @@
 </w.rf>
 <form>Bertelsmann</form>
 <tag>
-<AM lemma="Bertelsmann_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bertelsmann_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Bertelsmann-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2606,7 +2606,7 @@
 <form>P</form>
 <tag>
 <AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-045-p10s1w20">
@@ -2625,7 +2625,7 @@
 <form>O</form>
 <tag>
 <AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-045-p10s1w22">

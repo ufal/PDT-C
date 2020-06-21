@@ -258,8 +258,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-151-p1s4w6">
@@ -308,7 +308,7 @@
 <LM>w#w-lnd94103-151-p1s4w11</LM>
 </w.rf>
 <form>Magvaši</form>
-<tag lemma="Magvaši_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Magvaši_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-151-p1s4w12">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-lnd94103-151-p1s7w1</LM>
 </w.rf>
 <form>Magvaši</form>
-<tag lemma="Magvaši_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Magvaši_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-151-p1s7w2">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 </w.rf>
 <form>Sk</form>
 <tag>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1061,7 +1061,7 @@
 <LM>w#w-lnd94103-151-p1s10w5</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-151-p1s10w6">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-lnd94103-151-p1s11w9</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-151-p1s11w10">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-lnd94103-151-p1s11w18</LM>
 </w.rf>
 <form>Magvaši</form>
-<tag lemma="Magvaši_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Magvaši_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-151-p1s11w19">
 <src.rf>manual</src.rf>

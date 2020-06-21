@@ -1290,7 +1290,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -3501,8 +3501,8 @@
 </w.rf>
 <form>R</form>
 <tag>
-<AM lemma="R-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="orig">Q3-------------</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-035-p17s1w9">
@@ -4714,7 +4714,7 @@
 <LM>w#w-cmpr9416-035-p20s1w2</LM>
 </w.rf>
 <form>Radoň</form>
-<tag lemma="Radoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-035-p21s1">
@@ -4748,7 +4748,7 @@
 <LM>w#w-cmpr9416-035-p21s1w4</LM>
 </w.rf>
 <form>Vácha</form>
-<tag lemma="Vácha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vácha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p21s1w5">
 <src.rf>manual</src.rf>
@@ -4796,7 +4796,7 @@
 <LM>w#w-cmpr9416-035-p21s1w10</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="a-33" src="auto" selected="1">Q3-------------</tag>
 </m>
 <m id="m-cmpr9416-035-p21s1w11">
 <src.rf>manual</src.rf>

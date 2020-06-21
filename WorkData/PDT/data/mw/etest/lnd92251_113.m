@@ -417,7 +417,7 @@
 <LM>w#w-lnd92251-113-p2s3w2</LM>
 </w.rf>
 <form>Kellym</form>
-<tag lemma="Kelly_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Kelly_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd92251-113-p2s3w3">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-lnd92251-113-p2s3w13</LM>
 </w.rf>
 <form>Bugnovi</form>
-<tag lemma="Bugno_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Bugno_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd92251-113-p2s3w14">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-lnd92251-113-p2s3w21</LM>
 </w.rf>
 <form>Fodriestovi</form>
-<tag lemma="Fodriest_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Fodriest_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd92251-113-p2s3w22">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -766,7 +766,7 @@
 <form>Ludwig</form>
 <tag>
 <AM lemma="Ludwig_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ludwig_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ludwig_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-113-p2s3w45">
@@ -897,7 +897,7 @@
 <LM>w#w-lnd92251-113-p2s4w13</LM>
 </w.rf>
 <form>Cassanim</form>
-<tag lemma="Cassani_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Cassani_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92251-113-p2s4w14">
 <src.rf>manual</src.rf>
@@ -970,9 +970,9 @@
 </w.rf>
 <form>Alcalou</form>
 <tag>
-<AM lemma="Alcala_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Alcala_;Y" src="orig">NNMS7-----A----</AM>
 <AM lemma="Alcala_;G" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Alcala-2_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Alcala-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-113-p2s4w23">
@@ -1252,7 +1252,7 @@
 <form>Ludwig</form>
 <tag>
 <AM lemma="Ludwig_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ludwig_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ludwig_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-113-p2s5w29">

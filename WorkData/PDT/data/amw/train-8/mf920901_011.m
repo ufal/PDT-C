@@ -1898,7 +1898,7 @@
 </w.rf>
 <form>Telegraph</form>
 <tag>
-<AM lemma="Telegraph-1_;K_,t_^(souč._názvu_Daily_T.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Telegraph-1_;m_,t_^(souč._názvu_Daily_T.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Telegraph-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1920,7 +1920,7 @@
 </w.rf>
 <form>Telephone</form>
 <tag>
-<AM lemma="Telephone_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Telephone_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Telephone-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2016,7 +2016,7 @@
 </w.rf>
 <form>Tobacco</form>
 <tag>
-<AM lemma="Tobacco_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Tobacco_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="tobacco_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Tobacco-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2044,8 +2044,8 @@
 </w.rf>
 <form>JR</form>
 <tag>
-<AM lemma="JR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jr_:B" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="JR_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jr_:B" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="JR_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="JR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2057,9 +2057,9 @@
 </w.rf>
 <form>East</form>
 <tag>
-<AM lemma="East_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="East_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="East_;G_,t_^(součást_míst._jmen)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="East_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="East_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="east_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="East-77" src="manual" selected="1">F%-------------</AM>
 </tag>

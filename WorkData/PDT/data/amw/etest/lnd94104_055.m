@@ -68,8 +68,8 @@
 </w.rf>
 <form>Ruuda</form>
 <tag>
-<AM lemma="Ruud_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ruud_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ruud_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ruud_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-055-p1s1Aw8">
@@ -78,7 +78,7 @@
 <LM>w#w-lnd94104-055-p1s1Aw8</LM>
 </w.rf>
 <form>Lubberse</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-055-p1s1Aw9">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 <form>Dudek</form>
 <tag>
 <AM lemma="dudek" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dudek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dudek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1257,8 +1257,8 @@
 </w.rf>
 <form>Ruud</form>
 <tag>
-<AM lemma="Ruud_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ruud_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ruud_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ruud_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-055-p1s5w16">
@@ -1267,7 +1267,7 @@
 <LM>w#w-lnd94104-055-p1s5w16</LM>
 </w.rf>
 <form>Lubbers</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-055-p1s5w17">
 <src.rf>manual</src.rf>
@@ -1822,7 +1822,7 @@
 <LM>w#w-lnd94104-055-p1s9w3</LM>
 </w.rf>
 <form>Lubbersovi</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-lnd94104-055-p1s9w4">
 <src.rf>manual</src.rf>
@@ -2041,7 +2041,7 @@
 </w.rf>
 <form>CDA</form>
 <tag>
-<AM lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CDA-1_:B_;m_,t_^(Christlich-Demokratische_Appel)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="CDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2180,7 +2180,7 @@
 </w.rf>
 <form>VVD</form>
 <tag>
-<AM lemma="VVD-1_:B_;K_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VVD-1_:B_;m_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2255,7 +2255,7 @@
 </w.rf>
 <form>PvDA</form>
 <tag>
-<AM lemma="PvDA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PvDA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PvDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2316,7 +2316,7 @@
 </w.rf>
 <form>CDA</form>
 <tag>
-<AM lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDA-1_:B_;m_,t_^(Christlich-Demokratische_Appel)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2398,7 +2398,7 @@
 <LM>w#w-lnd94104-055-p1s11w15</LM>
 </w.rf>
 <form>Lubbersova</form>
-<tag lemma="Lubbersův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Lubbersův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd94104-055-p1s11w16">
 <src.rf>manual</src.rf>
@@ -2504,7 +2504,7 @@
 <LM>w#w-lnd94104-055-p1s12w8</LM>
 </w.rf>
 <form>Lubberse</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94104-055-p1s12w9">
 <src.rf>manual</src.rf>
@@ -2858,7 +2858,7 @@
 <LM>w#w-lnd94104-055-p1s13w7</LM>
 </w.rf>
 <form>Lubbers</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-055-p1s13w8">
 <src.rf>manual</src.rf>
@@ -3455,7 +3455,7 @@
 <LM>w#w-lnd94104-055-p1s19w3</LM>
 </w.rf>
 <form>Lubbers</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-055-p1s19w4">
 <src.rf>manual</src.rf>
@@ -3625,7 +3625,7 @@
 <LM>w#w-lnd94104-055-p1s20w11</LM>
 </w.rf>
 <form>Delorsovi</form>
-<tag lemma="Delors_;S" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="Delors_;Y" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-lnd94104-055-p1s20w12">
 <src.rf>manual</src.rf>
@@ -4014,7 +4014,7 @@
 <LM>w#w-lnd94104-055-p1s21w39</LM>
 </w.rf>
 <form>Lubbers</form>
-<tag lemma="Lubbers_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubbers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-055-p1s21w40">
 <src.rf>manual</src.rf>

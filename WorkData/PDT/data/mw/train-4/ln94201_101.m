@@ -293,8 +293,8 @@
 </w.rf>
 <form>Ernsta</form>
 <tag>
-<AM lemma="Ernst_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ernst_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-101-p2s2w5">
@@ -303,7 +303,7 @@
 <LM>w#w-ln94201-101-p2s2w5</LM>
 </w.rf>
 <form>Thälmanna</form>
-<tag lemma="Thälmann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Thälmann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-101-p2s2w6">
 <src.rf>manual</src.rf>
@@ -4168,7 +4168,7 @@
 <LM>w#w-ln94201-101-p9s1w2</LM>
 </w.rf>
 <form>Lorenz</form>
-<tag lemma="Lorenz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lorenz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

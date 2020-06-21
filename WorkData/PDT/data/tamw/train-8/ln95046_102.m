@@ -639,7 +639,7 @@
 <LM>w#w-ln95046-102-p3s2w6</LM>
 </w.rf>
 <form>Vobruba</form>
-<tag lemma="Vobruba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vobruba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-102-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln95046-102-p3s6w13</LM>
 </w.rf>
 <form>dusnatým</form>
-<tag lemma="dusnatý_;H" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="dusnatý_;U" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln95046-102-p3s6w14">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-ln95046-102-p4s1w15</LM>
 </w.rf>
 <form>Vobruba</form>
-<tag lemma="Vobruba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vobruba_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-102-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <form>Gran</form>
 <tag>
 <AM lemma="Gran_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Grana_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Grana_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="gran" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gran" src="auto">NNIS4-----A----</AM>
 <AM lemma="Gran_;Y" src="manual" selected="1">NNFS1-----A----</AM>
@@ -1432,7 +1432,7 @@
 <LM>w#w-ln95046-102-p4s2w17</LM>
 </w.rf>
 <form>Jensenová</form>
-<tag lemma="Jensenová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jensenová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-102-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2208,7 +2208,7 @@
 <form>Gran</form>
 <tag>
 <AM lemma="Gran_;Y" src="orig">NNFXX-----A----</AM>
-<AM lemma="Grana_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Grana_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="gran" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gran" src="auto">NNIS4-----A----</AM>
 <AM lemma="Gran_;Y" src="manual" selected="1">NNFS1-----A----</AM>
@@ -2220,7 +2220,7 @@
 <LM>w#w-ln95046-102-p5s3w14</LM>
 </w.rf>
 <form>Jensenová</form>
-<tag lemma="Jensenová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jensenová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-102-p5s3w15">
 <src.rf>manual</src.rf>

@@ -224,7 +224,7 @@
 </w.rf>
 <form>Business</form>
 <tag>
-<AM lemma="Business_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Business_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="business-2_,t" src="manual">AAXXX----1A----</AM>
@@ -238,7 +238,7 @@
 </w.rf>
 <form>Weekly</form>
 <tag>
-<AM lemma="Weekly_;R_,t" src="orig">Db-------------</AM>
+<AM lemma="Weekly_;m_,t" src="orig">Db-------------</AM>
 <AM lemma="weekly_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Weekly-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -317,7 +317,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -448,7 +448,7 @@
 </w.rf>
 <form>DPA</form>
 <tag>
-<AM lemma="DPA-1_:B_;K_^(něm._Deutsche_Presse_Agentur)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPA-1_:B_;m_^(něm._Deutsche_Presse_Agentur)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DPA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -517,9 +517,9 @@
 </w.rf>
 <form>Tianjin</form>
 <tag>
-<AM lemma="Tianjin_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tianjin_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Tianjin_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Tianjin_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tianjin_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Tianjin_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Tianjin_;G" src="manual">NNIS1-----A----</AM>
 <AM lemma="Tianjin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -531,7 +531,7 @@
 </w.rf>
 <form>Automotive</form>
 <tag>
-<AM lemma="Automotive_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Automotive_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="automotive_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Automotive-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -543,11 +543,11 @@
 </w.rf>
 <form>Industry</form>
 <tag>
-<AM lemma="Industry_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Industra_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Industra_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Industra_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Industra_;K" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Industry_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Industra_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Industra_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Industra_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Industra_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="industry_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Industry-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -559,7 +559,7 @@
 </w.rf>
 <form>Corp</form>
 <tag>
-<AM lemma="Corporation_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Corporation_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -708,8 +708,8 @@
 </w.rf>
 <form>Charade</form>
 <tag>
-<AM lemma="Charade_;R" src="orig">NNFXX-----A----</AM>
-<AM lemma="Charade_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Charade_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Charade_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-19-p3s2w5">
@@ -735,9 +735,9 @@
 </w.rf>
 <form>Daihatsu</form>
 <tag>
-<AM lemma="Daihatsu_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Daihatsu_;R_^(značka_automobilu)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Daihatsu_;K_;R_^(značka_automobilu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Daihatsu_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Daihatsu_;m_^(značka_automobilu)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Daihatsu_;m_^(značka_automobilu)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-19-p3s2w8">
@@ -973,9 +973,9 @@
 </w.rf>
 <form>Tianjin</form>
 <tag>
-<AM lemma="Tianjin_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Tianjin_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Tianjin_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Tianjin_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Tianjin_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tianjin_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-19-p3s3w19">
@@ -1083,10 +1083,10 @@
 </w.rf>
 <form>Phoenix</form>
 <tag>
-<AM lemma="Phoenix_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Phoenix_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Phoenix-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Phoenix-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Phoenix-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Phoenix-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Phoenix_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="phoenix_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Phoenix-77" src="manual" selected="1">F%-------------</AM>
@@ -1099,7 +1099,7 @@
 </w.rf>
 <form>Bicycle</form>
 <tag>
-<AM lemma="Bicycle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Bicycle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="bicycle_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Bicycle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1111,7 +1111,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1138,7 +1138,7 @@
 </w.rf>
 <form>Forever</form>
 <tag>
-<AM lemma="Forever_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Forever_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="forever_,t" src="manual">Db-------------</AM>
 <AM lemma="Forever-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1150,7 +1150,7 @@
 </w.rf>
 <form>Bicycle</form>
 <tag>
-<AM lemma="Bicycle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Bicycle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Bicycle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1161,7 +1161,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1302,14 +1302,14 @@
 </w.rf>
 <form>Phoenix</form>
 <tag>
-<AM lemma="Phoenix_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phoenix_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Phoenix-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Phoenix-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Phoenix-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Phoenix-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Phoenix_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="phoenix_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Phoenix-3_;K" src="manual">NNIS1-----A----</AM>
-<AM lemma="Phoenix-1_;G_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Phoenix-3_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Phoenix-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-19-p4s3w2">
@@ -1386,9 +1386,9 @@
 </w.rf>
 <form>Forever</form>
 <tag>
-<AM lemma="Forever_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Forever_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Forever-77" src="manual">F%-------------</AM>
-<AM lemma="Forever-1_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Forever-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-19-p4s3w11">

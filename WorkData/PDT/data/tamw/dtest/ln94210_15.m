@@ -35,7 +35,7 @@
 <LM>w#w-ln94210-15-p1s1w3</LM>
 </w.rf>
 <form>Siemense</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94210-15-p1s1w4">
 <src.rf>manual</src.rf>
@@ -152,8 +152,8 @@
 </w.rf>
 <form>ABT</form>
 <tag>
-<AM lemma="ABT_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Abt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="ABT_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Abt_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="ABT_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ABT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -229,7 +229,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -239,7 +239,7 @@
 <LM>w#w-ln94210-15-p2s1Bw20</LM>
 </w.rf>
 <form>Siemens</form>
-<tag lemma="Siemens-1_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Siemens-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-15-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 </w.rf>
 <form>Tüf</form>
 <tag>
-<AM lemma="Tüf_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tüf_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Tüf-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -479,9 +479,9 @@
 </w.rf>
 <form>Bayern</form>
 <tag>
-<AM lemma="Bayern_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Bayern_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Bayern_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bayern_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Bayern_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bayern_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-15-p3s1w12">
@@ -882,12 +882,12 @@
 </w.rf>
 <form>Radegast</form>
 <tag>
-<AM lemma="Radegast_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Radegast-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radegast-2_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Radegast-2_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Radegast-3_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="Radegast-3_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Radegast_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Radegast-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Radegast-2_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Radegast-2_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Radegast-3_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Radegast-3_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="radegast" src="auto">NNIS1-----A----</AM>
 <AM lemma="radegast" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -972,7 +972,7 @@
 <LM>w#w-ln94210-15-p4s2w8</LM>
 </w.rf>
 <form>Krompa</form>
-<tag lemma="Kromp_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kromp_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-15-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-ln94210-15-p4s2w13</LM>
 </w.rf>
 <form>Meura</form>
-<tag lemma="Meura_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Meura_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-15-p4s2w14">
 <src.rf>manual</src.rf>

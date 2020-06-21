@@ -70,9 +70,9 @@
 </w.rf>
 <form>sch</form>
 <tag>
-<AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-107-p2s1w5">
@@ -259,7 +259,7 @@
 <LM>w#w-mf920902-107-p2s2w21</LM>
 </w.rf>
 <form>Francírek</form>
-<tag lemma="Francírek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Francírek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-107-p2s2w22">
 <src.rf>manual</src.rf>

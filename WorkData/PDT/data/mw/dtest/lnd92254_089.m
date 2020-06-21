@@ -19,7 +19,7 @@
 <LM>w#w-lnd92254-089-p1s1w1</LM>
 </w.rf>
 <form>Menotti</form>
-<tag lemma="Menotti_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Menotti_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-089-p1s1w2">
 <src.rf>manual</src.rf>
@@ -50,9 +50,9 @@
 <form>CITY</form>
 <tag>
 <AM lemma="City_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Cita-1_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Cita-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cita-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -122,7 +122,7 @@
 <LM>w#w-lnd92254-089-p2s2w6</LM>
 </w.rf>
 <form>Menotti</form>
-<tag lemma="Menotti_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Menotti_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-089-p2s2w7">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-lnd92254-089-p2s4w2</LM>
 </w.rf>
 <form>Menotti</form>
-<tag lemma="Menotti_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Menotti_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-089-p2s4w3">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-097-p1s1Aw1</LM>
 </w.rf>
 <form>Chronotechna</form>
-<tag lemma="Chronotechna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chronotechna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-mf920902-097-p1s1Aw11</LM>
 </w.rf>
 <form>bk</form>
-<tag lemma="bk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="bk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920902-097-p1s1Aw12">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-mf920902-097-p1s1Bw7</LM>
 </w.rf>
 <form>Chronotechnou</form>
-<tag lemma="Chronotechna_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Chronotechna_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-mf920902-097-p1s2w2</LM>
 </w.rf>
 <form>Chronotechnu</form>
-<tag lemma="Chronotechna_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Chronotechna_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s2w3">
 <src.rf>manual</src.rf>
@@ -778,9 +778,9 @@
 </w.rf>
 <form>Anker</form>
 <tag>
-<AM lemma="Anker_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Anker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Anker-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Anker_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Anker_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Anker-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-097-p1s3w27">
@@ -1009,7 +1009,7 @@
 <LM>w#w-mf920902-097-p1s5w12</LM>
 </w.rf>
 <form>Chronotechně</form>
-<tag lemma="Chronotechna_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Chronotechna_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s5w13">
 <src.rf>manual</src.rf>
@@ -1259,7 +1259,7 @@
 <LM>w#w-mf920902-097-p1s6w17</LM>
 </w.rf>
 <form>Vingrálka</form>
-<tag lemma="Vingrálek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vingrálek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s6w18">
 <src.rf>manual</src.rf>
@@ -1503,7 +1503,7 @@
 <LM>w#w-mf920902-097-p1s9w7</LM>
 </w.rf>
 <form>Haberleitnera</form>
-<tag lemma="Haberleitner_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Haberleitner_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s9w8">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-mf920902-097-p1s9w16</LM>
 </w.rf>
 <form>Eurotech</form>
-<tag lemma="Eurotech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Eurotech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s9w17">
 <src.rf>manual</src.rf>

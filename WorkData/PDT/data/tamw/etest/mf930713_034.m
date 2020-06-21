@@ -43,7 +43,7 @@
 <LM>w#w-mf930713-034-p1s1w4</LM>
 </w.rf>
 <form>Barum</form>
-<tag lemma="Barum_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Barum_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-034-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-mf930713-034-p1s1w5</LM>
 </w.rf>
 <form>Continental</form>
-<tag lemma="Continental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Continental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-034-p2s1A">
@@ -78,10 +78,10 @@
 </w.rf>
 <form>do</form>
 <tag>
-<AM lemma="do-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-034-p2s1Aw4">
@@ -204,7 +204,7 @@
 <LM>w#w-mf930713-034-p2s1Bw13</LM>
 </w.rf>
 <form>Barum</form>
-<tag lemma="Barum_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Barum_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-034-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-mf930713-034-p2s1Bw14</LM>
 </w.rf>
 <form>Continental</form>
-<tag lemma="Continental_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Continental_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-034-p2s1Bw15">
 <src.rf>manual</src.rf>

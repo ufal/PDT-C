@@ -81,8 +81,8 @@
 </w.rf>
 <form>ir</form>
 <tag>
-<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ir-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s1Aw4">
@@ -343,7 +343,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw31">
@@ -360,7 +360,7 @@
 <LM>w#w-ln94204-32-p2s1Bw32</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -421,12 +421,12 @@
 <AM lemma="Ĺ-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Ĺ-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Ĺ-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ĺ-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="Ĺ-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="Ĺ-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Ĺ-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ĺ-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ĺ-9_:B_;S" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="Ĺ-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Ĺ-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Ĺ-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Ĺ-9_:B_;Y" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="Ĺ-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Ĺ-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="ĺ-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="Ĺ-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -448,8 +448,8 @@
 <form>Romanem</form>
 <tag>
 <AM lemma="Roman_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Roman_;S" src="manual">NNMS7-----A----</AM>
-<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Roman_;Y" src="manual">NNMS7-----A----</AM>
+<AM lemma="Roman_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw42">
@@ -476,7 +476,7 @@
 <LM>w#w-ln94204-32-p2s2w2</LM>
 </w.rf>
 <form>Tigrida</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-32-p2s2w3">
 <src.rf>manual</src.rf>
@@ -832,8 +832,8 @@
 <form>Roman</form>
 <tag>
 <AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roman_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Roman_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Roman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s3w41">
@@ -1162,7 +1162,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s6w8">
@@ -1179,7 +1179,7 @@
 <LM>w#w-ln94204-32-p2s6w9</LM>
 </w.rf>
 <form>Klausovi</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln94204-32-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1317,8 +1317,8 @@
 <form>Roman</form>
 <tag>
 <AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roman_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Roman_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Roman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s6w27">

@@ -45,7 +45,7 @@
 <LM>w#w-ln94208-8-p2s1Aw1</LM>
 </w.rf>
 <form>RENAULT</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-8-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -54,7 +54,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ESPACE</form>
-<tag lemma="Espace_;R_^(automobil_Renault_Espace)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Espace_;m_^(automobil_Renault_Espace)" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94208-8-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -82,7 +82,7 @@
 </w.rf>
 <form>dT</form>
 <tag>
-<AM lemma="dT_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="dT_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="dT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -128,7 +128,7 @@
 <LM>w#w-ln94208-8-p2s1Cw2</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-8-p2s1D">
@@ -138,7 +138,7 @@
 <LM>w#w-ln94208-8-p2s1Dw1</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-8-p2s1Dw2">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln94208-8-p2s1Dw2</LM>
 </w.rf>
 <form>Espace</form>
-<tag lemma="Espace_;R_^(automobil_Renault_Espace)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Espace_;m_^(automobil_Renault_Espace)" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94208-8-p2s1Dw3">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-ln94208-8-p2s3w2</LM>
 </w.rf>
 <form>Renault</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-8-p2s3w3">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -2241,7 +2241,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -2345,7 +2345,7 @@
 <LM>w#w-ln94208-8-p4s7w1</LM>
 </w.rf>
 <form>Renaulty</form>
-<tag lemma="Renault_;K_;R" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="Renault_;m" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94208-8-p4s7w2">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd92256-069-p1s1w1</LM>
 </w.rf>
 <form>JELCIN</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-069-p1s1w2">
 <src.rf>manual</src.rf>
@@ -46,8 +46,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="orig">NNNS1-----A----</AM>
-<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="orig">NNNS1-----A----</AM>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -180,7 +180,7 @@
 <LM>w#w-lnd92256-069-p3s2w12</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-069-p3s2w13">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-lnd92256-069-p3s4w1</LM>
 </w.rf>
 <form>Jelcinovo</form>
-<tag lemma="Jelcinův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Jelcinův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-lnd92256-069-p3s4w2">
 <src.rf>manual</src.rf>
@@ -467,8 +467,8 @@
 </w.rf>
 <form>Lennart</form>
 <tag>
-<AM lemma="Lennart_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lennart_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lennart_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lennart_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-069-p3s5w4">
@@ -477,7 +477,7 @@
 <LM>w#w-lnd92256-069-p3s5w4</LM>
 </w.rf>
 <form>Meri</form>
-<tag lemma="Meri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-069-p3s5w5">
 <src.rf>manual</src.rf>

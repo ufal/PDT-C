@@ -141,7 +141,7 @@
 <LM>w#w-lnd92251-017-p2s1w13</LM>
 </w.rf>
 <form>Vonica</form>
-<tag lemma="Vonica_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vonica_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-017-p2s1w14">
 <src.rf>manual</src.rf>
@@ -925,8 +925,8 @@
 </w.rf>
 <form>Alexander</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-017-p4s3w4">
@@ -935,7 +935,7 @@
 <LM>w#w-lnd92251-017-p4s3w4</LM>
 </w.rf>
 <form>Erml</form>
-<tag lemma="Erml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Erml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-017-p4s3w5">
 <src.rf>manual</src.rf>

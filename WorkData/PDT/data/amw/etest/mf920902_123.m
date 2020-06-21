@@ -35,7 +35,7 @@
 <LM>w#w-mf920902-123-p1s1w3</LM>
 </w.rf>
 <form>Jiránka</form>
-<tag lemma="Jiránek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jiránek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 </mdata>

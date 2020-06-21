@@ -77,7 +77,7 @@
 <LM>w#w-lnd92259-010-p2s1w5</LM>
 </w.rf>
 <form>Mečiarovy</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-lnd92259-010-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1872,7 +1872,7 @@
 <LM>w#w-lnd92259-010-p4s2w12</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-010-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2120,7 +2120,7 @@
 <LM>w#w-lnd92259-010-p4s4w11</LM>
 </w.rf>
 <form>Kinkel</form>
-<tag lemma="Kinkel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kinkel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-010-p4s4w12">
 <src.rf>manual</src.rf>
@@ -3582,7 +3582,7 @@
 <LM>w#w-lnd92259-010-p7s1w2</LM>
 </w.rf>
 <form>JANYŠKA</form>
-<tag lemma="Janyška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janyška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

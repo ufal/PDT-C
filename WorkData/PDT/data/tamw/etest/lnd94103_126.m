@@ -28,8 +28,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 </s>
@@ -74,7 +74,7 @@
 <LM>w#w-lnd94103-126-p1s3Bw2</LM>
 </w.rf>
 <form>Neveselý</form>
-<tag lemma="Neveselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neveselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-126-p1s3Bw3">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-lnd94103-126-p1s4Bw3</LM>
 </w.rf>
 <form>Lundmark</form>
-<tag lemma="Lundmark_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lundmark_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-126-p1s4Bw4">
 <src.rf>manual</src.rf>
@@ -466,8 +466,8 @@
 </w.rf>
 <form>Nicklase</form>
 <tag>
-<AM lemma="Nicklas_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nicklas_;S_Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nicklas_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Nicklas_;Y_Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-126-p1s4Bw25">
@@ -476,7 +476,7 @@
 <LM>w#w-lnd94103-126-p1s4Bw25</LM>
 </w.rf>
 <form>Lindströma</form>
-<tag lemma="Lindström_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lindström_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-126-p1s4Bw26">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-lnd94103-126-p1s5w1</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-126-p1s5w2">
 <src.rf>manual</src.rf>

@@ -86,8 +86,8 @@
 </w.rf>
 <form>lík</form>
 <tag>
-<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lík-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lík-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-062-p2s1w6">
@@ -290,7 +290,7 @@
 <form>Peter</form>
 <tag>
 <AM lemma="Peter_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Peter_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Peter_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-062-p2s1w31">

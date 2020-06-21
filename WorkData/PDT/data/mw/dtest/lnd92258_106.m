@@ -178,7 +178,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-106-p2s1w16">
@@ -195,7 +195,7 @@
 <LM>w#w-lnd92258-106-p2s1w17</LM>
 </w.rf>
 <form>Lomem</form>
-<tag lemma="Lom_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lom_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-106-p2s1w18">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 </w.rf>
 <form>ČTV</form>
 <tag>
-<AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTV-1_:B_;m_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3354,7 +3354,7 @@
 <LM>w#w-lnd92258-106-p4s1w4</LM>
 </w.rf>
 <form>LANÍK</form>
-<tag lemma="Laník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Laník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-106-p4s1w5">
 <src.rf>manual</src.rf>
@@ -4108,8 +4108,8 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Z-33" src="orig">Q3-------------</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-106-p5s4w29">
@@ -5662,7 +5662,7 @@
 <LM>w#w-lnd92258-106-p7s1w4</LM>
 </w.rf>
 <form>ŠEDO</form>
-<tag lemma="Šedo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šedo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-106-p7s1w5">
 <src.rf>manual</src.rf>

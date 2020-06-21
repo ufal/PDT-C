@@ -160,7 +160,7 @@
 <LM>w#w-mf930702-095-p1s2w5</LM>
 </w.rf>
 <form>Vlčkovi</form>
-<tag lemma="Vlček_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Vlček_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930702-095-p1s2w6">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-mf930702-095-p1s2w7</LM>
 </w.rf>
 <form>Mráčkovi</form>
-<tag lemma="Mráček_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Mráček_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930702-095-p1s2w8">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-mf930702-095-p1s2w9</LM>
 </w.rf>
 <form>Krausovi</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf930702-095-p1s2w10">
 <src.rf>manual</src.rf>
@@ -209,11 +209,11 @@
 </w.rf>
 <form>Raškovi</form>
 <tag>
-<AM lemma="Rašek_;S" src="orig">NNMS6-----A----</AM>
-<AM lemma="Raška_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Raška_;S" src="auto" recommended="1" selected="1">NNMS6-----A----</AM>
-<AM lemma="Raškův_;S_^(*2a)" src="auto">AUMP1M---------</AM>
-<AM lemma="Raškův_;S_^(*2a)" src="auto">AUMP5M---------</AM>
+<AM lemma="Rašek_;Y" src="orig">NNMS6-----A----</AM>
+<AM lemma="Raška_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Raška_;Y" src="auto" recommended="1" selected="1">NNMS6-----A----</AM>
+<AM lemma="Raškův_;Y_^(*2a)" src="auto">AUMP1M---------</AM>
+<AM lemma="Raškův_;Y_^(*2a)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-mf930702-095-p1s2w12">
@@ -230,7 +230,7 @@
 <LM>w#w-mf930702-095-p1s2w13</LM>
 </w.rf>
 <form>Štěrbovi</form>
-<tag lemma="Štěrba_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Štěrba_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930702-095-p1s2w14">
 <src.rf>manual</src.rf>

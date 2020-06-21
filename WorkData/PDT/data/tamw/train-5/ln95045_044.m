@@ -69,7 +69,7 @@
 <LM>w#w-ln95045-044-p2s1Aw1</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-044-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95045-044-p2s3w3</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-044-p2s3w4">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln95045-044-p3s1w9</LM>
 </w.rf>
 <form>Vocelka</form>
-<tag lemma="Vocelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vocelka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-044-p3s1w10">
 <src.rf>manual</src.rf>
@@ -694,8 +694,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-044-p3s1w15">
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln95045-044-p3s2w24</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-044-p3s2w25">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <form>Alias</form>
 <tag>
 <AM lemma="alias" src="orig">NNIS1-----A----</AM>
-<AM lemma="Alias_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Alias_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-044-p3s3w8">
@@ -1631,7 +1631,7 @@
 <LM>w#w-ln95045-044-p4s1w9</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-ln95045-044-p4s2w8</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1811,7 +1811,7 @@
 <LM>w#w-ln95045-044-p4s3w2</LM>
 </w.rf>
 <form>Vocelky</form>
-<tag lemma="Vocelka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vocelka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1827,7 +1827,7 @@
 <LM>w#w-ln95045-044-p4s3w4</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 <form>Alias</form>
 <tag>
 <AM lemma="alias" src="orig">NNIS1-----A----</AM>
-<AM lemma="Alias_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Alias_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-044-p4s3w11">
@@ -1936,7 +1936,7 @@
 <LM>w#w-ln95045-044-p4s4w6</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2170,7 +2170,7 @@
 <LM>w#w-ln95045-044-p4s5w9</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s5w10">
 <src.rf>manual</src.rf>
@@ -2412,7 +2412,7 @@
 <LM>w#w-ln95045-044-p4s6w13</LM>
 </w.rf>
 <form>Vocelka</form>
-<tag lemma="Vocelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vocelka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s6w14">
 <src.rf>manual</src.rf>
@@ -2454,7 +2454,7 @@
 <LM>w#w-ln95045-044-p4s7w4</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s7w5">
 <src.rf>manual</src.rf>
@@ -2464,7 +2464,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-044-p4s7w6">
@@ -2481,7 +2481,7 @@
 <LM>w#w-ln95045-044-p4s7w7</LM>
 </w.rf>
 <form>Strapáč</form>
-<tag lemma="Strapáč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Strapáč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s7w8">
 <src.rf>manual</src.rf>
@@ -2654,8 +2654,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-044-p4s9w4">
@@ -2776,7 +2776,7 @@
 <LM>w#w-ln95045-044-p4s9w18</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-044-p4s9w19">
 <src.rf>manual</src.rf>

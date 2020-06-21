@@ -54,11 +54,11 @@
 </w.rf>
 <form>hoj</form>
 <tag>
-<AM lemma="hoj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hoj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="hoj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hoj-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-028-p2s1w4">

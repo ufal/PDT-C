@@ -352,7 +352,7 @@
 <LM>w#w-lnd92252-066-p1s3w1</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-066-p1s3w2">
 <src.rf>manual</src.rf>

@@ -62,8 +62,8 @@
 </w.rf>
 <form>Klaus</form>
 <tag>
-<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s1w3">
@@ -72,7 +72,7 @@
 <LM>w#w-ln95049-142-p2s1w3</LM>
 </w.rf>
 <form>Grosjean</form>
-<tag lemma="Grosjean_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grosjean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-142-p2s1w4">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 </w.rf>
 <form>Management</form>
 <tag>
-<AM lemma="Management_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Management_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto">NNIS4-----A----</AM>
 <AM lemma="management-2_,t" src="manual">NNXXX-----A----</AM>
@@ -186,7 +186,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -954,8 +954,8 @@
 </w.rf>
 <form>Christof</form>
 <tag>
-<AM lemma="Christof_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Christof_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Christof_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Christof_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s7w2">
@@ -964,7 +964,7 @@
 <LM>w#w-ln95049-142-p2s7w2</LM>
 </w.rf>
 <form>Schulte</form>
-<tag lemma="Schulte_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schulte_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-142-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 </w.rf>
 <form>Victoria</form>
 <tag>
-<AM lemma="Victoria_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Victoria_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Victoria-1_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="victoria_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Victoria-1_;Y_,t" src="manual">NNXXX-----A---1</AM>
@@ -1019,7 +1019,7 @@
 </w.rf>
 <form>Publishing</form>
 <tag>
-<AM lemma="Publishing_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Publishing_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="publishing_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Publishing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1740,8 +1740,8 @@
 </w.rf>
 <form>Quelle</form>
 <tag>
-<AM lemma="Quelle_;K_,t_^(něm._zasílatelská_obch._společnost)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Quelle_;K_^(něm._zasílatelská_obch._společnost)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Quelle_;m_,t_^(něm._zasílatelská_obch._společnost)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Quelle_;m_^(něm._zasílatelská_obch._společnost)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s10w21">

@@ -168,7 +168,7 @@
 <LM>w#w-mf930703-146-p2s1w13</LM>
 </w.rf>
 <form>Rahmána</form>
-<tag lemma="Rahmán_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rahmán_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-146-p2s1w14">
 <src.rf>manual</src.rf>
@@ -568,9 +568,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-146-p2s3w13">
@@ -671,7 +671,7 @@
 <LM>w#w-mf930703-146-p2s5w2</LM>
 </w.rf>
 <form>Rahmánovi</form>
-<tag lemma="Rahmán_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Rahmán_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf930703-146-p2s5w3">
 <src.rf>manual</src.rf>
@@ -707,9 +707,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-146-p2s5w7">
@@ -799,8 +799,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-146-p2s5w18">
@@ -874,8 +874,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-146-p2s5w27">
@@ -908,7 +908,7 @@
 <LM>w#w-mf930703-146-p2s5w30</LM>
 </w.rf>
 <form>Mubaraka</form>
-<tag lemma="Mubarak_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mubarak_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-146-p2s5w31">
 <src.rf>manual</src.rf>
@@ -959,8 +959,8 @@
 </w.rf>
 <form>FBI</form>
 <tag>
-<AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
-<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FBI_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1044,7 +1044,7 @@
 <LM>w#w-mf930703-146-p2s7w6</LM>
 </w.rf>
 <form>Rahmánův</form>
-<tag lemma="Rahmánův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Rahmánův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930703-146-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-mf930703-146-p2s8w1</LM>
 </w.rf>
 <form>Rahmán</form>
-<tag lemma="Rahmán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rahmán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-146-p2s8w2">
 <src.rf>manual</src.rf>

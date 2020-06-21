@@ -53,7 +53,7 @@
 <LM>w#w-ln95041-022-p2s1w2</LM>
 </w.rf>
 <form>Nevrlý</form>
-<tag lemma="Nevrlý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nevrlý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-022-p2s1w3">
 <src.rf>manual</src.rf>
@@ -118,7 +118,7 @@
 <LM>w#w-ln95041-022-p2s1w10</LM>
 </w.rf>
 <form>Benešem</form>
-<tag lemma="Beneš_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Beneš_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-022-p2s1w11">
 <src.rf>manual</src.rf>

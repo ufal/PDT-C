@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-104-p1s1Aw1</LM>
 </w.rf>
 <form>Berglund</form>
-<tag lemma="Berglund_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berglund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-104-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -84,7 +84,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Lindmanovi</form>
-<tag lemma="Lindman_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Lindman_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-104-p1s1B">
@@ -104,8 +104,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

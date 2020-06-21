@@ -93,7 +93,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -279,7 +279,7 @@
 </w.rf>
 <form>dos</form>
 <tag>
-<AM lemma="dos_;S_,t" src="orig">RR--X----------</AM>
+<AM lemma="dos_;Y_,t" src="orig">RR--X----------</AM>
 <AM lemma="dos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd92258-057-p3s2w16</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Santos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p3s2w17">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92258-057-p3s2w21</LM>
 </w.rf>
 <form>Jonas</form>
-<tag lemma="Jonas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jonas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p3s2w22">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-lnd92258-057-p3s2w22</LM>
 </w.rf>
 <form>Savimbi</form>
-<tag lemma="Savimbi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Savimbi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p3s2w23">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 </w.rf>
 <form>TSF</form>
 <tag>
-<AM lemma="TSF-2_:B_;K_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TSF-2_:B_;m_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TSF-1_:B_,t_^(télégrephie_sans_fil)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="TSF-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="TSF-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -507,7 +507,7 @@
 </w.rf>
 <form>TSF</form>
 <tag>
-<AM lemma="TSF-2_:B_;K_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TSF-2_:B_;m_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TSF-1_:B_,t_^(télégrephie_sans_fil)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="TSF-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="TSF-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -716,7 +716,7 @@
 </w.rf>
 <form>SABC</form>
 <tag>
-<AM lemma="SABC_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SABC_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SABC-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="SABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -939,7 +939,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -993,7 +993,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1004,7 +1004,7 @@
 <LM>w#w-lnd92258-057-p4s5w5</LM>
 </w.rf>
 <form>Jonase</form>
-<tag lemma="Jonas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jonas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p4s5w6">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-lnd92258-057-p4s5w6</LM>
 </w.rf>
 <form>Savimbiho</form>
-<tag lemma="Savimbi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Savimbi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p4s5w7">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1162,7 +1162,7 @@
 <LM>w#w-lnd92258-057-p4s6w15</LM>
 </w.rf>
 <form>Chitunda</form>
-<tag lemma="Chitunda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chitunda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p4s6w16">
 <src.rf>manual</src.rf>
@@ -1203,7 +1203,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1231,9 +1231,9 @@
 </w.rf>
 <form>Pena</form>
 <tag>
-<AM lemma="Pena_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Pen_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pen_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Pena_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pen_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Pen_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s6w24">
@@ -1285,7 +1285,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1345,9 +1345,9 @@
 </w.rf>
 <form>Pena</form>
 <tag>
-<AM lemma="Pena_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Pen_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Pen_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Pena_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pen_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Pen_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p4s7w13">
@@ -1404,7 +1404,7 @@
 <LM>w#w-lnd92258-057-p4s7w19</LM>
 </w.rf>
 <form>Chivukuvuku</form>
-<tag lemma="Chivukuvuku_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chivukuvuku_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p4s7w20">
 <src.rf>manual</src.rf>
@@ -1495,7 +1495,7 @@
 </w.rf>
 <form>dos</form>
 <tag>
-<AM lemma="dos_;S_,t" src="orig">RR--X----------</AM>
+<AM lemma="dos_;Y_,t" src="orig">RR--X----------</AM>
 <AM lemma="dos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1505,7 +1505,7 @@
 <LM>w#w-lnd92258-057-p5s1w5</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Santos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1545,7 +1545,7 @@
 <LM>w#w-lnd92258-057-p5s1w10</LM>
 </w.rf>
 <form>Jonas</form>
-<tag lemma="Jonas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jonas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <LM>w#w-lnd92258-057-p5s1w11</LM>
 </w.rf>
 <form>Savimbi</form>
-<tag lemma="Savimbi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Savimbi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1756,8 +1756,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p5s2w6">
@@ -1767,8 +1767,8 @@
 </w.rf>
 <form>Butruse</form>
 <tag>
-<AM lemma="Butrus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Butrus_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Butrus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Butrus_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p5s2w7">
@@ -1778,8 +1778,8 @@
 </w.rf>
 <form>Butruse</form>
 <tag>
-<AM lemma="Butrus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Butrus_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Butrus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Butrus_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p5s2w8">
@@ -1796,7 +1796,7 @@
 <LM>w#w-lnd92258-057-p5s2w9</LM>
 </w.rf>
 <form>Ghálího</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ghálí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2522,7 +2522,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2574,7 +2574,7 @@
 </w.rf>
 <form>FMZV</form>
 <tag>
-<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMZV-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2612,7 +2612,7 @@
 </w.rf>
 <form>FMZV</form>
 <tag>
-<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV_:B_;m_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FMZV-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="FMZV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

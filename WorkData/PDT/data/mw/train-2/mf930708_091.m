@@ -1144,7 +1144,7 @@
 <LM>w#w-mf930708-091-p2s10w17</LM>
 </w.rf>
 <form>dolary</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf930708-091-p2s10w18">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-mf930708-091-p2s12w14</LM>
 </w.rf>
 <form>Matuškově</form>
-<tag lemma="Matuškův_;S_^(*3ek)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Matuškův_;Y_^(*3ek)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf930708-091-p2s12w15">
 <src.rf>manual</src.rf>
@@ -1480,8 +1480,8 @@
 <form>Hun</form>
 <tag>
 <AM lemma="Hun_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hun-2_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Hun-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hun-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hun-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-091-p2s13w2">
@@ -2595,7 +2595,7 @@
 <LM>w#w-mf930708-091-p2s22w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-091-p2s22w9">
 <src.rf>manual</src.rf>

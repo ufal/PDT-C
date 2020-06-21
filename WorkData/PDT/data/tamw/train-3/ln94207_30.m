@@ -248,8 +248,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-30-p2s1Bw24">
@@ -690,7 +690,7 @@
 <LM>w#w-ln94207-30-p3s1w4</LM>
 </w.rf>
 <form>Mubarak</form>
-<tag lemma="Mubarak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mubarak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-30-p3s1w5">
 <src.rf>manual</src.rf>

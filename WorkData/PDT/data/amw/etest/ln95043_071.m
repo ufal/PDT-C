@@ -518,7 +518,7 @@
 <LM>w#w-ln95043-071-p3s1w10</LM>
 </w.rf>
 <form>Knapík</form>
-<tag lemma="Knapík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knapík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-071-p3s1w11">
 <src.rf>manual</src.rf>

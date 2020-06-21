@@ -19,7 +19,7 @@
 <LM>w#w-ln94211-126-p1s1w1</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-126-p1s1w2">
 <src.rf>manual</src.rf>
@@ -70,9 +70,9 @@
 </w.rf>
 <form>ce</form>
 <tag>
-<AM lemma="ce-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ce-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ce-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ce-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-126-p2s1Aw4">
@@ -524,7 +524,7 @@
 <LM>w#w-ln94211-126-p2s3w16</LM>
 </w.rf>
 <form>Pivečka</form>
-<tag lemma="Pivečka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pivečka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-126-p2s3w17">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-ln94211-126-p2s5w6</LM>
 </w.rf>
 <form>Bati</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-126-p2s5w7">
 <src.rf>manual</src.rf>

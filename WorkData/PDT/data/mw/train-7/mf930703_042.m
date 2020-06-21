@@ -52,8 +52,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -217,8 +217,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-042-p2s1w21">
@@ -494,8 +494,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-042-p2s2w6">
@@ -635,8 +635,8 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Poldi_;Y_;m" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-042-p2s3w8">
@@ -670,8 +670,8 @@
 </w.rf>
 <form>Elwood</form>
 <tag>
-<AM lemma="Elwood_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Elwood_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Elwood_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Elwood_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Elwood-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -690,7 +690,7 @@
 </w.rf>
 <form>VCC</form>
 <tag>
-<AM lemma="VCC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="VCC_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="VCC_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="VCC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -717,7 +717,7 @@
 <LM>w#w-mf930703-042-p2s3w16</LM>
 </w.rf>
 <form>Inexa</form>
-<tag lemma="Inexa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Inexa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-042-p2s3w17">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 </w.rf>
 <form>Bohemia</form>
 <tag>
-<AM lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Bohemia-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -753,7 +753,7 @@
 </w.rf>
 <form>Art</form>
 <tag>
-<AM lemma="Art-3_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Art-3_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -664,7 +664,7 @@
 <LM>w#w-cmpr9413-050-p5s1w3</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-050-p6s1">
@@ -1683,7 +1683,7 @@
 <LM>w#w-cmpr9413-050-p6s7w34</LM>
 </w.rf>
 <form>Vostatek</form>
-<tag lemma="Vostatek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vostatek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-050-p6s7w35">
 <src.rf>manual</src.rf>
@@ -4612,7 +4612,7 @@
 <LM>w#w-cmpr9413-050-p22s6w20</LM>
 </w.rf>
 <form>Vostatek</form>
-<tag lemma="Vostatek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vostatek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-050-p22s6w21">
 <src.rf>manual</src.rf>

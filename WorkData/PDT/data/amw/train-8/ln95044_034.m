@@ -36,8 +36,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-034-p1s1w4">
@@ -54,7 +54,7 @@
 <LM>w#w-ln95044-034-p1s1w5</LM>
 </w.rf>
 <form>Jágr</form>
-<tag lemma="Jágr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jágr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-034-p1s1w6">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-ln95044-034-p1s1w15</LM>
 </w.rf>
 <form>Haška</form>
-<tag lemma="Hašek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hašek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-034-p1s1w16">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-ln95044-034-p1s1w17</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-2_;K_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95044-034-p1s1w18">
 <src.rf>manual</src.rf>

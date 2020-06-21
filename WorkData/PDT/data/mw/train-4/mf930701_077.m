@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-077-p1s1w1</LM>
 </w.rf>
 <form>Sigma</form>
-<tag lemma="Sigma_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sigma_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-077-p1s1w2">
 <src.rf>manual</src.rf>
@@ -28,7 +28,7 @@
 </w.rf>
 <form>MŽ</form>
 <tag>
-<AM lemma="MŽ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MŽ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -73,8 +73,8 @@
 </w.rf>
 <form>jsl</form>
 <tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s1w4">
@@ -147,7 +147,7 @@
 <LM>w#w-mf930701-077-p2s1w12</LM>
 </w.rf>
 <form>Interpoháru</form>
-<tag lemma="Interpohár_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Interpohár_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-077-p2s1w13">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-mf930701-077-p2s2w7</LM>
 </w.rf>
 <form>Otelul</form>
-<tag lemma="Otelul_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Otelul_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-077-p2s2w8">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 </w.rf>
 <form>Galati</form>
 <tag>
-<AM lemma="Galati_;K" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Galati_;m" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Galat_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Galat_;E" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -484,7 +484,7 @@
 <LM>w#w-mf930701-077-p2s3w14</LM>
 </w.rf>
 <form>Interpohár</form>
-<tag lemma="Interpohár_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Interpohár_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930701-077-p2s3w15">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-mf930701-077-p2s5w21</LM>
 </w.rf>
 <form>Brückner</form>
-<tag lemma="Brückner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brückner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-077-p2s5w22">
 <src.rf>manual</src.rf>

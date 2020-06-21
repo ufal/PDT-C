@@ -326,7 +326,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-118-p2s2w7">
@@ -343,7 +343,7 @@
 <LM>w#w-ln95045-118-p2s2w8</LM>
 </w.rf>
 <form>Syrová</form>
-<tag lemma="Syrová_;S_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Syrová_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-118-p2s2w9">
 <src.rf>manual</src.rf>
@@ -895,7 +895,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-118-p4s1w19">
@@ -912,7 +912,7 @@
 <LM>w#w-ln95045-118-p4s1w20</LM>
 </w.rf>
 <form>Syrová</form>
-<tag lemma="Syrová_;S_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Syrová_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-118-p4s1w21">
 <src.rf>manual</src.rf>

@@ -62,7 +62,7 @@
 <LM>w#w-mf930708-015-p1s1w6</LM>
 </w.rf>
 <form>Krupauer</form>
-<tag lemma="Krupauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krupauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-015-p1s1w7">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-mf920902-009-p1s1Aw6</LM>
 </w.rf>
 <form>tnt</form>
-<tag lemma="tnt-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="tnt-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920902-009-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-mf920902-009-p1s2w18</LM>
 </w.rf>
 <form>Neuwirt</form>
-<tag lemma="Neuwirt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neuwirt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-009-p1s2w19">
 <src.rf>manual</src.rf>

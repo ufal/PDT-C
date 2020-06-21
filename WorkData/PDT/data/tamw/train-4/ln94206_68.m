@@ -20,9 +20,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-68-p1s1w2">
@@ -83,7 +83,7 @@
 <form>Buenos</form>
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -162,7 +162,7 @@
 <LM>w#w-ln94206-68-p2s1Bw7</LM>
 </w.rf>
 <form>Cédrase</form>
-<tag lemma="Cédras_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cédras_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-68-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -309,9 +309,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-68-p2s2w9">
@@ -321,7 +321,7 @@
 </w.rf>
 <form>Strobe</form>
 <tag>
-<AM lemma="Strobe_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -331,7 +331,7 @@
 <LM>w#w-ln94206-68-p2s2w10</LM>
 </w.rf>
 <form>Talbott</form>
-<tag lemma="Talbott_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talbott_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-68-p2s2w11">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-ln94206-68-p2s3w7</LM>
 </w.rf>
 <form>Deutch</form>
-<tag lemma="Deutch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Deutch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-68-p2s3w8">
 <src.rf>manual</src.rf>
@@ -558,9 +558,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-68-p2s3w28">
@@ -753,9 +753,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-68-p2s6w2">
@@ -889,7 +889,7 @@
 <LM>w#w-ln94206-68-p2s7w5</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-68-p2s7w6">
 <src.rf>manual</src.rf>

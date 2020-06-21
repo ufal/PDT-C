@@ -142,7 +142,7 @@
 <LM>w#w-mf930702-117-p2s1w11</LM>
 </w.rf>
 <form>Rifkina</form>
-<tag lemma="Rifkin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rifkin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-117-p2s1w12">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-mf930702-117-p3s1w8</LM>
 </w.rf>
 <form>Rifkin</form>
-<tag lemma="Rifkin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rifkin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-117-p3s1w9">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-mf930702-117-p4s2w6</LM>
 </w.rf>
 <form>Rifkin</form>
-<tag lemma="Rifkin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rifkin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-117-p4s2w7">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-mf930702-117-p5s1w12</LM>
 </w.rf>
 <form>Rifkin</form>
-<tag lemma="Rifkin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rifkin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-117-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-mf930702-117-p5s3w19</LM>
 </w.rf>
 <form>Rifkin</form>
-<tag lemma="Rifkin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rifkin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-117-p5s3w20">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 <LM>w#w-mf930702-117-p6s1w1</LM>
 </w.rf>
 <form>Rifkin</form>
-<tag lemma="Rifkin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rifkin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-117-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 </w.rf>
 <form>Sale</form>
 <tag>
-<AM lemma="Sale-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sale-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Sal-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Sala_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Sala_;G" src="auto">NNFS6-----A----</AM>
@@ -1830,7 +1830,7 @@
 <LM>w#w-mf930702-117-p6s3w9</LM>
 </w.rf>
 <form>Rifkina</form>
-<tag lemma="Rifkin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rifkin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-117-p6s3w10">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <form>hop</form>
 <tag>
 <AM lemma="hop-1" src="auto">TT-------------</AM>
-<AM lemma="hop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s1w4">
@@ -370,8 +370,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s2w35">
@@ -398,7 +398,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s2w38">
@@ -417,7 +417,7 @@
 <form>Polák</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s2w40">
@@ -987,8 +987,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s6w10">
@@ -999,8 +999,8 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual">Q3-------------</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s6w11">
@@ -1017,7 +1017,7 @@
 <LM>w#w-lnd92253-025-p2s6w12</LM>
 </w.rf>
 <form>Votava</form>
-<tag lemma="Votava_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Votava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-025-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <tag>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="být_:B_^(jen_ve_spojení_t._j.,_to_jest)" src="auto">VB-S---3P-AA--8</AM>
-<AM lemma="j-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="j-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="jako-1_:B" src="auto">J,------------8</AM>
 <AM lemma="jiný" src="manual">AAXXX----1A---8</AM>

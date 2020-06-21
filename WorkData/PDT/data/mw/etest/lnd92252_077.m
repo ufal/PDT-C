@@ -19,7 +19,7 @@
 <LM>w#w-lnd92252-077-p1s1w1</LM>
 </w.rf>
 <form>SPARTU</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92252-077-p1s1w2">
 <src.rf>manual</src.rf>
@@ -102,7 +102,7 @@
 <LM>w#w-lnd92252-077-p1s2w2</LM>
 </w.rf>
 <form>Dukly</form>
-<tag lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dukla_;G_;m_^(sport._klub;;průsmyk)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-077-p1s2w3">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-lnd92252-077-p1s2w3</LM>
 </w.rf>
 <form>Mihok</form>
-<tag lemma="Mihok_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mihok_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-077-p1s2w4">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-lnd92252-077-p1s2w13</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-077-p1s2w14">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-lnd92252-077-p1s3w7</LM>
 </w.rf>
 <form>Dvirnik</form>
-<tag lemma="Dvirnik_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dvirnik_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-077-p1s3w8">
 <src.rf>manual</src.rf>
@@ -359,9 +359,9 @@
 </w.rf>
 <form>Ln</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ln_:B_^(přirozený_logaritmus)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-077-p2s1w3">
@@ -388,7 +388,7 @@
 <LM>w#w-lnd92252-077-p2s2w2</LM>
 </w.rf>
 <form>Mihaliček</form>
-<tag lemma="Mihaliček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mihaliček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

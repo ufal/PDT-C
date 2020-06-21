@@ -720,7 +720,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1333,7 +1333,7 @@
 </w.rf>
 <form>Colombo</form>
 <tag>
-<AM lemma="Colombo-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Colombo-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Colomba-1_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Colombo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Colombo_;G" src="auto">NNNS4-----A----</AM>

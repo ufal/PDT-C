@@ -887,7 +887,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-165-p3s1w13">
@@ -904,7 +904,7 @@
 <LM>w#w-mf930701-165-p3s1w14</LM>
 </w.rf>
 <form>Bachmeiera</form>
-<tag lemma="Bachmeier_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bachmeier_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-165-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1272,7 +1272,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1301,7 +1301,7 @@
 <LM>w#w-mf930701-165-p4s1w19</LM>
 </w.rf>
 <form>Berníkové</form>
-<tag lemma="Berníková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Berníková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-165-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1795,7 +1795,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-165-p5s1w4">
@@ -1812,7 +1812,7 @@
 <LM>w#w-mf930701-165-p5s1w5</LM>
 </w.rf>
 <form>Berníková</form>
-<tag lemma="Berníková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Berníková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-165-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2183,7 +2183,7 @@
 <LM>w#w-mf930701-165-p6s1w9</LM>
 </w.rf>
 <form>Tuchyni</form>
-<tag lemma="Tuchyňa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tuchyňa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-165-p6s1w10">
 <src.rf>manual</src.rf>

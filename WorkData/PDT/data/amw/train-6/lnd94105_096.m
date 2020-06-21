@@ -43,7 +43,7 @@
 <LM>w#w-lnd94105-096-p1s1w4</LM>
 </w.rf>
 <form>Aero</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94105-096-p1s2">
@@ -77,7 +77,7 @@
 <LM>w#w-lnd94105-096-p1s2w4</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ma-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94105-096-p1s2w5">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-lnd94105-096-p1s3w14</LM>
 </w.rf>
 <form>Aera</form>
-<tag lemma="Aero_;K_^(letecká_továrna)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="Aero_;m_^(letecká_továrna)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94105-096-p1s3w15">
 <src.rf>manual</src.rf>

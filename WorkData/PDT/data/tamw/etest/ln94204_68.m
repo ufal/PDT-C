@@ -73,8 +73,8 @@
 </w.rf>
 <form>vet</form>
 <tag>
-<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vet-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-68-p2s1Aw4">
@@ -327,7 +327,7 @@
 <LM>w#w-ln94204-68-p2s2w20</LM>
 </w.rf>
 <form>Rolex</form>
-<tag lemma="Rolex_;K_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rolex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-68-p2s2w21">
 <src.rf>manual</src.rf>

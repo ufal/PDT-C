@@ -21,9 +21,9 @@
 <form>Talichovci</form>
 <tag>
 <AM lemma="Talichovec_;m" src="orig">NNMP1-----A----</AM>
-<AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
-<AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto">NNMP5-----A----</AM>
-<AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto">NNMP7-----A----</AM>
+<AM lemma="Talichovci_;m_^(hudební_skupina)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
+<AM lemma="Talichovci_;m_^(hudební_skupina)" src="auto">NNMP5-----A----</AM>
+<AM lemma="Talichovci_;m_^(hudební_skupina)" src="auto">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-72-p1s1w2">
@@ -84,7 +84,7 @@
 <LM>w#w-ln94209-72-p2s1Bw4</LM>
 </w.rf>
 <form>Talich</form>
-<tag lemma="Talich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-72-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <LM>w#w-ln94209-72-p2s2w2</LM>
 </w.rf>
 <form>Talich</form>
-<tag lemma="Talich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-72-p2s2w3">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-ln94209-72-p2s2w11</LM>
 </w.rf>
 <form>Toscanini</form>
-<tag lemma="Toscanini_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Toscanini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-72-p2s2w12">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94209-72-p2s2w20</LM>
 </w.rf>
 <form>Talich</form>
-<tag lemma="Talich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-72-p2s2w21">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-ln94209-72-p2s2w24</LM>
 </w.rf>
 <form>Talichovo</form>
-<tag lemma="Talichův_;S_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Talichův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln94209-72-p2s2w25">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln94209-72-p2s2w31</LM>
 </w.rf>
 <form>Talich</form>
-<tag lemma="Talich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-72-p2s2w32">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln94209-72-p2s2w39</LM>
 </w.rf>
 <form>Talichova</form>
-<tag lemma="Talichův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Talichův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94209-72-p2s2w40">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <form>Talichovce</form>
 <tag>
 <AM lemma="Talichovec_;m" src="orig">NNMP4-----A----</AM>
-<AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
+<AM lemma="Talichovci_;m_^(hudební_skupina)" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-72-p3s1w15">
@@ -727,8 +727,8 @@
 </w.rf>
 <form>G</form>
 <tag>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="G-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="G-33" src="orig">Q3-------------</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-72-p3s2w6">
@@ -785,7 +785,7 @@
 <LM>w#w-ln94209-72-p3s2w12</LM>
 </w.rf>
 <form>Stamice</form>
-<tag lemma="Stamic_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stamic_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-72-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-ln94209-72-p3s5w2</LM>
 </w.rf>
 <form>Mozartově</form>
-<tag lemma="Mozartův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Mozartův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94209-72-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1274,7 +1274,7 @@
 <LM>w#w-ln94209-72-p3s5w25</LM>
 </w.rf>
 <form>Mozart</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-72-p3s5w26">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-ln94209-72-p3s6w2</LM>
 </w.rf>
 <form>Talich</form>
-<tag lemma="Talich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Talich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-72-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-ln94209-72-p3s7w22</LM>
 </w.rf>
 <form>Vivaldiho</form>
-<tag lemma="Vivaldi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vivaldi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-72-p3s7w23">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-ln94209-72-p3s8w5</LM>
 </w.rf>
 <form>Dvořákova</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94209-72-p3s8w6">
 <src.rf>manual</src.rf>
@@ -1783,8 +1783,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="E-33" src="orig">Q3-------------</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-72-p3s8w8">
@@ -2003,7 +2003,7 @@
 <LM>w#w-ln94209-72-p3s9Aw2</LM>
 </w.rf>
 <form>Stehlík</form>
-<tag lemma="Stehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-72-p3s9B">
@@ -2037,7 +2037,7 @@
 <LM>w#w-ln94209-72-p3s9Bw4</LM>
 </w.rf>
 <form>Talichův</form>
-<tag lemma="Talichův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Talichův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94209-72-p3s9Bw5">
 <src.rf>manual</src.rf>

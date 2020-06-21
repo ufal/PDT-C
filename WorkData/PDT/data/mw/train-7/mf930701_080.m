@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-080-p1s1w1</LM>
 </w.rf>
 <form>Košťál</form>
-<tag lemma="Košťál_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Košťál_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-080-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-080-p1s1w3</LM>
 </w.rf>
 <form>Ondrejičky</form>
-<tag lemma="Ondrejička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ondrejička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-080-p1s2">
@@ -148,8 +148,8 @@
 </w.rf>
 <form>jsl</form>
 <tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-080-p2s1w4">
@@ -323,7 +323,7 @@
 <LM>w#w-mf930701-080-p2s2w8</LM>
 </w.rf>
 <form>Interpoháru</form>
-<tag lemma="Interpohár_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Interpohár_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930701-080-p2s2w9">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -383,7 +383,7 @@
 </w.rf>
 <form>ETTU</form>
 <tag>
-<AM lemma="ETTU-1_:B_;K_,t_^(European_Table_Tennis_Union)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ETTU-1_:B_;m_,t_^(European_Table_Tennis_Union)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ETTU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -532,7 +532,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -728,7 +728,7 @@
 <LM>w#w-mf930701-080-p2s4w20</LM>
 </w.rf>
 <form>Baník</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-080-p2s4w21">
 <src.rf>manual</src.rf>
@@ -771,8 +771,8 @@
 </w.rf>
 <form>NH</form>
 <tag>
-<AM lemma="NH_:B_;K_^(Nová_Huť)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NH_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NH_:B_;m_^(Nová_Huť)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NH_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="NH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1003,7 +1003,7 @@
 <LM>w#w-mf930701-080-p3s1w13</LM>
 </w.rf>
 <form>Košťál</form>
-<tag lemma="Košťál_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Košťál_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-080-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-mf930701-080-p3s1w22</LM>
 </w.rf>
 <form>Bajger</form>
-<tag lemma="Bajger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bajger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-080-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-mf930701-080-p3s2w12</LM>
 </w.rf>
 <form>Ondrejička</form>
-<tag lemma="Ondrejička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ondrejička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-080-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1573,8 +1573,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-080-p3s4w16">
@@ -1844,7 +1844,7 @@
 <LM>w#w-mf930701-080-p3s5w26</LM>
 </w.rf>
 <form>Bajger</form>
-<tag lemma="Bajger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bajger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-080-p3s5w27">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-mf930701-080-p3s6w1</LM>
 </w.rf>
 <form>Košťál</form>
-<tag lemma="Košťál_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Košťál_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-080-p3s6w2">
 <src.rf>manual</src.rf>

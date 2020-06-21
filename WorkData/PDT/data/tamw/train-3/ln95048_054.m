@@ -73,7 +73,7 @@
 </w.rf>
 <form>NLN</form>
 <tag>
-<AM lemma="NLN-1_:B_^(Nedělní_LN)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="NLN-1_:B_^(Nedělní_LN)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -883,7 +883,7 @@
 <LM>w#w-ln95048-054-p2s5w5</LM>
 </w.rf>
 <form>Berková</form>
-<tag lemma="Berková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Berková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-054-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-ln95048-054-p3s1w8</LM>
 </w.rf>
 <form>Berkovou</form>
-<tag lemma="Berková_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Berková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95048-054-p3s1w9">
 <src.rf>manual</src.rf>
@@ -2204,7 +2204,7 @@
 <LM>w#w-ln95048-054-p3s4w8</LM>
 </w.rf>
 <form>Berková</form>
-<tag lemma="Berková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Berková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-054-p3s4w9">
 <src.rf>manual</src.rf>

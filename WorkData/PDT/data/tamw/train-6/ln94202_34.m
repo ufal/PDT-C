@@ -134,10 +134,10 @@
 </w.rf>
 <form>pech</form>
 <tag>
-<AM lemma="pech-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pech-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
-<AM lemma="pech-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pech-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p2s1Aw4">
@@ -213,8 +213,8 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p2s1Bw8">
@@ -430,7 +430,7 @@
 <LM>w#w-ln94202-34-p3s1w6</LM>
 </w.rf>
 <form>Brůčkové</form>
-<tag lemma="Brůčková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Brůčková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-34-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p4s3w19">
@@ -1136,7 +1136,7 @@
 <LM>w#w-ln94202-34-p4s3w20</LM>
 </w.rf>
 <form>Brůčková</form>
-<tag lemma="Brůčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Brůčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-34-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1498,8 +1498,8 @@
 </w.rf>
 <form>AZT</form>
 <tag>
-<AM lemma="azidotymidin_:B_;H" src="auto">NNIXX-----A---8</AM>
-<AM lemma="azidotymidin_;H" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="azidotymidin_:B_;U" src="auto">NNIXX-----A---8</AM>
+<AM lemma="azidotymidin_;U" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p5s2w8">
@@ -1616,7 +1616,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-34-p5s3w3">
@@ -1633,7 +1633,7 @@
 <LM>w#w-ln94202-34-p5s3w4</LM>
 </w.rf>
 <form>Brůčkové</form>
-<tag lemma="Brůčková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Brůčková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-34-p5s3w5">
 <src.rf>manual</src.rf>

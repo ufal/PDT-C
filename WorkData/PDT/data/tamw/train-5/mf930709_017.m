@@ -73,8 +73,8 @@
 </w.rf>
 <form>ouš</form>
 <tag>
-<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ouš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-017-p2s1Aw4">
@@ -466,7 +466,7 @@
 <LM>w#w-mf930709-017-p2s4w6</LM>
 </w.rf>
 <form>Trpišovského</form>
-<tag lemma="Trpišovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Trpišovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-017-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-mf930709-017-p4s4w3</LM>
 </w.rf>
 <form>Trpišovského</form>
-<tag lemma="Trpišovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Trpišovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-017-p4s4w4">
 <src.rf>manual</src.rf>

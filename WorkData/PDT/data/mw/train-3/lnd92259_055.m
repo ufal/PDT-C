@@ -91,8 +91,8 @@
 </w.rf>
 <form>Együttélés</form>
 <tag>
-<AM lemma="Együttélés_;K_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Együttélés_;K_;p_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Együttélés_;m_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Együttélés_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Együttélés-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

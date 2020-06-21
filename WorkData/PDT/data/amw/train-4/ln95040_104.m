@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-104-p1s1w1</LM>
 </w.rf>
 <form>Gaensel</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-104-p1s1w2">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln95040-104-p2s1Bw5</LM>
 </w.rf>
 <form>Gaensel</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-104-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln95040-104-p2s2w16</LM>
 </w.rf>
 <form>Gaenselem</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-104-p2s2w17">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln95040-104-p3s1w8</LM>
 </w.rf>
 <form>Gaenselem</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-104-p3s1w9">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-ln95040-104-p3s1w13</LM>
 </w.rf>
 <form>Gaensel</form>
-<tag lemma="Gaensel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gaensel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-104-p3s1w14">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-ln95040-104-p3s3w1</LM>
 </w.rf>
 <form>Gaenselův</form>
-<tag lemma="Gaenselův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Gaenselův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln95040-104-p3s3w2">
 <src.rf>manual</src.rf>

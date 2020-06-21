@@ -44,8 +44,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p1s1w5">
@@ -80,7 +80,7 @@
 <LM>w#w-mf920924-119-p2s1w3</LM>
 </w.rf>
 <form>ben</form>
-<tag lemma="ben-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ben-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920924-119-p2s1w4">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-mf920924-119-p2s2w7</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s2w8">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-mf920924-119-p2s2w8</LM>
 </w.rf>
 <form>Žantovský</form>
-<tag lemma="Žantovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žantovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s2w9">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -294,8 +294,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s2w25">
@@ -475,8 +475,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s3w20">
@@ -921,7 +921,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s6w10">
@@ -938,7 +938,7 @@
 <LM>w#w-mf920924-119-p2s6w11</LM>
 </w.rf>
 <form>Žantovský</form>
-<tag lemma="Žantovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žantovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1003,8 +1003,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s6w20">
@@ -1031,7 +1031,7 @@
 <LM>w#w-mf920924-119-p2s7w2</LM>
 </w.rf>
 <form>Žantovský</form>
-<tag lemma="Žantovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žantovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1120,8 +1120,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s7w14">
@@ -1174,7 +1174,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s8w2">
@@ -1191,7 +1191,7 @@
 <LM>w#w-mf920924-119-p2s8w3</LM>
 </w.rf>
 <form>Žantovský</form>
-<tag lemma="Žantovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žantovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-mf920924-119-p2s9w1</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1441,7 +1441,7 @@
 <LM>w#w-mf920924-119-p2s9w2</LM>
 </w.rf>
 <form>Žantovský</form>
-<tag lemma="Žantovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žantovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <LM>w#w-mf920924-119-p2s9w10</LM>
 </w.rf>
 <form>Klímové</form>
-<tag lemma="Klímová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Klímová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-mf920924-119-p2s10w8</LM>
 </w.rf>
 <form>Michaela</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1590,7 +1590,7 @@
 <LM>w#w-mf920924-119-p2s10w9</LM>
 </w.rf>
 <form>Žantovského</form>
-<tag lemma="Žantovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Žantovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s10w10">
 <src.rf>manual</src.rf>
@@ -1615,8 +1615,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s10w13">
@@ -1641,7 +1641,7 @@
 <LM>w#w-mf920924-119-p2s10w15</LM>
 </w.rf>
 <form>Sviták</form>
-<tag lemma="Sviták_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sviták_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s10w16">
 <src.rf>manual</src.rf>
@@ -1658,7 +1658,7 @@
 </w.rf>
 <form>LB</form>
 <tag>
-<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-1_:B_;m_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="LB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1744,7 +1744,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-119-p2s11w9">
@@ -1761,7 +1761,7 @@
 <LM>w#w-mf920924-119-p2s11w10</LM>
 </w.rf>
 <form>Žantovského</form>
-<tag lemma="Žantovský_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Žantovský_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920924-119-p2s11w11">
 <src.rf>manual</src.rf>

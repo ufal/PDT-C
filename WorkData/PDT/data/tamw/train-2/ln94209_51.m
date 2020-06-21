@@ -19,7 +19,7 @@
 <LM>w#w-ln94209-51-p1s1w1</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-51-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +27,7 @@
 <LM>w#w-ln94209-51-p1s1w2</LM>
 </w.rf>
 <form>Jackson</form>
-<tag lemma="Jackson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jackson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-51-p1s1w3">
 <src.rf>manual</src.rf>
@@ -72,7 +72,7 @@
 <LM>w#w-ln94209-51-p2s1w3</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-51-p2s1w4">
 <src.rf>manual</src.rf>
@@ -80,7 +80,7 @@
 <LM>w#w-ln94209-51-p2s1w4</LM>
 </w.rf>
 <form>Jackson</form>
-<tag lemma="Jackson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jackson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-51-p2s1w5">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-ln94209-51-p2s1w11</LM>
 </w.rf>
 <form>Presleyovou</form>
-<tag lemma="Presleyová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Presleyová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94209-51-p2s1w12">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 </w.rf>
 <form>popmusic</form>
 <tag>
-<AM lemma="popmusic_;u_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="popmusic_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="popmusic" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -452,7 +452,7 @@
 <LM>w#w-ln94209-51-p3s1w8</LM>
 </w.rf>
 <form>Nice</form>
-<tag lemma="Nice_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Nice_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-51-p3s1w9">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-ln94209-51-p3s2w1</LM>
 </w.rf>
 <form>Jackson</form>
-<tag lemma="Jackson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jackson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-51-p3s2w2">
 <src.rf>manual</src.rf>

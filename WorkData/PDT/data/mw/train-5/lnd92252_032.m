@@ -663,7 +663,7 @@
 </w.rf>
 <form>Atrium</form>
 <tag>
-<AM lemma="Atrium_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Atrium_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="atrium" src="auto">NNNP3-----A---6</AM>
 <AM lemma="atrium" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="atrium" src="auto">NNNS4-----A----</AM>
@@ -907,7 +907,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-032-p4s1w22">
@@ -924,7 +924,7 @@
 <LM>w#w-lnd92252-032-p4s1w23</LM>
 </w.rf>
 <form>Poláček</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-032-p4s1w24">
 <src.rf>manual</src.rf>
@@ -2854,7 +2854,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-032-p5s8w11">
@@ -2871,7 +2871,7 @@
 <LM>w#w-lnd92252-032-p5s8w12</LM>
 </w.rf>
 <form>Poláček</form>
-<tag lemma="Poláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Poláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-032-p5s8w13">
 <src.rf>manual</src.rf>
@@ -3051,7 +3051,7 @@
 <form>ria</form>
 <tag>
 <AM lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig">NNFS1-----A----</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-032-p6s1w3">

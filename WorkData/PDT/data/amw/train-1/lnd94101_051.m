@@ -86,7 +86,7 @@
 <LM>w#w-lnd94101-051-p1s2w3</LM>
 </w.rf>
 <form>če</form>
-<tag lemma="če-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="če-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94101-051-p1s2w4">
 <src.rf>manual</src.rf>

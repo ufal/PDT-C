@@ -28,7 +28,7 @@
 </w.rf>
 <form>PEN</form>
 <tag>
-<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN_:B_;m_^(klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -113,7 +113,7 @@
 </w.rf>
 <form>PEN</form>
 <tag>
-<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN_:B_;m_^(klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -454,7 +454,7 @@
 </w.rf>
 <form>PEN</form>
 <tag>
-<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN_:B_;m_^(klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -587,7 +587,7 @@
 </w.rf>
 <form>PEN</form>
 <tag>
-<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN_:B_;m_^(klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -675,10 +675,10 @@
 <AM lemma="Gan_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Gan_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Gan_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Gana_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Gana_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Gana_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Gany_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Gana_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Gana_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Gana_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Gany_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-052-p3s1w17">
@@ -696,7 +696,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -764,9 +764,9 @@
 </w.rf>
 <form>Louvre</form>
 <tag>
-<AM lemma="Louvre_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Louvre_;G" src="auto" recommended="1">NNISX-----A----</AM>
-<AM lemma="Louvre-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Louvre_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Louvre_;G" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Louvre-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-052-p3s1w27">
@@ -927,7 +927,7 @@
 <LM>w#w-ln95041-052-p3s1w46</LM>
 </w.rf>
 <form>Stránský</form>
-<tag lemma="Stránský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stránský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-052-p3s1w47">
 <src.rf>manual</src.rf>
@@ -994,7 +994,7 @@
 </w.rf>
 <form>PEN</form>
 <tag>
-<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN_:B_;m_^(klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1028,7 +1028,7 @@
 <LM>w#w-ln95041-052-p3s2w11</LM>
 </w.rf>
 <form>Stránského</form>
-<tag lemma="Stránský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stránský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-052-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-ln95041-052-p3s3w1</LM>
 </w.rf>
 <form>Stránský</form>
-<tag lemma="Stránský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stránský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-052-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 </w.rf>
 <form>PEN</form>
 <tag>
-<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN_:B_;m_^(klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1504,7 +1504,7 @@
 </w.rf>
 <form>PEN</form>
 <tag>
-<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN_:B_;m_^(klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

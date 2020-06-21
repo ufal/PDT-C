@@ -35,7 +35,7 @@
 <LM>w#w-ln94205-128-p1s1Aw3</LM>
 </w.rf>
 <form>Hartmannem</form>
-<tag lemma="Hartmann_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hartmann_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-128-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <LM>w#w-ln94205-128-p1s1Aw19</LM>
 </w.rf>
 <form>Alinč</form>
-<tag lemma="Alinč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Alinč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-128-p1s1Aw20">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Kledrowetzem</form>
-<tag lemma="Kledrowetz_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kledrowetz_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-128-p1s1B">
@@ -219,8 +219,8 @@
 </w.rf>
 <form>ČTK</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

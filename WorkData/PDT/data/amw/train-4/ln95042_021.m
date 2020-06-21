@@ -28,7 +28,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>NÁDVORNÍKOVÁ</form>
-<tag lemma="Nádvorníková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nádvorníková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s1w3">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-ln95042-021-p1s2w2</LM>
 </w.rf>
 <form>Palackého</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s2w3">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <form>Odeon</form>
 <tag>
 <AM lemma="Odeon_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Odeon-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-021-p1s4w10">
@@ -959,7 +959,7 @@
 <LM>w#w-ln95042-021-p1s5w23</LM>
 </w.rf>
 <form>Votobia</form>
-<tag lemma="Votobia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Votobia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95042-021-p1s5w24">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-ln95042-021-p1s5w39</LM>
 </w.rf>
 <form>Analogon</form>
-<tag lemma="Analogon_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Analogon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s5w40">
 <src.rf>manual</src.rf>

@@ -2389,12 +2389,12 @@
 <form>Soláni</form>
 <tag>
 <AM lemma="Soláň_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Soláň_;S" src="auto">NNMP1-----A---1</AM>
-<AM lemma="Soláň_;S" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Soláň_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Soláň_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Soláň_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Soláň_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Soláň_;Y" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Soláň_;Y" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Soláň_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Soláň_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Soláň_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Soláň_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 <AM lemma="Soláň-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -2567,7 +2567,7 @@
 </w.rf>
 <form>Grúň</form>
 <tag>
-<AM lemma="Grúň_;G_;S" src="orig">NNXSX-----A----</AM>
+<AM lemma="Grúň_;G_;Y" src="orig">NNXXX-----A----</AM>
 <AM lemma="Grúň_;G" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Grúň_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="grúň_,n" src="auto">NNIS1-----A----</AM>
@@ -2710,7 +2710,7 @@
 <LM>w#w-mf930708-087-p8s2w2</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="lík-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-087-p8s2w3">
 <src.rf>manual</src.rf>

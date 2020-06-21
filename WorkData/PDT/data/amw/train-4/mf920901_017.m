@@ -99,7 +99,7 @@
 <LM>w#w-mf920901-017-p1s1w11</LM>
 </w.rf>
 <form>ROSEMOUNT</form>
-<tag lemma="Rosemount_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rosemount_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-017-p1s1w12">
 <src.rf>manual</src.rf>

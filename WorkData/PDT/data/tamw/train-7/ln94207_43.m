@@ -84,10 +84,10 @@
 </w.rf>
 <form>ad</form>
 <tag>
-<AM lemma="ad-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ad-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-43-p2s1Aw5">
@@ -154,7 +154,7 @@
 <LM>w#w-ln94207-43-p2s1Bw6</LM>
 </w.rf>
 <form>Garrisonová</form>
-<tag lemma="Garrisonová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Garrisonová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-43-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -403,7 +403,7 @@
 <LM>w#w-ln94207-43-p2s2w7</LM>
 </w.rf>
 <form>Suarezovou</form>
-<tag lemma="Suarezová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Suarezová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-43-p2s2w8">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-ln94207-43-p2s6w4</LM>
 </w.rf>
 <form>Cacicová</form>
-<tag lemma="Cacicová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cacicová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-43-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1099,7 +1099,7 @@
 <LM>w#w-ln94207-43-p2s7w18</LM>
 </w.rf>
 <form>Garrisonová</form>
-<tag lemma="Garrisonová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Garrisonová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-43-p2s7w19">
 <src.rf>manual</src.rf>

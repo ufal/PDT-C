@@ -27,7 +27,7 @@
 <LM>w#w-ln95049-047-p1s1w2</LM>
 </w.rf>
 <form>Louganisova</form>
-<tag lemma="Louganisův_;S_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Louganisův_;Y_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-ln95049-047-p1s1w3">
 <src.rf>manual</src.rf>
@@ -55,8 +55,8 @@
 <form>Lauderdale</form>
 <tag>
 <AM lemma="Lauderdale_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Lauderdale_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lauderdale_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Lauderdale_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lauderdale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lauderdale_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Lauderdale_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -86,7 +86,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
 <AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -104,7 +104,7 @@
 <LM>w#w-ln95049-047-p2s1Bw4</LM>
 </w.rf>
 <form>Brien</form>
-<tag lemma="Brien_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brien_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-ln95049-047-p2s1Bw11</LM>
 </w.rf>
 <form>Louganise</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -225,9 +225,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw20">
@@ -245,7 +245,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-2_:B_^(Olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95049-047-p2s1Bw26</LM>
 </w.rf>
 <form>Pufferovi</form>
-<tag lemma="Puffer_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Puffer_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln95049-047-p2s2w1</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-047-p2s2w2">
 <src.rf>manual</src.rf>
@@ -482,9 +482,9 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s2w16">
@@ -509,7 +509,7 @@
 <LM>w#w-ln95049-047-p2s2w18</LM>
 </w.rf>
 <form>Puffer</form>
-<tag lemma="Puffer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Puffer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-047-p2s2w19">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-2_:B_^(Olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -594,7 +594,7 @@
 <LM>w#w-ln95049-047-p2s3w1</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-047-p2s3w2">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
 <AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -695,7 +695,7 @@
 <LM>w#w-ln95049-047-p3s1w3</LM>
 </w.rf>
 <form>Brien</form>
-<tag lemma="Brien_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brien_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-047-p3s1w4">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <LM>w#w-ln95049-047-p3s1w6</LM>
 </w.rf>
 <form>Louganise</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-047-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-ln95049-047-p3s3w6</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-047-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-ln95049-047-p4s1w10</LM>
 </w.rf>
 <form>Louganise</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-047-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-ln95049-047-p4s1w14</LM>
 </w.rf>
 <form>Pufferovi</form>
-<tag lemma="Puffer_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Puffer_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-047-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1417,7 +1417,7 @@
 <LM>w#w-ln95049-047-p4s2w2</LM>
 </w.rf>
 <form>Louganis</form>
-<tag lemma="Louganis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Louganis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-047-p4s2w3">
 <src.rf>manual</src.rf>

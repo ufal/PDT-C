@@ -332,7 +332,7 @@
 <LM>w#w-ln95048-087-p2s2w3</LM>
 </w.rf>
 <form>Klatovský</form>
-<tag lemma="Klatovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klatovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s2w4">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-ln95048-087-p2s2w6</LM>
 </w.rf>
 <form>Franc</form>
-<tag lemma="Franc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s2w7">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 </w.rf>
 <form>Grand</form>
 <tag>
-<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-1_;m_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -392,7 +392,7 @@
 </w.rf>
 <form>Prix</form>
 <tag>
-<AM lemma="Prix-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Prix-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -418,7 +418,7 @@
 <LM>w#w-ln95048-087-p2s2w13</LM>
 </w.rf>
 <form>Dyk</form>
-<tag lemma="Dyk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s2w14">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -502,7 +502,7 @@
 </w.rf>
 <form>GP</form>
 <tag>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -688,7 +688,7 @@
 </w.rf>
 <form>GP</form>
 <tag>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -714,7 +714,7 @@
 <LM>w#w-ln95048-087-p2s4w5</LM>
 </w.rf>
 <form>Klatovskému</form>
-<tag lemma="Klatovský_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Klatovský_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s4w6">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-ln95048-087-p2s4w8</LM>
 </w.rf>
 <form>Francovi</form>
-<tag lemma="Franc_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Franc_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95048-087-p2s4w9">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-ln95048-087-p2s4w13</LM>
 </w.rf>
 <form>Dyk</form>
-<tag lemma="Dyk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dyk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s4w14">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <LM>w#w-ln95048-087-p2s6w1</LM>
 </w.rf>
 <form>Serenius</form>
-<tag lemma="Serenius_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Serenius_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s6w2">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 </w.rf>
 <form>GP</form>
 <tag>
-<AM lemma="GP_:B_;K_^(Grand_Prix)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GP_:B_;m_^(Grand_Prix)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -964,7 +964,7 @@
 <LM>w#w-ln95048-087-p2s6w5</LM>
 </w.rf>
 <form>Svensson</form>
-<tag lemma="Svensson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svensson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-ln95048-087-p2s7w4</LM>
 </w.rf>
 <form>Balašov</form>
-<tag lemma="Balašov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balašov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-ln95048-087-p2s7w6</LM>
 </w.rf>
 <form>Nikulin</form>
-<tag lemma="Nikulin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nikulin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-087-p2s8w3">
@@ -1099,7 +1099,7 @@
 <LM>w#w-ln95048-087-p2s8w4</LM>
 </w.rf>
 <form>Ivanov</form>
-<tag lemma="Ivanov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ivanov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-ln95048-087-p2s8w6</LM>
 </w.rf>
 <form>Dragalin</form>
-<tag lemma="Dragalin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dragalin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s8w7">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-ln95048-087-p2s8w8</LM>
 </w.rf>
 <form>Fadějev</form>
-<tag lemma="Fadějev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fadějev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s8w9">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-ln95048-087-p2s9w7</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s9w8">
 <src.rf>manual</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln95048-087-p2s9w11</LM>
 </w.rf>
 <form>Langem</form>
-<tag lemma="Lang_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lang_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-087-p2s9w12">
 <src.rf>manual</src.rf>

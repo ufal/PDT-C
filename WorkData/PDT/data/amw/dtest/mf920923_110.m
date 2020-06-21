@@ -250,8 +250,8 @@
 </w.rf>
 <form>Ibragim</form>
 <tag>
-<AM lemma="Ibragim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ibragim_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ibragim_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ibragim_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-110-p4s2w22">
@@ -260,7 +260,7 @@
 <LM>w#w-mf920923-110-p4s2w22</LM>
 </w.rf>
 <form>Sulejmenov</form>
-<tag lemma="Sulejmenov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sulejmenov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-110-p4s2w23">
 <src.rf>manual</src.rf>
@@ -309,8 +309,8 @@
 </w.rf>
 <form>Gennadij</form>
 <tag>
-<AM lemma="Gennadij_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Gennadij_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gennadij_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gennadij_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-110-p4s2w29">
@@ -319,7 +319,7 @@
 <LM>w#w-mf920923-110-p4s2w29</LM>
 </w.rf>
 <form>Burbulis</form>
-<tag lemma="Burbulis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burbulis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-110-p4s2w30">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 </w.rf>
 <form>Jarov</form>
 <tag>
-<AM lemma="Jarov-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jarov-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Jarov_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jarov_;G" src="auto">NNIS4-----A----</AM>
 </tag>

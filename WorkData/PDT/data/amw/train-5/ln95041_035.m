@@ -69,7 +69,7 @@
 <LM>w#w-ln95041-035-p2s1w2</LM>
 </w.rf>
 <form>Kovačiková</form>
-<tag lemma="Kovačiková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kovačiková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-035-p2s1w3">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <form>Spale</form>
 <tag>
 <AM lemma="Spale_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Spal_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Spal_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="Spala_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

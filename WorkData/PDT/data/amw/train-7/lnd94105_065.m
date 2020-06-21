@@ -69,7 +69,7 @@
 <LM>w#w-lnd94105-065-p1s1Bw4</LM>
 </w.rf>
 <form>Steigerwalde</form>
-<tag lemma="Steigerwald-2_;S" src="orig" selected="1">NNMS5-----A----</tag>
+<tag lemma="Steigerwald-2_;Y" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-lnd94105-065-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -144,8 +144,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-065-p1s2w9">

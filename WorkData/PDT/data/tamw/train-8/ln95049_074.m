@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-074-p1s1w1</LM>
 </w.rf>
 <form>Tudjman</form>
-<tag lemma="Tudjman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tudjman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-074-p1s1w2">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-ln95049-074-p2s1Bw4</LM>
 </w.rf>
 <form>Tudjman</form>
-<tag lemma="Tudjman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tudjman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-074-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95049-074-p2s2w10</LM>
 </w.rf>
 <form>Tudjman</form>
-<tag lemma="Tudjman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tudjman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-074-p2s2w11">
 <src.rf>manual</src.rf>
@@ -594,8 +594,8 @@
 </w.rf>
 <form>Mladen</form>
 <tag>
-<AM lemma="Mladen_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mladen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mladen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Mladen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-074-p2s3w7">
@@ -604,7 +604,7 @@
 <LM>w#w-ln95049-074-p2s3w7</LM>
 </w.rf>
 <form>Schwartz</form>
-<tag lemma="Schwartz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schwartz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-074-p2s3w8">
 <src.rf>manual</src.rf>

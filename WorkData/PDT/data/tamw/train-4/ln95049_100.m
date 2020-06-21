@@ -228,7 +228,7 @@
 <LM>w#w-ln95049-100-p3s1w2</LM>
 </w.rf>
 <form>Vlach</form>
-<tag lemma="Vlach_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlach_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s1w3">
 <src.rf>manual</src.rf>
@@ -245,8 +245,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-100-p3s1w5">
@@ -961,7 +961,7 @@
 <LM>w#w-ln95049-100-p3s5w2</LM>
 </w.rf>
 <form>Fischerová</form>
-<tag lemma="Fischerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fischerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s5w3">
 <src.rf>manual</src.rf>
@@ -978,8 +978,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-100-p3s5w5">
@@ -1876,7 +1876,7 @@
 <LM>w#w-ln95049-100-p3s11w2</LM>
 </w.rf>
 <form>Veselovská</form>
-<tag lemma="Veselovská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Veselovská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s11w3">
 <src.rf>manual</src.rf>
@@ -2360,7 +2360,7 @@
 <LM>w#w-ln95049-100-p3s15w2</LM>
 </w.rf>
 <form>Horelová</form>
-<tag lemma="Horelová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Horelová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s15w3">
 <src.rf>manual</src.rf>
@@ -2565,7 +2565,7 @@
 <LM>w#w-ln95049-100-p3s16w2</LM>
 </w.rf>
 <form>Hořejší</form>
-<tag lemma="Hořejší_;S" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Hořejší_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s16w3">
 <src.rf>manual</src.rf>

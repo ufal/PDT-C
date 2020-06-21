@@ -36,8 +36,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -114,7 +114,7 @@
 <LM>w#w-lnd92256-001-p3s1w6</LM>
 </w.rf>
 <form>Holub</form>
-<tag lemma="Holub_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holub_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w7">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-lnd92256-001-p3s1w17</LM>
 </w.rf>
 <form>JAKOUBKA</form>
-<tag lemma="Jakoubek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jakoubek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w18">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-lnd92256-001-p3s1w33</LM>
 </w.rf>
 <form>MARS</form>
-<tag lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w34">
 <src.rf>manual</src.rf>

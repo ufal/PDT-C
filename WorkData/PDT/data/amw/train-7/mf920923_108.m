@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-108-p1s1w1</LM>
 </w.rf>
 <form>Gamsachurdia</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-108-p1s1w2">
 <src.rf>manual</src.rf>
@@ -63,7 +63,7 @@
 <LM>w#w-mf920923-108-p3s1w1</LM>
 </w.rf>
 <form>Gamsachurdia</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-108-p3s1w2">
 <src.rf>manual</src.rf>
@@ -147,7 +147,7 @@
 <LM>w#w-mf920923-108-p4s2w6</LM>
 </w.rf>
 <form>Gamsachurdiovi</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920923-108-p4s2w7">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-mf920923-108-p4s2w15</LM>
 </w.rf>
 <form>Dudajev</form>
-<tag lemma="Dudajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-108-p4s2w16">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-mf920923-108-p4s3w5</LM>
 </w.rf>
 <form>Interfax</form>
-<tag lemma="Interfax_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Interfax_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-108-p4s3w6">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf920923-108-p4s4w4</LM>
 </w.rf>
 <form>Gamsachurdiu</form>
-<tag lemma="Gamsachurdia_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gamsachurdia_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920923-108-p4s4w5">
 <src.rf>manual</src.rf>

@@ -447,14 +447,14 @@
 </w.rf>
 <form>Helly</form>
 <tag>
-<AM lemma="Helly_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hell_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Hell_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Helly_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Hell_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Hell_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Hella_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Helly_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Helly_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-025-p4s3w5">
@@ -612,7 +612,7 @@
 <LM>w#w-cmpr9416-025-p6s1w2</LM>
 </w.rf>
 <form>Fürstová</form>
-<tag lemma="Fürstová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fürstová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-025-p8s1">
@@ -686,7 +686,7 @@
 <LM>w#w-cmpr9416-025-p8s1w9</LM>
 </w.rf>
 <form>Bedrnová</form>
-<tag lemma="Bedrnová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bedrnová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-025-p8s1w10">
 <src.rf>manual</src.rf>
@@ -3073,7 +3073,7 @@
 </w.rf>
 <form>Cross</form>
 <tag>
-<AM lemma="Cross_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cross_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Cross-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3451,7 +3451,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-025-p13s9Bw13">
@@ -3468,7 +3468,7 @@
 <LM>w#w-cmpr9416-025-p13s9Bw14</LM>
 </w.rf>
 <form>Bedrnová</form>
-<tag lemma="Bedrnová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bedrnová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-025-p13s9Bw15">
 <src.rf>manual</src.rf>
@@ -4019,7 +4019,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-025-p15s4w18">
@@ -4036,7 +4036,7 @@
 <LM>w#w-cmpr9416-025-p15s4w19</LM>
 </w.rf>
 <form>Bedrnová</form>
-<tag lemma="Bedrnová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bedrnová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-025-p15s4w20">
 <src.rf>manual</src.rf>
@@ -4463,12 +4463,12 @@
 <form>Raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Raděj_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Raděj_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
@@ -4875,7 +4875,7 @@
 <LM>w#w-cmpr9416-025-p16s6w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9416-025-p16s6w12">
 <src.rf>manual</src.rf>
@@ -5249,14 +5249,14 @@
 </w.rf>
 <form>Helly</form>
 <tag>
-<AM lemma="Helly_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hell_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Hell_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Helly_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Hell_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Hell_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Hella_;G" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Helly_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Helly_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-025-p18s1w4">
@@ -5626,14 +5626,14 @@
 </w.rf>
 <form>Helly</form>
 <tag>
-<AM lemma="Helly_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hell_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Hell_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Helly_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Hell_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Hell_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Hella_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Hella_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Helly_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Helly_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-025-p20s1w8">

@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-123-p1s1w1</LM>
 </w.rf>
 <form>Padrnos</form>
-<tag lemma="Padrnos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Padrnos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p1s1w2">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 </w.rf>
 <form>Giro</form>
 <tag>
-<AM lemma="Giro-1_;m_;w_,t_^(lat.,_souč._názvu,_např._Giro_d'Italia)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Giro-1_;m_,t_^(lat.,_souč._názvu,_např._Giro_d'Italia)" src="auto">NNNXX-----A----</AM>
 <AM lemma="Giro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -164,7 +164,7 @@
 </w.rf>
 <form>Italia</form>
 <tag>
-<AM lemma="Italia_;R_,t_^(jméno_vzducholodi)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Italia_;m_,t_^(jméno_vzducholodi)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Italia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -214,7 +214,7 @@
 <LM>w#w-mf930701-123-p2s1w22</LM>
 </w.rf>
 <form>Padrnos</form>
-<tag lemma="Padrnos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Padrnos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s1w23">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-mf930701-123-p2s2w11</LM>
 </w.rf>
 <form>Simon</form>
-<tag lemma="Simon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Simon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s2w12">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-mf930701-123-p2s2w24</LM>
 </w.rf>
 <form>Sedláček</form>
-<tag lemma="Sedláček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sedláček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s2w25">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-mf930701-123-p2s4w1</LM>
 </w.rf>
 <form>Purmenský</form>
-<tag lemma="Purmenský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Purmenský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s4w2">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf930701-123-p2s5w1</LM>
 </w.rf>
 <form>Žilovec</form>
-<tag lemma="Žilovec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žilovec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s5w2">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-mf930701-123-p2s6w1</LM>
 </w.rf>
 <form>Kozárek</form>
-<tag lemma="Kozárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s6w2">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-mf930701-123-p2s7w2</LM>
 </w.rf>
 <form>Padrnose</form>
-<tag lemma="Padrnos_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Padrnos_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s7w3">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-mf930701-123-p2s7w9</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krč_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s7w10">
 <src.rf>manual</src.rf>

@@ -81,7 +81,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -198,7 +198,7 @@
 <LM>w#w-ln94200-170-p2s2w4</LM>
 </w.rf>
 <form>Kejvalů</form>
-<tag lemma="Kejval_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Kejval_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-170-p2s2w5">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-ln94200-170-p2s3w13</LM>
 </w.rf>
 <form>Kejval</form>
-<tag lemma="Kejval_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kejval_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-170-p2s3w14">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-ln94200-170-p3s1w6</LM>
 </w.rf>
 <form>Dunkových</form>
-<tag lemma="Dunkův_;S_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Dunkův_;Y_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-ln94200-170-p3s1w7">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-ln94200-170-p3s2w12</LM>
 </w.rf>
 <form>Dunků</form>
-<tag lemma="Dunka_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Dunka_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-170-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-ln94200-170-p3s4w10</LM>
 </w.rf>
 <form>Dunky</form>
-<tag lemma="Dunka_;S" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Dunka_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94200-170-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-ln94200-170-p4s1w7</LM>
 </w.rf>
 <form>Kovářovi</form>
-<tag lemma="Kovářův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Kovářův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94200-170-p4s1w8">
 <src.rf>manual</src.rf>
@@ -3445,8 +3445,8 @@
 </w.rf>
 <form>Peregrinovou</form>
 <tag>
-<AM lemma="Peregrinová_;S" src="orig" selected="1">NNFS4-----A----</AM>
-<AM lemma="Peregrinův_;S_^(*2us)" src="auto" recommended="1">AUFS7M---------</AM>
+<AM lemma="Peregrinová_;Y" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="Peregrinův_;Y_^(*2us)" src="auto" recommended="1">AUFS7M---------</AM>
 </tag>
 </m>
 <m id="m-ln94200-170-p7s5w14">
@@ -3521,7 +3521,7 @@
 <LM>w#w-ln94200-170-p7s6w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94200-170-p7s6w2">
 <src.rf>manual</src.rf>
@@ -4248,7 +4248,7 @@
 <LM>w#w-ln94200-170-p9s2w7</LM>
 </w.rf>
 <form>Peregrinová</form>
-<tag lemma="Peregrinová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Peregrinová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-170-p9s2w8">
 <src.rf>manual</src.rf>

@@ -322,7 +322,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -471,7 +471,7 @@
 </w.rf>
 <form>RB</form>
 <tag>
-<AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RB_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -489,7 +489,7 @@
 <LM>w#w-lnd94105-034-p1s5w12</LM>
 </w.rf>
 <form>Grulich</form>
-<tag lemma="Grulich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grulich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-034-p1s5w13">
 <src.rf>manual</src.rf>
@@ -532,8 +532,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-034-p1s6w5">
@@ -551,7 +551,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -707,7 +707,7 @@
 <LM>w#w-lnd94105-034-p1s7w2</LM>
 </w.rf>
 <form>Grulicha</form>
-<tag lemma="Grulich_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Grulich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-034-p1s7w3">
 <src.rf>manual</src.rf>

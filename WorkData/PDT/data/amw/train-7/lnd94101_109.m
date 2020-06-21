@@ -114,8 +114,8 @@
 </w.rf>
 <form>István</form>
 <tag>
-<AM lemma="István_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="István_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="István_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="István_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-109-p1s3Bw2">
@@ -124,7 +124,7 @@
 <LM>w#w-lnd94101-109-p1s3Bw2</LM>
 </w.rf>
 <form>Lékó</form>
-<tag lemma="Lékó_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lékó_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94101-109-p1s3C">
@@ -476,8 +476,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-109-p1s4w8">
@@ -652,7 +652,7 @@
 <LM>w#w-lnd94101-109-p1s6w11</LM>
 </w.rf>
 <form>Vlasákové</form>
-<tag lemma="Vlasáková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vlasáková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-109-p1s6w12">
 <src.rf>manual</src.rf>
@@ -1782,7 +1782,7 @@
 <LM>w#w-lnd94101-109-p1s10w2</LM>
 </w.rf>
 <form>Bublová</form>
-<tag lemma="Bublová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bublová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-109-p1s10w3">
 <src.rf>manual</src.rf>
@@ -2132,10 +2132,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -2225,7 +2225,7 @@
 <LM>w#w-lnd94101-109-p1s11w14</LM>
 </w.rf>
 <form>Preisler</form>
-<tag lemma="Preisler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Preisler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-109-p1s11w15">
 <src.rf>manual</src.rf>

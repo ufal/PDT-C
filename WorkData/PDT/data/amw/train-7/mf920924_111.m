@@ -181,7 +181,7 @@
 <LM>w#w-mf920924-111-p2s1w18</LM>
 </w.rf>
 <form>Maláčovu</form>
-<tag lemma="Maláčův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Maláčův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf920924-111-p2s1w19">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-mf920924-111-p2s2w16</LM>
 </w.rf>
 <form>Pejchar</form>
-<tag lemma="Pejchar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pejchar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-111-p2s2w17">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-mf920924-111-p2s2w18</LM>
 </w.rf>
 <form>Maláč</form>
-<tag lemma="Maláč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maláč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-111-p2s2w19">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf920924-111-p2s5w2</LM>
 </w.rf>
 <form>Maláč</form>
-<tag lemma="Maláč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maláč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-111-p2s5w3">
 <src.rf>manual</src.rf>

@@ -62,8 +62,8 @@
 </w.rf>
 <form>jop</form>
 <tag>
-<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jop-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-93-p2s1Aw4">
@@ -99,11 +99,11 @@
 </w.rf>
 <form>Family</form>
 <tag>
-<AM lemma="Family_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Famila_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Famila_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Famila_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Famila_;K" src="auto">NNFS2-----A----</AM>
+<AM lemma="Family_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Famila_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Famila_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Famila_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Famila_;m" src="auto">NNFS2-----A----</AM>
 <AM lemma="family_,t" src="auto" recommended="1">XX-------------</AM>
 <AM lemma="family_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Family-77" src="manual" selected="1">F%-------------</AM>
@@ -183,7 +183,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-93-p2s2w2">
@@ -201,8 +201,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-93-p2s2w4">
@@ -322,7 +322,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-93-p2s2w18">
@@ -340,8 +340,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-93-p2s2w20">

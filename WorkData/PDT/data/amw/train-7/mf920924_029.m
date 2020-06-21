@@ -890,7 +890,7 @@
 </w.rf>
 <form>EMS</form>
 <tag>
-<AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -973,7 +973,7 @@
 </w.rf>
 <form>EMS</form>
 <tag>
-<AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2066,8 +2066,8 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-029-p2s11w34">
@@ -2922,7 +2922,7 @@
 </w.rf>
 <form>EMS</form>
 <tag>
-<AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3055,7 +3055,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3077,7 +3077,7 @@
 </w.rf>
 <form>England</form>
 <tag>
-<AM lemma="England_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="England_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="England-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

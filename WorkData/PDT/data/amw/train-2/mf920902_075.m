@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-075-p1s1w2</LM>
 </w.rf>
 <form>Dressler</form>
-<tag lemma="Dressler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dressler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-075-p1s1w3">
 <src.rf>manual</src.rf>
@@ -96,7 +96,7 @@
 <LM>w#w-mf920902-075-p2s1w7</LM>
 </w.rf>
 <form>Dresslera</form>
-<tag lemma="Dressler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dressler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-075-p2s1w8">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-mf920902-075-p2s2w7</LM>
 </w.rf>
 <form>Dressler</form>
-<tag lemma="Dressler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dressler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-075-p2s2w8">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <form>Karas</form>
 <tag>
 <AM lemma="karas" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karas_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Karas_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-075-p2s2w11">
@@ -394,7 +394,7 @@
 <LM>w#w-mf920902-075-p2s3w7</LM>
 </w.rf>
 <form>Dressler</form>
-<tag lemma="Dressler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dressler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-075-p2s3w8">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-mf920902-075-p2s4w13</LM>
 </w.rf>
 <form>Ondrašíkem</form>
-<tag lemma="Ondrašík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ondrašík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-075-p2s4w14">
 <src.rf>manual</src.rf>
@@ -598,8 +598,8 @@
 <form>SK</form>
 <tag>
 <AM lemma="Sk_:B" src="orig">NNXXX-----A---8</AM>
-<AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SK-1_:B_;m_^(sportovní_klub)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Sk_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -641,7 +641,7 @@
 <LM>w#w-mf920902-075-p2s4w25</LM>
 </w.rf>
 <form>Dresslera</form>
-<tag lemma="Dressler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dressler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-075-p2s4w26">
 <src.rf>manual</src.rf>
@@ -658,13 +658,13 @@
 </w.rf>
 <form>Karase</form>
 <tag>
-<AM lemma="Karas_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Karas_;S" src="auto" selected="1">NNMS2-----A---1</AM>
-<AM lemma="Karas_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Karas_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Karas_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Karas_;Y" src="auto" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Karas_;Y" src="auto">NNMS4-----A---1</AM>
+<AM lemma="Karas_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="karas" src="auto">NNMS5-----A----</AM>
-<AM lemma="karas_;L" src="auto" recommended="1">NNMS2-----A---6</AM>
-<AM lemma="karas_;L" src="auto">NNMS4-----A---6</AM>
+<AM lemma="karas_;U" src="auto" recommended="1">NNMS2-----A---6</AM>
+<AM lemma="karas_;U" src="auto">NNMS4-----A---6</AM>
 </tag>
 </m>
 <m id="m-mf920902-075-p2s4w28">
@@ -681,7 +681,7 @@
 <LM>w#w-mf920902-075-p2s4w29</LM>
 </w.rf>
 <form>Dresslerovi</form>
-<tag lemma="Dressler_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Dressler_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-075-p2s4w30">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 </w.rf>
 <form>BTIU</form>
 <tag>
-<AM lemma="BTIU_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="BTIU_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="BTIU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -990,7 +990,7 @@
 <LM>w#w-mf920902-075-p2s5w11</LM>
 </w.rf>
 <form>Dresslera</form>
-<tag lemma="Dressler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dressler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-075-p2s5w12">
 <src.rf>manual</src.rf>

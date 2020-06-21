@@ -255,7 +255,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p1s2w13">
@@ -272,7 +272,7 @@
 <LM>w#w-lnd92259-065-p1s2w14</LM>
 </w.rf>
 <form>Rawlingse</form>
-<tag lemma="Rawlings_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rawlings_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p1s2w15">
 <src.rf>manual</src.rf>
@@ -557,9 +557,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p2s1w13">
@@ -602,7 +602,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p2s1w18">
@@ -619,7 +619,7 @@
 <LM>w#w-lnd92259-065-p2s1w19</LM>
 </w.rf>
 <form>Baguer</form>
-<tag lemma="Baguer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baguer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p2s1w20">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p2s1w36">
@@ -767,7 +767,7 @@
 <LM>w#w-lnd92259-065-p2s1w37</LM>
 </w.rf>
 <form>Cartera</form>
-<tag lemma="Carter_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Carter_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p2s1w38">
 <src.rf>manual</src.rf>
@@ -840,9 +840,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p2s1w48">
@@ -983,7 +983,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p3s1w6">
@@ -1000,7 +1000,7 @@
 <LM>w#w-lnd92259-065-p3s1w7</LM>
 </w.rf>
 <form>González</form>
-<tag lemma="González_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="González_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-lnd92259-065-p3s2w1</LM>
 </w.rf>
 <form>González</form>
-<tag lemma="González_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="González_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p3s2w9">
@@ -1238,7 +1238,7 @@
 <LM>w#w-lnd92259-065-p3s2w10</LM>
 </w.rf>
 <form>Mitterrandem</form>
-<tag lemma="Mitterrand_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mitterrand_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 </w.rf>
 <form>NDP</form>
 <tag>
-<AM lemma="NDP-2_:B_;K_,t_^(National_Democratic_Party)" src="auto">NNFXX-----A----</AM>
+<AM lemma="NDP-2_:B_;m_,t_^(National_Democratic_Party)" src="auto">NNFXX-----A----</AM>
 <AM lemma="NDP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2068,7 +2068,7 @@
 </w.rf>
 <form>Spirit</form>
 <tag>
-<AM lemma="Spirit_;m_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Spirit_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Spirit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2520,7 +2520,7 @@
 <LM>w#w-lnd92259-065-p7s1w5</LM>
 </w.rf>
 <form>Hepburnová</form>
-<tag lemma="Hepburnová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hepburnová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p7s1w6">
 <src.rf>manual</src.rf>
@@ -2879,7 +2879,7 @@
 </w.rf>
 <form>UNICEF</form>
 <tag>
-<AM lemma="UNICEF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNICEF_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="UNICEF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3139,7 +3139,7 @@
 <LM>w#w-lnd92259-065-p8s1w21</LM>
 </w.rf>
 <form>Mérieuxova</form>
-<tag lemma="Mérieuxův_;K_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Mérieuxův_;Y_;m_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd92259-065-p8s1w22">
 <src.rf>manual</src.rf>
@@ -3220,8 +3220,8 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p8s1w32">
@@ -3438,8 +3438,8 @@
 </w.rf>
 <form>Lucase</form>
 <tag>
-<AM lemma="Lucas_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lucas_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Lucas_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Lucas_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p9s1w5">
@@ -3448,7 +3448,7 @@
 <LM>w#w-lnd92259-065-p9s1w5</LM>
 </w.rf>
 <form>Cranacha</form>
-<tag lemma="Cranach_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Cranach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p9s1w6">
 <src.rf>manual</src.rf>

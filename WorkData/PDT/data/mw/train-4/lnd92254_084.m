@@ -63,7 +63,7 @@
 <LM>w#w-lnd92254-084-p2s2w2</LM>
 </w.rf>
 <form>Zajícovi</form>
-<tag lemma="Zajíc_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Zajíc_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92254-084-p2s2w3">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-lnd92254-084-p2s2w11</LM>
 </w.rf>
 <form>Bjakina</form>
-<tag lemma="Bjakin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bjakin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-084-p2s2w12">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 </w.rf>
 <form>EV</form>
 <tag>
-<AM lemma="EV_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EV_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EV_:B_^(endovaskulární_výkon;_Electric_Vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Eva_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="EV-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -237,7 +237,7 @@
 </w.rf>
 <form>ERC</form>
 <tag>
-<AM lemma="ERC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ERC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ERC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -314,13 +314,13 @@
 </w.rf>
 <form>EC</form>
 <tag>
-<AM lemma="EC-6_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EC-1_:B_;K_,t_^(Episcopal_Church)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EC-2_:B_;K_,t_^(European_Council)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EC-3_:B_;K_,t_^(European_Council)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="EC-6_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EC-1_:B_;m_,t_^(Episcopal_Church)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-2_:B_;m_,t_^(European_Council)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-3_:B_;m_,t_^(European_Council)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="EC-4_:B_,t_^(Executive_Committee)" src="auto">NNIXX-----A----</AM>
 <AM lemma="EC-5_:B_,t_^(Executive_Council)" src="auto">NNFXX-----A----</AM>
-<AM lemma="EC-6_:B_;K_,t_^(European_Communities)" src="auto">NNNPX-----A----</AM>
+<AM lemma="EC-6_:B_;m_,t_^(European_Communities)" src="auto">NNNXX-----A----</AM>
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EC-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -349,9 +349,9 @@
 </w.rf>
 <form>Mannheimer</form>
 <tag>
-<AM lemma="Mannheimer_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Mannheimer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mannheimer-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mannheimer_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mannheimer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mannheimer-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Mannheimer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -362,7 +362,7 @@
 </w.rf>
 <form>ERC</form>
 <tag>
-<AM lemma="ERC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ERC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ERC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -405,7 +405,7 @@
 </w.rf>
 <form>EHC</form>
 <tag>
-<AM lemma="EHC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EHC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EHC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -432,7 +432,7 @@
 </w.rf>
 <form>EHC</form>
 <tag>
-<AM lemma="EHC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EHC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EHC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -443,10 +443,10 @@
 </w.rf>
 <form>Eisbären</form>
 <tag>
-<AM lemma="Eisbären_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Eisbären_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Eisbären_;K_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eisbären_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Eisbären_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Eisbären_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Eisbären_;m_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Eisbären_;m" src="manual">NNIXX-----A----</AM>
 <AM lemma="Eisbären-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -496,7 +496,7 @@
 <LM>w#w-lnd92254-084-p2s3w23</LM>
 </w.rf>
 <form>Žemlička</form>
-<tag lemma="Žemlička-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žemlička-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w24">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-lnd92254-084-p2s3w26</LM>
 </w.rf>
 <form>Gorss</form>
-<tag lemma="Gorss_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gorss_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w27">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 </w.rf>
 <form>Berliner</form>
 <tag>
-<AM lemma="Berliner_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Berliner_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Berliner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -556,7 +556,7 @@
 </w.rf>
 <form>SC</form>
 <tag>
-<AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SC-1_:B_;m_,t_^(Sport_Club)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -567,7 +567,7 @@
 </w.rf>
 <form>Preussen</form>
 <tag>
-<AM lemma="Preussen_;K" src="orig">NNNXX-----A----</AM>
+<AM lemma="Preussen_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Preussen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -586,8 +586,8 @@
 </w.rf>
 <form>EH</form>
 <tag>
-<AM lemma="EH_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EH_:B_;K_^(pojišťovna_Eurel_Hermes)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="EH_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EH_:B_;m_^(pojišťovna_Eurel_Hermes)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="eh" src="auto">II-------------</AM>
 <AM lemma="EH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -599,7 +599,7 @@
 </w.rf>
 <form>Hedos</form>
 <tag>
-<AM lemma="Hedos_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hedos_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Hedos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -650,7 +650,7 @@
 </w.rf>
 <form>ESV</form>
 <tag>
-<AM lemma="ESV-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ESV-2_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ESV-1_:B_,t_^(Earth_satellite_vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ESV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -678,7 +678,7 @@
 </w.rf>
 <form>Düsseldorfer</form>
 <tag>
-<AM lemma="Düsseldorfer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Düsseldorfer_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Düsseldorfer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -689,7 +689,7 @@
 </w.rf>
 <form>EG</form>
 <tag>
-<AM lemma="EG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EG_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ego" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="EG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -733,7 +733,7 @@
 </w.rf>
 <form>Krefelder</form>
 <tag>
-<AM lemma="Krefelder_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krefelder_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Krefelder-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -744,7 +744,7 @@
 </w.rf>
 <form>EV</form>
 <tag>
-<AM lemma="EV_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EV_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EV_:B_^(endovaskulární_výkon;_Electric_Vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Eva_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="EV-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -765,7 +765,7 @@
 </w.rf>
 <form>Kölner</form>
 <tag>
-<AM lemma="Kölner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kölner_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kölner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -776,13 +776,13 @@
 </w.rf>
 <form>EC</form>
 <tag>
-<AM lemma="EC-6_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EC-1_:B_;K_,t_^(Episcopal_Church)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EC-2_:B_;K_,t_^(European_Council)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EC-3_:B_;K_,t_^(European_Council)" src="auto">NNFXX-----A----</AM>
+<AM lemma="EC-6_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EC-1_:B_;m_,t_^(Episcopal_Church)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-2_:B_;m_,t_^(European_Council)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-3_:B_;m_,t_^(European_Council)" src="auto">NNFXX-----A----</AM>
 <AM lemma="EC-4_:B_,t_^(Executive_Committee)" src="auto">NNIXX-----A----</AM>
 <AM lemma="EC-5_:B_,t_^(Executive_Council)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="EC-6_:B_;K_,t_^(European_Communities)" src="auto">NNNPX-----A----</AM>
+<AM lemma="EC-6_:B_;m_,t_^(European_Communities)" src="auto">NNNXX-----A----</AM>
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EC-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -877,7 +877,7 @@
 </w.rf>
 <form>Düsseldorfer</form>
 <tag>
-<AM lemma="Düsseldorfer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Düsseldorfer_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Düsseldorfer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -888,7 +888,7 @@
 </w.rf>
 <form>EG</form>
 <tag>
-<AM lemma="EG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EG_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ego" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="EG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -934,7 +934,7 @@
 </w.rf>
 <form>Hedos</form>
 <tag>
-<AM lemma="Hedos_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hedos_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Hedos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -987,7 +987,7 @@
 </w.rf>
 <form>Kölner</form>
 <tag>
-<AM lemma="Kölner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kölner_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Kölner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -998,13 +998,13 @@
 </w.rf>
 <form>EC</form>
 <tag>
-<AM lemma="EC-6_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EC-1_:B_;K_,t_^(Episcopal_Church)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EC-2_:B_;K_,t_^(European_Council)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EC-3_:B_;K_,t_^(European_Council)" src="auto">NNFXX-----A----</AM>
+<AM lemma="EC-6_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EC-1_:B_;m_,t_^(Episcopal_Church)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-2_:B_;m_,t_^(European_Council)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-3_:B_;m_,t_^(European_Council)" src="auto">NNFXX-----A----</AM>
 <AM lemma="EC-4_:B_,t_^(Executive_Committee)" src="auto">NNIXX-----A----</AM>
 <AM lemma="EC-5_:B_,t_^(Executive_Council)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="EC-6_:B_;K_,t_^(European_Communities)" src="auto">NNNPX-----A----</AM>
+<AM lemma="EC-6_:B_;m_,t_^(European_Communities)" src="auto">NNNXX-----A----</AM>
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="EC-88" src="manual" selected="1">BNXXX-----A----</AM>

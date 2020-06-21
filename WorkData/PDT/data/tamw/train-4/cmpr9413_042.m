@@ -447,7 +447,7 @@
 <LM>w#w-cmpr9413-042-p4s3w12</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-042-p4s3w13">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-cmpr9413-042-p5s1w2</LM>
 </w.rf>
 <form>Fürstová</form>
-<tag lemma="Fürstová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fürstová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-042-p6s1">
@@ -1142,7 +1142,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-042-p8s2w13">
@@ -1159,7 +1159,7 @@
 <LM>w#w-cmpr9413-042-p8s2w14</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-042-p8s2w15">
 <src.rf>manual</src.rf>
@@ -2422,7 +2422,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-042-p12s4w9">
@@ -2439,7 +2439,7 @@
 <LM>w#w-cmpr9413-042-p12s4w10</LM>
 </w.rf>
 <form>Smetany</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-042-p12s4w11">
 <src.rf>manual</src.rf>
@@ -3486,7 +3486,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-042-p13s2w7">
@@ -3503,7 +3503,7 @@
 <LM>w#w-cmpr9413-042-p13s2w8</LM>
 </w.rf>
 <form>Smetanu</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-042-p13s2w9">
 <src.rf>manual</src.rf>
@@ -4897,7 +4897,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-042-p16s2w8">
@@ -4914,7 +4914,7 @@
 <LM>w#w-cmpr9413-042-p16s2w9</LM>
 </w.rf>
 <form>Smetanovi</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-cmpr9413-042-p16s2w10">
 <src.rf>manual</src.rf>
@@ -5847,7 +5847,7 @@
 <LM>w#w-cmpr9413-042-p17s6w2</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-042-p17s6w3">
 <src.rf>manual</src.rf>
@@ -6411,7 +6411,7 @@
 <LM>w#w-cmpr9413-042-p19s1w5</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-042-p19s1w6">
 <src.rf>manual</src.rf>
@@ -6427,7 +6427,7 @@
 <LM>w#w-cmpr9413-042-p19s1w7</LM>
 </w.rf>
 <form>Seifertova</form>
-<tag lemma="Seifertův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Seifertův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9413-042-p19s1w8">
 <src.rf>manual</src.rf>

@@ -444,8 +444,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-146-p3s3w2">
@@ -511,7 +511,7 @@
 </w.rf>
 <form>ČPPU</form>
 <tag>
-<AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČPPU_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČPPU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -537,7 +537,7 @@
 <LM>w#w-ln95040-146-p3s3w12</LM>
 </w.rf>
 <form>Kinclová</form>
-<tag lemma="Kinclová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kinclová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-146-p3s3w13">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 </w.rf>
 <form>ČPPU</form>
 <tag>
-<AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČPPU_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČPPU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1531,7 +1531,7 @@
 <LM>w#w-ln95040-146-p5s4w21</LM>
 </w.rf>
 <form>Schindlerův</form>
-<tag lemma="Schindlerův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Schindlerův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95040-146-p5s4w22">
 <src.rf>manual</src.rf>
@@ -2004,7 +2004,7 @@
 <LM>w#w-ln95040-146-p6s4w5</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95040-146-p6s4w6">
 <src.rf>manual</src.rf>
@@ -2037,7 +2037,7 @@
 </w.rf>
 <form>ČPPU</form>
 <tag>
-<AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČPPU_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČPPU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2422,9 +2422,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-146-p6s7w3">
@@ -2474,7 +2474,7 @@
 </w.rf>
 <form>FBI</form>
 <tag>
-<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBI_:B_;m_,t_^(Fed._Bureau_of_Investigation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FBI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -2010,7 +2010,7 @@
 <LM>w#w-lnd92255-003-p4s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92255-003-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2595,7 +2595,7 @@
 <form>Trošku</form>
 <tag>
 <AM lemma="trochu" src="orig">Db-------------</AM>
-<AM lemma="Troška_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Troška_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="troška" src="auto">NNFS4-----A----</AM>
 <AM lemma="trošku" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
@@ -2679,7 +2679,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2997,7 +2997,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-003-p4s5w15">
@@ -3014,7 +3014,7 @@
 <LM>w#w-lnd92255-003-p4s5w16</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-003-p4s5w17">
 <src.rf>manual</src.rf>
@@ -3137,7 +3137,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3415,7 +3415,7 @@
 <LM>w#w-lnd92255-003-p6s1w2</LM>
 </w.rf>
 <form>SLEZÁKOVÁ</form>
-<tag lemma="Slezáková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Slezáková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

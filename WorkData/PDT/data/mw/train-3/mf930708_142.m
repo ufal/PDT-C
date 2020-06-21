@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-142-p1s1w1</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-142-p1s1w2">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-mf930708-142-p1s1w7</LM>
 </w.rf>
 <form>Mečiarem</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-142-p2s1">
@@ -111,7 +111,7 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-142-p2s1w6">
@@ -152,7 +152,7 @@
 <LM>w#w-mf930708-142-p2s1w10</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-142-p2s1w11">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-mf930708-142-p2s1w13</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-142-p2s1w14">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -365,7 +365,7 @@
 <LM>w#w-mf930708-142-p2s2w6</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-142-p2s2w7">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-mf930708-142-p3s1w2</LM>
 </w.rf>
 <form>Mečiarovou</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-mf930708-142-p3s1w3">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 </w.rf>
 <form>SEI</form>
 <tag>
-<AM lemma="SEI-3_:B_;K_^(Středoevropská_iniciativa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SEI-3_:B_;m_^(Středoevropská_iniciativa)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SEI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

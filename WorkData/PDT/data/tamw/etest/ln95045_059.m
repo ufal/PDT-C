@@ -277,7 +277,7 @@
 <LM>w#w-ln95045-059-p2s1Bw24</LM>
 </w.rf>
 <form>Falconeho</form>
-<tag lemma="Falcone_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Falcone_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-059-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln95045-059-p2s2w1</LM>
 </w.rf>
 <form>Falcone</form>
-<tag lemma="Falcone_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falcone_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-059-p2s2w2">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-ln95045-059-p3s1w20</LM>
 </w.rf>
 <form>Riina</form>
-<tag lemma="Riina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Riina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-059-p3s1w21">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln95045-059-p3s1w27</LM>
 </w.rf>
 <form>Falconeho</form>
-<tag lemma="Falcone_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Falcone_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-059-p3s1w28">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln95045-059-p3s2w1</LM>
 </w.rf>
 <form>Riina</form>
-<tag lemma="Riina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Riina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-059-p3s2w2">
 <src.rf>manual</src.rf>

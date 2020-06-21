@@ -442,7 +442,7 @@
 <LM>w#w-cmpr9406-030-p4s1w1</LM>
 </w.rf>
 <form>Motorlet</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-030-p4s1w2">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-cmpr9406-030-p5s1w16</LM>
 </w.rf>
 <form>Motorlet</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-030-p5s1w17">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-cmpr9406-030-p5s2w8</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="M-6_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-030-p5s2w9">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-cmpr9406-030-p5s2w10</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="T-6_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-cmpr9406-030-p5s2w11">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-cmpr9406-030-p5s3w6</LM>
 </w.rf>
 <form>Motorletu</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-030-p5s3w7">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-cmpr9406-030-p5s3w15</LM>
 </w.rf>
 <form>Javelin</form>
-<tag lemma="Javelin_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Javelin_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-030-p5s3w16">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-cmpr9406-030-p5s4w6</LM>
 </w.rf>
 <form>Motorlet</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-030-p5s4w7">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <LM>w#w-cmpr9406-030-p5s5w14</LM>
 </w.rf>
 <form>Mjasisčev</form>
-<tag lemma="Mjasisčev_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mjasisčev_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-030-p5s5w15">
 <src.rf>manual</src.rf>
@@ -1119,8 +1119,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="M-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p5s5w16">
@@ -1163,7 +1163,7 @@
 <LM>w#w-cmpr9406-030-p5s6w3</LM>
 </w.rf>
 <form>Motorletu</form>
-<tag lemma="Motorlet_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Motorlet_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-030-p5s6w4">
 <src.rf>manual</src.rf>
@@ -1363,11 +1363,11 @@
 </w.rf>
 <form>MILO</form>
 <tag>
-<AM lemma="MILO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Mila_;K" src="auto">NNFS5-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="MILO_:B_;m" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Mila_;m" src="auto">NNFS5-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
@@ -2001,11 +2001,11 @@
 </w.rf>
 <form>MILO</form>
 <tag>
-<AM lemma="MILO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Mila_;K" src="auto">NNFS5-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="MILO_:B_;m" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Mila_;m" src="auto">NNFS5-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>

@@ -221,7 +221,7 @@
 <LM>w#w-cmpr9410-037-p4s2Bw4</LM>
 </w.rf>
 <form>Sidon</form>
-<tag lemma="Sidon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sidon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-037-p4s2Bw5">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-cmpr9410-037-p4s4w8</LM>
 </w.rf>
 <form>Nechanský</form>
-<tag lemma="Nechanský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nechanský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-037-p4s4w9">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-cmpr9410-037-p4s5Aw3</LM>
 </w.rf>
 <form>POSSE</form>
-<tag lemma="Posse_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Posse_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-037-p4s5Aw4">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-cmpr9410-037-p4s5Cw2</LM>
 </w.rf>
 <form>Kaiserova</form>
-<tag lemma="Kaiserův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Kaiserův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9410-037-p4s5Cw3">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-cmpr9410-037-p4s5Dw4</LM>
 </w.rf>
 <form>Palacký</form>
-<tag lemma="Palacký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palacký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-037-p4s5Dw5">
 <src.rf>manual</src.rf>

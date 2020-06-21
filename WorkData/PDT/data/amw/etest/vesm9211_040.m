@@ -177,7 +177,7 @@
 </w.rf>
 <form>EASE</form>
 <tag>
-<AM lemma="EASE_:B_;K_,t_^(Europian_Association_Of_Scientific_Editors)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EASE_:B_;m_,t_^(Europian_Association_Of_Scientific_Editors)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EASE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4730,7 +4730,7 @@
 <LM>w#w-vesm9211-040-p7s1w2</LM>
 </w.rf>
 <form>Šesták</form>
-<tag lemma="Šesták_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šesták_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

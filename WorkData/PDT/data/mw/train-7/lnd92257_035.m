@@ -80,10 +80,10 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter_;KReuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;mReuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-035-p3s1w4">
@@ -411,9 +411,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-035-p3s4w3">
@@ -430,7 +430,7 @@
 <LM>w#w-lnd92257-035-p3s4w4</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-035-p3s4w5">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-lnd92257-035-p3s4w11</LM>
 </w.rf>
 <form>Levona</form>
-<tag lemma="Levon_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Levon_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-035-p3s4w12">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 </w.rf>
 <form>Ter</form>
 <tag>
-<AM lemma="Ter-2_;S" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ter-2_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Ter_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ter_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="tera_^(budhistický_chrám)" src="auto">NNFP2-----A----</AM>
@@ -515,7 +515,7 @@
 <LM>w#w-lnd92257-035-p3s4w14</LM>
 </w.rf>
 <form>Petrosjana</form>
-<tag lemma="Petrosjan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Petrosjan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-035-p3s4w15">
 <src.rf>manual</src.rf>
@@ -740,8 +740,8 @@
 <AM lemma="Antonio-2_;G" src="orig" selected="1">NNNS6-----A----</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Antonius_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Antonius_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Antonius_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Antonius_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92257-035-p3s5w16">

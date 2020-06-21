@@ -51,7 +51,7 @@
 <LM>w#w-lnd92252-001-p1s1w5</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92252-001-p1s1w6">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-lnd92252-001-p1s3w38</LM>
 </w.rf>
 <form>Drulákem</form>
-<tag lemma="Drulák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Drulák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92252-001-p1s3w39">
 <src.rf>manual</src.rf>
@@ -564,9 +564,9 @@
 <form>Oldenburgu</form>
 <tag>
 <AM lemma="Oldenburg-2_;G" src="orig" selected="1">NNIS6-----A---1</AM>
-<AM lemma="Oldenburg_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Oldenburg_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Oldenburg_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Oldenburg_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Oldenburg_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Oldenburg_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92252-001-p1s3w47">

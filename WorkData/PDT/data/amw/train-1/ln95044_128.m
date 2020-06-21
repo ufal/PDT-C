@@ -306,7 +306,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -356,7 +356,7 @@
 <LM>w#w-ln95044-128-p3s1w14</LM>
 </w.rf>
 <form>Dengler</form>
-<tag lemma="Dengler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dengler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-128-p3s1w15">
 <src.rf>manual</src.rf>

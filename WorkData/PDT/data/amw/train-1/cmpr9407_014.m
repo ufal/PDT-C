@@ -1755,7 +1755,7 @@
 <LM>w#w-cmpr9407-014-p9s1w4</LM>
 </w.rf>
 <form>Novotných</form>
-<tag lemma="Novotný_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Novotný_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-014-p9s1w5">
 <src.rf>manual</src.rf>
@@ -2420,7 +2420,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -4685,7 +4685,7 @@
 <LM>w#w-cmpr9407-014-p18s1w2</LM>
 </w.rf>
 <form>Hrachovec</form>
-<tag lemma="Hrachovec_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hrachovec_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-014-p18s1w3">
 <src.rf>manual</src.rf>
@@ -6668,7 +6668,7 @@
 <LM>w#w-cmpr9407-014-p25s1w2</LM>
 </w.rf>
 <form>Kaucká</form>
-<tag lemma="Kaucká_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kaucká_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-014-p25s1w3">
 <src.rf>manual</src.rf>
@@ -7341,8 +7341,8 @@
 </w.rf>
 <form>Home</form>
 <tag>
-<AM lemma="Home-2_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Home_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Home-2_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Home_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="home_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Home-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -8683,7 +8683,7 @@
 <LM>w#w-cmpr9407-014-p31s1w2</LM>
 </w.rf>
 <form>Martikán</form>
-<tag lemma="Martikán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martikán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-014-p31s1w3">
 <src.rf>manual</src.rf>

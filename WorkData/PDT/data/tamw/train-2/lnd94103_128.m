@@ -99,7 +99,7 @@
 <LM>w#w-lnd94103-128-p1s1w11</LM>
 </w.rf>
 <form>Dobsonových</form>
-<tag lemma="Dobsonův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Dobsonův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-lnd94103-128-p1s1w12">
 <src.rf>manual</src.rf>

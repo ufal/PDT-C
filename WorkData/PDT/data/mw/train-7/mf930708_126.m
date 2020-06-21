@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-126-p1s1w3</LM>
 </w.rf>
 <form>Bohemie</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-126-p2s1">
@@ -246,7 +246,7 @@
 <LM>w#w-mf930708-126-p2s1w26</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930708-126-p2s1w27">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-mf930708-126-p2s2w3</LM>
 </w.rf>
 <form>Trkal</form>
-<tag lemma="Trkal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trkal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p2s2w4">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-mf930708-126-p2s2w12</LM>
 </w.rf>
 <form>Kreuziger</form>
-<tag lemma="Kreuziger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kreuziger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p2s2w13">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-mf930708-126-p2s3w3</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p2s3w4">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-mf930708-126-p2s3w4</LM>
 </w.rf>
 <form>Ullrich</form>
-<tag lemma="Ullrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ullrich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p2s3w5">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf930708-126-p2s4w1</LM>
 </w.rf>
 <form>Bílek</form>
-<tag lemma="Bílek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bílek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p2s4w2">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf930708-126-p3s2w1</LM>
 </w.rf>
 <form>Trkal</form>
-<tag lemma="Trkal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trkal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p3s2w2">
 <src.rf>manual</src.rf>
@@ -561,10 +561,10 @@
 </w.rf>
 <form>TICO</form>
 <tag>
-<AM lemma="TICO_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS5-----A----</AM>
+<AM lemma="TICO_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Tico_;m_,t_^(vozidlo_Daewoo_Tico)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tico_;m_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS4-----A----</AM>
+<AM lemma="Tico_;m_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS5-----A----</AM>
 <AM lemma="TICO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -634,9 +634,9 @@
 </w.rf>
 <form>Baranowski</form>
 <tag>
-<AM lemma="Baranovský_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Baranowski_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Baranowski_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Baranovský_;Y" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Baranowski_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Baranowski_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930708-126-p3s3w2">
@@ -655,12 +655,12 @@
 <form>Pol</form>
 <tag>
 <AM lemma="Polsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</AM>
-<AM lemma="Pol_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pol_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Pol_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Pola_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Polo_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Polo_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="politický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="polohový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="polovina_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="poloviční_:B" src="auto">AAXXX----1A---8</AM>
@@ -742,7 +742,7 @@
 <LM>w#w-mf930708-126-p3s5w1</LM>
 </w.rf>
 <form>Ullrich</form>
-<tag lemma="Ullrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ullrich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p3s5w2">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-mf930708-126-p3s8w1</LM>
 </w.rf>
 <form>Kreuziger</form>
-<tag lemma="Kreuziger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kreuziger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p3s8w2">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 </w.rf>
 <form>CK</form>
 <tag>
-<AM lemma="CK_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="CK_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="CK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -990,7 +990,7 @@
 <LM>w#w-mf930708-126-p3s9w1</LM>
 </w.rf>
 <form>Ullrich</form>
-<tag lemma="Ullrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ullrich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p3s9w2">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-mf930708-126-p3s10w1</LM>
 </w.rf>
 <form>Glivar</form>
-<tag lemma="Glivar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Glivar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p3s10w2">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-mf930708-126-p3s12w1</LM>
 </w.rf>
 <form>Ullrich</form>
-<tag lemma="Ullrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ullrich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p3s12w2">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <LM>w#w-mf930708-126-p3s13w1</LM>
 </w.rf>
 <form>Kreuziger</form>
-<tag lemma="Kreuziger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kreuziger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p3s13w2">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 </w.rf>
 <form>CK</form>
 <tag>
-<AM lemma="CK_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="CK_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="CK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1316,7 +1316,7 @@
 <LM>w#w-mf930708-126-p3s14w1</LM>
 </w.rf>
 <form>Trkal</form>
-<tag lemma="Trkal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trkal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-126-p3s14w2">
 <src.rf>manual</src.rf>
@@ -1333,10 +1333,10 @@
 </w.rf>
 <form>TICO</form>
 <tag>
-<AM lemma="TICO_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS4-----A----</AM>
-<AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS5-----A----</AM>
+<AM lemma="TICO_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Tico_;m_,t_^(vozidlo_Daewoo_Tico)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tico_;m_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS4-----A----</AM>
+<AM lemma="Tico_;m_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS5-----A----</AM>
 <AM lemma="TICO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

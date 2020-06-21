@@ -157,7 +157,7 @@
 <LM>w#w-ln95043-095-p2s1w12</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-095-p2s1w13">
 <src.rf>manual</src.rf>
@@ -256,8 +256,8 @@
 </w.rf>
 <form>Sunny</form>
 <tag>
-<AM lemma="Sunny-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Sunny_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sunny-2_;m_^(vozidlo)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Sunny_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP1-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP4-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP5-----A----</AM>
@@ -1898,7 +1898,7 @@
 </w.rf>
 <form>LX</form>
 <tag>
-<AM lemma="LX_:B_;R" src="orig">NNNXX-----A---8</AM>
+<AM lemma="LX_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="LX-3`60" src="auto" recommended="1">C}-------------</AM>
 <AM lemma="LX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3143,7 +3143,7 @@
 <LM>w#w-ln95043-095-p4s1w1</LM>
 </w.rf>
 <form>Nissan</form>
-<tag lemma="Nissan_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nissan_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-095-p4s1w2">
 <src.rf>manual</src.rf>
@@ -3152,8 +3152,8 @@
 </w.rf>
 <form>Sunny</form>
 <tag>
-<AM lemma="Sunny-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Sunny_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sunny-2_;m_^(vozidlo)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Sunny_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP1-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP4-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP5-----A----</AM>

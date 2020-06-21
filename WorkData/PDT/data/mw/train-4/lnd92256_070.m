@@ -101,7 +101,7 @@
 <LM>w#w-lnd92256-070-p2s1w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p2s1w3">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 </w.rf>
 <form>Associated</form>
 <tag>
-<AM lemma="Associated_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Associated_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Associated-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -155,7 +155,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -174,8 +174,8 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p3s1w7">
@@ -402,7 +402,7 @@
 <LM>w#w-lnd92256-070-p3s3w9</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p3s3w10">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-lnd92256-070-p4s2w3</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p4s2w4">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-lnd92256-070-p4s3w3</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p4s3w4">
 <src.rf>manual</src.rf>
@@ -955,9 +955,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p4s3w18">
@@ -977,8 +977,8 @@
 </w.rf>
 <form>Perotova</form>
 <tag>
-<AM lemma="Perotův_;S_^(*2a)" src="orig">AUFS1M---------</AM>
-<AM lemma="Perotův_;S_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
+<AM lemma="Perotův_;Y_^(*2a)" src="orig">AUFS1M---------</AM>
+<AM lemma="Perotův_;Y_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p4s4w2">
@@ -1062,7 +1062,7 @@
 <LM>w#w-lnd92256-070-p4s4w11</LM>
 </w.rf>
 <form>Clintonovi</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-lnd92256-070-p4s4w13</LM>
 </w.rf>
 <form>Bushovi</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd92256-070-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-lnd92256-070-p5s1w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1419,7 +1419,7 @@
 <LM>w#w-lnd92256-070-p5s2w10</LM>
 </w.rf>
 <form>Malek</form>
-<tag lemma="Malek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Malek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-lnd92256-070-p6s1w7</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1577,7 +1577,7 @@
 </w.rf>
 <form>MTV</form>
 <tag>
-<AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MTV-1_:B_;m_^(TV_stanice_USA)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1683,9 +1683,9 @@
 <form>Lose</form>
 <tag>
 <AM lemma="lose_,t" src="orig">Vi-S---2--A----</AM>
-<AM lemma="Los_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Los_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Los_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Los_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Los_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Los_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="los-1_^(zvíře)" src="auto">NNMS5-----A----</AM>
 <AM lemma="los-2_^(výherní)" src="auto">NNIS5-----A----</AM>
 <AM lemma="lose_,t" src="auto">XX-------------</AM>
@@ -1724,7 +1724,7 @@
 <LM>w#w-lnd92256-070-p6s2w2</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1805,8 +1805,8 @@
 </w.rf>
 <form>Ross</form>
 <tag>
-<AM lemma="Ross_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ross_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ross_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ross_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p6s2w13">
@@ -1816,8 +1816,8 @@
 </w.rf>
 <form>Perot</form>
 <tag>
-<AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perot_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p6s2w14">
@@ -1901,8 +1901,8 @@
 </w.rf>
 <form>CNN</form>
 <tag>
-<AM lemma="CNN-1_:B_;K_;b_;y_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_:B_;K_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p6s3w7">
@@ -1946,7 +1946,7 @@
 <LM>w#w-lnd92256-070-p6s3w11</LM>
 </w.rf>
 <form>King</form>
-<tag lemma="King_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="King_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p6s3w12">
 <src.rf>manual</src.rf>
@@ -1957,7 +1957,7 @@
 <tag>
 <AM lemma="live_,t" src="orig">Dg-------1A----</AM>
 <AM lemma="Liv_;E" src="auto">NNMS5-----A----</AM>
-<AM lemma="live_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="live_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="live_,t" src="auto">XX-------------</AM>
 <AM lemma="Live-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2060,7 +2060,7 @@
 <LM>w#w-lnd92256-070-p6s5w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p6s5w3">
 <src.rf>manual</src.rf>
@@ -2137,7 +2137,7 @@
 <LM>w#w-lnd92256-070-p7s1w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2265,7 +2265,7 @@
 <LM>w#w-lnd92256-070-p7s1w18</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p7s1w19">
 <src.rf>manual</src.rf>
@@ -2329,7 +2329,7 @@
 <LM>w#w-lnd92256-070-p7s1w26</LM>
 </w.rf>
 <form>Gorea</form>
-<tag lemma="Gore_;S" src="orig" selected="1">NNMS4-----A---1</tag>
+<tag lemma="Gore_;Y" src="orig" selected="1">NNMS4-----A---1</tag>
 </m>
 <m id="m-lnd92256-070-p7s1w27">
 <src.rf>manual</src.rf>
@@ -2386,7 +2386,7 @@
 </w.rf>
 <form>two</form>
 <tag>
-<AM lemma="two_,t" src="orig">ClXPX----------</AM>
+<AM lemma="two_,t" src="orig">ClXXX----------</AM>
 <AM lemma="two-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2397,7 +2397,7 @@
 </w.rf>
 <form>bozos</form>
 <tag>
-<AM lemma="bozo_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="bozo_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="bozos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2460,7 +2460,7 @@
 <LM>w#w-lnd92256-070-p7s2w4</LM>
 </w.rf>
 <form>Quayle</form>
-<tag lemma="Quayle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Quayle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p7s2w5">
 <src.rf>manual</src.rf>
@@ -2540,7 +2540,7 @@
 <LM>w#w-lnd92256-070-p7s2w14</LM>
 </w.rf>
 <form>Clintonovi</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p7s2w15">
 <src.rf>manual</src.rf>
@@ -2585,7 +2585,7 @@
 <LM>w#w-lnd92256-070-p7s3w2</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p7s3w3">
 <src.rf>manual</src.rf>
@@ -3035,7 +3035,7 @@
 <LM>w#w-lnd92256-070-p9s1w4</LM>
 </w.rf>
 <form>Malek</form>
-<tag lemma="Malek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Malek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p9s1w5">
 <src.rf>manual</src.rf>
@@ -3059,7 +3059,7 @@
 <LM>w#w-lnd92256-070-p9s1w7</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p9s1w8">
 <src.rf>manual</src.rf>
@@ -3553,7 +3553,7 @@
 <LM>w#w-lnd92256-070-p9s4w22</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p9s4w23">
 <src.rf>manual</src.rf>
@@ -3601,7 +3601,7 @@
 <LM>w#w-lnd92256-070-p9s4w28</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p9s4w29">
 <src.rf>manual</src.rf>
@@ -3699,7 +3699,7 @@
 <LM>w#w-lnd92256-070-p10s1w7</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p10s1w8">
 <src.rf>manual</src.rf>
@@ -4170,7 +4170,7 @@
 </w.rf>
 <form>Post</form>
 <tag>
-<AM lemma="Post-2_;R_,t_^(př._Washington_Post)" src="orig">NNISX-----A----</AM>
+<AM lemma="Post-2_;m_,t_^(př._Washington_Post)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Post-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4239,7 +4239,7 @@
 </w.rf>
 <form>ABC</form>
 <tag>
-<AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ABC-4_:B_;m_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ABC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4281,7 +4281,7 @@
 <LM>w#w-lnd92256-070-p11s1w12</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p11s1w13">
 <src.rf>manual</src.rf>
@@ -4321,7 +4321,7 @@
 <LM>w#w-lnd92256-070-p11s1w17</LM>
 </w.rf>
 <form>Bush</form>
-<tag lemma="Bush_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bush_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-070-p11s1w18">
 <src.rf>manual</src.rf>
@@ -4362,8 +4362,8 @@
 </w.rf>
 <form>Perot</form>
 <tag>
-<AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perot_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-070-p11s1w23">

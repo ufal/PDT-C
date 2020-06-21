@@ -100,7 +100,7 @@
 <AM lemma="do_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-133-p2s1w4">
@@ -376,11 +376,11 @@
 </w.rf>
 <form>JOKO</form>
 <tag>
-<AM lemma="JOKO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="JOKO_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Joko_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Joko_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Joko_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="JOKO_:B_;m" src="orig">NNNXX-----A---8</AM>
+<AM lemma="JOKO_;m" src="auto">NNNXX-----A----</AM>
+<AM lemma="Joko_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Joko_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Joko_;m" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-133-p2s2w4">
@@ -674,11 +674,11 @@
 </w.rf>
 <form>JOKO</form>
 <tag>
-<AM lemma="JOKO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="JOKO_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Joko_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Joko_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Joko_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="JOKO_:B_;m" src="orig">NNNXX-----A---8</AM>
+<AM lemma="JOKO_;m" src="auto">NNNXX-----A----</AM>
+<AM lemma="Joko_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Joko_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Joko_;m" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-133-p2s4w17">

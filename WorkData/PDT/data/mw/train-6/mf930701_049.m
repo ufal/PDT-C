@@ -893,7 +893,7 @@
 <LM>w#w-mf930701-049-p2s6w21</LM>
 </w.rf>
 <form>Bláha</form>
-<tag lemma="Bláha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bláha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s6w22">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <LM>w#w-mf930701-049-p2s9w18</LM>
 </w.rf>
 <form>Bláha</form>
-<tag lemma="Bláha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bláha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s9w19">
 <src.rf>manual</src.rf>
@@ -2086,7 +2086,7 @@
 <LM>w#w-mf930701-049-p2s14w2</LM>
 </w.rf>
 <form>Bláha</form>
-<tag lemma="Bláha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bláha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s14w3">
 <src.rf>manual</src.rf>
@@ -2336,7 +2336,7 @@
 <LM>w#w-mf930701-049-p2s15w16</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cicoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s15w17">
 <src.rf>manual</src.rf>
@@ -2471,7 +2471,7 @@
 <LM>w#w-mf930701-049-p2s17w10</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cicoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s17w11">
 <src.rf>manual</src.rf>
@@ -3437,7 +3437,7 @@
 <LM>w#w-mf930701-049-p2s24w12</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cicoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s24w13">
 <src.rf>manual</src.rf>
@@ -3852,7 +3852,7 @@
 <LM>w#w-mf930701-049-p2s28w2</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cicoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s28w3">
 <src.rf>manual</src.rf>
@@ -4490,7 +4490,7 @@
 <LM>w#w-mf930701-049-p2s33w16</LM>
 </w.rf>
 <form>Przybyla</form>
-<tag lemma="Przybyla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Przybyla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s33w17">
 <src.rf>manual</src.rf>
@@ -5008,7 +5008,7 @@
 <LM>w#w-mf930701-049-p2s37w21</LM>
 </w.rf>
 <form>Przybyla</form>
-<tag lemma="Przybyla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Przybyla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s37w22">
 <src.rf>manual</src.rf>
@@ -5199,7 +5199,7 @@
 <LM>w#w-mf930701-049-p2s39w3</LM>
 </w.rf>
 <form>Bláhy</form>
-<tag lemma="Bláha_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bláha_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-049-p2s39w4">
 <src.rf>manual</src.rf>
@@ -5610,7 +5610,7 @@
 <LM>w#w-mf930701-049-p3s1w2</LM>
 </w.rf>
 <form>WILNETKA</form>
-<tag lemma="Wilnetka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wilnetka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-049-p4s1">
@@ -5644,7 +5644,7 @@
 <LM>w#w-mf930701-049-p4s1w4</LM>
 </w.rf>
 <form>ŽIŽKA</form>
-<tag lemma="Žižka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žižka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

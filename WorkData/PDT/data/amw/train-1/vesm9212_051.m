@@ -28,9 +28,9 @@
 </w.rf>
 <form>Xerces</form>
 <tag>
-<AM lemma="Xerces_;L_;K_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Xerces_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Xerces_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Xerces_;U_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Xerces_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Xerces_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -796,9 +796,9 @@
 </w.rf>
 <form>Xerces</form>
 <tag>
-<AM lemma="Xerces_;L_;K_,t" src="orig">NNFSX-----A----</AM>
-<AM lemma="Xerces_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Xerces_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Xerces_;U_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Xerces_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Xerces_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Xerces-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -884,7 +884,7 @@
 </w.rf>
 <form>Glaucopsyche</form>
 <tag>
-<AM lemma="Glaucopsyche_;L_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Glaucopsyche_;U_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Glaucopsyche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -895,7 +895,7 @@
 </w.rf>
 <form>xerces</form>
 <tag>
-<AM lemma="xerces_;L_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="xerces_;U_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="xerces-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1607,7 +1607,7 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-1_;m_,t_^(souč._názvů,_např._Science)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1757,7 +1757,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p4s1w12">
@@ -1776,7 +1776,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p4s1w14">
@@ -1793,7 +1793,7 @@
 <LM>w#w-vesm9212-051-p4s1w15</LM>
 </w.rf>
 <form>Wilson</form>
-<tag lemma="Wilson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wilson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-051-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1809,7 +1809,7 @@
 <LM>w#w-vesm9212-051-p4s1w17</LM>
 </w.rf>
 <form>Harvardovy</form>
-<tag lemma="Harvardův-1_;S_^(*4-1)" src="auto" selected="1">AUFS2M---------</tag>
+<tag lemma="Harvardův-1_;Y_^(*4-1)" src="auto" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9212-051-p4s1w18">
 <src.rf>manual</src.rf>
@@ -2121,7 +2121,7 @@
 </w.rf>
 <form>Noemovu</form>
 <tag>
-<AM lemma="Noemův_;S_^(*3)" src="auto">AUFS4M---------</AM>
+<AM lemma="Noemův_;Y_^(*3)" src="auto">AUFS4M---------</AM>
 <AM lemma="Noemův_;Y_^(*3)" src="manual" selected="1">AUFS4M---------</AM>
 </tag>
 </m>
@@ -2348,8 +2348,8 @@
 </w.rf>
 <form>danausů</form>
 <tag>
-<AM lemma="danaus_;L_,t_^(motýl)" src="auto">NNMP2-----A----</AM>
-<AM lemma="danaus_;L_^(motýl)" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="danaus_;U_,t_^(motýl)" src="auto">NNMP2-----A----</AM>
+<AM lemma="danaus_;U_^(motýl)" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p4s5w8">
@@ -2640,7 +2640,7 @@
 <LM>w#w-vesm9212-051-p4s7w2</LM>
 </w.rf>
 <form>Chalupský</form>
-<tag lemma="Chalupský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chalupský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-051-p5s1">

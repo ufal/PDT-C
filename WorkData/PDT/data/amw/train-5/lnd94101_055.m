@@ -366,7 +366,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-055-p1s4w9">
@@ -383,7 +383,7 @@
 <LM>w#w-lnd94101-055-p1s4w10</LM>
 </w.rf>
 <form>Kazimirov</form>
-<tag lemma="Kazimirov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kazimirov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-055-p1s4w11">
 <src.rf>manual</src.rf>

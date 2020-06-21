@@ -528,9 +528,9 @@
 </w.rf>
 <form>Kinorevue</form>
 <tag>
-<AM lemma="Kinorevue_;R" src="orig">NNNXX-----A----</AM>
-<AM lemma="Kinorevue_;K_;R_;u" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Kinorevue_;K_;R" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Kinorevue_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Kinorevue_;m" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Kinorevue_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-27-p4s1w3">
@@ -709,7 +709,7 @@
 <LM>w#w-ln94203-27-p4s2w17</LM>
 </w.rf>
 <form>Nedošínské</form>
-<tag lemma="Nedošínská_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nedošínská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-27-p4s2w18">
 <src.rf>manual</src.rf>

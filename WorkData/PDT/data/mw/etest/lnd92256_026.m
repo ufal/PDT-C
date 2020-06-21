@@ -60,7 +60,7 @@
 </w.rf>
 <form>Jmk</form>
 <tag>
-<AM lemma="Jmk_:B_;K_^(Jihomoravský_kraj)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Jmk_:B_;m_^(Jihomoravský_kraj)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Jmk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -147,7 +147,7 @@
 <LM>w#w-lnd92256-026-p1s2w2</LM>
 </w.rf>
 <form>Sikora</form>
-<tag lemma="Sikora_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sikora_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-026-p1s2w3">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <form>Turka</form>
 <tag>
 <AM lemma="Turek_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Turek_;E_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Turek_;E_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-026-p1s3w10">
@@ -357,7 +357,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="C-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-026-p2s1w8">
@@ -374,7 +374,7 @@
 <LM>w#w-lnd92256-026-p2s1w9</LM>
 </w.rf>
 <form>Manners</form>
-<tag lemma="Manners_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Manners_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-026-p2s1w10">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-lnd92256-026-p2s1w14</LM>
 </w.rf>
 <form>Lesného</form>
-<tag lemma="Lesný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lesný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-026-p2s1w15">
 <src.rf>manual</src.rf>

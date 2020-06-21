@@ -1705,7 +1705,7 @@
 <form>t</form>
 <tag>
 <AM lemma="ten_:B" src="orig">PDNS1---------8</AM>
-<AM lemma="t-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="t-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-140-p4s1w22">
@@ -1724,7 +1724,7 @@
 <form>j</form>
 <tag>
 <AM lemma="být_:B_^(jen_ve_spojení_t._j.,_to_jest)" src="orig">VB-S---3P-AA--8</AM>
-<AM lemma="j-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="j-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-140-p4s1w24">

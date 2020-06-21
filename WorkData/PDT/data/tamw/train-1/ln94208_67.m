@@ -20,7 +20,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -65,10 +65,10 @@
 </w.rf>
 <form>reu</form>
 <tag>
-<AM lemma="reu-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="reu-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="reum" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="reum" src="auto">NNNS6-----A----</AM>
-<AM lemma="reu-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="reu-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-67-p2s1Aw4">
@@ -275,7 +275,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -344,8 +344,8 @@
 </w.rf>
 <form>Abassi</form>
 <tag>
-<AM lemma="Abassi_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Abassi_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abassi_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Abassi_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-67-p2s3w8">
@@ -354,7 +354,7 @@
 <LM>w#w-ln94208-67-p2s3w8</LM>
 </w.rf>
 <form>Madani</form>
-<tag lemma="Madani_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Madani_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-67-p2s3w9">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Zerouala</form>
-<tag lemma="Zeroual_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Zeroual_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-67-p2s3w18">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

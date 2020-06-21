@@ -451,7 +451,7 @@
 <LM>w#w-cmpr9407-046-p4s2w15</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-046-p4s2w16">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <form>Stehlíkem</form>
 <tag>
 <AM lemma="stehlík" src="orig">NNMS7-----A----</AM>
-<AM lemma="Stehlík_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Stehlík_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-046-p4s2w30">
@@ -592,7 +592,7 @@
 <LM>w#w-cmpr9407-046-p6s1w2</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-046-p8s1">
@@ -6249,7 +6249,7 @@
 <LM>w#w-cmpr9407-046-p23s4w3</LM>
 </w.rf>
 <form>Čechoinvest</form>
-<tag lemma="Čechoinvest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Čechoinvest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-046-p23s4w4">
 <src.rf>manual</src.rf>
@@ -6265,7 +6265,7 @@
 <LM>w#w-cmpr9407-046-p23s4w5</LM>
 </w.rf>
 <form>Moravoinvest</form>
-<tag lemma="Moravoinvest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Moravoinvest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-046-p23s4w6">
 <src.rf>manual</src.rf>

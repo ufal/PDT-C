@@ -136,8 +136,8 @@
 </w.rf>
 <form>jd</form>
 <tag>
-<AM lemma="jd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jd-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jd-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jd-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p3s1w6">
@@ -155,8 +155,8 @@
 </w.rf>
 <form>mot</form>
 <tag>
-<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mot-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p3s1w8">
@@ -215,7 +215,7 @@
 <LM>w#w-lnd92259-004-p3s2w5</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-004-p3s2w6">
 <src.rf>manual</src.rf>
@@ -378,8 +378,8 @@
 </w.rf>
 <form>FOS</form>
 <tag>
-<AM lemma="FOS_:B_;K_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="FOS_:B_;m_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="fosa_;U_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="FOS_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="FOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -391,7 +391,7 @@
 </w.rf>
 <form>PHGN</form>
 <tag>
-<AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
+<AM lemma="PHGN_:B_;m_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
 <AM lemma="PHGN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PHGN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -701,8 +701,8 @@
 </w.rf>
 <form>FOS</form>
 <tag>
-<AM lemma="FOS_:B_;K_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="FOS_:B_;m_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="fosa_;U_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="FOS_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="FOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -714,7 +714,7 @@
 </w.rf>
 <form>PHGN</form>
 <tag>
-<AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
+<AM lemma="PHGN_:B_;m_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
 <AM lemma="PHGN_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PHGN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -733,7 +733,7 @@
 <LM>w#w-lnd92259-004-p4s1w39</LM>
 </w.rf>
 <form>Zapletal</form>
-<tag lemma="Zapletal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zapletal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-004-p4s1w40">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-lnd92259-004-p6s1w17</LM>
 </w.rf>
 <form>Dyby</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-004-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p6s1w22">
@@ -1467,7 +1467,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="O-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p6s1w24">
@@ -1486,7 +1486,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-004-p6s1w26">
@@ -1503,7 +1503,7 @@
 <LM>w#w-lnd92259-004-p6s1w27</LM>
 </w.rf>
 <form>Gheyselinckem</form>
-<tag lemma="Gheyselinck_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gheyselinck_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-004-p6s1w28">
 <src.rf>manual</src.rf>
@@ -2389,7 +2389,7 @@
 <LM>w#w-lnd92259-004-p7s2w21</LM>
 </w.rf>
 <form>Gheyselincka</form>
-<tag lemma="Gheyselinck_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gheyselinck_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-004-p7s2w22">
 <src.rf>manual</src.rf>
@@ -3080,7 +3080,7 @@
 <LM>w#w-lnd92259-004-p7s5w16</LM>
 </w.rf>
 <form>Hřib</form>
-<tag lemma="Hřib-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hřib-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-004-p7s5w17">
 <src.rf>manual</src.rf>
@@ -3121,8 +3121,8 @@
 </w.rf>
 <form>FOS</form>
 <tag>
-<AM lemma="FOS_:B_;K_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="FOS_:B_;m_^(Federální_odborový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="fosa_;U_^(živočich,_cibetkovitá_šelma)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="FOS_:B" src="manual">NNIXX-----A---8</AM>
 <AM lemma="FOS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

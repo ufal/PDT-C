@@ -54,8 +54,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-063-p2s1w3">
@@ -155,8 +155,8 @@
 </w.rf>
 <form>Lotara</form>
 <tag>
-<AM lemma="Lotar_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lotar_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Lotar_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Lotar_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-063-p3s1w7">
@@ -165,7 +165,7 @@
 <LM>w#w-lnd92257-063-p3s1w7</LM>
 </w.rf>
 <form>Indrucha</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-063-p3s1w8">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-lnd92257-063-p3s2w6</LM>
 </w.rf>
 <form>Havlovi</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92257-063-p3s2w7">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-lnd92257-063-p3s3w5</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-063-p3s3w6">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-063-p3s3w15">
@@ -492,7 +492,7 @@
 <LM>w#w-lnd92257-063-p3s3w16</LM>
 </w.rf>
 <form>Indruch</form>
-<tag lemma="Indruch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Indruch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-063-p3s3w17">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-lnd92257-063-p3s5w5</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-063-p3s5w6">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-lnd92257-063-p4s1w2</LM>
 </w.rf>
 <form>JEMELKA</form>
-<tag lemma="Jemelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jemelka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-063-p4s1w3">
 <src.rf>manual</src.rf>

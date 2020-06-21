@@ -75,7 +75,7 @@
 <LM>w#w-ln94206-100-p1s1w8</LM>
 </w.rf>
 <form>Holanova</form>
-<tag lemma="Holanův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Holanův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94206-100-p1s1w9">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94206-100-p2s1w7</LM>
 </w.rf>
 <form>Holanovy</form>
-<tag lemma="Holanův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Holanův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94206-100-p2s1w8">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-ln94206-100-p2s1w18</LM>
 </w.rf>
 <form>Justla</form>
-<tag lemma="Justl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Justl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s1w19">
 <src.rf>manual</src.rf>
@@ -248,8 +248,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-100-p2s2w2">
@@ -314,7 +314,7 @@
 <LM>w#w-ln94206-100-p2s2w9</LM>
 </w.rf>
 <form>Kantůrková</form>
-<tag lemma="Kantůrková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kantůrková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s2w10">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 </w.rf>
 <form>SOM</form>
 <tag>
-<AM lemma="SOM-3_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SOM-3_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SOM-1_:B_,t_^(start_of_message)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SOM-2_:B_,t_^(system_object_object)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SOM-3_:B" src="manual">NNXXX-----A---8</AM>
@@ -466,7 +466,7 @@
 <LM>w#w-ln94206-100-p2s3w17</LM>
 </w.rf>
 <form>Kantůrková</form>
-<tag lemma="Kantůrková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kantůrková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s3w18">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 </w.rf>
 <form>SOM</form>
 <tag>
-<AM lemma="SOM-3_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SOM-3_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SOM-1_:B_,t_^(start_of_message)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SOM-2_:B_,t_^(system_object_object)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SOM-3_:B" src="manual">NNXXX-----A---8</AM>
@@ -646,7 +646,7 @@
 <LM>w#w-ln94206-100-p2s4w6</LM>
 </w.rf>
 <form>Hronovi</form>
-<tag lemma="Hron_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hron_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s4w7">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-ln94206-100-p2s4w15</LM>
 </w.rf>
 <form>Holanovi</form>
-<tag lemma="Holan_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Holan_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s4w16">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-ln94206-100-p2s5w5</LM>
 </w.rf>
 <form>Justlem</form>
-<tag lemma="Justl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Justl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-ln94206-100-p2s6w11</LM>
 </w.rf>
 <form>Kantůrková</form>
-<tag lemma="Kantůrková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kantůrková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1181,10 +1181,10 @@
 </w.rf>
 <form>šek</form>
 <tag>
-<AM lemma="šek-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šek-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="šek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="šek" src="auto">NNIS4-----A----</AM>
-<AM lemma="šek-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šek-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-100-p2s7w3">

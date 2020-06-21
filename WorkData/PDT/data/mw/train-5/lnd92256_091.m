@@ -252,8 +252,8 @@
 <form>hippies</form>
 <tag>
 <AM lemma="hippies" src="orig">NNNXX-----A----</AM>
-<AM lemma="hippies_,t" src="auto" recommended="1">NNMPX-----A----</AM>
-<AM lemma="hippies" src="manual" selected="1">NNMPX-----A----</AM>
+<AM lemma="hippies_,t" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="hippies" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p3s1w19">
@@ -390,7 +390,7 @@
 <LM>w#w-lnd92256-091-p3s1w35</LM>
 </w.rf>
 <form>Křižíkových</form>
-<tag lemma="Křižíkův_;S_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Křižíkův_;Y_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-lnd92256-091-p3s1w36">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <form>Scott</form>
 <tag>
 <AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scott-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Scott-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s2w5">
@@ -941,7 +941,7 @@
 <form>Scott</form>
 <tag>
 <AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scott-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Scott-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s4w7">
@@ -976,7 +976,7 @@
 <form>Janek</form>
 <tag>
 <AM lemma="Janek_;Y_^(^H3*2)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Janek_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Janek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s4w11">
@@ -1193,7 +1193,7 @@
 </w.rf>
 <form>Evolution</form>
 <tag>
-<AM lemma="Evolution_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Evolution_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Evolution-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1346,7 +1346,7 @@
 <form>Scott</form>
 <tag>
 <AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scott-2_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Scott-2_;m" src="manual">NNIS1-----A----</AM>
 <AM lemma="Scott-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1357,7 +1357,7 @@
 </w.rf>
 <form>Ultimatic</form>
 <tag>
-<AM lemma="Ultimatic_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ultimatic_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Ultimatic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1489,7 +1489,7 @@
 <LM>w#w-lnd92256-091-p4s7w10</LM>
 </w.rf>
 <form>Kolex</form>
-<tag lemma="Kolex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kolex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-091-p4s7w11">
 <src.rf>manual</src.rf>
@@ -1556,8 +1556,8 @@
 </w.rf>
 <form>Rex</form>
 <tag>
-<AM lemma="Rex-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Rex_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rex-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Rex_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="rex" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rex" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1626,7 +1626,7 @@
 <LM>w#w-lnd92256-091-p4s9w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92256-091-p4s9w2">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <LM>w#w-lnd92256-091-p4s11w11</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="Yamaha-2_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Yamaha-2_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-091-p4s11w12">
 <src.rf>manual</src.rf>
@@ -2231,8 +2231,8 @@
 </w.rf>
 <form>Jawa</form>
 <tag>
-<AM lemma="Jawa-2_;K_;R_^(vozidlo)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jawa-2_;m_^(vozidlo)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Jawa_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s13w7">
@@ -2700,7 +2700,7 @@
 <LM>w#w-lnd92256-091-p5s1w2</LM>
 </w.rf>
 <form>ŠULC</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -19,7 +19,7 @@
 <LM>w#w-cmpr9416-003-p2s1w1</LM>
 </w.rf>
 <form>Carina</form>
-<tag lemma="Carina_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Carina_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p2s1w2">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-cmpr9416-003-p3s1Aw7</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p3s1Aw8">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-cmpr9416-003-p4s1w2</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p4s1w3">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-cmpr9416-003-p8s1w1</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p8s1w2">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-cmpr9416-003-p8s1w9</LM>
 </w.rf>
 <form>Carina</form>
-<tag lemma="Carina_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Carina_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p8s1w10">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-cmpr9416-003-p10s1w5</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p10s1w6">
 <src.rf>manual</src.rf>
@@ -1427,7 +1427,7 @@
 <LM>w#w-cmpr9416-003-p10s2w16</LM>
 </w.rf>
 <form>Toyoty</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p10s2w17">
 <src.rf>manual</src.rf>
@@ -2003,7 +2003,7 @@
 <LM>w#w-cmpr9416-003-p10s6w17</LM>
 </w.rf>
 <form>Toyoty</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p10s6w18">
 <src.rf>manual</src.rf>
@@ -2127,7 +2127,7 @@
 <LM>w#w-cmpr9416-003-p11s2w4</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p11s2w5">
 <src.rf>manual</src.rf>
@@ -2750,7 +2750,7 @@
 <LM>w#w-cmpr9416-003-p12s1w15</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p12s1w16">
 <src.rf>manual</src.rf>
@@ -3416,7 +3416,7 @@
 <LM>w#w-cmpr9416-003-p14s1Aw6</LM>
 </w.rf>
 <form>Carina</form>
-<tag lemma="Carina_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Carina_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p14s1Aw7">
 <src.rf>manual</src.rf>
@@ -3425,8 +3425,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="E-33" src="orig">Q3-------------</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-003-p14s1Aw8">
@@ -3731,7 +3731,7 @@
 <LM>w#w-cmpr9416-003-p14s2w18</LM>
 </w.rf>
 <form>Jones</form>
-<tag lemma="Jones_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jones_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p14s2w19">
 <src.rf>manual</src.rf>
@@ -3756,10 +3756,10 @@
 </w.rf>
 <form>Toyota</form>
 <tag>
-<AM lemma="Toyota-1_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</AM>
-<AM lemma="Toyota-3_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="toyota_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Toyota-1_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Toyota-3_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="toyota_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-003-p14s2w22">
@@ -3954,7 +3954,7 @@
 <LM>w#w-cmpr9416-003-p14s3w18</LM>
 </w.rf>
 <form>Toyoty</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p14s3w19">
 <src.rf>manual</src.rf>
@@ -6828,7 +6828,7 @@
 <LM>w#w-cmpr9416-003-p21s1w1</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-003-p21s1w2">
 <src.rf>manual</src.rf>

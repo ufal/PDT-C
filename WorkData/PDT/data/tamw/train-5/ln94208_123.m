@@ -49,10 +49,10 @@
 <AM lemma="Bill_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Bill_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bill_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Billa_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Billa_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Billa_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Billa_;K" src="auto">NNFS2-----A----</AM>
+<AM lemma="Billa_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Billa_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Billa_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Billa_;m" src="auto">NNFS2-----A----</AM>
 <AM lemma="Billy_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Billy_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="bill_,t" src="auto">NNIP1-----A----</AM>
@@ -67,7 +67,7 @@
 <LM>w#w-ln94208-123-p2s1w2</LM>
 </w.rf>
 <form>Wright</form>
-<tag lemma="Wright_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wright_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-123-p2s1w3">
 <src.rf>manual</src.rf>

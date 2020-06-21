@@ -35,7 +35,7 @@
 <LM>w#w-ln94211-27-p1s1w3</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-27-p1s1w4">
 <src.rf>manual</src.rf>
@@ -52,7 +52,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Scharping</form>
-<tag lemma="Scharping_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scharping_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-27-p2s1A">
@@ -121,7 +121,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -211,7 +211,7 @@
 <LM>w#w-ln94211-27-p2s1Bw17</LM>
 </w.rf>
 <form>Kohla</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-27-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -605,7 +605,7 @@
 </w.rf>
 <form>SPD</form>
 <tag>
-<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPD-1_:B_;m_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -623,7 +623,7 @@
 <LM>w#w-ln94211-27-p3s2w4</LM>
 </w.rf>
 <form>Scharping</form>
-<tag lemma="Scharping_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scharping_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-27-p3s2w5">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CDU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1017,7 +1017,7 @@
 <LM>w#w-ln94211-27-p3s4w26</LM>
 </w.rf>
 <form>Scharping</form>
-<tag lemma="Scharping_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scharping_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-27-p3s4w27">
 <src.rf>manual</src.rf>

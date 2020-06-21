@@ -27,7 +27,7 @@
 <LM>w#w-mf930702-017-p1s1w2</LM>
 </w.rf>
 <form>Hirš</form>
-<tag lemma="Hirš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hirš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-017-p1s1w3">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 </w.rf>
 <form>mat</form>
 <tag>
-<AM lemma="mat-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mat-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="mat" src="auto">NNIS1-----A----</AM>
 <AM lemma="mat" src="auto">NNIS4-----A----</AM>
 <AM lemma="materiál_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
@@ -162,7 +162,7 @@
 <LM>w#w-mf930702-017-p2s1w12</LM>
 </w.rf>
 <form>Hirš</form>
-<tag lemma="Hirš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hirš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-017-p2s1w13">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-mf930702-017-p2s2w1</LM>
 </w.rf>
 <form>Hirš</form>
-<tag lemma="Hirš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hirš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-017-p2s2w2">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -602,7 +602,7 @@
 </w.rf>
 <form>ČSS</form>
 <tag>
-<AM lemma="ČSS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -734,7 +734,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -770,7 +770,7 @@
 <LM>w#w-mf930702-017-p2s4w1</LM>
 </w.rf>
 <form>Hirš</form>
-<tag lemma="Hirš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hirš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-017-p2s4w2">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 </w.rf>
 <form>LSNS</form>
 <tag>
-<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

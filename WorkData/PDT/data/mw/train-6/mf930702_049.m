@@ -83,7 +83,7 @@
 <form>R</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-049-p3s1w2">
@@ -199,7 +199,7 @@
 <LM>w#w-mf930702-049-p5s1w5</LM>
 </w.rf>
 <form>Taxisova</form>
-<tag lemma="Taxisův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Taxisův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930702-049-p5s1w6">
 <src.rf>manual</src.rf>

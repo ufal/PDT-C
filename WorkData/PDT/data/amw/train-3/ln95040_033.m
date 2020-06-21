@@ -35,7 +35,7 @@
 <LM>w#w-ln95040-033-p1s1w3</LM>
 </w.rf>
 <form>Ščenikova</form>
-<tag lemma="Ščenikov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ščenikov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-033-p1s1w4">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-ln95040-033-p1s1w5</LM>
 </w.rf>
 <form>Johnsona</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95040-033-p2s1">
@@ -101,7 +101,7 @@
 <LM>w#w-ln95040-033-p2s1w6</LM>
 </w.rf>
 <form>Ščenikov</form>
-<tag lemma="Ščenikov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ščenikov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-033-p2s1w7">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95040-033-p2s2w11</LM>
 </w.rf>
 <form>Kornějev</form>
-<tag lemma="Kornějev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kornějev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-033-p2s2w12">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -566,7 +566,7 @@
 <LM>w#w-ln95040-033-p2s3w20</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-033-p2s3w21">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-ln95040-033-p2s5w9</LM>
 </w.rf>
 <form>McKoy</form>
-<tag lemma="McKoy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McKoy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-033-p2s5w10">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-ln95040-033-p2s6w9</LM>
 </w.rf>
 <form>Bubka</form>
-<tag lemma="Bubka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bubka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-033-p2s6w10">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -949,8 +949,8 @@
 </w.rf>
 <form>Rodion</form>
 <tag>
-<AM lemma="Rodion_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rodion_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rodion_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rodion_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-033-p2s7w3">
@@ -959,7 +959,7 @@
 <LM>w#w-ln95040-033-p2s7w3</LM>
 </w.rf>
 <form>Gataullin</form>
-<tag lemma="Gataullin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gataullin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-033-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

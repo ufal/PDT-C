@@ -67,7 +67,7 @@
 <LM>w#w-mf930713-059-p1s1w7</LM>
 </w.rf>
 <form>Ceé</form>
-<tag lemma="Ceé_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ceé_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-059-p1s1w8">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-mf930713-059-p1s1w13</LM>
 </w.rf>
 <form>Antoš</form>
-<tag lemma="Antoš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Antoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-059-p1s1w14">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-mf930713-059-p1s1w23</LM>
 </w.rf>
 <form>Sekerák</form>
-<tag lemma="Sekerák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sekerák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-059-p1s1w24">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-mf930713-059-p1s1w29</LM>
 </w.rf>
 <form>Štefl</form>
-<tag lemma="Štefl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štefl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-059-p1s1w30">
 <src.rf>manual</src.rf>

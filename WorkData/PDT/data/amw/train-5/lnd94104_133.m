@@ -2430,7 +2430,7 @@
 <LM>w#w-lnd94104-133-p1s26Aw9</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94104-133-p1s26Aw10">
 <src.rf>manual</src.rf>

@@ -45,7 +45,7 @@
 <LM>w#w-mf920923-023-p2s1w2</LM>
 </w.rf>
 <form>KRÁLOVÁ</form>
-<tag lemma="Králová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Králová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-023-p2s1w3">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 </w.rf>
 <form>FIJEC</form>
 <tag>
-<AM lemma="FIJEC_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FIJEC_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FIJEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

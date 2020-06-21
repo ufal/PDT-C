@@ -388,7 +388,7 @@
 <LM>w#w-ln94207-130-p3s1w8</LM>
 </w.rf>
 <form>Mělnicku</form>
-<tag lemma="Mělnicko_;G_;S" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Mělnicko_;G_;Y" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94207-130-p3s1w9">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-130-p3s2w6">
@@ -692,7 +692,7 @@
 <LM>w#w-ln94207-130-p3s2w7</LM>
 </w.rf>
 <form>Kuncová</form>
-<tag lemma="Kuncová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kuncová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-130-p3s2w8">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-ln94207-130-p3s3w5</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-130-p3s3w6">
 <src.rf>manual</src.rf>

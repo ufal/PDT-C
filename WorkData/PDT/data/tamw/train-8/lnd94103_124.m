@@ -37,7 +37,7 @@
 <LM>w#w-lnd94103-124-p1s5w1</LM>
 </w.rf>
 <form>Sakic</form>
-<tag lemma="Sakic_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sakic_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-124-p1s5w2">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 <LM>w#w-lnd94103-124-p1s6w1</LM>
 </w.rf>
 <form>Sanderson</form>
-<tag lemma="Sanderson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sanderson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-124-p1s6w2">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-lnd94103-124-p1s16w1</LM>
 </w.rf>
 <form>Köpf</form>
-<tag lemma="Köpf_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Köpf_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-124-p1s16w2">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-lnd94103-124-p1s17w3</LM>
 </w.rf>
 <form>Murphy</form>
-<tag lemma="Murphy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murphy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-124-p1s17w4">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-lnd94103-124-p1s23w1</LM>
 </w.rf>
 <form>Lehtinen</form>
-<tag lemma="Lehtinen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lehtinen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-124-p1s23w2">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-lnd94103-124-p1s30w1</LM>
 </w.rf>
 <form>Young</form>
-<tag lemma="Young_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Young_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-124-p1s30w2">
 <src.rf>manual</src.rf>

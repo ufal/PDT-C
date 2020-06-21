@@ -405,7 +405,7 @@
 <form>Alan</form>
 <tag>
 <AM lemma="Alan_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alan_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-087-p3s2w15">
@@ -596,7 +596,7 @@
 <LM>w#w-ln95041-087-p4s1w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln95041-087-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-ln95041-087-p5s2w4</LM>
 </w.rf>
 <form>Horské</form>
-<tag lemma="Horská_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Horská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-087-p5s2w5">
 <src.rf>manual</src.rf>
@@ -2511,7 +2511,7 @@
 <form>Kovařík</form>
 <tag>
 <AM lemma="kovařík" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kovařík_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kovařík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-087-p8s2w3">

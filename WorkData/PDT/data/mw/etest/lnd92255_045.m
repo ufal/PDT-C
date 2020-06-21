@@ -20,7 +20,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -65,7 +65,7 @@
 <LM>w#w-lnd92255-045-p2s1w3</LM>
 </w.rf>
 <form>zšá</form>
-<tag lemma="zšá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="zšá-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92255-045-p2s1w4">
 <src.rf>manual</src.rf>
@@ -100,7 +100,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -119,7 +119,7 @@
 <LM>w#w-lnd92255-045-p2s2w4</LM>
 </w.rf>
 <form>Čarnogurský</form>
-<tag lemma="Čarnogurský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čarnogurský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-045-p2s2w5">
 <src.rf>manual</src.rf>
@@ -401,9 +401,9 @@
 </w.rf>
 <form>Bindera</form>
 <tag>
-<AM lemma="Binder_;S" src="orig">NNMS4-----A----</AM>
-<AM lemma="Binder_;S" src="auto">NNMS2-----A---2</AM>
-<AM lemma="Binder_;S" src="auto" recommended="1" selected="1">NNMS4-----A---2</AM>
+<AM lemma="Binder_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Binder_;Y" src="auto">NNMS2-----A---2</AM>
+<AM lemma="Binder_;Y" src="auto" recommended="1" selected="1">NNMS4-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd92255-045-p2s3w19">
@@ -424,8 +424,8 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual">Q3-------------</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-045-p2s4w2">
@@ -442,7 +442,7 @@
 <LM>w#w-lnd92255-045-p2s4w3</LM>
 </w.rf>
 <form>Čarnogurský</form>
-<tag lemma="Čarnogurský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čarnogurský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-045-p2s4w4">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -813,7 +813,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -889,7 +889,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -916,7 +916,7 @@
 <LM>w#w-lnd92255-045-p2s6w14</LM>
 </w.rf>
 <form>Mečiar</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-045-p2s6w15">
 <src.rf>manual</src.rf>

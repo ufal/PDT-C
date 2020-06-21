@@ -181,8 +181,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-132-p2s2w11">
@@ -364,7 +364,7 @@
 <LM>w#w-mf920923-132-p2s3w10</LM>
 </w.rf>
 <form>Ašraviová</form>
-<tag lemma="Ašraviová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ašraviová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-132-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-mf920923-132-p4s2w32</LM>
 </w.rf>
 <form>Rabinovič</form>
-<tag lemma="Rabinovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabinovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-132-p4s2w33">
 <src.rf>manual</src.rf>
@@ -1163,10 +1163,10 @@
 </w.rf>
 <form>Alaf</form>
 <tag>
-<AM lemma="Alaf_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alaf_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Alaf_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Alaf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alaf_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alaf_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Alaf_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Alaf-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-132-p5s1w6">

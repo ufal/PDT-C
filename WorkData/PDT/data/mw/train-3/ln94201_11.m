@@ -314,7 +314,7 @@
 <LM>w#w-ln94201-11-p2s2w5</LM>
 </w.rf>
 <form>Petrželka</form>
-<tag lemma="Petrželka-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrželka-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s2w6">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-ln94201-11-p2s2w11</LM>
 </w.rf>
 <form>Sellier</form>
-<tag lemma="Sellier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sellier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s2w12">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln94201-11-p2s2w13</LM>
 </w.rf>
 <form>Bellot</form>
-<tag lemma="Bellot_;K_^(Sellier_&amp;_Bellot)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bellot_;m_^(Sellier_&amp;_Bellot)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-ln94201-11-p2s6w9</LM>
 </w.rf>
 <form>Sellier</form>
-<tag lemma="Sellier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sellier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-ln94201-11-p2s6w11</LM>
 </w.rf>
 <form>Bellot</form>
-<tag lemma="Bellot_;K_^(Sellier_&amp;_Bellot)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bellot_;m_^(Sellier_&amp;_Bellot)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-ln94201-11-p2s6w22</LM>
 </w.rf>
 <form>Kovohutí</form>
-<tag lemma="Kovohutě_;K" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Kovohutě_;m" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s6w23">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-ln94201-11-p2s7w1</LM>
 </w.rf>
 <form>Petrželka</form>
-<tag lemma="Petrželka-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrželka-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s7w2">
 <src.rf>manual</src.rf>

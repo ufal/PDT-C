@@ -306,7 +306,7 @@
 </w.rf>
 <form>VZP</form>
 <tag>
-<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -316,7 +316,7 @@
 <LM>w#w-ln95048-140-p2s2w3</LM>
 </w.rf>
 <form>Zimová</form>
-<tag lemma="Zimová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zimová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-140-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-ln95048-140-p2s7w1</LM>
 </w.rf>
 <form>Zimová</form>
-<tag lemma="Zimová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Zimová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-140-p2s7w2">
 <src.rf>manual</src.rf>

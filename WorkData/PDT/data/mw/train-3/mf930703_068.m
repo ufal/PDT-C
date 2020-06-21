@@ -78,8 +78,8 @@
 </w.rf>
 <form>jsl</form>
 <tag>
-<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jsl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-068-p2s1w4">
@@ -790,7 +790,7 @@
 <LM>w#w-mf930703-068-p2s5w5</LM>
 </w.rf>
 <form>Kostihy</form>
-<tag lemma="Kostiha_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kostiha_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-068-p2s5w6">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-mf930703-068-p2s5w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930703-068-p2s5w12">
 <src.rf>manual</src.rf>

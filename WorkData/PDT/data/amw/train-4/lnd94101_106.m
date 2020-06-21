@@ -70,8 +70,8 @@
 </w.rf>
 <form>jap</form>
 <tag>
-<AM lemma="jap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jap-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jap-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jap-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-106-p1s2w4">
@@ -757,8 +757,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-106-p1s6w33">
@@ -1413,7 +1413,7 @@
 <LM>w#w-lnd94101-106-p1s9w18</LM>
 </w.rf>
 <form>Vojtíšek</form>
-<tag lemma="Vojtíšek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vojtíšek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-106-p1s9w19">
 <src.rf>manual</src.rf>
@@ -1715,7 +1715,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-106-p1s11w26">
@@ -1732,7 +1732,7 @@
 <LM>w#w-lnd94101-106-p1s11w27</LM>
 </w.rf>
 <form>Vojtíšek</form>
-<tag lemma="Vojtíšek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vojtíšek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-106-p1s11w28">
 <src.rf>manual</src.rf>

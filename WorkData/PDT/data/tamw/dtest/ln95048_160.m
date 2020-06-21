@@ -137,7 +137,7 @@
 </w.rf>
 <form>Streat</form>
 <tag>
-<AM lemma="Streat_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Streat_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Streat-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

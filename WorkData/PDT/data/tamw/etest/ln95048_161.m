@@ -64,12 +64,12 @@
 </w.rf>
 <form>Fortune</form>
 <tag>
-<AM lemma="Fortune_;R_^(časopis)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Fortune_;m_^(časopis)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Fortun_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Fortune-1_;K" src="auto">NNISX-----A----</AM>
-<AM lemma="Fortune-2_;S" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="Fortune-1_;m" src="auto">NNIXX-----A----</AM>
+<AM lemma="Fortune-2_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="fortune_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Fortune-1_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Fortune-1_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-161-p2s1Bw2">
@@ -305,7 +305,7 @@
 </w.rf>
 <form>Rubbermaid</form>
 <tag>
-<AM lemma="Rubbermaid_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rubbermaid_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Rubbermaid-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -363,7 +363,7 @@
 <LM>w#w-ln95048-161-p3s1w15</LM>
 </w.rf>
 <form>Microsoft</form>
-<tag lemma="Microsoft_;K_;b_;c" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Microsoft_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-161-p3s1w16">
 <src.rf>manual</src.rf>
@@ -412,8 +412,8 @@
 </w.rf>
 <form>Coca</form>
 <tag>
-<AM lemma="Coca_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="Coca_;R_;K" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-161-p3s1w22">
@@ -431,8 +431,8 @@
 </w.rf>
 <form>Cola</form>
 <tag>
-<AM lemma="Cola_;R" src="orig">NNFS1-----A----</AM>
-<AM lemma="Cola_;R_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Cola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-161-p3s1w24">

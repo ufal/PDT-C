@@ -45,7 +45,7 @@
 <LM>w#w-mf930702-065-p2s1w2</LM>
 </w.rf>
 <form>Tominových</form>
-<tag lemma="Tominův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Tominův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-mf930702-065-p2s1w3">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-mf930702-065-p7s1w3</LM>
 </w.rf>
 <form>Stoiber</form>
-<tag lemma="Stoiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-065-p7s1w4">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-mf930702-065-p10s1w3</LM>
 </w.rf>
 <form>Metrostavu</form>
-<tag lemma="Metrostav_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Metrostav_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-065-p10s1w4">
 <src.rf>manual</src.rf>

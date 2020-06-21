@@ -3163,7 +3163,7 @@
 <LM>w#w-vesm9212-007-p5s4w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-007-p5s4w17">
 <src.rf>manual</src.rf>
@@ -4118,7 +4118,7 @@
 <form>Nerudovými</form>
 <tag>
 <AM lemma="nerudův_^(*2a)" src="orig">AUIP7M---------</AM>
-<AM lemma="Nerudův_;S_^(*2a)" src="manual" selected="1">AUIP7M---------</AM>
+<AM lemma="Nerudův_;Y_^(*2a)" src="manual" selected="1">AUIP7M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-007-p6s2w11">
@@ -4777,7 +4777,7 @@
 <form>Nerudu</form>
 <tag>
 <AM lemma="neruda" src="orig">NNMS4-----A----</AM>
-<AM lemma="Neruda_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Neruda_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-007-p6s4w27">
@@ -6068,7 +6068,7 @@
 <LM>w#w-vesm9212-007-p8s1w1</LM>
 </w.rf>
 <form>Dš</form>
-<tag lemma="Dš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="Dš-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 </s>
 </mdata>

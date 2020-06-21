@@ -53,7 +53,7 @@
 <LM>w#w-mf920925-003-p1s1Bw2</LM>
 </w.rf>
 <form>Vopěnkovi</form>
-<tag lemma="Vopěnka_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Vopěnka_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920925-003-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf920925-003-p1s3w20</LM>
 </w.rf>
 <form>Dybou</form>
-<tag lemma="Dyba_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Dyba_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-003-p1s3w21">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-mf920925-003-p1s3w22</LM>
 </w.rf>
 <form>Piťhou</form>
-<tag lemma="Piťha_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Piťha_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-003-p1s3w23">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-mf920925-003-p1s5w18</LM>
 </w.rf>
 <form>Piťha</form>
-<tag lemma="Piťha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piťha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-003-p1s5w19">
 <src.rf>manual</src.rf>
@@ -1057,8 +1057,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-003-p1s6w8">
@@ -1180,8 +1180,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-003-p1s6w23">

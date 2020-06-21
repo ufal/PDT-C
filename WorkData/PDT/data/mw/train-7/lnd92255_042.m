@@ -27,7 +27,7 @@
 <LM>w#w-lnd92255-042-p1s1w2</LM>
 </w.rf>
 <form>Textantu</form>
-<tag lemma="Textant_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Textant_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-042-p2s1">
@@ -54,8 +54,8 @@
 </w.rf>
 <form>šák</form>
 <tag>
-<AM lemma="šák-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šák-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šák-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šák-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-042-p2s1w4">
@@ -125,7 +125,7 @@
 <LM>w#w-lnd92255-042-p2s2w6</LM>
 </w.rf>
 <form>Textant</form>
-<tag lemma="Textant_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Textant_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-042-p2s2w7">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd92255-042-p2s2w12</LM>
 </w.rf>
 <form>Invex</form>
-<tag lemma="Invex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Invex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-042-p2s2w13">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-lnd92255-042-p2s2w19</LM>
 </w.rf>
 <form>TurboConsult</form>
-<tag lemma="TurboConsult_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="TurboConsult_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-042-p2s2w20">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-lnd92255-042-p2s6w1</LM>
 </w.rf>
 <form>Textant</form>
-<tag lemma="Textant_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Textant_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-042-p2s6w2">
 <src.rf>manual</src.rf>

@@ -96,7 +96,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -122,7 +122,7 @@
 <LM>w#w-mf930713-145-p2s1Bw6</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -179,10 +179,10 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s1Bw14">
@@ -199,7 +199,7 @@
 <LM>w#w-mf930713-145-p2s1Bw15</LM>
 </w.rf>
 <form>Eldon</form>
-<tag lemma="Eldon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eldon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 </w.rf>
 <form>AP</form>
 <tag>
-<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-3_:B_;m_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="AP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -389,7 +389,7 @@
 </w.rf>
 <form>Radio</form>
 <tag>
-<AM lemma="Radio_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Radio_;m_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="rádio_,a" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="rádio_,a" src="auto">NNNS4-----A----</AM>
 <AM lemma="rádio_,a" src="auto">NNNS5-----A----</AM>
@@ -532,7 +532,7 @@
 <LM>w#w-mf930713-145-p2s2w23</LM>
 </w.rf>
 <form>Macharia</form>
-<tag lemma="Macharia_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Macharia_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s2w24">
 <src.rf>manual</src.rf>
@@ -565,11 +565,11 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Reuter_;KReuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter_;KReuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reuter_;mReuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter_;mReuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s2w28">
@@ -701,8 +701,8 @@
 </w.rf>
 <form>Reutera</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS2-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS2-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s3w11">
@@ -720,12 +720,12 @@
 </w.rf>
 <form>Maina</form>
 <tag>
-<AM lemma="Maina_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Main-2_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Main-2_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Maina_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Main-2_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Main-2_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Maina-1_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Maina-2_;S" src="auto">NNMSX-----A----</AM>
-<AM lemma="Maina-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Maina-2_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Maina-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s4w2">
@@ -761,8 +761,8 @@
 </w.rf>
 <form>Reutera</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS2-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS2-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s5w4">
@@ -779,7 +779,7 @@
 <LM>w#w-mf930713-145-p2s5w5</LM>
 </w.rf>
 <form>Shaffi</form>
-<tag lemma="Shaffi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shaffi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1298,7 +1298,7 @@
 </w.rf>
 <form>UNOSOM</form>
 <tag>
-<AM lemma="UNOSOM_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UNOSOM_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="UNOSOM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1356,7 +1356,7 @@
 <LM>w#w-mf930713-145-p2s8w27</LM>
 </w.rf>
 <form>Blackhawk</form>
-<tag lemma="Blackhawk_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Blackhawk_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s8w28">
 <src.rf>manual</src.rf>
@@ -1608,7 +1608,7 @@
 <LM>w#w-mf930713-145-p2s10w5</LM>
 </w.rf>
 <form>Aididova</form>
-<tag lemma="Aididův_;S_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Aididův_;Y_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-mf930713-145-p2s10w6">
 <src.rf>manual</src.rf>
@@ -1624,7 +1624,7 @@
 <LM>w#w-mf930713-145-p2s10w7</LM>
 </w.rf>
 <form>Abdiho</form>
-<tag lemma="Abdi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Abdi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s10w8">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <LM>w#w-mf930713-145-p2s10w8</LM>
 </w.rf>
 <form>Kabdida</form>
-<tag lemma="Kabdid_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kabdid_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 <LM>w#w-mf930713-145-p2s11w23</LM>
 </w.rf>
 <form>Aididovy</form>
-<tag lemma="Aididův_;S_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Aididův_;Y_^(*2)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-mf930713-145-p2s11w24">
 <src.rf>manual</src.rf>
@@ -1868,7 +1868,7 @@
 <LM>w#w-mf930713-145-p2s12w2</LM>
 </w.rf>
 <form>Farrah</form>
-<tag lemma="Farrah_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Farrah_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s12w3">
 <src.rf>manual</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-mf930713-145-p2s12w3</LM>
 </w.rf>
 <form>Aidid</form>
-<tag lemma="Aidid_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aidid_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s12w4">
 <src.rf>manual</src.rf>
@@ -1988,7 +1988,7 @@
 <LM>w#w-mf930713-145-p2s12w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930713-145-p2s12w18">
 <src.rf>manual</src.rf>
@@ -2142,7 +2142,7 @@
 <LM>w#w-mf930713-145-p2s13w1</LM>
 </w.rf>
 <form>Aididův</form>
-<tag lemma="Aididův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Aididův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930713-145-p2s13w2">
 <src.rf>manual</src.rf>
@@ -2158,7 +2158,7 @@
 <LM>w#w-mf930713-145-p2s13w3</LM>
 </w.rf>
 <form>Hussein</form>
-<tag lemma="Hussein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hussein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s13w4">
 <src.rf>manual</src.rf>
@@ -2166,7 +2166,7 @@
 <LM>w#w-mf930713-145-p2s13w4</LM>
 </w.rf>
 <form>Dhimbil</form>
-<tag lemma="Dhimbil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dhimbil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s13w5">
 <src.rf>manual</src.rf>
@@ -2328,7 +2328,7 @@
 <LM>w#w-mf930713-145-p2s14w5</LM>
 </w.rf>
 <form>Aidid</form>
-<tag lemma="Aidid_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Aidid_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s14w6">
 <src.rf>manual</src.rf>
@@ -2521,8 +2521,8 @@
 </w.rf>
 <form>USC</form>
 <tag>
-<AM lemma="USC-2_:B_;K_,t_^(Somálská_strana)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="USC-1_:B_;R_,t_^(United_States_Code)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USC-2_:B_;m_,t_^(Somálská_strana)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="USC-1_:B_;m_,t_^(United_States_Code)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="USC-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="USC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2725,7 +2725,7 @@
 <LM>w#w-mf930713-145-p2s16w7</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930713-145-p2s16w8">
 <src.rf>manual</src.rf>

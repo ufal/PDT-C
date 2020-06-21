@@ -901,7 +901,7 @@
 <LM>w#w-ln94205-4-p3s1w17</LM>
 </w.rf>
 <form>Curie</form>
-<tag lemma="Curie-1_;S_^(muž)" src="auto" selected="1">NNMXX-----A----</tag>
+<tag lemma="Curie-1_;Y_^(muž)" src="auto" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94205-4-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1668,7 +1668,7 @@
 </w.rf>
 <form>PCI</form>
 <tag>
-<AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PCI-1_:B_;m_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2304,7 +2304,7 @@
 <LM>w#w-ln94205-4-p4s5w13</LM>
 </w.rf>
 <form>Intel</form>
-<tag lemma="Intel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Intel_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-4-p4s5w14">
 <src.rf>manual</src.rf>
@@ -2441,7 +2441,7 @@
 </w.rf>
 <form>PCI</form>
 <tag>
-<AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PCI-1_:B_;m_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2888,7 +2888,7 @@
 </w.rf>
 <form>PCI</form>
 <tag>
-<AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PCI-1_:B_;m_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PCI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2981,8 +2981,8 @@
 </w.rf>
 <form>ios</form>
 <tag>
-<AM lemma="ios-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ios-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ios-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ios-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s9w4">

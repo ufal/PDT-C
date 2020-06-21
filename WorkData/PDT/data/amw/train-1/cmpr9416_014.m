@@ -54,7 +54,7 @@
 </w.rf>
 <form>El</form>
 <tag>
-<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -65,7 +65,7 @@
 </w.rf>
 <form>Al</form>
 <tag>
-<AM lemma="Al-2_;K_^(El_Al_apod.)" src="auto">NNXXX-----A----</AM>
+<AM lemma="Al-2_;m_^(El_Al_apod.)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -223,7 +223,7 @@
 <LM>w#w-cmpr9416-014-p4s2w9</LM>
 </w.rf>
 <form>Boeing</form>
-<tag lemma="Boeing_;K_;R_^(letadlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Boeing_;m_^(letadlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-014-p4s2w10">
 <src.rf>manual</src.rf>
@@ -495,8 +495,8 @@
 </w.rf>
 <form>Chaim</form>
 <tag>
-<AM lemma="Chaim_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chaim_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chaim_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Chaim_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-014-p5s1w17">
@@ -505,7 +505,7 @@
 <LM>w#w-cmpr9416-014-p5s1w17</LM>
 </w.rf>
 <form>Mansfeld</form>
-<tag lemma="Mansfeld-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansfeld-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-014-p5s1w18">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 </w.rf>
 <form>El</form>
 <tag>
-<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -581,7 +581,7 @@
 </w.rf>
 <form>Al</form>
 <tag>
-<AM lemma="Al-2_;K_^(El_Al_apod.)" src="auto">NNXXX-----A----</AM>
+<AM lemma="Al-2_;m_^(El_Al_apod.)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -715,7 +715,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -883,7 +883,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1089,7 +1089,7 @@
 <LM>w#w-cmpr9416-014-p6s2w15</LM>
 </w.rf>
 <form>Benda</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-014-p6s2w16">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 </w.rf>
 <form>El</form>
 <tag>
-<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1134,7 +1134,7 @@
 <form_change>spell</form_change>
 <form>Al</form>
 <tag>
-<AM lemma="Al-2_;K_^(El_Al_apod.)" src="auto">NNXXX-----A----</AM>
+<AM lemma="Al-2_;m_^(El_Al_apod.)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1224,7 +1224,7 @@
 <LM>w#w-cmpr9416-014-p6s3w5</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-014-p6s3w6">
 <src.rf>manual</src.rf>
@@ -1665,7 +1665,7 @@
 </w.rf>
 <form>El</form>
 <tag>
-<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1676,7 +1676,7 @@
 </w.rf>
 <form>Al</form>
 <tag>
-<AM lemma="Al-2_;K_^(El_Al_apod.)" src="auto">NNXXX-----A----</AM>
+<AM lemma="Al-2_;m_^(El_Al_apod.)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1698,7 +1698,7 @@
 </w.rf>
 <form>Airlines</form>
 <tag>
-<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto">NNFPX-----A----</AM>
+<AM lemma="Airlines_;m_,t_^(souč._názvů,_např._American_A.)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

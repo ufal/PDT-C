@@ -219,7 +219,7 @@
 <LM>w#w-lnd92257-020-p1s1w26</LM>
 </w.rf>
 <form>Aglow</form>
-<tag lemma="Aglow_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="Aglow_;m_,t" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92257-020-p1s1w27">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-lnd92257-020-p2s1w9</LM>
 </w.rf>
 <form>Smetanově</form>
-<tag lemma="Smetanův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92257-020-p2s1w10">
 <src.rf>manual</src.rf>

@@ -191,7 +191,7 @@
 <LM>w#w-mf920923-021-p2s2w6</LM>
 </w.rf>
 <form>Fričových</form>
-<tag lemma="Fričův_;S_^(*2a)" src="auto" selected="1">AUFP2M---------</tag>
+<tag lemma="Fričův_;Y_^(*2a)" src="auto" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-mf920923-021-p2s2w7">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-mf920923-021-p2s2w14</LM>
 </w.rf>
 <form>Mrázek</form>
-<tag lemma="Mrázek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mrázek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-021-p2s2w15">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf920923-021-p2s2w28</LM>
 </w.rf>
 <form>Funèse</form>
-<tag lemma="Funès_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Funès_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-021-p2s2w29">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf920923-021-p2s3w2</LM>
 </w.rf>
 <form>Filipovský</form>
-<tag lemma="Filipovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Filipovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-021-p2s3w3">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-mf920923-021-p2s4w10</LM>
 </w.rf>
 <form>Arabela</form>
-<tag lemma="Arabela_;S" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Arabela_;Y" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-021-p2s4w11">
 <src.rf>manual</src.rf>

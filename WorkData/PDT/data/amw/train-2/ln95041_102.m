@@ -144,8 +144,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-102-p2s1Bw12">
@@ -165,7 +165,7 @@
 <LM>w#w-ln95041-102-p2s1Bw13</LM>
 </w.rf>
 <form>Claes</form>
-<tag lemma="Claes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Claes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-102-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95041-102-p2s2w9</LM>
 </w.rf>
 <form>Claese</form>
-<tag lemma="Claes_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Claes_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-102-p2s2w10">
 <src.rf>manual</src.rf>

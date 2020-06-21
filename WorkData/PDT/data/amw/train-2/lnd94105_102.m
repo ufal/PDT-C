@@ -179,9 +179,9 @@
 </w.rf>
 <form>Mutlu</form>
 <tag>
-<AM lemma="Mutlu_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Mutl_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Mutl_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Mutlu_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mutl_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Mutl_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94105-102-p1s3w16">
@@ -329,7 +329,7 @@
 <LM>w#w-lnd94105-102-p1s5w5</LM>
 </w.rf>
 <form>Minčev</form>
-<tag lemma="Minčev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Minčev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-102-p1s5w6">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-lnd94105-102-p1s6w6</LM>
 </w.rf>
 <form>Polanidis</form>
-<tag lemma="Polanidis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polanidis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-102-p1s6w7">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-lnd94105-102-p1s7w6</LM>
 </w.rf>
 <form>Kudrna</form>
-<tag lemma="Kudrna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kudrna_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-102-p1s7w7">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-lnd94105-102-p1s8w12</LM>
 </w.rf>
 <form>Pešalov</form>
-<tag lemma="Pešalov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešalov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-102-p1s8w13">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-lnd94105-102-p1s9w8</LM>
 </w.rf>
 <form>Panajotova</form>
-<tag lemma="Panajotov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Panajotov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-102-p1s9w9">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-lnd94105-102-p1s9w15</LM>
 </w.rf>
 <form>Tzelilis</form>
-<tag lemma="Tzelilis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tzelilis_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-102-p1s9w16">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <form>Stanislav</form>
 <tag>
 <AM lemma="Stanislav_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Stanislav_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stanislav_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-102-p1s10w5">

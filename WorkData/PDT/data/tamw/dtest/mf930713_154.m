@@ -128,7 +128,7 @@
 </w.rf>
 <form>NR</form>
 <tag>
-<AM lemma="NR_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NR_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="NR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -157,7 +157,7 @@
 <LM>w#w-mf930713-154-p2s1Bw8</LM>
 </w.rf>
 <form>Čarnogurský</form>
-<tag lemma="Čarnogurský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čarnogurský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-154-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -666,7 +666,7 @@
 <LM>w#w-mf930713-154-p3s1w7</LM>
 </w.rf>
 <form>Gašparovič</form>
-<tag lemma="Gašparovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gašparovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-154-p3s1w8">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

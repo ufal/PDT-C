@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-104-p1s1Aw2</LM>
 </w.rf>
 <form>Starodubová</form>
-<tag lemma="Starodubová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Starodubová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-ln94204-104-p1s1Aw8</LM>
 </w.rf>
 <form>Lachin</form>
-<tag lemma="Lachin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lachin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw9">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-ln94204-104-p1s1Aw10</LM>
 </w.rf>
 <form>Veršinin</form>
-<tag lemma="Veršinin_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veršinin_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw11">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-ln94204-104-p1s1Aw14</LM>
 </w.rf>
 <form>Čechovových</form>
-<tag lemma="Čechovův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Čechovův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw15">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-ln94204-104-p1s1Aw23</LM>
 </w.rf>
 <form>Pokrovce</form>
-<tag lemma="Pokrovka_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Pokrovka_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw24">
 <src.rf>manual</src.rf>

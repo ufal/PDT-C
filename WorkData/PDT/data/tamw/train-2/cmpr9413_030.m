@@ -63,7 +63,7 @@
 <LM>w#w-cmpr9413-030-p4s1w2</LM>
 </w.rf>
 <form>Seliko</form>
-<tag lemma="Seliko_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Seliko_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-030-p4s1w3">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-cmpr9413-030-p5s1w3</LM>
 </w.rf>
 <form>Seliko</form>
-<tag lemma="Seliko_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Seliko_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-030-p5s1w4">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 </w.rf>
 <form>Progress</form>
 <tag>
-<AM lemma="Progress-1_;R_,t_^(ruská_kosmická_loď)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Progress-1_;m_,t_^(ruská_kosmická_loď)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Progress-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -820,7 +820,7 @@
 </w.rf>
 <form>Corp</form>
 <tag>
-<AM lemma="Corporation_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Corporation_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -847,7 +847,7 @@
 </w.rf>
 <form>ITC</form>
 <tag>
-<AM lemma="ITC-4_:B_;K_,t_^(International_Typeface_Corporation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ITC-4_:B_;m_,t_^(International_Typeface_Corporation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ITC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -857,7 +857,7 @@
 <LM>w#w-cmpr9413-030-p6s1w8</LM>
 </w.rf>
 <form>PragoData</form>
-<tag lemma="PragoData_;K" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="PragoData_;m" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-030-p6s1w9">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 <LM>w#w-cmpr9413-030-p6s1w18</LM>
 </w.rf>
 <form>Pogress</form>
-<tag lemma="Pogress_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pogress_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-030-p6s1w19">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 </w.rf>
 <form>ITC</form>
 <tag>
-<AM lemma="ITC-4_:B_;K_,t_^(International_Typeface_Corporation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ITC-4_:B_;m_,t_^(International_Typeface_Corporation)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ITC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1278,7 +1278,7 @@
 <LM>w#w-cmpr9413-030-p7s1w4</LM>
 </w.rf>
 <form>PragoData</form>
-<tag lemma="PragoData_;K" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="PragoData_;m" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-030-p7s1w5">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-cmpr9413-030-p7s1w11</LM>
 </w.rf>
 <form>Thámova</form>
-<tag lemma="Thámův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Thámův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9413-030-p7s1w12">
 <src.rf>manual</src.rf>
@@ -1548,7 +1548,7 @@
 </w.rf>
 <form>Cable</form>
 <tag>
-<AM lemma="Cable_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Cable_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1683,8 +1683,8 @@
 <form>Digital</form>
 <tag>
 <AM lemma="Digital-2_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Digital_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Digital_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Digital_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Digital_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="digital_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Digital-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1845,9 +1845,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-030-p8s2w17">
@@ -2145,7 +2145,7 @@
 </w.rf>
 <form>Cable</form>
 <tag>
-<AM lemma="Cable_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Cable_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -481,7 +481,7 @@
 <LM>w#w-lnd94101-110-p1s4Aw2</LM>
 </w.rf>
 <form>Krčálová</form>
-<tag lemma="Krčálová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krčálová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94101-110-p1s4B">
@@ -672,7 +672,7 @@
 <form>Santos</form>
 <tag>
 <AM lemma="Santos_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Santos_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Santos_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-110-p1s5w17">
@@ -983,7 +983,7 @@
 <form>Mužík</form>
 <tag>
 <AM lemma="mužík" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mužík_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mužík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-110-p1s7w5">
@@ -1278,9 +1278,9 @@
 </w.rf>
 <form>PS</form>
 <tag>
-<AM lemma="PS-3_:B_;K_^(Přerovské_strojírny)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="PS-1_:B_;K_^(Pohraniční_stráž)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PS-2_:B_;K_^(poštovní_schránka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="PS-3_:B_;m_^(Přerovské_strojírny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PS-1_:B_;m_^(Pohraniční_stráž)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PS-2_:B_;m_^(poštovní_schránka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ps-2`pikosekunda_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PS-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1382,7 +1382,7 @@
 <form>Buenos</form>
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Buenos_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1456,7 +1456,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1493,9 +1493,9 @@
 </w.rf>
 <form>PS</form>
 <tag>
-<AM lemma="PS-3_:B_;K_^(Přerovské_strojírny)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="PS-1_:B_;K_^(Pohraniční_stráž)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="PS-2_:B_;K_^(poštovní_schránka)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PS-3_:B_;m_^(Přerovské_strojírny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PS-1_:B_;m_^(Pohraniční_stráž)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PS-2_:B_;m_^(poštovní_schránka)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ps-2`pikosekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="PS-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1517,8 +1517,8 @@
 <form>LA</form>
 <tag>
 <AM lemma="LA-1_:B_;G_^(Latinská_Amerika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LA_:B_;G_;K" src="auto">NNNSX-----A---8</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFSX----1A----</AM>
+<AM lemma="LA_:B_;G_;m" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
@@ -1608,7 +1608,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1750,8 +1750,8 @@
 <form>LA</form>
 <tag>
 <AM lemma="LA-1_:B_;G_^(Latinská_Amerika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LA_:B_;G_;K" src="auto">NNNSX-----A---8</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFSX----1A----</AM>
+<AM lemma="LA_:B_;G_;m" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAFXX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
@@ -1814,8 +1814,8 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-110-p1s13w6">
@@ -2116,10 +2116,10 @@
 <form>Belo</form>
 <tag>
 <AM lemma="Belo_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bela_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Bela_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Bela_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Belo-2_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Belo-2_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Belo-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Belo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Belo-1_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="bela" src="auto">NNFS5-----A----</AM>
 <AM lemma="Belo-77" src="manual" selected="1">F%-------------</AM>
@@ -2133,7 +2133,7 @@
 <form>Horizonte</form>
 <tag>
 <AM lemma="Horizonte_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Horizonte_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Horizonte_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="horizont" src="auto">NNIS5-----A----</AM>
 <AM lemma="horizonte_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Horizonte-77" src="manual" selected="1">F%-------------</AM>
@@ -2294,7 +2294,7 @@
 <LM>w#w-lnd94101-110-p1s16w3</LM>
 </w.rf>
 <form>Liazu</form>
-<tag lemma="Liaz_;K_;R" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Liaz_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-110-p1s16w4">
 <src.rf>manual</src.rf>
@@ -2586,7 +2586,7 @@
 <LM>w#w-lnd94101-110-p1s18w16</LM>
 </w.rf>
 <form>Liaz</form>
-<tag lemma="Liaz_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Liaz_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-110-p1s18w17">
 <src.rf>manual</src.rf>
@@ -2660,7 +2660,7 @@
 <LM>w#w-lnd94101-110-p1s19Aw4</LM>
 </w.rf>
 <form>Liaz</form>
-<tag lemma="Liaz_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Liaz_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-110-p1s19Aw5">
 <src.rf>manual</src.rf>
@@ -2728,9 +2728,9 @@
 </w.rf>
 <form>Maister</form>
 <tag>
-<AM lemma="Maister_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Maister_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maister-2_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Maister_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Maister_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Maister-2_;m_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Maister-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

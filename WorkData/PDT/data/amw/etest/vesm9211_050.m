@@ -849,7 +849,7 @@
 <LM>w#w-vesm9211-050-p2s1w2</LM>
 </w.rf>
 <form>VOPĚNKA</form>
-<tag lemma="Vopěnka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vopěnka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-050-p2s1w3">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-vesm9211-050-p3s1w1</LM>
 </w.rf>
 <form>Panorama</form>
-<tag lemma="Panorama_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Panorama_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-050-p3s1w2">
 <src.rf>manual</src.rf>

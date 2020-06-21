@@ -1525,7 +1525,7 @@
 <LM>w#w-ln95040-097-p4s1w21</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95040-097-p4s1w22">
 <src.rf>manual</src.rf>

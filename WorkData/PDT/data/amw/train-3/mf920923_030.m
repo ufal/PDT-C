@@ -61,7 +61,7 @@
 <LM>w#w-mf920923-030-p2s1w2</LM>
 </w.rf>
 <form>Martínek</form>
-<tag lemma="Martínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-030-p2s1w3">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <form>Kolářově</form>
 <tag>
 <AM lemma="kolářův_^(*2)" src="orig">AUFS6M---------</AM>
-<AM lemma="Kolářův_;S_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
+<AM lemma="Kolářův_;Y_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
 </tag>
 </m>
 <m id="m-mf920923-030-p2s2w12">
@@ -238,8 +238,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-33" src="orig">Q3-------------</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-030-p2s2w15">
@@ -410,7 +410,7 @@
 <LM>w#w-mf920923-030-p2s2w34</LM>
 </w.rf>
 <form>Imagena</form>
-<tag lemma="Imagena_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Imagena_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-030-p2s2w35">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-mf920923-030-p3s1w39</LM>
 </w.rf>
 <form>Martínek</form>
-<tag lemma="Martínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Martínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-030-p3s1w40">
 <src.rf>manual</src.rf>
@@ -1456,7 +1456,7 @@
 <LM>w#w-mf920923-030-p4s1w1</LM>
 </w.rf>
 <form>Martínkova</form>
-<tag lemma="Martínkův_;S_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Martínkův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920923-030-p4s1w2">
 <src.rf>manual</src.rf>

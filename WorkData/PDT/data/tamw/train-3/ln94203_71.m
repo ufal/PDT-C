@@ -58,7 +58,7 @@
 <LM>w#w-ln94203-71-p2s1Aw2</LM>
 </w.rf>
 <form>Kumermann</form>
-<tag lemma="Kumermann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kumermann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-71-p2s1B">
@@ -157,7 +157,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94203-71-p3s1w17</LM>
 </w.rf>
 <form>Nabíl</form>
-<tag lemma="Nabíl_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nabíl_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-71-p3s1w18">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-ln94203-71-p3s1w18</LM>
 </w.rf>
 <form>Šás</form>
-<tag lemma="Šás_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šás_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-71-p3s1w19">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-ln94203-71-p3s1w23</LM>
 </w.rf>
 <form>Rothschild</form>
-<tag lemma="Rothschild_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rothschild_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-71-p3s1w24">
 <src.rf>manual</src.rf>
@@ -2882,7 +2882,7 @@
 <LM>w#w-ln94203-71-p7s1w7</LM>
 </w.rf>
 <form>Džibríla</form>
-<tag lemma="Džibríl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Džibríl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-71-p7s1w8">
 <src.rf>manual</src.rf>
@@ -2906,7 +2906,7 @@
 <LM>w#w-ln94203-71-p7s1w10</LM>
 </w.rf>
 <form>Havatmy</form>
-<tag lemma="Havatma_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havatma_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-71-p7s1w11">
 <src.rf>manual</src.rf>
@@ -3010,7 +3010,7 @@
 <LM>w#w-ln94203-71-p7s1w23</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-71-p7s1w24">
 <src.rf>manual</src.rf>
@@ -3204,7 +3204,7 @@
 </w.rf>
 <form>PNR</form>
 <tag>
-<AM lemma="PNR_:B_;K_;p_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PNR_:B_;m_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3425,7 +3425,7 @@
 </w.rf>
 <form>PNR</form>
 <tag>
-<AM lemma="PNR_:B_;K_;p_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PNR_:B_;m_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3566,7 +3566,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3576,7 +3576,7 @@
 <LM>w#w-ln94203-71-p8s1w15</LM>
 </w.rf>
 <form>Fatahu</form>
-<tag lemma="Fatah_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Fatah_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-71-p8s1w16">
 <src.rf>manual</src.rf>
@@ -3616,7 +3616,7 @@
 <LM>w#w-ln94203-71-p8s1w20</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-71-p8s1w21">
 <src.rf>manual</src.rf>
@@ -3706,7 +3706,7 @@
 <LM>w#w-ln94203-71-p8s2w10</LM>
 </w.rf>
 <form>Fatah</form>
-<tag lemma="Fatah_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fatah_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-71-p8s2w11">
 <src.rf>manual</src.rf>
@@ -3987,7 +3987,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4091,11 +4091,11 @@
 </w.rf>
 <form>Husajního</form>
 <tag>
-<AM lemma="Husajní_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Husajní_;S" src="auto">AAIS2----1A----</AM>
-<AM lemma="Husajní_;S" src="auto" recommended="1" selected="1">AAMS2----1A----</AM>
-<AM lemma="Husajní_;S" src="auto">AAMS4----1A----</AM>
-<AM lemma="Husajní_;S" src="auto">AANS2----1A----</AM>
+<AM lemma="Husajní_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Husajní_;Y" src="auto">AAIS2----1A----</AM>
+<AM lemma="Husajní_;Y" src="auto" recommended="1" selected="1">AAMS2----1A----</AM>
+<AM lemma="Husajní_;Y" src="auto">AAMS4----1A----</AM>
+<AM lemma="Husajní_;Y" src="auto">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-71-p9s2w11">
@@ -4241,7 +4241,7 @@
 </w.rf>
 <form>PNR</form>
 <tag>
-<AM lemma="PNR_:B_;K_;p_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PNR_:B_;m_,t_^(Partido_Nacional_Revolucionaro)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4381,7 +4381,7 @@
 <LM>w#w-ln94203-71-p10s1w9</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-71-p10s1w10">
 <src.rf>manual</src.rf>

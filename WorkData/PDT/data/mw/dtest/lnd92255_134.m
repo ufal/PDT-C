@@ -19,7 +19,7 @@
 <LM>w#w-lnd92255-134-p1s1w1</LM>
 </w.rf>
 <form>Kula</form>
-<tag lemma="Kula-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kula-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-134-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-lnd92255-134-p2s1w6</LM>
 </w.rf>
 <form>Wattenscheid</form>
-<tag lemma="Wattenscheid_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wattenscheid_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-134-p2s1w7">
 <src.rf>manual</src.rf>
@@ -211,9 +211,9 @@
 <AM lemma="Kula-1_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kula-1_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Kula-1_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Kula-2_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Kula-2_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Kula-2_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kula-2_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Kula-2_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Kula-2_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="kout_^(např._železo)" src="auto">VpTP----R-AAI--</AM>
 </tag>
 </m>

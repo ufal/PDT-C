@@ -359,7 +359,7 @@
 <LM>w#w-ln95040-127-p2s1Bw26</LM>
 </w.rf>
 <form>Rybák</form>
-<tag lemma="Rybák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rybák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-127-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-ln95040-127-p3s2w23</LM>
 </w.rf>
 <form>Rybák</form>
-<tag lemma="Rybák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rybák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-127-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 </w.rf>
 <form>CHKO</form>
 <tag>
-<AM lemma="CHKO-1_:B_;y_;z_^(chráněná_krajinná_oblast)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CHKO-1_:B_^(chráněná_krajinná_oblast)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="CHKO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1298,7 +1298,7 @@
 <LM>w#w-ln95040-127-p4s2w3</LM>
 </w.rf>
 <form>Rybák</form>
-<tag lemma="Rybák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rybák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-127-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1517,9 +1517,9 @@
 </w.rf>
 <form>UNESCO</form>
 <tag>
-<AM lemma="UNESCO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="UNESCO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Unesco_:B_;K_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Unesco_:B_;m_,t" src="auto">NNNXX-----A----</AM>
 <AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -1609,7 +1609,7 @@
 <LM>w#w-ln95040-127-p4s3w23</LM>
 </w.rf>
 <form>Majer</form>
-<tag lemma="Majer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Majer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-127-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 </w.rf>
 <form>CHKO</form>
 <tag>
-<AM lemma="CHKO-1_:B_;y_;z_^(chráněná_krajinná_oblast)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CHKO-1_:B_^(chráněná_krajinná_oblast)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="CHKO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1696,7 +1696,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-127-p4s4w3">
@@ -1713,7 +1713,7 @@
 <LM>w#w-ln95040-127-p4s4w4</LM>
 </w.rf>
 <form>Rybák</form>
-<tag lemma="Rybák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rybák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-127-p4s4w5">
 <src.rf>manual</src.rf>
@@ -2566,7 +2566,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-127-p4s8w24">
@@ -2583,7 +2583,7 @@
 <LM>w#w-ln95040-127-p4s8w25</LM>
 </w.rf>
 <form>Rybáka</form>
-<tag lemma="Rybák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rybák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-127-p4s8w26">
 <src.rf>manual</src.rf>

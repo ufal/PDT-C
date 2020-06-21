@@ -112,7 +112,7 @@
 <LM>w#w-lnd92254-074-p2s1w9</LM>
 </w.rf>
 <form>Zieleniec</form>
-<tag lemma="Zieleniec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zieleniec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-074-p2s1w10">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-lnd92254-074-p2s1w11</LM>
 </w.rf>
 <form>Moravčík</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-074-p2s1w12">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-lnd92254-074-p2s3w5</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-074-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1995,7 +1995,7 @@
 </w.rf>
 <form>KBSE</form>
 <tag>
-<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KBSE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2330,7 +2330,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2699,7 +2699,7 @@
 <LM>w#w-lnd92254-074-p4s1w2</LM>
 </w.rf>
 <form>GABAL</form>
-<tag lemma="Gabal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gabal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92254-074-p5s1">
@@ -2750,7 +2750,7 @@
 </w.rf>
 <form>AISA</form>
 <tag>
-<AM lemma="AISA_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="AISA_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="AISA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -168,8 +168,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-010-p3s1w4">
@@ -213,7 +213,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -338,8 +338,8 @@
 </w.rf>
 <form>NCC</form>
 <tag>
-<AM lemma="NCC-2_:B_;K_^(švédská_firma)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="NCC_:B_;K_,t_^(Rada_pro_ochranu_přírody)" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="NCC-2_:B_;m_^(švédská_firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="NCC_:B_;m_,t_^(Rada_pro_ochranu_přírody)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="NCC-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="NCC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -811,7 +811,7 @@
 <LM>w#w-lnd92254-010-p4s3w7</LM>
 </w.rf>
 <form>Mototechny</form>
-<tag lemma="Mototechna_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Mototechna_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-010-p4s3w8">
 <src.rf>manual</src.rf>
@@ -915,10 +915,10 @@
 </w.rf>
 <form>Geodézii</form>
 <tag>
-<AM lemma="Geodézia_;K" src="orig">NNFS3-----A----</AM>
-<AM lemma="Geodézie_;K" src="auto" selected="1">NNFS3-----A----</AM>
-<AM lemma="Geodézie_;K" src="auto">NNFS4-----A----</AM>
-<AM lemma="Geodézie_;K" src="auto">NNFS6-----A----</AM>
+<AM lemma="Geodézia_;m" src="orig">NNFS3-----A----</AM>
+<AM lemma="Geodézie_;m" src="auto" selected="1">NNFS3-----A----</AM>
+<AM lemma="Geodézie_;m" src="auto">NNFS4-----A----</AM>
+<AM lemma="Geodézie_;m" src="auto">NNFS6-----A----</AM>
 <AM lemma="geodézie" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="geodézie" src="auto">NNFS4-----A----</AM>
 <AM lemma="geodézie" src="auto">NNFS6-----A----</AM>
@@ -1165,7 +1165,7 @@
 <LM>w#w-lnd92254-010-p4s5w6</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-010-p4s5w7">
 <src.rf>manual</src.rf>
@@ -1173,7 +1173,7 @@
 <LM>w#w-lnd92254-010-p4s5w7</LM>
 </w.rf>
 <form>Hvížďala</form>
-<tag lemma="Hvížďala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hvížďala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-010-p4s5w8">
 <src.rf>manual</src.rf>
@@ -2071,7 +2071,7 @@
 <LM>w#w-lnd92254-010-p5s3w22</LM>
 </w.rf>
 <form>Immoconsult</form>
-<tag lemma="Immoconsult_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Immoconsult_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-010-p5s3w23">
 <src.rf>manual</src.rf>
@@ -2107,7 +2107,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-010-p5s4w3">
@@ -2124,7 +2124,7 @@
 <LM>w#w-lnd92254-010-p5s4w4</LM>
 </w.rf>
 <form>Hvížďaly</form>
-<tag lemma="Hvížďala_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hvížďala_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-010-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2553,7 +2553,7 @@
 <LM>w#w-lnd92254-010-p6s1w14</LM>
 </w.rf>
 <form>Hvížďala</form>
-<tag lemma="Hvížďala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hvížďala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-010-p6s1w15">
 <src.rf>manual</src.rf>

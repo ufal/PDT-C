@@ -46,13 +46,13 @@
 </w.rf>
 <form>Bilbo</form>
 <tag>
-<AM lemma="Bilbo_;Y" src="orig">NNMSX-----A----</AM>
+<AM lemma="Bilbo_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Bilbao_;G_,x" src="auto">NNNS1-----A----</AM>
 <AM lemma="Bilbao_;G_,x" src="auto">NNNS4-----A----</AM>
 <AM lemma="Bilbao_;G_,x" src="auto">NNNS5-----A----</AM>
-<AM lemma="Bilbo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bilbo_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bilbo-2_;Y" src="manual" selected="1">NNMSX-----A----</AM>
+<AM lemma="Bilbo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bilbo_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Bilbo-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-106-p2s1w4">
@@ -61,7 +61,7 @@
 <LM>w#w-ln94207-106-p2s1w4</LM>
 </w.rf>
 <form>Pytlíka</form>
-<tag lemma="Pytlík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pytlík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-106-p2s1w5">
 <src.rf>manual</src.rf>
@@ -126,8 +126,8 @@
 </w.rf>
 <form>Minor</form>
 <tag>
-<AM lemma="Minor_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Minore_;K" src="auto">NNNSX-----A----</AM>
+<AM lemma="Minor_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Minore_;m" src="auto">NNNXX-----A----</AM>
 <AM lemma="minor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="minor" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -179,7 +179,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-3_:B_;K_;b_^(Mladá_Fronta,_nakl.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-3_:B_;m_^(Mladá_Fronta,_nakl.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -223,7 +223,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-106-p2s1w24">
@@ -242,7 +242,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-106-p2s1w26">
@@ -261,7 +261,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-106-p2s1w28">
@@ -278,7 +278,7 @@
 <LM>w#w-ln94207-106-p2s1w29</LM>
 </w.rf>
 <form>Tolkiena</form>
-<tag lemma="Tolkien_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tolkien_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-106-p2s1w30">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 </w.rf>
 <form>Minoru</form>
 <tag>
-<AM lemma="Minor_;K" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="Minor_;m" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="minor" src="auto">NNIS2-----A----</AM>
 <AM lemma="minor" src="auto">NNIS3-----A----</AM>
 <AM lemma="minor" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -510,7 +510,7 @@
 </w.rf>
 <form>Bilbova</form>
 <tag>
-<AM lemma="Bilbův_;S_^(*2o)" src="auto">AUIS2M---------</AM>
+<AM lemma="Bilbův_;Y_^(*2o)" src="auto">AUIS2M---------</AM>
 <AM lemma="Bilbův_;Y_^(*2o)" src="manual" selected="1">AUIS2M---------</AM>
 </tag>
 </m>
@@ -683,8 +683,8 @@
 </w.rf>
 <form>Minor</form>
 <tag>
-<AM lemma="Minor_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Minore_;K" src="auto">NNNSX-----A----</AM>
+<AM lemma="Minor_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Minore_;m" src="auto">NNNXX-----A----</AM>
 <AM lemma="minor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="minor" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -728,7 +728,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-3_:B_;K_;b_^(Mladá_Fronta,_nakl.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-3_:B_;m_^(Mladá_Fronta,_nakl.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

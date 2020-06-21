@@ -605,7 +605,7 @@
 <LM>w#w-lnd92256-059-p3s2w46</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-059-p3s2w47">
 <src.rf>manual</src.rf>
@@ -2537,8 +2537,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-059-p6s2w23">
@@ -2612,7 +2612,7 @@
 </w.rf>
 <form>ODÚ</form>
 <tag>
-<AM lemma="ODÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ODÚ_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ODÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2694,7 +2694,7 @@
 <LM>w#w-lnd92256-059-p6s2w41</LM>
 </w.rf>
 <form>ódéeska</form>
-<tag lemma="ódéeska_;K_,h" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="ódéeska_;m_,h" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-059-p6s2w42">
 <src.rf>manual</src.rf>
@@ -2783,7 +2783,7 @@
 </w.rf>
 <form>KDH</form>
 <tag>
-<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH_:B_;m_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="KDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3340,7 +3340,7 @@
 <form>Hanáka</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-059-p7s2w9">
@@ -3365,7 +3365,7 @@
 <LM>w#w-lnd92256-059-p7s2w11</LM>
 </w.rf>
 <form>Buriana</form>
-<tag lemma="Burian_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Burian_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-059-p7s2w12">
 <src.rf>manual</src.rf>
@@ -3563,7 +3563,7 @@
 <LM>w#w-lnd92256-059-p7s2w35</LM>
 </w.rf>
 <form>Weidler</form>
-<tag lemma="Weidler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Weidler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-059-p7s2w36">
 <src.rf>manual</src.rf>
@@ -3579,7 +3579,7 @@
 <LM>w#w-lnd92256-059-p7s2w37</LM>
 </w.rf>
 <form>Slobodník</form>
-<tag lemma="Slobodník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slobodník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-059-p7s2w38">
 <src.rf>manual</src.rf>
@@ -3645,7 +3645,7 @@
 <LM>w#w-lnd92256-059-p7s3w7</LM>
 </w.rf>
 <form>Hríba</form>
-<tag lemma="Hríb_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hríb_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-059-p7s3w8">
 <src.rf>manual</src.rf>
@@ -4795,7 +4795,7 @@
 <LM>w#w-lnd92256-059-p9s2w20</LM>
 </w.rf>
 <form>Mečiarem</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-059-p9s2w21">
 <src.rf>manual</src.rf>
@@ -5082,7 +5082,7 @@
 <LM>w#w-lnd92256-059-p10s1w3</LM>
 </w.rf>
 <form>HOFFMAN</form>
-<tag lemma="Hoffman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hoffman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

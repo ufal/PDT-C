@@ -241,7 +241,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-095-p2s1Bw22">
@@ -250,7 +250,7 @@
 <LM>w#w-ln95041-095-p2s1Bw22</LM>
 </w.rf>
 <form>Želivského</form>
-<tag lemma="Želivský_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Želivský_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-095-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-ln95041-095-p2s2w11</LM>
 </w.rf>
 <form>Mozartovy</form>
-<tag lemma="Mozartův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Mozartův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95041-095-p2s2w12">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 </w.rf>
 <form>Rogner</form>
 <tag>
-<AM lemma="Rogner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rogner_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rogner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -474,8 +474,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -487,7 +487,7 @@
 </w.rf>
 <form>Hotels</form>
 <tag>
-<AM lemma="Hotel_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Hotel_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Hotels-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -506,7 +506,7 @@
 </w.rf>
 <form>Resorts</form>
 <tag>
-<AM lemma="Resort_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Resort_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Resorts-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

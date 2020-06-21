@@ -521,8 +521,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-097-p3s1w18">
@@ -539,7 +539,7 @@
 <LM>w#w-ln95041-097-p3s1w19</LM>
 </w.rf>
 <form>Kuklová</form>
-<tag lemma="Kuklová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kuklová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-097-p3s1w20">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <LM>w#w-ln95041-097-p4s2w6</LM>
 </w.rf>
 <form>Typolt</form>
-<tag lemma="Typolt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Typolt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-097-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2352,7 +2352,7 @@
 <LM>w#w-ln95041-097-p5s5w25</LM>
 </w.rf>
 <form>Typolt</form>
-<tag lemma="Typolt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Typolt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-097-p5s5w26">
 <src.rf>manual</src.rf>
@@ -2434,7 +2434,7 @@
 <LM>w#w-ln95041-097-p6s1w9</LM>
 </w.rf>
 <form>Zimové</form>
-<tag lemma="Zimová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Zimová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-097-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2531,7 +2531,7 @@
 </w.rf>
 <form>VZP</form>
 <tag>
-<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -971,7 +971,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-019-p3s6w8">
@@ -990,7 +990,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-019-p3s6w10">
@@ -1008,10 +1008,10 @@
 </w.rf>
 <form>Deburau</form>
 <tag>
-<AM lemma="Deburau_;m_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Deburau_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Deburau_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Deburau_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Deburau_;Y_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Deburau_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Deburau_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Deburau_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-019-p3s6w12">
@@ -1399,7 +1399,7 @@
 <LM>w#w-lnd92259-019-p3s9w19</LM>
 </w.rf>
 <form>Paur</form>
-<tag lemma="Paur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-019-p3s9w20">
 <src.rf>manual</src.rf>

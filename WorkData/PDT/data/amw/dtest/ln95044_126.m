@@ -20,7 +20,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -150,7 +150,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -544,8 +544,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p2s3w3">
@@ -621,7 +621,7 @@
 <LM>w#w-ln95044-126-p2s3w11</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-126-p2s3w12">
 <src.rf>manual</src.rf>
@@ -720,11 +720,11 @@
 </w.rf>
 <form>Apollo</form>
 <tag>
-<AM lemma="Apollo_;K" src="orig">NNNXX-----A----</AM>
+<AM lemma="Apollo_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="apollo_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Apollo-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="apollo_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Apollo-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Apollo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -735,7 +735,7 @@
 </w.rf>
 <form>Technologies</form>
 <tag>
-<AM lemma="Technology_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Technology_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="technologies_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Technologies-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1033,7 +1033,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p3s2w18">
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln95044-126-p3s2w19</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-126-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p5s1w3">
@@ -1420,7 +1420,7 @@
 <LM>w#w-ln95044-126-p5s1w4</LM>
 </w.rf>
 <form>Čecha</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-126-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p5s2w20">
@@ -1856,7 +1856,7 @@
 <LM>w#w-ln95044-126-p5s2w21</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-126-p5s2w22">
 <src.rf>manual</src.rf>
@@ -1883,11 +1883,11 @@
 </w.rf>
 <form>Apollo</form>
 <tag>
-<AM lemma="Apollo_;K" src="orig">NNNXX-----A----</AM>
+<AM lemma="Apollo_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="apollo_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Apollo-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="apollo_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Apollo-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p6s1w3">
@@ -2357,7 +2357,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

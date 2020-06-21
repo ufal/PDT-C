@@ -44,8 +44,8 @@
 </w.rf>
 <form>Ser</form>
 <tag>
-<AM lemma="Ser_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ser_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ser_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ser_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="srát" src="auto">Vi-S---2--A-I--</AM>
@@ -61,11 +61,11 @@
 </w.rf>
 <form>Un</form>
 <tag>
-<AM lemma="Un_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Un_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Una_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Uno_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Uno_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="un-1_,t_^(franc._člen,_souč._názvů_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="uno_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="uno_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="Un-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -76,7 +76,7 @@
 </w.rf>
 <form>Peyjalero</form>
 <tag>
-<AM lemma="Peyjalero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Peyjalero_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Peyjalero-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

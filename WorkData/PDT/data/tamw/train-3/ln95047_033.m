@@ -27,7 +27,7 @@
 <LM>w#w-ln95047-033-p1s1w2</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-033-p1s1w3">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-ln95047-033-p2s1Bw4</LM>
 </w.rf>
 <form>Baník</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-033-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-ln95047-033-p2s1Bw7</LM>
 </w.rf>
 <form>Pavliska</form>
-<tag lemma="Pavliska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavliska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-033-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -196,7 +196,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -400,7 +400,7 @@
 <LM>w#w-ln95047-033-p2s2w24</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-033-p2s2w25">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-ln95047-033-p2s2w34</LM>
 </w.rf>
 <form>Pavliska</form>
-<tag lemma="Pavliska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavliska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-033-p2s2w35">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-ln95047-033-p2s3w1</LM>
 </w.rf>
 <form>Baník</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-033-p2s3w2">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-ln95047-033-p2s4w3</LM>
 </w.rf>
 <form>Pavliska</form>
-<tag lemma="Pavliska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavliska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-033-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-ln95047-033-p2s6w14</LM>
 </w.rf>
 <form>Pavliska</form>
-<tag lemma="Pavliska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavliska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-033-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1425,7 +1425,7 @@
 <LM>w#w-ln95047-033-p2s7w13</LM>
 </w.rf>
 <form>Gottvald</form>
-<tag lemma="Gottvald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gottvald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-033-p2s7w14">
 <src.rf>manual</src.rf>

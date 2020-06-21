@@ -501,7 +501,7 @@
 <LM>w#w-cmpr9410-007-p5s1w1</LM>
 </w.rf>
 <form>Frank</form>
-<tag lemma="Frank_;E_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frank_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-007-p5s1w2">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-cmpr9410-007-p5s1w2</LM>
 </w.rf>
 <form>Arnau</form>
-<tag lemma="Arnau_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arnau_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-007-p5s1w3">
 <src.rf>manual</src.rf>

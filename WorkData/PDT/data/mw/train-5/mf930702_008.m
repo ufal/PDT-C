@@ -103,7 +103,7 @@
 <LM>w#w-mf930702-008-p2s1w3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="bar-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-008-p2s1w4">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-mf930702-008-p3s3w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930702-008-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-mf930702-008-p3s5w27</LM>
 </w.rf>
 <form>Müllerová</form>
-<tag lemma="Müllerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Müllerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-008-p3s5w28">
 <src.rf>manual</src.rf>

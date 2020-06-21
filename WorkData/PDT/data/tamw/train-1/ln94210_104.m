@@ -35,7 +35,7 @@
 <LM>w#w-ln94210-104-p1s1w3</LM>
 </w.rf>
 <form>Čonkina</form>
-<tag lemma="Čonkin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čonkin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-104-p2s1">
@@ -157,7 +157,7 @@
 <LM>w#w-ln94210-104-p2s1w15</LM>
 </w.rf>
 <form>Menzela</form>
-<tag lemma="Menzel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Menzel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s1w16">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln94210-104-p2s1w22</LM>
 </w.rf>
 <form>Čonkina</form>
-<tag lemma="Čonkin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čonkin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s1w23">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94210-104-p2s3w5</LM>
 </w.rf>
 <form>Svěrák</form>
-<tag lemma="Svěrák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svěrák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s3w6">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-ln94210-104-p2s3w13</LM>
 </w.rf>
 <form>Vojnoviče</form>
-<tag lemma="Vojnovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vojnovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s3w14">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-ln94210-104-p2s4w3</LM>
 </w.rf>
 <form>Vojnovičovou</form>
-<tag lemma="Vojnovičův_;S_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Vojnovičův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln94210-104-p2s4w4">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-ln94210-104-p2s4w12</LM>
 </w.rf>
 <form>Menzel</form>
-<tag lemma="Menzel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Menzel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s4w13">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-ln94210-104-p2s7Aw4</LM>
 </w.rf>
 <form>Menzel</form>
-<tag lemma="Menzel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Menzel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s7Aw5">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-ln94210-104-p2s7Bw1</LM>
 </w.rf>
 <form>Čonkin</form>
-<tag lemma="Čonkin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čonkin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s7Bw2">
 <src.rf>manual</src.rf>
@@ -1557,7 +1557,7 @@
 <LM>w#w-ln94210-104-p2s13w10</LM>
 </w.rf>
 <form>Švejka</form>
-<tag lemma="Švejk_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Švejk_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s13w11">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 <LM>w#w-ln94210-104-p2s13w12</LM>
 </w.rf>
 <form>Menzel</form>
-<tag lemma="Menzel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Menzel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s13w13">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-ln94210-104-p2s13w20</LM>
 </w.rf>
 <form>Vojnovičova</form>
-<tag lemma="Vojnovičův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Vojnovičův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94210-104-p2s13w21">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <LM>w#w-ln94210-104-p2s14w4</LM>
 </w.rf>
 <form>Svěrákem</form>
-<tag lemma="Svěrák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Svěrák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s14w5">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <LM>w#w-ln94210-104-p2s16w2</LM>
 </w.rf>
 <form>aku</form>
-<tag lemma="aku-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="aku-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94210-104-p2s16w3">
 <src.rf>manual</src.rf>

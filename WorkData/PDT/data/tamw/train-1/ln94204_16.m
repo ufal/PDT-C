@@ -20,7 +20,7 @@
 </w.rf>
 <form>ABB</form>
 <tag>
-<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB_:B_;m_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -81,7 +81,7 @@
 </w.rf>
 <form>Asea</form>
 <tag>
-<AM lemma="Asea_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Asea_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Asea-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -92,7 +92,7 @@
 </w.rf>
 <form>Brown</form>
 <tag>
-<AM lemma="Brown_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brown_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Brown-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -103,7 +103,7 @@
 </w.rf>
 <form>Boveri</form>
 <tag>
-<AM lemma="Boveri_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Boveri_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Boveri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -360,7 +360,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -636,7 +636,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -858,7 +858,7 @@
 </w.rf>
 <form>ABB</form>
 <tag>
-<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB_:B_;m_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -953,7 +953,7 @@
 </w.rf>
 <form>ABB</form>
 <tag>
-<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB_:B_;m_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1028,9 +1028,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p4s3w13">
@@ -1194,7 +1194,7 @@
 </w.rf>
 <form>ABB</form>
 <tag>
-<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB_:B_;m_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1816,7 +1816,7 @@
 </w.rf>
 <form>ABB</form>
 <tag>
-<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB_:B_;m_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2047,9 +2047,9 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="am-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="am-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="am-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="am-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p7s3w3">

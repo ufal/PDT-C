@@ -508,7 +508,7 @@
 <LM>w#w-mf920923-064-p2s3w29</LM>
 </w.rf>
 <form>Baco</form>
-<tag lemma="Baco_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-064-p2s3w30">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-064-p2s4w2">
@@ -689,7 +689,7 @@
 <LM>w#w-mf920923-064-p2s4w3</LM>
 </w.rf>
 <form>Baco</form>
-<tag lemma="Baco_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-064-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-mf920923-064-p3s2w19</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ES_:B_;m_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-mf920923-064-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-mf920923-064-p3s3w13</LM>
 </w.rf>
 <form>Petrlík</form>
-<tag lemma="Petrlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-064-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-mf920923-064-p3s4w12</LM>
 </w.rf>
 <form>Vavrouška</form>
-<tag lemma="Vavroušek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vavroušek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-064-p3s4w13">
 <src.rf>manual</src.rf>

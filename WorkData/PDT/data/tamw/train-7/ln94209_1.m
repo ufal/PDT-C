@@ -385,7 +385,7 @@
 <LM>w#w-ln94209-1-p2s3w5</LM>
 </w.rf>
 <form>Licolor</form>
-<tag lemma="Licolor_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Licolor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-1-p2s3w6">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94209-1-p2s3w8</LM>
 </w.rf>
 <form>Swigoň</form>
-<tag lemma="Swigoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Swigoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-1-p2s3w9">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-ln94209-1-p3s1w1</LM>
 </w.rf>
 <form>Licolor</form>
-<tag lemma="Licolor_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Licolor_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-1-p3s1w2">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-ln94209-1-p5s1w3</LM>
 </w.rf>
 <form>Swigoně</form>
-<tag lemma="Swigoň_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Swigoň_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-1-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-ln94209-1-p5s3w15</LM>
 </w.rf>
 <form>Swigoň</form>
-<tag lemma="Swigoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Swigoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-1-p5s3w16">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-ln94209-1-p6s2w5</LM>
 </w.rf>
 <form>Licoloru</form>
-<tag lemma="Licolor_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Licolor_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94209-1-p6s2w6">
 <src.rf>manual</src.rf>

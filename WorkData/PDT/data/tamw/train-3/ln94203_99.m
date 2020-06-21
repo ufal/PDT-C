@@ -785,7 +785,7 @@
 <LM>w#w-ln94203-99-p3s1w3</LM>
 </w.rf>
 <form>Švejda</form>
-<tag lemma="Švejda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švejda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-99-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1989,7 +1989,7 @@
 <LM>w#w-ln94203-99-p6s1w11</LM>
 </w.rf>
 <form>Růžkové</form>
-<tag lemma="Růžková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Růžková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-99-p6s1w12">
 <src.rf>manual</src.rf>
@@ -2994,10 +2994,10 @@
 </w.rf>
 <form>al</form>
 <tag>
-<AM lemma="al-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="al-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="al_;G_^(al-Aiún)" src="auto">A2--------A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="al-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="al-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-99-p8s2w18">

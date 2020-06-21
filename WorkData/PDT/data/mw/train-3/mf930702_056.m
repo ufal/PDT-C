@@ -27,7 +27,7 @@
 <LM>w#w-mf930702-056-p1s1w2</LM>
 </w.rf>
 <form>Pezl</form>
-<tag lemma="Pezl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pezl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-056-p1s1w3">
 <src.rf>manual</src.rf>
@@ -86,9 +86,9 @@
 </w.rf>
 <form>km</form>
 <tag>
-<AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="km-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="km-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-056-p2s1w4">
@@ -169,7 +169,7 @@
 <LM>w#w-mf930702-056-p2s1w13</LM>
 </w.rf>
 <form>Pezl</form>
-<tag lemma="Pezl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pezl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-056-p2s1w14">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-mf930702-056-p2s2w11</LM>
 </w.rf>
 <form>sarin</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930702-056-p2s2w12">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-mf930702-056-p3s1w8</LM>
 </w.rf>
 <form>Suchomela</form>
-<tag lemma="Suchomel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Suchomel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-056-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1031,8 +1031,8 @@
 </w.rf>
 <form>KDU</form>
 <tag>
-<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-056-p3s2w15">
@@ -1050,8 +1050,8 @@
 </w.rf>
 <form>ČSL</form>
 <tag>
-<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-056-p3s2w17">
@@ -1084,7 +1084,7 @@
 <LM>w#w-mf930702-056-p3s2w20</LM>
 </w.rf>
 <form>Baudyš</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-056-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-mf930702-056-p3s3w5</LM>
 </w.rf>
 <form>Želinský</form>
-<tag lemma="Želinský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Želinský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-056-p3s3w6">
 <src.rf>manual</src.rf>

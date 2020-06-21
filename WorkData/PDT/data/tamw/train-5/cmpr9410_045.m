@@ -168,7 +168,7 @@
 </w.rf>
 <form>ČSÚ</form>
 <tag>
-<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ČSÚ_:B_;m_^(Český_statistický_úřad)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ČSÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5099,7 +5099,7 @@
 <LM>w#w-cmpr9410-045-p15s1w2</LM>
 </w.rf>
 <form>Šujan</form>
-<tag lemma="Šujan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šujan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-045-p15s1w3">
 <src.rf>manual</src.rf>
@@ -5151,8 +5151,8 @@
 <form>Milota</form>
 <tag>
 <AM lemma="Milota-2_;Y" src="orig" selected="1">NNFS1-----A----</AM>
-<AM lemma="Milota_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="milota_;L_,a_^(rostlina)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Milota_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="milota_;U_,a_^(rostlina)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-045-p16s1w2">
@@ -5161,7 +5161,7 @@
 <LM>w#w-cmpr9410-045-p16s1w2</LM>
 </w.rf>
 <form>Šujanová</form>
-<tag lemma="Šujanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šujanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-045-p16s1w3">
 <src.rf>manual</src.rf>

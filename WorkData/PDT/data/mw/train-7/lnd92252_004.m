@@ -95,7 +95,7 @@
 <LM>w#w-lnd92252-004-p2s2w5</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-004-p2s2w6">
 <src.rf>manual</src.rf>

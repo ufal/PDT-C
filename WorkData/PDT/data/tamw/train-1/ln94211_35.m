@@ -27,7 +27,7 @@
 <LM>w#w-ln94211-35-p1s1w2</LM>
 </w.rf>
 <form>Discolandu</form>
-<tag lemma="Discoland_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Discoland_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-35-p1s1w3">
 <src.rf>manual</src.rf>
@@ -37,8 +37,8 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual">Q3-------------</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-35-p1s1w4">
@@ -55,7 +55,7 @@
 <LM>w#w-ln94211-35-p1s1w5</LM>
 </w.rf>
 <form>Jonák</form>
-<tag lemma="Jonák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jonák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-35-p1s1w6">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln94211-35-p2s1Bw3</LM>
 </w.rf>
 <form>Discolandu</form>
-<tag lemma="Discoland_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Discoland_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-35-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-ln94211-35-p2s1Bw5</LM>
 </w.rf>
 <form>Jonák</form>
-<tag lemma="Jonák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jonák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-35-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-ln94211-35-p2s1Bw9</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-35-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-ln94211-35-p2s2w3</LM>
 </w.rf>
 <form>Jonáka</form>
-<tag lemma="Jonák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jonák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-35-p2s2w4">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-ln94211-35-p2s3w1</LM>
 </w.rf>
 <form>Jonák</form>
-<tag lemma="Jonák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jonák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-35-p2s3w2">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-ln94211-35-p2s3w9</LM>
 </w.rf>
 <form>Discolandem</form>
-<tag lemma="Discoland_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Discoland_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94211-35-p2s3w10">
 <src.rf>manual</src.rf>
@@ -491,8 +491,8 @@
 </w.rf>
 <form>BMW</form>
 <tag>
-<AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-35-p2s3w19">
@@ -687,7 +687,7 @@
 <LM>w#w-ln94211-35-p2s4w23</LM>
 </w.rf>
 <form>Jonákové</form>
-<tag lemma="Jonáková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Jonáková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-35-p2s4w24">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln94211-35-p2s4w26</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-35-p2s4w27">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln94211-35-p3s1w1</LM>
 </w.rf>
 <form>Jonákova</form>
-<tag lemma="Jonákův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Jonákův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94211-35-p3s1w2">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-ln94211-35-p3s2w1</LM>
 </w.rf>
 <form>Jonák</form>
-<tag lemma="Jonák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jonák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-35-p3s2w2">
 <src.rf>manual</src.rf>

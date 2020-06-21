@@ -109,7 +109,7 @@
 <LM>w#w-mf930703-058-p2s1w4</LM>
 </w.rf>
 <form>Vrba</form>
-<tag lemma="Vrba_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vrba_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-058-p2s1w5">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-mf930703-058-p2s1w8</LM>
 </w.rf>
 <form>Bareš</form>
-<tag lemma="Bareš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bareš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-058-p2s1w9">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-mf930703-058-p2s1w15</LM>
 </w.rf>
 <form>Novákem</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930703-058-p2s1w16">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930703-058-p2s1w23</LM>
 </w.rf>
 <form>Fahrenheita</form>
-<tag lemma="Fahrenheit_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fahrenheit_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-058-p2s1w24">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-mf930703-058-p2s2w2</LM>
 </w.rf>
 <form>Vrby</form>
-<tag lemma="Vrba_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vrba_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-058-p2s2w3">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-mf930703-058-p3s1w12</LM>
 </w.rf>
 <form>Novákovi</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930703-058-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 <LM>w#w-mf930703-058-p6s1w4</LM>
 </w.rf>
 <form>Bradburyho</form>
-<tag lemma="Bradbury_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bradbury_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-058-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1747,7 +1747,7 @@
 <LM>w#w-mf930703-058-p7s2w4</LM>
 </w.rf>
 <form>Bradburyho</form>
-<tag lemma="Bradbury_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bradbury_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-058-p7s2w5">
 <src.rf>manual</src.rf>

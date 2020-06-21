@@ -1138,7 +1138,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-009-p2s1w6">
@@ -1155,7 +1155,7 @@
 <LM>w#w-vesm9301-009-p2s2w1</LM>
 </w.rf>
 <form>VELENOVSKÝ</form>
-<tag lemma="Velenovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Velenovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-009-p2s2w2">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln95042-052-p1s1w1</LM>
 </w.rf>
 <form>Gonzálezovi</form>
-<tag lemma="González_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="González_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95042-052-p1s1w2">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 </w.rf>
 <form>GAL</form>
 <tag>
-<AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GAL_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -303,7 +303,7 @@
 </w.rf>
 <form>GAL</form>
 <tag>
-<AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GAL_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -486,13 +486,13 @@
 </w.rf>
 <form>Vera</form>
 <tag>
-<AM lemma="Vera_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vera_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Vera_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vero_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="vera_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vera-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vero_;m" src="auto">NNNS2-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="vera_;U_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Vera-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p2s3w16">
@@ -921,13 +921,13 @@
 </w.rf>
 <form>Vera</form>
 <tag>
-<AM lemma="Vera_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vera_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Vera_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Vero_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="vera_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vera-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vero_;m" src="auto">NNNS2-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="vera_;U_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Vera-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p3s3w5">
@@ -1105,8 +1105,8 @@
 </w.rf>
 <form>Felipe</form>
 <tag>
-<AM lemma="Felipe_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Felipe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Felipe_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Felipe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p3s3w27">
@@ -1115,7 +1115,7 @@
 <LM>w#w-ln95042-052-p3s3w27</LM>
 </w.rf>
 <form>González</form>
-<tag lemma="González_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="González_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-052-p3s3w28">
 <src.rf>manual</src.rf>
@@ -1322,7 +1322,7 @@
 <LM>w#w-ln95042-052-p4s1w10</LM>
 </w.rf>
 <form>Garzon</form>
-<tag lemma="Garzon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Garzon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-052-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 </w.rf>
 <form>GAL</form>
 <tag>
-<AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GAL_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1496,11 +1496,11 @@
 </w.rf>
 <form>ETA</form>
 <tag>
-<AM lemma="ETA-2_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ETA_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="Eta-2_;K" src="auto">NNFS1-----A----</AM>
-<AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="ETA-2_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ETA_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Eta-2_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Eto_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Eto_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="ETA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1608,7 +1608,7 @@
 <LM>w#w-ln95042-052-p4s2w6</LM>
 </w.rf>
 <form>Garzon</form>
-<tag lemma="Garzon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Garzon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-052-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1665,7 +1665,7 @@
 </w.rf>
 <form>GAL</form>
 <tag>
-<AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GAL_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -1725,7 +1725,7 @@
 <LM>w#w-ln95042-052-p4s2w20</LM>
 </w.rf>
 <form>Domingueze</form>
-<tag lemma="Dominguez_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dominguez_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95042-052-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1781,7 +1781,7 @@
 <LM>w#w-ln95042-052-p4s2w25</LM>
 </w.rf>
 <form>Ameda</form>
-<tag lemma="Amed_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Amed_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95042-052-p4s2w26">
 <src.rf>manual</src.rf>
@@ -1848,7 +1848,7 @@
 </w.rf>
 <form>GAL</form>
 <tag>
-<AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GAL_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2111,15 +2111,15 @@
 </w.rf>
 <form>Very</form>
 <tag>
-<AM lemma="Vera_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Vera_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Vera_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Vera_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vera_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vera_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="very_,t" src="auto">XX-------------</AM>
-<AM lemma="Vera-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Vera-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p4s4w17">
@@ -2307,13 +2307,13 @@
 </w.rf>
 <form>Vera</form>
 <tag>
-<AM lemma="Vera_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vera_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Vera_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Vero_;K" src="auto">NNNS2-----A----</AM>
-<AM lemma="Verus_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Verus_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="vera_;L_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Vera-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vero_;m" src="auto">NNNS2-----A----</AM>
+<AM lemma="Verus_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Verus_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="vera_;U_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Vera-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p5s1w13">
@@ -2386,7 +2386,7 @@
 <LM>w#w-ln95042-052-p5s1w21</LM>
 </w.rf>
 <form>Garzona</form>
-<tag lemma="Garzon_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Garzon_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95042-052-p5s1w22">
 <src.rf>manual</src.rf>
@@ -2650,8 +2650,8 @@
 </w.rf>
 <form>Verovo</form>
 <tag>
-<AM lemma="Verův_;S_^(*2us)" src="auto">AUNS1M---------</AM>
-<AM lemma="Verův_;S_^(*2o)" src="manual" selected="1">AUNS1M---------</AM>
+<AM lemma="Verův_;Y_^(*2us)" src="auto">AUNS1M---------</AM>
+<AM lemma="Verův_;Y_^(*2o)" src="manual" selected="1">AUNS1M---------</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p6s2w4">
@@ -2840,7 +2840,7 @@
 <LM>w#w-ln95042-052-p6s2w26</LM>
 </w.rf>
 <form>González</form>
-<tag lemma="González_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="González_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-052-p6s2w27">
 <src.rf>manual</src.rf>
@@ -2986,7 +2986,7 @@
 <LM>w#w-ln95042-052-p6s3w15</LM>
 </w.rf>
 <form>González</form>
-<tag lemma="González_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="González_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-052-p6s3w16">
 <src.rf>manual</src.rf>
@@ -3364,7 +3364,7 @@
 <LM>w#w-ln95042-052-p6s5w9</LM>
 </w.rf>
 <form>Aznarou</form>
-<tag lemma="Aznara_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Aznara_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95042-052-p6s5w10">
 <src.rf>manual</src.rf>
@@ -3529,7 +3529,7 @@
 <LM>w#w-ln95042-052-p6s6w6</LM>
 </w.rf>
 <form>Gonzálezovu</form>
-<tag lemma="Gonzálezův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Gonzálezův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95042-052-p6s6w7">
 <src.rf>manual</src.rf>
@@ -3604,7 +3604,7 @@
 </w.rf>
 <form>GAL</form>
 <tag>
-<AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GAL_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -3839,7 +3839,7 @@
 <LM>w#w-ln95042-052-p7s1w1</LM>
 </w.rf>
 <form>González</form>
-<tag lemma="González_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="González_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-052-p7s1w2">
 <src.rf>manual</src.rf>
@@ -4116,7 +4116,7 @@
 </w.rf>
 <form>GAL</form>
 <tag>
-<AM lemma="GAL_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GAL_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Gal_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="galon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="GAL-88" src="manual" selected="1">BNXXX-----A----</AM>

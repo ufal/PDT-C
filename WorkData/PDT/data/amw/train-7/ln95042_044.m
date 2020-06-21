@@ -364,7 +364,7 @@
 <LM>w#w-ln95042-044-p2s2w9</LM>
 </w.rf>
 <form>Rego</form>
-<tag lemma="Rego_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rego_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-044-p2s2w10">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-ln95042-044-p2s2w10</LM>
 </w.rf>
 <form>Barros</form>
-<tag lemma="Barros_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-044-p2s2w11">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-ln95042-044-p2s3w12</LM>
 </w.rf>
 <form>Fernández</form>
-<tag lemma="Fernández_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fernández_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-044-p2s3w13">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <form>Córdoba</form>
 <tag>
 <AM lemma="Córdoba_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Córdoba-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Córdoba-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-044-p2s3w15">
@@ -528,10 +528,10 @@
 </w.rf>
 <form>Ponce</form>
 <tag>
-<AM lemma="Ponce_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Ponec_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ponec_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ponec_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Ponce_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ponec_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Ponec_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ponec_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-044-p2s3w18">

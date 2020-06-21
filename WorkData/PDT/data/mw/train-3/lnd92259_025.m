@@ -136,7 +136,7 @@
 <LM>w#w-lnd92259-025-p2s1w12</LM>
 </w.rf>
 <form>Havlíčkovou</form>
-<tag lemma="Havlíčková_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Havlíčková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92259-025-p2s1w13">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-lnd92259-025-p4s1w13</LM>
 </w.rf>
 <form>Mahenovo</form>
-<tag lemma="Mahenův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Mahenův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd92259-025-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1229,7 +1229,7 @@
 </w.rf>
 <form>ZD</form>
 <tag>
-<AM lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ZD_:B_;m_^(zemědělské_družstvo)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="ZD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1247,7 +1247,7 @@
 <LM>w#w-lnd92259-025-p4s2w17</LM>
 </w.rf>
 <form>Derfler</form>
-<tag lemma="Derfler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Derfler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-025-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1591,10 +1591,10 @@
 </w.rf>
 <form>Hercules</form>
 <tag>
-<AM lemma="Herkules-4_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Herkules-1_;S" src="auto">NNMS1-----A---1</AM>
+<AM lemma="Herkules-4_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Herkules-1_;Y" src="auto">NNMS1-----A---1</AM>
 <AM lemma="Herkules-3_;G" src="auto" recommended="1">NNIS1-----A---1</AM>
-<AM lemma="Hercules-2_;G_;R_^(město;;letadlo;;lepidlo)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hercules-2_;G_;m_^(město;;letadlo;;lepidlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-025-p5s1w28">
@@ -1694,7 +1694,7 @@
 <LM>w#w-lnd92259-025-p5s1w39</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92259-025-p5s1w40">
 <src.rf>manual</src.rf>

@@ -29,7 +29,7 @@
 <LM>w#w-lnd92258-049-p2s1w1</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-049-p2s1w2">
 <src.rf>manual</src.rf>
@@ -484,8 +484,8 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-049-p3s3w15">
@@ -543,8 +543,8 @@
 </w.rf>
 <form>SNB</form>
 <tag>
-<AM lemma="SNB-2_:B_;K_^(Slovenská_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SNB-1_:B_;K_;p_^(Sbor_národní_bezpečnosti)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SNB-2_:B_;m_^(Slovenská_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNB-1_:B_;m_^(Sbor_národní_bezpečnosti)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="SNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2125,7 +2125,7 @@
 <LM>w#w-lnd92258-049-p4s3w26</LM>
 </w.rf>
 <form>Rašínově</form>
-<tag lemma="Rašínův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Rašínův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-lnd92258-049-p4s3w27">
 <src.rf>manual</src.rf>
@@ -2884,7 +2884,7 @@
 <LM>w#w-lnd92258-049-p5s3w35</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-049-p5s3w36">
 <src.rf>manual</src.rf>
@@ -2916,7 +2916,7 @@
 <LM>w#w-lnd92258-049-p5s3w39</LM>
 </w.rf>
 <form>Mečiarem</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-049-p5s3w40">
 <src.rf>manual</src.rf>
@@ -3349,7 +3349,7 @@
 <LM>w#w-lnd92258-049-p5s6w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-049-p5s6w3">
 <src.rf>manual</src.rf>
@@ -3549,7 +3549,7 @@
 <LM>w#w-lnd92258-049-p5s6w27</LM>
 </w.rf>
 <form>Tošovského</form>
-<tag lemma="Tošovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tošovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-049-p5s6w28">
 <src.rf>manual</src.rf>
@@ -3828,7 +3828,7 @@
 <LM>w#w-lnd92258-049-p5s8w4</LM>
 </w.rf>
 <form>Klausovu</form>
-<tag lemma="Klausův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Klausův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd92258-049-p5s8w5">
 <src.rf>manual</src.rf>
@@ -3884,7 +3884,7 @@
 <LM>w#w-lnd92258-049-p5s8w11</LM>
 </w.rf>
 <form>Mečiarovu</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUIS3M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUIS3M---------</tag>
 </m>
 <m id="m-lnd92258-049-p5s8w12">
 <src.rf>manual</src.rf>
@@ -4167,7 +4167,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4185,7 +4185,7 @@
 <LM>w#w-lnd92258-049-p5s9w20</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd92258-049-p5s9w21">
 <src.rf>manual</src.rf>
@@ -4332,7 +4332,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4354,7 +4354,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-049-p5s11w2">
@@ -4371,7 +4371,7 @@
 <LM>w#w-lnd92258-049-p5s11w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-049-p5s11w4">
 <src.rf>manual</src.rf>
@@ -4647,7 +4647,7 @@
 <LM>w#w-lnd92258-049-p6s2w7</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-049-p6s2w8">
 <src.rf>manual</src.rf>
@@ -4787,7 +4787,7 @@
 <LM>w#w-lnd92258-049-p7s1w2</LM>
 </w.rf>
 <form>KŘÍŽ</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

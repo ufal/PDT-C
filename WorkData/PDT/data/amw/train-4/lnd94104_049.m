@@ -683,7 +683,7 @@
 <LM>w#w-lnd94104-049-p1s5w23</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-049-p1s5w24">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 </w.rf>
 <form>Marína</form>
 <tag>
-<AM lemma="Marín-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Marín-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Marín_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="marína_,s" src="auto">NNFS1-----A----</AM>
 </tag>
@@ -865,7 +865,7 @@
 <LM>w#w-lnd94104-049-p1s6w19</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-049-p1s6w20">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 </w.rf>
 <form>Marín</form>
 <tag>
-<AM lemma="Marín-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Marín-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Marín_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Marín_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="marína_,s" src="auto">NNFP2-----A----</AM>
@@ -1064,7 +1064,7 @@
 <LM>w#w-lnd94104-049-p1s7w15</LM>
 </w.rf>
 <form>Castrem</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-049-p1s7w16">
 <src.rf>manual</src.rf>

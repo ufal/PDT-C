@@ -295,7 +295,7 @@
 <LM>w#w-mf930708-066-p2s2w13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930708-066-p2s2w14">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-mf930708-066-p2s3w9</LM>
 </w.rf>
 <form>Simonem</form>
-<tag lemma="Simon_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Simon_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930708-066-p2s3w10">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-mf930708-066-p3s1w11</LM>
 </w.rf>
 <form>Priessnitz</form>
-<tag lemma="Priessnitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Priessnitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-066-p3s1w12">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-mf930708-066-p3s3w6</LM>
 </w.rf>
 <form>Švejdík</form>
-<tag lemma="Švejdík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švejdík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-066-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1179,7 +1179,7 @@
 <LM>w#w-mf930708-066-p3s6w4</LM>
 </w.rf>
 <form>Priessnitz</form>
-<tag lemma="Priessnitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Priessnitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-066-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1252,8 +1252,8 @@
 </w.rf>
 <form>West</form>
 <tag>
-<AM lemma="West-2_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="West_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="West-2_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="West_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="West-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1348,8 +1348,8 @@
 </w.rf>
 <form>Legend</form>
 <tag>
-<AM lemma="Legend_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Legend-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Legend_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Legend-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p3s8w3">
@@ -1390,7 +1390,7 @@
 <LM>w#w-mf930708-066-p3s8w7</LM>
 </w.rf>
 <form>Priessnitz</form>
-<tag lemma="Priessnitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Priessnitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-066-p3s8w8">
 <src.rf>manual</src.rf>
@@ -1510,7 +1510,7 @@
 <form>Legendu</form>
 <tag>
 <AM lemma="legenda" src="orig">NNFS4-----A----</AM>
-<AM lemma="Legend-2_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Legend-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p4s1w5">
@@ -1708,8 +1708,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p4s3w4">
@@ -2195,7 +2195,7 @@
 <LM>w#w-mf930708-066-p4s9w8</LM>
 </w.rf>
 <form>Kočandrle</form>
-<tag lemma="Kočandrle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočandrle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-066-p4s9w9">
 <src.rf>manual</src.rf>
@@ -2396,7 +2396,7 @@
 <form>Jerusalem</form>
 <tag>
 <AM lemma="Jeruzalém_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jerusalem_;G_;K_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p5s1w17">
@@ -2482,7 +2482,7 @@
 </w.rf>
 <form>Sisters</form>
 <tag>
-<AM lemma="Sisters_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Sisters_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sisters-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2504,7 +2504,7 @@
 </w.rf>
 <form>Mercy</form>
 <tag>
-<AM lemma="Mercy_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Mercy_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Mercy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2707,7 +2707,7 @@
 <form>Jerusalem</form>
 <tag>
 <AM lemma="Jeruzalém_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jerusalem_;G_;K_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p5s4w11">
@@ -2930,7 +2930,7 @@
 <form>Jerusalem</form>
 <tag>
 <AM lemma="Jeruzalém_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jerusalem_;G_;K_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p6s1w3">
@@ -3121,7 +3121,7 @@
 <LM>w#w-mf930708-066-p6s4w1</LM>
 </w.rf>
 <form>Priessnitz</form>
-<tag lemma="Priessnitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Priessnitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-066-p6s4w2">
 <src.rf>manual</src.rf>
@@ -3267,7 +3267,7 @@
 <LM>w#w-mf930708-066-p7s1w2</LM>
 </w.rf>
 <form>STRAKA</form>
-<tag lemma="Straka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Straka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-066-p8s1">

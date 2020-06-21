@@ -1627,7 +1627,7 @@
 <LM>w#w-lnd92257-065-p3s5w9</LM>
 </w.rf>
 <form>Šašinka</form>
-<tag lemma="Šašinka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šašinka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-065-p3s5w10">
 <src.rf>manual</src.rf>
@@ -2120,7 +2120,7 @@
 <LM>w#w-lnd92257-065-p5s1w2</LM>
 </w.rf>
 <form>BIDLASE</form>
-<tag lemma="Bidlas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bidlas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-065-p5s1w3">
 <src.rf>manual</src.rf>

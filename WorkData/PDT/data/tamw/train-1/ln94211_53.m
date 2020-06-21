@@ -19,7 +19,7 @@
 <LM>w#w-ln94211-53-p1s1w1</LM>
 </w.rf>
 <form>Kříženecký</form>
-<tag lemma="Kříženecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříženecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-53-p1s1w2">
 <src.rf>manual</src.rf>
@@ -44,8 +44,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-53-p1s1w5">
@@ -112,7 +112,7 @@
 <LM>w#w-ln94211-53-p2s1Aw4</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="dan-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94211-53-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -178,7 +178,7 @@
 <LM>w#w-ln94211-53-p2s1Bw6</LM>
 </w.rf>
 <form>Kříženecký</form>
-<tag lemma="Kříženecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříženecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-53-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -227,8 +227,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-53-p2s1Bw13">
@@ -432,8 +432,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-53-p3s1w15">
@@ -444,7 +444,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-53-p3s1w16">
@@ -461,7 +461,7 @@
 <LM>w#w-ln94211-53-p3s1w17</LM>
 </w.rf>
 <form>Kříženecký</form>
-<tag lemma="Kříženecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříženecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-53-p3s1w18">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln94211-53-p3s2w8</LM>
 </w.rf>
 <form>Zemanově</form>
-<tag lemma="Zemanův_;S_^(*2)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Zemanův_;Y_^(*2)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94211-53-p3s2w9">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-ln94211-53-p3s3w25</LM>
 </w.rf>
 <form>Kříženecký</form>
-<tag lemma="Kříženecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříženecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-53-p3s3w26">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-53-p5s1w2">
@@ -976,7 +976,7 @@
 <LM>w#w-ln94211-53-p5s1w3</LM>
 </w.rf>
 <form>Kříženecký</form>
-<tag lemma="Kříženecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříženecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-53-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1009,8 +1009,8 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-53-p5s1w8">
@@ -1344,8 +1344,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-53-p5s3w27">
@@ -1404,7 +1404,7 @@
 <LM>w#w-ln94211-53-p6s1w6</LM>
 </w.rf>
 <form>Kříženecký</form>
-<tag lemma="Kříženecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříženecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-53-p6s1w7">
 <src.rf>manual</src.rf>

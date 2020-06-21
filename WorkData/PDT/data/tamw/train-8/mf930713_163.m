@@ -71,7 +71,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -581,7 +581,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -1160,7 +1160,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -1457,7 +1457,7 @@
 </w.rf>
 <form>Drogerie</form>
 <tag>
-<AM lemma="Drogerie_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Drogerie_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="drogerie" src="auto">NNFP1-----A----</AM>
 <AM lemma="drogerie" src="auto">NNFP4-----A----</AM>
 <AM lemma="drogerie" src="auto">NNFP5-----A----</AM>

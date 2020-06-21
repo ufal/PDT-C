@@ -114,7 +114,7 @@
 <LM>w#w-mf930709-141-p3s1w2</LM>
 </w.rf>
 <form>Kulenovič</form>
-<tag lemma="Kulenovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kulenovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p3s1w3">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-mf930709-141-p4s1w13</LM>
 </w.rf>
 <form>Babičová</form>
-<tag lemma="Babičová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Babičová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-mf930709-141-p5s1w2</LM>
 </w.rf>
 <form>Begič</form>
-<tag lemma="Begič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Begič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-mf930709-141-p5s1w4</LM>
 </w.rf>
 <form>Kulenovič</form>
-<tag lemma="Kulenovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kulenovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2055,7 +2055,7 @@
 <LM>w#w-mf930709-141-p8s1w27</LM>
 </w.rf>
 <form>Kulenovič</form>
-<tag lemma="Kulenovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kulenovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p8s1w28">
 <src.rf>manual</src.rf>

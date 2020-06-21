@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-105-p1s1w1</LM>
 </w.rf>
 <form>Piironen</form>
-<tag lemma="Piironen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piironen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-105-p1s1w2">
 <src.rf>manual</src.rf>
@@ -54,8 +54,8 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_:B_;K_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;m_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-105-p2s1w4">
@@ -162,7 +162,7 @@
 <LM>w#w-mf930708-105-p2s2w5</LM>
 </w.rf>
 <form>Toyoty</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-105-p2s2w6">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <LM>w#w-mf930708-105-p2s3w1</LM>
 </w.rf>
 <form>Kankkunenův</form>
-<tag lemma="Kankkunenův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Kankkunenův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930708-105-p2s3w2">
 <src.rf>manual</src.rf>
@@ -197,8 +197,8 @@
 </w.rf>
 <form>Juha</form>
 <tag>
-<AM lemma="Juha_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Juha_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Juha_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Juha_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-105-p2s3w4">
@@ -207,7 +207,7 @@
 <LM>w#w-mf930708-105-p2s3w4</LM>
 </w.rf>
 <form>Piironen</form>
-<tag lemma="Piironen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piironen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-105-p2s3w5">
 <src.rf>manual</src.rf>

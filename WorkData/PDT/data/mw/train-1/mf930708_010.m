@@ -103,7 +103,7 @@
 <form>vin</form>
 <tag>
 <AM lemma="vina" src="orig">NNFP2-----A----</AM>
-<AM lemma="vin-99_:B_;S" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="vin-99_:B_;Y" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-010-p2s1w6">
@@ -289,9 +289,9 @@
 </w.rf>
 <form>Canstar</form>
 <tag>
-<AM lemma="Canstar_;K_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Canstar_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Canstar_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Canstar_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Canstar_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Canstar_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Canstar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -302,7 +302,7 @@
 </w.rf>
 <form>Sports</form>
 <tag>
-<AM lemma="Sport_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Sport_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="sports_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Sports-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -847,7 +847,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

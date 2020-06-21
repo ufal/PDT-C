@@ -36,8 +36,8 @@
 </w.rf>
 <form>MILOŠEVIČ</form>
 <tag>
-<AM lemma="Milošević_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Miloševič_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Milošević_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Miloševič_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p1s1w4">
@@ -174,7 +174,7 @@
 <LM>w#w-lnd92254-066-p3s1w4</LM>
 </w.rf>
 <form>Milošević</form>
-<tag lemma="Milošević_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Milošević_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-066-p3s1w5">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <LM>w#w-lnd92254-066-p4s1w14</LM>
 </w.rf>
 <form>Milošević</form>
-<tag lemma="Milošević_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Milošević_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-066-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1616,7 +1616,7 @@
 <LM>w#w-lnd92254-066-p5s5w8</LM>
 </w.rf>
 <form>Michajla</form>
-<tag lemma="Michajl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Michajl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-066-p5s5w9">
 <src.rf>manual</src.rf>
@@ -2334,7 +2334,7 @@
 <LM>w#w-lnd92254-066-p6s1w8</LM>
 </w.rf>
 <form>Panićovi</form>
-<tag lemma="Panić_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Panić_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92254-066-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2760,7 +2760,7 @@
 <LM>w#w-lnd92254-066-p7s1w19</LM>
 </w.rf>
 <form>Miloševićův</form>
-<tag lemma="Miloševićův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Miloševićův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd92254-066-p7s1w20">
 <src.rf>manual</src.rf>
@@ -3323,7 +3323,7 @@
 </w.rf>
 <form>UDBA</form>
 <tag>
-<AM lemma="UDBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UDBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UDBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3398,8 +3398,8 @@
 </w.rf>
 <form>KOS</form>
 <tag>
-<AM lemma="KOS_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kos-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="KOS_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kos-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Kos-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Kos-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="kos" src="auto">NNMS1-----A----</AM>
@@ -4524,7 +4524,7 @@
 <LM>w#w-lnd92254-066-p9s3w7</LM>
 </w.rf>
 <form>Milošević</form>
-<tag lemma="Milošević_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Milošević_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-066-p9s3w8">
 <src.rf>manual</src.rf>

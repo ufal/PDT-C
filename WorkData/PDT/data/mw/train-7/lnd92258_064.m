@@ -283,8 +283,8 @@
 <form>Tchung</form>
 <tag>
 <AM lemma="Tchung_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tchung_;Y_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Tchung_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tchung_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Tchung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-064-p3s2w27">
@@ -293,7 +293,7 @@
 <LM>w#w-lnd92258-064-p3s2w27</LM>
 </w.rf>
 <form>Čeng</form>
-<tag lemma="Čeng_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čeng_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-064-p3s2w28">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-lnd92258-064-p3s2w40</LM>
 </w.rf>
 <form>Akihito</form>
-<tag lemma="Akihito_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Akihito_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-064-p3s2w41">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-lnd92258-064-p3s4w5</LM>
 </w.rf>
 <form>Akihitův</form>
-<tag lemma="Akihitův_;S_^(*2o)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Akihitův_;Y_^(*2o)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92258-064-p3s4w6">
 <src.rf>manual</src.rf>

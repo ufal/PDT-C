@@ -30,7 +30,7 @@
 </w.rf>
 <form>HTT</form>
 <tag>
-<AM lemma="HTT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HTT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="HTT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -40,7 +40,7 @@
 <LM>w#w-ln95040-108-p2s1w2</LM>
 </w.rf>
 <form>Tesla</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-108-p2s1w3">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-ln95040-108-p3s1w3</LM>
 </w.rf>
 <form>McDonald</form>
-<tag lemma="McDonald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McDonald_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-108-p3s1w4">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -456,7 +456,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -477,7 +477,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -488,7 +488,7 @@
 </w.rf>
 <form>Bahn</form>
 <tag>
-<AM lemma="Bahn_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Bahn_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bahn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -499,7 +499,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -712,7 +712,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

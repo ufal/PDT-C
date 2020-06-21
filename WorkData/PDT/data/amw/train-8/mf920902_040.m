@@ -43,7 +43,7 @@
 <LM>w#w-mf920902-040-p1s1Aw4</LM>
 </w.rf>
 <form>HERRMANNOVÁ</form>
-<tag lemma="Herrmannová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Herrmannová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-040-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-mf920902-040-p1s4w10</LM>
 </w.rf>
 <form>Rossiniho</form>
-<tag lemma="Rossini_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rossini_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-040-p1s4w11">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-mf920902-040-p1s4w29</LM>
 </w.rf>
 <form>Bizetovu</form>
-<tag lemma="Bizetův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Bizetův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf920902-040-p1s4w30">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-mf920902-040-p1s4w36</LM>
 </w.rf>
 <form>Brooka</form>
-<tag lemma="Brook_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brook_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-040-p1s4w37">
 <src.rf>manual</src.rf>

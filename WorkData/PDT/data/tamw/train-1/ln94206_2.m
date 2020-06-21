@@ -101,7 +101,7 @@
 <LM>w#w-ln94206-2-p2s1Aw3</LM>
 </w.rf>
 <form>ev</form>
-<tag lemma="ev-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ev-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94206-2-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -325,8 +325,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-2-p2s2w2">
@@ -407,7 +407,7 @@
 <LM>w#w-ln94206-2-p2s2w11</LM>
 </w.rf>
 <form>Prokop</form>
-<tag lemma="Prokop_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokop_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-2-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-2-p4s1w7">
@@ -1371,7 +1371,7 @@
 <LM>w#w-ln94206-2-p4s1w8</LM>
 </w.rf>
 <form>Prokopa</form>
-<tag lemma="Prokop_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Prokop_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-2-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1669,7 +1669,7 @@
 <LM>w#w-ln94206-2-p4s2w18</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-2-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1711,7 +1711,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-2-p4s2w24">
@@ -1728,7 +1728,7 @@
 <LM>w#w-ln94206-2-p4s2w25</LM>
 </w.rf>
 <form>Prokopa</form>
-<tag lemma="Prokop_;S_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Prokop_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-2-p4s2w26">
 <src.rf>manual</src.rf>

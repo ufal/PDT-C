@@ -239,7 +239,7 @@
 <LM>w#w-cmpr9406-012-p3s2w15</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-012-p3s2w16">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-cmpr9406-012-p3s3w1</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-012-p3s3w2">
 <src.rf>manual</src.rf>

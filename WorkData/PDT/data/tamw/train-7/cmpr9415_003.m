@@ -1459,7 +1459,7 @@
 <LM>w#w-cmpr9415-003-p7s2w23</LM>
 </w.rf>
 <form>Gadouaová</form>
-<tag lemma="Gadouaová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gadouaová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-003-p7s2w24">
 <src.rf>manual</src.rf>

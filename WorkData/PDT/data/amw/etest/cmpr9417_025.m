@@ -64,10 +64,10 @@
 </w.rf>
 <form>Talpa</form>
 <tag>
-<AM lemma="Talpa-2_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Talpa-2_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Talpa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Talpa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Talpa-2_;G_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Talpa_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Talpa-2_;G_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p4s1w3">
@@ -85,7 +85,7 @@
 </w.rf>
 <form>PTV</form>
 <tag>
-<AM lemma="PTV_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PTV_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -195,9 +195,9 @@
 </w.rf>
 <form>Mole</form>
 <tag>
-<AM lemma="Mole_;R" src="orig">NNXXX-----A----</AM>
-<AM lemma="Mole_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Mole_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Mole_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="Mole_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mole_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="mol-1_^(motýl)" src="auto">NNMS5-----A----</AM>
 <AM lemma="mol-2_^(grammolekula)" src="auto">NNIS5-----A----</AM>
 <AM lemma="molo" src="auto">NNNS6-----A----</AM>
@@ -505,10 +505,10 @@
 </w.rf>
 <form>Talpa</form>
 <tag>
-<AM lemma="Talpa-2_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Talpa-2_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Talpa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Talpa_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Talpa-2_;G_;K" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Talpa_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Talpa-2_;G_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p5s1w4">
@@ -526,7 +526,7 @@
 </w.rf>
 <form>PTV</form>
 <tag>
-<AM lemma="PTV_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PTV_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -699,7 +699,7 @@
 <LM>w#w-cmpr9417-025-p6s1w2</LM>
 </w.rf>
 <form>Mavet</form>
-<tag lemma="Mavet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mavet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-025-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 <LM>w#w-cmpr9417-025-p7s1w3</LM>
 </w.rf>
 <form>Mavet</form>
-<tag lemma="Mavet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mavet_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-025-p7s1w4">
 <src.rf>manual</src.rf>

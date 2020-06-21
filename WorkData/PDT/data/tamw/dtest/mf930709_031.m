@@ -86,8 +86,8 @@
 </w.rf>
 <form>or</form>
 <tag>
-<AM lemma="or-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="or-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="or-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="or-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p2s1Aw4">
@@ -105,9 +105,9 @@
 </w.rf>
 <form>tma</form>
 <tag>
-<AM lemma="tma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tma-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tma" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="tma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tma-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p2s1Aw6">
@@ -191,7 +191,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -462,7 +462,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -965,7 +965,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1058,7 +1058,7 @@
 </w.rf>
 <form>Palace</form>
 <tag>
-<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-1_;m_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1294,7 +1294,7 @@
 </w.rf>
 <form>Palace</form>
 <tag>
-<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-1_;m_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1545,7 +1545,7 @@
 </w.rf>
 <form>Palace</form>
 <tag>
-<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-1_;m_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1564,14 +1564,14 @@
 </w.rf>
 <form>Esplanade</form>
 <tag>
-<AM lemma="Esplanade_;K_^(hotel)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Esplanade_:B_;K_^(hotel)" src="auto">NNFP1-----A----</AM>
-<AM lemma="Esplanade_:B_;K_^(hotel)" src="auto">NNFP4-----A----</AM>
-<AM lemma="Esplanade_:B_;K_^(hotel)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Esplanade_:B_;K_^(hotel)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Esplanade_:B_;K_^(hotel)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Esplanade_:B_;K_^(hotel)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Esplanade_;K_^(hotel)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Esplanade_;m_^(hotel)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP1-----A----</AM>
+<AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP4-----A----</AM>
+<AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP5-----A----</AM>
+<AM lemma="Esplanade_:B_;m_^(hotel)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFS5-----A----</AM>
+<AM lemma="Esplanade_;m_^(hotel)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-031-p5s1w17">
@@ -1650,7 +1650,7 @@
 </w.rf>
 <form>IH</form>
 <tag>
-<AM lemma="IH_:B_;K_^(Interhotel)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IH_:B_;m_^(Interhotel)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1660,7 +1660,7 @@
 <LM>w#w-mf930709-031-p5s1w26</LM>
 </w.rf>
 <form>Golf</form>
-<tag lemma="Golf_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Golf_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-031-p5s1w27">
 <src.rf>manual</src.rf>
@@ -1701,7 +1701,7 @@
 <LM>w#w-mf930709-031-p5s1w30</LM>
 </w.rf>
 <form>Pupp</form>
-<tag lemma="Pupp_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pupp_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-031-p5s1w31">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <LM>w#w-mf930709-031-p6s1w4</LM>
 </w.rf>
 <form>TESLA</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-031-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1768,7 +1768,7 @@
 </w.rf>
 <form>Sezam</form>
 <tag>
-<AM lemma="Sezam_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sezam_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="sezam" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="sezam" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1814,7 +1814,7 @@
 </w.rf>
 <form>RM</form>
 <tag>
-<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM_:B_;m_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="RM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1987,7 +1987,7 @@
 </w.rf>
 <form>Sezamu</form>
 <tag>
-<AM lemma="Sezam_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sezam_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="sezam" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="sezam" src="auto">NNIS3-----A----</AM>
 <AM lemma="sezam" src="auto">NNIS6-----A----</AM>
@@ -2153,7 +2153,7 @@
 <LM>w#w-mf930709-031-p7s1w8</LM>
 </w.rf>
 <form>TESLA</form>
-<tag lemma="Tesla-2_;K_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tesla-2_;m_^(podnik,_značka)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-031-p7s1w9">
 <src.rf>manual</src.rf>
@@ -2170,7 +2170,7 @@
 </w.rf>
 <form>Sezam</form>
 <tag>
-<AM lemma="Sezam_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sezam_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="sezam" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="sezam" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2214,7 +2214,7 @@
 </w.rf>
 <form>Vacuum</form>
 <tag>
-<AM lemma="Vacuum_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Vacuum_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Vacuum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2324,7 +2324,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

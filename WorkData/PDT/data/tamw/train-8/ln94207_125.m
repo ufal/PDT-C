@@ -21,7 +21,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-125-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-ln94207-125-p1s1w3</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-125-p1s1w4">
 <src.rf>manual</src.rf>
@@ -96,7 +96,7 @@
 <LM>w#w-ln94207-125-p2s1Aw2</LM>
 </w.rf>
 <form>Rybář</form>
-<tag lemma="Rybář_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rybář_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-125-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-125-p2s1Bw6">
@@ -173,7 +173,7 @@
 <LM>w#w-ln94207-125-p2s1Bw7</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-125-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-125-p3s1w5">
@@ -580,7 +580,7 @@
 <LM>w#w-ln94207-125-p3s1w6</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-125-p3s1w7">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 </w.rf>
 <form>Kiro</form>
 <tag>
-<AM lemma="Kiro_;Y" src="orig" selected="1">NNMSX-----A----</AM>
+<AM lemma="Kiro_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Kira_;Y" src="auto" recommended="1">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -631,7 +631,7 @@
 <LM>w#w-ln94207-125-p3s1w12</LM>
 </w.rf>
 <form>Gligorovem</form>
-<tag lemma="Gligorov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gligorov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-125-p3s1w13">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-ln94207-125-p4s1w14</LM>
 </w.rf>
 <form>Vondra</form>
-<tag lemma="Vondra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-125-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 </w.rf>
 <form>Kiro</form>
 <tag>
-<AM lemma="Kiro_;Y" src="orig" selected="1">NNMSX-----A----</AM>
+<AM lemma="Kiro_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Kira_;Y" src="auto" recommended="1">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -1045,7 +1045,7 @@
 <LM>w#w-ln94207-125-p5s1w3</LM>
 </w.rf>
 <form>Gligorov</form>
-<tag lemma="Gligorov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gligorov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-125-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1264,8 +1264,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94207-125-p6s1w4">

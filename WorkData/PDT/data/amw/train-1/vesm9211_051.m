@@ -19,7 +19,7 @@
 <LM>w#w-vesm9211-051-p1s1w1</LM>
 </w.rf>
 <form>Kantův</form>
-<tag lemma="Kantův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Kantův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9211-051-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-vesm9211-051-p1s1w3</LM>
 </w.rf>
 <form>Borowskému</form>
-<tag lemma="Borowský_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Borowský_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-051-p2s1A">
@@ -133,7 +133,7 @@
 <LM>w#w-vesm9211-051-p2s1Aw12</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-051-p2s1Aw13">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-051-p2s1Aw17">
@@ -186,7 +186,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-051-p2s1Aw19">
@@ -203,7 +203,7 @@
 <LM>w#w-vesm9211-051-p2s1Aw20</LM>
 </w.rf>
 <form>Borowskému</form>
-<tag lemma="Borowský_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Borowský_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-vesm9211-051-p2s1Aw21">
 <src.rf>manual</src.rf>
@@ -5157,7 +5157,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-051-p7s1w3">
@@ -5174,7 +5174,7 @@
 <LM>w#w-vesm9211-051-p7s1w4</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-051-p9s1">
@@ -5201,11 +5201,11 @@
 </w.rf>
 <form>Borowski</form>
 <tag>
-<AM lemma="Borowski_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Borowský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Borowský_;S" src="auto">NNMS5-----A---1</AM>
-<AM lemma="Borowski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Borowski_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Borowski_;Y" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Borowský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Borowský_;Y" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Borowski_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Borowski_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-051-p9s1w4">
@@ -5222,7 +5222,7 @@
 <LM>w#w-vesm9211-051-p9s1w5</LM>
 </w.rf>
 <form>Kantovu</form>
-<tag lemma="Kantův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Kantův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9211-051-p9s1w6">
 <src.rf>manual</src.rf>
@@ -5270,7 +5270,7 @@
 <LM>w#w-vesm9211-051-p9s1w11</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-051-p9s1w12">
 <src.rf>manual</src.rf>
@@ -5519,7 +5519,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-051-p9s3w12">
@@ -5536,7 +5536,7 @@
 <LM>w#w-vesm9211-051-p9s3w13</LM>
 </w.rf>
 <form>Kant</form>
-<tag lemma="Kant_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kant_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-051-p9s3w14">
 <src.rf>manual</src.rf>
@@ -5731,7 +5731,7 @@
 <form>Karas</form>
 <tag>
 <AM lemma="karas" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karas_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Karas_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-051-p10s1w8">

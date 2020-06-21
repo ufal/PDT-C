@@ -52,8 +52,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-063-p1s1w6">
@@ -99,7 +99,7 @@
 <LM>w#w-mf920925-063-p1s2w4</LM>
 </w.rf>
 <form>Rheaumeová</form>
-<tag lemma="Rheaumeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rheaumeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-063-p1s2w5">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 </w.rf>
 <form>Lightning</form>
 <tag>
-<AM lemma="Lightning_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Lightning_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Lightning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -360,7 +360,7 @@
 </w.rf>
 <form>Louis</form>
 <tag>
-<AM lemma="Louis-4_;K_;G_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Louis-4_;G_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto">NNMS1-----A----</AM>
@@ -459,7 +459,7 @@
 <LM>w#w-mf920925-063-p1s5w1</LM>
 </w.rf>
 <form>Rheaumeová</form>
-<tag lemma="Rheaumeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rheaumeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-063-p1s5w2">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-mf920925-063-p1s7w5</LM>
 </w.rf>
 <form>Esposito</form>
-<tag lemma="Espozito_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Espozito_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-063-p1s7w6">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-mf920925-063-p1s9w1</LM>
 </w.rf>
 <form>Rheaumeová</form>
-<tag lemma="Rheaumeová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rheaumeová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-063-p1s9w2">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1184,8 +1184,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-063-p2s1Bw12">
@@ -1206,7 +1206,7 @@
 </w.rf>
 <form>Whalers</form>
 <tag>
-<AM lemma="Whalers_;K_,t_^(sport._klub)" src="orig">NNMPX-----A----</AM>
+<AM lemma="Whalers_;m_,t_^(sport._klub)" src="orig">NNMXX-----A----</AM>
 <AM lemma="Whalers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1292,7 +1292,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

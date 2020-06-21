@@ -60,7 +60,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -322,7 +322,7 @@
 </w.rf>
 <form>FIFA</form>
 <tag>
-<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="FIFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -353,7 +353,7 @@
 <LM>w#w-ln95049-027-p2s2w12</LM>
 </w.rf>
 <form>Havelangemu</form>
-<tag lemma="Havelange_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Havelange_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-027-p2s2w13">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln95049-027-p2s2w20</LM>
 </w.rf>
 <form>Ogura</form>
-<tag lemma="Ogura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ogura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-027-p2s2w21">
 <src.rf>manual</src.rf>

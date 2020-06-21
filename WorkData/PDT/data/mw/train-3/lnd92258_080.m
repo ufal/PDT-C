@@ -1363,7 +1363,7 @@
 <LM>w#w-lnd92258-080-p5s1w17</LM>
 </w.rf>
 <form>Hrubým</form>
-<tag lemma="Hrubý_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hrubý_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-080-p5s1w18">
 <src.rf>manual</src.rf>
@@ -2882,7 +2882,7 @@
 </w.rf>
 <form>ČSAV</form>
 <tag>
-<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-1_:B_;m_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3725,7 +3725,7 @@
 <LM>w#w-lnd92258-080-p11s1w2</LM>
 </w.rf>
 <form>WOLLNER</form>
-<tag lemma="Wollner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wollner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

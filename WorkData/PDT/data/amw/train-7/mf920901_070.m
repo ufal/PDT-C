@@ -64,7 +64,7 @@
 <LM>w#w-mf920901-070-p1s1Bw2</LM>
 </w.rf>
 <form>ČIČ</form>
-<tag lemma="Čič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-070-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <form>Slovák</form>
 <tag>
 <AM lemma="Slovák_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Slovák_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Slovák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-070-p2s2w43">
@@ -584,9 +584,9 @@
 </w.rf>
 <form>TK</form>
 <tag>
-<AM lemma="TK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TK_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Tk_:B_;K" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="Tk_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="tknout" src="auto">VpYS----R-AAI-6</AM>
 <AM lemma="TK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1043,7 +1043,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-070-p2s5w20">
@@ -1062,7 +1062,7 @@
 <form>Slovák</form>
 <tag>
 <AM lemma="Slovák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Slovák_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Slovák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-070-p2s5w22">
@@ -1571,7 +1571,7 @@
 <LM>w#w-mf920901-070-p3s1w11</LM>
 </w.rf>
 <form>Mečiarovi</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf920901-070-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1651,7 +1651,7 @@
 <LM>w#w-mf920901-070-p3s1w21</LM>
 </w.rf>
 <form>Palko</form>
-<tag lemma="Palko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Palko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-070-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1997,7 +1997,7 @@
 <LM>w#w-mf920901-070-p4s1w12</LM>
 </w.rf>
 <form>Čiče</form>
-<tag lemma="Čič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-070-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2014,7 +2014,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2286,7 +2286,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-070-p5s1w4">
@@ -2303,7 +2303,7 @@
 <LM>w#w-mf920901-070-p5s1w5</LM>
 </w.rf>
 <form>Čiče</form>
-<tag lemma="Čič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-070-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2643,7 +2643,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-070-p6s1w2">
@@ -2660,7 +2660,7 @@
 <LM>w#w-mf920901-070-p6s1w3</LM>
 </w.rf>
 <form>Čič</form>
-<tag lemma="Čič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-070-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2909,7 +2909,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-070-p7s1w2">
@@ -2926,7 +2926,7 @@
 <LM>w#w-mf920901-070-p7s1w3</LM>
 </w.rf>
 <form>Čič</form>
-<tag lemma="Čič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-070-p7s1w4">
 <src.rf>manual</src.rf>

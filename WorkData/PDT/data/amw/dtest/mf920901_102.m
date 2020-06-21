@@ -1541,9 +1541,9 @@
 </w.rf>
 <form>Barré</form>
 <tag>
-<AM lemma="Barré_;S" src="orig" selected="1">NNMXX-----A----</AM>
-<AM lemma="Barré_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Barré_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Barré_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Barré_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Barré_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-102-p4s5w15">

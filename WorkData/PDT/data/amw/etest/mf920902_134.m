@@ -717,7 +717,7 @@
 <LM>w#w-mf920902-134-p4s7w2</LM>
 </w.rf>
 <form>Kravčuk</form>
-<tag lemma="Kravčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kravčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-134-p4s7w3">
 <src.rf>manual</src.rf>

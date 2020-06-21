@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-112-p1s1w2</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-112-p1s1w3">
 <src.rf>manual</src.rf>
@@ -144,8 +144,8 @@
 </w.rf>
 <form>jfr</form>
 <tag>
-<AM lemma="jfr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jfr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jfr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jfr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-112-p2s1w4">
@@ -202,7 +202,7 @@
 <LM>w#w-mf930701-112-p2s1w10</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s1w11">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-mf930701-112-p2s3w12</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s3w13">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-mf930701-112-p2s3w14</LM>
 </w.rf>
 <form>Kuneš</form>
-<tag lemma="Kuneš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kuneš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s3w15">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-mf930701-112-p2s6w4</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s6w5">
 <src.rf>manual</src.rf>

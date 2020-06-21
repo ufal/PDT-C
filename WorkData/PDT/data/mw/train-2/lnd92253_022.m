@@ -537,7 +537,7 @@
 <LM>w#w-lnd92253-022-p3s3w15</LM>
 </w.rf>
 <form>Bruncvíka</form>
-<tag lemma="Bruncvík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bruncvík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-022-p3s3w16">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-lnd92253-022-p4s2w2</LM>
 </w.rf>
 <form>Váňova</form>
-<tag lemma="Váňův_;S_;Y_^(*2a)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Váňův_;Y_^(*2a)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92253-022-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1040,7 +1040,7 @@
 <LM>w#w-lnd92253-022-p4s3w7</LM>
 </w.rf>
 <form>Burian</form>
-<tag lemma="Burian_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burian_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-022-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-lnd92253-022-p4s3w14</LM>
 </w.rf>
 <form>Rut</form>
-<tag lemma="Rut-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rut-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-022-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-lnd92253-022-p4s4w6</LM>
 </w.rf>
 <form>Kleplovo</form>
-<tag lemma="Kleplův_;S_^(*2a)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Kleplův_;Y_^(*2a)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-lnd92253-022-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1227,11 +1227,11 @@
 </w.rf>
 <form>Damu</form>
 <tag>
-<AM lemma="DAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Dam_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Dam_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="DAMU_:B_;K" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DAMU_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DAMU_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Dam_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Dam_;Y" src="auto">NNMS6-----A---1</AM>
+<AM lemma="DAMU_:B_;m" src="manual">NNXXX-----A---8</AM>
+<AM lemma="DAMU_:B_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-022-p4s4w12">
@@ -2047,7 +2047,7 @@
 <LM>w#w-lnd92253-022-p6s1w2</LM>
 </w.rf>
 <form>ŠTINGL</form>
-<tag lemma="Štingl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štingl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

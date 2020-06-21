@@ -112,7 +112,7 @@
 <LM>w#w-mf930708-173-p2s1w4</LM>
 </w.rf>
 <form>kw</form>
-<tag lemma="kw-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kw-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-173-p2s1w5">
 <src.rf>manual</src.rf>
@@ -129,8 +129,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-173-p2s1w7">
@@ -740,7 +740,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-173-p3s2w33">
@@ -757,7 +757,7 @@
 <LM>w#w-mf930708-173-p3s2w34</LM>
 </w.rf>
 <form>Trágl</form>
-<tag lemma="Trágl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Trágl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-173-p3s2w35">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-173-p4s1w4">
@@ -858,7 +858,7 @@
 <LM>w#w-mf930708-173-p4s1w5</LM>
 </w.rf>
 <form>Filo</form>
-<tag lemma="Filo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Filo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-173-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1262,7 +1262,7 @@
 <LM>w#w-mf930708-173-p4s3w26</LM>
 </w.rf>
 <form>Filo</form>
-<tag lemma="Filo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Filo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-173-p4s3w27">
 <src.rf>manual</src.rf>

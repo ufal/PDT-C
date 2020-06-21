@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-012-p1s1w3</LM>
 </w.rf>
 <form>Slezáka</form>
-<tag lemma="Slezák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Slezák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-012-p1s1w4">
 <src.rf>manual</src.rf>

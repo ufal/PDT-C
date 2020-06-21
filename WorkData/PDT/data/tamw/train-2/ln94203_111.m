@@ -276,7 +276,7 @@
 <LM>w#w-ln94203-111-p2s1Bw26</LM>
 </w.rf>
 <form>Sorbonně</form>
-<tag lemma="Sorbonna_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sorbonna_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-111-p2s1Bw27">
 <src.rf>manual</src.rf>

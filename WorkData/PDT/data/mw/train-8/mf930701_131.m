@@ -78,7 +78,7 @@
 </w.rf>
 <form>bod</form>
 <tag>
-<AM lemma="bod-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="bod-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
 <AM lemma="bodnout" src="auto">VpYS----R-AAP-6</AM>
@@ -793,7 +793,7 @@
 <form>Bernard</form>
 <tag>
 <AM lemma="Bernard_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Bernard_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bernard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-131-p2s5w26">

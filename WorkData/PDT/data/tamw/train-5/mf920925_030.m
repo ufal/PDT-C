@@ -62,9 +62,9 @@
 </w.rf>
 <form>sob</form>
 <tag>
-<AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p2s1w4">
@@ -355,7 +355,7 @@
 <LM>w#w-mf920925-030-p2s3w3</LM>
 </w.rf>
 <form>ftalát</form>
-<tag lemma="ftalát_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p2s3w4">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-mf920925-030-p2s3w4</LM>
 </w.rf>
 <form>dibutylnatý</form>
-<tag lemma="dibutylnatý_;H" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920925-030-p2s3w5">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-mf920925-030-p2s3w15</LM>
 </w.rf>
 <form>hydroxytoluen</form>
-<tag lemma="hydroxytoluen_;H" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="hydroxytoluen_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p2s3w16">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-mf920925-030-p3s1w25</LM>
 </w.rf>
 <form>Hajšlová</form>
-<tag lemma="Hajšlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hajšlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1522,8 +1522,8 @@
 </w.rf>
 <form>Sojuzplodoimport</form>
 <tag>
-<AM lemma="Sojuzplodoimport_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sojuzplodoimport_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sojuzplodoimport_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s5w5">
@@ -1896,7 +1896,7 @@
 <LM>w#w-mf920925-030-p4s6w14</LM>
 </w.rf>
 <form>Batov</form>
-<tag lemma="Batov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Batov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p4s6w15">
 <src.rf>manual</src.rf>
@@ -1929,8 +1929,8 @@
 </w.rf>
 <form>Sojuzplodoimport</form>
 <tag>
-<AM lemma="Sojuzplodoimport_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Sojuzplodoimport_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sojuzplodoimport_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sojuzplodoimport_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s6w19">
@@ -1958,16 +1958,16 @@
 </w.rf>
 <form>Batova</form>
 <tag>
-<AM lemma="Batov_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto">AUFS5M---------</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto">AUIS2M---------</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto" recommended="1">AUMS2M---------</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto">AUMS4M---------</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto">AUNP1M---------</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto">AUNP4M---------</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto">AUNP5M---------</AM>
-<AM lemma="Batův_;S_^(*2a)" src="auto">AUNS2M---------</AM>
+<AM lemma="Batov_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto">AUFS1M---------</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto">AUFS5M---------</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto">AUIS2M---------</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto" recommended="1">AUMS2M---------</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto">AUMS4M---------</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto">AUNP1M---------</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto">AUNP4M---------</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto">AUNP5M---------</AM>
+<AM lemma="Batův_;Y_^(*2a)" src="auto">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s7w3">

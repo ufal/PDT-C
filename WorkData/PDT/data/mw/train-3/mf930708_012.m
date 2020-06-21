@@ -89,10 +89,10 @@
 </w.rf>
 <form>kar</form>
 <tag>
-<AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
-<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p2s1w4">
@@ -731,7 +731,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p2s4w6">
@@ -748,7 +748,7 @@
 <LM>w#w-mf930708-012-p2s4w7</LM>
 </w.rf>
 <form>Podsedníka</form>
-<tag lemma="Podsedník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Podsedník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-012-p2s4w8">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-mf930708-012-p2s4w11</LM>
 </w.rf>
 <form>Tomkové</form>
-<tag lemma="Tomková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tomková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-012-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1104,7 +1104,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-012-p2s6w9">
@@ -1121,7 +1121,7 @@
 <LM>w#w-mf930708-012-p2s6w10</LM>
 </w.rf>
 <form>Podsedníka</form>
-<tag lemma="Podsedník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Podsedník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-012-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1590,7 +1590,7 @@
 <LM>w#w-mf930708-012-p2s9w9</LM>
 </w.rf>
 <form>Tomková</form>
-<tag lemma="Tomková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tomková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-012-p2s9w10">
 <src.rf>manual</src.rf>
@@ -2124,7 +2124,7 @@
 <LM>w#w-mf930708-012-p2s13w3</LM>
 </w.rf>
 <form>Skálové</form>
-<tag lemma="Skálová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Skálová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-012-p2s13w4">
 <src.rf>manual</src.rf>

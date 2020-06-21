@@ -930,7 +930,7 @@
 <LM>w#w-mf920902-024-p3s8w15</LM>
 </w.rf>
 <form>Petra</form>
-<tag lemma="petra-1_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="petra-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-024-p3s8w16">
 <src.rf>manual</src.rf>

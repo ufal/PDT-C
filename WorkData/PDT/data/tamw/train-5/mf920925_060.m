@@ -101,7 +101,7 @@
 <LM>w#w-mf920925-060-p2s1w6</LM>
 </w.rf>
 <form>VESELÝ</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-060-p2s1w7">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf920925-060-p3s1w23</LM>
 </w.rf>
 <form>Veselý</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-060-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 <LM>w#w-mf920925-060-p4s3w10</LM>
 </w.rf>
 <form>Veselý</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-060-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1431,7 +1431,7 @@
 <LM>w#w-mf920925-060-p4s6w2</LM>
 </w.rf>
 <form>Konárek</form>
-<tag lemma="Konárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Konárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-060-p4s6w3">
 <src.rf>manual</src.rf>
@@ -1747,7 +1747,7 @@
 <LM>w#w-mf920925-060-p5s1w6</LM>
 </w.rf>
 <form>Veselý</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-060-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1854,8 +1854,8 @@
 </w.rf>
 <form>Sokol</form>
 <tag>
-<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sokol-2_;K_;R_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="sokol-1_;U_^(pták)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Sokol-2_;m_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-060-p5s2w10">
@@ -2149,8 +2149,8 @@
 </w.rf>
 <form>Sokol</form>
 <tag>
-<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sokol-2_;K_;R_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="sokol-1_;U_^(pták)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Sokol-2_;m_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-060-p5s3Bw14">
@@ -2414,7 +2414,7 @@
 </w.rf>
 <form>Sokola</form>
 <tag>
-<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMS4-----A----</AM>
+<AM lemma="sokol-1_;U_^(pták)" src="auto">NNMS4-----A----</AM>
 <AM lemma="sokol-1" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2538,7 +2538,7 @@
 <LM>w#w-mf920925-060-p6s1w6</LM>
 </w.rf>
 <form>Veselý</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-060-p6s1w7">
 <src.rf>manual</src.rf>
@@ -3206,7 +3206,7 @@
 <LM>w#w-mf920925-060-p7s1w1</LM>
 </w.rf>
 <form>Veselý</form>
-<tag lemma="Veselý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veselý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-060-p7s1w2">
 <src.rf>manual</src.rf>
@@ -3968,7 +3968,7 @@
 <LM>w#w-mf920925-060-p8s2w12</LM>
 </w.rf>
 <form>Geoindustrie</form>
-<tag lemma="Geoindustria_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Geoindustria_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-060-p8s2w13">
 <src.rf>manual</src.rf>

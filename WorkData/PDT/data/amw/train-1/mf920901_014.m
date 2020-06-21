@@ -208,7 +208,7 @@
 <LM>w#w-mf920901-014-p2s1w21</LM>
 </w.rf>
 <form>Sapin</form>
-<tag lemma="Sapin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sapin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-014-p2s1w22">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-mf920901-014-p2s2w27</LM>
 </w.rf>
 <form>Sapin</form>
-<tag lemma="Sapin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sapin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-014-p2s2w28">
 <src.rf>manual</src.rf>

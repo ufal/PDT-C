@@ -32,7 +32,7 @@
 <LM>w#w-mf920902-127-p1s1w2</LM>
 </w.rf>
 <form>Reni</form>
-<tag lemma="Reni_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reni_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-127-p1s1w3">
 <src.rf>manual</src.rf>

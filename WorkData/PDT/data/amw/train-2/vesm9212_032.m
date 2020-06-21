@@ -183,7 +183,7 @@
 <LM>w#w-vesm9212-032-p3s1w10</LM>
 </w.rf>
 <form>Komárek</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-032-p3s1w11">
 <src.rf>manual</src.rf>
@@ -4284,7 +4284,7 @@
 <LM>w#w-vesm9212-032-p6s1w6</LM>
 </w.rf>
 <form>Steiner</form>
-<tag lemma="Steiner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steiner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-032-p6s1w7">
 <src.rf>manual</src.rf>
@@ -4312,7 +4312,7 @@
 </w.rf>
 <form>man</form>
 <tag>
-<AM lemma="man-2_;R_,t" src="orig">PPMS1--3-------</AM>
+<AM lemma="man-2_;m_,t" src="orig">PPMS1--3-------</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 <AM lemma="man_,t" src="manual">NNXXX-----A----</AM>
@@ -4326,7 +4326,7 @@
 </w.rf>
 <form>Lebenspläne</form>
 <tag>
-<AM lemma="Lebensplan_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Lebensplan_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Lebenspläne-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4416,7 +4416,7 @@
 <LM>w#w-vesm9212-032-p6s2Aw1</LM>
 </w.rf>
 <form>Steiner</form>
-<tag lemma="Steiner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steiner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-032-p6s2Aw2">
 <src.rf>manual</src.rf>
@@ -4734,8 +4734,8 @@
 <AM lemma="Norman-3_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Norman-1_;E" src="auto">NNMS2-----A----</AM>
 <AM lemma="Norman-1_;E" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Norman-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Norman-2_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Norman-2_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Norman-2_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-032-p6s2Bw4">
@@ -4744,7 +4744,7 @@
 <LM>w#w-vesm9212-032-p6s2Bw4</LM>
 </w.rf>
 <form>Camerona</form>
-<tag lemma="Cameron-1_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cameron-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9212-032-p6s2Bw5">
 <src.rf>manual</src.rf>
@@ -4762,7 +4762,7 @@
 <form>American</form>
 <tag>
 <AM lemma="american_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -5012,7 +5012,7 @@
 <LM>w#w-vesm9212-032-p6s2Bw35</LM>
 </w.rf>
 <form>Cameron</form>
-<tag lemma="Cameron-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cameron-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-032-p6s2Bw36">
 <src.rf>manual</src.rf>
@@ -10384,7 +10384,7 @@
 </w.rf>
 <form>adiecto</form>
 <tag>
-<AM lemma="adiecto_,t" src="orig">AANSX----1A----</AM>
+<AM lemma="adiecto_,t" src="orig">AANXX----1A----</AM>
 <AM lemma="adiecto-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -12729,7 +12729,7 @@
 <LM>w#w-vesm9212-032-p10s10w13</LM>
 </w.rf>
 <form>Gagarin</form>
-<tag lemma="Gagarin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gagarin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-032-p10s10w14">
 <src.rf>manual</src.rf>
@@ -13168,7 +13168,7 @@
 </w.rf>
 <form>Eratosthenés</form>
 <tag>
-<AM lemma="Eratosthenés_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Eratosthenés_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Eratosthenés_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -13243,8 +13243,8 @@
 </w.rf>
 <form>Serapeion</form>
 <tag>
-<AM lemma="Serapeion_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Serapeion_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Serapeion_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Serapeion_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-032-p11s1w26">

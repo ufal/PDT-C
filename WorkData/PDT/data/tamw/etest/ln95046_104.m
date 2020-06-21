@@ -27,7 +27,7 @@
 <LM>w#w-ln95046-104-p1s1w2</LM>
 </w.rf>
 <form>Cruise</form>
-<tag lemma="Cruise_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cruise_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-104-p1s1w3">
 <src.rf>manual</src.rf>

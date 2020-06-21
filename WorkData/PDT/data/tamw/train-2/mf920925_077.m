@@ -43,7 +43,7 @@
 <LM>w#w-mf920925-077-p1s1w4</LM>
 </w.rf>
 <form>Semtexu</form>
-<tag lemma="Semtex_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Semtex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-077-p2s1">
@@ -70,9 +70,9 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vin-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="vin-99_:B_;S" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="vin-99_:B_;Y" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-077-p2s1w4">
@@ -131,7 +131,7 @@
 <LM>w#w-mf920925-077-p2s2w5</LM>
 </w.rf>
 <form>Semtex</form>
-<tag lemma="Semtex_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Semtex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-077-p2s2w6">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-mf920925-077-p3s1w2</LM>
 </w.rf>
 <form>Semtex</form>
-<tag lemma="Semtex_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Semtex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-077-p3s1w3">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-mf920925-077-p3s2w17</LM>
 </w.rf>
 <form>Semtexu</form>
-<tag lemma="Semtex_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Semtex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-077-p3s2w18">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-mf920925-077-p3s3w8</LM>
 </w.rf>
 <form>Semtexu</form>
-<tag lemma="Semtex_;R" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Semtex_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-077-p3s3w9">
 <src.rf>manual</src.rf>

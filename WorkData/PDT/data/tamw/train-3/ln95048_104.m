@@ -128,7 +128,7 @@
 <LM>w#w-ln95048-104-p2s1w8</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-104-p2s1w9">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 </w.rf>
 <form>Ivo</form>
 <tag>
-<AM lemma="Ivo_;Y" src="orig">NNMSX-----A----</AM>
+<AM lemma="Ivo_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Iva_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS2-----A---1</AM>
@@ -1328,7 +1328,7 @@
 <LM>w#w-ln95048-104-p2s9Aw28</LM>
 </w.rf>
 <form>Procházkou</form>
-<tag lemma="Procházka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Procházka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-104-p2s9Aw29">
 <src.rf>manual</src.rf>

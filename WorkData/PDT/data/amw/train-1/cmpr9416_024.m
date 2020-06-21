@@ -1795,7 +1795,7 @@
 <form>Chudý</form>
 <tag>
 <AM lemma="chudý-1" src="auto">AAMS1----1A----</AM>
-<AM lemma="Chudý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chudý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-024-p8s1w3">

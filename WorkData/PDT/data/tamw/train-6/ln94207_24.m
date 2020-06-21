@@ -60,8 +60,8 @@
 </w.rf>
 <form>CSU</form>
 <tag>
-<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CSU-1_:B_;K_^(Christianisch-Soziale_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSU-1_:B_;m_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;m_^(Christianisch-Soziale_Union)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-24-p1s1Aw7">
@@ -86,7 +86,7 @@
 <LM>w#w-ln94207-24-p1s1Aw9</LM>
 </w.rf>
 <form>Waigel</form>
-<tag lemma="Waigel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waigel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-24-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -147,8 +147,8 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

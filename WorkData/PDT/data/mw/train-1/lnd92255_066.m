@@ -558,7 +558,7 @@
 </w.rf>
 <form>PKK</form>
 <tag>
-<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-1_:B_;m_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PKK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -675,8 +675,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-066-p3s5w4">
@@ -797,7 +797,7 @@
 <LM>w#w-lnd92255-066-p3s5w18</LM>
 </w.rf>
 <form>Scud</form>
-<tag lemma="Scud_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Scud_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-066-p3s5w19">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-lnd92255-066-p3s5w26</LM>
 </w.rf>
 <form>Husajna</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-066-p3s5w27">
 <src.rf>manual</src.rf>

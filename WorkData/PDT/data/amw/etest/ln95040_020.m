@@ -144,7 +144,7 @@
 </w.rf>
 <form>KP</form>
 <tag>
-<AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KP_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="KP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95040-020-p2s2w12</LM>
 </w.rf>
 <form>Iskru</form>
-<tag lemma="Iskra_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Iskra_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95040-020-p2s2w13">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -507,7 +507,7 @@
 <LM>w#w-ln95040-020-p2s3w19</LM>
 </w.rf>
 <form>Teplý</form>
-<tag lemma="Teplý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Teplý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-020-p2s3w20">
 <src.rf>manual</src.rf>

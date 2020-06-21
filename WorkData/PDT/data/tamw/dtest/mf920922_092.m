@@ -51,7 +51,7 @@
 <LM>w#w-mf920922-092-p1s1w5</LM>
 </w.rf>
 <form>LANGOŠE</form>
-<tag lemma="Langoš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Langoš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-092-p1s1w6">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf920922-092-p1s1w28</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-092-p1s1w29">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf920922-092-p2s4w19</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-092-p2s4w20">
 <src.rf>manual</src.rf>

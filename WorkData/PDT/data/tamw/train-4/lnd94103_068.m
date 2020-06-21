@@ -86,8 +86,8 @@
 </w.rf>
 <form>jpš</form>
 <tag>
-<AM lemma="jpš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jpš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jpš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jpš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-068-p1s2w4">
@@ -155,7 +155,7 @@
 </w.rf>
 <form>SFTR</form>
 <tag>
-<AM lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SFTR_:B_;m_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

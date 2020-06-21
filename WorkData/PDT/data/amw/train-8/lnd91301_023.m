@@ -221,7 +221,7 @@
 <LM>w#w-lnd91301-023-p1s2w11</LM>
 </w.rf>
 <form>Rendera</form>
-<tag lemma="Render_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Render_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-023-p1s2w12">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-lnd91301-023-p1s2w15</LM>
 </w.rf>
 <form>Sturmera</form>
-<tag lemma="Sturmer_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sturmer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-023-p1s2w16">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-lnd91301-023-p1s3w14</LM>
 </w.rf>
 <form>Raflovi</form>
-<tag lemma="Raflův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Raflův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-lnd91301-023-p1s3w15">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-lnd91301-023-p1s3w17</LM>
 </w.rf>
 <form>Werkman</form>
-<tag lemma="Werkman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Werkman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-023-p1s3w18">
 <src.rf>manual</src.rf>
@@ -474,8 +474,8 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-023-p2s1w4">
@@ -500,7 +500,7 @@
 <LM>w#w-lnd91301-023-p2s1w6</LM>
 </w.rf>
 <form>Galgonek</form>
-<tag lemma="Galgonek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Galgonek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

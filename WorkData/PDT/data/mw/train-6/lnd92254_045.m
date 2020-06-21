@@ -80,7 +80,7 @@
 </w.rf>
 <form>MKDH</form>
 <tag>
-<AM lemma="MKDH_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MKDH_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="MKDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -99,8 +99,8 @@
 </w.rf>
 <form>Együttélés</form>
 <tag>
-<AM lemma="Együttélés_;K_;p_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Együttélés_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Együttélés_;m_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Együttélés_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-045-p2s2w7">

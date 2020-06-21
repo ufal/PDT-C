@@ -138,8 +138,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-131-p1s1Dw4">
@@ -480,7 +480,7 @@
 <LM>w#w-lnd94104-131-p1s2w10</LM>
 </w.rf>
 <form>Hanovského</form>
-<tag lemma="Hanovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hanovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s2w11">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-lnd94104-131-p1s2w12</LM>
 </w.rf>
 <form>Čičmance</form>
-<tag lemma="Čičmanec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čičmanec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s2w13">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd94104-131-p1s2w26</LM>
 </w.rf>
 <form>Hanovského</form>
-<tag lemma="Hanovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hanovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s2w27">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-lnd94104-131-p1s3Aw20</LM>
 </w.rf>
 <form>Hřebík</form>
-<tag lemma="Hřebík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hřebík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s3Aw21">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-lnd94104-131-p1s3Bw11</LM>
 </w.rf>
 <form>Komárek</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s3Bw12">
 <src.rf>manual</src.rf>
@@ -1464,7 +1464,7 @@
 <form>Zákostelský</form>
 <tag>
 <AM lemma="zákostelský_,a" src="orig">AAFP1----1A---6</AM>
-<AM lemma="Zákostelský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zákostelský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-131-p1s6w7">
@@ -1587,7 +1587,7 @@
 <LM>w#w-lnd94104-131-p1s7w10</LM>
 </w.rf>
 <form>Hřebík</form>
-<tag lemma="Hřebík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hřebík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s7w11">
 <src.rf>manual</src.rf>
@@ -1629,7 +1629,7 @@
 <LM>w#w-lnd94104-131-p1s8w4</LM>
 </w.rf>
 <form>Hřebíkovou</form>
-<tag lemma="Hřebíkův-1_;S_^(*4-1)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Hřebíkův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-lnd94104-131-p1s8w5">
 <src.rf>manual</src.rf>
@@ -1914,7 +1914,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2102,7 +2102,7 @@
 <LM>w#w-lnd94104-131-p1s11w22</LM>
 </w.rf>
 <form>Hanovského</form>
-<tag lemma="Hanovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hanovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s11w23">
 <src.rf>manual</src.rf>
@@ -2118,7 +2118,7 @@
 <LM>w#w-lnd94104-131-p1s11w24</LM>
 </w.rf>
 <form>Čičmance</form>
-<tag lemma="Čičmanec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čičmanec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s11w25">
 <src.rf>manual</src.rf>
@@ -2517,7 +2517,7 @@
 <LM>w#w-lnd94104-131-p1s14w20</LM>
 </w.rf>
 <form>Károlyi</form>
-<tag lemma="Károlyi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Károlyi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-131-p1s14w21">
 <src.rf>manual</src.rf>

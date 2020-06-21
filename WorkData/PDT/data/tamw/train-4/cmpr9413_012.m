@@ -416,15 +416,15 @@
 <AM lemma="L-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="L-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
-<AM lemma="L-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="L-4_:B_;m" src="auto">AAXXX----1A---8</AM>
 <AM lemma="L-5_:B_;G" src="auto">AAXXX----1A---8</AM>
-<AM lemma="L-6_:B_;R" src="auto">NNXXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNFXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNMXX-----A---8</AM>
-<AM lemma="L-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-6_:B_;m" src="auto">NNXXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="L-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Labe_:B_;G" src="auto">NNNS7-----A---8</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="L-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -447,7 +447,7 @@
 <form_change>spell</form_change>
 <form>Expansion</form>
 <tag>
-<AM lemma="Expansion_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Expansion_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Expansion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -663,7 +663,7 @@
 </w.rf>
 <form>Pírek</form>
 <tag>
-<AM lemma="Pírek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pírek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pírko" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -1599,9 +1599,9 @@
 <form>Marlboro</form>
 <tag>
 <AM lemma="Marlbora_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Marlboro_;m" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-012-p10s4w14">
@@ -1684,7 +1684,7 @@
 <LM>w#w-cmpr9413-012-p10s5w6</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-012-p10s5w7">
 <src.rf>manual</src.rf>
@@ -2232,7 +2232,7 @@
 <LM>w#w-cmpr9413-012-p10s9w8</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-012-p10s9w9">
 <src.rf>manual</src.rf>
@@ -3157,7 +3157,7 @@
 <LM>w#w-cmpr9413-012-p13s2w6</LM>
 </w.rf>
 <form>Czechinvest</form>
-<tag lemma="Czechinvest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Czechinvest_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-012-p13s2w7">
 <src.rf>manual</src.rf>
@@ -3270,7 +3270,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -3954,7 +3954,7 @@
 </w.rf>
 <form>Expansion</form>
 <tag>
-<AM lemma="Expansion_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Expansion_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Expansion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4901,7 +4901,7 @@
 <LM>w#w-cmpr9413-012-p17s6w16</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9413-012-p17s6w17">
 <src.rf>manual</src.rf>

@@ -233,7 +233,7 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
 <AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>
@@ -466,7 +466,7 @@
 <LM>w#w-lnd94104-122-p1s4w14</LM>
 </w.rf>
 <form>Celsia</form>
-<tag lemma="Celsius_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Celsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-122-p1s4w15">
 <src.rf>manual</src.rf>

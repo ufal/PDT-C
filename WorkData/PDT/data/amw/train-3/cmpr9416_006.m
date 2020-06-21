@@ -2508,7 +2508,7 @@
 <LM>w#w-cmpr9416-006-p10s1w2</LM>
 </w.rf>
 <form>Osáhal</form>
-<tag lemma="Osáhal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Osáhal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-006-p10s1w3">
 <src.rf>manual</src.rf>

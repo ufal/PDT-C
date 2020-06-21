@@ -93,7 +93,7 @@
 <LM>w#w-ln94207-94-p2s1w4</LM>
 </w.rf>
 <form>Dorůžku</form>
-<tag lemma="Dorůžka_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dorůžka_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-94-p2s2">
@@ -349,10 +349,10 @@
 </w.rf>
 <form>Melodii</form>
 <tag>
-<AM lemma="Melodie_;R" src="orig">NNFS6-----A----</AM>
-<AM lemma="Melodia_;K" src="auto">NNFS3-----A----</AM>
-<AM lemma="Melodia_;K" src="auto">NNFS4-----A----</AM>
-<AM lemma="Melodia_;K" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Melodie_;m" src="orig">NNFS6-----A----</AM>
+<AM lemma="Melodia_;m" src="auto">NNFS3-----A----</AM>
+<AM lemma="Melodia_;m" src="auto">NNFS4-----A----</AM>
+<AM lemma="Melodia_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="melodie" src="auto">NNFS3-----A----</AM>
 <AM lemma="melodie" src="auto">NNFS4-----A----</AM>
 <AM lemma="melodie" src="auto">NNFS6-----A----</AM>
@@ -519,7 +519,7 @@
 <LM>w#w-ln94207-94-p2s4w8</LM>
 </w.rf>
 <form>Faulknera</form>
-<tag lemma="Faulkner_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Faulkner_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-94-p2s4w9">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-ln94207-94-p2s5w3</LM>
 </w.rf>
 <form>Škvoreckým</form>
-<tag lemma="Škvorecký_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Škvorecký_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-94-p2s5w4">
 <src.rf>manual</src.rf>
@@ -3302,7 +3302,7 @@
 <LM>w#w-ln94207-94-p7s1w1</LM>
 </w.rf>
 <form>Švejk</form>
-<tag lemma="Švejk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švejk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-94-p7s1w2">
 <src.rf>manual</src.rf>
@@ -4175,7 +4175,7 @@
 <LM>w#w-ln94207-94-p9s1w3</LM>
 </w.rf>
 <form>Pantaleón</form>
-<tag lemma="Pantaleón_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pantaleón_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-94-p9s1w4">
 <src.rf>manual</src.rf>

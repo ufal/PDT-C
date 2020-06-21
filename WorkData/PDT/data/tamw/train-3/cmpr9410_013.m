@@ -669,7 +669,7 @@
 <LM>w#w-cmpr9410-013-p8s1w2</LM>
 </w.rf>
 <form>Havíř</form>
-<tag lemma="Havíř_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havíř_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-013-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1480,7 +1480,7 @@
 <form>Beranových</form>
 <tag>
 <AM lemma="beranův_^(*2)" src="orig">AUMP2M---------</AM>
-<AM lemma="Beranův_;S_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
+<AM lemma="Beranův_;Y_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-013-p10s1w35">
@@ -1843,7 +1843,7 @@
 </w.rf>
 <form>Síla</form>
 <tag>
-<AM lemma="Síla_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Síla_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="síla_^(fyzická,_vojenská;_moc)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

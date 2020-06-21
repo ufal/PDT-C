@@ -43,7 +43,7 @@
 <LM>w#w-lnd94105-092-p1s1w4</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94105-092-p1s1w5">
 <src.rf>manual</src.rf>

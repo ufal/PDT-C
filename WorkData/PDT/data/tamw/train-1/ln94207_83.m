@@ -95,7 +95,7 @@
 <form>Hanák</form>
 <tag>
 <AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -733,7 +733,7 @@
 </w.rf>
 <form>Kapitál</form>
 <tag>
-<AM lemma="Kapitál_;R" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kapitál_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="kapitál_^(peníze)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kapitál_^(peníze)" src="auto">NNIS4-----A----</AM>
 <AM lemma="kapitála_^(velké_písmeno)" src="auto">NNFP2-----A----</AM>
@@ -4499,10 +4499,10 @@
 </w.rf>
 <form>Clam</form>
 <tag>
-<AM lemma="Clam_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Clam_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="clam" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="clam" src="auto">NNIS4-----A----</AM>
-<AM lemma="Clam_;S" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="Clam_;Y" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-83-p8s4w30">
@@ -4519,7 +4519,7 @@
 <LM>w#w-ln94207-83-p8s4w31</LM>
 </w.rf>
 <form>Martinicem</form>
-<tag lemma="Martinic_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Martinic_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94207-83-p8s4w32">
 <src.rf>manual</src.rf>

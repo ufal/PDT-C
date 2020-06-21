@@ -170,7 +170,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -326,7 +326,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -378,7 +378,7 @@
 <LM>w#w-mf930709-089-p3s2w1</LM>
 </w.rf>
 <form>Kratochvíl</form>
-<tag lemma="Kratochvíl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kratochvíl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-089-p3s2w2">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -477,7 +477,7 @@
 <LM>w#w-mf930709-089-p3s2w12</LM>
 </w.rf>
 <form>Krásová</form>
-<tag lemma="Krásová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krásová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-089-p3s2w13">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-mf930709-089-p4s1w10</LM>
 </w.rf>
 <form>Herve</form>
-<tag lemma="Herve_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herve_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-089-p4s1w11">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 <LM>w#w-mf930709-089-p4s1w12</LM>
 </w.rf>
 <form>Lehmannem</form>
-<tag lemma="Lehmann_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lehmann_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930709-089-p4s1w13">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 </w.rf>
 <form>NBA</form>
 <tag>
-<AM lemma="NBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NBA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -783,7 +783,7 @@
 </w.rf>
 <form>Nets</form>
 <tag>
-<AM lemma="Nets_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Nets_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Nets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -846,8 +846,8 @@
 </w.rf>
 <form>Dražan</form>
 <tag>
-<AM lemma="Dražan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Dražan_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dražan_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Dražan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-089-p5s1w14">
@@ -856,7 +856,7 @@
 <LM>w#w-mf930709-089-p5s1w14</LM>
 </w.rf>
 <form>Petrovič</form>
-<tag lemma="Petrovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-089-p5s1w15">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 </w.rf>
 <form>Nets</form>
 <tag>
-<AM lemma="Nets_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Nets_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Nets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1227,7 +1227,7 @@
 </w.rf>
 <form>Xerox</form>
 <tag>
-<AM lemma="Xerox_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Xerox_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1263,7 +1263,7 @@
 </w.rf>
 <form>ZOH</form>
 <tag>
-<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ZOH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1306,7 +1306,7 @@
 </w.rf>
 <form>OH</form>
 <tag>
-<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1418,7 +1418,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-104-p1s1w3</LM>
 </w.rf>
 <form>Šimůnka</form>
-<tag lemma="Šimůnek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Šimůnek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-104-p2s1">
@@ -63,7 +63,7 @@
 <form>pa</form>
 <tag>
 <AM lemma="pa" src="orig">II-------------</AM>
-<AM lemma="pa-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pa-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-104-p2s1w4">
@@ -112,7 +112,7 @@
 <LM>w#w-mf930703-104-p2s1w9</LM>
 </w.rf>
 <form>Šimůnka</form>
-<tag lemma="Šimůnek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Šimůnek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-104-p2s1w10">
 <src.rf>manual</src.rf>
@@ -427,8 +427,8 @@
 </w.rf>
 <form>BMW</form>
 <tag>
-<AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="BMW-2_:B_;m_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="BMW_:B_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="BMW-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

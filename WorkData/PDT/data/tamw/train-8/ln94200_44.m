@@ -1239,7 +1239,7 @@
 <LM>w#w-ln94200-44-p3s3w3</LM>
 </w.rf>
 <form>Gradua</form>
-<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gradua_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-44-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 <form>r</form>
 <tag>
 <AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
-<AM lemma="r-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="r-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-44-p3s3w7">
@@ -1287,7 +1287,7 @@
 <form>o</form>
 <tag>
 <AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
-<AM lemma="o-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="o-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-44-p3s3w9">
@@ -1777,7 +1777,7 @@
 <LM>w#w-ln94200-44-p4s4w3</LM>
 </w.rf>
 <form>Gradua</form>
-<tag lemma="Gradua_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gradua_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-44-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1822,7 +1822,7 @@
 <form>r</form>
 <tag>
 <AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
-<AM lemma="r-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="r-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-44-p4s4w9">
@@ -1841,7 +1841,7 @@
 <form>o</form>
 <tag>
 <AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
-<AM lemma="o-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="o-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-44-p4s4w11">

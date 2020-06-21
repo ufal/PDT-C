@@ -86,8 +86,8 @@
 </w.rf>
 <form>rg</form>
 <tag>
-<AM lemma="rg-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rg-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rg-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rg-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-004-p2s1Aw4">
@@ -636,7 +636,7 @@
 <LM>w#w-mf930709-004-p2s5w7</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-004-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1141,7 +1141,7 @@
 <LM>w#w-mf930709-004-p2s9w10</LM>
 </w.rf>
 <form>Chundela</form>
-<tag lemma="Chundela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chundela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-004-p2s9w11">
 <src.rf>manual</src.rf>

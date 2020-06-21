@@ -27,7 +27,7 @@
 <LM>w#w-ln94200-137-p1s1w2</LM>
 </w.rf>
 <form>Mahler</form>
-<tag lemma="Mahler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mahler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-137-p2s1A">
@@ -55,7 +55,7 @@
 <LM>w#w-ln94200-137-p2s1Bw2</LM>
 </w.rf>
 <form>Veber</form>
-<tag lemma="Veber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-137-p2s1C">
@@ -241,7 +241,7 @@
 <LM>w#w-ln94200-137-p2s1Cw23</LM>
 </w.rf>
 <form>Mahlera</form>
-<tag lemma="Mahler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mahler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-137-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94200-137-p3s1w1</LM>
 </w.rf>
 <form>Mahler</form>
-<tag lemma="Mahler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mahler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-137-p3s1w2">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln94200-137-p3s3w3</LM>
 </w.rf>
 <form>Mahlerova</form>
-<tag lemma="Mahlerův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Mahlerův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94200-137-p3s3w4">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-ln94200-137-p3s4w3</LM>
 </w.rf>
 <form>Mahler</form>
-<tag lemma="Mahler_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mahler_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-137-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1664,7 +1664,7 @@
 <LM>w#w-ln94200-137-p4s1w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94200-137-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1850,7 +1850,7 @@
 <LM>w#w-ln94200-137-p4s2w6</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-137-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 <LM>w#w-ln94200-137-p4s2w12</LM>
 </w.rf>
 <form>Mahlerovy</form>
-<tag lemma="Mahlerův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Mahlerův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94200-137-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2224,7 +2224,7 @@
 <LM>w#w-ln94200-137-p4s5w12</LM>
 </w.rf>
 <form>Mahlerovu</form>
-<tag lemma="Mahlerův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Mahlerův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94200-137-p4s5w13">
 <src.rf>manual</src.rf>
@@ -2720,8 +2720,8 @@
 </w.rf>
 <form>GM</form>
 <tag>
-<AM lemma="GM-3_:B_;Y_;S_^(G.Mahler)" src="orig">NNMS1-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="GM-3_:B_;Y_^(G.Mahler)" src="orig">NNMS1-----A----</AM>
+<AM lemma="GM_:B_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="GM-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="GM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

@@ -20,7 +20,7 @@
 </w.rf>
 <form>SIF</form>
 <tag>
-<AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SIF_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -38,7 +38,7 @@
 <LM>w#w-ln94204-10-p1s1w3</LM>
 </w.rf>
 <form>Milo</form>
-<tag lemma="Milo-1_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Milo-1_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-10-p1s1w4">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-ln94204-10-p2s1Bw2</LM>
 </w.rf>
 <form>Achremenko</form>
-<tag lemma="Achremenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Achremenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-10-p2s1C">
@@ -1288,7 +1288,7 @@
 </w.rf>
 <form>SIF</form>
 <tag>
-<AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SIF_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1330,7 +1330,7 @@
 <LM>w#w-ln94204-10-p5s2w19</LM>
 </w.rf>
 <form>Milo</form>
-<tag lemma="Milo-1_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Milo-1_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-10-p5s2w20">
 <src.rf>manual</src.rf>
@@ -1381,11 +1381,11 @@
 </w.rf>
 <form>Milo</form>
 <tag>
-<AM lemma="Milo_;K" src="orig" selected="1">NNNXX-----A----</AM>
-<AM lemma="Mila_;K" src="auto">NNFS5-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto">NNNS4-----A----</AM>
-<AM lemma="Milo-1_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Milo_;m" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mila_;m" src="auto">NNFS5-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto">NNNS4-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
@@ -1555,7 +1555,7 @@
 </w.rf>
 <form>SIF</form>
 <tag>
-<AM lemma="SIF_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SIF_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SIF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2210,9 +2210,9 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-10-p6s1w22">
@@ -3383,9 +3383,9 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-10-p8s1w6">

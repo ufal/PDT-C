@@ -27,7 +27,7 @@
 <LM>w#w-mf920901-120-p1s1w2</LM>
 </w.rf>
 <form>Bormann</form>
-<tag lemma="Bormann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bormann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-120-p1s1w3">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-mf920901-120-p3s1w2</LM>
 </w.rf>
 <form>Bormann</form>
-<tag lemma="Bormann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bormann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-120-p3s1w3">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-mf920901-120-p4s2w8</LM>
 </w.rf>
 <form>Bormann</form>
-<tag lemma="Bormann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bormann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-120-p4s2w9">
 <src.rf>manual</src.rf>
@@ -382,9 +382,9 @@
 </w.rf>
 <form>Tartakovskij</form>
 <tag>
-<AM lemma="Tartakovský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tartakovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Tartakovský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Tartakovský_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tartakovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Tartakovský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920901-120-p4s3w12">
@@ -542,9 +542,9 @@
 </w.rf>
 <form>Tartakovskij</form>
 <tag>
-<AM lemma="Tartakovský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tartakovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Tartakovský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Tartakovský_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tartakovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Tartakovský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920901-120-p5s1w3">
@@ -652,7 +652,7 @@
 <LM>w#w-mf920901-120-p5s1w15</LM>
 </w.rf>
 <form>Bormannově</form>
-<tag lemma="Bormannův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Bormannův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf920901-120-p5s1w16">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-mf920901-120-p5s1w33</LM>
 </w.rf>
 <form>Jerjomenko</form>
-<tag lemma="Jerjomenko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jerjomenko_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-120-p5s1w34">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-mf920901-120-p5s2w12</LM>
 </w.rf>
 <form>Arkuši</form>
-<tag lemma="Arkuša_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arkuša_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-120-p5s2w13">
 <src.rf>manual</src.rf>

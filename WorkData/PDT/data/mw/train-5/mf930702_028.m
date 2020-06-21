@@ -118,10 +118,10 @@
 </w.rf>
 <form>man</form>
 <tag>
-<AM lemma="man-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="man-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
-<AM lemma="man-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="man-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-028-p2s1w6">
@@ -332,7 +332,7 @@
 <LM>w#w-mf930702-028-p2s2w6</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-028-p2s2w7">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 </w.rf>
 <form>Hamru</form>
 <tag>
-<AM lemma="Hamr_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Hamr_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="hamr" src="manual" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
@@ -1105,7 +1105,7 @@
 <LM>w#w-mf930702-028-p3s4w2</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-028-p3s4w3">
 <src.rf>manual</src.rf>

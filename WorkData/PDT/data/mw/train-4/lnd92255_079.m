@@ -188,7 +188,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -319,7 +319,7 @@
 <LM>w#w-lnd92255-079-p4s1w3</LM>
 </w.rf>
 <form>Vilímkův</form>
-<tag lemma="Vilímkův_;S_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Vilímkův_;Y_^(*3ek)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92255-079-p4s1w4">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <form>Ves</form>
 <tag>
 <AM lemma="Ves_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vesa_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Vesa_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="ves" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="ves" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -1454,7 +1454,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

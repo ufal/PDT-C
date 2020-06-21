@@ -386,7 +386,7 @@
 </w.rf>
 <form>Daily</form>
 <tag>
-<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-1_;m_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -397,7 +397,7 @@
 </w.rf>
 <form>Mirror</form>
 <tag>
-<AM lemma="Mirror_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mirror_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Mirror-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -975,7 +975,7 @@
 <LM>w#w-lnd92256-077-p2s7w15</LM>
 </w.rf>
 <form>Kingsley</form>
-<tag lemma="Kingsley_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kingsley_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-077-p2s7w16">
 <src.rf>manual</src.rf>

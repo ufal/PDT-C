@@ -240,7 +240,7 @@
 </w.rf>
 <form>Nězavisimaja</form>
 <tag>
-<AM lemma="Nězavisimaja_;R_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Nězavisimaja_;m_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="Nězavisimaja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -251,7 +251,7 @@
 </w.rf>
 <form>Gazeta</form>
 <tag>
-<AM lemma="Gazeta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazeta_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Gazeta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -455,7 +455,7 @@
 <LM>w#w-mf930701-167-p2s3w11</LM>
 </w.rf>
 <form>Ivanova</form>
-<tag lemma="Ivanov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ivanov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-167-p2s3w12">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf930701-167-p2s3w15</LM>
 </w.rf>
 <form>Gračov</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-167-p2s3w16">
 <src.rf>manual</src.rf>

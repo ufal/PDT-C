@@ -53,7 +53,7 @@
 <LM>w#w-mf920924-016-p2s1w2</LM>
 </w.rf>
 <form>Sigmy</form>
-<tag lemma="Sigma_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sigma_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-016-p2s1w3">
 <src.rf>manual</src.rf>
@@ -62,7 +62,7 @@
 </w.rf>
 <form>MŽ</form>
 <tag>
-<AM lemma="MŽ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MŽ_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="MŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -137,7 +137,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -221,7 +221,7 @@
 <LM>w#w-mf920924-016-p2s2w6</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-016-p2s2w7">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-mf920924-016-p2s5w19</LM>
 </w.rf>
 <form>Látal</form>
-<tag lemma="Látal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Látal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-016-p2s5w20">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-mf920924-016-p2s6w2</LM>
 </w.rf>
 <form>Přibyl</form>
-<tag lemma="Přibyl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Přibyl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-016-p2s6w3">
 <src.rf>manual</src.rf>

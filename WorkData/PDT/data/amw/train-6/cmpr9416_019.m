@@ -161,7 +161,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-019-p4s1Aw15">
@@ -178,7 +178,7 @@
 <LM>w#w-cmpr9416-019-p4s1Aw16</LM>
 </w.rf>
 <form>Drucker</form>
-<tag lemma="Drucker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drucker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-019-p4s1Aw17">
 <src.rf>manual</src.rf>
@@ -964,7 +964,7 @@
 <LM>w#w-cmpr9416-019-p4s5w23</LM>
 </w.rf>
 <form>Drucker</form>
-<tag lemma="Drucker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Drucker_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-019-p4s5w24">
 <src.rf>manual</src.rf>
@@ -1482,7 +1482,7 @@
 <LM>w#w-cmpr9416-019-p4s8w8</LM>
 </w.rf>
 <form>Druckerova</form>
-<tag lemma="Druckerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Druckerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9416-019-p4s8w9">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <LM>w#w-cmpr9416-019-p4s8w11</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9416-019-p4s8w12">
 <src.rf>manual</src.rf>
@@ -1665,7 +1665,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2987,7 +2987,7 @@
 <form>Grada</form>
 <tag>
 <AM lemma="Grada_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Grada_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Grada_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-019-p9s1w4">

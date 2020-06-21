@@ -81,7 +81,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -155,7 +155,7 @@
 <LM>w#w-lnd92254-043-p3s1w14</LM>
 </w.rf>
 <form>Vavro</form>
-<tag lemma="Vavro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vavro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-043-p3s1w15">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 </w.rf>
 <form>HZDS</form>
 <tag>
-<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-1_:B_;m_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="HZDS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -404,7 +404,7 @@
 <LM>w#w-lnd92254-043-p3s3w12</LM>
 </w.rf>
 <form>Tkáč</form>
-<tag lemma="Tkáč_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tkáč_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-043-p3s3w13">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 </w.rf>
 <form>SKDH</form>
 <tag>
-<AM lemma="SKDH_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKDH_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SKDH-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -975,7 +975,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-043-p3s6w5">
@@ -992,7 +992,7 @@
 <LM>w#w-lnd92254-043-p3s6w6</LM>
 </w.rf>
 <form>Tkáče</form>
-<tag lemma="Tkáč_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tkáč_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-043-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1210,7 +1210,7 @@
 <LM>w#w-lnd92254-043-p4s1w8</LM>
 </w.rf>
 <form>Tkáčem</form>
-<tag lemma="Tkáč_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Tkáč_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92254-043-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1555,7 +1555,7 @@
 <LM>w#w-lnd92254-043-p5s1w3</LM>
 </w.rf>
 <form>KŘÍŽ</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

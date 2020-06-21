@@ -19,7 +19,7 @@
 <LM>w#w-ln94202-119-p1s1w1</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-119-p1s1w2">
 <src.rf>manual</src.rf>
@@ -44,7 +44,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -58,7 +58,7 @@
 <AM lemma="Coruňa_;G" src="orig">NNFS2-----A----</AM>
 <AM lemma="Coruňa_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Coruňa_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Coruňa_;G_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Coruňa_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -70,7 +70,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -166,7 +166,7 @@
 <LM>w#w-ln94202-119-p2s1Bw9</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-119-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-ln94202-119-p2s2w18</LM>
 </w.rf>
 <form>Bebetův</form>
-<tag lemma="Bebetův_;S_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Bebetův_;Y_^(*2)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln94202-119-p2s2w19">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-119-p2s2w22">
@@ -549,7 +549,7 @@
 <LM>w#w-ln94202-119-p2s3w5</LM>
 </w.rf>
 <form>Lendoiro</form>
-<tag lemma="Lendoiro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lendoiro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-119-p2s3w6">
 <src.rf>manual</src.rf>
@@ -758,8 +758,8 @@
 </w.rf>
 <form>Rubena</form>
 <tag>
-<AM lemma="Ruben_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ruben_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ruben_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ruben_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-119-p2s3w32">
@@ -769,7 +769,7 @@
 </w.rf>
 <form>Sosy</form>
 <tag>
-<AM lemma="Sosa_;S" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Sosa_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIP4-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIP5-----A----</AM>
@@ -790,7 +790,7 @@
 <LM>w#w-ln94202-119-p2s3w34</LM>
 </w.rf>
 <form>Interu</form>
-<tag lemma="Inter_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Inter_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-119-p2s3w35">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln94202-119-p3s1w2</LM>
 </w.rf>
 <form>Lendoiro</form>
-<tag lemma="Lendoiro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lendoiro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-119-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-ln94202-119-p3s1w27</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-119-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <LM>w#w-ln94202-119-p3s1w35</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-119-p3s1w36">
 <src.rf>manual</src.rf>
@@ -1370,7 +1370,7 @@
 <LM>w#w-ln94202-119-p3s3w21</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-119-p3s3w22">
 <src.rf>manual</src.rf>

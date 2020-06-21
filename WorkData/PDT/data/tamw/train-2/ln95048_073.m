@@ -163,7 +163,7 @@
 <LM>w#w-ln95048-073-p1s1w19</LM>
 </w.rf>
 <form>Bölla</form>
-<tag lemma="Böll_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Böll_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-073-p1s1w20">
 <src.rf>manual</src.rf>
@@ -1127,7 +1127,7 @@
 <LM>w#w-ln95048-073-p1s6w21</LM>
 </w.rf>
 <form>Sokola</form>
-<tag lemma="Sokol-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sokol-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-073-p1s6w22">
 <src.rf>manual</src.rf>
@@ -1185,7 +1185,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-073-p1s6w29">
@@ -1202,7 +1202,7 @@
 <LM>w#w-ln95048-073-p1s6w30</LM>
 </w.rf>
 <form>Šimečky</form>
-<tag lemma="Šimečka_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šimečka_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-073-p1s6w31">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-ln95048-073-p1s6w38</LM>
 </w.rf>
 <form>Hoffmana</form>
-<tag lemma="Hoffman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hoffman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-073-p1s6w39">
 <src.rf>manual</src.rf>

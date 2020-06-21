@@ -30,7 +30,7 @@
 <LM>w#w-ln95047-075-p1s1w2</LM>
 </w.rf>
 <form>Claes</form>
-<tag lemma="Claes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Claes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-075-p1s1w3">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-ln95047-075-p2s1Bw14</LM>
 </w.rf>
 <form>Agusta</form>
-<tag lemma="Agusta_;R_^(značka_motocyklu)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Agusta_;m_^(značka_motocyklu)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -291,8 +291,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-075-p2s1Bw27">
@@ -312,7 +312,7 @@
 <LM>w#w-ln95047-075-p2s1Bw28</LM>
 </w.rf>
 <form>Claes</form>
-<tag lemma="Claes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Claes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-ln95047-075-p2s3w9</LM>
 </w.rf>
 <form>Claes</form>
-<tag lemma="Claes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Claes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s3w10">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-ln95047-075-p2s3w24</LM>
 </w.rf>
 <form>Agusta</form>
-<tag lemma="Agusta_;R_^(značka_motocyklu)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Agusta_;m_^(značka_motocyklu)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s3w25">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -669,7 +669,7 @@
 </w.rf>
 <form>Libre</form>
 <tag>
-<AM lemma="Libre_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Libre_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Libre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -680,7 +680,7 @@
 </w.rf>
 <form>Belgique</form>
 <tag>
-<AM lemma="Belgique_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Belgique_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Belgique-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -819,8 +819,8 @@
 </w.rf>
 <form>Franckovi</form>
 <tag>
-<AM lemma="Franck_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Franck_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Franck_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Franck_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-075-p2s4w24">
@@ -829,7 +829,7 @@
 <LM>w#w-ln95047-075-p2s4w24</LM>
 </w.rf>
 <form>Vandenbrouckemu</form>
-<tag lemma="Vandenbroucke_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Vandenbroucke_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s4w25">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-ln95047-075-p2s4w29</LM>
 </w.rf>
 <form>Tobbackovi</form>
-<tag lemma="Tobback_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Tobback_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s4w30">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-ln95047-075-p2s4w34</LM>
 </w.rf>
 <form>Agusta</form>
-<tag lemma="Agusta_;R_^(značka_motocyklu)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Agusta_;m_^(značka_motocyklu)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s4w35">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-ln95047-075-p2s5w9</LM>
 </w.rf>
 <form>Claes</form>
-<tag lemma="Claes_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Claes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-075-p2s5w10">
 <src.rf>manual</src.rf>

@@ -36,14 +36,14 @@
 </w.rf>
 <form>Beatles</form>
 <tag>
-<AM lemma="Beatles_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP1-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP2-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP3-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP4-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP5-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto" recommended="1">NNMP6-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP7-----A----</AM>
+<AM lemma="Beatles_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP1-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP2-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP3-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP4-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
+<AM lemma="Beatles_;m" src="auto" recommended="1">NNMP6-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
 <AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -130,14 +130,14 @@
 </w.rf>
 <form>Beatles</form>
 <tag>
-<AM lemma="Beatles_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP1-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP3-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP4-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP5-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP6-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP7-----A----</AM>
+<AM lemma="Beatles_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP1-----A----</AM>
+<AM lemma="Beatles_;m" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP3-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP4-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP6-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
 <AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -243,7 +243,7 @@
 <LM>w#w-lnd92251-008-p2s2w21</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92251-008-p2s2w22">
 <src.rf>manual</src.rf>
@@ -624,14 +624,14 @@
 </w.rf>
 <form>Beatles</form>
 <tag>
-<AM lemma="Beatles_;K" src="orig">NNMPX-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP2-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP3-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP4-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP5-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP6-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP7-----A----</AM>
+<AM lemma="Beatles_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Beatles_;m" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP2-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP3-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP4-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP6-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
 <AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

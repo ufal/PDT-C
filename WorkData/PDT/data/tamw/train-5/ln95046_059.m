@@ -240,7 +240,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Ljubijankič</form>
-<tag lemma="Ljubijankič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ljubijankič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-059-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -353,7 +353,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegoviče</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-059-p2s3w8">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševiče</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-059-p3s1w25">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <LM>w#w-ln95046-059-p3s1w29</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-059-p3s1w30">
 <src.rf>manual</src.rf>
@@ -929,9 +929,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-059-p3s3w17">
@@ -1254,7 +1254,7 @@
 <LM>w#w-ln95046-059-p3s4w22</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95046-059-p3s4w23">
 <src.rf>manual</src.rf>

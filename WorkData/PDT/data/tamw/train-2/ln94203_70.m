@@ -175,7 +175,7 @@
 <LM>w#w-ln94203-70-p2s1Bw14</LM>
 </w.rf>
 <form>Rasmussen</form>
-<tag lemma="Rasmussen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rasmussen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-70-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-ln94203-70-p2s2w4</LM>
 </w.rf>
 <form>Rasmussen</form>
-<tag lemma="Rasmussen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rasmussen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-70-p2s2w5">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-ln94203-70-p2s4w1</LM>
 </w.rf>
 <form>Rasmussen</form>
-<tag lemma="Rasmussen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rasmussen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-70-p2s4w2">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-70-p2s4w16">
@@ -740,7 +740,7 @@
 <LM>w#w-ln94203-70-p2s4w17</LM>
 </w.rf>
 <form>Schlütera</form>
-<tag lemma="Schlüter_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schlüter_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-70-p2s4w18">
 <src.rf>manual</src.rf>

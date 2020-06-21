@@ -160,7 +160,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -171,7 +171,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -308,7 +308,7 @@
 </w.rf>
 <form>markets</form>
 <tag>
-<AM lemma="market_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="market_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="markets-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1950,7 +1950,7 @@
 <LM>w#w-ln95049-129-p5s1w24</LM>
 </w.rf>
 <form>Klausem</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-129-p5s1w25">
 <src.rf>manual</src.rf>
@@ -2961,7 +2961,7 @@
 </w.rf>
 <form>Telefonos</form>
 <tag>
-<AM lemma="Telefono_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Telefono_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Telefonos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

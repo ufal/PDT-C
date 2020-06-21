@@ -1720,7 +1720,7 @@
 </w.rf>
 <form>ČNB</form>
 <tag>
-<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3191,7 +3191,7 @@
 <LM>w#w-cmpr9417-012-p10s1w2</LM>
 </w.rf>
 <form>Petráková</form>
-<tag lemma="Petráková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Petráková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-012-p10s1w3">
 <src.rf>manual</src.rf>
@@ -3445,7 +3445,7 @@
 <LM>w#w-cmpr9417-012-p13s1w15</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-cmpr9417-012-p13s1w16">
 <src.rf>manual</src.rf>
@@ -4387,7 +4387,7 @@
 <LM>w#w-cmpr9417-012-p15s1w2</LM>
 </w.rf>
 <form>Miklová</form>
-<tag lemma="Miklová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Miklová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-012-p15s1w3">
 <src.rf>manual</src.rf>
@@ -6728,7 +6728,7 @@
 <LM>w#w-cmpr9417-012-p25s1w2</LM>
 </w.rf>
 <form>Prokopec</form>
-<tag lemma="Prokopec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokopec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-012-p25s1w3">
 <src.rf>manual</src.rf>
@@ -7399,7 +7399,7 @@
 <LM>w#w-cmpr9417-012-p29s1w2</LM>
 </w.rf>
 <form>Klácel</form>
-<tag lemma="Klácel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klácel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-012-p29s1w3">
 <src.rf>manual</src.rf>

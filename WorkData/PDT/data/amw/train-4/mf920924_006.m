@@ -53,7 +53,7 @@
 <form>KOČÍM</form>
 <tag>
 <AM lemma="kočí" src="orig">NNMS7-----A----</AM>
-<AM lemma="Kočí_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Kočí_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-006-p1s1w6">
@@ -95,8 +95,8 @@
 </w.rf>
 <form>TJ</form>
 <tag>
-<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-2_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-2_:B_;m_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-006-p1s1w11">
@@ -106,7 +106,7 @@
 </w.rf>
 <form>VŠB</form>
 <tag>
-<AM lemma="VŠB-1_:B_;K_^(Vysoká_škola_báňská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VŠB-1_:B_;m_^(Vysoká_škola_báňská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VŠB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -142,7 +142,7 @@
 <LM>w#w-mf920924-006-p1s2w2</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf920924-006-p1s2w3">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf920924-006-p1s4w3</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920924-006-p1s4w4">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 </w.rf>
 <form>VŠB</form>
 <tag>
-<AM lemma="VŠB-1_:B_;K_^(Vysoká_škola_báňská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VŠB-1_:B_;m_^(Vysoká_škola_báňská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VŠB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1230,7 +1230,7 @@
 <LM>w#w-mf920924-006-p2s1w4</LM>
 </w.rf>
 <form>SEIDL</form>
-<tag lemma="Seidl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seidl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -1292,7 +1292,7 @@
 <LM>w#w-mf930713-056-p4s1w14</LM>
 </w.rf>
 <form>Masarykovy</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf930713-056-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-056-p4s1w31">
@@ -1439,7 +1439,7 @@
 <LM>w#w-mf930713-056-p4s1w32</LM>
 </w.rf>
 <form>Flodr</form>
-<tag lemma="Flodr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Flodr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-056-p4s1w33">
 <src.rf>manual</src.rf>

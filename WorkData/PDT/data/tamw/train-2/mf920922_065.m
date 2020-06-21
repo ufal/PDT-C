@@ -77,7 +77,7 @@
 <form>Rak</form>
 <tag>
 <AM lemma="Rakousko_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Rak_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rak_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="rak" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Rakousko_:B_;G" src="manual">NNNXX-----A---8</AM>
 <AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
@@ -196,8 +196,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="F-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-065-p2s3w12">
@@ -246,7 +246,7 @@
 <LM>w#w-mf920922-065-p2s3w17</LM>
 </w.rf>
 <form>Mičánek</form>
-<tag lemma="Mičánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mičánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-065-p2s3w18">
 <src.rf>manual</src.rf>
@@ -302,7 +302,7 @@
 <LM>w#w-mf920922-065-p2s3w24</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="N-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="N-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920922-065-p2s3w25">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-mf920922-065-p2s3w31</LM>
 </w.rf>
 <form>Gabal</form>
-<tag lemma="Gabal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gabal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-065-p2s3w32">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <form>Rak</form>
 <tag>
 <AM lemma="Rakousko_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Rak_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rak_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="rak" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
@@ -430,7 +430,7 @@
 <LM>w#w-mf920922-065-p2s3w39</LM>
 </w.rf>
 <form>Charouz</form>
-<tag lemma="Charouz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Charouz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-065-p2s3w40">
 <src.rf>manual</src.rf>

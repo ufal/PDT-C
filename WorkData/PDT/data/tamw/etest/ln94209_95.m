@@ -53,7 +53,7 @@
 <LM>w#w-ln94209-95-p2s1Aw2</LM>
 </w.rf>
 <form>Malátová</form>
-<tag lemma="Malátová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Malátová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-95-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln94209-95-p2s1Aw5</LM>
 </w.rf>
 <form>Kejvalovi</form>
-<tag lemma="Kejval_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kejval_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-95-p2s1B">
@@ -104,7 +104,7 @@
 </w.rf>
 <form>nov</form>
 <tag>
-<AM lemma="nov-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="nov-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="nov_^(pozice_Měsíce)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nov_^(pozice_Měsíce)" src="auto">NNIS4-----A----</AM>
 <AM lemma="nova" src="auto">NNFP2-----A----</AM>
@@ -143,7 +143,7 @@
 <LM>w#w-ln94209-95-p2s1Cw2</LM>
 </w.rf>
 <form>Olympu</form>
-<tag lemma="Olympus_;G_;K" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Olympus_;G_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-95-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln94209-95-p2s1Cw5</LM>
 </w.rf>
 <form>Malátová</form>
-<tag lemma="Malátová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Malátová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-95-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -298,7 +298,7 @@
 <LM>w#w-ln94209-95-p2s1Cw21</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94209-95-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-ln94209-95-p2s2w28</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln94209-95-p2s2w29">
 <src.rf>manual</src.rf>
@@ -1282,7 +1282,7 @@
 <LM>w#w-ln94209-95-p3s3w8</LM>
 </w.rf>
 <form>Šlechtová</form>
-<tag lemma="Šlechtová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Šlechtová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-95-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 <LM>w#w-ln94209-95-p3s5w4</LM>
 </w.rf>
 <form>Kejvalovi</form>
-<tag lemma="Kejval_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kejval_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94209-95-p3s5w5">
 <src.rf>manual</src.rf>
@@ -2168,7 +2168,7 @@
 <LM>w#w-ln94209-95-p4s2w7</LM>
 </w.rf>
 <form>Olympu</form>
-<tag lemma="Olympus_;G_;K" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Olympus_;G_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94209-95-p4s2w8">
 <src.rf>manual</src.rf>

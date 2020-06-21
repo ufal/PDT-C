@@ -45,7 +45,7 @@
 <LM>w#w-ln94208-99-p2s1Aw1</LM>
 </w.rf>
 <form>Nice</form>
-<tag lemma="Nice_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Nice_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-99-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -85,9 +85,9 @@
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-99-p2s1Bw4">
@@ -96,7 +96,7 @@
 <LM>w#w-ln94208-99-p2s1Bw4</LM>
 </w.rf>
 <form>Stehnová</form>
-<tag lemma="Stehnová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Stehnová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-99-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-ln94208-99-p2s2w8</LM>
 </w.rf>
 <form>Nice</form>
-<tag lemma="Nice_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Nice_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-99-p2s2w9">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-ln94208-99-p2s4w1</LM>
 </w.rf>
 <form>Danihelka</form>
-<tag lemma="Danihelka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Danihelka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-99-p2s4w2">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-ln94208-99-p2s4w5</LM>
 </w.rf>
 <form>Růžička</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-99-p2s4w6">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-ln94208-99-p2s4w11</LM>
 </w.rf>
 <form>Stráníková</form>
-<tag lemma="Stráníková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Stráníková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-99-p2s4w12">
 <src.rf>manual</src.rf>

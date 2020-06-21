@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd92258-098-p4s1w2</LM>
 </w.rf>
 <form>Kunc</form>
-<tag lemma="Kunc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kunc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-098-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1751,7 +1751,7 @@
 <LM>w#w-lnd92258-098-p5s2w21</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-098-p5s2w22">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 <LM>w#w-lnd92258-098-p5s2w29</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-098-p5s2w30">
 <src.rf>manual</src.rf>
@@ -1958,7 +1958,7 @@
 <LM>w#w-lnd92258-098-p6s1w2</LM>
 </w.rf>
 <form>TICHÝ</form>
-<tag lemma="Tichý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tichý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-098-p6s1w3">
 <src.rf>manual</src.rf>

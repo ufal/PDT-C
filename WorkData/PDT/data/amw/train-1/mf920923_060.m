@@ -123,7 +123,7 @@
 <LM>w#w-mf920923-060-p1s1w14</LM>
 </w.rf>
 <form>Gascoigne</form>
-<tag lemma="Gascoigne_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gascoigne_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-060-p1s1w15">
 <src.rf>manual</src.rf>
@@ -252,8 +252,8 @@
 </w.rf>
 <form>BSkyB</form>
 <tag>
-<AM lemma="BSkyB_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="BSkyB_:B_,t_^(British_Sky_Broadcasting)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="BSkyB_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="BSkyB_:B_,t_^(British_Sky_Broadcasting)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="BSkyB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -419,7 +419,7 @@
 <LM>w#w-mf920923-060-p2s1w2</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencváros_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-060-p2s1w3">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -576,7 +576,7 @@
 </w.rf>
 <form>PMEZ</form>
 <tag>
-<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ_:B_;m_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PMEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -621,7 +621,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

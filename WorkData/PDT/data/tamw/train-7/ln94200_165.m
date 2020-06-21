@@ -134,7 +134,7 @@
 </w.rf>
 <form>Wild</form>
 <tag>
-<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -492,7 +492,7 @@
 </w.rf>
 <form>WD</form>
 <tag>
-<AM lemma="WD_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="WD_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="WD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -511,8 +511,8 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-165-p2s2Aw26">
@@ -953,8 +953,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-165-p3s2w6">
@@ -1238,8 +1238,8 @@
 </w.rf>
 <form>Romanův</form>
 <tag>
-<AM lemma="Romanův_;S_;Y_^(*2us)" src="auto">AUIS4M---------</AM>
-<AM lemma="Romanův_;S_;Y" src="manual" selected="1">AUIS4M---------</AM>
+<AM lemma="Romanův_;Y_^(*2us)" src="auto">AUIS4M---------</AM>
+<AM lemma="Romanův_;Y" src="manual" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-ln94200-165-p3s3w16">

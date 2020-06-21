@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-107-p1s1w1</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-107-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1805,7 +1805,7 @@
 <LM>w#w-ln95048-107-p5s1w4</LM>
 </w.rf>
 <form>Hizballáh</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-107-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2007,7 +2007,7 @@
 <LM>w#w-ln95048-107-p5s2w7</LM>
 </w.rf>
 <form>Hizballáhu</form>
-<tag lemma="Hizballáh-1_;K_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hizballáh-1_;m_^(podzemní_voj._organizace_na_Blízkém_vých.)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-107-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2016,8 +2016,8 @@
 </w.rf>
 <form>Hasan</form>
 <tag>
-<AM lemma="Hasan_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hasan_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hasan_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hasan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-107-p5s2w9">
@@ -2026,7 +2026,7 @@
 <LM>w#w-ln95048-107-p5s2w9</LM>
 </w.rf>
 <form>Nasralláh</form>
-<tag lemma="Nasralláh_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nasralláh_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-107-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2403,10 +2403,10 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Reuter-2_;K_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reuter-2_;m_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-107-p6s1w6">
@@ -2669,7 +2669,7 @@
 <LM>w#w-ln95048-107-p6s2w9</LM>
 </w.rf>
 <form>Lubrani</form>
-<tag lemma="Lubrani_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lubrani_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-107-p6s2w10">
 <src.rf>manual</src.rf>

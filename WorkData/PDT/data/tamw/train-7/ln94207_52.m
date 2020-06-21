@@ -45,7 +45,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-52-p1s1w5">
@@ -62,7 +62,7 @@
 <LM>w#w-ln94207-52-p1s1w6</LM>
 </w.rf>
 <form>Váňou</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-52-p2s1A">
@@ -170,7 +170,7 @@
 <LM>w#w-ln94207-52-p2s1Bw11</LM>
 </w.rf>
 <form>Váni</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-52-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln94207-52-p2s3w4</LM>
 </w.rf>
 <form>Váňa</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p2s3w5">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-52-p2s3w20">
@@ -529,7 +529,7 @@
 <LM>w#w-ln94207-52-p2s3w21</LM>
 </w.rf>
 <form>Radakrishnan</form>
-<tag lemma="Radakrishnan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Radakrishnan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p2s3w22">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-ln94207-52-p2s3w36</LM>
 </w.rf>
 <form>Váňova</form>
-<tag lemma="Váňův_;S_;Y_^(*2a)" src="auto" selected="1">AUNS2M---------</tag>
+<tag lemma="Váňův_;Y_^(*2a)" src="auto" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94207-52-p2s3w37">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-ln94207-52-p3s1w1</LM>
 </w.rf>
 <form>Váňa</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-ln94207-52-p3s4w5</LM>
 </w.rf>
 <form>Váňa</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-ln94207-52-p3s4w12</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1168,7 +1168,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_;^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1210,7 +1210,7 @@
 <LM>w#w-ln94207-52-p3s4w20</LM>
 </w.rf>
 <form>Kurusamyho</form>
-<tag lemma="Kurusamy_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kurusamy_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-ln94207-52-p3s5w7</LM>
 </w.rf>
 <form>Kurusamy</form>
-<tag lemma="Kurusamy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kurusamy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-ln94207-52-p3s5w9</LM>
 </w.rf>
 <form>Váňovi</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1461,7 +1461,7 @@
 <LM>w#w-ln94207-52-p3s5w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1515,7 +1515,7 @@
 <LM>w#w-ln94207-52-p3s6w1</LM>
 </w.rf>
 <form>Váňa</form>
-<tag lemma="Váňa_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Váňa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1636,7 +1636,7 @@
 <LM>w#w-ln94207-52-p3s6w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1662,7 +1662,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

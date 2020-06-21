@@ -2756,7 +2756,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-007-p12s1w2">
@@ -2774,8 +2774,8 @@
 </w.rf>
 <form>Č</form>
 <tag>
-<AM lemma="Č-9_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Č-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Č-9_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Č-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-007-p12s1w4">

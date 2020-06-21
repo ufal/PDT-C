@@ -664,7 +664,7 @@
 <LM>w#w-ln95045-096-p2s4w8</LM>
 </w.rf>
 <form>avií</form>
-<tag lemma="Avia_;K_;R_^(vozidlo)" src="auto" selected="1">NNFP2-----A----</tag>
+<tag lemma="Avia_;m_^(vozidlo)" src="auto" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95045-096-p2s4w9">
 <src.rf>manual</src.rf>

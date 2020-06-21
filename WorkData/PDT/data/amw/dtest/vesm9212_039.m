@@ -70,7 +70,7 @@
 </w.rf>
 <form>Lockheed</form>
 <tag>
-<AM lemma="Lockheed_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Lockheed_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Lockheed-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -81,7 +81,7 @@
 </w.rf>
 <form>Missile</form>
 <tag>
-<AM lemma="Missile_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Missile_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Missile-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -103,7 +103,7 @@
 </w.rf>
 <form>Space</form>
 <tag>
-<AM lemma="Space_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Space_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Space-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -114,7 +114,7 @@
 </w.rf>
 <form>Co</form>
 <tag>
-<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Company_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -141,9 +141,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-039-p2s1w10">
@@ -512,13 +512,13 @@
 </w.rf>
 <form>Petro</form>
 <tag>
-<AM lemma="Petro_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Petro_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Petro_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Petro_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFS5-----A----</AM>
-<AM lemma="Petro-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Petro_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Petro_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFS5-----A----</AM>
+<AM lemma="Petro-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Petro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -682,11 +682,11 @@
 </w.rf>
 <form>Marine</form>
 <tag>
-<AM lemma="Marine_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Marine_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Marin_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS5-----A----</AM>
-<AM lemma="Marine-1_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Marine-1_;m_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Marine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -705,8 +705,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="D-33" src="orig">Q3-------------</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-039-p3s2w8">
@@ -1354,7 +1354,7 @@
 <LM>w#w-vesm9212-039-p5s1w16</LM>
 </w.rf>
 <form>Worthingtonem</form>
-<tag lemma="Worthington_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Worthington_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9212-039-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1450,7 +1450,7 @@
 <LM>w#w-vesm9212-039-p5s1w28</LM>
 </w.rf>
 <form>Lockheed</form>
-<tag lemma="Lockheed_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lockheed_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-039-p5s1w29">
 <src.rf>manual</src.rf>
@@ -1760,7 +1760,7 @@
 </w.rf>
 <form>Chem</form>
 <tag>
-<AM lemma="Chemical_:B_;R_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Chemical_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Chem-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1790,7 +1790,7 @@
 </w.rf>
 <form>Eng</form>
 <tag>
-<AM lemma="Engineering_:B_;R_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Engineering_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Eng_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eng-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Eng-77" src="manual" selected="1">F%-------------</AM>
@@ -1811,7 +1811,7 @@
 </w.rf>
 <form>News</form>
 <tag>
-<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-1_;m_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1941,7 +1941,7 @@
 <LM>w#w-vesm9212-039-p6s1w2</LM>
 </w.rf>
 <form>Molík</form>
-<tag lemma="Molík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Molík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-039-p7s1">

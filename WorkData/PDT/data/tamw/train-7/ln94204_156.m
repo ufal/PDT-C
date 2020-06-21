@@ -89,8 +89,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-156-p2s1Aw4">
@@ -108,8 +108,8 @@
 </w.rf>
 <form>ma</form>
 <tag>
-<AM lemma="ma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ma-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ma-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-156-p2s1Aw6">
@@ -514,7 +514,7 @@
 <LM>w#w-ln94204-156-p2s2w7</LM>
 </w.rf>
 <form>Matějovský</form>
-<tag lemma="Matějovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matějovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-156-p2s2w8">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-156-p3s1w3">
@@ -559,7 +559,7 @@
 <LM>w#w-ln94204-156-p3s1w4</LM>
 </w.rf>
 <form>Matějovského</form>
-<tag lemma="Matějovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Matějovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-156-p3s1w5">
 <src.rf>manual</src.rf>

@@ -101,7 +101,7 @@
 <LM>w#w-mf920923-073-p1s2Aw1</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s2Aw2">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 </w.rf>
 <form>ZOD</form>
 <tag>
-<AM lemma="ZOD_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ZOD_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ZOD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -195,10 +195,10 @@
 </w.rf>
 <form>do</form>
 <tag>
-<AM lemma="do-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="do-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-073-p1s2Bw4">
@@ -298,7 +298,7 @@
 </w.rf>
 <form>DAK</form>
 <tag>
-<AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DAK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -308,7 +308,7 @@
 <LM>w#w-mf920923-073-p1s2Cw11</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s2Cw12">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 </w.rf>
 <form>DAK</form>
 <tag>
-<AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DAK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -457,7 +457,7 @@
 <LM>w#w-mf920923-073-p1s3w14</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s3w15">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf920923-073-p1s3w20</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s3w21">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf920923-073-p1s3w23</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf920923-073-p1s3w24">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 </w.rf>
 <form>DAK</form>
 <tag>
-<AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DAK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -602,7 +602,7 @@
 <LM>w#w-mf920923-073-p1s3w31</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s3w32">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-mf920923-073-p1s7w13</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s7w14">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-mf920923-073-p1s7w28</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s7w29">
 <src.rf>manual</src.rf>
@@ -1375,7 +1375,7 @@
 <LM>w#w-mf920923-073-p1s11w9</LM>
 </w.rf>
 <form>MOVĚ</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s11w10">
 <src.rf>manual</src.rf>
@@ -1516,7 +1516,7 @@
 </w.rf>
 <form>DAK</form>
 <tag>
-<AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DAK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1526,7 +1526,7 @@
 <LM>w#w-mf920923-073-p1s13w5</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s13w6">
 <src.rf>manual</src.rf>
@@ -1550,7 +1550,7 @@
 <LM>w#w-mf920923-073-p1s13w8</LM>
 </w.rf>
 <form>Kristka</form>
-<tag lemma="Kristek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kristek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s13w9">
 <src.rf>manual</src.rf>
@@ -1736,7 +1736,7 @@
 <LM>w#w-mf920923-073-p1s14w10</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s14w11">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 </w.rf>
 <form>DAK</form>
 <tag>
-<AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DAK_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="DAK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1955,7 +1955,7 @@
 <LM>w#w-mf920923-073-p1s14w37</LM>
 </w.rf>
 <form>MOVA</form>
-<tag lemma="Mova_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-073-p1s14w38">
 <src.rf>manual</src.rf>

@@ -380,7 +380,7 @@
 <LM>w#w-cmpr9417-028-p4s1w32</LM>
 </w.rf>
 <form>Kordona</form>
-<tag lemma="Kordona_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kordona_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-028-p4s1w33">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-cmpr9417-028-p6s1w2</LM>
 </w.rf>
 <form>Fürstová</form>
-<tag lemma="Fürstová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fürstová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-028-p8s1">
@@ -602,7 +602,7 @@
 <LM>w#w-cmpr9417-028-p8s1w6</LM>
 </w.rf>
 <form>Boušových</form>
-<tag lemma="Boušův_;S_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Boušův_;Y_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-cmpr9417-028-p8s1w7">
 <src.rf>manual</src.rf>
@@ -1610,7 +1610,7 @@
 <LM>w#w-cmpr9417-028-p12s3w1</LM>
 </w.rf>
 <form>Kordona</form>
-<tag lemma="Kordona_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kordona_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-028-p12s3w2">
 <src.rf>manual</src.rf>
@@ -2281,7 +2281,7 @@
 <LM>w#w-cmpr9417-028-p12s7w4</LM>
 </w.rf>
 <form>Kordona</form>
-<tag lemma="Kordona_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kordona_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-028-p12s7w5">
 <src.rf>manual</src.rf>
@@ -3465,7 +3465,7 @@
 </w.rf>
 <form>Kordonu</form>
 <tag>
-<AM lemma="Kordona_;K" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="Kordona_;m" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="kordon" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kordon" src="auto">NNIS3-----A----</AM>
 <AM lemma="kordon" src="auto">NNIS6-----A----</AM>
@@ -3986,7 +3986,7 @@
 <LM>w#w-cmpr9417-028-p16s6w12</LM>
 </w.rf>
 <form>Bouša</form>
-<tag lemma="Bouša_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bouša_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-028-p16s6w13">
 <src.rf>manual</src.rf>
@@ -4044,7 +4044,7 @@
 <LM>w#w-cmpr9417-028-p16s7w6</LM>
 </w.rf>
 <form>Kordona</form>
-<tag lemma="Kordona_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kordona_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-028-p16s7w7">
 <src.rf>manual</src.rf>
@@ -4335,7 +4335,7 @@
 </w.rf>
 <form>Kordonu</form>
 <tag>
-<AM lemma="Kordona_;K" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="Kordona_;m" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="kordon" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kordon" src="auto">NNIS3-----A----</AM>
 <AM lemma="kordon" src="auto">NNIS6-----A----</AM>
@@ -5246,7 +5246,7 @@
 <LM>w#w-cmpr9417-028-p18s4w5</LM>
 </w.rf>
 <form>Kordona</form>
-<tag lemma="Kordona_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kordona_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-028-p18s4w6">
 <src.rf>manual</src.rf>
@@ -5328,7 +5328,7 @@
 <LM>w#w-cmpr9417-028-p19s1w3</LM>
 </w.rf>
 <form>Kordona</form>
-<tag lemma="Kordona_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kordona_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-028-p19s1w4">
 <src.rf>manual</src.rf>

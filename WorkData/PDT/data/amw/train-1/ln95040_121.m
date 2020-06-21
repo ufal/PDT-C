@@ -61,7 +61,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-121-p1s1w7">
@@ -80,7 +80,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-121-p1s1w9">
@@ -97,7 +97,7 @@
 <LM>w#w-ln95040-121-p1s1w10</LM>
 </w.rf>
 <form>Pavlova</form>
-<tag lemma="Pavlov_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavlov_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-121-p1s1w11">
 <src.rf>manual</src.rf>

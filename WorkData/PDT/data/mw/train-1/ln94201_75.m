@@ -19,7 +19,7 @@
 <LM>w#w-ln94201-75-p1s1w1</LM>
 </w.rf>
 <form>Terrex</form>
-<tag lemma="Terrex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Terrex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-75-p1s1w2">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 </w.rf>
 <form>ČMFS</form>
 <tag>
-<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-1_:B_;m_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČMFS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -105,9 +105,9 @@
 </w.rf>
 <form>Terex</form>
 <tag>
-<AM lemma="Terrex_;K" src="orig">NNIS4-----A----</AM>
-<AM lemma="Terex_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Terex_;K" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="Terrex_;m" src="orig">NNIS4-----A----</AM>
+<AM lemma="Terex_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Terex_;m" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-75-p2s1w8">
@@ -222,7 +222,7 @@
 <LM>w#w-ln94201-75-p2s2w2</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-75-p2s2w3">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-ln94201-75-p2s5w1</LM>
 </w.rf>
 <form>Chovance</form>
-<tag lemma="Chovanec_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Chovanec_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-75-p2s5w2">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -619,7 +619,7 @@
 <LM>w#w-ln94201-75-p2s5w6</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-75-p2s5w7">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-ln94201-75-p2s6w3</LM>
 </w.rf>
 <form>Sparta</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-75-p2s6w4">
 <src.rf>manual</src.rf>

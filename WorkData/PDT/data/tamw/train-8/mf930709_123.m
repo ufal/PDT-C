@@ -86,8 +86,8 @@
 </w.rf>
 <form>hai</form>
 <tag>
-<AM lemma="hai-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hai-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hai-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hai-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-123-p2s1Aw4">
@@ -210,7 +210,7 @@
 <LM>w#w-mf930709-123-p2s1Bw13</LM>
 </w.rf>
 <form>Panag</form>
-<tag lemma="Panag_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Panag_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-123-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -227,8 +227,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-123-p2s1Bw16">
@@ -294,8 +294,8 @@
 </w.rf>
 <form>G</form>
 <tag>
-<AM lemma="G-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-123-p2s1Bw24">
@@ -670,7 +670,7 @@
 <LM>w#w-mf930709-123-p2s4w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930709-123-p2s4w8">
 <src.rf>manual</src.rf>
@@ -777,8 +777,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-123-p2s5w5">
@@ -950,8 +950,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-123-p2s6w5">

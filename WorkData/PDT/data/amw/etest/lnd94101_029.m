@@ -469,7 +469,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-029-p1s4w10">
@@ -881,7 +881,7 @@
 <LM>w#w-lnd94101-029-p1s6w9</LM>
 </w.rf>
 <form>Thieleho</form>
-<tag lemma="Thiele_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Thiele_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s6w10">
 <src.rf>manual</src.rf>

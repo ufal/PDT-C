@@ -36,7 +36,7 @@
 </w.rf>
 <form>hop</form>
 <tag>
-<AM lemma="hop-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hop-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="hop" src="auto">II-------------</AM>
 <AM lemma="hop-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="hop-2_^(hip_hop)" src="auto">NNIS1-----A----</AM>
@@ -108,7 +108,7 @@
 <LM>w#w-lnd94101-108-p1s3w6</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s3w7">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd94101-108-p1s3w11</LM>
 </w.rf>
 <form>Čadka</form>
-<tag lemma="Čadek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čadek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s3w12">
 <src.rf>manual</src.rf>
@@ -250,8 +250,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-108-p1s4w2">
@@ -318,7 +318,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-108-p1s4w10">
@@ -335,7 +335,7 @@
 <LM>w#w-lnd94101-108-p1s4w11</LM>
 </w.rf>
 <form>Vychytil</form>
-<tag lemma="Vychytil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vychytil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s4w12">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-108-p1s5w3">
@@ -380,7 +380,7 @@
 <LM>w#w-lnd94101-108-p1s5w4</LM>
 </w.rf>
 <form>Čadka</form>
-<tag lemma="Čadek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Čadek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s5w5">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-lnd94101-108-p1s5w11</LM>
 </w.rf>
 <form>Bohemie</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s5w12">
 <src.rf>manual</src.rf>
@@ -494,8 +494,8 @@
 <form>Bank</form>
 <tag>
 <AM lemma="bank-2_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Bank_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -509,7 +509,7 @@
 </w.rf>
 <form>Guarantee</form>
 <tag>
-<AM lemma="Guarantee-1_,t_^(fin.:_souč._term._Bank_G.)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Guarantee-1_,t_^(fin.:_souč._term._Bank_G.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Guarantee-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -540,8 +540,8 @@
 <form>Bank</form>
 <tag>
 <AM lemma="bank-2_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Bank_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -555,7 +555,7 @@
 </w.rf>
 <form>Guarantee</form>
 <tag>
-<AM lemma="Guarantee-1_,t_^(fin.:_souč._term._Bank_G.)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Guarantee-1_,t_^(fin.:_souč._term._Bank_G.)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Guarantee-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -598,7 +598,7 @@
 <LM>w#w-lnd94101-108-p1s5w28</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s5w29">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-108-p1s7w7">
@@ -749,7 +749,7 @@
 <LM>w#w-lnd94101-108-p1s7w8</LM>
 </w.rf>
 <form>Čadkovi</form>
-<tag lemma="Čadek_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Čadek_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s7w9">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-108-p1s8w8">
@@ -858,7 +858,7 @@
 <LM>w#w-lnd94101-108-p1s8w9</LM>
 </w.rf>
 <form>Čadek</form>
-<tag lemma="Čadek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čadek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s8w10">
 <src.rf>manual</src.rf>

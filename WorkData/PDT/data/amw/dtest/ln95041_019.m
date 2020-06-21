@@ -53,7 +53,7 @@
 <LM>w#w-ln95041-019-p2s1w4</LM>
 </w.rf>
 <form>Perezová</form>
-<tag lemma="Perezová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Perezová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-019-p2s1w5">
 <src.rf>manual</src.rf>
@@ -417,8 +417,8 @@
 </w.rf>
 <form>U</form>
 <tag>
-<AM lemma="U-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="U-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="U-33" src="orig">Q3-------------</AM>
+<AM lemma="U-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-019-p3s1w11">
@@ -531,7 +531,7 @@
 <LM>w#w-ln95041-019-p3s1w24</LM>
 </w.rf>
 <form>Špindlerově</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln95041-019-p3s1w25">
 <src.rf>manual</src.rf>

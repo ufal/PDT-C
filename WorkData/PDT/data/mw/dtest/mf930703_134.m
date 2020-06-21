@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-134-p1s1w3</LM>
 </w.rf>
 <form>Pudong</form>
-<tag lemma="Pudong_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pudong_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-134-p1s1w4">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-mf930703-134-p3s3w7</LM>
 </w.rf>
 <form>Pudong</form>
-<tag lemma="Pudong_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pudong_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-134-p3s3w8">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-mf930703-134-p3s6w7</LM>
 </w.rf>
 <form>Pudong</form>
-<tag lemma="Pudong_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pudong_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-134-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1294,7 +1294,7 @@
 <LM>w#w-mf930703-134-p4s2w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-134-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-mf930703-134-p5s1w3</LM>
 </w.rf>
 <form>Pudongu</form>
-<tag lemma="Pudong_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pudong_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-134-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1986,7 +1986,7 @@
 <LM>w#w-mf930703-134-p6s2w19</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-134-p6s2w20">
 <src.rf>manual</src.rf>
@@ -2120,7 +2120,7 @@
 <LM>w#w-mf930703-134-p6s3w15</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-134-p6s3w16">
 <src.rf>manual</src.rf>
@@ -2275,10 +2275,10 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="manual">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-134-p7s1w18">
@@ -2393,7 +2393,7 @@
 <LM>w#w-mf930703-134-p8s1w7</LM>
 </w.rf>
 <form>Pudongu</form>
-<tag lemma="Pudong_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pudong_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-134-p8s1w8">
 <src.rf>manual</src.rf>

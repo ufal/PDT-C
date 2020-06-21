@@ -86,7 +86,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mý-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -117,8 +117,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-013-p2s1w6">
@@ -208,7 +208,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1091,7 +1091,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1807,7 +1807,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1825,7 +1825,7 @@
 <LM>w#w-mf930708-013-p5s1w5</LM>
 </w.rf>
 <form>Berger</form>
-<tag lemma="Berger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-013-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2253,7 +2253,7 @@
 <LM>w#w-mf930708-013-p5s3w6</LM>
 </w.rf>
 <form>Synášek</form>
-<tag lemma="Synášek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Synášek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-013-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2408,7 +2408,7 @@
 </w.rf>
 <form>OKD</form>
 <tag>
-<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-1_:B_;m_^(Ostravsko-karvinské_doly)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="OKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

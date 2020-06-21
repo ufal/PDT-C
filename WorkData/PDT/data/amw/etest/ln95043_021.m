@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-021-p1s1w1</LM>
 </w.rf>
 <form>Potajčuk</form>
-<tag lemma="Potajčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Potajčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-021-p1s1w2">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-ln95043-021-p2s1w9</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-021-p2s1w10">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-ln95043-021-p2s1w11</LM>
 </w.rf>
 <form>Potajčuk</form>
-<tag lemma="Potajčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Potajčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-021-p2s1w12">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 </w.rf>
 <form>Flames</form>
 <tag>
-<AM lemma="Flames_;K" src="orig">NNISX-----A----</AM>
+<AM lemma="Flames_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Flames-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -444,7 +444,7 @@
 <LM>w#w-ln95043-021-p2s3w2</LM>
 </w.rf>
 <form>Potajčukova</form>
-<tag lemma="Potajčukův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Potajčukův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95043-021-p2s3w3">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <form>Výborný</form>
 <tag>
 <AM lemma="výborný" src="orig">AAMS1----1A----</AM>
-<AM lemma="Výborný_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Výborný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-021-p2s5w3">
@@ -707,7 +707,7 @@
 <LM>w#w-ln95043-021-p2s5w8</LM>
 </w.rf>
 <form>Potajčuk</form>
-<tag lemma="Potajčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Potajčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-021-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-ln95043-021-p2s7Aw20</LM>
 </w.rf>
 <form>Potajčuk</form>
-<tag lemma="Potajčuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Potajčuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-021-p2s7Aw21">
 <src.rf>manual</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-ln95043-021-p2s11w13</LM>
 </w.rf>
 <form>Spartou</form>
-<tag lemma="Sparta_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sparta_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95043-021-p2s11w14">
 <src.rf>manual</src.rf>
@@ -2022,7 +2022,7 @@
 <LM>w#w-ln95043-021-p2s12w4</LM>
 </w.rf>
 <form>Potajčuka</form>
-<tag lemma="Potajčuk_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Potajčuk_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95043-021-p2s12w5">
 <src.rf>manual</src.rf>

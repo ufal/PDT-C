@@ -95,7 +95,7 @@
 <LM>w#w-ln95043-047-p2s1Bw4</LM>
 </w.rf>
 <form>Taliban</form>
-<tag lemma="Taliban_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Taliban_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-ln95043-047-p2s2w2</LM>
 </w.rf>
 <form>Talibanu</form>
-<tag lemma="Taliban_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Taliban_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95043-047-p2s2w3">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95043-047-p2s2w13</LM>
 </w.rf>
 <form>Rabbáního</form>
-<tag lemma="Rabbání_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabbání_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-047-p2s2w14">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-ln95043-047-p2s2w16</LM>
 </w.rf>
 <form>Rahmání</form>
-<tag lemma="Rahmání_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rahmání_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p2s2w17">
 <src.rf>manual</src.rf>
@@ -622,8 +622,8 @@
 </w.rf>
 <form>Gulbuddína</form>
 <tag>
-<AM lemma="Gulbuddín_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Gulbuddín_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gulbuddín_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Gulbuddín_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-047-p3s1w16">
@@ -632,7 +632,7 @@
 <LM>w#w-ln95043-047-p3s1w16</LM>
 </w.rf>
 <form>Hekmatjára</form>
-<tag lemma="Hekmatjár_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hekmatjár_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-047-p3s1w17">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-ln95043-047-p4s1w1</LM>
 </w.rf>
 <form>Taliban</form>
-<tag lemma="Taliban_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Taliban_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln95043-047-p4s2w5</LM>
 </w.rf>
 <form>Taliban</form>
-<tag lemma="Taliban_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Taliban_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1337,9 +1337,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-047-p4s2w19">
@@ -1470,7 +1470,7 @@
 <LM>w#w-ln95043-047-p4s3w15</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95043-047-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-ln95043-047-p4s4w1</LM>
 </w.rf>
 <form>Taliban</form>
-<tag lemma="Taliban_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Taliban_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1658,7 +1658,7 @@
 <LM>w#w-ln95043-047-p5s1w1</LM>
 </w.rf>
 <form>Taliban</form>
-<tag lemma="Taliban_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Taliban_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1683,8 +1683,8 @@
 </w.rf>
 <form>Burhánuddína</form>
 <tag>
-<AM lemma="Burhánuddín_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Burhánuddín_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Burhánuddín_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Burhánuddín_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-047-p5s1w5">
@@ -1693,7 +1693,7 @@
 <LM>w#w-ln95043-047-p5s1w5</LM>
 </w.rf>
 <form>Rabbáního</form>
-<tag lemma="Rabbání_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabbání_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-047-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <LM>w#w-ln95043-047-p5s1w22</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95043-047-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-ln95043-047-p5s3w1</LM>
 </w.rf>
 <form>Taliban</form>
-<tag lemma="Taliban_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Taliban_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2057,7 +2057,7 @@
 <LM>w#w-ln95043-047-p5s3w17</LM>
 </w.rf>
 <form>Rabbáního</form>
-<tag lemma="Rabbání_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rabbání_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95043-047-p5s3w18">
 <src.rf>manual</src.rf>
@@ -2344,7 +2344,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2836,7 +2836,7 @@
 <form>Šáh</form>
 <tag>
 <AM lemma="šáh" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šáh_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šáh_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-047-p5s8w16">
@@ -2845,7 +2845,7 @@
 <LM>w#w-ln95043-047-p5s8w16</LM>
 </w.rf>
 <form>Masúd</form>
-<tag lemma="Masúd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masúd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p5s8w17">
 <src.rf>manual</src.rf>
@@ -2877,7 +2877,7 @@
 <LM>w#w-ln95043-047-p5s8w20</LM>
 </w.rf>
 <form>Mazárí</form>
-<tag lemma="Mazárí_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mazárí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-047-p5s8w21">
 <src.rf>manual</src.rf>

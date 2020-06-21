@@ -81,8 +81,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-062-p1s1Aw9">
@@ -167,7 +167,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-062-p1s1Bw5">
@@ -184,7 +184,7 @@
 <LM>w#w-lnd94103-062-p1s1Bw6</LM>
 </w.rf>
 <form>Rogalewiczovi</form>
-<tag lemma="Rogalewicz_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Rogalewicz_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd94103-062-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-lnd94103-062-p1s10w6</LM>
 </w.rf>
 <form>Rogalewiczi</form>
-<tag lemma="Rogalewicz_;S" src="orig" selected="1">NNMS5-----A----</tag>
+<tag lemma="Rogalewicz_;Y" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-lnd94103-062-p1s10w7">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 <LM>w#w-lnd94103-062-p1s11w2</LM>
 </w.rf>
 <form>Kořínek</form>
-<tag lemma="Kořínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kořínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-062-p1s11w3">
 <src.rf>manual</src.rf>

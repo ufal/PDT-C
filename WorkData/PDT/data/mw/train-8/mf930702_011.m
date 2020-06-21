@@ -680,7 +680,7 @@
 <LM>w#w-mf930702-011-p3s3w9</LM>
 </w.rf>
 <form>Surgy</form>
-<tag lemma="Surga_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Surga_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-011-p3s3w10">
 <src.rf>manual</src.rf>
@@ -2011,8 +2011,8 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="b-33" src="orig">Q3-------------</AM>
+<AM lemma="b-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-011-p6s1w11">

@@ -80,7 +80,7 @@
 <LM>w#w-lnd94104-128-p1s1Bw3</LM>
 </w.rf>
 <form>Arsenalem</form>
-<tag lemma="Arsenal_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Arsenal_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -173,9 +173,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-128-p1s1Dw4">
@@ -193,14 +193,14 @@
 </w.rf>
 <form>č</form>
 <tag>
-<AM lemma="č-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="č-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="č-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="č-33" src="auto">Q3-------------</AM>
 <AM lemma="č-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP2-----A----</AM>
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="č-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="č-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-128-p1s1Dw6">
@@ -357,7 +357,7 @@
 <LM>w#w-lnd94104-128-p1s1Ew15</LM>
 </w.rf>
 <form>Arsenalu</form>
-<tag lemma="Arsenal_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Arsenal_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s1Ew16">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-lnd94104-128-p1s2w6</LM>
 </w.rf>
 <form>Heyselově</form>
-<tag lemma="Heyselův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Heyselův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd94104-128-p1s2w7">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 </w.rf>
 <form>AC</form>
 <tag>
-<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-1_:B_;m_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -765,7 +765,7 @@
 <LM>w#w-lnd94104-128-p1s4w3</LM>
 </w.rf>
 <form>Arsenal</form>
-<tag lemma="Arsenal_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Arsenal_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s4w4">
 <src.rf>manual</src.rf>
@@ -966,9 +966,9 @@
 </w.rf>
 <form>Benfikou</form>
 <tag>
-<AM lemma="Benfika_;K" src="orig">NNFS7-----A----</AM>
-<AM lemma="Benfica_;K_;w" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Benfika_;K_,s_^(^DD**Benfica)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Benfika_;m" src="orig">NNFS7-----A----</AM>
+<AM lemma="Benfica_;m" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="Benfika_;m_,s_^(^DD**Benfica)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-128-p1s5w17">
@@ -1025,7 +1025,7 @@
 <LM>w#w-lnd94104-128-p1s5w23</LM>
 </w.rf>
 <form>Minottim</form>
-<tag lemma="Minotti_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Minotti_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s5w24">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-lnd94104-128-p1s5w27</LM>
 </w.rf>
 <form>Asprillou</form>
-<tag lemma="Asprilla_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Asprilla_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s5w28">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-lnd94104-128-p1s5w35</LM>
 </w.rf>
 <form>Brolin</form>
-<tag lemma="Brolin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brolin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s5w36">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="George_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-128-p1s6w4">
@@ -1166,7 +1166,7 @@
 <LM>w#w-lnd94104-128-p1s6w4</LM>
 </w.rf>
 <form>Graham</form>
-<tag lemma="Graham_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Graham_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s6w5">
 <src.rf>manual</src.rf>
@@ -1246,7 +1246,7 @@
 <LM>w#w-lnd94104-128-p1s6w14</LM>
 </w.rf>
 <form>McGoldrick</form>
-<tag lemma="McGoldrick_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McGoldrick_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s6w15">
 <src.rf>manual</src.rf>
@@ -1270,7 +1270,7 @@
 <LM>w#w-lnd94104-128-p1s6w17</LM>
 </w.rf>
 <form>Jensen</form>
-<tag lemma="Jensen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jensen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s6w18">
 <src.rf>manual</src.rf>
@@ -1286,7 +1286,7 @@
 <LM>w#w-lnd94104-128-p1s6w19</LM>
 </w.rf>
 <form>Keown</form>
-<tag lemma="Keown_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Keown_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s6w20">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-lnd94104-128-p1s6w22</LM>
 </w.rf>
 <form>Hillier</form>
-<tag lemma="Hillier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hillier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s6w23">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-lnd94104-128-p1s7Aw2</LM>
 </w.rf>
 <form>Graham</form>
-<tag lemma="Graham_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Graham_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s7Aw3">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-lnd94104-128-p1s7Aw11</LM>
 </w.rf>
 <form>Arsenal</form>
-<tag lemma="Arsenal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Arsenal_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s7Aw12">
 <src.rf>manual</src.rf>
@@ -1967,7 +1967,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2084,8 +2084,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-128-p1s9w14">
@@ -2158,7 +2158,7 @@
 <LM>w#w-lnd94104-128-p1s9w22</LM>
 </w.rf>
 <form>Krondl</form>
-<tag lemma="Krondl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krondl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s9w23">
 <src.rf>manual</src.rf>
@@ -2174,7 +2174,7 @@
 <LM>w#w-lnd94104-128-p1s9w24</LM>
 </w.rf>
 <form>Draštík</form>
-<tag lemma="Draštík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Draštík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s9w25">
 <src.rf>manual</src.rf>
@@ -2190,7 +2190,7 @@
 <LM>w#w-lnd94104-128-p1s9w26</LM>
 </w.rf>
 <form>Zvonič</form>
-<tag lemma="Zvonič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zvonič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s9w27">
 <src.rf>manual</src.rf>

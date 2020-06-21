@@ -184,7 +184,7 @@
 <LM>w#w-lnd94104-095-p1s3w8</LM>
 </w.rf>
 <form>Stanleyova</form>
-<tag lemma="Stanleyův_;S_^(*2)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Stanleyův_;Y_^(*2)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd94104-095-p1s3w9">
 <src.rf>manual</src.rf>
@@ -222,8 +222,8 @@
 <tag>
 <AM lemma="Jose_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Jos_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Jose_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jose_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Jose_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jose_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Jose-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -483,7 +483,7 @@
 <LM>w#w-lnd94104-095-p1s4w31</LM>
 </w.rf>
 <form>Garpenlöv</form>
-<tag lemma="Garpenlöv_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Garpenlöv_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-095-p1s4w32">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-lnd94104-095-p1s5w6</LM>
 </w.rf>
 <form>Larionovem</form>
-<tag lemma="Larionov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Larionov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-095-p1s5w7">
 <src.rf>manual</src.rf>
@@ -574,9 +574,9 @@
 </w.rf>
 <form>Irbem</form>
 <tag>
-<AM lemma="Irb_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Irbe_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Irbe_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
+<AM lemma="Irb_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Irbe_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Irbe_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-095-p1s5w11">
@@ -775,7 +775,7 @@
 </w.rf>
 <form>Flames</form>
 <tag>
-<AM lemma="Flames_;K" src="orig">NNISX-----A----</AM>
+<AM lemma="Flames_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Flames-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1144,7 +1144,7 @@
 <LM>w#w-lnd94104-095-p1s8w16</LM>
 </w.rf>
 <form>Gelinase</form>
-<tag lemma="Gelinas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gelinas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-095-p1s8w17">
 <src.rf>manual</src.rf>
@@ -1344,7 +1344,7 @@
 <form>Linden</form>
 <tag>
 <AM lemma="Linden-1_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Linden-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Linden-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-095-p1s8w41">

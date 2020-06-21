@@ -273,8 +273,8 @@
 </w.rf>
 <form>Lennart</form>
 <tag>
-<AM lemma="Lennart_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lennart_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lennart_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lennart_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-133-p4s2w22">
@@ -283,7 +283,7 @@
 <LM>w#w-mf920922-133-p4s2w22</LM>
 </w.rf>
 <form>Meri</form>
-<tag lemma="Meri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Meri_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-133-p4s2w23">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-mf920922-133-p4s4w22</LM>
 </w.rf>
 <form>Rüütela</form>
-<tag lemma="Rüütel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rüütel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-133-p4s4w23">
 <src.rf>manual</src.rf>

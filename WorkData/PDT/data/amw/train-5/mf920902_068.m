@@ -190,7 +190,7 @@
 </w.rf>
 <form>ČSFA</form>
 <tag>
-<AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSFA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČSFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -224,7 +224,7 @@
 <LM>w#w-mf920902-068-p2s1w23</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-068-p2s1w24">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-mf920902-068-p2s1w24</LM>
 </w.rf>
 <form>Volkswagen</form>
-<tag lemma="Volkswagen_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Volkswagen_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-068-p2s1w25">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -317,7 +317,7 @@
 <LM>w#w-mf920902-068-p2s2w8</LM>
 </w.rf>
 <form>Jíry</form>
-<tag lemma="Jíra_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jíra_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-068-p2s2w9">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-mf920902-068-p2s2w16</LM>
 </w.rf>
 <form>Franka</form>
-<tag lemma="Franek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Franek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-068-p2s2w17">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-mf920902-068-p2s2w17</LM>
 </w.rf>
 <form>Farského</form>
-<tag lemma="Farský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Farský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-068-p2s2w18">
 <src.rf>manual</src.rf>
@@ -800,8 +800,8 @@
 </w.rf>
 <form>VW</form>
 <tag>
-<AM lemma="VW-1_:B_;R_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
-<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
+<AM lemma="VW-1_:B_;m_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
+<AM lemma="VW_:B_;m_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-068-p3s1w32">
@@ -843,11 +843,11 @@
 </w.rf>
 <form>volkswageny</form>
 <tag>
-<AM lemma="Volkswagen-2_;R_,x_^(vozidlo)" src="orig">NNIP4-----A----</AM>
-<AM lemma="volkswagen_;R_,x_^(vozidlo)" src="auto">NNIP1-----A----</AM>
-<AM lemma="volkswagen_;R_,x_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
-<AM lemma="volkswagen_;R_,x_^(vozidlo)" src="auto">NNIP5-----A----</AM>
-<AM lemma="volkswagen_;R_,x_^(vozidlo)" src="auto">NNIP7-----A----</AM>
+<AM lemma="Volkswagen-2_;m_,x_^(vozidlo)" src="orig">NNIP4-----A----</AM>
+<AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP1-----A----</AM>
+<AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
+<AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP5-----A----</AM>
+<AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-068-p3s1w37">

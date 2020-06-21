@@ -381,7 +381,7 @@
 <LM>w#w-cmpr9413-015-p4s2w4</LM>
 </w.rf>
 <form>Moravčíka</form>
-<tag lemma="Moravčík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Moravčík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-015-p4s2w5">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-cmpr9413-015-p5s1w12</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-015-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1750,7 +1750,7 @@
 <LM>w#w-cmpr9413-015-p6s4w8</LM>
 </w.rf>
 <form>Luxe</form>
-<tag lemma="Lux_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lux_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-015-p6s4w9">
 <src.rf>manual</src.rf>
@@ -2365,7 +2365,7 @@
 <LM>w#w-cmpr9413-015-p8s1w2</LM>
 </w.rf>
 <form>Hurtík</form>
-<tag lemma="Hurtík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hurtík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

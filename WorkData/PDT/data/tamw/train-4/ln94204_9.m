@@ -78,7 +78,7 @@
 </w.rf>
 <form>Pinda</form>
 <tag>
-<AM lemma="Pinda_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pinda_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pinda_,h" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

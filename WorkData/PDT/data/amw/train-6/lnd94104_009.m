@@ -382,8 +382,8 @@
 </w.rf>
 <form>Jicchak</form>
 <tag>
-<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jicchak_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-009-p1s4w4">
@@ -392,7 +392,7 @@
 <LM>w#w-lnd94104-009-p1s4w4</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s4w5">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-lnd94104-009-p1s4w9</LM>
 </w.rf>
 <form>Peres</form>
-<tag lemma="Peres_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peres_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s4w10">
 <src.rf>manual</src.rf>
@@ -497,8 +497,8 @@
 </w.rf>
 <form>Warrenem</form>
 <tag>
-<AM lemma="Warren_;S" src="auto">NNMS7-----A----</AM>
-<AM lemma="Warren_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Warren_;Y" src="auto">NNMS7-----A----</AM>
+<AM lemma="Warren_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-009-p1s4w18">
@@ -508,8 +508,8 @@
 </w.rf>
 <form>Christopherem</form>
 <tag>
-<AM lemma="Christopher_;S_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Christopher_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Christopher_;Y" src="auto">NNMS7-----A----</AM>
+<AM lemma="Christopher_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-009-p1s4w19">
@@ -728,7 +728,7 @@
 <LM>w#w-lnd94104-009-p1s5w5</LM>
 </w.rf>
 <form>Kozyrev</form>
-<tag lemma="Kozyrev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozyrev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s5w6">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-lnd94104-009-p1s6w9</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s6w10">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-lnd94104-009-p1s6w11</LM>
 </w.rf>
 <form>Arafat</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s6w12">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-lnd94104-009-p1s7w1</LM>
 </w.rf>
 <form>Neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s7w2">
 <src.rf>manual</src.rf>
@@ -1855,7 +1855,7 @@
 <LM>w#w-lnd94104-009-p1s12w5</LM>
 </w.rf>
 <form>Šahak</form>
-<tag lemma="Šahak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šahak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s12w6">
 <src.rf>manual</src.rf>
@@ -2025,7 +2025,7 @@
 <LM>w#w-lnd94104-009-p1s13w10</LM>
 </w.rf>
 <form>Rabina</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s13w11">
 <src.rf>manual</src.rf>
@@ -2050,7 +2050,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2060,7 +2060,7 @@
 <LM>w#w-lnd94104-009-p1s13w14</LM>
 </w.rf>
 <form>Arafata</form>
-<tag lemma="Arafat_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arafat_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s13w15">
 <src.rf>manual</src.rf>

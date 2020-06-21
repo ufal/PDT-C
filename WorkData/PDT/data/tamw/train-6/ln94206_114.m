@@ -19,7 +19,7 @@
 <LM>w#w-ln94206-114-p1s1w1</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-114-p1s1w2">
 <src.rf>manual</src.rf>
@@ -38,7 +38,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -85,7 +85,7 @@
 <LM>w#w-ln94206-114-p2s1Bw3</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-114-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -173,7 +173,7 @@
 <LM>w#w-ln94206-114-p2s2w1</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-114-p2s2w2">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln94206-114-p2s2w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94206-114-p2s2w19">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

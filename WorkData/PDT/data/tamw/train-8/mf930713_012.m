@@ -61,7 +61,7 @@
 <LM>w#w-mf930713-012-p2s1Aw4</LM>
 </w.rf>
 <form>HOFMANA</form>
-<tag lemma="Hofman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hofman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-012-p2s1B">
@@ -191,7 +191,7 @@
 <LM>w#w-mf930713-012-p2s1Bw16</LM>
 </w.rf>
 <form>Hofman</form>
-<tag lemma="Hofman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-012-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf930713-012-p2s2w25</LM>
 </w.rf>
 <form>Hofman</form>
-<tag lemma="Hofman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-012-p2s2w26">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf930713-012-p2s3w1</LM>
 </w.rf>
 <form>Hofman</form>
-<tag lemma="Hofman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hofman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-012-p2s3w2">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-mf930713-012-p2s4w9</LM>
 </w.rf>
 <form>Mužík</form>
-<tag lemma="Mužík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mužík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-012-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1787,7 +1787,7 @@
 <LM>w#w-mf930713-012-p2s9w1</LM>
 </w.rf>
 <form>Hofmanova</form>
-<tag lemma="Hofmanův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Hofmanův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930713-012-p2s9w2">
 <src.rf>manual</src.rf>

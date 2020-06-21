@@ -77,7 +77,7 @@
 <LM>w#w-mf930703-110-p2s1w3</LM>
 </w.rf>
 <form>hč</form>
-<tag lemma="hč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="hč-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930703-110-p2s1w4">
 <src.rf>manual</src.rf>

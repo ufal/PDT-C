@@ -108,9 +108,9 @@
 </w.rf>
 <form>Nadj</form>
 <tag>
-<AM lemma="Nadj_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Nadj_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nadj-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Nadj_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Nadj_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Nadj-2_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Nadj-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -240,7 +240,7 @@
 <LM>w#w-lnd92256-080-p2s1w22</LM>
 </w.rf>
 <form>Smetanovo</form>
-<tag lemma="Smetanův_;S_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd92256-080-p2s1w23">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 </w.rf>
 <form>Angelus</form>
 <tag>
-<AM lemma="Angelus_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Angelus_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Angelus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -330,7 +330,7 @@
 <form>Novus</form>
 <tag>
 <AM lemma="Novus_;m_,t_^(Angelus_Novus)" src="orig">AAXXX----1A----</AM>
-<AM lemma="novus_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="novus_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Novus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -452,7 +452,7 @@
 <LM>w#w-lnd92256-080-p3s1w17</LM>
 </w.rf>
 <form>Dohnala</form>
-<tag lemma="Dohnal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dohnal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-080-p3s1w18">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-lnd92256-080-p4s1w3</LM>
 </w.rf>
 <form>Křička</form>
-<tag lemma="Křička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Křička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-080-p4s1w4">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-080-p4s1w14">
@@ -686,7 +686,7 @@
 <LM>w#w-lnd92256-080-p4s1w15</LM>
 </w.rf>
 <form>Křičky</form>
-<tag lemma="Křička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Křička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-080-p4s1w16">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-080-p4s1w20">
@@ -737,7 +737,7 @@
 <LM>w#w-lnd92256-080-p4s1w21</LM>
 </w.rf>
 <form>Křičky</form>
-<tag lemma="Křička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Křička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-080-p4s1w22">
 <src.rf>manual</src.rf>

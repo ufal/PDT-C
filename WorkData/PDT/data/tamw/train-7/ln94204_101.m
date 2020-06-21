@@ -372,8 +372,8 @@
 </w.rf>
 <form>Giannozzo</form>
 <tag>
-<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p2s2w28">
@@ -485,8 +485,8 @@
 <form_change>spell</form_change>
 <form>Giannozzo</form>
 <tag>
-<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p2s3w11">
@@ -782,8 +782,8 @@
 </w.rf>
 <form>Giannozzo</form>
 <tag>
-<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="Giannozzo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p2s6w6">
@@ -936,7 +936,7 @@
 <LM>w#w-ln94204-101-p2s7w7</LM>
 </w.rf>
 <form>Suzuki</form>
-<tag lemma="Suzuki-3_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suzuki-3_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s7w8">
 <src.rf>manual</src.rf>
@@ -969,8 +969,8 @@
 </w.rf>
 <form>Benoit</form>
 <tag>
-<AM lemma="Benoit_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Benoit_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Benoit_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Benoit_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p2s7w12">
@@ -979,7 +979,7 @@
 <LM>w#w-ln94204-101-p2s7w12</LM>
 </w.rf>
 <form>Maubrey</form>
-<tag lemma="Maubrey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maubrey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s7w13">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-ln94204-101-p2s7w17</LM>
 </w.rf>
 <form>Johnson</form>
-<tag lemma="Johnson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Johnson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s7w18">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-ln94204-101-p2s8w6</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s8w7">
 <src.rf>manual</src.rf>
@@ -1137,9 +1137,9 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="lin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lin-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p2s9w3">

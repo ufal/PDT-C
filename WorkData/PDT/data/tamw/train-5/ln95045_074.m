@@ -51,7 +51,7 @@
 <LM>w#w-ln95045-074-p1s1w5</LM>
 </w.rf>
 <form>Vodičky</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-074-p1s1w6">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-ln95045-074-p2s1Cw12</LM>
 </w.rf>
 <form>Vodičky</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-074-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-ln95045-074-p3s1w1</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-074-p3s1w2">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln95045-074-p3s3w1</LM>
 </w.rf>
 <form>Vodičku</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-074-p3s3w2">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-ln95045-074-p4s1w15</LM>
 </w.rf>
 <form>Vodičku</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-074-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1920,7 +1920,7 @@
 <LM>w#w-ln95045-074-p4s9w12</LM>
 </w.rf>
 <form>Vodičku</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95045-074-p4s9w13">
 <src.rf>manual</src.rf>
@@ -2384,7 +2384,7 @@
 <LM>w#w-ln95045-074-p5s4w9</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-074-p5s4w10">
 <src.rf>manual</src.rf>

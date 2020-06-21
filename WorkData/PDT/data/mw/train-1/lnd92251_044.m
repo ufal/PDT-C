@@ -678,7 +678,7 @@
 <LM>w#w-lnd92251-044-p4s1w21</LM>
 </w.rf>
 <form>Dobrovského</form>
-<tag lemma="Dobrovský_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dobrovský_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-lnd92251-044-p4s4w2</LM>
 </w.rf>
 <form>Prokeš</form>
-<tag lemma="Prokeš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prokeš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1937,7 +1937,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-044-p4s8w5">
@@ -1954,7 +1954,7 @@
 <LM>w#w-lnd92251-044-p4s8w6</LM>
 </w.rf>
 <form>Sitty</form>
-<tag lemma="Sitta_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sitta_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s8w7">
 <src.rf>manual</src.rf>
@@ -1970,7 +1970,7 @@
 <LM>w#w-lnd92251-044-p4s8w8</LM>
 </w.rf>
 <form>Sydney</form>
-<tag lemma="Sydney_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Sydney_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s8w9">
 <src.rf>manual</src.rf>
@@ -2783,7 +2783,7 @@
 <LM>w#w-lnd92251-044-p5s1w2</LM>
 </w.rf>
 <form>ČECHOVÁ</form>
-<tag lemma="Čechová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Čechová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

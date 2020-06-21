@@ -279,7 +279,7 @@
 <LM>w#w-cmpr9407-021-p3s2w12</LM>
 </w.rf>
 <form>Svašek</form>
-<tag lemma="Svašek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svašek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-021-p3s2w13">
 <src.rf>manual</src.rf>
@@ -2417,7 +2417,7 @@
 </w.rf>
 <form>Heidelberger</form>
 <tag>
-<AM lemma="Heidelberger_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Heidelberger_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Heidelberger-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2428,7 +2428,7 @@
 </w.rf>
 <form>Zement</form>
 <tag>
-<AM lemma="Zement_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zement_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Zement-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

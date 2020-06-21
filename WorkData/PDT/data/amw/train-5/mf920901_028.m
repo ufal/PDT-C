@@ -312,7 +312,7 @@
 <LM>w#w-mf920901-028-p2s1w33</LM>
 </w.rf>
 <form>Orieška</form>
-<tag lemma="Oriešek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Oriešek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-028-p2s1w34">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-mf920901-028-p3s1w1</LM>
 </w.rf>
 <form>Oriešek</form>
-<tag lemma="Oriešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oriešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-028-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1534,7 +1534,7 @@
 <LM>w#w-mf920901-028-p4s3w2</LM>
 </w.rf>
 <form>Oriešek</form>
-<tag lemma="Oriešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oriešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-028-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <LM>w#w-mf920901-028-p4s13w2</LM>
 </w.rf>
 <form>Oriešek</form>
-<tag lemma="Oriešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oriešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-028-p4s13w3">
 <src.rf>manual</src.rf>

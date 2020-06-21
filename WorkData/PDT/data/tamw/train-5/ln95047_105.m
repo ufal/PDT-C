@@ -1737,7 +1737,7 @@
 <LM>w#w-ln95047-105-p4s3w4</LM>
 </w.rf>
 <form>Syka</form>
-<tag lemma="Syka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Syka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-105-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1754,8 +1754,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-105-p4s3w7">

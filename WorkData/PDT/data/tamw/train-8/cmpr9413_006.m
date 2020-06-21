@@ -238,7 +238,7 @@
 <LM>w#w-cmpr9413-006-p3s2w4</LM>
 </w.rf>
 <form>Chodura</form>
-<tag lemma="Chodura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chodura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-006-p3s2w5">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bati</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-006-p3s3w9">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-cmpr9413-006-p3s3w11</LM>
 </w.rf>
 <form>Lobkowitze</form>
-<tag lemma="Lobkowitz_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lobkowitz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-006-p3s3w12">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-cmpr9413-006-p3s3w14</LM>
 </w.rf>
 <form>Ježka</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-006-p3s3w15">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-cmpr9413-006-p4s1w2</LM>
 </w.rf>
 <form>Složil</form>
-<tag lemma="Složil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Složil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9413-006-p5s1">
@@ -691,7 +691,7 @@
 <LM>w#w-cmpr9413-006-p5s1w2</LM>
 </w.rf>
 <form>Chodura</form>
-<tag lemma="Chodura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chodura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-006-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 </w.rf>
 <form>Vysokou</form>
 <tag>
-<AM lemma="Vysoký-1_;K" src="orig">AAFS4----1A----</AM>
+<AM lemma="Vysoký-1_;m" src="orig">AAFS4----1A----</AM>
 <AM lemma="vysoký" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
@@ -8264,9 +8264,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-006-p34s1w13">
@@ -9943,7 +9943,7 @@
 <LM>w#w-cmpr9413-006-p42s1w4</LM>
 </w.rf>
 <form>Chodura</form>
-<tag lemma="Chodura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chodura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-006-p42s1w5">
 <src.rf>manual</src.rf>
@@ -10272,7 +10272,7 @@
 <LM>w#w-cmpr9413-006-p43s1Aw4</LM>
 </w.rf>
 <form>CHODURA</form>
-<tag lemma="Chodura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chodura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-006-p43s1Aw5">
 <src.rf>manual</src.rf>

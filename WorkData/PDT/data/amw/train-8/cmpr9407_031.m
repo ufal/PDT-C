@@ -132,7 +132,7 @@
 <LM>w#w-cmpr9407-031-p4s1w3</LM>
 </w.rf>
 <form>Dřevoslohu</form>
-<tag lemma="Dřevosloh_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dřevosloh_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p4s1w4">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-cmpr9407-031-p6s1w2</LM>
 </w.rf>
 <form>Složil</form>
-<tag lemma="Složil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Složil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-031-p8s1">
@@ -992,7 +992,7 @@
 <LM>w#w-cmpr9407-031-p9s2w6</LM>
 </w.rf>
 <form>Dřevoslohu</form>
-<tag lemma="Dřevosloh_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dřevosloh_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p9s2w7">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-cmpr9407-031-p10s1w2</LM>
 </w.rf>
 <form>Dřevoslohu</form>
-<tag lemma="Dřevosloh_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dřevosloh_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p10s1w3">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-cmpr9407-031-p12s1w4</LM>
 </w.rf>
 <form>Dřevosloh</form>
-<tag lemma="Dřevosloh_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dřevosloh_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p12s1w5">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-cmpr9407-031-p12s1w9</LM>
 </w.rf>
 <form>Müller</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p12s1w10">
 <src.rf>manual</src.rf>
@@ -3184,7 +3184,7 @@
 <LM>w#w-cmpr9407-031-p17s2w10</LM>
 </w.rf>
 <form>Dřevoslohu</form>
-<tag lemma="Dřevosloh_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dřevosloh_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p17s2w11">
 <src.rf>manual</src.rf>
@@ -3218,7 +3218,7 @@
 <LM>w#w-cmpr9407-031-p17s3w2</LM>
 </w.rf>
 <form>Müller</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p17s3w3">
 <src.rf>manual</src.rf>
@@ -3298,7 +3298,7 @@
 <LM>w#w-cmpr9407-031-p17s3w12</LM>
 </w.rf>
 <form>Vašek</form>
-<tag lemma="Vašek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vašek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p17s3w13">
 <src.rf>manual</src.rf>
@@ -3368,7 +3368,7 @@
 <LM>w#w-cmpr9407-031-p17s4w5</LM>
 </w.rf>
 <form>Müller</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p17s4w6">
 <src.rf>manual</src.rf>
@@ -4032,7 +4032,7 @@
 <LM>w#w-cmpr9407-031-p18s5w13</LM>
 </w.rf>
 <form>Müller</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p18s5w14">
 <src.rf>manual</src.rf>
@@ -4074,7 +4074,7 @@
 <LM>w#w-cmpr9407-031-p18s6w4</LM>
 </w.rf>
 <form>Müller</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p18s6w5">
 <src.rf>manual</src.rf>
@@ -4090,7 +4090,7 @@
 <LM>w#w-cmpr9407-031-p18s6w6</LM>
 </w.rf>
 <form>Dřevosloh</form>
-<tag lemma="Dřevosloh_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dřevosloh_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p18s6w7">
 <src.rf>manual</src.rf>
@@ -4363,7 +4363,7 @@
 </w.rf>
 <form>TWOS</form>
 <tag>
-<AM lemma="Twos_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Twos_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="TWOS-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4374,7 +4374,7 @@
 </w.rf>
 <form>COMPANY</form>
 <tag>
-<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
 <AM lemma="COMPANY-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -4530,7 +4530,7 @@
 <LM>w#w-cmpr9407-031-p20s4w1</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p20s4w2">
 <src.rf>manual</src.rf>
@@ -5730,7 +5730,7 @@
 <LM>w#w-cmpr9407-031-p23s1w4</LM>
 </w.rf>
 <form>Müllera</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p23s1w5">
 <src.rf>manual</src.rf>
@@ -6285,7 +6285,7 @@
 <LM>w#w-cmpr9407-031-p24s1w3</LM>
 </w.rf>
 <form>Müller</form>
-<tag lemma="Müller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Müller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p24s1w4">
 <src.rf>manual</src.rf>
@@ -6301,7 +6301,7 @@
 <LM>w#w-cmpr9407-031-p24s1w5</LM>
 </w.rf>
 <form>Dřevosloh</form>
-<tag lemma="Dřevosloh_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dřevosloh_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p24s1w6">
 <src.rf>manual</src.rf>
@@ -6728,7 +6728,7 @@
 <LM>w#w-cmpr9407-031-p27s2w3</LM>
 </w.rf>
 <form>Dřevoslohu</form>
-<tag lemma="Dřevosloh_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Dřevosloh_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p27s2w4">
 <src.rf>manual</src.rf>

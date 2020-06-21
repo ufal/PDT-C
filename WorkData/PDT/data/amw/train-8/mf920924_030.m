@@ -36,8 +36,8 @@
 </w.rf>
 <form>OPEC</form>
 <tag>
-<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -73,8 +73,8 @@
 </w.rf>
 <form>OPEC</form>
 <tag>
-<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-030-p2s1w5">
@@ -386,7 +386,7 @@
 <LM>w#w-mf920924-030-p2s3w9</LM>
 </w.rf>
 <form>Perez</form>
-<tag lemma="Perez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-030-p2s3w10">
 <src.rf>manual</src.rf>
@@ -451,8 +451,8 @@
 </w.rf>
 <form>OPEC</form>
 <tag>
-<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-030-p2s3w18">
@@ -594,8 +594,8 @@
 </w.rf>
 <form>OPEC</form>
 <tag>
-<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="OPEC_:B_;m_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-030-p2s5w5">

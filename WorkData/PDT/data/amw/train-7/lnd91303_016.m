@@ -274,7 +274,7 @@
 </w.rf>
 <form>Haarec</form>
 <tag>
-<AM lemma="Haarec_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haarec_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Haarec-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -465,7 +465,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="mig_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="mig_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

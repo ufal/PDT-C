@@ -184,7 +184,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -226,7 +226,7 @@
 </w.rf>
 <form>Vitesse</form>
 <tag>
-<AM lemma="Vitesse_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Vitesse_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Vitesse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -358,7 +358,7 @@
 <LM>w#w-lnd92259-100-p4s5w1</LM>
 </w.rf>
 <form>Cocu</form>
-<tag lemma="Cocu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cocu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s5w2">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-lnd92259-100-p4s7w1</LM>
 </w.rf>
 <form>Celtic</form>
-<tag lemma="Celtic_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Celtic_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s7w2">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-lnd92259-100-p4s7w4</LM>
 </w.rf>
 <form>Borussia</form>
-<tag lemma="Borussia_;K_;w" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Borussia_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s7w5">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-lnd92259-100-p4s9w1</LM>
 </w.rf>
 <form>Creany</form>
-<tag lemma="Creany_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Creany_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s9w2">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-lnd92259-100-p4s10w1</LM>
 </w.rf>
 <form>Chapuisat</form>
-<tag lemma="Chapuisat_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chapuisat_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s10w2">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-lnd92259-100-p4s11w1</LM>
 </w.rf>
 <form>Zorc</form>
-<tag lemma="Zorc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zorc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s11w2">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-lnd92259-100-p4s13w1</LM>
 </w.rf>
 <form>Real</form>
-<tag lemma="Real_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Real_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s13w2">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 </w.rf>
 <form>Frem</form>
 <tag>
-<AM lemma="Frem_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Frem_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Frem-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -961,7 +961,7 @@
 <LM>w#w-lnd92259-100-p4s15w1</LM>
 </w.rf>
 <form>Mateut</form>
-<tag lemma="Mateut_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mateut_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s15w2">
 <src.rf>manual</src.rf>
@@ -1020,13 +1020,13 @@
 </w.rf>
 <form>Seba</form>
 <tag>
-<AM lemma="Seba_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Seba_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Seba_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Seba_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Sebum" src="auto">NNNP1-----A----</AM>
 <AM lemma="Sebum" src="auto">NNNP4-----A----</AM>
 <AM lemma="Sebum" src="auto">NNNP5-----A----</AM>
 <AM lemma="Sebum" src="auto">NNNS2-----A----</AM>
-<AM lemma="Seba-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Seba-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-100-p4s16w2">
@@ -1061,7 +1061,7 @@
 <LM>w#w-lnd92259-100-p4s17w1</LM>
 </w.rf>
 <form>Colding</form>
-<tag lemma="Colding_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Colding_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-100-p4s17w2">
 <src.rf>manual</src.rf>

@@ -332,7 +332,7 @@
 <LM>w#w-ln95042-079-p2s2w6</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-079-p2s2w7">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-ln95042-079-p2s4w1</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-079-p2s4w2">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-ln95042-079-p2s6w4</LM>
 </w.rf>
 <form>Rubáš</form>
-<tag lemma="Rubáš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-079-p2s6w5">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-ln95042-079-p2s8w7</LM>
 </w.rf>
 <form>Vaňka</form>
-<tag lemma="Vaněk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vaněk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-079-p2s8w8">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <LM>w#w-ln95042-079-p2s9w1</LM>
 </w.rf>
 <form>Vaněk</form>
-<tag lemma="Vaněk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vaněk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-079-p2s9w2">
 <src.rf>manual</src.rf>

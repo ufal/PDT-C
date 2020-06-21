@@ -131,8 +131,8 @@
 </w.rf>
 <form>pk</form>
 <tag>
-<AM lemma="pk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-101-p3s1w4">
@@ -284,8 +284,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-101-p4s1w17">
@@ -1627,8 +1627,8 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zetor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-101-p5s4w8">
@@ -2326,7 +2326,7 @@
 <LM>w#w-lnd91301-101-p5s8w2</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd91301-101-p5s8w3">
 <src.rf>manual</src.rf>
@@ -2544,7 +2544,7 @@
 <LM>w#w-lnd91301-101-p5s9w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd91301-101-p5s9w4">
 <src.rf>manual</src.rf>
@@ -4581,7 +4581,7 @@
 <form>Horák</form>
 <tag>
 <AM lemma="horák" src="orig">NNMS1-----A----</AM>
-<AM lemma="Horák_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Horák_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-101-p7s5w9">
@@ -4606,7 +4606,7 @@
 <LM>w#w-lnd91301-101-p7s5w11</LM>
 </w.rf>
 <form>Vimmer</form>
-<tag lemma="Vimmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vimmer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-101-p7s5w12">
 <src.rf>manual</src.rf>

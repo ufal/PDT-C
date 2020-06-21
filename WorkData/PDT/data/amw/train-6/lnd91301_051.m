@@ -605,7 +605,7 @@
 </w.rf>
 <form>NVmB</form>
 <tag>
-<AM lemma="NVmB-98_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NVmB-98_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="NVmB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -712,7 +712,7 @@
 </w.rf>
 <form>AMK</form>
 <tag>
-<AM lemma="Automotoklub_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Automotoklub_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AMK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd91301-051-p4s1w2</LM>
 </w.rf>
 <form>VLAŠÍN</form>
-<tag lemma="Vlašín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlašín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

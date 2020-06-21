@@ -53,7 +53,7 @@
 <LM>w#w-ln94201-78-p2s1w4</LM>
 </w.rf>
 <form>Kozlov</form>
-<tag lemma="Kozlov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozlov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-78-p2s1w5">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 </w.rf>
 <form>Jose</form>
 <tag>
-<AM lemma="Jose_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jose_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Jose-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -180,7 +180,7 @@
 </w.rf>
 <form>Sharks</form>
 <tag>
-<AM lemma="Sharks_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Sharks_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Sharks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -263,7 +263,7 @@
 <LM>w#w-ln94201-78-p2s1w29</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-78-p2s1w30">
 <src.rf>manual</src.rf>
@@ -295,9 +295,9 @@
 </w.rf>
 <form>Juneau</form>
 <tag>
-<AM lemma="Juneau_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Juneau_;G" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Juneau-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Juneau_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Juneau_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Juneau-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-78-p3s1w3">
@@ -339,8 +339,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-78-p3s1w8">
@@ -361,7 +361,7 @@
 </w.rf>
 <form>Capitals</form>
 <tag>
-<AM lemma="Capitals_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Capitals_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Capitals-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -477,7 +477,7 @@
 <LM>w#w-ln94201-78-p3s1w23</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94201-78-p3s1w24">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -579,8 +579,8 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="B-33" src="orig">Q3-------------</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-78-p4s1w12">
@@ -812,7 +812,7 @@
 <tag>
 <AM lemma="Žen_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="žena" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Žen-2_;S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Žen-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-78-p5s1w9">
@@ -957,7 +957,7 @@
 <LM>w#w-ln94201-78-p5s1w26</LM>
 </w.rf>
 <form>epitestosteronu</form>
-<tag lemma="epitestosteron_;H" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="epitestosteron_;U" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-78-p5s1w27">
 <src.rf>manual</src.rf>

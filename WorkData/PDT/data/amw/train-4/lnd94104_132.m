@@ -86,8 +86,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-132-p1s2w4">
@@ -105,8 +105,8 @@
 </w.rf>
 <form>bra</form>
 <tag>
-<AM lemma="bra-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bra-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bra-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bra-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-132-p1s2w6">
@@ -1192,7 +1192,7 @@
 <LM>w#w-lnd94104-132-p1s8w37</LM>
 </w.rf>
 <form>Sláma</form>
-<tag lemma="Sláma_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sláma_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s8w38">
 <src.rf>manual</src.rf>
@@ -1609,8 +1609,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-132-p1s11w11">
@@ -1643,7 +1643,7 @@
 <LM>w#w-lnd94104-132-p1s11w14</LM>
 </w.rf>
 <form>Vašek</form>
-<tag lemma="Vašek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vašek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s11w15">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 <LM>w#w-lnd94104-132-p1s12w3</LM>
 </w.rf>
 <form>Hřebík</form>
-<tag lemma="Hřebík-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hřebík-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s12w4">
 <src.rf>manual</src.rf>
@@ -1919,7 +1919,7 @@
 <LM>w#w-lnd94104-132-p1s13w4</LM>
 </w.rf>
 <form>Navrátila</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s13w5">
 <src.rf>manual</src.rf>
@@ -1983,7 +1983,7 @@
 <LM>w#w-lnd94104-132-p1s13w12</LM>
 </w.rf>
 <form>Pešice</form>
-<tag lemma="Pešice_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešice_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s13w13">
 <src.rf>manual</src.rf>
@@ -2154,7 +2154,7 @@
 <LM>w#w-lnd94104-132-p1s14w12</LM>
 </w.rf>
 <form>Houšteckého</form>
-<tag lemma="Houštecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Houštecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s14w13">
 <src.rf>manual</src.rf>
@@ -2234,7 +2234,7 @@
 <LM>w#w-lnd94104-132-p1s14w22</LM>
 </w.rf>
 <form>Havránek</form>
-<tag lemma="Havránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s14w23">
 <src.rf>manual</src.rf>
@@ -2364,7 +2364,7 @@
 <LM>w#w-lnd94104-132-p1s15w16</LM>
 </w.rf>
 <form>Fryše</form>
-<tag lemma="Fryš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Fryš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s15w17">
 <src.rf>manual</src.rf>
@@ -2520,7 +2520,7 @@
 <LM>w#w-lnd94104-132-p1s20w3</LM>
 </w.rf>
 <form>Zimmermann</form>
-<tag lemma="Zimmermann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zimmermann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s20w4">
 <src.rf>manual</src.rf>
@@ -2560,7 +2560,7 @@
 <LM>w#w-lnd94104-132-p1s20w8</LM>
 </w.rf>
 <form>Komárek</form>
-<tag lemma="Komárek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Komárek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-132-p1s20w9">
 <src.rf>manual</src.rf>

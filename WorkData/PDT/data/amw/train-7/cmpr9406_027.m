@@ -191,7 +191,7 @@
 <LM>w#w-cmpr9406-027-p4s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-027-p4s1w12">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-cmpr9406-027-p5s1w10</LM>
 </w.rf>
 <form>Paska</form>
-<tag lemma="Paska_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paska_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-027-p5s1w11">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <form>ORL</form>
 <tag>
 <AM lemma="ORL_:B_^(otorinolaryngologie)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ORL_:B" src="auto">NNNSX-----A---8</AM>
+<AM lemma="ORL_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Orlický_:B_;G" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="ORL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -5752,7 +5752,7 @@
 <LM>w#w-cmpr9406-027-p16s1w2</LM>
 </w.rf>
 <form>Fryntová</form>
-<tag lemma="Fryntová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fryntová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-027-p16s1w3">
 <src.rf>manual</src.rf>
@@ -5776,7 +5776,7 @@
 <LM>w#w-cmpr9406-027-p16s1w5</LM>
 </w.rf>
 <form>Seifert</form>
-<tag lemma="Seifert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seifert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-027-p18s1">

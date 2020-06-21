@@ -45,7 +45,7 @@
 <form>D</form>
 <tag>
 <AM lemma="D-3`500" src="orig">C}-------------</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-075-p1s1w5">
@@ -64,7 +64,7 @@
 <LM>w#w-lnd92257-075-p1s2w1</LM>
 </w.rf>
 <form>BAILEYHO</form>
-<tag lemma="Bailey_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bailey_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92257-075-p2s1">
@@ -100,7 +100,7 @@
 <LM>w#w-lnd92257-075-p3s1w2</LM>
 </w.rf>
 <form>BAILEY</form>
-<tag lemma="Bailey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bailey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-075-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-lnd92257-075-p4s3w25</LM>
 </w.rf>
 <form>Baileyovým</form>
-<tag lemma="Baileyová_;S" src="orig" selected="1">NNFP3-----A----</tag>
+<tag lemma="Baileyová_;Y" src="orig" selected="1">NNFP3-----A----</tag>
 </m>
 <m id="m-lnd92257-075-p4s3w26">
 <src.rf>manual</src.rf>
@@ -1133,8 +1133,8 @@
 </w.rf>
 <form>Lawrence</form>
 <tag>
-<AM lemma="Lawrence_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lawrence_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-075-p4s4w11">
@@ -1145,7 +1145,7 @@
 <form>Olivier</form>
 <tag>
 <AM lemma="Olivier_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Olivier_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Olivier_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-075-p4s4w12">
@@ -1178,7 +1178,7 @@
 <LM>w#w-lnd92257-075-p4s4w15</LM>
 </w.rf>
 <form>Dylan</form>
-<tag lemma="Dylan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dylan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-075-p4s4w16">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-lnd92257-075-p4s4w20</LM>
 </w.rf>
 <form>Beuys</form>
-<tag lemma="Beuys_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Beuys_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-075-p4s4w21">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="George_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-075-p4s4w26">
@@ -1287,7 +1287,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-075-p4s4w28">
@@ -1304,7 +1304,7 @@
 <LM>w#w-lnd92257-075-p4s4w29</LM>
 </w.rf>
 <form>Ustinov</form>
-<tag lemma="Ustinov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ustinov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-075-p4s4w30">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-lnd92257-075-p4s4w31</LM>
 </w.rf>
 <form>Bertolucci</form>
-<tag lemma="Bertolucci_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bertolucci_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-075-p4s4w32">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 <LM>w#w-lnd92257-075-p5s1w1</LM>
 </w.rf>
 <form>Baileyovy</form>
-<tag lemma="Baileyův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Baileyův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-lnd92257-075-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2155,7 +2155,7 @@
 </w.rf>
 <form>ros</form>
 <tag>
-<AM lemma="ros-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ros-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="rosa" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="rosit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="rosit" src="auto">Vi-S---3--A-I-4</AM>

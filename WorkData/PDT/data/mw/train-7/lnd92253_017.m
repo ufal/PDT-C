@@ -62,9 +62,9 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="jab-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="jab_,t" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="jab_,t" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-017-p2s1w4">
@@ -188,7 +188,7 @@
 </w.rf>
 <form>SPMP</form>
 <tag>
-<AM lemma="SPMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPMP-1_:B_;m_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPMP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -973,7 +973,7 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -985,7 +985,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-017-p2s7w18">
@@ -1002,7 +1002,7 @@
 <LM>w#w-lnd92253-017-p2s7w19</LM>
 </w.rf>
 <form>Janeček</form>
-<tag lemma="Janeček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janeček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-017-p2s7w20">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-lnd94103-145-p1s1w5</LM>
 </w.rf>
 <form>Vančura</form>
-<tag lemma="Vančura_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vančura_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-145-p1s1C">
@@ -883,7 +883,7 @@
 <LM>w#w-lnd94103-145-p1s5w9</LM>
 </w.rf>
 <form>Fučíkovi</form>
-<tag lemma="Fučík_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Fučík_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd94103-145-p1s5w10">
 <src.rf>manual</src.rf>

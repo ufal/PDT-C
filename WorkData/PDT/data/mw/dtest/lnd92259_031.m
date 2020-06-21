@@ -706,7 +706,7 @@
 <LM>w#w-lnd92259-031-p3s4w14</LM>
 </w.rf>
 <form>Krále</form>
-<tag lemma="Král_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Král_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-031-p3s4w15">
 <src.rf>manual</src.rf>
@@ -4946,7 +4946,7 @@
 <LM>w#w-lnd92259-031-p11s1w2</LM>
 </w.rf>
 <form>VYBULKA</form>
-<tag lemma="Vybulka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vybulka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

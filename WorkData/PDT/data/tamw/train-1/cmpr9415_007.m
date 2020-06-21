@@ -62,9 +62,9 @@
 </w.rf>
 <form>Cekare</form>
 <tag>
-<AM lemma="Cekare_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Cekare_;K" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Cekare_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Cekare_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Cekare_;m" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Cekare_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -166,15 +166,15 @@
 </w.rf>
 <form>Les</form>
 <tag>
-<AM lemma="Les-1_;K_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAXPX----1A----</AM>
-<AM lemma="Les-1_;K_,t_^(součást_cizích_jmen)" src="auto">XX-------------</AM>
+<AM lemma="Les-1_;m_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Les-1_;m_,t_^(součást_cizích_jmen)" src="auto">XX-------------</AM>
 <AM lemma="Les-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
-<AM lemma="Le-1_,t_^(fr._člen)" src="manual">AAXPX----1A----</AM>
-<AM lemma="le-1_,t_^(fr._člen)" src="manual">AAXPX----1A----</AM>
+<AM lemma="Le-1_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="le-1_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="les-1_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="Les-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -186,7 +186,7 @@
 </w.rf>
 <form>Marines</form>
 <tag>
-<AM lemma="Marine_;m_,t" src="orig">NNXPX-----A----</AM>
+<AM lemma="Marine_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Marines-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -705,7 +705,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Funèsem</form>
-<tag lemma="Funès_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Funès_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-007-p9s2w13">
 <src.rf>manual</src.rf>

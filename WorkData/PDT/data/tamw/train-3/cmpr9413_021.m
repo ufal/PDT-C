@@ -908,7 +908,7 @@
 <LM>w#w-cmpr9413-021-p4s5w24</LM>
 </w.rf>
 <form>Vilímek</form>
-<tag lemma="Vilímek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vilímek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-021-p4s5w25">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1307,7 +1307,7 @@
 <LM>w#w-cmpr9413-021-p6s1w4</LM>
 </w.rf>
 <form>Vilímek</form>
-<tag lemma="Vilímek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vilímek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-021-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-cmpr9413-021-p8s2w2</LM>
 </w.rf>
 <form>Woronoff</form>
-<tag lemma="Woronoff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Woronoff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-021-p8s2w3">
 <src.rf>manual</src.rf>
@@ -3126,7 +3126,7 @@
 </w.rf>
 <form>Victoria</form>
 <tag>
-<AM lemma="Victoria_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Victoria_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Victoria-1_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Victoria-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3138,7 +3138,7 @@
 </w.rf>
 <form>Publishing</form>
 <tag>
-<AM lemma="Publishing_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Publishing_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Publishing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -222,8 +222,8 @@
 </w.rf>
 <form>mš</form>
 <tag>
-<AM lemma="mš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-135-p2s1Bw4">
@@ -554,7 +554,7 @@
 <LM>w#w-ln94210-135-p2s2w6</LM>
 </w.rf>
 <form>Guluškinová</form>
-<tag lemma="Guluškinová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Guluškinová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-135-p2s2w7">
 <src.rf>manual</src.rf>
@@ -832,8 +832,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-135-p3s3w3">
@@ -1224,7 +1224,7 @@
 <LM>w#w-ln94210-135-p3s5w4</LM>
 </w.rf>
 <form>Šantorové</form>
-<tag lemma="Šantorová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Šantorová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-135-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1758,7 +1758,7 @@
 </w.rf>
 <form>HOST</form>
 <tag>
-<AM lemma="HOST_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HOST_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="host" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="HOST_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2017,7 +2017,7 @@
 <LM>w#w-ln94210-135-p4s3w5</LM>
 </w.rf>
 <form>Jařaba</form>
-<tag lemma="Jařab_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jařab_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-135-p4s3w6">
 <src.rf>manual</src.rf>
@@ -2034,7 +2034,7 @@
 </w.rf>
 <form>HOST</form>
 <tag>
-<AM lemma="HOST_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HOST_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="host" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="HOST_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="HOST-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -2709,7 +2709,7 @@
 <LM>w#w-ln94210-135-p5s3w14</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-135-p5s3w15">
 <src.rf>manual</src.rf>
@@ -2804,7 +2804,7 @@
 <LM>w#w-ln94210-135-p5s5w3</LM>
 </w.rf>
 <form>Jařaba</form>
-<tag lemma="Jařab_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jařab_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-135-p5s5w4">
 <src.rf>manual</src.rf>

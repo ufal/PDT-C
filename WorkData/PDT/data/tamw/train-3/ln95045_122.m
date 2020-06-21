@@ -247,7 +247,7 @@
 <LM>w#w-ln95045-122-p2s1Bw21</LM>
 </w.rf>
 <form>Haisovi</form>
-<tag lemma="Hais_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Hais_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95045-122-p2s1Bw22">
 <src.rf>manual</src.rf>

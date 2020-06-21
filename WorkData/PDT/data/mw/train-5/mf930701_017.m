@@ -900,7 +900,7 @@
 <LM>w#w-mf930701-017-p3s1w19</LM>
 </w.rf>
 <form>Galanda</form>
-<tag lemma="Galanda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Galanda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-017-p3s1w20">
 <src.rf>manual</src.rf>
@@ -2810,7 +2810,7 @@
 <LM>w#w-mf930701-017-p4s7w15</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-017-p4s7w16">
 <src.rf>manual</src.rf>

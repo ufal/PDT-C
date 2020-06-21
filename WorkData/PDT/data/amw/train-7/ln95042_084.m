@@ -20,8 +20,8 @@
 </w.rf>
 <form>Perry</form>
 <tag>
-<AM lemma="Perry_;S_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perry_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Perry_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perry_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-084-p1s1w2">
@@ -38,7 +38,7 @@
 <LM>w#w-ln95042-084-p1s1w3</LM>
 </w.rf>
 <form>Shalikashvili</form>
-<tag lemma="Shalikashvili_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shalikashvili_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-084-p1s1w4">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 <LM>w#w-ln95042-084-p1s1w9</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 </s>
 <s id="m-ln95042-084-p2s1A">
@@ -155,8 +155,8 @@
 </w.rf>
 <form>Perry</form>
 <tag>
-<AM lemma="Perry_;S_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perry_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Perry_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perry_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-084-p2s1Bw7">
@@ -213,7 +213,7 @@
 <LM>w#w-ln95042-084-p2s1Bw13</LM>
 </w.rf>
 <form>Shalikashvili</form>
-<tag lemma="Shalikashvili_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shalikashvili_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-084-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln95042-084-p2s2w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln95042-084-p2s2w10">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-ln95042-084-p2s2w14</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
 </m>
 <m id="m-ln95042-084-p2s2w15">
 <src.rf>manual</src.rf>
@@ -546,8 +546,8 @@
 </w.rf>
 <form>Perryho</form>
 <tag>
-<AM lemma="Perry_;S_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Perry_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Perry_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Perry_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-084-p3s1w3">
@@ -646,7 +646,7 @@
 <LM>w#w-ln95042-084-p3s2w3</LM>
 </w.rf>
 <form>Shalikashvili</form>
-<tag lemma="Shalikashvili_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shalikashvili_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-084-p3s2w4">
 <src.rf>manual</src.rf>
@@ -883,9 +883,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95042-084-p3s4w7">
@@ -944,7 +944,7 @@
 <LM>w#w-ln95042-084-p3s5w2</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-084-p3s5w3">
 <src.rf>manual</src.rf>

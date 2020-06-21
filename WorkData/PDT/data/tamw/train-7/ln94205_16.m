@@ -209,7 +209,7 @@
 <LM>w#w-ln94205-16-p2s2w8</LM>
 </w.rf>
 <form>Vičar</form>
-<tag lemma="Vičar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vičar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-16-p2s2w9">
 <src.rf>manual</src.rf>

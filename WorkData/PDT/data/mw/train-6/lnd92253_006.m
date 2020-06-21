@@ -19,7 +19,7 @@
 <LM>w#w-lnd92253-006-p1s1w1</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-006-p1s1w2">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-lnd92253-006-p2s3w5</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-006-p2s3w6">
 <src.rf>manual</src.rf>

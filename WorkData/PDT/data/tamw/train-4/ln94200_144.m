@@ -744,10 +744,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -1835,10 +1835,10 @@
 </w.rf>
 <form>Duží</form>
 <tag>
-<AM lemma="Duží_;S" src="orig">NNFXX-----A----</AM>
-<AM lemma="Duží_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Duží_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Duží-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Duží_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Duží_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Duží_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Duží-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-144-p6s1w5">

@@ -28,7 +28,7 @@
 </w.rf>
 <form>Chambers</form>
 <tag>
-<AM lemma="Chambers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chambers_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Chambers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -103,7 +103,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFSXFS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -350,9 +350,9 @@
 <tag>
 <AM lemma="o-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
-<AM lemma="o-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
 </tag>
 </m>
@@ -494,7 +494,7 @@
 </w.rf>
 <form>Fort</form>
 <tag>
-<AM lemma="Fort_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fort_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="fort" src="auto">NNIS1-----A----</AM>
 <AM lemma="fort" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fort-77" src="manual" selected="1">F%-------------</AM>
@@ -508,8 +508,8 @@
 <form>Lauderdale</form>
 <tag>
 <AM lemma="Lauderdale_;G_,t" src="auto">NNXXX-----A----</AM>
-<AM lemma="Lauderdale_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Lauderdale_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Lauderdale_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lauderdale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lauderdale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -521,9 +521,9 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="a-33" src="auto">Q3-------------</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -535,7 +535,7 @@
 <form>West</form>
 <tag>
 <AM lemma="West-77" src="auto" selected="1">F%-------------</AM>
-<AM lemma="West_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="West_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="west-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -652,8 +652,8 @@
 </w.rf>
 <form>Chambers</form>
 <tag>
-<AM lemma="Chambers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chambers-3_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chambers_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chambers-3_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1521-001-p1s1W23-Ta">
@@ -689,8 +689,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>

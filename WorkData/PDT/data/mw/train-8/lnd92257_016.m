@@ -461,7 +461,7 @@
 <LM>w#w-lnd92257-016-p4s1w19</LM>
 </w.rf>
 <form>Ulmana</form>
-<tag lemma="Ulman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ulman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-016-p4s1w20">
 <src.rf>manual</src.rf>

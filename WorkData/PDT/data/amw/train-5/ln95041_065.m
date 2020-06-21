@@ -1129,7 +1129,7 @@
 <LM>w#w-ln95041-065-p3s4w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln95041-065-p3s4w8">
 <src.rf>manual</src.rf>
@@ -2380,7 +2380,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Parkinsonových</form>
-<tag lemma="Parkinsonův_;S_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Parkinsonův_;Y_^(*2)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln95041-065-p4s2w13">
 <src.rf>manual</src.rf>
@@ -4767,7 +4767,7 @@
 <form>Hanuš</form>
 <tag>
 <AM lemma="Hanuš_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hanuš_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hanuš_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-065-p5s9w2">
@@ -5189,7 +5189,7 @@
 <LM>w#w-ln95041-065-p5s12w10</LM>
 </w.rf>
 <form>Bělehrádkovu</form>
-<tag lemma="Bělehrádkův_;S_^(*3ek)" src="orig" selected="1">AUNS3M---------</tag>
+<tag lemma="Bělehrádkův_;Y_^(*3ek)" src="orig" selected="1">AUNS3M---------</tag>
 </m>
 <m id="m-ln95041-065-p5s12w11">
 <src.rf>manual</src.rf>

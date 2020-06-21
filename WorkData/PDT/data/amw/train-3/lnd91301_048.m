@@ -306,7 +306,7 @@
 <LM>w#w-lnd91301-048-p3s2w10</LM>
 </w.rf>
 <form>Katiovi</form>
-<tag lemma="Katiův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Katiův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-lnd91301-048-p3s2w11">
 <src.rf>manual</src.rf>

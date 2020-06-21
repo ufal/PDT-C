@@ -37,7 +37,7 @@
 <LM>w#w-vesm9212-015-p2s1w1</LM>
 </w.rf>
 <form>SCHRÖDINGEROVA</form>
-<tag lemma="Schrödingerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Schrödingerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9212-015-p2s1w2">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-015-p3s1Aw24">
@@ -274,7 +274,7 @@
 <LM>w#w-vesm9212-015-p3s1Aw25</LM>
 </w.rf>
 <form>Podolského</form>
-<tag lemma="Podolský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Podolský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-015-p3s1Aw26">
 <src.rf>manual</src.rf>
@@ -3294,7 +3294,7 @@
 <LM>w#w-vesm9212-015-p5s4w1</LM>
 </w.rf>
 <form>Schrödingerovo</form>
-<tag lemma="Schrödingerův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Schrödingerův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-vesm9212-015-p5s4w2">
 <src.rf>manual</src.rf>
@@ -3350,7 +3350,7 @@
 <LM>w#w-vesm9212-015-p5s4w8</LM>
 </w.rf>
 <form>Geigerův</form>
-<tag lemma="Geigerův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Geigerův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-vesm9212-015-p5s4w9">
 <src.rf>manual</src.rf>
@@ -4080,7 +4080,7 @@
 <LM>w#w-vesm9212-015-p6s1w2</LM>
 </w.rf>
 <form>Langer</form>
-<tag lemma="Langer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Langer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-015-p7s1">
@@ -4772,7 +4772,7 @@
 <LM>w#w-vesm9212-015-p22s1w4</LM>
 </w.rf>
 <form>Knoxe</form>
-<tag lemma="Knox-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Knox-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-015-p22s1w5">
 <src.rf>manual</src.rf>
@@ -4836,7 +4836,7 @@
 <LM>w#w-vesm9212-015-p22s1w12</LM>
 </w.rf>
 <form>Knox</form>
-<tag lemma="Knox-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Knox-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-015-p22s1w13">
 <src.rf>manual</src.rf>
@@ -4934,7 +4934,7 @@
 <form>Holuba</form>
 <tag>
 <AM lemma="holub" src="orig">NNMS2-----A----</AM>
-<AM lemma="Holub_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Holub_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-015-p22s1w25">
@@ -4994,7 +4994,7 @@
 <LM>w#w-vesm9212-015-p22s1w31</LM>
 </w.rf>
 <form>Berkeleyho</form>
-<tag lemma="Berkeley-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Berkeley-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-015-p22s1w32">
 <src.rf>manual</src.rf>
@@ -5262,7 +5262,7 @@
 <LM>w#w-vesm9212-015-p23s1w1</LM>
 </w.rf>
 <form>Berkeleyho</form>
-<tag lemma="Berkeley-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Berkeley-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-015-p23s1w2">
 <src.rf>manual</src.rf>
@@ -5656,7 +5656,7 @@
 <LM>w#w-vesm9212-015-p23s3w1</LM>
 </w.rf>
 <form>Knoxův</form>
-<tag lemma="Knoxův-1_;S_^(*4-1)" src="auto" selected="1">AUMS1M---------</tag>
+<tag lemma="Knoxův-1_;Y_^(*4-1)" src="auto" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-vesm9212-015-p23s3w2">
 <src.rf>manual</src.rf>
@@ -7335,7 +7335,7 @@
 <LM>w#w-vesm9212-015-p26s1w2</LM>
 </w.rf>
 <form>Langer</form>
-<tag lemma="Langer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Langer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-015-p27s1">
@@ -8121,7 +8121,7 @@
 <LM>w#w-vesm9212-015-p29s1w2</LM>
 </w.rf>
 <form>Langer</form>
-<tag lemma="Langer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Langer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-015-p31s1">
@@ -8408,7 +8408,7 @@
 <LM>w#w-vesm9212-015-p33s1w23</LM>
 </w.rf>
 <form>Cílka</form>
-<tag lemma="Cílek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Cílek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-015-p33s1w24">
 <src.rf>manual</src.rf>

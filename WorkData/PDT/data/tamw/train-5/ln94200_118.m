@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-118-p1s1w1</LM>
 </w.rf>
 <form>Mandelových</form>
-<tag lemma="Mandelův_;S_^(*2a)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Mandelův_;Y_^(*2a)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln94200-118-p1s1w2">
 <src.rf>manual</src.rf>
@@ -72,7 +72,7 @@
 <LM>w#w-ln94200-118-p2s1Aw2</LM>
 </w.rf>
 <form>Kumermann</form>
-<tag lemma="Kumermann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kumermann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-118-p2s1B">
@@ -172,8 +172,8 @@
 <form>Mangosuthu</form>
 <tag>
 <AM lemma="Mangosuthu_;Y" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Mangosuth_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Mangosuth_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Mangosuth_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Mangosuth_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-118-p2s1Bw13">
@@ -182,7 +182,7 @@
 <LM>w#w-ln94200-118-p2s1Bw13</LM>
 </w.rf>
 <form>Buthelezi</form>
-<tag lemma="Buthelezi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buthelezi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-118-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-ln94200-118-p2s2w1</LM>
 </w.rf>
 <form>Mandela</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-118-p2s2w2">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-ln94200-118-p2s2w15</LM>
 </w.rf>
 <form>Viljoen</form>
-<tag lemma="Viljoen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Viljoen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-118-p2s2w16">
 <src.rf>manual</src.rf>
@@ -435,8 +435,8 @@
 </w.rf>
 <form>Nelsona</form>
 <tag>
-<AM lemma="Nelson_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nelson_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-118-p2s3w15">
@@ -445,7 +445,7 @@
 <LM>w#w-ln94200-118-p2s3w15</LM>
 </w.rf>
 <form>Mandely</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-118-p2s3w16">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-ln94200-118-p2s4w15</LM>
 </w.rf>
 <form>Mandelově</form>
-<tag lemma="Mandelův_;S_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Mandelův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94200-118-p2s4w16">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <LM>w#w-ln94200-118-p3s3w16</LM>
 </w.rf>
 <form>Mandelovo</form>
-<tag lemma="Mandelův_;S_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Mandelův_;Y_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94200-118-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1699,7 +1699,7 @@
 <LM>w#w-ln94200-118-p4s2w13</LM>
 </w.rf>
 <form>Mandelu</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-118-p4s2w14">
 <src.rf>manual</src.rf>
@@ -3418,7 +3418,7 @@
 <LM>w#w-ln94200-118-p9s4w9</LM>
 </w.rf>
 <form>Mandela</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-118-p9s4w10">
 <src.rf>manual</src.rf>

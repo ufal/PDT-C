@@ -111,8 +111,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-011-p3s1w4">
@@ -129,7 +129,7 @@
 <LM>w#w-lnd91303-011-p3s1w5</LM>
 </w.rf>
 <form>Pérez</form>
-<tag lemma="Pérez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pérez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s1w6">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 <LM>w#w-lnd91303-011-p3s1w7</LM>
 </w.rf>
 <form>Cuellar</form>
-<tag lemma="Cuellar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cuellar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s1w8">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 <LM>w#w-lnd91303-011-p3s1w14</LM>
 </w.rf>
 <form>Cristianim</form>
-<tag lemma="Cristiani_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Cristiani_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s1w15">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-lnd91303-011-p3s2w13</LM>
 </w.rf>
 <form>Martího</form>
-<tag lemma="Martí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Martí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s2w14">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-lnd91303-011-p3s2w29</LM>
 </w.rf>
 <form>Pérez</form>
-<tag lemma="Pérez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pérez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s2w30">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-lnd91303-011-p3s2w31</LM>
 </w.rf>
 <form>Cuellar</form>
-<tag lemma="Cuellar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cuellar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s2w32">
 <src.rf>manual</src.rf>
@@ -992,8 +992,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-011-p3s3w22">
@@ -1151,7 +1151,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-011-p3s4w11">
@@ -1170,7 +1170,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pérez</form>
-<tag lemma="Pérez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pérez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-lnd91303-011-p3s4w14</LM>
 </w.rf>
 <form>Cuellar</form>
-<tag lemma="Cuellar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cuellar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1334,8 +1334,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-011-p3s4w33">

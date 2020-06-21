@@ -1278,7 +1278,7 @@
 <LM>w#w-mf920925-090-p2s9w21</LM>
 </w.rf>
 <form>Plachý</form>
-<tag lemma="Plachý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plachý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-090-p2s9w22">
 <src.rf>manual</src.rf>
@@ -1669,7 +1669,7 @@
 <LM>w#w-mf920925-090-p2s10w34</LM>
 </w.rf>
 <form>Plachý</form>
-<tag lemma="Plachý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plachý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-090-p2s10w35">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-mf920925-090-p2s12w10</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf920925-090-p2s12w11">
 <src.rf>manual</src.rf>
@@ -1970,8 +1970,8 @@
 </w.rf>
 <form>Hermann</form>
 <tag>
-<AM lemma="Hermann_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hermann_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hermann_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hermann_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-090-p2s12w17">
@@ -1980,7 +1980,7 @@
 <LM>w#w-mf920925-090-p2s12w17</LM>
 </w.rf>
 <form>Gmeiner</form>
-<tag lemma="Gmeiner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gmeiner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-090-p2s12w18">
 <src.rf>manual</src.rf>
@@ -2521,7 +2521,7 @@
 <LM>w#w-mf920925-090-p2s15w14</LM>
 </w.rf>
 <form>Plachý</form>
-<tag lemma="Plachý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plachý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-090-p2s15w15">
 <src.rf>manual</src.rf>
@@ -3470,7 +3470,7 @@
 <LM>w#w-mf920925-090-p2s21w10</LM>
 </w.rf>
 <form>Paříková</form>
-<tag lemma="Paříková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Paříková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-090-p2s21w11">
 <src.rf>manual</src.rf>
@@ -4102,7 +4102,7 @@
 <LM>w#w-mf920925-090-p2s25w19</LM>
 </w.rf>
 <form>Plachý</form>
-<tag lemma="Plachý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Plachý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-090-p2s25w20">
 <src.rf>manual</src.rf>

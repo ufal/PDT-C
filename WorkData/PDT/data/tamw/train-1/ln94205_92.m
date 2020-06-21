@@ -64,7 +64,7 @@
 <LM>w#w-ln94205-92-p2s1Aw4</LM>
 </w.rf>
 <form>Holá</form>
-<tag lemma="Holá_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Holá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-92-p2s1Aw5">
 <src.rf>manual</src.rf>

@@ -103,7 +103,7 @@
 <LM>w#w-lnd92259-062-p3s1w3</LM>
 </w.rf>
 <form>vyb</form>
-<tag lemma="vyb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="vyb-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-062-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-lnd92259-062-p4s3w9</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-062-p4s3w10">
 <src.rf>manual</src.rf>

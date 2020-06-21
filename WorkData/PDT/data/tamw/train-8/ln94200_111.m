@@ -52,9 +52,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -221,9 +221,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-111-p2s1Bw17">
@@ -670,7 +670,7 @@
 <LM>w#w-ln94200-111-p2s5w3</LM>
 </w.rf>
 <form>Markey</form>
-<tag lemma="Markey_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Markey_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-111-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1048,8 +1048,8 @@
 <form>Diego</form>
 <tag>
 <AM lemma="Diego_;G" src="orig">NNNS4-----A----</AM>
-<AM lemma="Diego_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Diego_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Diego_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Diego-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1093,7 +1093,7 @@
 <LM>w#w-ln94200-111-p2s8w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94200-111-p2s8w2">
 <src.rf>manual</src.rf>

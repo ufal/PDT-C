@@ -87,7 +87,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p2s1w8">
@@ -170,7 +170,7 @@
 </w.rf>
 <form>Harmony</form>
 <tag>
-<AM lemma="Harmony_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Harmony_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Harmony_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Harmony_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="harmony_,t" src="manual">NNXXX-----A----</AM>
@@ -191,7 +191,7 @@
 <LM>w#w-ln95040-098-p2s1w19</LM>
 </w.rf>
 <form>Špindlerově</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln95040-098-p2s1w20">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s1w12">
@@ -487,8 +487,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -500,7 +500,7 @@
 </w.rf>
 <form>Oil</form>
 <tag>
-<AM lemma="Oil_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Oil_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="oil_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Oil-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -512,7 +512,7 @@
 </w.rf>
 <form>Consortium</form>
 <tag>
-<AM lemma="Consortium_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Consortium_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="consortium_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Consortium-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -532,7 +532,7 @@
 </w.rf>
 <form>IOC</form>
 <tag>
-<AM lemma="IOC-1_:B_;K_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IOC-1_:B_;m_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IOC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -714,7 +714,7 @@
 </w.rf>
 <form>IOC</form>
 <tag>
-<AM lemma="IOC-1_:B_;K_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IOC-1_:B_;m_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IOC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -814,7 +814,7 @@
 </w.rf>
 <form>IOC</form>
 <tag>
-<AM lemma="IOC-1_:B_;K_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IOC-1_:B_;m_,t_^(International_Olympic_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IOC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -859,7 +859,7 @@
 <form>Agip</form>
 <tag>
 <AM lemma="Agip_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Agip-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Agip-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s3w26">
@@ -877,8 +877,8 @@
 </w.rf>
 <form>Conoco</form>
 <tag>
-<AM lemma="Conoco_;K_,t" src="auto">NNNS1-----A----</AM>
-<AM lemma="Conoco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Conoco_;m_,t" src="auto">NNNS1-----A----</AM>
+<AM lemma="Conoco_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s3w28">
@@ -897,7 +897,7 @@
 <form>Shell</form>
 <tag>
 <AM lemma="shell" src="orig">NNIS1-----A----</AM>
-<AM lemma="Shell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Shell_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s3w30">
@@ -914,7 +914,7 @@
 <LM>w#w-ln95040-098-p3s3w31</LM>
 </w.rf>
 <form>Total</form>
-<tag lemma="Total_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Total_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s3w32">
 <src.rf>manual</src.rf>
@@ -1060,7 +1060,7 @@
 <form>Krejčího</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS2-----A----</AM>
-<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s3w50">
@@ -1247,7 +1247,7 @@
 <LM>w#w-ln95040-098-p3s4w19</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1298,7 +1298,7 @@
 </w.rf>
 <form>Harmony</form>
 <tag>
-<AM lemma="Harmony_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Harmony_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Harmony_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Harmony_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="harmony_,t" src="manual">NNXXX-----A----</AM>
@@ -1345,7 +1345,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s5w12">
@@ -1450,7 +1450,7 @@
 <LM>w#w-ln95040-098-p3s5w24</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s5w25">
 <src.rf>manual</src.rf>
@@ -2034,7 +2034,7 @@
 <LM>w#w-ln95040-098-p3s7w39</LM>
 </w.rf>
 <form>Chemapol</form>
-<tag lemma="Chemapol_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Chemapol_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s7w40">
 <src.rf>manual</src.rf>

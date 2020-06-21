@@ -20,7 +20,7 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -98,7 +98,7 @@
 <LM>w#w-ln94202-52-p2s1Bw3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="mrk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94202-52-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -239,7 +239,7 @@
 <LM>w#w-ln94202-52-p2s1Cw15</LM>
 </w.rf>
 <form>Kužvarta</form>
-<tag lemma="Kužvart_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kužvart_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-52-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -522,7 +522,7 @@
 <LM>w#w-ln94202-52-p3s1w7</LM>
 </w.rf>
 <form>Bendy</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-52-p3s1w8">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-ln94202-52-p3s2w26</LM>
 </w.rf>
 <form>Bendy</form>
-<tag lemma="Benda_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Benda_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-52-p3s2w27">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 </w.rf>
 <form>ČSSD</form>
 <tag>
-<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;m_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSSD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -841,7 +841,7 @@
 <LM>w#w-ln94202-52-p3s3w6</LM>
 </w.rf>
 <form>Zeman</form>
-<tag lemma="Zeman_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zeman_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-52-p3s3w7">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-ln94202-52-p3s3w10</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-52-p3s3w11">
 <src.rf>manual</src.rf>

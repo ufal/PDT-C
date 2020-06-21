@@ -104,8 +104,8 @@
 </w.rf>
 <form>tes</form>
 <tag>
-<AM lemma="tes-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tes-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tes-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tes-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-036-p3s1w4">
@@ -284,7 +284,7 @@
 <LM>w#w-lnd92256-036-p3s3w2</LM>
 </w.rf>
 <form>Urban</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-036-p3s3w3">
 <src.rf>manual</src.rf>

@@ -247,7 +247,7 @@
 <LM>w#w-mf930708-125-p3s1w1</LM>
 </w.rf>
 <form>SPORTKA</form>
-<tag lemma="Sportka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sportka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-125-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1369,7 +1369,7 @@
 <LM>w#w-mf930708-125-p5s1w1</LM>
 </w.rf>
 <form>MATES</form>
-<tag lemma="Mates_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mates_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-125-p5s1w2">
 <src.rf>manual</src.rf>

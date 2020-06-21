@@ -36,7 +36,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -96,7 +96,7 @@
 <LM>w#w-ln94209-14-p2s1Aw3</LM>
 </w.rf>
 <form>gag</form>
-<tag lemma="gag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="gag-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94209-14-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -113,8 +113,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s1Aw6">
@@ -174,7 +174,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -321,8 +321,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s1Bw24">
@@ -470,7 +470,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -553,7 +553,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -621,7 +621,7 @@
 <LM>w#w-ln94209-14-p2s3w5</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-14-p2s3w6">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -825,7 +825,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1022,7 +1022,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1067,7 +1067,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1166,7 +1166,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1257,7 +1257,7 @@
 </w.rf>
 <form>MiG</form>
 <tag>
-<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1293,7 +1293,7 @@
 <LM>w#w-ln94209-14-p2s6w1</LM>
 </w.rf>
 <form>Nekvasil</form>
-<tag lemma="Nekvasil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekvasil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-14-p2s6w2">
 <src.rf>manual</src.rf>

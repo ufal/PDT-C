@@ -30,7 +30,7 @@
 <LM>w#w-lnd92254-047-p1s1w2</LM>
 </w.rf>
 <form>BAREŠOVI</form>
-<tag lemma="Barešův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Barešův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 </s>
 <s id="m-lnd92254-047-p2s1">
@@ -50,7 +50,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-047-p2s1w3">
@@ -67,7 +67,7 @@
 <LM>w#w-lnd92254-047-p2s1w4</LM>
 </w.rf>
 <form>Obziny</form>
-<tag lemma="Obzina_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Obzina_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92254-047-p3s1">
@@ -93,7 +93,7 @@
 <LM>w#w-lnd92254-047-p3s1w3</LM>
 </w.rf>
 <form>jk</form>
-<tag lemma="jk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jk-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92254-047-p3s1w4">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-lnd92254-047-p3s1w10</LM>
 </w.rf>
 <form>Barešových</form>
-<tag lemma="Barešův_;S_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Barešův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-lnd92254-047-p3s1w11">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-lnd92254-047-p3s1w25</LM>
 </w.rf>
 <form>Obzina</form>
-<tag lemma="Obzina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Obzina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-047-p3s1w26">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-lnd92254-047-p3s2w30</LM>
 </w.rf>
 <form>Barešů</form>
-<tag lemma="Bareš_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Bareš_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-047-p3s2w31">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-lnd92254-047-p3s3w2</LM>
 </w.rf>
 <form>Obzina</form>
-<tag lemma="Obzina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Obzina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-047-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1049,8 +1049,8 @@
 </w.rf>
 <form>NSR</form>
 <tag>
-<AM lemma="NSR_;G" src="orig">NNFSX-----A----</AM>
-<AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="NSR_;G" src="orig">NNFXX-----A----</AM>
+<AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="NSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1136,7 +1136,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-047-p3s5w6">
@@ -1153,7 +1153,7 @@
 <LM>w#w-lnd92254-047-p3s5w7</LM>
 </w.rf>
 <form>Obzina</form>
-<tag lemma="Obzina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Obzina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-047-p3s5w8">
 <src.rf>manual</src.rf>

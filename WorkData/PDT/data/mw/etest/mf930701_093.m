@@ -433,7 +433,7 @@
 <LM>w#w-mf930701-093-p2s4w3</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-093-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1945,8 +1945,8 @@
 </w.rf>
 <form>Linhart</form>
 <tag>
-<AM lemma="Linhart_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Linhart_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Linhart_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Linhart_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-093-p2s16w5">
@@ -1955,7 +1955,7 @@
 <LM>w#w-mf930701-093-p2s16w5</LM>
 </w.rf>
 <form>Coufal</form>
-<tag lemma="Coufal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Coufal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-093-p2s16w6">
 <src.rf>manual</src.rf>
@@ -2321,7 +2321,7 @@
 <LM>w#w-mf930701-093-p2s19w3</LM>
 </w.rf>
 <form>Bystroně</form>
-<tag lemma="Bystroň_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bystroň_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-093-p2s19w4">
 <src.rf>manual</src.rf>

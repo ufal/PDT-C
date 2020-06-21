@@ -310,7 +310,7 @@
 </w.rf>
 <form>NKVD</form>
 <tag>
-<AM lemma="NKVD-1_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NKVD-1_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NKVD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

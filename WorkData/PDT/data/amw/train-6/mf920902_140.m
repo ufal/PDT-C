@@ -251,11 +251,11 @@
 </w.rf>
 <form>Trud</form>
 <tag>
-<AM lemma="Trud-2_;R_^(noviny)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Trud-2_;m_^(noviny)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Trud-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Trud-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trud_;R_^(noviny)" src="auto" selected="1">NNIS1-----A----</AM>
-<AM lemma="Trud_;R_^(noviny)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trud_;m_^(noviny)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Trud_;m_^(noviny)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Truda_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="trud_,a_^(zármutek;;námaha;;zánětlivý_pupínek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="trud_,a_^(zármutek;;námaha;;zánětlivý_pupínek)" src="auto">NNIS4-----A----</AM>
@@ -722,7 +722,7 @@
 <LM>w#w-mf920902-140-p2s6w10</LM>
 </w.rf>
 <form>leva</form>
-<tag lemma="leva_;b_^(bulh._měna)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="leva_^(bulh._měna)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920902-140-p2s6w11">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-mf920902-140-p2s7w13</LM>
 </w.rf>
 <form>leva</form>
-<tag lemma="leva_;b_^(bulh._měna)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="leva_^(bulh._měna)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920902-140-p2s7w14">
 <src.rf>manual</src.rf>

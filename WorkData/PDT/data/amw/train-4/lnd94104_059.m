@@ -297,7 +297,7 @@
 <LM>w#w-lnd94104-059-p1s4w2</LM>
 </w.rf>
 <form>Bihozagara</form>
-<tag lemma="Bihozagara_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bihozagara_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-059-p1s4w3">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 </w.rf>
 <form>RPF</form>
 <tag>
-<AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RPF-1_:B_;m_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -485,7 +485,7 @@
 </w.rf>
 <form>RPF</form>
 <tag>
-<AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RPF-1_:B_;m_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -586,8 +586,8 @@
 </w.rf>
 <form>RPF</form>
 <tag>
-<AM lemma="RPF-2_:B_;K_,t_^(Rwandan_Patriotic_Front)" src="orig">NNNXX-----A----</AM>
-<AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="RPF-2_:B_;m_,t_^(Rwandan_Patriotic_Front)" src="orig">NNNXX-----A----</AM>
+<AM lemma="RPF-1_:B_;m_,t_^(Rassemblement_du_Peuple_Francais)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="RPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -805,7 +805,7 @@
 <LM>w#w-lnd94104-059-p1s5w28</LM>
 </w.rf>
 <form>Habyarimany</form>
-<tag lemma="Habyarimana_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Habyarimana_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-059-p1s5w29">
 <src.rf>manual</src.rf>
@@ -855,8 +855,8 @@
 <form>Hutové</form>
 <tag>
 <AM lemma="Hutu_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Hut_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Hut_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Hut_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Hut_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Hutu_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP5-----A---1</AM>
 </tag>
@@ -1095,7 +1095,7 @@
 <LM>w#w-lnd94104-059-p1s7w11</LM>
 </w.rf>
 <form>Butare</form>
-<tag lemma="Butare_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Butare_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94104-059-p1s7w12">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 </w.rf>
 <form>MVČK</form>
 <tag>
-<AM lemma="MVČK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MVČK_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MVČK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1593,7 +1593,7 @@
 <LM>w#w-lnd94104-059-p1s10w5</LM>
 </w.rf>
 <form>Perry</form>
-<tag lemma="Perry_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perry_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-059-p1s10w6">
 <src.rf>manual</src.rf>
@@ -1657,7 +1657,7 @@
 <LM>w#w-lnd94104-059-p1s10w13</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-lnd94104-059-p1s10w14">
 <src.rf>manual</src.rf>
@@ -1928,7 +1928,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

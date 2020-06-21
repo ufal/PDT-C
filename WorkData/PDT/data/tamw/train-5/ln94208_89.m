@@ -74,7 +74,7 @@
 <LM>w#w-ln94208-89-p2s1Bw2</LM>
 </w.rf>
 <form>Hartman</form>
-<tag lemma="Hartman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hartman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-89-p2s1C">
@@ -1725,7 +1725,7 @@
 <LM>w#w-ln94208-89-p3s2w33</LM>
 </w.rf>
 <form>Poláková</form>
-<tag lemma="Poláková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poláková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-89-p3s2w34">
 <src.rf>manual</src.rf>
@@ -2418,7 +2418,7 @@
 <LM>w#w-ln94208-89-p3s7w3</LM>
 </w.rf>
 <form>EKULT</form>
-<tag lemma="EKULT_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag lemma="EKULT_:B_;m" src="orig" selected="1">NNIXX-----A---8</tag>
 </m>
 <m id="m-ln94208-89-p3s7w4">
 <src.rf>manual</src.rf>

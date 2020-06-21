@@ -19,7 +19,7 @@
 <LM>w#w-cmpr9406-064-p5s1w1</LM>
 </w.rf>
 <form>Lucernafilm</form>
-<tag lemma="Lucernafilm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lucernafilm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-064-p6s1">
@@ -29,7 +29,7 @@
 <LM>w#w-cmpr9406-064-p6s1w1</LM>
 </w.rf>
 <form>Lucernafilm</form>
-<tag lemma="Lucernafilm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lucernafilm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p6s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9406-064-p6s1w7</LM>
 </w.rf>
 <form>Lucernafilm</form>
-<tag lemma="Lucernafilm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lucernafilm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p6s1w8">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-cmpr9406-064-p8s1w2</LM>
 </w.rf>
 <form>Zajkr</form>
-<tag lemma="Zajkr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zajkr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p8s1w3">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-cmpr9406-064-p8s1w5</LM>
 </w.rf>
 <form>Kříž</form>
-<tag lemma="Kříž_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kříž_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-064-p10s1">
@@ -421,7 +421,7 @@
 <LM>w#w-cmpr9406-064-p10s2w3</LM>
 </w.rf>
 <form>Lucernafilmu</form>
-<tag lemma="Lucernafilm_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Lucernafilm_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p10s2w4">
 <src.rf>manual</src.rf>
@@ -462,8 +462,8 @@
 </w.rf>
 <form>Gaumontem</form>
 <tag>
-<AM lemma="Gaumont-2_;K" src="orig" selected="1">NNIS7-----A----</AM>
-<AM lemma="Gaumont_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Gaumont-2_;m" src="orig" selected="1">NNIS7-----A----</AM>
+<AM lemma="Gaumont_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-064-p10s2w9">
@@ -627,8 +627,8 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-2_:B_;K_^(AB_Barandov)" src="orig">NNXXX-----A---8</AM>
-<AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AB-2_:B_;m_^(AB_Barandov)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AB_:B_;m_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
 <AM lemma="AB-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -818,7 +818,7 @@
 <LM>w#w-cmpr9406-064-p10s4w5</LM>
 </w.rf>
 <form>Lucernafilm</form>
-<tag lemma="Lucernafilm_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Lucernafilm_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p10s4w6">
 <src.rf>manual</src.rf>
@@ -949,9 +949,9 @@
 </w.rf>
 <form>Gaumontu</form>
 <tag>
-<AM lemma="Gaumont-2_;K" src="orig" selected="1">NNIS2-----A----</AM>
-<AM lemma="Gaumont_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Gaumont_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Gaumont-2_;m" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Gaumont_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Gaumont_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-064-p10s5w5">
@@ -1100,9 +1100,9 @@
 </w.rf>
 <form>Losey</form>
 <tag>
-<AM lemma="Losey_;S" src="orig" selected="1">NNMXX-----A----</AM>
-<AM lemma="Losey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Losey_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Losey_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Losey_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Losey_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-064-p11s1w7">
@@ -1367,7 +1367,7 @@
 <LM>w#w-cmpr9406-064-p11s1w39</LM>
 </w.rf>
 <form>Mozartova</form>
-<tag lemma="Mozartův_;S_^(*2)" src="orig" selected="1">AUMS4M---------</tag>
+<tag lemma="Mozartův_;Y_^(*2)" src="orig" selected="1">AUMS4M---------</tag>
 </m>
 <m id="m-cmpr9406-064-p11s1w40">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-cmpr9406-064-p12s1w27</LM>
 </w.rf>
 <form>Fischer</form>
-<tag lemma="Fischer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fischer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p12s1w28">
 <src.rf>manual</src.rf>
@@ -2327,7 +2327,7 @@
 <LM>w#w-cmpr9406-064-p14s1w1</LM>
 </w.rf>
 <form>Loseyho</form>
-<tag lemma="Losey_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Losey_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p14s1w2">
 <src.rf>manual</src.rf>
@@ -2605,7 +2605,7 @@
 <LM>w#w-cmpr9406-064-p14s2w19</LM>
 </w.rf>
 <form>Formanově</form>
-<tag lemma="Formanův-1_;S_^(*4-1)" src="auto" selected="1">AUMS6M---------</tag>
+<tag lemma="Formanův-1_;Y_^(*4-1)" src="auto" selected="1">AUMS6M---------</tag>
 </m>
 <m id="m-cmpr9406-064-p14s2w20">
 <src.rf>manual</src.rf>
@@ -3345,7 +3345,7 @@
 <LM>w#w-cmpr9406-064-p14s4w32</LM>
 </w.rf>
 <form>Loseyho</form>
-<tag lemma="Losey_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Losey_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p14s4w33">
 <src.rf>manual</src.rf>

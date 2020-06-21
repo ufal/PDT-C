@@ -62,7 +62,7 @@
 </w.rf>
 <form>Springer</form>
 <tag>
-<AM lemma="Springer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Springer_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Springer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -95,7 +95,7 @@
 <LM>w#w-ln94205-69-p2s1Bw2</LM>
 </w.rf>
 <form>Janáček</form>
-<tag lemma="Janáček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janáček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-69-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94205-69-p2s1Bw5</LM>
 </w.rf>
 <form>Imrych</form>
-<tag lemma="Imrych_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Imrych_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-69-p2s1C">
@@ -564,7 +564,7 @@
 <LM>w#w-ln94205-69-p2s3w7</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-69-p2s3w8">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <form>Romanem</form>
 <tag>
 <AM lemma="Roman_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Roman_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-69-p2s3w20">
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln94205-69-p3s1w34</LM>
 </w.rf>
 <form>Tigridův</form>
-<tag lemma="Tigridův-1_;S_^(*4-1)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Tigridův-1_;Y_^(*4-1)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94205-69-p3s1w35">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <form>Roman</form>
 <tag>
 <AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Roman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-69-p4s4w3">
@@ -1932,7 +1932,7 @@
 <LM>w#w-ln94205-69-p4s4w10</LM>
 </w.rf>
 <form>Tigrid</form>
-<tag lemma="Tigrid-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tigrid-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-69-p4s4w11">
 <src.rf>manual</src.rf>
@@ -2304,7 +2304,7 @@
 <form>Roman</form>
 <tag>
 <AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Roman_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-69-p4s5w17">

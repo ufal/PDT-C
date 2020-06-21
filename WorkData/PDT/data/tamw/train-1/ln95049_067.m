@@ -155,7 +155,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walensou</form>
-<tag lemma="Walensa_;S_^(Lech_Walesa)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Walensa_;Y_^(Lech_Walesa)" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-067-p2s2w10">
 <src.rf>manual</src.rf>
@@ -182,11 +182,11 @@
 </w.rf>
 <form>Kwasniewski</form>
 <tag>
-<AM lemma="Kwasniewský_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Kwašniewský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Kwašniewský_;S" src="auto">NNMS5-----A---1</AM>
-<AM lemma="Kwasniewski_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kwasniewski_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Kwasniewský_;Y" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Kwašniewský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Kwašniewský_;Y" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Kwasniewski_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kwasniewski_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-067-p3s1Aw3">
@@ -868,7 +868,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -879,7 +879,7 @@
 </w.rf>
 <form>Monde</form>
 <tag>
-<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde_;m_^(Le_Monde)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1103,7 +1103,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševiče</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-067-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <LM>w#w-ln95049-067-p5s2w12</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-067-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1892,8 +1892,8 @@
 </w.rf>
 <form>Hain</form>
 <tag>
-<AM lemma="Hain_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hain_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hain_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hain_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-067-p6s1Aw6">
@@ -1902,7 +1902,7 @@
 <LM>w#w-ln95049-067-p6s1Aw6</LM>
 </w.rf>
 <form>Rebas</form>
-<tag lemma="Rebas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rebas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95049-067-p6s1B">
@@ -2177,8 +2177,8 @@
 </w.rf>
 <form>Meissner</form>
 <tag>
-<AM lemma="Meissne_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Meissner_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Meissne_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Meissner_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2955,8 +2955,8 @@
 </w.rf>
 <form>W</form>
 <tag>
-<AM lemma="W-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-067-p9s1w5">
@@ -3307,7 +3307,7 @@
 <LM>w#w-ln95049-067-p10s1Aw3</LM>
 </w.rf>
 <form>Nelliyotukonam</form>
-<tag lemma="Nelliyotukonam_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nelliyotukonam_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-067-p10s1Aw4">
 <src.rf>manual</src.rf>
@@ -3343,7 +3343,7 @@
 </w.rf>
 <form>Bosco</form>
 <tag>
-<AM lemma="Bosco_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bosco_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Bosco-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3354,7 +3354,7 @@
 </w.rf>
 <form>Social</form>
 <tag>
-<AM lemma="Social_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Social_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Social-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3365,7 +3365,7 @@
 </w.rf>
 <form>Service</form>
 <tag>
-<AM lemma="Service_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Service_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="servis" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="service__,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Service-77" src="manual" selected="1">F%-------------</AM>
@@ -3552,7 +3552,7 @@
 <LM>w#w-ln95049-067-p11s1w2</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-067-p11s1w3">
 <src.rf>manual</src.rf>
@@ -3610,7 +3610,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

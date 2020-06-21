@@ -232,7 +232,7 @@
 <LM>w#w-cmpr9407-043-p3s1Aw22</LM>
 </w.rf>
 <form>Budweiserová</form>
-<tag lemma="Budweiserová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Budweiserová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-043-p3s1Aw23">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-cmpr9407-043-p3s3Aw9</LM>
 </w.rf>
 <form>Horynových</form>
-<tag lemma="Horynův_;S_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Horynův_;Y_^(*2a)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-cmpr9407-043-p3s3Aw10">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-cmpr9407-043-p3s3Cw3</LM>
 </w.rf>
 <form>Supraphon</form>
-<tag lemma="Supraphon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Supraphon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-043-p3s3Cw4">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-cmpr9407-043-p3s5Bw14</LM>
 </w.rf>
 <form>Kefurt</form>
-<tag lemma="Kefurt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kefurt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-043-p3s5Bw15">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-cmpr9407-043-p3s5Cw3</LM>
 </w.rf>
 <form>ŠIMŮNEK</form>
-<tag lemma="Šimůnek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimůnek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-043-p3s5Cw4">
 <src.rf>manual</src.rf>

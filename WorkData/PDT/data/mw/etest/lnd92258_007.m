@@ -1925,8 +1925,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-007-p3s4w10">
@@ -2803,7 +2803,7 @@
 <LM>w#w-lnd92258-007-p4s2w51</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-007-p4s2w52">
 <src.rf>manual</src.rf>
@@ -2971,12 +2971,12 @@
 </w.rf>
 <form>KRASNICKÝ</form>
 <tag>
-<AM lemma="Krasnický_;S" src="orig">AAMS1----1A----</AM>
-<AM lemma="Krasnický_;S" src="auto">NNMP1-----A---6</AM>
-<AM lemma="Krasnický_;S" src="auto">NNMP4-----A---6</AM>
-<AM lemma="Krasnický_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Krasnický_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Krasnický_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Krasnický_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Krasnický_;Y" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Krasnický_;Y" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Krasnický_;Y" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Krasnický_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krasnický_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="krasnický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="krasnický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="krasnický" src="auto">AAFP5----1A---6</AM>

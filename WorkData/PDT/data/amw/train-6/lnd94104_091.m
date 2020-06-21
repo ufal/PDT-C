@@ -81,7 +81,7 @@
 <LM>w#w-lnd94104-091-p1s1Bw5</LM>
 </w.rf>
 <form>Reynka</form>
-<tag lemma="Reynek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Reynek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -98,10 +98,10 @@
 </w.rf>
 <form>Teiga</form>
 <tag>
-<AM lemma="Teige_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Teig_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Teig_;S" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Teige_;S" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="Teige_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Teig_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Teig_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Teige_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -160,7 +160,7 @@
 <LM>w#w-lnd94104-091-p1s1Dw7</LM>
 </w.rf>
 <form>Klímou</form>
-<tag lemma="Klíma_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klíma_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s1Dw8">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-lnd94104-091-p1s5w14</LM>
 </w.rf>
 <form>Reynka</form>
-<tag lemma="Reynek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reynek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s5w15">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-lnd94104-091-p1s5w24</LM>
 </w.rf>
 <form>Chlíbcová</form>
-<tag lemma="Chlíbcová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chlíbcová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s5w25">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-lnd94104-091-p1s6w8</LM>
 </w.rf>
 <form>Bajaji</form>
-<tag lemma="Bajaja_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bajaja_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s6w9">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-lnd94104-091-p1s6w11</LM>
 </w.rf>
 <form>Rotrekla</form>
-<tag lemma="Rotrekl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rotrekl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s6w12">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-lnd94104-091-p1s7w21</LM>
 </w.rf>
 <form>Jílková</form>
-<tag lemma="Jílková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jílková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s7w22">
 <src.rf>manual</src.rf>
@@ -1554,10 +1554,10 @@
 </w.rf>
 <form>Teiga</form>
 <tag>
-<AM lemma="Teige_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Teig_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Teig_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Teige_;S" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Teige_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Teig_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Teig_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Teige_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s8Bw17">
@@ -1673,10 +1673,10 @@
 </w.rf>
 <form>Teiga</form>
 <tag>
-<AM lemma="Teige_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Teig_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Teig_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Teige_;S" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Teige_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Teig_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Teig_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Teige_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s9w3">
@@ -1701,7 +1701,7 @@
 <LM>w#w-lnd94104-091-p1s9w5</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s9w6">
 <src.rf>manual</src.rf>
@@ -1773,7 +1773,7 @@
 <LM>w#w-lnd94104-091-p1s9w14</LM>
 </w.rf>
 <form>Rotrekl</form>
-<tag lemma="Rotrekl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rotrekl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s9w15">
 <src.rf>manual</src.rf>
@@ -1805,7 +1805,7 @@
 <LM>w#w-lnd94104-091-p1s9w18</LM>
 </w.rf>
 <form>Pistorius</form>
-<tag lemma="Pistorius_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pistorius_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s9w19">
 <src.rf>manual</src.rf>
@@ -2103,7 +2103,7 @@
 <LM>w#w-lnd94104-091-p1s10w26</LM>
 </w.rf>
 <form>Jílková</form>
-<tag lemma="Jílková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jílková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s10w27">
 <src.rf>manual</src.rf>
@@ -2381,7 +2381,7 @@
 <LM>w#w-lnd94104-091-p1s11Cw3</LM>
 </w.rf>
 <form>Teige</form>
-<tag lemma="Teige_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Teige_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s11Cw4">
 <src.rf>manual</src.rf>
@@ -2553,7 +2553,7 @@
 <LM>w#w-lnd94104-091-p1s11Cw24</LM>
 </w.rf>
 <form>Jelínka</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-091-p1s11Cw25">
 <src.rf>manual</src.rf>
@@ -2570,8 +2570,8 @@
 </w.rf>
 <form>TORST</form>
 <tag>
-<AM lemma="Torst_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Torst_;S_;K" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Torst_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Torst_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s11Cw27">
@@ -2767,8 +2767,8 @@
 </w.rf>
 <form>Thyrsus</form>
 <tag>
-<AM lemma="Thyrsus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Thyrsus_;K" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Thyrsus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Thyrsus_;m" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s12Aw19">
@@ -2836,7 +2836,7 @@
 </w.rf>
 <form>pal</form>
 <tag>
-<AM lemma="pal-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pal-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pálit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="pálit" src="auto">Vi-S---3--A-I-4</AM>
 </tag>

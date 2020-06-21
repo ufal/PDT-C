@@ -28,8 +28,8 @@
 </w.rf>
 <form>vav</form>
 <tag>
-<AM lemma="vav-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vav-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vav-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vav-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-022-p1s1w3">
@@ -55,7 +55,7 @@
 </w.rf>
 <form>Zbroj</form>
 <tag>
-<AM lemma="Zbroj_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zbroj_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="zbroj" src="auto">NNFS1-----A----</AM>
 <AM lemma="zbroj" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="zbrojit" src="auto">Vi-S---2--A-I--</AM>
@@ -126,7 +126,7 @@
 <LM>w#w-ln95049-022-p2s1Aw3</LM>
 </w.rf>
 <form>Jarábek</form>
-<tag lemma="Jarábek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jarábek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -158,7 +158,7 @@
 <LM>w#w-ln95049-022-p2s1Aw7</LM>
 </w.rf>
 <form>Siegla</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <LM>w#w-ln95049-022-p2s1Aw13</LM>
 </w.rf>
 <form>Šilhavého</form>
-<tag lemma="Šilhavý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šilhavý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s1Aw14">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <LM>w#w-ln95049-022-p2s1Aw15</LM>
 </w.rf>
 <form>Šlachty</form>
-<tag lemma="Šlachta_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šlachta_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95049-022-p2s1B">
@@ -249,8 +249,8 @@
 </w.rf>
 <form>šv</form>
 <tag>
-<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šv-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-022-p2s1Bw4">
@@ -423,7 +423,7 @@
 <LM>w#w-ln95049-022-p2s2w4</LM>
 </w.rf>
 <form>Jarábkovi</form>
-<tag lemma="Jarábek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Jarábek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s2w5">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln95049-022-p2s2w21</LM>
 </w.rf>
 <form>Siegla</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s2w22">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-ln95049-022-p2s2w33</LM>
 </w.rf>
 <form>Šilhavý</form>
-<tag lemma="Šilhavý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šilhavý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s2w34">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-ln95049-022-p2s2w35</LM>
 </w.rf>
 <form>Šlachtou</form>
-<tag lemma="Šlachta_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Šlachta_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s2w36">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-ln95049-022-p2s3w1</LM>
 </w.rf>
 <form>Siegl</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s3w2">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-ln95049-022-p2s3w8</LM>
 </w.rf>
 <form>Šilhavý</form>
-<tag lemma="Šilhavý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šilhavý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s3w9">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 <LM>w#w-ln95049-022-p2s4w13</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1073,7 +1073,7 @@
 <LM>w#w-ln95049-022-p2s5w7</LM>
 </w.rf>
 <form>Šlachtovi</form>
-<tag lemma="Šlachta_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Šlachta_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-022-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-ln95049-022-p3s1w7</LM>
 </w.rf>
 <form>Sundermanna</form>
-<tag lemma="Sundermann_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sundermann_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-022-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1439,7 +1439,7 @@
 <LM>w#w-ln95049-022-p3s3w12</LM>
 </w.rf>
 <form>Siegl</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-ln95049-022-p3s4w9</LM>
 </w.rf>
 <form>Legierský</form>
-<tag lemma="Legierský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Legierský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <LM>w#w-ln95049-022-p3s4w14</LM>
 </w.rf>
 <form>Svatoňský</form>
-<tag lemma="Svatoňský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svatoňský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-ln95049-022-p3s5w10</LM>
 </w.rf>
 <form>Siegl</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1807,7 +1807,7 @@
 </w.rf>
 <form>Zbroj</form>
 <tag>
-<AM lemma="Zbroj_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zbroj_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="zbroj" src="auto">NNFS1-----A----</AM>
 <AM lemma="zbroj" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="zbrojit" src="auto">Vi-S---2--A-I--</AM>
@@ -1990,7 +1990,7 @@
 <LM>w#w-ln95049-022-p4s1w5</LM>
 </w.rf>
 <form>Baníku</form>
-<tag lemma="Baník_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Baník_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-022-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1998,7 +1998,7 @@
 <LM>w#w-ln95049-022-p4s1w6</LM>
 </w.rf>
 <form>Bernadymu</form>
-<tag lemma="Bernady_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Bernady_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-022-p4s1w7">
 <src.rf>manual</src.rf>
@@ -2046,7 +2046,7 @@
 <LM>w#w-ln95049-022-p4s1w12</LM>
 </w.rf>
 <form>Sieglovi</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-022-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2280,7 +2280,7 @@
 <LM>w#w-ln95049-022-p4s2w10</LM>
 </w.rf>
 <form>Svobodou</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-022-p4s2w11">
 <src.rf>manual</src.rf>
@@ -2474,7 +2474,7 @@
 <LM>w#w-ln95049-022-p4s3w16</LM>
 </w.rf>
 <form>Siegl</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p4s3w17">
 <src.rf>manual</src.rf>
@@ -2761,7 +2761,7 @@
 <LM>w#w-ln95049-022-p5s2w4</LM>
 </w.rf>
 <form>Slavia</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95049-022-p5s2w5">
 <src.rf>manual</src.rf>
@@ -2995,7 +2995,7 @@
 <LM>w#w-ln95049-022-p5s3w16</LM>
 </w.rf>
 <form>Siegl</form>
-<tag lemma="Siegl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Siegl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-022-p5s3w17">
 <src.rf>manual</src.rf>

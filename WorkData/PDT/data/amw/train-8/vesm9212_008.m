@@ -80,7 +80,7 @@
 <LM>w#w-vesm9212-008-p2s1w2</LM>
 </w.rf>
 <form>JONÁK</form>
-<tag lemma="Jonák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jonák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-008-p3s1">
@@ -163,9 +163,9 @@
 </w.rf>
 <form>Time</form>
 <tag>
-<AM lemma="Time_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Time_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="time_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="time_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Time-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -211,7 +211,7 @@
 </w.rf>
 <form>Luc</form>
 <tag>
-<AM lemma="Luc_;Y_,t" src="orig">NNMSX-----A----</AM>
+<AM lemma="Luc_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Luc_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Luca_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Luc_;Y" src="manual" selected="1">NNMXX-----A----</AM>
@@ -223,7 +223,7 @@
 <LM>w#w-vesm9212-008-p3s1w16</LM>
 </w.rf>
 <form>Montagnierovi</form>
-<tag lemma="Montagnier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Montagnier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-008-p3s1w17">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -853,7 +853,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -916,7 +916,7 @@
 <LM>w#w-vesm9212-008-p3s4w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-008-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1343,8 +1343,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual">NNXXX-----A----</AM>
 <AM lemma="DNA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1387,7 +1387,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1529,7 +1529,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1616,9 +1616,9 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD" src="orig">NNNXX-----A----</AM>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="CD-2_:B_;b_,t_^(Cash_Deposit)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="kadmium_:B_;H_,t" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="CD-2_:B_,t_^(Cash_Deposit)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="kadmium_:B_;U_,t" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CD-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
@@ -1798,7 +1798,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2522,7 +2522,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3020,7 +3020,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3098,7 +3098,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p4s1w9">
@@ -3115,7 +3115,7 @@
 <LM>w#w-vesm9212-008-p4s1w10</LM>
 </w.rf>
 <form>Montagniera</form>
-<tag lemma="Montagnier_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Montagnier_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9212-008-p4s1w11">
 <src.rf>manual</src.rf>
@@ -3386,7 +3386,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p4s3w7">
@@ -3403,7 +3403,7 @@
 <LM>w#w-vesm9212-008-p4s3w8</LM>
 </w.rf>
 <form>Montagnier</form>
-<tag lemma="Montagnier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Montagnier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-008-p4s3w9">
 <src.rf>manual</src.rf>
@@ -3530,7 +3530,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3655,7 +3655,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4052,7 +4052,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p5s3w6">
@@ -4069,7 +4069,7 @@
 <LM>w#w-vesm9212-008-p5s3w7</LM>
 </w.rf>
 <form>Montagnier</form>
-<tag lemma="Montagnier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Montagnier_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-008-p5s3w8">
 <src.rf>manual</src.rf>
@@ -4182,7 +4182,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4302,9 +4302,9 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="L-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="orig">Q3-------------</AM>
+<AM lemma="L-33" src="manual">Q3-------------</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p5s4w6">
@@ -4703,9 +4703,9 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="M-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="M-33" src="orig">Q3-------------</AM>
+<AM lemma="M-33" src="manual">Q3-------------</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p5s7w11">
@@ -4973,7 +4973,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5030,7 +5030,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p5s9w3">
@@ -5047,7 +5047,7 @@
 <LM>w#w-vesm9212-008-p5s9w4</LM>
 </w.rf>
 <form>Montagniera</form>
-<tag lemma="Montagnier_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Montagnier_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-008-p5s9w5">
 <src.rf>manual</src.rf>
@@ -5088,9 +5088,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p5s9w10">
@@ -5238,7 +5238,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5308,7 +5308,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p5s11w4">
@@ -5325,7 +5325,7 @@
 <LM>w#w-vesm9212-008-p5s11w5</LM>
 </w.rf>
 <form>Montagniera</form>
-<tag lemma="Montagnier_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Montagnier_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-008-p5s11w6">
 <src.rf>manual</src.rf>
@@ -5580,9 +5580,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-008-p5s12w13">
@@ -5810,7 +5810,7 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HIV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

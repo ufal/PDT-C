@@ -297,7 +297,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-035-p1s3w5">
@@ -314,7 +314,7 @@
 <LM>w#w-lnd92259-035-p1s3w6</LM>
 </w.rf>
 <form>Balsay</form>
-<tag lemma="Balsay_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balsay_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-035-p1s3w7">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-035-p2s1w21">
@@ -791,7 +791,7 @@
 </w.rf>
 <form>RE</form>
 <tag>
-<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE_:B_;m_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -819,7 +819,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-035-p2s3w9">
@@ -968,7 +968,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-035-p3s1w11">
@@ -985,7 +985,7 @@
 <LM>w#w-lnd92259-035-p3s1w12</LM>
 </w.rf>
 <form>Mutalibova</form>
-<tag lemma="Mutalibov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mutalibov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92259-035-p3s1w13">
 <src.rf>manual</src.rf>

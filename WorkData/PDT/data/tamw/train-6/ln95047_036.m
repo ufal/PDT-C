@@ -19,7 +19,7 @@
 <LM>w#w-ln95047-036-p1s1w1</LM>
 </w.rf>
 <form>Sakala</form>
-<tag lemma="Sakala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sakala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-036-p1s1w2">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln95047-036-p2s1Bw19</LM>
 </w.rf>
 <form>Prost</form>
-<tag lemma="Prost-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prost-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-036-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
@@ -331,7 +331,7 @@
 <LM>w#w-ln95047-036-p2s2w6</LM>
 </w.rf>
 <form>Sakalovi</form>
-<tag lemma="Sakala_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Sakala_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95047-036-p2s2w7">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-ln95047-036-p2s3w6</LM>
 </w.rf>
 <form>Sucháček</form>
-<tag lemma="Sucháček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sucháček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-036-p2s3w7">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-ln95047-036-p2s3w10</LM>
 </w.rf>
 <form>Prostem</form>
-<tag lemma="Prost-1_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Prost-1_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95047-036-p2s3w11">
 <src.rf>manual</src.rf>

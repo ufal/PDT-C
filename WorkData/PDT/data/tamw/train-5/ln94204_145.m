@@ -111,7 +111,7 @@
 <LM>w#w-ln94204-145-p2s1Bw2</LM>
 </w.rf>
 <form>Goclowski</form>
-<tag lemma="Goclowski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Goclowski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-145-p2s1C">
@@ -122,7 +122,7 @@
 </w.rf>
 <form>Gazeta</form>
 <tag>
-<AM lemma="Gazeta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazeta_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Gazeta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -133,7 +133,7 @@
 </w.rf>
 <form>Wyborcza</form>
 <tag>
-<AM lemma="Wyborcza_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Wyborcza_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Wyborcza-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -178,7 +178,7 @@
 </w.rf>
 <form>MTV</form>
 <tag>
-<AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MTV-1_:B_;m_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -288,8 +288,8 @@
 </w.rf>
 <form>EB</form>
 <tag>
-<AM lemma="EB-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EB-2_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EB-1_:B_;m_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -376,7 +376,7 @@
 </w.rf>
 <form>Top</form>
 <tag>
-<AM lemma="Top_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Top_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="top-1_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="top-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="top-2" src="auto">NNIS4-----A----</AM>
@@ -393,8 +393,8 @@
 </w.rf>
 <form>canal</form>
 <tag>
-<AM lemma="canal_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="canal_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="canal_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="canal_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="canal_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="canal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -472,7 +472,7 @@
 </w.rf>
 <form>SA</form>
 <tag>
-<AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -612,7 +612,7 @@
 <LM>w#w-ln94204-145-p3s1w13</LM>
 </w.rf>
 <form>Burnett</form>
-<tag lemma="Burnett_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burnett_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p3s1w14">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -752,7 +752,7 @@
 </w.rf>
 <form>MTV</form>
 <tag>
-<AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MTV-1_:B_;m_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="MTV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -770,7 +770,7 @@
 <LM>w#w-ln94204-145-p3s2w10</LM>
 </w.rf>
 <form>Molony</form>
-<tag lemma="Molony_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Molony_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p3s2w11">
 <src.rf>manual</src.rf>
@@ -991,8 +991,8 @@
 </w.rf>
 <form>EB</form>
 <tag>
-<AM lemma="EB-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EB-2_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EB-1_:B_;m_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1185,8 +1185,8 @@
 </w.rf>
 <form>EB</form>
 <tag>
-<AM lemma="EB-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
-<AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EB-2_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EB-1_:B_;m_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1728,7 +1728,7 @@
 <LM>w#w-ln94204-145-p6s1w13</LM>
 </w.rf>
 <form>Fromowitz</form>
-<tag lemma="Fromowitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fromowitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1760,7 +1760,7 @@
 <LM>w#w-ln94204-145-p6s1w17</LM>
 </w.rf>
 <form>Burnett</form>
-<tag lemma="Burnett_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burnett_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1850,7 +1850,7 @@
 <LM>w#w-ln94204-145-p7s1w10</LM>
 </w.rf>
 <form>Burnett</form>
-<tag lemma="Burnett_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burnett_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p7s1w11">
 <src.rf>manual</src.rf>
@@ -1981,7 +1981,7 @@
 <LM>w#w-ln94204-145-p7s1w26</LM>
 </w.rf>
 <form>Danowski</form>
-<tag lemma="Danowski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Danowski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p7s1w27">
 <src.rf>manual</src.rf>
@@ -1999,7 +1999,7 @@
 <LM>w#w-ln94204-145-p8s1w1</LM>
 </w.rf>
 <form>Danowski</form>
-<tag lemma="Danowski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Danowski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p8s1w2">
 <src.rf>manual</src.rf>
@@ -2037,7 +2037,7 @@
 <LM>w#w-ln94204-145-p8s1w4</LM>
 </w.rf>
 <form>Burnetta</form>
-<tag lemma="Burnett_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Burnett_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-145-p8s1w5">
 <src.rf>manual</src.rf>
@@ -2410,7 +2410,7 @@
 <LM>w#w-ln94204-145-p8s3w16</LM>
 </w.rf>
 <form>Piwowar</form>
-<tag lemma="Piwowar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Piwowar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p8s3w17">
 <src.rf>manual</src.rf>
@@ -2731,7 +2731,7 @@
 <LM>w#w-ln94204-145-p9s3w17</LM>
 </w.rf>
 <form>Prajsner</form>
-<tag lemma="Prajsner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prajsner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p9s3w18">
 <src.rf>manual</src.rf>
@@ -2757,7 +2757,7 @@
 <LM>w#w-ln94204-145-p10s1w2</LM>
 </w.rf>
 <form>Burnett</form>
-<tag lemma="Burnett_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burnett_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p10s1w3">
 <src.rf>manual</src.rf>
@@ -2806,8 +2806,8 @@
 </w.rf>
 <form>EB</form>
 <tag>
-<AM lemma="EB-2_:B_;K_,t" src="orig">NNMXX-----A---8</AM>
-<AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EB-2_:B_;m_,t" src="orig">NNMXX-----A---8</AM>
+<AM lemma="EB-1_:B_;m_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3138,8 +3138,8 @@
 </w.rf>
 <form>Kolor</form>
 <tag>
-<AM lemma="Kolor_;K" src="orig" selected="1">NNXXX-----A----</AM>
-<AM lemma="Kolora_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Kolor_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kolora_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p10s3w17">
@@ -3159,8 +3159,8 @@
 </w.rf>
 <form>Kolor</form>
 <tag>
-<AM lemma="Kolor_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Kolora_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Kolor_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kolora_;m" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p11s1w2">
@@ -3186,8 +3186,8 @@
 </w.rf>
 <form>EB</form>
 <tag>
-<AM lemma="EB-2_:B_;K_,t" src="orig">NNMXX-----A---8</AM>
-<AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EB-2_:B_;m_,t" src="orig">NNMXX-----A---8</AM>
+<AM lemma="EB-1_:B_;m_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3379,7 +3379,7 @@
 </w.rf>
 <form>RTL</form>
 <tag>
-<AM lemma="RTL-1_:B_;K_;y_^(TV_stanice_Lucembursko)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RTL-1_:B_;m_^(TV_stanice_Lucembursko)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="RTL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3566,9 +3566,9 @@
 </w.rf>
 <form>Górnik</form>
 <tag>
-<AM lemma="Górnik_;K_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="Górnik_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="Górnik_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Górnik_;m_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Górnik_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Górnik_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p12s1Bw28">
@@ -3577,7 +3577,7 @@
 <LM>w#w-ln94204-145-p12s1Bw28</LM>
 </w.rf>
 <form>Zabrze</form>
-<tag lemma="Zabrze_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag lemma="Zabrze_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94204-145-p12s1Bw29">
 <src.rf>manual</src.rf>
@@ -3618,8 +3618,8 @@
 </w.rf>
 <form>EB</form>
 <tag>
-<AM lemma="EB-2_:B_;K_,t" src="orig">NNMXX-----A---8</AM>
-<AM lemma="EB-1_:B_;R_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="EB-2_:B_;m_,t" src="orig">NNMXX-----A---8</AM>
+<AM lemma="EB-1_:B_;m_,t_^(Encyclopaedia_Britannica)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EB_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="EB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3662,7 +3662,7 @@
 <LM>w#w-ln94204-145-p12s1Bw38</LM>
 </w.rf>
 <form>Fromowitz</form>
-<tag lemma="Fromowitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fromowitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p12s1Bw39">
 <src.rf>manual</src.rf>
@@ -3694,7 +3694,7 @@
 <LM>w#w-ln94204-145-p12s1Bw42</LM>
 </w.rf>
 <form>Burnett</form>
-<tag lemma="Burnett_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burnett_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p12s1Bw43">
 <src.rf>manual</src.rf>
@@ -3777,8 +3777,8 @@
 </w.rf>
 <form>Margaret</form>
 <tag>
-<AM lemma="Margaret-2_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Margaret_;Y" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
+<AM lemma="Margaret-2_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Margaret_;Y" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 <AM lemma="Margareta_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="margareta" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -3789,7 +3789,7 @@
 <LM>w#w-ln94204-145-p13s1w10</LM>
 </w.rf>
 <form>Astor</form>
-<tag lemma="Astor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Astor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p13s1w11">
 <src.rf>manual</src.rf>
@@ -4132,7 +4132,7 @@
 <LM>w#w-ln94204-145-p14s1w25</LM>
 </w.rf>
 <form>Fromowitz</form>
-<tag lemma="Fromowitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fromowitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p14s1w26">
 <src.rf>manual</src.rf>
@@ -4239,7 +4239,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Prajsner</form>
-<tag lemma="Prajsmer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prajsmer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-145-p14s2w13">
 <src.rf>manual</src.rf>

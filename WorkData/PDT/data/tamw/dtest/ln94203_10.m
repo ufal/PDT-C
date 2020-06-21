@@ -27,7 +27,7 @@
 <LM>w#w-ln94203-10-p1s1w2</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p1s1w3">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 </w.rf>
 <form>Beatle</form>
 <tag>
-<AM lemma="Beatle_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Beatle_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Beatle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -89,7 +89,7 @@
 <LM>w#w-ln94203-10-p1s1w9</LM>
 </w.rf>
 <form>McCartneyho</form>
-<tag lemma="McCartney_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="McCartney_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94203-10-p2s1">
@@ -115,7 +115,7 @@
 <LM>w#w-ln94203-10-p2s1w3</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p2s1w4">
 <src.rf>manual</src.rf>
@@ -335,13 +335,13 @@
 <form>Beatles</form>
 <tag>
 <AM lemma="Beatles_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP1-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP3-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP4-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP5-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP6-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP7-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP1-----A----</AM>
+<AM lemma="Beatles_;m" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP3-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP4-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP6-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
 <AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -359,7 +359,7 @@
 <LM>w#w-ln94203-10-p2s2w11</LM>
 </w.rf>
 <form>McCartney</form>
-<tag lemma="McCartney_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="McCartney_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p2s2w12">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 </w.rf>
 <form>Tina</form>
 <tag>
-<AM lemma="Tina_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="Tina_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="Tina-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -441,8 +441,8 @@
 </w.rf>
 <form>Turner</form>
 <tag>
-<AM lemma="Turner_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Turner-2_;S" src="manual">NNFXX-----A----</AM>
+<AM lemma="Turner_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Turner-2_;Y" src="manual">NNFXX-----A----</AM>
 <AM lemma="Turner-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -470,7 +470,7 @@
 <form>John</form>
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="John_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p2s3w12">
@@ -509,9 +509,9 @@
 </w.rf>
 <form>Institute</form>
 <tag>
-<AM lemma="Institute_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Institute_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
-<AM lemma="institute_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="institute_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Institute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -534,7 +534,7 @@
 </w.rf>
 <form>Performing</form>
 <tag>
-<AM lemma="Performing_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Performing_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="performing_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Performing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -546,7 +546,7 @@
 </w.rf>
 <form>Arts</form>
 <tag>
-<AM lemma="Art-3_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Art-3_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="arts" src="manual">NNXXX-----A----</AM>
 <AM lemma="arts_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Arts-77" src="manual" selected="1">F%-------------</AM>
@@ -607,15 +607,15 @@
 </w.rf>
 <form>Lipa</form>
 <tag>
-<AM lemma="Lipa_:B_;K_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lipo_;R" src="auto" recommended="1">NNNP1-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
+<AM lemma="Lipa_:B_;m_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lipo_;m" src="auto" recommended="1">NNNP1-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
 <AM lemma="Lipa-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lipa_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p3s1w14">
@@ -664,7 +664,7 @@
 <LM>w#w-ln94203-10-p3s1w19</LM>
 </w.rf>
 <form>Handelsblatt</form>
-<tag lemma="Handelsblatt_;R_^(časopis)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Handelsblatt_;m_^(časopis)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1279,13 +1279,13 @@
 <form>Beatles</form>
 <tag>
 <AM lemma="Beatles_;Y" src="orig">NNIP2-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP1-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP3-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP4-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP5-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP6-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP7-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP1-----A----</AM>
+<AM lemma="Beatles_;m" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP3-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP4-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP5-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP6-----A----</AM>
+<AM lemma="Beatles_;m" src="auto">NNMP7-----A----</AM>
 <AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1436,7 +1436,7 @@
 <LM>w#w-ln94203-10-p4s2w6</LM>
 </w.rf>
 <form>Grundigu</form>
-<tag lemma="Grundig_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Grundig_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-10-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1655,15 +1655,15 @@
 </w.rf>
 <form>Lipa</form>
 <tag>
-<AM lemma="Lipa_:B_;K_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lipo_;R" src="auto" recommended="1">NNNP1-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
+<AM lemma="Lipa_:B_;m_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lipo_;m" src="auto" recommended="1">NNNP1-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
 <AM lemma="Lipa-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lipa_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p5s1w4">
@@ -1964,7 +1964,7 @@
 <LM>w#w-ln94203-10-p5s3w13</LM>
 </w.rf>
 <form>Handelsblattu</form>
-<tag lemma="Handelsblatt_;R_^(časopis)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Handelsblatt_;m_^(časopis)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-10-p5s3w14">
 <src.rf>manual</src.rf>
@@ -2029,7 +2029,7 @@
 </w.rf>
 <form>SWF</form>
 <tag>
-<AM lemma="SWF_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SWF_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SWF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2055,7 +2055,7 @@
 <LM>w#w-ln94203-10-p5s3w24</LM>
 </w.rf>
 <form>Stokkinger</form>
-<tag lemma="Stokkinger_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stokkinger_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p5s3w25">
 <src.rf>manual</src.rf>
@@ -2073,7 +2073,7 @@
 <LM>w#w-ln94203-10-p6s1w1</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2122,11 +2122,11 @@
 </w.rf>
 <form>Lipy</form>
 <tag>
-<AM lemma="Lipa_:B_;K_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS2-----A----</AM>
-<AM lemma="Lipo_;R" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="Lipa_:B_;m_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS2-----A----</AM>
+<AM lemma="Lipo_;m" src="auto" recommended="1">NNNP7-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS2-----A---8</AM>
 <AM lemma="Lipy-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="Lipa_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Lipa_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p6s1w8">
@@ -2669,7 +2669,7 @@
 <LM>w#w-ln94203-10-p7s1w1</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2773,7 +2773,7 @@
 <LM>w#w-ln94203-10-p7s1w14</LM>
 </w.rf>
 <form>McCartneymu</form>
-<tag lemma="McCartney_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="McCartney_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s1w15">
 <src.rf>manual</src.rf>
@@ -3116,7 +3116,7 @@
 <LM>w#w-ln94203-10-p7s3w3</LM>
 </w.rf>
 <form>Grundigu</form>
-<tag lemma="Grundig_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Grundig_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s3w4">
 <src.rf>manual</src.rf>
@@ -3124,7 +3124,7 @@
 <LM>w#w-ln94203-10-p7s3w4</LM>
 </w.rf>
 <form>Holm</form>
-<tag lemma="Holm_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holm_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s3w5">
 <src.rf>manual</src.rf>
@@ -3132,7 +3132,7 @@
 <LM>w#w-ln94203-10-p7s3w5</LM>
 </w.rf>
 <form>Kilbert</form>
-<tag lemma="Kilbert_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kilbert_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s3w6">
 <src.rf>manual</src.rf>
@@ -3228,7 +3228,7 @@
 </w.rf>
 <form>Arts</form>
 <tag>
-<AM lemma="Art-3_;R_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Art-3_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Arts-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3281,14 +3281,14 @@
 </w.rf>
 <form>Lipa</form>
 <tag>
-<AM lemma="Lipa_:B_;K_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lipo_;R" src="auto" recommended="1">NNNP1-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNP4-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNP5-----A----</AM>
-<AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
+<AM lemma="Lipa_:B_;m_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lipo_;m" src="auto" recommended="1">NNNP1-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNP4-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNP5-----A----</AM>
+<AM lemma="Lipo_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
 <AM lemma="Lipa-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lipa_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p7s4w6">
@@ -3383,8 +3383,8 @@
 </w.rf>
 <form>ikr</form>
 <tag>
-<AM lemma="ikr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ikr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ikr-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ikr-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p7s5w3">

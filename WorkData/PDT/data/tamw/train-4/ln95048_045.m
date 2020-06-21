@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-045-p2s2w1</LM>
 </w.rf>
 <form>Jařabův</form>
-<tag lemma="Jařabův_;S_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Jařabův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95048-045-p2s2w2">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-ln95048-045-p2s2w9</LM>
 </w.rf>
 <form>Carverových</form>
-<tag lemma="Carverův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Carverův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln95048-045-p2s2w10">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln95048-045-p2s2w22</LM>
 </w.rf>
 <form>Hrubého</form>
-<tag lemma="Hrubý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hrubý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-045-p2s2w23">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-ln95048-045-p2s2w27</LM>
 </w.rf>
 <form>Argo</form>
-<tag lemma="Argo-1_;K" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Argo-1_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-045-p2s2w28">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-ln95048-045-p2s2w39</LM>
 </w.rf>
 <form>Poea</form>
-<tag lemma="Poe-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Poe-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-045-p2s2w40">
 <src.rf>manual</src.rf>
@@ -374,8 +374,8 @@
 <form>Odeon</form>
 <tag>
 <AM lemma="Odeon_;Y" src="auto">NNIS1-----A----</AM>
-<AM lemma="Odeon_;K" src="manual">NNIS1-----A----</AM>
-<AM lemma="Odeon-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Odeon_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s2w45a">
@@ -395,8 +395,8 @@
 <form_change>spell</form_change>
 <form>H</form>
 <tag>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="H-33" src="orig">Q3-------------</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s2w45c">
@@ -418,8 +418,8 @@
 </w.rf>
 <form>H</form>
 <tag>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="H-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="H-33" src="orig">Q3-------------</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s2w47">
@@ -723,9 +723,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s5w15">
@@ -807,7 +807,7 @@
 <LM>w#w-ln95048-045-p2s5w24</LM>
 </w.rf>
 <form>Carvera</form>
-<tag lemma="Carver_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Carver_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-045-p2s5w25">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln95048-045-p2s7w3</LM>
 </w.rf>
 <form>Carverových</form>
-<tag lemma="Carverův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Carverův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln95048-045-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1261,8 +1261,8 @@
 </w.rf>
 <form>Trumana</form>
 <tag>
-<AM lemma="Truman_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Truman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Truman_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Truman_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s7w42">
@@ -1271,7 +1271,7 @@
 <LM>w#w-ln95048-045-p2s7w42</LM>
 </w.rf>
 <form>Capoteho</form>
-<tag lemma="Capote_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Capote_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-045-p2s7w43">
 <src.rf>manual</src.rf>
@@ -1467,7 +1467,7 @@
 <LM>w#w-ln95048-045-p2s8w10</LM>
 </w.rf>
 <form>Carverovu</form>
-<tag lemma="Carverův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Carverův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95048-045-p2s8w11">
 <src.rf>manual</src.rf>
@@ -1492,7 +1492,7 @@
 </w.rf>
 <form>Mc</form>
 <tag>
-<AM lemma="Mc_;S" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mc_;Y" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1502,7 +1502,7 @@
 <LM>w#w-ln95048-045-p2s8w14</LM>
 </w.rf>
 <form>Inereymu</form>
-<tag lemma="Inerey_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Inerey_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-045-p2s8w15">
 <src.rf>manual</src.rf>

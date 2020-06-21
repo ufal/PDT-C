@@ -291,7 +291,7 @@
 <LM>w#w-mf920924-051-p4s2w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920924-051-p4s2w3">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-mf920924-051-p4s3w16</LM>
 </w.rf>
 <form>Belairu</form>
-<tag lemma="Belair_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Belair_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-051-p4s3w17">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf920924-051-p4s3w19</LM>
 </w.rf>
 <form>Slovairu</form>
-<tag lemma="Slovair_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovair_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-051-p4s3w20">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 </w.rf>
 <form>Bell</form>
 <tag>
-<AM lemma="Bell_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bell_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Bell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1167,8 +1167,8 @@
 </w.rf>
 <form>L</form>
 <tag>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="L-33" src="orig">Q3-------------</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-051-p5s3w9">
@@ -2256,7 +2256,7 @@
 <tag>
 <AM lemma="ARO-2_:B_^(anesteziologicko-resuscitační_oddělení)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ARO_:B_;U_^(anesteziologicko-resuscitační_oddělení)" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Ara_;K_^(obchod,_firma,_továrna)" src="auto">NNFS5-----A----</AM>
+<AM lemma="Ara_;m_^(obchod,_firma,_továrna)" src="auto">NNFS5-----A----</AM>
 <AM lemma="ara_,l" src="auto">NNMS5-----A----</AM>
 <AM lemma="ARO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2601,7 +2601,7 @@
 <LM>w#w-mf920924-051-p7s3w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920924-051-p7s3w2">
 <src.rf>manual</src.rf>

@@ -765,8 +765,8 @@
 </w.rf>
 <form>Petar</form>
 <tag>
-<AM lemma="Petar_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Petar_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Petar_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Petar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p4s2w8">
@@ -775,7 +775,7 @@
 <LM>w#w-lnd92254-057-p4s2w8</LM>
 </w.rf>
 <form>Zelenika</form>
-<tag lemma="Zelenika_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zelenika_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p4s2w9">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-lnd92254-057-p4s3w1</LM>
 </w.rf>
 <form>Zelenika</form>
-<tag lemma="Zelenika_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zelenika_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1299,7 +1299,7 @@
 <LM>w#w-lnd92254-057-p6s1w9</LM>
 </w.rf>
 <form>Srbové</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p6s1w10">
 <src.rf>manual</src.rf>
@@ -1802,7 +1802,7 @@
 <LM>w#w-lnd92254-057-p7s1w7</LM>
 </w.rf>
 <form>Tanjug</form>
-<tag lemma="Tanjug_:B_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tanjug_:B_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1860,7 +1860,7 @@
 <LM>w#w-lnd92254-057-p7s2w5</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p7s2w6">
 <src.rf>manual</src.rf>
@@ -1895,7 +1895,7 @@
 <LM>w#w-lnd92254-057-p7s2w9</LM>
 </w.rf>
 <form>Vučureviće</form>
-<tag lemma="Vučurević_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vučurević_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p7s2w10">
 <src.rf>manual</src.rf>
@@ -2412,7 +2412,7 @@
 <LM>w#w-lnd92254-057-p8s2w6</LM>
 </w.rf>
 <form>Hina</form>
-<tag lemma="Hina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p8s2w7">
 <src.rf>manual</src.rf>
@@ -2527,8 +2527,8 @@
 </w.rf>
 <form>Cyrus</form>
 <tag>
-<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cyrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p9s1w8">
@@ -2537,7 +2537,7 @@
 <LM>w#w-lnd92254-057-p9s1w8</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-057-p9s1w9">
 <src.rf>manual</src.rf>
@@ -2563,7 +2563,7 @@
 <form>Owen</form>
 <tag>
 <AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p9s1w12">

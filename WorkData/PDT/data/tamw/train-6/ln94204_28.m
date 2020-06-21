@@ -81,7 +81,7 @@
 </w.rf>
 <form>Beers</form>
 <tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -119,7 +119,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -325,7 +325,7 @@
 </w.rf>
 <form>Beers</form>
 <tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1133,7 +1133,7 @@
 </w.rf>
 <form>Beers</form>
 <tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1144,11 +1144,11 @@
 </w.rf>
 <form>Marine</form>
 <tag>
-<AM lemma="Marine_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Marine_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Marin_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS5-----A----</AM>
-<AM lemma="Marine-1_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Marine-1_;m_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Marine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1585,7 +1585,7 @@
 </w.rf>
 <form>Beers</form>
 <tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1909,7 +1909,7 @@
 </w.rf>
 <form>Beers</form>
 <tag>
-<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1920,11 +1920,11 @@
 </w.rf>
 <form>Marine</form>
 <tag>
-<AM lemma="Marine_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Marine_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Marin_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS5-----A----</AM>
-<AM lemma="Marine-1_;K_,t" src="auto">NNISX-----A----</AM>
-<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Marine-1_;m_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Marine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1943,8 +1943,8 @@
 </w.rf>
 <form>DBM</form>
 <tag>
-<AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="DBM-2_:B_;m_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DBM-1_:B_;m_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="DBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1999,7 +1999,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_;^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2114,7 +2114,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2258,7 +2258,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2378,7 +2378,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2479,8 +2479,8 @@
 </w.rf>
 <form>DBM</form>
 <tag>
-<AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="DBM-2_:B_;m_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DBM-1_:B_;m_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="DBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -2783,8 +2783,8 @@
 </w.rf>
 <form>DBM</form>
 <tag>
-<AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="DBM-2_:B_;m_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DBM-1_:B_;m_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="DBM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

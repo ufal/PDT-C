@@ -564,7 +564,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p4s3w9">
@@ -581,7 +581,7 @@
 <LM>w#w-lnd92252-071-p4s3w10</LM>
 </w.rf>
 <form>Alijeva</form>
-<tag lemma="Alijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Alijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-071-p4s3w11">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 </w.rf>
 <form>KSSS</form>
 <tag>
-<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -725,7 +725,7 @@
 <LM>w#w-lnd92252-071-p5s1w1</LM>
 </w.rf>
 <form>Alijev</form>
-<tag lemma="Alijev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Alijev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-071-p5s1w2">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-lnd92252-071-p5s1w13</LM>
 </w.rf>
 <form>Elčibejem</form>
-<tag lemma="Elčibej_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Elčibej_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92252-071-p5s1w14">
 <src.rf>manual</src.rf>

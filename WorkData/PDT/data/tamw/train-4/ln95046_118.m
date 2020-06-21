@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-118-p1s1w1</LM>
 </w.rf>
 <form>Velveta</form>
-<tag lemma="Velveta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Velveta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-118-p1s1w2">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln95046-118-p2s1Bw14</LM>
 </w.rf>
 <form>Velvetě</form>
-<tag lemma="Velveta_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Velveta_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95046-118-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -634,7 +634,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -689,7 +689,7 @@
 <LM>w#w-ln95046-118-p4s1w1</LM>
 </w.rf>
 <form>Velveta</form>
-<tag lemma="Velveta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Velveta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-118-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -1794,7 +1794,7 @@
 <LM>w#w-ln95046-118-p6s1w1</LM>
 </w.rf>
 <form>Velveta</form>
-<tag lemma="Velveta_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Velveta_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-118-p6s1w2">
 <src.rf>manual</src.rf>

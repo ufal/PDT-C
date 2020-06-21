@@ -27,7 +27,7 @@
 <LM>w#w-vesm9303-047-p1s1w2</LM>
 </w.rf>
 <form>Popperově</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-vesm9303-047-p1s1w3">
 <src.rf>manual</src.rf>
@@ -63,7 +63,7 @@
 <form>FEDA</form>
 <tag>
 <AM lemma="Fed_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Feda_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Feda_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -276,7 +276,7 @@
 <LM>w#w-vesm9303-047-p3s2w5</LM>
 </w.rf>
 <form>Popperova</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9303-047-p3s2w6">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p4s1w32">
@@ -1016,7 +1016,7 @@
 <LM>w#w-vesm9303-047-p4s1w33</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p4s1w34">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 </w.rf>
 <form>School</form>
 <tag>
-<AM lemma="School_;K_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="School_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="School-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1208,7 +1208,7 @@
 </w.rf>
 <form>Economics</form>
 <tag>
-<AM lemma="Economics_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Economics_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Economics-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1380,7 +1380,7 @@
 <LM>w#w-vesm9303-047-p5s1w13</LM>
 </w.rf>
 <form>Popperovu</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9303-047-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <LM>w#w-vesm9303-047-p5s2w1</LM>
 </w.rf>
 <form>Popperův</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-vesm9303-047-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2267,7 +2267,7 @@
 <LM>w#w-vesm9303-047-p5s4w6</LM>
 </w.rf>
 <form>Poppera</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p5s4w7">
 <src.rf>manual</src.rf>
@@ -2458,7 +2458,7 @@
 <LM>w#w-vesm9303-047-p6s1w1</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p6s1w2">
 <src.rf>manual</src.rf>
@@ -3136,7 +3136,7 @@
 <LM>w#w-vesm9303-047-p7s1w16</LM>
 </w.rf>
 <form>Popperův</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9303-047-p7s1w17">
 <src.rf>manual</src.rf>
@@ -3740,7 +3740,7 @@
 <LM>w#w-vesm9303-047-p8s6w14</LM>
 </w.rf>
 <form>Flemingův</form>
-<tag lemma="Flemingův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Flemingův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9303-047-p8s6w15">
 <src.rf>manual</src.rf>
@@ -3942,7 +3942,7 @@
 <LM>w#w-vesm9303-047-p9s1w22</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p9s1w23">
 <src.rf>manual</src.rf>
@@ -4155,7 +4155,7 @@
 <LM>w#w-vesm9303-047-p9s2w22</LM>
 </w.rf>
 <form>Poppera</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p9s2w23">
 <src.rf>manual</src.rf>
@@ -4696,7 +4696,7 @@
 <LM>w#w-vesm9303-047-p9s5w12</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p9s5w13">
 <src.rf>manual</src.rf>
@@ -4890,7 +4890,7 @@
 <LM>w#w-vesm9303-047-p10s1w7</LM>
 </w.rf>
 <form>Popperově</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-vesm9303-047-p10s1w8">
 <src.rf>manual</src.rf>
@@ -5399,7 +5399,7 @@
 <LM>w#w-vesm9303-047-p11s1w4</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p11s1w5">
 <src.rf>manual</src.rf>
@@ -6378,7 +6378,7 @@
 <LM>w#w-vesm9303-047-p12s2w2</LM>
 </w.rf>
 <form>Poppera</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s2w3">
 <src.rf>manual</src.rf>
@@ -6500,7 +6500,7 @@
 <LM>w#w-vesm9303-047-p12s3w5</LM>
 </w.rf>
 <form>Einsteinovu</form>
-<tag lemma="Einsteinův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Einsteinův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9303-047-p12s3w6">
 <src.rf>manual</src.rf>
@@ -6786,9 +6786,9 @@
 </w.rf>
 <form>Lobačevskij</form>
 <tag>
-<AM lemma="Lobačevský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lobačevský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Lobačevský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Lobačevský_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lobačevský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Lobačevský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p12s4w9">
@@ -6813,7 +6813,7 @@
 <LM>w#w-vesm9303-047-p12s4w11</LM>
 </w.rf>
 <form>Bolyai</form>
-<tag lemma="Bolyai_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolyai_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s4w12">
 <src.rf>manual</src.rf>
@@ -6829,7 +6829,7 @@
 <LM>w#w-vesm9303-047-p12s4w13</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s4w14">
 <src.rf>manual</src.rf>
@@ -6837,7 +6837,7 @@
 <LM>w#w-vesm9303-047-p12s4w14</LM>
 </w.rf>
 <form>Gauss</form>
-<tag lemma="Gauss_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gauss_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s4w15">
 <src.rf>manual</src.rf>
@@ -6909,7 +6909,7 @@
 <LM>w#w-vesm9303-047-p12s4w23</LM>
 </w.rf>
 <form>Störig</form>
-<tag lemma="Störig_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Störig_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s4w24">
 <src.rf>manual</src.rf>
@@ -7043,8 +7043,8 @@
 </w.rf>
 <form>HIV</form>
 <tag>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p12s5w9">
@@ -7137,7 +7137,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p12s6w3">
@@ -7154,7 +7154,7 @@
 <LM>w#w-vesm9303-047-p12s6w4</LM>
 </w.rf>
 <form>Merton</form>
-<tag lemma="Merton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Merton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s6w5">
 <src.rf>manual</src.rf>
@@ -7385,7 +7385,7 @@
 </w.rf>
 <form>Gould</form>
 <tag>
-<AM lemma="Gould-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gould-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gould_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Gould_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -7579,7 +7579,7 @@
 <LM>w#w-vesm9303-047-p13s2w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-047-p13s2w6">
 <src.rf>manual</src.rf>
@@ -7627,7 +7627,7 @@
 <LM>w#w-vesm9303-047-p13s2w11</LM>
 </w.rf>
 <form>Popperovu</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUNS3M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUNS3M---------</tag>
 </m>
 <m id="m-vesm9303-047-p13s2w12">
 <src.rf>manual</src.rf>
@@ -8189,7 +8189,7 @@
 <LM>w#w-vesm9303-047-p13s7w6</LM>
 </w.rf>
 <form>Popperovy</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-047-p13s7w7">
 <src.rf>manual</src.rf>
@@ -8447,7 +8447,7 @@
 <LM>w#w-vesm9303-047-p13s8w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-047-p13s8w4">
 <src.rf>manual</src.rf>
@@ -8671,7 +8671,7 @@
 <LM>w#w-vesm9303-047-p14s1w1</LM>
 </w.rf>
 <form>Andronikašvili</form>
-<tag lemma="Andronikašvili_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andronikašvili_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p14s1w2">
 <src.rf>manual</src.rf>
@@ -8908,7 +8908,7 @@
 <LM>w#w-vesm9303-047-p14s2w3</LM>
 </w.rf>
 <form>Watsonův</form>
-<tag lemma="Watsonův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Watsonův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-vesm9303-047-p14s2w4">
 <src.rf>manual</src.rf>
@@ -9029,8 +9029,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p14s2w19">
@@ -9764,7 +9764,7 @@
 <LM>w#w-vesm9303-047-p16s1w20</LM>
 </w.rf>
 <form>Poppera</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p16s1w21">
 <src.rf>manual</src.rf>
@@ -12925,7 +12925,7 @@
 <LM>w#w-vesm9303-047-p22s1w2</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p22s1w3">
 <src.rf>manual</src.rf>
@@ -14060,7 +14060,7 @@
 <LM>w#w-vesm9303-047-p24s1w10</LM>
 </w.rf>
 <form>Popperových</form>
-<tag lemma="Popperův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Popperův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-vesm9303-047-p24s1w11">
 <src.rf>manual</src.rf>
@@ -14744,7 +14744,7 @@
 <LM>w#w-vesm9303-047-p28s1w1</LM>
 </w.rf>
 <form>Andronikašvili</form>
-<tag lemma="Andronikašvili_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Andronikašvili_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p28s1w2">
 <src.rf>manual</src.rf>
@@ -14754,7 +14754,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p28s1w3">
@@ -14773,7 +14773,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p28s1w5">
@@ -14918,7 +14918,7 @@
 </w.rf>
 <form>Gould</form>
 <tag>
-<AM lemma="Gould-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gould-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gould_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Gould_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -14931,7 +14931,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p29s1w3">
@@ -14950,7 +14950,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p29s1w5">
@@ -15078,7 +15078,7 @@
 <LM>w#w-vesm9303-047-p30s1w1</LM>
 </w.rf>
 <form>Popper</form>
-<tag lemma="Popper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Popper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p30s1w2">
 <src.rf>manual</src.rf>
@@ -15088,7 +15088,7 @@
 <form>K</form>
 <tag>
 <AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p30s1w3">
@@ -15107,7 +15107,7 @@
 <form>R</form>
 <tag>
 <AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="R-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p30s1w5">
@@ -15197,7 +15197,7 @@
 <LM>w#w-vesm9303-047-p30s2w1</LM>
 </w.rf>
 <form>Hutchinson</form>
-<tag lemma="Hutchinson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hutchinson_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p30s2w2">
 <src.rf>manual</src.rf>
@@ -15313,7 +15313,7 @@
 </w.rf>
 <form>der</form>
 <tag>
-<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="auto">AAXXX----1A----</AM>
+<AM lemma="der-1_;m_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="auto">AAXXX----1A----</AM>
 <AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -15400,7 +15400,7 @@
 <LM>w#w-vesm9303-047-p31s1w1</LM>
 </w.rf>
 <form>Störig</form>
-<tag lemma="Störig_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Störig_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p31s1w2">
 <src.rf>manual</src.rf>
@@ -15410,7 +15410,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p31s1w3">
@@ -15429,7 +15429,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-047-p31s1w5">

@@ -117,7 +117,7 @@
 <LM>w#w-lnd94103-102-p1s1Bw8</LM>
 </w.rf>
 <form>Sommerová</form>
-<tag lemma="Sommerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sommerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-102-p1s1C">
@@ -161,7 +161,7 @@
 <LM>w#w-lnd94103-102-p1s1Dw3</LM>
 </w.rf>
 <form>SOMMEROVÁ</form>
-<tag lemma="Sommerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sommerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-102-p1s1Dw4">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-lnd94103-102-p1s1Dw27</LM>
 </w.rf>
 <form>Havlové</form>
-<tag lemma="Havlová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Havlová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-102-p1s1Dw28">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 </w.rf>
 <form>FAMU</form>
 <tag>
-<AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FAMU_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -494,7 +494,7 @@
 <LM>w#w-lnd94103-102-p1s3w2</LM>
 </w.rf>
 <form>Foll</form>
-<tag lemma="Foll_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foll_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-102-p1s3B">
@@ -765,7 +765,7 @@
 </w.rf>
 <form>FAMU</form>
 <tag>
-<AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FAMU_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1390,7 +1390,7 @@
 <LM>w#w-lnd94103-102-p1s9w18</LM>
 </w.rf>
 <form>Špáta</form>
-<tag lemma="Špáta_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špáta_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-102-p1s9w19">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-lnd94103-102-p1s9w25</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd94103-102-p1s9w26">
 <src.rf>manual</src.rf>
@@ -1849,8 +1849,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-102-p1s14w6">
@@ -1961,7 +1961,7 @@
 <AM lemma="Petr_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Petra-1_;Y" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="petra-1_;R" src="auto">NNFS4-----A----</AM>
+<AM lemma="petra-1_;m" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-102-p1s14w19">
@@ -1970,7 +1970,7 @@
 <LM>w#w-lnd94103-102-p1s14w19</LM>
 </w.rf>
 <form>Procházkovou</form>
-<tag lemma="Procházková_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Procházková_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-102-p1s14w20">
 <src.rf>manual</src.rf>
@@ -2997,7 +2997,7 @@
 </w.rf>
 <form>FAMU</form>
 <tag>
-<AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FAMU_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FAMU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -4202,7 +4202,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Sommerová</form>
-<tag lemma="Sommerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sommerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-102-p1s28C">
@@ -4229,7 +4229,7 @@
 <LM>w#w-lnd94103-102-p1s28Cw3</LM>
 </w.rf>
 <form>Kotek</form>
-<tag lemma="Kotek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-102-p1s28Cw4">
 <src.rf>manual</src.rf>

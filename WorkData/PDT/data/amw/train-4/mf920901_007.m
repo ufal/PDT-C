@@ -137,7 +137,7 @@
 <LM>w#w-mf920901-007-p4s1w2</LM>
 </w.rf>
 <form>Vojta</form>
-<tag lemma="Vojta_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vojta_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-007-p4s1w3">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-mf920901-007-p5s2w3</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920901-007-p5s2w4">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-mf920901-007-p5s3w14</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-1_;R_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Super-1_;m_^(druh_benzínu)" src="orig" selected="1">AAXXX----1A----</tag>
 </m>
 <m id="m-mf920901-007-p5s3w15">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-mf920901-007-p7s1w11</LM>
 </w.rf>
 <form>Benzinou</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920901-007-p7s1w12">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-mf920901-007-p7s3w4</LM>
 </w.rf>
 <form>Benzině</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920901-007-p7s3w5">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 <LM>w#w-mf920901-007-p8s1w1</LM>
 </w.rf>
 <form>Benzina</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-007-p8s1w2">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <LM>w#w-mf920901-007-p9s1w21</LM>
 </w.rf>
 <form>Benzina</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-007-p9s1w22">
 <src.rf>manual</src.rf>
@@ -1726,7 +1726,7 @@
 <LM>w#w-mf920901-007-p9s2w8</LM>
 </w.rf>
 <form>Benziny</form>
-<tag lemma="Benzina_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benzina_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-007-p9s2w9">
 <src.rf>manual</src.rf>

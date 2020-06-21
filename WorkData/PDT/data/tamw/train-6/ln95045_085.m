@@ -52,7 +52,7 @@
 </w.rf>
 <form>STEM</form>
 <tag>
-<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM_:B_;m_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -71,7 +71,7 @@
 </w.rf>
 <form>IVVM</form>
 <tag>
-<AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IVVM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -206,7 +206,7 @@
 </w.rf>
 <form>STEM</form>
 <tag>
-<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM_:B_;m_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -281,7 +281,7 @@
 </w.rf>
 <form>IVVM</form>
 <tag>
-<AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IVVM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -422,7 +422,7 @@
 </w.rf>
 <form>STEM</form>
 <tag>
-<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM_:B_;m_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -440,7 +440,7 @@
 <LM>w#w-ln95045-085-p3s1w4</LM>
 </w.rf>
 <form>Hartl</form>
-<tag lemma="Hartl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hartl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-085-p3s1w5">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 </w.rf>
 <form>IVVM</form>
 <tag>
-<AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IVVM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1028,7 +1028,7 @@
 </w.rf>
 <form>IVVM</form>
 <tag>
-<AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IVVM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln95045-085-p4s1w5</LM>
 </w.rf>
 <form>Rendlová</form>
-<tag lemma="Rendlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rendlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-085-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 </w.rf>
 <form>STEM</form>
 <tag>
-<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM_:B_;m_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1316,7 +1316,7 @@
 </w.rf>
 <form>STEM</form>
 <tag>
-<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM_:B_;m_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="STEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1497,7 +1497,7 @@
 </w.rf>
 <form>IVVM</form>
 <tag>
-<AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IVVM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1525,7 +1525,7 @@
 <LM>w#w-ln95045-085-p4s4w2</LM>
 </w.rf>
 <form>Rendlové</form>
-<tag lemma="Rendlová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Rendlová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-085-p4s4w3">
 <src.rf>manual</src.rf>

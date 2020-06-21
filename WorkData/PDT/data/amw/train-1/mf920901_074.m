@@ -68,8 +68,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-074-p1s1Aw8">
@@ -930,7 +930,7 @@
 </w.rf>
 <form>CCS</form>
 <tag>
-<AM lemma="CCS_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="CCS_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CCS_:B_^(karta)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="CCS_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CCS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -943,8 +943,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1042,7 +1042,7 @@
 <form>Zahradníka</form>
 <tag>
 <AM lemma="zahradník" src="orig">NNMS2-----A----</AM>
-<AM lemma="Zahradník_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Zahradník_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-074-p1s5w5">

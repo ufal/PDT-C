@@ -55,9 +55,9 @@
 </w.rf>
 <form>jaguár</form>
 <tag>
-<AM lemma="Jaguar-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguár_^(zvíře)" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -157,7 +157,7 @@
 <LM>w#w-ln95044-055-p2s1Aw12</LM>
 </w.rf>
 <form>Dumitrescu</form>
-<tag lemma="Dumitrescu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dumitrescu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95044-055-p2s1B">
@@ -406,7 +406,7 @@
 <form>Thalassa</form>
 <tag>
 <AM lemma="Thalassa_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Thalassa-1_;R_;u_^(název_románu)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Thalassa-77" src="manual">F%-------------</AM>
 </tag>
@@ -427,7 +427,7 @@
 <form>Thalassa</form>
 <tag>
 <AM lemma="Thalassa_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Thalassa-1_;R_;u_^(název_románu)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Thalassa-77" src="manual">F%-------------</AM>
 </tag>
@@ -510,7 +510,7 @@
 <LM>w#w-ln95044-055-p2s2w26</LM>
 </w.rf>
 <form>Dumitresca</form>
-<tag lemma="Dumitrescu_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dumitrescu_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-055-p2s2w27">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 </w.rf>
 <form>movie</form>
 <tag>
-<AM lemma="movie_,t" src="orig">NNNSX-----A----</AM>
+<AM lemma="movie_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="movie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -650,10 +650,10 @@
 </w.rf>
 <form>jaguáru</form>
 <tag>
-<AM lemma="Jaguar-2_;R_^(vozidlo)" src="orig">NNIS6-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS2-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS3-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="Jaguar-2_;m_^(vozidlo)" src="orig">NNIS6-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS2-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS3-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 <AM lemma="jaguár_^(zvíře)" src="auto">NNMS3-----A---1</AM>
 <AM lemma="jaguár_^(zvíře)" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -773,7 +773,7 @@
 <LM>w#w-ln95044-055-p2s4w2</LM>
 </w.rf>
 <form>Dumitrescu</form>
-<tag lemma="Dumitrescu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dumitrescu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-055-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1908,7 +1908,7 @@
 <form>Thalassu</form>
 <tag>
 <AM lemma="Thalassa" src="orig">NNFS4-----A----</AM>
-<AM lemma="Thalassa-1_;R_;u_^(název_románu)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -4725,10 +4725,10 @@
 </w.rf>
 <form>Viola</form>
 <tag>
-<AM lemma="Viola_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Viola_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Viola_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="viola" src="auto">NNFS1-----A----</AM>
-<AM lemma="Viola-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Viola-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-055-p9s1w5">
@@ -5293,10 +5293,10 @@
 <form>taky</form>
 <tag>
 <AM lemma="také_^(rovněž)" src="orig">Db-------------</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP1-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
-<AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -5392,10 +5392,10 @@
 </w.rf>
 <form>Violou</form>
 <tag>
-<AM lemma="Viola_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Viola_;Y" src="orig">NNMS7-----A----</AM>
 <AM lemma="Viola_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="viola" src="auto">NNFS7-----A----</AM>
-<AM lemma="Viola-2_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Viola-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-055-p9s5w7">
@@ -5573,9 +5573,9 @@
 </w.rf>
 <form>jaguár</form>
 <tag>
-<AM lemma="Jaguar-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguár_^(zvíře)" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -5816,11 +5816,11 @@
 </w.rf>
 <form>jaguára</form>
 <tag>
-<AM lemma="Jaguar-2_;R_^(vozidlo)" src="orig">NNIS2-----A---1</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
+<AM lemma="Jaguar-2_;m_^(vozidlo)" src="orig">NNIS2-----A---1</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
 <AM lemma="jaguár_^(zvíře)" src="auto">NNMS2-----A----</AM>
 <AM lemma="jaguár_^(zvíře)" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-055-p11s2w11">
@@ -5856,7 +5856,7 @@
 <LM>w#w-ln95044-055-p11s2w14</LM>
 </w.rf>
 <form>golfa</form>
-<tag lemma="Golf-2_;R_^(vozidlo)" src="orig" selected="1">NNIS4-----A---1</tag>
+<tag lemma="Golf-2_;m_^(vozidlo)" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-ln95044-055-p11s2w15">
 <src.rf>manual</src.rf>
@@ -5921,9 +5921,9 @@
 </w.rf>
 <form>jaguár</form>
 <tag>
-<AM lemma="Jaguar-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
-<AM lemma="jaguar_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jaguar-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguár_^(zvíře)" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -6166,7 +6166,7 @@
 <form>Thalassou</form>
 <tag>
 <AM lemma="Thalassa_;m" src="orig">NNFS7-----A----</AM>
-<AM lemma="Thalassa-1_;R_;u_^(název_románu)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
+<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -6363,9 +6363,9 @@
 </w.rf>
 <form>Albertiové</form>
 <tag>
-<AM lemma="Albertiová_;S" src="orig" selected="1">NNFS2-----A----</AM>
-<AM lemma="Alberti_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Alberti_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Albertiová_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Alberti_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Alberti_;Y" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-055-p13s1w12">
@@ -6408,7 +6408,7 @@
 <LM>w#w-ln95044-055-p13s2w1</LM>
 </w.rf>
 <form>Albertiová</form>
-<tag lemma="Albertiová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Albertiová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-055-p13s2w2">
 <src.rf>manual</src.rf>
@@ -6496,7 +6496,7 @@
 <LM>w#w-ln95044-055-p13s2w12</LM>
 </w.rf>
 <form>Cavaniová</form>
-<tag lemma="Cavaniová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Cavaniová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-055-p13s2w13">
 <src.rf>manual</src.rf>
@@ -7029,7 +7029,7 @@
 <LM>w#w-ln95044-055-p14s2w5</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95044-055-p14s2w6">
 <src.rf>manual</src.rf>
@@ -7119,7 +7119,7 @@
 <LM>w#w-ln95044-055-p15s1w10</LM>
 </w.rf>
 <form>Češích</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP6-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-ln95044-055-p15s1w11">
 <src.rf>manual</src.rf>
@@ -7151,7 +7151,7 @@
 <LM>w#w-ln95044-055-p15s1w14</LM>
 </w.rf>
 <form>Němcích</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP6-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-ln95044-055-p15s1w15">
 <src.rf>manual</src.rf>
@@ -7431,8 +7431,8 @@
 <form>Thalasse</form>
 <tag>
 <AM lemma="Thalassa_;m" src="orig">NNFS6-----A----</AM>
-<AM lemma="Thalassa-1_;R_;u_^(název_románu)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Thalassa-1_;R_;u_^(název_románu)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
+<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto">NNFS3-----A----</AM>
+<AM lemma="Thalassa-1_;m_^(název_románu)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Thalassa-2_;G_^(přirozená_družice_Neptunu)" src="auto">NNFS6-----A----</AM>
 </tag>

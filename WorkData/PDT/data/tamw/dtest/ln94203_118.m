@@ -61,7 +61,7 @@
 <LM>w#w-ln94203-118-p2s1Aw2</LM>
 </w.rf>
 <form>Stein</form>
-<tag lemma="Stein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-ln94203-118-p2s2w6</LM>
 </w.rf>
 <form>Assauer</form>
-<tag lemma="Assauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Assauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s2w7">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-ln94203-118-p2s2w14</LM>
 </w.rf>
 <form>Strigel</form>
-<tag lemma="Strigel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Strigel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s2w15">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-ln94203-118-p2s3w18</LM>
 </w.rf>
 <form>Stein</form>
-<tag lemma="Stein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s3w19">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-ln94203-118-p2s4w3</LM>
 </w.rf>
 <form>Stein</form>
-<tag lemma="Stein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-118-p2s4w4">
 <src.rf>manual</src.rf>

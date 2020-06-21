@@ -43,7 +43,7 @@
 <LM>w#w-ln94205-25-p1s1w4</LM>
 </w.rf>
 <form>Kovofiniš</form>
-<tag lemma="Kovofiniš_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Kovofiniš_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94205-25-p1s1w5">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-ln94205-25-p2s1Bw22</LM>
 </w.rf>
 <form>Kovofiniš</form>
-<tag lemma="Kovofiniš_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kovofiniš_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-25-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -443,8 +443,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-25-p2s2w18">
@@ -517,7 +517,7 @@
 <LM>w#w-ln94205-25-p2s3w6</LM>
 </w.rf>
 <form>SUDEX</form>
-<tag lemma="Sudex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sudex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-25-p2s3w7">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln94205-25-p2s3w16</LM>
 </w.rf>
 <form>Prchal</form>
-<tag lemma="Prchal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prchal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-25-p2s3w17">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94205-25-p3s1w1</LM>
 </w.rf>
 <form>Kovofiniš</form>
-<tag lemma="Kovofiniš_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kovofiniš_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-25-p3s1w2">
 <src.rf>manual</src.rf>
@@ -912,8 +912,8 @@
 </w.rf>
 <form>EU</form>
 <tag>
-<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;m_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-25-p3s3w3">
@@ -1102,7 +1102,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-25-p3s4w10">
@@ -1119,7 +1119,7 @@
 <LM>w#w-ln94205-25-p3s4w11</LM>
 </w.rf>
 <form>Prchala</form>
-<tag lemma="Prchal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Prchal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-25-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <LM>w#w-ln94205-25-p4s3w7</LM>
 </w.rf>
 <form>Kovofiniše</form>
-<tag lemma="Kovofiniš_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Kovofiniš_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-25-p4s3w8">
 <src.rf>manual</src.rf>

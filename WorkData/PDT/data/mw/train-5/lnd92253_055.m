@@ -54,7 +54,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -133,7 +133,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -273,7 +273,7 @@
 <LM>w#w-lnd92253-055-p3s3w5</LM>
 </w.rf>
 <form>Šochin</form>
-<tag lemma="Šochin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šochin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-055-p3s3w6">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-lnd92253-055-p3s3w13</LM>
 </w.rf>
 <form>Gajdarova</form>
-<tag lemma="Gajdarův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Gajdarův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd92253-055-p3s3w14">
 <src.rf>manual</src.rf>
@@ -450,9 +450,9 @@
 </w.rf>
 <form>Togliatti</form>
 <tag>
-<AM lemma="Togliatti_;G_;S" src="orig">NNNXX-----A----</AM>
-<AM lemma="Togliatti_;G_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Togliatti_;G_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Togliatti_;G_;Y" src="orig">NNNXX-----A----</AM>
+<AM lemma="Togliatti_;G_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Togliatti_;G_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Togliatti-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -489,7 +489,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -803,7 +803,7 @@
 <LM>w#w-lnd92253-055-p3s4w42</LM>
 </w.rf>
 <form>Šochin</form>
-<tag lemma="Šochin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šochin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-055-p3s4w43">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1155,7 +1155,7 @@
 </w.rf>
 <form>MMF</form>
 <tag>
-<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-1_:B_;m_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MMF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

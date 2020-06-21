@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-034-p1s1w4</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930703-034-p1s1w5">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-mf930703-034-p1s3w1</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930703-034-p1s3w2">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-mf930703-034-p1s4w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930703-034-p1s4w8">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-mf930703-034-p1s4w12</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930703-034-p1s4w13">
 <src.rf>manual</src.rf>

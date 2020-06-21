@@ -112,10 +112,10 @@
 </w.rf>
 <form>kar</form>
 <tag>
-<AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kar-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
-<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kar-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-105-p2s1w4">
@@ -278,7 +278,7 @@
 <LM>w#w-mf920902-105-p2s2w18</LM>
 </w.rf>
 <form>Novákové</form>
-<tag lemma="Nováková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nováková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-105-p2s2w19">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <form>ÚSP</form>
 <tag>
 <AM lemma="ÚSP_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSP_:B_;K_^(Ústav_státu_a_práva)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="ÚSP_:B_;m_^(Ústav_státu_a_práva)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚSP-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ÚSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -866,7 +866,7 @@
 <LM>w#w-mf920902-105-p2s4w23</LM>
 </w.rf>
 <form>Podlucký</form>
-<tag lemma="Podlucký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Podlucký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-105-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1562,7 +1562,7 @@
 <form>ÚSP</form>
 <tag>
 <AM lemma="ÚSP_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSP_:B_;K_^(Ústav_státu_a_práva)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="ÚSP_:B_;m_^(Ústav_státu_a_práva)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚSP-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="ÚSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

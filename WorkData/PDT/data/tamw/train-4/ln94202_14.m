@@ -36,8 +36,8 @@
 </w.rf>
 <form>P</form>
 <tag>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="P-33" src="orig">Q3-------------</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-14-p1s1w4">
@@ -112,7 +112,7 @@
 <LM>w#w-ln94202-14-p2s1Aw5</LM>
 </w.rf>
 <form>HONDA</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-14-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-ln94202-14-p2s1Aw6</LM>
 </w.rf>
 <form>LEGEND</form>
-<tag lemma="Legend_;R_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-14-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-ln94202-14-p2s1Aw9</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-14-p2s1B">
@@ -382,7 +382,7 @@
 <LM>w#w-ln94202-14-p2s1Bw29</LM>
 </w.rf>
 <form>Honda</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -391,8 +391,8 @@
 </w.rf>
 <form>Plelude</form>
 <tag>
-<AM lemma="Prelude_;R_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Prelude_;R" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Prelude_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Prelude_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw31">
@@ -481,7 +481,7 @@
 <LM>w#w-ln94202-14-p2s1Bw41</LM>
 </w.rf>
 <form>Honda</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw42">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -1414,7 +1414,7 @@
 <LM>w#w-ln94202-14-p3s5w1</LM>
 </w.rf>
 <form>Honda</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-14-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-ln94202-14-p3s5w2</LM>
 </w.rf>
 <form>Legend</form>
-<tag lemma="Legend_;R_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-14-p3s5w3">
 <src.rf>manual</src.rf>
@@ -2440,7 +2440,7 @@
 </w.rf>
 <form>ABS</form>
 <tag>
-<AM lemma="ABS-2_:B_;g_^(umělá_hmota)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ABS-2_:B_^(umělá_hmota)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ABS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2779,7 +2779,7 @@
 <LM>w#w-ln94202-14-p5s1w1</LM>
 </w.rf>
 <form>Honda</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-14-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2787,7 +2787,7 @@
 <LM>w#w-ln94202-14-p5s1w2</LM>
 </w.rf>
 <form>Legend</form>
-<tag lemma="Legend_;R_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-14-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3237,7 +3237,7 @@
 <LM>w#w-ln94202-14-p5s3w8</LM>
 </w.rf>
 <form>Hondy</form>
-<tag lemma="Honda-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Honda-1_;m_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-14-p5s3w9">
 <src.rf>manual</src.rf>
@@ -3245,7 +3245,7 @@
 <LM>w#w-ln94202-14-p5s3w9</LM>
 </w.rf>
 <form>Legend</form>
-<tag lemma="Legend_;R_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-14-p5s3w10">
 <src.rf>manual</src.rf>

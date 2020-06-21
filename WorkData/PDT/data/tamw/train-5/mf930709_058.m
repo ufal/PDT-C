@@ -19,7 +19,7 @@
 <LM>w#w-mf930709-058-p1s1w1</LM>
 </w.rf>
 <form>Vitoušova</form>
-<tag lemma="Vitoušův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Vitoušův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930709-058-p1s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-mf930709-058-p2s1w3</LM>
 </w.rf>
 <form>ATMOS</form>
-<tag lemma="Atmos_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Atmos_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-058-p2s1w4">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-mf930709-058-p2s1w10</LM>
 </w.rf>
 <form>Vitouš</form>
-<tag lemma="Vitouš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vitouš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-058-p2s1w11">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-mf930709-058-p2s1w14</LM>
 </w.rf>
 <form>Garbarek</form>
-<tag lemma="Garbarek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Garbarek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-058-p2s1w15">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 </w.rf>
 <form>Arta</form>
 <tag>
-<AM lemma="Arta_;K" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Arta_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Art-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Art-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Arto_;Y" src="auto">NNMS2-----A----</AM>
@@ -747,7 +747,7 @@
 <AM lemma="Helikon_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="helikon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="helikon" src="auto">NNIS4-----A----</AM>
-<AM lemma="Helikon_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Helikon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-058-p2s5w9">

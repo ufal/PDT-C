@@ -17,8 +17,8 @@
 </w.rf>
 <form>Alvin</form>
 <tag>
-<AM lemma="Alvin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Alvin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alvin_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Alvin_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0952-001-p1s0W2-Ta">
@@ -28,10 +28,10 @@
 </w.rf>
 <form>W</form>
 <tag>
-<AM lemma="W-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="W-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="auto">Q3-------------</AM>
+<AM lemma="W-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="watt" src="auto">NNIXX-----A---8</AM>
-<AM lemma="W-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="W-33" src="auto">Q3-------------</AM>
 <AM lemma="w-88" src="auto">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -51,7 +51,7 @@
 <form>Trivelpiece</form>
 <tag>
 <AM lemma="Trivelpiece" src="auto">X@-------------</AM>
-<AM lemma="Trivelpiece_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Trivelpiece_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0952-001-p1s0W5-Ta">
@@ -115,7 +115,7 @@
 </w.rf>
 <form>National</form>
 <tag>
-<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-1_;m_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -138,8 +138,8 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
+<AM lemma="z-33" src="auto">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0952-001-p1s0W13-Ta">
@@ -186,8 +186,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>
@@ -198,9 +198,9 @@
 </w.rf>
 <form>Tennessee</form>
 <tag>
-<AM lemma="Tennessee-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tennessee-1_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tennessee-1_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tennessee-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Tennessee-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tennessee-1_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tennessee_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -369,7 +369,7 @@
 <form>Trivelpiece</form>
 <tag>
 <AM lemma="Trivelpiece" src="auto">X@-------------</AM>
-<AM lemma="Trivelpiece_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Trivelpiece_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0952-001-p1s1W3-Ta">
@@ -410,10 +410,10 @@
 </w.rf>
 <form>Bolgerovi</form>
 <tag>
-<AM lemma="Bolger_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Bolger_;S" src="auto" recommended="1">NNMS6-----A----</AM>
-<AM lemma="Bolgerův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Bolgerův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Bolger_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Bolger_;Y" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="Bolgerův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
+<AM lemma="Bolgerův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0952-001-p1s1W7-Ta">
@@ -451,8 +451,8 @@
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
+<AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
 </m>

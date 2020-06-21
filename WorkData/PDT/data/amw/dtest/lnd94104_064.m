@@ -137,7 +137,7 @@
 <LM>w#w-lnd94104-064-p1s1Dw2</LM>
 </w.rf>
 <form>Novák</form>
-<tag lemma="Novák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Novák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-064-p1s1E">
@@ -618,7 +618,7 @@
 <LM>w#w-lnd94104-064-p1s3w23</LM>
 </w.rf>
 <form>Husajn</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-064-p1s3w24">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-lnd94104-064-p1s3w27</LM>
 </w.rf>
 <form>Kábus</form>
-<tag lemma="Kábus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kábus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-064-p1s3w28">
 <src.rf>manual</src.rf>
@@ -691,8 +691,8 @@
 </w.rf>
 <form>Amr</form>
 <tag>
-<AM lemma="Amr_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Amr_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Amr_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Amr_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-064-p1s3w33">
@@ -702,9 +702,9 @@
 </w.rf>
 <form>Músá</form>
 <tag>
-<AM lemma="Músá_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Músá_;S_,t" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Músá_;S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Músá_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Músá_;Y_,t" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Músá_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-064-p1s3w34">
@@ -796,9 +796,9 @@
 </w.rf>
 <form>Abdalláhovi</form>
 <tag>
-<AM lemma="Abdalláh_;S" src="orig" selected="1">NNMS3-----A----</AM>
-<AM lemma="Abdalláhův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
-<AM lemma="Abdalláhův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Abdalláh_;Y" src="orig" selected="1">NNMS3-----A----</AM>
+<AM lemma="Abdalláhův_;Y_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
+<AM lemma="Abdalláhův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-064-p1s4w11">
@@ -807,7 +807,7 @@
 <LM>w#w-lnd94104-064-p1s4w11</LM>
 </w.rf>
 <form>Sálihovi</form>
-<tag lemma="Sálih_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Sálih_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94104-064-p1s4w12">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-lnd94104-064-p1s4w26</LM>
 </w.rf>
 <form>Sálima</form>
-<tag lemma="Sálim_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sálim_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-064-p1s4w27">
 <src.rf>manual</src.rf>
@@ -936,8 +936,8 @@
 </w.rf>
 <form>Bajda</form>
 <tag>
-<AM lemma="Bajd_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Bajda-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bajd_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Bajda-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bajda-2_;G" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1855,7 +1855,7 @@
 <LM>w#w-lnd94104-064-p1s10w4</LM>
 </w.rf>
 <form>Sálihův</form>
-<tag lemma="Sálihův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Sálihův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd94104-064-p1s10w5">
 <src.rf>manual</src.rf>
@@ -1911,7 +1911,7 @@
 <LM>w#w-lnd94104-064-p1s10w11</LM>
 </w.rf>
 <form>Bajdova</form>
-<tag lemma="Bajdův-1_;S_^(*4a-1)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Bajdův-1_;Y_^(*4a-1)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd94104-064-p1s10w12">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 </w.rf>
 <form>JSP</form>
 <tag>
-<AM lemma="JSP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JSP_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2215,7 +2215,7 @@
 </w.rf>
 <form>JSP</form>
 <tag>
-<AM lemma="JSP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2335,7 +2335,7 @@
 </w.rf>
 <form>Islah</form>
 <tag>
-<AM lemma="Islah_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Islah_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Islah-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2529,7 +2529,7 @@
 </w.rf>
 <form>JSP</form>
 <tag>
-<AM lemma="JSP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2571,7 +2571,7 @@
 <LM>w#w-lnd94104-064-p1s14w7</LM>
 </w.rf>
 <form>Sálihovi</form>
-<tag lemma="Sálih_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Sálih_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94104-064-p1s14w8">
 <src.rf>manual</src.rf>
@@ -2726,7 +2726,7 @@
 </w.rf>
 <form>JSP</form>
 <tag>
-<AM lemma="JSP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JSP_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3532,7 +3532,7 @@
 <LM>w#w-lnd94104-064-p1s20Aw2</LM>
 </w.rf>
 <form>Sálih</form>
-<tag lemma="Sálih_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sálih_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-064-p1s20Aw3">
 <src.rf>manual</src.rf>
@@ -3549,8 +3549,8 @@
 </w.rf>
 <form>Bajda</form>
 <tag>
-<AM lemma="Bajd_;S" src="orig" selected="1">NNMS4-----A----</AM>
-<AM lemma="Bajda-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bajd_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Bajda-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bajda-2_;G" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>

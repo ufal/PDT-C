@@ -201,8 +201,8 @@
 <form>HLA</form>
 <tag>
 <AM lemma="HLA_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="HLA_:B" src="auto">NNISX-----A---8</AM>
-<AM lemma="Hla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="HLA_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Hla_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hnout" src="auto">VpQW---XR-AA--7</AM>
 <AM lemma="hnout_,h_,x" src="auto">VpQW---XR-AA---</AM>
 <AM lemma="HLA-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -386,7 +386,7 @@
 </w.rf>
 <form>IKEM</form>
 <tag>
-<AM lemma="IKEM_:B_;K_^(Institut_klinické_a_experimentální_medicíny)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IKEM_:B_;m_^(Institut_klinické_a_experimentální_medicíny)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IKEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -406,8 +406,8 @@
 <form>HLA</form>
 <tag>
 <AM lemma="HLA_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="HLA_:B" src="auto" recommended="1">NNISX-----A---8</AM>
-<AM lemma="Hla_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="HLA_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Hla_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="hnout" src="auto">VpQW---XR-AA--7</AM>
 <AM lemma="hnout_,h_,x" src="auto">VpQW---XR-AA---</AM>
 <AM lemma="HLA-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -462,7 +462,7 @@
 <LM>w#w-lnd92254-015-p1s4w11</LM>
 </w.rf>
 <form>Ivašková</form>
-<tag lemma="Ivašková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ivašková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-015-p1s4w12">
 <src.rf>manual</src.rf>

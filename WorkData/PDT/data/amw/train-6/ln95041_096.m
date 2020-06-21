@@ -407,7 +407,7 @@
 <LM>w#w-ln95041-096-p2s2w10</LM>
 </w.rf>
 <form>Pešek</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-096-p2s2w11">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-ln95041-096-p2s4w20</LM>
 </w.rf>
 <form>Pešek</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-096-p2s4w21">
 <src.rf>manual</src.rf>
@@ -1091,8 +1091,8 @@
 </w.rf>
 <form>C</form>
 <tag>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="C-33" src="orig">Q3-------------</AM>
+<AM lemma="C-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-096-p2s6w13">
@@ -1142,8 +1142,8 @@
 </w.rf>
 <form>S</form>
 <tag>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="S-33" src="orig">Q3-------------</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-096-p2s6w19">
@@ -1211,7 +1211,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Sabotů</form>
-<tag lemma="Sabota_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Sabota_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95041-096-p2s7w7">
 <src.rf>manual</src.rf>

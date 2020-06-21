@@ -685,7 +685,7 @@
 <LM>w#w-ln94205-109-p3s1Aw3</LM>
 </w.rf>
 <form>Kolleková</form>
-<tag lemma="Kolleková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kolleková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-109-p3s1Aw4">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-ln94205-109-p3s1Bw5</LM>
 </w.rf>
 <form>Prandstetter</form>
-<tag lemma="Prandstetter_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prandstetter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-109-p3s1Bw6">
 <src.rf>manual</src.rf>

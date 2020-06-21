@@ -19,7 +19,7 @@
 <LM>w#w-mf930702-121-p1s1w1</LM>
 </w.rf>
 <form>Stoiber</form>
-<tag lemma="Stoiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-121-p1s1w2">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-mf930702-121-p2s1w5</LM>
 </w.rf>
 <form>Stoiber</form>
-<tag lemma="Stoiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-121-p2s1w6">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930702-121-p2s1w20</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930702-121-p2s1w21">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-121-p2s2w2">
@@ -442,7 +442,7 @@
 <LM>w#w-mf930702-121-p2s2w3</LM>
 </w.rf>
 <form>Stoiber</form>
-<tag lemma="Stoiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-121-p2s2w4">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-mf930702-121-p2s2w23</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-121-p2s2w24">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-mf930702-121-p3s1w18</LM>
 </w.rf>
 <form>Stoiber</form>
-<tag lemma="Stoiber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Stoiber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-121-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-121-p4s1w20">
@@ -1089,7 +1089,7 @@
 <LM>w#w-mf930702-121-p4s1w21</LM>
 </w.rf>
 <form>Grünbeck</form>
-<tag lemma="Grünbeck_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Grünbeck_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-121-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-mf930702-121-p4s1w27</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930702-121-p4s1w28">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-121-p4s2w8">
@@ -1280,7 +1280,7 @@
 <LM>w#w-mf930702-121-p4s3w1</LM>
 </w.rf>
 <form>Neubauer</form>
-<tag lemma="Neubauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neubauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-121-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-mf930702-121-p4s3w20</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930702-121-p4s3w21">
 <src.rf>manual</src.rf>

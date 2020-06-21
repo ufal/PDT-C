@@ -143,7 +143,7 @@
 <LM>w#w-lnd94101-044-p1s3w9</LM>
 </w.rf>
 <form>Bělehrádka</form>
-<tag lemma="Bělehrádek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bělehrádek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-044-p1s3w10">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 </w.rf>
 <form>SDA</form>
 <tag>
-<AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDA-1_:B_;m_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -467,7 +467,7 @@
 </w.rf>
 <form>SDA</form>
 <tag>
-<AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDA-1_:B_;m_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -715,7 +715,7 @@
 </w.rf>
 <form>SDA</form>
 <tag>
-<AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDA-1_:B_;m_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="SDA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -733,7 +733,7 @@
 <LM>w#w-lnd94101-044-p1s6w25</LM>
 </w.rf>
 <form>Lněnička</form>
-<tag lemma="Lněnička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lněnička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-044-p1s6w26">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-lnd94101-044-p1s8Bw2</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-044-p1s8Bw3">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-lnd94101-044-p1s8Bw11</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-044-p1s8Bw12">
 <src.rf>manual</src.rf>

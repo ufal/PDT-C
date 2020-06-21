@@ -194,8 +194,8 @@
 </w.rf>
 <form>Safarali</form>
 <tag>
-<AM lemma="Safarali_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Safarali_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Safarali_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Safarali_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-045-p3s2w13">
@@ -204,7 +204,7 @@
 <LM>w#w-lnd92253-045-p3s2w13</LM>
 </w.rf>
 <form>Kendžajev</form>
-<tag lemma="Kendžajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kendžajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p3s2w14">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-lnd92253-045-p3s2w19</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p3s2w20">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-lnd92253-045-p3s3w15</LM>
 </w.rf>
 <form>Kendžajevovi</form>
-<tag lemma="Kendžajevův_;S_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Kendžajevův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-lnd92253-045-p3s3w16">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-lnd92253-045-p4s1w13</LM>
 </w.rf>
 <form>Kendžajevem</form>
-<tag lemma="Kendžajev_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kendžajev_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p4s1w14">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-lnd92253-045-p4s1w15</LM>
 </w.rf>
 <form>Iskandarovem</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p4s1w16">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 <LM>w#w-lnd92253-045-p4s1w45</LM>
 </w.rf>
 <form>Iskandarovovově</form>
-<tag lemma="Iskandarovovův_;S_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
+<tag lemma="Iskandarovovův_;Y_^(*2)" src="orig" selected="1">AUFS3M---------</tag>
 </m>
 <m id="m-lnd92253-045-p4s1w46">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-lnd92253-045-p5s1w2</LM>
 </w.rf>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p5s1w3">
 <src.rf>manual</src.rf>
@@ -988,8 +988,8 @@
 </w.rf>
 <form>Safarali</form>
 <tag>
-<AM lemma="Safarali_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Safarali_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Safarali_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Safarali_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-045-p5s1w5">
@@ -998,7 +998,7 @@
 <LM>w#w-lnd92253-045-p5s1w5</LM>
 </w.rf>
 <form>Kendžajev</form>
-<tag lemma="Kendžajev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kendžajev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p5s1w6">
 <src.rf>manual</src.rf>

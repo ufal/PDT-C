@@ -279,7 +279,7 @@
 <LM>w#w-mf930701-143-p2s2w8</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-143-p2s2w9">
 <src.rf>manual</src.rf>

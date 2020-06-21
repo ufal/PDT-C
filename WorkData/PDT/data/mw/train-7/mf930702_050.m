@@ -105,8 +105,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-050-p2s1w4">
@@ -140,7 +140,7 @@
 </w.rf>
 <form>Procter</form>
 <tag>
-<AM lemma="Procter-1_;K_,t_^(angl.;_firma_Procter_and_Gamble)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Procter-1_;m_,t_^(angl.;_firma_Procter_and_Gamble)" src="auto">NNMS1-----A----</AM>
 <AM lemma="Procter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -162,7 +162,7 @@
 </w.rf>
 <form>Gamble</form>
 <tag>
-<AM lemma="Gamble-1_;K_,t_^(angl.;_firma_Procter_and_Gamble)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Gamble-1_;m_,t_^(angl.;_firma_Procter_and_Gamble)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Gamble-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -276,7 +276,7 @@
 <LM>w#w-mf930702-050-p2s1w23</LM>
 </w.rf>
 <form>Tapcom</form>
-<tag lemma="Tapcom_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Tapcom_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930702-050-p2s1w24">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-mf930702-050-p2s2w9</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-050-p2s2w10">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf930702-050-p3s1w1</LM>
 </w.rf>
 <form>Tapcom</form>
-<tag lemma="Tapcom_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Tapcom_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-mf930702-050-p3s1w2">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf930702-050-p4s1w10</LM>
 </w.rf>
 <form>Filouš</form>
-<tag lemma="Filouš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Filouš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-050-p4s1w11">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-mf930702-050-p4s1w18</LM>
 </w.rf>
 <form>Tapcomu</form>
-<tag lemma="Tapcom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Tapcom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-050-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 </w.rf>
 <form>MV</form>
 <tag>
-<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MV-2_:B_;m_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1052,7 +1052,7 @@
 <form>Kramář</form>
 <tag>
 <AM lemma="kramář" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kramář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kramář_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-050-p4s3w8">
@@ -1180,7 +1180,7 @@
 <form>Kramář</form>
 <tag>
 <AM lemma="kramář" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kramář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kramář_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-050-p4s4w15">
@@ -1255,7 +1255,7 @@
 <LM>w#w-mf930702-050-p4s5w8</LM>
 </w.rf>
 <form>Filouš</form>
-<tag lemma="Filouš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Filouš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-050-p4s5w9">
 <src.rf>manual</src.rf>

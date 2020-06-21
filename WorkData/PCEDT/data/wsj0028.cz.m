@@ -26,7 +26,7 @@
 <form>Chilver</form>
 <tag>
 <AM lemma="Chilver" src="auto">X@-------------</AM>
-<AM lemma="Chilver_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chilver_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0028-001-p1s0W3-Ta">

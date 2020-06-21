@@ -418,7 +418,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -567,7 +567,7 @@
 </w.rf>
 <form>PNAC</form>
 <tag>
-<AM lemma="PNAC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PNAC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PNAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -684,7 +684,7 @@
 </w.rf>
 <form>PNAC</form>
 <tag>
-<AM lemma="PNAC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PNAC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PNAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -978,7 +978,7 @@
 <LM>w#w-ln94202-68-p4s2w10</LM>
 </w.rf>
 <form>Hamas</form>
-<tag lemma="Hamas-2_;G_;K_;p" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hamas-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-68-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 </w.rf>
 <form>OOP</form>
 <tag>
-<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-1_:B_;m_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="OOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1651,7 +1651,7 @@
 <LM>w#w-ln94202-68-p5s4w5</LM>
 </w.rf>
 <form>Rubinstein</form>
-<tag lemma="Rubinstein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubinstein_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-68-p5s4w6">
 <src.rf>manual</src.rf>

@@ -355,12 +355,12 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="A-33" src="auto">Q3-------------</AM>
 <AM lemma="A-77_^(př._a_la)" src="auto">F%-------------</AM>
-<AM lemma="A-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="ampér" src="auto">NNIXX-----A---8</AM>
 <AM lemma="a-1" src="auto">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="A-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
@@ -380,7 +380,7 @@
 <LM>w#w-wsj0923-001-p1s1W6</LM>
 </w.rf>
 <form>Wright</form>
-<tag lemma="Wright_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Wright_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0923-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -475,7 +475,7 @@
 <form>Kyle</form>
 <tag>
 <AM lemma="Kyle" src="auto">X@-------------</AM>
-<AM lemma="Kyle_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kyle_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0923-001-p1s1W16-Ta">
@@ -589,7 +589,7 @@
 <form>Kyle</form>
 <tag>
 <AM lemma="Kyle" src="auto">X@-------------</AM>
-<AM lemma="Kyle_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kyle_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0923-001-p1s2W8-Ta">
@@ -712,7 +712,7 @@
 <form>Kyle</form>
 <tag>
 <AM lemma="Kyle" src="auto">X@-------------</AM>
-<AM lemma="Kyle_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kyle_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0923-001-p1s3W3-Ta">

@@ -28,7 +28,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševič</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-74-p1s1w3">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševič</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-74-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-ln94205-74-p2s1Bw13</LM>
 </w.rf>
 <form>Srbů</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94205-74-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloševič</form>
-<tag lemma="Miloševič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miloševič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-74-p2s4w2">
 <src.rf>manual</src.rf>
@@ -643,8 +643,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-74-p3s1w6">
@@ -685,7 +685,7 @@
 <LM>w#w-ln94205-74-p3s1w10</LM>
 </w.rf>
 <form>Akaši</form>
-<tag lemma="Akaši_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Akaši_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-74-p3s1w11">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -737,7 +737,7 @@
 </w.rf>
 <form>Repubblica</form>
 <tag>
-<AM lemma="Repubblica_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Repubblica_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Repubblica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1128,7 +1128,7 @@
 <LM>w#w-ln94205-74-p4s2w8</LM>
 </w.rf>
 <form>Srbům</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94205-74-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1252,8 +1252,8 @@
 </w.rf>
 <form>Fikret</form>
 <tag>
-<AM lemma="Fikret_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Fikret_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fikret_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Fikret_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-74-p5s1w11">
@@ -1263,7 +1263,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Abdič</form>
-<tag lemma="Abdič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abdič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-74-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1417,8 +1417,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-74-p5s1w31">
@@ -1486,9 +1486,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-74-p5s4w8">
@@ -1521,7 +1521,7 @@
 <LM>w#w-ln94205-74-p5s4w11</LM>
 </w.rf>
 <form>Galbraith</form>
-<tag lemma="Galbraith_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Galbraith_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-74-p5s4w12">
 <src.rf>manual</src.rf>

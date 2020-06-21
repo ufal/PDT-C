@@ -125,7 +125,7 @@
 <LM>w#w-mf930708-097-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="nak-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-097-p2s1w4">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-mf930708-097-p2s2w7</LM>
 </w.rf>
 <form>Freund</form>
-<tag lemma="Freund_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Freund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-097-p2s2w8">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-mf930708-097-p3s1w3</LM>
 </w.rf>
 <form>Freunda</form>
-<tag lemma="Freund_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Freund_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-097-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 <LM>w#w-mf930708-097-p3s3w23</LM>
 </w.rf>
 <form>Freund</form>
-<tag lemma="Freund_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Freund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-097-p3s3w24">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 <LM>w#w-mf930708-097-p5s1w2</LM>
 </w.rf>
 <form>Freund</form>
-<tag lemma="Freund_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Freund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-097-p5s1w3">
 <src.rf>manual</src.rf>

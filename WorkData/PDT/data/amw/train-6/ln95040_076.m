@@ -29,8 +29,8 @@
 <form>Sü</form>
 <tag>
 <AM lemma="Sü_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Sü_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Sü-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sü_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Sü-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-076-p1s1w3">
@@ -40,10 +40,10 @@
 </w.rf>
 <form>Džang</form>
 <tag>
-<AM lemma="Džang_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Džang_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Džang_;Y" src="manual">NNMXX-----A----</AM>
 <AM lemma="Džang" src="manual">S2--------A----</AM>
-<AM lemma="Džang_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Džang_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-076-p1s1w4">
@@ -61,7 +61,7 @@
 </w.rf>
 <form>hon</form>
 <tag>
-<AM lemma="Hon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hon_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="hon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hon" src="auto">NNIS4-----A----</AM>
 <AM lemma="hon_;Y" src="manual">NNMS1-----A----</AM>
@@ -173,7 +173,7 @@
 <LM>w#w-ln95040-076-p1s2w6</LM>
 </w.rf>
 <form>Guinnessovy</form>
-<tag lemma="Guinnessův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Guinnessův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95040-076-p1s2w7">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-ln95040-076-p1s2w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95040-076-p1s2w19">
 <src.rf>manual</src.rf>

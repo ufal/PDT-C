@@ -51,7 +51,7 @@
 <LM>w#w-ln95049-002-p1s1w5</LM>
 </w.rf>
 <form>Certum</form>
-<tag lemma="Certum_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Certum_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95049-002-p2s1A">
@@ -95,7 +95,7 @@
 <LM>w#w-ln95049-002-p2s1Bw3</LM>
 </w.rf>
 <form>Certum</form>
-<tag lemma="Certum_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Certum_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-002-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-ln95049-002-p4s1w1</LM>
 </w.rf>
 <form>Certum</form>
-<tag lemma="Certum_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Certum_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-002-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <form>Chemopetrol</form>
 <tag>
 <AM lemma="Chemopetrol" src="orig">NNIS1-----A----</AM>
-<AM lemma="Chemopetrol_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Chemopetrol_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-002-p5s1w7">
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln95049-002-p5s1w8</LM>
 </w.rf>
 <form>Multiservis</form>
-<tag lemma="Multiservis_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Multiservis_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-002-p5s1w9">
 <src.rf>manual</src.rf>

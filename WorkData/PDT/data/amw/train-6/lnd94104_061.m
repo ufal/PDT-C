@@ -336,8 +336,8 @@
 </w.rf>
 <form>Nelsona</form>
 <tag>
-<AM lemma="Nelson_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nelson_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s4w13">
@@ -346,7 +346,7 @@
 <LM>w#w-lnd94104-061-p1s4w13</LM>
 </w.rf>
 <form>Mandely</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s4w14">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-lnd94104-061-p1s4w24</LM>
 </w.rf>
 <form>Klerka</form>
-<tag lemma="Klerk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klerk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s4w25">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <form>Inkatha</form>
 <tag>
 <AM lemma="Inkatha_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Inkatha_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Inkatha_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s5w10">
@@ -589,9 +589,9 @@
 <form>Mangosuthu</form>
 <tag>
 <AM lemma="Mangosuthu_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mangosuth_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Mangosuth_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Mangosuthu_;Y" src="manual" selected="1">NNMSX-----A----</AM>
+<AM lemma="Mangosuth_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Mangosuth_;Y" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Mangosuthu_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s5w11">
@@ -600,7 +600,7 @@
 <LM>w#w-lnd94104-061-p1s5w11</LM>
 </w.rf>
 <form>Butheleziho</form>
-<tag lemma="Buthelezi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Buthelezi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s5w12">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-lnd94104-061-p1s7w12</LM>
 </w.rf>
 <form>Klerkova</form>
-<tag lemma="Klerkův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Klerkův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd94104-061-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1401,8 +1401,8 @@
 </w.rf>
 <form>Nelson</form>
 <tag>
-<AM lemma="Nelson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nelson_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nelson_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s9w21">
@@ -1411,7 +1411,7 @@
 <LM>w#w-lnd94104-061-p1s9w21</LM>
 </w.rf>
 <form>Mandela</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s9w22">
 <src.rf>manual</src.rf>
@@ -1706,8 +1706,8 @@
 </w.rf>
 <form>Michael</form>
 <tag>
-<AM lemma="Michael_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Michael_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Michael_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michael_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s12w16">
@@ -1716,7 +1716,7 @@
 <LM>w#w-lnd94104-061-p1s12w16</LM>
 </w.rf>
 <form>Corbett</form>
-<tag lemma="Corbett_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Corbett_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s12w17">
 <src.rf>manual</src.rf>
@@ -1823,7 +1823,7 @@
 </w.rf>
 <form>AFP</form>
 <tag>
-<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="AFP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1908,8 +1908,8 @@
 </w.rf>
 <form>Nelson</form>
 <tag>
-<AM lemma="Nelson_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Nelson_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Nelson_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nelson_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s14w10">
@@ -1918,7 +1918,7 @@
 <LM>w#w-lnd94104-061-p1s14w10</LM>
 </w.rf>
 <form>Mandela</form>
-<tag lemma="Mandela_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mandela_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s14w11">
 <src.rf>manual</src.rf>
@@ -1969,7 +1969,7 @@
 <LM>w#w-lnd94104-061-p1s14w16</LM>
 </w.rf>
 <form>Klerkem</form>
-<tag lemma="Klerk_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klerk_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s14w17">
 <src.rf>manual</src.rf>
@@ -2086,7 +2086,7 @@
 <form>Inkatha</form>
 <tag>
 <AM lemma="Inkatha_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Inkatha_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Inkatha_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s15w7">
@@ -2097,8 +2097,8 @@
 <form>Mangosuthu</form>
 <tag>
 <AM lemma="Mangosuthu_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Mangosuth_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Mangosuth_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Mangosuth_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Mangosuth_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Mangosuthu_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -2108,7 +2108,7 @@
 <LM>w#w-lnd94104-061-p1s15w8</LM>
 </w.rf>
 <form>Buthelezi</form>
-<tag lemma="Buthelezi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buthelezi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s15w9">
 <src.rf>manual</src.rf>
@@ -2157,7 +2157,7 @@
 </w.rf>
 <form>ANC</form>
 <tag>
-<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-1_:B_;m_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2346,7 +2346,7 @@
 </w.rf>
 <form>ANC</form>
 <tag>
-<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-1_:B_;m_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ANC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

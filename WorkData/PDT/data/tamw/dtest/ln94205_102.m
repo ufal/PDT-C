@@ -21,7 +21,7 @@
 <form>Panton</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Panton_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p1s1w2">
@@ -66,7 +66,7 @@
 <form>Panton</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Panton_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p2s1w2">
@@ -116,8 +116,8 @@
 </w.rf>
 <form>Schott</form>
 <tag>
-<AM lemma="Schott_;K" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Schott_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Schott_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Schott_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p2s1w8">
@@ -168,7 +168,7 @@
 <form>Panton</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Panton_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p2s1w14">
@@ -178,8 +178,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -362,7 +362,7 @@
 <form>Pantonu</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS2-----A----</AM>
-<AM lemma="Panton_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p2s2w18">
@@ -483,7 +483,7 @@
 <LM>w#w-ln94205-102-p2s2w32</LM>
 </w.rf>
 <form>Bartáka</form>
-<tag lemma="Barták_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Barták_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-102-p2s2w33">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <form>Panton</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Panton_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p3s1w7">
@@ -577,8 +577,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1005,7 +1005,7 @@
 <form>Pantonu</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS3-----A----</AM>
-<AM lemma="Panton_;K" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p3s4w5">
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln94205-102-p3s5w12</LM>
 </w.rf>
 <form>Barták</form>
-<tag lemma="Barták_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barták_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-102-p3s5w13">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <form>Panton</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS4-----A----</AM>
-<AM lemma="Panton_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p4s1w7">
@@ -1556,7 +1556,7 @@
 <form>Panton</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS4-----A----</AM>
-<AM lemma="Panton_;K" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p4s2w7">
@@ -1913,7 +1913,7 @@
 <LM>w#w-ln94205-102-p5s1w10</LM>
 </w.rf>
 <form>Bartáka</form>
-<tag lemma="Barták_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Barták_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-102-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1988,8 +1988,8 @@
 </w.rf>
 <form>ir</form>
 <tag>
-<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ir-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p5s2w3">

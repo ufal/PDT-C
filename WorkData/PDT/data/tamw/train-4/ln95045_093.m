@@ -1090,7 +1090,7 @@
 <LM>w#w-ln95045-093-p3s3w10</LM>
 </w.rf>
 <form>Ondruše</form>
-<tag lemma="Ondruš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ondruš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-093-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln95045-093-p3s4w2</LM>
 </w.rf>
 <form>Brix</form>
-<tag lemma="Brix_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brix_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-093-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1230,8 +1230,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-093-p3s4w8">
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln95045-093-p3s5w11</LM>
 </w.rf>
 <form>Brixe</form>
-<tag lemma="Brix_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brix_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-093-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1832,7 +1832,7 @@
 <LM>w#w-ln95045-093-p3s6w20</LM>
 </w.rf>
 <form>Vaníček</form>
-<tag lemma="Vaníček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vaníček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-093-p3s6w21">
 <src.rf>manual</src.rf>

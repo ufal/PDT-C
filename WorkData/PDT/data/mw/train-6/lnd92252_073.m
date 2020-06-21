@@ -51,7 +51,7 @@
 <LM>w#w-lnd92252-073-p1s1w5</LM>
 </w.rf>
 <form>JELCINA</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92252-073-p2s1">
@@ -131,7 +131,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-073-p3s2w5">
@@ -148,7 +148,7 @@
 <LM>w#w-lnd92252-073-p3s2w6</LM>
 </w.rf>
 <form>Gajdar</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-073-p3s2w7">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-073-p3s2w10">
@@ -191,7 +191,7 @@
 <LM>w#w-lnd92252-073-p3s2w11</LM>
 </w.rf>
 <form>Šochin</form>
-<tag lemma="Šochin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šochin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-073-p3s2w12">
 <src.rf>manual</src.rf>
@@ -426,10 +426,10 @@
 </w.rf>
 <form>Togliatti</form>
 <tag>
-<AM lemma="Togliatti_;G_;S" src="orig">NNNXX-----A----</AM>
-<AM lemma="Togliatti_;G_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Togliatti_;G_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Togliatti-2_;G_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Togliatti_;G_;Y" src="orig">NNNXX-----A----</AM>
+<AM lemma="Togliatti_;G_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Togliatti_;G_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Togliatti-2_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-073-p3s3w12">
@@ -634,7 +634,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-073-p4s1w17">
@@ -651,7 +651,7 @@
 <LM>w#w-lnd92252-073-p4s1w18</LM>
 </w.rf>
 <form>Gajdar</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-073-p4s1w19">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-073-p4s2w9">
@@ -760,7 +760,7 @@
 <LM>w#w-lnd92252-073-p4s2w10</LM>
 </w.rf>
 <form>Jelcinem</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92252-073-p4s2w11">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-lnd92252-073-p4s3w2</LM>
 </w.rf>
 <form>Gajdara</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-073-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1686,7 +1686,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-073-p6s1w2">
@@ -1703,7 +1703,7 @@
 <LM>w#w-lnd92252-073-p6s1w3</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-073-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1967,7 +1967,7 @@
 <LM>w#w-lnd92252-073-p6s1w36</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-073-p6s1w37">
 <src.rf>manual</src.rf>

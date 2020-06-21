@@ -27,7 +27,7 @@
 <LM>w#w-ln94208-96-p1s1w2</LM>
 </w.rf>
 <form>Lindman</form>
-<tag lemma="Lindman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lindman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p1s1w3">
 <src.rf>manual</src.rf>
@@ -53,7 +53,7 @@
 <LM>w#w-ln94208-96-p2s1Aw1</LM>
 </w.rf>
 <form>Lundmark</form>
-<tag lemma="Lundmark_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lundmark_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-ln94208-96-p2s1Aw6</LM>
 </w.rf>
 <form>Bukač</form>
-<tag lemma="Bukač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bukač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -136,8 +136,8 @@
 </w.rf>
 <form>bra</form>
 <tag>
-<AM lemma="bra-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="bra-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="bra-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bra-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-96-p2s1Bw4">
@@ -155,8 +155,8 @@
 </w.rf>
 <form>tob</form>
 <tag>
-<AM lemma="tob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="tob-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tob-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-96-p2s1Bw6">
@@ -256,7 +256,7 @@
 </w.rf>
 <form>Cup</form>
 <tag>
-<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cup-77" src="manual">F%-------------</AM>
 <AM lemma="cup-1" src="manual">NNIS1-----A----</AM>
 <AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS1-----A----</AM>
@@ -410,7 +410,7 @@
 <LM>w#w-ln94208-96-p2s1Cw28</LM>
 </w.rf>
 <form>Čajkovi</form>
-<tag lemma="Čajka-1_;S" src="auto" selected="1">NNMS6-----A----</tag>
+<tag lemma="Čajka-1_;Y" src="auto" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94208-96-p2s1Cw29">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln94208-96-p2s2w4</LM>
 </w.rf>
 <form>Jelínkem</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-96-p2s2w5">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-ln94208-96-p2s2w14</LM>
 </w.rf>
 <form>Lindman</form>
-<tag lemma="Lindman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lindman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p2s2w15">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln94208-96-p2s3w21</LM>
 </w.rf>
 <form>Janečka</form>
-<tag lemma="Janečka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janečka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p2s3w22">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-ln94208-96-p2s3w24</LM>
 </w.rf>
 <form>Baťovy</form>
-<tag lemma="Baťův_;S_^(*2a)" src="auto" selected="1">AUFS2M---------</tag>
+<tag lemma="Baťův_;Y_^(*2a)" src="auto" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94208-96-p2s3w25">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-ln94208-96-p2s6w1</LM>
 </w.rf>
 <form>Lindman</form>
-<tag lemma="Lindman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lindman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln94208-96-p2s9w7</LM>
 </w.rf>
 <form>Lindman</form>
-<tag lemma="Lindman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lindman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p2s9w8">
 <src.rf>manual</src.rf>
@@ -1474,7 +1474,7 @@
 <LM>w#w-ln94208-96-p3s1w15</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1659,8 +1659,8 @@
 </w.rf>
 <form>NHL</form>
 <tag>
-<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;m_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-96-p3s2w14">
@@ -1786,7 +1786,7 @@
 <LM>w#w-ln94208-96-p3s3w14</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1836,7 +1836,7 @@
 <LM>w#w-ln94208-96-p3s4w5</LM>
 </w.rf>
 <form>Lundmark</form>
-<tag lemma="Lundmark_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lundmark_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p3s4w6">
 <src.rf>manual</src.rf>
@@ -2139,7 +2139,7 @@
 <LM>w#w-ln94208-96-p3s6w10</LM>
 </w.rf>
 <form>Lundmark</form>
-<tag lemma="Lundmark_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lundmark_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p3s6w11">
 <src.rf>manual</src.rf>
@@ -2165,7 +2165,7 @@
 <LM>w#w-ln94208-96-p3s7w2</LM>
 </w.rf>
 <form>Bukač</form>
-<tag lemma="Bukač_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bukač_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p3s7w3">
 <src.rf>manual</src.rf>
@@ -2205,7 +2205,7 @@
 <LM>w#w-ln94208-96-p3s7w7</LM>
 </w.rf>
 <form>Jelínek</form>
-<tag lemma="Jelínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-96-p3s7w8">
 <src.rf>manual</src.rf>

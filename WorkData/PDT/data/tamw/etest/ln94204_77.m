@@ -63,7 +63,7 @@
 <LM>w#w-ln94204-77-p2s1Bw2</LM>
 </w.rf>
 <form>Franěk</form>
-<tag lemma="Franěk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franěk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-77-p2s1C">

@@ -697,7 +697,7 @@
 <LM>w#w-mf920923-107-p3s1w17</LM>
 </w.rf>
 <form>Stalina</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-107-p3s1w18">
 <src.rf>manual</src.rf>

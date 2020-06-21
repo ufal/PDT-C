@@ -405,7 +405,7 @@
 <form>Polák</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-62-p3s3w4">
@@ -430,7 +430,7 @@
 <LM>w#w-ln94209-62-p3s3w6</LM>
 </w.rf>
 <form>Jasanský</form>
-<tag lemma="Jasanský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jasanský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

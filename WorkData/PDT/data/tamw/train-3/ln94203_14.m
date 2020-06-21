@@ -367,7 +367,7 @@
 <LM>w#w-ln94203-14-p2s2w6</LM>
 </w.rf>
 <form>Hydrotech</form>
-<tag lemma="Hydrotech_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hydrotech_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-14-p2s2w7">
 <src.rf>manual</src.rf>

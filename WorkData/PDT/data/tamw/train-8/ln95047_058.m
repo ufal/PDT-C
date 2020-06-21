@@ -336,7 +336,7 @@
 <LM>w#w-ln95047-058-p2s2w6</LM>
 </w.rf>
 <form>Pattir</form>
-<tag lemma="Pattir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pattir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-ln95047-058-p3s1w14</LM>
 </w.rf>
 <form>Pattir</form>
-<tag lemma="Pattir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pattir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p3s1w15">
 <src.rf>manual</src.rf>
@@ -2185,7 +2185,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Ze'ev</form>
-<tag lemma="Ze'ev_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ze'ev_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 <comment>
 <LM type="Other">
 <text>3v1: Ze ' ev</text>
@@ -2366,7 +2366,7 @@
 <LM>w#w-ln95047-058-p5s4w7</LM>
 </w.rf>
 <form>Lurie</form>
-<tag lemma="Lurie_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lurie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p5s4w8">
 <src.rf>manual</src.rf>
@@ -2465,7 +2465,7 @@
 <LM>w#w-ln95047-058-p5s4w19</LM>
 </w.rf>
 <form>Nahari</form>
-<tag lemma="Nahari_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nahari_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-058-p5s4w20">
 <src.rf>manual</src.rf>

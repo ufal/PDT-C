@@ -29,8 +29,8 @@
 <form>Hutové</form>
 <tag>
 <AM lemma="Hutu_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Hut_;S" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="Hut_;S" src="auto">NNMP5-----A----</AM>
+<AM lemma="Hut_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Hut_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Hutu_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP5-----A---1</AM>
 </tag>
@@ -311,8 +311,8 @@
 </w.rf>
 <form>Faustin</form>
 <tag>
-<AM lemma="Faustin_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Faustin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Faustin_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Faustin_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-52-p2s1w33">
@@ -321,7 +321,7 @@
 <LM>w#w-ln94201-52-p2s1w33</LM>
 </w.rf>
 <form>Twagiramungu</form>
-<tag lemma="Twagiramungu_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Twagiramungu_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-52-p2s1w34">
 <src.rf>manual</src.rf>
@@ -661,8 +661,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-52-p2s4w3">
@@ -713,12 +713,12 @@
 <form>Huty</form>
 <tag>
 <AM lemma="Hutu_;E" src="orig">NNMP4-----A----</AM>
-<AM lemma="Hut_;S" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="Hut_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Huta_;K" src="auto">NNFP1-----A----</AM>
-<AM lemma="Huta_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Huta_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Huta_;K" src="auto">NNFS2-----A----</AM>
+<AM lemma="Hut_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Hut_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Huta_;m" src="auto">NNFP1-----A----</AM>
+<AM lemma="Huta_;m" src="auto">NNFP4-----A----</AM>
+<AM lemma="Huta_;m" src="auto">NNFP5-----A----</AM>
+<AM lemma="Huta_;m" src="auto">NNFS2-----A----</AM>
 <AM lemma="Hutu_;E" src="auto" selected="1">NNMP4-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP7-----A---1</AM>
 </tag>
@@ -935,8 +935,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-52-p3s1w4">
@@ -1240,7 +1240,7 @@
 <LM>w#w-ln94201-52-p3s3w8</LM>
 </w.rf>
 <form>Voroncova</form>
-<tag lemma="Voroncov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Voroncov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-52-p3s3w9">
 <src.rf>manual</src.rf>

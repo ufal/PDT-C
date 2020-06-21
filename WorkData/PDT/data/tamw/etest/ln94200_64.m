@@ -53,7 +53,7 @@
 <LM>w#w-ln94200-64-p2s1Aw2</LM>
 </w.rf>
 <form>Franěk</form>
-<tag lemma="Franěk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franěk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-64-p2s1B">
@@ -2458,7 +2458,7 @@
 <LM>w#w-ln94200-64-p6s4w4</LM>
 </w.rf>
 <form>Rousseau</form>
-<tag lemma="Rousseau_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rousseau_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-64-p6s4w5">
 <src.rf>manual</src.rf>

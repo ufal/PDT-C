@@ -19,7 +19,7 @@
 <LM>w#w-lnd91303-086-p1s1w1</LM>
 </w.rf>
 <form>LOPRAIS</form>
-<tag lemma="Loprais_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loprais_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-lnd91303-086-p2s1w1</LM>
 </w.rf>
 <form>Auriol</form>
-<tag lemma="Auriol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Auriol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p2s1w2">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 <tag>
 <AM lemma="Tumu_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Tuma_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Tuma_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Tuma_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Tumu_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -271,7 +271,7 @@
 <tag>
 <AM lemma="Tumu_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Tuma_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Tuma_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Tuma_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Tumu_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -361,7 +361,7 @@
 <LM>w#w-lnd91303-086-p4s1w27</LM>
 </w.rf>
 <form>Auriol</form>
-<tag lemma="Auriol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Auriol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s1w28">
 <src.rf>manual</src.rf>
@@ -386,10 +386,10 @@
 </w.rf>
 <form>Micubiši</form>
 <tag>
-<AM lemma="Micubiši-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Mitsubishi_;K_;R" src="auto">NNXXX-----A---6</AM>
-<AM lemma="mitsubishi_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A---6</AM>
-<AM lemma="Micubiši_;K_;R_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Micubiši-2_;m_^(vozidlo)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mitsubishi_;m" src="auto">NNXXX-----A---6</AM>
+<AM lemma="mitsubishi_;m_^(vozidlo)" src="auto" recommended="1">NNXXX-----A---6</AM>
+<AM lemma="Micubiši_;m_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-086-p4s1w31">
@@ -504,7 +504,7 @@
 <LM>w#w-lnd91303-086-p4s2w6</LM>
 </w.rf>
 <form>Peterhansel</form>
-<tag lemma="Peterhansel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peterhansel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s2w7">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd91303-086-p4s2w12</LM>
 </w.rf>
 <form>Petriho</form>
-<tag lemma="Petri_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Petri_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s2w13">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-lnd91303-086-p4s3w7</LM>
 </w.rf>
 <form>Loprais</form>
-<tag lemma="Loprais_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loprais_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s3w8">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-lnd91303-086-p4s3w9</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s3w10">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-lnd91303-086-p4s3w19</LM>
 </w.rf>
 <form>Buchtyár</form>
-<tag lemma="Buchtyár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Buchtyár_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s3w20">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-lnd91303-086-p4s4w1</LM>
 </w.rf>
 <form>Loprais</form>
-<tag lemma="Loprais_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loprais_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s4w2">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-lnd91303-086-p4s4w6</LM>
 </w.rf>
 <form>Peliniho</form>
-<tag lemma="Pelini_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pelini_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s4w7">
 <src.rf>manual</src.rf>

@@ -687,8 +687,8 @@
 </w.rf>
 <form>Anděl</form>
 <tag>
-<AM lemma="Anděl_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Anděl-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Anděl_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Anděl-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-003-p8s1w3">
@@ -1478,7 +1478,7 @@
 <LM>w#w-cmpr9410-003-p10s1w6</LM>
 </w.rf>
 <form>Choděra</form>
-<tag lemma="Choděra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Choděra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-003-p11s1">

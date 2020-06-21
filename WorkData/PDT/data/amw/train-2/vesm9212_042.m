@@ -62,7 +62,7 @@
 <LM>w#w-vesm9212-042-p1s1w6</LM>
 </w.rf>
 <form>Hajduk</form>
-<tag lemma="Hajduk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hajduk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-042-p1s1w7">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-vesm9212-042-p7s1w13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-042-p7s1w14">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-042-p10s1w3">
@@ -1495,7 +1495,7 @@
 <LM>w#w-vesm9212-042-p10s1w4</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-042-p11s1">

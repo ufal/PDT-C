@@ -141,7 +141,7 @@
 <LM>w#w-mf930708-011-p2s1w4</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="bar-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930708-011-p2s1w5">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-mf930708-011-p2s2w2</LM>
 </w.rf>
 <form>Dvořákových</form>
-<tag lemma="Dvořákův_;S_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Dvořákův_;Y_^(*2)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-mf930708-011-p2s2w3">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-mf930708-011-p2s4w5</LM>
 </w.rf>
 <form>Čapek</form>
-<tag lemma="Čapek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čapek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-011-p2s4w6">
 <src.rf>manual</src.rf>

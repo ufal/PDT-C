@@ -86,9 +86,9 @@
 </w.rf>
 <form>vl</form>
 <tag>
-<AM lemma="vl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vládní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="vl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-019-p2s1w4">
@@ -487,7 +487,7 @@
 <LM>w#w-mf930701-019-p2s3w2</LM>
 </w.rf>
 <form>Petrof</form>
-<tag lemma="Petrof_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrof_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-019-p2s3w3">
 <src.rf>manual</src.rf>

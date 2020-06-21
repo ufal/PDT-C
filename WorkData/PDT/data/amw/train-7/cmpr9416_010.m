@@ -236,7 +236,7 @@
 </w.rf>
 <form>Data</form>
 <tag>
-<AM lemma="Data_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Data_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
@@ -254,8 +254,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -404,7 +404,7 @@
 <LM>w#w-cmpr9416-010-p4s2w12</LM>
 </w.rf>
 <form>Sanyo</form>
-<tag lemma="Sanyo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Sanyo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-010-p4s2w13">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-cmpr9416-010-p6s1w7</LM>
 </w.rf>
 <form>Nichetzu</form>
-<tag lemma="Nichetzu_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Nichetzu_;m_,t" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-010-p6s1w8">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <form>Nippon</form>
 <tag>
 <AM lemma="Nippon_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Nippon_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Nippon_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-010-p6s2w8">
@@ -688,7 +688,7 @@
 </w.rf>
 <form>ONC</form>
 <tag>
-<AM lemma="ONC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ONC_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ONC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -938,7 +938,7 @@
 <LM>w#w-cmpr9416-010-p6s2w39</LM>
 </w.rf>
 <form>Sanyo</form>
-<tag lemma="Sanyo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Sanyo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-010-p6s2w40">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 </w.rf>
 <form>Data</form>
 <tag>
-<AM lemma="Data_;K_,t" src="orig">NNNP1-----A----</AM>
+<AM lemma="Data_;m_,t" src="orig">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
@@ -1070,8 +1070,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1394,7 +1394,7 @@
 </w.rf>
 <form>Data</form>
 <tag>
-<AM lemma="Data_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Data_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
@@ -1412,7 +1412,7 @@
 </w.rf>
 <form>Int</form>
 <tag>
-<AM lemma="International_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="International_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Int-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1818,7 +1818,7 @@
 <LM>w#w-cmpr9416-010-p9s7w14</LM>
 </w.rf>
 <form>Oslizlo</form>
-<tag lemma="Oslizlo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oslizlo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-010-p9s7w15">
 <src.rf>manual</src.rf>
@@ -1883,7 +1883,7 @@
 </w.rf>
 <form>Data</form>
 <tag>
-<AM lemma="Data_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Data_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
@@ -1901,7 +1901,7 @@
 </w.rf>
 <form>Int</form>
 <tag>
-<AM lemma="International_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="International_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Int-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1963,7 +1963,7 @@
 <LM>w#w-cmpr9416-010-p11s1w4</LM>
 </w.rf>
 <form>Sanyo</form>
-<tag lemma="Sanyo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Sanyo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-010-p11s1w5">
 <src.rf>manual</src.rf>
@@ -2014,7 +2014,7 @@
 </w.rf>
 <form>Data</form>
 <tag>
-<AM lemma="Data_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Data_;m_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
@@ -2032,7 +2032,7 @@
 </w.rf>
 <form>Int</form>
 <tag>
-<AM lemma="International_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="International_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Int-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2163,7 +2163,7 @@
 </w.rf>
 <form>NCS</form>
 <tag>
-<AM lemma="NCS_:B_;K_,t" src="orig">NNXSX-----A----</AM>
+<AM lemma="NCS_:B_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="NCS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2455,7 +2455,7 @@
 <LM>w#w-cmpr9416-010-p11s4w23</LM>
 </w.rf>
 <form>Sanyo</form>
-<tag lemma="Sanyo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Sanyo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-010-p11s4w24">
 <src.rf>manual</src.rf>
@@ -2775,7 +2775,7 @@
 </w.rf>
 <form>DATA</form>
 <tag>
-<AM lemma="Data_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Data_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
@@ -2793,8 +2793,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>

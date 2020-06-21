@@ -37,7 +37,7 @@
 <form>Sládka</form>
 <tag>
 <AM lemma="sládek" src="orig">NNMS2-----A----</AM>
-<AM lemma="Sládek_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Sládek_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-109-p1s1Aw4">
@@ -62,7 +62,7 @@
 <LM>w#w-mf920902-109-p1s1Aw6</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jh-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf920902-109-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -162,8 +162,8 @@
 </w.rf>
 <form>Gregora</form>
 <tag>
-<AM lemma="Gregor_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Gregor_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gregor_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Gregor_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-109-p1s1Bw11">
@@ -172,7 +172,7 @@
 <LM>w#w-mf920902-109-p1s1Bw11</LM>
 </w.rf>
 <form>Mendela</form>
-<tag lemma="Mendel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mendel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-109-p1s1Bw12">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 <form>Sládek</form>
 <tag>
 <AM lemma="sládek" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sládek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sládek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-109-p1s1Bw25">
@@ -814,7 +814,7 @@
 <LM>w#w-mf920902-109-p1s4w29</LM>
 </w.rf>
 <form>Jíra</form>
-<tag lemma="Jíra_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jíra_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-109-p1s4w30">
 <src.rf>manual</src.rf>

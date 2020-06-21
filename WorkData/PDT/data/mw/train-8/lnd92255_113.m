@@ -672,7 +672,7 @@
 <form>Kříž</form>
 <tag>
 <AM lemma="Kříž-2_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kříž_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kříž_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="kříž" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="kříž" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1460,8 +1460,8 @@
 </w.rf>
 <form>E</form>
 <tag>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="E-33" src="orig">Q3-------------</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-113-p3s1w29">

@@ -69,7 +69,7 @@
 <LM>w#w-cmpr9416-042-p3s1w4</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-042-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-cmpr9416-042-p9s2w24</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-042-p9s2w25">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-cmpr9416-042-p9s2w26</LM>
 </w.rf>
 <form>Šimek</form>
-<tag lemma="Šimek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-042-p9s2w27">
 <src.rf>manual</src.rf>
@@ -1089,7 +1089,7 @@
 <LM>w#w-cmpr9416-042-p10s1w2</LM>
 </w.rf>
 <form>Skloexportu</form>
-<tag lemma="Skloexport_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Skloexport_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-042-p11s1">
@@ -1213,7 +1213,7 @@
 <LM>w#w-cmpr9416-042-p11s2w5</LM>
 </w.rf>
 <form>Skloexportu</form>
-<tag lemma="Skloexport_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Skloexport_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-042-p11s2w6">
 <src.rf>manual</src.rf>
@@ -1523,7 +1523,7 @@
 <LM>w#w-cmpr9416-042-p12s2w8</LM>
 </w.rf>
 <form>Skloexportu</form>
-<tag lemma="Skloexport_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Skloexport_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-042-p12s2w9">
 <src.rf>manual</src.rf>
@@ -1564,7 +1564,7 @@
 </w.rf>
 <form>Bohemia</form>
 <tag>
-<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1575,7 +1575,7 @@
 </w.rf>
 <form>Crystal</form>
 <tag>
-<AM lemma="Crystal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Crystal_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Crystal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1683,7 +1683,7 @@
 <LM>w#w-cmpr9416-042-p12s3w12</LM>
 </w.rf>
 <form>Šimek</form>
-<tag lemma="Šimek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šimek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-042-p12s3w13">
 <src.rf>manual</src.rf>
@@ -2525,7 +2525,7 @@
 <LM>w#w-cmpr9416-042-p16s1w8</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-042-p16s1w9">
 <src.rf>manual</src.rf>
@@ -3111,7 +3111,7 @@
 <LM>w#w-cmpr9416-042-p17s1w4</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-042-p17s1w5">
 <src.rf>manual</src.rf>
@@ -3410,7 +3410,7 @@
 <LM>w#w-cmpr9416-042-p18s1w4</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-042-p19s1">

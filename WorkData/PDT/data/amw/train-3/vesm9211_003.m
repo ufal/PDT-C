@@ -69,7 +69,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-003-p1s1Aw8">
@@ -86,7 +86,7 @@
 <LM>w#w-vesm9211-003-p1s1Aw9</LM>
 </w.rf>
 <form>Bednářové</form>
-<tag lemma="Bednářová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bednářová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9211-003-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-vesm9211-003-p2s1Aw5</LM>
 </w.rf>
 <form>Kurze</form>
-<tag lemma="Kurz-1_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kurz-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9211-003-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 </w.rf>
 <form>Scientific</form>
 <tag>
-<AM lemma="Scientific_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Scientific_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Scientific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1357,7 +1357,7 @@
 </w.rf>
 <form>American</form>
 <tag>
-<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="orig">AAXXX----1A----</AM>
+<AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="orig">AAXXX----1A----</AM>
 <AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1661,7 +1661,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-003-p4s1w4">
@@ -1678,7 +1678,7 @@
 <LM>w#w-vesm9211-003-p4s1w5</LM>
 </w.rf>
 <form>Hořejší</form>
-<tag lemma="Hořejší_;S" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Hořejší_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-003-p5s1">

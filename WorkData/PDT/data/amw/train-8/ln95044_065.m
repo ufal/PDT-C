@@ -163,7 +163,7 @@
 <LM>w#w-ln95044-065-p1s1w19</LM>
 </w.rf>
 <form>Moučkové</form>
-<tag lemma="Moučková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Moučková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-065-p1s1w20">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-ln95044-065-p1s6w18</LM>
 </w.rf>
 <form>Uvě</form>
-<tag lemma="Uva_;K" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Uva_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-065-p1s6w19">
 <src.rf>manual</src.rf>
@@ -1484,7 +1484,7 @@
 <LM>w#w-ln95044-065-p1s8w9</LM>
 </w.rf>
 <form>Ježkem</form>
-<tag lemma="Ježek_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Ježek_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95044-065-p1s8w10">
 <src.rf>manual</src.rf>

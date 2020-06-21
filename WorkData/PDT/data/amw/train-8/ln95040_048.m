@@ -27,7 +27,7 @@
 <LM>w#w-ln95040-048-p1s1w2</LM>
 </w.rf>
 <form>Hopper</form>
-<tag lemma="Hopper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hopper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-048-p1s1w3">
 <src.rf>manual</src.rf>

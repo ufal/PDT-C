@@ -238,8 +238,8 @@
 </w.rf>
 <form>Drop</form>
 <tag>
-<AM lemma="Drop_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="drop_;L" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drop_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="drop_;U" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="drop-2_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Drop-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -251,7 +251,7 @@
 </w.rf>
 <form>In</form>
 <tag>
-<AM lemma="In_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="In_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Ina_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="in-1_,t_^(angl._v)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="in-2_,h_,t" src="auto">AAXXX----1A----</AM>
@@ -272,7 +272,7 @@
 <LM>w#w-mf920924-062-p1s2w14</LM>
 </w.rf>
 <form>Presl</form>
-<tag lemma="Presl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Presl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-062-p1s2w15">
 <src.rf>manual</src.rf>

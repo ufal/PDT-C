@@ -553,8 +553,8 @@
 </w.rf>
 <form>Sme</form>
 <tag>
-<AM lemma="Sme_;K_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Sme_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
+<AM lemma="Sme_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
 <AM lemma="Sme-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -581,7 +581,7 @@
 <LM>w#w-ln95047-071-p2s3w9</LM>
 </w.rf>
 <form>Porubjak</form>
-<tag lemma="Porubjak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Porubjak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-071-p2s3w10">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-ln95047-071-p2s6w14</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-071-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 <LM>w#w-ln95047-071-p3s1w2</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-071-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1235,8 +1235,8 @@
 </w.rf>
 <form>Sme</form>
 <tag>
-<AM lemma="Sme_;K_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Sme_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
+<AM lemma="Sme_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
 <AM lemma="Sme-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1364,7 +1364,7 @@
 <LM>w#w-ln95047-071-p3s2w1</LM>
 </w.rf>
 <form>Havlova</form>
-<tag lemma="Havlův_;S_^(*3el)" src="orig" selected="1">AUNP1M---------</tag>
+<tag lemma="Havlův_;Y_^(*3el)" src="orig" selected="1">AUNP1M---------</tag>
 </m>
 <m id="m-ln95047-071-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1452,7 +1452,7 @@
 <LM>w#w-ln95047-071-p3s2w12</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95047-071-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1880,7 +1880,7 @@
 <LM>w#w-ln95047-071-p4s2w1</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-071-p4s2w2">
 <src.rf>manual</src.rf>

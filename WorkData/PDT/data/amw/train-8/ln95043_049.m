@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-049-p1s1w1</LM>
 </w.rf>
 <form>Walesa</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-049-p1s1w2">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walensa</form>
-<tag lemma="Walensa_;S_^(Lech_Walesa)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Walensa_;Y_^(Lech_Walesa)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-049-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln95043-049-p2s3w9</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-049-p2s3w10">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-ln95043-049-p2s4w1</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-049-p2s4w2">
 <src.rf>manual</src.rf>
@@ -934,7 +934,7 @@
 <LM>w#w-ln95043-049-p2s6w1</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-049-p2s6w2">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walensovy</form>
-<tag lemma="Walensův_;S_^(Lech_Walesa)_(*2a)" src="auto" selected="1">AUMP4M---------</tag>
+<tag lemma="Walensův_;Y_^(Lech_Walesa)_(*2a)" src="auto" selected="1">AUMP4M---------</tag>
 </m>
 <m id="m-ln95043-049-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1275,7 +1275,7 @@
 <LM>w#w-ln95043-049-p2s8w16</LM>
 </w.rf>
 <form>Oleksyho</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-049-p2s8w17">
 <src.rf>manual</src.rf>

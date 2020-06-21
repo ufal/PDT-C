@@ -47,7 +47,7 @@
 <LM>w#w-ln94209-42-p2s1Bw2</LM>
 </w.rf>
 <form>Franěk</form>
-<tag lemma="Franěk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franěk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-42-p2s1C">
@@ -90,8 +90,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-42-p2s1Cw6">
@@ -679,7 +679,7 @@
 <LM>w#w-ln94209-42-p3s3w13</LM>
 </w.rf>
 <form>Kočárník</form>
-<tag lemma="Kočárník_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočárník_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-42-p3s3w14">
 <src.rf>manual</src.rf>
@@ -757,8 +757,8 @@
 <AM lemma="jakoby-2" src="orig" selected="1">Db-------------</AM>
 <AM lemma="Jakob_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jakob_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Jakoby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jakoby_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Jakoby_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jakoby_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="jakoby" src="auto">J,-------------</AM>
 </tag>
 </m>
@@ -1005,8 +1005,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-42-p4s2w10">
@@ -1244,8 +1244,8 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-42-p4s4w2">

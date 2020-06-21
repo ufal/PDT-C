@@ -391,7 +391,7 @@
 <LM>w#w-mf930713-001-p3s3w11</LM>
 </w.rf>
 <form>kalcia</form>
-<tag lemma="kalcium_;H" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="kalcium_;U" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930713-001-p3s3w12">
 <src.rf>manual</src.rf>

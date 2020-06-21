@@ -53,7 +53,7 @@
 <LM>w#w-ln94203-80-p2s1Aw2</LM>
 </w.rf>
 <form>Frištenská</form>
-<tag lemma="Frištenská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Frištenská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-80-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -2586,7 +2586,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Joachymowski</form>
-<tag lemma="Joachymovski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Joachymovski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-80-p5s1w29">
 <src.rf>manual</src.rf>
@@ -3079,7 +3079,7 @@
 <LM>w#w-ln94203-80-p5s4w11</LM>
 </w.rf>
 <form>Růžička</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-80-p5s4w12">
 <src.rf>manual</src.rf>
@@ -3097,7 +3097,7 @@
 <form>Daniel</form>
 <tag>
 <AM lemma="Daniel_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daniel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Daniel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-80-p5s4w14">
@@ -3114,7 +3114,7 @@
 <LM>w#w-ln94203-80-p5s4w15</LM>
 </w.rf>
 <form>Holomek</form>
-<tag lemma="Holomek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holomek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-80-p5s4w16">
 <src.rf>manual</src.rf>
@@ -3130,7 +3130,7 @@
 <LM>w#w-ln94203-80-p5s4w17</LM>
 </w.rf>
 <form>Herák</form>
-<tag lemma="Herák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Herák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-80-p5s4w18">
 <src.rf>manual</src.rf>

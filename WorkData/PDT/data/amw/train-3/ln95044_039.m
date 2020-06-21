@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-039-p1s1w1</LM>
 </w.rf>
 <form>Cantonu</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-039-p1s1w2">
 <src.rf>manual</src.rf>
@@ -90,7 +90,7 @@
 <LM>w#w-ln95044-039-p2s1Bw2</LM>
 </w.rf>
 <form>Cantonu</form>
-<tag lemma="Cantona_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cantona_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-039-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 </w.rf>
 <form>United</form>
 <tag>
-<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
 <AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -473,7 +473,7 @@
 <LM>w#w-ln95044-039-p2s3w3</LM>
 </w.rf>
 <form>Cantonův</form>
-<tag lemma="Cantonův_;S_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Cantonův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95044-039-p2s3w4">
 <src.rf>manual</src.rf>
@@ -522,10 +522,10 @@
 </w.rf>
 <form>Crystal</form>
 <tag>
-<AM lemma="Crystal_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Crystal_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Crystal_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Crystal_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Crystal_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Crystal_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Crystal_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Crystal_;m" src="manual">NNIXX-----A----</AM>
 <AM lemma="Crystal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -536,7 +536,7 @@
 </w.rf>
 <form>Palace</form>
 <tag>
-<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-1_;m_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

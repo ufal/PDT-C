@@ -274,7 +274,7 @@
 <LM>w#w-lnd94103-084-p1s4w6</LM>
 </w.rf>
 <form>Navrátil</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-084-p1s4w7">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-084-p1s5w31">
@@ -718,7 +718,7 @@
 <LM>w#w-lnd94103-084-p1s5w32</LM>
 </w.rf>
 <form>Navrátil</form>
-<tag lemma="Navrátil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navrátil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-084-p1s5w33">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-lnd94103-084-p1s7w12</LM>
 </w.rf>
 <form>fitnesscentrech</form>
-<tag lemma="fitnesscentrum_;w" src="auto" selected="1">NNNP6-----A----</tag>
+<tag lemma="fitnesscentrum" src="auto" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd94103-084-p1s7w13">
 <src.rf>manual</src.rf>

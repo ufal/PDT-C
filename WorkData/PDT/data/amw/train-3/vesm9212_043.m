@@ -2300,7 +2300,7 @@
 <LM>w#w-vesm9212-043-p5s1w2</LM>
 </w.rf>
 <form>Flek</form>
-<tag lemma="Flek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Flek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-043-p6s1">
@@ -2343,8 +2343,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-043-p6s1w6">
@@ -3264,7 +3264,7 @@
 <LM>w#w-vesm9212-043-p12s1w2</LM>
 </w.rf>
 <form>Vondrys</form>
-<tag lemma="Vondrys_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vondrys_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-043-p13s1">
@@ -3291,8 +3291,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-043-p13s1w4">

@@ -69,7 +69,7 @@
 <LM>w#w-ln94205-134-p2s1Aw4</LM>
 </w.rf>
 <form>Baudyšova</form>
-<tag lemma="Baudyšův_;S_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Baudyšův_;Y_^(*2)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-ln94205-134-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -120,8 +120,8 @@
 </w.rf>
 <form>gag</form>
 <tag>
-<AM lemma="gag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="gag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="gag-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gag-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-134-p2s1Bw4">
@@ -204,7 +204,7 @@
 <LM>w#w-ln94205-134-p2s1Cw8</LM>
 </w.rf>
 <form>Kalouskovi</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 </w.rf>
 <form>Eagle</form>
 <tag>
-<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -248,7 +248,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -267,8 +267,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-9_:B_;S" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-9_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw16">
@@ -382,8 +382,8 @@
 </w.rf>
 <form>Elbitu</form>
 <tag>
-<AM lemma="Elbit_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Elbit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Elbit_;m_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Elbit_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw30">
@@ -515,8 +515,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-134-p3s1w8">
@@ -742,7 +742,7 @@
 <LM>w#w-ln94205-134-p3s1w35</LM>
 </w.rf>
 <form>Kalousek</form>
-<tag lemma="Kalousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kalousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-134-p3s1w36">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 </w.rf>
 <form>Eagle</form>
 <tag>
-<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -786,7 +786,7 @@
 </w.rf>
 <form>Group</form>
 <tag>
-<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1829,8 +1829,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-134-p5s1w14">
@@ -1980,7 +1980,7 @@
 <LM>w#w-ln94205-134-p5s2w13</LM>
 </w.rf>
 <form>Kalouskovu</form>
-<tag lemma="Kalouskův_;S_^(*3ek)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Kalouskův_;Y_^(*3ek)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94205-134-p5s2w14">
 <src.rf>manual</src.rf>

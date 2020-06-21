@@ -822,7 +822,7 @@
 </w.rf>
 <form>ANSA</form>
 <tag>
-<AM lemma="ANSA-1_:B_;K_,t_^(Agenzia_Nazionale_Stampa_Associata)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ANSA-1_:B_;m_,t_^(Agenzia_Nazionale_Stampa_Associata)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ANSA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

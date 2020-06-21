@@ -196,7 +196,7 @@
 <LM>w#w-lnd92257-012-p3s2w15</LM>
 </w.rf>
 <form>Tlustého</form>
-<tag lemma="Tlustý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tlustý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-012-p3s2w16">
 <src.rf>manual</src.rf>
@@ -965,8 +965,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-012-p3s6w15">

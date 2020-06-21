@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-117-p1s1w1</LM>
 </w.rf>
 <form>Adámka</form>
-<tag lemma="Adámek_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Adámek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94105-117-p1s1w2">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-lnd94105-117-p1s3w2</LM>
 </w.rf>
 <form>Adámek</form>
-<tag lemma="Adámek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Adámek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-117-p1s3w3">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-lnd94105-117-p1s3w31</LM>
 </w.rf>
 <form>Williams</form>
-<tag lemma="Williams-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Williams-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-117-p1s3w32">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-lnd94105-117-p1s3w33</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-117-p1s3w34">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd94105-117-p1s3w34</LM>
 </w.rf>
 <form>Cosworth</form>
-<tag lemma="Cosworth_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Cosworth_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-117-p1s3w35">
 <src.rf>manual</src.rf>
@@ -604,9 +604,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-117-p1s5w6">
@@ -631,7 +631,7 @@
 <LM>w#w-lnd94105-117-p1s5w8</LM>
 </w.rf>
 <form>IndyCar</form>
-<tag lemma="Indycar_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Indycar_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-117-p1s5w9">
 <src.rf>manual</src.rf>

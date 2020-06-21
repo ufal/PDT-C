@@ -688,7 +688,7 @@
 <LM>w#w-mf920902-150-p2s5w11</LM>
 </w.rf>
 <form>Ševardnadzeho</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-150-p2s5w12">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <LM>w#w-mf920902-150-p2s6w1</LM>
 </w.rf>
 <form>Ševardnadze</form>
-<tag lemma="Ševardnadze_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ševardnadze_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-150-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-mf920902-150-p2s6w17</LM>
 </w.rf>
 <form>Jelcinem</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-150-p2s6w18">
 <src.rf>manual</src.rf>

@@ -240,7 +240,7 @@
 </w.rf>
 <form>coca</form>
 <tag>
-<AM lemma="coca_;L_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="coca_;U_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="coca-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -372,7 +372,7 @@
 <LM>w#w-mf930701-006-p2s3w5</LM>
 </w.rf>
 <form>Šmehlík</form>
-<tag lemma="Šmehlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šmehlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-006-p2s3w6">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 </w.rf>
 <form>Želenického</form>
 <tag>
-<AM lemma="Želenický_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Želenický_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAIS2----1A----</AM>
 <AM lemma="želenický" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="želenický" src="auto">AAMS4----1A----</AM>
@@ -1193,7 +1193,7 @@
 </w.rf>
 <form>Želenický</form>
 <tag>
-<AM lemma="Želenický_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Želenický_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP5----1A---6</AM>
@@ -1451,7 +1451,7 @@
 <LM>w#w-mf930701-006-p4s2w16</LM>
 </w.rf>
 <form>uraniem</form>
-<tag lemma="uranium_;H" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="uranium_;U" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930701-006-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 </w.rf>
 <form>Želenický</form>
 <tag>
-<AM lemma="Želenický_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Želenický_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP5----1A---6</AM>

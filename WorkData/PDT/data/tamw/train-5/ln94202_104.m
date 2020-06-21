@@ -27,7 +27,7 @@
 <LM>w#w-ln94202-104-p1s1Aw2</LM>
 </w.rf>
 <form>Hoddle</form>
-<tag lemma="Hoddle_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hoddle_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-104-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln94202-104-p1s1Aw6</LM>
 </w.rf>
 <form>Furlongem</form>
-<tag lemma="Furlong_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Furlong_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-104-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-ln94202-104-p1s1Aw10</LM>
 </w.rf>
 <form>Chelsea</form>
-<tag lemma="Chelsea_;G_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chelsea_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-104-p1s1Aw11">
 <src.rf>manual</src.rf>

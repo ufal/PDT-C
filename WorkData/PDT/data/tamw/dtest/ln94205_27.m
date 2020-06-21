@@ -307,8 +307,8 @@
 </w.rf>
 <form>Matvěj</form>
 <tag>
-<AM lemma="Matvěj_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Matvěj_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Matvěj_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Matvěj_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-27-p2s1Bw32">
@@ -317,7 +317,7 @@
 <LM>w#w-ln94205-27-p2s1Bw32</LM>
 </w.rf>
 <form>Burlakov</form>
-<tag lemma="Burlakov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burlakov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln94205-27-p2s1Bw38</LM>
 </w.rf>
 <form>Jelcinem</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln94205-27-p2s1Bw41</LM>
 </w.rf>
 <form>Kohlem</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s1Bw42">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-27-p2s2w2">
@@ -426,7 +426,7 @@
 <LM>w#w-ln94205-27-p2s2w3</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s2w4">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-ln94205-27-p2s2w6</LM>
 </w.rf>
 <form>Burlakovovi</form>
-<tag lemma="Burlakov_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Burlakov_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s2w7">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-ln94205-27-p2s2w11</LM>
 </w.rf>
 <form>Gračovovi</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s2w12">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-27-p2s4w5">
@@ -772,7 +772,7 @@
 <LM>w#w-ln94205-27-p2s4w6</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s4w7">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-27-p2s4w9">
@@ -807,7 +807,7 @@
 <LM>w#w-ln94205-27-p2s4w10</LM>
 </w.rf>
 <form>Kohl</form>
-<tag lemma="Kohl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kohl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1023,8 +1023,8 @@
 <form>den</form>
 <tag>
 <AM lemma="den-2_,t_^(něm._člen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="den-2_;b_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
-<AM lemma="den-2_;b_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
+<AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS1-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP2-----A----</AM>
@@ -1040,10 +1040,10 @@
 </w.rf>
 <form>Linden</form>
 <tag>
-<AM lemma="Linde_;G" src="orig">NNFPX-----A----</AM>
+<AM lemma="Linde_;G" src="orig">NNFXX-----A----</AM>
 <AM lemma="Linden-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Linden-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Linden-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Linden-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Linden-1_-t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Linden-3_-t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Linden-3_,t" src="manual">NNXXX-----A----</AM>

@@ -60,7 +60,7 @@
 </w.rf>
 <form>Nokia</form>
 <tag>
-<AM lemma="Nokia_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Nokia_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Nokia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -146,9 +146,9 @@
 <tag>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
-<AM lemma="o-88" src="auto">BNXXX-----A----</AM>
+<AM lemma="o-33" src="auto">Q3-------------</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
 </tag>
 </m>
@@ -245,7 +245,7 @@
 </w.rf>
 <form>Kabel</form>
 <tag>
-<AM lemma="Kablo_;K" src="auto">NNNP2-----A----</AM>
+<AM lemma="Kablo_;m" src="auto">NNNP2-----A----</AM>
 <AM lemma="kabel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kabel" src="auto">NNIS4-----A----</AM>
 <AM lemma="kabela" src="auto">NNFP2-----A----</AM>
@@ -259,9 +259,9 @@
 </w.rf>
 <form>B</form>
 <tag>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="B-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="B-33" src="auto">Q3-------------</AM>
+<AM lemma="B-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="B-33" src="auto">Q3-------------</AM>
 <AM lemma="b-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
 <AM lemma="bodový" src="auto">AAXXX----1A---8</AM>
@@ -283,12 +283,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
@@ -426,7 +426,7 @@
 <LM>w#w-wsj0921-001-p1s1W2</LM>
 </w.rf>
 <form>Nokia</form>
-<tag lemma="Nokia_;K" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Nokia_;m" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0921-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>Kabel</form>
 <tag>
-<AM lemma="Kablo_;K" src="auto">NNNP2-----A----</AM>
+<AM lemma="Kablo_;m" src="auto">NNNP2-----A----</AM>
 <AM lemma="kabel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kabel" src="auto">NNIS4-----A----</AM>
 <AM lemma="kabela" src="auto">NNFP2-----A----</AM>
@@ -600,12 +600,12 @@
 </w.rf>
 <form>N</form>
 <tag>
-<AM lemma="N-1_:B_;H_^(zn._dusíku)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="N-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="N-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="N-1_:B_;U_^(zn._dusíku)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="N-33" src="auto">Q3-------------</AM>
+<AM lemma="N-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSZS2-P1------8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSZS7-P1------8</AM>
-<AM lemma="N-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="N-33" src="auto">Q3-------------</AM>
 <AM lemma="n-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
@@ -627,12 +627,12 @@
 <form>V</form>
 <tag>
 <AM lemma="V-3`5" src="auto">C}-------------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="V-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
+<AM lemma="V-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
 <AM lemma="v-1" src="auto">RR--6----------</AM>
-<AM lemma="V-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
@@ -694,7 +694,7 @@
 </w.rf>
 <form>Kabel</form>
 <tag>
-<AM lemma="Kablo_;K" src="auto">NNNP2-----A----</AM>
+<AM lemma="Kablo_;m" src="auto">NNNP2-----A----</AM>
 <AM lemma="kabel" src="auto">NNIS1-----A----</AM>
 <AM lemma="kabel" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="kabela" src="auto">NNFP2-----A----</AM>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd92253-058-p1s1w2</LM>
 </w.rf>
 <form>Masaryk</form>
-<tag lemma="Masaryk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Masaryk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-058-p1s1w3">
 <src.rf>manual</src.rf>

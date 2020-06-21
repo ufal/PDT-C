@@ -226,7 +226,7 @@
 </w.rf>
 <form>Bod</form>
 <tag>
-<AM lemma="Bod_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bod_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Boda-2_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
@@ -388,7 +388,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

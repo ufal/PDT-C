@@ -28,7 +28,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -357,7 +357,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -627,7 +627,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -760,7 +760,7 @@
 <LM>w#w-cmpr9415-028-p5s1w22</LM>
 </w.rf>
 <form>Šrůtek</form>
-<tag lemma="Šrůtek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrůtek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-028-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1315,7 +1315,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -1336,7 +1336,7 @@
 <LM>w#w-cmpr9415-028-p9s1w37</LM>
 </w.rf>
 <form>Šrůtek</form>
-<tag lemma="Šrůtek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrůtek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-028-p9s1w38">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -2245,7 +2245,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -2754,7 +2754,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -3602,7 +3602,7 @@
 <LM>w#w-cmpr9415-028-p14s1w31</LM>
 </w.rf>
 <form>Šrůtek</form>
-<tag lemma="Šrůtek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrůtek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-028-p14s1w32">
 <src.rf>manual</src.rf>
@@ -3841,7 +3841,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -4570,7 +4570,7 @@
 <LM>w#w-cmpr9415-028-p17s1w13</LM>
 </w.rf>
 <form>Hušek</form>
-<tag lemma="Hušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-028-p17s1w14">
 <src.rf>manual</src.rf>
@@ -5061,7 +5061,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -5375,7 +5375,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -5615,7 +5615,7 @@
 <LM>w#w-cmpr9415-028-p19s2w12</LM>
 </w.rf>
 <form>Šrůtek</form>
-<tag lemma="Šrůtek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šrůtek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-028-p19s2w13">
 <src.rf>manual</src.rf>
@@ -5883,7 +5883,7 @@
 <LM>w#w-cmpr9415-028-p20s1w2</LM>
 </w.rf>
 <form>Farský</form>
-<tag lemma="Farský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Farský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-028-p21s1">
@@ -5910,7 +5910,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
@@ -5923,7 +5923,7 @@
 <LM>w#w-cmpr9415-028-p21s1w4</LM>
 </w.rf>
 <form>Hušek</form>
-<tag lemma="Hušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-028-p21s1w5">
 <src.rf>manual</src.rf>
@@ -6170,7 +6170,7 @@
 </w.rf>
 <form>IPO</form>
 <tag>
-<AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="IPO_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>

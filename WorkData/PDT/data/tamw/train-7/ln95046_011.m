@@ -75,7 +75,7 @@
 <LM>w#w-ln95046-011-p1s1w8</LM>
 </w.rf>
 <form>Koramo</form>
-<tag lemma="Koramo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Koramo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95046-011-p1s1w9">
 <src.rf>manual</src.rf>
@@ -237,10 +237,10 @@
 <form>Červených</form>
 <tag>
 <AM lemma="Červený_;G" src="orig">AAFP6----1A----</AM>
-<AM lemma="Červená_;S_^(*1ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Červená_;S_^(*1ý)" src="auto">NNFP6-----A----</AM>
-<AM lemma="Červený_;S" src="auto">NNMP2-----A----</AM>
-<AM lemma="Červený_;S" src="auto">NNMP6-----A----</AM>
+<AM lemma="Červená_;Y_^(*1ý)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Červená_;Y_^(*1ý)" src="auto">NNFP6-----A----</AM>
+<AM lemma="Červený_;Y" src="auto">NNMP2-----A----</AM>
+<AM lemma="Červený_;Y" src="auto">NNMP6-----A----</AM>
 <AM lemma="červený-1_;o" src="auto">AAFP2----1A----</AM>
 <AM lemma="červený-1_;o" src="auto" recommended="1" selected="1">AAFP6----1A----</AM>
 <AM lemma="červený-1_;o" src="auto">AAIP2----1A----</AM>

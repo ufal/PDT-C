@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9406-017-p2s1w5</LM>
 </w.rf>
 <form>SANYO</form>
-<tag lemma="Sanyo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Sanyo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-017-p2s1w6">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 </w.rf>
 <form>SFX</form>
 <tag>
-<AM lemma="SFX-98_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SFX-98_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SFX-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -140,7 +140,7 @@
 <form>TZ</form>
 <tag>
 <AM lemma="TZ-2_:B_^(tepelný_záznam)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TZ-1_:B_;K_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="TZ-1_:B_;m_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="TZ-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="TZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -179,7 +179,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-017-p4s1w5">
@@ -1114,7 +1114,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

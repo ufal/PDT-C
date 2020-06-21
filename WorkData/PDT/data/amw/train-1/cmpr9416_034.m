@@ -3251,7 +3251,7 @@
 <LM>w#w-cmpr9416-034-p11s1w2</LM>
 </w.rf>
 <form>Lánský</form>
-<tag lemma="Lánský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lánský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

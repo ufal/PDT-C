@@ -2252,7 +2252,7 @@
 <LM>w#w-lnd92255-059-p5s4w4</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2325,8 +2325,8 @@
 </w.rf>
 <form>Jegora</form>
 <tag>
-<AM lemma="Jegor_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Jegor_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Jegor_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Jegor_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-059-p5s4w15">
@@ -2335,7 +2335,7 @@
 <LM>w#w-lnd92255-059-p5s4w15</LM>
 </w.rf>
 <form>Gajdara</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p5s4w16">
 <src.rf>manual</src.rf>
@@ -2721,7 +2721,7 @@
 <LM>w#w-lnd92255-059-p5s5w30</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd92255-059-p5s5w31">
 <src.rf>manual</src.rf>
@@ -2851,7 +2851,7 @@
 <LM>w#w-lnd92255-059-p5s6w4</LM>
 </w.rf>
 <form>Jelcina</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p5s6w5">
 <src.rf>manual</src.rf>
@@ -2981,7 +2981,7 @@
 <LM>w#w-lnd92255-059-p5s7w6</LM>
 </w.rf>
 <form>Gajdara</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p5s7w7">
 <src.rf>manual</src.rf>
@@ -3013,7 +3013,7 @@
 <LM>w#w-lnd92255-059-p5s7w11</LM>
 </w.rf>
 <form>Jelcinovi</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p5s7w12">
 <src.rf>manual</src.rf>
@@ -3127,7 +3127,7 @@
 <LM>w#w-lnd92255-059-p5s8w9</LM>
 </w.rf>
 <form>Gajdara</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p5s8w10">
 <src.rf>manual</src.rf>
@@ -3152,7 +3152,7 @@
 </w.rf>
 <form>Skokov</form>
 <tag>
-<AM lemma="Skokov_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Skokov_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Skokovy_;G" src="auto" recommended="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -3218,7 +3218,7 @@
 <LM>w#w-lnd92255-059-p5s8w20</LM>
 </w.rf>
 <form>Volskij</form>
-<tag lemma="Volskij_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Volskij_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p5s8w21">
 <src.rf>manual</src.rf>
@@ -3391,7 +3391,7 @@
 <LM>w#w-lnd92255-059-p5s9w15</LM>
 </w.rf>
 <form>Jelcinovy</form>
-<tag lemma="Jelcinův_;S_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Jelcinův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92255-059-p5s9w16">
 <src.rf>manual</src.rf>
@@ -3578,8 +3578,8 @@
 </w.rf>
 <form>Izvěstija</form>
 <tag>
-<AM lemma="Izvestija_;R_,t" src="orig">NNFP1-----A----</AM>
-<AM lemma="Izvestija_;K_;w_,t_,x" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="orig">NNFP1-----A----</AM>
+<AM lemma="Izvestija_;m_,t_,x" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Izvěstija-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3778,8 +3778,8 @@
 </w.rf>
 <form>Izvěstija</form>
 <tag>
-<AM lemma="Izvestija_;R_,t" src="orig">NNFP1-----A----</AM>
-<AM lemma="Izvestija_;K_;w_,t_,x" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="orig">NNFP1-----A----</AM>
+<AM lemma="Izvestija_;m_,t_,x" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Izvěstija-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -3919,7 +3919,7 @@
 <LM>w#w-lnd92255-059-p5s13w10</LM>
 </w.rf>
 <form>Chasbulatov</form>
-<tag lemma="Chasbulatov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chasbulatov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p5s13w11">
 <src.rf>manual</src.rf>
@@ -4033,7 +4033,7 @@
 <LM>w#w-lnd92255-059-p6s1w2</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p6s1w3">
 <src.rf>manual</src.rf>
@@ -4475,7 +4475,7 @@
 <LM>w#w-lnd92255-059-p6s4w4</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p6s4w5">
 <src.rf>manual</src.rf>
@@ -4653,7 +4653,7 @@
 <LM>w#w-lnd92255-059-p6s5w1</LM>
 </w.rf>
 <form>Jelcinova</form>
-<tag lemma="Jelcinův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Jelcinův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92255-059-p6s5w2">
 <src.rf>manual</src.rf>
@@ -5189,7 +5189,7 @@
 <LM>w#w-lnd92255-059-p6s9w2</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-059-p6s9w3">
 <src.rf>manual</src.rf>
@@ -6067,7 +6067,7 @@
 <LM>w#w-lnd92255-059-p8s1w3</LM>
 </w.rf>
 <form>PETRÁNEK</form>
-<tag lemma="Petránek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petránek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

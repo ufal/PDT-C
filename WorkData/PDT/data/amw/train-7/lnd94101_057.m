@@ -219,7 +219,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-057-p1s4w2">
@@ -237,9 +237,9 @@
 </w.rf>
 <form>Szabó</form>
 <tag>
-<AM lemma="Szabó_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Szabó_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Szabó_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Szabó_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Szabó_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Szabó_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-057-p1s4w4">
@@ -258,7 +258,7 @@
 <form>I</form>
 <tag>
 <AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="I-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="I-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-057-p1s4w6">
@@ -275,7 +275,7 @@
 <LM>w#w-lnd94101-057-p1s4w7</LM>
 </w.rf>
 <form>Györkös</form>
-<tag lemma="Györkös_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Györkös_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-057-p1s4w8">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-lnd94101-057-p1s7w22</LM>
 </w.rf>
 <form>Szálasiho</form>
-<tag lemma="Szálasi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Szálasi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-057-p1s7w23">
 <src.rf>manual</src.rf>

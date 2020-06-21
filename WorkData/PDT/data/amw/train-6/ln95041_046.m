@@ -67,7 +67,7 @@
 <LM>w#w-ln95041-046-p1s1w7</LM>
 </w.rf>
 <form>Svěrákův</form>
-<tag lemma="Svěrákův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Svěrákův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95041-046-p1s1w8">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-ln95041-046-p2s1w20</LM>
 </w.rf>
 <form>Svěráka</form>
-<tag lemma="Svěrák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Svěrák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-046-p2s1w21">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-ln95041-046-p2s2w24</LM>
 </w.rf>
 <form>Faust</form>
-<tag lemma="Faust_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Faust_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-046-p2s2w25">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-ln95041-046-p2s2w32</LM>
 </w.rf>
 <form>Čonkina</form>
-<tag lemma="Čonkin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čonkin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-046-p2s2w33">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 </w.rf>
 <form>VAC</form>
 <tag>
-<AM lemma="VAC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="VAC_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="VAC-1_:B_,t_^(volts_alternating_current)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="VAC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -906,7 +906,7 @@
 <LM>w#w-ln95041-046-p3s1w5</LM>
 </w.rf>
 <form>Švankmajerova</form>
-<tag lemma="Švankmajerův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Švankmajerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95041-046-p3s1w6">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln95041-046-p3s1w7</LM>
 </w.rf>
 <form>Faust</form>
-<tag lemma="Faust_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Faust_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-046-p3s1w8">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-ln95041-046-p3s1w9</LM>
 </w.rf>
 <form>Menzlova</form>
-<tag lemma="Menzlův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Menzlův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95041-046-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-ln95041-046-p3s1w17</LM>
 </w.rf>
 <form>Čonkina</form>
-<tag lemma="Čonkin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Čonkin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-046-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 <LM>w#w-ln95041-046-p3s2w12</LM>
 </w.rf>
 <form>Michálka</form>
-<tag lemma="Michálek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Michálek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-046-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-ln95041-046-p3s2w17</LM>
 </w.rf>
 <form>Vihanové</form>
-<tag lemma="Vihanová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vihanová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-046-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-ln95041-046-p3s2w21</LM>
 </w.rf>
 <form>Šteindlera</form>
-<tag lemma="Šteindler_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šteindler_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-046-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-ln95041-046-p3s2w28</LM>
 </w.rf>
 <form>Svěrákovo</form>
-<tag lemma="Svěrákův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Svěrákův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95041-046-p3s2w29">
 <src.rf>manual</src.rf>
@@ -1686,7 +1686,7 @@
 <LM>w#w-ln95041-046-p4s2w27</LM>
 </w.rf>
 <form>Hopper</form>
-<tag lemma="Hopper_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hopper_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-046-p4s2w28">
 <src.rf>manual</src.rf>

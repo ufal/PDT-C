@@ -137,7 +137,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="E-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-029-p3s2w7">
@@ -154,7 +154,7 @@
 <LM>w#w-lnd92255-029-p3s2w8</LM>
 </w.rf>
 <form>Valka</form>
-<tag lemma="Valko_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Valko_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-029-p3s2w9">
 <src.rf>manual</src.rf>

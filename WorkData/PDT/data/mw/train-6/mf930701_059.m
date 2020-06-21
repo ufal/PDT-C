@@ -86,10 +86,10 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
-<AM lemma="mas-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mas-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-059-p2s1w4">
@@ -114,7 +114,7 @@
 <LM>w#w-mf930701-059-p2s1w6</LM>
 </w.rf>
 <form>Juridico</form>
-<tag lemma="Juridico_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Juridico_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-059-p2s1w7">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-mf930701-059-p2s1w16</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf930701-059-p2s1w17">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-mf930701-059-p2s3w11</LM>
 </w.rf>
 <form>Neuwirtha</form>
-<tag lemma="Neuwirth_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Neuwirth_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-059-p2s3w12">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-mf930701-059-p2s4w8</LM>
 </w.rf>
 <form>Montanex</form>
-<tag lemma="Montanex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Montanex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-059-p2s4w9">
 <src.rf>manual</src.rf>

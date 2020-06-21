@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-097-p1s1w3</LM>
 </w.rf>
 <form>Němečkovy</form>
-<tag lemma="Němečkův_;S_^(*3ek)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Němečkův_;Y_^(*3ek)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920924-097-p1s1w4">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-mf920924-097-p1s1w12</LM>
 </w.rf>
 <form>Knudsena</form>
-<tag lemma="Knudsen_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Knudsen_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 </mdata>

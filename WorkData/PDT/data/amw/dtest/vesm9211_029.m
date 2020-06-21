@@ -102,7 +102,7 @@
 </w.rf>
 <form>PROSCH</form>
 <tag>
-<AM lemma="Prosch_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Prosch_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="proschnout" src="auto" recommended="1">VpYS----R-AAP-6</AM>
 </tag>
 </m>
@@ -790,7 +790,7 @@
 <LM>w#w-vesm9211-029-p4s1w8</LM>
 </w.rf>
 <form>antropozoika</form>
-<tag lemma="antropozoikum_;L" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="antropozoikum_;U" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9211-029-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1389,7 +1389,7 @@
 <form>l</form>
 <tag>
 <AM lemma="l-1`litr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
@@ -8112,7 +8112,7 @@
 <LM>w#w-vesm9211-029-p13s6w7</LM>
 </w.rf>
 <form>Ceaušeska</form>
-<tag lemma="Ceaušescu_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ceaušescu_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-029-p13s6w8">
 <src.rf>manual</src.rf>
@@ -8144,7 +8144,7 @@
 <LM>w#w-vesm9211-029-p13s6w11</LM>
 </w.rf>
 <form>Kadára</form>
-<tag lemma="Kadár_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kadár_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-029-p13s6w12">
 <src.rf>manual</src.rf>
@@ -9976,9 +9976,9 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="r-33" src="orig">Q3-------------</AM>
 <AM lemma="rok" src="manual">NNIXX-----A---8</AM>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="r-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-029-p16s1w12">
@@ -10076,8 +10076,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="K-33" src="orig">Q3-------------</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-029-p16s1w24">
@@ -10297,8 +10297,8 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="r-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="r-33" src="orig">Q3-------------</AM>
+<AM lemma="r-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-029-p16s2w6">
@@ -15152,7 +15152,7 @@
 <LM>w#w-vesm9211-029-p24s3w11</LM>
 </w.rf>
 <form>Tenessee</form>
-<tag lemma="Tenessee_;G_,t" src="orig" selected="1">NNNSX-----A----</tag>
+<tag lemma="Tenessee_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-vesm9211-029-p24s3w12">
 <src.rf>manual</src.rf>

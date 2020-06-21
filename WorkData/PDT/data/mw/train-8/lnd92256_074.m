@@ -641,8 +641,8 @@
 </w.rf>
 <form>Cyrus</form>
 <tag>
-<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cyrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-074-p5s1w8">
@@ -651,7 +651,7 @@
 <LM>w#w-lnd92256-074-p5s1w8</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s1w9">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <form>Owen</form>
 <tag>
 <AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-074-p5s1w12">
@@ -777,7 +777,7 @@
 <LM>w#w-lnd92256-074-p5s2w4</LM>
 </w.rf>
 <form>Kirem</form>
-<tag lemma="Kir_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kir_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s2w5">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92256-074-p5s2w5</LM>
 </w.rf>
 <form>Gligorovem</form>
-<tag lemma="Gligorov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gligorov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s2w6">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-lnd92256-074-p5s3w10</LM>
 </w.rf>
 <form>Berishou</form>
-<tag lemma="Berisha_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Berisha_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-lnd92256-074-p5s4w1</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s4w2">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-lnd92256-074-p5s6w2</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s6w3">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <form>Owen</form>
 <tag>
 <AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-074-p5s6w5">

@@ -122,8 +122,8 @@
 </w.rf>
 <form>Reynaldovi</form>
 <tag>
-<AM lemma="Reynald_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Reynald_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Reynald_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Reynald_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-114-p1s1w14">
@@ -143,7 +143,7 @@
 <LM>w#w-ln95048-114-p1s1w15</LM>
 </w.rf>
 <form>Calvalhovi</form>
-<tag lemma="Calvalho_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Calvalho_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95048-114-p1s1w16">
 <src.rf>manual</src.rf>

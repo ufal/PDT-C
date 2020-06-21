@@ -537,7 +537,7 @@
 <LM>w#w-lnd92255-105-p5s1w3</LM>
 </w.rf>
 <form>Kovářík</form>
-<tag lemma="Kovářík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kovářík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-105-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-lnd92255-105-p10s1w3</LM>
 </w.rf>
 <form>Körner</form>
-<tag lemma="Körner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Körner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-105-p10s1w4">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-lnd92255-105-p10s1w8</LM>
 </w.rf>
 <form>Taussigem</form>
-<tag lemma="Taussig_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Taussig_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92255-105-p10s1w9">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-105-p10s1w13">
@@ -1273,8 +1273,8 @@
 </w.rf>
 <form>K</form>
 <tag>
-<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="K-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="K-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-105-p10s1w15">
@@ -1299,7 +1299,7 @@
 <LM>w#w-lnd92255-105-p10s1w17</LM>
 </w.rf>
 <form>Kinorevue</form>
-<tag lemma="Kinorevue_;K_;R_;u" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Kinorevue_;m" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-lnd92255-105-p10s1w18">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-149-p1s1w1</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p1s1w2">
 <src.rf>manual</src.rf>
@@ -46,7 +46,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -90,7 +90,7 @@
 <LM>w#w-ln94200-149-p2s1Bw3</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 </w.rf>
 <form>La</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFXX----1A----</AM>
 <AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -411,9 +411,9 @@
 </w.rf>
 <form>Ricardo</form>
 <tag>
-<AM lemma="Ricardo_;S_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Ricardo_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Ricardo_;S_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Ricardo_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Ricardo_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ricardo_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-149-p2s3w18">
@@ -423,8 +423,8 @@
 </w.rf>
 <form>Fuica</form>
 <tag>
-<AM lemma="Fuico_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Fuica_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fuico_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fuica_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-149-p2s3w19">
@@ -443,7 +443,7 @@
 <LM>w#w-ln94200-149-p2s4w1</LM>
 </w.rf>
 <form>Bebeto</form>
-<tag lemma="Bebeto_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bebeto_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p2s4w2">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-168-p1s1w3</LM>
 </w.rf>
 <form>Kemel</form>
-<tag lemma="Kemel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kemel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-168-p2s1">
@@ -173,7 +173,7 @@
 <LM>w#w-ln94200-168-p2s1w17</LM>
 </w.rf>
 <form>Telecomu</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Telecom_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-168-p2s1w18">
 <src.rf>manual</src.rf>

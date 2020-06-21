@@ -141,7 +141,7 @@
 <LM>w#w-ln94207-138-p2s1Aw3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="kva-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94207-138-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94207-138-p2s1Bw6</LM>
 </w.rf>
 <form>Sadil</form>
-<tag lemma="Sadil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-138-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-ln94207-138-p4s1w3</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-138-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1803,7 +1803,7 @@
 <LM>w#w-ln94207-138-p5s1w20</LM>
 </w.rf>
 <form>Sadil</form>
-<tag lemma="Sadil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-138-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2206,7 +2206,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-138-p5s5w2">
@@ -2223,7 +2223,7 @@
 <LM>w#w-ln94207-138-p5s5w3</LM>
 </w.rf>
 <form>Sadil</form>
-<tag lemma="Sadil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sadil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-138-p5s5w4">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 <LM>w#w-ln94200-59-p2s1Bw1</LM>
 </w.rf>
 <form>Castrovi</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -331,9 +331,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-59-p2s2w15">
@@ -350,7 +350,7 @@
 <LM>w#w-ln94200-59-p2s2w16</LM>
 </w.rf>
 <form>Tarnoff</form>
-<tag lemma="Tarnoff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tarnoff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s2w17">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-ln94200-59-p2s3w9</LM>
 </w.rf>
 <form>Robainy</form>
-<tag lemma="Robaina_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Robaina_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s3w10">
 <src.rf>manual</src.rf>
@@ -580,9 +580,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-59-p2s3w22">
@@ -676,7 +676,7 @@
 <LM>w#w-ln94200-59-p2s4w1</LM>
 </w.rf>
 <form>Tarnoff</form>
-<tag lemma="Tarnoff_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tarnoff_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s4w2">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-ln94200-59-p2s4w5</LM>
 </w.rf>
 <form>Castro</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s4w6">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln94200-59-p2s5w2</LM>
 </w.rf>
 <form>Tarnoffa</form>
-<tag lemma="Tarnoff_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tarnoff_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s5w3">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-ln94200-59-p2s5w7</LM>
 </w.rf>
 <form>Castra</form>
-<tag lemma="Castro_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Castro_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s5w8">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-59-p2s6w4">
@@ -924,7 +924,7 @@
 <LM>w#w-ln94200-59-p2s6w5</LM>
 </w.rf>
 <form>Dole</form>
-<tag lemma="Dole_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dole_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s6w6">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-ln94200-59-p2s6w11</LM>
 </w.rf>
 <form>Clintona</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1026,9 +1026,9 @@
 </w.rf>
 <form>Dolea</form>
 <tag>
-<AM lemma="Dole_;S" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Doleus_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Doleus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Dole_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Doleus_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Doleus_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-59-p2s7w3">
@@ -1149,7 +1149,7 @@
 <LM>w#w-ln94200-59-p2s7w17</LM>
 </w.rf>
 <form>Castrovo</form>
-<tag lemma="Castrův_;S_^(*2o)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Castrův_;Y_^(*2o)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln94200-59-p2s7w18">
 <src.rf>manual</src.rf>

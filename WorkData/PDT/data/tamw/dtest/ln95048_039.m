@@ -43,7 +43,7 @@
 <LM>w#w-ln95048-039-p1s1w4</LM>
 </w.rf>
 <form>Stránského</form>
-<tag lemma="Stránský_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Stránský_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-039-p2s1">
@@ -193,7 +193,7 @@
 </w.rf>
 <form>PEN</form>
 <tag>
-<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN_:B_;m_^(klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="PEN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

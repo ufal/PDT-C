@@ -712,7 +712,7 @@
 <LM>w#w-lnd94104-033-p1s6w9</LM>
 </w.rf>
 <form>Dlamini</form>
-<tag lemma="Dlamini_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlamini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-033-p1s6w10">
 <src.rf>manual</src.rf>

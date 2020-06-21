@@ -20,7 +20,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -73,8 +73,8 @@
 </w.rf>
 <form>ip</form>
 <tag>
-<AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ip-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ip-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ip-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-138-p2s1Aw4">
@@ -214,7 +214,7 @@
 </w.rf>
 <form>ČSOB</form>
 <tag>
-<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ČSOB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -243,8 +243,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-138-p2s2w2">
@@ -325,7 +325,7 @@
 <LM>w#w-ln94205-138-p2s2w11</LM>
 </w.rf>
 <form>Pešek</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-138-p2s2w12">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln94205-138-p3s1w3</LM>
 </w.rf>
 <form>Pešek</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-138-p3s1w4">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <form_change>spell</form_change>
 <form>Deutche</form>
 <tag>
-<AM lemma="Deutsche_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -901,7 +901,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -920,7 +920,7 @@
 </w.rf>
 <form>Comerzbank</form>
 <tag>
-<AM lemma="Comerzbank_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Comerzbank_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Comerzbank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94205-138-p4s2w4</LM>
 </w.rf>
 <form>Peška</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-138-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-ln94205-138-p5s1w3</LM>
 </w.rf>
 <form>Pešek</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-138-p5s1w4">
 <src.rf>manual</src.rf>

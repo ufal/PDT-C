@@ -71,7 +71,7 @@
 <form>zda</form>
 <tag>
 <AM lemma="zda" src="orig">J,-------------</AM>
-<AM lemma="zda-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zda-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-118-p2s1w4">
@@ -245,7 +245,7 @@
 <LM>w#w-mf930708-118-p2s2w4</LM>
 </w.rf>
 <form>Jeřábek</form>
-<tag lemma="Jeřábek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jeřábek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-118-p2s2w5">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-mf930708-118-p2s2w17</LM>
 </w.rf>
 <form>Navrátilová</form>
-<tag lemma="Navrátilová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Navrátilová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-118-p2s2w18">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-mf930708-118-p2s2w29</LM>
 </w.rf>
 <form>Sternadel</form>
-<tag lemma="Sternadel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sternadel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-118-p2s2w30">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-mf930708-118-p2s2w43</LM>
 </w.rf>
 <form>Frübling</form>
-<tag lemma="Frübling_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frübling_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-118-p2s2w44">
 <src.rf>manual</src.rf>

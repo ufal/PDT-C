@@ -1669,7 +1669,7 @@
 <LM>w#w-mf930702-122-p6s1w20</LM>
 </w.rf>
 <form>Hewlett</form>
-<tag lemma="Hewlett-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hewlett-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-122-p6s1w21">
 <src.rf>manual</src.rf>

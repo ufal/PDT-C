@@ -38,7 +38,7 @@
 </w.rf>
 <form>FOGASO</form>
 <tag>
-<AM lemma="FOGASO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FOGASO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FOGASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

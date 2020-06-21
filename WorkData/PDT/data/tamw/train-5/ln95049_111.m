@@ -47,7 +47,7 @@
 <LM>w#w-ln95049-111-p1s1w4</LM>
 </w.rf>
 <form>Ondráčková</form>
-<tag lemma="Ondráčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ondráčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-111-p1s1w5">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln95049-111-p1s1w11</LM>
 </w.rf>
 <form>Žídková</form>
-<tag lemma="Žídková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Žídková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-111-p1s1w12">
 <src.rf>manual</src.rf>
@@ -147,7 +147,7 @@
 <LM>w#w-ln95049-111-p1s1w16</LM>
 </w.rf>
 <form>Burgetová</form>
-<tag lemma="Burgetová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Burgetová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-111-p1s1w17">
 <src.rf>manual</src.rf>

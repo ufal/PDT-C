@@ -99,7 +99,7 @@
 <LM>w#w-ln94200-42-p2s1Bw2</LM>
 </w.rf>
 <form>Černohlávek</form>
-<tag lemma="Černohlávek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Černohlávek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-42-p2s1C">
@@ -2323,7 +2323,7 @@
 </w.rf>
 <form>Sb</form>
 <tag>
-<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3824,7 +3824,7 @@
 <LM>w#w-ln94200-42-p8s5w40</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94200-42-p8s5w41">
 <src.rf>manual</src.rf>

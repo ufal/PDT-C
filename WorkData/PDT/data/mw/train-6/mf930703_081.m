@@ -105,8 +105,8 @@
 </w.rf>
 <form>nak</form>
 <tag>
-<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-081-p2s1w4">
@@ -1281,7 +1281,7 @@
 <LM>w#w-mf930703-081-p2s7w20</LM>
 </w.rf>
 <form>Link</form>
-<tag lemma="Link-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Link-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-081-p2s7w21">
 <src.rf>manual</src.rf>

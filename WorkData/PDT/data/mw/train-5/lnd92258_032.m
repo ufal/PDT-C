@@ -116,10 +116,10 @@
 </w.rf>
 <form>Kim</form>
 <tag>
-<AM lemma="Kim_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Kim_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kim-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Kim-2_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Kim-2_;S_^(korejske_prijmeni)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kim-2_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Kim-2_;Y_^(korejske_prijmeni)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p1s1w14">
@@ -263,7 +263,7 @@
 <LM>w#w-lnd92258-032-p1s1w29</LM>
 </w.rf>
 <form>Sihanuk</form>
-<tag lemma="Sihanuk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sihanuk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p1s1w30">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-lnd92258-032-p4s1w19</LM>
 </w.rf>
 <form>Wörner</form>
-<tag lemma="Wörner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wörner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-lnd92258-032-p6s1w5</LM>
 </w.rf>
 <form>Jicchaka</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jicchak_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p6s1w6">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-lnd92258-032-p6s1w6</LM>
 </w.rf>
 <form>Rabina</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 </w.rf>
 <form>Merec</form>
 <tag>
-<AM lemma="Merec_;K_^(strana)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Merec_;m_^(strana)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Merec-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1389,7 +1389,7 @@
 </w.rf>
 <form>Šas</form>
 <tag>
-<AM lemma="Šas_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Šas_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Šas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1866,7 +1866,7 @@
 </w.rf>
 <form>ITAR</form>
 <tag>
-<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ITAR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1885,7 +1885,7 @@
 </w.rf>
 <form>TASS</form>
 <tag>
-<AM lemma="TASS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TASS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TASS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1911,7 +1911,7 @@
 <LM>w#w-lnd92258-032-p8s2w10</LM>
 </w.rf>
 <form>Jegor</form>
-<tag lemma="Jegor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jegor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p8s2w11">
 <src.rf>manual</src.rf>
@@ -1919,7 +1919,7 @@
 <LM>w#w-lnd92258-032-p8s2w11</LM>
 </w.rf>
 <form>Gajdar</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p8s2w12">
 <src.rf>manual</src.rf>
@@ -1999,7 +1999,7 @@
 <LM>w#w-lnd92258-032-p8s2w21</LM>
 </w.rf>
 <form>Iskandarovem</form>
-<tag lemma="Iskandarov_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Iskandarov_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p8s2w22">
 <src.rf>manual</src.rf>

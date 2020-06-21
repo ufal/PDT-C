@@ -288,10 +288,10 @@
 </w.rf>
 <form>Gemelli</form>
 <tag>
-<AM lemma="Gemelli_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Gemelli_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gemelli_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Gemelli-2_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Gemelli_;m" src="orig">NNNXX-----A----</AM>
+<AM lemma="Gemelli_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gemelli_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Gemelli-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-061-p1s3w25">
@@ -342,7 +342,7 @@
 <LM>w#w-lnd94101-061-p1s4w4</LM>
 </w.rf>
 <form>Manni</form>
-<tag lemma="Manni_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Manni_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-061-p1s4w5">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-lnd94101-061-p1s6w4</LM>
 </w.rf>
 <form>Navarro</form>
-<tag lemma="Navarro_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Navarro_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-061-p1s6w5">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-lnd94101-061-p1s6w6</LM>
 </w.rf>
 <form>Valls</form>
-<tag lemma="Valls_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valls_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-061-p1s6w7">
 <src.rf>manual</src.rf>

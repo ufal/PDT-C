@@ -19,7 +19,7 @@
 <LM>w#w-ln94209-78-p1s1w1</LM>
 </w.rf>
 <form>Nedoma</form>
-<tag lemma="Nedoma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nedoma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-78-p1s1w2">
 <src.rf>manual</src.rf>
@@ -96,7 +96,7 @@
 <LM>w#w-ln94209-78-p2s1Aw3</LM>
 </w.rf>
 <form>bra</form>
-<tag lemma="bra-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="bra-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-ln94209-78-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-ln94209-78-p2s1Bw6</LM>
 </w.rf>
 <form>Nedoma</form>
-<tag lemma="Nedoma_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nedoma_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-78-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -495,11 +495,11 @@
 </w.rf>
 <form>Komety</form>
 <tag>
-<AM lemma="Kometa_;K" src="orig">NNFS2-----A----</AM>
-<AM lemma="Komet_;R" src="auto">NNIP1-----A----</AM>
-<AM lemma="Komet_;R" src="auto">NNIP4-----A----</AM>
-<AM lemma="Komet_;R" src="auto">NNIP5-----A----</AM>
-<AM lemma="Komet_;R" src="auto">NNIP7-----A----</AM>
+<AM lemma="Kometa_;m" src="orig">NNFS2-----A----</AM>
+<AM lemma="Komet_;m" src="auto">NNIP1-----A----</AM>
+<AM lemma="Komet_;m" src="auto">NNIP4-----A----</AM>
+<AM lemma="Komet_;m" src="auto">NNIP5-----A----</AM>
+<AM lemma="Komet_;m" src="auto">NNIP7-----A----</AM>
 <AM lemma="kometa" src="auto">NNFP1-----A----</AM>
 <AM lemma="kometa" src="auto">NNFP4-----A----</AM>
 <AM lemma="kometa" src="auto">NNFP5-----A----</AM>
@@ -528,7 +528,7 @@
 <LM>w#w-ln94209-78-p2s3w22</LM>
 </w.rf>
 <form>Sršně</form>
-<tag lemma="Sršeň_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sršeň_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-78-p2s3w23">
 <src.rf>manual</src.rf>

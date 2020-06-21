@@ -61,7 +61,7 @@
 <LM>w#w-ln94211-120-p2s1Aw2</LM>
 </w.rf>
 <form>Dudek</form>
-<tag lemma="Dudek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dudek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-120-p2s1B">
@@ -750,7 +750,7 @@
 <LM>w#w-ln94211-120-p3s2w25</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94211-120-p3s2w26">
 <src.rf>manual</src.rf>

@@ -160,7 +160,7 @@
 </w.rf>
 <form>FITESU</form>
 <tag>
-<AM lemma="FITES_:B_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="FITES_:B_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="FITESU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -482,7 +482,7 @@
 <LM>w#w-lnd92251-074-p4s1w9</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-074-p4s1w10">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-lnd92251-074-p4s2w19</LM>
 </w.rf>
 <form>Smetana</form>
-<tag lemma="Smetana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Smetana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-074-p4s2w20">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-lnd92251-074-p4s2w27</LM>
 </w.rf>
 <form>Pilátovou</form>
-<tag lemma="Pilátová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Pilátová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92251-074-p4s2w28">
 <src.rf>manual</src.rf>
@@ -1626,12 +1626,12 @@
 </w.rf>
 <form>luk</form>
 <tag>
-<AM lemma="luk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="louka" src="auto">NNFP2-----A----</AM>
 <AM lemma="luk" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="luk" src="auto">NNIS4-----A----</AM>
 <AM lemma="luka" src="auto">NNNP2-----A----</AM>
-<AM lemma="luk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-074-p5s1w3">

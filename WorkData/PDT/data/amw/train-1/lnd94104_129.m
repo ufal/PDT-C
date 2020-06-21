@@ -43,7 +43,7 @@
 <LM>w#w-lnd94104-129-p1s1w4</LM>
 </w.rf>
 <form>Dvořáka</form>
-<tag lemma="Dvořák_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dvořák_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94104-129-p1s1w5">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <form>b</form>
 <tag>
 <AM lemma="bod_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="b-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="bod" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
@@ -908,7 +908,7 @@
 <LM>w#w-lnd94104-129-p1s6w20</LM>
 </w.rf>
 <form>Změlík</form>
-<tag lemma="Změlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Změlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-129-p1s6w21">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 </w.rf>
 <form>ME</form>
 <tag>
-<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1252,8 +1252,8 @@
 </w.rf>
 <form>SportPro</form>
 <tag>
-<AM lemma="SportPro_;K_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="SportPro_;K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="SportPro_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="SportPro_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-129-p1s8w12">
@@ -1337,7 +1337,7 @@
 <form>nov</form>
 <tag>
 <AM lemma="nov_^(pozice_Měsíce)" src="orig">NNIS1-----A----</AM>
-<AM lemma="nov-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nov-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-129-p1s8w22">

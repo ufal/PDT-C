@@ -241,7 +241,7 @@
 <LM>w#w-mf930709-048-p2s2w11</LM>
 </w.rf>
 <form>Gronkiewiczovou</form>
-<tag lemma="Gronkiewiczová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Gronkiewiczová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-048-p2s2w12">
 <src.rf>manual</src.rf>
@@ -258,11 +258,11 @@
 </w.rf>
 <form>Waltzovou</form>
 <tag>
-<AM lemma="Waltzová_;S" src="orig">AAFS4----1A----</AM>
-<AM lemma="Waltzův_;S_^(*2)" src="auto">AUFS7M---------</AM>
+<AM lemma="Waltzová_;Y" src="orig">AAFS4----1A----</AM>
+<AM lemma="Waltzův_;Y_^(*2)" src="auto">AUFS7M---------</AM>
 <AM lemma="waltzový" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="waltzový" src="auto">AAFS7----1A----</AM>
-<AM lemma="Waltzová_;S" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Waltzová_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-048-p2s2w14">
@@ -751,7 +751,7 @@
 <form_change>spell</form_change>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -799,7 +799,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIS3-----A----</AM>
+<AM lemma="dolar" src="orig">NNIS3-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>

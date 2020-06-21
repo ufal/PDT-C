@@ -515,7 +515,7 @@
 <form>Šimona</form>
 <tag>
 <AM lemma="Šimon_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šimon_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Šimon_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p2s3w4">
@@ -881,7 +881,7 @@
 <LM>w#w-ln95040-041-p2s5w19</LM>
 </w.rf>
 <form>Smiřických</form>
-<tag lemma="Smiřický_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Smiřický_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-041-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 </w.rf>
 <form>Square</form>
 <tag>
-<AM lemma="Square_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Square_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Square-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1218,7 +1218,7 @@
 <LM>w#w-ln95040-041-p3s1w31</LM>
 </w.rf>
 <form>Sanders</form>
-<tag lemma="Sanders_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sanders_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-041-p3s1w32">
 <src.rf>manual</src.rf>
@@ -1235,9 +1235,9 @@
 </w.rf>
 <form>Dempsey</form>
 <tag>
-<AM lemma="Dempsey_;K" src="orig">NNMXX-----A----</AM>
-<AM lemma="Dempsey_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
-<AM lemma="Dempsey_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dempsey_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Dempsey_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dempsey_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p3s1w34">
@@ -1333,7 +1333,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p3s2w11">
@@ -1352,7 +1352,7 @@
 <form>Šimona</form>
 <tag>
 <AM lemma="Šimon_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Šimon_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Šimon_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p3s2w13">
@@ -1944,7 +1944,7 @@
 </w.rf>
 <form>PSP</form>
 <tag>
-<AM lemma="PSP-1_:B_;K_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PSP-1_:B_;m_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2239,7 +2239,7 @@
 <form>F</form>
 <tag>
 <AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p5s2w38">
@@ -2258,7 +2258,7 @@
 <form>Šimon</form>
 <tag>
 <AM lemma="Šimon_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šimon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Šimon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p5s2w40">
@@ -2424,7 +2424,7 @@
 <LM>w#w-ln95040-041-p6s1w19</LM>
 </w.rf>
 <form>Kerast</form>
-<tag lemma="Kerast_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kerast_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-041-p6s1w20">
 <src.rf>manual</src.rf>
@@ -2441,7 +2441,7 @@
 </w.rf>
 <form>Götzen</form>
 <tag>
-<AM lemma="Götzen_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Götzen_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Götzen_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Götzen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2472,7 +2472,7 @@
 </w.rf>
 <form>Stav</form>
 <tag>
-<AM lemma="Stav_;K" src="orig" selected="1">NNIXX-----A----</AM>
+<AM lemma="Stav_;m" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="stav" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="stav" src="auto">NNIS4-----A----</AM>
 <AM lemma="stavit" src="auto">Vi-S---2--A-P--</AM>
@@ -2489,7 +2489,7 @@
 </w.rf>
 <form>PSP</form>
 <tag>
-<AM lemma="PSP-1_:B_;K_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PSP-1_:B_;m_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2550,7 +2550,7 @@
 </w.rf>
 <form>PSP</form>
 <tag>
-<AM lemma="PSP-1_:B_;K_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PSP-1_:B_;m_^(Pražský_stavební_podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PSP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2561,8 +2561,8 @@
 </w.rf>
 <form>Imtertrade</form>
 <tag>
-<AM lemma="Imtertrade_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Imtertrade_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imtertrade_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Imtertrade_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p6s2w7">
@@ -2676,7 +2676,7 @@
 </w.rf>
 <form>PIAS</form>
 <tag>
-<AM lemma="PIAS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PIAS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="PIAS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2817,7 +2817,7 @@
 </w.rf>
 <form>RMS</form>
 <tag>
-<AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RMS-1_:B_;m_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="RMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

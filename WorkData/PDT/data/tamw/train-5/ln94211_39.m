@@ -78,8 +78,8 @@
 </w.rf>
 <form>ed</form>
 <tag>
-<AM lemma="ed-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ed-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ed-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ed-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-39-p2s1Aw4">
@@ -122,7 +122,7 @@
 <LM>w#w-ln94211-39-p2s1Bw3</LM>
 </w.rf>
 <form>Berousek</form>
-<tag lemma="Berousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-39-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln94211-39-p2s2w17</LM>
 </w.rf>
 <form>Kludského</form>
-<tag lemma="Kludský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kludský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-39-p2s2w18">
 <src.rf>manual</src.rf>
@@ -421,9 +421,9 @@
 </w.rf>
 <form>King</form>
 <tag>
-<AM lemma="King_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="King_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="king_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="King_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="King_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="king_;U" src="auto">NNMS1-----A----</AM>
 <AM lemma="king_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="King-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -452,7 +452,7 @@
 <LM>w#w-ln94211-39-p2s3w2</LM>
 </w.rf>
 <form>Berousek</form>
-<tag lemma="Berousek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Berousek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-39-p2s3w3">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94211-39-p2s5w14</LM>
 </w.rf>
 <form>Cibulkou</form>
-<tag lemma="Cibulka_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Cibulka_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-39-p2s5w15">
 <src.rf>manual</src.rf>

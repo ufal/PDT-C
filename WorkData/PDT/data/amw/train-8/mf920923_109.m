@@ -1076,7 +1076,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1208,7 +1208,7 @@
 <LM>w#w-mf920923-109-p5s4w6</LM>
 </w.rf>
 <form>Delors</form>
-<tag lemma="Delors_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Delors_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-109-p5s4w7">
 <src.rf>manual</src.rf>
@@ -1298,7 +1298,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1325,7 +1325,7 @@
 </w.rf>
 <form>ECU</form>
 <tag>
-<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ECU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2319,7 +2319,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2615,7 +2615,7 @@
 <LM>w#w-mf920923-109-p6s5w19</LM>
 </w.rf>
 <form>Béhar</form>
-<tag lemma="Béhar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Béhar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-109-p6s5w20">
 <src.rf>manual</src.rf>
@@ -2776,7 +2776,7 @@
 </w.rf>
 <form>EMS</form>
 <tag>
-<AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2861,7 +2861,7 @@
 </w.rf>
 <form>EMS</form>
 <tag>
-<AM lemma="EMS_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="EMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2911,7 +2911,7 @@
 <LM>w#w-mf920923-109-p8s1w12</LM>
 </w.rf>
 <form>Giscard</form>
-<tag lemma="Giscard_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Giscard_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-109-p8s1w13">
 <src.rf>manual</src.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-mf920923-109-p8s1w14</LM>
 </w.rf>
 <form>Schmidt</form>
-<tag lemma="Schmidt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Schmidt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-109-p8s1w15">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <LM>w#w-ln94206-17-p2s1w2</LM>
 </w.rf>
 <form>Loski</form>
-<tag lemma="Loski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p2s1w3">
 <src.rf>manual</src.rf>
@@ -206,8 +206,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-17-p2s1w21">
@@ -266,7 +266,7 @@
 <LM>w#w-ln94206-17-p2s2w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-ln94206-17-p2s2w3">
 <src.rf>manual</src.rf>
@@ -1973,7 +1973,7 @@
 <LM>w#w-ln94206-17-p6s1w5</LM>
 </w.rf>
 <form>dolarech</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94206-17-p6s1w6">
 <src.rf>manual</src.rf>
@@ -4338,7 +4338,7 @@
 <LM>w#w-ln94206-17-p10s4w2</LM>
 </w.rf>
 <form>Loski</form>
-<tag lemma="Loski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Loski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p10s4w3">
 <src.rf>manual</src.rf>
@@ -4469,7 +4469,7 @@
 </w.rf>
 <form>hm</form>
 <tag>
-<AM lemma="hm-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hm-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="hm" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>
@@ -4505,7 +4505,7 @@
 <LM>w#w-ln94206-17-p11s1Bw3</LM>
 </w.rf>
 <form>Hula</form>
-<tag lemma="Hula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-17-p11s1Bw4">
 <src.rf>manual</src.rf>
@@ -4521,7 +4521,7 @@
 <LM>w#w-ln94206-17-p11s1Bw5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 </s>
 </mdata>

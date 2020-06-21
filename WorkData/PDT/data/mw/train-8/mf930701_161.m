@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-161-p2s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930701-161-p2s1w4">
 <src.rf>manual</src.rf>
@@ -459,9 +459,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p3s2w16">
@@ -651,8 +651,8 @@
 </w.rf>
 <form>Muhammad</form>
 <tag>
-<AM lemma="Muhammad_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Muhammad_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Muhammad_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Muhammad_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p4s1w4">
@@ -661,7 +661,7 @@
 <LM>w#w-mf930701-161-p4s1w4</LM>
 </w.rf>
 <form>Šačirbej</form>
-<tag lemma="Šačirbej_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šačirbej_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-161-p4s1w5">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 </w.rf>
 <form>RB</form>
 <tag>
-<AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RB_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1587,7 +1587,7 @@
 <LM>w#w-mf930701-161-p7s1w9</LM>
 </w.rf>
 <form>Prlič</form>
-<tag lemma="Prlič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prlič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-161-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1814,7 +1814,7 @@
 </w.rf>
 <form>HINA</form>
 <tag>
-<AM lemma="HINA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="HINA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="HINA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2127,7 +2127,7 @@
 <LM>w#w-mf930701-161-p9s1w5</LM>
 </w.rf>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-161-p9s1w6">
 <src.rf>manual</src.rf>
@@ -2217,7 +2217,7 @@
 <LM>w#w-mf930701-161-p9s2w3</LM>
 </w.rf>
 <form>Tanjug</form>
-<tag lemma="Tanjug_:B_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tanjug_:B_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-161-p9s2w4">
 <src.rf>manual</src.rf>
@@ -2274,7 +2274,7 @@
 </w.rf>
 <form>Milliyet</form>
 <tag>
-<AM lemma="Milliyet_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Milliyet_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Milliyet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2294,7 +2294,7 @@
 <LM>w#w-mf930701-161-p9s3w1</LM>
 </w.rf>
 <form>Izetbegovič</form>
-<tag lemma="Izetbegovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-161-p9s3w2">
 <src.rf>manual</src.rf>

@@ -135,7 +135,7 @@
 <LM>w#w-ln94211-89-p2s1Bw2</LM>
 </w.rf>
 <form>Blažková</form>
-<tag lemma="Blažková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blažková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-89-p2s1C">
@@ -355,7 +355,7 @@
 <LM>w#w-ln94211-89-p2s2w23</LM>
 </w.rf>
 <form>Rubens</form>
-<tag lemma="Rubens_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rubens_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p2s2w24">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-ln94211-89-p2s2w24</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ricupero_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p2s2w25">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln94211-89-p2s6w1</LM>
 </w.rf>
 <form>Ricuperovi</form>
-<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ricupero_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94211-89-p2s6w2">
 <src.rf>manual</src.rf>
@@ -981,7 +981,7 @@
 <LM>w#w-ln94211-89-p3s1w15</LM>
 </w.rf>
 <form>Cardosa</form>
-<tag lemma="Cardoso_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Cardoso_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-89-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1355,7 +1355,7 @@
 <LM>w#w-ln94211-89-p4s1w1</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ricupero_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 <LM>w#w-ln94211-89-p4s1w4</LM>
 </w.rf>
 <form>Cardosem</form>
-<tag lemma="Cardoso_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Cardoso_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-89-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1658,7 +1658,7 @@
 <LM>w#w-ln94211-89-p4s2w14</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1844,7 +1844,7 @@
 <LM>w#w-ln94211-89-p4s3w7</LM>
 </w.rf>
 <form>Cardosova</form>
-<tag lemma="Cardosův_;S_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Cardosův_;Y_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94211-89-p4s3w8">
 <src.rf>manual</src.rf>
@@ -2022,7 +2022,7 @@
 <LM>w#w-ln94211-89-p4s4w16</LM>
 </w.rf>
 <form>Inaciem</form>
-<tag lemma="Inacio_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Inacio_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-89-p4s4w17">
 <src.rf>manual</src.rf>
@@ -2408,7 +2408,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Cardoso</form>
-<tag lemma="Cardoso_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cardoso_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2556,7 +2556,7 @@
 <LM>w#w-ln94211-89-p5s4w1</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ricupero_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p5s4w2">
 <src.rf>manual</src.rf>
@@ -3137,7 +3137,7 @@
 <LM>w#w-ln94211-89-p6s1w9</LM>
 </w.rf>
 <form>Franco</form>
-<tag lemma="Franco_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Franco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p6s1w10">
 <src.rf>manual</src.rf>
@@ -3323,7 +3323,7 @@
 <LM>w#w-ln94211-89-p6s2w10</LM>
 </w.rf>
 <form>Ricuperovou</form>
-<tag lemma="Ricuperův_;S_^(*2o)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Ricuperův_;Y_^(*2o)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln94211-89-p6s2w11">
 <src.rf>manual</src.rf>
@@ -3634,7 +3634,7 @@
 <LM>w#w-ln94211-89-p7s2w8</LM>
 </w.rf>
 <form>Cardosovu</form>
-<tag lemma="Cardosův_;S_^(*2o)" src="auto" selected="1">AUFS4M---------</tag>
+<tag lemma="Cardosův_;Y_^(*2o)" src="auto" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94211-89-p7s2w9">
 <src.rf>manual</src.rf>
@@ -4101,7 +4101,7 @@
 <LM>w#w-ln94211-89-p8s3w2</LM>
 </w.rf>
 <form>Cardosu</form>
-<tag lemma="Cardoso_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cardoso_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-89-p8s3w3">
 <src.rf>manual</src.rf>
@@ -4536,10 +4536,10 @@
 </w.rf>
 <form>Cardose</form>
 <tag>
-<AM lemma="Cardoso_;S" src="orig" selected="1">NNMS4-----A----</AM>
-<AM lemma="Cardos_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Cardos_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Cardos_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Cardoso_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Cardos_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Cardos_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Cardos_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-89-p8s6w18">
@@ -4994,7 +4994,7 @@
 <LM>w#w-ln94211-89-p9s1w2</LM>
 </w.rf>
 <form>Ricupero</form>
-<tag lemma="Ricupero_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ricupero_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-89-p9s1w3">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-090-p1s1w1</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-090-p1s1w2">
 <src.rf>manual</src.rf>
@@ -54,8 +54,8 @@
 </w.rf>
 <form>hč</form>
 <tag>
-<AM lemma="hč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-090-p2s1w4">
@@ -333,7 +333,7 @@
 <LM>w#w-mf920923-090-p2s2w32</LM>
 </w.rf>
 <form>Opel</form>
-<tag lemma="Opel_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-090-p2s2w33">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-mf920923-090-p2s2w33</LM>
 </w.rf>
 <form>Calibra</form>
-<tag lemma="Calibra_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Calibra_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-090-p2s2w34">
 <src.rf>manual</src.rf>

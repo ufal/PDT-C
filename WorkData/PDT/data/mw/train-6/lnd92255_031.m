@@ -258,7 +258,7 @@
 </w.rf>
 <form>ČSTK</form>
 <tag>
-<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;m_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSTK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -333,7 +333,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -377,7 +377,7 @@
 <LM>w#w-lnd92255-031-p2s1w4</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pavel-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-031-p2s1w5">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-lnd92255-031-p2s1w14</LM>
 </w.rf>
 <form>Galileiho</form>
-<tag lemma="Galilei_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92255-031-p2s1w15">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-lnd92255-031-p2s1w36</LM>
 </w.rf>
 <form>Koperníka</form>
-<tag lemma="Koperník_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koperník_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-031-p2s1w37">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <form>Major</form>
 <tag>
 <AM lemma="major" src="orig">NNMS1-----A----</AM>
-<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Major_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-031-p3s1w5">
@@ -993,11 +993,11 @@
 </w.rf>
 <form>RIA</form>
 <tag>
-<AM lemma="RIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="RIA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RIA_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RIA_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Rio_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="ria_,t_^(záliv_podobný_fjordu)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="ria-99_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="RIA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1111,7 +1111,7 @@
 <LM>w#w-lnd92255-031-p4s1w23</LM>
 </w.rf>
 <form>Rachmona</form>
-<tag lemma="Rachmon_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rachmon_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-031-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-lnd92255-031-p4s1w24</LM>
 </w.rf>
 <form>Nabijeva</form>
-<tag lemma="Nabijev_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nabijev_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-031-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 </w.rf>
 <form>UNITA</form>
 <tag>
-<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA_:B_;m_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UNITA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1503,7 +1503,7 @@
 </w.rf>
 <form>TSF</form>
 <tag>
-<AM lemma="TSF-2_:B_;K_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TSF-2_:B_;m_,t_^(port._rádio)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TSF-1_:B_,t_^(télégrephie_sans_fil)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="TSF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

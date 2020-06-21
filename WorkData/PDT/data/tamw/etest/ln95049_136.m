@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-136-p1s1w1</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-136-p1s1w2">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln95049-136-p2s1Bw6</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-136-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln95049-136-p2s1Bw10</LM>
 </w.rf>
 <form>Escort</form>
-<tag lemma="Escort_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Escort_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-136-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -177,7 +177,7 @@
 <form>Transit</form>
 <tag>
 <AM lemma="transit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Transit-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Transit-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-136-p2s1Bw13">
@@ -384,7 +384,7 @@
 </w.rf>
 <form>Ford</form>
 <tag>
-<AM lemma="Ford-2_;K_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Ford-2_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -403,7 +403,7 @@
 </w.rf>
 <form>Werke</form>
 <tag>
-<AM lemma="Werk_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Werk_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Werke-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -414,7 +414,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-1_:B_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -444,8 +444,8 @@
 </w.rf>
 <form>Saarlouis</form>
 <tag>
-<AM lemma="Saarlouis_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Saarlouis_;K" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Saarlouis_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Saarlouis_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-136-p2s3w16">
@@ -523,7 +523,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-33" src="auto">Q3-------------</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>

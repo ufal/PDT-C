@@ -61,7 +61,7 @@
 <LM>w#w-ln94209-87-p2s1w3</LM>
 </w.rf>
 <form>Preud</form>
-<tag lemma="Preud_;S" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Preud_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94209-87-p2s1w4">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln94209-87-p2s1w5</LM>
 </w.rf>
 <form>homme</form>
-<tag lemma="homme_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="homme_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-87-p2s1w6">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-ln94209-87-p2s1w7</LM>
 </w.rf>
 <form>Benfiky</form>
-<tag lemma="Benfica_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benfica_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-87-p2s1w8">
 <src.rf>manual</src.rf>

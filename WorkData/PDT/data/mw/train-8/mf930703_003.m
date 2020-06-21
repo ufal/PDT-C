@@ -91,7 +91,7 @@
 <LM>w#w-mf930703-003-p1s1w10</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-003-p2s1">
@@ -119,7 +119,7 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-003-p2s1w4">
@@ -160,7 +160,7 @@
 <LM>w#w-mf930703-003-p2s1w8</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-003-p2s1w9">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-mf930703-003-p2s1w26</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-003-p2s1w27">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-mf930703-003-p2s3w1</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-003-p2s3w2">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 </w.rf>
 <form>HSDMS</form>
 <tag>
-<AM lemma="HSDMS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="HSDMS_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="HSDMS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -921,7 +921,7 @@
 <LM>w#w-mf930703-003-p3s1w29</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-003-p3s1w30">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-mf930703-003-p3s1w38</LM>
 </w.rf>
 <form>Budínského</form>
-<tag lemma="Budínský_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Budínský_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-003-p3s1w39">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1038,7 +1038,7 @@
 <LM>w#w-mf930703-003-p3s2w1</LM>
 </w.rf>
 <form>Budínský</form>
-<tag lemma="Budínský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budínský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-003-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-mf930703-003-p4s1w1</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-003-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1203,7 +1203,7 @@
 <LM>w#w-mf930703-003-p4s1w11</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-003-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1367,7 +1367,7 @@
 <LM>w#w-mf930703-003-p4s3w3</LM>
 </w.rf>
 <form>Krause</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-003-p4s3w4">
 <src.rf>manual</src.rf>

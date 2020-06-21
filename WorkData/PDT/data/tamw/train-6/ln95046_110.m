@@ -231,7 +231,7 @@
 <LM>w#w-ln95046-110-p2s1Bw21</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="Major_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Major_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-110-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln95046-110-p2s1Bw27</LM>
 </w.rf>
 <form>Bruton</form>
-<tag lemma="Bruton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bruton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-110-p2s1Bw28">
 <src.rf>manual</src.rf>

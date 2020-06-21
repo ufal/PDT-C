@@ -1263,8 +1263,8 @@
 </w.rf>
 <form>Sigurdem</form>
 <tag>
-<AM lemma="Sigurd_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Sigurd_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Sigurd_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Sigurd_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-041-p4s1w19">
@@ -1330,8 +1330,8 @@
 </w.rf>
 <form>Maelbrigtem</form>
 <tag>
-<AM lemma="Maelbrigte_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Maelbrigte_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Maelbrigte_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Maelbrigte_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-041-p4s1w27">
@@ -1561,8 +1561,8 @@
 </w.rf>
 <form>Maelbrigte</form>
 <tag>
-<AM lemma="Maelbrigte_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Maelbrigte_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Maelbrigte_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Maelbrigte_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-041-p5s1w10">
@@ -1622,8 +1622,8 @@
 </w.rf>
 <form>Sigurd</form>
 <tag>
-<AM lemma="Sigurd_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sigurd_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sigurd_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sigurd_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-041-p5s2w2">
@@ -1840,8 +1840,8 @@
 </w.rf>
 <form>Sigurd</form>
 <tag>
-<AM lemma="Sigurd_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sigurd_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sigurd_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sigurd_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-041-p5s4w4">
@@ -1955,8 +1955,8 @@
 </w.rf>
 <form>Maelbrigtovy</form>
 <tag>
-<AM lemma="Maelbrigtův_;S_^(*2e)" src="orig">AUFS2M---------</AM>
-<AM lemma="Maelbrigtův_;S_;Y_^(*2e)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Maelbrigtův_;Y_^(*2e)" src="orig">AUFS2M---------</AM>
+<AM lemma="Maelbrigtův_;Y_^(*2e)" src="manual" selected="1">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-041-p5s4w18">
@@ -2075,8 +2075,8 @@
 </w.rf>
 <form>Sigurda</form>
 <tag>
-<AM lemma="Sigurd_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Sigurd_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Sigurd_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Sigurd_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-041-p5s5w13">
@@ -2610,9 +2610,9 @@
 </w.rf>
 <form>Sch</form>
 <tag>
-<AM lemma="Sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Sch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="Sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

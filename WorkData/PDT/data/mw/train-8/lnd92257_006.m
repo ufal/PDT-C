@@ -469,7 +469,7 @@
 <LM>w#w-lnd92257-006-p4s1w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd92257-006-p4s1w14">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1236,7 +1236,7 @@
 </w.rf>
 <form>ES</form>
 <tag>
-<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES_:B_;m_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ES-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1824,7 +1824,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-006-p7s1w6">
@@ -1841,7 +1841,7 @@
 <LM>w#w-lnd92257-006-p7s1w7</LM>
 </w.rf>
 <form>Mečiara</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-006-p7s1w8">
 <src.rf>manual</src.rf>
@@ -2395,14 +2395,14 @@
 <form>Gabčíkově</form>
 <tag>
 <AM lemma="Gabčíkovo_;G" src="orig" selected="1">NNNS6-----A----</AM>
-<AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUFS6M---------</AM>
-<AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUIS3M--------6</AM>
-<AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUIS6M---------</AM>
-<AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUMS3M--------6</AM>
-<AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUMS6M---------</AM>
-<AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUNS3M--------6</AM>
-<AM lemma="Gabčíkův_;S_^(*2)" src="auto" recommended="1">AUNS6M---------</AM>
+<AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUFS3M---------</AM>
+<AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUFS6M---------</AM>
+<AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUIS3M--------6</AM>
+<AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUIS6M---------</AM>
+<AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUMS3M--------6</AM>
+<AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUMS6M---------</AM>
+<AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUNS3M--------6</AM>
+<AM lemma="Gabčíkův_;Y_^(*2)" src="auto" recommended="1">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-006-p7s2w32">
@@ -2607,7 +2607,7 @@
 <LM>w#w-lnd92257-006-p7s4w1</LM>
 </w.rf>
 <form>Mečiarovu</form>
-<tag lemma="Mečiarův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Mečiarův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd92257-006-p7s4w2">
 <src.rf>manual</src.rf>
@@ -2680,9 +2680,9 @@
 </w.rf>
 <form>Jeszenszky</form>
 <tag>
-<AM lemma="Jeszenszky_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jeszenszky_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Jeszenszky_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Jeszenszky_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jeszenszky_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Jeszenszky_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92257-006-p7s4w11">
@@ -2946,7 +2946,7 @@
 </w.rf>
 <form>Die</form>
 <tag>
-<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="die-1_;m_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
 <AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2957,7 +2957,7 @@
 </w.rf>
 <form>Presse</form>
 <tag>
-<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-1_;m_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920923-092-p1s1w1</LM>
 </w.rf>
 <form>Kotas</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-092-p1s1w2">
 <src.rf>manual</src.rf>
@@ -54,8 +54,8 @@
 </w.rf>
 <form>ben</form>
 <tag>
-<AM lemma="ben-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ben-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ben-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ben-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-092-p2s1w4">
@@ -91,7 +91,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -109,7 +109,7 @@
 <LM>w#w-mf920923-092-p2s2w4</LM>
 </w.rf>
 <form>Mucha</form>
-<tag lemma="Mucha_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mucha_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-092-p2s2w5">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -224,7 +224,7 @@
 <LM>w#w-mf920923-092-p2s2w18</LM>
 </w.rf>
 <form>Kotase</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-092-p2s2w19">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -344,7 +344,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-092-p2s2w33">
@@ -361,7 +361,7 @@
 <LM>w#w-mf920923-092-p2s2w34</LM>
 </w.rf>
 <form>Kotase</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-092-p2s2w35">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-092-p2s3w2">
@@ -406,7 +406,7 @@
 <LM>w#w-mf920923-092-p2s3w3</LM>
 </w.rf>
 <form>Kotas</form>
-<tag lemma="Kotas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kotas_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-092-p2s3w4">
 <src.rf>manual</src.rf>

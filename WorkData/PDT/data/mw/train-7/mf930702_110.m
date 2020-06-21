@@ -759,7 +759,7 @@
 </w.rf>
 <form>FUNCINPEC</form>
 <tag>
-<AM lemma="FUNCINPEC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FUNCINPEC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FUNCINPEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -793,7 +793,7 @@
 <LM>w#w-mf930702-110-p2s4w30</LM>
 </w.rf>
 <form>Ranariddh</form>
-<tag lemma="Ranariddh_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ranariddh_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-110-p2s4w31">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 </w.rf>
 <form>FUNCINPEC</form>
 <tag>
-<AM lemma="FUNCINPEC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FUNCINPEC_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FUNCINPEC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1025,7 +1025,7 @@
 <LM>w#w-mf930702-110-p2s5w27</LM>
 </w.rf>
 <form>Senem</form>
-<tag lemma="Sen_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Sen_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-110-p2s5w28">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-mf930702-110-p2s6w2</LM>
 </w.rf>
 <form>Sen</form>
-<tag lemma="Sen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-110-p2s6w3">
 <src.rf>manual</src.rf>

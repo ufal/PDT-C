@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9407-016-p1s1w2</LM>
 </w.rf>
 <form>Dreyer</form>
-<tag lemma="Dreyer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dreyer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p1s1w3">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-cmpr9407-016-p2s1w1</LM>
 </w.rf>
 <form>Ostroj</form>
-<tag lemma="Ostroj_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ostroj_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p2s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9407-016-p2s1w3</LM>
 </w.rf>
 <form>Hansen</form>
-<tag lemma="Hansen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hansen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p2s1w4">
 <src.rf>manual</src.rf>
@@ -94,8 +94,8 @@
 </w.rf>
 <form>Reinders</form>
 <tag>
-<AM lemma="Reinders_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Reinders_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reinders_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Reinders_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-016-p2s1w6">
@@ -580,7 +580,7 @@
 <LM>w#w-cmpr9407-016-p3s4w11</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p3s4w12">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-cmpr9407-016-p4s1w2</LM>
 </w.rf>
 <form>Ostroj</form>
-<tag lemma="Ostroj_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Ostroj_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p4s1w3">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-cmpr9407-016-p4s3w3</LM>
 </w.rf>
 <form>Ostroji</form>
-<tag lemma="Ostroj_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Ostroj_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-cmpr9407-016-p5s1Aw8</LM>
 </w.rf>
 <form>Češi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p5s1Aw9">
 <src.rf>manual</src.rf>
@@ -1631,7 +1631,7 @@
 <LM>w#w-cmpr9407-016-p5s3w5</LM>
 </w.rf>
 <form>Čechům</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP3-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p5s3w6">
 <src.rf>manual</src.rf>
@@ -2632,7 +2632,7 @@
 <LM>w#w-cmpr9407-016-p7s2w8</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-016-p7s2w9">
 <src.rf>manual</src.rf>

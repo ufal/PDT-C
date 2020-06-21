@@ -866,7 +866,7 @@
 <LM>w#w-lnd94104-136-p1s5w16</LM>
 </w.rf>
 <form>Dizdarevič</form>
-<tag lemma="Dizdarevič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dizdarevič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-136-p1s5w17">
 <src.rf>manual</src.rf>
@@ -1081,8 +1081,8 @@
 </w.rf>
 <form>ČT</form>
 <tag>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-136-p1s7w14">

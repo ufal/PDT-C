@@ -52,8 +52,8 @@
 </w.rf>
 <form>Briana</form>
 <tag>
-<AM lemma="Brian_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Brian_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Brian_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Brian_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-022-p1s1w6">
@@ -62,7 +62,7 @@
 <LM>w#w-mf920923-022-p1s1w6</LM>
 </w.rf>
 <form>Phelana</form>
-<tag lemma="Phelan_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Phelan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-022-p1s1w7">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-mf920923-022-p1s2w3</LM>
 </w.rf>
 <form>Polesný</form>
-<tag lemma="Polesný-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Polesný-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-022-p1s2w4">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-mf920923-022-p1s2w13</LM>
 </w.rf>
 <form>Heřmánek</form>
-<tag lemma="Heřmánek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Heřmánek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-022-p1s2w14">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-mf920923-022-p1s2w28</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-022-p1s2w29">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <form>Mrkvička</form>
 <tag>
 <AM lemma="mrkvička-2" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mrkvička-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mrkvička-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-022-p1s3w10">
@@ -781,7 +781,7 @@
 <LM>w#w-mf920923-022-p2s1w3</LM>
 </w.rf>
 <form>MAFA</form>
-<tag lemma="Mafa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mafa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-022-p2s1w4">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-mf920923-022-p2s2w2</LM>
 </w.rf>
 <form>RŮŽIČKA</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

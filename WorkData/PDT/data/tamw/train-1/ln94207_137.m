@@ -78,8 +78,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-137-p2s1Aw4">
@@ -883,7 +883,7 @@
 <LM>w#w-ln94207-137-p4s1w27</LM>
 </w.rf>
 <form>Myslbek</form>
-<tag lemma="Myslbek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Myslbek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-137-p4s1w28">
 <src.rf>manual</src.rf>

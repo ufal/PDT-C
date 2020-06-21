@@ -219,7 +219,7 @@
 <LM>w#w-lnd91301-028-p1s2w13</LM>
 </w.rf>
 <form>Paloušovi</form>
-<tag lemma="Palouš_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Palouš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd91301-028-p1s2w14">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-lnd91301-028-p1s2w23</LM>
 </w.rf>
 <form>Lebeděv</form>
-<tag lemma="Lebeděv_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lebeděv_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-028-p1s2w24">
 <src.rf>manual</src.rf>

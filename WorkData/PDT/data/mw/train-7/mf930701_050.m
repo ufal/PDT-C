@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-050-p1s1w2</LM>
 </w.rf>
 <form>Cicoň</form>
-<tag lemma="Cicoň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cicoň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-050-p1s1w3">
 <src.rf>manual</src.rf>

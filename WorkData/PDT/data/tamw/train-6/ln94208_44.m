@@ -271,7 +271,7 @@
 <LM>w#w-ln94208-44-p2s1Bw26</LM>
 </w.rf>
 <form>Štullera</form>
-<tag lemma="Štuller_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Štuller_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-44-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln94208-44-p2s1Bw29</LM>
 </w.rf>
 <form>Lacostem</form>
-<tag lemma="Lacoste_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Lacoste_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94208-44-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94208-44-p2s2w1</LM>
 </w.rf>
 <form>Lacoste</form>
-<tag lemma="Lacoste_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lacoste_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-44-p2s2w2">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-ln94208-44-p2s4w4</LM>
 </w.rf>
 <form>Lacoste</form>
-<tag lemma="Lacoste_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lacoste_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-44-p2s4w5">
 <src.rf>manual</src.rf>

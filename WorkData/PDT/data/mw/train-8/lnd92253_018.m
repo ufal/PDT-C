@@ -35,7 +35,7 @@
 <LM>w#w-lnd92253-018-p1s1w3</LM>
 </w.rf>
 <form>INVEXU</form>
-<tag lemma="Invex_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Invex_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-018-p2s1">
@@ -93,7 +93,7 @@
 <LM>w#w-lnd92253-018-p2s1w7</LM>
 </w.rf>
 <form>INVEX</form>
-<tag lemma="Invex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Invex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92253-018-p2s1w8">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-lnd92253-018-p2s4w14</LM>
 </w.rf>
 <form>Fiat</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92253-018-p2s4w15">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-lnd92253-018-p3s1w2</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="luč-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92253-018-p3s1w3">
 <src.rf>manual</src.rf>

@@ -269,7 +269,7 @@
 <LM>w#w-cmpr9416-018-p5s1w8</LM>
 </w.rf>
 <form>Čechovi</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS6-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-018-p5s1w9">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-cmpr9416-018-p5s2w5</LM>
 </w.rf>
 <form>Čech</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-018-p5s2w6">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-cmpr9416-018-p7s1w2</LM>
 </w.rf>
 <form>Šulc</form>
-<tag lemma="Šulc_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šulc_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-018-p9s1">
@@ -726,7 +726,7 @@
 </w.rf>
 <form>ČKD</form>
 <tag>
-<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;m_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ČKD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -931,7 +931,7 @@
 <LM>w#w-cmpr9416-018-p9s1w45</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-018-p9s1w46">
 <src.rf>manual</src.rf>

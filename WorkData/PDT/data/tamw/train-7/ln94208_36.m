@@ -70,8 +70,8 @@
 </w.rf>
 <form>kva</form>
 <tag>
-<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kva-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-36-p2s1Aw4">
@@ -122,7 +122,7 @@
 <LM>w#w-ln94208-36-p2s1Bw4</LM>
 </w.rf>
 <form>Koukal</form>
-<tag lemma="Koukal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Koukal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-36-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-ln94208-36-p2s1Bw17</LM>
 </w.rf>
 <form>Rašínově</form>
-<tag lemma="Rašínův_;S_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Rašínův_;Y_^(*2)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94208-36-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94208-36-p2s3w8</LM>
 </w.rf>
 <form>Franka</form>
-<tag lemma="Frank_;E_;S_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Frank_;E_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-36-p2s3w9">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln94208-36-p2s3w9</LM>
 </w.rf>
 <form>Gehryho</form>
-<tag lemma="Gehry_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gehry_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-36-p2s3w10">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln94208-36-p2s3w17</LM>
 </w.rf>
 <form>Miluniče</form>
-<tag lemma="Milunič_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Milunič_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-36-p2s3w18">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 </w.rf>
 <form>Nationale</form>
 <tag>
-<AM lemma="Nationale_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nationale_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Nationale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -628,7 +628,7 @@
 </w.rf>
 <form>Nederlanden</form>
 <tag>
-<AM lemma="Nederlanden_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Nederlanden_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Nederlanden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

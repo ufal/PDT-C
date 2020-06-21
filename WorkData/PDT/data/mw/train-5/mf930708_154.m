@@ -119,7 +119,7 @@
 <LM>w#w-mf930708-154-p3s1w6</LM>
 </w.rf>
 <form>Duckula</form>
-<tag lemma="Duckula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Duckula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-154-p3s1w7">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-mf930708-154-p5s1w5</LM>
 </w.rf>
 <form>Bazan</form>
-<tag lemma="Bazan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bazan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-154-p5s1w6">
 <src.rf>manual</src.rf>
@@ -563,8 +563,8 @@
 <form>Stardust</form>
 <tag>
 <AM lemma="stardust" src="orig">NNIS1-----A----</AM>
-<AM lemma="Stardust_;R" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Stardust_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Stardust_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Stardust_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stardust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -657,7 +657,7 @@
 </w.rf>
 <form>ORF</form>
 <tag>
-<AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ORF_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -693,7 +693,7 @@
 <LM>w#w-mf930708-154-p7s1w3</LM>
 </w.rf>
 <form>Howser</form>
-<tag lemma="Howser_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Howser_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-154-p7s1w4">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 </w.rf>
 <form>ORF</form>
 <tag>
-<AM lemma="ORF_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ORF_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ORF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1162,7 +1162,7 @@
 </w.rf>
 <form>Austria</form>
 <tag>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Austria_Wien)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Austria_;m_,t_^(fotbalový_klub_Austria_Wien)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Austria-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1340,9 +1340,9 @@
 <form>Fixe</form>
 <tag>
 <AM lemma="fixe_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Fix_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Fix_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Fix_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Fix_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Fix_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Fix_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="fix" src="auto">NNIS5-----A----</AM>
 <AM lemma="fixa_,h_^(fixový_popisovač)" src="auto">NNFS3-----A----</AM>
 <AM lemma="fixa_,h_^(fixový_popisovač)" src="auto">NNFS6-----A----</AM>
@@ -1385,7 +1385,7 @@
 </w.rf>
 <form>Austria</form>
 <tag>
-<AM lemma="Austria_;K_,t_^(fotbalový_klub_Austria_Wien)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Austria_;m_,t_^(fotbalový_klub_Austria_Wien)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Austria-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

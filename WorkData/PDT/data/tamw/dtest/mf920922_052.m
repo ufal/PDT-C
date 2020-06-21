@@ -54,7 +54,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual">NNNXX-----A----</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -129,7 +129,7 @@
 <LM>w#w-mf920922-052-p2s1w11</LM>
 </w.rf>
 <form>Krejčí</form>
-<tag lemma="Krejčí-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krejčí-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s1w12">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <LM>w#w-mf920922-052-p2s1w13</LM>
 </w.rf>
 <form>Favoritu</form>
-<tag lemma="Favorit_;R_^(vozidlo)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Favorit_;m_^(vozidlo)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s1w14">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-mf920922-052-p2s1w20</LM>
 </w.rf>
 <form>McCaightem</form>
-<tag lemma="McCaight_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="McCaight_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s1w21">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-mf920922-052-p2s3w13</LM>
 </w.rf>
 <form>Kadlec</form>
-<tag lemma="Kadlec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kadlec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s3w14">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-mf920922-052-p2s3w15</LM>
 </w.rf>
 <form>Krejčí</form>
-<tag lemma="Krejčí-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krejčí-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s3w16">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-mf920922-052-p2s3w17</LM>
 </w.rf>
 <form>Hudínek</form>
-<tag lemma="Hudínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hudínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s3w18">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-mf920922-052-p2s3w19</LM>
 </w.rf>
 <form>Kábale</form>
-<tag lemma="Kábale_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kábale_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-052-p2s3w20">
 <src.rf>manual</src.rf>

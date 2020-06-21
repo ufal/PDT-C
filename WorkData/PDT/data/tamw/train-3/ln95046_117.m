@@ -305,7 +305,7 @@
 </w.rf>
 <form>Deutsche</form>
 <tag>
-<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-1_;m_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -316,7 +316,7 @@
 </w.rf>
 <form>Binnereederei</form>
 <tag>
-<AM lemma="Binnereederei_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Binnereederei_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Binnereederei-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -593,8 +593,8 @@
 </w.rf>
 <form>Line</form>
 <tag>
-<AM lemma="Line_;K" src="orig">NNFSX-----A----</AM>
-<AM lemma="Lin-1_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Line_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Lin-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Line-77" src="manual" selected="1">F%-------------</AM>
@@ -737,7 +737,7 @@
 </w.rf>
 <form>ČPL</form>
 <tag>
-<AM lemma="ČPL_:B_;K_^(Československá_plavba_labská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČPL_:B_;m_^(Československá_plavba_labská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČPL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

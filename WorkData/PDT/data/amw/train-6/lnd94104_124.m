@@ -158,7 +158,7 @@
 </w.rf>
 <form>ČHMÚ</form>
 <tag>
-<AM lemma="ČHMÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČHMÚ_:B_;m" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ČHMÚ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

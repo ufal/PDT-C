@@ -662,7 +662,7 @@
 <LM>w#w-lnd91303-005-p4s2w10</LM>
 </w.rf>
 <form>Špindlerově</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd91303-005-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1089,7 +1089,7 @@
 <LM>w#w-lnd91303-005-p5s1w17</LM>
 </w.rf>
 <form>Špindlerova</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd91303-005-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1113,7 +1113,7 @@
 <LM>w#w-lnd91303-005-p5s1w20</LM>
 </w.rf>
 <form>Dunka</form>
-<tag lemma="Dunka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dunka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-005-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-lnd91303-005-p5s6w14</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-005-p5s6w15">
 <src.rf>manual</src.rf>
@@ -1985,8 +1985,8 @@
 <form>Arnica</form>
 <tag>
 <AM lemma="Arnica_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Arnica_;L_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Arnica_;K_;L" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Arnica_;U_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Arnica_;U_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-005-p6s2w5">
@@ -2003,7 +2003,7 @@
 <LM>w#w-lnd91303-005-p6s2w6</LM>
 </w.rf>
 <form>Špindlerově</form>
-<tag lemma="Špindlerův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Špindlerův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd91303-005-p6s2w7">
 <src.rf>manual</src.rf>
@@ -4183,7 +4183,7 @@
 <form>Charbulák</form>
 <tag>
 <AM lemma="Charbulák_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Charbulák_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Charbulák_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-005-p10s5w4">
@@ -4836,7 +4836,7 @@
 <tag>
 <AM lemma="Ski_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="ski_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Ski_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ski_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-005-p12s3w7">
@@ -5032,8 +5032,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-005-p13s1w3">

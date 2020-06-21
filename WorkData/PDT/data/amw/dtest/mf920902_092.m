@@ -80,7 +80,7 @@
 </w.rf>
 <form>MIG</form>
 <tag>
-<AM lemma="MIG-1_:B_;R_^(letadlo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MIG-1_:B_;m_^(letadlo)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MIG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

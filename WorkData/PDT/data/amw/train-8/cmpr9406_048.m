@@ -2360,7 +2360,7 @@
 <LM>w#w-cmpr9406-048-p10s2w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-048-p10s2w8">
 <src.rf>manual</src.rf>
@@ -4183,7 +4183,7 @@
 <LM>w#w-cmpr9406-048-p19s2w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-048-p19s2w9">
 <src.rf>manual</src.rf>
@@ -5593,7 +5593,7 @@
 <LM>w#w-cmpr9406-048-p27s1w2</LM>
 </w.rf>
 <form>Urbanová</form>
-<tag lemma="Urbanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Urbanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-048-p28s1">

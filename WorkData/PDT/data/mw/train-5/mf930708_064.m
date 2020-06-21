@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-064-p1s1w2</LM>
 </w.rf>
 <form>Švejdík</form>
-<tag lemma="Švejdík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švejdík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-064-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf930708-064-p1s1w4</LM>
 </w.rf>
 <form>Priessnitz</form>
-<tag lemma="Priessnitz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Priessnitz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -59,7 +59,7 @@
 <LM>w#w-cmpr9415-056-p2s1w6</LM>
 </w.rf>
 <form>Neprodal</form>
-<tag lemma="Neprodal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Neprodal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-056-p2s1w7">
 <src.rf>manual</src.rf>

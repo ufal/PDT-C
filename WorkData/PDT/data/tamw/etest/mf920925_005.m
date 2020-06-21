@@ -77,7 +77,7 @@
 <LM>w#w-mf920925-005-p2s1w5</LM>
 </w.rf>
 <form>Baco</form>
-<tag lemma="Baco_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-005-p2s1w6">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-mf920925-005-p3s1w5</LM>
 </w.rf>
 <form>Baudyš</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-005-p3s1w6">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf920925-005-p3s1w10</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-005-p3s1w11">
 <src.rf>manual</src.rf>
@@ -517,8 +517,8 @@
 </w.rf>
 <form>ČSD</form>
 <tag>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-005-p3s1w19">
@@ -1369,7 +1369,7 @@
 <LM>w#w-mf920925-005-p6s1w4</LM>
 </w.rf>
 <form>Baca</form>
-<tag lemma="Baco_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baco_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-005-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1914,7 +1914,7 @@
 <LM>w#w-mf920925-005-p7s1w9</LM>
 </w.rf>
 <form>Baudyše</form>
-<tag lemma="Baudyš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baudyš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-005-p7s1w10">
 <src.rf>manual</src.rf>
@@ -2473,7 +2473,7 @@
 <LM>w#w-mf920925-005-p7s3w38</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-005-p7s3w39">
 <src.rf>manual</src.rf>

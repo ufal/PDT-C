@@ -118,7 +118,7 @@
 </w.rf>
 <form>Black</form>
 <tag>
-<AM lemma="Black_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Black_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Black-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -424,7 +424,7 @@
 <LM>w#w-mf920901-121-p2s4w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920901-121-p2s4w3">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1944,7 +1944,7 @@
 </w.rf>
 <form>Associated</form>
 <tag>
-<AM lemma="Associated_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Associated_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Associated-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1955,7 +1955,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1989,7 +1989,7 @@
 <LM>w#w-mf920901-121-p5s2w12</LM>
 </w.rf>
 <form>Mahathir</form>
-<tag lemma="Mahathir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mahathir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-121-p5s2w13">
 <src.rf>manual</src.rf>
@@ -3986,7 +3986,7 @@
 <LM>w#w-mf920901-121-p9s1w1</LM>
 </w.rf>
 <form>Mahathir</form>
-<tag lemma="Mahathir_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mahathir_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-121-p9s1w2">
 <src.rf>manual</src.rf>
@@ -4888,7 +4888,7 @@
 <LM>w#w-mf920901-121-p10s1w52</LM>
 </w.rf>
 <form>Morgana</form>
-<tag lemma="Morgan-1_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Morgan-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-121-p10s1w53">
 <src.rf>manual</src.rf>

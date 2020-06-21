@@ -114,7 +114,7 @@
 </w.rf>
 <form>OS</form>
 <tag>
-<AM lemma="OS_:B_;R_^(operační_systém)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="OS_:B_;m_^(operační_systém)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="OS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -124,7 +124,7 @@
 <LM>w#w-lnd92251-056-p3s2w7</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92251-056-p3s2w8">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <LM>w#w-lnd92251-056-p3s3w1</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-056-p3s3w2">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-lnd92251-056-p3s4w6</LM>
 </w.rf>
 <form>Dlouhého</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-056-p3s4w7">
 <src.rf>manual</src.rf>

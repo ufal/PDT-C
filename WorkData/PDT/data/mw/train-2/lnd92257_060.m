@@ -2356,7 +2356,7 @@
 <LM>w#w-lnd92257-060-p7s1w4</LM>
 </w.rf>
 <form>POKORNÉHO</form>
-<tag lemma="Pokorný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pokorný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-060-p7s1w5">
 <src.rf>manual</src.rf>

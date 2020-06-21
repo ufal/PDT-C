@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-091-p1s1w1</LM>
 </w.rf>
 <form>Jospin</form>
-<tag lemma="Jospin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jospin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-091-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-ln95040-091-p1s1w3</LM>
 </w.rf>
 <form>Balladurův</form>
-<tag lemma="Balladurův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Balladurův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95040-091-p1s1w4">
 <src.rf>manual</src.rf>
@@ -90,7 +90,7 @@
 <LM>w#w-ln95040-091-p2s1Bw3</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-091-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-ln95040-091-p2s3w4</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-091-p2s3w5">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln95040-091-p2s3w15</LM>
 </w.rf>
 <form>Jospin</form>
-<tag lemma="Jospin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jospin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-091-p2s3w16">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln95040-091-p2s4w8</LM>
 </w.rf>
 <form>Jospin</form>
-<tag lemma="Jospin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jospin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-091-p2s4w9">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 </w.rf>
 <form>IFOP</form>
 <tag>
-<AM lemma="IFOP-1_:B_;K_,t_^(Institut_Francais_de_l'Opinion_Publique)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IFOP-1_:B_;m_,t_^(Institut_Francais_de_l'Opinion_Publique)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IFOP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -728,7 +728,7 @@
 <LM>w#w-ln95040-091-p2s5w6</LM>
 </w.rf>
 <form>Jospin</form>
-<tag lemma="Jospin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jospin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-091-p2s5w7">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-ln95040-091-p2s5w17</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-091-p2s5w18">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <LM>w#w-ln95040-091-p2s6w3</LM>
 </w.rf>
 <form>Jospinova</form>
-<tag lemma="Jospinův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Jospinův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95040-091-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1060,7 +1060,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-091-p2s6w25">
@@ -1077,7 +1077,7 @@
 <LM>w#w-ln95040-091-p2s6w26</LM>
 </w.rf>
 <form>Delors</form>
-<tag lemma="Delors_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Delors_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-091-p2s6w27">
 <src.rf>manual</src.rf>

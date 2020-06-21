@@ -99,7 +99,7 @@
 <LM>w#w-ln94204-150-p2s1Aw6</LM>
 </w.rf>
 <form>Szarkou</form>
-<tag lemma="Szarka_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Szarka_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-150-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-ln94204-150-p2s1Bw2</LM>
 </w.rf>
 <form>Scipiades</form>
-<tag lemma="Scipiades_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scipiades_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-150-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -185,8 +185,8 @@
 </w.rf>
 <form>Magyar</form>
 <tag>
-<AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Magyar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Magyar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -198,8 +198,8 @@
 <form>Hírlap</form>
 <tag>
 <AM lemma="Hírlap" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hírlap_;S" src="manual">NNIS1-----A----</AM>
-<AM lemma="Hírlap_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hírlap_;Y" src="manual">NNIS1-----A----</AM>
+<AM lemma="Hírlap_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -425,7 +425,7 @@
 <LM>w#w-ln94204-150-p2s2w9</LM>
 </w.rf>
 <form>Szarka</form>
-<tag lemma="Szarka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Szarka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-150-p2s2w10">
 <src.rf>manual</src.rf>
@@ -514,8 +514,8 @@
 </w.rf>
 <form>Bereményi</form>
 <tag>
-<AM lemma="Bereményi_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Bereményi_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bereményi_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Bereményi_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-150-p2s2w21">
@@ -534,7 +534,7 @@
 <LM>w#w-ln94204-150-p2s3w1</LM>
 </w.rf>
 <form>Szarka</form>
-<tag lemma="Szarka_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Szarka_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-150-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1542,7 +1542,7 @@
 <LM>w#w-ln94204-150-p4s3w13</LM>
 </w.rf>
 <form>Češích</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP6-----A----</tag>
+<tag lemma="Čech_;E_;Y" src="auto" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-ln94204-150-p4s3w14">
 <src.rf>manual</src.rf>
@@ -2935,8 +2935,8 @@
 </w.rf>
 <form>Istvánu</form>
 <tag>
-<AM lemma="István_;S" src="orig">NNMS3-----A---1</AM>
-<AM lemma="István_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="István_;Y" src="orig">NNMS3-----A---1</AM>
+<AM lemma="István_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-150-p4s15w9">
@@ -2945,7 +2945,7 @@
 <LM>w#w-ln94204-150-p4s15w9</LM>
 </w.rf>
 <form>Tiszovi</form>
-<tag lemma="Tiszo_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Tiszo_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94204-150-p4s15w10">
 <src.rf>manual</src.rf>
@@ -4699,7 +4699,7 @@
 <LM>w#w-ln94204-150-p8s1w13</LM>
 </w.rf>
 <form>Maršina</form>
-<tag lemma="Maršina_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maršina_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-150-p8s1w14">
 <src.rf>manual</src.rf>

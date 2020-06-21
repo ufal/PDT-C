@@ -70,8 +70,8 @@
 </w.rf>
 <form>haš</form>
 <tag>
-<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="haš-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-41-p2s1Aw4">
@@ -245,7 +245,7 @@
 <LM>w#w-ln94202-41-p2s1Bw19</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-41-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -401,12 +401,12 @@
 <form>Hugo</form>
 <tag>
 <AM lemma="Hugo-1_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Hugo-1_;S_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hugo-1_;S_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Hugo-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hugo-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Hugo-1_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hugo-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-41-p2s2w5">
@@ -415,7 +415,7 @@
 <LM>w#w-ln94202-41-p2s2w5</LM>
 </w.rf>
 <form>Schreibera</form>
-<tag lemma="Schreiber_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Schreiber_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-41-p2s2w6">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 </w.rf>
 <form>SEVT</form>
 <tag>
-<AM lemma="SEVT-1_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SEVT-1_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SEVT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -756,9 +756,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-41-p2s4w5">

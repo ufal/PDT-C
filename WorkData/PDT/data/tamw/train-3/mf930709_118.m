@@ -4116,7 +4116,7 @@
 <LM>w#w-mf930709-118-p8s1w3</LM>
 </w.rf>
 <form>Uhlíře</form>
-<tag lemma="Uhlíř_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Uhlíř_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-118-p8s1w4">
 <src.rf>manual</src.rf>
@@ -4648,7 +4648,7 @@
 <LM>w#w-mf930709-118-p8s5w3</LM>
 </w.rf>
 <form>Kudláčka</form>
-<tag lemma="Kudláček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kudláček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-118-p8s5w4">
 <src.rf>manual</src.rf>
@@ -4665,7 +4665,7 @@
 </w.rf>
 <form>ODA</form>
 <tag>
-<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

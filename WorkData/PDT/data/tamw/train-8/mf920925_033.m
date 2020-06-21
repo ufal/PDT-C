@@ -1450,7 +1450,7 @@
 <LM>w#w-mf920925-033-p4s1w16</LM>
 </w.rf>
 <form>Tunkl</form>
-<tag lemma="Tunkl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tunkl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-033-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 </w.rf>
 <form>MHPR</form>
 <tag>
-<AM lemma="MHPR_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MHPR_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MHPR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1777,7 +1777,7 @@
 <LM>w#w-mf920925-033-p4s3Bw3</LM>
 </w.rf>
 <form>Tunkla</form>
-<tag lemma="Tunkl_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tunkl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-033-p4s3Bw4">
 <src.rf>manual</src.rf>

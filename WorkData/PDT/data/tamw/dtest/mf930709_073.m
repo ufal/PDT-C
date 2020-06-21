@@ -102,9 +102,9 @@
 </w.rf>
 <form>km</form>
 <tag>
-<AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="km-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="km-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-073-p2s1Aw4">
@@ -632,7 +632,7 @@
 <LM>w#w-mf930709-073-p3s2w22</LM>
 </w.rf>
 <form>Pešek</form>
-<tag lemma="Pešek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pešek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-073-p3s2w23">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <form>Ivica</form>
 <tag>
 <AM lemma="Ivica_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Ivica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ivica_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ivica-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -809,7 +809,7 @@
 </w.rf>
 <form>Brestovanská</form>
 <tag>
-<AM lemma="Brestovanská_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Brestovanská_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="brestovanský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="brestovanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="brestovanský" src="auto">AANP1----1A----</AM>
@@ -1135,7 +1135,7 @@
 </w.rf>
 <form>Brestovanská</form>
 <tag>
-<AM lemma="Brestovanská_;S" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Brestovanská_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="brestovanský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="brestovanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="brestovanský" src="auto">AANP1----1A----</AM>

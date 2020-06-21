@@ -97,8 +97,8 @@
 </w.rf>
 <form>pka</form>
 <tag>
-<AM lemma="pka-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pka-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pka-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pka-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-089-p2s1Aw4">
@@ -539,7 +539,7 @@
 <form>Pražáka</form>
 <tag>
 <AM lemma="Pražák_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Pražák_;E_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Pražák_;E_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-089-p2s4w17">
@@ -922,7 +922,7 @@
 <form>Pražák</form>
 <tag>
 <AM lemma="Pražák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pražák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pražák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-089-p3s2w29">
@@ -2032,7 +2032,7 @@
 <form>Pražák</form>
 <tag>
 <AM lemma="Pražák_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pražák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pražák_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-089-p5s2w27">

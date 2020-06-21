@@ -217,7 +217,7 @@
 </w.rf>
 <form>lei</form>
 <tag>
-<AM lemma="lei_;b_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="lei_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
@@ -252,7 +252,7 @@
 </w.rf>
 <form>USD</form>
 <tag>
-<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -766,7 +766,7 @@
 </w.rf>
 <form>lei</form>
 <tag>
-<AM lemma="lei_;b_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="lei_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>

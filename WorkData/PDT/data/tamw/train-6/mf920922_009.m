@@ -51,7 +51,7 @@
 <LM>w#w-mf920922-009-p1s1w5</LM>
 </w.rf>
 <form>ŠTĚRBY</form>
-<tag lemma="Štěrba_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Štěrba_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-009-p1s1w6">
 <src.rf>manual</src.rf>
@@ -100,7 +100,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -230,7 +230,7 @@
 <LM>w#w-mf920922-009-p2s1w15</LM>
 </w.rf>
 <form>Sajaše</form>
-<tag lemma="Sajaš_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sajaš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-009-p2s1w16">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 </w.rf>
 <form>SBČS</form>
 <tag>
-<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS_:B_;m_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SBČS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -223,7 +223,7 @@
 <LM>w#w-ln94203-67-p2s2w16</LM>
 </w.rf>
 <form>Papandrea</form>
-<tag lemma="Papandreo_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Papandreo_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-67-p2s2w17">
 <src.rf>manual</src.rf>
@@ -282,8 +282,8 @@
 </w.rf>
 <form>Samarou</form>
 <tag>
-<AM lemma="samara_;R" src="orig">NNFS7-----A----</AM>
-<AM lemma="Samara-2_;G_;R_^(vozidlo_město)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="samara_;m" src="orig">NNFS7-----A----</AM>
+<AM lemma="Samara-2_;G_;m_^(vozidlo_město)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p3s1w7">
@@ -431,8 +431,8 @@
 </w.rf>
 <form>Transněfť</form>
 <tag>
-<AM lemma="Transněfť_;K_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Transněfť_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Transněfť_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Transněfť_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p3s2Aw8">
@@ -1168,7 +1168,7 @@
 </w.rf>
 <form>DEA</form>
 <tag>
-<AM lemma="DEA-2_:B_;K_,t_^(Drug_Enforcement_Administration)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEA-2_:B_;m_,t_^(Drug_Enforcement_Administration)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEA-1_:B_,t_^(décollage_en_aveugle)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="DEA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -1262,8 +1262,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p5s1w8">
@@ -1499,7 +1499,7 @@
 </w.rf>
 <form>OIC</form>
 <tag>
-<AM lemma="OIC-1_:B_;K_,t_^(Organisation_Internationale_du_Commerce)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OIC-1_:B_;m_,t_^(Organisation_Internationale_du_Commerce)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="OIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1518,9 +1518,9 @@
 </w.rf>
 <form>Hamid</form>
 <tag>
-<AM lemma="Hamid_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hamid_;Y_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Hamid_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hamid_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hamid_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hamid_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p5s2w13">
@@ -1529,7 +1529,7 @@
 <LM>w#w-ln94203-67-p5s2w13</LM>
 </w.rf>
 <form>Algabid</form>
-<tag lemma="Algabid_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Algabid_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-67-p5s2w14">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-007-p1s1w2</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-007-p1s1w3">
 <src.rf>manual</src.rf>
@@ -110,8 +110,8 @@
 </w.rf>
 <form>rg</form>
 <tag>
-<AM lemma="rg-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rg-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="rg-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rg-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-007-p2s1w4">
@@ -160,7 +160,7 @@
 <LM>w#w-mf930708-007-p2s1w9</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s1w10">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-mf930708-007-p2s1w15</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s1w16">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-mf930708-007-p2s2w9</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s2w10">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-mf930708-007-p2s3w19</LM>
 </w.rf>
 <form>Němci</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s3w20">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-mf930708-007-p2s4w5</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s4w6">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-mf930708-007-p2s4w6</LM>
 </w.rf>
 <form>Jarosch</form>
-<tag lemma="Jarosch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jarosch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s4w7">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-mf930708-007-p3s1w3</LM>
 </w.rf>
 <form>Němců</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-007-p3s1w4">
 <src.rf>manual</src.rf>

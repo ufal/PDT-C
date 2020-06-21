@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-112-p1s1Aw1</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -181,8 +181,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-112-p1s2w4">
@@ -273,7 +273,7 @@
 <LM>w#w-lnd94105-112-p1s3w9</LM>
 </w.rf>
 <form>Bayern</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s3w10">
 <src.rf>manual</src.rf>
@@ -443,7 +443,7 @@
 <LM>w#w-lnd94105-112-p1s4w10</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s4w11">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-lnd94105-112-p1s5w20</LM>
 </w.rf>
 <form>Bayernu</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s5w21">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-lnd94105-112-p1s6w15</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s6w16">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-lnd94105-112-p1s6w21</LM>
 </w.rf>
 <form>Bayern</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s6w22">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-lnd94105-112-p1s8w10</LM>
 </w.rf>
 <form>Bayern</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s8w11">
 <src.rf>manual</src.rf>
@@ -1140,7 +1140,7 @@
 <LM>w#w-lnd94105-112-p1s9w6</LM>
 </w.rf>
 <form>Witeczek</form>
-<tag lemma="Witeczek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Witeczek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s9w7">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-lnd94105-112-p1s11w2</LM>
 </w.rf>
 <form>Witeczek</form>
-<tag lemma="Witeczek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Witeczek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s11w3">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-lnd94105-112-p1s11w24</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s11w25">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <LM>w#w-lnd94105-112-p1s12w7</LM>
 </w.rf>
 <form>Scholl</form>
-<tag lemma="Scholl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Scholl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s12w8">
 <src.rf>manual</src.rf>
@@ -1840,7 +1840,7 @@
 <LM>w#w-lnd94105-112-p1s13Bw1</LM>
 </w.rf>
 <form>Bayern</form>
-<tag lemma="Bayern_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bayern_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s13Bw2">
 <src.rf>manual</src.rf>
@@ -1953,7 +1953,7 @@
 <form>Kaiserslautern</form>
 <tag>
 <AM lemma="Kaiserslautern" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kaiserslautern_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kaiserslautern_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-112-p1s13Bw15">
@@ -3052,7 +3052,7 @@
 <LM>w#w-lnd94105-112-p1s20w21</LM>
 </w.rf>
 <form>Kubíka</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s20w22">
 <src.rf>manual</src.rf>
@@ -3571,7 +3571,7 @@
 <LM>w#w-lnd94105-112-p1s24w14</LM>
 </w.rf>
 <form>Kubík</form>
-<tag lemma="Kubík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kubík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-112-p1s24w15">
 <src.rf>manual</src.rf>

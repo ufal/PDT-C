@@ -2369,7 +2369,7 @@
 <form>Vilím</form>
 <tag>
 <AM lemma="Vilím_;Y_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vilím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vilím_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-042-p4s4w10">
@@ -4933,7 +4933,7 @@
 <form>Vilímem</form>
 <tag>
 <AM lemma="Vilím_;Y_,h" src="auto">NNMS7-----A----</AM>
-<AM lemma="Vilím_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Vilím_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-042-p6s1w20">
@@ -7673,7 +7673,7 @@
 <form>Vilím</form>
 <tag>
 <AM lemma="Vilím_;Y_,h" src="auto">NNMS1-----A----</AM>
-<AM lemma="Vilím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Vilím_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-042-p7s6w9">
@@ -10722,7 +10722,7 @@
 <form>Vilímem</form>
 <tag>
 <AM lemma="Vilím_;Y_,h" src="auto">NNMS7-----A----</AM>
-<AM lemma="Vilím_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Vilím_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-042-p10s1w8">
@@ -11415,7 +11415,7 @@
 <LM>w#w-vesm9211-042-p11s1w4</LM>
 </w.rf>
 <form>Potoček</form>
-<tag lemma="Potoček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Potoček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-042-p11s1w5">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-ln95048-047-p2s1w5</LM>
 </w.rf>
 <form>Soukupa</form>
-<tag lemma="Soukup_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Soukup_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s1w6">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-ln95048-047-p2s1w25</LM>
 </w.rf>
 <form>Vokřál</form>
-<tag lemma="Vokřál_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vokřál_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s1w26">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-ln95048-047-p2s2w17</LM>
 </w.rf>
 <form>Rocky</form>
-<tag lemma="Rocky_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rocky_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s2w18">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-ln95048-047-p2s4w9</LM>
 </w.rf>
 <form>Vašut</form>
-<tag lemma="Vašut_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vašut_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s4w10">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-ln95048-047-p2s4w27</LM>
 </w.rf>
 <form>Tomsy</form>
-<tag lemma="Tomsa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tomsa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s4w28">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-ln95048-047-p2s5w7</LM>
 </w.rf>
 <form>Vašutovu</form>
-<tag lemma="Vašutův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Vašutův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95048-047-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-ln95048-047-p2s5w12</LM>
 </w.rf>
 <form>Jaroš</form>
-<tag lemma="Jaroš_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jaroš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-ln95048-047-p2s6w2</LM>
 </w.rf>
 <form>Soukup</form>
-<tag lemma="Soukup_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Soukup_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s6w3">
 <src.rf>manual</src.rf>

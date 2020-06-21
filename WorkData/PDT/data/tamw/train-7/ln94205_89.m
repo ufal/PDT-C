@@ -103,7 +103,7 @@
 </w.rf>
 <form>Holstein</form>
 <tag>
-<AM lemma="Holstein_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Holstein_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Holstein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

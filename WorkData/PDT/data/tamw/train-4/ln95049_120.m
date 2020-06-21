@@ -127,7 +127,7 @@
 <LM>w#w-ln95049-120-p2s1Bw4</LM>
 </w.rf>
 <form>Clinton</form>
-<tag lemma="Clinton_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Clinton_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-120-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -240,8 +240,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-120-p2s1Bw19">
@@ -424,7 +424,7 @@
 <LM>w#w-ln95049-120-p2s2w10</LM>
 </w.rf>
 <form>Ginny</form>
-<tag lemma="Ginny_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Ginny_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-120-p2s2w11">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-ln95049-120-p2s2w11</LM>
 </w.rf>
 <form>Terzanová</form>
-<tag lemma="Terzanová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Terzanová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-120-p2s2w12">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln95049-120-p2s3w26</LM>
 </w.rf>
 <form>Tudjmana</form>
-<tag lemma="Tudjman_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Tudjman_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-120-p2s3w27">
 <src.rf>manual</src.rf>

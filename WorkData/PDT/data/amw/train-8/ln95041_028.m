@@ -127,7 +127,7 @@
 <LM>w#w-ln95041-028-p2s1Bw10</LM>
 </w.rf>
 <form>Damm</form>
-<tag lemma="Damm_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Damm_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-ln95041-028-p2s1Bw12</LM>
 </w.rf>
 <form>Rikl</form>
-<tag lemma="Rikl_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rikl_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln95041-028-p2s1Bw14</LM>
 </w.rf>
 <form>Suk</form>
-<tag lemma="Suk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Suk_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95041-028-p2s1Bw16</LM>
 </w.rf>
 <form>Vacek</form>
-<tag lemma="Vacek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vacek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 </w.rf>
 <form>RDI</form>
 <tag>
-<AM lemma="RDI_:B_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="RDI_:B_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="rdít" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="rdít" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="RDI-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -221,7 +221,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-1_;m_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -239,7 +239,7 @@
 <LM>w#w-ln95041-028-p2s1Bw23</LM>
 </w.rf>
 <form>Pragent</form>
-<tag lemma="Pragent_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pragent_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-ln95041-028-p2s2w3</LM>
 </w.rf>
 <form>Dosedělem</form>
-<tag lemma="Doseděl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Doseděl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-028-p2s2w4">
 <src.rf>manual</src.rf>

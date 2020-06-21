@@ -20,8 +20,8 @@
 </w.rf>
 <form>ČNR</form>
 <tag>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-005-p1s1w2">
@@ -169,7 +169,7 @@
 </w.rf>
 <form>SFTR</form>
 <tag>
-<AM lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SFTR_:B_;m_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -629,7 +629,7 @@
 </w.rf>
 <form>FFTR</form>
 <tag>
-<AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FFTR_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -826,7 +826,7 @@
 </w.rf>
 <form>FFTR</form>
 <tag>
-<AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FFTR_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -907,7 +907,7 @@
 </w.rf>
 <form>SFTR</form>
 <tag>
-<AM lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SFTR_:B_;m_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="SFTR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

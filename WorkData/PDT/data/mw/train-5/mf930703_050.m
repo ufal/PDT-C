@@ -95,7 +95,7 @@
 <form>han</form>
 <tag>
 <AM lemma="hana_^(pohana)" src="orig">NNFP2-----A----</AM>
-<AM lemma="han-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="han-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-050-p2s1w4">
@@ -113,8 +113,8 @@
 </w.rf>
 <form>ina</form>
 <tag>
-<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-050-p2s1w6">
@@ -229,7 +229,7 @@
 <LM>w#w-mf930703-050-p2s2w4</LM>
 </w.rf>
 <form>Foltýn</form>
-<tag lemma="Foltýn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foltýn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-050-p2s2w5">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -478,7 +478,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -586,7 +586,7 @@
 <LM>w#w-mf930703-050-p3s2w6</LM>
 </w.rf>
 <form>Hraského</form>
-<tag lemma="Hraský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hraský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-050-p3s2w7">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1008,7 +1008,7 @@
 <LM>w#w-mf930703-050-p4s1w2</LM>
 </w.rf>
 <form>Foltýn</form>
-<tag lemma="Foltýn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Foltýn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-050-p4s1w3">
 <src.rf>manual</src.rf>

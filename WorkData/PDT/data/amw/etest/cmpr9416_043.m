@@ -2031,7 +2031,7 @@
 <LM>w#w-cmpr9416-043-p10s1w19</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-043-p10s1w20">
 <src.rf>manual</src.rf>
@@ -2635,7 +2635,7 @@
 <LM>w#w-cmpr9416-043-p11s2w8</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Bohemia_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-cmpr9416-043-p11s2w9">
 <src.rf>manual</src.rf>
@@ -2651,7 +2651,7 @@
 <LM>w#w-cmpr9416-043-p11s2w10</LM>
 </w.rf>
 <form>Crystalex</form>
-<tag lemma="Crystalex_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Crystalex_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-043-p11s2w11">
 <src.rf>manual</src.rf>
@@ -3333,7 +3333,7 @@
 <LM>w#w-cmpr9416-043-p13s1w2</LM>
 </w.rf>
 <form>Skočdopol</form>
-<tag lemma="Skočdopol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skočdopol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-043-p13s1w3">
 <src.rf>manual</src.rf>
@@ -3357,7 +3357,7 @@
 <LM>w#w-cmpr9416-043-p13s1w5</LM>
 </w.rf>
 <form>Fuks</form>
-<tag lemma="Fuks_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fuks_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-043-p14s1">

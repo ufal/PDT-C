@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-106-p1s1w3</LM>
 </w.rf>
 <form>Bártová</form>
-<tag lemma="Bártová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bártová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 </mdata>

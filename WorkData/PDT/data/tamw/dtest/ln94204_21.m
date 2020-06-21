@@ -30,7 +30,7 @@
 </w.rf>
 <form>ABB</form>
 <tag>
-<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB_:B_;m_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ABB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

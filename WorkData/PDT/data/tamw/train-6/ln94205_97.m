@@ -67,7 +67,7 @@
 <LM>w#w-ln94205-97-p1s1Aw7</LM>
 </w.rf>
 <form>Carvey</form>
-<tag lemma="Carvey_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Carvey_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <tag>
 <AM lemma="Kim_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kim-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kim-2_;Y" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
+<AM lemma="Kim-2_;Y" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw21">
@@ -189,7 +189,7 @@
 <LM>w#w-ln94205-97-p1s1Aw21</LM>
 </w.rf>
 <form>Basingerová</form>
-<tag lemma="Basingerová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Basingerová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw22">
 <src.rf>manual</src.rf>
@@ -216,9 +216,9 @@
 </w.rf>
 <form>Gemini</form>
 <tag>
-<AM lemma="Gemini_;K_^(nakladatelství)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Gemini_;K_^(nakladatelství)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
-<AM lemma="gemini_,t_^(dvojčata)" src="auto">NNNPX-----A----</AM>
+<AM lemma="Gemini_;m_^(nakladatelství)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Gemini_;m_^(nakladatelství)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="gemini_,t_^(dvojčata)" src="auto">NNNXX-----A----</AM>
 <AM lemma="Gemini-77" src="manual">F%-------------</AM>
 </tag>
 </m>

@@ -27,7 +27,7 @@
 <LM>w#w-mf930713-009-p1s1w2</LM>
 </w.rf>
 <form>Waltari</form>
-<tag lemma="Waltari_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waltari_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-009-p1s1w3">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <LM>w#w-mf930713-009-p2s1Aw10</LM>
 </w.rf>
 <form>Waltari</form>
-<tag lemma="Waltari_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waltari_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-009-p2s1Aw11">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-mf930713-009-p2s1Bw4</LM>
 </w.rf>
 <form>Waltari</form>
-<tag lemma="Waltari_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Waltari_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-009-p2s1Bw5">
 <src.rf>manual</src.rf>

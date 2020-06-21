@@ -1465,7 +1465,7 @@
 <LM>w#w-ln95045-090-p3s8w17</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-090-p3s8w18">
 <src.rf>manual</src.rf>
@@ -1875,7 +1875,7 @@
 <LM>w#w-ln95045-090-p4s2w28</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Svoboda_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-090-p4s2w29">
 <src.rf>manual</src.rf>

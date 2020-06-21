@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9417-032-p3s1w5</LM>
 </w.rf>
 <form>Rumburaka</form>
-<tag lemma="Rumburak_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rumburak_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-032-p4s1">
@@ -634,7 +634,7 @@
 <LM>w#w-cmpr9417-032-p7s1w2</LM>
 </w.rf>
 <form>Jánoška</form>
-<tag lemma="Jánoška_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jánoška_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-032-p9s1">
@@ -1112,7 +1112,7 @@
 <LM>w#w-cmpr9417-032-p11s1w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9417-032-p11s1w9">
 <src.rf>manual</src.rf>
@@ -1362,7 +1362,7 @@
 <LM>w#w-cmpr9417-032-p12s1w7</LM>
 </w.rf>
 <form>Morávková</form>
-<tag lemma="Morávková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Morávková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-032-p12s1w8">
 <src.rf>manual</src.rf>
@@ -1785,8 +1785,8 @@
 </w.rf>
 <form>Wrigley</form>
 <tag>
-<AM lemma="Wrigley_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Wrigley_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Wrigley_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Wrigley_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Wrigley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1805,7 +1805,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1823,7 +1823,7 @@
 <LM>w#w-cmpr9417-032-p12s3w23</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-cmpr9417-032-p12s3w24">
 <src.rf>manual</src.rf>
@@ -2010,8 +2010,8 @@
 </w.rf>
 <form>Wrigley</form>
 <tag>
-<AM lemma="Wrigley_;R_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Wrigley_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Wrigley_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Wrigley_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Wrigley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2030,7 +2030,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
 <AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2329,7 +2329,7 @@
 <LM>w#w-cmpr9417-032-p12s5w29</LM>
 </w.rf>
 <form>Rumburakem</form>
-<tag lemma="Rumburak_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rumburak_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9417-032-p12s5w30">
 <src.rf>manual</src.rf>

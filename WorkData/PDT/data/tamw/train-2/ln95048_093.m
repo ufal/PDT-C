@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-093-p1s1w2</LM>
 </w.rf>
 <form>Kingová</form>
-<tag lemma="Kingová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kingová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-093-p1s1w3">
 <src.rf>manual</src.rf>
@@ -36,8 +36,8 @@
 </w.rf>
 <form>Navrátilovou</form>
 <tag>
-<AM lemma="Navrátilová_;S_;w" src="orig">NNFS4-----A----</AM>
-<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="orig">NNFS4-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-093-p1s1w4">
@@ -148,7 +148,7 @@
 <LM>w#w-ln95048-093-p2s1Bw8</LM>
 </w.rf>
 <form>Kingovou</form>
-<tag lemma="Kingová_;S" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Kingová_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-093-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-ln95048-093-p2s2w5</LM>
 </w.rf>
 <form>Kingová</form>
-<tag lemma="Kingová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kingová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-093-p2s2w6">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-ln95048-093-p2s2w14</LM>
 </w.rf>
 <form>Martyho</form>
-<tag lemma="Marty_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Marty_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-093-p2s2w15">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-ln95048-093-p2s2w15</LM>
 </w.rf>
 <form>Riessena</form>
-<tag lemma="Riessen_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Riessen_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-093-p2s2w16">
 <src.rf>manual</src.rf>
@@ -527,8 +527,8 @@
 </w.rf>
 <form>Navrátilovou</form>
 <tag>
-<AM lemma="Navrátilová_;S_;w" src="orig">NNFS4-----A----</AM>
-<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="orig">NNFS4-----A----</AM>
+<AM lemma="Navrátilová_;Y" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-093-p2s2w41">

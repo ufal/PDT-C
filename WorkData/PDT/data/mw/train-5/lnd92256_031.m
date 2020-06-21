@@ -88,8 +88,8 @@
 </w.rf>
 <form>ria</form>
 <tag>
-<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ria-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-031-p3s1w4">
@@ -744,7 +744,7 @@
 <LM>w#w-lnd92256-031-p3s4w29</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd92256-031-p3s4w30">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 </w.rf>
 <form>MZ</form>
 <tag>
-<AM lemma="MZ_:B_;K_;b_;p_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MZ_:B_;m_^(min._zemědělství)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

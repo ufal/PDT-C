@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-002-p1s1w5</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930708-002-p1s1w6">
 <src.rf>manual</src.rf>
@@ -94,9 +94,9 @@
 </w.rf>
 <form>km</form>
 <tag>
-<AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="km-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="km-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-002-p2s1w4">
@@ -289,7 +289,7 @@
 <LM>w#w-mf930708-002-p2s1w27</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-002-p2s1w28">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf930708-002-p2s3w4</LM>
 </w.rf>
 <form>Borkovec</form>
-<tag lemma="Borkovec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Borkovec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-002-p2s3w5">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-mf930708-002-p4s1w5</LM>
 </w.rf>
 <form>Dobrovský</form>
-<tag lemma="Dobrovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobrovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-002-p4s1w6">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-mf930708-002-p4s1w24</LM>
 </w.rf>
 <form>sarin</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930708-002-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-mf930708-002-p5s1w20</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-002-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-mf930708-002-p6s1w17</LM>
 </w.rf>
 <form>sarinem</form>
-<tag lemma="sarin_;H" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="sarin_;U" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930708-002-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1686,7 +1686,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

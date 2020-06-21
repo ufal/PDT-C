@@ -91,7 +91,7 @@
 <LM>w#w-ln95046-015-p1s1w10</LM>
 </w.rf>
 <form>Nechanický</form>
-<tag lemma="Nechanický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nechanický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95046-015-p2s1A">
@@ -159,7 +159,7 @@
 <LM>w#w-ln95046-015-p2s1Bw6</LM>
 </w.rf>
 <form>Nechanický</form>
-<tag lemma="Nechanický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nechanický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-015-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-ln95046-015-p2s2w9</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-015-p2s2w10">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln95046-015-p3s1w17</LM>
 </w.rf>
 <form>Nechanický</form>
-<tag lemma="Nechanický_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nechanický_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-015-p3s1w18">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln95046-015-p4s1w4</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-015-p4s1w5">
 <src.rf>manual</src.rf>
@@ -718,8 +718,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-015-p4s1w7">
@@ -1056,7 +1056,7 @@
 <LM>w#w-ln95046-015-p4s3w6</LM>
 </w.rf>
 <form>Ruml</form>
-<tag lemma="Ruml_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruml_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-015-p4s3w7">
 <src.rf>manual</src.rf>

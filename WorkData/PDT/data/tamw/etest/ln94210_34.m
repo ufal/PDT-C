@@ -45,7 +45,7 @@
 <LM>w#w-ln94210-34-p2s1w2</LM>
 </w.rf>
 <form>Steigerwald</form>
-<tag lemma="Steigerwald-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Steigerwald-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-34-p2s1B">
@@ -1199,7 +1199,7 @@
 <LM>w#w-ln94210-34-p3s2w5</LM>
 </w.rf>
 <form>Balladur</form>
-<tag lemma="Balladur_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Balladur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-34-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1232,8 +1232,8 @@
 </w.rf>
 <form>CDU</form>
 <tag>
-<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CDU-1_:B_;m_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;m_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-34-p3s2w10">
@@ -2748,7 +2748,7 @@
 </w.rf>
 <form>eurocards</form>
 <tag>
-<AM lemma="eurocard_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="eurocard_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="eurocards-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

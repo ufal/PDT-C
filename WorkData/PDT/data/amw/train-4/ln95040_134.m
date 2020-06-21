@@ -20,7 +20,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -31,7 +31,7 @@
 </w.rf>
 <form>Monde</form>
 <tag>
-<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde_;m_^(Le_Monde)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -152,7 +152,7 @@
 <LM>w#w-ln95040-134-p3s1w4</LM>
 </w.rf>
 <form>Zedillo</form>
-<tag lemma="Zedillo_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zedillo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-134-p3s1w5">
 <src.rf>manual</src.rf>
@@ -161,10 +161,10 @@
 </w.rf>
 <form>Ponce</form>
 <tag>
-<AM lemma="Ponce_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="Ponec_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Ponec_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ponec_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Ponce_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ponec_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Ponec_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ponec_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-134-p3s1w6">
@@ -400,7 +400,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -411,7 +411,7 @@
 </w.rf>
 <form>Monde</form>
 <tag>
-<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde_;m_^(Le_Monde)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -463,7 +463,7 @@
 <LM>w#w-ln95040-134-p3s3w5</LM>
 </w.rf>
 <form>Zedillo</form>
-<tag lemma="Zedillo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zedillo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-134-p3s3w6">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln95040-134-p4s2w6</LM>
 </w.rf>
 <form>Marcos</form>
-<tag lemma="Marcos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marcos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-134-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <LM>w#w-ln95040-134-p5s1w5</LM>
 </w.rf>
 <form>Zedillo</form>
-<tag lemma="Zedillo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zedillo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-134-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2183,7 +2183,7 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAIXX----1A----</AM>
 <AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2194,7 +2194,7 @@
 </w.rf>
 <form>Monde</form>
 <tag>
-<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde_;m_^(Le_Monde)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2228,7 +2228,7 @@
 <LM>w#w-ln95040-134-p7s1w7</LM>
 </w.rf>
 <form>Zedillovo</form>
-<tag lemma="Zedillův_;S_^(*2o)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Zedillův_;Y_^(*2o)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95040-134-p7s1w8">
 <src.rf>manual</src.rf>
@@ -2292,7 +2292,7 @@
 <LM>w#w-ln95040-134-p7s1w15</LM>
 </w.rf>
 <form>Marcos</form>
-<tag lemma="Marcos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Marcos_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-134-p7s1w16">
 <src.rf>manual</src.rf>
@@ -2567,7 +2567,7 @@
 </w.rf>
 <form>PRI</form>
 <tag>
-<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-1_:B_;m_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="PRI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

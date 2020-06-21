@@ -19,7 +19,7 @@
 <LM>w#w-mf930709-057-p1s1w1</LM>
 </w.rf>
 <form>Mozart</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-057-p1s1w2">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-mf930709-057-p2s1w7</LM>
 </w.rf>
 <form>Mozarta</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-057-p2s1w8">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930709-057-p2s2w2</LM>
 </w.rf>
 <form>Mozart</form>
-<tag lemma="Mozart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mozart_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-057-p2s2w3">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-mf930709-057-p2s2w11</LM>
 </w.rf>
 <form>Mozartovu</form>
-<tag lemma="Mozartův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Mozartův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf930709-057-p2s2w12">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <form>FAN</form>
 <tag>
 <AM lemma="fan_;m_,t" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="Fan_;Y_,t" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Fan_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Fana_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="fan_,l" src="auto">NNIS1-----A----</AM>
 <AM lemma="fan_,l" src="auto">NNIS4-----A----</AM>
@@ -386,9 +386,9 @@
 <form>TUTTE</form>
 <tag>
 <AM lemma="tutte_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tutt_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tutte_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tutte_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tutt_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tutte_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tutte_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="tutte_,t_^(jen_Cosi_fan_tutte,_it.)" src="auto">PLFP1----------</AM>
 <AM lemma="TUTTE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -676,7 +676,7 @@
 <LM>w#w-mf930709-057-p2s3w8</LM>
 </w.rf>
 <form>Mozartovu</form>
-<tag lemma="Mozartův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Mozartův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-mf930709-057-p2s3w9">
 <src.rf>manual</src.rf>

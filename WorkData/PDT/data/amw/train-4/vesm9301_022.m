@@ -35,7 +35,7 @@
 <LM>w#w-vesm9301-022-p1s1w3</LM>
 </w.rf>
 <form>vlhovci</form>
-<tag lemma="vlhovec_;L_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="vlhovec_;U_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-022-p2s1">
@@ -145,8 +145,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-022-p2s1w14">
@@ -356,8 +356,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-022-p2s2w21">
@@ -618,7 +618,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-022-p3s1w5">
@@ -637,7 +637,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-022-p3s1w7">
@@ -654,7 +654,7 @@
 <LM>w#w-vesm9301-022-p3s1w8</LM>
 </w.rf>
 <form>Gibbsem</form>
-<tag lemma="Gibbs_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Gibbs_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s1w9">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-vesm9301-022-p3s1w28</LM>
 </w.rf>
 <form>červenokřídlými</form>
-<tag lemma="červenokřídlý_;L" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="červenokřídlý_;U" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s1w29">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-vesm9301-022-p3s1w29</LM>
 </w.rf>
 <form>vlhovci</form>
-<tag lemma="vlhovec_;L_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="vlhovec_;U_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s1w30">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-vesm9301-022-p3s2w1</LM>
 </w.rf>
 <form>Vlhovci</form>
-<tag lemma="vlhovec_;L_^(živočich)" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="vlhovec_;U_^(živočich)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s2w2">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-vesm9301-022-p3s2w2</LM>
 </w.rf>
 <form>červenokřídlí</form>
-<tag lemma="červenokřídlý_;L" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="červenokřídlý_;U" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s2w3">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 </w.rf>
 <form>Agelaius</form>
 <tag>
-<AM lemma="Agelaius_;L_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Agelaius_;U_,t" src="orig">NNMS1-----A----</AM>
 <AM lemma="Agelaius-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -895,7 +895,7 @@
 </w.rf>
 <form>phoeniceus</form>
 <tag>
-<AM lemma="phoeniceus_;L_,t" src="orig">AAMS1----1A----</AM>
+<AM lemma="phoeniceus_;U_,t" src="orig">AAMS1----1A----</AM>
 <AM lemma="phoeniceus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1155,7 +1155,7 @@
 </w.rf>
 <form>blackbirds</form>
 <tag>
-<AM lemma="blackbirds_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="blackbirds_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="blackbirds-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1700,8 +1700,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-022-p4s1w20">
@@ -1899,8 +1899,8 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;U_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-022-p4s3w13">
@@ -1917,7 +1917,7 @@
 <LM>w#w-vesm9301-022-p4s3w14</LM>
 </w.rf>
 <form>vlhovců</form>
-<tag lemma="vlhovec_;L_^(živočich)" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="vlhovec_;U_^(živočich)" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9301-022-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-1_;m_,t_^(souč._názvů,_např._Science)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2011,7 +2011,7 @@
 <LM>w#w-vesm9301-022-p4s4w2</LM>
 </w.rf>
 <form>Chalupský</form>
-<tag lemma="Chalupský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chalupský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-022-p5s1">

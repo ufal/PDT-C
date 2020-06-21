@@ -129,7 +129,7 @@
 <form>Sejmu</form>
 <tag>
 <AM lemma="sejm" src="orig">NNIS2-----A----</AM>
-<AM lemma="Sejm_;K" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Sejm_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-101-p2s1Bw8">
@@ -210,7 +210,7 @@
 <LM>w#w-ln95041-101-p2s1Bw17</LM>
 </w.rf>
 <form>Oleksymu</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95041-101-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-101-p2s1Bw23">
@@ -270,7 +270,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walesou</form>
-<tag lemma="Walesa_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Walesa_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-101-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-ln95041-101-p2s2w15</LM>
 </w.rf>
 <form>Okonski</form>
-<tag lemma="Okonski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Okonski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-101-p2s2w16">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-ln95041-101-p2s2w18</LM>
 </w.rf>
 <form>Ananicz</form>
-<tag lemma="Ananicz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ananicz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-101-p2s2w19">
 <src.rf>manual</src.rf>
@@ -772,9 +772,9 @@
 </w.rf>
 <form>Milczanowski</form>
 <tag>
-<AM lemma="Milczanowský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Milczanowský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Milczanowský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Milczanowský_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Milczanowský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Milczanowský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95041-101-p2s3w21">
@@ -1017,9 +1017,9 @@
 <form_change>spell</form_change>
 <form>Kwašniewski</form>
 <tag>
-<AM lemma="Kwašniewski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kwašniewský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Kwašniewský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Kwašniewski_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kwašniewský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Kwašniewský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95041-101-p2s4w29">

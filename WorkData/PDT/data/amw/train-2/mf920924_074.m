@@ -259,7 +259,7 @@
 <form>Standart</form>
 <tag>
 <AM lemma="standarta" src="orig">NNFP2-----A----</AM>
-<AM lemma="Standart_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Standart_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-074-p3s1Bw22">
@@ -318,7 +318,7 @@
 <LM>w#w-mf920924-074-p3s2w6</LM>
 </w.rf>
 <form>Zengrova</form>
-<tag lemma="Zengrův_;S_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Zengrův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920924-074-p3s2w7">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-mf920924-074-p3s3w8</LM>
 </w.rf>
 <form>Pramen</form>
-<tag lemma="Pramen_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pramen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-074-p3s3w9">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-mf920924-074-p3s5w9</LM>
 </w.rf>
 <form>Bambuch</form>
-<tag lemma="Bambuch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bambuch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-074-p3s5w10">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-mf920924-074-p3s6w7</LM>
 </w.rf>
 <form>Pramen</form>
-<tag lemma="Pramen_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pramen_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-074-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-mf920924-074-p3s7w11</LM>
 </w.rf>
 <form>Valora</form>
-<tag lemma="Valora_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Valora_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-074-p3s7w12">
 <src.rf>manual</src.rf>

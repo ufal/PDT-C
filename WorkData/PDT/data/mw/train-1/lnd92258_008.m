@@ -20,8 +20,8 @@
 </w.rf>
 <form>MAGYAR</form>
 <tag>
-<AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Magyar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="MAGYAR-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -399,8 +399,8 @@
 </w.rf>
 <form>Magyar</form>
 <tag>
-<AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Magyar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -455,7 +455,7 @@
 <LM>w#w-lnd92258-008-p3s2w44</LM>
 </w.rf>
 <form>Nyáradi</form>
-<tag lemma="Nyáradi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nyáradi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-008-p3s2w45">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-lnd92258-008-p3s5w10</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-008-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-lnd92258-008-p3s6w4</LM>
 </w.rf>
 <form>Mečiarem</form>
-<tag lemma="Mečiar_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mečiar_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-008-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1235,8 +1235,8 @@
 </w.rf>
 <form>Magyar</form>
 <tag>
-<AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Magyar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1715,8 +1715,8 @@
 </w.rf>
 <form>Magyar</form>
 <tag>
-<AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Magyar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1869,7 +1869,7 @@
 <LM>w#w-lnd92258-008-p4s3w13</LM>
 </w.rf>
 <form>Tuchyni</form>
-<tag lemma="Tuchyňa_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tuchyňa_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-008-p4s3w14">
 <src.rf>manual</src.rf>

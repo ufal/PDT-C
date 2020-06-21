@@ -89,10 +89,10 @@
 </w.rf>
 <form>li</form>
 <tag>
-<AM lemma="li-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="li-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-074-p2s1Aw4">
@@ -587,7 +587,7 @@
 <LM>w#w-mf930713-074-p3s1w6</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-074-p3s1w7">
 <src.rf>manual</src.rf>
@@ -708,8 +708,8 @@
 </w.rf>
 <form>KSČ</form>
 <tag>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-074-p3s1w22">
@@ -768,7 +768,7 @@
 <LM>w#w-mf930713-074-p3s2w2</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-074-p3s2w3">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-mf930713-074-p3s3w3</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="Dlouhý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dlouhý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-074-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1648,7 +1648,7 @@
 <LM>w#w-mf930713-074-p4s2w4</LM>
 </w.rf>
 <form>Klimecký</form>
-<tag lemma="Klimecký_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klimecký_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-074-p4s2w5">
 <src.rf>manual</src.rf>
@@ -2012,7 +2012,7 @@
 <LM>w#w-mf930713-074-p5s2w25</LM>
 </w.rf>
 <form>Hulík</form>
-<tag lemma="Hulík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hulík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-074-p5s2w26">
 <src.rf>manual</src.rf>

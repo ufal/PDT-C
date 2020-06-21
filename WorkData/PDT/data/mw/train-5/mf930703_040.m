@@ -310,7 +310,7 @@
 <form>KOTLÁŘEM</form>
 <tag>
 <AM lemma="kotlář" src="orig">NNMS7-----A----</AM>
-<AM lemma="Kotlář_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Kotlář_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-040-p2s2w9">
@@ -1781,7 +1781,7 @@
 <LM>w#w-mf930703-040-p8s1w15</LM>
 </w.rf>
 <form>Agrobanka</form>
-<tag lemma="Agrobanka_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Agrobanka_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-040-p8s1w16">
 <src.rf>manual</src.rf>
@@ -7497,7 +7497,7 @@
 <LM>w#w-mf930703-040-p30s1w4</LM>
 </w.rf>
 <form>URBAN</form>
-<tag lemma="Urban_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Urban_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-040-p30s1w5">
 <src.rf>manual</src.rf>
@@ -7523,7 +7523,7 @@
 <LM>w#w-mf930703-040-p31s1w2</LM>
 </w.rf>
 <form>MATĚJOVSKÝ</form>
-<tag lemma="Matějovský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Matějovský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

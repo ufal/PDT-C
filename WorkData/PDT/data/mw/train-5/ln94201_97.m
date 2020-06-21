@@ -4106,7 +4106,7 @@
 <LM>w#w-ln94201-97-p11s2w9</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94201-97-p11s2w10">
 <src.rf>manual</src.rf>

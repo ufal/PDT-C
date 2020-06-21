@@ -157,7 +157,7 @@
 <LM>w#w-mf920923-045-p2s1w15</LM>
 </w.rf>
 <form>Brabce</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-045-p2s1w16">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-mf920923-045-p2s1w18</LM>
 </w.rf>
 <form>Ulricha</form>
-<tag lemma="Ulrich_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ulrich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-045-p2s1w19">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -984,7 +984,7 @@
 <LM>w#w-mf920923-045-p2s8w2</LM>
 </w.rf>
 <form>Brabec</form>
-<tag lemma="Brabec_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brabec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-045-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-mf920923-045-p2s8w4</LM>
 </w.rf>
 <form>Ulrich</form>
-<tag lemma="Ulrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ulrich_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-045-p2s8w5">
 <src.rf>manual</src.rf>

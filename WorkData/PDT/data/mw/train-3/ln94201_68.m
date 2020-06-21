@@ -178,7 +178,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -212,7 +212,7 @@
 <LM>w#w-ln94201-68-p2s1w21</LM>
 </w.rf>
 <form>Auriol</form>
-<tag lemma="Auriol_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Auriol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s1w22">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-ln94201-68-p2s1w24</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s1w25">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Celica</form>
-<tag lemma="Celica-1_;R_^(Toyota_C.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Celica-1_;m_^(Toyota_C.)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s1w26">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-ln94201-68-p2s3w7</LM>
 </w.rf>
 <form>Kankkunen</form>
-<tag lemma="Kankkunen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kankkunen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s3w8">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-ln94201-68-p2s3w9</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Toyota-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s3w10">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-ln94201-68-p2s3w10</LM>
 </w.rf>
 <form>Celica</form>
-<tag lemma="Celica-1_;R_^(Toyota_C.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Celica-1_;m_^(Toyota_C.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s3w11">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-ln94201-68-p2s5w6</LM>
 </w.rf>
 <form>Vatanen</form>
-<tag lemma="Vatanen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vatanen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s5w7">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-ln94201-68-p2s5w8</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ford-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s5w9">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 </w.rf>
 <form>Escort</form>
 <tag>
-<AM lemma="Escort_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Escort_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Escort-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -611,7 +611,7 @@
 <LM>w#w-ln94201-68-p2s5w10</LM>
 </w.rf>
 <form>Cosworth</form>
-<tag lemma="Cosworth_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Cosworth_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-68-p2s5w11">
 <src.rf>manual</src.rf>

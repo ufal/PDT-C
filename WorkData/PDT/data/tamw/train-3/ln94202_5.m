@@ -88,8 +88,8 @@
 </w.rf>
 <form>Hotzenblitz</form>
 <tag>
-<AM lemma="Hotzenblitz_;R_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hotzenblitz_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hotzenblitz_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw5">
@@ -115,7 +115,7 @@
 </w.rf>
 <form>Hotzenblitz</form>
 <tag>
-<AM lemma="Hotzenblitz_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hotzenblitz_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Hotzenblitz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -126,7 +126,7 @@
 </w.rf>
 <form>Thüringer</form>
 <tag>
-<AM lemma="Thüringer_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Thüringer_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Thüringer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -207,7 +207,7 @@
 <form>T</form>
 <tag>
 <AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="T-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-5-p2s2w5">
@@ -224,7 +224,7 @@
 <LM>w#w-ln94202-5-p2s2w6</LM>
 </w.rf>
 <form>Albieze</form>
-<tag lemma="Albiez_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Albiez_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-5-p2s2w7">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -552,8 +552,8 @@
 </w.rf>
 <form>Hotzenblitz</form>
 <tag>
-<AM lemma="Hotzenblitz_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hotzenblitz_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hotzenblitz_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hotzenblitz_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-5-p3s2w15">
@@ -702,7 +702,7 @@
 </w.rf>
 <form>DEM</form>
 <tag>
-<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM_:B_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

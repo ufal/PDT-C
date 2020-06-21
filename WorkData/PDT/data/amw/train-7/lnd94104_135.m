@@ -85,7 +85,7 @@
 <form>Filip</form>
 <tag>
 <AM lemma="Filip_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Filip_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Filip_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -680,8 +680,8 @@
 </w.rf>
 <form>NSR</form>
 <tag>
-<AM lemma="NSR_;G" src="orig">NNFSX-----A----</AM>
-<AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="NSR_;G" src="orig">NNFXX-----A----</AM>
+<AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="NSR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1521,8 +1521,8 @@
 </w.rf>
 <form>Alláhem</form>
 <tag>
-<AM lemma="Alláh_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Alláh_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Alláh_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Alláh_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s6w43">
@@ -1644,8 +1644,8 @@
 </w.rf>
 <form>Alláh</form>
 <tag>
-<AM lemma="Alláh_;S_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alláh_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alláh_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alláh_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s6w59">
@@ -3258,7 +3258,7 @@
 <LM>w#w-lnd94104-135-p1s12w108</LM>
 </w.rf>
 <form>Toledu</form>
-<tag lemma="Toledo_;G_;R_^(vozidlo,město)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="Toledo_;G_;m_^(vozidlo,město)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w109">
 <src.rf>manual</src.rf>
@@ -3307,7 +3307,7 @@
 </w.rf>
 <form>Notre</form>
 <tag>
-<AM lemma="Notre_;m_,t" src="orig">PSFSX-P1-------</AM>
+<AM lemma="Notre_;m_,t" src="orig">PSFXX-P1-------</AM>
 <AM lemma="Notre_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Notre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -3320,7 +3320,7 @@
 <form>Dame</form>
 <tag>
 <AM lemma="Dame_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Dam_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dam_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Dame_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Dame-77" src="manual" selected="1">F%-------------</AM>
 </tag>

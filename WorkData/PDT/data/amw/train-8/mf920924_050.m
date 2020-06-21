@@ -353,7 +353,7 @@
 </w.rf>
 <form>SSASO</form>
 <tag>
-<AM lemma="SSASO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SSASO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SSASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -794,7 +794,7 @@
 </w.rf>
 <form>SSASO</form>
 <tag>
-<AM lemma="SSASO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SSASO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SSASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -972,7 +972,7 @@
 <LM>w#w-mf920924-050-p2s6w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf920924-050-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1533,7 +1533,7 @@
 <LM>w#w-mf920924-050-p2s9w26</LM>
 </w.rf>
 <form>Laušman</form>
-<tag lemma="Laušman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Laušman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s9w27">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 </w.rf>
 <form>Invest</form>
 <tag>
-<AM lemma="Investa_;K" src="orig">NNFP2-----A----</AM>
+<AM lemma="Investa_;m" src="orig">NNFP2-----A----</AM>
 <AM lemma="Invest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1751,7 +1751,7 @@
 <LM>w#w-mf920924-050-p2s10w9</LM>
 </w.rf>
 <form>Paskov</form>
-<tag lemma="Paskov-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Paskov-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s10w10">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 <LM>w#w-mf920924-050-p2s13w3</LM>
 </w.rf>
 <form>Laušmana</form>
-<tag lemma="Laušman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Laušman_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s13w4">
 <src.rf>manual</src.rf>
@@ -2328,7 +2328,7 @@
 <LM>w#w-mf920924-050-p2s14w23</LM>
 </w.rf>
 <form>Gabryšová</form>
-<tag lemma="Gabryšová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gabryšová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s14w24">
 <src.rf>manual</src.rf>
@@ -2730,7 +2730,7 @@
 </w.rf>
 <form>SSASO</form>
 <tag>
-<AM lemma="SSASO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SSASO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SSASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2748,7 +2748,7 @@
 <LM>w#w-mf920924-050-p2s16Bw6</LM>
 </w.rf>
 <form>Sochor</form>
-<tag lemma="Sochor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sochor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s16Bw7">
 <src.rf>manual</src.rf>
@@ -3678,7 +3678,7 @@
 <LM>w#w-mf920924-050-p2s22w30</LM>
 </w.rf>
 <form>Kraus</form>
-<tag lemma="Kraus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kraus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s22w31">
 <src.rf>manual</src.rf>
@@ -3835,7 +3835,7 @@
 </w.rf>
 <form>SSASO</form>
 <tag>
-<AM lemma="SSASO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SSASO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SSASO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3967,7 +3967,7 @@
 <LM>w#w-mf920924-050-p2s24Bw7</LM>
 </w.rf>
 <form>Bobek</form>
-<tag lemma="Bobek_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bobek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s24Bw8">
 <src.rf>manual</src.rf>
@@ -3991,7 +3991,7 @@
 <LM>w#w-mf920924-050-p2s24Bw10</LM>
 </w.rf>
 <form>Mapro</form>
-<tag lemma="Mapro_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Mapro_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s24Bw11">
 <src.rf>manual</src.rf>
@@ -4675,7 +4675,7 @@
 <LM>w#w-mf920924-050-p2s28w16</LM>
 </w.rf>
 <form>Sochor</form>
-<tag lemma="Sochor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sochor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-050-p2s28w17">
 <src.rf>manual</src.rf>

@@ -577,7 +577,7 @@
 </w.rf>
 <form>leaders</form>
 <tag>
-<AM lemma="leader_;m_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="leader_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="leaders-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -708,9 +708,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w28">
@@ -855,7 +855,7 @@
 <LM>w#w-cmpr9415-040-p7s2w16</LM>
 </w.rf>
 <form>Moravia</form>
-<tag lemma="Moravia-1_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Moravia-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w17">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 </w.rf>
 <form>Training</form>
 <tag>
-<AM lemma="Training_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Training_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Training-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -907,8 +907,8 @@
 </w.rf>
 <form>Centre</form>
 <tag>
-<AM lemma="Centre_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Centre_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Centre_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Centre_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="centr_^(sport:_přihrávka)" src="auto">NNIS5-----A----</AM>
 <AM lemma="centre_,t" src="auto">XX-------------</AM>
 <AM lemma="centre_,t" src="manual">NNXXX-----A----</AM>
@@ -1016,8 +1016,8 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
-<AM lemma="International_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="International-2_;m_,t" src="orig">NNXXX-----A---1</AM>
+<AM lemma="International_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1029,7 +1029,7 @@
 </w.rf>
 <form>Leadership</form>
 <tag>
-<AM lemma="Leadership_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Leadership_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Leadership-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1040,9 +1040,9 @@
 </w.rf>
 <form>Institute</form>
 <tag>
-<AM lemma="Institute_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Institute_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
-<AM lemma="institute_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="institute_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="institute_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Institute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1168,9 +1168,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p8s1w15">
@@ -1422,9 +1422,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p8s2w22">
@@ -1943,9 +1943,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p10s1w6">
@@ -2012,7 +2012,7 @@
 <LM>w#w-cmpr9415-040-p11s1w2</LM>
 </w.rf>
 <form>Žíla</form>
-<tag lemma="Žíla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Žíla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-040-p12s1">
@@ -2073,7 +2073,7 @@
 <LM>w#w-cmpr9415-040-p12s1w7</LM>
 </w.rf>
 <form>Škrétova</form>
-<tag lemma="Škrétův_;S_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Škrétův_;Y_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9415-040-p12s1w8">
 <src.rf>manual</src.rf>

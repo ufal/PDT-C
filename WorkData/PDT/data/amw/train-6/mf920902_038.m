@@ -93,7 +93,7 @@
 <LM>w#w-mf920902-038-p2s1w6</LM>
 </w.rf>
 <form>Kabát</form>
-<tag lemma="Kabát_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kabát_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-038-p2s1w7">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-mf920902-038-p4s1w8</LM>
 </w.rf>
 <form>Kabát</form>
-<tag lemma="Kabát_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kabát_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-038-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1407,7 +1407,7 @@
 <LM>w#w-mf920902-038-p4s3w17</LM>
 </w.rf>
 <form>Coblencem</form>
-<tag lemma="Coblenc_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Coblenc_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-038-p4s3w18">
 <src.rf>manual</src.rf>

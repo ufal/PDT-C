@@ -20,9 +20,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p1s1w2">
@@ -434,10 +434,10 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p2s3w4">
@@ -454,7 +454,7 @@
 <LM>w#w-ln95049-077-p2s3w5</LM>
 </w.rf>
 <form>Charlene</form>
-<tag lemma="Charlene_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag lemma="Charlene_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-077-p2s3w6">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-ln95049-077-p2s3w6</LM>
 </w.rf>
 <form>Barshefská</form>
-<tag lemma="Barshefská_;S" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barshefská_;Y" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-077-p2s3w7">
 <src.rf>manual</src.rf>
@@ -592,9 +592,9 @@
 <form>Sun</form>
 <tag>
 <AM lemma="Sun-2_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Sun_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Sun_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sun_;S" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sun_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Sun_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sun_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
@@ -607,7 +607,7 @@
 </w.rf>
 <form>Žen</form>
 <tag>
-<AM lemma="Žen_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Žen_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="žena" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Žen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
@@ -627,7 +627,7 @@
 </w.rf>
 <form>žu</form>
 <tag>
-<AM lemma="žu_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="žu_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="žu_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -882,8 +882,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p3s2w2">
@@ -966,7 +966,7 @@
 <form>Ch</form>
 <tag>
 <AM lemma="Ch-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Ch-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ch-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p3s2w12">
@@ -983,7 +983,7 @@
 <LM>w#w-ln95049-077-p3s2w13</LM>
 </w.rf>
 <form>Barshefská</form>
-<tag lemma="Barshefská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Barshefská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-077-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p4s1w6">
@@ -1052,7 +1052,7 @@
 <LM>w#w-ln95049-077-p4s1w7</LM>
 </w.rf>
 <form>Brown</form>
-<tag lemma="Brown_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brown_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-077-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1245,9 +1245,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p4s1w32">
@@ -1467,9 +1467,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p4s2w20">
@@ -1505,7 +1505,7 @@
 <LM>w#w-ln95049-077-p4s2w23</LM>
 </w.rf>
 <form>Brown</form>
-<tag lemma="Brown_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Brown_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-077-p4s2w24">
 <src.rf>manual</src.rf>
@@ -2844,8 +2844,8 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-077-p5s1w167">
@@ -2886,7 +2886,7 @@
 <LM>w#w-ln95049-077-p5s1w171</LM>
 </w.rf>
 <form>ventures</form>
-<tag lemma="venture_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag lemma="venture_,t" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w172">
 <src.rf>manual</src.rf>
@@ -3338,7 +3338,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -3575,7 +3575,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>

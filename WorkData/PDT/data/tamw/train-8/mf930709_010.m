@@ -36,8 +36,8 @@
 </w.rf>
 <form>čtk</form>
 <tag>
-<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="čtk_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="čtk_:B_;m_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-010-p1s1Aw4">
@@ -55,7 +55,7 @@
 </w.rf>
 <form>rep</form>
 <tag>
-<AM lemma="rep-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="rep-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1735,7 +1735,7 @@
 </w.rf>
 <form>IVVM</form>
 <tag>
-<AM lemma="IVVM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IVVM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IVVM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

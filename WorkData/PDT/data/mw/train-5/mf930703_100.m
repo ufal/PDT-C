@@ -180,7 +180,7 @@
 </w.rf>
 <form>affaires</form>
 <tag>
-<AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="orig">NNNPX-----A----</AM>
+<AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="orig">NNNXX-----A----</AM>
 <AM lemma="affaires-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -609,7 +609,7 @@
 </w.rf>
 <form>Kommersant</form>
 <tag>
-<AM lemma="Kommersant_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Kommersant_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Kommersant-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

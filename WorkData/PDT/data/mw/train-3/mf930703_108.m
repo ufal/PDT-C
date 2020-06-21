@@ -94,8 +94,8 @@
 </w.rf>
 <form>hč</form>
 <tag>
-<AM lemma="hč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-108-p2s1w4">
@@ -299,7 +299,7 @@
 <LM>w#w-mf930703-108-p2s1w28</LM>
 </w.rf>
 <form>Vinice</form>
-<tag lemma="Vinice_;G_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vinice_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-108-p2s1w29">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-mf930703-108-p2s2w16</LM>
 </w.rf>
 <form>Vinic</form>
-<tag lemma="Vinice_;G_;K" src="auto" selected="1">NNFP2-----A----</tag>
+<tag lemma="Vinice_;G_;m" src="auto" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930703-108-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-mf930703-108-p4s1w6</LM>
 </w.rf>
 <form>Blažka</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-108-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-mf930703-108-p4s1w11</LM>
 </w.rf>
 <form>Vinice</form>
-<tag lemma="Vinice_;G_;K" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="Vinice_;G_;m" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930703-108-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 <LM>w#w-mf930703-108-p4s5w2</LM>
 </w.rf>
 <form>Blažek</form>
-<tag lemma="Blažek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blažek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-108-p4s5w3">
 <src.rf>manual</src.rf>
@@ -2020,7 +2020,7 @@
 <LM>w#w-mf930703-108-p5s1w21</LM>
 </w.rf>
 <form>Vinice</form>
-<tag lemma="Vinice_;G_;K" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="Vinice_;G_;m" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930703-108-p5s1w22">
 <src.rf>manual</src.rf>

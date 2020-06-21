@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9406-021-p2s1w5</LM>
 </w.rf>
 <form>SHARP</form>
-<tag lemma="Sharp_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sharp_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-021-p2s1w6">
 <src.rf>manual</src.rf>
@@ -140,7 +140,7 @@
 <form>TZ</form>
 <tag>
 <AM lemma="TZ-2_:B_^(tepelný_záznam)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="TZ-1_:B_;K_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="TZ-1_:B_;m_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="TZ-2_:B" src="manual">NNNXX-----A---8</AM>
 <AM lemma="TZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -187,7 +187,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-021-p4s1w6">

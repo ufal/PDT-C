@@ -286,7 +286,7 @@
 <LM>w#w-lnd92258-107-p2s1w3</LM>
 </w.rf>
 <form>Brabcová</form>
-<tag lemma="Brabcová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Brabcová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-107-p2s1w4">
 <src.rf>manual</src.rf>
@@ -305,8 +305,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

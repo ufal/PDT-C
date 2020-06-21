@@ -47,7 +47,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -89,7 +89,7 @@
 <LM>w#w-ln94203-23-p1s1w9</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94203-23-p1s1w10">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94203-23-p2s1Bw5</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94203-23-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -695,7 +695,7 @@
 <LM>w#w-ln94203-23-p2s3w24</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94203-23-p2s3w25">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 </w.rf>
 <form>Sinn</form>
 <tag>
-<AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
+<AM lemma="SF-2`Sinn-1_;m_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="sinn_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
@@ -717,7 +717,7 @@
 </w.rf>
 <form>Fein</form>
 <tag>
-<AM lemma="SF-2`Fein-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
+<AM lemma="SF-2`Fein-1_;m_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
@@ -739,7 +739,7 @@
 <LM>w#w-ln94203-23-p2s3w28</LM>
 </w.rf>
 <form>Adamse</form>
-<tag lemma="Adams_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Adams_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-23-p2s3w29">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 </w.rf>
 <form>SDLP</form>
 <tag>
-<AM lemma="SDLP-1_:B_;K_,t_^(Social_Democratic_and_Labour_Party)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDLP-1_:B_;m_,t_^(Social_Democratic_and_Labour_Party)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SDLP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -838,7 +838,7 @@
 <LM>w#w-ln94203-23-p2s3w40</LM>
 </w.rf>
 <form>Humem</form>
-<tag lemma="Hume_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hume_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-23-p2s3w41">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-ln94203-23-p3s2w16</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-ln94203-23-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1493,7 +1493,7 @@
 <LM>w#w-ln94203-23-p4s1w12</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="James_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-23-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1501,7 +1501,7 @@
 <LM>w#w-ln94203-23-p4s1w13</LM>
 </w.rf>
 <form>Moulyneux</form>
-<tag lemma="Moulyneux_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moulyneux_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-23-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1615,7 +1615,7 @@
 <LM>w#w-ln94203-23-p4s1w25</LM>
 </w.rf>
 <form>Hume</form>
-<tag lemma="Hume_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hume_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-23-p4s1w26">
 <src.rf>manual</src.rf>

@@ -155,7 +155,7 @@
 </w.rf>
 <form>Osservatore</form>
 <tag>
-<AM lemma="Osservatore_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Osservatore_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Osservatore-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -166,7 +166,7 @@
 </w.rf>
 <form>Romano</form>
 <tag>
-<AM lemma="Romano_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Romano_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Romana_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Romano_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Romano_;Y" src="auto">NNMS5-----A----</AM>
@@ -223,7 +223,7 @@
 <LM>w#w-ln95046-062-p2s1Bw17</LM>
 </w.rf>
 <form>Ruíze</form>
-<tag lemma="Ruíz_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ruíz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <form>Las</form>
 <tag>
 <AM lemma="las_,t_^(člen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Las_:B_;G" src="auto">NNISX-----A---8</AM>
+<AM lemma="Las_:B_;G" src="auto">NNIXX-----A---8</AM>
 <AM lemma="las_,t" src="auto">XX-------------</AM>
 <AM lemma="laso" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
@@ -312,7 +312,7 @@
 <form>Casas</form>
 <tag>
 <AM lemma="Casas-2_;G_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Casas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Casas_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Casas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -340,7 +340,7 @@
 <LM>w#w-ln95046-062-p2s2w2</LM>
 </w.rf>
 <form>Ruíz</form>
-<tag lemma="Ruíz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ruíz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s2w3">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-ln95046-062-p2s6w1</LM>
 </w.rf>
 <form>Ruíze</form>
-<tag lemma="Ruíz_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ruíz_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95046-062-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-ln95046-062-p2s6w14</LM>
 </w.rf>
 <form>Zapatovou</form>
-<tag lemma="Zapatův_;S_^(*2a)" src="orig" selected="1">AUFS7M---------</tag>
+<tag lemma="Zapatův_;Y_^(*2a)" src="orig" selected="1">AUFS7M---------</tag>
 </m>
 <m id="m-ln95046-062-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 </w.rf>
 <form>EZLN</form>
 <tag>
-<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EZLN_:B_;m_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EZLN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

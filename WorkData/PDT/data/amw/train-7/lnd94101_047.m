@@ -101,7 +101,7 @@
 <LM>w#w-lnd94101-047-p1s2w3</LM>
 </w.rf>
 <form>ika</form>
-<tag lemma="ika-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ika-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd94101-047-p1s2w4">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-lnd94101-047-p1s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-lnd94101-047-p1s4w2">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-lnd94101-047-p1s5w7</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-047-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-lnd94101-047-p1s6Bw4</LM>
 </w.rf>
 <form>Vodička</form>
-<tag lemma="Vodička_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vodička_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-047-p1s6Bw5">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <form>H</form>
 <tag>
 <AM lemma="H-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
-<AM lemma="H-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-047-p1s6Bw20">
@@ -1166,7 +1166,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Rönshovou</form>
-<tag lemma="Rönshová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Rönshová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94101-047-p1s6Bw22">
 <src.rf>manual</src.rf>

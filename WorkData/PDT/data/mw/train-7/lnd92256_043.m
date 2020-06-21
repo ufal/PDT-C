@@ -103,7 +103,7 @@
 <LM>w#w-lnd92256-043-p3s1w3</LM>
 </w.rf>
 <form>jku</form>
-<tag lemma="jku-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jku-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92256-043-p3s1w4">
 <src.rf>manual</src.rf>
@@ -513,10 +513,10 @@
 </w.rf>
 <form>SAZ</form>
 <tag>
-<AM lemma="SAZ-2_:B_;K_^(sdružené_ambulantní_zařízení)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SAZ-1_:B_;K_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="saz_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="saz_;u" src="auto">NNIS4-----A----</AM>
+<AM lemma="SAZ-2_:B_;m_^(sdružené_ambulantní_zařízení)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SAZ-1_:B_;m_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="saz" src="auto">NNIS1-----A----</AM>
+<AM lemma="saz" src="auto">NNIS4-----A----</AM>
 <AM lemma="SAZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -566,7 +566,7 @@
 <LM>w#w-lnd92256-043-p4s1w16</LM>
 </w.rf>
 <form>Běhounská</form>
-<tag lemma="Běhounská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Běhounská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-043-p4s1w17">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-lnd92256-043-p4s1w18</LM>
 </w.rf>
 <form>Halasovo</form>
-<tag lemma="Halasův_;S_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Halasův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd92256-043-p4s1w19">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-lnd92256-043-p4s1w21</LM>
 </w.rf>
 <form>Dobrovského</form>
-<tag lemma="Dobrovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dobrovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-043-p4s1w22">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 </w.rf>
 <form>OZS</form>
 <tag>
-<AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OZS_:B_;m_^(obvodní_zdravotnické_středisko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OZS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -697,7 +697,7 @@
 <LM>w#w-lnd92256-043-p4s1w32</LM>
 </w.rf>
 <form>Makovského</form>
-<tag lemma="Makovský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Makovský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-043-p4s1w33">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-lnd92256-043-p4s1w35</LM>
 </w.rf>
 <form>Vránova</form>
-<tag lemma="Vránův_;S_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Vránův_;Y_^(*2a)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92256-043-p4s1w36">
 <src.rf>manual</src.rf>
@@ -788,10 +788,10 @@
 </w.rf>
 <form>SAZ</form>
 <tag>
-<AM lemma="SAZ-2_:B_;K_^(sdružené_ambulantní_zařízení)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SAZ-1_:B_;K_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="saz_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="saz_;u" src="auto">NNIS4-----A----</AM>
+<AM lemma="SAZ-2_:B_;m_^(sdružené_ambulantní_zařízení)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SAZ-1_:B_;m_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="saz" src="auto">NNIS1-----A----</AM>
+<AM lemma="saz" src="auto">NNIS4-----A----</AM>
 <AM lemma="SAZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1018,10 +1018,10 @@
 </w.rf>
 <form>SAZ</form>
 <tag>
-<AM lemma="SAZ-2_:B_;K_^(sdružené_ambulantní_zařízení)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="SAZ-1_:B_;K_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="saz_;u" src="auto">NNIS1-----A----</AM>
-<AM lemma="saz_;u" src="auto">NNIS4-----A----</AM>
+<AM lemma="SAZ-2_:B_;m_^(sdružené_ambulantní_zařízení)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SAZ-1_:B_;m_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="saz" src="auto">NNIS1-----A----</AM>
+<AM lemma="saz" src="auto">NNIS4-----A----</AM>
 <AM lemma="SAZ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1159,7 +1159,7 @@
 <LM>w#w-lnd92256-043-p4s2w52</LM>
 </w.rf>
 <form>Drobného</form>
-<tag lemma="Drobný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Drobný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-043-p4s2w53">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 </w.rf>
 <form>OZS</form>
 <tag>
-<AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OZS_:B_;m_^(obvodní_zdravotnické_středisko)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OZS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

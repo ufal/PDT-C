@@ -51,7 +51,7 @@
 <LM>w#w-ln94206-76-p1s1w5</LM>
 </w.rf>
 <form>Rabina</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-76-p1s1w6">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-ln94206-76-p2s2w8</LM>
 </w.rf>
 <form>Jicchak</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jicchak_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-76-p2s2w9">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-ln94206-76-p2s2w9</LM>
 </w.rf>
 <form>Rabin</form>
-<tag lemma="Rabin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rabin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-76-p2s2w10">
 <src.rf>manual</src.rf>

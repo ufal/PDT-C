@@ -69,7 +69,7 @@
 <LM>w#w-lnd91301-065-p1s1Bw1</LM>
 </w.rf>
 <form>VANCE</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-065-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 </w.rf>
 <form>YORK</form>
 <tag>
-<AM lemma="York-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="York-1_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="YORK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1069,7 +1069,7 @@
 <LM>w#w-lnd91301-065-p5s1w1</LM>
 </w.rf>
 <form>Srby</form>
-<tag lemma="Srb_;E_;S" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="Srb_;E_;Y" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd91301-065-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 </w.rf>
 <form>SFRJ</form>
 <tag>
-<AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SFRJ_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1267,8 +1267,8 @@
 </w.rf>
 <form>Tanjug</form>
 <tag>
-<AM lemma="Tanjug_:B_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tanjug_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tanjug_:B_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tanjug_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p5s2w4">
@@ -1302,7 +1302,7 @@
 </w.rf>
 <form>SFRJ</form>
 <tag>
-<AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SFRJ_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1661,7 +1661,7 @@
 </w.rf>
 <form>SFRJ</form>
 <tag>
-<AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SFRJ_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1680,7 +1680,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Kostič</form>
-<tag lemma="Kostič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kostič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-065-p5s4w6">
 <src.rf>manual</src.rf>
@@ -2070,7 +2070,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2639,7 +2639,7 @@
 </w.rf>
 <form>SFRJ</form>
 <tag>
-<AM lemma="SFRJ_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SFRJ_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SFRJ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3179,8 +3179,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p8s1w6">
@@ -3190,8 +3190,8 @@
 </w.rf>
 <form>Cyrus</form>
 <tag>
-<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Cyrus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p8s1w7">
@@ -3200,7 +3200,7 @@
 <LM>w#w-lnd91301-065-p8s1w7</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-065-p8s1w8">
 <src.rf>manual</src.rf>
@@ -3345,8 +3345,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p8s1w27">
@@ -3433,7 +3433,7 @@
 </w.rf>
 <form>Yorku</form>
 <tag>
-<AM lemma="York-1_;S" src="orig">NNMS6-----A---1</AM>
+<AM lemma="York-1_;Y" src="orig">NNMS6-----A---1</AM>
 <AM lemma="York-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -3858,8 +3858,8 @@
 </w.rf>
 <form>OSN</form>
 <tag>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-065-p9s1w4">
@@ -3868,7 +3868,7 @@
 <LM>w#w-lnd91301-065-p9s1w4</LM>
 </w.rf>
 <form>Vance</form>
-<tag lemma="Vance_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vance_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-065-p9s1w5">
 <src.rf>manual</src.rf>

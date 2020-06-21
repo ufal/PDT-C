@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-045-p1s1w1</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-045-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-ln95049-045-p1s1w3</LM>
 </w.rf>
 <form>Čáslavským</form>
-<tag lemma="Čáslavský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Čáslavský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95049-045-p1s1w4">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-ln95049-045-p2s1Bw24</LM>
 </w.rf>
 <form>Jungen</form>
-<tag lemma="Jungen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jungen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln95049-045-p2s1Bw27</LM>
 </w.rf>
 <form>Theurlová</form>
-<tag lemma="Theurlová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Theurlová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-ln95049-045-p2s2w7</LM>
 </w.rf>
 <form>Havel</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-045-p2s2w8">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln95049-045-p2s2w9</LM>
 </w.rf>
 <form>Čáslavský</form>
-<tag lemma="Čáslavský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čáslavský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-045-p2s2w10">
 <src.rf>manual</src.rf>

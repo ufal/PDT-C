@@ -95,7 +95,7 @@
 <form>PETR</form>
 <tag>
 <AM lemma="Petr_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Petr_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Petr_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -2387,8 +2387,8 @@
 <form>Matka</form>
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Matek_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Matek_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
@@ -4734,7 +4734,7 @@
 <LM>w#w-vesm9211-017-p9s6w2</LM>
 </w.rf>
 <form>opossum</form>
-<tag lemma="opossum-1_;L_,t_^(živočich)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="opossum-1_;U_,t_^(živočich)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-017-p9s6w3">
 <src.rf>manual</src.rf>
@@ -8993,7 +8993,7 @@
 <LM>w#w-vesm9211-017-p12s3w18</LM>
 </w.rf>
 <form>ramenonožců</form>
-<tag lemma="ramenonožec_;L" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="ramenonožec_;U" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9211-017-p12s3w19">
 <src.rf>manual</src.rf>
@@ -9025,7 +9025,7 @@
 <LM>w#w-vesm9211-017-p12s3w22</LM>
 </w.rf>
 <form>ramenonožci</form>
-<tag lemma="ramenonožec_;L" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="ramenonožec_;U" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9211-017-p12s3w23">
 <src.rf>manual</src.rf>
@@ -10020,7 +10020,7 @@
 <LM>w#w-vesm9211-017-p13s3w6</LM>
 </w.rf>
 <form>Darwin</form>
-<tag lemma="Darwin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Darwin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-017-p13s3w7">
 <src.rf>manual</src.rf>
@@ -10194,7 +10194,7 @@
 <LM>w#w-vesm9211-017-p13s4w20</LM>
 </w.rf>
 <form>Chamberse</form>
-<tag lemma="Chambers_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chambers_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-017-p13s4w21">
 <src.rf>manual</src.rf>
@@ -10211,7 +10211,7 @@
 </w.rf>
 <form>Vestiges</form>
 <tag>
-<AM lemma="vestige_,t" src="orig">NNXPX-----A----</AM>
+<AM lemma="vestige_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Vestiges-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -10248,8 +10248,8 @@
 <AM lemma="natural_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Natural_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Natural_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="natural-1_;R" src="auto">NNIS1-----A----</AM>
-<AM lemma="natural-1_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="natural-1_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="natural-1_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Natural-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -10494,7 +10494,7 @@
 <LM>w#w-vesm9211-017-p13s5w4</LM>
 </w.rf>
 <form>Darwin</form>
-<tag lemma="Darwin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Darwin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9211-017-p13s5w5">
 <src.rf>manual</src.rf>

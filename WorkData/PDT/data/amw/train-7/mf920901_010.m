@@ -994,7 +994,7 @@
 <LM>w#w-mf920901-010-p3s3w17</LM>
 </w.rf>
 <form>Čihák</form>
-<tag lemma="Čihák_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čihák_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-010-p3s3w18">
 <src.rf>manual</src.rf>
@@ -2269,7 +2269,7 @@
 <LM>w#w-mf920901-010-p5s2w8</LM>
 </w.rf>
 <form>Kolaja</form>
-<tag lemma="Kolaja_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolaja_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-010-p5s2w9">
 <src.rf>manual</src.rf>
@@ -3049,9 +3049,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-010-p6s1w7">

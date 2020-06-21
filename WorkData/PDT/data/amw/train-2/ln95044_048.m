@@ -111,7 +111,7 @@
 <LM>w#w-ln95044-048-p2s1Bw9</LM>
 </w.rf>
 <form>Schönbergova</form>
-<tag lemma="Schönbergův_;S_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Schönbergův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95044-048-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln95044-048-p2s3w19</LM>
 </w.rf>
 <form>Haase</form>
-<tag lemma="Haas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Haas_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-048-p2s3w20">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-ln95044-048-p3s2w12</LM>
 </w.rf>
 <form>Haasovu</form>
-<tag lemma="Haasův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Haasův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95044-048-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-ln95044-048-p4s1w8</LM>
 </w.rf>
 <form>Haasovy</form>
-<tag lemma="Haasův_;S_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
+<tag lemma="Haasův_;Y_^(*2)" src="orig" selected="1">AUFP4M---------</tag>
 </m>
 <m id="m-ln95044-048-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1908,7 +1908,7 @@
 <LM>w#w-ln95044-048-p4s4w15</LM>
 </w.rf>
 <form>Haasově</form>
-<tag lemma="Haasův_;S_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Haasův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln95044-048-p4s4w16">
 <src.rf>manual</src.rf>
@@ -2134,7 +2134,7 @@
 <LM>w#w-ln95044-048-p4s5w2</LM>
 </w.rf>
 <form>Veber</form>
-<tag lemma="Veber_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Veber_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-048-p4s5w3">
 <src.rf>manual</src.rf>
@@ -2229,7 +2229,7 @@
 </w.rf>
 <form>CD</form>
 <tag>
-<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2239,7 +2239,7 @@
 <LM>w#w-ln95044-048-p4s5w14</LM>
 </w.rf>
 <form>Supraphon</form>
-<tag lemma="Supraphon_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Supraphon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95044-048-p4s5w15">
 <src.rf>manual</src.rf>

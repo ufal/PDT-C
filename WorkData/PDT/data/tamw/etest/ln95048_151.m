@@ -168,7 +168,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -179,7 +179,7 @@
 </w.rf>
 <form>Metall</form>
 <tag>
-<AM lemma="Metall_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Metall_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Metall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -190,8 +190,8 @@
 </w.rf>
 <form>Klaus</form>
 <tag>
-<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-151-p2s1Bw15">
@@ -200,7 +200,7 @@
 <LM>w#w-ln95048-151-p2s1Bw15</LM>
 </w.rf>
 <form>Zwickel</form>
-<tag lemma="Zwickel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zwickel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-151-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-ln95048-151-p2s6w5</LM>
 </w.rf>
 <form>Blühm</form>
-<tag lemma="Blühm_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Blühm_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-151-p2s6w6">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 </w.rf>
 <form>IG</form>
 <tag>
-<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="IG-77" src="manual">F%-------------</AM>
 <AM lemma="IG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -931,7 +931,7 @@
 </w.rf>
 <form>Metall</form>
 <tag>
-<AM lemma="Metall_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Metall_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Metall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

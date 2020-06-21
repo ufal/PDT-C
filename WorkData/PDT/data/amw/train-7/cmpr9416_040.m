@@ -354,7 +354,7 @@
 <LM>w#w-cmpr9416-040-p3s1Bw24</LM>
 </w.rf>
 <form>Pecka</form>
-<tag lemma="Pecka-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pecka-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Bw25">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-cmpr9416-040-p3s1Fw10</LM>
 </w.rf>
 <form>HANKSE</form>
-<tag lemma="Hanks_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hanks_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Fw11">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <form>N</form>
 <tag>
 <AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="N-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Gw3">
@@ -846,7 +846,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="S-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Gw5">
@@ -863,7 +863,7 @@
 <LM>w#w-cmpr9416-040-p3s1Gw6</LM>
 </w.rf>
 <form>CHRUŠČOV</form>
-<tag lemma="Chruščov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chruščov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Gw7">
 <src.rf>manual</src.rf>

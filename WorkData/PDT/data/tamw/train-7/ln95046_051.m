@@ -484,7 +484,7 @@
 <LM>w#w-ln95046-051-p3s1w5</LM>
 </w.rf>
 <form>Nekolného</form>
-<tag lemma="Nekolný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nekolný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-051-p3s1w6">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln95046-051-p3s3w9</LM>
 </w.rf>
 <form>Nekolného</form>
-<tag lemma="Nekolný_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Nekolný_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-051-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 </w.rf>
 <form>Musica</form>
 <tag>
-<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Musica_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1669,7 +1669,7 @@
 <LM>w#w-ln95046-051-p4s1w24</LM>
 </w.rf>
 <form>Nekolný</form>
-<tag lemma="Nekolný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nekolný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-051-p4s1w25">
 <src.rf>manual</src.rf>

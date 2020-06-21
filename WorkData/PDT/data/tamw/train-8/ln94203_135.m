@@ -51,7 +51,7 @@
 <LM>w#w-ln94203-135-p1s1w5</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-135-p1s1w6">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <form>lei</form>
 <tag>
 <AM lemma="lei_^(platidlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="lei_;b_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="lei_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
@@ -293,7 +293,7 @@
 <LM>w#w-ln94203-135-p2s1Bw26</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94203-135-p2s1Bw27">
 <src.rf>manual</src.rf>

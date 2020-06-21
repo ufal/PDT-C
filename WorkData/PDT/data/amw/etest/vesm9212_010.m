@@ -109,7 +109,7 @@
 <LM>w#w-vesm9212-010-p2s1w8</LM>
 </w.rf>
 <form>Janoušek</form>
-<tag lemma="Janoušek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Janoušek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-010-p2s1w9">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-vesm9212-010-p2s2w21</LM>
 </w.rf>
 <form>Šetlík</form>
-<tag lemma="Šetlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šetlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-010-p2s2w22">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-vesm9212-010-p2s2w28</LM>
 </w.rf>
 <form>Janouškových</form>
-<tag lemma="Janouškův_;S_^(*3ek)" src="orig" selected="1">AUMP2M---------</tag>
+<tag lemma="Janouškův_;Y_^(*3ek)" src="orig" selected="1">AUMP2M---------</tag>
 </m>
 <m id="m-vesm9212-010-p2s2w29">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-vesm9212-010-p2s2w44</LM>
 </w.rf>
 <form>Janouškově</form>
-<tag lemma="Janouškův_;S_^(*3ek)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Janouškův_;Y_^(*3ek)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-vesm9212-010-p2s2w45">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-vesm9212-010-p2s3w42</LM>
 </w.rf>
 <form>Stavoprojektu</form>
-<tag lemma="Stavoprojekt_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Stavoprojekt_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9212-010-p2s3w43">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-vesm9212-010-p2s4w1</LM>
 </w.rf>
 <form>Šetlík</form>
-<tag lemma="Šetlík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šetlík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-010-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 <LM>w#w-vesm9212-010-p2s5w5</LM>
 </w.rf>
 <form>Janouškova</form>
-<tag lemma="Janouškův_;S_^(*3ek)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Janouškův_;Y_^(*3ek)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-vesm9212-010-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1299,7 +1299,7 @@
 <LM>w#w-vesm9212-010-p3s1Aw2</LM>
 </w.rf>
 <form>Janouškova</form>
-<tag lemma="Janouškův_;S_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Janouškův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9212-010-p3s1Aw3">
 <src.rf>manual</src.rf>
@@ -1518,8 +1518,8 @@
 </w.rf>
 <form>X</form>
 <tag>
-<AM lemma="X-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="X-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="X-33" src="orig">Q3-------------</AM>
+<AM lemma="X-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-010-p3s1Aw29">
@@ -1612,7 +1612,7 @@
 <LM>w#w-vesm9212-010-p4s1w1</LM>
 </w.rf>
 <form>Janouškovo</form>
-<tag lemma="Janouškův_;S_^(*3ek)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Janouškův_;Y_^(*3ek)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-vesm9212-010-p4s1w2">
 <src.rf>manual</src.rf>
@@ -3436,7 +3436,7 @@
 <LM>w#w-vesm9212-010-p6s1w10</LM>
 </w.rf>
 <form>Janouška</form>
-<tag lemma="Janoušek_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Janoušek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-010-p6s1w11">
 <src.rf>manual</src.rf>
@@ -4075,7 +4075,7 @@
 <LM>w#w-vesm9212-010-p6s3w5</LM>
 </w.rf>
 <form>Janouškovo</form>
-<tag lemma="Janouškův_;S_^(*3ek)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Janouškův_;Y_^(*3ek)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-vesm9212-010-p6s3w6">
 <src.rf>manual</src.rf>
@@ -4379,7 +4379,7 @@
 <LM>w#w-vesm9212-010-p7s1w5</LM>
 </w.rf>
 <form>Janouškovými</form>
-<tag lemma="Janouškův_;S_^(*3ek)" src="orig" selected="1">AUFP7M---------</tag>
+<tag lemma="Janouškův_;Y_^(*3ek)" src="orig" selected="1">AUFP7M---------</tag>
 </m>
 <m id="m-vesm9212-010-p7s1w6">
 <src.rf>manual</src.rf>
@@ -4523,7 +4523,7 @@
 <LM>w#w-vesm9212-010-p8s1w2</LM>
 </w.rf>
 <form>Fiala</form>
-<tag lemma="Fiala_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fiala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

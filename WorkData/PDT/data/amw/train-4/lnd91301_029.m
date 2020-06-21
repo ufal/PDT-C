@@ -238,7 +238,7 @@
 </w.rf>
 <form>Žilinek</form>
 <tag>
-<AM lemma="Žilinek_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Žilinek_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="žilinka_,a" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

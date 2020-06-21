@@ -235,7 +235,7 @@
 <LM>w#w-mf930702-112-p1s1w28</LM>
 </w.rf>
 <form>Husejna</form>
-<tag lemma="Husejn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Husejn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-112-p1s1w29">
 <src.rf>manual</src.rf>

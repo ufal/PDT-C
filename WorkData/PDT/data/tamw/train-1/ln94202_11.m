@@ -878,7 +878,7 @@
 </w.rf>
 <form>Davidson</form>
 <tag>
-<AM lemma="Davidson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Davidson_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Davidson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1195,7 +1195,7 @@
 </w.rf>
 <form>Wheels</form>
 <tag>
-<AM lemma="Wheel_;m_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Wheel_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Wheels-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1658,7 +1658,7 @@
 <LM>w#w-ln94202-11-p4s1w13</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-11-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1674,7 +1674,7 @@
 <LM>w#w-ln94202-11-p4s1w15</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94202-11-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1683,9 +1683,9 @@
 </w.rf>
 <form>O</form>
 <tag>
-<AM lemma="O-6_:B_;R" src="orig">NNXXX-----A---8</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="O-6_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="O-33" src="manual">Q3-------------</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-11-p4s1w17">
@@ -1790,7 +1790,7 @@
 <LM>w#w-ln94202-11-p4s2w10</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FSXFS3-------</tag>
+<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94202-11-p4s2w11">
 <src.rf>manual</src.rf>

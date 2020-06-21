@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-129-p1s1w1</LM>
 </w.rf>
 <form>Saatchi</form>
-<tag lemma="Saatchi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saatchi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-129-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-ln95044-129-p1s1w3</LM>
 </w.rf>
 <form>Saatchi</form>
-<tag lemma="Saatchi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saatchi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-129-p1s1w4">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln95044-129-p2s1Bw5</LM>
 </w.rf>
 <form>Saatchi</form>
-<tag lemma="Saatchi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saatchi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-129-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-ln95044-129-p2s1Bw7</LM>
 </w.rf>
 <form>Saatchi</form>
-<tag lemma="Saatchi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saatchi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-129-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -184,8 +184,8 @@
 </w.rf>
 <form>Cordiant</form>
 <tag>
-<AM lemma="Cordiant_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Cordiant_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Cordiant_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cordiant_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-129-p2s1Bw14">
@@ -237,7 +237,7 @@
 </w.rf>
 <form>Financial</form>
 <tag>
-<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial_;m_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -248,7 +248,7 @@
 </w.rf>
 <form>Times</form>
 <tag>
-<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -429,8 +429,8 @@
 </w.rf>
 <form>Maurice</form>
 <tag>
-<AM lemma="Mauric_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mauric_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mauric_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Mauric_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-129-p2s3w8">
@@ -439,7 +439,7 @@
 <LM>w#w-ln95044-129-p2s3w8</LM>
 </w.rf>
 <form>Saatchiho</form>
-<tag lemma="Saatchi_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Saatchi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-129-p2s3w9">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln95044-129-p3s2w21</LM>
 </w.rf>
 <form>Saatchi</form>
-<tag lemma="Saatchi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saatchi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-129-p3s2w22">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-ln95044-129-p3s2w23</LM>
 </w.rf>
 <form>Saatchi</form>
-<tag lemma="Saatchi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Saatchi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-129-p3s2w24">
 <src.rf>manual</src.rf>

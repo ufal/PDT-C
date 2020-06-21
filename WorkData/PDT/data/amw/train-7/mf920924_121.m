@@ -237,7 +237,7 @@
 <LM>w#w-mf920924-121-p2s2w25</LM>
 </w.rf>
 <form>Budvar</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920924-121-p2s2w26">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-mf920924-121-p2s3w21</LM>
 </w.rf>
 <form>Ziemann</form>
-<tag lemma="Ziemann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ziemann_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-121-p2s3w22">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-mf920924-121-p2s3w23</LM>
 </w.rf>
 <form>Bauer</form>
-<tag lemma="Bauer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bauer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-121-p2s3w24">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-mf920924-121-p2s5w11</LM>
 </w.rf>
 <form>Budvar</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920924-121-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-mf920924-121-p2s7w22</LM>
 </w.rf>
 <form>Tolara</form>
-<tag lemma="Tolar_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tolar_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-121-p2s7w23">
 <src.rf>manual</src.rf>
@@ -1095,7 +1095,7 @@
 <LM>w#w-mf920924-121-p2s7w29</LM>
 </w.rf>
 <form>Budvaru</form>
-<tag lemma="Budvar_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Budvar_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-121-p2s7w30">
 <src.rf>manual</src.rf>

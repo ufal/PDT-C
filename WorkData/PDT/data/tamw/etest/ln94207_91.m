@@ -76,8 +76,8 @@
 </w.rf>
 <form>Šalom</form>
 <tag>
-<AM lemma="Šalom_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Šalom_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Šalom_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Šalom_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="šalom_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Šalom-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -89,7 +89,7 @@
 </w.rf>
 <form>achšav</form>
 <tag>
-<AM lemma="achšav_;K_,t" src="orig">Db-------------</AM>
+<AM lemma="achšav_;m_,t" src="orig">Db-------------</AM>
 <AM lemma="achšav_,t" src="manual">Db-------------</AM>
 <AM lemma="achšav-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -141,7 +141,7 @@
 </w.rf>
 <form>OZ</form>
 <tag>
-<AM lemma="Oz_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oz_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="OZ-1_:B_^(odznak_zdatnosti)" src="auto">NNIXX-----A----</AM>
 <AM lemma="OZ-2_:B_^(odštepný_závod)" src="auto">NNIXX-----A----</AM>
 <AM lemma="OZ-2_:B_^(odštěpný_závod)" src="auto" recommended="1">NNIXX-----A---8</AM>
@@ -245,7 +245,7 @@
 <LM>w#w-ln94207-91-p1s1w27</LM>
 </w.rf>
 <form>Klausner</form>
-<tag lemma="Klausner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klausner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-91-p1s1w28">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <LM>w#w-ln94207-91-p1s8w1</LM>
 </w.rf>
 <form>Ozovy</form>
-<tag lemma="Ozův_;S_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Ozův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94207-91-p1s8w2">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-ln94207-91-p1s8w17</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michael_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-91-p1s8w18">
 <src.rf>manual</src.rf>
@@ -1831,7 +1831,7 @@
 <LM>w#w-ln94207-91-p1s10w3</LM>
 </w.rf>
 <form>Hula</form>
-<tag lemma="Hula_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hula_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-91-p1s10w4">
 <src.rf>manual</src.rf>
@@ -1847,7 +1847,7 @@
 <LM>w#w-ln94207-91-p1s10w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 </s>
 </mdata>

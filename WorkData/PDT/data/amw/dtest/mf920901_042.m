@@ -1002,8 +1002,8 @@
 </w.rf>
 <form>D</form>
 <tag>
-<AM lemma="D-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="D-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-042-p3s3w4">
@@ -1770,8 +1770,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="orig">Q3-------------</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-042-p4s3w5">
@@ -1884,7 +1884,7 @@
 <LM>w#w-mf920901-042-p4s3w18</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-mf920901-042-p4s3w19">
 <src.rf>manual</src.rf>
@@ -6528,7 +6528,7 @@
 <LM>w#w-mf920901-042-p11s2w18</LM>
 </w.rf>
 <form>Masarykova</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf920901-042-p11s2w19">
 <src.rf>manual</src.rf>
@@ -6589,7 +6589,7 @@
 <LM>w#w-mf920901-042-p12s1w4</LM>
 </w.rf>
 <form>Horváth</form>
-<tag lemma="Horváth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horváth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-042-p12s1w5">
 <src.rf>manual</src.rf>
@@ -7791,7 +7791,7 @@
 <LM>w#w-mf920901-042-p13s1w4</LM>
 </w.rf>
 <form>Čoupek</form>
-<tag lemma="Čoupek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čoupek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-042-p13s1w5">
 <src.rf>manual</src.rf>
@@ -8365,7 +8365,7 @@
 <LM>w#w-mf920901-042-p14s1w2</LM>
 </w.rf>
 <form>Kubíčková</form>
-<tag lemma="Kubíčková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kubíčková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-042-p14s1w3">
 <src.rf>manual</src.rf>
@@ -8983,7 +8983,7 @@
 <LM>w#w-mf920901-042-p15s1w4</LM>
 </w.rf>
 <form>Čoupek</form>
-<tag lemma="Čoupek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čoupek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-042-p15s1w5">
 <src.rf>manual</src.rf>
@@ -9257,7 +9257,7 @@
 <LM>w#w-mf920901-042-p16s1w2</LM>
 </w.rf>
 <form>Trnečková</form>
-<tag lemma="Trnečková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Trnečková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-042-p16s1w3">
 <src.rf>manual</src.rf>
@@ -9687,7 +9687,7 @@
 <LM>w#w-mf920901-042-p17s1w2</LM>
 </w.rf>
 <form>Dytrychová</form>
-<tag lemma="Dytrychová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dytrychová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-042-p17s1w3">
 <src.rf>manual</src.rf>
@@ -10487,7 +10487,7 @@
 <tag>
 <AM lemma="psycho" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto">NNFS5-----A----</AM>
-<AM lemma="psycho-2_;u" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="psycho-2" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-042-p17s7w12">
@@ -10764,7 +10764,7 @@
 <LM>w#w-mf920901-042-p18s1w3</LM>
 </w.rf>
 <form>Horváth</form>
-<tag lemma="Horváth_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horváth_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-042-p18s1w4">
 <src.rf>manual</src.rf>
@@ -11295,7 +11295,7 @@
 <LM>w#w-mf920901-042-p19s1w6</LM>
 </w.rf>
 <form>Jobánkové</form>
-<tag lemma="Jobánková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Jobánková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-042-p19s1w7">
 <src.rf>manual</src.rf>
@@ -11783,7 +11783,7 @@
 <LM>w#w-mf920901-042-p20s1w7</LM>
 </w.rf>
 <form>Masarykově</form>
-<tag lemma="Masarykův_;S_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Masarykův_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-mf920901-042-p20s1w8">
 <src.rf>manual</src.rf>
@@ -11900,7 +11900,7 @@
 <LM>w#w-mf920901-042-p20s2w3</LM>
 </w.rf>
 <form>Jobánková</form>
-<tag lemma="Jobánková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jobánková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-042-p20s2w4">
 <src.rf>manual</src.rf>
@@ -13787,8 +13787,8 @@
 </w.rf>
 <form>M</form>
 <tag>
-<AM lemma="M-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="orig">Q3-------------</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-042-p22s1w12">

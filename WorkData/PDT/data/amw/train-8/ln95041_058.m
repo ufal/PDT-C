@@ -19,7 +19,7 @@
 <LM>w#w-ln95041-058-p1s1w1</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p1s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln95041-058-p2s1Aw2</LM>
 </w.rf>
 <form>Žirinovskij</form>
-<tag lemma="Žirinovský_;S" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Žirinovský_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-ln95041-058-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln95041-058-p2s1Bw4</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -288,8 +288,8 @@
 </w.rf>
 <form>NATO</form>
 <tag>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-058-p2s1Bw22">
@@ -578,7 +578,7 @@
 <LM>w#w-ln95041-058-p3s1w4</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1025,8 +1025,8 @@
 </w.rf>
 <form>Jegor</form>
 <tag>
-<AM lemma="Jegor_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jegor_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jegor_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jegor_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-058-p4s1w7">
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln95041-058-p4s1w7</LM>
 </w.rf>
 <form>Gajdar</form>
-<tag lemma="Gajdar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gajdar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <LM>w#w-ln95041-058-p4s1w14</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-ln95041-058-p4s2w4</LM>
 </w.rf>
 <form>Gračov</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-ln95041-058-p4s3w14</LM>
 </w.rf>
 <form>Gračov</form>
-<tag lemma="Gračov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gračov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1377,7 +1377,7 @@
 <LM>w#w-ln95041-058-p5s1w2</LM>
 </w.rf>
 <form>Žirinovskij</form>
-<tag lemma="Žirinovský_;S" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Žirinovský_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-ln95041-058-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1799,7 +1799,7 @@
 <LM>w#w-ln95041-058-p5s2w14</LM>
 </w.rf>
 <form>Jelcinův</form>
-<tag lemma="Jelcinův_;S_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Jelcinův_;Y_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95041-058-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1841,7 +1841,7 @@
 <form>G</form>
 <tag>
 <AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-058-p5s2w20">
@@ -1858,7 +1858,7 @@
 <LM>w#w-ln95041-058-p5s2w21</LM>
 </w.rf>
 <form>Zjuganov</form>
-<tag lemma="Zjuganov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zjuganov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p5s2w22">
 <src.rf>manual</src.rf>
@@ -2090,7 +2090,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="B-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-058-p6s3w2">
@@ -2107,7 +2107,7 @@
 <LM>w#w-ln95041-058-p6s3w3</LM>
 </w.rf>
 <form>Jelcin</form>
-<tag lemma="Jelcin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jelcin_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p6s3w4">
 <src.rf>manual</src.rf>

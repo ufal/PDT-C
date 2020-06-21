@@ -89,8 +89,8 @@
 </w.rf>
 <form>jd</form>
 <tag>
-<AM lemma="jd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="jd-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="jd-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jd-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-036-p2s1Aw4">
@@ -1543,7 +1543,7 @@
 <form>IPF</form>
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B_;m" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="IPF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

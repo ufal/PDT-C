@@ -284,7 +284,7 @@
 <LM>w#w-mf930713-046-p2s2w9</LM>
 </w.rf>
 <form>Berníková</form>
-<tag lemma="Berníková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Berníková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-046-p2s2w10">
 <src.rf>manual</src.rf>

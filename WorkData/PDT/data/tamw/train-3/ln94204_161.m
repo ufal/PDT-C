@@ -20,7 +20,7 @@
 </w.rf>
 <form>Cable</form>
 <tag>
-<AM lemma="Cable_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Cable_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -216,7 +216,7 @@
 </w.rf>
 <form>Cable</form>
 <tag>
-<AM lemma="Cable_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Cable_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -727,7 +727,7 @@
 </w.rf>
 <form>Cable</form>
 <tag>
-<AM lemma="Cable_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Cable_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1168,7 +1168,7 @@
 </w.rf>
 <form>Cable</form>
 <tag>
-<AM lemma="Cable_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Cable_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1442,8 +1442,8 @@
 </w.rf>
 <form>Cabletel</form>
 <tag>
-<AM lemma="Cabletel_;K_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Cabletel_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Cabletel_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cabletel_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-161-p6s1w7">
@@ -1479,7 +1479,7 @@
 </w.rf>
 <form>GAD</form>
 <tag>
-<AM lemma="GAD_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GAD_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1861,7 +1861,7 @@
 </w.rf>
 <form>Cable</form>
 <tag>
-<AM lemma="Cable_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Cable_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

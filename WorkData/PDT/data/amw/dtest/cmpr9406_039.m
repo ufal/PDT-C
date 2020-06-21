@@ -70,7 +70,7 @@
 </w.rf>
 <form>DG</form>
 <tag>
-<AM lemma="DG_:B_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="DG_:B_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="dg_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="DG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -955,7 +955,7 @@
 </w.rf>
 <form>Europalliances</form>
 <tag>
-<AM lemma="Europalliances_;m" src="orig">NNFPX-----A----</AM>
+<AM lemma="Europalliances_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Europalliances-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1681,7 +1681,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2165,7 +2165,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2774,9 +2774,9 @@
 </w.rf>
 <form>BIC</form>
 <tag>
-<AM lemma="BIC-3_:B_;K_^(Brněnské_informační_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="BIC-1_:B_;K_,t_^(Bureau_International_de_Cinéma)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="BIC-2_:B_;K_,t_^(Bureau_Inter._du_Commerce_et_de_l'Indust.)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="BIC-3_:B_;m_^(Brněnské_informační_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="BIC-1_:B_;m_,t_^(Bureau_International_de_Cinéma)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="BIC-2_:B_;m_,t_^(Bureau_Inter._du_Commerce_et_de_l'Indust.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="BIC-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="BIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -3704,9 +3704,9 @@
 </w.rf>
 <form>BIC</form>
 <tag>
-<AM lemma="BIC-3_:B_;K_^(Brněnské_informační_centrum)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="BIC-1_:B_;K_,t_^(Bureau_International_de_Cinéma)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="BIC-2_:B_;K_,t_^(Bureau_Inter._du_Commerce_et_de_l'Indust.)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="BIC-3_:B_;m_^(Brněnské_informační_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="BIC-1_:B_;m_,t_^(Bureau_International_de_Cinéma)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="BIC-2_:B_;m_,t_^(Bureau_Inter._du_Commerce_et_de_l'Indust.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="BIC-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="BIC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

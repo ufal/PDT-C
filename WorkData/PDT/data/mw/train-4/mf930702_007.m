@@ -77,7 +77,7 @@
 <LM>w#w-mf930702-007-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="nak-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930702-007-p2s1w4">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-mf930702-007-p2s1w5</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag lemma="ČTK-1_:B_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
 </m>
 <m id="m-mf930702-007-p2s1w6">
 <src.rf>manual</src.rf>
@@ -842,8 +842,8 @@
 </w.rf>
 <form>JETE</form>
 <tag>
-<AM lemma="JETE_:B_;K_^(JE_Temelín)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JETE_:B_;K_^(jaderná_elektrárna_Temelín)" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="JETE_:B_;m_^(JE_Temelín)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JETE_:B_;m_^(jaderná_elektrárna_Temelín)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS5-----A----</AM>
 <AM lemma="JETE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>

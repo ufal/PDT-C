@@ -53,7 +53,7 @@
 <LM>w#w-lnd92255-047-p2s1w3</LM>
 </w.rf>
 <form>KUSÉHO</form>
-<tag lemma="Kusý_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kusý_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-047-p3s1">
@@ -88,8 +88,8 @@
 </w.rf>
 <form>FF</form>
 <tag>
-<AM lemma="FF_:B_;K_;u_^(Fil._fakulta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="FF_:B_;K_^(Fil._fakulta)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FF_:B_;m_^(Fil._fakulta)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FF_:B_;m_^(Fil._fakulta)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p3s1w5">
@@ -98,7 +98,7 @@
 <LM>w#w-lnd92255-047-p3s1w5</LM>
 </w.rf>
 <form>Komenského</form>
-<tag lemma="Komenský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komenský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-047-p3s1w6">
 <src.rf>manual</src.rf>
@@ -160,8 +160,8 @@
 </w.rf>
 <form>UK</form>
 <tag>
-<AM lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UK-3_:B_;m_^(Univerzita_Komenského_Bratislava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-3_:B_;m_^(Univerzita_Komenského_Bratislava)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-047-p4s1w5">

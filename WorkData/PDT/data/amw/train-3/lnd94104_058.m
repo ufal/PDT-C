@@ -187,7 +187,7 @@
 </w.rf>
 <form>dolarů</form>
 <tag>
-<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="orig">NNIP2-----A----</AM>
 <AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -468,8 +468,8 @@
 </w.rf>
 <form>Luigi</form>
 <tag>
-<AM lemma="Luigi_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Luigi_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Luigi_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Luigi_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-058-p1s5w8">
@@ -479,7 +479,7 @@
 </w.rf>
 <form>Federici</form>
 <tag>
-<AM lemma="Federici_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Federici_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMP1-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMP5-----A----</AM>
 <AM lemma="Federic_;Y" src="auto">NNMP1-----A----</AM>
@@ -702,7 +702,7 @@
 </w.rf>
 <form>Federici</form>
 <tag>
-<AM lemma="Federici_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Federici_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMP1-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMP5-----A----</AM>
 <AM lemma="Federic_;Y" src="auto" recommended="1">NNMP1-----A----</AM>

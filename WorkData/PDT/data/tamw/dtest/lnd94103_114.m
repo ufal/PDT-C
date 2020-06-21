@@ -227,8 +227,8 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="A-33" src="orig">Q3-------------</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-114-p1s5w18">
@@ -254,7 +254,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -708,7 +708,7 @@
 <LM>w#w-lnd94103-114-p1s9w1</LM>
 </w.rf>
 <form>Orsolini</form>
-<tag lemma="Orsolini_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Orsolini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-114-p1s9w2">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-lnd94103-114-p1s10w1</LM>
 </w.rf>
 <form>Briand</form>
-<tag lemma="Briand_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Briand_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-114-p1s10w2">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-lnd94103-114-p1s13w1</LM>
 </w.rf>
 <form>Thoresen</form>
-<tag lemma="Thoresen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Thoresen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-114-p1s13w2">
 <src.rf>manual</src.rf>
@@ -811,9 +811,9 @@
 </w.rf>
 <form>Galinovskij</form>
 <tag>
-<AM lemma="Galinovský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Galinovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Galinovský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Galinovský_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Galinovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Galinovský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94103-114-p1s14w4">
@@ -830,7 +830,7 @@
 <LM>w#w-lnd94103-114-p1s14w5</LM>
 </w.rf>
 <form>Nosov</form>
-<tag lemma="Nosov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nosov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-114-p1s14w6">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-lnd94103-114-p1s14w12</LM>
 </w.rf>
 <form>Murray</form>
-<tag lemma="Murray_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murray_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-114-p1s14w13">
 <src.rf>manual</src.rf>

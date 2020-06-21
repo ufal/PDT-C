@@ -291,7 +291,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-96-p2s2Bw24">
@@ -309,8 +309,8 @@
 </w.rf>
 <form>G</form>
 <tag>
-<AM lemma="G-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="G-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="G-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-96-p2s2Bw26">
@@ -361,7 +361,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-96-p2s2Bw32">
@@ -379,8 +379,8 @@
 </w.rf>
 <form>Z</form>
 <tag>
-<AM lemma="Z-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-96-p2s2Bw34">
@@ -431,7 +431,7 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-96-p2s2Bw40">
@@ -449,8 +449,8 @@
 </w.rf>
 <form>F</form>
 <tag>
-<AM lemma="F-9_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="F-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="F-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-96-p2s2Bw42">
@@ -776,7 +776,7 @@
 <LM>w#w-ln94200-96-p3s1w6</LM>
 </w.rf>
 <form>Zbožínek</form>
-<tag lemma="Zbožínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zbožínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-96-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-96-p4s1w16">
@@ -1223,7 +1223,7 @@
 <LM>w#w-ln94200-96-p4s1w17</LM>
 </w.rf>
 <form>Zbožínek</form>
-<tag lemma="Zbožínek_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zbožínek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-96-p4s1w18">
 <src.rf>manual</src.rf>

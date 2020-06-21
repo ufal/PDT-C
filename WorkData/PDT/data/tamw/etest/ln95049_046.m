@@ -19,7 +19,7 @@
 <LM>w#w-ln95049-046-p1s1w1</LM>
 </w.rf>
 <form>Ngugimu</form>
-<tag lemma="Ngugi_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ngugi_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-046-p1s1w2">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 </w.rf>
 <form>IAAF</form>
 <tag>
-<AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IAAF_:B_;m_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -234,7 +234,7 @@
 <LM>w#w-ln95049-046-p2s1Bw20</LM>
 </w.rf>
 <form>Ngugiho</form>
-<tag lemma="Ngugi_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Ngugi_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-046-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-ln95049-046-p2s2w6</LM>
 </w.rf>
 <form>Ngugi</form>
-<tag lemma="Ngugi_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ngugi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-046-p2s2w7">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 </w.rf>
 <form>IAAF</form>
 <tag>
-<AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IAAF_:B_;m_^(Mez._atletická_federace)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IAAF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

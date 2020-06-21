@@ -36,7 +36,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -196,7 +196,7 @@
 </w.rf>
 <form>NDR</form>
 <tag>
-<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR_:B_;G_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="NDR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -362,8 +362,8 @@
 <form>Lindenthalu</form>
 <tag>
 <AM lemma="Lindenthal_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Lindenthal_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Lindenthal_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Lindenthal_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Lindenthal_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 <AM lemma="Lindenthal-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -540,8 +540,8 @@
 <form>Lindenthalu</form>
 <tag>
 <AM lemma="Lindenthal_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Lindenthal_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Lindenthal_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Lindenthal_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Lindenthal_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Lindenthal-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -625,8 +625,8 @@
 <form>Holzhausenu</form>
 <tag>
 <AM lemma="Holzhausen_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Holzhausen_;S" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Holzhausen_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Holzhausen_;Y" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Holzhausen_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 <AM lemma="Holzhausen-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

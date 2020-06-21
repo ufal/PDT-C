@@ -298,9 +298,9 @@
 </w.rf>
 <form>Zagajewski</form>
 <tag>
-<AM lemma="Zagajewski_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Zagajewský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
-<AM lemma="Zagajewský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Zagajewski_;Y" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Zagajewský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Zagajewský_;Y" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920924-045-p3s1w4">
@@ -349,7 +349,7 @@
 <LM>w#w-mf920924-045-p3s1w9</LM>
 </w.rf>
 <form>Král</form>
-<tag lemma="Král_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Král_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-045-p3s1w10">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-mf920924-045-p3s1w13</LM>
 </w.rf>
 <form>Lehárová</form>
-<tag lemma="Lehárová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lehárová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-045-p3s1w14">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-mf920924-045-p4s1w2</LM>
 </w.rf>
 <form>Nepil</form>
-<tag lemma="Nepil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Nepil_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-045-p4s1w3">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-mf920924-045-p4s1w17</LM>
 </w.rf>
 <form>Fišer</form>
-<tag lemma="Fišer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Fišer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-045-p4s1w18">
 <src.rf>manual</src.rf>

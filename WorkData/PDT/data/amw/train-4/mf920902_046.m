@@ -538,7 +538,7 @@
 <LM>w#w-mf920902-046-p2s2w20</LM>
 </w.rf>
 <form>Taller</form>
-<tag lemma="Taller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Taller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-046-p2s2w21">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Taller</form>
-<tag lemma="Taller_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Taller_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-046-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-mf920902-046-p2s7w3</LM>
 </w.rf>
 <form>Tallera</form>
-<tag lemma="Taller_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Taller_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-046-p2s7w4">
 <src.rf>manual</src.rf>

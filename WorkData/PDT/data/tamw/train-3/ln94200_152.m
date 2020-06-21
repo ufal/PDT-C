@@ -53,7 +53,7 @@
 <LM>w#w-ln94200-152-p2s1w2</LM>
 </w.rf>
 <form>Lerch</form>
-<tag lemma="Lerch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lerch_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-152-p2s1w3">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln94200-152-p2s1w5</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-152-p2s1w6">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-ln94200-152-p4s1w2</LM>
 </w.rf>
 <form>Sovič</form>
-<tag lemma="Sovič_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-152-p4s1w3">
 <src.rf>manual</src.rf>
@@ -551,8 +551,8 @@
 </w.rf>
 <form>ber</form>
 <tag>
-<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ber-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-152-p4s2w3">
@@ -570,8 +570,8 @@
 </w.rf>
 <form>hk</form>
 <tag>
-<AM lemma="hk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="hk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="hk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-152-p4s2w5">

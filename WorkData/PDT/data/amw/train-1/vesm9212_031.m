@@ -207,7 +207,7 @@
 <LM>w#w-vesm9212-031-p3s1w8</LM>
 </w.rf>
 <form>Babor</form>
-<tag lemma="Babor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Babor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-031-p3s1w9">
 <src.rf>manual</src.rf>
@@ -232,8 +232,8 @@
 </w.rf>
 <form>imh</form>
 <tag>
-<AM lemma="imh_:B_;S" src="orig">NNMXX-----A---8</AM>
-<AM lemma="imh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="imh_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="imh-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-031-p3s1w12">
@@ -250,7 +250,7 @@
 <LM>w#w-vesm9212-031-p3s1w13</LM>
 </w.rf>
 <form>Moodyho</form>
-<tag lemma="Moody_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Moody_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-031-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1476,7 +1476,7 @@
 <LM>w#w-vesm9212-031-p5s1w11</LM>
 </w.rf>
 <form>Moodyho</form>
-<tag lemma="Moody_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Moody_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-031-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2110,7 +2110,7 @@
 <LM>w#w-vesm9212-031-p6s1w9</LM>
 </w.rf>
 <form>acylpirin</form>
-<tag lemma="acylpirin_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="acylpirin_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-031-p6s1w10">
 <src.rf>manual</src.rf>
@@ -5673,7 +5673,7 @@
 <LM>w#w-vesm9212-031-p10s1w2</LM>
 </w.rf>
 <form>Kolman</form>
-<tag lemma="Kolman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

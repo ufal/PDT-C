@@ -134,7 +134,7 @@
 <LM>w#w-mf920924-011-p1s2w3</LM>
 </w.rf>
 <form>Tatře</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tatra_;m_^(auto;;mléko)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920924-011-p1s2w4">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-mf920924-011-p1s3w4</LM>
 </w.rf>
 <form>Tonaku</form>
-<tag lemma="Tonak_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Tonak_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920924-011-p1s3w5">
 <src.rf>manual</src.rf>

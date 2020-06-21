@@ -147,7 +147,7 @@
 <LM>w#w-ln95040-053-p2s1w15</LM>
 </w.rf>
 <form>Kodicek</form>
-<tag lemma="Kodicek_;S" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Kodicek_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95040-053-p2s1w16">
 <src.rf>manual</src.rf>
@@ -318,8 +318,8 @@
 </w.rf>
 <form>Světozor</form>
 <tag>
-<AM lemma="Světozor_;K_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Světozor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Světozor_;Y_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Světozor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-053-p2s2w12">

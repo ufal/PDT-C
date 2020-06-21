@@ -492,7 +492,7 @@
 </w.rf>
 <form>PTI</form>
 <tag>
-<AM lemma="PTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PTI-1_:B_;m_,t_^(Press_Trust_of_India)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PTI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

@@ -344,7 +344,7 @@
 <form>Ležáka</form>
 <tag>
 <AM lemma="ležák-1_,h" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ležák_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ležák_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-036-p1s1w42">
@@ -601,7 +601,7 @@
 <form>Ležáka</form>
 <tag>
 <AM lemma="ležák-1_,h" src="orig">NNMS2-----A----</AM>
-<AM lemma="Ležák_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ležák_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-036-p1s5w5">

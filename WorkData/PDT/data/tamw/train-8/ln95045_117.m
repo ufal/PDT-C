@@ -180,7 +180,7 @@
 <LM>w#w-ln95045-117-p2s1Bw9</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-117-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-ln95045-117-p2s4Bw16</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-117-p2s4Bw17">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-ln95045-117-p2s5w9</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="dolar" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-117-p2s5w10">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-ln95045-117-p2s6Aw6</LM>
 </w.rf>
 <form>Velkoborský</form>
-<tag lemma="Velkoborský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Velkoborský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-117-p2s6Aw7">
 <src.rf>manual</src.rf>

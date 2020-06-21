@@ -85,7 +85,7 @@
 <LM>w#w-ln95041-038-p2s1w3</LM>
 </w.rf>
 <form>Vaculíka</form>
-<tag lemma="Vaculík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vaculík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-038-p2s1w4">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-ln95041-038-p2s2w13</LM>
 </w.rf>
 <form>Vaculíku</form>
-<tag lemma="Vaculík_;S" src="orig" selected="1">NNMS5-----A----</tag>
+<tag lemma="Vaculík_;Y" src="orig" selected="1">NNMS5-----A----</tag>
 </m>
 <m id="m-ln95041-038-p2s2w14">
 <src.rf>manual</src.rf>
@@ -339,8 +339,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-038-p2s2w16">
@@ -526,7 +526,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-038-p2s3w13">
@@ -543,7 +543,7 @@
 <LM>w#w-ln95041-038-p2s3w14</LM>
 </w.rf>
 <form>Vaculíka</form>
-<tag lemma="Vaculík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vaculík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-038-p2s3w15">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-038-p2s5Aw16">
@@ -761,7 +761,7 @@
 <LM>w#w-ln95041-038-p2s5Aw17</LM>
 </w.rf>
 <form>Vaculík</form>
-<tag lemma="Vaculík_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vaculík_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-038-p2s5Aw18">
 <src.rf>manual</src.rf>
@@ -981,7 +981,7 @@
 <LM>w#w-ln95041-038-p2s6w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-038-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1594,7 +1594,7 @@
 <LM>w#w-ln95041-038-p2s10Aw11</LM>
 </w.rf>
 <form>Vaculíka</form>
-<tag lemma="Vaculík_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vaculík_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-038-p2s10Aw12">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <LM>w#w-ln95041-038-p2s10Bw2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-038-p2s10Bw3">
 <src.rf>manual</src.rf>
@@ -3697,7 +3697,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-038-p2s19w7">
@@ -3714,7 +3714,7 @@
 <LM>w#w-ln95041-038-p2s19w8</LM>
 </w.rf>
 <form>Vaculíkem</form>
-<tag lemma="Vaculík_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Vaculík_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-038-p2s19w9">
 <src.rf>manual</src.rf>

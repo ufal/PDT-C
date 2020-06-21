@@ -20,8 +20,8 @@
 </w.rf>
 <form>Benfica</form>
 <tag>
-<AM lemma="Benfica_;K_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Benfica_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Benfica_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Benfica_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p1s1w2">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>Benfica</form>
 <tag>
-<AM lemma="Benfica_;K_;w" src="auto">NNFS1-----A----</AM>
-<AM lemma="Benfica_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Benfica_;m" src="auto">NNFS1-----A----</AM>
+<AM lemma="Benfica_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p2s1w12">
@@ -163,7 +163,7 @@
 <LM>w#w-mf930703-087-p2s1w16</LM>
 </w.rf>
 <form>Kulkova</form>
-<tag lemma="Kulkov_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Kulkov_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-087-p2s1w17">
 <src.rf>manual</src.rf>
@@ -180,12 +180,12 @@
 </w.rf>
 <form>Mostového</form>
 <tag>
-<AM lemma="Mostový_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Mostový_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="mostový" src="auto">AAIS2----1A----</AM>
 <AM lemma="mostový" src="auto">AAMS2----1A----</AM>
 <AM lemma="mostový" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="mostový" src="auto">AANS2----1A----</AM>
-<AM lemma="Mostový_;S" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Mostový_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p2s1w19">
@@ -202,7 +202,7 @@
 <LM>w#w-mf930703-087-p2s1w20</LM>
 </w.rf>
 <form>Jurana</form>
-<tag lemma="Juran_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Juran_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-087-p2s1w21">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-mf930703-087-p3s3w6</LM>
 </w.rf>
 <form>Goycochea</form>
-<tag lemma="Goycochea_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Goycochea_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-087-p3s3w7">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-mf930703-087-p4s1w3</LM>
 </w.rf>
 <form>Pelého</form>
-<tag lemma="Pelé_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pelé_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-087-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-mf930703-087-p5s1w19</LM>
 </w.rf>
 <form>Pereira</form>
-<tag lemma="Pereira_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pereira_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-087-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 </w.rf>
 <form>MS</form>
 <tag>
-<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1210,9 +1210,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p5s2w17">

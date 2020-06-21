@@ -166,8 +166,8 @@
 </w.rf>
 <form>Biesse</form>
 <tag>
-<AM lemma="Biesse_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Biesse_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Biesse_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Biesse_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-002-p2s1w17">
@@ -200,7 +200,7 @@
 <LM>w#w-mf920924-002-p2s1w20</LM>
 </w.rf>
 <form>Teplý</form>
-<tag lemma="Teplý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Teplý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-002-p2s1w21">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-mf920924-002-p2s4w8</LM>
 </w.rf>
 <form>Janáčkové</form>
-<tag lemma="Janáčková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Janáčková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-002-p2s4w9">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf920924-002-p2s4w11</LM>
 </w.rf>
 <form>Kuchaříkové</form>
-<tag lemma="Kuchaříková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kuchaříková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-002-p2s4w12">
 <src.rf>manual</src.rf>
@@ -799,8 +799,8 @@
 </w.rf>
 <form>Biesse</form>
 <tag>
-<AM lemma="Biesse_;K_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="Biesse_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Biesse_;m_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Biesse_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-002-p2s5Bw8">
@@ -1034,7 +1034,7 @@
 <LM>w#w-mf920924-002-p2s7Aw13</LM>
 </w.rf>
 <form>Teplý</form>
-<tag lemma="Teplý_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Teplý_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-002-p2s7Aw14">
 <src.rf>manual</src.rf>

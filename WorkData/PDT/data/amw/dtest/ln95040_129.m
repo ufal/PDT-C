@@ -120,8 +120,8 @@
 </w.rf>
 <form>PSL</form>
 <tag>
-<AM lemma="PZU-1_:B_;K_,t_^(Polskie_Stronnictvo_Ludowe)" src="orig">NNFXX-----A----</AM>
-<AM lemma="PSL-1_:B_;K_,t_^(Polskie_Stronnictvo_Ludowe)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="PZU-1_:B_;m_,t_^(Polskie_Stronnictvo_Ludowe)" src="orig">NNFXX-----A----</AM>
+<AM lemma="PSL-1_:B_;m_,t_^(Polskie_Stronnictvo_Ludowe)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="PSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -180,7 +180,7 @@
 </w.rf>
 <form>SLD</form>
 <tag>
-<AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SLD-1_:B_;m_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="SLD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -524,8 +524,8 @@
 </w.rf>
 <form>Sejmu</form>
 <tag>
-<AM lemma="Sejm_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Sejm_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Sejm_;m_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sejm_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s2w21">
@@ -536,7 +536,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s2w22">
@@ -553,7 +553,7 @@
 <LM>w#w-ln95040-129-p2s2w23</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-129-p2s2w24">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-ln95040-129-p2s3w1</LM>
 </w.rf>
 <form>Oleksy</form>
-<tag lemma="Oleksy_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Oleksy_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-129-p2s3w2">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <form>W</form>
 <tag>
 <AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="W-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="W-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s3w7">
@@ -686,7 +686,7 @@
 <LM>w#w-ln95040-129-p2s3w8</LM>
 </w.rf>
 <form>Pawlaka</form>
-<tag lemma="Pawlak_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pawlak_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-129-p2s3w9">
 <src.rf>manual</src.rf>
@@ -785,8 +785,8 @@
 </w.rf>
 <form>Sejmu</form>
 <tag>
-<AM lemma="Sejm_;K_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="Sejm_;K" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Sejm_;m_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sejm_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s4w9">
@@ -797,7 +797,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-129-p2s4w10">
@@ -814,7 +814,7 @@
 <LM>w#w-ln95040-129-p2s4w11</LM>
 </w.rf>
 <form>Zycha</form>
-<tag lemma="Zych_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zych_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-129-p2s4w12">
 <src.rf>manual</src.rf>
@@ -831,8 +831,8 @@
 </w.rf>
 <form>PSL</form>
 <tag>
-<AM lemma="PZU-1_:B_;K_,t_^(Polskie_Stronnictvo_Ludowe)" src="orig">NNFXX-----A----</AM>
-<AM lemma="PSL-1_:B_;K_,t_^(Polskie_Stronnictvo_Ludowe)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="PZU-1_:B_;m_,t_^(Polskie_Stronnictvo_Ludowe)" src="orig">NNFXX-----A----</AM>
+<AM lemma="PSL-1_:B_;m_,t_^(Polskie_Stronnictvo_Ludowe)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="PSL-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -911,7 +911,7 @@
 <LM>w#w-ln95040-129-p3s1w5</LM>
 </w.rf>
 <form>Falandysz</form>
-<tag lemma="Falandysz_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falandysz_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-129-p3s1w6">
 <src.rf>manual</src.rf>

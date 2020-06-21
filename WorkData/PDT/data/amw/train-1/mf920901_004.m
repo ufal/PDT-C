@@ -123,7 +123,7 @@
 <LM>w#w-mf920901-004-p1s1w14</LM>
 </w.rf>
 <form>Vášová</form>
-<tag lemma="Vášová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vášová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-004-p1s1w15">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="J-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="J-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-004-p1s2w4">
@@ -178,7 +178,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-004-p1s2w6">
@@ -195,7 +195,7 @@
 <LM>w#w-mf920901-004-p1s2w7</LM>
 </w.rf>
 <form>Komenského</form>
-<tag lemma="Komenský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Komenský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-004-p1s2w8">
 <src.rf>manual</src.rf>
@@ -481,9 +481,9 @@
 </w.rf>
 <form>vl</form>
 <tag>
-<AM lemma="vl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vl-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vládní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="vl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="vl-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-004-p2s1w3">
@@ -518,7 +518,7 @@
 <LM>w#w-mf920901-004-p3s1w3</LM>
 </w.rf>
 <form>MAFA</form>
-<tag lemma="Mafa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mafa_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-004-p3s1w4">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf920901-004-p3s2w2</LM>
 </w.rf>
 <form>RŮŽIČKA</form>
-<tag lemma="Růžička_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Růžička_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -104,8 +104,8 @@
 </w.rf>
 <form>mrk</form>
 <tag>
-<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-131-p2s1Aw4">
@@ -367,8 +367,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-131-p3s1w3">
@@ -393,7 +393,7 @@
 <LM>w#w-ln94202-131-p3s1w5</LM>
 </w.rf>
 <form>Opletal</form>
-<tag lemma="Opletal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Opletal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-131-p3s1w6">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 </w.rf>
 <form>ADR</form>
 <tag>
-<AM lemma="ADR-1_:B_;K_,t_^(Mezin._úmluva_o_přepravě_nebezp._zboží)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ADR-1_:B_;m_,t_^(Mezin._úmluva_o_přepravě_nebezp._zboží)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ADR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -833,7 +833,7 @@
 <LM>w#w-ln94202-131-p4s1w6</LM>
 </w.rf>
 <form>Opletala</form>
-<tag lemma="Opletal_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Opletal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-131-p4s1w7">
 <src.rf>manual</src.rf>

@@ -95,9 +95,9 @@
 <form>Maurice</form>
 <tag>
 <AM lemma="Maurice_;Y" src="orig" selected="1">NNMS2-----A----</AM>
-<AM lemma="Mauric_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Mauric_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mauric_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Mauric_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Mauric_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Mauric_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Maurice_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Maurice_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -108,7 +108,7 @@
 <LM>w#w-mf930713-007-p1s1w11</LM>
 </w.rf>
 <form>Ravela</form>
-<tag lemma="Ravel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ravel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-007-p1s1w12">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 </w.rf>
 <form>Joan</form>
 <tag>
-<AM lemma="Joan_;Y" src="orig">NNFSX-----A----</AM>
+<AM lemma="Joan_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Joana_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Joan_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
@@ -308,7 +308,7 @@
 <LM>w#w-mf930713-007-p1s3w3</LM>
 </w.rf>
 <form>Baezové</form>
-<tag lemma="Baezová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Baezová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-007-p1s3w4">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-mf930713-007-p1s4w3</LM>
 </w.rf>
 <form>Tichého</form>
-<tag lemma="Tichý_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tichý_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-007-p1s4w4">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-mf930713-007-p1s4w15</LM>
 </w.rf>
 <form>Řečických</form>
-<tag lemma="Řečický_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Řečický_;Y" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-007-p1s4w16">
 <src.rf>manual</src.rf>

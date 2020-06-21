@@ -372,7 +372,7 @@
 </w.rf>
 <form>FIS</form>
 <tag>
-<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

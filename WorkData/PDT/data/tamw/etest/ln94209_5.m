@@ -20,10 +20,10 @@
 </w.rf>
 <form>Avokádo</form>
 <tag>
-<AM lemma="Avokádo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS4-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS5-----A----</AM>
+<AM lemma="Avokádo_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS4-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS5-----A----</AM>
 <AM lemma="avokádo" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -209,10 +209,10 @@
 </w.rf>
 <form>Avokádo</form>
 <tag>
-<AM lemma="Avokádo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS4-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS5-----A----</AM>
+<AM lemma="Avokádo_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS4-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS5-----A----</AM>
 <AM lemma="avokádo" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -314,7 +314,7 @@
 <form>Klement</form>
 <tag>
 <AM lemma="Klement_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klement_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klement_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-5-p3s1w7">
@@ -348,10 +348,10 @@
 </w.rf>
 <form>Avokádo</form>
 <tag>
-<AM lemma="Avokádo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS4-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS5-----A----</AM>
+<AM lemma="Avokádo_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS4-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS5-----A----</AM>
 <AM lemma="avokádo" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -410,7 +410,7 @@
 </w.rf>
 <form>EMARKO</form>
 <tag>
-<AM lemma="EMARKO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="EMARKO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="EMARKO-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -742,7 +742,7 @@
 <form>Klement</form>
 <tag>
 <AM lemma="Klement_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klement_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klement_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-5-p4s1w25">
@@ -1176,10 +1176,10 @@
 </w.rf>
 <form>Avokádo</form>
 <tag>
-<AM lemma="Avokádo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS4-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS5-----A----</AM>
+<AM lemma="Avokádo_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS4-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS5-----A----</AM>
 <AM lemma="avokádo" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -1571,7 +1571,7 @@
 <form>Klement</form>
 <tag>
 <AM lemma="Klement_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klement_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klement_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-5-p5s4w20">
@@ -1694,7 +1694,7 @@
 <LM>w#w-ln94209-5-p6s1w14</LM>
 </w.rf>
 <form>Lánské</form>
-<tag lemma="Lánská_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Lánská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-5-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1743,10 +1743,10 @@
 </w.rf>
 <form>Avokádo</form>
 <tag>
-<AM lemma="Avokádo_;K" src="orig">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS4-----A----</AM>
-<AM lemma="avokádo_;L" src="auto">NNNS5-----A----</AM>
+<AM lemma="Avokádo_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS4-----A----</AM>
+<AM lemma="avokádo_;U" src="auto">NNNS5-----A----</AM>
 <AM lemma="avokádo" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -2069,7 +2069,7 @@
 <form>Klement</form>
 <tag>
 <AM lemma="Klement_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Klement_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Klement_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-5-p6s3w20">

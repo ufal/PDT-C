@@ -35,7 +35,7 @@
 <LM>w#w-lnd92259-075-p1s1w3</LM>
 </w.rf>
 <form>MÜLLEROVOU</form>
-<tag lemma="Müllerová_;S" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Müllerová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p1s1w4">
 <src.rf>manual</src.rf>
@@ -208,8 +208,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-075-p3s1w15">
@@ -364,7 +364,7 @@
 <LM>w#w-lnd92259-075-p3s2w14</LM>
 </w.rf>
 <form>MÜLLEROVÉ</form>
-<tag lemma="Müllerová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Müllerová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p3s2w15">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-lnd92259-075-p5s1w8</LM>
 </w.rf>
 <form>Kouteckého</form>
-<tag lemma="Koutecký_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koutecký_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2772,7 +2772,7 @@
 <LM>w#w-lnd92259-075-p7s3w32</LM>
 </w.rf>
 <form>marlbora</form>
-<tag lemma="marlboro_;R" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="marlboro_;m" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p7s3w33">
 <src.rf>manual</src.rf>
@@ -3388,7 +3388,7 @@
 <LM>w#w-lnd92259-075-p9s1w14</LM>
 </w.rf>
 <form>Třeštíkové</form>
-<tag lemma="Třeštíková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Třeštíková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p9s1w15">
 <src.rf>manual</src.rf>
@@ -3476,7 +3476,7 @@
 <LM>w#w-lnd92259-075-p9s1w25</LM>
 </w.rf>
 <form>Vihanové</form>
-<tag lemma="Vihanová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vihanová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p9s1w26">
 <src.rf>manual</src.rf>
@@ -3621,8 +3621,8 @@
 </w.rf>
 <form>FaS</form>
 <tag>
-<AM lemma="FaS_:B_;K_;u_^(Film_&amp;_Sociologie)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Fas_:B" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="FaS_:B_;m_^(Film_&amp;_Sociologie)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Fas_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="fasit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="fasit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="FaS-88" src="manual" selected="1">BNXXX-----A----</AM>
@@ -3652,7 +3652,7 @@
 <LM>w#w-lnd92259-075-p9s2w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="jaf-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-lnd92259-075-p9s2w3">
 <src.rf>manual</src.rf>

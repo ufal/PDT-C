@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-011-p1s1w3</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-011-p1s1w4">
 <src.rf>manual</src.rf>
@@ -68,9 +68,9 @@
 </w.rf>
 <form>Mi</form>
 <tag>
-<AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MI_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
-<AM lemma="MI_;R^(vrtulník)" src="manual">NNIXX-----A----</AM>
+<AM lemma="MI_;m^(vrtulník)" src="manual">NNIXX-----A----</AM>
 <AM lemma="Mi-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -160,7 +160,7 @@
 <LM>w#w-ln95047-011-p1s1w18</LM>
 </w.rf>
 <form>Holáň</form>
-<tag lemma="Holáň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Holáň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

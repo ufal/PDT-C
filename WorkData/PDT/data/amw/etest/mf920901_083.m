@@ -526,7 +526,7 @@
 <LM>w#w-mf920901-083-p2s4w5</LM>
 </w.rf>
 <form>Kejdana</form>
-<tag lemma="Kejdana_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kejdana_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-083-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 </w.rf>
 <form>Gerta</form>
 <tag>
-<AM lemma="Gert_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Gert_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Gerta_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1011,7 +1011,7 @@
 <LM>w#w-mf920901-083-p3s2w3</LM>
 </w.rf>
 <form>Jakšová</form>
-<tag lemma="Jakšová_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Jakšová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-083-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1437,7 +1437,7 @@
 <LM>w#w-mf920901-083-p3s5w13</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920901-083-p3s5w14">
 <src.rf>manual</src.rf>

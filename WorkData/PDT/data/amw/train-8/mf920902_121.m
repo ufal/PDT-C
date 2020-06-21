@@ -137,7 +137,7 @@
 <form>Z</form>
 <tag>
 <AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Z-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-121-p1s1Bw8">
@@ -154,7 +154,7 @@
 <LM>w#w-mf920902-121-p1s1Bw9</LM>
 </w.rf>
 <form>Bíglem</form>
-<tag lemma="Bígl_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Bígl_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-121-p1s1Bw10">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -483,7 +483,7 @@
 <LM>w#w-mf920902-121-p1s1Cw14</LM>
 </w.rf>
 <form>Fortuna</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-121-p1s1Cw15">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-mf920902-121-p1s2w6</LM>
 </w.rf>
 <form>Fortuna</form>
-<tag lemma="Fortuna_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-121-p1s2w7">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 </w.rf>
 <form>SPN</form>
 <tag>
-<AM lemma="SPN_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPN_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1918,7 +1918,7 @@
 </w.rf>
 <form>SPN</form>
 <tag>
-<AM lemma="SPN_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPN_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPN-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2296,7 +2296,7 @@
 </w.rf>
 <form>SNS</form>
 <tag>
-<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-1_:B_;m_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SNS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2829,7 +2829,7 @@
 <LM>w#w-mf920902-121-p1s16w10</LM>
 </w.rf>
 <form>Voleská</form>
-<tag lemma="Voleská_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Voleská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-121-p1s16w11">
 <src.rf>manual</src.rf>

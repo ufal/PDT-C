@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-126-p1s1w4</LM>
 </w.rf>
 <form>Chuďjakova</form>
-<tag lemma="Chuďjakov_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Chuďjakov_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-126-p2s1">
@@ -247,7 +247,7 @@
 <LM>w#w-mf930702-126-p2s2w9</LM>
 </w.rf>
 <form>Chuďjakov</form>
-<tag lemma="Chuďjakov_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chuďjakov_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-126-p2s2w10">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 </w.rf>
 <form>KSSS</form>
 <tag>
-<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="KSSS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1025,8 +1025,8 @@
 </w.rf>
 <form>Izvestija</form>
 <tag>
-<AM lemma="Izvestija_;R_,t" src="orig">NNFP1-----A----</AM>
-<AM lemma="Izvestija_;K_;w_,t" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="orig">NNFP1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Izvestija-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2294,8 +2294,8 @@
 </w.rf>
 <form>Izvestija</form>
 <tag>
-<AM lemma="Izvestija_;R_,t" src="orig">NNFP1-----A----</AM>
-<AM lemma="Izvestija_;K_;w_,t" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="orig">NNFP1-----A----</AM>
+<AM lemma="Izvestija_;m_,t" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Izvestija-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -2305,7 +2305,7 @@
 <LM>w#w-mf930702-126-p6s4w25</LM>
 </w.rf>
 <form>Chuďjakovovy</form>
-<tag lemma="Chuďjakovův_;S_^(*2)" src="orig" selected="1">AUIP4M---------</tag>
+<tag lemma="Chuďjakovův_;Y_^(*2)" src="orig" selected="1">AUIP4M---------</tag>
 </m>
 <m id="m-mf930702-126-p6s4w26">
 <src.rf>manual</src.rf>

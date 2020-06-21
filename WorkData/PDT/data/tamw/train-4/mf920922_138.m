@@ -96,7 +96,7 @@
 <LM>w#w-mf920922-138-p1s1w10</LM>
 </w.rf>
 <form>HUSAJNA</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-138-p2s1">
@@ -452,7 +452,7 @@
 <LM>w#w-mf920922-138-p2s2w42</LM>
 </w.rf>
 <form>Peters</form>
-<tag lemma="Peters_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Peters_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-138-p2s2w43">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-mf920922-138-p2s5w18</LM>
 </w.rf>
 <form>Husajna</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Husajn_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-138-p2s5w19">
 <src.rf>manual</src.rf>

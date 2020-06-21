@@ -487,7 +487,7 @@
 <LM>w#w-mf930701-084-p4s3w9</LM>
 </w.rf>
 <form>Michalský</form>
-<tag lemma="Michalský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michalský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-084-p4s3w10">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-mf930701-084-p5s1w3</LM>
 </w.rf>
 <form>Michalského</form>
-<tag lemma="Michalský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Michalský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-084-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1416,7 +1416,7 @@
 <LM>w#w-mf930701-084-p6s1w3</LM>
 </w.rf>
 <form>Michalského</form>
-<tag lemma="Michalský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Michalský_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-084-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2162,7 +2162,7 @@
 <LM>w#w-mf930701-084-p6s5w15</LM>
 </w.rf>
 <form>Michalský</form>
-<tag lemma="Michalský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Michalský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-084-p6s5w16">
 <src.rf>manual</src.rf>

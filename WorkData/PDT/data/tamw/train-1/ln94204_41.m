@@ -54,10 +54,10 @@
 </w.rf>
 <form>ce</form>
 <tag>
-<AM lemma="ce-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ce-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="ce-99_:B_;S" src="manual">N%XXX-----A---8</AM>
-<AM lemma="ce-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ce-99_:B_;Y" src="manual">N%XXX-----A---8</AM>
+<AM lemma="ce-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-41-p2s1Aw4">
@@ -108,7 +108,7 @@
 <LM>w#w-ln94204-41-p2s1Bw4</LM>
 </w.rf>
 <form>Proconsult</form>
-<tag lemma="Proconsult_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Proconsult_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-41-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -856,8 +856,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-41-p2s5w4">
@@ -907,10 +907,10 @@
 </w.rf>
 <form>Jirků</form>
 <tag>
-<AM lemma="Jirků-1_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Jirků-1_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Jirka_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Jirků_;S" src="auto">NNFSX-----A----</AM>
-<AM lemma="Jirků_;S" src="auto" selected="1">NNMSX-----A----</AM>
+<AM lemma="Jirků_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Jirků_;Y" src="auto" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-41-p2s5w10">

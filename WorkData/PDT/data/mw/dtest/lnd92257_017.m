@@ -20,10 +20,10 @@
 </w.rf>
 <form>ALEXANDER</form>
 <tag>
-<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alexander_;Y_;S" src="manual">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-017-p1s1w2">
@@ -32,7 +32,7 @@
 <LM>w#w-lnd92257-017-p1s1w2</LM>
 </w.rf>
 <form>DUBČEK</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92257-017-p2s1">
@@ -111,7 +111,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -123,7 +123,7 @@
 <form>Alexandra</form>
 <tag>
 <AM lemma="Alexandr_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-017-p3s2w6">
@@ -132,7 +132,7 @@
 <LM>w#w-lnd92257-017-p3s2w6</LM>
 </w.rf>
 <form>Dubčeka</form>
-<tag lemma="Dubček_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dubček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-017-p3s2w7">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-lnd92257-017-p3s3w14</LM>
 </w.rf>
 <form>Ročeň</form>
-<tag lemma="Ročeň_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ročeň_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-017-p3s3w15">
 <src.rf>manual</src.rf>

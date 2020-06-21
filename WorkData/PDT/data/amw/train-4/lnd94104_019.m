@@ -54,8 +54,8 @@
 </w.rf>
 <form>črk</form>
 <tag>
-<AM lemma="črk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="črk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="črk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="črk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-019-p1s2w4">
@@ -244,7 +244,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="P-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-019-p1s3w22">
@@ -261,7 +261,7 @@
 <LM>w#w-lnd94104-019-p1s3w23</LM>
 </w.rf>
 <form>Seifer</form>
-<tag lemma="Seifer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Seifer_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-019-p1s3w24">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 </w.rf>
 <form>LSU</form>
 <tag>
-<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-1_:B_;m_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LSU-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -356,7 +356,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-019-p1s4w8">
@@ -373,7 +373,7 @@
 <LM>w#w-lnd94104-019-p1s4w9</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Klaus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-019-p1s4w10">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-lnd94104-019-p1s4w13</LM>
 </w.rf>
 <form>Seifrovu</form>
-<tag lemma="Seifrův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Seifrův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-lnd94104-019-p1s4w14">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -850,7 +850,7 @@
 <form>Haliburton</form>
 <tag>
 <AM lemma="Haliburton_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Haliburton_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Haliburton_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-019-p1s5w33">
@@ -860,7 +860,7 @@
 </w.rf>
 <form>NUS</form>
 <tag>
-<AM lemma="NUS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="NUS_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="NUS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -993,7 +993,7 @@
 </w.rf>
 <form>SÚJB</form>
 <tag>
-<AM lemma="SÚJB-1_:B_;K_^(Státní_úřad_pro_jadernou_energii)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SÚJB-1_:B_;m_^(Státní_úřad_pro_jadernou_energii)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SÚJB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1230,7 +1230,7 @@
 </w.rf>
 <form>SÚJB</form>
 <tag>
-<AM lemma="SÚJB-1_:B_;K_^(Státní_úřad_pro_jadernou_energii)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SÚJB-1_:B_;m_^(Státní_úřad_pro_jadernou_energii)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SÚJB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1333,7 +1333,7 @@
 </w.rf>
 <form>ČEZ</form>
 <tag>
-<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1455,7 +1455,7 @@
 <LM>w#w-lnd94104-019-p1s9w6</LM>
 </w.rf>
 <form>Seifra</form>
-<tag lemma="Seifr_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seifr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-019-p1s9w7">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1619,9 +1619,9 @@
 </w.rf>
 <form>USA</form>
 <tag>
-<AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
-<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-019-p1s9w27">
@@ -1836,7 +1836,7 @@
 </w.rf>
 <form>MAAE</form>
 <tag>
-<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE_:B_;m_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="MAAE-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>

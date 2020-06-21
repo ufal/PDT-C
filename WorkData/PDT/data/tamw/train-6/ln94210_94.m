@@ -117,7 +117,7 @@
 <LM>w#w-ln94210-94-p1s2w3</LM>
 </w.rf>
 <form>Cudlín</form>
-<tag lemma="Cudlín_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Cudlín_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

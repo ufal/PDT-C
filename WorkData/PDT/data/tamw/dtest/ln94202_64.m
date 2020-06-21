@@ -35,7 +35,7 @@
 <LM>w#w-ln94202-64-p1s1w3</LM>
 </w.rf>
 <form>Titova</form>
-<tag lemma="Titův_;S_^(*2o)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Titův_;Y_^(*2o)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94202-64-p1s1w4">
 <src.rf>manual</src.rf>
@@ -240,9 +240,9 @@
 </w.rf>
 <form>Reuter</form>
 <tag>
-<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
-<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Reuter_;m" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

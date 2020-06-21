@@ -497,7 +497,7 @@
 <LM>w#w-mf930701-152-p3s1w8</LM>
 </w.rf>
 <form>Thákura</form>
-<tag lemma="Thákur_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Thákur_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-152-p3s1w9">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-mf930701-152-p3s1w9</LM>
 </w.rf>
 <form>Baláka</form>
-<tag lemma="Balák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Balák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-152-p3s1w10">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-mf930701-152-p3s1w10</LM>
 </w.rf>
 <form>Bráhmášarího</form>
-<tag lemma="Bráhmášarí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bráhmášarí_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-152-p3s1w11">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 </w.rf>
 <form>Santan</form>
 <tag>
-<AM lemma="Santan_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Santan_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Santana_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Santan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -789,7 +789,7 @@
 </w.rf>
 <form>Dal</form>
 <tag>
-<AM lemma="Dal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Dal_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Dal_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="dát" src="auto">VpYS----R-AAP--</AM>
 <AM lemma="Dal-77" src="manual" selected="1">F%-------------</AM>
@@ -1135,7 +1135,7 @@
 <form>Ratan</form>
 <tag>
 <AM lemma="Ratan_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Ratana_;K_^(název_sekty)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Ratana_;m_^(název_sekty)" src="auto">NNFP2-----A----</AM>
 <AM lemma="ratan" src="auto">NNIS1-----A----</AM>
 <AM lemma="ratan" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Ratan-77" src="manual" selected="1">F%-------------</AM>

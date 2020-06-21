@@ -165,7 +165,7 @@
 <LM>w#w-lnd92251-026-p2s1w17</LM>
 </w.rf>
 <form>Lutze</form>
-<tag lemma="Lutz_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lutz_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-026-p2s1w18">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd92251-026-p2s1w18</LM>
 </w.rf>
 <form>Laskeho</form>
-<tag lemma="Laske_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Laske_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-026-p2s1w19">
 <src.rf>manual</src.rf>

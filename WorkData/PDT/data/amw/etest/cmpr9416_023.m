@@ -72,7 +72,7 @@
 <LM>w#w-cmpr9416-023-p3s1w5</LM>
 </w.rf>
 <form>Kovofiniš</form>
-<tag lemma="Kovofiniš_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Kovofiniš_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-023-p3s1w6">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-cmpr9416-023-p4s1w6</LM>
 </w.rf>
 <form>Kovofiniši</form>
-<tag lemma="Kovofiniš_;K" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Kovofiniš_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-cmpr9416-023-p4s1w7">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-cmpr9416-023-p4s1w19</LM>
 </w.rf>
 <form>Mainerem</form>
-<tag lemma="Mainer_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Mainer_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9416-023-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1590,7 +1590,7 @@
 </w.rf>
 <form>KEG</form>
 <tag>
-<AM lemma="KEG_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="KEG_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="keg_,l_^(typ_sudu)" src="auto">NNIS1-----A----</AM>
 <AM lemma="keg_,l_^(typ_sudu)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="keg_,l_^(typ_sudu)" src="manual" selected="1">NNIXX-----A----</AM>
@@ -2637,7 +2637,7 @@
 </w.rf>
 <form>AUTOKEG</form>
 <tag>
-<AM lemma="AUTOKEG_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AUTOKEG_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AUTOKEG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -3094,7 +3094,7 @@
 </w.rf>
 <form>KEG</form>
 <tag>
-<AM lemma="KEG_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="KEG_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="keg_,l_^(typ_sudu)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="keg_,l_^(typ_sudu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="keg_,l_^(typ_sudu)" src="manual" selected="1">NNIXX-----A----</AM>

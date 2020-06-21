@@ -209,7 +209,7 @@
 </w.rf>
 <form>UEFA</form>
 <tag>
-<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="UEFA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -220,7 +220,7 @@
 </w.rf>
 <form>FC</form>
 <tag>
-<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-1_:B_;m_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -231,10 +231,10 @@
 </w.rf>
 <form>Valencia</form>
 <tag>
-<AM lemma="Valencia_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Valencia_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Valencie_;G" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
-<AM lemma="Valencio_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Valencio_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Valencio_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Valencio_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-077-p1s1Bw25">
@@ -506,7 +506,7 @@
 <LM>w#w-mf920902-077-p1s3w10</LM>
 </w.rf>
 <form>Realem</form>
-<tag lemma="Real_;K" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Real_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920902-077-p1s3w11">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-mf920902-077-p1s3w26</LM>
 </w.rf>
 <form>Westerhofem</form>
-<tag lemma="Westerhof_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Westerhof_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920902-077-p1s3w27">
 <src.rf>manual</src.rf>

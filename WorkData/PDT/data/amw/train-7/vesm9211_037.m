@@ -167,7 +167,7 @@
 </w.rf>
 <form>Scientific</form>
 <tag>
-<AM lemma="Scientific-2_;R_,t_^(např._časopis_Scientific_American)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Scientific-2_;m_,t_^(např._časopis_Scientific_American)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Scientific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -178,8 +178,8 @@
 </w.rf>
 <form>American</form>
 <tag>
-<AM lemma="American-2_;R_,t_^(např._časopis_Scientific_American)" src="orig">NNISX-----A----</AM>
-<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="American-2_;m_,t_^(např._časopis_Scientific_American)" src="orig">NNIXX-----A----</AM>
+<AM lemma="American-1_;m_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -672,7 +672,7 @@
 </w.rf>
 <form>Desmodus</form>
 <tag>
-<AM lemma="Desmodus_;L_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Desmodus_;U_,t" src="auto">NNMXX-----A----</AM>
 <AM lemma="Desmodus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -683,7 +683,7 @@
 </w.rf>
 <form>rotundus</form>
 <tag>
-<AM lemma="rotundus_;L_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="rotundus_;U_,t" src="orig">NNMS1-----A----</AM>
 <AM lemma="rotundus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1045,7 +1045,7 @@
 </w.rf>
 <form>Lancet</form>
 <tag>
-<AM lemma="Lancet_;R_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Lancet_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="lanceta" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Lancet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -1643,7 +1643,7 @@
 </w.rf>
 <form>Sch</form>
 <tag>
-<AM lemma="Sch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Sch-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>

@@ -1124,7 +1124,7 @@
 <LM>w#w-ln94207-39-p5s1w2</LM>
 </w.rf>
 <form>Olšák</form>
-<tag lemma="Olšák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Olšák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-39-p5s1w3">
 <src.rf>manual</src.rf>

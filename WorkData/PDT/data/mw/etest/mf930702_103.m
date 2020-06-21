@@ -102,8 +102,8 @@
 </w.rf>
 <form>pka</form>
 <tag>
-<AM lemma="pka-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pka-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pka-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pka-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-103-p2s1w4">
@@ -121,8 +121,8 @@
 </w.rf>
 <form>wil</form>
 <tag>
-<AM lemma="wil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="wil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="wil-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="wil-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-103-p2s1w6">
@@ -1533,7 +1533,7 @@
 <LM>w#w-mf930702-103-p4s1w23</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Němec_;E_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-103-p4s1w24">
 <src.rf>manual</src.rf>

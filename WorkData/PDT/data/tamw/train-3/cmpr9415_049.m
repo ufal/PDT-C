@@ -193,7 +193,7 @@
 <LM>w#w-cmpr9415-049-p3s1Aw17</LM>
 </w.rf>
 <form>Chytilové</form>
-<tag lemma="Chytilová_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Chytilová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-049-p3s1Aw18">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-cmpr9415-049-p3s1Aw21</LM>
 </w.rf>
 <form>Pavlásková</form>
-<tag lemma="Pavlásková_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pavlásková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-049-p3s1Aw22">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 </w.rf>
 <form>StB</form>
 <tag>
-<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="StB-77" src="manual">F%-------------</AM>
 <AM lemma="StB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
@@ -838,7 +838,7 @@
 <LM>w#w-cmpr9415-049-p3s5Bw3</LM>
 </w.rf>
 <form>VÁCHAL</form>
-<tag lemma="Váchal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Váchal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-049-p3s5Bw4">
 <src.rf>manual</src.rf>

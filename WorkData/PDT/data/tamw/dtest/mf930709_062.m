@@ -119,8 +119,8 @@
 </w.rf>
 <form>lík</form>
 <tag>
-<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="lík-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="lík-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lík-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-062-p2s1Aw6">
@@ -179,7 +179,7 @@
 <LM>w#w-mf930709-062-p2s1Bw5</LM>
 </w.rf>
 <form>Charlli</form>
-<tag lemma="Charlli_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Charlli_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-mf930709-062-p2s1Bw7</LM>
 </w.rf>
 <form>Stavex</form>
-<tag lemma="Stavex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stavex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-mf930709-062-p3s2w32</LM>
 </w.rf>
 <form>Charlli</form>
-<tag lemma="Charlli_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Charlli_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p3s2w33">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-mf930709-062-p3s2w34</LM>
 </w.rf>
 <form>Stavex</form>
-<tag lemma="Stavex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stavex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p3s2w35">
 <src.rf>manual</src.rf>
@@ -1404,7 +1404,7 @@
 <LM>w#w-mf930709-062-p4s2w3</LM>
 </w.rf>
 <form>Charlli</form>
-<tag lemma="Charlli_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Charlli_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <LM>w#w-mf930709-062-p4s2w5</LM>
 </w.rf>
 <form>Stavex</form>
-<tag lemma="Stavex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stavex_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p4s2w6">
 <src.rf>manual</src.rf>

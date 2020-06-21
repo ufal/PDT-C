@@ -119,7 +119,7 @@
 <LM>w#w-mf930703-024-p3s1w4</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag lemma="ria-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
 </m>
 <m id="m-mf930703-024-p3s1w5">
 <src.rf>manual</src.rf>
@@ -200,9 +200,9 @@
 </w.rf>
 <form>CCC</form>
 <tag>
-<AM lemma="CCC-2_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="CCC-1_:B_;K_,t_^(Central_Control_Commission)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="chlorcholinchlorid_:B_;H" src="auto">NNIXX-----A---8</AM>
+<AM lemma="CCC-2_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="CCC-1_:B_;m_,t_^(Central_Control_Commission)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="chlorcholinchlorid_:B_;U" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CCC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -213,7 +213,7 @@
 </w.rf>
 <form>Heidelberger</form>
 <tag>
-<AM lemma="Heidelberger_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Heidelberger_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Heidelberger-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -224,7 +224,7 @@
 </w.rf>
 <form>Milchkosmetik</form>
 <tag>
-<AM lemma="Milchkosmetik_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Milchkosmetik_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Milchkosmetik-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -433,7 +433,7 @@
 <form>Teplého</form>
 <tag>
 <AM lemma="teplý" src="orig">AAMS2----1A----</AM>
-<AM lemma="Teplý_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Teplý_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p3s2w4">
@@ -1439,7 +1439,7 @@
 <LM>w#w-mf930703-024-p4s3w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930703-024-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1812,7 +1812,7 @@
 <form>Teplý</form>
 <tag>
 <AM lemma="teplý" src="orig">AAMS1----1A----</AM>
-<AM lemma="Teplý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Teplý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p4s5w25">
@@ -2340,7 +2340,7 @@
 <form>Teplý</form>
 <tag>
 <AM lemma="teplý" src="orig">AAMS1----1A----</AM>
-<AM lemma="Teplý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Teplý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p4s10w17">
@@ -2612,7 +2612,7 @@
 <LM>w#w-mf930703-024-p5s2w14</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-024-p5s2w15">
 <src.rf>manual</src.rf>

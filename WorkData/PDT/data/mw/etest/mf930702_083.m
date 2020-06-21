@@ -161,7 +161,7 @@
 <LM>w#w-mf930702-083-p2s3w1</LM>
 </w.rf>
 <form>Sanchez</form>
-<tag lemma="Sanchez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sanchez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-083-p2s3w2">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-mf930702-083-p2s4w1</LM>
 </w.rf>
 <form>Ramirez</form>
-<tag lemma="Ramirez_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ramirez_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-083-p2s4w2">
 <src.rf>manual</src.rf>
@@ -272,8 +272,8 @@
 </w.rf>
 <form>Paolo</form>
 <tag>
-<AM lemma="Paolo_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paolo_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Paolo_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paolo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-083-p3s1w4">
@@ -282,7 +282,7 @@
 <LM>w#w-mf930702-083-p3s1w4</LM>
 </w.rf>
 <form>Futre</form>
-<tag lemma="Futre_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Futre_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-083-p3s1w5">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 </w.rf>
 <form>Olympique</form>
 <tag>
-<AM lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Olympique-1_;m_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Olympique-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

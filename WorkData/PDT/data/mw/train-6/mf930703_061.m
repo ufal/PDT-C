@@ -1182,7 +1182,7 @@
 <LM>w#w-mf930703-061-p1s5w26</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFSXFS3-------</tag>
+<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
 </m>
 <m id="m-mf930703-061-p1s5w27">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-mf930703-061-p1s5w29</LM>
 </w.rf>
 <form>Kolíbal</form>
-<tag lemma="Kolíbal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolíbal_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-061-p1s5w30">
 <src.rf>manual</src.rf>

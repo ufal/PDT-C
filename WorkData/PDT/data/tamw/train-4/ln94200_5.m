@@ -297,7 +297,7 @@
 <LM>w#w-ln94200-5-p2s1w32</LM>
 </w.rf>
 <form>Claira</form>
-<tag lemma="Clair-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Clair-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-5-p2s1w33">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-ln94200-5-p3s1w18</LM>
 </w.rf>
 <form>Matrase</form>
-<tag lemma="Matras_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Matras_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s1w19">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94200-5-p3s1w26</LM>
 </w.rf>
 <form>Parise</form>
-<tag lemma="Paris_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Paris_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s1w27">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-ln94200-5-p3s1w44</LM>
 </w.rf>
 <form>Cassela</form>
-<tag lemma="Cassel_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cassel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s1w45">
 <src.rf>manual</src.rf>
@@ -729,8 +729,8 @@
 </w.rf>
 <form>dk</form>
 <tag>
-<AM lemma="dk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="dk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-5-p3s2w3">
@@ -755,7 +755,7 @@
 <LM>w#w-ln94200-5-p3s2w5</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s2w6">
 <src.rf>manual</src.rf>

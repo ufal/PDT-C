@@ -35,7 +35,7 @@
 <LM>w#w-ln94204-54-p1s1w3</LM>
 </w.rf>
 <form>Skubiszewski</form>
-<tag lemma="Skubiszewski_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skubiszewski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-54-p2s1A">
@@ -161,7 +161,7 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-54-p2s1Bw14">
@@ -178,7 +178,7 @@
 <LM>w#w-ln94204-54-p2s1Bw15</LM>
 </w.rf>
 <form>Havla</form>
-<tag lemma="Havel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Havel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-54-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-ln94204-54-p2s1Bw22</LM>
 </w.rf>
 <form>Skubiszewským</form>
-<tag lemma="Skubiszewský_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Skubiszewský_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-54-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln94204-54-p2s2w6</LM>
 </w.rf>
 <form>Špaček</form>
-<tag lemma="Špaček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špaček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-54-p2s2w7">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="L-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-54-p2s4w26">
@@ -814,7 +814,7 @@
 <LM>w#w-ln94204-54-p2s4w27</LM>
 </w.rf>
 <form>Špaček</form>
-<tag lemma="Špaček_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Špaček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-54-p2s4w28">
 <src.rf>manual</src.rf>

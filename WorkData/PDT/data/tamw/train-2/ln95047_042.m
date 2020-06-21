@@ -121,7 +121,7 @@
 <LM>w#w-ln95047-042-p2s1w8</LM>
 </w.rf>
 <form>Pelikán</form>
-<tag lemma="Pelikán_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pelikán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-042-p2s2">
@@ -4174,8 +4174,8 @@
 </w.rf>
 <form>d</form>
 <tag>
-<AM lemma="d-33_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="d-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="d-33" src="orig">Q3-------------</AM>
+<AM lemma="d-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-042-p6s1w34">

@@ -54,8 +54,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-073-p2s1w3">
@@ -342,7 +342,7 @@
 </w.rf>
 <form>FS</form>
 <tag>
-<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS_:B_;m_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="FS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -581,7 +581,7 @@
 <LM>w#w-lnd91303-073-p3s2w21</LM>
 </w.rf>
 <form>Havlíčkovo</form>
-<tag lemma="Havlíčkův_;S_^(*3ek)" src="auto" selected="1">AUNS4M---------</tag>
+<tag lemma="Havlíčkův_;Y_^(*3ek)" src="auto" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-lnd91303-073-p3s2w22">
 <src.rf>manual</src.rf>
@@ -2181,7 +2181,7 @@
 <LM>w#w-lnd91303-073-p6s1w4</LM>
 </w.rf>
 <form>VLČKOVÉ</form>
-<tag lemma="Vlčková_;S" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vlčková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-073-p6s1w5">
 <src.rf>manual</src.rf>

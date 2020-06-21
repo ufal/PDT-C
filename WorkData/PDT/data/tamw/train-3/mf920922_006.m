@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-006-p1s1Aw1</LM>
 </w.rf>
 <form>Mercedesy</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -70,7 +70,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -131,10 +131,10 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
-<AM lemma="mas-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mas-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-006-p1s1Cw4">
@@ -194,7 +194,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -274,7 +274,7 @@
 <LM>w#w-mf920922-006-p1s1Dw14</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s1Dw15">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-mf920922-006-p1s1Dw16</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s1Dw17">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-mf920922-006-p1s1Dw18</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-33_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="D-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-mf920922-006-p1s1Dw19">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-mf920922-006-p1s4w30</LM>
 </w.rf>
 <form>Horák</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s4w31">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -896,8 +896,8 @@
 </w.rf>
 <form>mercedesů</form>
 <tag>
-<AM lemma="Mercedes-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-006-p1s5w3">
@@ -1031,7 +1031,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1692,7 +1692,7 @@
 <LM>w#w-mf920922-006-p1s12w19</LM>
 </w.rf>
 <form>Horák</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s12w20">
 <src.rf>manual</src.rf>
@@ -1727,7 +1727,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1762,8 +1762,8 @@
 </w.rf>
 <form>mercedesů</form>
 <tag>
-<AM lemma="Mercedes-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-006-p1s13w8">
@@ -1862,7 +1862,7 @@
 <LM>w#w-mf920922-006-p1s14w9</LM>
 </w.rf>
 <form>Fiaty</form>
-<tag lemma="Fiat_;K_;R" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s14w10">
 <src.rf>manual</src.rf>
@@ -1870,7 +1870,7 @@
 <LM>w#w-mf920922-006-p1s14w10</LM>
 </w.rf>
 <form>Ducato</form>
-<tag lemma="Ducato_;R_^(automobil_Fiat_Ducato)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Ducato_;m_^(automobil_Fiat_Ducato)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s14w11">
 <src.rf>manual</src.rf>
@@ -1903,7 +1903,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1971,7 +1971,7 @@
 <LM>w#w-mf920922-006-p1s15w6</LM>
 </w.rf>
 <form>Horáka</form>
-<tag lemma="Horák_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Horák_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s15w7">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 <LM>w#w-mf920922-006-p1s15w13</LM>
 </w.rf>
 <form>fiaty</form>
-<tag lemma="fiat-1_;R" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="fiat-1_;m" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s15w14">
 <src.rf>manual</src.rf>
@@ -2062,7 +2062,7 @@
 </w.rf>
 <form>ČSAD</form>
 <tag>
-<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -2088,7 +2088,7 @@
 <LM>w#w-mf920922-006-p1s16w6</LM>
 </w.rf>
 <form>Mercedes</form>
-<tag lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Mercedes-1_;m" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s16w7">
 <src.rf>manual</src.rf>
@@ -2104,7 +2104,7 @@
 <LM>w#w-mf920922-006-p1s16w8</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;K_;R_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-mf920922-006-p1s16w9">
 <src.rf>manual</src.rf>

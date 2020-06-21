@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-144-p1s1w1</LM>
 </w.rf>
 <form>Budínský</form>
-<tag lemma="Budínský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budínský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-144-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="li-99_:B_;Y" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-144-p2s1w4">
@@ -152,7 +152,7 @@
 <LM>w#w-mf930708-144-p2s1w11</LM>
 </w.rf>
 <form>Budínský</form>
-<tag lemma="Budínský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budínský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-144-p2s1w12">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 </w.rf>
 <form>ODS</form>
 <tag>
-<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -447,7 +447,7 @@
 <LM>w#w-mf930708-144-p2s3w1</LM>
 </w.rf>
 <form>Budínský</form>
-<tag lemma="Budínský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budínský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-144-p2s3w2">
 <src.rf>manual</src.rf>
@@ -570,9 +570,9 @@
 </w.rf>
 <form>Budínského</form>
 <tag>
-<AM lemma="Budínský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Budínský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="Budínský_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Budínský_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Budínský_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Budínský_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="budínský" src="auto">AAIS2----1A----</AM>
 <AM lemma="budínský" src="auto">AAMS2----1A----</AM>
 <AM lemma="budínský" src="auto">AAMS4----1A----</AM>
@@ -895,7 +895,7 @@
 <LM>w#w-mf930708-144-p3s2w33</LM>
 </w.rf>
 <form>Budínský</form>
-<tag lemma="Budínský_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budínský_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-144-p3s2w34">
 <src.rf>manual</src.rf>

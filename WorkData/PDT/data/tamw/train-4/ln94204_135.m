@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-135-p1s1w1</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-135-p1s1w2">
 <src.rf>manual</src.rf>
@@ -120,8 +120,8 @@
 </w.rf>
 <form>ljď</form>
 <tag>
-<AM lemma="ljď-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ljď-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ljď-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ljď-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-135-p2s1Aw4">
@@ -245,7 +245,7 @@
 </w.rf>
 <form>FVT</form>
 <tag>
-<AM lemma="FVT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FVT_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="FVT-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -306,7 +306,7 @@
 <LM>w#w-ln94204-135-p2s1Bw20</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-135-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-ln94204-135-p2s1Bw22</LM>
 </w.rf>
 <form>Železný</form>
-<tag lemma="Železný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Železný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-135-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94204-135-p3s2w4</LM>
 </w.rf>
 <form>Novy</form>
-<tag lemma="Nova_;K_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-135-p3s2w5">
 <src.rf>manual</src.rf>
@@ -519,8 +519,8 @@
 </w.rf>
 <form>LN</form>
 <tag>
-<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-135-p3s2w8">
@@ -766,7 +766,7 @@
 <LM>w#w-ln94204-135-p3s3w11</LM>
 </w.rf>
 <form>Železný</form>
-<tag lemma="Železný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Železný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-135-p3s3w12">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-ln94204-135-p3s4w7</LM>
 </w.rf>
 <form>Železný</form>
-<tag lemma="Železný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Železný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-135-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln94204-135-p3s5w32</LM>
 </w.rf>
 <form>Železný</form>
-<tag lemma="Železný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Železný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-135-p3s5w33">
 <src.rf>manual</src.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-ln94204-135-p3s7w15</LM>
 </w.rf>
 <form>Železný</form>
-<tag lemma="Železný_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Železný_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-135-p3s7w16">
 <src.rf>manual</src.rf>

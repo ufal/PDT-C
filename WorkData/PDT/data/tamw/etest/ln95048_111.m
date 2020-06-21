@@ -35,7 +35,7 @@
 <LM>w#w-ln95048-111-p1s1w3</LM>
 </w.rf>
 <form>Stalina</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-111-p2s1">
@@ -168,7 +168,7 @@
 <LM>w#w-ln95048-111-p2s1w16</LM>
 </w.rf>
 <form>Stalina</form>
-<tag lemma="Stalin_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Stalin_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-111-p2s1w17">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln95048-111-p2s3w17</LM>
 </w.rf>
 <form>Lenina</form>
-<tag lemma="Lenin-2_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lenin-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-111-p2s3w18">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-ln95048-111-p2s5w22</LM>
 </w.rf>
 <form>Stalinovu</form>
-<tag lemma="Stalinův_;S_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Stalinův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95048-111-p2s5w23">
 <src.rf>manual</src.rf>

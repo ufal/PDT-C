@@ -200,7 +200,7 @@
 <LM>w#w-mf930701-170-p1s1w23</LM>
 </w.rf>
 <form>Roosevelt</form>
-<tag lemma="Roosevelt_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roosevelt_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-170-p1s1w24">
 <src.rf>manual</src.rf>

@@ -263,7 +263,7 @@
 <LM>w#w-ln95043-058-p2s1Bw22</LM>
 </w.rf>
 <form>Škoda</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-058-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 </w.rf>
 <form>Garde</form>
 <tag>
-<AM lemma="Garde_;R" src="orig">NNNXX-----A----</AM>
+<AM lemma="Garde_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="gard" src="auto">NNIS5-----A----</AM>
 <AM lemma="gard" src="auto">NNIS6-----A----</AM>
 <AM lemma="garde" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
@@ -833,7 +833,7 @@
 <form>Vitiška</form>
 <tag>
 <AM lemma="Vitiška_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Vitiška_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vitiška_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Vitiška-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

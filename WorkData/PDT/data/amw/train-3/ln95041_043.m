@@ -27,7 +27,7 @@
 <LM>w#w-ln95041-043-p1s1w2</LM>
 </w.rf>
 <form>Charypar</form>
-<tag lemma="Charypar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Charypar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-043-p1s1w3">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 <form>Bubo</form>
 <tag>
 <AM lemma="bubo_;U" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bubo_;K" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bubo_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-043-p1s1w22">
@@ -235,7 +235,7 @@
 <LM>w#w-ln95041-043-p1s2w5</LM>
 </w.rf>
 <form>Babaletu</form>
-<tag lemma="Babalet_;K" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Babalet_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95041-043-p1s2w6">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln95041-043-p1s2w13</LM>
 </w.rf>
 <form>Marsyas</form>
-<tag lemma="Marsyas_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Marsyas_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-043-p1s2w14">
 <src.rf>manual</src.rf>

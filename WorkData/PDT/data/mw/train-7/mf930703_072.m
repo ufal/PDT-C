@@ -78,7 +78,7 @@
 </w.rf>
 <form>km</form>
 <tag>
-<AM lemma="km-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="km-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 </tag>
 </m>
@@ -373,7 +373,7 @@
 </w.rf>
 <form>Narodowy</form>
 <tag>
-<AM lemma="Narodowy_;K_,t" src="orig">AAIS1----1A----</AM>
+<AM lemma="Narodowy_;m_,t" src="orig">AAIS1----1A----</AM>
 <AM lemma="Narodowy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -384,7 +384,7 @@
 </w.rf>
 <form>Bank</form>
 <tag>
-<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Bank-1_;m_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -395,7 +395,7 @@
 </w.rf>
 <form>Polski</form>
 <tag>
-<AM lemma="Polski_;K_,t" src="orig">AAIS1----1A----</AM>
+<AM lemma="Polski_;m_,t" src="orig">AAIS1----1A----</AM>
 <AM lemma="Polski-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -466,12 +466,12 @@
 <form>Pol</form>
 <tag>
 <AM lemma="Pol-2" src="orig">NNNXX-----A----</AM>
-<AM lemma="Pol_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pol_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Pol_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Pola_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Polo_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Polo_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="politický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="polohový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="polovina_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="poloviční_:B" src="auto">AAXXX----1A---8</AM>
@@ -540,7 +540,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP5-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A----</AM>
-<AM lemma="če-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="če-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="če_,i" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1036,7 +1036,7 @@
 </w.rf>
 <form>MF</form>
 <tag>
-<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-1_:B_;m_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1452,7 +1452,7 @@
 <LM>w#w-mf930703-072-p2s9w7</LM>
 </w.rf>
 <form>Švehla</form>
-<tag lemma="Švehla_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Švehla_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-072-p2s9w8">
 <src.rf>manual</src.rf>

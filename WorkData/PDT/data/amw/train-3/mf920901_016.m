@@ -72,7 +72,7 @@
 <form>SMUTNÉHO</form>
 <tag>
 <AM lemma="smutný" src="orig">AAMS2----1A----</AM>
-<AM lemma="Smutný_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Smutný_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-016-p1s1w8">
@@ -137,7 +137,7 @@
 <LM>w#w-mf920901-016-p1s1w15</LM>
 </w.rf>
 <form>ŠKODA</form>
-<tag lemma="Škoda-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Škoda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-016-p1s1w16">
 <src.rf>manual</src.rf>
