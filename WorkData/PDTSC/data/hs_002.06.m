@@ -61,23 +61,23 @@
 <LM>w#w-1226-1230</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m002-1226-1230-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m002-1226-1230-sw1">
 <w.rf>
 <LM>w#w-1226-1230</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m002-1226-1230-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m002-1226-1230-sw2">
 <w.rf>
 <LM>w#w-1226-1230</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 </s>
 <s id="m002-836">
 <m id="m002-836-918">
@@ -1174,6 +1174,7 @@
 <AM lemma="šest`6" src="auto">Cn-S1----------</AM>
 <AM lemma="šest`6" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="šest`6" src="auto">Cn-S5----------</AM>
+<AM lemma="šest`6" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m002-d1t1698-5">

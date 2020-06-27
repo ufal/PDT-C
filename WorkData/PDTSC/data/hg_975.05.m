@@ -3759,6 +3759,7 @@
 <AM lemma="devět`9" src="auto">Cn-S1----------</AM>
 <AM lemma="devět`9" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="devět`9" src="auto">Cn-S5----------</AM>
+<AM lemma="devět`9" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m975-id66701-9">

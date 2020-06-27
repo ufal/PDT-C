@@ -2630,6 +2630,7 @@
 <AM lemma="pět-1`5" src="auto" recommended="1">Cn-S1----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S4----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S5----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S1----------</AM>
 </tag>
 </m>
 <m id="m136-d1t2425-2">
@@ -2647,6 +2648,7 @@
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-2`100" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m136-d1t2425-3">

@@ -170,9 +170,10 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP1----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP2----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP3----------</AM>
-<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto" selected="1">ClXP4----------</AM>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m061-d1t3207-6">
@@ -1852,23 +1853,23 @@
 <LM>w#w-d1e3304-x2-316</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-d1e3304-x2-316-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-d1e3304-x2-316-sw1">
 <w.rf>
 <LM>w#w-d1e3304-x2-316</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-d1e3304-x2-316-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-d1e3304-x2-316-sw2">
 <w.rf>
 <LM>w#w-d1e3304-x2-316</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 </s>
 <s id="m061-d1e3329-x2">
 <m id="m061-d1t3336-1">
@@ -3111,23 +3112,23 @@
 <LM>w#w-d1e3398-x2-547</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-d1e3398-x2-547-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-d1e3398-x2-547-sw1">
 <w.rf>
 <LM>w#w-d1e3398-x2-547</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-d1e3398-x2-547-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-d1e3398-x2-547-sw2">
 <w.rf>
 <LM>w#w-d1e3398-x2-547</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 </s>
 <s id="m061-d1e3421-x3">
 <m id="m061-d1t3418-17">
@@ -3603,23 +3604,23 @@
 <LM>w#w-552-556</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-552-556-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-552-556-sw1">
 <w.rf>
 <LM>w#w-552-556</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-552-556-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-552-556-sw2">
 <w.rf>
 <LM>w#w-552-556</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m061-552-557">
 <w.rf>
 <LM>w#w-552-557</LM>
@@ -3950,23 +3951,23 @@
 <LM>w#w-d1e3431-x3-515</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-d1e3431-x3-515-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-d1e3431-x3-515-sw1">
 <w.rf>
 <LM>w#w-d1e3431-x3-515</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-d1e3431-x3-515-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-d1e3431-x3-515-sw2">
 <w.rf>
 <LM>w#w-d1e3431-x3-515</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 </s>
 <s id="m061-493">
 <m id="m061-d1t3458-2">

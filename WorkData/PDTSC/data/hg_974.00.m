@@ -2595,6 +2595,7 @@
 <AM lemma="šest`6" src="auto">Cn-S1----------</AM>
 <AM lemma="šest`6" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="šest`6" src="auto">Cn-S5----------</AM>
+<AM lemma="šest`6" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m974-id58736-10">
@@ -2613,6 +2614,7 @@
 <AM lemma="sedm`7" src="auto">Cn-S1----------</AM>
 <AM lemma="sedm`7" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-S5----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m974-id58736-12">
@@ -2664,6 +2666,7 @@
 <AM lemma="padesát`50" src="auto">Cn-S1----------</AM>
 <AM lemma="padesát`50" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="padesát`50" src="auto">Cn-S5----------</AM>
+<AM lemma="padesát`50" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m974-id58330-x8-16743">
@@ -2688,6 +2691,7 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m974-id58746-4">
@@ -5772,7 +5776,7 @@
 <form_change>spell</form_change>
 <form>Samarkand</form>
 <tag>
-<AM lemma="Samarkand_;G" selected="1" src="auto">NNIS4-----A----</AM>
+<AM lemma="Samarkand_;G" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="Samarkand_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 </tag>
 </m>

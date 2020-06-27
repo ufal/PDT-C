@@ -5368,9 +5368,10 @@
 </w.rf>
 <form>čtyři</form>
 <tag>
-<AM lemma="čtyři`4" src="auto" selected="1">ClXP1----------</AM>
+<AM lemma="čtyři`4" src="auto">ClXP1----------</AM>
 <AM lemma="čtyři`4" src="auto" recommended="1">ClXP4----------</AM>
 <AM lemma="čtyři`4" src="auto">ClXP5----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P1----------</AM>
 </tag>
 </m>
 <m id="m141-d1t797-19">
@@ -5383,7 +5384,8 @@
 <AM lemma="sto-2`100" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNP5-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNS2-----A----</AM>
-<AM lemma="sto-1`100" src="manual" selected="1">ClXP1----------</AM>
+<AM lemma="sto-1`100" src="manual">ClXP1----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP1----------</AM>
 </tag>
 </m>
 <m id="m141-d1t797-20">

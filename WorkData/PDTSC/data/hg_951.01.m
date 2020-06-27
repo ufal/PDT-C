@@ -585,6 +585,7 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
 </tag>
 </m>
 <m id="m951-d1t534-10">
@@ -596,6 +597,7 @@
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
 <AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="manual" selected="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m951-d-id68497">
