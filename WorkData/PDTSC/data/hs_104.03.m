@@ -5205,7 +5205,7 @@
 </w.rf>
 <form>sto</form>
 <tag>
-<AM lemma="sto-2`100" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="sto-2`100" src="auto">NNNS1-----A----</AM>
 <AM lemma="sto-2`100" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNS5-----A----</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP1----------</AM>
@@ -5214,6 +5214,7 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
 </tag>
 </m>
 <m id="m104-939-998">

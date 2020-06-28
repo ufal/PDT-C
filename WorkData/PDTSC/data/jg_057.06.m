@@ -444,6 +444,7 @@
 <AM lemma="dva`2" src="auto">ClYP1----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnYP4----------</AM>
 </tag>
 </m>
 <m id="m057-d1t2138-13">
@@ -473,6 +474,7 @@
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
 <AM lemma="jíst_^(konzumovat_jídlo)" src="auto">VsYS---XX-AP---</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnYS1----------</AM>
 </tag>
 </m>
 <m id="m057-d1t2141-2">
@@ -596,6 +598,7 @@
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
 <AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="třít" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
 </tag>
 </m>
 <m id="m057-d1t2149-4">
@@ -608,7 +611,8 @@
 <AM lemma="sto-2`100" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNP5-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNS2-----A----</AM>
-<AM lemma="sto-1`100" src="manual" selected="1">ClXP4----------</AM>
+<AM lemma="sto-1`100" src="manual">ClXP4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
 </tag>
 </m>
 <m id="m057-d1t2149-5">

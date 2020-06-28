@@ -2440,6 +2440,7 @@
 <AM lemma="padesát`50" src="auto">Cn-P3----------</AM>
 <AM lemma="padesát`50" src="auto">Cn-P6----------</AM>
 <AM lemma="padesát`50" src="auto">Cn-P7----------</AM>
+<AM lemma="padesát`50" src="manual" selected="1">Cl-P2----------</AM>
 </tag>
 </m>
 <m id="m104-d1t1461-23">
@@ -2468,7 +2469,8 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
-<AM lemma="sto-1`100" src="manual" selected="1">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="manual">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m104-d1e1361-x12-144">
@@ -2561,6 +2563,7 @@
 <AM lemma="dvacet`20" src="auto">Cn-P3----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P6----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P7----------</AM>
+<AM lemma="dvacet`20" src="manual" selected="1">Cl-P2----------</AM>
 </tag>
 </m>
 <m id="m104-153-154">

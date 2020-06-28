@@ -718,6 +718,7 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m049-d1t2285-7">

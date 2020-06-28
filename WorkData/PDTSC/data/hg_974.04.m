@@ -3775,6 +3775,7 @@
 <AM lemma="dva`2" src="auto">ClHP1----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
 </tag>
 </m>
 <m id="m974-id64144-5">
@@ -3790,6 +3791,7 @@
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP3---------2</AM>
 <AM lemma="sto-1`100" src="auto">ClXP6---------2</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------2</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
 </tag>
 </m>
 <m id="m974-id64144-6">

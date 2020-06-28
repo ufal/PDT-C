@@ -3917,6 +3917,7 @@
 <AM lemma="osm`8" src="auto">Cn-S1----------</AM>
 <AM lemma="osm`8" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="osm`8" src="auto">Cn-S5----------</AM>
+<AM lemma="osm`8" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m052-d1t1442-12">
@@ -3929,11 +3930,12 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS1-----A----</AM>
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
-<AM lemma="sto-1`100" src="auto" selected="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="auto">ClXP2----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXP3---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-2`100" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m052-d1t1442-13">
