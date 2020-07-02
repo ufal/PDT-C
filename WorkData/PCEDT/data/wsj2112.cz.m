@@ -8634,13 +8634,14 @@
 <LM>w#w-wsj2112-001-p1s30W30</LM>
 </w.rf>
 <form>5</form>
-<tag>
-<AM lemma="5" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj2112-001-p1s30W30-Ta-sw1">
+<tag lemma="5" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2112-001-p1s30W30-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2112-001-p1s30W30</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>B</form>
 <tag>
 <AM lemma="B-33" src="auto" recommended="1">Q3-------------</AM>
@@ -8648,8 +8649,9 @@
 <AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
-<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2112-001-p1s30W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10467,6 +10469,7 @@
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj2112-001-p1s38W14-Ta">
@@ -10636,7 +10639,10 @@
 <LM>w#w-wsj2112-001-p1s38W26</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFP2----------</AM>
+</tag>
 </m>
 <m id="m-wsj2112-001-p1s38W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10716,9 +10722,10 @@
 </w.rf>
 <form>sedm</form>
 <tag>
-<AM lemma="sedm`7" src="auto" selected="1">Cn-S1----------</AM>
+<AM lemma="sedm`7" src="auto">Cn-S1----------</AM>
 <AM lemma="sedm`7" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-S5----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-S1----------</AM>
 </tag>
 </m>
 <m id="m-wsj2112-001-p1s38W34-Ta">
@@ -10770,11 +10777,12 @@
 </w.rf>
 <form>tři</form>
 <tag>
-<AM lemma="tři`3" src="auto" selected="1">ClXP1----------</AM>
+<AM lemma="tři`3" src="auto">ClXP1----------</AM>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP4----------</AM>
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
 <AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="třít" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P1----------</AM>
 </tag>
 </m>
 <m id="m-wsj2112-001-p1s38W38-Ta">
@@ -12269,6 +12277,7 @@
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
 </tag>
 </m>
 <m id="m-wsj2112-001-p1s44W32-Ta">

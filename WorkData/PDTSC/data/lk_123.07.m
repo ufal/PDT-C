@@ -1298,6 +1298,7 @@
 <AM lemma="osm`8" src="auto">Cn-S1----------</AM>
 <AM lemma="osm`8" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="osm`8" src="auto">Cn-S5----------</AM>
+<AM lemma="osm`8" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m123-d1t2301-3">
@@ -1384,6 +1385,7 @@
 <AM lemma="dva`2" src="auto">ClYP1----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnYP4----------</AM>
 </tag>
 </m>
 <m id="m123-d1t2312-4">
@@ -1838,7 +1840,8 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
-<AM lemma="sto-1`100" src="manual" selected="1">ClXS1----------</AM>
+<AM lemma="sto-1`100" src="manual">ClXS1----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
 </tag>
 </m>
 <m id="m123-d1t2334-10">

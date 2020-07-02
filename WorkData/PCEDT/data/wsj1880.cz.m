@@ -3390,6 +3390,7 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1880-001-p1s9W33-Ta">
@@ -3398,7 +3399,10 @@
 <LM>w#w-wsj1880-001-p1s9W33</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-wsj1880-001-p1s9W34-Ta">
 <src.rf>tagger-a</src.rf>

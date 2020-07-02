@@ -3145,6 +3145,7 @@
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0475-001-p1s10W23-Ta">
@@ -3157,6 +3158,7 @@
 <AM lemma="osmdesát`80" src="auto">Cn-S1----------</AM>
 <AM lemma="osmdesát`80" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="osmdesát`80" src="auto">Cn-S5----------</AM>
+<AM lemma="osmdesát`80" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0475-001-p1s10W24-Ta">

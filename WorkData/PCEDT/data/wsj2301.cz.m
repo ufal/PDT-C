@@ -275,9 +275,10 @@
 </w.rf>
 <form>pár</form>
 <tag>
-<AM lemma="pár-1" src="auto" selected="1">ClXXX----------</AM>
+<AM lemma="pár-1" src="auto">ClXXX----------</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-wsj2301-001-p1s0W21-Ta">
@@ -292,6 +293,7 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2301-001-p1s0W22-Ta">

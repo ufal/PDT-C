@@ -4376,6 +4376,7 @@
 <AM lemma="čtyři`4" src="auto" recommended="1">ClXP1----------</AM>
 <AM lemma="čtyři`4" src="auto">ClXP4----------</AM>
 <AM lemma="čtyři`4" src="auto">ClXP5----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P1----------</AM>
 </tag>
 </m>
 <m id="m015-d1t2363-7">
@@ -4571,6 +4572,7 @@
 <AM lemma="dva`2" src="auto" recommended="1">ClHP1----------</AM>
 <AM lemma="dva`2" src="auto">ClHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
 </tag>
 </m>
 <m id="m015-d1t2369-19">
@@ -4586,6 +4588,8 @@
 <AM lemma="sto-1`100" src="auto">ClXP3---------2</AM>
 <AM lemma="sto-1`100" src="auto">ClXP6---------2</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------2</AM>
+<AM lemma="sto-1`100" src="manual">CzNXX----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
 </tag>
 </m>
 <m id="m015-d1t2369-20">

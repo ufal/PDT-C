@@ -6500,6 +6500,7 @@
 <AM lemma="pár-1" src="auto" recommended="1">ClXXX----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-wsj1860-001-p1s23W6-Ta">
@@ -6508,7 +6509,10 @@
 <LM>w#w-wsj1860-001-p1s23W6</LM>
 </w.rf>
 <form>stech</form>
-<tag lemma="sto-1`100" src="auto" recommended="1">ClXP6----------</tag>
+<tag>
+<AM lemma="sto-1`100" src="auto" recommended="1">ClXP6----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP6----------</AM>
+</tag>
 </m>
 <m id="m-wsj1860-001-p1s23W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6526,6 +6530,7 @@
 <AM lemma="tisící" src="auto">CrMP6----------</AM>
 <AM lemma="tisící" src="auto">CrNP2----------</AM>
 <AM lemma="tisící" src="auto">CrNP6----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj1860-001-p1s23W8-Ta">

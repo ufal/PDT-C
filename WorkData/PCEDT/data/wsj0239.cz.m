@@ -2606,6 +2606,7 @@
 <AM lemma="pár-1" src="auto" recommended="1">ClXXX----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-wsj0239-001-p1s9W28-Ta">
@@ -2620,6 +2621,7 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0239-001-p1s9W29-Ta">
@@ -2659,6 +2661,7 @@
 <AM lemma="tisíc-1`1000" src="auto">ClXS7----------</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIS1-----A----</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIS4-----A----</AM>
+<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIXX----------</AM>
 </tag>
 </m>
 <m id="m-wsj0239-001-p1s9W32-Ta">
@@ -3671,12 +3674,14 @@
 <w.rf>
 <LM>w#w-wsj0239-001-p1s12W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Épinalu</form>
 <tag>
 <AM lemma="Épinal_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Épinal_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Épinal_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Épinal_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0239-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6967,11 +6972,13 @@
 <w.rf>
 <LM>w#w-wsj0239-001-p1s28W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>mně</form>
 <tag>
 <AM lemma="já" src="auto">PP-S3--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-S6--1-------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="já" src="auto" recommended="1">PP-S6--1-------</AM>
+</tag>
+</m>
 <m id="m-wsj0239-001-p1s28W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10942,10 +10949,10 @@
 <w.rf>
 <LM>w#w-wsj0239-001-p1s45W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jsme</form>
-<tag>
-<AM lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+</m>
 <m id="m-wsj0239-001-p1s45W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12131,12 +12138,14 @@
 <w.rf>
 <LM>w#w-wsj0239-001-p1s50W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Épinalu</form>
 <tag>
 <AM lemma="Épinal_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Épinal_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Épinal_;G" src="auto">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Épinal_;G" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0239-001-p1s50W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

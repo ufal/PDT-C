@@ -1408,6 +1408,7 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2011-001-p1s6W16-Ta">
@@ -1424,6 +1425,7 @@
 <AM lemma="tisíc-1`1000" src="auto">ClXS7----------</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIS1-----A----</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIS4-----A----</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
 </tag>
 </m>
 <m id="m-wsj2011-001-p1s6W17-Ta">

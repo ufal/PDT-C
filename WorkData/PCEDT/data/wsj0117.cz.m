@@ -1168,6 +1168,7 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0117-001-p1s2W30-Ta">
@@ -1176,7 +1177,10 @@
 <LM>w#w-wsj0117-001-p1s2W30</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
+</tag>
 </m>
 <m id="m-wsj0117-001-p1s2W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1451,7 +1455,10 @@
 <LM>w#w-wsj0117-001-p1s4W15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-wsj0117-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1471,10 +1478,11 @@
 </w.rf>
 <form>jeden</form>
 <tag>
-<AM lemma="jeden`1" src="auto" selected="1">ClIS4----------</AM>
+<AM lemma="jeden`1" src="auto">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
 <AM lemma="jíst" src="auto">VsYS----X-API--</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnIS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0117-001-p1s4W18-Ta">
@@ -2070,7 +2078,10 @@
 <LM>w#w-wsj0117-001-p1s6W11</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFP2----------</AM>
+</tag>
 </m>
 <m id="m-wsj0117-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2111,6 +2122,7 @@
 <AM lemma="miliarda`1000000000" src="auto">NNFP4-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP5-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0117-001-p1s6W16-Ta">
@@ -2177,6 +2189,7 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0117-001-p1s6W22-Ta">
@@ -2580,6 +2593,7 @@
 <AM lemma="dva`2" src="auto" recommended="1">ClHP1----------</AM>
 <AM lemma="dva`2" src="auto">ClHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0117-001-p1s8W4-Ta">
@@ -5037,6 +5051,7 @@
 <AM lemma="jeden`1" src="auto" recommended="1">ClFS2----------</AM>
 <AM lemma="jeden`1" src="auto">ClFS3----------</AM>
 <AM lemma="jeden`1" src="auto">ClFS6----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnFS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0117-001-p1s15W28-Ta">

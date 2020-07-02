@@ -10518,7 +10518,10 @@
 <LM>w#w-cmpr9416-002-p38s2w10</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="deset`10" src="orig">Cn-S4----------</AM>
+<AM lemma="deset`10" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-002-p38s2w11">
 <src.rf>manual</src.rf>
@@ -10534,7 +10537,10 @@
 <LM>w#w-cmpr9416-002-p38s2w12</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-002-p38s2w13">
 <src.rf>manual</src.rf>
@@ -10558,7 +10564,10 @@
 <LM>w#w-cmpr9416-002-p38s2w15</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-002-p38s2w16">
 <src.rf>manual</src.rf>
@@ -10566,7 +10575,10 @@
 <LM>w#w-cmpr9416-002-p38s2w16</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-2`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-002-p38s2w17">
 <src.rf>manual</src.rf>
@@ -10574,7 +10586,10 @@
 <LM>w#w-cmpr9416-002-p38s2w17</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-002-p38s2w18">
 <src.rf>manual</src.rf>

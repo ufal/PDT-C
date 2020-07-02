@@ -6848,6 +6848,7 @@
 <AM lemma="devět`9" src="auto" recommended="1">Cn-S1----------</AM>
 <AM lemma="devět`9" src="auto">Cn-S4----------</AM>
 <AM lemma="devět`9" src="auto">Cn-S5----------</AM>
+<AM lemma="devět`9" src="manual" selected="1">Cl-S1----------</AM>
 </tag>
 </m>
 <m id="m-wsj2100-001-p1s20W10-Ta">
@@ -6862,6 +6863,7 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2100-001-p1s20W11-Ta">

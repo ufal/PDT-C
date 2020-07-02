@@ -1057,21 +1057,22 @@
 <LM>w#w-wsj0998-001-p1s4W2</LM>
 </w.rf>
 <form>32</form>
-<tag>
-<AM lemma="32" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="32" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0998-001-p1s4W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0998-001-p1s4W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akrového</form>
 <tag>
 <AM lemma="akrový" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="akrový" src="auto">AAMS2----1A----</AM>
 <AM lemma="akrový" src="auto">AAMS4----1A----</AM>
-<AM lemma="akrový" src="auto">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akrový" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0998-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1424,12 +1425,14 @@
 <w.rf>
 <LM>w#w-wsj0998-001-p1s5W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Connecticutu</form>
 <tag>
 <AM lemma="Connecticut_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Connecticut_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0998-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4098,7 +4101,10 @@
 <LM>w#w-wsj0998-001-p1s15W34</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-wsj0998-001-p1s15W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4776,9 +4782,10 @@
 <AM lemma="sto-1`100" src="auto">ClXP4---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
-<AM lemma="sto-1`100" src="auto" selected="1">ClXS1----------</AM>
+<AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0998-001-p1s17W22-Ta">
@@ -5080,6 +5087,7 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP4-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0998-001-p1s19W5-Ta">

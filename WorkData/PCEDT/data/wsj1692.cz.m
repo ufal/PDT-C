@@ -4341,7 +4341,10 @@
 <LM>w#w-wsj1692-001-p1s9W7</LM>
 </w.rf>
 <form>jednu</form>
-<tag lemma="jeden`1" src="auto" recommended="1">ClFS4----------</tag>
+<tag>
+<AM lemma="jeden`1" src="auto" recommended="1">ClFS4----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnFS4----------</AM>
+</tag>
 </m>
 <m id="m-wsj1692-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4386,6 +4389,7 @@
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1692-001-p1s9W12-Ta">

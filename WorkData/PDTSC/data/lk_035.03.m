@@ -2240,6 +2240,7 @@
 <AM lemma="deset`10" src="auto" recommended="1">Cn-S1----------</AM>
 <AM lemma="deset`10" src="auto">Cn-S4----------</AM>
 <AM lemma="deset`10" src="auto">Cn-S5----------</AM>
+<AM lemma="deset`10" src="manual" selected="1">Cl-S1----------</AM>
 </tag>
 </m>
 <m id="m035-d1t1263-7">
@@ -2293,8 +2294,9 @@
 <form>dvě</form>
 <tag>
 <AM lemma="dva`2" src="auto" recommended="1">ClHP1----------</AM>
-<AM lemma="dva`2" src="auto" selected="1">ClHP4----------</AM>
+<AM lemma="dva`2" src="auto">ClHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
 </tag>
 </m>
 <m id="m035-d1t1272-10">
@@ -2305,11 +2307,12 @@
 <tag>
 <AM lemma="sto-2`100" src="auto" recommended="1">NNNP1-----A---1</AM>
 <AM lemma="sto-2`100" src="auto">NNNP2-----A---1</AM>
-<AM lemma="sto-2`100" src="auto" selected="1">NNNP4-----A---1</AM>
+<AM lemma="sto-2`100" src="auto">NNNP4-----A---1</AM>
 <AM lemma="sto-2`100" src="auto">NNNP5-----A---1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP3---------2</AM>
 <AM lemma="sto-1`100" src="auto">ClXP6---------2</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------2</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
 </tag>
 </m>
 <m id="m035-d1t1283-1">

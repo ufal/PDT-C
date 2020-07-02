@@ -1291,6 +1291,7 @@
 <AM lemma="dvanáct`12" src="auto">Cn-S1----------</AM>
 <AM lemma="dvanáct`12" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="dvanáct`12" src="auto">Cn-S5----------</AM>
+<AM lemma="dvanáct`12" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m-wsj2034-001-p1s4W10-Ta">
@@ -1304,7 +1305,8 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS1-----A----</AM>
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="sto-1`100" src="auto" selected="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="auto">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2034-001-p1s4W11-Ta">
@@ -14145,10 +14147,10 @@
 <w.rf>
 <LM>w#w-wsj2034-001-p1s44W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>ohledech</form>
-<tag>
-<AM lemma="ohled" src="auto" recommended="1">NNIP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="ohled" src="auto" recommended="1">NNIP6-----A----</tag>
+</m>
 <m id="m-wsj2034-001-p1s44W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

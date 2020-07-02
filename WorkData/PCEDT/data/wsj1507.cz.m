@@ -595,12 +595,13 @@
 <AM lemma="sto-1`100" src="auto">ClXP1---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP2---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP3---------1</AM>
-<AM lemma="sto-1`100" src="auto" selected="1">ClXP4---------1</AM>
+<AM lemma="sto-1`100" src="auto">ClXP4---------1</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1507-001-p1s1W19-Ta">
@@ -3028,13 +3029,14 @@
 <LM>w#w-wsj1507-001-p1s11W16</LM>
 </w.rf>
 <form>120</form>
-<tag>
-<AM lemma="120" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1507-001-p1s11W16-Ta-sw1">
+<tag lemma="120" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1507-001-p1s11W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1507-001-p1s11W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>denní</form>
 <tag>
 <AM lemma="denní" src="auto">AAFP1----1A----</AM>
@@ -3063,8 +3065,9 @@
 <AM lemma="denní" src="auto">AANP5----1A----</AM>
 <AM lemma="denní" src="auto">AANS1----1A----</AM>
 <AM lemma="denní" src="auto">AANS4----1A----</AM>
-<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="denní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1507-001-p1s11W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

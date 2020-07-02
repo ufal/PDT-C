@@ -3476,6 +3476,7 @@
 <AM lemma="čtyři`4" src="auto">ClXP1----------</AM>
 <AM lemma="čtyři`4" src="auto" recommended="1">ClXP4----------</AM>
 <AM lemma="čtyři`4" src="auto">ClXP5----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1057-001-p1s14W13-Ta">
@@ -3586,7 +3587,10 @@
 <LM>w#w-wsj1057-001-p1s14W21</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFP2----------</AM>
+</tag>
 </m>
 <m id="m-wsj1057-001-p1s14W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3809,7 +3813,10 @@
 <LM>w#w-wsj1057-001-p1s15W7</LM>
 </w.rf>
 <form>čtyř</form>
-<tag lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-wsj1057-001-p1s15W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3967,6 +3974,7 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1057-001-p1s15W21-Ta">

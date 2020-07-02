@@ -1938,6 +1938,7 @@
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1567-001-p1s7W9-Ta">
@@ -1946,7 +1947,10 @@
 <LM>w#w-wsj1567-001-p1s7W9</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFP2----------</AM>
+</tag>
 </m>
 <m id="m-wsj1567-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7271,6 +7275,7 @@
 <w.rf>
 <LM>w#w-wsj1567-001-p1s22W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>plánování</form>
 <tag>
 <AM lemma="plánování_^(*3at)" src="auto">NNNP1-----A----</AM>
@@ -7282,8 +7287,9 @@
 <AM lemma="plánování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="plánování_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="plánování_^(*3at)" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1567-001-p1s22W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

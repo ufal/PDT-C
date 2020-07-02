@@ -2562,6 +2562,7 @@
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXS1----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0214-001-p1s10W2-Ta">
@@ -2571,9 +2572,10 @@
 </w.rf>
 <form>devadesát</form>
 <tag>
-<AM lemma="devadesát`90" src="auto" selected="1">Cn-S1----------</AM>
+<AM lemma="devadesát`90" src="auto">Cn-S1----------</AM>
 <AM lemma="devadesát`90" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="devadesát`90" src="auto">Cn-S5----------</AM>
+<AM lemma="devadesát`90" src="manual" selected="1">Cl-S1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0214-001-p1s10W3-Ta">
@@ -2586,6 +2588,7 @@
 <AM lemma="dva`2" src="auto" recommended="1">ClYP1----------</AM>
 <AM lemma="dva`2" src="auto">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnYP1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0214-001-p1s10W4-Ta">

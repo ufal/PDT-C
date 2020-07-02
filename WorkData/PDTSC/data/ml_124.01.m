@@ -102,6 +102,7 @@
 <AM lemma="oba`2" src="auto" recommended="1">ClYP1----------</AM>
 <AM lemma="oba`2" src="auto">ClYP4----------</AM>
 <AM lemma="oba`2" src="auto">ClYP5----------</AM>
+<AM lemma="oba`2" src="manual" selected="1">CnYP1----------</AM>
 </tag>
 </m>
 <m id="m124-d1t217-2">
@@ -545,7 +546,8 @@
 <AM lemma="pár-1" src="auto">ClXS4----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXXX----------</AM>
+<AM lemma="pár-1" src="manual">ClXXX----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m124-d1t225-4">
@@ -604,7 +606,8 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
-<AM lemma="sto-1`100" src="manual" selected="1">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="manual">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m124-d-m-d1e201-x3-punct-punct">

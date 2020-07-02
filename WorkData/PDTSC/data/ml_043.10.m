@@ -1095,7 +1095,8 @@
 <AM lemma="pár-1" src="auto">ClXS4----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXXX----------</AM>
+<AM lemma="pár-1" src="manual">ClXXX----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m043-d1t3289-7">
@@ -1442,6 +1443,7 @@
 <AM lemma="deset`10" src="auto">Cn-S1----------</AM>
 <AM lemma="deset`10" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="deset`10" src="auto">Cn-S5----------</AM>
+<AM lemma="deset`10" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m043-d1t3319-2">
@@ -1529,6 +1531,7 @@
 <AM lemma="deset`10" src="auto">Cn-S1----------</AM>
 <AM lemma="deset`10" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="deset`10" src="auto">Cn-S5----------</AM>
+<AM lemma="deset`10" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m043-d1t3331-2">
@@ -1614,6 +1617,7 @@
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
 <AM lemma="jíst_^(konzumovat_jídlo)" src="auto">VsYS---XX-AP---</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnIS4----------</AM>
 </tag>
 </m>
 <m id="m043-d1t3333-3">
@@ -1644,7 +1648,8 @@
 <AM lemma="půl-2" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="půl-2" src="auto">NNFS4-----A----</AM>
 <AM lemma="půl-3" src="auto">NNNXX-----A----</AM>
-<AM lemma="půl-1_^(*4olovina)" src="manual" selected="1">ClXS1----------</AM>
+<AM lemma="půl-1_^(*4olovina)" src="manual">ClXS1----------</AM>
+<AM lemma="půl-1" src="manual" selected="1">Cl-XX----------</AM>
 </tag>
 </m>
 <m id="m043-d1t3333-5">
@@ -1758,6 +1763,7 @@
 <AM lemma="sedm`7" src="auto">Cn-S1----------</AM>
 <AM lemma="sedm`7" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-S5----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m043-d1t3337-5">
@@ -1956,7 +1962,8 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
-<AM lemma="sto-1`100" src="manual" selected="1">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="manual">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m043-d1t3355-6">

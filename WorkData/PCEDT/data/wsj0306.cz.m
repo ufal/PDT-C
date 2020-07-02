@@ -448,6 +448,7 @@
 <AM lemma="za" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="za" src="auto">RR--4----------</AM>
 <AM lemma="za" src="auto">RR--7----------</AM>
+<AM lemma="za" src="manual" selected="1">RR--4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0306-001-p1s1W15-Ta">
@@ -481,8 +482,9 @@
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
-<AM lemma="sto-1`100" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0306-001-p1s1W17-Ta">
@@ -1762,6 +1764,7 @@
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
 <AM lemma="sto-1`100" src="auto" recommended="1">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0306-001-p1s5W13-Ta">
@@ -1910,7 +1913,7 @@
 <form>za</form>
 <tag>
 <AM lemma="za" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="za" src="auto">RR--4----------</AM>
+<AM lemma="za" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="za" src="auto">RR--7----------</AM>
 </tag>
 </m>
@@ -1945,9 +1948,10 @@
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
-<AM lemma="sto-1`100" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
 <AM lemma="sto-1`100" src="manual">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0306-001-p1s5W27-Ta">
@@ -2475,6 +2479,7 @@
 <AM lemma="sedm`7" src="auto">Cn-S1----------</AM>
 <AM lemma="sedm`7" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-S5----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-S4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0306-001-p1s6W32-Ta">
@@ -2609,6 +2614,7 @@
 <AM lemma="za" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="za" src="auto">RR--4----------</AM>
 <AM lemma="za" src="auto">RR--7----------</AM>
+<AM lemma="za" src="manual" selected="1">RR--4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0306-001-p1s6W43-Ta">
@@ -2642,8 +2648,9 @@
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
-<AM lemma="sto-1`100" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0306-001-p1s6W45-Ta">

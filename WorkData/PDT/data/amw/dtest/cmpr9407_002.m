@@ -8291,7 +8291,10 @@
 <LM>w#w-cmpr9407-002-p21s2w3</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P7----------</tag>
+<tag>
+<AM lemma="osm`8" src="orig">Cn-P7----------</AM>
+<AM lemma="osm`8" src="manual" selected="1">Cl-P7----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-002-p21s2w4">
 <src.rf>manual</src.rf>
@@ -8363,7 +8366,10 @@
 <LM>w#w-cmpr9407-002-p21s2w12</LM>
 </w.rf>
 <form>osm</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="osm`8" src="orig">Cn-S4----------</AM>
+<AM lemma="osm`8" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-002-p21s2w13">
 <src.rf>manual</src.rf>
@@ -8440,7 +8446,10 @@
 <LM>w#w-cmpr9407-002-p21s3w7</LM>
 </w.rf>
 <form>čtyřiceti</form>
-<tag lemma="čtyřicet`40" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="čtyřicet`40" src="orig">Cn-P2----------</AM>
+<AM lemma="čtyřicet`40" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w8">
 <src.rf>manual</src.rf>
@@ -8483,7 +8492,10 @@
 <LM>w#w-cmpr9407-002-p21s3w12</LM>
 </w.rf>
 <form>patnáct</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="patnáct`15" src="orig">Cn-S4----------</AM>
+<AM lemma="patnáct`15" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w13">
 <src.rf>manual</src.rf>
@@ -8523,7 +8535,10 @@
 <LM>w#w-cmpr9407-002-p21s3w17</LM>
 </w.rf>
 <form>osmdesát</form>
-<tag lemma="osmdesát`80" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="osmdesát`80" src="orig">Cn-S4----------</AM>
+<AM lemma="osmdesát`80" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w18">
 <src.rf>manual</src.rf>
@@ -8540,7 +8555,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-2`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w20">
 <src.rf>manual</src.rf>
@@ -8549,7 +8567,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dvacet</form>
-<tag lemma="dvacet`20" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="dvacet`20" src="orig">Cn-S4----------</AM>
+<AM lemma="dvacet`20" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w21">
 <src.rf>manual</src.rf>

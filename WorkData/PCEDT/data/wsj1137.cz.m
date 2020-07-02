@@ -11744,6 +11744,7 @@
 <AM lemma="dva`2" src="auto">ClFD7----------</AM>
 <AM lemma="dva`2" src="auto">ClXP3----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClXP7----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP7----------</AM>
 </tag>
 </m>
 <m id="m-wsj1137-001-p1s35W3-Ta">
@@ -11752,7 +11753,10 @@
 <LM>w#w-wsj1137-001-p1s35W3</LM>
 </w.rf>
 <form>sty</form>
-<tag lemma="sto-1`100" src="auto" recommended="1">ClXP7----------</tag>
+<tag>
+<AM lemma="sto-1`100" src="auto" recommended="1">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP7----------</AM>
+</tag>
 </m>
 <m id="m-wsj1137-001-p1s35W4-Ta">
 <src.rf>tagger-a</src.rf>
