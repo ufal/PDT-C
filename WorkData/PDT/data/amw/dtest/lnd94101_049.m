@@ -72,7 +72,8 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
-<AM lemma="tisíc`1000" src="manual" selected="1">CzIS4----------</AM>
+<AM lemma="tisíc`1000" src="manual">CzIS4----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-049-p1s1w8">

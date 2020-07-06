@@ -164,7 +164,8 @@
 <form>Tis</form>
 <tag>
 <AM lemma="tisíc-2`1000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="tisíc" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="tisíc" src="manual">NNIXX-----A---8</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-045-p5s1w3">
@@ -424,7 +425,10 @@
 <LM>w#w-cmpr9416-045-p19s1w21</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP6----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP6----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-045-p19s1w22">
 <src.rf>manual</src.rf>
@@ -544,7 +548,10 @@
 <LM>w#w-cmpr9416-045-p19s1w36</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-045-p19s1w37">
 <src.rf>manual</src.rf>
@@ -781,7 +788,10 @@
 <LM>w#w-cmpr9416-045-p19s2w14</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-045-p19s2w15">
 <src.rf>manual</src.rf>
@@ -874,7 +884,10 @@
 <LM>w#w-cmpr9416-045-p19s3w9</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="orig">NNIS4-----A----</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIS4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-045-p19s3w10">
 <src.rf>manual</src.rf>
@@ -908,7 +921,8 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-045-p19s3w14">
@@ -933,7 +947,10 @@
 <LM>w#w-cmpr9416-045-p19s3w16</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-045-p19s3w17">
 <src.rf>manual</src.rf>
@@ -941,7 +958,10 @@
 <LM>w#w-cmpr9416-045-p19s3w17</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-045-p19s3w18">
 <src.rf>manual</src.rf>

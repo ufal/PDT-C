@@ -2277,8 +2277,8 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
-<AM lemma="tisíc`1000" src="manual">CzIXX----------</AM>
-<AM lemma="tisíc`1000" src="manual" selected="1">CzIS1----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+<AM lemma="tisíc`1000" src="manual">CzIS1----------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p4s4w49">
@@ -2368,7 +2368,8 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
-<AM lemma="tisíc`1000" src="manual" selected="1">CzIS1----------</AM>
+<AM lemma="tisíc`1000" src="manual">CzIS1----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p4s4w58">

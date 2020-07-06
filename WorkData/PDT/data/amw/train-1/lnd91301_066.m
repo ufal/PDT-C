@@ -431,7 +431,10 @@
 <LM>w#w-lnd91301-066-p3s3w8</LM>
 </w.rf>
 <form>sedmdesát</form>
-<tag lemma="sedmdesát`70" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="sedmdesát`70" src="orig">Cn-S4----------</AM>
+<AM lemma="sedmdesát`70" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-066-p3s3w9">
 <src.rf>manual</src.rf>
@@ -448,7 +451,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-066-p3s3w11">
 <src.rf>manual</src.rf>
@@ -457,7 +463,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dvacet</form>
-<tag lemma="dvacet`20" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="dvacet`20" src="orig">Cn-S1----------</AM>
+<AM lemma="dvacet`20" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-066-p3s3w12">
 <src.rf>manual</src.rf>

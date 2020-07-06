@@ -62,7 +62,10 @@
 <LM>w#w-cmpr9407-015-p3s1w2</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-015-p3s1w3">
 <src.rf>manual</src.rf>
@@ -128,7 +131,8 @@
 <form>FOR</form>
 <tag>
 <AM lemma="fórum" src="orig">NNNP2-----A----</AM>
-<AM lemma="FOR-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="FOR-77" src="manual">F%-------------</AM>
+<AM lemma="For-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p3s1w11">
@@ -372,7 +376,10 @@
 <LM>w#w-cmpr9407-015-p4s1Aw5</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP2----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-015-p4s1Aw6">
 <src.rf>manual</src.rf>
