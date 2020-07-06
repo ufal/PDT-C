@@ -457,7 +457,10 @@
 <LM>w#w-lnd91303-028-p4s3w4</LM>
 </w.rf>
 <form>sedmi</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="sedm`7" src="orig">Cn-P2----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-028-p4s3w5">
 <src.rf>manual</src.rf>
@@ -558,7 +561,10 @@
 <LM>w#w-lnd91303-028-p4s3w16</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-028-p4s3w17">
 <src.rf>manual</src.rf>
@@ -566,7 +572,10 @@
 <LM>w#w-lnd91303-028-p4s3w17</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-028-p4s3w18">
 <src.rf>manual</src.rf>

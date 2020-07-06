@@ -403,7 +403,10 @@
 <LM>w#w-mf920901-023-p2s2w20</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="pár-1" src="orig">ClXP2----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-mf920901-023-p2s2w21">
 <src.rf>manual</src.rf>
@@ -411,7 +414,10 @@
 <LM>w#w-mf920901-023-p2s2w21</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-mf920901-023-p2s2w22">
 <src.rf>manual</src.rf>

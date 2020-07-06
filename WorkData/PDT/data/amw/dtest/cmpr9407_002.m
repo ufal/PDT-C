@@ -8557,7 +8557,8 @@
 <form>sto</form>
 <tag>
 <AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
-<AM lemma="sto-2`100" src="manual" selected="1">CzNS4----------</AM>
+<AM lemma="sto-2`100" src="manual">CzNS4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-002-p21s3w20">

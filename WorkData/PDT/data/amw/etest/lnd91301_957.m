@@ -72,7 +72,11 @@
 <LM>w#w-lnd91301-957-p1s2w2</LM>
 </w.rf>
 <form>STO</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual">CzNS4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-957-p1s2w3">
 <src.rf>manual</src.rf>
@@ -96,7 +100,10 @@
 <LM>w#w-lnd91301-957-p1s2w5</LM>
 </w.rf>
 <form>MOC</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag>
+<AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig">Ca--X----------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-957-p1s2w6">
 <src.rf>manual</src.rf>

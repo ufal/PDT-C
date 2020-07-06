@@ -10602,7 +10602,8 @@
 <form>atd</form>
 <tag>
 <AM lemma="atd-1_:B_^(a_tak_dále)" src="auto" recommended="1">Db------------8</AM>
-<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual">Db-------------</AM>
+<AM lemma="atd_^(a_tak_dále)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2112-001-p1s38W23-Ta">

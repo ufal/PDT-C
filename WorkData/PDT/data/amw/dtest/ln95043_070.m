@@ -970,7 +970,10 @@
 <LM>w#w-ln95043-070-p5s1w15</LM>
 </w.rf>
 <form>šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="šest`6" src="orig">Cn-S1----------</AM>
+<AM lemma="šest`6" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-070-p5s1w16">
 <src.rf>manual</src.rf>
@@ -978,7 +981,10 @@
 <LM>w#w-ln95043-070-p5s1w16</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-070-p5s1w17">
 <src.rf>manual</src.rf>

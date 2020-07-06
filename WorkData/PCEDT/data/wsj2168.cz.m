@@ -1398,6 +1398,7 @@
 <AM lemma="dva`2" src="auto">ClYP1----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnYP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj2168-001-p1s4W25-Ta">
@@ -1424,6 +1425,7 @@
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
 <AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="třít" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
 </tag>
 </m>
 <m id="m-wsj2168-001-p1s4W27-Ta">

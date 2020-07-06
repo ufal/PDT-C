@@ -71,7 +71,10 @@
 <LM>w#w-ln95044-107-p2s1Bw3</LM>
 </w.rf>
 <form>dvěma</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP7----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP7----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-107-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -79,7 +82,10 @@
 <LM>w#w-ln95044-107-p2s1Bw4</LM>
 </w.rf>
 <form>sty</form>
-<tag lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP7----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-107-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -121,7 +127,8 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-107-p2s1Bw10">

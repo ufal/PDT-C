@@ -6025,13 +6025,13 @@
 </w.rf>
 <form>dalších</form>
 <tag>
-<AM lemma="další" src="auto" selected="1">AAFP2----1A----</AM>
+<AM lemma="další" src="auto">AAFP2----1A----</AM>
 <AM lemma="další" src="auto">AAFP6----1A----</AM>
 <AM lemma="další" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="další" src="auto">AAIP6----1A----</AM>
 <AM lemma="další" src="auto">AAMP2----1A----</AM>
 <AM lemma="další" src="auto">AAMP6----1A----</AM>
-<AM lemma="další" src="auto">AANP2----1A----</AM>
+<AM lemma="další" src="auto" selected="1">AANP2----1A----</AM>
 <AM lemma="další" src="auto">AANP6----1A----</AM>
 </tag>
 </m>

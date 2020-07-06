@@ -372,7 +372,10 @@
 <LM>w#w-ln95041-049-p2s3w6</LM>
 </w.rf>
 <form>třicet</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="třicet`30" src="orig">Cn-S1----------</AM>
+<AM lemma="třicet`30" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-049-p2s3w7">
 <src.rf>manual</src.rf>
@@ -380,7 +383,10 @@
 <LM>w#w-ln95041-049-p2s3w7</LM>
 </w.rf>
 <form>osm</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="osm`8" src="orig">Cn-S1----------</AM>
+<AM lemma="osm`8" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-049-p2s3w8">
 <src.rf>manual</src.rf>
@@ -404,7 +410,10 @@
 <LM>w#w-ln95041-049-p2s3w10</LM>
 </w.rf>
 <form>osmi</form>
-<tag lemma="osm`8" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="osm`8" src="orig">Cn-P2----------</AM>
+<AM lemma="osm`8" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-049-p2s3w11">
 <src.rf>manual</src.rf>
@@ -842,7 +851,10 @@
 <LM>w#w-ln95041-049-p2s6w3</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP1----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP1----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P1----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-049-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1012,7 +1024,10 @@
 <LM>w#w-ln95041-049-p2s7w1</LM>
 </w.rf>
 <form>Tisíc</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="orig">NNIS4-----A----</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIS4----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-049-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1020,7 +1035,10 @@
 <LM>w#w-ln95041-049-p2s7w2</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP4----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-049-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1028,7 +1046,10 @@
 <LM>w#w-ln95041-049-p2s7w3</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-049-p2s7w4">
 <src.rf>manual</src.rf>
