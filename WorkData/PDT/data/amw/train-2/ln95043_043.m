@@ -995,7 +995,8 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-043-p3s3w3">
@@ -1012,7 +1013,10 @@
 <LM>w#w-ln95043-043-p3s3w4</LM>
 </w.rf>
 <form>čtyřech</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP6----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClXP6----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1270,7 +1274,10 @@
 <LM>w#w-ln95043-043-p3s4w15</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p3s4w16">
 <src.rf>manual</src.rf>

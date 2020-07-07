@@ -1426,7 +1426,10 @@
 <LM>w#w-lnd94101-001-p1s6w8</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-001-p1s6w9">
 <src.rf>manual</src.rf>
@@ -2838,7 +2841,10 @@
 <LM>w#w-lnd94101-001-p1s17w9</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-001-p1s17w10">
 <src.rf>manual</src.rf>

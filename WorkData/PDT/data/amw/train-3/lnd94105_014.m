@@ -610,7 +610,10 @@
 <LM>w#w-lnd94105-014-p1s4w21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-014-p1s4w22">
 <src.rf>manual</src.rf>
@@ -626,7 +629,10 @@
 <LM>w#w-lnd94105-014-p1s4w23</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-014-p1s4w24">
 <src.rf>manual</src.rf>

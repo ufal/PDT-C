@@ -4466,7 +4466,10 @@
 <LM>w#w-vesm9212-002-p10s1w2</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClYP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnYP4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-002-p10s1w3">
 <src.rf>manual</src.rf>
@@ -4729,7 +4732,10 @@
 <LM>w#w-vesm9212-002-p10s2w2</LM>
 </w.rf>
 <form>jedna</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS1----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClFS1----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnFS1----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-002-p10s2w3">
 <src.rf>manual</src.rf>
@@ -4745,7 +4751,10 @@
 <LM>w#w-vesm9212-002-p10s2w4</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP2----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-002-p10s2w5">
 <src.rf>manual</src.rf>
@@ -5431,7 +5440,10 @@
 <LM>w#w-vesm9212-002-p10s5w34</LM>
 </w.rf>
 <form>milión</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIS4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-002-p10s5w35">
 <src.rf>manual</src.rf>
@@ -6160,7 +6172,10 @@
 <LM>w#w-vesm9212-002-p11s1w52</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-002-p11s1w53">
 <src.rf>manual</src.rf>
@@ -6168,7 +6183,10 @@
 <LM>w#w-vesm9212-002-p11s1w53</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-002-p11s1w54">
 <src.rf>manual</src.rf>

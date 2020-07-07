@@ -886,7 +886,10 @@
 <LM>w#w-lnd94101-114-p1s5w33</LM>
 </w.rf>
 <form>třech</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP6----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP6----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-114-p1s5w34">
 <src.rf>manual</src.rf>
@@ -894,7 +897,10 @@
 <LM>w#w-lnd94101-114-p1s5w34</LM>
 </w.rf>
 <form>stech</form>
-<tag lemma="sto-1`100_^(o_pěti_stech_mužích)" src="orig" selected="1">ClXP6---------1</tag>
+<tag>
+<AM lemma="sto-1`100_^(o_pěti_stech_mužích)" src="orig">ClXP6---------1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP6----------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-114-p1s5w35">
 <src.rf>manual</src.rf>

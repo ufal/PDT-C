@@ -534,7 +534,10 @@
 <LM>w#w-mf920924-064-p2s4w1</LM>
 </w.rf>
 <form>Dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClYP1----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnYP1----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-064-p2s4w2">
 <src.rf>manual</src.rf>
@@ -583,7 +586,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="auto" selected="1">Cn-P6----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="auto">Cn-P6----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-064-p2s4w8">
 <src.rf>manual</src.rf>
@@ -592,7 +598,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>stech</form>
-<tag lemma="sto-1`100_^(o_pěti_stech_mužích)" src="orig" selected="1">ClXP6---------1</tag>
+<tag>
+<AM lemma="sto-1`100_^(o_pěti_stech_mužích)" src="orig">ClXP6---------1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP6----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-064-p2s4w9">
 <src.rf>manual</src.rf>

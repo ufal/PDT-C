@@ -3516,7 +3516,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-021-p6s13w11">
@@ -3570,7 +3571,10 @@
 <LM>w#w-vesm9301-021-p7s1w3</LM>
 </w.rf>
 <form>třiceti</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-P6----------</tag>
+<tag>
+<AM lemma="třicet`30" src="orig">Cn-P6----------</AM>
+<AM lemma="třicet`30" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-021-p7s1w4">
 <src.rf>manual</src.rf>
@@ -3969,7 +3973,10 @@
 <LM>w#w-vesm9301-021-p7s3w2</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-021-p7s3w3">
 <src.rf>manual</src.rf>
@@ -3979,7 +3986,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-021-p7s3w4">
@@ -5672,7 +5680,10 @@
 <LM>w#w-vesm9301-021-p8s6w9</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-021-p8s6w10">
 <src.rf>manual</src.rf>
@@ -5680,7 +5691,10 @@
 <LM>w#w-vesm9301-021-p8s6w10</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-vesm9301-021-p8s6w11">
 <src.rf>manual</src.rf>

@@ -269,7 +269,10 @@
 <LM>w#w-ln95044-049-p2s2w3</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-049-p2s2w4">
 <src.rf>manual</src.rf>
@@ -515,7 +518,8 @@
 <AM lemma="UNESCO_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="UNESCO_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-049-p2s3w18">

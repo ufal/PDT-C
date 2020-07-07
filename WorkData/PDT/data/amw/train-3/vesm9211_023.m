@@ -1884,7 +1884,10 @@
 <LM>w#w-vesm9211-023-p5s1w10</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-023-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1892,7 +1895,10 @@
 <LM>w#w-vesm9211-023-p5s1w11</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-vesm9211-023-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1995,7 +2001,8 @@
 <form>r</form>
 <tag>
 <AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-023-p5s2w11">
@@ -8903,7 +8910,10 @@
 <LM>w#w-vesm9211-023-p17s3w25</LM>
 </w.rf>
 <form>čtyřech</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP6----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClXP6----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-023-p17s3w26">
 <src.rf>manual</src.rf>
@@ -8911,7 +8921,10 @@
 <LM>w#w-vesm9211-023-p17s3w26</LM>
 </w.rf>
 <form>stech</form>
-<tag lemma="sto-2`100_^(o_pěti_stech_mužů)" src="orig" selected="1">NNNP6-----A----</tag>
+<tag>
+<AM lemma="sto-2`100_^(o_pěti_stech_mužů)" src="orig">NNNP6-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP6----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-023-p17s3w27">
 <src.rf>manual</src.rf>

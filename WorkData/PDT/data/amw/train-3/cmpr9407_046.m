@@ -1802,7 +1802,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-046-p11s3w13">
@@ -3443,7 +3444,10 @@
 <LM>w#w-cmpr9407-046-p17s1w9</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-046-p17s1w10">
 <src.rf>manual</src.rf>
@@ -3451,7 +3455,10 @@
 <LM>w#w-cmpr9407-046-p17s1w10</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-046-p17s1w11">
 <src.rf>manual</src.rf>
@@ -3467,7 +3474,10 @@
 <LM>w#w-cmpr9407-046-p17s1w12</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP2----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-046-p17s1w13">
 <src.rf>manual</src.rf>
@@ -3475,7 +3485,10 @@
 <LM>w#w-cmpr9407-046-p17s1w13</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-046-p17s1w14">
 <src.rf>manual</src.rf>
@@ -3483,7 +3496,10 @@
 <LM>w#w-cmpr9407-046-p17s1w14</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-046-p17s1w15">
 <src.rf>manual</src.rf>
@@ -4545,7 +4561,10 @@
 <LM>w#w-cmpr9407-046-p19s3w7</LM>
 </w.rf>
 <form>obě</form>
-<tag lemma="oba`2" src="orig" selected="1">ClHP1----------</tag>
+<tag>
+<AM lemma="oba`2" src="orig">ClHP1----------</AM>
+<AM lemma="oba`2" src="manual" selected="1">CnHP1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-046-p19s3w8">
 <src.rf>manual</src.rf>
@@ -5535,7 +5554,10 @@
 <LM>w#w-cmpr9407-046-p21s3w27</LM>
 </w.rf>
 <form>padesáti</form>
-<tag lemma="padesát`50" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="padesát`50" src="orig">Cn-P2----------</AM>
+<AM lemma="padesát`50" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-046-p21s3w28">
 <src.rf>manual</src.rf>
@@ -5559,7 +5581,10 @@
 <LM>w#w-cmpr9407-046-p21s3w30</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="deset`10" src="orig">Cn-S4----------</AM>
+<AM lemma="deset`10" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-046-p21s3w31">
 <src.rf>manual</src.rf>

@@ -1315,7 +1315,10 @@
 <LM>w#w-ln95044-109-p4s3w5</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-109-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1323,7 +1326,10 @@
 <LM>w#w-ln95044-109-p4s3w6</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-109-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2046,7 +2052,10 @@
 <LM>w#w-ln95044-109-p5s4w9</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-109-p5s4w10">
 <src.rf>manual</src.rf>
@@ -2943,7 +2952,10 @@
 <LM>w#w-ln95044-109-p5s8w15</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-109-p5s8w16">
 <src.rf>manual</src.rf>
@@ -3077,7 +3089,10 @@
 <LM>w#w-ln95044-109-p5s8w31</LM>
 </w.rf>
 <form>deseti</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="deset`10" src="orig">Cn-P2----------</AM>
+<AM lemma="deset`10" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-109-p5s8w32">
 <src.rf>manual</src.rf>
@@ -3085,7 +3100,10 @@
 <LM>w#w-ln95044-109-p5s8w32</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-109-p5s8w33">
 <src.rf>manual</src.rf>
