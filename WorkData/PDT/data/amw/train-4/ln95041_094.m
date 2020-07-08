@@ -777,7 +777,10 @@
 <LM>w#w-ln95041-094-p2s5w27</LM>
 </w.rf>
 <form>sedmdesáti</form>
-<tag lemma="sedmdesát`70" src="orig" selected="1">Cn-P6----------</tag>
+<tag>
+<AM lemma="sedmdesát`70" src="orig">Cn-P6----------</AM>
+<AM lemma="sedmdesát`70" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-094-p2s5w28">
 <src.rf>manual</src.rf>
@@ -801,7 +804,10 @@
 <LM>w#w-ln95041-094-p2s5w30</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS2----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-094-p2s5w31">
 <src.rf>manual</src.rf>

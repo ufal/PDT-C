@@ -1665,7 +1665,10 @@
 <LM>w#w-cmpr9416-038-p11s3w3</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP6----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP6----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-038-p11s3w4">
 <src.rf>manual</src.rf>
@@ -1689,7 +1692,10 @@
 <LM>w#w-cmpr9416-038-p11s3w6</LM>
 </w.rf>
 <form>deseti</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="deset`10" src="orig">Cn-P2----------</AM>
+<AM lemma="deset`10" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-038-p11s3w7">
 <src.rf>manual</src.rf>

@@ -2204,7 +2204,10 @@
 <LM>w#w-vesm9303-031-p3s7w26</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-031-p3s7w27">
 <src.rf>manual</src.rf>
@@ -2212,7 +2215,10 @@
 <LM>w#w-vesm9303-031-p3s7w27</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-031-p3s7w28">
 <src.rf>manual</src.rf>
@@ -2308,7 +2314,10 @@
 <LM>w#w-vesm9303-031-p3s7w39</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-031-p3s7w40">
 <src.rf>manual</src.rf>

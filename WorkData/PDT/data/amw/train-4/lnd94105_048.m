@@ -101,7 +101,10 @@
 <LM>w#w-lnd94105-048-p1s2w3</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-048-p1s2w4">
 <src.rf>manual</src.rf>
@@ -111,7 +114,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-048-p1s2w5">
@@ -196,7 +200,10 @@
 <LM>w#w-lnd94105-048-p1s2w14</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="šest`6" src="orig">Cn-P2----------</AM>
+<AM lemma="šest`6" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-048-p1s2w15">
 <src.rf>manual</src.rf>

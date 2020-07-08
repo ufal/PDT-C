@@ -2134,7 +2134,10 @@
 <LM>w#w-ln95043-027-p3s9w8</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-027-p3s9w9">
 <src.rf>manual</src.rf>
@@ -2286,7 +2289,10 @@
 <LM>w#w-ln95043-027-p3s9w27</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="sedm`7" src="orig">Cn-S4----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-027-p3s9w28">
 <src.rf>manual</src.rf>
@@ -2384,7 +2390,10 @@
 <LM>w#w-ln95043-027-p3s10w10</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-027-p3s10w11">
 <src.rf>manual</src.rf>

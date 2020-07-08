@@ -784,7 +784,8 @@
 <form>pick</form>
 <tag>
 <AM lemma="pick" src="auto">A2--------A----</AM>
-<AM lemma="pick-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="pick-77" src="manual">F%-------------</AM>
+<AM lemma="pick" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s6w10">
@@ -803,7 +804,8 @@
 <form>up</form>
 <tag>
 <AM lemma="up_,t_^(pick-up)" src="orig">NNIS1-----A----</AM>
-<AM lemma="up-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="up-77" src="manual">F%-------------</AM>
+<AM lemma="up-1_^(make_up;pick_up)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s6w12">
@@ -990,7 +992,10 @@
 <LM>w#w-mf920923-032-p2s7w16</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="málo-3" src="orig">Dg-------2A----</AM>
+<AM lemma="méně" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1006,7 +1011,10 @@
 <LM>w#w-mf920923-032-p2s7w18</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1014,7 +1022,10 @@
 <LM>w#w-mf920923-032-p2s7w19</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s7w20">
 <src.rf>manual</src.rf>

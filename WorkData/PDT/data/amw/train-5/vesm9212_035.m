@@ -2909,7 +2909,10 @@
 <LM>w#w-vesm9212-035-p4s7w21</LM>
 </w.rf>
 <form>déle</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="orig">Dg-------2A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-035-p4s7w22">
 <src.rf>manual</src.rf>
@@ -2917,7 +2920,10 @@
 <LM>w#w-vesm9212-035-p4s7w22</LM>
 </w.rf>
 <form>jak</form>
-<tag lemma="jak-3" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="jak-3" src="orig">Db-------------</AM>
+<AM lemma="jak-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-035-p4s7w23">
 <src.rf>manual</src.rf>
@@ -2925,7 +2931,10 @@
 <LM>w#w-vesm9212-035-p4s7w23</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-035-p4s7w24">
 <src.rf>manual</src.rf>

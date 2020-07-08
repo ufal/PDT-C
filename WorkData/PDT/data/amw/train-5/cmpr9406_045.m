@@ -3638,7 +3638,10 @@
 <LM>w#w-cmpr9406-045-p18s2Bw6</LM>
 </w.rf>
 <form>třemi</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP7----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P7----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-045-p18s2Bw7">
 <src.rf>manual</src.rf>
@@ -3662,7 +3665,10 @@
 <LM>w#w-cmpr9406-045-p18s2Bw9</LM>
 </w.rf>
 <form>stopadesát</form>
-<tag lemma="stopadesát`150" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="stopadesát`150" src="orig">Cn-S4----------</AM>
+<AM lemma="stopadesát`150" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-045-p18s2Bw10">
 <src.rf>manual</src.rf>
@@ -3718,7 +3724,10 @@
 <LM>w#w-cmpr9406-045-p18s2Bw16</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="sedm`7" src="orig">Cn-S1----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-045-p18s2Bw17">
 <src.rf>manual</src.rf>
@@ -3726,7 +3735,10 @@
 <LM>w#w-cmpr9406-045-p18s2Bw17</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-045-p18s2Bw18">
 <src.rf>manual</src.rf>
@@ -3792,7 +3804,10 @@
 <LM>w#w-cmpr9406-045-p18s3w6</LM>
 </w.rf>
 <form>dvacet</form>
-<tag lemma="dvacet`20" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="dvacet`20" src="orig">Cn-S4----------</AM>
+<AM lemma="dvacet`20" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-045-p18s3w7">
 <src.rf>manual</src.rf>
@@ -3800,7 +3815,10 @@
 <LM>w#w-cmpr9406-045-p18s3w7</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-045-p18s3w8">
 <src.rf>manual</src.rf>

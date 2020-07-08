@@ -1084,7 +1084,10 @@
 <LM>w#w-mf920902-048-p3s3w9</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-mf920902-048-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1140,7 +1143,10 @@
 <LM>w#w-mf920902-048-p3s3w16</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP4----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
+</tag>
 </m>
 <m id="m-mf920902-048-p3s3w17">
 <src.rf>manual</src.rf>

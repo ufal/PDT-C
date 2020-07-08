@@ -2273,7 +2273,10 @@
 <LM>w#w-ln95043-095-p3s1w11</LM>
 </w.rf>
 <form>kW</form>
-<tag lemma="kW-1`kilowatt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kW-1`kilowatt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-ln95043-095-p3s1w12">
 <src.rf>manual</src.rf>
@@ -2321,7 +2324,10 @@
 <LM>w#w-ln95043-095-p3s1w17</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-095-p3s1w18">
 <src.rf>manual</src.rf>
@@ -2345,7 +2351,10 @@
 <LM>w#w-ln95043-095-p3s1w20</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-095-p3s1w21">
 <src.rf>manual</src.rf>
@@ -2401,7 +2410,10 @@
 <LM>w#w-ln95043-095-p3s1w27</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-ln95043-095-p3s1w28">
 <src.rf>manual</src.rf>
