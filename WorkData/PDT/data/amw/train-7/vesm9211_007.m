@@ -13061,7 +13061,10 @@
 <LM>w#w-vesm9211-007-p11s6w3</LM>
 </w.rf>
 <form>třemi</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP7----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P7----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-007-p11s6w4">
 <src.rf>manual</src.rf>
@@ -13069,7 +13072,10 @@
 <LM>w#w-vesm9211-007-p11s6w4</LM>
 </w.rf>
 <form>sty</form>
-<tag lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP7----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-007-p11s6w5">
 <src.rf>manual</src.rf>
@@ -13165,7 +13171,10 @@
 <LM>w#w-vesm9211-007-p11s6w16</LM>
 </w.rf>
 <form>čtyřicet</form>
-<tag lemma="čtyřicet`40" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="čtyřicet`40" src="orig">Cn-S1----------</AM>
+<AM lemma="čtyřicet`40" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-007-p11s6w17">
 <src.rf>manual</src.rf>
@@ -13173,7 +13182,10 @@
 <LM>w#w-vesm9211-007-p11s6w17</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-007-p11s6w18">
 <src.rf>manual</src.rf>
@@ -13205,7 +13217,10 @@
 <LM>w#w-vesm9211-007-p11s6w21</LM>
 </w.rf>
 <form>miliónu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIS2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-007-p11s6w22">
 <src.rf>manual</src.rf>
@@ -14829,7 +14844,10 @@
 <LM>w#w-vesm9211-007-p14s3w24</LM>
 </w.rf>
 <form>sty</form>
-<tag lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP7----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-007-p14s3w25">
 <src.rf>manual</src.rf>

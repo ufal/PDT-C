@@ -9855,7 +9855,10 @@
 <LM>w#w-vesm9301-006-p12s6w36</LM>
 </w.rf>
 <form>in</form>
-<tag lemma="in-1_,t_^(angl._v)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
+<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-006-p12s6w37">
 <src.rf>manual</src.rf>
@@ -9865,7 +9868,8 @@
 <form>vivo</form>
 <tag>
 <AM lemma="vivo_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="vivo" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="vivo" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="vivo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p12s6w38">
@@ -10110,7 +10114,10 @@
 <LM>w#w-vesm9301-006-p13s2w14</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-006-p13s2w15">
 <src.rf>manual</src.rf>

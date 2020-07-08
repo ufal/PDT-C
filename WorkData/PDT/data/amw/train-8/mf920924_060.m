@@ -204,7 +204,10 @@
 <LM>w#w-mf920924-060-p2s2w9</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s2w10">
 <src.rf>manual</src.rf>
@@ -212,7 +215,10 @@
 <LM>w#w-mf920924-060-p2s2w10</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s2w11">
 <src.rf>manual</src.rf>
@@ -766,7 +772,8 @@
 <form>ccm</form>
 <tag>
 <AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ccm_^(centimetr_krychlový)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s4w17">
@@ -1089,7 +1096,10 @@
 <LM>w#w-mf920924-060-p2s6w24</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s6w25">
 <src.rf>manual</src.rf>

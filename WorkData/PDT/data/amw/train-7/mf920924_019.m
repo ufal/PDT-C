@@ -4158,7 +4158,10 @@
 <LM>w#w-mf920924-019-p11s5w3</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-019-p11s5w4">
 <src.rf>manual</src.rf>
@@ -4182,7 +4185,10 @@
 <LM>w#w-mf920924-019-p11s5w6</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-019-p11s5w7">
 <src.rf>manual</src.rf>
@@ -4190,7 +4196,10 @@
 <LM>w#w-mf920924-019-p11s5w7</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-mf920924-019-p11s5w8">
 <src.rf>manual</src.rf>
@@ -4198,7 +4207,10 @@
 <LM>w#w-mf920924-019-p11s5w8</LM>
 </w.rf>
 <form>padesát</form>
-<tag lemma="padesát`50" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="padesát`50" src="orig">Cn-S4----------</AM>
+<AM lemma="padesát`50" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-019-p11s5w9">
 <src.rf>manual</src.rf>

@@ -551,7 +551,10 @@
 <LM>w#w-vesm9301-045-p2s6w6</LM>
 </w.rf>
 <form>jedna</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS1----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClFS1----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnFS1----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-045-p2s6w7">
 <src.rf>manual</src.rf>
@@ -599,7 +602,10 @@
 <LM>w#w-vesm9301-045-p2s6w12</LM>
 </w.rf>
 <form>jednoho</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClMS4----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClMS4----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnMS4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-045-p2s6w13">
 <src.rf>manual</src.rf>
@@ -615,7 +621,10 @@
 <LM>w#w-vesm9301-045-p2s6w14</LM>
 </w.rf>
 <form>dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClYP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnYP4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-045-p2s6w15">
 <src.rf>manual</src.rf>
@@ -639,7 +648,10 @@
 <LM>w#w-vesm9301-045-p2s6w17</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-045-p2s6w18">
 <src.rf>manual</src.rf>

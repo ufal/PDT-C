@@ -1976,7 +1976,10 @@
 <LM>w#w-lnd91303-119-p6s2w23</LM>
 </w.rf>
 <form>dvěma</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP3----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP3----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP3----------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-119-p6s2w24">
 <src.rf>manual</src.rf>
@@ -1984,7 +1987,10 @@
 <LM>w#w-lnd91303-119-p6s2w24</LM>
 </w.rf>
 <form>stům</form>
-<tag lemma="sto-2`100_^(pěti_stům_mužů)" src="orig" selected="1">NNNP3-----A----</tag>
+<tag>
+<AM lemma="sto-2`100_^(pěti_stům_mužů)" src="orig">NNNP3-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP3----------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-119-p6s2w25">
 <src.rf>manual</src.rf>

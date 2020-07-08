@@ -1590,7 +1590,8 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p9s2w28">
@@ -1971,7 +1972,8 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p9s4w13">
@@ -2286,7 +2288,10 @@
 <LM>w#w-cmpr9406-058-p9s7w8</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-058-p9s7w9">
 <src.rf>manual</src.rf>
@@ -2345,7 +2350,8 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p9s7w16">
@@ -2431,7 +2437,10 @@
 <LM>w#w-cmpr9406-058-p9s9w8</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-058-p9s9w9">
 <src.rf>manual</src.rf>
@@ -2503,7 +2512,10 @@
 <LM>w#w-cmpr9406-058-p9s9w17</LM>
 </w.rf>
 <form>pět</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-058-p9s9w18">
 <src.rf>manual</src.rf>
@@ -2511,7 +2523,10 @@
 <LM>w#w-cmpr9406-058-p9s9w18</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-058-p9s9w19">
 <src.rf>manual</src.rf>
@@ -2521,7 +2536,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p9s9w20">
@@ -2742,7 +2758,10 @@
 <LM>w#w-cmpr9406-058-p10s1w24</LM>
 </w.rf>
 <form>miliardy</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="orig">NNFS2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFS2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-058-p10s1w25">
 <src.rf>manual</src.rf>
@@ -2779,7 +2798,8 @@
 <form>milionu</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS3-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIS3-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS3----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p10s1w29">
@@ -3071,7 +3091,8 @@
 <form>mld</form>
 <tag>
 <AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-058-p11s1w8">

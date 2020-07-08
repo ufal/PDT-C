@@ -980,7 +980,10 @@
 <LM>w#w-mf920901-011-p4s1w1</LM>
 </w.rf>
 <form>Dva</form>
-<tag lemma="dva`2" src="orig" selected="1">ClYP1----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClYP1----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnYP1----------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s1w2">
 <src.rf>manual</src.rf>
@@ -988,7 +991,10 @@
 <LM>w#w-mf920901-011-p4s1w2</LM>
 </w.rf>
 <form>tisíce</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="orig">NNIP1-----A----</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIP1----------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s1w3">
 <src.rf>manual</src.rf>
@@ -996,7 +1002,10 @@
 <LM>w#w-mf920901-011-p4s1w3</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1004,7 +1013,10 @@
 <LM>w#w-mf920901-011-p4s1w4</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="orig">NNFP2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFP2----------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s1w5">
 <src.rf>manual</src.rf>

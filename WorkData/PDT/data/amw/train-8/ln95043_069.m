@@ -127,7 +127,10 @@
 <LM>w#w-ln95043-069-p2s1Bw4</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-069-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-ln95043-069-p2s1Bw5</LM>
 </w.rf>
 <form>sedmi</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="sedm`7" src="orig">Cn-P2----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-069-p2s1Bw6">
 <src.rf>manual</src.rf>
