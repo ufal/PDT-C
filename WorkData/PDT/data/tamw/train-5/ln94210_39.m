@@ -752,7 +752,10 @@
 <LM>w#w-ln94210-39-p2s4w24</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS2----------</AM>
+</tag>
 </m>
 <m id="m-ln94210-39-p2s4w25">
 <src.rf>manual</src.rf>

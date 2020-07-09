@@ -27,7 +27,10 @@
 <LM>w#w-ln94200-118-p1s1w2</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-ln94200-118-p1s1w3">
 <src.rf>manual</src.rf>
@@ -3458,7 +3461,10 @@
 <LM>w#w-ln94200-118-p9s4w14</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln94200-118-p9s4w15">
 <src.rf>manual</src.rf>
@@ -3468,7 +3474,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-ln94200-118-p9s4w16">
@@ -4231,7 +4238,10 @@
 <LM>w#w-ln94200-118-p11s1w23</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-ln94200-118-p11s1w24">
 <src.rf>manual</src.rf>

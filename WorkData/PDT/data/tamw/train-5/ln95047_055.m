@@ -3073,7 +3073,10 @@
 <LM>w#w-ln95047-055-p5s2w23</LM>
 </w.rf>
 <form>jednoho</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClZS2----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClZS2----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnZS2----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-055-p5s2w24">
 <src.rf>manual</src.rf>
@@ -3081,7 +3084,10 @@
 <LM>w#w-ln95047-055-p5s2w24</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS2----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-055-p5s2w25">
 <src.rf>manual</src.rf>

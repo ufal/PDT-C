@@ -1395,7 +1395,10 @@
 <LM>w#w-mf930709-007-p5s2w12</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-007-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1443,7 +1446,10 @@
 <LM>w#w-mf930709-007-p5s2w18</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP2----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-007-p5s2w19">
 <src.rf>manual</src.rf>
@@ -1459,7 +1465,10 @@
 <LM>w#w-mf930709-007-p5s2w20</LM>
 </w.rf>
 <form>půl</form>
-<tag lemma="půl-1" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="půl-1" src="orig">ClXS2----------</AM>
+<AM lemma="půl-1" src="manual" selected="1">Cl-XX----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-007-p5s2w21">
 <src.rf>manual</src.rf>
@@ -1467,7 +1476,10 @@
 <LM>w#w-mf930709-007-p5s2w21</LM>
 </w.rf>
 <form>miliardy</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="orig">NNFS2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFS2----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-007-p5s2w22">
 <src.rf>manual</src.rf>

@@ -156,7 +156,8 @@
 <form>mrk</form>
 <tag>
 <AM lemma="mrk-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mrk-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="mrk-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="mrk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-105-p2s1Bw4">
@@ -199,7 +200,10 @@
 <LM>w#w-ln94209-105-p2s1Cw3</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP2----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-105-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -207,7 +211,10 @@
 <LM>w#w-ln94209-105-p2s1Cw4</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-105-p2s1Cw5">
 <src.rf>manual</src.rf>

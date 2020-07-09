@@ -658,7 +658,10 @@
 <LM>w#w-ln94204-145-p3s1w18</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-145-p3s1w19">
 <src.rf>manual</src.rf>
@@ -666,7 +669,10 @@
 <LM>w#w-ln94204-145-p3s1w19</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-145-p3s1w20">
 <src.rf>manual</src.rf>

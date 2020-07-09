@@ -3784,7 +3784,10 @@
 <LM>w#w-ln94204-136-p6s2w42</LM>
 </w.rf>
 <form>čtyř</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClXP2----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-136-p6s2w43">
 <src.rf>manual</src.rf>
@@ -3792,7 +3795,10 @@
 <LM>w#w-ln94204-136-p6s2w43</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-136-p6s2w44">
 <src.rf>manual</src.rf>

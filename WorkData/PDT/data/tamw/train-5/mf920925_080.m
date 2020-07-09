@@ -392,7 +392,10 @@
 <LM>w#w-mf920925-080-p2s4w3</LM>
 </w.rf>
 <form>dvěma</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP3----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP3----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">Cl-P3----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s4w4">
 <src.rf>manual</src.rf>
@@ -400,7 +403,10 @@
 <LM>w#w-mf920925-080-p2s4w4</LM>
 </w.rf>
 <form>stům</form>
-<tag lemma="sto-1`100_^(pěti_stům_mužům)" src="orig" selected="1">ClXP3---------1</tag>
+<tag>
+<AM lemma="sto-1`100_^(pěti_stům_mužům)" src="orig">ClXP3---------1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP3----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s4w5">
 <src.rf>manual</src.rf>
@@ -472,7 +478,10 @@
 <LM>w#w-mf920925-080-p2s4w13</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP1----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP1----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s4w14">
 <src.rf>manual</src.rf>
@@ -480,7 +489,10 @@
 <LM>w#w-mf920925-080-p2s4w14</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP1-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP1-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s4w15">
 <src.rf>manual</src.rf>

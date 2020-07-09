@@ -1419,7 +1419,10 @@
 <LM>w#w-cmpr9410-034-p4s3w20</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP6----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-034-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1427,7 +1430,10 @@
 <LM>w#w-cmpr9410-034-p4s3w21</LM>
 </w.rf>
 <form>stech</form>
-<tag lemma="sto-1`100_^(o_pěti_stech_mužích)" src="orig" selected="1">ClXP6---------1</tag>
+<tag>
+<AM lemma="sto-1`100_^(o_pěti_stech_mužích)" src="orig">ClXP6---------1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP6----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-034-p4s3w22">
 <src.rf>manual</src.rf>

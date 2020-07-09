@@ -118,7 +118,10 @@
 <LM>w#w-mf930713-098-p2s1w5</LM>
 </w.rf>
 <form>šest</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="šest`6" src="orig">Cn-S4----------</AM>
+<AM lemma="šest`6" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-098-p2s1w6">
 <src.rf>manual</src.rf>
@@ -126,7 +129,10 @@
 <LM>w#w-mf930713-098-p2s1w6</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-098-p2s1w7">
 <src.rf>manual</src.rf>
@@ -134,7 +140,10 @@
 <LM>w#w-mf930713-098-p2s1w7</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-2`1000" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="auto">NNIS4-----A----</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-098-p2s1w8">
 <src.rf>manual</src.rf>
@@ -170,7 +179,8 @@
 <form>ina</form>
 <tag>
 <AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="ina-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-098-p3s1Aw4">
@@ -1050,7 +1060,10 @@
 <LM>w#w-mf930713-098-p4s1Bw7</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-098-p4s1Bw8">
 <src.rf>manual</src.rf>
@@ -1058,7 +1071,10 @@
 <LM>w#w-mf930713-098-p4s1Bw8</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="orig">NNIS4-----A----</AM>
+<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-098-p4s1Bw9">
 <src.rf>manual</src.rf>

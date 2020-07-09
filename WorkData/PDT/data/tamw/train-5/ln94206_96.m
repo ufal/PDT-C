@@ -99,7 +99,10 @@
 <LM>w#w-ln94206-96-p2s1w1</LM>
 </w.rf>
 <form>Sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-ln94206-96-p2s1w2">
 <src.rf>manual</src.rf>
@@ -107,7 +110,10 @@
 <LM>w#w-ln94206-96-p2s1w2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="rok" src="orig">NNNP2-----A----</AM>
+<AM lemma="léta" src="manual" selected="1">NNNP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-96-p2s1w3">
 <src.rf>manual</src.rf>

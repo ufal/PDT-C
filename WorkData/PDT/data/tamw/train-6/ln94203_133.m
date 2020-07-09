@@ -1585,7 +1585,10 @@
 <LM>w#w-ln94203-133-p5s1w17</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-133-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1609,7 +1612,10 @@
 <LM>w#w-ln94203-133-p5s1w20</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-133-p5s1w21">
 <src.rf>manual</src.rf>

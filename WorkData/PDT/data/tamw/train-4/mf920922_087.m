@@ -459,7 +459,8 @@
 <form>sto</form>
 <tag>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
-<AM lemma="sto-1`100" src="manual" selected="1">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
 </tag>
 </m>
 <m id="m-mf920922-087-p1s4w6">
