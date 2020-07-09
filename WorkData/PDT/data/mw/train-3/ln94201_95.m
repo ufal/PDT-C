@@ -24755,7 +24755,10 @@
 <LM>w#w-ln94201-95-p34s3w8</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClXP4----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P4----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p34s3w9">
 <src.rf>manual</src.rf>
@@ -24763,7 +24766,10 @@
 <LM>w#w-ln94201-95-p34s3w9</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p34s3w10">
 <src.rf>manual</src.rf>

@@ -184,7 +184,10 @@
 <LM>w#w-lnd92255-078-p2s1w18</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClIS4----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClIS4----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnIS4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-078-p2s1w19">
 <src.rf>manual</src.rf>
@@ -192,7 +195,10 @@
 <LM>w#w-lnd92255-078-p2s1w19</LM>
 </w.rf>
 <form>milión</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIS4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-078-p2s1w20">
 <src.rf>manual</src.rf>
@@ -315,7 +321,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP1----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXXX----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-078-p2s2w15">
 <src.rf>manual</src.rf>
@@ -324,7 +333,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-lnd92255-078-p2s2w16">
 <src.rf>manual</src.rf>
@@ -332,7 +344,10 @@
 <LM>w#w-lnd92255-078-p2s2w16</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-078-p2s2w17">
 <src.rf>manual</src.rf>
@@ -526,7 +541,10 @@
 <LM>w#w-lnd92255-078-p2s3w21</LM>
 </w.rf>
 <form>devadesát</form>
-<tag lemma="devadesát`90" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="devadesát`90" src="orig">Cn-S4----------</AM>
+<AM lemma="devadesát`90" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-078-p2s3w22">
 <src.rf>manual</src.rf>
@@ -534,7 +552,10 @@
 <LM>w#w-lnd92255-078-p2s3w22</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-078-p2s3w23">
 <src.rf>manual</src.rf>

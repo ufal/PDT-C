@@ -2288,7 +2288,10 @@
 <LM>w#w-ln94204-133-p4s11w19</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p4s11w20">
 <src.rf>manual</src.rf>
@@ -2296,7 +2299,10 @@
 <LM>w#w-ln94204-133-p4s11w20</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p4s11w21">
 <src.rf>manual</src.rf>

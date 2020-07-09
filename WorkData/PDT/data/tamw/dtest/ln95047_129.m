@@ -661,7 +661,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP4----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-129-p3s1w24">
 <src.rf>manual</src.rf>
@@ -670,7 +673,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP1----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-129-p3s1w25">
 <src.rf>manual</src.rf>

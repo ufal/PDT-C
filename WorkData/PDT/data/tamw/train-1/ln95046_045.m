@@ -119,7 +119,10 @@
 <LM>w#w-ln95046-045-p1s1w13</LM>
 </w.rf>
 <form>Sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-ln95046-045-p1s1w14">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-ln95046-045-p1s1w15</LM>
 </w.rf>
 <form>jedna</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS1----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClFS1----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnFS1----------</AM>
+</tag>
 </m>
 <m id="m-ln95046-045-p1s1w16">
 <src.rf>manual</src.rf>

@@ -560,7 +560,10 @@
 <LM>w#w-ln94200-104-p2s4w7</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94200-104-p2s4w8">
 <src.rf>manual</src.rf>
@@ -570,7 +573,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-ln94200-104-p2s4w9">
@@ -683,7 +687,10 @@
 <LM>w#w-ln94200-104-p2s4w22</LM>
 </w.rf>
 <form>Sazce</form>
-<tag lemma="sazka" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="sazka" src="orig">NNFS3-----A----</AM>
+<AM lemma="Sazka_;m" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-104-p2s4w23">
 <src.rf>manual</src.rf>
@@ -2064,7 +2071,10 @@
 <LM>w#w-ln94200-104-p3s5w35</LM>
 </w.rf>
 <form>Sazka</form>
-<tag lemma="sazka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sazka" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sazka_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-104-p3s5w36">
 <src.rf>manual</src.rf>

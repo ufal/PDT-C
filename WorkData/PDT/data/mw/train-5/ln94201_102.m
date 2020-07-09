@@ -2679,7 +2679,10 @@
 <LM>w#w-ln94201-102-p7s2w18</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-102-p7s2w19">
 <src.rf>manual</src.rf>
@@ -2729,7 +2732,10 @@
 <LM>w#w-ln94201-102-p7s3w4</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-102-p7s3w5">
 <src.rf>manual</src.rf>
@@ -2737,7 +2743,10 @@
 <LM>w#w-ln94201-102-p7s3w5</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-102-p7s3w6">
 <src.rf>manual</src.rf>
@@ -11380,7 +11389,10 @@
 <LM>w#w-ln94201-102-p19s7w10</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-102-p19s7w11">
 <src.rf>manual</src.rf>
@@ -11842,7 +11854,10 @@
 <LM>w#w-ln94201-102-p20s2w4</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-102-p20s2w5">
 <src.rf>manual</src.rf>
@@ -11850,7 +11865,10 @@
 <LM>w#w-ln94201-102-p20s2w5</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-ln94201-102-p20s2w6">
 <src.rf>manual</src.rf>
@@ -11858,7 +11876,10 @@
 <LM>w#w-ln94201-102-p20s2w6</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-102-p20s2w7">
 <src.rf>manual</src.rf>

@@ -2305,7 +2305,10 @@
 <LM>w#w-lnd94103-117-p1s12Bw16</LM>
 </w.rf>
 <form>po</form>
-<tag lemma="po-1" src="orig" selected="1">RR--6----------</tag>
+<tag>
+<AM lemma="po-1" src="orig">RR--6----------</AM>
+<AM lemma="po-1" src="manual" selected="1">RR--4----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-117-p1s12Bw17">
 <src.rf>manual</src.rf>
@@ -2402,7 +2405,10 @@
 <LM>w#w-lnd94103-117-p1s12Bw27</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-117-p1s12Bw28">
 <src.rf>manual</src.rf>

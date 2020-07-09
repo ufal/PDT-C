@@ -6082,7 +6082,10 @@
 <LM>w#w-ln94201-108-p40s2w7</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p40s2w8">
 <src.rf>manual</src.rf>
@@ -12157,7 +12160,10 @@
 <LM>w#w-ln94201-108-p54s9w3</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p54s9w4">
 <src.rf>manual</src.rf>
@@ -12165,7 +12171,10 @@
 <LM>w#w-ln94201-108-p54s9w4</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p54s9w5">
 <src.rf>manual</src.rf>
@@ -13151,7 +13160,10 @@
 <LM>w#w-ln94201-108-p60s2w3</LM>
 </w.rf>
 <form>pětadvacet</form>
-<tag lemma="pětadvacet`25" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="pětadvacet`25" src="orig">Cn-S1----------</AM>
+<AM lemma="pětadvacet`25" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p60s2w4">
 <src.rf>manual</src.rf>
@@ -13183,7 +13195,10 @@
 <LM>w#w-ln94201-108-p60s2w7</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p60s2w8">
 <src.rf>manual</src.rf>
@@ -13234,7 +13249,10 @@
 <LM>w#w-ln94201-108-p60s2w13</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-2" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="pár-2" src="orig">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p60s2w14">
 <src.rf>manual</src.rf>
@@ -24457,7 +24475,10 @@
 <LM>w#w-ln94201-108-p94s2w5</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p94s2w6">
 <src.rf>manual</src.rf>
@@ -24465,7 +24486,10 @@
 <LM>w#w-ln94201-108-p94s2w6</LM>
 </w.rf>
 <form>devadesát</form>
-<tag lemma="devadesát`90" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="devadesát`90" src="orig">Cn-S4----------</AM>
+<AM lemma="devadesát`90" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p94s2w7">
 <src.rf>manual</src.rf>

@@ -1622,7 +1622,10 @@
 <LM>w#w-ln94204-151-p4s2w9</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-151-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1688,7 +1691,10 @@
 <LM>w#w-ln94204-151-p4s3w6</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-ln94204-151-p4s3w7">
 <src.rf>manual</src.rf>

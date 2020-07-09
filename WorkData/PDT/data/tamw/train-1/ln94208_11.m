@@ -8268,7 +8268,10 @@
 <LM>w#w-ln94208-11-p5s5w3</LM>
 </w.rf>
 <form>dvěma</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP7----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP7----------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p5s5w4">
 <src.rf>manual</src.rf>
@@ -8276,7 +8279,10 @@
 <LM>w#w-ln94208-11-p5s5w4</LM>
 </w.rf>
 <form>sty</form>
-<tag lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP7----------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p5s5w5">
 <src.rf>manual</src.rf>

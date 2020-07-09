@@ -1038,7 +1038,10 @@
 <LM>w#w-mf930701-131-p2s8w5</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP2----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-131-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1046,7 +1049,10 @@
 <LM>w#w-mf930701-131-p2s8w6</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-131-p2s8w7">
 <src.rf>manual</src.rf>
@@ -1054,7 +1060,10 @@
 <LM>w#w-mf930701-131-p2s8w7</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-131-p2s8w8">
 <src.rf>manual</src.rf>

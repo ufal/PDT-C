@@ -795,7 +795,8 @@
 <form>milion</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
-<AM lemma="milion`1000000_,s" src="manual" selected="1">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s" src="manual">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS4----------</AM>
 </tag>
 </m>
 <m id="m-ln94202-22-p3s3w7">
@@ -820,7 +821,10 @@
 <LM>w#w-ln94202-22-p3s3w9</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94202-22-p3s3w10">
 <src.rf>manual</src.rf>
@@ -828,7 +832,10 @@
 <LM>w#w-ln94202-22-p3s3w10</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94202-22-p3s3w11">
 <src.rf>manual</src.rf>

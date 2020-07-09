@@ -226,7 +226,10 @@
 <LM>w#w-lnd92257-052-p3s2w2</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP4----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-052-p3s2w3">
 <src.rf>manual</src.rf>
@@ -234,7 +237,10 @@
 <LM>w#w-lnd92257-052-p3s2w3</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-052-p3s2w4">
 <src.rf>manual</src.rf>

@@ -546,7 +546,10 @@
 <LM>w#w-mf930708-088-p4s4w5</LM>
 </w.rf>
 <form>třemi</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP7----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P7----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p4s4w6">
 <src.rf>manual</src.rf>
@@ -554,7 +557,10 @@
 <LM>w#w-mf930708-088-p4s4w6</LM>
 </w.rf>
 <form>sty</form>
-<tag lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP7----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p4s4w7">
 <src.rf>manual</src.rf>
@@ -562,7 +568,10 @@
 <LM>w#w-mf930708-088-p4s4w7</LM>
 </w.rf>
 <form>tisíci</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="orig">NNIP7-----A----</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIP7----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p4s4w8">
 <src.rf>manual</src.rf>
@@ -586,7 +595,10 @@
 <LM>w#w-mf930708-088-p4s4w10</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P7----------</tag>
+<tag>
+<AM lemma="šest`6" src="orig">Cn-P7----------</AM>
+<AM lemma="šest`6" src="manual" selected="1">Cl-P7----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p4s4w11">
 <src.rf>manual</src.rf>
@@ -594,7 +606,10 @@
 <LM>w#w-mf930708-088-p4s4w11</LM>
 </w.rf>
 <form>tisíci</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="orig">NNIP7-----A----</AM>
+<AM lemma="tisíc-2`1000" src="manual" selected="1">CzIP7----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p4s4w12">
 <src.rf>manual</src.rf>
@@ -668,7 +683,10 @@
 <LM>w#w-mf930708-088-p4s5w6</LM>
 </w.rf>
 <form>sedmdesát</form>
-<tag lemma="sedmdesát`70" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="sedmdesát`70" src="orig">Cn-S4----------</AM>
+<AM lemma="sedmdesát`70" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p4s5w7">
 <src.rf>manual</src.rf>
@@ -676,7 +694,10 @@
 <LM>w#w-mf930708-088-p4s5w7</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p4s5w8">
 <src.rf>manual</src.rf>
@@ -972,7 +993,10 @@
 <LM>w#w-mf930708-088-p4s9w1</LM>
 </w.rf>
 <form>Jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClYS1----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnYS1----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p4s9w2">
 <src.rf>manual</src.rf>
@@ -1208,7 +1232,10 @@
 <LM>w#w-mf930708-088-p5s1w4</LM>
 </w.rf>
 <form>sedmi</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-P6----------</tag>
+<tag>
+<AM lemma="sedm`7" src="orig">Cn-P6----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-088-p5s1w5">
 <src.rf>manual</src.rf>

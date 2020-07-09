@@ -680,7 +680,10 @@
 <LM>w#w-lnd92256-042-p2s6w5</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-042-p2s6w6">
 <src.rf>manual</src.rf>
@@ -696,7 +699,10 @@
 <LM>w#w-lnd92256-042-p2s6w7</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-042-p2s6w8">
 <src.rf>manual</src.rf>
@@ -760,7 +766,10 @@
 <LM>w#w-lnd92256-042-p2s6w15</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-042-p2s6w16">
 <src.rf>manual</src.rf>

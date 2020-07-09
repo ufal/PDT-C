@@ -38,7 +38,10 @@
 <LM>w#w-mf930708-038-p1s1w3</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p1s1w4">
 <src.rf>manual</src.rf>
@@ -46,7 +49,10 @@
 <LM>w#w-mf930708-038-p1s1w4</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p1s1w5">
 <src.rf>manual</src.rf>
@@ -515,7 +521,10 @@
 <LM>w#w-mf930708-038-p2s3w7</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p2s3w8">
 <src.rf>manual</src.rf>
@@ -705,7 +714,10 @@
 <LM>w#w-mf930708-038-p3s1w15</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p3s1w16">
 <src.rf>manual</src.rf>
@@ -846,7 +858,10 @@
 <LM>w#w-mf930708-038-p3s2w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p3s2w9">
 <src.rf>manual</src.rf>
@@ -984,7 +999,10 @@
 <LM>w#w-mf930708-038-p3s3w15</LM>
 </w.rf>
 <form>Unionem</form>
-<tag lemma="Union" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="Union" src="orig">NNIS7-----A----</AM>
+<AM lemma="Union_;m" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1439,7 +1457,10 @@
 <LM>w#w-mf930708-038-p4s3w11</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIS4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1487,7 +1508,10 @@
 <LM>w#w-mf930708-038-p4s3w17</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1944,7 +1968,10 @@
 <LM>w#w-mf930708-038-p4s6w16</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p4s6w17">
 <src.rf>manual</src.rf>
@@ -3022,7 +3049,10 @@
 <LM>w#w-mf930708-038-p5s5w26</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p5s5w27">
 <src.rf>manual</src.rf>
@@ -3096,7 +3126,10 @@
 <LM>w#w-mf930708-038-p6s1w8</LM>
 </w.rf>
 <form>zaměstnáno</form>
-<tag lemma="zaměstnat-1_:W_^(všeob._význam:_činnost,_zaměstnání)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="zaměstnat-1_:W_^(všeob._význam:_činnost,_zaměstnání)" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="zaměstnat" src="manual" selected="1">VsNS----X-APP--</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p6s1w9">
 <src.rf>manual</src.rf>
@@ -3238,7 +3271,10 @@
 <LM>w#w-mf930708-038-p6s2w6</LM>
 </w.rf>
 <form>tisíce</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="orig">NNIS2-----A----</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIS2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p6s2w7">
 <src.rf>manual</src.rf>

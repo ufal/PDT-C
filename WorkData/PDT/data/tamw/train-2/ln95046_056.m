@@ -408,7 +408,10 @@
 <LM>w#w-ln95046-056-p2s2w11</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln95046-056-p2s2w12">
 <src.rf>manual</src.rf>
@@ -419,7 +422,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-056-p2s2w13">
@@ -468,7 +472,10 @@
 <LM>w#w-ln95046-056-p2s2w18</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln95046-056-p2s2w19">
 <src.rf>manual</src.rf>

@@ -2125,7 +2125,10 @@
 <LM>w#w-lnd92259-060-p7s2w17</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP4----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-060-p7s2w18">
 <src.rf>manual</src.rf>
@@ -2133,7 +2136,10 @@
 <LM>w#w-lnd92259-060-p7s2w18</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-060-p7s2w19">
 <src.rf>manual</src.rf>
@@ -2141,7 +2147,10 @@
 <LM>w#w-lnd92259-060-p7s2w19</LM>
 </w.rf>
 <form>miliónů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-060-p7s2w20">
 <src.rf>manual</src.rf>

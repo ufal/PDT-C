@@ -1618,7 +1618,10 @@
 <LM>w#w-mf930708-179-p10s1w7</LM>
 </w.rf>
 <form>Sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-179-p10s1w8">
 <src.rf>manual</src.rf>
@@ -1626,7 +1629,10 @@
 <LM>w#w-mf930708-179-p10s1w8</LM>
 </w.rf>
 <form>jedenadvacet</form>
-<tag lemma="jedenadvacet`21" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="jedenadvacet`21" src="orig">Cn-S4----------</AM>
+<AM lemma="jedenadvacet`21" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-179-p10s1w9">
 <src.rf>manual</src.rf>

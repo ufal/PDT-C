@@ -93,7 +93,8 @@
 <form>šim</form>
 <tag>
 <AM lemma="šim-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="šim-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="šim-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="šim-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-033-p2s1w4">
@@ -118,7 +119,10 @@
 <LM>w#w-mf930702-033-p2s1w6</LM>
 </w.rf>
 <form>Sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-mf930702-033-p2s1w7">
 <src.rf>manual</src.rf>
@@ -126,7 +130,10 @@
 <LM>w#w-mf930702-033-p2s1w7</LM>
 </w.rf>
 <form>deset</form>
-<tag lemma="deset`10" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="deset`10" src="orig">Cn-S1----------</AM>
+<AM lemma="deset`10" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-mf930702-033-p2s1w8">
 <src.rf>manual</src.rf>
@@ -134,7 +141,10 @@
 <LM>w#w-mf930702-033-p2s1w8</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930702-033-p2s1w9">
 <src.rf>manual</src.rf>
@@ -184,7 +194,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-mf930702-033-p2s1w15">

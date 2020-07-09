@@ -4360,7 +4360,10 @@
 <LM>w#w-ln94201-116-p8s2w9</LM>
 </w.rf>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-P6----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-P6----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-116-p8s2w10">
 <src.rf>manual</src.rf>
@@ -4368,7 +4371,10 @@
 <LM>w#w-ln94201-116-p8s2w10</LM>
 </w.rf>
 <form>stech</form>
-<tag lemma="sto-1`100_^(o_pěti_stech_mužích)" src="orig" selected="1">ClXP6---------1</tag>
+<tag>
+<AM lemma="sto-1`100_^(o_pěti_stech_mužích)" src="orig">ClXP6---------1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP6----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-116-p8s2w11">
 <src.rf>manual</src.rf>
@@ -4376,7 +4382,10 @@
 <LM>w#w-ln94201-116-p8s2w11</LM>
 </w.rf>
 <form>stranách</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFP6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-116-p8s2w12">
 <src.rf>manual</src.rf>
@@ -4392,7 +4401,10 @@
 <LM>w#w-ln94201-116-p8s2w13</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-2" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="pár-2" src="orig">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-116-p8s2w14">
 <src.rf>manual</src.rf>

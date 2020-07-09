@@ -85,7 +85,10 @@
 <LM>w#w-ln94208-41-p2s1w8</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94208-41-p2s1w9">
 <src.rf>manual</src.rf>

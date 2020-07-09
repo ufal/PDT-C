@@ -2036,7 +2036,10 @@
 <LM>w#w-ln94205-106-p4s4w36</LM>
 </w.rf>
 <form>čtyřech</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP6----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClXP6----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P6----------</AM>
+</tag>
 </m>
 <m id="m-ln94205-106-p4s4w37">
 <src.rf>manual</src.rf>
@@ -2044,7 +2047,10 @@
 <LM>w#w-ln94205-106-p4s4w37</LM>
 </w.rf>
 <form>stech</form>
-<tag lemma="sto-2`100_^(o_pěti_stech_mužů)" src="orig" selected="1">NNNP6-----A----</tag>
+<tag>
+<AM lemma="sto-2`100_^(o_pěti_stech_mužů)" src="orig">NNNP6-----A----</AM>
+<AM lemma="sto-2`100" src="manual" selected="1">CzNP6----------</AM>
+</tag>
 </m>
 <m id="m-ln94205-106-p4s4w38">
 <src.rf>manual</src.rf>

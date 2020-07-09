@@ -1070,7 +1070,10 @@
 <LM>w#w-mf930708-012-p2s6w4</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-012-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1078,7 +1081,10 @@
 <LM>w#w-mf930708-012-p2s6w5</LM>
 </w.rf>
 <form>padesáti</form>
-<tag lemma="padesát`50" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="padesát`50" src="orig">Cn-P2----------</AM>
+<AM lemma="padesát`50" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-012-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1267,7 +1273,10 @@
 <LM>w#w-mf930708-012-p2s7w11</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP4----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-012-p2s7w12">
 <src.rf>manual</src.rf>

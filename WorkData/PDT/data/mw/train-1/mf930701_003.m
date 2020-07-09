@@ -1869,7 +1869,10 @@
 <LM>w#w-mf930701-003-p2s13w2</LM>
 </w.rf>
 <form>čtyři</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP1----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClXP1----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P1----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-003-p2s13w3">
 <src.rf>manual</src.rf>
@@ -1877,7 +1880,10 @@
 <LM>w#w-mf930701-003-p2s13w3</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP1----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-003-p2s13w4">
 <src.rf>manual</src.rf>

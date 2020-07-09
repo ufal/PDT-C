@@ -12957,7 +12957,10 @@
 <LM>w#w-ln95047-061-p11s3w1</LM>
 </w.rf>
 <form>Dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP1----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP1----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-061-p11s3w2">
 <src.rf>manual</src.rf>
@@ -12965,7 +12968,10 @@
 <LM>w#w-ln95047-061-p11s3w2</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP1-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP1-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-ln95047-061-p11s3w3">
 <src.rf>manual</src.rf>

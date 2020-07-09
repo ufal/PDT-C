@@ -1769,7 +1769,10 @@
 <LM>w#w-ln94201-98-p4s5w22</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-2" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="pár-2" src="orig">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-98-p4s5w23">
 <src.rf>manual</src.rf>
@@ -1777,7 +1780,10 @@
 <LM>w#w-ln94201-98-p4s5w23</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-98-p4s5w24">
 <src.rf>manual</src.rf>

@@ -2047,7 +2047,10 @@
 <LM>w#w-lnd92259-016-p5s2w32</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS2----------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-016-p5s2w33">
 <src.rf>manual</src.rf>
@@ -2112,7 +2115,10 @@
 <LM>w#w-lnd92259-016-p5s2w40</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs_^(Koruna_čs.)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-016-p5s2w41">
 <src.rf>manual</src.rf>

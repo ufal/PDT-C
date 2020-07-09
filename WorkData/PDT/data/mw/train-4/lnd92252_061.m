@@ -7117,7 +7117,10 @@
 <LM>w#w-lnd92252-061-p15s1w3</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-061-p15s1w4">
 <src.rf>manual</src.rf>
@@ -7183,7 +7186,10 @@
 <LM>w#w-lnd92252-061-p16s1w6</LM>
 </w.rf>
 <form>koupit</form>
-<tag lemma="koupit_:W_^(něco_sobě/někomu)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="koupit_:W_^(něco_sobě/někomu)" src="orig">Vf--------A----</AM>
+<AM lemma="koupit" src="manual" selected="1">Vf--------A-P--</AM>
+</tag>
 </m>
 <m id="m-lnd92252-061-p16s1w7">
 <src.rf>manual</src.rf>

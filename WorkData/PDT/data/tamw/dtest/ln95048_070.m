@@ -6034,7 +6034,10 @@
 <LM>w#w-ln95048-070-p5s26w24</LM>
 </w.rf>
 <form>tři</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP4----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P4----------</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p5s26w25">
 <src.rf>manual</src.rf>
@@ -6042,7 +6045,10 @@
 <LM>w#w-ln95048-070-p5s26w25</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p5s26w26">
 <src.rf>manual</src.rf>

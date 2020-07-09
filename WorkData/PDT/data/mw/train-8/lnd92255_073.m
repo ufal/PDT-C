@@ -341,7 +341,10 @@
 <LM>w#w-lnd92255-073-p1s3w10</LM>
 </w.rf>
 <form>stům</form>
-<tag lemma="sto-2`100_^(pěti_stům_mužů)" src="orig" selected="1">NNNP3-----A----</tag>
+<tag>
+<AM lemma="sto-2`100_^(pěti_stům_mužů)" src="orig">NNNP3-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP3----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-073-p1s3w11">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-mf930708-100-p1s1w1</LM>
 </w.rf>
 <form>Šedesát</form>
-<tag lemma="šedesát`60" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="šedesát`60" src="orig">Cn-S1----------</AM>
+<AM lemma="šedesát`60" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-100-p1s1w2">
 <src.rf>manual</src.rf>
@@ -98,7 +101,8 @@
 <form>ina</form>
 <tag>
 <AM lemma="ina-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ina-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ina-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="ina-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-100-p2s1w4">
@@ -117,7 +121,8 @@
 <form>nak</form>
 <tag>
 <AM lemma="nak-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="nak-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="nak-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="nak-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-100-p2s1w6">
@@ -150,7 +155,10 @@
 <LM>w#w-mf930708-100-p2s1w9</LM>
 </w.rf>
 <form>šedesát</form>
-<tag lemma="šedesát`60" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="šedesát`60" src="orig">Cn-S1----------</AM>
+<AM lemma="šedesát`60" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-100-p2s1w10">
 <src.rf>manual</src.rf>
@@ -515,7 +523,10 @@
 <LM>w#w-mf930708-100-p2s3w15</LM>
 </w.rf>
 <form>čtrnáct</form>
-<tag lemma="čtrnáct`14" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="čtrnáct`14" src="orig">Cn-S4----------</AM>
+<AM lemma="čtrnáct`14" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-100-p2s3w16">
 <src.rf>manual</src.rf>
@@ -565,7 +576,10 @@
 <LM>w#w-mf930708-100-p2s4w2</LM>
 </w.rf>
 <form>jedné</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClFS2----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClFS2----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnFS2----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-100-p2s4w3">
 <src.rf>manual</src.rf>
@@ -597,7 +611,10 @@
 <LM>w#w-mf930708-100-p2s4w6</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-100-p2s4w7">
 <src.rf>manual</src.rf>
@@ -613,7 +630,10 @@
 <LM>w#w-mf930708-100-p2s4w8</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-100-p2s4w9">
 <src.rf>manual</src.rf>
@@ -621,7 +641,10 @@
 <LM>w#w-mf930708-100-p2s4w9</LM>
 </w.rf>
 <form>třicet</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="třicet`30" src="orig">Cn-S4----------</AM>
+<AM lemma="třicet`30" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-100-p2s4w10">
 <src.rf>manual</src.rf>

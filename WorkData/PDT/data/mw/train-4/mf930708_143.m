@@ -1783,7 +1783,10 @@
 <LM>w#w-mf930708-143-p2s13w2</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP1----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP1----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-143-p2s13w3">
 <src.rf>manual</src.rf>
@@ -1791,7 +1794,10 @@
 <LM>w#w-mf930708-143-p2s13w3</LM>
 </w.rf>
 <form>třetiny</form>
-<tag lemma="třetina" src="orig" selected="1">CyFP1----------</tag>
+<tag>
+<AM lemma="třetina" src="orig">CyFP1----------</AM>
+<AM lemma="třetina" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-143-p2s13w4">
 <src.rf>manual</src.rf>
@@ -2036,7 +2042,10 @@
 <LM>w#w-mf930708-143-p2s14w11</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-143-p2s14w12">
 <src.rf>manual</src.rf>
@@ -2166,7 +2175,10 @@
 <LM>w#w-mf930708-143-p2s15w5</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-143-p2s15w6">
 <src.rf>manual</src.rf>
@@ -2314,7 +2326,10 @@
 <LM>w#w-mf930708-143-p2s17w7</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-143-p2s17w8">
 <src.rf>manual</src.rf>
@@ -2322,7 +2337,10 @@
 <LM>w#w-mf930708-143-p2s17w8</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-143-p2s17w9">
 <src.rf>manual</src.rf>

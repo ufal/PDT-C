@@ -2742,7 +2742,8 @@
 <AM lemma="IQ_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="IQ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="IQ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IQ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="IQ_^(inteligent_quotient)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-140-p18s1w9">
@@ -2759,7 +2760,10 @@
 <LM>w#w-mf930701-140-p18s1w10</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-140-p18s1w11">
 <src.rf>manual</src.rf>
