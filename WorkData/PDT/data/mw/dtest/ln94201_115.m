@@ -882,7 +882,10 @@
 <LM>w#w-ln94201-115-p3s1w33</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-115-p3s1w34">
 <src.rf>manual</src.rf>
@@ -890,7 +893,10 @@
 <LM>w#w-ln94201-115-p3s1w34</LM>
 </w.rf>
 <form>pěti</form>
-<tag lemma="pět-1`5" src="orig" selected="1">Cn-P7----------</tag>
+<tag>
+<AM lemma="pět-1`5" src="orig">Cn-P7----------</AM>
+<AM lemma="pět-1`5" src="manual" selected="1">Cl-P7----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-115-p3s1w35">
 <src.rf>manual</src.rf>

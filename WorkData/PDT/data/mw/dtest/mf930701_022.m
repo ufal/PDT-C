@@ -183,7 +183,10 @@
 <LM>w#w-mf930701-022-p2s2w3</LM>
 </w.rf>
 <form>třicet</form>
-<tag lemma="třicet`30" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="třicet`30" src="orig">Cn-S4----------</AM>
+<AM lemma="třicet`30" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p2s2w4">
 <src.rf>manual</src.rf>
@@ -559,7 +562,10 @@
 <LM>w#w-mf930701-022-p3s1w29</LM>
 </w.rf>
 <form>Conoco</form>
-<tag lemma="Conoco_;m_,t" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Conoco_;m_,t" src="auto">NNNS1-----A----</AM>
+<AM lemma="Conoco_;m" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p3s1w30">
 <src.rf>manual</src.rf>
@@ -601,7 +607,10 @@
 <LM>w#w-mf930701-022-p3s2w1</LM>
 </w.rf>
 <form>Conoco</form>
-<tag lemma="Conoco_;m_,t" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Conoco_;m_,t" src="auto">NNNS1-----A----</AM>
+<AM lemma="Conoco_;m" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p3s2w2">
 <src.rf>manual</src.rf>
@@ -649,7 +658,10 @@
 <LM>w#w-mf930701-022-p3s2w7</LM>
 </w.rf>
 <form>sedm</form>
-<tag lemma="sedm`7" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="sedm`7" src="orig">Cn-S4----------</AM>
+<AM lemma="sedm`7" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p3s2w8">
 <src.rf>manual</src.rf>
@@ -798,7 +810,10 @@
 <LM>w#w-mf930701-022-p3s3w5</LM>
 </w.rf>
 <form>osmdesát</form>
-<tag lemma="osmdesát`80" src="orig" selected="1">Cn-S4----------</tag>
+<tag>
+<AM lemma="osmdesát`80" src="orig">Cn-S4----------</AM>
+<AM lemma="osmdesát`80" src="manual" selected="1">Cl-S4----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p3s3w6">
 <src.rf>manual</src.rf>
@@ -814,7 +829,11 @@
 <LM>w#w-mf930701-022-p3s3w7</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual">CzIS4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p3s3w8">
 <src.rf>manual</src.rf>

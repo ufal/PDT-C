@@ -385,7 +385,10 @@
 <LM>w#w-ln94201-124-p2s3w5</LM>
 </w.rf>
 <form>patnáct</form>
-<tag lemma="patnáct`15" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="patnáct`15" src="orig">Cn-S1----------</AM>
+<AM lemma="patnáct`15" src="manual" selected="1">Cl-S1----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-124-p2s3w6">
 <src.rf>manual</src.rf>
@@ -520,7 +523,10 @@
 <LM>w#w-ln94201-124-p3s2w2</LM>
 </w.rf>
 <form>pětačtyřiceti</form>
-<tag lemma="pětačtyřicet`45" src="orig" selected="1">Cn-P7----------</tag>
+<tag>
+<AM lemma="pětačtyřicet`45" src="orig">Cn-P7----------</AM>
+<AM lemma="pětačtyřicet`45" src="manual" selected="1">Cl-P7----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-124-p3s2w3">
 <src.rf>manual</src.rf>
@@ -813,7 +819,10 @@
 <LM>w#w-ln94201-124-p3s3w12</LM>
 </w.rf>
 <form>šesti</form>
-<tag lemma="šest`6" src="orig" selected="1">Cn-P2----------</tag>
+<tag>
+<AM lemma="šest`6" src="orig">Cn-P2----------</AM>
+<AM lemma="šest`6" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-124-p3s3w13">
 <src.rf>manual</src.rf>
@@ -821,7 +830,10 @@
 <LM>w#w-ln94201-124-p3s3w13</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94201-124-p3s3w14">
 <src.rf>manual</src.rf>

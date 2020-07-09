@@ -9542,7 +9542,10 @@
 <LM>w#w-vesm9303-054-p12s3w27</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-054-p12s3w28">
 <src.rf>manual</src.rf>
@@ -9692,7 +9695,8 @@
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
-<AM lemma="nalézt-2_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="nalézt-2_:W" src="manual">Vf--------A----</AM>
+<AM lemma="nalézt_^(někam;naleznout)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-vesm9303-054-p12s4w13">
@@ -11487,7 +11491,10 @@
 <LM>w#w-vesm9303-054-p14s1w33</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-054-p14s1w34">
 <src.rf>manual</src.rf>
@@ -18589,7 +18596,10 @@
 <LM>w#w-vesm9303-054-p19s1w21</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-054-p19s1w22">
 <src.rf>manual</src.rf>
@@ -18738,7 +18748,10 @@
 <LM>w#w-vesm9303-054-p19s2w3</LM>
 </w.rf>
 <form>bránil</form>
-<tag lemma="bránit_:T_^(klást_překážky)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="bránit_:T_^(klást_překážky)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="bránit" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9303-054-p19s2w4">
 <src.rf>manual</src.rf>
@@ -19031,7 +19044,10 @@
 <LM>w#w-vesm9303-054-p20s1w10</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-vesm9303-054-p20s1w11">
 <src.rf>manual</src.rf>
