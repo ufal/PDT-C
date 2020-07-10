@@ -409,7 +409,10 @@
 <LM>w#w-mf930713-042-p2s2w19</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS2----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-042-p2s2w20">
 <src.rf>manual</src.rf>
@@ -417,7 +420,10 @@
 <LM>w#w-mf930713-042-p2s2w20</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="ha-1`hektar" src="orig">NNIP2-----A----</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-042-p2s2w21">
 <src.rf>manual</src.rf>

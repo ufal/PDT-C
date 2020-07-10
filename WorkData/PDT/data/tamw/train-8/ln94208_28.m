@@ -357,7 +357,10 @@
 <LM>w#w-ln94208-28-p2s4w1</LM>
 </w.rf>
 <form>Jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClYS1----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClYS1----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">CnYS1----------</AM>
+</tag>
 </m>
 <m id="m-ln94208-28-p2s4w2">
 <src.rf>manual</src.rf>
@@ -405,7 +408,10 @@
 <LM>w#w-ln94208-28-p2s4w7</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94208-28-p2s4w8">
 <src.rf>manual</src.rf>

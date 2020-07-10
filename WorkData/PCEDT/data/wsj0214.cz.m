@@ -2588,7 +2588,8 @@
 <AM lemma="dva`2" src="auto" recommended="1">ClYP1----------</AM>
 <AM lemma="dva`2" src="auto">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
-<AM lemma="dva`2" src="manual" selected="1">CnYP1----------</AM>
+<AM lemma="dva`2" src="manual">CnYP1----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXXX----------</AM>
 </tag>
 </m>
 <m id="m-wsj0214-001-p1s10W4-Ta">

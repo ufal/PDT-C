@@ -72,7 +72,8 @@
 <tag>
 <AM lemma="sch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="sch-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sch-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="sch-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-080-p2s1w5">
@@ -542,7 +543,10 @@
 <LM>w#w-mf920925-080-p2s5w5</LM>
 </w.rf>
 <form>tisíce</form>
-<tag lemma="tisíc-2`1000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="tisíc-2`1000" src="orig">NNIS2-----A----</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIS2----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s5w6">
 <src.rf>manual</src.rf>

@@ -1331,7 +1331,11 @@
 <LM>w#w-ln94203-1-p4s1w4</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual">CzNXX----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-1-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1451,7 +1455,10 @@
 <LM>w#w-ln94203-1-p4s1w19</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-1-p4s1w20">
 <src.rf>manual</src.rf>

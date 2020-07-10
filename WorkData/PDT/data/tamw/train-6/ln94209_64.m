@@ -4173,7 +4173,10 @@
 <LM>w#w-ln94209-64-p6s3w12</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-64-p6s3w13">
 <src.rf>manual</src.rf>

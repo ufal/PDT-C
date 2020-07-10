@@ -1935,7 +1935,10 @@
 <LM>w#w-mf930709-141-p8s1w12</LM>
 </w.rf>
 <form>čtyřmi</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClXP7----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-P7----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-141-p8s1w13">
 <src.rf>manual</src.rf>
@@ -1943,7 +1946,10 @@
 <LM>w#w-mf930709-141-p8s1w13</LM>
 </w.rf>
 <form>sty</form>
-<tag lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig" selected="1">ClXP7----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(s_dvěma_sty_muži)" src="orig">ClXP7----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP7----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-141-p8s1w14">
 <src.rf>manual</src.rf>

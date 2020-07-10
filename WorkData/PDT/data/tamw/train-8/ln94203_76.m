@@ -4196,7 +4196,10 @@
 <LM>w#w-ln94203-76-p9s2w2</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP4----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP4----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP4----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-76-p9s2w3">
 <src.rf>manual</src.rf>
@@ -4204,7 +4207,10 @@
 <LM>w#w-ln94203-76-p9s2w3</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP4-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP4-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-ln94203-76-p9s2w4">
 <src.rf>manual</src.rf>
@@ -6260,7 +6266,10 @@
 <LM>w#w-ln94203-76-p12s2w2</LM>
 </w.rf>
 <form>dvou</form>
-<tag lemma="dva`2" src="orig" selected="1">ClXP6----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClXP6----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP6----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-76-p12s2w3">
 <src.rf>manual</src.rf>
@@ -6268,7 +6277,10 @@
 <LM>w#w-ln94203-76-p12s2w3</LM>
 </w.rf>
 <form>stech</form>
-<tag lemma="sto-2`100_^(o_pěti_stech_mužů)" src="orig" selected="1">NNNP6-----A----</tag>
+<tag>
+<AM lemma="sto-2`100_^(o_pěti_stech_mužů)" src="orig">NNNP6-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP6----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-76-p12s2w4">
 <src.rf>manual</src.rf>

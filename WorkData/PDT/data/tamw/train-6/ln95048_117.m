@@ -4371,7 +4371,10 @@
 <LM>w#w-ln95048-117-p7s5w7</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP1----------</AM>
+</tag>
 </m>
 <m id="m-ln95048-117-p7s5w8">
 <src.rf>manual</src.rf>
@@ -4387,7 +4390,10 @@
 <LM>w#w-ln95048-117-p7s5w9</LM>
 </w.rf>
 <form>sta</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP1----------</AM>
+</tag>
 </m>
 <m id="m-ln95048-117-p7s5w10">
 <src.rf>manual</src.rf>

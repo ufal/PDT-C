@@ -443,7 +443,10 @@
 <LM>w#w-ln94211-22-p3s1w1</LM>
 </w.rf>
 <form>Sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-ln94211-22-p3s1w2">
 <src.rf>manual</src.rf>
@@ -459,7 +462,10 @@
 <LM>w#w-ln94211-22-p3s1w3</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94211-22-p3s1w4">
 <src.rf>manual</src.rf>

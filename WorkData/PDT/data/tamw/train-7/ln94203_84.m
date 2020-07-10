@@ -660,7 +660,10 @@
 <LM>w#w-ln94203-84-p2s4w2</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-84-p2s4w3">
 <src.rf>manual</src.rf>
@@ -668,7 +671,10 @@
 <LM>w#w-ln94203-84-p2s4w3</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-84-p2s4w4">
 <src.rf>manual</src.rf>
@@ -740,7 +746,10 @@
 <LM>w#w-ln94203-84-p2s4w12</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-84-p2s4w13">
 <src.rf>manual</src.rf>
@@ -2691,7 +2700,10 @@
 <LM>w#w-ln94203-84-p5s3w3</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-84-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2707,7 +2719,10 @@
 <LM>w#w-ln94203-84-p5s3w5</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-84-p5s3w6">
 <src.rf>manual</src.rf>
@@ -3423,7 +3438,10 @@
 <LM>w#w-ln94203-84-p6s2w33</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-84-p6s2w34">
 <src.rf>manual</src.rf>

@@ -138,7 +138,8 @@
 <form>md</form>
 <tag>
 <AM lemma="md-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="md-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="md-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="md-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-050-p3s2Aw4">
@@ -157,7 +158,8 @@
 <form>spa</form>
 <tag>
 <AM lemma="spa-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="spa-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="spa-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="spa-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-050-p3s2Aw6">
@@ -927,7 +929,10 @@
 <LM>w#w-mf930709-050-p3s6w10</LM>
 </w.rf>
 <form>dvě</form>
-<tag lemma="dva`2" src="orig" selected="1">ClHP1----------</tag>
+<tag>
+<AM lemma="dva`2" src="orig">ClHP1----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnHP1----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s6w11">
 <src.rf>manual</src.rf>
@@ -935,7 +940,10 @@
 <LM>w#w-mf930709-050-p3s6w11</LM>
 </w.rf>
 <form>stě</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP1-----A---1</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP1-----A---1</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX---------2</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s6w12">
 <src.rf>manual</src.rf>

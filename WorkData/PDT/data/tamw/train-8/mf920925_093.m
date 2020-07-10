@@ -1151,7 +1151,10 @@
 <LM>w#w-mf920925-093-p5s3w15</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNXX----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-093-p5s3w16">
 <src.rf>manual</src.rf>
@@ -1159,7 +1162,10 @@
 <LM>w#w-mf920925-093-p5s3w16</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-093-p5s3w17">
 <src.rf>manual</src.rf>
@@ -1193,7 +1199,8 @@
 <form>ouřadům</form>
 <tag>
 <AM lemma="ouřada_,h" src="orig">NNMP3-----A----</AM>
-<AM lemma="ouřad_,h" src="manual" selected="1">NNIP3-----A----</AM>
+<AM lemma="ouřad_,h" src="manual">NNIP3-----A----</AM>
+<AM lemma="ouřad__,h_^(^GC**úřad)" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-093-p5s3w21">

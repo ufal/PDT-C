@@ -1405,7 +1405,8 @@
 <tag>
 <AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SSSR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual">NNXXX-----A----</AM>
+<AM lemma="SSSR_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-122-p5s2w15">
@@ -1430,7 +1431,10 @@
 <LM>w#w-mf920925-122-p5s2w17</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-122-p5s2w18">
 <src.rf>manual</src.rf>

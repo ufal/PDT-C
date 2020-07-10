@@ -7562,7 +7562,10 @@
 <LM>w#w-mf930713-002-p43s1Bw1</LM>
 </w.rf>
 <form>Sto</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNS1-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS1----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-002-p43s1Bw2">
 <src.rf>manual</src.rf>

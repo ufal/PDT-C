@@ -4727,7 +4727,10 @@
 <LM>w#w-cmpr9415-044-p21s3w9</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-044-p21s3w10">
 <src.rf>manual</src.rf>
@@ -6955,7 +6958,10 @@
 <LM>w#w-cmpr9415-044-p27s1w4</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-044-p27s1w5">
 <src.rf>manual</src.rf>
@@ -6963,7 +6969,10 @@
 <LM>w#w-cmpr9415-044-p27s1w5</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="orig">NNFP2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-044-p27s1w6">
 <src.rf>manual</src.rf>
@@ -8171,7 +8180,10 @@
 <LM>w#w-cmpr9415-044-p32s1w8</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-2" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="pár-2" src="orig">NNIS1-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-044-p32s1w9">
 <src.rf>manual</src.rf>
@@ -8179,7 +8191,10 @@
 <LM>w#w-cmpr9415-044-p32s1w9</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-044-p32s1w10">
 <src.rf>manual</src.rf>
@@ -8187,7 +8202,10 @@
 <LM>w#w-cmpr9415-044-p32s1w10</LM>
 </w.rf>
 <form>miliard</form>
-<tag lemma="miliarda`1000000000" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="miliarda`1000000000" src="orig">NNFP2-----A----</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">CzFP2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-044-p32s1w11">
 <src.rf>manual</src.rf>

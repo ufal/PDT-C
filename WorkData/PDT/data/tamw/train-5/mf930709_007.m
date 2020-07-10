@@ -1752,7 +1752,10 @@
 <LM>w#w-mf930709-007-p6s1w31</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-007-p6s1w32">
 <src.rf>manual</src.rf>
@@ -1760,7 +1763,10 @@
 <LM>w#w-mf930709-007-p6s1w32</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-007-p6s1w33">
 <src.rf>manual</src.rf>

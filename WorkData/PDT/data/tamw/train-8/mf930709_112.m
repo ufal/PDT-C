@@ -760,7 +760,10 @@
 <LM>w#w-mf930709-112-p3s3w10</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">ClXP2----------</AM>
+<AM lemma="tři`3" src="manual" selected="1">Cl-P2----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-112-p3s3w11">
 <src.rf>manual</src.rf>
@@ -768,7 +771,10 @@
 <LM>w#w-mf930709-112-p3s3w11</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="sto-2`100" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="sto-2`100" src="orig">NNNP2-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP2----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-112-p3s3w12">
 <src.rf>manual</src.rf>
@@ -776,7 +782,10 @@
 <LM>w#w-mf930709-112-p3s3w12</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="ha-1`hektar" src="orig">NNIP2-----A----</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-112-p3s3w13">
 <src.rf>manual</src.rf>
@@ -964,7 +973,10 @@
 <LM>w#w-mf930709-112-p4s2w9</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-2" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="pár-2" src="orig">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-112-p4s2w10">
 <src.rf>manual</src.rf>

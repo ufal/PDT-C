@@ -2451,7 +2451,10 @@
 <LM>w#w-ln94200-120-p6s4w3</LM>
 </w.rf>
 <form>sty</form>
-<tag lemma="sto-2`100_^(s_dvěma_sty_mužů)" src="orig" selected="1">NNNP7-----A----</tag>
+<tag>
+<AM lemma="sto-2`100_^(s_dvěma_sty_mužů)" src="orig">NNNP7-----A----</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNP7----------</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p6s4w4">
 <src.rf>manual</src.rf>

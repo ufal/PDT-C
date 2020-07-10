@@ -1559,7 +1559,8 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
-<AM lemma="sto-3`100" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="sto-3`100" src="manual">A2--------A----</AM>
+<AM lemma="sto-2`100" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-071-p3s3w22">
@@ -1586,7 +1587,9 @@
 <form>pětiset</form>
 <tag>
 <AM lemma="pětisetkoruna" src="orig">NNFP4-----A----</AM>
-<AM lemma="pětiset" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="pětiset" src="manual">A2--------A----</AM>
+<AM lemma="pětiset-2" src="manual">S2--------A----</AM>
+<AM lemma="pětiset-2`500" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-071-p3s3w25">
@@ -1993,7 +1996,9 @@
 <form>ČNB</form>
 <tag>
 <AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="ČNB_;m_^(Česká_národní_banka)" src="manual">BNFXX-----A----</AM>
+<AM lemma="ČNB_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-071-p3s5w6">
@@ -2026,7 +2031,10 @@
 <LM>w#w-mf930713-071-p3s5w9</LM>
 </w.rf>
 <form>tisíc</form>
-<tag lemma="tisíc-1`1000" src="orig" selected="1">ClXS2----------</tag>
+<tag>
+<AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p3s5w10">
 <src.rf>manual</src.rf>
@@ -2108,7 +2116,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
 </tag>
 </m>
 <m id="m-mf930713-071-p3s5w20">
