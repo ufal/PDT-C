@@ -1,0 +1,28 @@
+#!btred -N -T -e search_lemma()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my $input = '200711-zkratky.txt';
+my %lemma;
+open my $in, '<:encoding(UTF-8)', $input or die $!;
+undef $lemma{s/\n//r} for <$in>;
+
+sub search_lemma {
+    return if $this == $root;
+
+    my $tag = $this->attr('tag');
+    if (IsAlt($tag)) {
+        my @tags = AltV($tag);
+        undef $tag;
+        $tag = (grep $_->{selected}, @tags)[0];
+        $tag ||= (grep $_->{recommended}, @tags)[0];
+        die Position() unless $tag;
+    }
+
+    my $lemma = $tag->{lemma};
+    if (exists $lemma{$lemma}) {
+        print "$lemma\t";
+        FPosition();
+    }
+}
