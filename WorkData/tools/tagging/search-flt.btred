@@ -1,0 +1,46 @@
+#!btred -N -T -e search_flt()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my $input = '200711-flt.txt';
+my %search;
+open my $in, '<:encoding(UTF-8)', $input or die $!;
+while (<$in>) {
+    my ($form, $lemma, $tag, $rest) = split;
+
+    die "$.:$_" if length $rest;
+
+    ($lemma, $tag) = qw( * * ) unless length $lemma;
+    undef $search{$form}{$lemma}{$tag};
+}
+
+sub search_flt {
+    return if $this == $root;
+
+    my $form = $this->{form};
+    return unless exists $search{$form};
+
+    my $tag = $this->attr('tag');
+    if (IsAlt($tag)) {
+        my @tags = AltV($tag);
+        undef $tag;
+        $tag = (grep $_->{selected}, @tags)[0];
+        $tag ||= (grep $_->{recommended}, @tags)[0];
+        die Position() unless $tag;
+    }
+
+    my $lemma = $tag->{lemma};
+    $tag = $tag->content;
+
+    if (exists $search{$form}
+        && (exists $search{$form}{'*'}
+            && exists $search{$form}{'*'}{'*'}
+            ||
+            exists $search{$form}{$lemma}
+            && exists $search{$form}{$lemma}{$tag})
+    ) {
+        print "$lemma\t";
+        FPosition();
+    }
+}
