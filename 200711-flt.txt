@@ -47,7 +47,7 @@ Freud Freud-77 F%-------------
 Hildebrandt Hildebrandt-77 F%-------------
 Bo Bo_;Y NNMXX-----A----
 Lanzhou Lanzhou_;G NNNXX-----A----
-Kyu Kyu_;Y NNMXX-----A---
+Kyu Kyu_;Y NNMXX-----A----
 Jay Jay_;Y NNMXX-----A----
 Peter Peter-77 F%-------------
 Řehořovský Řehořovský_;Y AAMS1----1A----
@@ -63,5 +63,5 @@ Tatum Tatum_;Y NNFXX-----A----
 tří tři`3 A2--------A----
 Perot Perota_;Y NNMS1-----A----
 Katarina Katarina-77 F%-------------
-Bermuda Bermuda-77 F%
+Bermuda Bermuda-77 F%-------------
 Attila Attila-77 F%-------------
