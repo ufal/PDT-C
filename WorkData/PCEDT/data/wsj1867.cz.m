@@ -4203,8 +4203,8 @@
 <form>Europe</form>
 <tag>
 <AM lemma="Europe-1_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Europe-77" src="manual">F%-------------</AM>
-<AM lemma="Europe_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Europe-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Europe_;G" src="manual">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1867-001-p1s20W38-Ta">
@@ -6893,8 +6893,8 @@
 <form>Europe</form>
 <tag>
 <AM lemma="Europe-1_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Europe-77" src="manual">F%-------------</AM>
-<AM lemma="Europe_;G" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Europe-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Europe_;G" src="manual">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1867-001-p1s33W32-Ta">

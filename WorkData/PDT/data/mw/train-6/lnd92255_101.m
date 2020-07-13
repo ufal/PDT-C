@@ -2238,7 +2238,8 @@
 <tag>
 <AM lemma="Meredith_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Meredith_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Meredith_;Y_,t" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Meredith_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Meredith-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-101-p4s5w24">
@@ -2322,7 +2323,8 @@
 <tag>
 <AM lemma="Hemmings_;Y_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Hemmings_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hemmings_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hemmings_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Hemmings-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-101-p4s5w34">
@@ -2339,7 +2341,10 @@
 <LM>w#w-lnd92255-101-p4s5w35</LM>
 </w.rf>
 <form>Henry</form>
-<tag lemma="Henry_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Henry_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Henry_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-101-p4s5w36">
 <src.rf>manual</src.rf>

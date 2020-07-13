@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="jg_019.03.w"></reffile>
+<reffile id="w" name="wdata" href="jg_019.03.w" />
 </references>
 </head>
 <s id="m019-d1e1053-x2">
@@ -611,11 +611,11 @@
 <AM lemma="Dvorce_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Dvorce_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Dvorce_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Dvorce_;G" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="Dvorce_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Dvorec_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Dvorec_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Dvorec_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Dvorec_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="Dvorec_;G" src="auto" selected="1">NNIS6-----A----</AM>
 <AM lemma="dvorec" src="auto">NNIP7-----A----</AM>
 <AM lemma="dvorec" src="auto">NNIS3-----A----</AM>
 <AM lemma="dvorec" src="auto">NNIS5-----A----</AM>
@@ -1402,11 +1402,13 @@
 <w.rf>
 <LM>w#w-d1t1154-3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Odleva</form>
 <tag>
 <AM lemma="odleva-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="odleva-2" src="auto" recommended="1">Db-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="odleva-2" src="auto" recommended="1">Db-------------</AM>
+</tag>
+</m>
 <m id="m019-d1t1154-4">
 <w.rf>
 <LM>w#w-d1t1154-4</LM>

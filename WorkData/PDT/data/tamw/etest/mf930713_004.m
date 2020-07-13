@@ -383,8 +383,9 @@
 </w.rf>
 <form>Bět</form>
 <tag>
-<AM lemma="Bět" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bět" src="orig">NNXXX-----A----</AM>
 <AM lemma="Běta_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Bět" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s3w14">
@@ -410,9 +411,11 @@
 </w.rf>
 <form>Bet</form>
 <tag>
-<AM lemma="Bet" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bet" src="orig">NNXXX-----A----</AM>
 <AM lemma="Bet_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="beta" src="auto">NNFP2-----A----</AM>
+<AM lemma="Bet" src="manual">S2--------A----</AM>
+<AM lemma="Bet-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s3w17">

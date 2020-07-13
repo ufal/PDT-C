@@ -30120,7 +30120,9 @@
 <AM lemma="el-77_,t" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="elektrický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="El_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="El-77" src="manual">F%-------------</AM>
+<AM lemma="El-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="El-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s121W5-Ta">
@@ -30140,7 +30142,9 @@
 <AM lemma="al_;G_^(al-Aiún)" src="auto">A2--------A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFP2-----A----</AM>
 <AM lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="manual">NNMS1-----A----</AM>
-<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Al-77" src="manual">F%-------------</AM>
+<AM lemma="Al-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Al-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s121W6-Ta">
@@ -30559,7 +30563,9 @@
 <AM lemma="El_;m" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="el-77_,t" src="auto">F%-------------</AM>
 <AM lemma="elektrický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="El-77" src="manual">F%-------------</AM>
+<AM lemma="El-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="El-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s122W8-Ta">
@@ -30578,7 +30584,9 @@
 <AM lemma="al-77_,t" src="auto">F%-------------</AM>
 <AM lemma="al_;G_^(al-Aiún)" src="auto">A2--------A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Al-77" src="manual">F%-------------</AM>
+<AM lemma="Al-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Al-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s122W9-Ta">
@@ -30589,7 +30597,8 @@
 <form>Rafi</form>
 <tag>
 <AM lemma="Rafi_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Rafi_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rafi_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Rafi-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s122W10-Ta">

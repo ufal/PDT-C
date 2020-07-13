@@ -4373,7 +4373,8 @@
 <form>Chain</form>
 <tag>
 <AM lemma="Chain_;G" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Chain_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Chain_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Chain-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="jh_20-SCzechM-p2142-s1-w9">
