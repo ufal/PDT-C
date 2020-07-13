@@ -5711,7 +5711,8 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="CNN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CNN-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CNN_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2201-001-p1s25W14-Ta">
@@ -6811,7 +6812,8 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="CNN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CNN-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CNN_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2201-001-p1s29W10-Ta">

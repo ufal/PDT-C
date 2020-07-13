@@ -1985,7 +1985,8 @@
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
 <AM lemma="tj_^(to_je/jest)" src="manual">J^------------8</AM>
-<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual">J^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p5s3w15">
@@ -2029,7 +2030,8 @@
 <tag>
 <AM lemma="SEČ-1_:B_^(středoevropský_čas)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SEČ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="SEČ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SEČ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SEČ_^(středoevropský_čas)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-057-p5s3w20">

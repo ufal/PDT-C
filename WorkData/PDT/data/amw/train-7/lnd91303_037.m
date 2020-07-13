@@ -51,7 +51,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p1s1w5">
@@ -792,7 +793,8 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;m_^(Lidové_noviny)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p3s5w18">
@@ -1022,7 +1024,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p4s1w9">
@@ -1099,7 +1102,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p4s2w4">
@@ -1238,7 +1242,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p4s2w21">
@@ -1559,7 +1564,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p6s1w4">
@@ -1700,7 +1706,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p6s2w7">
@@ -1753,7 +1760,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p7s1w2">
@@ -1990,7 +1998,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p8s1w17">
@@ -3428,7 +3437,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-037-p10s1w23">

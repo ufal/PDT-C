@@ -660,7 +660,8 @@
 <form>ČLK</form>
 <tag>
 <AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČLK_;m_^(Česká_lékařská_komora)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s1w8">
@@ -1366,7 +1367,8 @@
 <tag>
 <AM lemma="ČLK_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČLK-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLK-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČLK_;m_^(Česká_lékařská_komora)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s3w20">
@@ -1393,7 +1395,8 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČNR-1_;m_^(Česká_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-026-p4s3w23">

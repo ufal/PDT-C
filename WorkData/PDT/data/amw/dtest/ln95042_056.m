@@ -1386,7 +1386,8 @@
 <form>KDU</form>
 <tag>
 <AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KDU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KDU_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-056-p3s1w23">
@@ -1405,7 +1406,9 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma=" ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-056-p3s1w25">
@@ -1424,7 +1427,8 @@
 <form>ODS</form>
 <tag>
 <AM lemma="ODS-1_:B_;m_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ODS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ODS_;m_^(Občanská_demokratická_strana)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-056-p3s1w27">
@@ -2477,7 +2481,8 @@
 <form>KDU</form>
 <tag>
 <AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KDU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KDU_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-056-p4s1w9">
@@ -2496,7 +2501,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-056-p4s1w11">

@@ -8113,7 +8113,8 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNR-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČNR_;m_^(Česká_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-089-p18s1w12">
@@ -8162,7 +8163,10 @@
 <LM>w#w-mf920901-089-p18s1w17</LM>
 </w.rf>
 <form>česko</form>
-<tag lemma="český" src="orig" selected="1">A2--------A----</tag>
+<tag>
+<AM lemma="český" src="orig">A2--------A----</AM>
+<AM lemma="česko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-089-p18s1w18">
 <src.rf>manual</src.rf>

@@ -245,7 +245,8 @@
 <form>ČNB</form>
 <tag>
 <AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNB-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČNB_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-029-p2s2w9">
@@ -464,7 +465,8 @@
 <form>ČNB</form>
 <tag>
 <AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNB-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČNB_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-029-p2s4w2">

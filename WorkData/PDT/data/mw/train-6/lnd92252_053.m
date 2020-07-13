@@ -1293,7 +1293,8 @@
 <form>KGB</form>
 <tag>
 <AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="manual">NNXXX-----A----</AM>
+<AM lemma="KGB_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-053-p1s1Dw10">
@@ -2248,9 +2249,9 @@
 <form>Markovskij</form>
 <tag>
 <AM lemma="Markovský_;Y" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Markovský_;Y" src="auto" recommended="1">NNMS1-----A---2</AM>
+<AM lemma="Markovský_;Y" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
 <AM lemma="Markovský_;Y" src="auto">NNMS5-----A---2</AM>
-<AM lemma="Markovskij_;Y_,s_^(^DD**Markovský)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Markovskij_;Y_,s_^(^DD**Markovský)" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-053-p2s1Fw3">
@@ -2329,7 +2330,8 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BBC_;m_^(British_Broadcasting_Corporation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-053-p1s1Gw4">

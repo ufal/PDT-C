@@ -823,7 +823,9 @@
 <form>L</form>
 <tag>
 <AM lemma="Labe_:B_;G" src="orig">NNNS7-----A---8</AM>
-<AM lemma="Labe_;G" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="Labe_;G" src="manual">NNNS7-----A---8</AM>
+<AM lemma="L-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s8w2">
@@ -896,7 +898,10 @@
 <LM>w#w-mf930701-126-p2s8w10</LM>
 </w.rf>
 <form>Sazka</form>
-<tag lemma="sazka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sazka" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sazka_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s8w11">
 <src.rf>manual</src.rf>
@@ -980,7 +985,8 @@
 <form>MFD</form>
 <tag>
 <AM lemma="MFD_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MFD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MFD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="MFD_;m_^(Mladá_fronta_Dnes)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s8w20">

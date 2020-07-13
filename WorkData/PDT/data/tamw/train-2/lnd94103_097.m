@@ -396,7 +396,8 @@
 <form>FOK</form>
 <tag>
 <AM lemma="FOK_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FOK-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FOK-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FOK_;m_^(Symfonický_orchestr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-097-p1s5w8">

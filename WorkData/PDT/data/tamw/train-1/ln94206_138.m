@@ -1519,7 +1519,8 @@
 <form>SSM</form>
 <tag>
 <AM lemma="SSM-1_:B_;m_^(Socialistický_svaz_mládeže)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SSM-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSM-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SSM_;m_^(Socialistický_svaz_mládeže)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-138-p3s7w6">

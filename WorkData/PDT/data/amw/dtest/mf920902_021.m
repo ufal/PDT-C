@@ -366,7 +366,8 @@
 <form>ČR</form>
 <tag>
 <AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-021-p2s1Bw14">
@@ -441,7 +442,8 @@
 <form>PSČ</form>
 <tag>
 <AM lemma="PSČ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PSČ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PSČ_^(poštovní_směrovací_číslo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-021-p2s1Bw23">

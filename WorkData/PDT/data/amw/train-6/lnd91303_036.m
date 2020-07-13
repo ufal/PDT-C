@@ -850,7 +850,8 @@
 <tag>
 <AM lemma="MHD_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="MHD_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="MHD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MHD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="MHD_^(Městská_hromadná_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-036-p2s5w21">

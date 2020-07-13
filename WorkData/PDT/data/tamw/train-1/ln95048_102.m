@@ -4840,7 +4840,8 @@
 <tag>
 <AM lemma="ONV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ONV_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ONV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ONV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ONV_;m_^(Okresní_národní_výbor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-102-p8s2w16">
@@ -5383,7 +5384,8 @@
 <tag>
 <AM lemma="ONV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ONV_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ONV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ONV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ONV_;m_^(Okresní_národní_výbor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-102-p9s1w15">
@@ -5969,7 +5971,8 @@
 <tag>
 <AM lemma="ONV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ONV_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="ONV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ONV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ONV_;m_^(Okresní_národní_výbor)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-102-p9s6w7">

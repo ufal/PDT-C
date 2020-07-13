@@ -103,7 +103,8 @@
 <form>js</form>
 <tag>
 <AM lemma="js-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="js-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="js-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="js-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-166-p2s1Aw4">

@@ -349,7 +349,8 @@
 <form>KDU</form>
 <tag>
 <AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KDU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KDU_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-073-p3s1w3">
@@ -368,7 +369,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-073-p3s1w5">
@@ -979,7 +981,8 @@
 <form>KDU</form>
 <tag>
 <AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KDU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KDU_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-073-p5s1w2">
@@ -998,7 +1001,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-073-p5s1w4">
@@ -1033,7 +1037,8 @@
 <form>NKÚ</form>
 <tag>
 <AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="NKÚ_:B_;m_^(Nár._kontrolní_úřad)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NKÚ_;m_^(Nár._kontrolní_úřad)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-073-p5s1w8">

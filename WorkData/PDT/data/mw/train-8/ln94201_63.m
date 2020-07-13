@@ -774,7 +774,8 @@
 <form>NsP</form>
 <tag>
 <AM lemma="NsP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="NsP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NsP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="NsP_^(Nemocnice_s_poliklinikou)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-63-p3s4w4">

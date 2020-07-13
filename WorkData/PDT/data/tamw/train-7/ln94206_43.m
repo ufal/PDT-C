@@ -544,7 +544,8 @@
 <tag>
 <AM lemma="RWE_:B_;m" src="orig">AAXXX----1A---8</AM>
 <AM lemma="RWE_:B_;m_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="RWE-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="RWE-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="RWE_;m_^(rheinisch_westfälische_elektrizitätswerke)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s2w24">
@@ -555,7 +556,8 @@
 <form>Entsorgung</form>
 <tag>
 <AM lemma="Entsorgung_;m_,t" src="orig">NNIS1-----A----</AM>
-<AM lemma="Entsorgung_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Entsorgung_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Entsorgung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s2w25">

@@ -413,7 +413,10 @@
 <LM>w#w-mf930709-056-p1s3w13</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="Alfa_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Alfa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-056-p1s3w14">
 <src.rf>manual</src.rf>
@@ -424,8 +427,9 @@
 <tag>
 <AM lemma="Beat_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Beata_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="beat" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="beat" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="beat" src="auto">NNIS4-----A----</AM>
+<AM lemma="Beat-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-056-p1s3w15">
@@ -462,7 +466,8 @@
 <form>AVU</form>
 <tag>
 <AM lemma="AVU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AVU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AVU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="AVU_;m_^(Akademie_výtvarných_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-056-p1s4w4">

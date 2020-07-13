@@ -564,7 +564,8 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VZP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="VZP_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-018-p3s4w6">
@@ -1003,7 +1004,8 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VZP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="VZP_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-018-p3s6w7">
@@ -1065,7 +1067,8 @@
 <form>VZP</form>
 <tag>
 <AM lemma="VZP-1_:B_;U_;m_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="VZP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VZP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="VZP_;m_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-018-p3s6w14">

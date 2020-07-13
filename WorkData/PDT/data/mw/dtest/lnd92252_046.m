@@ -688,7 +688,8 @@
 <form>MFD</form>
 <tag>
 <AM lemma="MFD_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="MFD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MFD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="MFD_;m_^(Mladá_fronta_Dnes)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-046-p4s3w24">

@@ -967,7 +967,8 @@
 <form>SELČ</form>
 <tag>
 <AM lemma="SELČ-1_:B_^(středoevropský_letní_čas)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="SELČ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SELČ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SELČ_^(středoevropský_letní_čas)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-009-p1s6w18">

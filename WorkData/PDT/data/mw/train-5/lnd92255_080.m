@@ -19754,7 +19754,8 @@
 <form>ČNR</form>
 <tag>
 <AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNR-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČNR_;m_^(Česká_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-080-p32s2w18">
@@ -19803,7 +19804,10 @@
 <LM>w#w-lnd92255-080-p32s2w23</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-lnd92255-080-p32s2w24">
 <src.rf>manual</src.rf>

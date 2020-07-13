@@ -40,7 +40,8 @@
 <form>SŠ</form>
 <tag>
 <AM lemma="SŠ-1_:B_^(střední_škola)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SŠ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SŠ_^(střední_škola)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

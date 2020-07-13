@@ -820,7 +820,8 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BBC_;m_^(British_Broadcasting_Corporation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-118-p4s3w5">

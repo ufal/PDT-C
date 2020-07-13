@@ -1940,7 +1940,8 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;m" src="orig">NNNXX-----A---8</AM>
-<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BBC_;m_^(British_Broadcasting_Corporation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-141-p2s15w9">
@@ -1997,7 +1998,10 @@
 <LM>w#w-mf920902-141-p2s15w15</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-141-p2s15w16">
 <src.rf>manual</src.rf>

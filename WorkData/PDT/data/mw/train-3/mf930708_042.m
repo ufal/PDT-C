@@ -61,7 +61,10 @@
 <LM>w#w-mf930708-042-p2s1w3</LM>
 </w.rf>
 <form>vd</form>
-<tag lemma="vd-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="vd-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vd-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-042-p2s1w4">
 <src.rf>manual</src.rf>
@@ -510,7 +513,8 @@
 <form>FOK</form>
 <tag>
 <AM lemma="FOK_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="FOK-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FOK-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FOK_;m_^(Symfonický_orchestr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-042-p2s3w16">

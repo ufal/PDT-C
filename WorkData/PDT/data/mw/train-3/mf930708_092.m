@@ -744,7 +744,8 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSA_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-092-p3s1w28">
@@ -761,7 +762,10 @@
 <LM>w#w-mf930708-092-p3s1w29</LM>
 </w.rf>
 <form>Karásek</form>
-<tag lemma="karásek" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="karásek" src="orig">NNMS1-----A----</AM>
+<AM lemma="Karásek_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-092-p3s1w30">
 <src.rf>manual</src.rf>
@@ -789,7 +793,8 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSA_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-092-p3s2w3">
@@ -1627,7 +1632,8 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930708-092-p5s1w4">

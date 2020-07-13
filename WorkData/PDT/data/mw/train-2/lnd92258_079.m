@@ -14068,7 +14068,8 @@
 <form>ZTP</form>
 <tag>
 <AM lemma="ZTP_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ZTP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ZTP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ZTP_^(zvlášť_těžce_postižený)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-079-p27s2w4">

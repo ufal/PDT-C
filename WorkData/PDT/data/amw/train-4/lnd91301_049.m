@@ -87,7 +87,8 @@
 <form>luč</form>
 <tag>
 <AM lemma="luč-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="luč-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="luč-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="luč-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-049-p2s1w4">
@@ -189,7 +190,8 @@
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-049-p3s1w11">

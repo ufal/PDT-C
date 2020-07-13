@@ -244,7 +244,8 @@
 <form>EHS</form>
 <tag>
 <AM lemma="EHS_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="EHS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EHS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EHS_;m_^(Evropské_hospodářské_společenství)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-70-p2s1Bw22">

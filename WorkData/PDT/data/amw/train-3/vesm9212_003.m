@@ -37,7 +37,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p1s1w4">
@@ -705,7 +706,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p2s5w12">
@@ -734,7 +736,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p2s6w3">
@@ -835,7 +838,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p3s1w4">
@@ -894,7 +898,8 @@
 <form>uV</form>
 <tag>
 <AM lemma="uV_:B_^(mikroVolt)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="mikroVolt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="mikroVolt" src="manual">NNIXX-----A---8</AM>
+<AM lemma="mikrovolt" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p3s1w11">
@@ -1101,7 +1106,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p4s1w4">
@@ -1250,7 +1256,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p4s2w2">
@@ -1887,7 +1894,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p4s4w16">

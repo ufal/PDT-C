@@ -590,7 +590,9 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Merode-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s2w4">
@@ -838,7 +840,8 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;m" src="auto">NNFXX-----A---8</AM>
-<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BBC_;m_^(British_Broadcasting_Corporation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s3w5">
@@ -950,7 +953,8 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s4w4">
@@ -1641,7 +1645,8 @@
 <AM lemma="USA_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual">NNXXX-----A----</AM>
+<AM lemma="USA_;m_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s2w5">
@@ -1706,7 +1711,8 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s2w12">
@@ -2076,7 +2082,8 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s5w4">
@@ -2117,7 +2124,10 @@
 <LM>w#w-ln94204-121-p4s5w8</LM>
 </w.rf>
 <form>vydá</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VB-S---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s5w9">
 <src.rf>manual</src.rf>
@@ -2249,7 +2259,8 @@
 <form>říci</form>
 <tag>
 <AM lemma="říci" src="auto">Vf--------A---1</AM>
-<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual">Vf--------A---1</AM>
+<AM lemma="říci" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s6w4">
@@ -2571,7 +2582,8 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s9w3">
@@ -2872,7 +2884,8 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s11w13">

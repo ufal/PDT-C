@@ -1596,7 +1596,11 @@
 <LM>w#w-cmpr9417-012-p6s4w21</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_^(to_je/jest)" src="manual">J^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-012-p6s4w22">
 <src.rf>manual</src.rf>
@@ -1721,7 +1725,8 @@
 <form>ČNB</form>
 <tag>
 <AM lemma="ČNB-1_:B_;m_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČNB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČNB-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČNB_;m_^(Česká_národní_banka)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-012-p6s4w37">

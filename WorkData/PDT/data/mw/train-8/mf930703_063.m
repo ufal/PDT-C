@@ -266,7 +266,8 @@
 <form>AVU</form>
 <tag>
 <AM lemma="AVU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AVU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AVU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="AVU_;m_^(Akademie_výtvarných_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-063-p3s1w7">

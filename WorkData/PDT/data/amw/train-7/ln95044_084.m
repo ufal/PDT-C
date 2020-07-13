@@ -3046,7 +3046,9 @@
 <form>SSM</form>
 <tag>
 <AM lemma="SSM-1_:B_;m_^(Socialistický_svaz_mládeže)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SSM-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SSM-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SSM-8" src="manual">BNXXX-----A----</AM>
+<AM lemma="SSM_;m_^(Socialistický_svaz_mládeže)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-084-p5s1w8">
@@ -3113,7 +3115,8 @@
 <form>KSČ</form>
 <tag>
 <AM lemma="KSČ-1_:B_;m_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KSČ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KSČ_;m_^(Komunistická_strana_Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-084-p5s1w16">

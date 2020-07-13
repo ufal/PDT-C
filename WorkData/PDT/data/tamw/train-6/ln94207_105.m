@@ -2782,7 +2782,8 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BBC_;m_^(British_Broadcasting_Corporation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-105-p3s6w13">
@@ -3760,7 +3761,8 @@
 <form>BBC</form>
 <tag>
 <AM lemma="BBC_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="BBC-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="BBC-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="BBC_;m_^(British_Broadcasting_Corporation)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-105-p3s13w10">

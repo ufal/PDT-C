@@ -2214,7 +2214,8 @@
 <form>ROH</form>
 <tag>
 <AM lemma="ROH-1_:B_;m_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ROH-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ROH-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ROH_;m_^(Revoluční_odborové_hnutí)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-097-p6s3w14">

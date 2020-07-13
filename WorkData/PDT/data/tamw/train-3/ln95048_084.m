@@ -1282,7 +1282,10 @@
 <LM>w#w-ln95048-084-p3s5w5</LM>
 </w.rf>
 <form>Horn</form>
-<tag lemma="Horn_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Horn_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Horn-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-084-p3s5w6">
 <src.rf>manual</src.rf>

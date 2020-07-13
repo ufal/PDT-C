@@ -798,7 +798,8 @@
 <form>KDU</form>
 <tag>
 <AM lemma="KDU_:B_;m_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KDU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KDU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KDU_;m_^(Křesťansko-demokratická_unie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-066-p2s4w14">
@@ -817,7 +818,8 @@
 <form>ČSL</form>
 <tag>
 <AM lemma="ČSL-1_:B_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSL_;m_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-066-p2s4w16">
@@ -1257,7 +1259,10 @@
 <LM>w#w-ln95042-066-p2s6w20</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1337,7 +1342,10 @@
 <LM>w#w-ln95042-066-p2s6w30</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s6w31">
 <src.rf>manual</src.rf>

@@ -2220,7 +2220,8 @@
 <form>SNV</form>
 <tag>
 <AM lemma="SNV_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="SNV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SNV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SNV_^(Sbor_nápravné_výchovy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-062-p4s11w6">
@@ -2253,7 +2254,10 @@
 <LM>w#w-lnd92259-062-p4s11w9</LM>
 </w.rf>
 <form>předají</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="předat-3_:W_^(někomu_něco)" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="předat" src="manual" selected="1">VB-P---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-lnd92259-062-p4s11w10">
 <src.rf>manual</src.rf>

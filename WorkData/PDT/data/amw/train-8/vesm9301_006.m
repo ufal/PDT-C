@@ -8640,7 +8640,8 @@
 <form>DNA</form>
 <tag>
 <AM lemma="DNA_:B_;U_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DNA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DNA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekulaNA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p11s2w17">
@@ -8685,7 +8686,8 @@
 <tag>
 <AM lemma="eventuální_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="eventuálně_^(*1í)" src="manual">Dg-------1A----</AM>
-<AM lemma="eventuálně_^(*1í)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="eventuálně_^(*1í)" src="manual">Dg-------1A---8</AM>
+<AM lemma="eventuálně_^(*1í)" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p11s2w22">

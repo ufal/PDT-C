@@ -940,7 +940,8 @@
 <form>Rt</form>
 <tag>
 <AM lemma="Rt_:B_;m_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Rt-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Rt-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Rt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s6w14">

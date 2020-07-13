@@ -424,7 +424,8 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CNN-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CNN_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-146-p4s1w16">

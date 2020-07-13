@@ -2954,7 +2954,8 @@
 <tag>
 <AM lemma="SPŠ_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SPŠ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="SPŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SPŠ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SPŠ_^(Střední_průmyslová_škola)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p10s1w9">

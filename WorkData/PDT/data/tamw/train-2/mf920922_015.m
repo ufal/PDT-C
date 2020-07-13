@@ -3678,7 +3678,8 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-015-p2s18w9">
@@ -3751,7 +3752,10 @@
 <LM>w#w-mf920922-015-p2s18w17</LM>
 </w.rf>
 <form>Škodovky</form>
-<tag lemma="škodovka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="škodovka" src="orig">NNFS2-----A----</AM>
+<AM lemma="Škodovka_;m" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-015-p2s18w18">
 <src.rf>manual</src.rf>
@@ -3771,7 +3775,8 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-015-p2s19w2">
@@ -4075,7 +4080,8 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-015-p2s21w14">
@@ -4126,7 +4132,8 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-015-p2s21w20">

@@ -2232,7 +2232,8 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSA_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-115-p2s12w2">

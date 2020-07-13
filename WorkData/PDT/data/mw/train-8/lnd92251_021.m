@@ -72,10 +72,11 @@
 </w.rf>
 <form>hoj</form>
 <tag>
-<AM lemma="hoj-99_:B_;Y" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="hoj-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="hoj-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-021-p3s1w4">
@@ -292,7 +293,8 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-021-p3s3w6">
@@ -357,7 +359,10 @@
 <LM>w#w-lnd92251-021-p3s3w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-021-p3s3w14">
 <src.rf>manual</src.rf>
@@ -579,7 +584,8 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-021-p3s5w7">
@@ -606,7 +612,8 @@
 <form>ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-021-p3s5w10">
@@ -658,7 +665,10 @@
 <LM>w#w-lnd92251-021-p3s5w15</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
+</tag>
 </m>
 <m id="m-lnd92251-021-p3s5w16">
 <src.rf>manual</src.rf>

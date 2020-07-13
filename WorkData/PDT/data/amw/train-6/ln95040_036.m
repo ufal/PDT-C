@@ -3696,7 +3696,8 @@
 <AM lemma="SOU_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="být" src="auto">VB-P---3P-AAI-6</AM>
 <AM lemma="sou_^(stará_francouzská_měna)" src="auto">NNNXX-----A----</AM>
-<AM lemma="SOU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SOU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="SOU_^(Střední_odborné_učiliště)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-036-p2s18Aw18">

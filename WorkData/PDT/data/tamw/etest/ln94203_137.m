@@ -302,7 +302,8 @@
 <form>AV</form>
 <tag>
 <AM lemma="AV_:B_;m_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="AV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="AV_;m_^(Akademie_věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw27">
@@ -311,7 +312,10 @@
 <LM>w#w-ln94203-137-p2s1Bw27</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR_;G_^(Česká_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -331,7 +335,9 @@
 <AM lemma="EI-3_:B_;m_^(Ekonomický_institut)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EI-1_:B_;m_,t_^(letecká_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EI-2_:B_^(expres_informace)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="EI-3_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="EI-3_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="EI-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="EI-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw30">

@@ -327,7 +327,8 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TJ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="TJ_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-110-p2s2w6">

@@ -1471,7 +1471,8 @@
 <form>KGB</form>
 <tag>
 <AM lemma="KGB_:B_;m_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="KGB-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KGB-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KGB_;m_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-081-p6s1w19">

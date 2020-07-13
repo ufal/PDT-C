@@ -95,7 +95,8 @@
 <tag>
 <AM lemma="jr_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="jr_:B" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="jr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="jr-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s1Bw4">
@@ -129,9 +130,10 @@
 </w.rf>
 <form>Penske</form>
 <tag>
-<AM lemma="Penske_;m" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Penske_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Penske_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Penske_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Penske-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s1Bw8">
@@ -140,7 +142,10 @@
 <LM>w#w-ln94209-97-p2s1Bw8</LM>
 </w.rf>
 <form>Ilmor</form>
-<tag lemma="Ilmor_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Ilmor_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ilmor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-97-p2s1Bw9">
 <src.rf>manual</src.rf>

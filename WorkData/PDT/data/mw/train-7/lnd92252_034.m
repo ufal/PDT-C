@@ -275,7 +275,8 @@
 <form>ČLR</form>
 <tag>
 <AM lemma="ČLR_:B_;G" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ČLR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČLR-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČLR_;G_^(Čínská_lidová_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-034-p3s2w25">
@@ -399,7 +400,10 @@
 <LM>w#w-lnd92252-034-p3s2w39</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_^(*4at)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92252-034-p3s2w40">
 <src.rf>manual</src.rf>
@@ -435,7 +439,8 @@
 <AM lemma="Si_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-X3----------</AM>
 <AM lemma="být" src="auto" recommended="1">VB-S---2P-AA--7</AM>
-<AM lemma="Si-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Si-77" src="manual">F%-------------</AM>
+<AM lemma="Si" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-034-p3s2w44">
@@ -453,10 +458,11 @@
 </w.rf>
 <form>anu</form>
 <tag>
-<AM lemma="an_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="an_;G" src="orig">NNIS2-----A----</AM>
 <AM lemma="anus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="anus" src="auto">NNIS3-----A----</AM>
 <AM lemma="anus" src="auto">NNIS6-----A----</AM>
+<AM lemma="an-3" src="manual" selected="1">SNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-034-p3s2w46">

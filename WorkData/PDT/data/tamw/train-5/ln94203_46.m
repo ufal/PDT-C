@@ -431,7 +431,8 @@
 <tag>
 <AM lemma="OSŽ_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OSŽ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="OSŽ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OSŽ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="OSŽ_^(Odborové_sdružení_železničářů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-46-p2s2w15">

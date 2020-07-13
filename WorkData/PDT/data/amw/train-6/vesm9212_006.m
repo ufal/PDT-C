@@ -626,7 +626,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p3s3w14">
@@ -987,7 +988,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p4s2w14">
@@ -1125,7 +1127,8 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="RNDr_^(doktor_přír._věd)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p5s1w2">
@@ -1209,7 +1212,10 @@
 <LM>w#w-vesm9212-006-p5s1w11</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-006-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1341,7 +1347,8 @@
 <form>EEG</form>
 <tag>
 <AM lemma="EEG_:B_;U" src="orig">NNNXX-----A---8</AM>
-<AM lemma="EEG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EEG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EEG_;U_^(elektroencefalograf)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p5s2w14">

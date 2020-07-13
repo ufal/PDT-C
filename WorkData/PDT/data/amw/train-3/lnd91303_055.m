@@ -81,7 +81,8 @@
 <form>AMU</form>
 <tag>
 <AM lemma="AMU_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="AMU-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AMU-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="AMU_;m_^(Akademie_múzických_umění)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-055-p3s1w4">

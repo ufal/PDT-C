@@ -667,7 +667,8 @@
 <form>PSČ</form>
 <tag>
 <AM lemma="PSČ_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="PSČ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PSČ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="PSČ_^(poštovní_směrovací_číslo)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-62-p2s3w35">

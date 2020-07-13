@@ -3234,7 +3234,8 @@
 <form>RNA</form>
 <tag>
 <AM lemma="RNA_:B_;U_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RNA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="RNA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="RNA_;U_^(molekula_RNA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p10s1w43">
@@ -3701,7 +3702,8 @@
 <form>RNA</form>
 <tag>
 <AM lemma="RNA_:B_;U_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="RNA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="RNA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="RNA_;U_^(molekula_RNA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p10s2w37">

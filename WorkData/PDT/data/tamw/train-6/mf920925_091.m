@@ -620,7 +620,9 @@
 <form>SR</form>
 <tag>
 <AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual">NNXXX-----A----</AM>
+<AM lemma="SR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p4s4w4">
@@ -1235,7 +1237,8 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual">NNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p6s2w16">
@@ -1507,7 +1510,8 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual">NNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p6s3w6">
@@ -1982,7 +1986,8 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
-<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual">J^-------------</AM>
+<AM lemma="tj_^(to_je/jest)" src="manual" selected="1">B^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s3w20">
@@ -2001,7 +2006,8 @@
 <form>CS</form>
 <tag>
 <AM lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="CS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CS-1_;G_^(mez._zkr._Československa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s3w22">
@@ -2409,7 +2415,8 @@
 <form>ČSD</form>
 <tag>
 <AM lemma="ČSD-1_:B_;m_^(Čs._státní_dráhy)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSD_;m_^(Čs._státní_dráhy)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s5w8">
@@ -2428,7 +2435,8 @@
 <form>ČSAD</form>
 <tag>
 <AM lemma="ČSAD-1_:B_;m_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSAD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSAD_;m_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s5w10">
@@ -2458,7 +2466,8 @@
 <form>apod</form>
 <tag>
 <AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
-<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual">Db-------------</AM>
+<AM lemma="apod_^(a_podobně)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s5w13">
@@ -2507,7 +2516,10 @@
 <LM>w#w-mf920925-091-p8s5w18</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag>
+<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-091-p8s5w19">
 <src.rf>manual</src.rf>
@@ -2979,7 +2991,8 @@
 <form>ČSFR</form>
 <tag>
 <AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČSFR_;G_^(Čs._federativní_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p8s8w10">
@@ -4020,7 +4033,8 @@
 <form>ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ing_^(inženýr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p9s1w2">

@@ -2664,7 +2664,8 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="JAR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p7s1w7">
@@ -2763,7 +2764,8 @@
 <form>JAR</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="JAR-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JAR-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-034-p7s1w19">

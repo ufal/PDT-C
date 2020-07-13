@@ -335,7 +335,8 @@
 <form>mj</form>
 <tag>
 <AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
-<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual">Db-------------</AM>
+<AM lemma="mj_^(mimo_jiné)" src="manual" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-7-p2s3Aw9">
@@ -370,7 +371,8 @@
 <form>ČSA</form>
 <tag>
 <AM lemma="ČSA-1_:B_;m_^(Čs./České_aerolinie)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ČSA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČSA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČSA_;m_^(Čs./České_aerolinie)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
