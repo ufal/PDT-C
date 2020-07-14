@@ -4243,9 +4243,9 @@
 </w.rf>
 <form>nauk</form>
 <tag>
-<AM lemma="nauka" src="orig">NNFP2-----A----</AM>
+<AM lemma="nauka" src="orig" selected="1">NNFP2-----A----</AM>
 <AM lemma="nauk_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="nauk-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="nauk-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-003-p8s1w21">

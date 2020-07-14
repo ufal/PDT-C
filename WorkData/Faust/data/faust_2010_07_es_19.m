@@ -6390,7 +6390,8 @@
 <form>www</form>
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="www_:B_^(World_Wide_Web)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="www_:B_^(World_Wide_Web)" src="manual">NNXXX-----A----</AM>
+<AM lemma="www_^(World_Wide_Web)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2065-s1-w5">
@@ -6424,7 +6425,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="com-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2065-s1-w9">
@@ -7243,7 +7245,8 @@
 <form>xxxxxx</form>
 <tag>
 <AM lemma="xxxxxx">X@-------------</AM>
-<AM lemma="xxxxxx" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="xxxxxx" src="manual">NNXXX-----A----</AM>
+<AM lemma="xxxxxx-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w2">
@@ -7277,7 +7280,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="com-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w6">
@@ -7311,7 +7315,8 @@
 <form>WELCOME</form>
 <tag>
 <AM lemma="WELCOME">X@-------------</AM>
-<AM lemma="WELCOME-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="WELCOME-77" src="manual">F%-------------</AM>
+<AM lemma="Welcome-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w10">
@@ -7694,7 +7699,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="com-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w48">
@@ -7725,7 +7731,8 @@
 <form>html</form>
 <tag>
 <AM lemma="HTML_:B_,t_,x_^(HyperText_Markup_language)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="html_:B_^(HyperText_Markup_language)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="html_:B_^(HyperText_Markup_language)" src="manual">NNXXX-----A----</AM>
+<AM lemma="html_^(HyperText_Markup_language)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

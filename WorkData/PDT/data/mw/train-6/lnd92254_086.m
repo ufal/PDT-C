@@ -4392,7 +4392,8 @@
 <form>pok</form>
 <tag>
 <AM lemma="pokutový_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="pok-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="pok-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="pokutový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-086-p17s2w4">

@@ -131,7 +131,10 @@
 <LM>w#w-mf930701-061-p1s1w15</LM>
 </w.rf>
 <form>Eros</form>
-<tag lemma="Eros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Eros_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="eros_,s_^(^DD**erós)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-061-p1s1w16">
 <src.rf>manual</src.rf>
@@ -149,7 +152,8 @@
 <form>exlibris</form>
 <tag>
 <AM lemma="exlibris_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="exlibris-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="exlibris-77" src="manual">F%-------------</AM>
+<AM lemma="exlibris" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 </s>

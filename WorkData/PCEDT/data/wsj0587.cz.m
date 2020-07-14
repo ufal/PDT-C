@@ -6628,7 +6628,7 @@
 </w.rf>
 <form>Ševardnadze</form>
 <tag>
-<AM lemma="Ševardnadze_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ševardnadze_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ševardnadze_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ševardnadze_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 </tag>

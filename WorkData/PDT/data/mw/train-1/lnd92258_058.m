@@ -4557,7 +4557,10 @@
 <LM>w#w-lnd92258-058-p7s5w2</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-058-p7s5w3">
 <src.rf>manual</src.rf>
@@ -7009,7 +7012,10 @@
 <LM>w#w-lnd92258-058-p11s1w16</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-058-p11s1w17">
 <src.rf>manual</src.rf>
@@ -7131,7 +7137,10 @@
 <LM>w#w-lnd92258-058-p11s2w1</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-058-p11s2w2">
 <src.rf>manual</src.rf>

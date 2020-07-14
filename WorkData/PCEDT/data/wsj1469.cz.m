@@ -15340,7 +15340,8 @@
 <tag>
 <AM lemma="Kuang_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kuang-2_;G" src="manual">NNIS1-----A----</AM>
-<AM lemma="Kuang-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Kuang-77" src="manual">F%-------------</AM>
+<AM lemma="Kuang-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1469-001-p1s59W20-Ta">
@@ -15362,7 +15363,8 @@
 <AM lemma="tung_;U_^(rostlina)" src="auto">NNIS1-----A----</AM>
 <AM lemma="tung_;U_^(rostlina)" src="auto">NNIS4-----A----</AM>
 <AM lemma="tung_;Y_^(Mao_ce_tung)" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="tung-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="tung-77" src="manual">F%-------------</AM>
+<AM lemma="tung-2" src="manual" selected="1">SNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1469-001-p1s59W22-Ta">

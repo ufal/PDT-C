@@ -4841,7 +4841,8 @@
 <AM lemma="řehořovský" src="auto">AANS1----1A---6</AM>
 <AM lemma="řehořovský" src="auto">AANS4----1A---6</AM>
 <AM lemma="řehořovský" src="auto">AANS5----1A---6</AM>
-<AM lemma="Řehořovský_;Y" src="manual" selected="1">AAMS1----1A----</AM>
+<AM lemma="Řehořovský_;Y" src="manual">AAMS1----1A----</AM>
+<AM lemma="Řehořovský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m009-d-id102744">

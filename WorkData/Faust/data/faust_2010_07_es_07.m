@@ -2669,7 +2669,8 @@
 <tag>
 <AM lemma="uefa">X@-------------</AM>
 <AM lemma="uefa-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual">NNXXX-----A----</AM>
+<AM lemma="uefa_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_07-SCzechM-p0696-s1-w6">
@@ -2686,7 +2687,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="com-77" src="manual">F%-------------</AM>
+<AM lemma="com-3_^(doména)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_07-SCzechM-p0696-s1-w8">
@@ -2823,7 +2825,11 @@
 <LM>w#w-es_07-SCzechM-p0696-s1-w20</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" recommended="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual">BNFXX-----A----</AM>
+<AM lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="es_07-SCzechM-p0696-s1-w21">
 <w.rf>

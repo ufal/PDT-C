@@ -111,7 +111,8 @@
 <form>ika</form>
 <tag>
 <AM lemma="ika-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="ika-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ika-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="ika-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-021-p1s1Bw4">
@@ -189,7 +190,8 @@
 <tag>
 <AM lemma="srdečně_^(př._pozdrav,_člověk)_(*1í)" src="auto">Dg-------1A----</AM>
 <AM lemma="srdeční_^(př._sval,_příhoda)" src="manual">A2--------A----</AM>
-<AM lemma="srdeční_^(př._sval,_příhoda)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="srdeční_^(př._sval,_příhoda)" src="manual">A2--------A----</AM>
+<AM lemma="srdečně-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-021-p1s1Cw9">

@@ -297,6 +297,7 @@
 <AM lemma="kolik" recommended="1">C?--4----------</AM>
 <AM lemma="kolika">NNFP2-----A----</AM>
 <AM lemma="kolik">C?--1----------</AM>
+<AM lemma="kolik" src="manual" selected="1">Ca--4----------</AM>
 </tag>
 </m>
 <m id="jh_03-SCzechM-p0199-s1-w16">
@@ -401,7 +402,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="com-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_03-SCzechM-p0199-s1-w27">

@@ -6542,7 +6542,8 @@
 <form>www</form>
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="www-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="www-77" src="manual">F%-------------</AM>
+<AM lemma="www_^(world_wide_web)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2065-s1-w7">
@@ -6576,7 +6577,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="com-77" src="manual">F%-------------</AM>
+<AM lemma="com-3_^(doména)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2065-s1-w11">
@@ -7366,7 +7368,10 @@
 <LM>w#w-jh_19-SCzechM-p2080-s1-w1</LM>
 </w.rf>
 <form>&lt;</form>
-<tag lemma="&amp;lt;" recommended="1">Z:-------------</tag>
+<tag>
+<AM lemma="&amp;lt;" recommended="1">Z:-------------</AM>
+<AM lemma="&lt;" src="manual" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w2">
 <w.rf>
@@ -7409,7 +7414,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="com-77" src="manual">F%-------------</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w7">
@@ -7417,7 +7423,10 @@
 <LM>w#w-jh_19-SCzechM-p2080-s1-w7</LM>
 </w.rf>
 <form>></form>
-<tag lemma="&amp;gt;" recommended="1">Z:-------------</tag>
+<tag>
+<AM lemma="&amp;gt;" recommended="1">Z:-------------</AM>
+<AM lemma=">" src="manual" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w8">
 <w.rf>
@@ -7744,7 +7753,8 @@
 <tag>
 <AM lemma="HTTP-1_:B_,t_,x_^(Hypertext_transfer_protocol)" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="http-77" src="manual">F%-------------</AM>
-<AM lemma="http-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="http-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="http_^(Hypertext_transfer_protocol)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w41">
@@ -7809,7 +7819,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="com-77" src="manual">F%-------------</AM>
+<AM lemma="com-3_^(doména)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_19-SCzechM-p2080-s1-w49">
@@ -7840,7 +7851,8 @@
 <form>html</form>
 <tag>
 <AM lemma="HTML_:B_,t_,x_^(HyperText_Markup_language)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="html-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="html-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="html_^(HyperText_Markup_language)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

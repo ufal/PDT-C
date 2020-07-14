@@ -7211,6 +7211,7 @@
 <AM lemma="Hong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hong_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hong-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hong-1" src="manual">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0283-001-p1s20W7-Ta">
@@ -7733,7 +7734,8 @@
 <AM lemma="Kongo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="konga-2_^(druh_tance)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="konga-1_^(bicí_nástroj)" src="auto">NNNP2-----A----</AM>
-<AM lemma="Kong-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Kong-77" src="manual">F%-------------</AM>
+<AM lemma="Kong_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0283-001-p1s22W9-Ta">
@@ -8159,7 +8161,10 @@
 <LM>w#w-wsj0283-001-p1s22W49</LM>
 </w.rf>
 <form>čínsko</form>
-<tag lemma="čínský" src="auto" recommended="1">A2--------A----</tag>
+<tag>
+<AM lemma="čínský" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="čínsko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-wsj0283-001-p1s22W50-Ta">
 <src.rf>tagger-a</src.rf>

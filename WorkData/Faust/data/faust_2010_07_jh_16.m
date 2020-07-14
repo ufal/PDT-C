@@ -4325,7 +4325,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="com-77" src="manual">F%-------------</AM>
+<AM lemma="com-3_^(doména)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_16-SCzechM-p1722-s1-w16">

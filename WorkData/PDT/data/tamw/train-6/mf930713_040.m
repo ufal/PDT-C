@@ -878,8 +878,8 @@
 </w.rf>
 <form>Teleshopping</form>
 <tag>
-<AM lemma="Teleshopping_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Teleshopping-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Teleshopping_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Teleshopping-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -1499,8 +1499,8 @@
 </w.rf>
 <form>Teleshopping</form>
 <tag>
-<AM lemma="Teleshopping_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Teleshopping-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Teleshopping_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Teleshopping-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -3127,7 +3127,8 @@
 <form>TENA</form>
 <tag>
 <AM lemma="Tena-1_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="TENA-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="TENA-77" src="manual">F%-------------</AM>
+<AM lemma="Tena_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-040-p81s1w3">
@@ -3137,8 +3138,8 @@
 </w.rf>
 <form>Teleshopping</form>
 <tag>
-<AM lemma="Teleshopping_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Teleshopping-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Teleshopping_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Teleshopping-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 </s>

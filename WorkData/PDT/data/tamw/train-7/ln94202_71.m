@@ -280,8 +280,8 @@
 </w.rf>
 <form>Kigali</form>
 <tag>
-<AM lemma="Kigali_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Kigali-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Kigali_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Kigali-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-71-p2s2w6">
@@ -308,7 +308,8 @@
 <form>OSN</form>
 <tag>
 <AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="OSN-1_:B_;m_^(Organizace_spojených_národů)" src="manual">NNXXX-----A----</AM>
+<AM lemma="OSN_;m_^(Organizace_spojených_národů)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-71-p2s2w9">

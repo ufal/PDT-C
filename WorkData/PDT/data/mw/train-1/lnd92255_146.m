@@ -1658,7 +1658,10 @@
 <LM>w#w-lnd92255-146-p4s6w11</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-146-p4s6w12">
 <src.rf>manual</src.rf>

@@ -4157,7 +4157,8 @@
 <form>Vivian</form>
 <tag>
 <AM lemma="Viviana_;Y" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Viviana_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Viviana_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Vivian_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p1044-s1-w14">

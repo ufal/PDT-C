@@ -3991,7 +3991,8 @@
 <form>http</form>
 <tag>
 <AM lemma="HTTP-1_:B_,t_,x_^(Hypertext_transfer_protocol)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="HTTP-1_:B_^(Hypertext_transfer_protocol)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="HTTP-1_:B_^(Hypertext_transfer_protocol)" src="manual">NNXXX-----A----</AM>
+<AM lemma="http_^(Hypertext_transfer_protocol)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0502-s1-w2">
@@ -4022,7 +4023,8 @@
 <form>www</form>
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="WWW-1_:B_^(World_Wide_Web)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WWW-1_:B_^(World_Wide_Web)" src="manual">NNXXX-----A----</AM>
+<AM lemma="www_^(world_wide_web)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0502-s1-w6">
@@ -4056,7 +4058,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="com-77" src="manual">F%-------------</AM>
+<AM lemma="com-3_^(doména)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0502-s1-w10">
@@ -4420,7 +4423,8 @@
 <AM lemma="e-33" recommended="1">Q3-------------</AM>
 <AM lemma="e-1">II-------------</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="e-33" src="manual" selected="1">Q3-------------</AM>
+<AM lemma="e-33" src="manual">Q3-------------</AM>
+<AM lemma="e-2_^(e-mail)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0503-s1-w3">

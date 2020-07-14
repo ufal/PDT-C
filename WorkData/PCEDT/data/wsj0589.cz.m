@@ -1407,10 +1407,10 @@
 </w.rf>
 <form>Elizabeth</form>
 <tag>
-<AM lemma="Elizabeth-1_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Elizabeth-1_;Y" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 <AM lemma="Elizabeth-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Elizabeth-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Elizabeth-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Elizabeth-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s5W25-Ta">
@@ -1424,7 +1424,8 @@
 <AM lemma="Arden-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Arden-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ardeny_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Arden-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Arden-77" src="manual">F%-------------</AM>
+<AM lemma="Arden-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s5W26-Ta">
@@ -10030,7 +10031,10 @@
 <LM>w#w-wsj0589-001-p1s32W8</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="jr-88_^(junior)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="jr_^(junior)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0589-001-p1s32W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11470,7 +11474,10 @@
 <LM>w#w-wsj0589-001-p1s37W10</LM>
 </w.rf>
 <form>Schering</form>
-<tag lemma="Schering_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Schering_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Schering-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0589-001-p1s37W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13921,10 +13928,10 @@
 <w.rf>
 <LM>w#w-wsj0589-001-p1s46W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>řadou</form>
-<tag>
-<AM lemma="řada_^(linka,zástup,pořadí,...)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="řada_^(linka,zástup,pořadí,...)" src="auto" recommended="1">NNFS7-----A----</tag>
+</m>
 <m id="m-wsj0589-001-p1s46W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14644,11 +14651,13 @@
 <w.rf>
 <LM>w#w-wsj0589-001-p1s49W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0589-001-p1s49W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -17566,8 +17575,8 @@
 </w.rf>
 <form>Helena</form>
 <tag>
-<AM lemma="Helena_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Helena-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Helena_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Helena-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s57W11-Ta">
@@ -17578,7 +17587,8 @@
 <form>Rubenstein</form>
 <tag>
 <AM lemma="Rubenstein_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rubenstein-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Rubenstein-77" src="manual">F%-------------</AM>
+<AM lemma="Rubenstein-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s57W12-Ta">
@@ -17686,8 +17696,8 @@
 </w.rf>
 <form>Helena</form>
 <tag>
-<AM lemma="Helena_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Helena-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Helena_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Helena-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s57W23-Ta">
@@ -17698,7 +17708,8 @@
 <form>Rubenstein</form>
 <tag>
 <AM lemma="Rubenstein_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Rubenstein-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Rubenstein-77" src="manual">F%-------------</AM>
+<AM lemma="Rubenstein-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s57W24-Ta">
@@ -17843,7 +17854,8 @@
 <form>Aziza</form>
 <tag>
 <AM lemma="Aziza_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Aziza-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Aziza-2_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Aziza_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s59W3-Ta">

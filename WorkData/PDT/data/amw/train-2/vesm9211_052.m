@@ -2584,7 +2584,8 @@
 <AM lemma="Yuga_;Y" src="orig">NNFS2-----A----</AM>
 <AM lemma="Yugo_;m" src="auto" recommended="1">NNNP7-----A----</AM>
 <AM lemma="yuga" src="manual">NNFS2-----A----</AM>
-<AM lemma="Yuga" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Yuga" src="manual">NNFS2-----A----</AM>
+<AM lemma="Yuga_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-052-p5s2w13">

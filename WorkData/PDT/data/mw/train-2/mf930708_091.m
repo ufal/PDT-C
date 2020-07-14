@@ -1481,7 +1481,8 @@
 <tag>
 <AM lemma="Hun_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="Hun-2_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Hun-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hun-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hun_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-091-p2s13w2">
@@ -1510,7 +1511,10 @@
 <LM>w#w-mf930708-091-p2s13w4</LM>
 </w.rf>
 <form>gao</form>
-<tag lemma="gao_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="gao_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="gao" src="manual" selected="1">SNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-091-p2s13w5">
 <src.rf>manual</src.rf>

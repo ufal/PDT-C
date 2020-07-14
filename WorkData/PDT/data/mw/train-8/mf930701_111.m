@@ -1828,7 +1828,8 @@
 <tag>
 <AM lemma="Sao_;G" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Sao-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Sao-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sao-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p8s3w9">
@@ -1838,8 +1839,8 @@
 </w.rf>
 <form>Paulo</form>
 <tag>
-<AM lemma="Paulo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Paulo-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Paulo_;G" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Paulo-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-111-p8s3w10">

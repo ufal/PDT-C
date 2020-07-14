@@ -302,6 +302,7 @@
 <AM lemma="Hong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hong_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hong-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hong-1" src="manual">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s0W23-Ta">
@@ -2021,7 +2022,8 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s5W16-Ta">
@@ -2038,7 +2040,10 @@
 <LM>w#w-wsj0183-001-p1s5W17</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0183-001-p1s5W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2091,7 +2096,8 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s5W23-Ta">
@@ -2108,7 +2114,10 @@
 <LM>w#w-wsj0183-001-p1s5W24</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0183-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2206,7 +2215,8 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">CzIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s5W31-Ta">
@@ -2223,7 +2233,10 @@
 <LM>w#w-wsj0183-001-p1s5W32</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USD_:B_^(U.S._dolar)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USD_^(U.S._dolar)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0183-001-p1s5W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2247,6 +2260,7 @@
 <AM lemma="Hong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hong_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hong-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hong-1" src="manual">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0183-001-p1s5W35-Ta">

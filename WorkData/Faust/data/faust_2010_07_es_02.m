@@ -7037,7 +7037,8 @@
 <form>www</form>
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="www_:B_^(World_Wide_Web)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="www_:B_^(World_Wide_Web)" src="manual">NNXXX-----A----</AM>
+<AM lemma="www_^(World_Wide_Web)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_02-SCzechM-p0194-s1-w32">
@@ -7071,7 +7072,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="com-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_02-SCzechM-p0194-s1-w36">

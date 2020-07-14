@@ -7469,7 +7469,10 @@
 <LM>w#w-cmpr9417-010-p30s1w21</LM>
 </w.rf>
 <form>krát</form>
-<tag lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" selected="1">J*-------------</tag>
+<tag>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto">J*-------------</AM>
+<AM lemma="krát-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-010-p30s1w22">
 <src.rf>manual</src.rf>

@@ -515,7 +515,8 @@
 <form>Rosa</form>
 <tag>
 <AM lemma="rosa" src="orig">NNFS1-----A----</AM>
-<AM lemma="Rosa_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rosa_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Rosa-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-053-p3s4w3">
@@ -527,7 +528,8 @@
 <tag>
 <AM lemma="María_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="María_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="María-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="María-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="María-1_;Y_,s_^(^DD**Marie)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-053-p3s4w4">

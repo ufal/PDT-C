@@ -2560,7 +2560,10 @@
 <LM>w#w-mf920923-102-p76s1w2</LM>
 </w.rf>
 <form>TENA</form>
-<tag lemma="Tena-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Tena-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Tena_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920923-102-p77s1">

@@ -2537,6 +2537,7 @@
 <AM lemma="konga-2_^(druh_tance)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="konga-1_^(bicí_nástroj)" src="auto">NNNP2-----A----</AM>
 <AM lemma="Kong-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Kong-2_;G" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2327-001-p1s8W11-Ta">

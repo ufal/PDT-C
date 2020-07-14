@@ -1055,7 +1055,8 @@
 <AM lemma="tunga" src="auto">NNFP2-----A----</AM>
 <AM lemma="tung_;U_^(rostlina)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tung_;U_^(rostlina)" src="auto">NNIS4-----A----</AM>
-<AM lemma="tung_;Y_^(Mao_ce_tung)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="tung_;Y_^(Mao_ce_tung)" src="manual">NNMS1-----A----</AM>
+<AM lemma="tung-1" src="manual" selected="1">SNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p3s2w5">

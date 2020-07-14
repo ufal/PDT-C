@@ -3912,7 +3912,10 @@
 <LM>w#w-ln94205-136-p5s5w4</LM>
 </w.rf>
 <form>řkouce</form>
-<tag lemma="říci_:T" src="orig" selected="1">VeXP------A----</tag>
+<tag>
+<AM lemma="říci_:T" src="orig">VeXP------A----</AM>
+<AM lemma="říci" src="manual" selected="1">VeXP------A-P-6</AM>
+</tag>
 </m>
 <m id="m-ln94205-136-p5s5w5">
 <src.rf>manual</src.rf>

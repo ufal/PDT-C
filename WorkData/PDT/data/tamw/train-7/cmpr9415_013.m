@@ -110,7 +110,8 @@
 <AM lemma="Istrija_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Istrija_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Istrije_;G" src="manual">NNFS1-----A----</AM>
-<AM lemma="Istrije_;G_,s_^(^DD**Istrie)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Istrije_;G_,s_^(^DD**Istrie)" src="manual">NNFS1-----A----</AM>
+<AM lemma="Istrije_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -146,8 +147,8 @@
 </w.rf>
 <form>Depandance</form>
 <tag>
-<AM lemma="depandance" src="orig">NNFS1-----A----</AM>
-<AM lemma="Depandance-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="depandance" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Depandance-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p4s1w5">
@@ -157,8 +158,8 @@
 </w.rf>
 <form>Katarina</form>
 <tag>
-<AM lemma="Katarina_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Katarina-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Katarina_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Katarina-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p4s1w6">
@@ -181,7 +182,8 @@
 <AM lemma="kat" src="auto">NNMS1-----A----</AM>
 <AM lemma="kata_,t" src="auto">NNFP2-----A----</AM>
 <AM lemma="kategorie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p4s1w8">
@@ -246,7 +248,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p5s1w5">
@@ -285,7 +288,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p6s1w3">
@@ -390,7 +394,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč_^(koruna_česká)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p8s1w8">
@@ -483,8 +488,8 @@
 <form_change>spell</form_change>
 <form>Depandance</form>
 <tag>
-<AM lemma="depandance" src="orig">NNFS1-----A----</AM>
-<AM lemma="Depandance-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="depandance" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Depandance-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p9s1w4">
@@ -494,8 +499,8 @@
 </w.rf>
 <form>Katarina</form>
 <tag>
-<AM lemma="Katarina_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Katarina-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Katarina_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Katarina-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p9s1w5">
@@ -798,7 +803,8 @@
 <form>snack</form>
 <tag>
 <AM lemma="snack_,h" src="orig">NNIS1-----A----</AM>
-<AM lemma="snack-1" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="snack-1" src="manual">AAXXX----1A----</AM>
+<AM lemma="snack-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p9s3w11">
@@ -1196,7 +1202,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-013-p9s8w8">

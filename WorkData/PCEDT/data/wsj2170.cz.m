@@ -1890,7 +1890,8 @@
 <tag>
 <AM lemma="Berlín_;G_,x" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Berlín_;G_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="Berlin_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Berlin_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Berlin-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2170-001-p1s6W37-Ta">

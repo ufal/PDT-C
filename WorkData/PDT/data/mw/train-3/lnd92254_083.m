@@ -732,7 +732,8 @@
 <form>Sulka</form>
 <tag>
 <AM lemma="sulka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sulka_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sulka_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Sulka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s15w2">

@@ -9329,7 +9329,8 @@
 <form>Times</form>
 <tag>
 <AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Times_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Times_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Times_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0114-001-p1s34W25-Ta">

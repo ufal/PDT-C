@@ -6773,7 +6773,8 @@
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="www_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="www_:B_^(World_Wide_Web)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="www_:B_^(World_Wide_Web)" src="manual">NNXXX-----A----</AM>
+<AM lemma="www_^(World_Wide_Web)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_02-SCzechM-p0194-s1-w28">
@@ -6808,7 +6809,8 @@
 <tag>
 <AM lemma="com">X@-------------</AM>
 <AM lemma="com" src="manual">NNXXX-----A----</AM>
-<AM lemma="com-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="com-77" src="manual">F%-------------</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_02-SCzechM-p0194-s1-w32">

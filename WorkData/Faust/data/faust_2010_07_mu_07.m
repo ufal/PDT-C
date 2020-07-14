@@ -3010,7 +3010,8 @@
 <form>uefa</form>
 <tag>
 <AM lemma="uefa">X@-------------</AM>
-<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="UEFA-1_:B_;m_^(Evr._fotbalová_federace)" src="manual">NNXXX-----A----</AM>
+<AM lemma="uefa_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_07-SCzechM-p0696-s1-w7">
@@ -3027,7 +3028,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="com-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_07-SCzechM-p0696-s1-w9">

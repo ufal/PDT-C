@@ -35,7 +35,10 @@
 <LM>w#w-lnd92251-112-p1s1w3</LM>
 </w.rf>
 <form>námi</form>
-<tag lemma="já" src="orig" selected="1">PP-P7--1-------</tag>
+<tag>
+<AM lemma="já" src="orig">PP-P7--1-------</AM>
+<AM lemma="my" src="manual" selected="1">PP-P7--1-------</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92251-112-p2s1">
@@ -605,7 +608,10 @@
 <LM>w#w-lnd92251-112-p2s4w6</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---a</AM>
+</tag>
 </m>
 <m id="m-lnd92251-112-p2s4w7">
 <src.rf>manual</src.rf>
@@ -800,7 +806,8 @@
 <form>Lučina</form>
 <tag>
 <AM lemma="lučina" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lučina_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lučina_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Lučina_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-112-p2s5w22">
@@ -936,9 +943,10 @@
 </w.rf>
 <form>Tafta</form>
 <tag>
-<AM lemma="Tafta_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tafta_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Taft-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Taft-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Tafta_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-112-p2s5w37">
@@ -1053,7 +1061,8 @@
 <AM lemma="Bounty-1_;m_^(jméno_lodě)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Bounty-2_;Y" src="manual">NNFXX-----A----</AM>
 <AM lemma="Bounty-1_;Y_;m_^(čokol._tyčinka_loď_kůň)" src="manual">NNXXX-----A----</AM>
-<AM lemma="Bounty-1_;Y_;m_^(čokol._tyčinka_loď_kůň)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Bounty-1_;Y_;m_^(čokol._tyčinka_loď_kůň)" src="manual">NNFXX-----A----</AM>
+<AM lemma="Bounty_;Y_;m_^(čokol._tyčinka_loď_kůň)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-112-p2s5w50">

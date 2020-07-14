@@ -2277,7 +2277,10 @@
 <LM>w#w-ln94208-128-p4s6w10</LM>
 </w.rf>
 <form>Pietro</form>
-<tag lemma="Pietro_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pietro_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pietro_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-128-p4s6w11">
 <src.rf>manual</src.rf>
@@ -2349,7 +2352,10 @@
 <LM>w#w-ln94208-128-p4s6w19</LM>
 </w.rf>
 <form>Fiorentiny</form>
-<tag lemma="Fiorentina_;m_,t" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Fiorentina_;m_,t" src="auto">NNFS2-----A----</AM>
+<AM lemma="Fiorentina_;m" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-128-p4s6w20">
 <src.rf>manual</src.rf>
@@ -2457,10 +2463,11 @@
 </w.rf>
 <form>Floriany</form>
 <tag>
-<AM lemma="Floriana_;m" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Floriana_;m" src="orig">NNFS2-----A----</AM>
 <AM lemma="Florian_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Florian_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Floriano_;G" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="Floriana_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-128-p4s7w13">

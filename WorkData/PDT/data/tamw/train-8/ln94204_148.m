@@ -423,7 +423,8 @@
 <tag>
 <AM lemma="Jethro_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Jethro_;m_^(Jethro_Tull)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Jethro_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jethro_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Jethro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-148-p2s3w10">
@@ -432,7 +433,10 @@
 <LM>w#w-ln94204-148-p2s3w10</LM>
 </w.rf>
 <form>Tull</form>
-<tag lemma="Tull_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tull_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tull-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-148-p2s3w11">
 <src.rf>manual</src.rf>
@@ -829,7 +833,8 @@
 <form>gb</form>
 <tag>
 <AM lemma="gb-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
-<AM lemma="gb-99_:B_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="gb-99_:B_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="gb-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-148-p2s6w3">

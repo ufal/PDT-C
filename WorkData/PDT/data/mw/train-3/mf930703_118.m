@@ -2641,7 +2641,8 @@
 <form>TENA</form>
 <tag>
 <AM lemma="Tena-1_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="TENA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TENA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Tena_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-118-p5s3w30">
@@ -6918,7 +6919,8 @@
 <form>TENA</form>
 <tag>
 <AM lemma="Tena-1_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="TENA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TENA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Tena_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-118-p13s4w88">
@@ -17398,7 +17400,8 @@
 <form>TENA</form>
 <tag>
 <AM lemma="Tena-1_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="TENA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="TENA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Tena_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-118-p30s2w54">

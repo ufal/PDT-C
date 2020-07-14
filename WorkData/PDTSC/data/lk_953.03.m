@@ -350,8 +350,8 @@
 <form>dělostřelák</form>
 <tag>
 <AM lemma="dělostřelák" src="auto">X@-------------</AM>
-<AM lemma="dělostřelák_,h" src="manual">NNMS1-----A----</AM>
-<AM lemma="dělostřelák_,h" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="dělostřelák_,h" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="dělostřelák_,h" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m953-d1t1355-7">
@@ -360,8 +360,8 @@
 </w.rf>
 <form>pátrač</form>
 <tag>
-<AM lemma="pátrač" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="pátrač" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="pátrač" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="pátrač" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m953-d-id91765">

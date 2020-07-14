@@ -2010,7 +2010,8 @@
 <form>TENA</form>
 <tag>
 <AM lemma="Tena-1_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="Tena-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tena-1_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Tena_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p4s3w29">
@@ -5082,7 +5083,10 @@
 <LM>w#w-mf930703-120-p10s4w86</LM>
 </w.rf>
 <form>TENA</form>
-<tag lemma="Tena-1_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Tena-1_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Tena_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-120-p10s4w87">
 <src.rf>manual</src.rf>

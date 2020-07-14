@@ -1762,8 +1762,9 @@
 </w.rf>
 <form>tří</form>
 <tag>
-<AM lemma="tři`3" src="orig" selected="1">A2--------A----</AM>
+<AM lemma="tři`3" src="orig">A2--------A----</AM>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="tří`3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-70-p5s2w17">

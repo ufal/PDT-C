@@ -1454,6 +1454,7 @@
 <AM lemma="Norton_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1877-001-p1s6W11-Ta">
@@ -1548,9 +1549,10 @@
 </w.rf>
 <form>Norton</form>
 <tag>
-<AM lemma="Norton_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Norton_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1877-001-p1s7W3-Ta">

@@ -448,7 +448,8 @@
 <form>Lanzhou</form>
 <tag>
 <AM lemma="Lanzhou_;U_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Lanzhou_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lanzhou_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lanzhou_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0683-001-p1s1W14-Ta">
@@ -3316,19 +3317,21 @@
 <LM>w#w-wsj0683-001-p1s7W38</LM>
 </w.rf>
 <form>50</form>
-<tag>
-<AM lemma="50" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0683-001-p1s7W38-Ta-sw1">
+<tag lemma="50" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0683-001-p1s7W38-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0683-001-p1s7W38</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letém</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS6----1A----</AM>
 <AM lemma="letý" src="auto">AAMS6----1A----</AM>
-<AM lemma="letý" src="auto" recommended="1">AANS6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0683-001-p1s7W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

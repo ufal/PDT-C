@@ -1765,7 +1765,8 @@
 <tag>
 <AM lemma="Tádž_;m" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tádž_;m">NNIS4-----A----</AM>
-<AM lemma="Tádž_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tádž_;G_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Tádž-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1239-s1-w10">
@@ -1776,6 +1777,7 @@
 <tag>
 <AM lemma="Mahál_;G" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mahál_;G">NNIS4-----A----</AM>
+<AM lemma="Mahál_;G_,s_^(^DD**Mahal-1)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1239-s1-w11">
@@ -1942,7 +1944,8 @@
 <form>Picchu</form>
 <tag>
 <AM lemma="Picchu_;G_,t_^(šoučást_názvu_Macchu_Picchu)" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Picchu_;G_^(šoučást_názvu_Macchu_Picchu)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Picchu_;G_^(šoučást_názvu_Macchu_Picchu)" src="manual">NNFXX-----A----</AM>
+<AM lemma="Picchu-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1239-s1-w28">
@@ -2206,7 +2209,8 @@
 <tag>
 <AM lemma="Siena_;G" recommended="1">NNFP2-----A----</AM>
 <AM lemma="siena_^(barvivo)">NNFP2-----A----</AM>
-<AM lemma="Sien_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sien_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sien_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1239-s1-w58">
@@ -2343,7 +2347,8 @@
 <form>Sankt</form>
 <tag>
 <AM lemma="Sankt_;G_,t_^(jako_součást_názvu)" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Sankt_;G_^(jako_součást_názvu)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Sankt_;G_^(jako_součást_názvu)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Sankt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1239-s1-w73">

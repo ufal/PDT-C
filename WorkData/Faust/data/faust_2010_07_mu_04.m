@@ -3882,7 +3882,8 @@
 <form>www</form>
 <tag>
 <AM lemma="WWW-1_:B_,t_,x_^(World_Wide_Web)" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="www-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="www-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="www_^(world_wide_web)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0369-s1-w3">
@@ -3900,7 +3901,8 @@
 <tag>
 <AM lemma="Facebook_,h_^(sociální_síť)" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Facebook_,h_^(sociální_síť)">NNIS4-----A----</AM>
-<AM lemma="facebook-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="facebook-77" src="manual">F%-------------</AM>
+<AM lemma="facebook_^(sociální_síť)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0369-s1-w5">
@@ -3917,7 +3919,8 @@
 <form>com</form>
 <tag>
 <AM lemma="com">X@-------------</AM>
-<AM lemma="com-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="com-77" src="manual">F%-------------</AM>
+<AM lemma="com-3" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0369-s1-w7">

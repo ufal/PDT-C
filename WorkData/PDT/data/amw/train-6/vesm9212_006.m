@@ -338,7 +338,8 @@
 <form>fuzzy</form>
 <tag>
 <AM lemma="fuzzy_,t_^(fuzzy_set:_mlhavá_množina)" src="orig">AAXXX----1A----</AM>
-<AM lemma="fuzzy-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="fuzzy-77" src="manual">F%-------------</AM>
+<AM lemma="fuzzy_^(fuzzy_set:_mlhavá_množina)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p2s3w16">
@@ -485,7 +486,9 @@
 <form>MFF</form>
 <tag>
 <AM lemma="MFF-1_:B_;m_^(Matematicko-fyzikální_fakulta)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="MFF-1_:B_;m_^(Matematicko-fyzikální_fakulta)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="MFF-1_:B_;m_^(Matematicko-fyzikální_fakulta)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MFF-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="MFF-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-006-p3s1w16">
@@ -494,7 +497,10 @@
 <LM>w#w-vesm9212-006-p3s1w16</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;m_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-006-p3s1w17">
 <src.rf>manual</src.rf>

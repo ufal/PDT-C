@@ -256,10 +256,10 @@
 <w.rf>
 <LM>w#w-wsj1849-001-p1s0W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vykládat</form>
-<tag>
-<AM lemma="vykládat" src="auto" recommended="1">Vf--------A-I--</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="vykládat" src="auto" recommended="1">Vf--------A-I--</tag>
+</m>
 <m id="m-wsj1849-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14003,7 +14003,8 @@
 <form>Times</form>
 <tag>
 <AM lemma="Times-1_;m_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Times_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Times_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Times_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1849-001-p1s50W13-Ta">

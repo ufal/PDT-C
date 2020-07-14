@@ -232,7 +232,10 @@
 <LM>w#w-lnd92253-041-p2s1w25</LM>
 </w.rf>
 <form>Vysokých</form>
-<tag lemma="Vysoký-1_;m" src="orig" selected="1">AAFP6----1A----</tag>
+<tag>
+<AM lemma="Vysoký-1_;m" src="orig">AAFP6----1A----</AM>
+<AM lemma="vysoký" src="manual" selected="1">AAFP6----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-041-p2s1w26">
 <src.rf>manual</src.rf>

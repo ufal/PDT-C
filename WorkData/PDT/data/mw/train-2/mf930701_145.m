@@ -29,7 +29,10 @@
 <LM>w#w-mf930701-145-p2s1w1</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;m_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;m_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_;m_^(Česká_televize)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-145-p2s1w2">
 <src.rf>manual</src.rf>
@@ -282,7 +285,8 @@
 <form>hud</form>
 <tag>
 <AM lemma="hudební_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="hud-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="hud-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="hudební" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-145-p9s1w6">

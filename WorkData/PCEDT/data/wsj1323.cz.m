@@ -7672,8 +7672,8 @@
 </w.rf>
 <form>Tivoli</form>
 <tag>
-<AM lemma="Tivoli_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Tivoli-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tivoli_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Tivoli-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1323-001-p1s40W3-Ta">
@@ -7685,7 +7685,8 @@
 <tag>
 <AM lemma="motel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Motel-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Motel-77" src="manual">F%-------------</AM>
+<AM lemma="motel" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1323-001-p1s40W4-Ta">

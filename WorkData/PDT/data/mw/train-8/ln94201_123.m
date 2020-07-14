@@ -312,7 +312,8 @@
 <form>Sekera</form>
 <tag>
 <AM lemma="sekera" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sekera_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p2s2w12">
@@ -928,7 +929,8 @@
 <form>Sekera</form>
 <tag>
 <AM lemma="sekera" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sekera_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p3s4w19">
@@ -1357,7 +1359,8 @@
 <form>Sekera</form>
 <tag>
 <AM lemma="sekera" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sekera_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p4s3w17">
@@ -2018,7 +2021,8 @@
 <form>Sekera</form>
 <tag>
 <AM lemma="sekera" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sekera_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p5s4w14">
@@ -2643,7 +2647,8 @@
 <form>Sekera</form>
 <tag>
 <AM lemma="sekera" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sekera_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Sekera_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p6s4w14">

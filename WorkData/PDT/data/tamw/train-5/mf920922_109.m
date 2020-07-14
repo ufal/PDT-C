@@ -1318,7 +1318,10 @@
 <LM>w#w-mf920922-109-p68s1w2</LM>
 </w.rf>
 <form>TENA</form>
-<tag lemma="Tena-2_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Tena-2_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Tena_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920922-109-p70s1">

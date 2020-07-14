@@ -894,7 +894,8 @@
 <tag>
 <AM lemma="USA_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="USA_:B_;m_,t_^(United_States_of_America)" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="USA_:B_;m_^(United_States_of_America)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="USA_;G_^(United_States_of_America)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-011-p5s2w9">
@@ -940,7 +941,8 @@
 <form>CNN</form>
 <tag>
 <AM lemma="CNN-1_:B_;m_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="CNN-1_:B_;m_^(Cable_News_Network,_USA_TV)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="CNN_;m_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-011-p5s2w14">
@@ -1844,7 +1846,10 @@
 <LM>w#w-lnd92259-011-p5s5w17</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-011-p5s5w18">
 <src.rf>manual</src.rf>
@@ -4815,7 +4820,10 @@
 <LM>w#w-lnd92259-011-p8s9w10</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-011-p8s9w11">
 <src.rf>manual</src.rf>
@@ -5821,7 +5829,10 @@
 <LM>w#w-lnd92259-011-p9s4w1</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-011-p9s4w2">
 <src.rf>manual</src.rf>

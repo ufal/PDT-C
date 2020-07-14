@@ -1840,7 +1840,8 @@
 <tag>
 <AM lemma="Tádž_;m" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tádž_;m">NNIS4-----A----</AM>
-<AM lemma="Tádž_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tádž_;G_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Tádž-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="jh_12-SCzechM-p1239-s1-w10">
@@ -1851,6 +1852,7 @@
 <tag>
 <AM lemma="Mahál_;G" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mahál_;G">NNIS4-----A----</AM>
+<AM lemma="Mahál_;G_,s_^(^DD**Mahal-1)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="jh_12-SCzechM-p1239-s1-w11">
@@ -2004,7 +2006,8 @@
 <form>Picchu</form>
 <tag>
 <AM lemma="Picchu_;G_,t_^(šoučást_názvu_Macchu_Picchu)" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Picchu_;G_^(šoučást_názvu_Macchu_Picchu)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Picchu_;G_^(šoučást_názvu_Macchu_Picchu)" src="manual">NNFXX-----A----</AM>
+<AM lemma="Picchu-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="jh_12-SCzechM-p1239-s1-w28">
